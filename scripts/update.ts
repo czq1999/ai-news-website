@@ -66,6 +66,11 @@ function parseExistingArticles(raw: unknown): Article[] {
   if (!Array.isArray(raw)) {
     throw new Error('articles.json must be a JSON array');
   }
+  for (const item of raw) {
+    if (typeof item !== 'object' || item === null || typeof (item as Record<string, unknown>).id !== 'string') {
+      throw new Error('articles.json contains invalid article: missing or non-string id field');
+    }
+  }
   return raw as Article[];
 }
 
@@ -108,6 +113,11 @@ async function main() {
   console.log('\nTranslating...');
   const translated = translateArticles(newRaw);
   console.log(`  Translated: ${translated.length}/${newRaw.length}`);
+
+  if (translated.length === 0) {
+    console.error('Translation failed: no articles were translated. Exiting.');
+    process.exit(1);
+  }
 
   // Step 3: Merge
   console.log('\nMerging...');
