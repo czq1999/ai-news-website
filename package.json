@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "update": "ts-node --project tsconfig.json -r tsconfig-paths/register scripts/update.ts"
   },
   "dependencies": {
     "next": "14.2.35",
@@ -31,6 +32,7 @@
     "tailwindcss": "^3.4.1",
     "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
     "typescript": "^5"
   }
 }
