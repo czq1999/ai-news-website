@@ -1,13 +1,32 @@
 // scripts/fetch.ts
 import { createHash } from 'crypto';
+import os from 'os';
+import path from 'path';
 import Parser from 'rss-parser';
 import type { RawArticle } from '@/types/article';
+
+interface RssItem {
+  title?: string;
+  link?: string;
+  isoDate?: string;
+}
+
+interface NewsApiArticle {
+  url?: string;
+  title?: string;
+  source?: { name?: string };
+  publishedAt?: string;
+}
+
+interface NewsApiResponse {
+  articles?: NewsApiArticle[];
+}
 
 export function buildArticleId(url: string): string {
   return createHash('md5').update(url).digest('hex');
 }
 
-export function parseRssItem(item: any, sourceName: string): RawArticle | null {
+export function parseRssItem(item: RssItem, sourceName: string): RawArticle | null {
   if (!item.link) return null;
   return {
     id: buildArticleId(item.link),
@@ -42,18 +61,18 @@ export async function fetchNewsApi(
   pageSize: number,
   apiKey: string
 ): Promise<RawArticle[]> {
-  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&language=${language}&pageSize=${pageSize}&sortBy=publishedAt&apiKey=${apiKey}`;
+  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&language=${encodeURIComponent(language)}&pageSize=${pageSize}&sortBy=publishedAt&apiKey=${apiKey}`;
   try {
     const res = await fetch(url);
     if (!res.ok) throw new Error(`NewsAPI responded ${res.status}`);
-    const data = await res.json();
+    const data = await res.json() as NewsApiResponse;
     return (data.articles || [])
-      .filter((a: any) => a.url && a.title)
-      .map((a: any) => ({
-        id: buildArticleId(a.url),
-        title_en: a.title,
+      .filter((a: NewsApiArticle) => a.url && a.title)
+      .map((a: NewsApiArticle) => ({
+        id: buildArticleId(a.url!),
+        title_en: a.title!,
         source: a.source?.name || 'NewsAPI',
-        url: a.url,
+        url: a.url!,
         published_at: a.publishedAt || new Date().toISOString(),
         fetched_at: new Date().toISOString(),
       }));
@@ -84,7 +103,8 @@ if (require.main === module) {
       console.log(`  NewsAPI: ${newsApiArticles.length} articles`);
     }
 
-    fs.writeFileSync('/tmp/raw-articles.json', JSON.stringify(allRaw, null, 2));
-    console.log(`Total raw: ${allRaw.length}`);
+    const outputPath = process.argv[2] || path.join(os.tmpdir(), 'raw-articles.json');
+    fs.writeFileSync(outputPath, JSON.stringify(allRaw, null, 2));
+    console.log(`Total raw: ${allRaw.length}, written to ${outputPath}`);
   })();
 }
