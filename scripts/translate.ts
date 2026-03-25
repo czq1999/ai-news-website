@@ -1,5 +1,4 @@
 // scripts/translate.ts
-import { execFileSync } from 'child_process';
 import { readFileSync, writeFileSync } from 'fs';
 import os from 'os';
 import path from 'path';
@@ -9,7 +8,15 @@ interface TranslationResult {
   id: string;
   title_zh: string;
   summary_zh: string;
-  category: Category; // 复用已有类型
+  category: Category;
+}
+
+interface DeepSeekResponse {
+  choices: Array<{
+    message: {
+      content: string;
+    };
+  }>;
 }
 
 export function buildTranslationPrompt(articles: RawArticle[]): string {
@@ -27,30 +34,51 @@ Articles:
 ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title_en, source: a.source })), null, 2)}`;
 }
 
-export function translateArticles(rawArticles: RawArticle[]): Article[] {
+export async function translateArticles(rawArticles: RawArticle[]): Promise<Article[]> {
   if (rawArticles.length === 0) return [];
+
+  const apiKey = process.env.DEEPSEEK_API_KEY;
+  if (!apiKey) {
+    console.error('DEEPSEEK_API_KEY not set');
+    return [];
+  }
 
   const prompt = buildTranslationPrompt(rawArticles);
   let output = '';
 
   try {
-    output = execFileSync('claude', ['-p', prompt], {
-      encoding: 'utf8',
-      timeout: 120_000, // 2 minutes
-      env: { ...process.env },
+    const response = await fetch('https://api.deepseek.com/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model: 'deepseek-chat',
+        messages: [{ role: 'user', content: prompt }],
+        temperature: 0.3,
+      }),
     });
+
+    if (!response.ok) {
+      const errText = await response.text();
+      throw new Error(`DeepSeek API error: ${response.status} ${response.statusText} - ${errText}`);
+    }
+
+    const data = await response.json() as DeepSeekResponse;
+    output = data.choices[0].message.content;
   } catch (err) {
-    console.error('claude CLI failed:', err);
+    console.error('DeepSeek API failed:', err);
     return [];
   }
 
   let translations: TranslationResult[];
   try {
-    // Extract JSON array from output (claude may include extra text)
+    // Extract JSON array from output (model may include extra text)
     const jsonMatch = output.match(/\[[\s\S]*\]/);
     if (!jsonMatch) throw new Error('No JSON array found in output');
     const raw: unknown = JSON.parse(jsonMatch[0]);
-    if (!Array.isArray(raw)) throw new Error('Expected JSON array from claude output');
+    if (!Array.isArray(raw)) throw new Error('Expected JSON array from model output');
     translations = raw as TranslationResult[];
   } catch (err) {
     console.error('Failed to parse translation output:', err);
@@ -82,19 +110,21 @@ export function translateArticles(rawArticles: RawArticle[]): Article[] {
 
 // Entry point when run directly
 if (require.main === module) {
-  try {
-    const inputPath = process.argv[2] || path.join(os.tmpdir(), 'raw-articles.json');
-    const outputPath = process.argv[3] || path.join(os.tmpdir(), 'translated-articles.json');
-    const rawArticles: RawArticle[] = JSON.parse(readFileSync(inputPath, 'utf8'));
-    console.log(`Translating ${rawArticles.length} articles...`);
-    const translated = translateArticles(rawArticles);
-    writeFileSync(outputPath, JSON.stringify(translated, null, 2));
-    console.log(`Translated: ${translated.length}, written to ${outputPath}`);
-    if (translated.length < rawArticles.length) {
-      console.warn(`Warning: ${rawArticles.length - translated.length} articles failed to translate`);
+  (async () => {
+    try {
+      const inputPath = process.argv[2] || path.join(os.tmpdir(), 'raw-articles.json');
+      const outputPath = process.argv[3] || path.join(os.tmpdir(), 'translated-articles.json');
+      const rawArticles: RawArticle[] = JSON.parse(readFileSync(inputPath, 'utf8'));
+      console.log(`Translating ${rawArticles.length} articles...`);
+      const translated = await translateArticles(rawArticles);
+      writeFileSync(outputPath, JSON.stringify(translated, null, 2));
+      console.log(`Translated: ${translated.length}, written to ${outputPath}`);
+      if (translated.length < rawArticles.length) {
+        console.warn(`Warning: ${rawArticles.length - translated.length} articles failed to translate`);
+      }
+    } catch (err) {
+      console.error('Fatal error:', err);
+      process.exit(1);
     }
-  } catch (err) {
-    console.error('Fatal error:', err);
-    process.exit(1);
-  }
+  })();
 }

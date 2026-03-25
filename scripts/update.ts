@@ -111,7 +111,7 @@ async function main() {
 
   // Step 2: Translate
   console.log('\nTranslating...');
-  const translated = translateArticles(newRaw);
+  const translated = await translateArticles(newRaw);
   console.log(`  Translated: ${translated.length}/${newRaw.length}`);
 
   if (translated.length === 0) {
