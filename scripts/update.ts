@@ -126,6 +126,7 @@ async function main() {
   console.log(`  Total articles: ${merged.length}`);
 
   console.log('\nDone!');
+  process.exit(0);
 }
 
 main().catch(err => {
