@@ -35,7 +35,7 @@ export const getStaticPaths: GetStaticPaths = async () => ({
 });
 
 export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
-  const slug = params!.slug as Category;
+  const slug = params!.slug as string as Category;
   const cat = CATEGORIES.find(c => c.slug === slug);
   return {
     props: {
