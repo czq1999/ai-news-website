@@ -9,7 +9,7 @@
     "lint": "next lint",
     "test": "jest",
     "test:watch": "jest --watch",
-    "update": "ts-node --project tsconfig.json -r tsconfig-paths/register scripts/update.ts"
+    "update": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/update.ts"
   },
   "dependencies": {
     "next": "14.2.35",
