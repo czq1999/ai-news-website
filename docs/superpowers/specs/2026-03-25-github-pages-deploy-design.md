@@ -37,28 +37,50 @@ basePath: '/ai-news-website',
 
 ### 2. `.github/workflows/fetch-and-translate.yml`
 
-在现有 workflow 末尾追加步骤（仅在有新文章时执行，无新文章时 `update` 脚本以 `process.exit(0)` 提前退出，构建步骤不会运行）：
+在现有 workflow 的同一 job 内，"Commit and push if changed" 步骤之后追加以下步骤。`upload-pages-artifact` 和 `deploy-pages` 必须在同一 job 中运行。
+
+**跳过机制：** 在 "Commit and push if changed" 步骤中，通过 `git diff --staged --quiet` 判断是否有变化，将结果写入 step output（`articles_changed=true/false`），后续构建和部署步骤用 `if: steps.<id>.outputs.articles_changed == 'true'` 条件控制，无新文章时跳过。
 
 ```yaml
+- name: Commit and push if changed
+  id: commit
+  run: |
+    git config user.name "AI News Bot"
+    git config user.email "bot@users.noreply.github.com"
+    git add data/articles.json
+    if git diff --staged --quiet; then
+      echo "No changes to commit"
+      echo "articles_changed=false" >> $GITHUB_OUTPUT
+    else
+      git commit -m "chore: update articles [skip ci]"
+      git push
+      echo "articles_changed=true" >> $GITHUB_OUTPUT
+    fi
+
 - name: Build static site
+  if: steps.commit.outputs.articles_changed == 'true'
   run: npm run build
 
 - name: Upload Pages artifact
+  if: steps.commit.outputs.articles_changed == 'true'
   uses: actions/upload-pages-artifact@v3
   with:
     path: out/
 
 - name: Deploy to GitHub Pages
+  if: steps.commit.outputs.articles_changed == 'true'
   uses: actions/deploy-pages@v4
 ```
 
-workflow 需要新增 permissions：
+workflow 的 job 级别 `permissions` 需新增（追加到现有 `contents: write` 旁）：
 
 ```yaml
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+jobs:
+  update:
+    permissions:
+      contents: write
+      pages: write
+      id-token: write   # OIDC 部署所必需，必须在 job 级别
 ```
 
 **执行链路：**
@@ -67,13 +89,15 @@ permissions:
 定时触发（每 6 小时）
   → 抓取 RSS + NewsAPI
   → DeepSeek 翻译
-  → 提交 data/articles.json
-  → next build（生成 out/）
-  → 部署 out/ 到 GitHub Pages
-  → czq1999.github.io/ai-news-website/ 更新
+  → 提交 data/articles.json（有变化时）
+      ├─ 无新文章 → articles_changed=false → 跳过构建和部署
+      └─ 有新文章 → articles_changed=true
+            → next build（生成 out/）
+            → 部署 out/ 到 GitHub Pages
+            → czq1999.github.io/ai-news-website/ 更新
 ```
 
-无新文章时，`npm run update` 在提交步骤前 `process.exit(0)`，构建和部署步骤不执行。
+注意：提交信息保留 `[skip ci]` 标记，防止该 push 再次触发本 workflow 形成循环。
 
 ### 3. GitHub 仓库手动配置（一次性）
 
