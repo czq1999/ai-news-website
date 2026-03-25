@@ -34,6 +34,40 @@ Articles:
 ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title_en, source: a.source })), null, 2)}`;
 }
 
+const BATCH_SIZE = 15;
+
+async function translateBatch(batch: RawArticle[], apiKey: string): Promise<TranslationResult[]> {
+  const prompt = buildTranslationPrompt(batch);
+
+  const response = await fetch('https://api.deepseek.com/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({
+      model: 'deepseek-chat',
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.3,
+      max_tokens: 8192,
+    }),
+  });
+
+  if (!response.ok) {
+    const errText = await response.text();
+    throw new Error(`DeepSeek API error: ${response.status} ${response.statusText} - ${errText}`);
+  }
+
+  const data = await response.json() as DeepSeekResponse;
+  const output = data.choices[0].message.content;
+
+  const jsonMatch = output.match(/\[[\s\S]*\]/);
+  if (!jsonMatch) throw new Error(`No JSON array found in output: ${output.slice(0, 200)}`);
+  const raw: unknown = JSON.parse(jsonMatch[0]);
+  if (!Array.isArray(raw)) throw new Error('Expected JSON array from model output');
+  return raw as TranslationResult[];
+}
+
 export async function translateArticles(rawArticles: RawArticle[]): Promise<Article[]> {
   if (rawArticles.length === 0) return [];
 
@@ -43,50 +77,26 @@ export async function translateArticles(rawArticles: RawArticle[]): Promise<Arti
     return [];
   }
 
-  const prompt = buildTranslationPrompt(rawArticles);
-  let output = '';
+  // Split into batches to avoid hitting token limits
+  const batches: RawArticle[][] = [];
+  for (let i = 0; i < rawArticles.length; i += BATCH_SIZE) {
+    batches.push(rawArticles.slice(i, i + BATCH_SIZE));
+  }
+  console.log(`  Processing ${batches.length} batch(es) of up to ${BATCH_SIZE} articles...`);
 
-  try {
-    const response = await fetch('https://api.deepseek.com/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`,
-      },
-      body: JSON.stringify({
-        model: 'deepseek-chat',
-        messages: [{ role: 'user', content: prompt }],
-        temperature: 0.3,
-      }),
-    });
-
-    if (!response.ok) {
-      const errText = await response.text();
-      throw new Error(`DeepSeek API error: ${response.status} ${response.statusText} - ${errText}`);
+  const allTranslations: TranslationResult[] = [];
+  for (let i = 0; i < batches.length; i++) {
+    const batch = batches[i];
+    console.log(`  Batch ${i + 1}/${batches.length}: ${batch.length} articles`);
+    try {
+      const results = await translateBatch(batch, apiKey);
+      allTranslations.push(...results);
+    } catch (err) {
+      console.error(`  Batch ${i + 1} failed:`, err);
     }
-
-    const data = await response.json() as DeepSeekResponse;
-    output = data.choices[0].message.content;
-  } catch (err) {
-    console.error('DeepSeek API failed:', err);
-    return [];
   }
 
-  let translations: TranslationResult[];
-  try {
-    // Extract JSON array from output (model may include extra text)
-    const jsonMatch = output.match(/\[[\s\S]*\]/);
-    if (!jsonMatch) throw new Error('No JSON array found in output');
-    const raw: unknown = JSON.parse(jsonMatch[0]);
-    if (!Array.isArray(raw)) throw new Error('Expected JSON array from model output');
-    translations = raw as TranslationResult[];
-  } catch (err) {
-    console.error('Failed to parse translation output:', err);
-    console.error('Raw output:', output);
-    return [];
-  }
-
-  const translationMap = new Map(translations.map(t => [t.id, t]));
+  const translationMap = new Map(allTranslations.map(t => [t.id, t]));
 
   const translated = rawArticles
     .map(raw => {
