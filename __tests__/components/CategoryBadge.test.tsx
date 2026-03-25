@@ -26,4 +26,19 @@ describe('CategoryBadge', () => {
     const { container } = render(<CategoryBadge category="llm" />);
     expect(container.firstChild).toHaveClass('text-blue-400');
   });
+
+  it('applies orange color class for product', () => {
+    const { container } = render(<CategoryBadge category="product" />);
+    expect(container.firstChild).toHaveClass('text-orange-400');
+  });
+
+  it('applies purple color class for research', () => {
+    const { container } = render(<CategoryBadge category="research" />);
+    expect(container.firstChild).toHaveClass('text-purple-400');
+  });
+
+  it('applies green color class for industry', () => {
+    const { container } = render(<CategoryBadge category="industry" />);
+    expect(container.firstChild).toHaveClass('text-green-400');
+  });
 });

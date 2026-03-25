@@ -25,4 +25,9 @@ describe('TimeAgo', () => {
     render(<TimeAgo dateString={ago} />);
     expect(screen.getByText('2天前')).toBeInTheDocument();
   });
+
+  it('shows "未知时间" for invalid date string', () => {
+    render(<TimeAgo dateString="not-a-date" />);
+    expect(screen.getByText('未知时间')).toBeInTheDocument();
+  });
 });
