@@ -1,5 +1,49 @@
 [
   {
+    "id": "07da79212bd621f8ff00ba52dd18df32",
+    "title_en": "The Comedy Club at the End of the Metaverse",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/",
+    "published_at": "2026-03-25T17:28:02.000Z",
+    "fetched_at": "2026-03-25T17:40:43.818Z",
+    "title_zh": "元宇宙尽头的喜剧俱乐部",
+    "summary_zh": "《连线》杂志报道了一个存在于元宇宙中的虚拟喜剧俱乐部。文章探讨了在虚拟世界中，现场表演、社交互动以及喜剧艺术的独特形态与挑战。它审视了科技如何重塑娱乐体验，以及在数字空间里，人类对连接与欢笑的基本需求如何以新的方式得到满足。",
+    "category": "product"
+  },
+  {
+    "id": "a2f0d2ed92cd3c366344c7ac8b226e1d",
+    "title_en": "Roundtables: The Next Era of Space Exploration",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+    "published_at": "2026-03-25T17:26:26.000Z",
+    "fetched_at": "2026-03-25T17:40:43.942Z",
+    "title_zh": "圆桌讨论：太空探索的新时代",
+    "summary_zh": "《麻省理工科技评论》组织了一场关于未来太空探索的专家圆桌讨论。议题涵盖了商业航天公司的崛起、月球与火星任务、太空资源利用以及国际合作与竞争的新格局。专家们探讨了技术进步、政策挑战和经济效益如何共同塑造人类进入太空的“下一个时代”。",
+    "category": "industry"
+  },
+  {
+    "id": "8652c59c80adbfea8d8aed32840a07af",
+    "title_en": "X tries to limit creator revenue for foreign influencers but Musk intervenes",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/900535/x-creator-payouts-american-politics-elon-musk",
+    "published_at": "2026-03-25T17:23:59.000Z",
+    "fetched_at": "2026-03-25T17:40:43.495Z",
+    "title_zh": "X平台试图限制外国创作者收入，马斯克出手干预",
+    "summary_zh": "据报道，社交媒体平台X（原Twitter）曾计划调整其创作者收益计划，以限制非美国地区内容创作者的广告收入分成。然而，公司所有者埃隆·马斯克在得知此事后进行了干预，阻止了该政策的实施。这一事件凸显了平台在全球内容创作者经济政策制定上的内部争议与复杂性。",
+    "category": "industry"
+  },
+  {
+    "id": "934a94842946a25eedaf4a8d5eb8d299",
+    "title_en": "Bernie Sanders and AOC propose a ban on data center construction",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+    "published_at": "2026-03-25T17:15:50.000Z",
+    "fetched_at": "2026-03-25T17:40:43.112Z",
+    "title_zh": "伯尼·桑德斯与AOC提议禁止新建数据中心",
+    "summary_zh": "美国参议员伯尼·桑德斯与众议员亚历山德里娅·奥卡西奥-科尔特斯提出一项法案，旨在暂停大型数据中心的建设。该提案主要出于对能源消耗、环境影响以及AI产业扩张可能加剧社会不平等的担忧，旨在推动对数据中心行业进行更严格的审查与监管。此举可能对依赖大规模算力的科技与AI公司产生深远影响。",
+    "category": "industry"
+  },
+  {
     "id": "9e9889b3c8fb75d0084bd14dd9f02a70",
     "title_en": "The TSA is broken — is privatization next?",
     "source": "The Verge",
@@ -97,6 +141,17 @@
     "title_zh": "谷歌Lyria 3 Pro可生成更长的AI歌曲",
     "summary_zh": "谷歌推出的Lyria 3 Pro音乐生成模型在生成长度上取得突破，能够创作出结构更完整、持续时间更长的音乐作品。相比前代，它在旋律发展、和声进行和整体音乐性上更加成熟，为音乐人和内容创作者提供了更强大的AI辅助创作工具。",
     "category": "llm"
+  },
+  {
+    "id": "e904412bd1681480b59dfbfcfe87db2d",
+    "title_en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+    "published_at": "2026-03-25T15:49:17.000Z",
+    "fetched_at": "2026-03-25T17:40:43.706Z",
+    "title_zh": "谷歌将“Q日”期限大幅提前至2029年",
+    "summary_zh": "据Ars Technica报道，谷歌内部将其实现“Q日”目标——即开发出具有里程碑意义的通用人工智能（AGI）——的最后期限大幅提前至2029年。这比此前行业内外普遍预测的时间要早得多，表明谷歌在AI研发上可能取得了关键突破或调整了战略优先级，加剧了AI领域的竞争压力。",
+    "category": "research"
   },
   {
     "id": "8fa3e1011ec87f033e74f5963447d3c8",
@@ -668,6 +723,105 @@
     "fetched_at": "2026-03-25T14:43:23.304Z",
     "title_zh": "我们最爱的黑胶唱机在唱片店日到来前降价51美元",
     "summary_zh": "在年度“唱片店日”促销活动前夕，科技媒体推荐的一款热门黑胶唱机迎来了51美元的折扣。文章简要介绍了这款唱机的特点和优势，并提醒音乐爱好者和科技产品消费者抓住此次限时优惠机会进行购买。",
+    "category": "product"
+  },
+  {
+    "id": "a26f2b57c141ee3bd43418c15b5de94e",
+    "title_en": "Long-Term Care and Home Healthcare Technology Market to Reach $64.8 Billion by 2030 as Aging Demographics and Remote Monitoring Reshape Care Delivery",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/03/24/3261656/0/en/Long-Term-Care-and-Home-Healthcare-Technology-Market-to-Reach-64-8-Billion-by-2030-as-Aging-Demographics-and-Remote-Monitoring-Reshape-Care-Delivery.html",
+    "published_at": "2026-03-24T17:36:00Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "长期护理与家庭医疗技术市场预计2030年达648亿美元，老龄化与远程监护重塑护理服务",
+    "summary_zh": "据GlobeNewswire报告，受全球人口老龄化加剧和远程患者监测技术普及的推动，长期护理与家庭医疗保健技术市场预计到2030年将增长至648亿美元。报告指出，可穿戴设备、家庭诊断工具、AI健康管理平台等创新技术正在改变护理服务的提供方式，使其更加个性化、高效且可及。",
+    "category": "industry"
+  },
+  {
+    "id": "57919ff685b4a3b20c3103071c95ead5",
+    "title_en": "Micron stock sinks for a fourth straight day despite dominant earnings report",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/24/micron-mu-stock-q2-earnings-memory-shortage.html",
+    "published_at": "2026-03-24T17:32:35Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "美光科技财报亮眼，股价却连续第四日下跌",
+    "summary_zh": "尽管美光科技发布了表现强劲的季度财报，显示其在存储芯片市场的领先地位，但其股价却连续第四个交易日下跌。CNBC分析认为，市场可能担忧AI驱动需求增长的可持续性、行业周期波动或更广泛的宏观经济不确定性，导致投资者在利好财报后仍选择获利了结。",
+    "category": "industry"
+  },
+  {
+    "id": "9b62f3ea0e1cfffd41982ccfac195ba9",
+    "title_en": "C.H. Robinson named to Fast Company’s annual list of the World’s Most Innovative Companies of 2026",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/c-h-robinson-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-of-2026",
+    "published_at": "2026-03-24T17:32:29Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "C.H. Robinson入选《快公司》2026年全球最具创新力公司年度榜单",
+    "summary_zh": "全球领先的物流公司C.H. Robinson被《快公司》杂志评为2026年全球最具创新力公司之一。该评选旨在表彰那些通过突破性想法、技术应用或商业模式对行业乃至社会产生显著影响的企业。C.H. Robinson的入选可能源于其在供应链数字化、数据分析和可持续物流解决方案方面的创新举措。",
+    "category": "industry"
+  },
+  {
+    "id": "4fd061b01ff2e2073bd14622cee464a9",
+    "title_en": "Apple teases major AI push with iOS 27 and macOS 27",
+    "source": "Macdailynews.com",
+    "url": "https://macdailynews.com/2026/03/24/apple-teases-major-ai-push-with-ios-27-and-macos-27/",
+    "published_at": "2026-03-24T17:31:10Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "苹果预告将在iOS 27与macOS 27中大力推动AI功能",
+    "summary_zh": "据Macdailynews报道，苹果公司已开始预告其下一代操作系统iOS 27和macOS 27将包含重大的AI功能推进。这预示着苹果可能计划在Siri、生产力工具、创意应用和系统级体验中深度整合其自研的大型语言模型和生成式AI技术，以回应竞争对手在AI领域的激烈竞争。",
+    "category": "product"
+  },
+  {
+    "id": "00c54f7411449f72ed3c3026444d72e1",
+    "title_en": "The AI Industry Is Lying to You",
+    "source": "Wheresyoured.at",
+    "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+    "published_at": "2026-03-24T17:30:55Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "AI行业正在对你撒谎",
+    "summary_zh": "这篇评论文章尖锐地批评了当前AI行业存在的夸大宣传、选择性报告和伦理失范问题。作者指出，许多公司为了融资、吸引用户或规避监管，常常过度承诺AI的能力、隐瞒其局限性或潜在危害。文章呼吁公众、媒体和监管机构保持批判性思维，要求行业提高透明度和责任感。",
+    "category": "industry"
+  },
+  {
+    "id": "7e0d69edae598b59e06add716fb65fe0",
+    "title_en": "QCI Launches QCI RV, Turning Casino RV Parks into High-Value Revenue Engines",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/03/24/3261643/0/en/QCI-Launches-QCI-RV-Turning-Casino-RV-Parks-into-High-Value-Revenue-Engines.html",
+    "published_at": "2026-03-24T17:25:00Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "QCI推出QCI RV方案，将赌场房车公园转变为高价值创收引擎",
+    "summary_zh": "QCI公司宣布推出“QCI RV”解决方案，旨在通过技术升级将赌场附属的房车公园改造为利润更高的收入来源。该方案可能涉及智能预订系统、物联网设施管理、增值服务集成以及数据分析，以提升游客体验、运营效率和整体盈利能力，服务于博彩与旅游业。",
+    "category": "product"
+  },
+  {
+    "id": "6381f6f0fb69ca60d19a2cba86384985",
+    "title_en": "Based Eggman Presale Raises $300K as Investors Compare Top Memecoins for 2026 Including Dogecoin and Pepecoin",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/03/24/3261642/0/en/Based-Eggman-Presale-Raises-300K-as-Investors-Compare-Top-Memecoins-for-2026-Including-Dogecoin-and-Pepecoin.html",
+    "published_at": "2026-03-24T17:25:00Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "Based Eggman预售筹集30万美元，投资者对比2026年顶级迷因币包括狗狗币和佩佩币",
+    "summary_zh": "新兴迷因币项目Based Eggman在预售阶段成功筹集了30万美元资金。与此同时，投资者正在评估和比较包括狗狗币、佩佩币在内的多个有望在2026年表现出色的迷因币。该报道反映了加密货币市场中迷因币板块持续的热度、投机性以及社区驱动项目的融资动态。",
+    "category": "industry"
+  },
+  {
+    "id": "5941e1793464f695112b01a39d31b6f7",
+    "title_en": " It's official, Sevilla FC announce their new manager",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/its-official-sevilla-fc-announce-their-new-manager-42610094",
+    "published_at": "2026-03-24T17:24:00Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "官方消息，塞维利亚足球俱乐部宣布新任主教练",
+    "summary_zh": "这是一则纯粹的体育新闻。西甲塞维利亚足球俱乐部通过其官方渠道正式宣布了球队新任主教练的人选。报道通常涉及新任教练的姓名、执教履历、签约细节以及俱乐部对其带领球队取得佳绩的期望。此新闻与科技领域无直接关联。",
+    "category": "industry"
+  },
+  {
+    "id": "ae4523e96df044627284a70360c92ec7",
+    "title_en": "Arm releases first in-house chip, with Meta as debut customer",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
+    "published_at": "2026-03-24T17:22:01Z",
+    "fetched_at": "2026-03-25T17:40:44.321Z",
+    "title_zh": "Arm发布首款自研芯片，Meta成为首发客户",
+    "summary_zh": "芯片设计巨头Arm发布了其首款自主研发的芯片原型，旨在展示其架构的性能潜力，并为客户提供更完整的解决方案参考。社交媒体巨头Meta已确认将成为这款芯片的首个客户，可能将其用于数据中心等场景。此举标志着Arm正从纯粹的知识产权授权商向更深入的硬件领域拓展。",
     "category": "product"
   },
   {
