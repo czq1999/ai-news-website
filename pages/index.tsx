@@ -9,21 +9,52 @@ import ArticleCard from '@/components/Article/ArticleCard';
 interface Props { articles: Article[] }
 
 export default function Home({ articles }: Props) {
+  const [featured, ...rest] = articles;
+
   return (
     <>
       <Head>
-        <title>AI Daily - AI 资讯聚合</title>
+        <title>AI Signal — AI 资讯聚合</title>
         <meta name="description" content="每日 AI 资讯聚合，英文权威来源，中文呈现" />
       </Head>
       <Layout>
-        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-          {articles.map(article => (
-            <ArticleCard key={article.id} article={article} />
-          ))}
-          {articles.length === 0 && (
-            <p className="text-gray-500 col-span-3 text-center py-16">暂无文章，等待下次更新...</p>
-          )}
-        </div>
+        {articles.length === 0 ? (
+          <p
+            style={{
+              textAlign: 'center',
+              padding: '64px 0',
+              fontFamily: "'JetBrains Mono', monospace",
+              fontSize: '13px',
+              color: '#3A3A55',
+            }}
+          >
+            暂无文章，等待下次更新...
+          </p>
+        ) : (
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+            {/* Featured first article */}
+            {featured && (
+              <div>
+                <ArticleCard article={featured} featured />
+              </div>
+            )}
+
+            {/* Regular grid */}
+            {rest.length > 0 && (
+              <div
+                style={{
+                  display: 'grid',
+                  gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
+                  gap: '12px',
+                }}
+              >
+                {rest.map(article => (
+                  <ArticleCard key={article.id} article={article} />
+                ))}
+              </div>
+            )}
+          </div>
+        )}
       </Layout>
     </>
   );

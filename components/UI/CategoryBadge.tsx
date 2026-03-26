@@ -1,17 +1,31 @@
 // components/UI/CategoryBadge.tsx
 import type { Category } from '@/types/article';
 
-const CONFIG: Record<Category, { label: string; className: string }> = {
-  llm:      { label: '大模型', className: 'text-blue-400 bg-blue-400/10' },
-  product:  { label: '产品',   className: 'text-orange-400 bg-orange-400/10' },
-  research: { label: '研究',   className: 'text-purple-400 bg-purple-400/10' },
-  industry: { label: '行业',   className: 'text-green-400 bg-green-400/10' },
+const CONFIG: Record<Category, { label: string; color: string; bg: string; border: string }> = {
+  llm:      { label: '大模型', color: '#6EE7F7', bg: 'rgba(110,231,247,0.07)', border: 'rgba(110,231,247,0.25)' },
+  product:  { label: '产品',   color: '#F7C36E', bg: 'rgba(247,195,110,0.07)', border: 'rgba(247,195,110,0.25)' },
+  research: { label: '研究',   color: '#A77BF7', bg: 'rgba(167,123,247,0.07)', border: 'rgba(167,123,247,0.25)' },
+  industry: { label: '行业',   color: '#7BF7C0', bg: 'rgba(123,247,192,0.07)', border: 'rgba(123,247,192,0.25)' },
 };
 
 export default function CategoryBadge({ category }: { category: Category }) {
-  const { label, className } = CONFIG[category] ?? CONFIG.llm;
+  const { label, color, bg, border } = CONFIG[category] ?? CONFIG.llm;
   return (
-    <span className={`text-xs font-medium px-2 py-0.5 rounded ${className}`}>
+    <span
+      style={{
+        fontFamily: "'JetBrains Mono', monospace",
+        fontSize: '10px',
+        fontWeight: 500,
+        padding: '2px 7px',
+        borderRadius: '3px',
+        color,
+        backgroundColor: bg,
+        border: `1px solid ${border}`,
+        letterSpacing: '0.04em',
+        lineHeight: '1.6',
+        display: 'inline-block',
+      }}
+    >
       {label}
     </span>
   );

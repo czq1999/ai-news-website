@@ -5,11 +5,19 @@ import Sidebar from './Sidebar';
 
 export default function Layout({ children }: { children: ReactNode }) {
   return (
-    <div className="min-h-screen bg-[#0d1117] text-[#e6edf3]">
+    <div style={{ minHeight: '100vh', backgroundColor: '#090910', color: '#E8E8F0' }}>
       <Header />
-      <div className="max-w-6xl mx-auto px-6 py-6 flex gap-8">
+      <div
+        style={{
+          maxWidth: '1280px',
+          margin: '0 auto',
+          padding: '32px 24px 64px',
+          display: 'flex',
+          gap: '32px',
+        }}
+      >
         <Sidebar />
-        <main className="flex-1 min-w-0">{children}</main>
+        <main style={{ flex: 1, minWidth: 0 }}>{children}</main>
       </div>
     </div>
   );
