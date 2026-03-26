@@ -12,6 +12,13 @@ const CATEGORY_COLORS: Record<string, string> = {
 
 export default function ArticleDetail({ article }: { article: Article }) {
   const accentColor = CATEGORY_COLORS[article.category] ?? '#6EE7F7';
+  const sourceHost = (() => {
+    try {
+      return new URL(article.url).hostname.replace(/^www\./, '');
+    } catch {
+      return article.source;
+    }
+  })();
 
   return (
     <article
@@ -36,12 +43,19 @@ export default function ArticleDetail({ article }: { article: Article }) {
         <p className="detail-original-title">{article.title_en}</p>
       </section>
 
-      <a
-        href={article.url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="cta-button"
-      >
+      <section className="detail-panel">
+        <p className="detail-section-label">来源信息</p>
+        <p className="detail-original-title">来源：{article.source}</p>
+        <p className="detail-original-title">域名：{sourceHost}</p>
+        <p className="detail-original-title">
+          发布时间：{new Date(article.published_at).toLocaleString('zh-CN', { hour12: false })}
+        </p>
+        <p className="detail-original-title">
+          抓取时间：{new Date(article.fetched_at).toLocaleString('zh-CN', { hour12: false })}
+        </p>
+      </section>
+
+      <a href={article.url} target="_blank" rel="noopener noreferrer" className="cta-button">
         阅读原文
       </a>
     </article>

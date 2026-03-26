@@ -26,6 +26,12 @@ describe('TimeAgo', () => {
     expect(screen.getByText('2天前')).toBeInTheDocument();
   });
 
+  it('renders semantic time markup when the date is valid', () => {
+    const ago = new Date(Date.now() - 30 * 1000).toISOString();
+    render(<TimeAgo dateString={ago} />);
+    expect(screen.getByText('刚刚').tagName).toBe('TIME');
+  });
+
   it('shows "未知时间" for invalid date string', () => {
     render(<TimeAgo dateString="not-a-date" />);
     expect(screen.getByText('未知时间')).toBeInTheDocument();

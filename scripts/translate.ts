@@ -1,4 +1,3 @@
-// scripts/translate.ts
 import { readFileSync, writeFileSync } from 'fs';
 import os from 'os';
 import path from 'path';
@@ -12,12 +11,15 @@ interface TranslationResult {
 }
 
 interface DeepSeekResponse {
-  choices: Array<{
-    message: {
-      content: string;
+  choices?: Array<{
+    message?: {
+      content?: string;
     };
   }>;
 }
+
+const VALID_CATEGORIES: Category[] = ['llm', 'product', 'research', 'industry'];
+const BATCH_SIZE = 15;
 
 export function buildTranslationPrompt(articles: RawArticle[]): string {
   return `You are a professional AI news translator and editor.
@@ -34,7 +36,56 @@ Articles:
 ${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title_en, source: a.source })), null, 2)}`;
 }
 
-const BATCH_SIZE = 15;
+export function parseTranslationResults(output: string): TranslationResult[] {
+  const jsonMatch = output.match(/\[[\s\S]*\]/);
+  if (!jsonMatch) {
+    throw new Error(`No JSON array found in output: ${output.slice(0, 200)}`);
+  }
+
+  const raw: unknown = JSON.parse(jsonMatch[0]);
+  if (!Array.isArray(raw)) {
+    throw new Error('Expected JSON array from model output');
+  }
+
+  const seenIds = new Set<string>();
+
+  return raw.flatMap((item, index) => {
+    if (typeof item !== 'object' || item === null) {
+      return [];
+    }
+
+    const entry = item as Record<string, unknown>;
+    const id = typeof entry.id === 'string' ? entry.id.trim() : '';
+    const titleZh = typeof entry.title_zh === 'string' ? entry.title_zh.trim() : '';
+    const summaryZh = typeof entry.summary_zh === 'string' ? entry.summary_zh.trim() : '';
+    const category = entry.category;
+
+    if (!id || !titleZh || !summaryZh) {
+      console.warn(`Skipping invalid translation item at index ${index}: missing required fields`);
+      return [];
+    }
+
+    if (!VALID_CATEGORIES.includes(category as Category)) {
+      console.warn(`Skipping invalid translation item for ${id}: unknown category`);
+      return [];
+    }
+
+    if (seenIds.has(id)) {
+      console.warn(`Skipping duplicate translation item for ${id}`);
+      return [];
+    }
+
+    seenIds.add(id);
+    return [
+      {
+        id,
+        title_zh: titleZh,
+        summary_zh: summaryZh,
+        category: category as Category,
+      },
+    ];
+  });
+}
 
 async function translateBatch(batch: RawArticle[], apiKey: string): Promise<TranslationResult[]> {
   const prompt = buildTranslationPrompt(batch);
@@ -43,7 +94,7 @@ async function translateBatch(batch: RawArticle[], apiKey: string): Promise<Tran
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`,
+      Authorization: `Bearer ${apiKey}`,
     },
     body: JSON.stringify({
       model: 'deepseek-chat',
@@ -58,14 +109,14 @@ async function translateBatch(batch: RawArticle[], apiKey: string): Promise<Tran
     throw new Error(`DeepSeek API error: ${response.status} ${response.statusText} - ${errText}`);
   }
 
-  const data = await response.json() as DeepSeekResponse;
-  const output = data.choices[0].message.content;
+  const data = (await response.json()) as DeepSeekResponse;
+  const output = data.choices?.[0]?.message?.content;
 
-  const jsonMatch = output.match(/\[[\s\S]*\]/);
-  if (!jsonMatch) throw new Error(`No JSON array found in output: ${output.slice(0, 200)}`);
-  const raw: unknown = JSON.parse(jsonMatch[0]);
-  if (!Array.isArray(raw)) throw new Error('Expected JSON array from model output');
-  return raw as TranslationResult[];
+  if (!output) {
+    throw new Error('DeepSeek API response did not include choices[0].message.content');
+  }
+
+  return parseTranslationResults(output);
 }
 
 export async function translateArticles(rawArticles: RawArticle[]): Promise<Article[]> {
@@ -77,7 +128,6 @@ export async function translateArticles(rawArticles: RawArticle[]): Promise<Arti
     return [];
   }
 
-  // Split into batches to avoid hitting token limits
   const batches: RawArticle[][] = [];
   for (let i = 0; i < rawArticles.length; i += BATCH_SIZE) {
     batches.push(rawArticles.slice(i, i + BATCH_SIZE));
@@ -112,13 +162,14 @@ export async function translateArticles(rawArticles: RawArticle[]): Promise<Arti
     .filter((a): a is Article => a !== null);
 
   if (translated.length < rawArticles.length) {
-    console.warn(`Warning: ${rawArticles.length - translated.length} articles missing from translation result`);
+    console.warn(
+      `Warning: ${rawArticles.length - translated.length} articles missing from translation result`
+    );
   }
 
   return translated;
 }
 
-// Entry point when run directly
 if (require.main === module) {
   (async () => {
     try {

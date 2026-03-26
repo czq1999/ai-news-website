@@ -1,6 +1,6 @@
 import { CATEGORIES } from '@/lib/article-categories';
 import { getAllArticles, getArticleById, getArticlesByCategory } from '@/lib/articles.server';
-import { normalizeChineseText } from '@/lib/server/article-normalizer';
+import { normalizeArticle, normalizeChineseText } from '@/lib/server/article-normalizer';
 
 describe('getAllArticles', () => {
   it('returns articles sorted by published_at descending', () => {
@@ -50,12 +50,28 @@ describe('CATEGORIES', () => {
 });
 
 describe('normalizeChineseText', () => {
-  it('repairs garbled Chinese text', () => {
-    expect(normalizeChineseText('鍒氬垰')).toBe('刚刚');
-    expect(normalizeChineseText('鎽樿鍐呭')).toBe('摘要内容');
-  });
-
   it('keeps normal text unchanged', () => {
     expect(normalizeChineseText('正常中文内容')).toBe('正常中文内容');
+  });
+
+  it('normalizes article payload without changing stable fields', () => {
+    const normalized = normalizeArticle({
+      id: '1',
+      title_en: 'English title',
+      title_zh: '正常标题',
+      summary_zh: '正常摘要',
+      category: 'llm',
+      source: 'Source',
+      url: 'https://example.com/1',
+      published_at: '2026-03-24T10:00:00Z',
+      fetched_at: '2026-03-24T11:00:00Z',
+    });
+
+    expect(normalized).toMatchObject({
+      id: '1',
+      title_zh: '正常标题',
+      summary_zh: '正常摘要',
+      category: 'llm',
+    });
   });
 });

@@ -1,40 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI News Website
 
-## Getting Started
+一个基于 Next.js 14 的 AI 新闻聚合站点。项目会抓取英文 AI 新闻源，调用翻译脚本生成中文标题与摘要，再以静态站点形式发布到 GitHub Pages。
 
-First, run the development server:
+## 功能概览
+
+- 首页、分类页、详情页三层信息架构
+- 聚合大模型、产品、研究、行业四类内容
+- 详情页展示中文摘要、原文标题、来源信息与时间
+- 通过 `public/data/articles-feed.json` 支持前端“加载更多”
+- 更新脚本支持 RSS 与 NewsAPI 抓取、翻译、合并、发布
+
+## 本地开发
+
+```bash
+npm install
+npm run dev
+```
+
+默认开发地址为 `http://localhost:3000`。
+
+## 常用命令
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run lint
+npm run test
+npm run build
+npm run update
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 数据更新流程
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+`npm run update` 会执行以下步骤：
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+1. 读取 `config/sources.json`
+2. 抓取 RSS 和 NewsAPI 内容
+3. 过滤已有文章与本次抓取中的重复文章
+4. 调用翻译接口生成中文标题、摘要和分类
+5. 合并到 `data/articles.json`
+6. 同步生成 `public/data/articles-feed.json`
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 环境变量
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- `DEEPSEEK_API_KEY`: 翻译脚本所需
+- `NEWS_API_KEY`: 可选，用于补充 NewsAPI 数据源
 
-## Learn More
+## 目录结构
 
-To learn more about Next.js, take a look at the following resources:
+- `pages/`: 页面与静态路由
+- `components/`: UI 组件
+- `lib/`: 服务端数据读取、SEO 与标准化逻辑
+- `scripts/`: 抓取、翻译、合并、更新脚本
+- `data/`: 构建时使用的文章数据
+- `public/data/`: 前端加载更多使用的数据文件
+- `__tests__/`: 组件、页面和脚本测试
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 部署说明
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+项目当前配置了 `basePath: /ai-news-website`，适合发布到 GitHub Pages：
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- 站点地址: `https://czq1999.github.io/ai-news-website`
+- 仓库地址: `https://github.com/czq1999/ai-news-website`

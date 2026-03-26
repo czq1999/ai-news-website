@@ -48,10 +48,13 @@ export default function Layout({ children }: { children: ReactNode }) {
     <div className="site-shell">
       <Header onToggleMenu={toggleMenu} menuOpen={menuOpen} />
 
-      <div
+      <button
+        type="button"
         className={`sidebar-overlay${menuOpen ? ' open' : ''}`}
         onClick={closeMenu}
-        aria-hidden="true"
+        aria-label="关闭侧边栏"
+        aria-hidden={!menuOpen}
+        tabIndex={menuOpen ? 0 : -1}
       />
 
       <div className="layout-container">

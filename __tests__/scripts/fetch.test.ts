@@ -1,4 +1,3 @@
-// __tests__/scripts/fetch.test.ts
 import { buildArticleId, parseRssItem, fetchRssSource, fetchNewsApi } from '@/scripts/fetch';
 
 describe('buildArticleId', () => {
@@ -43,49 +42,55 @@ describe('parseRssItem', () => {
 
 describe('fetchRssSource', () => {
   it('returns empty array when RSS feed fails', async () => {
-    // non-http URL triggers parser error immediately without network
     const result = await fetchRssSource('not-a-valid-url', 'TestSource');
     expect(result).toEqual([]);
   });
 });
 
 describe('fetchNewsApi', () => {
-  it('returns empty array when fetch fails', async () => {
-    // Use a URL that will fail at the network level
-    const result = await fetchNewsApi('ai', 'en', 10, 'invalid-key-that-triggers-network-error');
+  afterEach(() => {
+    jest.restoreAllMocks();
+    (global as { fetch?: typeof fetch }).fetch = undefined;
+  });
+
+  it('returns empty array when fetch rejects', async () => {
+    global.fetch = jest.fn().mockRejectedValue(new Error('network error')) as typeof fetch;
+
+    const result = await fetchNewsApi('ai', 'en', 10, 'test-key');
     expect(result).toEqual([]);
   });
 
   it('filters out articles without url or title', async () => {
-    const mockFetch = jest.fn().mockResolvedValue({
+    global.fetch = jest.fn().mockResolvedValue({
       ok: true,
       json: async () => ({
         articles: [
-          { url: 'https://example.com/1', title: 'Valid Article', source: { name: 'Test' }, publishedAt: '2026-03-24T10:00:00Z' },
+          {
+            url: 'https://example.com/1',
+            title: 'Valid Article',
+            source: { name: 'Test' },
+            publishedAt: '2026-03-24T10:00:00Z',
+          },
           { url: null, title: 'No URL', source: { name: 'Test' } },
           { url: 'https://example.com/3', title: null, source: { name: 'Test' } },
-        ]
+        ],
       }),
-    });
-    global.fetch = mockFetch as typeof fetch;
+    }) as typeof fetch;
 
     const result = await fetchNewsApi('ai', 'en', 10, 'test-key');
     expect(result).toHaveLength(1);
     expect(result[0].title_en).toBe('Valid Article');
-
-    (global as any).fetch = undefined;
   });
 
   it('returns empty array when response is not ok', async () => {
-    const mockFetch = jest.fn().mockResolvedValue({
+    global.fetch = jest.fn().mockResolvedValue({
       ok: false,
       status: 401,
-    });
-    global.fetch = mockFetch as typeof fetch;
+      statusText: 'Unauthorized',
+      text: async () => 'bad key',
+    }) as typeof fetch;
 
     const result = await fetchNewsApi('ai', 'en', 10, 'bad-key');
     expect(result).toEqual([]);
-
-    (global as any).fetch = undefined;
   });
 });

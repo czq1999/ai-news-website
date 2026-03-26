@@ -1,9 +1,9 @@
 import type { GetStaticPaths, GetStaticProps } from 'next';
-import Head from 'next/head';
 import type { Article, Category } from '@/types/article';
 import { CATEGORIES } from '@/lib/article-categories';
 import Layout from '@/components/Layout/Layout';
 import ArticleFeed from '@/components/Article/ArticleFeed';
+import SeoHead from '@/lib/seo';
 
 const INITIAL_CATEGORY_ARTICLES = 12;
 
@@ -16,9 +16,11 @@ interface Props {
 export default function CategoryPage({ articles, categoryLabel, category }: Props) {
   return (
     <>
-      <Head>
-        <title>{categoryLabel} | AI Signal</title>
-      </Head>
+      <SeoHead
+        title={`${categoryLabel} | AI Signal`}
+        description={`浏览 ${categoryLabel} 分类下的最新 AI 新闻与中文摘要。`}
+        pathname={`/category/${category}`}
+      />
       <Layout>
         <section className="category-page">
           <div className="page-heading">

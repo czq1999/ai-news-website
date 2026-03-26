@@ -2,7 +2,7 @@ export default function TimeAgo({ dateString }: { dateString: string }) {
   const timestamp = new Date(dateString).getTime();
 
   if (Number.isNaN(timestamp)) {
-    return <span className="mono-label">未知时间</span>;
+    return <time className="mono-label">未知时间</time>;
   }
 
   const diffSeconds = Math.max(0, Math.floor((Date.now() - timestamp) / 1000));
@@ -18,5 +18,9 @@ export default function TimeAgo({ dateString }: { dateString: string }) {
     text = `${Math.floor(diffSeconds / 86400)}天前`;
   }
 
-  return <span className="mono-label">{text}</span>;
+  return (
+    <time className="mono-label" dateTime={new Date(timestamp).toISOString()}>
+      {text}
+    </time>
+  );
 }

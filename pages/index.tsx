@@ -1,8 +1,9 @@
 import type { GetStaticProps } from 'next';
-import Head from 'next/head';
 import type { Article } from '@/types/article';
 import Layout from '@/components/Layout/Layout';
 import ArticleFeed from '@/components/Article/ArticleFeed';
+import SeoHead from '@/lib/seo';
+import { SITE_DESCRIPTION, SITE_NAME, buildWebsiteStructuredData } from '@/lib/site';
 
 const INITIAL_HOME_ARTICLES = 13;
 
@@ -13,16 +14,13 @@ interface Props {
 export default function Home({ articles }: Props) {
   return (
     <>
-      <Head>
-        <title>AI Signal | AI 资讯聚合</title>
-        <meta name="description" content="每日 AI 资讯聚合，英文信源，中文速览。" />
-      </Head>
+      <SeoHead title={`${SITE_NAME} | AI 资讯聚合`} description={SITE_DESCRIPTION} pathname="/" />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(buildWebsiteStructuredData()) }}
+      />
       <Layout>
-        <ArticleFeed
-          initialArticles={articles}
-          featured
-          emptyMessage="暂无文章，稍后再来看看。"
-        />
+        <ArticleFeed initialArticles={articles} featured emptyMessage="暂无文章，稍后再来看看。" />
       </Layout>
     </>
   );

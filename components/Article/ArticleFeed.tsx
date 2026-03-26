@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useRouter } from 'next/router';
 import type { Article, Category } from '@/types/article';
 import ArticleCard from '@/components/Article/ArticleCard';
@@ -25,6 +25,13 @@ export default function ArticleFeed({
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState('');
 
+  useEffect(() => {
+    setAllArticles(null);
+    setVisibleCount(initialArticles.length);
+    setIsLoading(false);
+    setError('');
+  }, [initialArticles, category, featured]);
+
   const batchSize = featured ? HOME_BATCH_SIZE : CATEGORY_BATCH_SIZE;
   const sourceArticles = allArticles ?? initialArticles;
   const visibleArticles = sourceArticles.slice(0, visibleCount);
@@ -39,6 +46,7 @@ export default function ArticleFeed({
   }, [featured, visibleArticles]);
 
   const hasVisibleArticles = visibleArticles.length > 0;
+  const totalCount = allArticles?.length ?? initialArticles.length;
   const hasMore = allArticles ? visibleCount < allArticles.length : true;
 
   async function handleLoadMore() {
@@ -68,7 +76,7 @@ export default function ArticleFeed({
       setAllArticles(filteredArticles);
       setVisibleCount(current => Math.min(current + batchSize, filteredArticles.length));
     } catch {
-      setError('\u52A0\u8F7D\u66F4\u591A\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5\u3002');
+      setError('加载更多失败，请稍后重试。');
     } finally {
       setIsLoading(false);
     }
@@ -95,6 +103,9 @@ export default function ArticleFeed({
       )}
 
       <div className="feed-actions">
+        <p className="mono-label">
+          已显示 {visibleArticles.length} / {totalCount} 篇
+        </p>
         {hasMore && (
           <button
             type="button"
@@ -102,7 +113,7 @@ export default function ArticleFeed({
             onClick={handleLoadMore}
             disabled={isLoading}
           >
-            {isLoading ? '\u52A0\u8F7D\u4E2D...' : '\u52A0\u8F7D\u66F4\u591A'}
+            {isLoading ? '加载中...' : '加载更多'}
           </button>
         )}
         {error && <p className="feed-error">{error}</p>}

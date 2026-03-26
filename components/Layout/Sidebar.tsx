@@ -23,10 +23,7 @@ export default function Sidebar({ menuOpen, onClose }: SidebarProps) {
     slug === 'all' ? router.pathname === '/' : currentCategory === slug;
 
   return (
-    <aside
-      id="site-sidebar"
-      className={`sidebar-drawer${menuOpen ? ' open' : ''}`}
-    >
+    <aside id="site-sidebar" className={`sidebar-drawer${menuOpen ? ' open' : ''}`}>
       <div className="sidebar-label">分类</div>
 
       <nav className="sidebar-nav" aria-label="文章分类">

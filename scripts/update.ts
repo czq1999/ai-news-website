@@ -1,5 +1,3 @@
-// scripts/update.ts
-// Main entry point for GitHub Actions: fetch → translate → merge → write
 import { fetchRssSource, fetchNewsApi } from './fetch';
 import { translateArticles } from './translate';
 import { mergeArticles } from './merge';
@@ -24,7 +22,7 @@ interface SourcesConfig {
   newsapi: NewsApiConfig;
 }
 
-function parseSources(raw: unknown): SourcesConfig {
+export function parseSources(raw: unknown): SourcesConfig {
   if (typeof raw !== 'object' || raw === null) {
     throw new Error('sources.json must be a JSON object');
   }
@@ -63,16 +61,34 @@ function parseSources(raw: unknown): SourcesConfig {
   return { rss, newsapi };
 }
 
-function parseExistingArticles(raw: unknown): Article[] {
+export function parseExistingArticles(raw: unknown): Article[] {
   if (!Array.isArray(raw)) {
     throw new Error('articles.json must be a JSON array');
   }
   for (const item of raw) {
-    if (typeof item !== 'object' || item === null || typeof (item as Record<string, unknown>).id !== 'string') {
+    if (
+      typeof item !== 'object' ||
+      item === null ||
+      typeof (item as Record<string, unknown>).id !== 'string'
+    ) {
       throw new Error('articles.json contains invalid article: missing or non-string id field');
     }
   }
   return raw as Article[];
+}
+
+export function filterNewRawArticles(allRaw: RawArticle[], existing: Article[]): RawArticle[] {
+  const existingIds = new Set(existing.map(article => article.id));
+  const seenIds = new Set<string>();
+
+  return allRaw.filter(article => {
+    if (existingIds.has(article.id) || seenIds.has(article.id)) {
+      return false;
+    }
+
+    seenIds.add(article.id);
+    return true;
+  });
 }
 
 async function main() {
@@ -82,7 +98,6 @@ async function main() {
 
   const sources = parseSources(JSON.parse(readFileSync(sourcesPath, 'utf8')));
 
-  // Step 1: Fetch
   console.log('Fetching articles...');
   const allRaw: RawArticle[] = [];
 
@@ -95,15 +110,18 @@ async function main() {
   const newsApiKey = process.env.NEWS_API_KEY;
   if (newsApiKey) {
     const { query, language, pageSize } = sources.newsapi;
-    const newsApiArticles = await fetchNewsApi(query, language, Math.min(pageSize, 10), newsApiKey);
+    const newsApiArticles = await fetchNewsApi(
+      query,
+      language,
+      Math.min(pageSize, 10),
+      newsApiKey
+    );
     allRaw.push(...newsApiArticles);
     console.log(`  NewsAPI: ${newsApiArticles.length}`);
   }
 
-  // Deduplicate raw articles by id before translating
   const existing: Article[] = parseExistingArticles(JSON.parse(readFileSync(dataPath, 'utf8')));
-  const existingIds = new Set(existing.map(a => a.id));
-  const newRaw = allRaw.filter(a => !existingIds.has(a.id));
+  const newRaw = filterNewRawArticles(allRaw, existing);
   console.log(`\nNew articles to translate: ${newRaw.length}`);
 
   if (newRaw.length === 0) {
@@ -111,7 +129,6 @@ async function main() {
     process.exit(0);
   }
 
-  // Step 2: Translate
   console.log('\nTranslating...');
   const translated = await translateArticles(newRaw);
   console.log(`  Translated: ${translated.length}/${newRaw.length}`);
@@ -121,7 +138,6 @@ async function main() {
     process.exit(1);
   }
 
-  // Step 3: Merge
   console.log('\nMerging...');
   const merged = mergeArticles(existing, translated).map(normalizeArticle);
   writeFileSync(dataPath, JSON.stringify(merged, null, 2));
@@ -133,7 +149,9 @@ async function main() {
   process.exit(0);
 }
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
+}
