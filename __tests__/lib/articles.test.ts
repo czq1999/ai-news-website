@@ -1,4 +1,6 @@
-import { CATEGORIES, getAllArticles, getArticleById, getArticlesByCategory, normalizeChineseText } from '@/lib/articles';
+import { CATEGORIES } from '@/lib/article-categories';
+import { getAllArticles, getArticleById, getArticlesByCategory } from '@/lib/articles.server';
+import { normalizeChineseText } from '@/lib/server/article-normalizer';
 
 describe('getAllArticles', () => {
   it('returns articles sorted by published_at descending', () => {

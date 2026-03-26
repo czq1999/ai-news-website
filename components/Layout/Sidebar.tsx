@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { CATEGORIES } from '@/lib/articles';
+import { CATEGORIES } from '@/lib/article-categories';
 
 const CATEGORY_COLORS: Record<string, string> = {
   llm: '#6EE7F7',

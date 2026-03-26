@@ -1,17 +1,16 @@
 import type { GetStaticProps } from 'next';
 import Head from 'next/head';
 import type { Article } from '@/types/article';
-import { getAllArticles } from '@/lib/articles';
 import Layout from '@/components/Layout/Layout';
-import ArticleCard from '@/components/Article/ArticleCard';
+import ArticleFeed from '@/components/Article/ArticleFeed';
+
+const INITIAL_HOME_ARTICLES = 13;
 
 interface Props {
   articles: Article[];
 }
 
 export default function Home({ articles }: Props) {
-  const [featured, ...rest] = articles;
-
   return (
     <>
       <Head>
@@ -19,30 +18,17 @@ export default function Home({ articles }: Props) {
         <meta name="description" content="每日 AI 资讯聚合，英文信源，中文速览。" />
       </Head>
       <Layout>
-        {articles.length === 0 ? (
-          <p className="empty-state">暂无文章，稍后再来看看。</p>
-        ) : (
-          <section className="home-feed">
-            {featured && (
-              <div className="featured-slot">
-                <ArticleCard article={featured} featured />
-              </div>
-            )}
-
-            {rest.length > 0 && (
-              <div className="article-grid">
-                {rest.map(article => (
-                  <ArticleCard key={article.id} article={article} />
-                ))}
-              </div>
-            )}
-          </section>
-        )}
+        <ArticleFeed
+          initialArticles={articles}
+          featured
+          emptyMessage="暂无文章，稍后再来看看。"
+        />
       </Layout>
     </>
   );
 }
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  return { props: { articles: getAllArticles() } };
+  const { getAllArticles } = await import('@/lib/articles.server');
+  return { props: { articles: getAllArticles().slice(0, INITIAL_HOME_ARTICLES) } };
 };

@@ -2,7 +2,6 @@ import type { GetStaticPaths, GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import type { Article } from '@/types/article';
-import { getAllArticles, getArticleById } from '@/lib/articles';
 import Layout from '@/components/Layout/Layout';
 import ArticleDetail from '@/components/Article/ArticleDetail';
 
@@ -30,11 +29,12 @@ export default function ArticlePage({ article }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => ({
-  paths: getAllArticles().map(article => ({ params: { slug: article.id } })),
+  paths: (await import('@/lib/articles.server')).getAllArticles().map(article => ({ params: { slug: article.id } })),
   fallback: false,
 });
 
 export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
+  const { getArticleById } = await import('@/lib/articles.server');
   const article = getArticleById(params!.slug as string);
 
   if (!article) {

@@ -1,16 +1,19 @@
 import type { GetStaticPaths, GetStaticProps } from 'next';
 import Head from 'next/head';
 import type { Article, Category } from '@/types/article';
-import { getArticlesByCategory, CATEGORIES } from '@/lib/articles';
+import { CATEGORIES } from '@/lib/article-categories';
 import Layout from '@/components/Layout/Layout';
-import ArticleCard from '@/components/Article/ArticleCard';
+import ArticleFeed from '@/components/Article/ArticleFeed';
+
+const INITIAL_CATEGORY_ARTICLES = 12;
 
 interface Props {
   articles: Article[];
   categoryLabel: string;
+  category: Category;
 }
 
-export default function CategoryPage({ articles, categoryLabel }: Props) {
+export default function CategoryPage({ articles, categoryLabel, category }: Props) {
   return (
     <>
       <Head>
@@ -23,15 +26,11 @@ export default function CategoryPage({ articles, categoryLabel }: Props) {
             <h1 className="page-heading__title">{categoryLabel}</h1>
           </div>
 
-          {articles.length === 0 ? (
-            <p className="empty-state">这个分类下还没有文章。</p>
-          ) : (
-            <div className="article-grid">
-              {articles.map(article => (
-                <ArticleCard key={article.id} article={article} />
-              ))}
-            </div>
-          )}
+          <ArticleFeed
+            initialArticles={articles}
+            category={category}
+            emptyMessage="这个分类下还没有文章。"
+          />
         </section>
       </Layout>
     </>
@@ -46,10 +45,12 @@ export const getStaticPaths: GetStaticPaths = async () => ({
 export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   const slug = params!.slug as Category;
   const category = CATEGORIES.find(item => item.slug === slug);
+  const { getArticlesByCategory } = await import('@/lib/articles.server');
 
   return {
     props: {
-      articles: getArticlesByCategory(slug),
+      articles: getArticlesByCategory(slug).slice(0, INITIAL_CATEGORY_ARTICLES),
+      category: slug,
       categoryLabel: category?.label ?? slug,
     },
   };

@@ -4,8 +4,9 @@ import { fetchRssSource, fetchNewsApi } from './fetch';
 import { translateArticles } from './translate';
 import { mergeArticles } from './merge';
 import type { Article, RawArticle } from '@/types/article';
-import { readFileSync, writeFileSync } from 'fs';
-import { join } from 'path';
+import { mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { dirname, join } from 'path';
+import { normalizeArticle } from '@/lib/server/article-normalizer';
 
 interface RssFeedConfig {
   url: string;
@@ -77,6 +78,7 @@ function parseExistingArticles(raw: unknown): Article[] {
 async function main() {
   const sourcesPath = join(process.cwd(), 'config/sources.json');
   const dataPath = join(process.cwd(), 'data/articles.json');
+  const publicFeedPath = join(process.cwd(), 'public/data/articles-feed.json');
 
   const sources = parseSources(JSON.parse(readFileSync(sourcesPath, 'utf8')));
 
@@ -121,8 +123,10 @@ async function main() {
 
   // Step 3: Merge
   console.log('\nMerging...');
-  const merged = mergeArticles(existing, translated);
+  const merged = mergeArticles(existing, translated).map(normalizeArticle);
   writeFileSync(dataPath, JSON.stringify(merged, null, 2));
+  mkdirSync(dirname(publicFeedPath), { recursive: true });
+  writeFileSync(publicFeedPath, JSON.stringify(merged, null, 2));
   console.log(`  Total articles: ${merged.length}`);
 
   console.log('\nDone!');
