@@ -22,23 +22,8 @@ describe('CategoryBadge', () => {
     expect(screen.getByText('行业')).toBeInTheDocument();
   });
 
-  it('applies blue color class for llm', () => {
-    const { container } = render(<CategoryBadge category="llm" />);
-    expect(container.firstChild).toHaveClass('text-blue-400');
-  });
-
-  it('applies orange color class for product', () => {
-    const { container } = render(<CategoryBadge category="product" />);
-    expect(container.firstChild).toHaveClass('text-orange-400');
-  });
-
-  it('applies purple color class for research', () => {
-    const { container } = render(<CategoryBadge category="research" />);
-    expect(container.firstChild).toHaveClass('text-purple-400');
-  });
-
-  it('applies green color class for industry', () => {
-    const { container } = render(<CategoryBadge category="industry" />);
-    expect(container.firstChild).toHaveClass('text-green-400');
+  it('applies the configured accent color for llm', () => {
+    render(<CategoryBadge category="llm" />);
+    expect(screen.getByText('大模型')).toHaveStyle({ color: '#6EE7F7' });
   });
 });

@@ -1,4 +1,3 @@
-// pages/index.tsx
 import type { GetStaticProps } from 'next';
 import Head from 'next/head';
 import type { Article } from '@/types/article';
@@ -6,7 +5,9 @@ import { getAllArticles } from '@/lib/articles';
 import Layout from '@/components/Layout/Layout';
 import ArticleCard from '@/components/Article/ArticleCard';
 
-interface Props { articles: Article[] }
+interface Props {
+  articles: Article[];
+}
 
 export default function Home({ articles }: Props) {
   const [featured, ...rest] = articles;
@@ -14,46 +15,28 @@ export default function Home({ articles }: Props) {
   return (
     <>
       <Head>
-        <title>AI Signal — AI 资讯聚合</title>
-        <meta name="description" content="每日 AI 资讯聚合，英文权威来源，中文呈现" />
+        <title>AI Signal | AI 资讯聚合</title>
+        <meta name="description" content="每日 AI 资讯聚合，英文信源，中文速览。" />
       </Head>
       <Layout>
         {articles.length === 0 ? (
-          <p
-            style={{
-              textAlign: 'center',
-              padding: '64px 0',
-              fontFamily: "'JetBrains Mono', monospace",
-              fontSize: '13px',
-              color: '#3A3A55',
-            }}
-          >
-            暂无文章，等待下次更新...
-          </p>
+          <p className="empty-state">暂无文章，稍后再来看看。</p>
         ) : (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-            {/* Featured first article */}
+          <section className="home-feed">
             {featured && (
-              <div>
+              <div className="featured-slot">
                 <ArticleCard article={featured} featured />
               </div>
             )}
 
-            {/* Regular grid */}
             {rest.length > 0 && (
-              <div
-                style={{
-                  display: 'grid',
-                  gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-                  gap: '12px',
-                }}
-              >
+              <div className="article-grid">
                 {rest.map(article => (
                   <ArticleCard key={article.id} article={article} />
                 ))}
               </div>
             )}
-          </div>
+          </section>
         )}
       </Layout>
     </>

@@ -1,23 +1,62 @@
-// components/Layout/Layout.tsx
-import type { ReactNode } from 'react';
+import { useState, useEffect, useCallback, type ReactNode } from 'react';
+import { useRouter } from 'next/router';
 import Header from './Header';
 import Sidebar from './Sidebar';
 
 export default function Layout({ children }: { children: ReactNode }) {
+  const [menuOpen, setMenuOpen] = useState(false);
+  const router = useRouter();
+
+  const closeMenu = useCallback(() => setMenuOpen(false), []);
+  const toggleMenu = useCallback(() => setMenuOpen(prev => !prev), []);
+
+  useEffect(() => {
+    router.events.on('routeChangeStart', closeMenu);
+    return () => router.events.off('routeChangeStart', closeMenu);
+  }, [router.events, closeMenu]);
+
+  useEffect(() => {
+    const onResize = () => {
+      if (window.innerWidth >= 1024) {
+        closeMenu();
+      }
+    };
+
+    window.addEventListener('resize', onResize);
+    return () => window.removeEventListener('resize', onResize);
+  }, [closeMenu]);
+
+  useEffect(() => {
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') {
+        closeMenu();
+      }
+    };
+
+    window.addEventListener('keydown', onKeyDown);
+    return () => window.removeEventListener('keydown', onKeyDown);
+  }, [closeMenu]);
+
+  useEffect(() => {
+    document.body.style.overflow = menuOpen ? 'hidden' : '';
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, [menuOpen]);
+
   return (
-    <div style={{ minHeight: '100vh', backgroundColor: '#090910', color: '#E8E8F0' }}>
-      <Header />
+    <div className="site-shell">
+      <Header onToggleMenu={toggleMenu} menuOpen={menuOpen} />
+
       <div
-        style={{
-          maxWidth: '1280px',
-          margin: '0 auto',
-          padding: '32px 24px 64px',
-          display: 'flex',
-          gap: '32px',
-        }}
-      >
-        <Sidebar />
-        <main style={{ flex: 1, minWidth: 0 }}>{children}</main>
+        className={`sidebar-overlay${menuOpen ? ' open' : ''}`}
+        onClick={closeMenu}
+        aria-hidden="true"
+      />
+
+      <div className="layout-container">
+        <Sidebar menuOpen={menuOpen} onClose={closeMenu} />
+        <main className="layout-main">{children}</main>
       </div>
     </div>
   );

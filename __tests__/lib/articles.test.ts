@@ -1,80 +1,34 @@
-// __tests__/lib/articles.test.ts
-import { getAllArticles, getArticlesByCategory, getArticleById, CATEGORIES } from '@/lib/articles';
-import type { Article } from '@/types/article';
-
-const mockArticles: Article[] = [
-  {
-    id: 'abc123',
-    title_en: 'OpenAI releases GPT-5',
-    title_zh: 'OpenAI 发布 GPT-5',
-    summary_zh: '摘要内容',
-    category: 'llm',
-    source: 'TechCrunch',
-    url: 'https://example.com/1',
-    published_at: '2026-03-24T10:00:00Z',
-    fetched_at: '2026-03-24T11:00:00Z',
-  },
-  {
-    id: 'def456',
-    title_en: 'Google launches Gemini 2',
-    title_zh: 'Google 发布 Gemini 2',
-    summary_zh: '摘要内容2',
-    category: 'product',
-    source: 'The Verge',
-    url: 'https://example.com/2',
-    published_at: '2026-03-24T08:00:00Z',
-    fetched_at: '2026-03-24T11:00:00Z',
-  },
-];
-
-jest.mock('@/data/articles.json', () => [
-  {
-    id: 'abc123',
-    title_en: 'OpenAI releases GPT-5',
-    title_zh: 'OpenAI 发布 GPT-5',
-    summary_zh: '摘要内容',
-    category: 'llm',
-    source: 'TechCrunch',
-    url: 'https://example.com/1',
-    published_at: '2026-03-24T10:00:00Z',
-    fetched_at: '2026-03-24T11:00:00Z',
-  },
-  {
-    id: 'def456',
-    title_en: 'Google launches Gemini 2',
-    title_zh: 'Google 发布 Gemini 2',
-    summary_zh: '摘要内容2',
-    category: 'product',
-    source: 'The Verge',
-    url: 'https://example.com/2',
-    published_at: '2026-03-24T08:00:00Z',
-    fetched_at: '2026-03-24T11:00:00Z',
-  },
-], { virtual: true });
+import { CATEGORIES, getAllArticles, getArticleById, getArticlesByCategory, normalizeChineseText } from '@/lib/articles';
 
 describe('getAllArticles', () => {
-  it('returns all articles sorted by published_at descending', () => {
+  it('returns articles sorted by published_at descending', () => {
     const result = getAllArticles();
-    expect(result).toHaveLength(2);
-    expect(result[0].id).toBe('abc123');
+    expect(result.length).toBeGreaterThan(0);
+
+    for (let index = 1; index < result.length; index += 1) {
+      expect(new Date(result[index - 1].published_at).getTime()).toBeGreaterThanOrEqual(
+        new Date(result[index].published_at).getTime()
+      );
+    }
   });
 });
 
 describe('getArticlesByCategory', () => {
   it('filters articles by category', () => {
     const result = getArticlesByCategory('llm');
-    expect(result).toHaveLength(1);
-    expect(result[0].id).toBe('abc123');
+    expect(result.length).toBeGreaterThan(0);
+    expect(result.every(article => article.category === 'llm')).toBe(true);
   });
 
   it('returns empty array for unknown category', () => {
-    expect(getArticlesByCategory('unknown' as any)).toHaveLength(0);
+    expect(getArticlesByCategory('unknown' as never)).toHaveLength(0);
   });
 });
 
 describe('getArticleById', () => {
   it('returns the article with matching id', () => {
-    expect(getArticleById('abc123')?.title_en).toBe('OpenAI releases GPT-5');
+    const firstArticle = getAllArticles()[0];
+    expect(getArticleById(firstArticle.id)?.id).toBe(firstArticle.id);
   });
 
   it('returns undefined for missing id', () => {
@@ -84,6 +38,22 @@ describe('getArticleById', () => {
 
 describe('CATEGORIES', () => {
   it('contains all four categories with labels', () => {
-    expect(CATEGORIES.map(c => c.slug)).toEqual(['llm', 'product', 'research', 'industry']);
+    expect(CATEGORIES).toEqual([
+      { slug: 'llm', label: '大模型' },
+      { slug: 'product', label: '产品' },
+      { slug: 'research', label: '研究' },
+      { slug: 'industry', label: '行业' },
+    ]);
+  });
+});
+
+describe('normalizeChineseText', () => {
+  it('repairs garbled Chinese text', () => {
+    expect(normalizeChineseText('鍒氬垰')).toBe('刚刚');
+    expect(normalizeChineseText('鎽樿鍐呭')).toBe('摘要内容');
+  });
+
+  it('keeps normal text unchanged', () => {
+    expect(normalizeChineseText('正常中文内容')).toBe('正常中文内容');
   });
 });

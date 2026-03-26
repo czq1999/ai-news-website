@@ -10,7 +10,7 @@ const mockArticle: Article = {
   category: 'llm',
   source: 'TechCrunch',
   url: 'https://example.com/gpt5',
-  published_at: new Date(Date.now() - 7200000).toISOString(), // 2 hours ago
+  published_at: new Date(Date.now() - 7200000).toISOString(),
   fetched_at: new Date().toISOString(),
 };
 
@@ -32,7 +32,11 @@ describe('ArticleCard', () => {
 
   it('links to the article detail page', () => {
     render(<ArticleCard article={mockArticle} />);
-    const link = screen.getByRole('link');
-    expect(link).toHaveAttribute('href', '/article/abc123');
+    expect(screen.getByRole('link')).toHaveAttribute('href', '/article/abc123');
+  });
+
+  it('renders the call to action text', () => {
+    render(<ArticleCard article={mockArticle} />);
+    expect(screen.getByText('阅读全文')).toBeInTheDocument();
   });
 });
