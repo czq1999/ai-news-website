@@ -1,4 +1,7 @@
 import Link from 'next/link';
+import { useRouter } from 'next/router';
+import { useFavorites } from '@/components/Favorites/FavoritesProvider';
+import GlobalHeaderSearch from '@/components/Search/GlobalHeaderSearch';
 
 interface HeaderProps {
   onToggleMenu: () => void;
@@ -6,6 +9,9 @@ interface HeaderProps {
 }
 
 export default function Header({ onToggleMenu, menuOpen }: HeaderProps) {
+  const router = useRouter();
+  const { favorites } = useFavorites();
+
   return (
     <header className="site-header">
       <div className="site-header__inner">
@@ -49,7 +55,16 @@ export default function Header({ onToggleMenu, menuOpen }: HeaderProps) {
         </Link>
 
         <div className="header-meta">
-          <span className="header-meta-text">AI 资讯聚合</span>
+          <span className="header-meta-text">AI 新闻聚合</span>
+          <Link
+            href="/favorites"
+            className={`header-meta-link${router.pathname === '/favorites' ? ' active' : ''}`}
+          >
+            收藏 <span>{favorites.length}</span>
+          </Link>
+          <div className="header-actions">
+            <GlobalHeaderSearch />
+          </div>
         </div>
       </div>
     </header>

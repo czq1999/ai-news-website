@@ -3,6 +3,13 @@ import { render, screen } from '@testing-library/react';
 import Home from '@/pages/index';
 import type { Article } from '@/types/article';
 
+jest.mock('next/router', () => ({
+  useRouter: () => ({
+    query: {},
+    push: jest.fn(),
+  }),
+}));
+
 jest.mock('next/head', () => ({
   __esModule: true,
   default: ({ children }: { children: ReactNode }) => <>{children}</>,
@@ -32,7 +39,7 @@ const article: Article = {
 
 describe('Home page SEO', () => {
   it('renders title and canonical metadata through the SEO helper', () => {
-    render(<Home articles={[article]} />);
+    render(<Home articles={[article]} initialArticles={[article]} />);
 
     expect(screen.getByText('AI Signal | AI 资讯聚合')).toBeInTheDocument();
     expect(screen.getByText('feed')).toBeInTheDocument();

@@ -3,34 +3,27 @@ import Link from 'next/link';
 import type { Article } from '@/types/article';
 import CategoryBadge from '@/components/UI/CategoryBadge';
 import TimeAgo from '@/components/UI/TimeAgo';
+import FavoriteButton from '@/components/Favorites/FavoriteButton';
+import HighlightedText from '@/components/Search/HighlightedText';
+import { ARTICLE_CATEGORIES } from '@/lib/article-categories';
 
-const CATEGORY_COLORS: Record<string, string> = {
-  llm: '#6EE7F7',
-  product: '#F7C36E',
-  research: '#A77BF7',
-  industry: '#7BF7C0',
-};
-
-const CATEGORY_GLOW: Record<string, string> = {
-  llm: 'rgba(110,231,247,0.16)',
-  product: 'rgba(247,195,110,0.16)',
-  research: 'rgba(167,123,247,0.16)',
-  industry: 'rgba(123,247,192,0.16)',
-};
+const CATEGORY_COLOR_MAP = Object.fromEntries(
+  ARTICLE_CATEGORIES.map(category => [category.slug, category.accent])
+) as Record<string, string>;
 
 interface Props {
   article: Article;
   featured?: boolean;
+  highlightTerms?: string[];
 }
 
-export default function ArticleCard({ article, featured = false }: Props) {
-  const accentColor = CATEGORY_COLORS[article.category] ?? '#6EE7F7';
-  const glowColor = CATEGORY_GLOW[article.category] ?? 'rgba(110,231,247,0.16)';
+export default function ArticleCard({ article, featured = false, highlightTerms = [] }: Props) {
+  const accentColor = CATEGORY_COLOR_MAP[article.category] ?? '#6EE7F7';
+  const glowColor = `${accentColor}29`;
 
   return (
-    <Link
-      href={`/article/${article.id}`}
-      className="article-card-link"
+    <div
+      className="article-card-shell"
       style={
         {
           ['--card-accent' as string]: accentColor,
@@ -38,23 +31,31 @@ export default function ArticleCard({ article, featured = false }: Props) {
         } as CSSProperties
       }
     >
-      <article className={featured ? 'article-card article-card-featured' : 'article-card'}>
-        <div className="article-card__meta">
-          <div className="article-card__meta-left">
-            <CategoryBadge category={article.category} />
-            <span className="mono-label article-source">{article.source}</span>
+      <Link href={`/article/${article.id}`} className="article-card-link">
+        <article className={featured ? 'article-card article-card-featured' : 'article-card'}>
+          <div className="article-card__meta">
+            <div className="article-card__meta-left">
+              <CategoryBadge category={article.category} />
+              <span className="mono-label article-source">{article.source}</span>
+            </div>
+            <TimeAgo dateString={article.published_at} />
           </div>
-          <TimeAgo dateString={article.published_at} />
-        </div>
 
-        <h2 className={featured ? 'card-title-featured' : 'card-title'}>{article.title_zh}</h2>
+          <h2 className={featured ? 'card-title-featured' : 'card-title'}>
+            <HighlightedText text={article.title_zh} terms={highlightTerms} />
+          </h2>
 
-        <p className="card-summary">{article.summary_zh}</p>
+          <p className="card-summary">
+            <HighlightedText text={article.summary_zh} terms={highlightTerms} />
+          </p>
 
-        <div className="article-card__footer">
-          <span className="card-footer-link">阅读全文</span>
-        </div>
-      </article>
-    </Link>
+          <div className="article-card__footer">
+            <span className="card-footer-link">阅读全文</span>
+          </div>
+        </article>
+      </Link>
+
+      <FavoriteButton article={article} />
+    </div>
   );
 }

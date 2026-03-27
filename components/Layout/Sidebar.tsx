@@ -1,13 +1,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { CATEGORIES } from '@/lib/article-categories';
-
-const CATEGORY_COLORS: Record<string, string> = {
-  llm: '#6EE7F7',
-  product: '#F7C36E',
-  research: '#A77BF7',
-  industry: '#7BF7C0',
-};
+import { useFavorites } from '@/components/Favorites/FavoritesProvider';
+import { FILTER_CATEGORIES } from '@/lib/article-categories';
 
 interface SidebarProps {
   menuOpen: boolean;
@@ -16,6 +10,7 @@ interface SidebarProps {
 
 export default function Sidebar({ menuOpen, onClose }: SidebarProps) {
   const router = useRouter();
+  const { favorites } = useFavorites();
   const currentCategory =
     router.pathname === '/' ? 'all' : (router.query.slug as string) ?? 'all';
 
@@ -28,24 +23,25 @@ export default function Sidebar({ menuOpen, onClose }: SidebarProps) {
 
       <nav className="sidebar-nav" aria-label="文章分类">
         <Link
-          href="/"
-          className={`sidebar-link${isActive('all') ? ' active' : ''}`}
-          style={{ ['--sidebar-accent' as string]: '#6EE7F7' }}
+          href="/favorites"
+          className={`sidebar-link${router.pathname === '/favorites' ? ' active' : ''}`}
+          style={{ ['--sidebar-accent' as string]: '#F7C36E' }}
           onClick={onClose}
         >
-          <span className="sidebar-link__label">全部</span>
+          <span className="sidebar-link__label">收藏</span>
+          <span className="sidebar-link__count">{favorites.length}</span>
         </Link>
 
-        {CATEGORIES.map(cat => {
-          const accent = CATEGORY_COLORS[cat.slug] ?? '#6EE7F7';
+        {FILTER_CATEGORIES.map(cat => {
+          const href = cat.slug === 'all' ? '/' : `/category/${cat.slug}`;
           const active = isActive(cat.slug);
 
           return (
             <Link
               key={cat.slug}
-              href={`/category/${cat.slug}`}
+              href={href}
               className={`sidebar-link${active ? ' active' : ''}`}
-              style={{ ['--sidebar-accent' as string]: accent }}
+              style={{ ['--sidebar-accent' as string]: cat.accent }}
               onClick={onClose}
             >
               {active && <span className="sidebar-link__dot" aria-hidden="true" />}

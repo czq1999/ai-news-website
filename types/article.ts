@@ -1,4 +1,4 @@
-export type Category = 'llm' | 'product' | 'research' | 'industry';
+export type Category = 'llm' | 'product' | 'research' | 'industry' | 'safety';
 
 export interface Article {
   id: string;

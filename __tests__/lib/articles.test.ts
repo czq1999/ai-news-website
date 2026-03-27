@@ -39,12 +39,13 @@ describe('getArticleById', () => {
 });
 
 describe('CATEGORIES', () => {
-  it('contains all four categories with labels', () => {
+  it('contains all categories with labels and accents', () => {
     expect(CATEGORIES).toEqual([
-      { slug: 'llm', label: '大模型' },
-      { slug: 'product', label: '产品' },
-      { slug: 'research', label: '研究' },
-      { slug: 'industry', label: '行业' },
+      { slug: 'llm', label: '大模型', accent: '#6EE7F7' },
+      { slug: 'product', label: 'AI 应用', accent: '#F7C36E' },
+      { slug: 'research', label: 'AI 研究', accent: '#A77BF7' },
+      { slug: 'industry', label: '产业动态', accent: '#7BF7C0' },
+      { slug: 'safety', label: '安全治理', accent: '#FF9E6E' },
     ]);
   });
 });

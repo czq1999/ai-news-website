@@ -1,6 +1,12 @@
+import type { ReactElement } from 'react';
 import { render, screen } from '@testing-library/react';
 import ArticleCard from '@/components/Article/ArticleCard';
+import { FavoritesProvider } from '@/components/Favorites/FavoritesProvider';
 import type { Article } from '@/types/article';
+
+function renderWithProviders(ui: ReactElement) {
+  return render(<FavoritesProvider>{ui}</FavoritesProvider>);
+}
 
 const mockArticle: Article = {
   id: 'abc123',
@@ -16,27 +22,27 @@ const mockArticle: Article = {
 
 describe('ArticleCard', () => {
   it('renders the Chinese title', () => {
-    render(<ArticleCard article={mockArticle} />);
+    renderWithProviders(<ArticleCard article={mockArticle} />);
     expect(screen.getByText('OpenAI 发布 GPT-5')).toBeInTheDocument();
   });
 
   it('renders the source name', () => {
-    render(<ArticleCard article={mockArticle} />);
+    renderWithProviders(<ArticleCard article={mockArticle} />);
     expect(screen.getByText('TechCrunch')).toBeInTheDocument();
   });
 
   it('renders the Chinese summary', () => {
-    render(<ArticleCard article={mockArticle} />);
+    renderWithProviders(<ArticleCard article={mockArticle} />);
     expect(screen.getByText(/GPT-5 发布/)).toBeInTheDocument();
   });
 
   it('links to the article detail page', () => {
-    render(<ArticleCard article={mockArticle} />);
+    renderWithProviders(<ArticleCard article={mockArticle} />);
     expect(screen.getByRole('link')).toHaveAttribute('href', '/article/abc123');
   });
 
   it('renders the call to action text', () => {
-    render(<ArticleCard article={mockArticle} />);
+    renderWithProviders(<ArticleCard article={mockArticle} />);
     expect(screen.getByText('阅读全文')).toBeInTheDocument();
   });
 });

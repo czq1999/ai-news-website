@@ -9,17 +9,22 @@ describe('CategoryBadge', () => {
 
   it('renders the correct label for product', () => {
     render(<CategoryBadge category="product" />);
-    expect(screen.getByText('产品')).toBeInTheDocument();
+    expect(screen.getByText('AI 应用')).toBeInTheDocument();
   });
 
   it('renders the correct label for research', () => {
     render(<CategoryBadge category="research" />);
-    expect(screen.getByText('研究')).toBeInTheDocument();
+    expect(screen.getByText('AI 研究')).toBeInTheDocument();
   });
 
   it('renders the correct label for industry', () => {
     render(<CategoryBadge category="industry" />);
-    expect(screen.getByText('行业')).toBeInTheDocument();
+    expect(screen.getByText('产业动态')).toBeInTheDocument();
+  });
+
+  it('renders the correct label for safety', () => {
+    render(<CategoryBadge category="safety" />);
+    expect(screen.getByText('安全治理')).toBeInTheDocument();
   });
 
   it('applies the configured accent color for llm', () => {
