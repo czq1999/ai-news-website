@@ -38,7 +38,9 @@ export default function ArticleCard({ article, featured = false, highlightTerms 
               <CategoryBadge category={article.category} />
               <span className="mono-label article-source">{article.source}</span>
             </div>
-            <TimeAgo dateString={article.published_at} />
+            <div className="article-card__meta-right">
+              <TimeAgo dateString={article.published_at} />
+            </div>
           </div>
 
           <h2 className={featured ? 'card-title-featured' : 'card-title'}>
@@ -54,7 +56,6 @@ export default function ArticleCard({ article, featured = false, highlightTerms 
           </div>
         </article>
       </Link>
-
       <FavoriteButton article={article} />
     </div>
   );
