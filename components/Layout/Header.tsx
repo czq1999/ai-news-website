@@ -62,6 +62,12 @@ export default function Header({ onToggleMenu, menuOpen }: HeaderProps) {
           >
             收藏 <span>{favorites.length}</span>
           </Link>
+          <Link
+            href="/trending"
+            className={`header-meta-link${router.pathname === '/trending' ? ' active' : ''}`}
+          >
+            热点项目
+          </Link>
           <div className="header-actions">
             <GlobalHeaderSearch />
           </div>
