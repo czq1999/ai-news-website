@@ -22,11 +22,6 @@ describe('CategoryBadge', () => {
     expect(screen.getByText('产业动态')).toBeInTheDocument();
   });
 
-  it('renders the correct label for safety', () => {
-    render(<CategoryBadge category="safety" />);
-    expect(screen.getByText('安全治理')).toBeInTheDocument();
-  });
-
   it('applies the configured accent color for llm', () => {
     render(<CategoryBadge category="llm" />);
     expect(screen.getByText('大模型')).toHaveStyle({ color: '#6EE7F7' });

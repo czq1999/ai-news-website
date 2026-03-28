@@ -12,6 +12,7 @@
     "update": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/update.ts"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
     "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18",

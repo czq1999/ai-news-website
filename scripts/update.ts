@@ -1,6 +1,7 @@
 import { fetchRssSource, fetchNewsApi } from './fetch';
 import { translateArticles } from './translate';
 import { mergeArticles } from './merge';
+import { fetchAndSaveTrending } from './fetch-trending';
 import type { Article, RawArticle } from '@/types/article';
 import { mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
@@ -125,25 +126,27 @@ async function main() {
   console.log(`\nNew articles to translate: ${newRaw.length}`);
 
   if (newRaw.length === 0) {
-    console.log('No new articles. Exiting.');
-    process.exit(0);
+    console.log('No new articles. Skipping translation.');
+  } else {
+    console.log('\nTranslating...');
+    const translated = await translateArticles(newRaw);
+    console.log(`  Translated: ${translated.length}/${newRaw.length}`);
+
+    if (translated.length === 0) {
+      console.error('Translation failed: no articles were translated. Exiting.');
+      process.exit(1);
+    }
+
+    console.log('\nMerging...');
+    const merged = mergeArticles(existing, translated).map(normalizeArticle);
+    writeFileSync(dataPath, JSON.stringify(merged, null, 2));
+    mkdirSync(dirname(publicFeedPath), { recursive: true });
+    writeFileSync(publicFeedPath, JSON.stringify(merged, null, 2));
+    console.log(`  Total articles: ${merged.length}`);
   }
 
-  console.log('\nTranslating...');
-  const translated = await translateArticles(newRaw);
-  console.log(`  Translated: ${translated.length}/${newRaw.length}`);
-
-  if (translated.length === 0) {
-    console.error('Translation failed: no articles were translated. Exiting.');
-    process.exit(1);
-  }
-
-  console.log('\nMerging...');
-  const merged = mergeArticles(existing, translated).map(normalizeArticle);
-  writeFileSync(dataPath, JSON.stringify(merged, null, 2));
-  mkdirSync(dirname(publicFeedPath), { recursive: true });
-  writeFileSync(publicFeedPath, JSON.stringify(merged, null, 2));
-  console.log(`  Total articles: ${merged.length}`);
+  console.log('\nFetching GitHub Trending...');
+  await fetchAndSaveTrending();
 
   console.log('\nDone!');
   process.exit(0);
