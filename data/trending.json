@@ -1,3 +1,130 @@
 {
-  "days": []
+  "days": [
+    {
+      "date": "2026-03-28",
+      "summary_zh": "今日趋势聚焦AI代理与开源工具：涵盖多平台信息整合的AI研究技能、实时换脸与一键视频深度伪造、自动化科学发现代理、前沿开源语音AI、社区驱动的CRM替代方案、复杂文档OCR模型、智能体技能框架、深度金融研究代理、多智能体编排工具及开源3D参数化建模软件。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 12854,
+          "stars_today": 2821,
+          "description_zh": "AI代理技能，可研究Reddit、X、YouTube、HN、Polymarket及全网任意主题，并生成基于事实的综合摘要"
+        },
+        {
+          "rank": 2,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description_en": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars_total": 83202,
+          "stars_today": 1616,
+          "description_zh": "实时人脸替换与一键视频深度伪造，仅需单张图片即可实现"
+        },
+        {
+          "rank": 3,
+          "name": "SakanaAI/AI-Scientist-v2",
+          "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+          "description_en": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+          "language": "Python",
+          "stars_total": 2919,
+          "stars_today": 143,
+          "description_zh": "AI科学家-v2：通过代理树搜索实现工作坊级自动化科学发现"
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description_en": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars_total": 24731,
+          "stars_today": 337,
+          "description_zh": "开源前沿语音人工智能"
+        },
+        {
+          "rank": 5,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description_en": "Building a modern alternative to Salesforce, powered by the community.",
+          "language": "TypeScript",
+          "stars_total": 42055,
+          "stars_today": 668,
+          "description_zh": "构建由社区驱动的Salesforce现代替代方案"
+        },
+        {
+          "rank": 6,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description_en": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars_total": 7086,
+          "stars_today": 912,
+          "description_zh": "OCR模型，可处理复杂表格、表单、手写体并完整保留版面结构"
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 118762,
+          "stars_today": 2752,
+          "description_zh": "高效运行的代理技能框架与软件开发方法论"
+        },
+        {
+          "rank": 8,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description_en": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars_total": 19744,
+          "stars_today": 672,
+          "description_zh": "用于深度金融研究的自主代理"
+        },
+        {
+          "rank": 9,
+          "name": "Yeachan-Heo/oh-my-claudecode",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "description_en": "Teams-first Multi-agent orchestration for Claude Code",
+          "language": "TypeScript",
+          "stars_total": 14058,
+          "stars_today": 1411,
+          "description_zh": "面向Claude Code的团队优先多智能体编排系统"
+        },
+        {
+          "rank": 10,
+          "name": "FreeCAD/FreeCAD",
+          "url": "https://github.com/FreeCAD/FreeCAD",
+          "description_en": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+          "language": "C++",
+          "stars_total": 29700,
+          "stars_today": 79,
+          "description_zh": "FreeCAD官方源代码——免费开源的跨平台3D参数化建模软件"
+        },
+        {
+          "rank": 11,
+          "name": "Vaibhavs10/insanely-fast-whisper",
+          "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+          "description_en": "",
+          "language": "Jupyter Notebook",
+          "stars_total": 11911,
+          "stars_today": 1066,
+          "description_zh": ""
+        },
+        {
+          "rank": 12,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars_total": 19200,
+          "stars_today": 547,
+          "description_zh": "开源AI平台——具备高级功能的AI对话系统，兼容所有大语言模型"
+        }
+      ]
+    }
+  ]
 }
