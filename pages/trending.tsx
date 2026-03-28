@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import type { GetStaticProps } from 'next';
-import Link from 'next/link';
 import Layout from '@/components/Layout/Layout';
 import SeoHead from '@/lib/seo';
 import { SITE_NAME } from '@/lib/site';
