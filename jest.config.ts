@@ -12,6 +12,7 @@ const config: Config = {
     '^cheerio$': '<rootDir>/node_modules/cheerio/dist/commonjs/slim.js',
   },
   testMatch: ['**/__tests__/**/*.(ts|tsx)'],
+  testPathIgnorePatterns: ['/node_modules/', '/.worktrees/', '/.claude/'],
 };
 
 export default config;
