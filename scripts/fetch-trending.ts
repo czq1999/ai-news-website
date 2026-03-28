@@ -141,10 +141,10 @@ export async function fetchAndSaveTrending(): Promise<void> {
   }
 
   const today = new Date().toISOString().slice(0, 10);
-  const projects: TrendingProject[] = rawProjects.map(p => ({
-    ...p,
-    description_zh: descMap.get(p.name) ?? '',
-  }));
+  const projects: TrendingProject[] = rawProjects
+    .map(p => ({ ...p, description_zh: descMap.get(p.name) ?? '' }))
+    .sort((a, b) => b.stars_today - a.stars_today)
+    .map((p, i) => ({ ...p, rank: i + 1 }));
 
   const newDay: TrendingDay = { date: today, summary_zh, projects };
 
