@@ -17,7 +17,6 @@ export const ARTICLE_CATEGORIES: Array<{
   { slug: 'product', label: 'AI 应用', accent: '#F7C36E' },
   { slug: 'research', label: 'AI 研究', accent: '#A77BF7' },
   { slug: 'industry', label: '产业动态', accent: '#7BF7C0' },
-  { slug: 'safety', label: '安全治理', accent: '#FF9E6E' },
 ];
 
 export const CATEGORIES = ARTICLE_CATEGORIES;
