@@ -1,3 +1,196 @@
 {
-  "days": []
+  "days": [
+    {
+      "date": "2026-03-29",
+      "summary_zh": "今日趋势聚焦AI代理与开发工具：Deep-Live-Cam实现实时换脸，多个项目如AI-Scientist-v2、agentscope致力于智能体框架与科研自动化，同时数据可视化平台Superset与开源CRM工具twenty也备受关注。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description_en": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars_total": 84561,
+          "stars_today": 1814,
+          "description_zh": "实时人脸替换与单图一键视频深度伪造"
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 121305,
+          "stars_today": 2292,
+          "description_zh": "一个有效的智能体技能框架与软件开发方法论"
+        },
+        {
+          "rank": 3,
+          "name": "SakanaAI/AI-Scientist-v2",
+          "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+          "description_en": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+          "language": "Python",
+          "stars_total": 3615,
+          "stars_today": 506,
+          "description_zh": "AI科学家-v2：通过智能体树搜索实现工作坊级自动化科学发现"
+        },
+        {
+          "rank": 4,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description_en": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars_total": 20312,
+          "stars_today": 581,
+          "description_zh": "用于深度金融研究的自主智能体"
+        },
+        {
+          "rank": 5,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description_en": "Building a modern alternative to Salesforce, powered by the community.",
+          "language": "TypeScript",
+          "stars_total": 42529,
+          "stars_today": 563,
+          "description_zh": "构建由社区驱动的现代化Salesforce替代方案"
+        },
+        {
+          "rank": 6,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars_total": 19882,
+          "stars_today": 880,
+          "description_zh": "开源AI平台——具备高级功能、兼容所有大语言模型的AI对话系统"
+        },
+        {
+          "rank": 7,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description_en": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars_total": 7694,
+          "stars_today": 687,
+          "description_zh": "可处理复杂表格、表单、手写体并完整解析版面的OCR模型"
+        },
+        {
+          "rank": 8,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description_en": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars_total": 21729,
+          "stars_today": 398,
+          "description_zh": "构建并运行可见、可理解、可信赖的智能体"
+        },
+        {
+          "rank": 9,
+          "name": "apache/superset",
+          "url": "https://github.com/apache/superset",
+          "description_en": "Apache Superset is a Data Visualization and Data Exploration Platform",
+          "language": "TypeScript",
+          "stars_total": 71554,
+          "stars_today": 31,
+          "description_zh": "Apache Superset 是一个数据可视化与数据探索平台"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-28",
+      "summary_zh": "今日趋势聚焦AI代理与开发工具：Deep-Live-Cam实现实时换脸，多个项目如AI-Scientist-v2、agentscope致力于智能体框架与科研自动化，同时数据可视化平台Superset与开源CRM工具twenty也备受关注。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description_en": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars_total": 84092,
+          "stars_today": 1789,
+          "description_zh": "实时人脸替换与一键视频深度伪造，仅需单张图片"
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 120368,
+          "stars_today": 2293,
+          "description_zh": "一个有效的智能体技能框架与软件开发方法论"
+        },
+        {
+          "rank": 3,
+          "name": "SakanaAI/AI-Scientist-v2",
+          "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+          "description_en": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+          "language": "Python",
+          "stars_total": 3318,
+          "stars_today": 507,
+          "description_zh": "AI科学家-v2：通过智能体树搜索实现工作坊级自动化科学发现"
+        },
+        {
+          "rank": 4,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description_en": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars_total": 20081,
+          "stars_today": 583,
+          "description_zh": "用于深度金融研究的自主智能体"
+        },
+        {
+          "rank": 5,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description_en": "Building a modern alternative to Salesforce, powered by the community.",
+          "language": "TypeScript",
+          "stars_total": 42331,
+          "stars_today": 562,
+          "description_zh": "构建由社区驱动的现代化Salesforce替代方案"
+        },
+        {
+          "rank": 6,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars_total": 19629,
+          "stars_today": 870,
+          "description_zh": "开源AI平台——具备高级功能的AI聊天系统，兼容所有大语言模型"
+        },
+        {
+          "rank": 7,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description_en": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars_total": 7461,
+          "stars_today": 679,
+          "description_zh": "OCR模型，可处理复杂表格、表单、手写体并完整解析版面布局"
+        },
+        {
+          "rank": 8,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description_en": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars_total": 21493,
+          "stars_today": 379,
+          "description_zh": "构建并运行可见、可理解、可信赖的智能体"
+        },
+        {
+          "rank": 9,
+          "name": "apache/superset",
+          "url": "https://github.com/apache/superset",
+          "description_en": "Apache Superset is a Data Visualization and Data Exploration Platform",
+          "language": "TypeScript",
+          "stars_total": 71355,
+          "stars_today": 67,
+          "description_zh": "Apache Superset 是一个数据可视化与数据探索平台"
+        }
+      ]
+    }
+  ]
 }
