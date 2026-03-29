@@ -1,5 +1,27 @@
 [
   {
+    "id": "9cf62c1fec69d416822e3fb45097e688",
+    "title_en": "The Macintosh changed computers forever",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
+    "published_at": "2026-03-29T12:30:36.000Z",
+    "fetched_at": "2026-03-29T12:35:00.936Z",
+    "title_zh": "Macintosh如何永远地改变了计算机",
+    "summary_zh": "本文回顾了苹果Macintosh电脑的诞生及其对个人计算领域的革命性影响。它探讨了Macintosh的图形用户界面、设计理念如何重塑了人机交互方式，并奠定了现代个人电脑的基础，其遗产至今仍在影响整个科技行业。",
+    "category": "industry"
+  },
+  {
+    "id": "235308819484c4cf0bb96af5b68d16e2",
+    "title_en": "Apple’s long, bitter App Store antitrust war",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
+    "published_at": "2026-03-29T12:00:00.000Z",
+    "fetched_at": "2026-03-29T12:35:00.937Z",
+    "title_zh": "苹果App Store漫长的反垄断苦战",
+    "summary_zh": "文章梳理了苹果公司与其App Store平台所面临的一系列重大反垄断诉讼与监管挑战。从Epic Games诉讼到欧盟《数字市场法案》的合规压力，这场旷日持久的法律与商业斗争，正在深刻影响全球应用生态的规则与开发者的未来。",
+    "category": "industry"
+  },
+  {
     "id": "18ea30cf6f9d6a4a36b28dfcf1d9a19e",
     "title_en": "9 Best Android Phones of 2026, Tested and Reviewed",
     "source": "Wired",
@@ -187,6 +209,28 @@
     "category": "product"
   },
   {
+    "id": "ddc231311c04832d1cd52220753fcaef",
+    "title_en": "'A huge amount of network traffic now comes from machines talking to other machines': what rising data demand means for networks",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com/pro/a-huge-amount-of-network-traffic-now-comes-from-machines-talking-to-other-machines-what-rising-data-demand-means-for-networks",
+    "published_at": "2026-03-28T12:25:00Z",
+    "fetched_at": "2026-03-29T12:35:01.558Z",
+    "title_zh": "“海量网络流量来自机器间通信”：数据需求激增对网络意味着什么",
+    "summary_zh": "随着物联网、AI服务和自动化系统的普及，机器对机器通信产生的数据流量已占据网络流量的很大一部分。文章分析了这一趋势对网络基础设施带来的巨大压力，并探讨了未来网络在容量、延迟和架构上需要进行的变革以适应智能互联时代。",
+    "category": "industry"
+  },
+  {
+    "id": "fc8e679a1c8c8c3978d9c7de2f0ac9a9",
+    "title_en": "Nokia trims 20% global workforce; 75,000 employees impacted: Report",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/technology/nokia-trims-20-global-workforce-75000-employees-impacted-report/articleshow/129864537.cms",
+    "published_at": "2026-03-28T12:06:54Z",
+    "fetched_at": "2026-03-29T12:35:01.558Z",
+    "title_zh": "诺基亚全球裁员20%，约7.5万名员工受影响：报告",
+    "summary_zh": "据报道，电信设备巨头诺基亚计划在全球范围内裁员约20%，预计将影响多达7.5万名员工。此举是公司为削减成本、重组业务以应对市场挑战和提升竞争力而采取的重大举措，反映了电信设备行业当前面临的严峻压力。",
+    "category": "industry"
+  },
+  {
     "id": "eea958c7374794ae079eaf8c19a01676",
     "title_en": "Why OpenAI killed Sora",
     "source": "The Verge",
@@ -209,6 +253,17 @@
     "category": "product"
   },
   {
+    "id": "fa2950237aea639f6f2cd1ef4dc9ec2c",
+    "title_en": "What Is the Level of Knowledge of Artificial Intelligence Chatbots in Clinical Nutrition Questions? - PubMed",
+    "source": "National Institutes of Health",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41631933/",
+    "published_at": "2026-03-28T11:50:26Z",
+    "fetched_at": "2026-03-29T12:35:01.558Z",
+    "title_zh": "人工智能聊天机器人在临床营养问题上的知识水平如何？ - PubMed",
+    "summary_zh": "这篇发表在PubMed上的研究论文评估了以ChatGPT为代表的人工智能聊天机器人在回答临床营养相关问题时的准确性与可靠性。研究通过一系列专业问题测试，分析了当前大语言模型在该垂直领域的知识深度、潜在错误及局限性，为医疗健康领域的AI应用提供了参考。",
+    "category": "research"
+  },
+  {
     "id": "087fdec531c51c4c7bedd40dad8be420",
     "title_en": "What Is the Best Garmin Watch Right Now? (2026)",
     "source": "Wired",
@@ -218,6 +273,17 @@
     "title_zh": "当前最佳Garmin智能手表是哪款？（2026年）",
     "summary_zh": "文章基于2026年的市场情况，对Garmin各系列智能手表进行了全面评测与对比，从运动健康监测、电池续航、智能功能及性价比等维度，为不同需求的用户推荐最合适的型号。",
     "category": "product"
+  },
+  {
+    "id": "2e22c844ca357e0b6340d82cd096c08c",
+    "title_en": "This high school dropout was cleaning offices for $14 an hour before he used AI to build a $1 million business",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/03/28/ai-small-business-entrepreneur-1-million-blue-collar/",
+    "published_at": "2026-03-28T11:30:00Z",
+    "fetched_at": "2026-03-29T12:35:01.558Z",
+    "title_zh": "这位高中辍学生曾时薪14美元打扫办公室，后利用AI创立百万美元业务",
+    "summary_zh": "文章讲述了一位高中辍学生如何利用新兴的人工智能工具，从一个时薪14美元的办公室清洁工，成功转型并创立了一家估值百万美元企业的励志故事。案例突出了AI技术如何降低创业门槛、赋能个体，并正在创造新的商业机会和成功路径。",
+    "category": "industry"
   },
   {
     "id": "c62232a97f4a9686bbd080ca5877bd22",
