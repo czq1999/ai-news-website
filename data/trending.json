@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-03-31",
-      "summary_zh": "今日趋势聚焦AI与开发工具：微软开源语音模型、Claude编程实践指南、实时换脸工具引发关注，金融数据平台与免费编程课程持续热门，系统信息工具更新。",
+      "summary_zh": "今日趋势聚焦AI与开发工具：微软开源语音模型、Claude编程实践指南、实时换脸工具引发关注，金融数据平台与免费编程课程持续热门，同时出现了社交账号追踪与系统信息查询等实用工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/luongnv89/claude-howto",
           "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
           "language": "Python",
-          "stars_total": 9944,
+          "stars_total": 10731,
           "stars_today": 4232,
-          "description_zh": "一份可视化、示例驱动的Claude代码指南——从基础概念到高级智能体，附带可复制粘贴的模板，即刻带来实用价值。"
+          "description_zh": "一份可视化、示例驱动的Claude代码指南——从基础概念到高级智能体，附带可直接复制粘贴的模板，带来即时价值。"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/microsoft/VibeVoice",
           "description_en": "Open-Source Frontier Voice AI",
           "language": "Python",
-          "stars_total": 30474,
+          "stars_total": 31589,
           "stars_today": 2492,
           "description_zh": "开源前沿语音人工智能"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 18645,
+          "stars_total": 19152,
           "stars_today": 1851,
           "description_zh": "与你共同成长的智能体"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/hacksider/Deep-Live-Cam",
           "description_en": "real time face swap and one-click video deepfake with only a single image",
           "language": "Python",
-          "stars_total": 86375,
+          "stars_total": 86644,
           "stars_today": 1136,
           "description_zh": "实时人脸替换与一键视频深度伪造，仅需单张图片"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/shanraisshan/claude-code-best-practice",
           "description_en": "practice made claude perfect",
           "language": "HTML",
-          "stars_total": 26203,
+          "stars_total": 26890,
           "stars_today": 1108,
-          "description_zh": "实践成就Claude完美"
+          "description_zh": "熟能生巧，让Claude臻于完美"
         },
         {
           "rank": 6,
@@ -60,7 +60,7 @@
           "url": "https://github.com/OpenBB-finance/OpenBB",
           "description_en": "Financial data platform for analysts, quants and AI agents.",
           "language": "Python",
-          "stars_total": 64542,
+          "stars_total": 64690,
           "stars_today": 502,
           "description_zh": "面向分析师、量化交易员与AI智能体的金融数据平台"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/freeCodeCamp/freeCodeCamp",
           "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
           "language": "TypeScript",
-          "stars_total": 439732,
+          "stars_total": 439953,
           "stars_today": 368,
           "description_zh": "freeCodeCamp.org的开源代码库与课程体系。免费学习数学、编程与计算机科学。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/fastfetch-cli/fastfetch",
           "description_en": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
           "language": "C",
-          "stars_total": 21420,
+          "stars_total": 21480,
           "stars_today": 276,
           "description_zh": "一个持续维护、功能丰富且注重性能的类neofetch系统信息工具"
         },
@@ -90,9 +90,9 @@
           "url": "https://github.com/sherlock-project/sherlock",
           "description_en": "Hunt down social media accounts by username across social networks",
           "language": "Python",
-          "stars_total": 74744,
+          "stars_total": 74969,
           "stars_today": 76,
-          "description_zh": "通过用户名跨社交网络追踪社交媒体账户"
+          "description_zh": "通过用户名在社交网络中追踪社交媒体账户"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/apache/superset",
           "description_en": "Apache Superset is a Data Visualization and Data Exploration Platform",
           "language": "TypeScript",
-          "stars_total": 71938,
+          "stars_total": 72057,
           "stars_today": 49,
           "description_zh": "Apache Superset是一个数据可视化与数据探索平台"
         }
