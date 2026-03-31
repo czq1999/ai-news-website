@@ -10,7 +10,7 @@
           "url": "https://github.com/microsoft/VibeVoice",
           "description_en": "Open-Source Frontier Voice AI",
           "language": "Python",
-          "stars_total": 32340,
+          "stars_total": 32849,
           "stars_today": 3862,
           "description_zh": "开源前沿语音人工智能"
         },
@@ -20,8 +20,8 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 127264,
-          "stars_today": 2846,
+          "stars_total": 127811,
+          "stars_today": 2623,
           "description_zh": "一个有效的智能体技能框架与软件开发方法论"
         },
         {
@@ -30,7 +30,7 @@
           "url": "https://github.com/shanraisshan/claude-code-best-practice",
           "description_en": "practice made claude perfect",
           "language": "HTML",
-          "stars_total": 27512,
+          "stars_total": 28190,
           "stars_today": 2408,
           "description_zh": "实践成就Claude完美"
         },
@@ -40,9 +40,9 @@
           "url": "https://github.com/luongnv89/claude-howto",
           "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
           "language": "Python",
-          "stars_total": 11560,
+          "stars_total": 12444,
           "stars_today": 2390,
-          "description_zh": "一份可视化、示例驱动的Claude Code指南——从基础概念到高级智能体，附带可直接复制粘贴的模板，带来即时价值。"
+          "description_zh": "一份可视化、示例驱动的Claude Code指南——从基础概念到高级智能体，提供可复制粘贴的模板，带来即时价值。"
         },
         {
           "rank": 5,
@@ -50,7 +50,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 19574,
+          "stars_total": 20012,
           "stars_today": 1909,
           "description_zh": "与你共同成长的智能体"
         },
@@ -60,9 +60,9 @@
           "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
           "description_en": "Teams-first Multi-agent orchestration for Claude Code",
           "language": "TypeScript",
-          "stars_total": 18129,
+          "stars_total": 18627,
           "stars_today": 1127,
-          "description_zh": "面向团队优先的Claude Code多智能体编排系统"
+          "description_zh": "面向团队优先的Claude Code多智能体编排框架"
         },
         {
           "rank": 7,
@@ -70,7 +70,7 @@
           "url": "https://github.com/jwasham/coding-interview-university",
           "description_en": "A complete computer science study plan to become a software engineer.",
           "language": "",
-          "stars_total": 339239,
+          "stars_total": 339479,
           "stars_today": 874,
           "description_zh": "成为软件工程师的完整计算机科学学习计划"
         },
@@ -80,39 +80,39 @@
           "url": "https://github.com/sherlock-project/sherlock",
           "description_en": "Hunt down social media accounts by username across social networks",
           "language": "Python",
-          "stars_total": 75165,
+          "stars_total": 75353,
           "stars_today": 862,
-          "description_zh": "通过用户名在社交网络中追踪社交媒体账户"
+          "description_zh": "通过用户名跨社交网络追踪社交媒体账户"
         },
         {
           "rank": 9,
-          "name": "vas3k/TaxHacker",
-          "url": "https://github.com/vas3k/TaxHacker",
-          "description_en": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-          "language": "TypeScript",
-          "stars_total": 3496,
-          "stars_today": 810,
-          "description_zh": "自托管AI会计应用。通过大语言模型分析收据、发票、交易记录，支持自定义提示词与分类"
-        },
-        {
-          "rank": 10,
           "name": "PaddlePaddle/PaddleOCR",
           "url": "https://github.com/PaddlePaddle/PaddleOCR",
           "description_en": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
           "language": "Python",
-          "stars_total": 73863,
+          "stars_total": 74035,
           "stars_today": 440,
           "description_zh": "将任意PDF或图像文档转化为AI可用的结构化数据。强大轻量的OCR工具包，连接图像/PDF与大语言模型，支持100多种语言。"
         },
         {
+          "rank": 10,
+          "name": "vas3k/TaxHacker",
+          "url": "https://github.com/vas3k/TaxHacker",
+          "description_en": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+          "language": "TypeScript",
+          "stars_total": 3630,
+          "stars_today": 325,
+          "description_zh": "自托管AI会计应用。基于LLM的收据、发票、交易分析器，支持自定义提示与分类"
+        },
+        {
           "rank": 11,
-          "name": "OpenBMB/ChatDev",
-          "url": "https://github.com/OpenBMB/ChatDev",
-          "description_en": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-          "language": "Python",
-          "stars_total": 32298,
-          "stars_today": 254,
-          "description_zh": "ChatDev 2.0：通过大语言模型驱动的多智能体协作实现全流程开发"
+          "name": "Dimillian/Skills",
+          "url": "https://github.com/Dimillian/Skills",
+          "description_en": "My Codex Skills",
+          "language": "Shell",
+          "stars_total": 2778,
+          "stars_today": 173,
+          "description_zh": "我的Codex技能库"
         },
         {
           "rank": 12,
@@ -120,19 +120,19 @@
           "url": "https://github.com/microsoft/agent-lightning",
           "description_en": "The absolute trainer to light up AI agents.",
           "language": "Python",
-          "stars_total": 16090,
-          "stars_today": 251,
+          "stars_total": 16162,
+          "stars_today": 160,
           "description_zh": "点亮AI智能体的绝对训练器"
         },
         {
           "rank": 13,
-          "name": "Dimillian/Skills",
-          "url": "https://github.com/Dimillian/Skills",
-          "description_en": "My Codex Skills",
-          "language": "Shell",
-          "stars_total": 2685,
-          "stars_today": 173,
-          "description_zh": "我的Codex技能库"
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description_en": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars_total": 32367,
+          "stars_today": 117,
+          "description_zh": "ChatDev 2.0：通过LLM驱动的多智能体协作实现全流程开发"
         },
         {
           "rank": 14,
@@ -140,7 +140,7 @@
           "url": "https://github.com/neovim/neovim",
           "description_en": "Vim-fork focused on extensibility and usability",
           "language": "Vim Script",
-          "stars_total": 97763,
+          "stars_total": 97868,
           "stars_today": 95,
           "description_zh": "专注于可扩展性与可用性的Vim分支"
         }
