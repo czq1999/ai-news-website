@@ -2,27 +2,27 @@
   "days": [
     {
       "date": "2026-04-01",
-      "summary_zh": "今日GitHub趋势以AI智能体开发为核心主题，微软等机构开源了语音AI与智能体训练框架，多个项目聚焦Claude Code的实践指南与多智能体编排，同时OCR工具与社交媒体账号搜索等实用工具也备受关注。",
+      "summary_zh": "今日GitHub趋势以AI编程工具为核心，Claude Code等终端智能助手和Google TimesFM时序预测模型成为焦点，同时开源语音AI与社区提示词平台也备受关注。",
       "projects": [
         {
           "rank": 1,
-          "name": "microsoft/VibeVoice",
-          "url": "https://github.com/microsoft/VibeVoice",
-          "description_en": "Open-Source Frontier Voice AI",
-          "language": "Python",
-          "stars_total": 33604,
-          "stars_today": 3863,
-          "description_zh": "开源前沿语音人工智能"
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "Shell",
+          "stars_total": 96879,
+          "stars_today": 3905,
+          "description_zh": "Claude Code 是一款智能编码助手，常驻您的终端，理解您的代码库，并通过自然语言命令执行常规任务、解释复杂代码、处理 Git 工作流，从而帮助您更快地编码。"
         },
         {
           "rank": 2,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 128884,
-          "stars_today": 2620,
-          "description_zh": "一个有效的智能体技能框架与软件开发方法论"
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "language": "Python",
+          "stars_total": 14774,
+          "stars_today": 3336,
+          "description_zh": "一份可视化、示例驱动的 Claude Code 使用指南——从基础概念到高级智能体，提供可直接复用的模板，带来即时价值。"
         },
         {
           "rank": 3,
@@ -30,119 +30,59 @@
           "url": "https://github.com/shanraisshan/claude-code-best-practice",
           "description_en": "practice made claude perfect",
           "language": "HTML",
-          "stars_total": 29398,
-          "stars_today": 2407,
-          "description_zh": "实践成就Claude完美"
+          "stars_total": 29901,
+          "stars_today": 2488,
+          "description_zh": "熟能生巧，实践成就完美"
         },
         {
           "rank": 4,
-          "name": "luongnv89/claude-howto",
-          "url": "https://github.com/luongnv89/claude-howto",
-          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "language": "Python",
-          "stars_total": 14033,
-          "stars_today": 2390,
-          "description_zh": "一份可视化、示例驱动的Claude Code指南——从基础概念到高级智能体，提供可复制粘贴的模板，带来即时价值。"
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description_en": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars_total": 71076,
+          "stars_today": 2345,
+          "description_zh": "轻量级编码智能体，可在终端中运行"
         },
         {
           "rank": 5,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description_en": "Open-Source Frontier Voice AI",
           "language": "Python",
-          "stars_total": 20788,
-          "stars_today": 1907,
-          "description_zh": "与你共同成长的智能体"
+          "stars_total": 33935,
+          "stars_today": 1704,
+          "description_zh": "开源前沿语音人工智能"
         },
         {
           "rank": 6,
-          "name": "Yeachan-Heo/oh-my-claudecode",
-          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-          "description_en": "Teams-first Multi-agent orchestration for Claude Code",
-          "language": "TypeScript",
-          "stars_total": 19768,
-          "stars_today": 1126,
-          "description_zh": "面向团队优先的Claude Code多智能体编排系统"
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "language": "Python",
+          "stars_total": 11647,
+          "stars_today": 495,
+          "description_zh": "TimesFM（时间序列基础模型）是由 Google Research 开发的预训练时间序列基础模型，用于时间序列预测。"
         },
         {
           "rank": 7,
-          "name": "jwasham/coding-interview-university",
-          "url": "https://github.com/jwasham/coding-interview-university",
-          "description_en": "A complete computer science study plan to become a software engineer.",
-          "language": "",
-          "stars_total": 339876,
-          "stars_today": 873,
-          "description_zh": "成为软件工程师的完整计算机科学学习计划"
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+          "language": "HTML",
+          "stars_total": 155605,
+          "stars_today": 442,
+          "description_zh": "前身为 Awesome ChatGPT Prompts。分享、发现和收集社区提示词。免费开源——可为您的组织自托管，确保完全隐私。"
         },
         {
           "rank": 8,
-          "name": "sherlock-project/sherlock",
-          "url": "https://github.com/sherlock-project/sherlock",
-          "description_en": "Hunt down social media accounts by username across social networks",
-          "language": "Python",
-          "stars_total": 75731,
-          "stars_today": 865,
-          "description_zh": "通过用户名跨社交网络追踪社交媒体账户"
-        },
-        {
-          "rank": 9,
-          "name": "PaddlePaddle/PaddleOCR",
-          "url": "https://github.com/PaddlePaddle/PaddleOCR",
-          "description_en": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-          "language": "Python",
-          "stars_total": 74420,
-          "stars_today": 439,
-          "description_zh": "将任何PDF或图像文档转化为AI可用的结构化数据。强大轻量的OCR工具包，连接图像/PDF与大语言模型，支持100多种语言。"
-        },
-        {
-          "rank": 10,
-          "name": "vas3k/TaxHacker",
-          "url": "https://github.com/vas3k/TaxHacker",
-          "description_en": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-          "language": "TypeScript",
-          "stars_total": 3884,
-          "stars_today": 318,
-          "description_zh": "自托管AI会计应用。基于LLM的收据、发票、交易分析器，支持自定义提示和分类"
-        },
-        {
-          "rank": 11,
-          "name": "microsoft/agent-lightning",
-          "url": "https://github.com/microsoft/agent-lightning",
-          "description_en": "The absolute trainer to light up AI agents.",
-          "language": "Python",
-          "stars_total": 16323,
-          "stars_today": 130,
-          "description_zh": "点亮AI智能体的绝对训练器"
-        },
-        {
-          "rank": 12,
-          "name": "Dimillian/Skills",
-          "url": "https://github.com/Dimillian/Skills",
-          "description_en": "My Codex Skills",
-          "language": "Shell",
-          "stars_total": 2995,
-          "stars_today": 115,
-          "description_zh": "我的Codex技能库"
-        },
-        {
-          "rank": 13,
-          "name": "neovim/neovim",
-          "url": "https://github.com/neovim/neovim",
-          "description_en": "Vim-fork focused on extensibility and usability",
-          "language": "Vim Script",
-          "stars_total": 98012,
-          "stars_today": 93,
-          "description_zh": "专注于可扩展性和可用性的Vim分支"
-        },
-        {
-          "rank": 14,
-          "name": "OpenBMB/ChatDev",
-          "url": "https://github.com/OpenBMB/ChatDev",
-          "description_en": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-          "language": "Python",
-          "stars_total": 32497,
-          "stars_today": 84,
-          "description_zh": "ChatDev 2.0：通过LLM驱动的多智能体协作实现全流程开发"
+          "name": "axios/axios",
+          "url": "https://github.com/axios/axios",
+          "description_en": "Promise based HTTP client for the browser and node.js",
+          "language": "JavaScript",
+          "stars_total": 108775,
+          "stars_today": 88,
+          "description_zh": "基于 Promise 的 HTTP 客户端，适用于浏览器和 Node.js"
         }
       ]
     },
