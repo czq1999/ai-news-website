@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-01",
-      "summary_zh": "今日GitHub趋势以AI编程工具为核心，Claude Code等终端智能助手和Google TimesFM时序预测模型成为焦点，同时开源语音AI与社区提示词平台也备受关注。",
+      "summary_zh": "今日GitHub趋势以AI编程工具为核心，Claude Code和Codex等终端智能助手突出，结合微软开源语音AI、谷歌时序预测模型，以及社区Prompt分享平台，展现AI赋能开发与协作的强劲势头。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/anthropics/claude-code",
           "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "Shell",
-          "stars_total": 96879,
-          "stars_today": 3905,
+          "stars_total": 99351,
+          "stars_today": 10087,
           "description_zh": "Claude Code 是一款智能编码助手，常驻您的终端，理解您的代码库，并通过自然语言命令执行常规任务、解释复杂代码、处理 Git 工作流，从而帮助您更快地编码。"
         },
         {
@@ -20,39 +20,39 @@
           "url": "https://github.com/luongnv89/claude-howto",
           "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
           "language": "Python",
-          "stars_total": 14774,
+          "stars_total": 15265,
           "stars_today": 3336,
-          "description_zh": "一份可视化、示例驱动的 Claude Code 使用指南——从基础概念到高级智能体，提供可直接复用的模板，带来即时价值。"
+          "description_zh": "一份关于 Claude Code 的视觉化、示例驱动的指南——从基础概念到高级智能体，提供可复制粘贴的模板，带来即时价值。"
         },
         {
           "rank": 3,
-          "name": "shanraisshan/claude-code-best-practice",
-          "url": "https://github.com/shanraisshan/claude-code-best-practice",
-          "description_en": "practice made claude perfect",
-          "language": "HTML",
-          "stars_total": 29901,
-          "stars_today": 2488,
-          "description_zh": "熟能生巧，实践成就完美"
-        },
-        {
-          "rank": 4,
           "name": "openai/codex",
           "url": "https://github.com/openai/codex",
           "description_en": "Lightweight coding agent that runs in your terminal",
           "language": "Rust",
-          "stars_total": 71076,
+          "stars_total": 71496,
           "stars_today": 2345,
-          "description_zh": "轻量级编码智能体，可在终端中运行"
+          "description_zh": "在终端中运行的轻量级编码智能体"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "microsoft/VibeVoice",
           "url": "https://github.com/microsoft/VibeVoice",
           "description_en": "Open-Source Frontier Voice AI",
           "language": "Python",
-          "stars_total": 33935,
+          "stars_total": 34254,
           "stars_today": 1704,
           "description_zh": "开源前沿语音人工智能"
+        },
+        {
+          "rank": 5,
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+          "language": "HTML",
+          "stars_total": 155842,
+          "stars_today": 442,
+          "description_zh": "前身为 Awesome ChatGPT Prompts。分享、发现和收集社区提供的提示词。免费开源——可为您的组织自托管，确保完全隐私。"
         },
         {
           "rank": 6,
@@ -60,27 +60,17 @@
           "url": "https://github.com/google-research/timesfm",
           "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
           "language": "Python",
-          "stars_total": 11647,
-          "stars_today": 495,
+          "stars_total": 11850,
+          "stars_today": 358,
           "description_zh": "TimesFM（时间序列基础模型）是由 Google Research 开发的预训练时间序列基础模型，用于时间序列预测。"
         },
         {
           "rank": 7,
-          "name": "f/prompts.chat",
-          "url": "https://github.com/f/prompts.chat",
-          "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-          "language": "HTML",
-          "stars_total": 155605,
-          "stars_today": 442,
-          "description_zh": "前身为 Awesome ChatGPT Prompts。分享、发现和收集社区提示词。免费开源——可为您的组织自托管，确保完全隐私。"
-        },
-        {
-          "rank": 8,
           "name": "axios/axios",
           "url": "https://github.com/axios/axios",
           "description_en": "Promise based HTTP client for the browser and node.js",
           "language": "JavaScript",
-          "stars_total": 108775,
+          "stars_total": 108829,
           "stars_today": 88,
           "description_zh": "基于 Promise 的 HTTP 客户端，适用于浏览器和 Node.js"
         }
