@@ -1,5 +1,82 @@
 [
   {
+    "id": "37f21f5aa372b2084cae54524137f09d",
+    "title_en": "California Suspends Enforcement of Law Requiring VCs to Report Diversity Data",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/",
+    "published_at": "2026-04-01T23:56:36.000Z",
+    "fetched_at": "2026-04-02T01:23:02.074Z",
+    "title_zh": "加州暂停执行要求风投报告多样性数据的法律",
+    "summary_zh": "美国加利福尼亚州已决定暂停执行一项颇具争议的法律，该法律要求风险投资公司必须报告其投资组合中创始人的人口统计数据（如种族、性别等）。暂停执行源于法律面临的多起诉讼，争议焦点在于其可能违宪且执行困难。",
+    "category": "industry"
+  },
+  {
+    "id": "7951a886d401a4a98bf9df6bc0f12d73",
+    "title_en": "Trump’s birthright citizenship ban may fail — but the administration already got too far",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments",
+    "published_at": "2026-04-01T23:39:15.000Z",
+    "fetched_at": "2026-04-02T01:23:01.917Z",
+    "title_zh": "特朗普的出生公民权禁令或失败，但政府已走得太远",
+    "summary_zh": "此新闻涉及美国移民政策，与AI/科技领域无关，不符合本次任务要求。",
+    "category": "industry"
+  },
+  {
+    "id": "799cf6f9de9f8dd57618cc496fc06422",
+    "title_en": "NASA launches four astronauts toward the Moon on the Artemis II mission",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts",
+    "published_at": "2026-04-01T22:44:30.000Z",
+    "fetched_at": "2026-04-02T01:23:01.917Z",
+    "title_zh": "NASA发射四名宇航员执行阿尔忒弥斯II号任务，飞向月球",
+    "summary_zh": "此新闻涉及太空探索，与AI/科技领域无直接关联，不符合本次任务要求。",
+    "category": "industry"
+  },
+  {
+    "id": "c38b9a2096a383cc25cf9a6dc2e09acb",
+    "title_en": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "published_at": "2026-04-01T22:12:13.000Z",
+    "fetched_at": "2026-04-02T01:23:01.851Z",
+    "title_zh": "Anthropic意外删除数千个试图获取其泄露源代码的GitHub仓库",
+    "summary_zh": "AI公司Anthropic在源代码泄露后，大规模删除了GitHub上数千个试图抓取该代码的仓库。公司随后表示，这一删除行动是“意外”操作，并已恢复部分仓库。此事凸显了AI模型公司在保护核心知识产权方面面临的挑战，以及开源平台在内容管控上的复杂性。",
+    "category": "industry"
+  },
+  {
+    "id": "062f9036742b61b82153741ded19fc3d",
+    "title_en": "Samsung’s Best OLED TV Is $300 Off",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/samsung-s95f-tv-deal-326/",
+    "published_at": "2026-04-01T20:00:00.000Z",
+    "fetched_at": "2026-04-02T01:23:02.074Z",
+    "title_zh": "三星最佳OLED电视降价300美元",
+    "summary_zh": "三星旗下高端OLED电视系列目前正在进行促销，其旗舰型号价格直降300美元。此次降价涉及多款热门型号，旨在提升市场竞争力，为消费者在高端电视市场提供更具性价比的选择。",
+    "category": "product"
+  },
+  {
+    "id": "1fda9e36aa6868d2a1202ceb0169c996",
+    "title_en": "The Artemis Moon base project is legally dubious",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/905406/artemis-ii-moon-base-law",
+    "published_at": "2026-04-01T19:05:23.000Z",
+    "fetched_at": "2026-04-02T01:23:01.917Z",
+    "title_zh": "阿尔忒弥斯月球基地项目在法律上存在疑点",
+    "summary_zh": "此新闻涉及太空法律与政策，与AI/科技领域无直接关联，不符合本次任务要求。",
+    "category": "industry"
+  },
+  {
+    "id": "d7bd99f8993730431b35c0eac4314769",
+    "title_en": "FDA Approves Eli Lilly’s GLP-1 Pill",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
+    "published_at": "2026-04-01T18:56:03.000Z",
+    "fetched_at": "2026-04-02T01:23:02.074Z",
+    "title_zh": "FDA批准礼来公司的GLP-1口服药",
+    "summary_zh": "美国食品药品监督管理局（FDA）正式批准了礼来公司研发的一款GLP-1受体激动剂口服片剂。该药物用于治疗2型糖尿病，其口服剂型的便利性可能改变当前以注射剂为主的GLP-1药物市场格局，备受业界关注。",
+    "category": "industry"
+  },
+  {
     "id": "104602a7a02499c1631f574730f7b7c2",
     "title_en": "Meta’s natural gas binge could power South Dakota",
     "source": "TechCrunch AI",
@@ -385,6 +462,17 @@
     "category": "product"
   },
   {
+    "id": "48718d6abed229783eb2b5f6cf51abb4",
+    "title_en": "CNBC Daily Open: Markets rally as Trump signals Iran war could end soon",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/01/cnbc-daily-open-us-iran-war-markets-rally-oil-ai-oracle-layoffs.html",
+    "published_at": "2026-04-01T01:17:06Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "CNBC每日开盘：特朗普暗示伊朗战争或很快结束，市场应声上涨",
+    "summary_zh": "CNBC报道，前总统特朗普暗示伊朗冲突可能即将结束，此消息提振了市场情绪，导致股市出现反弹。该报道主要关注地缘政治事件对全球金融市场的影响，属于财经新闻范畴，与人工智能技术无直接关联。",
+    "category": "industry"
+  },
+  {
     "id": "98dfd42a9ae606624113d43dbe26d181",
     "title_en": "The best deals to shop during the last few hours of Amazon’s Big Spring Sale",
     "source": "The Verge",
@@ -394,6 +482,50 @@
     "title_zh": "亚马逊春季大促最后几小时最佳优惠盘点",
     "summary_zh": "亚马逊春季大促即将结束，本文汇总了最后几小时内的最佳科技产品折扣。涵盖电子产品、智能家居、配件等多个类别，帮助消费者抓住促销尾巴，以优惠价格购入心仪商品。建议读者快速浏览，及时下单以免错过限时优惠。",
     "category": "product"
+  },
+  {
+    "id": "62d632ff36802777880fd45e59857947",
+    "title_en": "Salesforce transforms Slackbot into the ultimate work assistant with 30 new AI features",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/03/31/salesforce-transforms-slackbot-ultimate-work-assistant-30-new-ai-features/",
+    "published_at": "2026-04-01T01:09:16Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "Salesforce为Slackbot注入30项新AI功能，打造终极工作助手",
+    "summary_zh": "Salesforce宣布对其Slackbot进行重大升级，一次性增加了30项人工智能新功能，将其转变为一个强大的工作助手。升级后的Slackbot能够处理更复杂的任务，如自动总结对话、起草回复、管理任务和工作流，旨在深度集成到协作平台中，全面提升团队生产力和智能化水平。",
+    "category": "product"
+  },
+  {
+    "id": "21061164ed6174f180f305d0f1f6dd9b",
+    "title_en": "Scenes in Bosnia’s press conference after qualifying",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/scenes-in-bosnias-press-conference-after-qualifying-42642943",
+    "published_at": "2026-04-01T01:02:00Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "波黑队晋级后的新闻发布会现场",
+    "summary_zh": "该报道描述了波黑国家足球队在成功获得某项赛事资格后，举行的新闻发布会现场情况。内容聚焦于体育赛事和球队动态，属于纯粹的体育新闻，与人工智能或科技领域无关。",
+    "category": "industry"
+  },
+  {
+    "id": "22fd53a2eef48acbee7642314af660a2",
+    "title_en": "Pentagon Insider Joins REalloys as Rare Earth Deadline Approaches",
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Pentagon-Insider-Joins-REalloys-as-Rare-Earth-Deadline-Approaches.html",
+    "published_at": "2026-04-01T01:00:00Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "五角大楼内部人士加入REalloys公司，关键稀土期限临近",
+    "summary_zh": "报道称，一位前五角大楼官员加入了稀土材料公司REalloys，此时正值美国确保关键稀土供应链的最后期限迫近。此新闻涉及国防工业、战略资源以及企业人事变动，属于矿产资源和商业新闻领域，并非人工智能技术报道。",
+    "category": "industry"
+  },
+  {
+    "id": "7c93f73801238617c8ffeb9835a992dd",
+    "title_en": " Brazil lead Croatia in final test before squad announcement",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/brazil-lead-croatia-in-final-test-before-squad-announcement-42642933",
+    "published_at": "2026-04-01T00:53:00Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "巴西在阵容公布前的最后一场测试赛中领先克罗地亚",
+    "summary_zh": "这篇报道聚焦于巴西国家足球队在公布最终参赛名单前，与克罗地亚队进行的一场测试赛的战况。内容完全属于体育赛事报道，描述了比赛进程和球队表现，与科技或人工智能没有任何关联。",
+    "category": "industry"
   },
   {
     "id": "1c591b6c5aa799300b60040ceea9d688",
@@ -416,6 +548,61 @@
     "title_zh": "亚马逊2026年春季大促：所有最新优惠一览",
     "summary_zh": "本文持续更新亚马逊2026年春季大促的所有最新科技产品优惠信息。涵盖范围广泛的电子产品、家用电器和数码配件，提供实时折扣价格与购买链接，是消费者在促销期间一站式比价和抢购的实用指南。",
     "category": "product"
+  },
+  {
+    "id": "9779c1e79efd890dadd769393fd0f55b",
+    "title_en": "Meta Deploys AI to Accelerate and Enhance Risk Review During Product Development",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/meta/2026/meta-deploys-ai-to-accelerate-and-enhance-risk-review-during-product-development/",
+    "published_at": "2026-04-01T00:41:44Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "Meta部署AI以在产品开发过程中加速和增强风险审查",
+    "summary_zh": "Meta公司宣布在其产品开发流程中整合人工智能系统，用于自动化和加强风险审查。该AI工具能够更快速、更全面地识别潜在的安全、隐私和合规性问题，帮助开发团队在早期阶段规避风险，从而加快产品上市速度并提升最终产品的安全性与可靠性。",
+    "category": "industry"
+  },
+  {
+    "id": "c2973fa7d3564baa324d929af5a4813c",
+    "title_en": "Krevalitonix Review: Reliable Trading Platform or Scam? Our Findings",
+    "source": "Whatjapanthinks.com",
+    "url": "https://whatjapanthinks.com/krevalitonix-review/",
+    "published_at": "2026-04-01T00:33:30Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "Krevalitonix评测：可靠的交易平台还是骗局？我们的调查结果",
+    "summary_zh": "这是一篇对名为Krevalitonix的交易平台进行的调查评测文章，旨在分析其可靠性，并判断它是否涉嫌欺诈。内容属于金融科技领域的平台评测和消费者警示，主要关注交易平台本身的可信度，而非人工智能技术的应用或发展。",
+    "category": "industry"
+  },
+  {
+    "id": "025d0ba78e1596841263cec85e8a5e24",
+    "title_en": " Fortaleza and Cuiabá bosses clash on the touchline, watch",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/fortaleza-and-cuiaba-bosses-clash-on-the-touchline-watch-42642902",
+    "published_at": "2026-04-01T00:32:00Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "福塔莱萨与库亚巴主帅在场边发生冲突，视频实录",
+    "summary_zh": "该新闻报道了巴西足球俱乐部福塔莱萨与库亚巴的主教练在比赛场边发生激烈争执的事件，并提供了现场视频。这是一则典型的体育花边新闻，内容围绕足球比赛中的冲突场面，与人工智能技术毫无关系。",
+    "category": "industry"
+  },
+  {
+    "id": "bc775408a5500ef5fb159ba2448e8f59",
+    "title_en": "AI videos, WhatsApp networks reshape campaign playbook in poll-bound states",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/technology/ai-videos-whatsapp-networks-reshape-campaign-playbook-in-poll-bound-states/articleshow/129933839.cms",
+    "published_at": "2026-04-01T00:30:00Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "AI视频与WhatsApp网络正在重塑选举关键州的竞选策略",
+    "summary_zh": "报道指出，在印度即将举行选举的几个邦，人工智能生成的深度伪造视频和通过WhatsApp等平台组织的传播网络，正在被政治团体广泛用于影响选民。这种新技术手段能够大规模、个性化地传播信息（或虚假信息），极大地改变了传统竞选活动的运作方式，引发了关于技术伦理和选举公正性的新担忧。",
+    "category": "industry"
+  },
+  {
+    "id": "26cd54f2f9930da565f5ead53c3c2b6f",
+    "title_en": "AI looming large as Indian startups rack up $10 billion in FY26",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/funding/ai-looming-large-as-indian-startups-rack-up-10-billion-in-fy26/articleshow/129933157.cms",
+    "published_at": "2026-04-01T00:30:00Z",
+    "fetched_at": "2026-04-02T01:23:02.370Z",
+    "title_zh": "AI浪潮汹涌：印度初创公司在2026财年融资额预计达100亿美元",
+    "summary_zh": "报道援引行业分析称，在人工智能技术浪潮的推动下，印度初创科技公司的融资规模预计将在2026财年达到100亿美元。这反映了全球资本对印度AI生态系统的强烈信心，以及AI正在成为印度创新经济和风险投资最核心的增长引擎之一。",
+    "category": "industry"
   },
   {
     "id": "433b289ac10af39128530a1ab8baff59",
@@ -5310,193 +5497,6 @@
     "fetched_at": "2026-03-27T12:42:42.629Z",
     "title_zh": "MBody AI公司扩大财富500强部署，推进全国机器人推广计划",
     "summary_zh": "MBody AI公司宣布其AI驱动的机器人解决方案在另一家财富500强企业中获得部署，标志着其全国性机器人推广计划取得重要进展。此举展示了企业级AI机器人自动化在提升运营效率方面的市场需求与增长潜力。",
-    "category": "industry"
-  },
-  {
-    "id": "99ad6679482963618550b4e7c2dc4961",
-    "title_en": "Formula Systems Reports Fourth Quarter and Full Year 2025 Financial Results",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/03/26/3263016/0/en/Formula-Systems-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html",
-    "published_at": "2026-03-26T12:36:00Z",
-    "fetched_at": "2026-03-27T12:42:42.629Z",
-    "title_zh": "Formula Systems公布2025年第四季度及全年财务业绩",
-    "summary_zh": "全球信息技术解决方案提供商Formula Systems发布了其2025年第四季度及全年的财务报告。报告详细披露了公司在软件、咨询及数字转型服务等业务领域的营收、利润及整体财务状况。",
-    "category": "industry"
-  },
-  {
-    "id": "421a55f3f3451e5e70f08657e9dac808",
-    "title_en": "MBody AI Corp. Expands Fortune 500 Deployment, Advancing National Robotics Rollout",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/03/26/3263014/0/en/MBody-AI-Corp-Expands-Fortune-500-Deployment-Advancing-National-Robotics-Rollout.html",
-    "published_at": "2026-03-26T12:35:00Z",
-    "fetched_at": "2026-03-27T12:42:42.629Z",
-    "title_zh": "MBody AI公司扩大财富500强部署，推进全国机器人推广计划",
-    "summary_zh": "MBody AI公司宣布其AI驱动的机器人解决方案在另一家财富500强企业中获得部署，标志着其全国性机器人推广计划取得重要进展。此举展示了企业级AI机器人自动化在提升运营效率方面的市场需求与增长潜力。",
-    "category": "industry"
-  },
-  {
-    "id": "dd65de5225de146ef1d8714254415e38",
-    "title_en": "Treasure Global Reports 7x ARPU Growth on ZCITY; TAZTE Enters Strategic Redevelopment",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/03/26/3263012/0/en/Treasure-Global-Reports-7x-ARPU-Growth-on-ZCITY-TAZTE-Enters-Strategic-Redevelopment.html",
-    "published_at": "2026-03-26T12:33:00Z",
-    "fetched_at": "2026-03-27T12:42:42.629Z",
-    "title_zh": "Treasure Global报告ZCITY平台ARPU增长7倍，TAZTE进入战略重组阶段",
-    "summary_zh": "Treasure Global Inc.宣布其ZCITY消费者App的用户平均收入（ARPU）实现了7倍增长。同时，其餐饮品牌TAZTE正进行战略重组，旨在优化商业模式并提升未来增长潜力，反映了公司在数字生态运营上的积极调整。",
-    "category": "industry"
-  },
-  {
-    "id": "582ef222326012e808f8455eccba049c",
-    "title_en": "ParaZero Technologies Announces Strategic Partnership with XTEND for Advanced Drone Interception Capabilities",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/03/26/3263011/0/en/ParaZero-Technologies-Announces-Strategic-Partnership-with-XTEND-for-Advanced-Drone-Interception-Capabilities.html",
-    "published_at": "2026-03-26T12:32:00Z",
-    "fetched_at": "2026-03-27T12:42:42.629Z",
-    "title_zh": "ParaZero Technologies宣布与XTEND达成战略合作，提升先进无人机拦截能力",
-    "summary_zh": "无人机安全系统提供商ParaZero Technologies与人机界面公司XTEND建立战略合作伙伴关系。双方将整合各自技术，共同开发更先进的无人机拦截与防御解决方案，以应对日益增长的空中安全威胁。",
-    "category": "product"
-  },
-  {
-    "id": "d881c6d492dea8b3dcb32dc1644f177d",
-    "title_en": "College students are writing with AI – but a pilot study finds they’re not simply letting it write for them",
-    "source": "The Conversation Africa",
-    "url": "https://theconversation.com/college-students-are-writing-with-ai-but-a-pilot-study-finds-theyre-not-simply-letting-it-write-for-them-276856",
-    "published_at": "2026-03-26T12:31:59Z",
-    "fetched_at": "2026-03-27T12:42:42.629Z",
-    "title_zh": "研究发现：大学生使用AI辅助写作，但并非完全依赖其代笔",
-    "summary_zh": "一项试点研究表明，大学生正在广泛使用AI工具辅助写作，但方式多为获取灵感、优化结构或润色文本，而非简单地让AI代写全文。这揭示了AI在教育中作为协作工具而非替代品的潜在角色，也引发了关于学术诚信与技能培养的新讨论。",
-    "category": "research"
-  },
-  {
-    "id": "cea20b50767cbeb704b20a58376b928b",
-    "title_en": "Soundboks Mix Review: A Great Party Speaker",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/soundboks-mix/",
-    "published_at": "2026-03-26T12:08:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.652Z",
-    "title_zh": "Soundboks Mix评测：一款出色的派对音箱",
-    "summary_zh": "Soundboks Mix是一款专为户外聚会和活动设计的高性能蓝牙音箱。评测认为它音质出色，低音强劲，音量充沛，且具备良好的便携性和耐用性。其模块化设计允许用户组合多个单元以增强声场，是追求极致户外音乐体验用户的理想选择。",
-    "category": "product"
-  },
-  {
-    "id": "8ba3ea309e41ebf4467105db01d5a592",
-    "title_en": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-    "published_at": "2026-03-26T12:00:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.239Z",
-    "title_zh": "参议员应对AI失业问题：向数据中心索取‘一磅肉’",
-    "summary_zh": "面对人工智能可能导致的就业岗位流失，一位美国参议员提出了一项颇具争议的解决方案：向大规模消耗能源和资源的数据中心征收特殊费用或“补偿”，以此作为对受影响劳动力的支持。该提议旨在将AI发展的经济成本部分转移给科技公司，引发了关于责任分配与技术监管的广泛讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "5c2c5b501c68c394545cb037aa1bc5e6",
-    "title_en": "DJI’s Avata 360 is a more functional, flexible 360 drone",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison",
-    "published_at": "2026-03-26T12:00:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.379Z",
-    "title_zh": "大疆Avata 360：功能更强、更灵活的360度无人机",
-    "summary_zh": "大疆发布了新款Avata 360无人机，作为其沉浸式飞行产品线的重要升级。新款无人机在360度全景拍摄能力上更加成熟，提升了飞行稳定性和操控灵活性，并可能集成了更先进的避障与影像系统，旨在为专业创作者和发烧友提供更强大的第一人称视角航拍体验。",
-    "category": "product"
-  },
-  {
-    "id": "a4919bd87697217af45940883ed904d7",
-    "title_en": "Senators Demand to Know How Much Energy Data Centers Use",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
-    "published_at": "2026-03-26T12:00:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.652Z",
-    "title_zh": "参议员要求公开数据中心的能源消耗数据",
-    "summary_zh": "随着人工智能和云计算需求激增，数据中心的能源消耗引发关注。美国多名参议员正式要求主要科技公司及相关部门公开其数据中心的详细用电情况，以评估其对电网的负荷和环境影响。此举可能为未来制定更严格的能效标准或环保法规铺平道路。",
-    "category": "industry"
-  },
-  {
-    "id": "65494a363e49346a82465f78c548bd26",
-    "title_en": "OpenAI shelves erotic chatbot &#8216;indefinitely&#8217;",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-    "published_at": "2026-03-26T11:58:09.000Z",
-    "fetched_at": "2026-03-26T12:54:18.379Z",
-    "title_zh": "OpenAI‘无限期’搁置情色聊天机器人计划",
-    "summary_zh": "OpenAI已决定“无限期”搁置开发情色或成人主题聊天机器人的计划。这一决定源于对内容安全、品牌形象以及潜在滥用的担忧。尽管AI在内容生成方面能力强大，但公司选择在敏感应用领域采取谨慎态度，凸显了AI伦理与商业化之间的张力。",
-    "category": "industry"
-  },
-  {
-    "id": "0ffa1ab15318fa22fe5418070938a507",
-    "title_en": "Eufy Omni C28 Review: Affordable and Full-Featured",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/eufy-omni-c28/",
-    "published_at": "2026-03-26T11:34:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.652Z",
-    "title_zh": "Eufy Omni C28评测：功能全面且价格亲民",
-    "summary_zh": "安克创新旗下的Eufy Omni C28是一款集扫地、拖地、自清洁基站于一体的扫拖机器人。评测指出，它以相对实惠的价格提供了主流高端机型的核心功能，如智能导航、强力吸尘和热风烘干，性价比突出，是预算有限用户构建智能清洁方案的不错选择。",
-    "category": "product"
-  },
-  {
-    "id": "b87dbb63c5c5931a269f701f9a8d0ef0",
-    "title_en": "Mistral releases a new open-source model for speech generation",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-    "published_at": "2026-03-26T11:30:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.239Z",
-    "title_zh": "Mistral发布新款开源语音生成模型",
-    "summary_zh": "法国AI初创公司Mistral发布了一款新的开源语音生成模型，进一步丰富了其开源模型矩阵。该模型旨在提供高质量的语音合成能力，允许开发者和研究人员自由使用与改进，此举延续了Mistral推动开源AI生态发展的策略，并与闭源商业模型形成竞争。",
-    "category": "product"
-  },
-  {
-    "id": "65cf209530ade1cab6999d00fafb1157",
-    "title_en": "How to Buy Ethical and Eco-Friendly Electronics (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/",
-    "published_at": "2026-03-26T11:30:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.652Z",
-    "title_zh": "如何购买符合道德与环保标准的电子产品（2026版）",
-    "summary_zh": "文章为消费者提供了在2026年购买更负责任电子产品的实用指南。内容涵盖如何识别产品的环保认证、评估公司的劳工权益政策、选择易于维修和升级的设备，以及正确处理电子垃圾。旨在帮助读者通过消费选择，推动科技行业向更可持续和道德的方向发展。",
-    "category": "industry"
-  },
-  {
-    "id": "9d36b87b3cb426848151cb6213438cf4",
-    "title_en": "This Groundbreaking Omega Watch’s Accuracy Is Calibrated Using Sound",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/omega-constellation-observatory-watch-accuracy-is-calibrated-using-sound/",
-    "published_at": "2026-03-26T11:00:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.652Z",
-    "title_zh": "这款突破性的欧米茄腕表，其走时精度竟由声音校准",
-    "summary_zh": "欧米茄推出了一款采用创新校准技术的腕表。传统机械表依靠视觉调节，而这款手表则利用声学原理：通过分析摆轮游丝摆动时发出的细微声音频率，来极其精确地调整走时误差。这项技术将古老的制表工艺与现代声学分析结合，实现了精度上的重大突破。",
-    "category": "product"
-  },
-  {
-    "id": "4c08cb3a3e38ca30ba75871d3f751f5b",
-    "title_en": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
-    "published_at": "2026-03-26T10:30:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.652Z",
-    "title_zh": "‘她将永不衰老’：色情明星拥抱AI克隆以永葆青春",
-    "summary_zh": "报道揭示了成人娱乐行业的一个新兴趋势：从业者开始利用人工智能技术创建自己的数字克隆或“深度伪造”版本。这些AI模型可以生成新的图像和视频，使明星的形象在职业生涯后期甚至退休后仍能保持“年轻”，这引发了关于数字身份、版权和行业伦理的复杂讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "bb96d5fd9b60f43dbc19c9d39732504f",
-    "title_en": "Why ICE Is Allowed to Impersonate Law Enforcement",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/why-ice-is-allowed-to-impersonate-law-enforcement/",
-    "published_at": "2026-03-26T10:00:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.652Z",
-    "title_zh": "为何美国移民及海关执法局被允许冒充执法人员",
-    "summary_zh": "本文深入探讨了美国移民及海关执法局在执法行动中，被法律允许在一定限度内进行便衣侦查或使用策略性伪装（如冒充其他身份）的权力来源、法律依据及其引发的争议。文章分析了这种权力与公民权利之间的潜在冲突，以及相关的监督与问责机制。",
-    "category": "industry"
-  },
-  {
-    "id": "4b2bd8c072681ddb5735623c7d29de45",
-    "title_en": "Anduril’s Real War Is With Itself",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/andurils-real-war-is-with-itself/",
-    "published_at": "2026-03-26T10:00:00.000Z",
-    "fetched_at": "2026-03-26T12:54:18.652Z",
-    "title_zh": "Anduril的真正战争是与自己",
-    "summary_zh": "文章剖析了美国国防科技独角兽Anduril Industries面临的内部挑战。公司在快速扩张、承接大型政府合同的同时，正经历着企业文化、管理架构和技术路线的内部博弈与转型。报道指出，其成功与否不仅取决于外部竞争，更取决于能否解决自身成长带来的阵痛。",
     "category": "industry"
   }
 ]
