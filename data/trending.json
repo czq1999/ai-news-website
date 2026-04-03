@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-03",
-      "summary_zh": "今日GitHub趋势项目聚焦开发者工具与AI应用：开源录屏工具OpenScreen提供免费商业方案；Oh My CodeX为代码库增强AI代理与钩子功能；system_prompts_leaks持续更新主流AI模型的系统提示词泄露；Sherlock保持社交媒体账号追踪工具的热度。整体呈现开源工具实用化与AI生态深度探索的双主线。",
+      "summary_zh": "今日GitHub趋势项目聚焦开发者工具与AI应用：开源录屏工具OpenScreen提供免费商业方案；Oh My CodeX为代码库增强AI协作功能；system_prompts_leaks持续揭秘各大AI模型的系统提示词；Sherlock则提供跨平台社交媒体账号追踪工具。整体呈现开源工具实用化与AI技术透明化趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/Yeachan-Heo/oh-my-codex",
           "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
           "language": "TypeScript",
-          "stars_total": 11769,
+          "stars_total": 12503,
           "stars_today": 2867,
           "description_zh": "OmX - Oh My codeX：你的代码库不再孤单。可添加钩子、智能体团队、HUD界面等丰富功能。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/siddharthvaddem/openscreen",
           "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
           "language": "TypeScript",
-          "stars_total": 15933,
+          "stars_total": 16668,
           "stars_today": 2573,
           "description_zh": "免费创建惊艳的演示视频。开源、无订阅、无水印，可免费商用。Screen Studio 的替代品。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/sherlock-project/sherlock",
           "description_en": "Hunt down social media accounts by username across social networks",
           "language": "Python",
-          "stars_total": 77296,
+          "stars_total": 77646,
           "stars_today": 827,
           "description_zh": "通过用户名在社交网络中追踪社交媒体账户"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/asgeirtj/system_prompts_leaks",
           "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
           "language": "",
-          "stars_total": 36385,
+          "stars_total": 36753,
           "stars_today": 306,
           "description_zh": "提取自 ChatGPT（GPT-5.4、GPT-5.3、Codex）、Claude（Opus 4.6、Sonnet 4.6、Claude Code）、Gemini（3.1 Pro、3 Flash、CLI）、Grok（4.2、4）、Perplexity 等模型的系统提示词。定期更新。"
         }
