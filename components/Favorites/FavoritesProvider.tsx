@@ -1,11 +1,5 @@
-import {
-  createContext,
-  useContext,
-  useEffect,
-  useMemo,
-  useState,
-  type ReactNode,
-} from 'react';
+import { createContext, type ReactNode, useContext, useEffect, useMemo, useState } from 'react';
+
 import type { Article } from '@/types/article';
 
 const FAVORITES_STORAGE_KEY = 'ai-news:favorites:v1';
@@ -37,7 +31,7 @@ function readFavorites(): Article[] {
       return [];
     }
 
-    return parsed.filter(item => item && typeof item.id === 'string');
+    return parsed.filter((item) => item && typeof item.id === 'string');
   } catch {
     return [];
   }
@@ -81,25 +75,25 @@ export function FavoritesProvider({ children }: { children: ReactNode }) {
     () => ({
       favorites,
       hydrated,
-      isFavorite: articleId => favorites.some(article => article.id === articleId),
-      toggleFavorite: article => {
-        setFavorites(current => {
-          const exists = current.some(item => item.id === article.id);
+      isFavorite: (articleId) => favorites.some((article) => article.id === articleId),
+      toggleFavorite: (article) => {
+        setFavorites((current) => {
+          const exists = current.some((item) => item.id === article.id);
           if (exists) {
-            return current.filter(item => item.id !== article.id);
+            return current.filter((item) => item.id !== article.id);
           }
 
           return [article, ...current];
         });
       },
-      removeFavorite: articleId => {
-        setFavorites(current => current.filter(article => article.id !== articleId));
+      removeFavorite: (articleId) => {
+        setFavorites((current) => current.filter((article) => article.id !== articleId));
       },
       clearFavorites: () => {
         setFavorites([]);
       },
     }),
-    [favorites, hydrated],
+    [favorites, hydrated]
   );
 
   return <FavoritesContext.Provider value={value}>{children}</FavoritesContext.Provider>;

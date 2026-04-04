@@ -3,27 +3,26 @@ import type { Article, RawArticle } from '@/types/article';
 
 describe('parseSources', () => {
   it('parses valid source config', () => {
-    expect(
-      parseSources({
-        rss: [{ url: 'https://example.com/rss', name: 'Example' }],
-        newsapi: { query: 'ai', language: 'en', pageSize: 10 },
-      })
-    ).toEqual({
+    const valid = {
       rss: [{ url: 'https://example.com/rss', name: 'Example' }],
       newsapi: { query: 'ai', language: 'en', pageSize: 10 },
-    });
+    };
+    expect(parseSources(valid)).toEqual(valid);
   });
 
   it('rejects invalid rss configuration', () => {
-    expect(() => parseSources({ rss: 'bad', newsapi: {} })).toThrow('sources.json must have an "rss" array');
+    expect(() => parseSources({ rss: 'bad', newsapi: {} })).toThrow('Invalid sources.json');
   });
 });
 
 describe('parseExistingArticles', () => {
-  it('rejects invalid article records', () => {
-    expect(() => parseExistingArticles([{ nope: true }])).toThrow(
-      'articles.json contains invalid article: missing or non-string id field'
-    );
+  it('skips invalid article records without throwing', () => {
+    // New implementation logs warning and filters out, doesn't throw for single items
+    expect(parseExistingArticles([{ nope: true }])).toEqual([]);
+  });
+
+  it('throws if input is not an array', () => {
+    expect(() => parseExistingArticles({})).toThrow('articles.json must be a JSON array');
   });
 });
 

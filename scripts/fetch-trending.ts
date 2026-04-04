@@ -1,6 +1,7 @@
 import * as cheerio from 'cheerio';
-import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { existsSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
+
 import type { TrendingData, TrendingDay, TrendingProject } from '@/types/trending';
 
 interface RawTrendingProject {
@@ -39,14 +40,22 @@ export function parseTrendingProjects(html: string): RawTrendingProject[] {
     const starsText = $(el).find('a[href$="/stargazers"]').text().trim().replace(/,/g, '');
     const stars_total = parseInt(starsText, 10) || 0;
 
-    projects.push({ rank: index + 1, name, url, description_en, language, stars_total, stars_today });
+    projects.push({
+      rank: index + 1,
+      name,
+      url,
+      description_en,
+      language,
+      stars_total,
+      stars_today,
+    });
   });
 
   return projects;
 }
 
 export function mergeTrendingDay(existing: TrendingData, newDay: TrendingDay): TrendingData {
-  const filtered = existing.days.filter(d => d.date !== newDay.date);
+  const filtered = existing.days.filter((d) => d.date !== newDay.date);
   const days = [newDay, ...filtered].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 30);
   return { days };
 }
@@ -73,7 +82,7 @@ async function translateDescriptions(
   projects: RawTrendingProject[],
   apiKey: string
 ): Promise<Map<string, string>> {
-  const items = projects.map(p => ({ name: p.name, description: p.description_en }));
+  const items = projects.map((p) => ({ name: p.name, description: p.description_en }));
   const prompt = `Translate these GitHub project descriptions to Chinese. Return ONLY a JSON array. Each object must have exactly "name" and "description_zh" fields.
 
 Projects:
@@ -84,13 +93,13 @@ ${JSON.stringify(items, null, 2)}`;
   if (!jsonMatch) return new Map();
 
   const results = JSON.parse(jsonMatch[0]) as Array<{ name: string; description_zh: string }>;
-  return new Map(results.map(r => [r.name, r.description_zh ?? '']));
+  return new Map(results.map((r) => [r.name, r.description_zh ?? '']));
 }
 
 async function generateSummary(projects: RawTrendingProject[], apiKey: string): Promise<string> {
   const list = projects
     .slice(0, 10)
-    .map(p => `${p.name}: ${p.description_en}`)
+    .map((p) => `${p.name}: ${p.description_en}`)
     .join('\n');
   const prompt = `Based on today's GitHub Trending projects listed below, write a 100-150 character Chinese summary describing the main themes and highlights. Return ONLY the Chinese summary text.
 
@@ -142,7 +151,7 @@ export async function fetchAndSaveTrending(): Promise<void> {
 
   const today = new Date().toISOString().slice(0, 10);
   const projects: TrendingProject[] = rawProjects
-    .map(p => ({ ...p, description_zh: descMap.get(p.name) ?? '' }))
+    .map((p) => ({ ...p, description_zh: descMap.get(p.name) ?? '' }))
     .sort((a, b) => b.stars_today - a.stars_today)
     .map((p, i) => ({ ...p, rank: i + 1 }));
 
@@ -158,7 +167,7 @@ export async function fetchAndSaveTrending(): Promise<void> {
 }
 
 if (require.main === module) {
-  fetchAndSaveTrending().catch(err => {
+  fetchAndSaveTrending().catch((err) => {
     console.error(err);
     process.exit(1);
   });

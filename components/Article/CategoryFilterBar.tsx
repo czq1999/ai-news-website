@@ -1,5 +1,5 @@
-import type { Category } from '@/types/article';
 import { FILTER_CATEGORIES } from '@/lib/article-categories';
+import type { Category } from '@/types/article';
 
 interface CategoryFilterBarProps {
   selectedCategories: Category[];
@@ -34,9 +34,11 @@ export default function CategoryFilterBar({
       </div>
 
       <div className="category-filter__chips">
-        {FILTER_CATEGORIES.map(option => {
+        {FILTER_CATEGORIES.map((option) => {
           const isAll = option.slug === 'all';
-          const active = isAll ? !hasSelection : selectedCategories.includes(option.slug as Category);
+          const active = isAll
+            ? !hasSelection
+            : selectedCategories.includes(option.slug as Category);
 
           return (
             <button

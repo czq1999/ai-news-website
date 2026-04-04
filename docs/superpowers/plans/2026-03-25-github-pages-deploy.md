@@ -12,9 +12,9 @@
 
 ## 文件变更清单
 
-| 操作 | 文件 | 说明 |
-|------|------|------|
-| Modify | `next.config.mjs` | 添加 `output: 'export'` 和 `basePath` |
+| 操作   | 文件                                        | 说明                                                           |
+| ------ | ------------------------------------------- | -------------------------------------------------------------- |
+| Modify | `next.config.mjs`                           | 添加 `output: 'export'` 和 `basePath`                          |
 | Modify | `.github/workflows/fetch-and-translate.yml` | 新增 permissions、改造 commit 步骤输出标志、追加构建和部署步骤 |
 
 ---
@@ -22,6 +22,7 @@
 ## Task 1：配置 Next.js 静态导出
 
 **Files:**
+
 - Modify: `next.config.mjs`
 
 - [ ] **Step 1: 修改 `next.config.mjs`**
@@ -46,6 +47,7 @@ npm run build
 ```
 
 预期结果：
+
 - 构建成功，无报错
 - 生成 `out/` 目录
 - `out/index.html` 存在
@@ -71,6 +73,7 @@ git commit -m "feat: enable Next.js static export with basePath for GitHub Pages
 ## Task 2：更新 GitHub Actions Workflow
 
 **Files:**
+
 - Modify: `.github/workflows/fetch-and-translate.yml`
 
 - [ ] **Step 1: 更新 job 级别 permissions**
@@ -78,17 +81,17 @@ git commit -m "feat: enable Next.js static export with basePath for GitHub Pages
 将现有的：
 
 ```yaml
-    permissions:
-      contents: write         # 需要写权限来 push 到仓库
+permissions:
+  contents: write # 需要写权限来 push 到仓库
 ```
 
 改为：
 
 ```yaml
-    permissions:
-      contents: write         # 需要写权限来 push 到仓库
-      pages: write            # 部署到 GitHub Pages
-      id-token: write         # OIDC 部署所必需，必须在 job 级别
+permissions:
+  contents: write # 需要写权限来 push 到仓库
+  pages: write # 部署到 GitHub Pages
+  id-token: write # OIDC 部署所必需，必须在 job 级别
 ```
 
 - [ ] **Step 2: 改造 "Commit and push if changed" 步骤**
@@ -98,36 +101,36 @@ git commit -m "feat: enable Next.js static export with basePath for GitHub Pages
 将现有的：
 
 ```yaml
-      - name: Commit and push if changed
-        run: |
-          git config user.name "AI News Bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add data/articles.json
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: update articles [skip ci]"
-            git push
-          fi
+- name: Commit and push if changed
+  run: |
+    git config user.name "AI News Bot"
+    git config user.email "bot@users.noreply.github.com"
+    git add data/articles.json
+    if git diff --staged --quiet; then
+      echo "No changes to commit"
+    else
+      git commit -m "chore: update articles [skip ci]"
+      git push
+    fi
 ```
 
 替换为：
 
 ```yaml
-      - name: Commit and push if changed
-        id: commit
-        run: |
-          git config user.name "AI News Bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add data/articles.json
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            echo "articles_changed=false" >> $GITHUB_OUTPUT
-          else
-            git commit -m "chore: update articles [skip ci]"
-            git push
-            echo "articles_changed=true" >> $GITHUB_OUTPUT
-          fi
+- name: Commit and push if changed
+  id: commit
+  run: |
+    git config user.name "AI News Bot"
+    git config user.email "bot@users.noreply.github.com"
+    git add data/articles.json
+    if git diff --staged --quiet; then
+      echo "No changes to commit"
+      echo "articles_changed=false" >> $GITHUB_OUTPUT
+    else
+      git commit -m "chore: update articles [skip ci]"
+      git push
+      echo "articles_changed=true" >> $GITHUB_OUTPUT
+    fi
 ```
 
 - [ ] **Step 3: 追加构建和部署步骤**
@@ -135,19 +138,19 @@ git commit -m "feat: enable Next.js static export with basePath for GitHub Pages
 在 "Commit and push if changed" 步骤之后追加以下三个步骤：
 
 ```yaml
-      - name: Build static site
-        if: steps.commit.outputs.articles_changed == 'true'
-        run: npm run build
+- name: Build static site
+  if: steps.commit.outputs.articles_changed == 'true'
+  run: npm run build
 
-      - name: Upload Pages artifact
-        if: steps.commit.outputs.articles_changed == 'true'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: out/
+- name: Upload Pages artifact
+  if: steps.commit.outputs.articles_changed == 'true'
+  uses: actions/upload-pages-artifact@v3
+  with:
+    path: out/
 
-      - name: Deploy to GitHub Pages
-        if: steps.commit.outputs.articles_changed == 'true'
-        uses: actions/deploy-pages@v4
+- name: Deploy to GitHub Pages
+  if: steps.commit.outputs.articles_changed == 'true'
+  uses: actions/deploy-pages@v4
 ```
 
 - [ ] **Step 4: 验证完整 workflow 文件结构**
@@ -160,16 +163,16 @@ name: Fetch and Translate AI News
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 每 6 小时运行一次
-  workflow_dispatch:          # 允许手动触发
+    - cron: '0 */6 * * *' # 每 6 小时运行一次
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write         # 需要写权限来 push 到仓库
-      pages: write            # 部署到 GitHub Pages
-      id-token: write         # OIDC 部署所必需，必须在 job 级别
+      contents: write # 需要写权限来 push 到仓库
+      pages: write # 部署到 GitHub Pages
+      id-token: write # OIDC 部署所必需，必须在 job 级别
 
     steps:
       - name: Checkout repository
@@ -254,12 +257,14 @@ git commit -m "feat: add GitHub Pages build and deploy to fetch-and-translate wo
 - [ ] **Step 1: 手动触发 Workflow**
 
 在 GitHub Actions 页面，手动触发 `Fetch and Translate AI News` workflow（workflow_dispatch），观察执行过程：
+
 - 若本次有新文章：应看到 Build、Upload、Deploy 步骤全部绿色通过
 - 若无新文章：Build/Upload/Deploy 步骤显示 skipped（橙色），属正常
 
 - [ ] **Step 2: 访问验证**
 
 Workflow 成功后，访问：
+
 ```
 https://czq1999.github.io/ai-news-website/
 ```

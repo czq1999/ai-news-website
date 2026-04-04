@@ -1,5 +1,6 @@
-import { useState, useEffect, useCallback, type ReactNode } from 'react';
 import { useRouter } from 'next/router';
+import { type ReactNode, useCallback, useEffect, useState } from 'react';
+
 import Header from './Header';
 import Sidebar from './Sidebar';
 
@@ -8,7 +9,7 @@ export default function Layout({ children }: { children: ReactNode }) {
   const router = useRouter();
 
   const closeMenu = useCallback(() => setMenuOpen(false), []);
-  const toggleMenu = useCallback(() => setMenuOpen(prev => !prev), []);
+  const toggleMenu = useCallback(() => setMenuOpen((prev) => !prev), []);
 
   useEffect(() => {
     router.events.on('routeChangeStart', closeMenu);

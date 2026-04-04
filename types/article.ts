@@ -1,22 +1,26 @@
-export type Category = 'llm' | 'product' | 'research' | 'industry';
+import { z } from 'zod';
 
-export interface Article {
-  id: string;
-  title_en: string;
-  title_zh: string;
-  summary_zh: string;
-  category: Category;
-  source: string;
-  url: string;
-  published_at: string;
-  fetched_at: string;
-}
+export const CATEGORIES = ['llm', 'product', 'research', 'industry'] as const;
 
-export interface RawArticle {
-  id: string;
-  title_en: string;
-  source: string;
-  url: string;
-  published_at: string;
-  fetched_at: string;
-}
+export const CategorySchema = z.enum(CATEGORIES);
+
+export type Category = z.infer<typeof CategorySchema>;
+
+export const RawArticleSchema = z.object({
+  id: z.string(),
+  title_en: z.string(),
+  source: z.string(),
+  url: z.string().url(),
+  published_at: z.string(), // We could use z.string().datetime() if strictly ISO
+  fetched_at: z.string(),
+});
+
+export type RawArticle = z.infer<typeof RawArticleSchema>;
+
+export const ArticleSchema = RawArticleSchema.extend({
+  title_zh: z.string(),
+  summary_zh: z.string(),
+  category: CategorySchema,
+});
+
+export type Article = z.infer<typeof ArticleSchema>;

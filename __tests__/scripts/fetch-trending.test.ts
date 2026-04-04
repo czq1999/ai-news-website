@@ -1,4 +1,4 @@
-import { parseTrendingProjects, mergeTrendingDay } from '@/scripts/fetch-trending';
+import { mergeTrendingDay, parseTrendingProjects } from '@/scripts/fetch-trending';
 import type { TrendingData, TrendingDay } from '@/types/trending';
 
 const SAMPLE_HTML = `
@@ -55,9 +55,7 @@ describe('parseTrendingProjects', () => {
 
 describe('mergeTrendingDay', () => {
   const existing: TrendingData = {
-    days: [
-      { date: '2026-03-26', summary_zh: '昨日总结', projects: [] },
-    ],
+    days: [{ date: '2026-03-26', summary_zh: '昨日总结', projects: [] }],
   };
 
   const newDay: TrendingDay = {

@@ -1,9 +1,10 @@
 import type { GetStaticPaths, GetStaticProps } from 'next';
-import type { Article, Category } from '@/types/article';
-import { CATEGORIES } from '@/lib/article-categories';
-import Layout from '@/components/Layout/Layout';
+
 import ArticleFeed from '@/components/Article/ArticleFeed';
+import Layout from '@/components/Layout/Layout';
+import { CATEGORIES } from '@/lib/article-categories';
 import SeoHead from '@/lib/seo';
+import type { Article, Category } from '@/types/article';
 
 const INITIAL_CATEGORY_ARTICLES = 12;
 
@@ -40,13 +41,13 @@ export default function CategoryPage({ articles, categoryLabel, category }: Prop
 }
 
 export const getStaticPaths: GetStaticPaths = async () => ({
-  paths: CATEGORIES.map(category => ({ params: { slug: category.slug } })),
+  paths: CATEGORIES.map((category) => ({ params: { slug: category.slug } })),
   fallback: false,
 });
 
 export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   const slug = params!.slug as Category;
-  const category = CATEGORIES.find(item => item.slug === slug);
+  const category = CATEGORIES.find((item) => item.slug === slug);
   const { getArticlesByCategory } = await import('@/lib/articles.server');
 
   return {

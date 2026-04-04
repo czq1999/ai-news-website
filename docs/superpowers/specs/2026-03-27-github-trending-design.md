@@ -18,11 +18,11 @@
 
 ### 涉及文件
 
-| 文件 | 变更内容 |
-|------|----------|
-| `types/article.ts` | 从 `Category` union type 中删除 `'safety'` |
+| 文件                        | 变更内容                                       |
+| --------------------------- | ---------------------------------------------- |
+| `types/article.ts`          | 从 `Category` union type 中删除 `'safety'`     |
 | `lib/article-categories.ts` | 从 `ARTICLE_CATEGORIES` 数组中删除 safety 条目 |
-| `scripts/translate.ts` | 从翻译 prompt 中删除安全治理分类说明 |
+| `scripts/translate.ts`      | 从翻译 prompt 中删除安全治理分类说明           |
 
 ### 注意
 
@@ -74,7 +74,7 @@ export interface TrendingProject {
 }
 
 export interface TrendingDay {
-  date: string;          // YYYY-MM-DD
+  date: string; // YYYY-MM-DD
   summary_zh: string;
   projects: TrendingProject[];
 }
@@ -147,19 +147,19 @@ export interface TrendingData {
 
 ## 文件变更汇总
 
-| 文件 | 操作 |
-|------|------|
-| `types/article.ts` | 修改：删除 `'safety'` |
-| `lib/article-categories.ts` | 修改：删除 safety 条目 |
-| `scripts/translate.ts` | 修改：删除 safety 分类说明 |
-| `types/trending.ts` | 新增 |
-| `data/trending.json` | 新增（脚本生成） |
-| `scripts/fetch-trending.ts` | 新增 |
-| `scripts/update.ts` | 修改：追加 fetch-trending 调用 |
-| `lib/trending.ts` | 新增 |
-| `pages/trending.tsx` | 新增 |
-| `components/Layout/Sidebar.tsx` | 修改：新增热点项目入口 |
-| `components/Layout/Header.tsx` | 修改：新增热点项目链接 |
+| 文件                            | 操作                           |
+| ------------------------------- | ------------------------------ |
+| `types/article.ts`              | 修改：删除 `'safety'`          |
+| `lib/article-categories.ts`     | 修改：删除 safety 条目         |
+| `scripts/translate.ts`          | 修改：删除 safety 分类说明     |
+| `types/trending.ts`             | 新增                           |
+| `data/trending.json`            | 新增（脚本生成）               |
+| `scripts/fetch-trending.ts`     | 新增                           |
+| `scripts/update.ts`             | 修改：追加 fetch-trending 调用 |
+| `lib/trending.ts`               | 新增                           |
+| `pages/trending.tsx`            | 新增                           |
+| `components/Layout/Sidebar.tsx` | 修改：新增热点项目入口         |
+| `components/Layout/Header.tsx`  | 修改：新增热点项目链接         |
 
 ---
 

@@ -1,9 +1,10 @@
 import Link from 'next/link';
-import Layout from '@/components/Layout/Layout';
+
 import ArticleCard from '@/components/Article/ArticleCard';
+import { useFavorites } from '@/components/Favorites/FavoritesProvider';
+import Layout from '@/components/Layout/Layout';
 import SeoHead from '@/lib/seo';
 import { SITE_DESCRIPTION, SITE_NAME } from '@/lib/site';
-import { useFavorites } from '@/components/Favorites/FavoritesProvider';
 
 function FavoritesContent() {
   const { favorites, hydrated, clearFavorites } = useFavorites();
@@ -15,9 +16,7 @@ function FavoritesContent() {
   if (favorites.length === 0) {
     return (
       <div className="favorites-empty">
-        <p className="empty-state">
-          还没有收藏任何新闻，点击卡片右上角的星标即可加入稍后读。
-        </p>
+        <p className="empty-state">还没有收藏任何新闻，点击卡片右上角的星标即可加入稍后读。</p>
         <Link href="/" className="back-link">
           返回首页挑选
         </Link>
@@ -37,7 +36,7 @@ function FavoritesContent() {
       </div>
 
       <div className="article-grid">
-        {favorites.map(article => (
+        {favorites.map((article) => (
           <ArticleCard key={article.id} article={article} />
         ))}
       </div>

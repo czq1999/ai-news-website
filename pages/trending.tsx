@@ -1,5 +1,6 @@
-import { useState } from 'react';
 import type { GetStaticProps } from 'next';
+import { useState } from 'react';
+
 import Layout from '@/components/Layout/Layout';
 import SeoHead from '@/lib/seo';
 import { SITE_NAME } from '@/lib/site';
@@ -11,7 +12,7 @@ interface Props {
 
 export default function TrendingPage({ days }: Props) {
   const [selectedDate, setSelectedDate] = useState(days[0]?.date ?? '');
-  const current = days.find(d => d.date === selectedDate) ?? days[0];
+  const current = days.find((d) => d.date === selectedDate) ?? days[0];
   const recentDays = days.slice(0, 7);
 
   if (!current) {
@@ -55,7 +56,7 @@ export default function TrendingPage({ days }: Props) {
 
           {recentDays.length > 1 && (
             <div className="trending-date-tabs">
-              {recentDays.map(d => (
+              {recentDays.map((d) => (
                 <button
                   key={d.date}
                   type="button"
@@ -69,7 +70,7 @@ export default function TrendingPage({ days }: Props) {
           )}
 
           <ol className="trending-list">
-            {current.projects.map(project => (
+            {current.projects.map((project) => (
               <li key={project.name} className="trending-item">
                 <span className="trending-item__rank">#{project.rank}</span>
                 <div className="trending-item__body">
@@ -85,7 +86,9 @@ export default function TrendingPage({ days }: Props) {
                     {project.language && (
                       <span className="trending-item__lang">{project.language}</span>
                     )}
-                    <span className="trending-item__stars">★ {project.stars_today.toLocaleString()} today</span>
+                    <span className="trending-item__stars">
+                      ★ {project.stars_today.toLocaleString()} today
+                    </span>
                   </div>
                   {(project.description_zh || project.description_en) && (
                     <p className="trending-item__desc">

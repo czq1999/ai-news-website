@@ -1,14 +1,15 @@
-import type { CSSProperties } from 'react';
 import Link from 'next/link';
-import type { Article } from '@/types/article';
-import CategoryBadge from '@/components/UI/CategoryBadge';
-import TimeAgo from '@/components/UI/TimeAgo';
+import type { CSSProperties } from 'react';
+
 import FavoriteButton from '@/components/Favorites/FavoriteButton';
 import HighlightedText from '@/components/Search/HighlightedText';
+import CategoryBadge from '@/components/UI/CategoryBadge';
+import TimeAgo from '@/components/UI/TimeAgo';
 import { ARTICLE_CATEGORIES } from '@/lib/article-categories';
+import type { Article } from '@/types/article';
 
 const CATEGORY_COLOR_MAP = Object.fromEntries(
-  ARTICLE_CATEGORIES.map(category => [category.slug, category.accent])
+  ARTICLE_CATEGORIES.map((category) => [category.slug, category.accent])
 ) as Record<string, string>;
 
 interface Props {

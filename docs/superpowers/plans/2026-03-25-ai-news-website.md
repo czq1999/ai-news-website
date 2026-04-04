@@ -58,6 +58,7 @@ ai-news-website/
 ## Task 1: 初始化 Next.js 项目
 
 **Files:**
+
 - Create: `package.json`（由 create-next-app 生成）
 - Create: `tailwind.config.ts`
 - Create: `.gitignore`
@@ -65,9 +66,11 @@ ai-news-website/
 - [ ] **Step 1: 创建 Next.js 项目**
 
 在项目根目录运行：
+
 ```bash
 npx create-next-app@14 . --typescript --tailwind --eslint --no-app --no-src-dir --import-alias="@/*"
 ```
+
 选项说明：`--no-app` 使用 Pages Router，`--no-src-dir` 不创建 src 目录。
 
 - [ ] **Step 2: 在 .gitignore 追加排除 superpowers 目录**
@@ -81,6 +84,7 @@ echo ".superpowers/" >> .gitignore
 ```bash
 npm run dev
 ```
+
 预期：浏览器打开 http://localhost:3000 显示 Next.js 默认页面。Ctrl+C 停止。
 
 - [ ] **Step 4: 提交**
@@ -95,6 +99,7 @@ git commit -m "chore: initialize Next.js project with TypeScript and Tailwind"
 ## Task 2: 配置测试框架
 
 **Files:**
+
 - Create: `jest.config.ts`
 - Create: `jest.setup.ts`
 - Modify: `package.json`（添加 test script 和 jest 配置）
@@ -136,6 +141,7 @@ import '@testing-library/jest-dom';
 - [ ] **Step 4: 在 package.json 添加 test script**
 
 在 `"scripts"` 中添加：
+
 ```json
 "test": "jest",
 "test:watch": "jest --watch"
@@ -144,15 +150,19 @@ import '@testing-library/jest-dom';
 - [ ] **Step 5: 验证测试框架可运行**
 
 创建临时测试文件 `__tests__/smoke.test.ts`：
+
 ```typescript
 test('smoke test', () => {
   expect(1 + 1).toBe(2);
 });
 ```
+
 运行：
+
 ```bash
 npx jest __tests__/smoke.test.ts
 ```
+
 预期：PASS。删除该文件。
 
 - [ ] **Step 6: 提交**
@@ -167,6 +177,7 @@ git commit -m "chore: set up Jest with ts-jest and React Testing Library"
 ## Task 3: 定义类型 + 配置文件 + 初始数据
 
 **Files:**
+
 - Create: `types/article.ts`
 - Create: `config/sources.json`
 - Create: `data/articles.json`
@@ -178,15 +189,15 @@ git commit -m "chore: set up Jest with ts-jest and React Testing Library"
 export type Category = 'llm' | 'product' | 'research' | 'industry';
 
 export interface Article {
-  id: string;           // URL 的 MD5 hash
-  title_en: string;     // 原始英文标题
-  title_zh: string;     // AI 翻译的中文标题
-  summary_zh: string;   // AI 生成的 200-300 字中文摘要
-  category: Category;   // 由 Claude 在翻译步骤中自动判断
-  source: string;       // 来源名称，如 "TechCrunch"
-  url: string;          // 原文链接
+  id: string; // URL 的 MD5 hash
+  title_en: string; // 原始英文标题
+  title_zh: string; // AI 翻译的中文标题
+  summary_zh: string; // AI 生成的 200-300 字中文摘要
+  category: Category; // 由 Claude 在翻译步骤中自动判断
+  source: string; // 来源名称，如 "TechCrunch"
+  url: string; // 原文链接
   published_at: string; // ISO 8601
-  fetched_at: string;   // ISO 8601
+  fetched_at: string; // ISO 8601
 }
 
 export interface RawArticle {
@@ -204,7 +215,10 @@ export interface RawArticle {
 ```json
 {
   "rss": [
-    { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
     { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml" },
     { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab" },
     { "name": "Wired", "url": "https://www.wired.com/feed/rss" },
@@ -237,6 +251,7 @@ git commit -m "chore: add Article types, source config, and empty data file"
 ## Task 4: 数据加载工具库（TDD）
 
 **Files:**
+
 - Create: `lib/articles.ts`
 - Create: `__tests__/lib/articles.test.ts`
 
@@ -306,7 +321,7 @@ describe('getArticleById', () => {
 
 describe('CATEGORIES', () => {
   it('contains all four categories with labels', () => {
-    expect(CATEGORIES.map(c => c.slug)).toEqual(['llm', 'product', 'research', 'industry']);
+    expect(CATEGORIES.map((c) => c.slug)).toEqual(['llm', 'product', 'research', 'industry']);
   });
 });
 ```
@@ -316,6 +331,7 @@ describe('CATEGORIES', () => {
 ```bash
 npx jest __tests__/lib/articles.test.ts
 ```
+
 预期：FAIL（模块不存在）。
 
 - [ ] **Step 3: 实现 lib/articles.ts**
@@ -341,11 +357,11 @@ export function getAllArticles(): Article[] {
 }
 
 export function getArticlesByCategory(category: Category): Article[] {
-  return getAllArticles().filter(a => a.category === category);
+  return getAllArticles().filter((a) => a.category === category);
 }
 
 export function getArticleById(id: string): Article | undefined {
-  return articles.find(a => a.id === id);
+  return articles.find((a) => a.id === id);
 }
 ```
 
@@ -354,6 +370,7 @@ export function getArticleById(id: string): Article | undefined {
 ```bash
 npx jest __tests__/lib/articles.test.ts
 ```
+
 预期：PASS（4 suites）。
 
 - [ ] **Step 5: 提交**
@@ -368,6 +385,7 @@ git commit -m "feat: add articles data loading library with tests"
 ## Task 5: Merge 脚本（TDD）
 
 **Files:**
+
 - Create: `scripts/merge.ts`
 - Create: `__tests__/scripts/merge.test.ts`
 
@@ -430,6 +448,7 @@ describe('mergeArticles', () => {
 ```bash
 npx jest __tests__/scripts/merge.test.ts
 ```
+
 预期：FAIL。
 
 - [ ] **Step 3: 实现 scripts/merge.ts**
@@ -441,12 +460,10 @@ import type { Article } from '@/types/article';
 const MAX_ARTICLES = 500;
 
 export function mergeArticles(existing: Article[], incoming: Article[]): Article[] {
-  const existingIds = new Set(existing.map(a => a.id));
-  const newOnes = incoming.filter(a => !existingIds.has(a.id));
+  const existingIds = new Set(existing.map((a) => a.id));
+  const newOnes = incoming.filter((a) => !existingIds.has(a.id));
   const combined = [...existing, ...newOnes];
-  combined.sort(
-    (a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime()
-  );
+  combined.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
   return combined.slice(0, MAX_ARTICLES);
 }
 
@@ -459,7 +476,9 @@ if (require.main === module) {
   const incoming: Article[] = JSON.parse(fs.readFileSync(incomingPath, 'utf8'));
   const merged = mergeArticles(existing, incoming);
   fs.writeFileSync(existingPath, JSON.stringify(merged, null, 2));
-  console.log(`Merged: ${incoming.length} incoming → ${merged.length} total (${merged.length - existing.length < 0 ? 0 : merged.length - existing.length} new)`);
+  console.log(
+    `Merged: ${incoming.length} incoming → ${merged.length} total (${merged.length - existing.length < 0 ? 0 : merged.length - existing.length} new)`
+  );
 }
 ```
 
@@ -468,6 +487,7 @@ if (require.main === module) {
 ```bash
 npx jest __tests__/scripts/merge.test.ts
 ```
+
 预期：PASS（4 suites）。
 
 - [ ] **Step 5: 提交**
@@ -482,6 +502,7 @@ git commit -m "feat: add article merge script with deduplication and truncation"
 ## Task 6: Fetch 脚本（TDD）
 
 **Files:**
+
 - Create: `scripts/fetch.ts`
 - Create: `__tests__/scripts/fetch.test.ts`
 
@@ -543,6 +564,7 @@ describe('parseRssItem', () => {
 ```bash
 npx jest __tests__/scripts/fetch.test.ts
 ```
+
 预期：FAIL。
 
 - [ ] **Step 4: 实现 scripts/fetch.ts**
@@ -569,15 +591,12 @@ export function parseRssItem(item: any, sourceName: string): RawArticle | null {
   };
 }
 
-export async function fetchRssSource(
-  url: string,
-  sourceName: string
-): Promise<RawArticle[]> {
+export async function fetchRssSource(url: string, sourceName: string): Promise<RawArticle[]> {
   const parser = new Parser();
   try {
     const feed = await parser.parseURL(url);
     return feed.items
-      .map(item => parseRssItem(item, sourceName))
+      .map((item) => parseRssItem(item, sourceName))
       .filter((a): a is RawArticle => a !== null)
       .slice(0, 20); // 每个来源最多取 20 篇
   } catch (err) {
@@ -629,7 +648,12 @@ if (require.main === module) {
     const newsApiKey = process.env.NEWS_API_KEY;
     if (newsApiKey) {
       const { query, language, pageSize } = sources.newsapi;
-      const newsApiArticles = await fetchNewsApi(query, language, Math.min(pageSize, 10), newsApiKey);
+      const newsApiArticles = await fetchNewsApi(
+        query,
+        language,
+        Math.min(pageSize, 10),
+        newsApiKey
+      );
       allRaw.push(...newsApiArticles);
       console.log(`  NewsAPI: ${newsApiArticles.length} articles`);
     }
@@ -645,6 +669,7 @@ if (require.main === module) {
 ```bash
 npx jest __tests__/scripts/fetch.test.ts
 ```
+
 预期：PASS。
 
 - [ ] **Step 6: 提交**
@@ -659,6 +684,7 @@ git commit -m "feat: add RSS and NewsAPI fetch script with tests"
 ## Task 7: Translate 脚本
 
 **Files:**
+
 - Create: `scripts/translate.ts`
 
 注意：此脚本调用 `claude -p` CLI，不写单元测试（依赖外部 CLI，集成测试范畴）。
@@ -689,7 +715,11 @@ Respond with ONLY a valid JSON array. No markdown, no explanation, just the JSON
 Each object must have exactly these fields: id, title_zh, summary_zh, category
 
 Articles:
-${JSON.stringify(articles.map(a => ({ id: a.id, title: a.title_en, source: a.source })), null, 2)}`;
+${JSON.stringify(
+  articles.map((a) => ({ id: a.id, title: a.title_en, source: a.source })),
+  null,
+  2
+)}`;
 }
 
 export function translateArticles(rawArticles: RawArticle[]): Article[] {
@@ -721,10 +751,10 @@ export function translateArticles(rawArticles: RawArticle[]): Article[] {
     return [];
   }
 
-  const translationMap = new Map(translations.map(t => [t.id, t]));
+  const translationMap = new Map(translations.map((t) => [t.id, t]));
 
   return rawArticles
-    .map(raw => {
+    .map((raw) => {
       const t = translationMap.get(raw.id);
       if (!t) return null;
       return {
@@ -740,9 +770,7 @@ export function translateArticles(rawArticles: RawArticle[]): Article[] {
 // Entry point when run directly
 if (require.main === module) {
   const fs = require('fs');
-  const rawArticles: RawArticle[] = JSON.parse(
-    fs.readFileSync('/tmp/raw-articles.json', 'utf8')
-  );
+  const rawArticles: RawArticle[] = JSON.parse(fs.readFileSync('/tmp/raw-articles.json', 'utf8'));
   console.log(`Translating ${rawArticles.length} articles...`);
   const translated = translateArticles(rawArticles);
   fs.writeFileSync('/tmp/translated-articles.json', JSON.stringify(translated, null, 2));
@@ -762,6 +790,7 @@ git commit -m "feat: add translate script using claude CLI"
 ## Task 8: Update 入口脚本
 
 **Files:**
+
 - Create: `scripts/update.ts`
 
 - [ ] **Step 1: 实现 scripts/update.ts**
@@ -801,8 +830,8 @@ async function main() {
 
   // Deduplicate raw articles by id before translating
   const existing: Article[] = JSON.parse(readFileSync(dataPath, 'utf8'));
-  const existingIds = new Set(existing.map(a => a.id));
-  const newRaw = allRaw.filter(a => !existingIds.has(a.id));
+  const existingIds = new Set(existing.map((a) => a.id));
+  const newRaw = allRaw.filter((a) => !existingIds.has(a.id));
   console.log(`\n✨ New articles to translate: ${newRaw.length}`);
 
   if (newRaw.length === 0) {
@@ -824,7 +853,7 @@ async function main() {
   console.log('\n✅ Done!');
 }
 
-main().catch(err => {
+main().catch((err) => {
   console.error(err);
   process.exit(1);
 });
@@ -833,6 +862,7 @@ main().catch(err => {
 - [ ] **Step 2: 在 package.json 添加 update script**
 
 在 `"scripts"` 中添加：
+
 ```json
 "update": "ts-node --project tsconfig.json -r tsconfig-paths/register scripts/update.ts"
 ```
@@ -855,6 +885,7 @@ git commit -m "feat: add update orchestration script"
 ## Task 9: GitHub Actions 工作流
 
 **Files:**
+
 - Create: `.github/workflows/fetch-and-translate.yml`
 
 - [ ] **Step 1: 创建工作流文件**
@@ -865,14 +896,14 @@ name: Fetch and Translate AI News
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 每 6 小时运行一次
-  workflow_dispatch:          # 允许手动触发
+    - cron: '0 */6 * * *' # 每 6 小时运行一次
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write         # 需要写权限来 push 到仓库
+      contents: write # 需要写权限来 push 到仓库
 
     steps:
       - name: Checkout repository
@@ -923,6 +954,7 @@ git commit -m "ci: add GitHub Actions workflow for scheduled article updates"
 ## Task 10: UI 原子组件（TDD）
 
 **Files:**
+
 - Create: `components/UI/CategoryBadge.tsx`
 - Create: `components/UI/TimeAgo.tsx`
 - Create: `__tests__/components/CategoryBadge.test.tsx`
@@ -1002,6 +1034,7 @@ describe('TimeAgo', () => {
 ```bash
 npx jest __tests__/components/
 ```
+
 预期：FAIL。
 
 - [ ] **Step 4: 实现 components/UI/CategoryBadge.tsx**
@@ -1011,19 +1044,15 @@ npx jest __tests__/components/
 import type { Category } from '@/types/article';
 
 const CONFIG: Record<Category, { label: string; className: string }> = {
-  llm:      { label: '大模型', className: 'text-blue-400 bg-blue-400/10' },
-  product:  { label: '产品',   className: 'text-orange-400 bg-orange-400/10' },
-  research: { label: '研究',   className: 'text-purple-400 bg-purple-400/10' },
-  industry: { label: '行业',   className: 'text-green-400 bg-green-400/10' },
+  llm: { label: '大模型', className: 'text-blue-400 bg-blue-400/10' },
+  product: { label: '产品', className: 'text-orange-400 bg-orange-400/10' },
+  research: { label: '研究', className: 'text-purple-400 bg-purple-400/10' },
+  industry: { label: '行业', className: 'text-green-400 bg-green-400/10' },
 };
 
 export default function CategoryBadge({ category }: { category: Category }) {
   const { label, className } = CONFIG[category] ?? CONFIG.llm;
-  return (
-    <span className={`text-xs font-medium px-2 py-0.5 rounded ${className}`}>
-      {label}
-    </span>
-  );
+  return <span className={`text-xs font-medium px-2 py-0.5 rounded ${className}`}>{label}</span>;
 }
 ```
 
@@ -1034,10 +1063,10 @@ export default function CategoryBadge({ category }: { category: Category }) {
 export default function TimeAgo({ dateString }: { dateString: string }) {
   const diff = Math.floor((Date.now() - new Date(dateString).getTime()) / 1000);
   let text: string;
-  if (diff < 60)             text = '刚刚';
-  else if (diff < 3600)      text = `${Math.floor(diff / 60)}分钟前`;
-  else if (diff < 86400)     text = `${Math.floor(diff / 3600)}小时前`;
-  else                       text = `${Math.floor(diff / 86400)}天前`;
+  if (diff < 60) text = '刚刚';
+  else if (diff < 3600) text = `${Math.floor(diff / 60)}分钟前`;
+  else if (diff < 86400) text = `${Math.floor(diff / 3600)}小时前`;
+  else text = `${Math.floor(diff / 86400)}天前`;
 
   return <span className="text-xs text-gray-500">{text}</span>;
 }
@@ -1048,6 +1077,7 @@ export default function TimeAgo({ dateString }: { dateString: string }) {
 ```bash
 npx jest __tests__/components/
 ```
+
 预期：PASS。
 
 - [ ] **Step 7: 提交**
@@ -1062,6 +1092,7 @@ git commit -m "feat: add CategoryBadge and TimeAgo UI components with tests"
 ## Task 11: ArticleCard 组件（TDD）
 
 **Files:**
+
 - Create: `components/Article/ArticleCard.tsx`
 - Create: `__tests__/components/ArticleCard.test.tsx`
 
@@ -1114,6 +1145,7 @@ describe('ArticleCard', () => {
 ```bash
 npx jest __tests__/components/ArticleCard.test.tsx
 ```
+
 预期：FAIL。
 
 - [ ] **Step 3: 实现 components/Article/ArticleCard.tsx**
@@ -1151,6 +1183,7 @@ export default function ArticleCard({ article }: { article: Article }) {
 ```bash
 npx jest __tests__/components/ArticleCard.test.tsx
 ```
+
 预期：PASS。
 
 - [ ] **Step 5: 提交**
@@ -1165,6 +1198,7 @@ git commit -m "feat: add ArticleCard component with tests"
 ## Task 12: Layout 组件
 
 **Files:**
+
 - Create: `components/Layout/Sidebar.tsx`
 - Create: `components/Layout/Header.tsx`
 - Create: `components/Layout/Layout.tsx`
@@ -1180,8 +1214,7 @@ import { CATEGORIES } from '@/lib/articles';
 export default function Sidebar() {
   const router = useRouter();
   const currentCategory =
-    router.pathname === '/' ? 'all' :
-    (router.query.slug as string) ?? 'all';
+    router.pathname === '/' ? 'all' : ((router.query.slug as string) ?? 'all');
 
   const isActive = (slug: string) =>
     slug === 'all' ? router.pathname === '/' : currentCategory === slug;
@@ -1198,7 +1231,7 @@ export default function Sidebar() {
       >
         🏠 全部
       </Link>
-      {CATEGORIES.map(cat => (
+      {CATEGORIES.map((cat) => (
         <Link
           key={cat.slug}
           href={`/category/${cat.slug}`}
@@ -1265,6 +1298,7 @@ git commit -m "feat: add Sidebar, Header, and Layout components"
 ## Task 13: ArticleDetail 组件
 
 **Files:**
+
 - Create: `components/Article/ArticleDetail.tsx`
 
 - [ ] **Step 1: 实现 components/Article/ArticleDetail.tsx**
@@ -1284,9 +1318,7 @@ export default function ArticleDetail({ article }: { article: Article }) {
         <TimeAgo dateString={article.published_at} />
       </div>
 
-      <h1 className="text-2xl font-bold text-[#e6edf3] leading-tight mb-6">
-        {article.title_zh}
-      </h1>
+      <h1 className="text-2xl font-bold text-[#e6edf3] leading-tight mb-6">{article.title_zh}</h1>
 
       <div className="bg-[#161b22] border border-[#21262d] rounded-lg p-6 mb-6">
         <p className="text-sm text-gray-400 mb-2 uppercase tracking-wide">AI 摘要</p>
@@ -1322,12 +1354,13 @@ git commit -m "feat: add ArticleDetail component"
 ## Task 14: 页面实现
 
 **Files:**
+
 - Modify: `pages/index.tsx`
 - Create: `pages/category/[slug].tsx`
 - Create: `pages/article/[slug].tsx`
 - Modify: `pages/_app.tsx`（添加全局样式）
 
-- [ ] **Step 1: 修改 pages/_app.tsx**
+- [ ] **Step 1: 修改 pages/\_app.tsx**
 
 ```tsx
 // pages/_app.tsx
@@ -1350,7 +1383,9 @@ import { getAllArticles } from '@/lib/articles';
 import Layout from '@/components/Layout/Layout';
 import ArticleCard from '@/components/Article/ArticleCard';
 
-interface Props { articles: Article[] }
+interface Props {
+  articles: Article[];
+}
 
 export default function Home({ articles }: Props) {
   return (
@@ -1361,7 +1396,7 @@ export default function Home({ articles }: Props) {
       </Head>
       <Layout>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-          {articles.map(article => (
+          {articles.map((article) => (
             <ArticleCard key={article.id} article={article} />
           ))}
           {articles.length === 0 && (
@@ -1389,7 +1424,10 @@ import { getArticlesByCategory, CATEGORIES } from '@/lib/articles';
 import Layout from '@/components/Layout/Layout';
 import ArticleCard from '@/components/Article/ArticleCard';
 
-interface Props { articles: Article[]; categoryLabel: string }
+interface Props {
+  articles: Article[];
+  categoryLabel: string;
+}
 
 export default function CategoryPage({ articles, categoryLabel }: Props) {
   return (
@@ -1400,7 +1438,7 @@ export default function CategoryPage({ articles, categoryLabel }: Props) {
       <Layout>
         <h1 className="text-lg font-semibold text-[#e6edf3] mb-4">{categoryLabel}</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-          {articles.map(article => (
+          {articles.map((article) => (
             <ArticleCard key={article.id} article={article} />
           ))}
           {articles.length === 0 && (
@@ -1413,13 +1451,13 @@ export default function CategoryPage({ articles, categoryLabel }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => ({
-  paths: CATEGORIES.map(c => ({ params: { slug: c.slug } })),
+  paths: CATEGORIES.map((c) => ({ params: { slug: c.slug } })),
   fallback: false,
 });
 
 export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   const slug = params!.slug as Category;
-  const cat = CATEGORIES.find(c => c.slug === slug);
+  const cat = CATEGORIES.find((c) => c.slug === slug);
   return {
     props: {
       articles: getArticlesByCategory(slug),
@@ -1441,7 +1479,9 @@ import { getAllArticles, getArticleById } from '@/lib/articles';
 import Layout from '@/components/Layout/Layout';
 import ArticleDetail from '@/components/Article/ArticleDetail';
 
-interface Props { article: Article }
+interface Props {
+  article: Article;
+}
 
 export default function ArticlePage({ article }: Props) {
   return (
@@ -1452,7 +1492,9 @@ export default function ArticlePage({ article }: Props) {
       </Head>
       <Layout>
         <div className="mb-4">
-          <Link href="/" className="text-[#58a6ff] text-sm hover:underline">← 返回首页</Link>
+          <Link href="/" className="text-[#58a6ff] text-sm hover:underline">
+            ← 返回首页
+          </Link>
         </div>
         <ArticleDetail article={article} />
       </Layout>
@@ -1461,7 +1503,7 @@ export default function ArticlePage({ article }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => ({
-  paths: getAllArticles().map(a => ({ params: { slug: a.id } })),
+  paths: getAllArticles().map((a) => ({ params: { slug: a.id } })),
   fallback: false,
 });
 
@@ -1477,7 +1519,9 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
 ```bash
 npm run dev
 ```
+
 打开 http://localhost:3000，确认：
+
 - 首页正常显示（空数据时显示"暂无文章"提示）
 - 侧边栏分类链接可点击
 - `/category/llm` 路由可访问
@@ -1494,6 +1538,7 @@ git commit -m "feat: implement all pages (home, category, article detail)"
 ## Task 15: 构建验证 + Vercel 部署准备
 
 **Files:**
+
 - Create: `vercel.json`（可选，用于自定义构建）
 
 - [ ] **Step 1: 运行完整测试套件**
@@ -1501,6 +1546,7 @@ git commit -m "feat: implement all pages (home, category, article detail)"
 ```bash
 npx jest
 ```
+
 预期：所有测试 PASS。
 
 - [ ] **Step 2: 运行生产构建**
@@ -1508,7 +1554,9 @@ npx jest
 ```bash
 npm run build
 ```
+
 预期：构建成功，无报错。输出示例：
+
 ```
 Route (pages)
 ┌ ○ /
@@ -1519,6 +1567,7 @@ Route (pages)
 - [ ] **Step 3: 在 GitHub 仓库设置 Secrets**
 
 进入 GitHub 仓库 → Settings → Secrets and variables → Actions，添加：
+
 - `ANTHROPIC_API_KEY`：你的 Anthropic API Key
 - `NEWS_API_KEY`：NewsAPI.org 的 API Key（可从 https://newsapi.org 免费注册获取）
 
@@ -1532,6 +1581,7 @@ Route (pages)
 - [ ] **Step 5: 手动触发 GitHub Actions 验证**
 
 推送代码到 GitHub 后，进入 Actions 标签页，手动触发 `Fetch and Translate AI News` workflow，确认：
+
 - 工作流正常完成
 - `data/articles.json` 有内容被推送
 - Vercel 自动触发重新部署
@@ -1548,14 +1598,14 @@ git push
 
 ## 快速参考
 
-| 命令 | 用途 |
-|------|------|
-| `npm run dev` | 启动开发服务器 |
-| `npm run build` | 生产构建 |
-| `npx jest` | 运行所有测试 |
+| 命令             | 用途                  |
+| ---------------- | --------------------- |
+| `npm run dev`    | 启动开发服务器        |
+| `npm run build`  | 生产构建              |
+| `npx jest`       | 运行所有测试          |
 | `npm run update` | 本地手动触发抓取+翻译 |
 
-| Secret | 获取方式 |
-|--------|----------|
+| Secret              | 获取方式                                 |
+| ------------------- | ---------------------------------------- | -------------------------------- |
 | `ANTHROPIC_API_KEY` | https://console.anthropic.com → API Keys |
-| `NEWS_API_KEY` | https://newsapi.org → 免费注册 |
+| `NEWS_API_KEY`      | https://newsapi.org → 免费注册           | 4f40a848d89e4d28ae947e046c8ddf17 |

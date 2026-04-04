@@ -12,5 +12,5 @@ export function getLatestTrendingDay(): TrendingDay | null {
 }
 
 export function getTrendingDayByDate(date: string): TrendingDay | null {
-  return data.days.find(d => d.date === date) ?? null;
+  return data.days.find((d) => d.date === date) ?? null;
 }

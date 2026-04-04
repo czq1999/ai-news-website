@@ -1,4 +1,5 @@
 import { fireEvent, render, screen, waitFor } from '@testing-library/react';
+
 import ArticleFeed from '@/components/Article/ArticleFeed';
 import type { Article } from '@/types/article';
 
@@ -71,7 +72,9 @@ describe('ArticleFeed', () => {
   });
 
   it('resets state when the route data changes', async () => {
-    const initialArticles = Array.from({ length: 12 }, (_, index) => makeArticle(`a${index}`, 'llm'));
+    const initialArticles = Array.from({ length: 12 }, (_, index) =>
+      makeArticle(`a${index}`, 'llm')
+    );
     const allArticles = Array.from({ length: 16 }, (_, index) => makeArticle(`a${index}`, 'llm'));
 
     global.fetch = jest.fn().mockResolvedValue({

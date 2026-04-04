@@ -19,7 +19,7 @@ describe('getArticlesByCategory', () => {
   it('filters articles by category', () => {
     const result = getArticlesByCategory('llm');
     expect(result.length).toBeGreaterThan(0);
-    expect(result.every(article => article.category === 'llm')).toBe(true);
+    expect(result.every((article) => article.category === 'llm')).toBe(true);
   });
 
   it('returns empty array for unknown category', () => {

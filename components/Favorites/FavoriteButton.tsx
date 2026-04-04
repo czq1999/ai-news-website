@@ -1,4 +1,5 @@
 import type { Article } from '@/types/article';
+
 import { useFavorites } from './FavoritesProvider';
 
 interface FavoriteButtonProps {
@@ -13,7 +14,7 @@ export default function FavoriteButton({ article }: FavoriteButtonProps) {
     <button
       type="button"
       className={`favorite-button${favorite ? ' active' : ''}`}
-      onClick={event => {
+      onClick={(event) => {
         event.preventDefault();
         event.stopPropagation();
         toggleFavorite(article);

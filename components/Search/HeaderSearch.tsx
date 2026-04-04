@@ -1,7 +1,8 @@
-import { useEffect, useMemo, useRef, useState, type FormEvent } from 'react';
-import type { Article } from '@/types/article';
+import { type FormEvent, useEffect, useMemo, useRef, useState } from 'react';
+
 import HighlightedText from '@/components/Search/HighlightedText';
 import { searchArticles, splitSearchQuery } from '@/lib/article-search';
+import type { Article } from '@/types/article';
 
 interface HeaderSearchProps {
   articles: Article[];
@@ -83,9 +84,9 @@ export default function HeaderSearch({
           <input
             className="header-search__input"
             value={value}
-            onChange={event => onChange(event.target.value)}
+            onChange={(event) => onChange(event.target.value)}
             onFocus={() => setFocused(true)}
-            onKeyDown={event => {
+            onKeyDown={(event) => {
               if (event.key === 'Escape') {
                 setFocused(false);
                 event.currentTarget.blur();
@@ -120,7 +121,7 @@ export default function HeaderSearch({
               <div className="header-search__section-label">实时联想</div>
               {suggestions.length > 0 ? (
                 <div className="header-search__suggestions">
-                  {suggestions.map(article => (
+                  {suggestions.map((article) => (
                     <button
                       type="button"
                       key={article.id}
@@ -144,7 +145,7 @@ export default function HeaderSearch({
                 <div className="header-search__section-label">搜索历史</div>
                 {history.length > 0 ? (
                   <div className="header-search__history">
-                    {history.slice(0, 5).map(item => (
+                    {history.slice(0, 5).map((item) => (
                       <button
                         type="button"
                         key={item}
@@ -163,7 +164,7 @@ export default function HeaderSearch({
               <div className="header-search__section">
                 <div className="header-search__section-label">热门新闻</div>
                 <div className="header-search__suggestions">
-                  {suggestions.map(article => (
+                  {suggestions.map((article) => (
                     <button
                       type="button"
                       key={article.id}

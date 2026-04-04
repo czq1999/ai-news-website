@@ -1,5 +1,5 @@
-import type { Article } from '@/types/article';
 import { CATEGORIES } from '@/lib/article-categories';
+import type { Article } from '@/types/article';
 
 export const SEARCH_HISTORY_KEY = 'ai-signal-search-history';
 export const MAX_SEARCH_HISTORY = 8;
@@ -15,7 +15,7 @@ export function splitSearchQuery(query: string) {
     new Set(
       normalizeSearchText(query)
         .split(/[\s,，。；;、/\\|]+/)
-        .map(term => term.trim())
+        .map((term) => term.trim())
         .filter(Boolean)
     )
   );
@@ -58,12 +58,12 @@ export function searchArticles(articles: Article[], query: string) {
   }
 
   return articles
-    .map(article => {
+    .map((article) => {
       const searchableText = buildArticleSearchText(article);
       const titleText = normalizeSearchText(`${article.title_zh} ${article.title_en}`);
       const summaryText = normalizeSearchText(article.summary_zh);
 
-      const matched = terms.every(term => searchableText.includes(term));
+      const matched = terms.every((term) => searchableText.includes(term));
       if (!matched) {
         return null;
       }
@@ -91,7 +91,7 @@ export function searchArticles(articles: Article[], query: string) {
     })
     .filter((item): item is { article: Article; score: number } => Boolean(item))
     .sort((left, right) => right.score - left.score)
-    .map(item => item.article);
+    .map((item) => item.article);
 }
 
 export function getRecommendedArticles(articles: Article[], limit = 4) {
@@ -105,12 +105,8 @@ export function getRecommendedArticles(articles: Article[], limit = 4) {
 }
 
 export function normalizeSearchHistory(history: string[]) {
-  return Array.from(
-    new Set(
-      history
-        .map(item => item.trim())
-        .filter(Boolean)
-    )
-  ).slice(0, MAX_SEARCH_HISTORY);
+  return Array.from(new Set(history.map((item) => item.trim()).filter(Boolean))).slice(
+    0,
+    MAX_SEARCH_HISTORY
+  );
 }
-

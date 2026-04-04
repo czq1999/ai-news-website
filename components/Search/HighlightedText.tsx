@@ -10,14 +10,8 @@ interface Segment {
 }
 
 function splitTextByTerms(text: string, terms: string[]) {
-  const normalizedTerms = Array.from(
-    new Set(
-      terms
-        .map(term => term.trim())
-        .filter(Boolean)
-    )
-  )
-    .map(term => term.normalize('NFKC').toLowerCase())
+  const normalizedTerms = Array.from(new Set(terms.map((term) => term.trim()).filter(Boolean)))
+    .map((term) => term.normalize('NFKC').toLowerCase())
     .sort((left, right) => right.length - left.length);
 
   if (!text || normalizedTerms.length === 0) {
@@ -27,7 +21,7 @@ function splitTextByTerms(text: string, terms: string[]) {
   const lowerText = text.normalize('NFKC').toLowerCase();
   const ranges: Array<{ start: number; end: number }> = [];
 
-  normalizedTerms.forEach(term => {
+  normalizedTerms.forEach((term) => {
     let startIndex = 0;
 
     while (startIndex < lowerText.length) {
@@ -48,7 +42,7 @@ function splitTextByTerms(text: string, terms: string[]) {
   ranges.sort((left, right) => left.start - right.start || right.end - left.end);
 
   const mergedRanges: Array<{ start: number; end: number }> = [];
-  ranges.forEach(range => {
+  ranges.forEach((range) => {
     const previous = mergedRanges[mergedRanges.length - 1];
 
     if (!previous || range.start > previous.end) {
@@ -62,7 +56,7 @@ function splitTextByTerms(text: string, terms: string[]) {
   const segments: Segment[] = [];
   let cursor = 0;
 
-  mergedRanges.forEach(range => {
+  mergedRanges.forEach((range) => {
     if (range.start > cursor) {
       segments.push({ text: text.slice(cursor, range.start), matched: false });
     }
@@ -78,7 +72,11 @@ function splitTextByTerms(text: string, terms: string[]) {
   return segments;
 }
 
-export default function HighlightedText({ text, terms, highlightClassName = 'search-highlight' }: HighlightedTextProps) {
+export default function HighlightedText({
+  text,
+  terms,
+  highlightClassName = 'search-highlight',
+}: HighlightedTextProps) {
   const segments = splitTextByTerms(text, terms);
 
   return (

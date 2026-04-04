@@ -1,12 +1,13 @@
-import { useEffect, useMemo, useState } from 'react';
 import { useRouter } from 'next/router';
-import type { Article } from '@/types/article';
+import { useEffect, useMemo, useState } from 'react';
+
 import HeaderSearch from '@/components/Search/HeaderSearch';
 import {
-  SEARCH_HISTORY_KEY,
   getRecommendedArticles,
   normalizeSearchHistory,
+  SEARCH_HISTORY_KEY,
 } from '@/lib/article-search';
+import type { Article } from '@/types/article';
 
 function readSearchHistory() {
   if (typeof window === 'undefined') {
@@ -21,7 +22,9 @@ function readSearchHistory() {
 
     const parsedHistory = JSON.parse(rawHistory) as unknown;
     return Array.isArray(parsedHistory)
-      ? normalizeSearchHistory(parsedHistory.filter((item): item is string => typeof item === 'string'))
+      ? normalizeSearchHistory(
+          parsedHistory.filter((item): item is string => typeof item === 'string')
+        )
       : [];
   } catch {
     return [];
@@ -87,8 +90,11 @@ export default function GlobalHeaderSearch() {
       return;
     }
 
-    setHistory(current => {
-      const normalized = normalizeSearchHistory([trimmed, ...current.filter(item => item !== trimmed)]);
+    setHistory((current) => {
+      const normalized = normalizeSearchHistory([
+        trimmed,
+        ...current.filter((item) => item !== trimmed),
+      ]);
 
       try {
         window.localStorage.setItem(SEARCH_HISTORY_KEY, JSON.stringify(normalized));

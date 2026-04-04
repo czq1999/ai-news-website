@@ -14,6 +14,7 @@ npm run update       # 抓取新文章 → 翻译 → 合并到 data/articles.js
 ```
 
 运行单个测试文件：
+
 ```bash
 npx jest __tests__/lib/articles.test.ts
 npx jest __tests__/scripts/fetch.test.ts
@@ -49,6 +50,7 @@ pages/               — Next.js 静态生成页面，通过 getStaticProps 消�
 ### 核心类型
 
 `types/article.ts` 定义了两个核心接口：
+
 - `RawArticle` — 抓取后、翻译前的文章（无中文字段，id 为 URL 的 MD5 hash）
 - `Article` — 翻译后的完整文章，包含 `title_zh`、`summary_zh`、`category`
 

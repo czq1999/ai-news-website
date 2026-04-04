@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+
 import { useFavorites } from '@/components/Favorites/FavoritesProvider';
 import { FILTER_CATEGORIES } from '@/lib/article-categories';
 
@@ -12,7 +13,7 @@ export default function Sidebar({ menuOpen, onClose }: SidebarProps) {
   const router = useRouter();
   const { favorites } = useFavorites();
   const currentCategory =
-    router.pathname === '/' ? 'all' : (router.query.slug as string) ?? 'all';
+    router.pathname === '/' ? 'all' : ((router.query.slug as string) ?? 'all');
 
   const isActive = (slug: string) =>
     slug === 'all' ? router.pathname === '/' : currentCategory === slug;
@@ -38,11 +39,13 @@ export default function Sidebar({ menuOpen, onClose }: SidebarProps) {
           style={{ ['--sidebar-accent' as string]: '#6EE7F7' }}
           onClick={onClose}
         >
-          {router.pathname === '/trending' && <span className="sidebar-link__dot" aria-hidden="true" />}
+          {router.pathname === '/trending' && (
+            <span className="sidebar-link__dot" aria-hidden="true" />
+          )}
           <span className="sidebar-link__label">热点项目</span>
         </Link>
 
-        {FILTER_CATEGORIES.map(cat => {
+        {FILTER_CATEGORIES.map((cat) => {
           const href = cat.slug === 'all' ? '/' : `/category/${cat.slug}`;
           const active = isActive(cat.slug);
 

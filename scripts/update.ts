@@ -1,88 +1,63 @@
-import { fetchRssSource, fetchNewsApi } from './fetch';
-import { translateArticles } from './translate';
-import { mergeArticles } from './merge';
-import { fetchAndSaveTrending } from './fetch-trending';
-import type { Article, RawArticle } from '@/types/article';
-import { mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
+import { z } from 'zod';
+
 import { normalizeArticle } from '@/lib/server/article-normalizer';
+import { fetchNewsApi, fetchRssSource } from '@/lib/server/fetcher';
+import { translateArticles } from '@/lib/server/translator';
+import { Article, ArticleSchema, RawArticle } from '@/types/article';
 
-interface RssFeedConfig {
-  url: string;
-  name: string;
-}
+import { fetchAndSaveTrending } from './fetch-trending';
+import { mergeArticles } from './merge';
 
-interface NewsApiConfig {
-  query: string;
-  language: string;
-  pageSize: number;
-}
+const SourcesConfigSchema = z.object({
+  rss: z.array(
+    z.object({
+      url: z.string().url(),
+      name: z.string(),
+    })
+  ),
+  newsapi: z.object({
+    query: z.string(),
+    language: z.string(),
+    pageSize: z.number(),
+  }),
+});
 
-interface SourcesConfig {
-  rss: RssFeedConfig[];
-  newsapi: NewsApiConfig;
-}
+type SourcesConfig = z.infer<typeof SourcesConfigSchema>;
 
 export function parseSources(raw: unknown): SourcesConfig {
-  if (typeof raw !== 'object' || raw === null) {
-    throw new Error('sources.json must be a JSON object');
+  const result = SourcesConfigSchema.safeParse(raw);
+  if (!result.success) {
+    throw new Error(`Invalid sources.json: ${result.error.message}`);
   }
-  const obj = raw as Record<string, unknown>;
-  if (!Array.isArray(obj.rss)) {
-    throw new Error('sources.json must have an "rss" array');
-  }
-  const rss: RssFeedConfig[] = obj.rss.map((item: unknown, i: number) => {
-    if (typeof item !== 'object' || item === null) {
-      throw new Error(`rss[${i}] must be an object`);
-    }
-    const feed = item as Record<string, unknown>;
-    if (typeof feed.url !== 'string' || typeof feed.name !== 'string') {
-      throw new Error(`rss[${i}] must have string "url" and "name"`);
-    }
-    return { url: feed.url, name: feed.name };
-  });
-
-  if (typeof obj.newsapi !== 'object' || obj.newsapi === null) {
-    throw new Error('sources.json must have a "newsapi" object');
-  }
-  const na = obj.newsapi as Record<string, unknown>;
-  if (
-    typeof na.query !== 'string' ||
-    typeof na.language !== 'string' ||
-    typeof na.pageSize !== 'number'
-  ) {
-    throw new Error('sources.json newsapi must have string "query", "language" and number "pageSize"');
-  }
-  const newsapi: NewsApiConfig = {
-    query: na.query,
-    language: na.language,
-    pageSize: na.pageSize,
-  };
-
-  return { rss, newsapi };
+  return result.data;
 }
 
 export function parseExistingArticles(raw: unknown): Article[] {
   if (!Array.isArray(raw)) {
     throw new Error('articles.json must be a JSON array');
   }
-  for (const item of raw) {
-    if (
-      typeof item !== 'object' ||
-      item === null ||
-      typeof (item as Record<string, unknown>).id !== 'string'
-    ) {
-      throw new Error('articles.json contains invalid article: missing or non-string id field');
-    }
-  }
-  return raw as Article[];
+  return raw
+    .map((item, index) => {
+      const result = ArticleSchema.safeParse(item);
+      if (!result.success) {
+        console.warn(
+          `articles.json contains invalid article at index ${index}, skipping:`,
+          result.error.format()
+        );
+        return null;
+      }
+      return result.data;
+    })
+    .filter((a): a is Article => a !== null);
 }
 
 export function filterNewRawArticles(allRaw: RawArticle[], existing: Article[]): RawArticle[] {
-  const existingIds = new Set(existing.map(article => article.id));
+  const existingIds = new Set(existing.map((article) => article.id));
   const seenIds = new Set<string>();
 
-  return allRaw.filter(article => {
+  return allRaw.filter((article) => {
     if (existingIds.has(article.id) || seenIds.has(article.id)) {
       return false;
     }
@@ -96,6 +71,11 @@ async function main() {
   const sourcesPath = join(process.cwd(), 'config/sources.json');
   const dataPath = join(process.cwd(), 'data/articles.json');
   const publicFeedPath = join(process.cwd(), 'public/data/articles-feed.json');
+
+  if (!existsSync(sourcesPath)) {
+    console.error(`Sources config not found at ${sourcesPath}`);
+    process.exit(1);
+  }
 
   const sources = parseSources(JSON.parse(readFileSync(sourcesPath, 'utf8')));
 
@@ -111,17 +91,18 @@ async function main() {
   const newsApiKey = process.env.NEWS_API_KEY;
   if (newsApiKey) {
     const { query, language, pageSize } = sources.newsapi;
-    const newsApiArticles = await fetchNewsApi(
-      query,
-      language,
-      Math.min(pageSize, 10),
-      newsApiKey
-    );
+    const newsApiArticles = await fetchNewsApi(query, language, Math.min(pageSize, 10), newsApiKey);
     allRaw.push(...newsApiArticles);
     console.log(`  NewsAPI: ${newsApiArticles.length}`);
   }
 
-  const existing: Article[] = parseExistingArticles(JSON.parse(readFileSync(dataPath, 'utf8')));
+  let existing: Article[] = [];
+  if (existsSync(dataPath)) {
+    existing = parseExistingArticles(JSON.parse(readFileSync(dataPath, 'utf8')));
+  } else {
+    console.log('data/articles.json not found, starting with empty list.');
+  }
+
   const newRaw = filterNewRawArticles(allRaw, existing);
   console.log(`\nNew articles to translate: ${newRaw.length}`);
 
@@ -132,28 +113,46 @@ async function main() {
     const translated = await translateArticles(newRaw);
     console.log(`  Translated: ${translated.length}/${newRaw.length}`);
 
-    if (translated.length === 0) {
+    if (translated.length === 0 && newRaw.length > 0) {
       console.error('Translation failed: no articles were translated. Exiting.');
       process.exit(1);
     }
 
     console.log('\nMerging...');
     const merged = mergeArticles(existing, translated).map(normalizeArticle);
-    writeFileSync(dataPath, JSON.stringify(merged, null, 2));
+
+    // Final validation before write
+    const validatedMerged = merged.filter((a) => {
+      const res = ArticleSchema.safeParse(a);
+      if (!res.success) {
+        console.warn(
+          `Final merge contained invalid article ${a.id}, dropping:`,
+          res.error.format()
+        );
+        return false;
+      }
+      return true;
+    });
+
+    writeFileSync(dataPath, JSON.stringify(validatedMerged, null, 2));
     mkdirSync(dirname(publicFeedPath), { recursive: true });
-    writeFileSync(publicFeedPath, JSON.stringify(merged, null, 2));
-    console.log(`  Total articles: ${merged.length}`);
+    writeFileSync(publicFeedPath, JSON.stringify(validatedMerged, null, 2));
+    console.log(`  Total articles: ${validatedMerged.length}`);
   }
 
   console.log('\nFetching GitHub Trending...');
-  await fetchAndSaveTrending();
+  try {
+    await fetchAndSaveTrending();
+  } catch (err) {
+    console.error('Failed to fetch trending:', err);
+  }
 
   console.log('\nDone!');
   process.exit(0);
 }
 
 if (require.main === module) {
-  main().catch(err => {
+  main().catch((err) => {
     console.error(err);
     process.exit(1);
   });

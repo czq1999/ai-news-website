@@ -1,4 +1,4 @@
-import { buildArticleId, parseRssItem, fetchRssSource, fetchNewsApi } from '@/scripts/fetch';
+import { buildArticleId, fetchNewsApi, fetchRssSource, parseRssItem } from '@/lib/server/fetcher';
 
 describe('buildArticleId', () => {
   it('returns consistent MD5 hash for same URL', () => {

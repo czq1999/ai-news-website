@@ -1,6 +1,6 @@
 import articlesData from '@/data/articles.json';
-import type { Article, Category } from '@/types/article';
 import { normalizeArticle } from '@/lib/server/article-normalizer';
+import type { Article, Category } from '@/types/article';
 
 const articles = (articlesData as Article[]).map(normalizeArticle);
 
@@ -11,9 +11,9 @@ export function getAllArticles(): Article[] {
 }
 
 export function getArticlesByCategory(category: Category): Article[] {
-  return getAllArticles().filter(article => article.category === category);
+  return getAllArticles().filter((article) => article.category === category);
 }
 
 export function getArticleById(id: string): Article | undefined {
-  return articles.find(article => article.id === id);
+  return articles.find((article) => article.id === id);
 }

@@ -1,8 +1,7 @@
 import type { Article } from '@/types/article';
 
 export const SITE_NAME = 'AI Signal';
-export const SITE_DESCRIPTION =
-  '每日聚合 AI 资讯，追踪大模型、产品更新、研究进展与行业动态。';
+export const SITE_DESCRIPTION = '每日聚合 AI 资讯，追踪大模型、产品更新、研究进展与行业动态。';
 export const SITE_ORIGIN = 'https://czq1999.github.io';
 export const SITE_BASE_PATH = '/ai-news-website';
 export const SITE_URL = `${SITE_ORIGIN}${SITE_BASE_PATH}`;

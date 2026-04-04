@@ -80,7 +80,7 @@ jobs:
     permissions:
       contents: write
       pages: write
-      id-token: write   # OIDC 部署所必需，必须在 job 级别
+      id-token: write # OIDC 部署所必需，必须在 job 级别
 ```
 
 **执行链路：**

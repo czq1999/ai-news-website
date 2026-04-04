@@ -1,4 +1,5 @@
 import iconv from 'iconv-lite';
+
 import type { Article } from '@/types/article';
 
 const SUSPICIOUS_FRAGMENTS = [
@@ -18,7 +19,7 @@ const SUSPICIOUS_FRAGMENTS = [
 ];
 
 export function normalizeChineseText(value: string): string {
-  if (!value || !SUSPICIOUS_FRAGMENTS.some(fragment => value.includes(fragment))) {
+  if (!value || !SUSPICIOUS_FRAGMENTS.some((fragment) => value.includes(fragment))) {
     return value;
   }
 

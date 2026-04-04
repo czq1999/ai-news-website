@@ -1,10 +1,11 @@
 import type { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
-import type { Article } from '@/types/article';
-import Layout from '@/components/Layout/Layout';
+
 import ArticleDetail from '@/components/Article/ArticleDetail';
+import Layout from '@/components/Layout/Layout';
 import SeoHead from '@/lib/seo';
 import { buildArticleStructuredData } from '@/lib/site';
+import type { Article } from '@/types/article';
 
 interface Props {
   article: Article;
@@ -36,7 +37,7 @@ export default function ArticlePage({ article }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => ({
-  paths: (await import('@/lib/articles.server')).getAllArticles().map(article => ({
+  paths: (await import('@/lib/articles.server')).getAllArticles().map((article) => ({
     params: { slug: article.id },
   })),
   fallback: false,

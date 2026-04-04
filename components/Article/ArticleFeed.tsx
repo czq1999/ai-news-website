@@ -1,9 +1,10 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
 import { useRouter } from 'next/router';
-import type { Article, Category } from '@/types/article';
+import { useEffect, useMemo, useRef, useState } from 'react';
+
 import ArticleCard from '@/components/Article/ArticleCard';
 import CategoryFilterBar from '@/components/Article/CategoryFilterBar';
 import { isCategorySlug } from '@/lib/article-categories';
+import type { Article, Category } from '@/types/article';
 
 const HOME_BATCH_SIZE = 12;
 const CATEGORY_BATCH_SIZE = 12;
@@ -59,7 +60,9 @@ export default function ArticleFeed({
 
   useEffect(() => {
     const storedCategories = readStoredCategories();
-    setSelectedCategories(storedCategories.length > 0 ? storedCategories : category ? [category] : []);
+    setSelectedCategories(
+      storedCategories.length > 0 ? storedCategories : category ? [category] : []
+    );
     setIsHydrated(true);
   }, [category]);
 
@@ -89,7 +92,7 @@ export default function ArticleFeed({
   useEffect(() => {
     let cancelled = false;
 
-    const request = fetch(`${router.basePath}/data/articles-feed.json`).then(async response => {
+    const request = fetch(`${router.basePath}/data/articles-feed.json`).then(async (response) => {
       if (!response.ok) {
         throw new Error(`Failed to load article feed: ${response.status}`);
       }
@@ -100,7 +103,7 @@ export default function ArticleFeed({
     feedRequestRef.current = request;
 
     request
-      .then(payload => {
+      .then((payload) => {
         if (!cancelled) {
           setAllArticles(payload);
         }
@@ -124,7 +127,7 @@ export default function ArticleFeed({
     }
 
     const selection = new Set(selectedCategories);
-    return sourceArticles.filter(article => selection.has(article.category));
+    return sourceArticles.filter((article) => selection.has(article.category));
   }, [selectedCategories, sourceArticles]);
 
   useEffect(() => {
@@ -147,9 +150,9 @@ export default function ArticleFeed({
   const hasMore = visibleCount < filteredArticles.length;
 
   function toggleCategory(categoryToToggle: Category) {
-    setSelectedCategories(current =>
+    setSelectedCategories((current) =>
       current.includes(categoryToToggle)
-        ? current.filter(item => item !== categoryToToggle)
+        ? current.filter((item) => item !== categoryToToggle)
         : [...current, categoryToToggle]
     );
   }
@@ -170,7 +173,7 @@ export default function ArticleFeed({
         await feedRequestRef.current;
       }
 
-      setVisibleCount(current => Math.min(current + batchSize, filteredArticles.length));
+      setVisibleCount((current) => Math.min(current + batchSize, filteredArticles.length));
     } finally {
       setIsLoadingMore(false);
     }
@@ -209,7 +212,7 @@ export default function ArticleFeed({
 
       {regularArticles.length > 0 && (
         <div className="article-grid">
-          {regularArticles.map(article => (
+          {regularArticles.map((article) => (
             <ArticleCard key={article.id} article={article} />
           ))}
         </div>

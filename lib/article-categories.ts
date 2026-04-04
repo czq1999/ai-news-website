@@ -32,7 +32,7 @@ export function getCategoryOption(category: CategorySlug): CategoryOption {
   }
 
   return (
-    ARTICLE_CATEGORIES.find(option => option.slug === category) ?? {
+    ARTICLE_CATEGORIES.find((option) => option.slug === category) ?? {
       slug: 'all',
       label: '全部',
       accent: '#6EE7F7',
@@ -41,5 +41,5 @@ export function getCategoryOption(category: CategorySlug): CategoryOption {
 }
 
 export function isCategorySlug(value: string): value is Category {
-  return ARTICLE_CATEGORIES.some(option => option.slug === value);
+  return ARTICLE_CATEGORIES.some((option) => option.slug === value);
 }
