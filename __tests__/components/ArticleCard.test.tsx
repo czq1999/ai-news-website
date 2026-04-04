@@ -1,5 +1,6 @@
-import type { ReactElement } from 'react';
 import { render, screen } from '@testing-library/react';
+import type { ReactElement } from 'react';
+
 import ArticleCard from '@/components/Article/ArticleCard';
 import { FavoritesProvider } from '@/components/Favorites/FavoritesProvider';
 import type { Article } from '@/types/article';

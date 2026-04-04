@@ -1,7 +1,8 @@
 import type { CSSProperties } from 'react';
-import type { Article } from '@/types/article';
+
 import CategoryBadge from '@/components/UI/CategoryBadge';
 import TimeAgo from '@/components/UI/TimeAgo';
+import type { Article } from '@/types/article';
 
 const CATEGORY_COLORS: Record<string, string> = {
   llm: '#6EE7F7',

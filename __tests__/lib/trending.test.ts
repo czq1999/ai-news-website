@@ -28,7 +28,7 @@ const mockData: TrendingData = {
 
 jest.mock('@/data/trending.json', () => mockData, { virtual: true });
 
-import { getTrendingData, getLatestTrendingDay, getTrendingDayByDate } from '@/lib/trending';
+import { getLatestTrendingDay, getTrendingData, getTrendingDayByDate } from '@/lib/trending';
 
 describe('getTrendingData', () => {
   it('returns all days', () => {

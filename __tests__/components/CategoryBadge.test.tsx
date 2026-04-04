@@ -1,4 +1,5 @@
 import { render, screen } from '@testing-library/react';
+
 import CategoryBadge from '@/components/UI/CategoryBadge';
 
 describe('CategoryBadge', () => {

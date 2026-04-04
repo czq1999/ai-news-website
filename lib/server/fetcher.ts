@@ -97,7 +97,7 @@ export async function fetchNewsApi(
           return result.data;
         }
       )
-      .filter((a): a is RawArticle => a !== null);
+      .filter((a: RawArticle | null): a is RawArticle => a !== null);
   } catch (err) {
     console.error('Failed to fetch NewsAPI:', err);
     return [];

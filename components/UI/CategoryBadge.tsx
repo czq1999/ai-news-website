@@ -1,5 +1,5 @@
-import type { Category } from '@/types/article';
 import { getCategoryOption } from '@/lib/article-categories';
+import type { Category } from '@/types/article';
 
 export default function CategoryBadge({ category }: { category: Category }) {
   const { label, accent } = getCategoryOption(category);

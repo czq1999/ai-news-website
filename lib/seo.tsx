@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import { SITE_DESCRIPTION, SITE_NAME, buildCanonicalUrl } from '@/lib/site';
+
+import { buildCanonicalUrl, SITE_DESCRIPTION, SITE_NAME } from '@/lib/site';
 
 interface SeoHeadProps {
   title: string;

@@ -1,13 +1,14 @@
-import { useMemo } from 'react';
 import type { GetStaticProps } from 'next';
 import { useRouter } from 'next/router';
-import type { Article } from '@/types/article';
-import Layout from '@/components/Layout/Layout';
+import { useMemo } from 'react';
+
 import ArticleFeed from '@/components/Article/ArticleFeed';
+import Layout from '@/components/Layout/Layout';
 import SearchResults from '@/components/Search/SearchResults';
-import SeoHead from '@/lib/seo';
-import { SITE_DESCRIPTION, SITE_NAME, buildWebsiteStructuredData } from '@/lib/site';
 import { getRecommendedArticles, searchArticles } from '@/lib/article-search';
+import SeoHead from '@/lib/seo';
+import { buildWebsiteStructuredData, SITE_DESCRIPTION, SITE_NAME } from '@/lib/site';
+import type { Article } from '@/types/article';
 
 const INITIAL_HOME_ARTICLES = 13;
 

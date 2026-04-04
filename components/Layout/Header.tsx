@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+
 import { useFavorites } from '@/components/Favorites/FavoritesProvider';
 import GlobalHeaderSearch from '@/components/Search/GlobalHeaderSearch';
 

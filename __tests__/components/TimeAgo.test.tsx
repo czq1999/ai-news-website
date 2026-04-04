@@ -1,4 +1,5 @@
 import { render, screen } from '@testing-library/react';
+
 import TimeAgo from '@/components/UI/TimeAgo';
 
 describe('TimeAgo', () => {

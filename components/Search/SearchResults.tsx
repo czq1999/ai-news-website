@@ -1,6 +1,6 @@
-import type { Article } from '@/types/article';
 import ArticleCard from '@/components/Article/ArticleCard';
 import { splitSearchQuery } from '@/lib/article-search';
+import type { Article } from '@/types/article';
 
 interface SearchResultsProps {
   query: string;
