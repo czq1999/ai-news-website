@@ -1,6 +1,82 @@
 {
   "days": [
     {
+      "date": "2026-04-04",
+      "summary_zh": "今日GitHub趋势项目聚焦AI工具创新与开发者效率提升，涵盖代码助手增强、开源AI平台、时间序列预测模型、免费演示制作工具、高效文件搜索方案、提示词社区及社交媒体账号追踪工具，展现AI与开发工作流的深度整合趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Yeachan-Heo/oh-my-codex",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "language": "TypeScript",
+          "stars_total": 14144,
+          "stars_today": 3047,
+          "description_zh": "OmX - Oh My codeX：你的代码库不再孤单。添加钩子、智能体团队、平视显示器（HUD）等丰富功能。"
+        },
+        {
+          "rank": 2,
+          "name": "siddharthvaddem/openscreen",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "language": "TypeScript",
+          "stars_total": 18214,
+          "stars_today": 2771,
+          "description_zh": "免费创建惊艳的产品演示。开源、无订阅、无水印，可免费商用。Screen Studio的替代方案。"
+        },
+        {
+          "rank": 3,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars_total": 23287,
+          "stars_today": 1852,
+          "description_zh": "开源AI平台——具备高级功能的AI聊天系统，兼容所有大型语言模型（LLM）。"
+        },
+        {
+          "rank": 4,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description_en": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars_total": 78523,
+          "stars_today": 1192,
+          "description_zh": "通过用户名在社交网络中追踪社交媒体账户。"
+        },
+        {
+          "rank": 5,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "language": "Python",
+          "stars_total": 14127,
+          "stars_today": 916,
+          "description_zh": "TimesFM（时间序列基础模型）是谷歌研究开发的一个预训练时间序列基础模型，用于时间序列预测。"
+        },
+        {
+          "rank": 6,
+          "name": "dmtrKovalenko/fff.nvim",
+          "url": "https://github.com/dmtrKovalenko/fff.nvim",
+          "description_en": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+          "language": "Rust",
+          "stars_total": 3267,
+          "stars_today": 750,
+          "description_zh": "为AI智能体、Neovim、Rust、C和NodeJS设计的最快、最精准的文件搜索工具包。"
+        },
+        {
+          "rank": 7,
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+          "language": "HTML",
+          "stars_total": 157190,
+          "stars_today": 375,
+          "description_zh": "前身为Awesome ChatGPT Prompts。分享、发现和收集社区提示词。免费开源——可为组织自托管，保障完全隐私。"
+        }
+      ]
+    },
+    {
       "date": "2026-04-03",
       "summary_zh": "今日GitHub趋势项目聚焦AI工具与开发效率提升，涵盖代码助手增强、开源AI平台、时间序列预测模型、免费演示制作工具、高效文件搜索及社区提示词管理，同时包含社交媒体账户追踪工具。",
       "projects": [
