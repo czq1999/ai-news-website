@@ -1,5 +1,82 @@
 [
   {
+    "id": "7cdc917e494a6d6f79c4fad772c35c5d",
+    "title_en": "The heist of iOS 26",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass",
+    "published_at": "2026-04-14T13:00:00.000Z",
+    "fetched_at": "2026-04-14T13:04:42.509Z",
+    "title_zh": "iOS 26 源代码遭窃事件",
+    "summary_zh": "据The Verge报道，苹果公司下一代操作系统iOS 26的源代码据称遭到窃取。这一安全事件引发了业界对苹果内部开发流程安全性和未来产品保密性的担忧。目前尚不清楚泄露的代码范围及其潜在影响，但可能涉及核心系统功能。苹果方面尚未对此事发表正式评论。",
+    "category": "industry"
+  },
+  {
+    "id": "1cbf81471defa83e007383d5ca9fb850",
+    "title_en": "Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs",
+    "published_at": "2026-04-14T13:00:00.000Z",
+    "fetched_at": "2026-04-14T13:04:42.509Z",
+    "title_zh": "Alienware新款游戏显示器：240Hz QD-OLED面板仅售350美元",
+    "summary_zh": "戴尔旗下Alienware品牌发布了一款极具性价比的游戏显示器，采用量子点OLED（QD-OLED）面板，刷新率高达240Hz，而售价仅为350美元。该产品旨在为玩家提供更流畅、色彩更鲜艳的视觉体验，同时降低了高端OLED显示器的入门门槛，可能对游戏外设市场产生冲击。",
+    "category": "product"
+  },
+  {
+    "id": "08d2e106246bcab44d3befe011f675fa",
+    "title_en": "Ecovacs’ new robovac spots and pretreats dried stains using powerful jets",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/910298/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-pretreat-ai",
+    "published_at": "2026-04-14T13:00:00.000Z",
+    "fetched_at": "2026-04-14T13:04:42.509Z",
+    "title_zh": "科沃斯新款扫地机器人：用强力喷流识别并预处理干涸污渍",
+    "summary_zh": "科沃斯（Ecovacs）推出了一款新型扫地机器人，搭载了创新的污渍识别与预处理系统。它能够检测到地面上的干涸污渍（如咖啡渍、酱料等），并先使用强力水流喷射进行软化处理，然后再进行清扫和拖地，旨在更彻底地解决家庭清洁中的顽固污渍问题。",
+    "category": "product"
+  },
+  {
+    "id": "4ec4c5e097532a7c8166ab951cc6ce85",
+    "title_en": "GoPro goes bigger and pro-er with support for Micro Four Thirds lenses",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs",
+    "published_at": "2026-04-14T13:00:00.000Z",
+    "fetched_at": "2026-04-14T13:04:42.509Z",
+    "title_zh": "GoPro迈向专业领域：新设备支持M4/3镜头",
+    "summary_zh": "运动相机品牌GoPro发布了新款专业级设备，最大亮点是首次支持可更换的Micro Four Thirds（M4/3）镜头系统。这一举措标志着GoPro正从传统的紧凑型运动相机市场，向更专业、画质要求更高的视频创作领域拓展，为创作者提供了更大的灵活性和图像质量提升空间。",
+    "category": "product"
+  },
+  {
+    "id": "648b351f48438baa0dd47f55a62200ad",
+    "title_en": "Bloodborne is being turned into an R-rated animated film",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/911576/bloodborne-feature-film",
+    "published_at": "2026-04-14T12:35:40.000Z",
+    "fetched_at": "2026-04-14T13:04:42.509Z",
+    "title_zh": "《血源诅咒》将被改编为R级动画电影",
+    "summary_zh": "根据知名游戏媒体The Verge报道，FromSoftware的经典动作角色扮演游戏《血源诅咒》已确定将改编成一部R级（限制级）动画电影。该项目由索尼影业和PlayStation Productions牵头，旨在将游戏哥特式恐怖美学和深邃的克苏鲁神话故事搬上大银幕，预计将吸引大量游戏粉丝和恐怖片爱好者。",
+    "category": "industry"
+  },
+  {
+    "id": "a5a096728c6df4adcdfcad5d8095826c",
+    "title_en": "The Download: the state of AI, and protecting bears with drones",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+    "published_at": "2026-04-14T12:10:00.000Z",
+    "fetched_at": "2026-04-14T13:04:42.837Z",
+    "title_zh": "《下载》特辑：AI发展现状与用无人机保护熊类",
+    "summary_zh": "本期《MIT科技评论》的《下载》栏目聚焦两大主题：一是深入分析当前人工智能技术的发展格局与核心挑战；二是介绍一项创新应用——如何利用无人机和AI技术来监测和保护濒危的熊类物种，展示了科技向善的潜力。",
+    "category": "industry"
+  },
+  {
+    "id": "a859eeda831f7a44e92589f64c196037",
+    "title_en": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+    "published_at": "2026-04-14T12:04:47.000Z",
+    "fetched_at": "2026-04-14T13:04:42.837Z",
+    "title_zh": "NASA正在建造首个核反应堆驱动的星际飞船，它将如何工作？",
+    "summary_zh": "美国宇航局（NASA）正推进“核热推进”（NTP）项目，旨在建造首艘由核裂变反应堆驱动的星际飞船。该技术有望将前往火星的旅行时间缩短一半，文章详细解释了其工作原理、技术优势及面临的工程挑战。",
+    "category": "research"
+  },
+  {
     "id": "8ab7046806da6513023e8ee0144ea5d6",
     "title_en": "The 23 Best iPhone 17 Cases and Accessories Out of More Than 100 (2026)",
     "source": "Wired",
@@ -374,6 +451,50 @@
     "category": "industry"
   },
   {
+    "id": "5e71bc1253bd567b7fcc74d0d352f1e0",
+    "title_en": "Does ‘federated unlearning’ in AI improve data privacy, or create a new cybersecurity risk?",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/does-federated-unlearning-in-ai-improve-data-privacy-or-create-a-new-cybersecurity-risk-279640",
+    "published_at": "2026-04-13T13:02:18Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "AI中的‘联邦反学习’是增强了数据隐私，还是带来了新的网络安全风险？",
+    "summary_zh": "“联邦反学习”是一种新兴的AI技术，旨在让分布在多个设备上的联合学习模型能够“忘记”特定用户的敏感数据。专家们正在辩论：这项技术究竟是保护用户隐私的有效工具，还是会因操作复杂而引入新的安全漏洞和攻击面？",
+    "category": "research"
+  },
+  {
+    "id": "e30ce246fb3a425a9afbda705955a3b4",
+    "title_en": "Riyadh Hosts the Third Edition of the Saudi WoodShow from 1–3 September 2026",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/04/13/3272552/0/en/Riyadh-Hosts-the-Third-Edition-of-the-Saudi-WoodShow-from-1-3-September-2026.html",
+    "published_at": "2026-04-13T13:02:00Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "利雅得将于2026年9月1日至3日举办第三届沙特木业展",
+    "summary_zh": "商业新闻稿：第三届沙特国际木材、木工机械及家具制造展览会（Saudi WoodShow）定于2026年9月1日至3日在沙特首都利雅得举行。该展会旨在展示木材行业最新技术、设备与材料，促进当地及全球木业贸易与合作。",
+    "category": "industry"
+  },
+  {
+    "id": "6c39f872ed2bd1a7eefab61931bee4e5",
+    "title_en": "China has erased the US lead in AI, Stanford HAI’s 2026 AI index reveals",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/04/13/stanford-hais-2026-ai-index-reveals-china-u-s-now-neck-neck-race-global-dominance/",
+    "published_at": "2026-04-13T13:00:42Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "斯坦福HAI 2026年AI指数揭示：中国已抹平美国在AI领域的领先优势",
+    "summary_zh": "斯坦福大学以人为本人工智能研究所（HAI）发布的2026年人工智能指数报告显示，中国在人工智能领域的多项关键指标上已追平甚至超越美国，标志着全球AI竞争格局发生重大转变。报告涵盖研究产出、投资、人才及产业应用等多个维度。",
+    "category": "industry"
+  },
+  {
+    "id": "92549eabd7b21b0aa3bc44c815fff810",
+    "title_en": "Cloudflare expands Agent Cloud with new tools to build and scale AI agents",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/04/13/cloudflare-expands-agent-cloud-new-tools-build-scale-ai-agents/",
+    "published_at": "2026-04-13T13:00:22Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "Cloudflare扩展Agent Cloud平台，推出构建与扩展AI智能体的新工具",
+    "summary_zh": "Cloudflare宣布为其AI智能体平台Agent Cloud推出一系列新工具，旨在帮助开发者更轻松地构建、部署和管理可扩展的AI智能体。新功能增强了智能体的推理能力、工作流编排以及与外部数据和API的集成，降低了企业级AI应用的开发门槛。",
+    "category": "product"
+  },
+  {
     "id": "384794bf0465095fda8c6cf8630f24b8",
     "title_en": "Want to understand the current state of AI? Check out these charts.",
     "source": "MIT Tech Review",
@@ -382,6 +503,61 @@
     "fetched_at": "2026-04-14T11:56:27.434Z",
     "title_zh": "想了解AI现状？看看这些图表。",
     "summary_zh": "《麻省理工科技评论》通过一系列数据图表，直观展示了人工智能领域当前的发展状态，可能涵盖模型能力、投资趋势、应用范围及算力需求等关键指标。",
+    "category": "industry"
+  },
+  {
+    "id": "3b293ce2510c1dfe5460a005ed757eb9",
+    "title_en": "Burundi Moves to Make Fragmented Health Data Systems Interoperable",
+    "source": "Ecofin Agency: Economic information from Africa",
+    "url": "https://www.ecofinagency.com/news-digital/1304-54616-burundi-moves-to-make-fragmented-health-data-systems-interoperable",
+    "published_at": "2026-04-13T12:59:04Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "布隆迪着手推动碎片化医疗数据系统实现互操作性",
+    "summary_zh": "布隆迪正采取措施，旨在整合国内分散的医疗数据系统，以实现系统间的互操作性。此举有望通过数据共享提升公共卫生决策效率、优化资源配置并改善医疗服务。项目可能涉及制定数据标准、采用数字健康平台等技术手段。",
+    "category": "industry"
+  },
+  {
+    "id": "09dfe6fb176652a4bc58d4cb357ecf9c",
+    "title_en": "Why marketing is now the operating system for growth",
+    "source": "Digiday",
+    "url": "http://digiday.com/sponsored/why-marketing-is-now-the-operating-system-for-growth/",
+    "published_at": "2026-04-13T12:58:19Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "为何营销如今已成为企业增长的“操作系统”？",
+    "summary_zh": "文章探讨了在现代商业环境中，营销职能已从单纯的推广部门演变为驱动企业整体增长的核心“操作系统”。这得益于数据、AI和自动化技术的融合，使营销能够实时洞察客户、协调跨部门资源并直接驱动收入，成为战略决策的中心。",
+    "category": "industry"
+  },
+  {
+    "id": "522edfb3c46a4348a89c32223772b12b",
+    "title_en": "Zero tax liability? 5 reasons filing nil income tax return in FY 2025-26 is a smart move",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/money/personal-finance/zero-tax-liability-5-reasons-filing-nil-income-tax-return-in-fy-2025-26-is-a-smart-move-11776080505380.html",
+    "published_at": "2026-04-13T12:56:31Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "零纳税义务？在2025-26财年提交零所得税申报表的五个明智理由",
+    "summary_zh": "本文分析了即使个人收入低于免税门槛，在2025-26财年主动提交零所得税申报表（Nil ITR）的五大好处。理由包括建立收入证明、申请退税、结转亏损、满足贷款或签证要求，以及避免未来税务通知，是一种具有前瞻性的财务规划行为。",
+    "category": "industry"
+  },
+  {
+    "id": "28ff056bd5fe1e2646d8d4d4568672ee",
+    "title_en": "FO Talks: The $9 Trillion Crisis — AI, Burnout and the Collapse of White Collar Jobs",
+    "source": "Fair Observer",
+    "url": "https://www.fairobserver.com/business/fo-talks-the-9-trillion-crisis-ai-burnout-and-the-collapse-of-white-collar-jobs/",
+    "published_at": "2026-04-13T12:47:32Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "FO访谈：9万亿美元危机——人工智能、职业倦怠与白领工作的崩塌",
+    "summary_zh": "本期《Fair Observer》访谈节目深入探讨了人工智能的快速发展如何加剧白领就业市场的结构性危机。讨论聚焦于AI自动化可能导致大规模岗位流失、员工职业倦怠加剧，以及由此引发的潜在经济与社会动荡，预估影响规模高达9万亿美元。",
+    "category": "industry"
+  },
+  {
+    "id": "bbc797152bb9a6dec5679b5ed974a10f",
+    "title_en": "Sam Altman Targeted in Second Attack on San Francisco Home: Shots Fired Days After Molotov Incident",
+    "source": "Ibtimes.com.au",
+    "url": "https://www.ibtimes.com.au/sam-altman-targeted-second-attack-san-francisco-home-shots-fired-days-after-molotov-incident-1866369",
+    "published_at": "2026-04-13T12:46:01Z",
+    "fetched_at": "2026-04-14T13:04:43.284Z",
+    "title_zh": "山姆·奥特曼旧金山住宅再遭袭击：燃烧瓶事件数日后发生枪击",
+    "summary_zh": "OpenAI首席执行官山姆·奥特曼位于旧金山的住宅在短期内遭遇第二次袭击。继之前的投掷燃烧瓶事件后，其住宅再次成为目标，并发生了枪击。当地警方已介入调查，目前尚不清楚袭击动机是否与奥特曼本人或其工作直接相关。",
     "category": "industry"
   },
   {
@@ -5322,181 +5498,5 @@
     "title_zh": "我最爱的Game Boy配件能辨别游戏卡带的真伪吗？",
     "summary_zh": "文章探讨了一款流行的Game Boy复古配件是否具备鉴别正版与盗版游戏卡带的功能。通过技术分析，揭示了该设备在读取芯片信息、验证数据完整性方面的潜力，为复古游戏收藏者提供了实用的防伪参考，也反映了硬件黑客社区对经典设备的创造性再利用。",
     "category": "product"
-  },
-  {
-    "id": "a98e5a90633d4dc73a9af759a04b47b0",
-    "title_en": "There is no ethical consumption of HBO’s Harry Potter series",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
-    "published_at": "2026-03-29T14:00:00.000Z",
-    "fetched_at": "2026-03-29T18:29:30.778Z",
-    "title_zh": "观看HBO的《哈利·波特》剧集不存在“道德消费”",
-    "summary_zh": "文章围绕HBO重启《哈利·波特》系列引发的伦理争议展开，探讨了在原著作者J.K.罗琳陷入跨性别言论风波后，观众支持该剧集是否意味着变相支持其争议观点。作者分析了娱乐消费与价值观分离的困境，指出在当今文化环境下，纯粹“无负担”的消费已越来越难实现。",
-    "category": "industry"
-  },
-  {
-    "id": "44a290d706b47ad917f877b3fe40718b",
-    "title_en": "Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals",
-    "published_at": "2026-03-29T13:00:00.000Z",
-    "fetched_at": "2026-03-29T18:29:30.778Z",
-    "title_zh": "亚马逊春季大促是入手高端AI智能喂鸟器的好时机",
-    "summary_zh": "亚马逊春季大促期间，多款搭载人工智能技术的智能喂鸟器迎来折扣。这些设备通常配备摄像头与识别算法，能自动识别鸟类种类、记录访客数据，并通过手机应用向用户推送通知。文章建议对观鸟或智能家居感兴趣的科技爱好者可借此机会以更优价格体验AI驱动的自然观察工具。",
-    "category": "product"
-  },
-  {
-    "id": "f02156bfc5536a8e0bd0b2ea270b7c4b",
-    "title_en": "Bernie Sanders: No Kings. No Oligarchy. In America, We the People Will Rule",
-    "source": "Common Dreams",
-    "url": "https://www.commondreams.org/opinion/bernie-sanders-no-kings-speech-2676634948",
-    "published_at": "2026-03-29T12:40:02Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "伯尼·桑德斯：没有国王，没有寡头。在美国，人民将统治一切",
-    "summary_zh": "美国参议员伯尼·桑德斯发表评论文章，重申其反对政治寡头和经济不平等的核心主张。他强调“人民统治”的民主原则，批判财富与权力过度集中对美国民主制度的侵蚀，并呼吁进行激进的政治经济改革以重建为所有人服务的政府。",
-    "category": "industry"
-  },
-  {
-    "id": "9cf62c1fec69d416822e3fb45097e688",
-    "title_en": "The Macintosh changed computers forever",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
-    "published_at": "2026-03-29T12:30:36.000Z",
-    "fetched_at": "2026-03-29T12:35:00.936Z",
-    "title_zh": "Macintosh如何永远地改变了计算机",
-    "summary_zh": "本文回顾了苹果Macintosh电脑的诞生及其对个人计算领域的革命性影响。它探讨了Macintosh的图形用户界面、设计理念如何重塑了人机交互方式，并奠定了现代个人电脑的基础，其遗产至今仍在影响整个科技行业。",
-    "category": "industry"
-  },
-  {
-    "id": "a1eba0e0166757949bcdc392905bb673",
-    "title_en": "Real estate premiumization not a temporary trend, say experts",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/industry/india-real-estate-premiumization-luxury-property-market-shift-11774762466021.html",
-    "published_at": "2026-03-29T12:26:25Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "专家称房地产高端化并非暂时趋势",
-    "summary_zh": "《Livemint》报道，行业专家分析指出，全球房地产市场出现的“高端化”或“优质化”趋势——即开发商更专注于高端、高利润项目——并非短期市场波动所致。这背后是富裕阶层需求增长、投资偏好变化及土地成本上升等结构性因素驱动，预计将成为长期市场特征。",
-    "category": "industry"
-  },
-  {
-    "id": "19ec4cc5e6c345e7d172cb05ad30eda3",
-    "title_en": "Alien: King Killer #1 Preview: Game of Thrones, Xenomorph Style",
-    "source": "Bleeding Cool News",
-    "url": "https://bleedingcool.com/comics/alien-king-killer-1-preview-game-of-thrones-xenomorph-style/",
-    "published_at": "2026-03-29T12:26:06Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "《异形：弑君者》#1 预览：异形版《权力的游戏》",
-    "summary_zh": "本文预览了漫画《异形：弑君者》第一期的内容，将其描述为融合了《异形》系列恐怖元素与《权力的游戏》式宫廷权谋风格的作品。文章来自娱乐新闻媒体，主要面向漫画和流行文化爱好者。",
-    "category": "industry"
-  },
-  {
-    "id": "d23af27c2934c018bd7a7d2d1e2adbe1",
-    "title_en": "Bitcoin Climbs to $66,809 as Crypto Market Shows Renewed Strength",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/bitcoin-climbs-66809-crypto-market-shows-renewed-strength-1864901",
-    "published_at": "2026-03-29T12:19:04Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "比特币攀升至66,809美元，加密货币市场展现复苏势头",
-    "summary_zh": "报道指出，比特币价格已上涨至66,809美元，标志着加密货币市场在经历波动后显示出新的强势。文章分析了近期市场动态和可能的驱动因素，为投资者提供市场概览。",
-    "category": "industry"
-  },
-  {
-    "id": "162bd516d13c13d80d339193b0c188e4",
-    "title_en": "The US-Israeli war on humanity",
-    "source": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/opinions/2026/3/29/the-us-israeli-war-on-humanity",
-    "published_at": "2026-03-29T12:08:26Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "美以战争对人类的影响",
-    "summary_zh": "这是一篇来自半岛电视台的评论或分析文章，探讨美国与以色列的军事行动或政策对全球人道主义状况产生的广泛影响。文章立场鲜明，属于国际政治与冲突领域的深度报道。",
-    "category": "industry"
-  },
-  {
-    "id": "faf8e77888ca5ebc9310ce8f4babeb26",
-    "title_en": "'Every living thing on Earth runs on the same programming language': How AI foundation models trained on DNA could transform plant biology",
-    "source": "TechRadar",
-    "url": "https://www.techradar.com/pro/every-living-thing-on-earth-runs-on-the-same-programming-language-how-ai-foundation-models-trained-on-dna-could-transform-plant-biology",
-    "published_at": "2026-03-29T12:05:00Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "“地球所有生命运行于同一编程语言”：基于DNA训练的AI基础模型如何变革植物生物学",
-    "summary_zh": "文章探讨了AI领域的新兴方向：使用DNA序列而非文本训练基础模型。这种“生命编程语言”模型有望解码遗传密码，加速作物改良、新药发现，并从根本上改变我们对生物学的理解，是AI与生命科学的革命性交叉。",
-    "category": "research"
-  },
-  {
-    "id": "f2757569d9d286516ececefd8d42fc66",
-    "title_en": "AuraFonts, Twitter, Sherman Austin, More: Sunday ResearchBuzz, March 29, 2026",
-    "source": "Researchbuzz.me",
-    "url": "https://researchbuzz.me/2026/03/29/aurafonts-twitter-sherman-austin-more-sunday-researchbuzz-march-29-2026/",
-    "published_at": "2026-03-29T12:01:53Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "AuraFonts、Twitter、Sherman Austin等：2026年3月29日周日研究动态",
-    "summary_zh": "这是一份来自ResearchBuzz的周期性信息聚合摘要，内容涵盖AuraFonts、Twitter、Sherman Austin等多个领域的网络研究、工具更新或网络文化动态。它服务于研究人员和网络信息爱好者，提供最新的网络发现和资源索引。",
-    "category": "product"
-  },
-  {
-    "id": "235308819484c4cf0bb96af5b68d16e2",
-    "title_en": "Apple’s long, bitter App Store antitrust war",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
-    "published_at": "2026-03-29T12:00:00.000Z",
-    "fetched_at": "2026-03-29T12:35:00.937Z",
-    "title_zh": "苹果App Store漫长的反垄断苦战",
-    "summary_zh": "文章梳理了苹果公司与其App Store平台所面临的一系列重大反垄断诉讼与监管挑战。从Epic Games诉讼到欧盟《数字市场法案》的合规压力，这场旷日持久的法律与商业斗争，正在深刻影响全球应用生态的规则与开发者的未来。",
-    "category": "industry"
-  },
-  {
-    "id": "61cd4215f6762a15a027873a82c99cd9",
-    "title_en": "A new wave of AI schools is balancing life skills and machine-led learning — for as little as two hours a day",
-    "source": "New York Post",
-    "url": "https://nypost.com/2026/03/29/lifestyle/ai-schools-balance-life-skills-and-machine-led-learning/",
-    "published_at": "2026-03-29T12:00:00Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "新一代AI学校兴起：平衡生活技能与机器主导学习，每天仅需两小时",
-    "summary_zh": "报道介绍了一种新兴的教育模式——“AI学校”，它利用人工智能进行个性化教学，每天仅安排约两小时的核心学术学习，其余时间则专注于体育、社交等生活技能的培养。这种模式旨在重新平衡技术辅助教育与人的全面发展。",
-    "category": "industry"
-  },
-  {
-    "id": "dee3ebeacba476f4908a86d1b6832ffe",
-    "title_en": "The AI doomsday everyone’s worried about is the wrong one",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/03/29/ai-workforce-human-design-gap-doomsday-deloitte-wharton-harvard/",
-    "published_at": "2026-03-29T12:00:00Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "人人担忧的AI末日，可能搞错了重点",
-    "summary_zh": "《财富》杂志文章指出，当前公众和专家对人工智能的终极担忧（如超级智能失控）可能偏离了更紧迫的现实风险。文章呼吁关注AI已造成的或近期的危害，如就业冲击、偏见固化、信息生态破坏等，认为这些才是更应优先应对的“末日”场景。",
-    "category": "industry"
-  },
-  {
-    "id": "28cd896d5275a4579ebea6cf40ae1d4d",
-    "title_en": "nepal-gov-agent 0.1.0",
-    "source": "Pypi.org",
-    "url": "https://pypi.org/project/nepal-gov-agent/",
-    "published_at": "2026-03-29T11:57:20Z",
-    "fetched_at": "2026-03-30T12:57:10.759Z",
-    "title_zh": "nepal-gov-agent 0.1.0 版本发布",
-    "summary_zh": "这是在Python包索引（PyPI）上发布的一个名为“nepal-gov-agent”的软件包的新版本（0.1.0）。该工具很可能是一个用于与尼泊尔政府相关数据或服务进行交互的API客户端、数据抓取器或自动化代理，面向开发者提供便利的技术组件。",
-    "category": "product"
-  },
-  {
-    "id": "18ea30cf6f9d6a4a36b28dfcf1d9a19e",
-    "title_en": "9 Best Android Phones of 2026, Tested and Reviewed",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-android-phones/",
-    "published_at": "2026-03-29T11:00:00.000Z",
-    "fetched_at": "2026-03-29T11:25:47.727Z",
-    "title_zh": "2026年最佳安卓手机评测：九款机型实测",
-    "summary_zh": "《连线》杂志对2026年市场上的安卓手机进行了全面测试与评估，评选出九款最佳机型。评测涵盖了性能、相机、电池续航和用户体验等多个维度，为科技爱好者和消费者提供了权威的购机参考。",
-    "category": "product"
-  },
-  {
-    "id": "72c7c908f380b890935d577fbeafce82",
-    "title_en": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/",
-    "published_at": "2026-03-29T11:00:00.000Z",
-    "fetched_at": "2026-03-29T11:25:47.727Z",
-    "title_zh": "学区试图帮助训练Waymo识别校车停车，但失败了",
-    "summary_zh": "据报道，一个美国学区曾尝试与Waymo合作，帮助其自动驾驶系统学习识别停靠的校车并做出正确反应，但相关训练未能达到预期效果。这凸显了自动驾驶技术在应对复杂、非标准化的现实场景时仍面临挑战。",
-    "category": "industry"
   }
 ]
