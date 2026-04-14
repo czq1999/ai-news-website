@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-14",
-      "summary_zh": "今日GitHub趋势聚焦AI开发工具与开源创新：Claude代码行为优化与开发记忆插件提升编程效率，开源语音合成与3D建筑编辑器展现创意工具多样化，微软文档转Markdown工具及金融AI模型则体现行业解决方案的深化。",
+      "summary_zh": "今日GitHub趋势项目聚焦AI编程工具与开源创新：Claude代码行为优化与开发会话记忆增强、开源语音合成工具、3D建筑编辑器、文档转Markdown工具、智能体开发框架，以及金融AI模型和登月源代码等跨领域开源项目。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/forrestchang/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 29810,
+          "stars_total": 32023,
           "stars_today": 9230,
-          "description_zh": "一个用于改进Claude代码行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编程常见问题的观察总结。"
+          "description_zh": "一个用于改进Claude代码行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编程常见陷阱的观察总结。"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 82505,
+          "stars_total": 83739,
           "stars_today": 8282,
           "description_zh": "与你共同成长的智能体"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
           "language": "TypeScript",
-          "stars_total": 54676,
+          "stars_total": 55342,
           "stars_today": 2979,
           "description_zh": "Claude Code插件，自动记录编码会话中的所有操作，通过AI（使用Claude的agent-sdk）压缩处理，并将相关上下文注入未来的会话中。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/shanraisshan/claude-code-best-practice",
           "description_en": "from vibe coding to agentic engineering - practice makes claude perfect",
           "language": "HTML",
-          "stars_total": 43000,
+          "stars_total": 43484,
           "stars_today": 2569,
           "description_zh": "从氛围编程到智能体工程——熟能生巧，让Claude臻于完美"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 151534,
+          "stars_total": 152004,
           "stars_today": 1928,
           "description_zh": "一个有效的智能体技能框架与软件开发方法论"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/microsoft/markitdown",
           "description_en": "Python tool for converting files and office documents to Markdown.",
           "language": "Python",
-          "stars_total": 107904,
+          "stars_total": 108239,
           "stars_today": 1672,
           "description_zh": "将文件和办公文档转换为Markdown的Python工具"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/jamiepine/voicebox",
           "description_en": "The open-source voice synthesis studio",
           "language": "TypeScript",
-          "stars_total": 16838,
+          "stars_total": 17130,
           "stars_today": 1165,
           "description_zh": "开源语音合成工作室"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/virattt/ai-hedge-fund",
           "description_en": "An AI Hedge Fund Team",
           "language": "Python",
-          "stars_total": 53668,
+          "stars_total": 53974,
           "stars_today": 1007,
           "description_zh": "人工智能对冲基金团队"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/shiyu-coder/Kronos",
           "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
           "language": "Python",
-          "stars_total": 17555,
+          "stars_total": 17704,
           "stars_today": 965,
           "description_zh": "Kronos：金融市场语言基础模型"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/anthropics/claude-cookbooks",
           "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
           "language": "Jupyter Notebook",
-          "stars_total": 39926,
+          "stars_total": 40120,
           "stars_today": 922,
           "description_zh": "展示Claude有趣且高效使用方法的笔记本/方案合集"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/pascalorg/editor",
           "description_en": "Create and share 3D architectural projects.",
           "language": "TypeScript",
-          "stars_total": 10869,
+          "stars_total": 11311,
           "stars_today": 769,
           "description_zh": "创建并分享3D建筑项目"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/chrislgarry/Apollo-11",
           "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
           "language": "Assembly",
-          "stars_total": 66028,
+          "stars_total": 66237,
           "stars_today": 390,
           "description_zh": "阿波罗11号指令舱与登月舱的原始制导计算机（AGC）源代码"
         }
