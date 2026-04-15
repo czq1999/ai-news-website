@@ -1,6 +1,132 @@
 {
   "days": [
     {
+      "date": "2026-04-15",
+      "summary_zh": "今日GitHub趋势项目聚焦AI编程助手优化（Claude行为改进、会话记忆插件）、开源语音合成、3D建筑编辑器、文档转换工具、智能体开发框架，以及金融AI（对冲基金与市场语言模型）和经典航天代码复现。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 34043,
+          "stars_today": 9263,
+          "description_zh": "一个用于改进Claude代码行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码常见问题的观察总结。"
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description_en": "The agent that grows with you",
+          "language": "Python",
+          "stars_total": 84528,
+          "stars_today": 8301,
+          "description_zh": "与你共同成长的智能体"
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "language": "TypeScript",
+          "stars_total": 55861,
+          "stars_today": 2997,
+          "description_zh": "Claude Code插件，自动记录编码会话中的所有操作，通过AI（使用Claude的agent-sdk）压缩处理，并将相关上下文注入未来的会话中。"
+        },
+        {
+          "rank": 4,
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description_en": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "language": "HTML",
+          "stars_total": 43844,
+          "stars_today": 2583,
+          "description_zh": "从氛围编码到智能体工程——熟能生巧，让Claude臻于完美"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 152340,
+          "stars_today": 1919,
+          "description_zh": "一个有效的智能体技能框架与软件开发方法论"
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description_en": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars_total": 108497,
+          "stars_today": 1675,
+          "description_zh": "将文件和办公文档转换为Markdown的Python工具"
+        },
+        {
+          "rank": 7,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description_en": "The open-source voice synthesis studio",
+          "language": "TypeScript",
+          "stars_total": 17371,
+          "stars_today": 1162,
+          "description_zh": "开源语音合成工作室"
+        },
+        {
+          "rank": 8,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description_en": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars_total": 54169,
+          "stars_today": 1007,
+          "description_zh": "AI对冲基金团队"
+        },
+        {
+          "rank": 9,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 17818,
+          "stars_today": 963,
+          "description_zh": "Kronos：金融市场语言基础模型"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "language": "Jupyter Notebook",
+          "stars_total": 40272,
+          "stars_today": 931,
+          "description_zh": "展示Claude有趣且高效使用方法的笔记本/配方合集"
+        },
+        {
+          "rank": 11,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description_en": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars_total": 11668,
+          "stars_today": 820,
+          "description_zh": "创建并分享3D建筑项目"
+        },
+        {
+          "rank": 12,
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars_total": 66373,
+          "stars_today": 472,
+          "description_zh": "阿波罗11号指令舱与登月舱原始制导计算机（AGC）源代码"
+        }
+      ]
+    },
+    {
       "date": "2026-04-14",
       "summary_zh": "今日GitHub趋势项目聚焦AI编程工具与开源创新：Claude代码行为优化与开发会话记忆增强、开源语音合成工具、3D建筑编辑器、文档转Markdown工具、智能体开发框架，以及金融AI模型和登月源代码等跨领域开源项目。",
       "projects": [
