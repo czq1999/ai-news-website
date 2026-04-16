@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-16",
-      "summary_zh": "今日GitHub趋势项目聚焦AI开发工具与开源资源，主要涵盖：Claude代码行为优化与上下文管理插件、大模型实践教程、AI对冲基金及智能体开发框架，同时包含3D编辑器、语音合成工具和经典阿波罗11号源代码等多元开源项目。",
+      "summary_zh": "今日GitHub趋势聚焦AI开发工具创新：Claude代码行为优化与记忆增强插件、自进化智能体实现高效系统控制、开源语音合成工具、云端智能体构建模板、AI文件类型检测工具、WhatsApp命令行客户端、轻量级AI知识引擎、大模型加速解码技术，以及大模型实践教程。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/forrestchang/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 45203,
-          "stars_today": 9646,
+          "stars_total": 47210,
+          "stars_today": 7939,
           "description_zh": "一个用于改进Claude代码行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编码常见陷阱的观察总结。"
         },
         {
@@ -20,119 +20,119 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
           "language": "TypeScript",
-          "stars_total": 58318,
-          "stars_today": 2305,
-          "description_zh": "Claude Code插件，自动记录编码会话中Claude的所有操作，通过AI（使用Claude的agent-sdk）压缩处理，并将相关上下文注入未来的会话中。"
+          "stars_total": 58816,
+          "stars_today": 1907,
+          "description_zh": "Claude Code插件：自动记录编码会话中Claude的所有操作，通过AI（使用Claude的agent-sdk）压缩处理，并将相关上下文注入未来的会话中。"
         },
         {
           "rank": 3,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 154938,
-          "stars_today": 2055,
-          "description_zh": "一个有效的智能体技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 4,
-          "name": "pascalorg/editor",
-          "url": "https://github.com/pascalorg/editor",
-          "description_en": "Create and share 3D architectural projects.",
-          "language": "TypeScript",
-          "stars_total": 12896,
-          "stars_today": 1391,
-          "description_zh": "创建并分享3D建筑项目。"
-        },
-        {
-          "rank": 5,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source voice synthesis studio",
-          "language": "TypeScript",
-          "stars_total": 18540,
-          "stars_today": 1062,
-          "description_zh": "开源语音合成工作室"
-        },
-        {
-          "rank": 6,
-          "name": "virattt/ai-hedge-fund",
-          "url": "https://github.com/virattt/ai-hedge-fund",
-          "description_en": "An AI Hedge Fund Team",
-          "language": "Python",
-          "stars_total": 55346,
-          "stars_today": 1058,
-          "description_zh": "一个AI对冲基金团队"
-        },
-        {
-          "rank": 7,
-          "name": "public-apis/public-apis",
-          "url": "https://github.com/public-apis/public-apis",
-          "description_en": "A collective list of free APIs",
-          "language": "Python",
-          "stars_total": 423756,
-          "stars_today": 950,
-          "description_zh": "免费API集合列表"
-        },
-        {
-          "rank": 8,
           "name": "Lordog/dive-into-llms",
           "url": "https://github.com/Lordog/dive-into-llms",
           "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
           "language": "Jupyter Notebook",
-          "stars_total": 30020,
-          "stars_today": 941,
+          "stars_total": 30392,
+          "stars_today": 1394,
           "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
         {
-          "rank": 9,
-          "name": "vercel-labs/open-agents",
-          "url": "https://github.com/vercel-labs/open-agents",
-          "description_en": "An open source template for building cloud agents.",
+          "rank": 4,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description_en": "The open-source voice synthesis studio",
           "language": "TypeScript",
-          "stars_total": 2834,
-          "stars_today": 915,
-          "description_zh": "用于构建云端智能体的开源模板。"
+          "stars_total": 18767,
+          "stars_today": 887,
+          "description_zh": "开源语音合成工作室"
         },
         {
-          "rank": 10,
-          "name": "google/magika",
-          "url": "https://github.com/google/magika",
-          "description_en": "Fast and accurate AI powered file content types detection",
-          "language": "Python",
-          "stars_total": 14020,
-          "stars_today": 768,
-          "description_zh": "基于AI的快速精准文件内容类型检测工具"
-        },
-        {
-          "rank": 11,
-          "name": "Donchitos/Claude-Code-Game-Studios",
-          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-          "description_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-          "language": "Shell",
-          "stars_total": 10893,
-          "stars_today": 612,
-          "description_zh": "将Claude Code转变为完整的游戏开发工作室——包含49个AI智能体、72项工作流技能，以及模拟真实工作室层级的完整协作系统。"
-        },
-        {
-          "rank": 12,
-          "name": "chrislgarry/Apollo-11",
-          "url": "https://github.com/chrislgarry/Apollo-11",
-          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-          "language": "Assembly",
-          "stars_total": 66889,
-          "stars_today": 606,
-          "description_zh": "阿波罗11号指令舱与登月舱原始制导计算机（AGC）源代码。"
-        },
-        {
-          "rank": 13,
+          "rank": 5,
           "name": "lsdefine/GenericAgent",
           "url": "https://github.com/lsdefine/GenericAgent",
           "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
           "language": "Python",
-          "stars_total": 2221,
-          "stars_today": 446,
-          "description_zh": "自进化智能体：从3300行种子代码生长技能树，以降低6倍的token消耗实现完整系统控制"
+          "stars_total": 2473,
+          "stars_today": 883,
+          "description_zh": "自进化智能体：从3300行种子代码生长技能树，以降低6倍的token消耗实现完整系统控制。"
+        },
+        {
+          "rank": 6,
+          "name": "google/magika",
+          "url": "https://github.com/google/magika",
+          "description_en": "Fast and accurate AI powered file content types detection",
+          "language": "Python",
+          "stars_total": 14288,
+          "stars_today": 871,
+          "description_zh": "基于AI的快速精准文件内容类型检测工具"
+        },
+        {
+          "rank": 7,
+          "name": "EvoMap/evolver",
+          "url": "https://github.com/EvoMap/evolver",
+          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "language": "JavaScript",
+          "stars_total": 2918,
+          "stars_today": 866,
+          "description_zh": "基于GEP的AI智能体自进化引擎——基因组进化协议 | evomap.ai"
+        },
+        {
+          "rank": 8,
+          "name": "vercel-labs/open-agents",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "description_en": "An open source template for building cloud agents.",
+          "language": "TypeScript",
+          "stars_total": 2985,
+          "stars_today": 735,
+          "description_zh": "构建云端智能体的开源模板"
+        },
+        {
+          "rank": 9,
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "language": "Dart",
+          "stars_total": 8720,
+          "stars_today": 448,
+          "description_zh": "能观察屏幕、聆听对话并指导行动的AI助手"
+        },
+        {
+          "rank": 10,
+          "name": "steipete/wacli",
+          "url": "https://github.com/steipete/wacli",
+          "description_en": "WhatsApp CLI",
+          "language": "Go",
+          "stars_total": 1538,
+          "stars_today": 354,
+          "description_zh": "WhatsApp命令行客户端"
+        },
+        {
+          "rank": 11,
+          "name": "z-lab/dflash",
+          "url": "https://github.com/z-lab/dflash",
+          "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "language": "Python",
+          "stars_total": 1464,
+          "stars_today": 183,
+          "description_zh": "DFlash：面向闪存推测解码的块扩散技术"
+        },
+        {
+          "rank": 12,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description_en": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+          "language": "Python",
+          "stars_total": 15615,
+          "stars_today": 156,
+          "description_zh": "6行代码实现的AI智能体记忆知识引擎"
+        },
+        {
+          "rank": 13,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description_en": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars_total": 20984,
+          "stars_today": 110,
+          "description_zh": "轻量级、功能强大的多智能体工作流框架"
         }
       ]
     },
