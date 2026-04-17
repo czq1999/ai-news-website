@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-17",
-      "summary_zh": "今日GitHub趋势聚焦AI开发工具创新：Claude代码行为优化与记忆增强插件、自进化智能体实现高效系统控制、开源语音合成工具、云端智能体构建模板、AI文件类型检测工具、WhatsApp命令行客户端、轻量级AI知识引擎、大模型加速解码技术，以及大模型实践教程系列。",
+      "summary_zh": "今日GitHub趋势聚焦AI开发工具创新：Claude代码行为优化与记忆增强插件、自进化智能体架构、开源语音合成工具、云端智能体模板、AI文件检测工具、WhatsApp命令行客户端、轻量级知识引擎、扩散模型加速解码技术，以及大模型实践教程。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/forrestchang/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 50128,
+          "stars_total": 51903,
           "stars_today": 7959,
           "description_zh": "一个单独的CLAUDE.md文件，用于改进Claude Code的行为，源自Andrej Karpathy对LLM编码常见陷阱的观察总结。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
           "language": "TypeScript",
-          "stars_total": 59866,
+          "stars_total": 60530,
           "stars_today": 1897,
           "description_zh": "Claude Code插件，自动记录编码会话中Claude的所有操作，通过AI（使用Claude的agent-sdk）压缩处理，并将相关上下文注入未来的会话中。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/Lordog/dive-into-llms",
           "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
           "language": "Jupyter Notebook",
-          "stars_total": 30742,
+          "stars_total": 31058,
           "stars_today": 1385,
           "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/jamiepine/voicebox",
           "description_en": "The open-source voice synthesis studio",
           "language": "TypeScript",
-          "stars_total": 19092,
+          "stars_total": 19334,
           "stars_today": 880,
           "description_zh": "开源语音合成工作室"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/lsdefine/GenericAgent",
           "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
           "language": "Python",
-          "stars_total": 2816,
+          "stars_total": 3071,
           "stars_today": 872,
-          "description_zh": "自进化智能体：从3300行种子代码生长技能树，实现完整系统控制，同时减少6倍token消耗。"
+          "description_zh": "自进化智能体：从3300行种子代码生长技能树，实现完全系统控制，同时减少6倍token消耗。"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/google/magika",
           "description_en": "Fast and accurate AI powered file content types detection",
           "language": "Python",
-          "stars_total": 14806,
+          "stars_total": 15018,
           "stars_today": 854,
-          "description_zh": "基于AI的快速准确文件内容类型检测工具"
+          "description_zh": "快速准确的AI驱动文件内容类型检测工具"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/EvoMap/evolver",
           "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
           "language": "JavaScript",
-          "stars_total": 3189,
+          "stars_total": 3403,
           "stars_today": 812,
-          "description_zh": "基于GEP的AI智能体自进化引擎。基因组进化协议。| evomap.ai"
+          "description_zh": "AI智能体的GEP驱动自进化引擎。基因组进化协议。| evomap.ai"
         },
         {
           "rank": 8,
@@ -80,7 +80,7 @@
           "url": "https://github.com/vercel-labs/open-agents",
           "description_en": "An open source template for building cloud agents.",
           "language": "TypeScript",
-          "stars_total": 3225,
+          "stars_total": 3373,
           "stars_today": 738,
           "description_zh": "构建云端智能体的开源模板"
         },
@@ -90,9 +90,9 @@
           "url": "https://github.com/BasedHardware/omi",
           "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
           "language": "Dart",
-          "stars_total": 9137,
+          "stars_total": 9350,
           "stars_today": 378,
-          "description_zh": "能够观察屏幕、聆听对话并指导操作的AI助手"
+          "description_zh": "能看见你的屏幕、聆听对话并指导你行动的AI助手"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
           "description_en": "Claude Code skill to support Android app's reverse engineering",
           "language": "Shell",
-          "stars_total": 2259,
+          "stars_total": 2425,
           "stars_today": 375,
           "description_zh": "支持Android应用逆向工程的Claude Code技能"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/steipete/wacli",
           "description_en": "WhatsApp CLI",
           "language": "Go",
-          "stars_total": 1692,
+          "stars_total": 1766,
           "stars_today": 321,
           "description_zh": "WhatsApp命令行客户端"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/z-lab/dflash",
           "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
           "language": "Python",
-          "stars_total": 1618,
+          "stars_total": 1689,
           "stars_today": 195,
           "description_zh": "DFlash：用于闪存推测解码的块扩散技术"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/openai/openai-agents-python",
           "description_en": "A lightweight, powerful framework for multi-agent workflows",
           "language": "Python",
-          "stars_total": 21268,
+          "stars_total": 21438,
           "stars_today": 172,
           "description_zh": "轻量级、功能强大的多智能体工作流框架"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/topoteretes/cognee",
           "description_en": "Knowledge Engine for AI Agent Memory in 6 lines of code",
           "language": "Python",
-          "stars_total": 15825,
+          "stars_total": 15984,
           "stars_today": 170,
           "description_zh": "6行代码实现的AI智能体记忆知识引擎"
         }
