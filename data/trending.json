@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-18",
-      "summary_zh": "今日GitHub趋势聚焦AI智能体进化与多模态开发：Evolver等项目的自进化引擎显著降低计算消耗，Claude Code技能库扩展至游戏开发与安卓逆向工程，同时开源语音合成、屏幕交互AI及SRE运维工具包涌现，呈现智能体专业化、低耗高效与跨领域实操并重的技术风向。",
+      "summary_zh": "今日GitHub趋势聚焦AI智能体进化与开发工具革新：Evolver与GenericAgent展示基因编程驱动的自主进化能力，大幅降低计算消耗；多项目围绕Claude Code构建游戏开发、安卓逆向等专业技能库；同时开源语音合成、屏幕交互AI及大模型实践教程涌现，呈现智能体技术向专业化、低门槛发展的趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 157784,
+          "stars_total": 158075,
           "stars_today": 1713,
-          "description_zh": "一个有效的智能体技能框架与软件开发方法论"
+          "description_zh": "高效运行的智能体技能框架与软件开发方法论"
         },
         {
           "rank": 2,
@@ -20,9 +20,9 @@
           "url": "https://github.com/google/magika",
           "description_en": "Fast and accurate AI powered file content types detection",
           "language": "Python",
-          "stars_total": 15478,
+          "stars_total": 15614,
           "stars_today": 956,
-          "description_zh": "基于AI的快速精准文件内容类型检测工具"
+          "description_zh": "快速精准的AI驱动文件内容类型检测工具"
         },
         {
           "rank": 3,
@@ -30,7 +30,7 @@
           "url": "https://github.com/Lordog/dive-into-llms",
           "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
           "language": "Jupyter Notebook",
-          "stars_total": 31535,
+          "stars_total": 31686,
           "stars_today": 944,
           "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
@@ -40,9 +40,9 @@
           "url": "https://github.com/lsdefine/GenericAgent",
           "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
           "language": "Python",
-          "stars_total": 3645,
+          "stars_total": 3883,
           "stars_today": 845,
-          "description_zh": "自进化智能体：从3300行种子代码生长技能树，以降低6倍token消耗实现完整系统控制"
+          "description_zh": "自进化智能体：从3300行种子代码生长技能树，实现完整系统控制，同时减少6倍令牌消耗"
         },
         {
           "rank": 5,
@@ -50,7 +50,7 @@
           "url": "https://github.com/BasedHardware/omi",
           "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
           "language": "Dart",
-          "stars_total": 9854,
+          "stars_total": 9983,
           "stars_today": 824,
           "description_zh": "能看见你的屏幕、聆听对话并指导你行动的AI助手"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/jamiepine/voicebox",
           "description_en": "The open-source voice synthesis studio",
           "language": "TypeScript",
-          "stars_total": 19870,
+          "stars_total": 20035,
           "stars_today": 797,
           "description_zh": "开源语音合成工作室"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/EvoMap/evolver",
           "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
           "language": "JavaScript",
-          "stars_total": 4269,
+          "stars_total": 4524,
           "stars_today": 737,
           "description_zh": "基于GEP驱动的AI智能体自进化引擎。基因组进化协议。| evomap.ai"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/openai/openai-agents-python",
           "description_en": "A lightweight, powerful framework for multi-agent workflows",
           "language": "Python",
-          "stars_total": 21826,
+          "stars_total": 21941,
           "stars_today": 625,
           "description_zh": "轻量级、功能强大的多智能体工作流框架"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
           "description_en": "Claude Code skill to support Android app's reverse engineering",
           "language": "Shell",
-          "stars_total": 2755,
+          "stars_total": 2869,
           "stars_today": 538,
           "description_zh": "支持Android应用逆向工程的Claude Code技能"
         },
@@ -100,9 +100,9 @@
           "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
           "description_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
           "language": "Shell",
-          "stars_total": 11803,
+          "stars_total": 11967,
           "stars_today": 311,
-          "description_zh": "将Claude Code转化为完整游戏开发工作室——49个AI智能体、72项工作流技能，以及模拟真实工作室层级的完整协作系统"
+          "description_zh": "将Claude Code转变为完整游戏开发工作室——包含49个AI智能体、72项工作流技能，以及模拟真实工作室层级的完整协作系统"
         },
         {
           "rank": 11,
@@ -110,9 +110,9 @@
           "url": "https://github.com/z-lab/dflash",
           "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
           "language": "Python",
-          "stars_total": 1807,
+          "stars_total": 1830,
           "stars_today": 287,
-          "description_zh": "DFlash：面向Flash推测解码的块扩散技术"
+          "description_zh": "DFlash：基于块扩散的闪存推测解码技术"
         },
         {
           "rank": 12,
@@ -120,7 +120,7 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 9450,
+          "stars_total": 9521,
           "stars_today": 227,
           "description_zh": ""
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 35862,
+          "stars_total": 35963,
           "stars_today": 196,
           "description_zh": "面向编程智能体的Chrome开发者工具"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/Tracer-Cloud/opensre",
           "description_en": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
           "language": "Python",
-          "stars_total": 1469,
+          "stars_total": 1572,
           "stars_today": 184,
           "description_zh": "构建专属AI站点可靠性工程（SRE）智能体。面向AI时代的开源工具包 ✨"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/lukilabs/craft-agents-oss",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 4302,
+          "stars_total": 4334,
           "stars_today": 110,
           "description_zh": ""
         }
