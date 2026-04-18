@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-18",
-      "summary_zh": "今日GitHub趋势项目聚焦AI自主化与开源工具：强调用户可控的AI模型选择与数据主权，出现多款AI代理开发框架及进化引擎；同时开源远程桌面、Linux版Claude客户端等实用工具受关注，反映开发者对去中心化、可定制化解决方案的需求增长。",
+      "summary_zh": "今日GitHub趋势项目聚焦AI自主性与开源工具：强调用户可控的AI模型与数据主权，提供多智能体开发框架及自进化引擎；同时涵盖高效计算内核、大模型实践教程、Linux桌面应用及远程协作工具，呈现开源生态的多元化发展。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/EvoMap/evolver",
           "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
           "language": "JavaScript",
-          "stars_total": 4744,
+          "stars_total": 4905,
           "stars_today": 1150,
-          "description_zh": "基于GEP协议的AI智能体自进化引擎——基因组进化协议 | evomap.ai"
+          "description_zh": "基于GEP的AI智能体自进化引擎——基因组进化协议 | evomap.ai"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/BasedHardware/omi",
           "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
           "language": "Dart",
-          "stars_total": 10110,
+          "stars_total": 10313,
           "stars_today": 617,
           "description_zh": "能够观察您的屏幕、聆听对话并指导您行动的AI助手"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/Lordog/dive-into-llms",
           "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
           "language": "Jupyter Notebook",
-          "stars_total": 31838,
+          "stars_total": 31967,
           "stars_today": 562,
           "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/openai/openai-agents-python",
           "description_en": "A lightweight, powerful framework for multi-agent workflows",
           "language": "Python",
-          "stars_total": 22051,
+          "stars_total": 22217,
           "stars_today": 473,
           "description_zh": "轻量而强大的多智能体工作流框架"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/thunderbird/thunderbolt",
           "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
           "language": "TypeScript",
-          "stars_total": 1218,
+          "stars_total": 1427,
           "stars_today": 458,
           "description_zh": "由您掌控的AI：自由选择模型，完全拥有数据，彻底摆脱供应商锁定。"
         },
@@ -60,9 +60,9 @@
           "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
           "description_en": "Claude Code skill to support Android app's reverse engineering",
           "language": "Shell",
-          "stars_total": 2954,
+          "stars_total": 3043,
           "stars_today": 408,
-          "description_zh": "支持Android应用逆向工程的Claude Code技能模块"
+          "description_zh": "支持Android应用逆向工程的Claude代码技能"
         },
         {
           "rank": 7,
@@ -70,8 +70,8 @@
           "url": "https://github.com/rustdesk/rustdesk",
           "description_en": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
           "language": "Rust",
-          "stars_total": 111832,
-          "stars_today": 211,
+          "stars_total": 111980,
+          "stars_today": 351,
           "description_zh": "开源远程桌面应用，专为自托管设计，可作为TeamViewer的替代方案。"
         },
         {
@@ -80,7 +80,7 @@
           "url": "https://github.com/tractorjuice/arc-kit",
           "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
           "language": "HTML",
-          "stars_total": 594,
+          "stars_total": 667,
           "stars_today": 143,
           "description_zh": "企业架构治理与供应商采购工具套件"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/aaddrick/claude-desktop-debian",
           "description_en": "Claude Desktop for Debian-based Linux distributions",
           "language": "Shell",
-          "stars_total": 3375,
+          "stars_total": 3430,
           "stars_today": 39,
           "description_zh": "适用于Debian系Linux发行版的Claude桌面客户端"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/deepseek-ai/DeepGEMM",
           "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
           "language": "Cuda",
-          "stars_total": 6413,
+          "stars_total": 6485,
           "stars_today": 31,
           "description_zh": "DeepGEMM：具备细粒度缩放功能的清洁高效FP8通用矩阵乘法内核"
         }
