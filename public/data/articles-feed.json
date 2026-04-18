@@ -1,5 +1,93 @@
 [
   {
+    "id": "bcf8911a707f2b8368ae24b312eb58f0",
+    "title_en": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+    "published_at": "2026-04-17T22:34:02.000Z",
+    "fetched_at": "2026-04-18T01:25:32.290Z",
+    "title_zh": "山姆·奥特曼的World项目寻求扩展其人类验证帝国，第一站：Tinder",
+    "summary_zh": "由山姆·奥特曼支持的World项目，其核心业务Worldcoin旨在通过扫描虹膜来验证人类身份。该项目正寻求将其验证服务扩展到更多在线平台，首个目标可能是知名约会应用Tinder，以期在社交和身份验证领域建立更广泛的生态。",
+    "category": "product"
+  },
+  {
+    "id": "a3394d6c1dfb49d336caf8b7204bcfdb",
+    "title_en": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+    "published_at": "2026-04-17T21:28:35.000Z",
+    "fetched_at": "2026-04-18T01:25:32.683Z",
+    "title_zh": "遭美国制裁的货币交易所称1500万美元盗窃案系“不友好国家”所为",
+    "summary_zh": "一家受到美国制裁的俄罗斯货币交易所声称，其遭遇了一起价值1500万美元的加密货币盗窃案，并将责任归咎于“不友好国家”。此事凸显了地缘政治紧张背景下，加密货币交易所面临的国家级网络攻击风险日益增加。",
+    "category": "industry"
+  },
+  {
+    "id": "2a7a2a6a52b2bcb00152dd40e8dc34e2",
+    "title_en": "OpenAI’s former Sora boss is leaving",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+    "published_at": "2026-04-17T21:13:25.000Z",
+    "fetched_at": "2026-04-18T01:25:32.344Z",
+    "title_zh": "OpenAI前Sora负责人即将离职",
+    "summary_zh": "OpenAI旗下文生视频模型Sora的项目负责人Tim Brooks已确认将离开公司。作为Sora研发的关键领导者，他的离职引发了业界对OpenAI在视频生成领域未来路线图及团队稳定性的关注。",
+    "category": "industry"
+  },
+  {
+    "id": "caee19127fda9b713b55d22f3b418e5c",
+    "title_en": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+    "published_at": "2026-04-17T20:42:47.000Z",
+    "fetched_at": "2026-04-18T01:25:32.344Z",
+    "title_zh": "下次约会前，你该凝视山姆·奥特曼的“水晶球”吗？",
+    "summary_zh": "文章以调侃的语气探讨了山姆·奥特曼支持的Worldcoin项目及其虹膜扫描设备（被戏称为“水晶球”）在约会等社交场景下的潜在应用与伦理争议。它引发读者思考：生物识别验证技术是否应该以及如何融入我们的私人生活。",
+    "category": "product"
+  },
+  {
+    "id": "2b4064f2417f7cee0454d15bbb6b5cb1",
+    "title_en": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "published_at": "2026-04-17T20:38:17.000Z",
+    "fetched_at": "2026-04-18T01:25:32.290Z",
+    "title_zh": "凯文·威尔和比尔·皮布尔斯离开OpenAI，公司持续剥离“支线任务”",
+    "summary_zh": "OpenAI两位高管凯文·威尔和比尔·皮布尔斯已从公司离职。这延续了OpenAI近期精简业务、聚焦核心AI研发的战略，即剥离那些被视为分散精力的“支线任务”。此举反映了公司在激烈竞争下优化资源配置的决心。",
+    "category": "industry"
+  },
+  {
+    "id": "491f2962c0f8d5998da187ac29e37ae3",
+    "title_en": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+    "published_at": "2026-04-17T20:14:21.000Z",
+    "fetched_at": "2026-04-18T01:25:32.344Z",
+    "title_zh": "Anthropic发布新型网络安全模型，或助其重获美国政府青睐",
+    "summary_zh": "AI公司Anthropic推出了一款专注于网络安全的新模型。该模型旨在帮助识别和防御网络威胁。分析认为，此举可能有助于改善Anthropic与美国政府的关系，为其在政府合同和监管审批方面赢得更多机会。",
+    "category": "product"
+  },
+  {
+    "id": "5278fe6dda9ade64fb64d0d2a532c396",
+    "title_en": "OpenAI Executive Kevin Weil Is Leaving the Company",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "published_at": "2026-04-17T19:56:42.000Z",
+    "fetched_at": "2026-04-18T01:25:32.807Z",
+    "title_zh": "OpenAI高管凯文·韦尔将离职",
+    "summary_zh": "OpenAI产品与业务高级副总裁凯文·韦尔（Kevin Weil）宣布即将离开公司。他曾负责领导ChatGPT团队，是公司核心产品高管之一。他的离职是OpenAI近期高层变动的最新一例。",
+    "category": "industry"
+  },
+  {
+    "id": "18d30f5d748d768fe492fd4dee730c47",
+    "title_en": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "published_at": "2026-04-17T19:17:26.000Z",
+    "fetched_at": "2026-04-18T01:25:32.290Z",
+    "title_zh": "消息称：Cursor正洽谈以500亿美元估值融资超20亿美元，企业级业务增长迅猛",
+    "summary_zh": "据知情人士透露，AI代码助手开发商Cursor正在就新一轮融资进行谈判，目标估值高达500亿美元，融资额可能超过20亿美元。此轮融资由企业客户需求的强劲增长所驱动，显示出资本市场对AI开发工具赛道的高度看好。",
+    "category": "industry"
+  },
+  {
     "id": "573fe90601e9be2845baf37916a90eec",
     "title_en": "“Tokenmaxxing” is making developers less productive than they think",
     "source": "TechCrunch AI",
@@ -470,6 +558,105 @@
     "fetched_at": "2026-04-17T07:20:47.955Z",
     "title_zh": "LegalZoom促销码：LLC公司注册独家9折优惠",
     "summary_zh": "Wired报道了在线法律服务商LegalZoom的专属优惠，为有限责任公司（LLC）注册服务提供10%的折扣。此为法律科技服务领域的商业信息。",
+    "category": "industry"
+  },
+  {
+    "id": "205bd69cf20651921b37e1c01b5229f5",
+    "title_en": "CNBC Daily Open: A fragile peace, but a firm market rally",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/04/17/cnbc-daily-market-rally-oil-iran-war.html",
+    "published_at": "2026-04-17T01:18:08Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "CNBC每日开盘：脆弱的和平，但坚定的市场反弹",
+    "summary_zh": "CNBC对当日金融市场开盘情况进行报道。标题指出，尽管地缘政治局势呈现“脆弱的和平”，但股市却出现了坚定的反弹行情。报道分析了市场情绪、主要股指表现以及影响市场的关键因素。",
+    "category": "industry"
+  },
+  {
+    "id": "f62d7ba592efcaabb887caeeaf8bc3f4",
+    "title_en": "SMCI Stockholders Have Rights – If You Lost Money Investing in Super Micro Computer, Inc. Contact Robbins LLP for Information About Recovering Your Losses",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/04/17/3275921/32719/en/SMCI-Stockholders-Have-Rights-If-You-Lost-Money-Investing-in-Super-Micro-Computer-Inc-Contact-Robbins-LLP-for-Information-About-Recovering-Your-Losses.html",
+    "published_at": "2026-04-17T01:01:00Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "SMCI股东拥有追索权——若投资超微电脑公司蒙受损失，请联系罗宾斯律师事务所了解赔偿信息",
+    "summary_zh": "罗宾斯律师事务所发布公告，提醒投资超微电脑公司（SMCI）并遭受损失的股东，可能拥有法律追索权以挽回损失。这反映了在AI硬件股热潮下，投资者权益保护与市场波动风险正受到关注。",
+    "category": "industry"
+  },
+  {
+    "id": "9e57dcfb5797263ce9b58abfd88c4377",
+    "title_en": "CFTC Chairman Says AI Helps Agency Run More Like a Business",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/news/regulation/2026/cftc-chairman-says-ai-helps-agency-run-more-like-a-business/",
+    "published_at": "2026-04-17T00:57:00Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "CFTC主席称人工智能帮助该机构更高效地像企业一样运作",
+    "summary_zh": "美国商品期货交易委员会（CFTC）主席表示，人工智能技术正帮助该监管机构提升运营效率，使其能更灵活、更数据驱动地运作，类似于现代企业。这体现了AI在政府监管与公共服务领域日益增长的应用价值。",
+    "category": "industry"
+  },
+  {
+    "id": "ee17750be8eb079acb12b8629b5d4036",
+    "title_en": "Autopilot, agentic AI, and the dangers of imperfect metaphors",
+    "source": "Uxdesign.cc",
+    "url": "https://uxdesign.cc/autopilot-agentic-ai-and-the-dangers-of-imperfect-metaphors-d94e96575153",
+    "published_at": "2026-04-17T00:55:42Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "自动驾驶、智能体AI与不完美比喻的危险",
+    "summary_zh": "文章探讨了“自动驾驶”等比喻在描述AI系统（尤其是智能体AI）时可能带来的误解与风险。过于简化的比喻会掩盖AI系统的实际局限性与复杂性，可能导致用户产生不切实际的期望或忽视必要的监督，强调了准确沟通AI能力的重要性。",
+    "category": "research"
+  },
+  {
+    "id": "c2ff8bbee502d5a066e2390c29114eca",
+    "title_en": "Study finds popular AI chatbots often give problematic health advice",
+    "source": "News-Medical.Net",
+    "url": "https://www.news-medical.net/news/20260416/Study-finds-popular-AI-chatbots-often-give-problematic-health-advice.aspx",
+    "published_at": "2026-04-17T00:55:38Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "研究发现热门AI聊天机器人常提供有问题的健康建议",
+    "summary_zh": "一项研究指出，包括ChatGPT、Gemini等在内的流行AI聊天机器人，在回答健康相关问题时，经常提供不准确、不完整或潜在有害的建议。这凸显了当前大语言模型在医疗健康领域的可靠性风险，以及在该场景下加强监管与验证的必要性。",
+    "category": "research"
+  },
+  {
+    "id": "d9517aa098e346c527154d119b7d3964",
+    "title_en": "Resolve AI raises $40M at $1.5B valuation to optimize production environments",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/04/16/resolve-ai-raises-40m-1-5b-valuation-optimize-production-environments/",
+    "published_at": "2026-04-17T00:53:03Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "Resolve AI以15亿美元估值融资4000万美元，用于优化生产环境",
+    "summary_zh": "AI运维初创公司Resolve AI成功完成4000万美元融资，投后估值达15亿美元。该公司专注于利用人工智能优化IT与生产环境，帮助企业预测并解决系统故障，提升运营效率与可靠性。此轮融资将用于加速产品开发与市场拓展。",
+    "category": "industry"
+  },
+  {
+    "id": "377d638593f508f666dd6dc67480a30d",
+    "title_en": "Miss of the day! The incredible chance Carrascal fluffed",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/miss-of-the-day-the-incredible-chance-carrascal-fluffed-42723392",
+    "published_at": "2026-04-17T00:43:00Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "今日错失良机！卡拉斯卡尔不可思议的射门失误",
+    "summary_zh": "这是一篇关于足球运动员卡拉斯卡尔在比赛中错失绝佳进球机会的体育报道，内容聚焦于赛场上的具体瞬间，与人工智能或科技领域无关。",
+    "category": "industry"
+  },
+  {
+    "id": "6aedd996094861b9a453299594686912",
+    "title_en": "How Zscaler and OpenAI turn zero-trust security into an AI accelerator",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/04/16/zscaler-openai-turn-zero-trust-security-ai-accelerator/",
+    "published_at": "2026-04-17T00:32:13Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "Zscaler与OpenAI如何将零信任安全转化为AI加速器",
+    "summary_zh": "网络安全公司Zscaler与OpenAI合作，展示了如何将零信任安全架构应用于保护AI工作负载与数据流动。通过确保AI训练与推理过程的安全访问，零信任不仅降低了风险，还为AI的规模化、合规化部署提供了加速基础，实现了安全与创新的协同。",
+    "category": "product"
+  },
+  {
+    "id": "ffa8ec19d3cfbe9f3865c7683c0a26c5",
+    "title_en": "India eyes US-led Pax Silica seed fund",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/technology/india-eyes-us-led-pax-silica-seed-fund/articleshow/130316363.cms",
+    "published_at": "2026-04-17T00:30:00Z",
+    "fetched_at": "2026-04-18T01:25:33.389Z",
+    "title_zh": "印度关注美国主导的“Pax Silica”半导体种子基金",
+    "summary_zh": "印度正密切关注由美国主导的“Pax Silica”半导体种子基金。该基金旨在支持全球半导体供应链的早期创新项目，印度此举反映出其希望融入全球半导体生态、获取技术与资金以推动本土芯片产业发展的战略意图。",
     "category": "industry"
   },
   {
@@ -5310,193 +5497,6 @@
     "fetched_at": "2026-04-03T01:25:07.384Z",
     "title_zh": "OpenAI收购热门创始人访谈节目TBPN",
     "summary_zh": "OpenAI宣布收购由创始人主导的商业访谈节目TBPN。此举被视为OpenAI拓展内容生态、探索AI与媒体结合新形式的重要一步，旨在通过高质量对话内容提升品牌影响力与思想领导力。",
-    "category": "industry"
-  },
-  {
-    "id": "57f416631a42d96c4711ba9b2d833b40",
-    "title_en": "Trump fires US attorney general Pam Bondi",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/905961/pam-bondi-fired",
-    "published_at": "2026-04-02T19:08:27.000Z",
-    "fetched_at": "2026-04-03T01:25:07.458Z",
-    "title_zh": "特朗普解雇美国司法部长帕姆·邦迪",
-    "summary_zh": "美国前总统特朗普宣布解雇司法部长帕姆·邦迪。此人事变动属于政治新闻范畴，可能影响美国司法部的政策方向与高层人事布局，但并非直接的技术或AI行业动态。",
-    "category": "industry"
-  },
-  {
-    "id": "e3b499e9566140c5b767290c3cba1669",
-    "title_en": "Your Art Can Go in This San Francisco Alley",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/",
-    "published_at": "2026-04-02T18:27:45.000Z",
-    "fetched_at": "2026-04-02T18:43:23.999Z",
-    "title_zh": "你的艺术作品可以入驻这条旧金山小巷",
-    "summary_zh": "旧金山一条小巷正通过科技与艺术的结合进行改造，邀请艺术家提交数字或实体作品进行展示。该项目利用数字标牌和互动技术，旨在将公共空间转变为动态的艺术画廊，反映了科技如何赋能城市艺术创新和社区文化建设。",
-    "category": "industry"
-  },
-  {
-    "id": "3a789f8bc1360c088c313f57e7dcb002",
-    "title_en": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
-    "published_at": "2026-04-02T18:27:29.000Z",
-    "fetched_at": "2026-04-02T18:43:23.999Z",
-    "title_zh": "谷歌资助的新数据中心将由一座大型天然气发电厂供电",
-    "summary_zh": "谷歌投资建设的一个新数据中心计划依靠一座大型天然气发电厂提供电力。这一能源选择在科技行业追求碳中和的背景下引发了争议，凸显了AI算力增长与可持续能源目标之间的现实矛盾，以及科技巨头在能源战略上面临的挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "80715a94bc56b1325258f885b9d2ece3",
-    "title_en": "Five questions for the guys who made a compass that points to the Times Square Olive Garden",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden",
-    "published_at": "2026-04-02T18:24:29.000Z",
-    "fetched_at": "2026-04-02T18:43:23.761Z",
-    "title_zh": "专访：五个问题问向打造“指向时代广场橄榄园餐厅”指南针的团队",
-    "summary_zh": "本文采访了一个制作特殊指南针的团队，该指南针的唯一功能是指向纽约时代广场的橄榄园餐厅。报道探讨了项目的灵感来源、技术实现过程以及这种看似无厘头创作背后的趣味与思考。",
-    "category": "industry"
-  },
-  {
-    "id": "a9bd88ebb5d5cc8c13c6a5b7bbdf9f6a",
-    "title_en": "What the Return of ACT UP Can Teach No Kings Protesters About Sustaining a Movement",
-    "source": "Triplepundit.com",
-    "url": "https://triplepundit.com/2026/act-up-new-york-protest-big-tech-trump-no-kings/",
-    "published_at": "2026-04-02T18:20:30Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "ACT UP的回归能为“No Kings”抗议者提供哪些维持运动的经验？",
-    "summary_zh": "本文探讨了历史上著名的艾滋病激进抗议组织ACT UP的成功策略与持久力，并分析当代新兴抗议运动（如“No Kings”）可以从中借鉴的经验。重点在于如何构建组织架构、保持行动效力以及长期维系公众关注，属于社会运动与组织管理的分析，与AI科技领域无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "3021f17259ef97e2f6b81ecd79c102a7",
-    "title_en": "Biomedical research is surging at Princeton University",
-    "source": "Princeton University",
-    "url": "https://www.princeton.edu/news/2026/04/02/biomedical-research-princeton-surging",
-    "published_at": "2026-04-02T18:16:00Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "普林斯顿大学生物医学研究势头迅猛",
-    "summary_zh": "普林斯顿大学近年来在生物医学研究领域投入巨大，取得了显著进展。学校通过新建研究设施、引进顶尖人才和加强跨学科合作，在基因组学、神经科学、生物工程等多个前沿方向产出重要成果。这标志着该校正将其在基础科学和工程学的传统优势，积极转化为解决人类健康问题的创新力量。",
-    "category": "research"
-  },
-  {
-    "id": "eab9db906a7cab62940a871043589fc5",
-    "title_en": "Elon Musk is about to be a very busy boy!",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
-    "published_at": "2026-04-02T18:15:00.000Z",
-    "fetched_at": "2026-04-02T18:43:23.761Z",
-    "title_zh": "埃隆·马斯克即将迎来异常忙碌的时期！",
-    "summary_zh": "报道指出，特斯拉、SpaceX、X等多家公司的CEO埃隆·马斯克即将面临一系列重大事件和挑战，包括产品发布、财报会议、法律诉讼等，日程安排将异常紧凑。",
-    "category": "industry"
-  },
-  {
-    "id": "bfdbecd77759671a9480099ba706aac0",
-    "title_en": "Ranking the toughest World Cup groups ",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/ranking-the-toughest-world-cup-groups-42651240",
-    "published_at": "2026-04-02T18:09:00Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "盘点世界杯最难踢的小组",
-    "summary_zh": "本文是一篇体育评论，主要分析和排名了国际足联世界杯历史上或当前赛事中竞争最为激烈、出线形势最扑朔迷离的“死亡之组”。文章通常会基于球队实力、历史战绩、球星阵容等因素进行评估，为足球爱好者提供观赛前瞻和话题讨论。内容与人工智能或科技无关。",
-    "category": "industry"
-  },
-  {
-    "id": "dc9379bf848f5c763142ca7e92702afe",
-    "title_en": "Here's What Can Happen When the US Bombs Iran's Nuclear Sites",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
-    "published_at": "2026-04-02T18:08:08.000Z",
-    "fetched_at": "2026-04-02T18:43:23.999Z",
-    "title_zh": "如果美国轰炸伊朗核设施，可能会发生什么",
-    "summary_zh": "文章分析了美国若对伊朗核设施实施军事打击可能引发的连锁反应，包括地区冲突升级、全球能源市场动荡以及网络战风险加剧。虽然不直接涉及AI技术，但此类地缘政治事件可能影响全球科技供应链与研发环境，对科技行业构成间接风险。",
-    "category": "industry"
-  },
-  {
-    "id": "d5dff9eb96eae6cb4cc83bbbf94e8094",
-    "title_en": "OpenAI acquires popular tech podcast TBPN",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/04/02/openai-acquires-tech-podcast-tbpn.html",
-    "published_at": "2026-04-02T18:07:31Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "OpenAI收购热门科技播客TBPN",
-    "summary_zh": "OpenAI已达成协议，收购知名科技播客网络TBPN。TBPN旗下拥有多个受欢迎的科技谈话节目。此举被认为是OpenAI加强其与开发者、科技社区沟通和品牌建设战略的一部分，旨在通过高质量的内容促进关于人工智能的公众讨论与理解。",
-    "category": "industry"
-  },
-  {
-    "id": "794b045e8e7c57ff470bd2453c65e44c",
-    "title_en": "OpenAI Buys TBPN, a Daily Tech Talk Show, to Help Drive ‘Constructive Conversation’ About AI",
-    "source": "Variety",
-    "url": "https://variety.com/2026/digital/news/openai-buys-tbpn-talk-show-1236705671/",
-    "published_at": "2026-04-02T18:02:07Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "OpenAI收购每日科技谈话节目TBPN，以推动关于AI的“建设性对话”",
-    "summary_zh": "OpenAI宣布收购每日科技谈话节目TBPN。该播客以深入探讨技术趋势和行业动态而闻名。OpenAI表示，此次收购旨在利用TBPN的内容制作和社区影响力，围绕人工智能的发展、伦理和应用发起更具建设性和包容性的公众对话，塑造积极的行业叙事。",
-    "category": "industry"
-  },
-  {
-    "id": "1698e5bd1ebeff090689718063323f63",
-    "title_en": "Young Professional’s AI Tool Spots Mental Health Conditions",
-    "source": "Ieee.org",
-    "url": "https://spectrum.ieee.org/abhishek-appaji-ai-diagnostic-tool",
-    "published_at": "2026-04-02T18:00:02Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "年轻专业人士开发AI工具，可识别心理健康状况",
-    "summary_zh": "一位年轻专业人士开发了一款人工智能工具，该工具能够通过分析语言模式、语音特征或行为数据来辅助识别潜在的心理健康状况，如抑郁或焦虑迹象。这项创新展示了AI在心理健康这一敏感领域的应用潜力，旨在提供早期筛查和支持，但同时也引发了关于隐私和伦理的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "d8a805ba1a7680a65fbf19a5f239c980",
-    "title_en": "EXCLUSIVE: Chuck Norris 'Was Murdered' Conspiracy Theories Erupt in Wake of Martial Arts Icon's Death — As His Family Plead for It to Stop",
-    "source": "Radaronline.com",
-    "url": "https://radaronline.com/p/chuck-norris-death-conspiracy-theories-murder-family-response/",
-    "published_at": "2026-04-02T18:00:00Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "独家：查克·诺里斯“被谋杀”阴谋论在其去世后爆发，家人恳请停止",
-    "summary_zh": "在功夫巨星查克·诺里斯去世后，网络上出现了声称其是“被谋杀”的阴谋论，并迅速传播。诺里斯的家人对此感到悲痛和困扰，已公开恳请人们停止散播不实言论，尊重逝者和家人的隐私。这是一则关于名人去世后网络谣言的社会新闻，与科技无关。",
-    "category": "industry"
-  },
-  {
-    "id": "32099936ed95ac83139d27803828fda4",
-    "title_en": "IRGC: We attacked an Amazon computing center in Bahrain",
-    "source": "Israelnationalnews.com",
-    "url": "https://www.israelnationalnews.com/news/424959",
-    "published_at": "2026-04-02T17:55:37Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "伊朗革命卫队宣称：我们袭击了巴林的一个亚马逊计算中心",
-    "summary_zh": "伊朗伊斯兰革命卫队发表声明，声称对位于巴林的一个亚马逊云计算数据中心发动了网络攻击或物理袭击。此类事件凸显了关键数字基础设施在地缘政治冲突中的脆弱性，可能对区域乃至全球的云服务和数据安全产生影响。需要关注后续的官方证实和影响评估。",
-    "category": "industry"
-  },
-  {
-    "id": "0b6f5857d04a77de980b4bb0d3b58646",
-    "title_en": "Blue Owl Redemptions: Coal Mine Canary for FinTech Private Credit?",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/news/fintech-investments/2026/blue-owl-redemptions-coal-mine-canary-for-fintech-private-credit/",
-    "published_at": "2026-04-02T17:52:39Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "Blue Owl赎回潮：金融科技私募信贷的煤矿金丝雀？",
-    "summary_zh": "文章探讨了知名信贷投资公司Blue Owl近期出现的投资者赎回请求增加的现象。作者将此视为一个潜在预警信号，分析其是否预示着金融科技（FinTech）和私募信贷市场可能面临更广泛的流动性压力或信用周期转折。这是一篇金融市场的分析评论，与AI技术无直接关系。",
-    "category": "industry"
-  },
-  {
-    "id": "5ac05f467b4321dc6f280a17d76eaf40",
-    "title_en": "Victor Kubicek of New Blue Solution Announces Advancement of Graphene-Based Cooling Technology Into Early Commercialization for AI Data Centers",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/04/02/3267741/0/en/Victor-Kubicek-of-New-Blue-Solution-Announces-Advancement-of-Graphene-Based-Cooling-Technology-Into-Early-Commercialization-for-AI-Data-Centers.html",
-    "published_at": "2026-04-02T17:51:00Z",
-    "fetched_at": "2026-04-03T18:35:20.087Z",
-    "title_zh": "New Blue Solution的Victor Kubicek宣布石墨烯冷却技术取得进展，将早期商业化用于AI数据中心",
-    "summary_zh": "New Blue Solution公司CEO Victor Kubicek宣布，其基于石墨烯的创新冷却技术已取得重大进展，并进入早期商业化阶段。该技术旨在解决高功耗AI数据中心面临的严峻散热挑战，能显著提升冷却效率并降低能耗。此举有望为快速增长的人工智能算力基础设施提供更可持续的热管理解决方案。",
-    "category": "industry"
-  },
-  {
-    "id": "3ad57c4040d1f64dbd86885a7a0e8628",
-    "title_en": "OpenAI just bought TBPN",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-    "published_at": "2026-04-02T17:40:07.000Z",
-    "fetched_at": "2026-04-02T18:43:23.761Z",
-    "title_zh": "OpenAI刚刚收购了TBPN",
-    "summary_zh": "OpenAI宣布收购一家名为TBPN的公司。目前关于TBPN的具体业务和此次收购的细节尚未完全披露，但此举被认为是OpenAI为进一步拓展其技术能力或产品线而进行的战略布局。",
     "category": "industry"
   }
 ]
