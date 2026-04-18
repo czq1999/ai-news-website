@@ -2,27 +2,27 @@
   "days": [
     {
       "date": "2026-04-18",
-      "summary_zh": "今日GitHub趋势聚焦AI智能体进化与开发工具革新：Evolver与GenericAgent展示基因编程驱动的自主进化能力，大幅降低计算消耗；多项目围绕Claude Code构建游戏开发、安卓逆向等专业技能库；同时开源语音合成、屏幕交互AI及大模型实践教程涌现，呈现智能体技术向专业化、低门槛发展的趋势。",
+      "summary_zh": "今日GitHub趋势项目聚焦AI自主化与开源工具：强调用户可控的AI模型选择与数据主权，出现多款AI代理开发框架及进化引擎；同时开源远程桌面、Linux版Claude客户端等实用工具受关注，反映开发者对去中心化、可定制化解决方案的需求增长。",
       "projects": [
         {
           "rank": 1,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 158075,
-          "stars_today": 1713,
-          "description_zh": "高效运行的智能体技能框架与软件开发方法论"
+          "name": "EvoMap/evolver",
+          "url": "https://github.com/EvoMap/evolver",
+          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "language": "JavaScript",
+          "stars_total": 4744,
+          "stars_today": 1150,
+          "description_zh": "基于GEP协议的AI智能体自进化引擎——基因组进化协议 | evomap.ai"
         },
         {
           "rank": 2,
-          "name": "google/magika",
-          "url": "https://github.com/google/magika",
-          "description_en": "Fast and accurate AI powered file content types detection",
-          "language": "Python",
-          "stars_total": 15614,
-          "stars_today": 956,
-          "description_zh": "快速精准的AI驱动文件内容类型检测工具"
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "language": "Dart",
+          "stars_total": 10110,
+          "stars_today": 617,
+          "description_zh": "能够观察您的屏幕、聆听对话并指导您行动的AI助手"
         },
         {
           "rank": 3,
@@ -30,129 +30,79 @@
           "url": "https://github.com/Lordog/dive-into-llms",
           "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
           "language": "Jupyter Notebook",
-          "stars_total": 31686,
-          "stars_today": 944,
+          "stars_total": 31838,
+          "stars_today": 562,
           "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
         {
           "rank": 4,
-          "name": "lsdefine/GenericAgent",
-          "url": "https://github.com/lsdefine/GenericAgent",
-          "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-          "language": "Python",
-          "stars_total": 3883,
-          "stars_today": 845,
-          "description_zh": "自进化智能体：从3300行种子代码生长技能树，实现完整系统控制，同时减少6倍令牌消耗"
-        },
-        {
-          "rank": 5,
-          "name": "BasedHardware/omi",
-          "url": "https://github.com/BasedHardware/omi",
-          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
-          "language": "Dart",
-          "stars_total": 9983,
-          "stars_today": 824,
-          "description_zh": "能看见你的屏幕、聆听对话并指导你行动的AI助手"
-        },
-        {
-          "rank": 6,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source voice synthesis studio",
-          "language": "TypeScript",
-          "stars_total": 20035,
-          "stars_today": 797,
-          "description_zh": "开源语音合成工作室"
-        },
-        {
-          "rank": 7,
-          "name": "EvoMap/evolver",
-          "url": "https://github.com/EvoMap/evolver",
-          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-          "language": "JavaScript",
-          "stars_total": 4524,
-          "stars_today": 737,
-          "description_zh": "基于GEP驱动的AI智能体自进化引擎。基因组进化协议。| evomap.ai"
-        },
-        {
-          "rank": 8,
           "name": "openai/openai-agents-python",
           "url": "https://github.com/openai/openai-agents-python",
           "description_en": "A lightweight, powerful framework for multi-agent workflows",
           "language": "Python",
-          "stars_total": 21941,
-          "stars_today": 625,
-          "description_zh": "轻量级、功能强大的多智能体工作流框架"
+          "stars_total": 22051,
+          "stars_today": 473,
+          "description_zh": "轻量而强大的多智能体工作流框架"
         },
         {
-          "rank": 9,
+          "rank": 5,
+          "name": "thunderbird/thunderbolt",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "language": "TypeScript",
+          "stars_total": 1218,
+          "stars_today": 458,
+          "description_zh": "由您掌控的AI：自由选择模型，完全拥有数据，彻底摆脱供应商锁定。"
+        },
+        {
+          "rank": 6,
           "name": "SimoneAvogadro/android-reverse-engineering-skill",
           "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
           "description_en": "Claude Code skill to support Android app's reverse engineering",
           "language": "Shell",
-          "stars_total": 2869,
-          "stars_today": 538,
-          "description_zh": "支持Android应用逆向工程的Claude Code技能"
+          "stars_total": 2954,
+          "stars_today": 408,
+          "description_zh": "支持Android应用逆向工程的Claude Code技能模块"
+        },
+        {
+          "rank": 7,
+          "name": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "description_en": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+          "language": "Rust",
+          "stars_total": 111832,
+          "stars_today": 211,
+          "description_zh": "开源远程桌面应用，专为自托管设计，可作为TeamViewer的替代方案。"
+        },
+        {
+          "rank": 8,
+          "name": "tractorjuice/arc-kit",
+          "url": "https://github.com/tractorjuice/arc-kit",
+          "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+          "language": "HTML",
+          "stars_total": 594,
+          "stars_today": 143,
+          "description_zh": "企业架构治理与供应商采购工具套件"
+        },
+        {
+          "rank": 9,
+          "name": "aaddrick/claude-desktop-debian",
+          "url": "https://github.com/aaddrick/claude-desktop-debian",
+          "description_en": "Claude Desktop for Debian-based Linux distributions",
+          "language": "Shell",
+          "stars_total": 3375,
+          "stars_today": 39,
+          "description_zh": "适用于Debian系Linux发行版的Claude桌面客户端"
         },
         {
           "rank": 10,
-          "name": "Donchitos/Claude-Code-Game-Studios",
-          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-          "description_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-          "language": "Shell",
-          "stars_total": 11967,
-          "stars_today": 311,
-          "description_zh": "将Claude Code转变为完整游戏开发工作室——包含49个AI智能体、72项工作流技能，以及模拟真实工作室层级的完整协作系统"
-        },
-        {
-          "rank": 11,
-          "name": "z-lab/dflash",
-          "url": "https://github.com/z-lab/dflash",
-          "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
-          "language": "Python",
-          "stars_total": 1830,
-          "stars_today": 287,
-          "description_zh": "DFlash：基于块扩散的闪存推测解码技术"
-        },
-        {
-          "rank": 12,
-          "name": "pingdotgg/t3code",
-          "url": "https://github.com/pingdotgg/t3code",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 9521,
-          "stars_today": 227,
-          "description_zh": ""
-        },
-        {
-          "rank": 13,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 35963,
-          "stars_today": 196,
-          "description_zh": "面向编程智能体的Chrome开发者工具"
-        },
-        {
-          "rank": 14,
-          "name": "Tracer-Cloud/opensre",
-          "url": "https://github.com/Tracer-Cloud/opensre",
-          "description_en": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
-          "language": "Python",
-          "stars_total": 1572,
-          "stars_today": 184,
-          "description_zh": "构建专属AI站点可靠性工程（SRE）智能体。面向AI时代的开源工具包 ✨"
-        },
-        {
-          "rank": 15,
-          "name": "lukilabs/craft-agents-oss",
-          "url": "https://github.com/lukilabs/craft-agents-oss",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 4334,
-          "stars_today": 110,
-          "description_zh": ""
+          "name": "deepseek-ai/DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+          "language": "Cuda",
+          "stars_total": 6413,
+          "stars_today": 31,
+          "description_zh": "DeepGEMM：具备细粒度缩放功能的清洁高效FP8通用矩阵乘法内核"
         }
       ]
     },
