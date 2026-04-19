@@ -2,77 +2,77 @@
   "days": [
     {
       "date": "2026-04-19",
-      "summary_zh": "今日GitHub趋势项目聚焦AI自主性与开源工具：强调用户可控的AI模型与数据主权，提供多智能体开发框架及自进化引擎；同时涵盖高效计算内核、大模型实践教程、Linux桌面应用及远程协作工具，呈现开源生态的多元化发展。",
+      "summary_zh": "今日GitHub趋势项目聚焦AI自主性与实用工具：涵盖金融终端分析、开源AI控制框架、企业架构治理工具、多智能体工作流、文档管理系统，以及创新的WiFi姿态感知和屏幕交互AI，呈现技术去中心化与垂直领域深度整合趋势。",
       "projects": [
         {
           "rank": 1,
-          "name": "EvoMap/evolver",
-          "url": "https://github.com/EvoMap/evolver",
-          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-          "language": "JavaScript",
-          "stars_total": 5154,
-          "stars_today": 1131,
-          "description_zh": "基于GEP的AI智能体自进化引擎——基因组进化协议 | evomap.ai"
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "language": "Python",
+          "stars_total": 5255,
+          "stars_today": 1169,
+          "description_zh": "FinceptTerminal 是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在通过用户友好的环境实现交互式探索和数据驱动的决策。"
         },
         {
           "rank": 2,
-          "name": "BasedHardware/omi",
-          "url": "https://github.com/BasedHardware/omi",
-          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
-          "language": "Dart",
-          "stars_total": 10620,
-          "stars_today": 609,
-          "description_zh": "能够观察您的屏幕、聆听对话并指导您行动的AI助手"
+          "name": "Donchitos/Claude-Code-Game-Studios",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "description_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+          "language": "Shell",
+          "stars_total": 12942,
+          "stars_today": 828,
+          "description_zh": "将Claude Code转化为完整的游戏开发工作室——包含49个AI智能体、72项工作流技能，以及模拟真实工作室层级的完整协作系统。"
         },
         {
           "rank": 3,
-          "name": "Lordog/dive-into-llms",
-          "url": "https://github.com/Lordog/dive-into-llms",
-          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
-          "language": "Jupyter Notebook",
-          "stars_total": 32164,
-          "stars_today": 547,
-          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
-        },
-        {
-          "rank": 4,
           "name": "openai/openai-agents-python",
           "url": "https://github.com/openai/openai-agents-python",
           "description_en": "A lightweight, powerful framework for multi-agent workflows",
           "language": "Python",
-          "stars_total": 22555,
-          "stars_today": 470,
-          "description_zh": "轻量级且功能强大的多智能体工作流框架"
+          "stars_total": 22794,
+          "stars_today": 751,
+          "description_zh": "一个轻量级、功能强大的多智能体工作流框架"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "thunderbird/thunderbolt",
           "url": "https://github.com/thunderbird/thunderbolt",
           "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
           "language": "TypeScript",
-          "stars_total": 1739,
-          "stars_today": 447,
-          "description_zh": "由您掌控的AI：自由选择模型，完全拥有数据，彻底摆脱供应商锁定。"
+          "stars_total": 1903,
+          "stars_today": 696,
+          "description_zh": "由您掌控的AI：自由选择模型，完全拥有数据，彻底消除供应商锁定。"
+        },
+        {
+          "rank": 5,
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "language": "Dart",
+          "stars_total": 10786,
+          "stars_today": 687,
+          "description_zh": "能看见您的屏幕、聆听对话并指导您行动的AI助手"
         },
         {
           "rank": 6,
-          "name": "SimoneAvogadro/android-reverse-engineering-skill",
-          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-          "description_en": "Claude Code skill to support Android app's reverse engineering",
-          "language": "Shell",
-          "stars_total": 3277,
-          "stars_today": 403,
-          "description_zh": "支持Android应用逆向工程的Claude Code技能模块"
+          "name": "EvoMap/evolver",
+          "url": "https://github.com/EvoMap/evolver",
+          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "language": "JavaScript",
+          "stars_total": 5257,
+          "stars_today": 525,
+          "description_zh": "基于GEP的AI智能体自进化引擎。基因组进化协议。| evomap.ai"
         },
         {
           "rank": 7,
-          "name": "rustdesk/rustdesk",
-          "url": "https://github.com/rustdesk/rustdesk",
-          "description_en": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-          "language": "Rust",
-          "stars_total": 112196,
-          "stars_today": 393,
-          "description_zh": "开源远程桌面应用，支持自托管部署，可作为TeamViewer的替代方案。"
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description_en": "A community-supported supercharged document management system: scan, index and archive all your documents",
+          "language": "Python",
+          "stars_total": 38582,
+          "stars_today": 382,
+          "description_zh": "一个社区支持的超级文档管理系统：扫描、索引并归档您的所有文档"
         },
         {
           "rank": 8,
@@ -80,29 +80,29 @@
           "url": "https://github.com/tractorjuice/arc-kit",
           "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
           "language": "HTML",
-          "stars_total": 799,
-          "stars_today": 135,
-          "description_zh": "企业架构治理与供应商采购工具套件"
+          "stars_total": 853,
+          "stars_today": 263,
+          "description_zh": "企业架构治理与供应商采购工具包"
         },
         {
           "rank": 9,
-          "name": "aaddrick/claude-desktop-debian",
-          "url": "https://github.com/aaddrick/claude-desktop-debian",
-          "description_en": "Claude Desktop for Debian-based Linux distributions",
-          "language": "Shell",
-          "stars_total": 3515,
-          "stars_today": 44,
-          "description_zh": "适用于Debian系Linux发行版的Claude桌面客户端"
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 47176,
+          "stars_today": 118,
+          "description_zh": "π RuView：WiFi DensePose 将普通WiFi信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
         },
         {
           "rank": 10,
-          "name": "deepseek-ai/DeepGEMM",
-          "url": "https://github.com/deepseek-ai/DeepGEMM",
-          "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-          "language": "Cuda",
-          "stars_total": 6591,
-          "stars_today": 31,
-          "description_zh": "DeepGEMM：具备细粒度缩放功能的简洁高效FP8通用矩阵乘法内核"
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description_en": "",
+          "language": "TypeScript",
+          "stars_total": 9693,
+          "stars_today": 96,
+          "description_zh": ""
         }
       ]
     },
