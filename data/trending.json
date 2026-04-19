@@ -1,6 +1,112 @@
 {
   "days": [
     {
+      "date": "2026-04-19",
+      "summary_zh": "今日GitHub趋势项目聚焦AI自主化与开源工具：强调用户可控的AI模型选择与数据主权，出现多款AI代理开发框架及进化引擎；同时开源远程桌面、Linux版Claude客户端等实用工具受关注，体现去中心化与跨平台协作趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "EvoMap/evolver",
+          "url": "https://github.com/EvoMap/evolver",
+          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "language": "JavaScript",
+          "stars_total": 5030,
+          "stars_today": 1131,
+          "description_zh": "基于GEP驱动的AI智能体自我进化引擎——基因组进化协议 | evomap.ai"
+        },
+        {
+          "rank": 2,
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "language": "Dart",
+          "stars_total": 10485,
+          "stars_today": 609,
+          "description_zh": "能够观察您的屏幕、聆听对话并指导您行动的AI助手"
+        },
+        {
+          "rank": 3,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars_total": 32038,
+          "stars_today": 547,
+          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
+        },
+        {
+          "rank": 4,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description_en": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars_total": 22366,
+          "stars_today": 470,
+          "description_zh": "轻量而强大的多智能体工作流框架"
+        },
+        {
+          "rank": 5,
+          "name": "thunderbird/thunderbolt",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "language": "TypeScript",
+          "stars_total": 1590,
+          "stars_today": 447,
+          "description_zh": "由您掌控的AI：自由选择模型，完全拥有数据，彻底摆脱供应商锁定。"
+        },
+        {
+          "rank": 6,
+          "name": "SimoneAvogadro/android-reverse-engineering-skill",
+          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+          "description_en": "Claude Code skill to support Android app's reverse engineering",
+          "language": "Shell",
+          "stars_total": 3150,
+          "stars_today": 403,
+          "description_zh": "支持Android应用逆向工程的Claude代码技能"
+        },
+        {
+          "rank": 7,
+          "name": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "description_en": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+          "language": "Rust",
+          "stars_total": 112108,
+          "stars_today": 393,
+          "description_zh": "开源远程桌面应用，专为自托管设计，可作为TeamViewer的替代方案。"
+        },
+        {
+          "rank": 8,
+          "name": "tractorjuice/arc-kit",
+          "url": "https://github.com/tractorjuice/arc-kit",
+          "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+          "language": "HTML",
+          "stars_total": 747,
+          "stars_today": 135,
+          "description_zh": "企业架构治理与供应商采购工具包"
+        },
+        {
+          "rank": 9,
+          "name": "aaddrick/claude-desktop-debian",
+          "url": "https://github.com/aaddrick/claude-desktop-debian",
+          "description_en": "Claude Desktop for Debian-based Linux distributions",
+          "language": "Shell",
+          "stars_total": 3478,
+          "stars_today": 44,
+          "description_zh": "适用于Debian系Linux发行版的Claude桌面客户端"
+        },
+        {
+          "rank": 10,
+          "name": "deepseek-ai/DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+          "language": "Cuda",
+          "stars_total": 6544,
+          "stars_today": 31,
+          "description_zh": "DeepGEMM：具备细粒度缩放功能的简洁高效FP8通用矩阵乘法内核"
+        }
+      ]
+    },
+    {
       "date": "2026-04-18",
       "summary_zh": "今日GitHub趋势项目聚焦AI自主性与开源工具：强调用户可控的AI模型与数据主权，提供多智能体开发框架及自进化引擎；同时涵盖高效计算内核、大模型实践教程、Linux桌面应用及远程协作工具，呈现开源生态的多元化发展。",
       "projects": [
