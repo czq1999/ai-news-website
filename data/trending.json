@@ -1,6 +1,112 @@
 {
   "days": [
     {
+      "date": "2026-04-20",
+      "summary_zh": "今日GitHub趋势项目聚焦AI自主性与实用工具：涵盖金融终端分析、开源AI控制框架、企业架构治理工具、多智能体工作流、文档管理系统，以及创新的WiFi姿态感知和屏幕交互AI，体现技术向去中心化、数据主权和跨领域集成发展的趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "language": "Python",
+          "stars_total": 6721,
+          "stars_today": 1254,
+          "description_zh": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，旨在通过用户友好的环境实现交互式探索和数据驱动的决策。"
+        },
+        {
+          "rank": 2,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description_en": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars_total": 23228,
+          "stars_today": 752,
+          "description_zh": "一个轻量级、功能强大的多智能体工作流框架"
+        },
+        {
+          "rank": 3,
+          "name": "Donchitos/Claude-Code-Game-Studios",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "description_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+          "language": "Shell",
+          "stars_total": 13531,
+          "stars_today": 704,
+          "description_zh": "将Claude Code转化为完整的游戏开发工作室——包含49个AI智能体、72项工作流技能，以及模拟真实工作室层级的完整协作系统。"
+        },
+        {
+          "rank": 4,
+          "name": "thunderbird/thunderbolt",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "language": "TypeScript",
+          "stars_total": 2258,
+          "stars_today": 695,
+          "description_zh": "由您掌控的AI：自由选择模型，完全拥有数据，彻底消除供应商锁定。"
+        },
+        {
+          "rank": 5,
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "language": "Dart",
+          "stars_total": 11206,
+          "stars_today": 685,
+          "description_zh": "能够观察您的屏幕、聆听对话并指导您行动的AI"
+        },
+        {
+          "rank": 6,
+          "name": "EvoMap/evolver",
+          "url": "https://github.com/EvoMap/evolver",
+          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "language": "JavaScript",
+          "stars_total": 5564,
+          "stars_today": 527,
+          "description_zh": "基于GEP的AI智能体自进化引擎。基因组进化协议。| evomap.ai"
+        },
+        {
+          "rank": 7,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description_en": "A community-supported supercharged document management system: scan, index and archive all your documents",
+          "language": "Python",
+          "stars_total": 38904,
+          "stars_today": 393,
+          "description_zh": "一个社区支持的超级文档管理系统：扫描、索引并归档您的所有文档"
+        },
+        {
+          "rank": 8,
+          "name": "tractorjuice/arc-kit",
+          "url": "https://github.com/tractorjuice/arc-kit",
+          "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+          "language": "HTML",
+          "stars_total": 1024,
+          "stars_today": 263,
+          "description_zh": "企业架构治理与供应商采购工具包"
+        },
+        {
+          "rank": 9,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 47535,
+          "stars_today": 149,
+          "description_zh": "π RuView：WiFi DensePose 将普通WiFi信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
+        },
+        {
+          "rank": 10,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description_en": "",
+          "language": "TypeScript",
+          "stars_total": 9907,
+          "stars_today": 109,
+          "description_zh": ""
+        }
+      ]
+    },
+    {
       "date": "2026-04-19",
       "summary_zh": "今日GitHub趋势项目聚焦AI自主性与实用工具：涵盖金融终端分析、开源AI控制框架、企业架构治理工具、多智能体工作流、文档管理系统，以及创新的WiFi姿态感知和屏幕交互AI，呈现技术去中心化与垂直领域深度整合趋势。",
       "projects": [
