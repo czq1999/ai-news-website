@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-21",
-      "summary_zh": "今日GitHub趋势项目聚焦AI与数据自主、隐私保护及高效工具：涵盖自主AI框架、无摄像头人体姿态识别、开源广告拦截、企业架构治理工具、实时全球情报仪表盘及高性能计算内核，体现技术向隐私安全、去中心化和效率提升的发展趋势。",
+      "summary_zh": "今日GitHub趋势聚焦AI与数据工具：FinceptTerminal提供金融数据分析，Thunderbolt强调AI自主可控，Claude-Context赋能代码搜索，RuView实现WiFi姿态感知。另有AI智能体入门教程、iOS版YouTube增强工具、一体化RAG框架及多平台AI舆情监控系统，凸显开源界在AI应用、数据隐私和跨平台集成方面的创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,29 +10,29 @@
           "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
           "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
           "language": "Python",
-          "stars_total": 10315,
-          "stars_today": 3109,
-          "description_zh": "FinceptTerminal是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在通过用户友好的环境实现交互式探索和数据驱动的决策。"
+          "stars_total": 10901,
+          "stars_today": 2595,
+          "description_zh": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，旨在通过用户友好的环境实现交互式探索和数据驱动的决策。"
         },
         {
           "rank": 2,
-          "name": "openai/openai-agents-python",
-          "url": "https://github.com/openai/openai-agents-python",
-          "description_en": "A lightweight, powerful framework for multi-agent workflows",
-          "language": "Python",
-          "stars_total": 24151,
-          "stars_today": 905,
-          "description_zh": "一个轻量级、功能强大的多智能体工作流框架"
-        },
-        {
-          "rank": 3,
           "name": "ruvnet/RuView",
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 48481,
-          "stars_today": 713,
-          "description_zh": "π RuView：WiFi DensePose将普通WiFi信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
+          "stars_total": 48661,
+          "stars_today": 828,
+          "description_zh": "π RuView：WiFi DensePose 技术将普通 WiFi 信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
+        },
+        {
+          "rank": 3,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description_en": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+          "language": "Python",
+          "stars_total": 53302,
+          "stars_today": 604,
+          "description_zh": "⭐AI 驱动的舆情与趋势监控平台，支持多平台聚合、RSS 订阅和智能预警。🎯 告别信息过载，您的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
         },
         {
           "rank": 4,
@@ -40,69 +40,49 @@
           "url": "https://github.com/thunderbird/thunderbolt",
           "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
           "language": "TypeScript",
-          "stars_total": 2986,
-          "stars_today": 675,
-          "description_zh": "由您掌控的AI：选择您的模型，拥有您的数据，消除供应商锁定。"
+          "stars_total": 3171,
+          "stars_today": 591,
+          "description_zh": "由您掌控的 AI：自由选择模型，完全拥有数据，彻底消除供应商锁定。"
         },
         {
           "rank": 5,
-          "name": "paperless-ngx/paperless-ngx",
-          "url": "https://github.com/paperless-ngx/paperless-ngx",
-          "description_en": "A community-supported supercharged document management system: scan, index and archive all your documents",
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description_en": "\"RAG-Anything: All-in-One RAG Framework\"",
           "language": "Python",
-          "stars_total": 39567,
-          "stars_today": 606,
-          "description_zh": "一个社区支持的超级文档管理系统：扫描、索引并归档您的所有文档。"
+          "stars_total": 16544,
+          "stars_today": 245,
+          "description_zh": "“RAG-Anything：一体化检索增强生成框架”"
         },
         {
           "rank": 6,
-          "name": "tractorjuice/arc-kit",
-          "url": "https://github.com/tractorjuice/arc-kit",
-          "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-          "language": "HTML",
-          "stars_total": 1436,
-          "stars_today": 329,
-          "description_zh": "企业架构治理与供应商采购工具包"
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description_en": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars_total": 57269,
+          "stars_today": 131,
+          "description_zh": "12 节入门课程，助您开始构建 AI 智能体"
         },
         {
           "rank": 7,
-          "name": "koala73/worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "name": "zilliztech/claude-context",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
           "language": "TypeScript",
-          "stars_total": 50520,
-          "stars_today": 316,
-          "description_zh": "实时全球情报仪表板。集AI驱动的新闻聚合、地缘政治监控和基础设施追踪于一体的统一态势感知界面。"
+          "stars_total": 6251,
+          "stars_today": 74,
+          "description_zh": "专为 Claude Code 设计的代码搜索 MCP 工具，可将整个代码库作为任何编码智能体的上下文环境。"
         },
         {
           "rank": 8,
-          "name": "pi-hole/pi-hole",
-          "url": "https://github.com/pi-hole/pi-hole",
-          "description_en": "A black hole for Internet advertisements",
-          "language": "Shell",
-          "stars_total": 57422,
-          "stars_today": 196,
-          "description_zh": "互联网广告的黑洞"
-        },
-        {
-          "rank": 9,
-          "name": "deepseek-ai/DeepGEMM",
-          "url": "https://github.com/deepseek-ai/DeepGEMM",
-          "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-          "language": "Cuda",
-          "stars_total": 6892,
-          "stars_today": 109,
-          "description_zh": "DeepGEMM：具有细粒度缩放功能的简洁高效FP8 GEMM内核"
-        },
-        {
-          "rank": 10,
-          "name": "XTLS/Xray-core",
-          "url": "https://github.com/XTLS/Xray-core",
-          "description_en": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-          "language": "Go",
-          "stars_total": 37572,
-          "stars_today": 78,
-          "description_zh": "Xray，穿透一切。也是最好的v2ray-core。魔法发生之地。一个多用途的开放平台。"
+          "name": "dayanch96/YTLite",
+          "url": "https://github.com/dayanch96/YTLite",
+          "description_en": "A flexible enhancer for YouTube on iOS",
+          "language": "Logos",
+          "stars_total": 4718,
+          "stars_today": 43,
+          "description_zh": "一款适用于 iOS 平台的灵活 YouTube 增强工具"
         }
       ]
     },
