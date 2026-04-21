@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-21",
-      "summary_zh": "今日GitHub趋势项目聚焦AI与数据自主、隐私保护及效率工具。亮点包括：开源AI代理框架、离线文档管理系统、WiFi人体姿态估计、去广告工具及金融终端，体现技术社区对数据主权、隐私安全和实用工具的高度关注。",
+      "summary_zh": "今日GitHub趋势项目聚焦AI与数据自主、隐私保护及高效工具：涵盖自主AI框架、无摄像头人体姿态识别、开源广告拦截、企业架构治理工具、实时全球情报仪表盘及高性能计算内核，体现技术向隐私安全、去中心化和效率提升的发展趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
           "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
           "language": "Python",
-          "stars_total": 9645,
+          "stars_total": 10315,
           "stars_today": 3109,
           "description_zh": "FinceptTerminal是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在通过用户友好的环境实现交互式探索和数据驱动的决策。"
         },
@@ -20,9 +20,9 @@
           "url": "https://github.com/openai/openai-agents-python",
           "description_en": "A lightweight, powerful framework for multi-agent workflows",
           "language": "Python",
-          "stars_total": 23963,
+          "stars_total": 24151,
           "stars_today": 905,
-          "description_zh": "一个轻量级、强大的多智能体工作流框架"
+          "description_zh": "一个轻量级、功能强大的多智能体工作流框架"
         },
         {
           "rank": 3,
@@ -30,7 +30,7 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 48237,
+          "stars_total": 48481,
           "stars_today": 713,
           "description_zh": "π RuView：WiFi DensePose将普通WiFi信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/thunderbird/thunderbolt",
           "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
           "language": "TypeScript",
-          "stars_total": 2842,
+          "stars_total": 2986,
           "stars_today": 675,
           "description_zh": "由您掌控的AI：选择您的模型，拥有您的数据，消除供应商锁定。"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/paperless-ngx/paperless-ngx",
           "description_en": "A community-supported supercharged document management system: scan, index and archive all your documents",
           "language": "Python",
-          "stars_total": 39444,
+          "stars_total": 39567,
           "stars_today": 606,
-          "description_zh": "一个社区支持的超级文档管理系统：扫描、索引和归档您的所有文档。"
+          "description_zh": "一个社区支持的超级文档管理系统：扫描、索引并归档您的所有文档。"
         },
         {
           "rank": 6,
@@ -60,7 +60,7 @@
           "url": "https://github.com/tractorjuice/arc-kit",
           "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
           "language": "HTML",
-          "stars_total": 1356,
+          "stars_total": 1436,
           "stars_today": 329,
           "description_zh": "企业架构治理与供应商采购工具包"
         },
@@ -70,9 +70,9 @@
           "url": "https://github.com/koala73/worldmonitor",
           "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
           "language": "TypeScript",
-          "stars_total": 50167,
+          "stars_total": 50520,
           "stars_today": 316,
-          "description_zh": "实时全球情报仪表板。AI驱动的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面。"
+          "description_zh": "实时全球情报仪表板。集AI驱动的新闻聚合、地缘政治监控和基础设施追踪于一体的统一态势感知界面。"
         },
         {
           "rank": 8,
@@ -80,7 +80,7 @@
           "url": "https://github.com/pi-hole/pi-hole",
           "description_en": "A black hole for Internet advertisements",
           "language": "Shell",
-          "stars_total": 57202,
+          "stars_total": 57422,
           "stars_today": 196,
           "description_zh": "互联网广告的黑洞"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/deepseek-ai/DeepGEMM",
           "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
           "language": "Cuda",
-          "stars_total": 6838,
+          "stars_total": 6892,
           "stars_today": 109,
           "description_zh": "DeepGEMM：具有细粒度缩放功能的简洁高效FP8 GEMM内核"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/XTLS/Xray-core",
           "description_en": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
           "language": "Go",
-          "stars_total": 37469,
+          "stars_total": 37572,
           "stars_today": 78,
           "description_zh": "Xray，穿透一切。也是最好的v2ray-core。魔法发生之地。一个多用途的开放平台。"
         }
