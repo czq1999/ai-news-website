@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-22",
-      "summary_zh": "今日GitHub趋势项目聚焦AI应用创新：代码智能助手、金融分析终端、实时舆情监控、LLM开发平台、AI安全测试、元数据管理、WiFi姿态识别、RAG统一框架及短视频生成引擎，展现AI在开发、金融、安全、数据等领域的深度融合与自动化趋势。",
+      "summary_zh": "今日GitHub趋势项目主要围绕AI增强的开发与数据分析工具，涵盖代码智能搜索、金融终端、实时情报仪表盘、LLM工程平台、AI安全测试、统一元数据管理、WiFi姿态感知、多模态RAG框架、舆情监控系统及短视频生成引擎，突出AI在提升开发效率、数据洞察和自动化内容创作方面的应用。",
       "projects": [
         {
           "rank": 1,
@@ -10,79 +10,79 @@
           "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
           "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
           "language": "Python",
-          "stars_total": 12608,
+          "stars_total": 12905,
           "stars_today": 1737,
-          "description_zh": "FinceptTerminal 是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在用户友好的环境中实现交互式探索和数据驱动的决策。"
+          "description_zh": "FinceptTerminal 是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在以用户友好的环境实现交互式探索和数据驱动的决策制定。"
         },
         {
           "rank": 2,
-          "name": "koala73/worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-          "language": "TypeScript",
-          "stars_total": 51132,
-          "stars_today": 1187,
-          "description_zh": "实时全球情报仪表板。AI 驱动的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面。"
-        },
-        {
-          "rank": 3,
           "name": "sansan0/TrendRadar",
           "url": "https://github.com/sansan0/TrendRadar",
           "description_en": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
           "language": "Python",
-          "stars_total": 54199,
+          "stars_total": 54350,
           "stars_today": 932,
-          "description_zh": "⭐AI 驱动的舆情与趋势监控工具，支持多平台聚合、RSS 和智能警报。🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+          "description_zh": "⭐AI 驱动的舆情与趋势监控工具，支持多平台聚合、RSS 和智能提醒。🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "zilliztech/claude-context",
           "url": "https://github.com/zilliztech/claude-context",
           "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
           "language": "TypeScript",
-          "stars_total": 7122,
+          "stars_total": 7348,
           "stars_today": 873,
-          "description_zh": "Claude Code 的代码搜索 MCP。将整个代码库作为任何编码智能体的上下文。"
+          "description_zh": "Claude Code 的代码搜索 MCP 工具。将整个代码库作为任何编码智能体的上下文环境。"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "HKUDS/RAG-Anything",
           "url": "https://github.com/HKUDS/RAG-Anything",
           "description_en": "\"RAG-Anything: All-in-One RAG Framework\"",
           "language": "Python",
-          "stars_total": 17304,
+          "stars_total": 17441,
           "stars_today": 770,
           "description_zh": "\"RAG-Anything：一体化 RAG 框架\""
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "open-metadata/OpenMetadata",
           "url": "https://github.com/open-metadata/OpenMetadata",
           "description_en": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
           "language": "TypeScript",
-          "stars_total": 11907,
+          "stars_total": 12066,
           "stars_today": 609,
-          "description_zh": "OpenMetadata 是一个统一的元数据平台，用于数据发现、数据可观测性和数据治理，由中央元数据存储库、深入的列级血缘关系和无缝团队协作提供支持。"
+          "description_zh": "OpenMetadata 是一个统一的元数据平台，用于数据发现、数据可观测性和数据治理，由中央元数据仓库、深入的列级血缘分析和无缝团队协作提供支持。"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "ruvnet/RuView",
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 49201,
+          "stars_total": 49301,
           "stars_today": 551,
           "description_zh": "π RuView：WiFi DensePose 将商用 WiFi 信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Z4nzu/hackingtool",
           "url": "https://github.com/Z4nzu/hackingtool",
           "description_en": "ALL IN ONE Hacking Tool For Hackers",
           "language": "Python",
-          "stars_total": 59091,
+          "stars_total": 59432,
           "stars_today": 509,
-          "description_zh": "黑客全能工具包"
+          "description_zh": "黑客全能工具包 | 集所有黑客工具于一体"
+        },
+        {
+          "rank": 8,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars_total": 51377,
+          "stars_today": 449,
+          "description_zh": "实时全球情报仪表板。集成了 AI 驱动的新闻聚合、地缘政治监控和基础设施追踪，提供统一态势感知界面。"
         },
         {
           "rank": 9,
@@ -90,9 +90,9 @@
           "url": "https://github.com/KeygraphHQ/shannon",
           "description_en": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
           "language": "TypeScript",
-          "stars_total": 39266,
+          "stars_total": 39410,
           "stars_today": 346,
-          "description_zh": "Shannon Lite 是一个自主的、白盒式 AI 渗透测试器，用于 Web 应用和 API。它分析源代码，识别攻击向量，并执行真实漏洞利用以在生产环境前验证漏洞。"
+          "description_zh": "Shannon Lite 是一款自主、白盒化的 AI 渗透测试工具，用于 Web 应用和 API。它分析源代码，识别攻击向量，并执行真实漏洞利用，在生产环境前验证安全风险。"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/vercel-labs/skills",
           "description_en": "The open agent skills tool - npx skills",
           "language": "TypeScript",
-          "stars_total": 15208,
+          "stars_total": 15359,
           "stars_today": 317,
           "description_zh": "开源智能体技能工具 - npx skills"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/AIDC-AI/Pixelle-Video",
           "description_en": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
           "language": "Python",
-          "stars_total": 5214,
+          "stars_total": 5447,
           "stars_today": 237,
           "description_zh": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
         },
@@ -120,9 +120,9 @@
           "url": "https://github.com/langfuse/langfuse",
           "description_en": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
           "language": "TypeScript",
-          "stars_total": 25394,
-          "stars_today": 67,
-          "description_zh": "🪢 开源 LLM 工程平台：LLM 可观测性、指标、评估、提示词管理、游乐场、数据集。与 OpenTelemetry、Langchain、OpenAI SDK、LiteLLM 等集成。🍊YC W23"
+          "stars_total": 25513,
+          "stars_today": 160,
+          "description_zh": "🪢 开源 LLM 工程平台：提供 LLM 可观测性、指标评估、提示词管理、游乐场和数据集。与 OpenTelemetry、Langchain、OpenAI SDK、LiteLLM 等集成。🍊YC W23"
         }
       ]
     },
