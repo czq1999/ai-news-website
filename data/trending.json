@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-22",
-      "summary_zh": "今日GitHub趋势聚焦AI与工具创新：AI智能体开发教程、可定制AI助手平台、代码搜索增强工具引领开发潮流；同时出现WiFi姿态感知、金融终端、RAG一体化框架及多平台舆情监控等实用工具，体现AI技术向垂直领域深度渗透的趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理开发、金融分析工具、WiFi人体姿态估计及多平台舆情监控，涵盖开源框架与iOS增强工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
           "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
           "language": "Python",
-          "stars_total": 11681,
+          "stars_total": 12175,
           "stars_today": 2548,
-          "description_zh": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，旨在通过用户友好的环境实现交互式探索和数据驱动的决策。"
+          "description_zh": "FinceptTerminal 是一款现代金融应用程序，提供高级市场分析、投资研究及经济数据工具，专为交互式探索和数据驱动决策而设计，用户界面友好。"
         },
         {
           "rank": 2,
@@ -20,9 +20,9 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 48914,
+          "stars_total": 49073,
           "stars_today": 824,
-          "description_zh": "π RuView：WiFi DensePose 将商用 WiFi 信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
+          "description_zh": "π RuView：WiFi DensePose 将普通 WiFi 信号转化为实时人体姿态估计、生命体征监测和存在检测——全程无需任何视频像素。"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/thunderbird/thunderbolt",
           "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
           "language": "TypeScript",
-          "stars_total": 3492,
+          "stars_total": 3592,
           "stars_today": 596,
-          "description_zh": "由您掌控的AI：选择您的模型。拥有您的数据。消除供应商锁定。"
+          "description_zh": "AI 由你掌控：选择你的模型。拥有你的数据。消除供应商锁定。"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/sansan0/TrendRadar",
           "description_en": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
           "language": "Python",
-          "stars_total": 53687,
+          "stars_total": 53993,
           "stars_today": 534,
-          "description_zh": "⭐AI驱动的舆情与趋势监控工具，支持多平台聚合、RSS和智能提醒。🎯 告别信息过载，您的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+          "description_zh": "⭐AI 驱动的舆情与趋势监控工具，支持多平台聚合、RSS 和智能提醒。🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
         },
         {
           "rank": 5,
@@ -50,9 +50,9 @@
           "url": "https://github.com/microsoft/ai-agents-for-beginners",
           "description_en": "12 Lessons to Get Started Building AI Agents",
           "language": "Jupyter Notebook",
-          "stars_total": 57750,
+          "stars_total": 58120,
           "stars_today": 200,
-          "description_zh": "12 节入门课程，助您开始构建 AI 智能体"
+          "description_zh": "12 节课程，助你入门构建 AI 代理"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/zilliztech/claude-context",
           "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
           "language": "TypeScript",
-          "stars_total": 6641,
+          "stars_total": 6891,
           "stars_today": 169,
-          "description_zh": "Claude Code 的代码搜索 MCP。将整个代码库作为任何编码智能体的上下文。"
+          "description_zh": "用于 Claude Code 的代码搜索 MCP。让整个代码库成为任何编码代理的上下文。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/HKUDS/RAG-Anything",
           "description_en": "\"RAG-Anything: All-in-One RAG Framework\"",
           "language": "Python",
-          "stars_total": 16923,
+          "stars_total": 17144,
           "stars_today": 162,
-          "description_zh": "\"RAG-Anything：一体化 RAG 框架\""
+          "description_zh": "“RAG-Anything：一体化 RAG 框架”"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/VoltAgent/awesome-agent-skills",
           "description_en": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
           "language": "",
-          "stars_total": 16759,
+          "stars_total": 17151,
           "stars_today": 139,
-          "description_zh": "精选收录了来自官方开发团队和社区的 1000+ 个智能体技能，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。"
+          "description_zh": "精心整理的 1000+ 个代理技能合集，来自官方开发团队和社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等工具。"
         },
         {
           "rank": 9,
@@ -90,9 +90,9 @@
           "url": "https://github.com/dayanch96/YTLite",
           "description_en": "A flexible enhancer for YouTube on iOS",
           "language": "Logos",
-          "stars_total": 4844,
+          "stars_total": 4891,
           "stars_today": 55,
-          "description_zh": "一款适用于 iOS 上 YouTube 的灵活增强工具"
+          "description_zh": "一款灵活的 iOS 版 YouTube 增强工具"
         }
       ]
     },
