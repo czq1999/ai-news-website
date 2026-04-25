@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-25",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链，涵盖Claude代码免费使用、黑客工具合集、全栈产品分析平台PostHog，以及AI代理编程、ML工程开源库等，突出效率提升与技术创新。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与黑客工具，涵盖Claude代码免费使用、全栈产品分析平台PostHog、AI代理编程助手、高效通信库及开源ML工程师，展现AI赋能开发与安全领域的最新趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/Alishahryar1/free-claude-code",
           "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
           "language": "Python",
-          "stars_total": 10630,
+          "stars_total": 11190,
           "stars_today": 3975,
-          "description_zh": "在终端、VSCode 扩展或通过 Discord 像 openclaw 一样免费使用 claude-code"
+          "description_zh": "在终端、VSCode扩展或通过Discord（如openclaw）免费使用claude-code"
         },
         {
           "rank": 2,
@@ -20,9 +20,9 @@
           "url": "https://github.com/codecrafters-io/build-your-own-x",
           "description_en": "Master programming by recreating your favorite technologies from scratch.",
           "language": "Markdown",
-          "stars_total": 495449,
+          "stars_total": 495778,
           "stars_today": 1431,
-          "description_zh": "通过从头重建您喜爱的技术来掌握编程。"
+          "description_zh": "通过从头重新创建您喜爱的技术来掌握编程。"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/huggingface/ml-intern",
           "description_en": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
           "language": "Python",
-          "stars_total": 5891,
+          "stars_total": 6097,
           "stars_today": 1236,
-          "description_zh": "🤗 ml-intern：一个开源的 ML 工程师，能够阅读论文、训练模型并部署 ML 模型"
+          "description_zh": "🤗 ml-intern：一个开源ML工程师，能够阅读论文、训练模型并部署ML模型"
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/Z4nzu/hackingtool",
           "description_en": "ALL IN ONE Hacking Tool For Hackers",
           "language": "Python",
-          "stars_total": 62960,
+          "stars_total": 63522,
           "stars_today": 1200,
           "description_zh": "黑客的全能黑客工具"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "My personal directory of skills, straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 18857,
+          "stars_total": 19452,
           "stars_today": 857,
-          "description_zh": "我的个人技能目录，直接来自我的 .claude 目录。"
+          "description_zh": "我的个人技能目录，直接来自我的.claude目录"
         },
         {
           "rank": 6,
@@ -60,49 +60,49 @@
           "url": "https://github.com/PostHog/posthog",
           "description_en": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
           "language": "Python",
-          "stars_total": 33323,
+          "stars_total": 33409,
           "stars_today": 469,
-          "description_zh": "🦔 PostHog 是一个面向开发者的全能平台，用于打造成功的产品。我们提供产品分析、网站分析、会话回放、错误追踪、功能开关、实验、调查、数据仓库、CDP 以及 AI 产品助手，帮助您调试代码、更快地发布功能，并将所有使用数据和客户数据集中管理。"
+          "description_zh": "🦔 PostHog是一个面向成功产品构建的全能开发者平台。我们提供产品分析、网站分析、会话回放、错误追踪、功能开关、实验、调查、数据仓库、CDP以及AI产品助手，帮助您调试代码、更快地发布功能，并将所有使用数据和客户数据集中管理。"
         },
         {
           "rank": 7,
-          "name": "PowerShell/PowerShell",
-          "url": "https://github.com/PowerShell/PowerShell",
-          "description_en": "PowerShell for every system!",
-          "language": "C#",
-          "stars_total": 52937,
-          "stars_today": 217,
-          "description_zh": "适用于每个系统的 PowerShell！"
-        },
-        {
-          "rank": 8,
           "name": "deepseek-ai/DeepEP",
           "url": "https://github.com/deepseek-ai/DeepEP",
           "description_en": "DeepEP: an efficient expert-parallel communication library",
           "language": "Cuda",
-          "stars_total": 9416,
+          "stars_total": 9459,
           "stars_today": 189,
           "description_zh": "DeepEP：一个高效的专家并行通信库"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "ComposioHQ/awesome-codex-skills",
           "url": "https://github.com/ComposioHQ/awesome-codex-skills",
           "description_en": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
           "language": "Python",
-          "stars_total": 1227,
+          "stars_total": 1375,
           "stars_today": 174,
-          "description_zh": "一份精选的实用 Codex 技能列表，用于在 Codex CLI 和 API 中自动化工作流程。"
+          "description_zh": "一份精选的实用Codex技能列表，用于通过Codex CLI和API自动化工作流程。"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "davila7/claude-code-templates",
           "url": "https://github.com/davila7/claude-code-templates",
           "description_en": "CLI tool for configuring and monitoring Claude Code",
           "language": "Python",
-          "stars_total": 25181,
+          "stars_total": 25270,
           "stars_today": 78,
-          "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
+          "description_zh": "用于配置和监控Claude Code的CLI工具"
+        },
+        {
+          "rank": 10,
+          "name": "PowerShell/PowerShell",
+          "url": "https://github.com/PowerShell/PowerShell",
+          "description_en": "PowerShell for every system!",
+          "language": "C#",
+          "stars_total": 53007,
+          "stars_today": 68,
+          "description_zh": "适用于每个系统的PowerShell！"
         },
         {
           "rank": 11,
@@ -110,19 +110,19 @@
           "url": "https://github.com/RooCodeInc/Roo-Code",
           "description_en": "Roo Code gives you a whole dev team of AI agents in your code editor.",
           "language": "TypeScript",
-          "stars_total": 23395,
+          "stars_total": 23465,
           "stars_today": 55,
-          "description_zh": "Roo Code 在您的代码编辑器中为您提供一整套 AI 代理开发团队。"
+          "description_zh": "Roo Code在您的代码编辑器中为您提供一整套AI代理开发团队。"
         },
         {
           "rank": 12,
           "name": "CJackHwang/ds2api",
           "url": "https://github.com/CJackHwang/ds2api",
-          "description_en": "Deepseek to API - 客户端协议转通用API全栈中间件工具，轻量、高性能，多账号轮询，支持二进制编译文件、Vercel Serverless、Docker部署。Google、Claude、OpenAI多接口格式兼容",
+          "description_en": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
           "language": "Go",
-          "stars_total": 1297,
+          "stars_total": 1368,
           "stars_today": 37,
-          "description_zh": "Deepseek to API - 客户端协议转通用API全栈中间件工具，轻量、高性能，多账号轮询，支持二进制编译文件、Vercel Serverless、Docker部署。Google、Claude、OpenAI多接口格式兼容"
+          "description_zh": "Deepseek转API：一个轻量级、高性能的全栈中间件，将客户端协议转换为通用API。支持多账户轮换、编译二进制文件、Vercel Serverless和Docker。兼容Google、Claude和OpenAI API格式。"
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/Universal-Commerce-Protocol/ucp",
           "description_en": "Specification and documentation for the Universal Commerce Protocol (UCP)",
           "language": "Python",
-          "stars_total": 2683,
+          "stars_total": 2746,
           "stars_today": 16,
           "description_zh": "通用商业协议（UCP）的规范与文档"
         }
