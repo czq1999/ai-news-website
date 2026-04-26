@@ -2,137 +2,137 @@
   "days": [
     {
       "date": "2026-04-26",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与黑客工具，涵盖Claude代码免费使用、全栈产品分析平台PostHog、AI代理编程、专家并行通信库及ML工程师开源项目，展现AI赋能开发与安全攻防两大主线。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链，涵盖免费Claude代码终端、浏览器端代码知识图谱、计算机操作智能体基础设施，以及TypeScript原生移植和全栈开发者平台PostHog。",
       "projects": [
         {
           "rank": 1,
-          "name": "Alishahryar1/free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-          "language": "Python",
-          "stars_total": 11877,
-          "stars_today": 4007,
-          "description_zh": ""
-        },
-        {
-          "rank": 2,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 496218,
-          "stars_today": 1432,
-          "description_zh": ""
-        },
-        {
-          "rank": 3,
-          "name": "huggingface/ml-intern",
-          "url": "https://github.com/huggingface/ml-intern",
-          "description_en": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-          "language": "Python",
-          "stars_total": 6433,
-          "stars_today": 1240,
-          "description_zh": ""
-        },
-        {
-          "rank": 4,
-          "name": "Z4nzu/hackingtool",
-          "url": "https://github.com/Z4nzu/hackingtool",
-          "description_en": "ALL IN ONE Hacking Tool For Hackers",
-          "language": "Python",
-          "stars_total": 64292,
-          "stars_today": 1200,
-          "description_zh": ""
-        },
-        {
-          "rank": 5,
           "name": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
           "description_en": "My personal directory of skills, straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 20644,
-          "stars_today": 1139,
-          "description_zh": ""
+          "stars_total": 21433,
+          "stars_today": 2507,
+          "description_zh": "我的个人技能目录，直接来自我的.claude目录。"
+        },
+        {
+          "rank": 2,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description_en": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars_total": 64666,
+          "stars_today": 1724,
+          "description_zh": "黑客的全能黑客工具。"
+        },
+        {
+          "rank": 3,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "language": "Python",
+          "stars_total": 12344,
+          "stars_today": 1694,
+          "description_zh": "在终端、VSCode扩展或通过Discord（如openclaw）免费使用claude-code。"
+        },
+        {
+          "rank": 4,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description_en": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars_total": 496448,
+          "stars_today": 1074,
+          "description_zh": "通过从零开始重新创建您喜爱的技术来掌握编程。"
+        },
+        {
+          "rank": 5,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "language": "TypeScript",
+          "stars_total": 29712,
+          "stars_today": 667,
+          "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具。拖入GitHub仓库或ZIP文件，即可获得一个带有内置图RAG代理的交互式知识图谱。非常适合代码探索。"
         },
         {
           "rank": 6,
-          "name": "PostHog/posthog",
-          "url": "https://github.com/PostHog/posthog",
-          "description_en": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-          "language": "Python",
-          "stars_total": 33589,
-          "stars_today": 471,
-          "description_zh": ""
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description_en": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars_total": 364193,
+          "stars_today": 620,
+          "description_zh": "您自己的个人AI助手。任何操作系统。任何平台。龙虾风格。🦞"
         },
         {
           "rank": 7,
-          "name": "deepseek-ai/DeepEP",
-          "url": "https://github.com/deepseek-ai/DeepEP",
-          "description_en": "DeepEP: an efficient expert-parallel communication library",
-          "language": "Cuda",
-          "stars_total": 9536,
-          "stars_today": 189,
-          "description_zh": ""
-        },
-        {
-          "rank": 8,
           "name": "ComposioHQ/awesome-codex-skills",
           "url": "https://github.com/ComposioHQ/awesome-codex-skills",
           "description_en": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
           "language": "Python",
-          "stars_total": 1626,
-          "stars_today": 188,
-          "description_zh": ""
+          "stars_total": 1749,
+          "stars_today": 518,
+          "description_zh": "一份精选的实用Codex技能列表，用于在Codex CLI和API中自动化工作流程。"
+        },
+        {
+          "rank": 8,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description_en": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+          "language": "Python",
+          "stars_total": 33655,
+          "stars_today": 338,
+          "description_zh": "🦔 PostHog是一个用于构建成功产品的全栈开发者平台。我们提供产品分析、网站分析、会话回放、错误追踪、功能开关、实验、调查、数据仓库、CDP以及AI产品助手，帮助您调试代码、更快地发布功能，并将所有使用数据和客户数据保存在一个堆栈中。"
         },
         {
           "rank": 9,
-          "name": "davila7/claude-code-templates",
-          "url": "https://github.com/davila7/claude-code-templates",
-          "description_en": "CLI tool for configuring and monitoring Claude Code",
-          "language": "Python",
-          "stars_total": 25441,
-          "stars_today": 87,
-          "description_zh": ""
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description_en": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "language": "HTML",
+          "stars_total": 14224,
+          "stars_today": 204,
+          "description_zh": "计算机使用代理的开源基础设施。用于训练和评估能够控制完整桌面（macOS、Linux、Windows）的AI代理的沙箱、SDK和基准测试。"
         },
         {
           "rank": 10,
-          "name": "RooCodeInc/Roo-Code",
-          "url": "https://github.com/RooCodeInc/Roo-Code",
-          "description_en": "Roo Code gives you a whole dev team of AI agents in your code editor.",
-          "language": "TypeScript",
-          "stars_total": 23583,
-          "stars_today": 57,
-          "description_zh": ""
+          "name": "gastownhall/beads",
+          "url": "https://github.com/gastownhall/beads",
+          "description_en": "Beads - A memory upgrade for your coding agent",
+          "language": "Go",
+          "stars_total": 21468,
+          "stars_today": 133,
+          "description_zh": "Beads - 为您的编码代理提供的内存升级。"
         },
         {
           "rank": 11,
-          "name": "PowerShell/PowerShell",
-          "url": "https://github.com/PowerShell/PowerShell",
-          "description_en": "PowerShell for every system!",
-          "language": "C#",
-          "stars_total": 53132,
-          "stars_today": 48,
-          "description_zh": ""
+          "name": "microsoft/typescript-go",
+          "url": "https://github.com/microsoft/typescript-go",
+          "description_en": "Staging repo for development of native port of TypeScript",
+          "language": "Go",
+          "stars_total": 25109,
+          "stars_today": 130,
+          "description_zh": "TypeScript原生移植开发的暂存仓库。"
         },
         {
           "rank": 12,
-          "name": "CJackHwang/ds2api",
-          "url": "https://github.com/CJackHwang/ds2api",
-          "description_en": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-          "language": "Go",
-          "stars_total": 1510,
-          "stars_today": 44,
-          "description_zh": ""
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description_en": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars_total": 86290,
+          "stars_today": 52,
+          "description_zh": "🏡 将本地控制和隐私放在首位的开源家庭自动化系统。"
         },
         {
           "rank": 13,
-          "name": "Universal-Commerce-Protocol/ucp",
-          "url": "https://github.com/Universal-Commerce-Protocol/ucp",
-          "description_en": "Specification and documentation for the Universal Commerce Protocol (UCP)",
-          "language": "Python",
-          "stars_total": 2857,
-          "stars_today": 26,
-          "description_zh": ""
+          "name": "curl/curl",
+          "url": "https://github.com/curl/curl",
+          "description_en": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+          "language": "C",
+          "stars_total": 41421,
+          "stars_today": 9,
+          "description_zh": "一个使用URL语法传输数据的命令行工具和库，支持DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、HTTP、HTTPS、IMAP、IMAPS、LDAP、LDAPS、MQTT、MQTTS、POP3、POP3S、RTMP、RTMPS、RTSP、SCP、SFTP、SMB、SMBS、SMTP、SMTPS、TELNET、TFTP、WS和WSS。libcurl提供了大量强大的功能。"
         }
       ]
     },
