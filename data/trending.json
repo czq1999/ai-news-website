@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-26",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链，涵盖免费Claude代码终端、浏览器端代码知识图谱、计算机操作智能体基础设施，以及TypeScript原生移植和全栈开发者平台PostHog。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：Claude技能目录与免费终端、浏览器端代码知识图谱、全栈产品分析平台、TypeScript原生移植及计算机使用Agent基础设施。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "My personal directory of skills, straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 21433,
+          "stars_total": 22650,
           "stars_today": 2507,
-          "description_zh": "我的个人技能目录，直接来自我的.claude目录。"
+          "description_zh": "我的个人技能目录，直接来自我的 .claude 目录。"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/Z4nzu/hackingtool",
           "description_en": "ALL IN ONE Hacking Tool For Hackers",
           "language": "Python",
-          "stars_total": 64666,
+          "stars_total": 65125,
           "stars_today": 1724,
           "description_zh": "黑客的全能黑客工具。"
         },
@@ -30,9 +30,9 @@
           "url": "https://github.com/Alishahryar1/free-claude-code",
           "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
           "language": "Python",
-          "stars_total": 12344,
+          "stars_total": 13092,
           "stars_today": 1694,
-          "description_zh": "在终端、VSCode扩展或通过Discord（如openclaw）免费使用claude-code。"
+          "description_zh": "在终端、VSCode 扩展或通过 Discord（如 openclaw）免费使用 claude-code。"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/codecrafters-io/build-your-own-x",
           "description_en": "Master programming by recreating your favorite technologies from scratch.",
           "language": "Markdown",
-          "stars_total": 496448,
+          "stars_total": 496659,
           "stars_today": 1074,
-          "description_zh": "通过从零开始重新创建您喜爱的技术来掌握编程。"
+          "description_zh": "通过从零开始重建您喜爱的技术来掌握编程。"
         },
         {
           "rank": 5,
@@ -50,9 +50,9 @@
           "url": "https://github.com/abhigyanpatwari/GitNexus",
           "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
           "language": "TypeScript",
-          "stars_total": 29712,
+          "stars_total": 30000,
           "stars_today": 667,
-          "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具。拖入GitHub仓库或ZIP文件，即可获得一个带有内置图RAG代理的交互式知识图谱。非常适合代码探索。"
+          "description_zh": "GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建器。拖入 GitHub 仓库或 ZIP 文件，即可获得一个带有内置 Graph RAG 代理的交互式知识图谱。非常适合代码探索。"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/openclaw/openclaw",
           "description_en": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
           "language": "TypeScript",
-          "stars_total": 364193,
+          "stars_total": 364454,
           "stars_today": 620,
-          "description_zh": "您自己的个人AI助手。任何操作系统。任何平台。龙虾风格。🦞"
+          "description_zh": "您自己的个人 AI 助手。任何操作系统。任何平台。龙虾之道。🦞"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/ComposioHQ/awesome-codex-skills",
           "description_en": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
           "language": "Python",
-          "stars_total": 1749,
+          "stars_total": 1879,
           "stars_today": 518,
-          "description_zh": "一份精选的实用Codex技能列表，用于在Codex CLI和API中自动化工作流程。"
+          "description_zh": "一份精选的实用 Codex 技能列表，用于在 Codex CLI 和 API 中自动化工作流程。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/PostHog/posthog",
           "description_en": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
           "language": "Python",
-          "stars_total": 33655,
+          "stars_total": 33750,
           "stars_today": 338,
-          "description_zh": "🦔 PostHog是一个用于构建成功产品的全栈开发者平台。我们提供产品分析、网站分析、会话回放、错误追踪、功能开关、实验、调查、数据仓库、CDP以及AI产品助手，帮助您调试代码、更快地发布功能，并将所有使用数据和客户数据保存在一个堆栈中。"
+          "description_zh": "🦔 PostHog 是一个用于构建成功产品的全栈开发者平台。我们提供产品分析、网站分析、会话回放、错误跟踪、功能开关、实验、调查、数据仓库、CDP 以及 AI 产品助手，帮助您调试代码、更快地发布功能，并将所有使用数据和客户数据保存在一个堆栈中。"
         },
         {
           "rank": 9,
@@ -90,9 +90,9 @@
           "url": "https://github.com/trycua/cua",
           "description_en": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
           "language": "HTML",
-          "stars_total": 14224,
+          "stars_total": 14300,
           "stars_today": 204,
-          "description_zh": "计算机使用代理的开源基础设施。用于训练和评估能够控制完整桌面（macOS、Linux、Windows）的AI代理的沙箱、SDK和基准测试。"
+          "description_zh": "计算机使用代理的开源基础设施。用于训练和评估能够控制完整桌面（macOS、Linux、Windows）的 AI 代理的沙箱、SDK 和基准测试。"
         },
         {
           "rank": 10,
@@ -100,39 +100,39 @@
           "url": "https://github.com/gastownhall/beads",
           "description_en": "Beads - A memory upgrade for your coding agent",
           "language": "Go",
-          "stars_total": 21468,
+          "stars_total": 21583,
           "stars_today": 133,
           "description_zh": "Beads - 为您的编码代理提供的内存升级。"
         },
         {
           "rank": 11,
-          "name": "microsoft/typescript-go",
-          "url": "https://github.com/microsoft/typescript-go",
-          "description_en": "Staging repo for development of native port of TypeScript",
-          "language": "Go",
-          "stars_total": 25109,
-          "stars_today": 130,
-          "description_zh": "TypeScript原生移植开发的暂存仓库。"
-        },
-        {
-          "rank": 12,
           "name": "home-assistant/core",
           "url": "https://github.com/home-assistant/core",
           "description_en": "🏡 Open source home automation that puts local control and privacy first.",
           "language": "Python",
-          "stars_total": 86290,
+          "stars_total": 86408,
           "stars_today": 52,
-          "description_zh": "🏡 将本地控制和隐私放在首位的开源家庭自动化系统。"
+          "description_zh": "🏡 将本地控制和隐私放在首位的开源家庭自动化。"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "curl/curl",
           "url": "https://github.com/curl/curl",
           "description_en": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
           "language": "C",
-          "stars_total": 41421,
-          "stars_today": 9,
-          "description_zh": "一个使用URL语法传输数据的命令行工具和库，支持DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、HTTP、HTTPS、IMAP、IMAPS、LDAP、LDAPS、MQTT、MQTTS、POP3、POP3S、RTMP、RTMPS、RTSP、SCP、SFTP、SMB、SMBS、SMTP、SMTPS、TELNET、TFTP、WS和WSS。libcurl提供了大量强大的功能。"
+          "stars_total": 41481,
+          "stars_today": 50,
+          "description_zh": "一个使用 URL 语法传输数据的命令行工具和库，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、HTTP、HTTPS、IMAP、IMAPS、LDAP、LDAPS、MQTT、MQTTS、POP3、POP3S、RTMP、RTMPS、RTSP、SCP、SFTP、SMB、SMBS、SMTP、SMTPS、TELNET、TFTP、WS 和 WSS。libcurl 提供了众多强大功能。"
+        },
+        {
+          "rank": 13,
+          "name": "microsoft/typescript-go",
+          "url": "https://github.com/microsoft/typescript-go",
+          "description_en": "Staging repo for development of native port of TypeScript",
+          "language": "Go",
+          "stars_total": 25139,
+          "stars_today": 38,
+          "description_zh": "TypeScript 原生移植开发的暂存仓库。"
         }
       ]
     },
