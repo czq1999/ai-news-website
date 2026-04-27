@@ -2,17 +2,17 @@
   "days": [
     {
       "date": "2026-04-27",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链，包括Claude/Codex技能库、代码知识图谱、开源设计协作平台及多智能体交易框架，强调工程效率与自动化。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链，涵盖代码智能引擎、Claude技能模板、开源设计协作及金融交易代理框架，强调本地化、开源与自动化工作流。",
       "projects": [
         {
           "rank": 1,
           "name": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
-          "description_en": "Agent Skills for real engineers. Straight from my .claude directory.",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 27179,
+          "stars_total": 28845,
           "stars_today": 5551,
-          "description_zh": "面向真正工程师的智能体技能。直接来自我的.claude目录。"
+          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/Alishahryar1/free-claude-code",
           "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
           "language": "Python",
-          "stars_total": 15306,
+          "stars_total": 15772,
           "stars_today": 2973,
           "description_zh": "在终端、VSCode扩展或通过Discord（如openclaw）免费使用claude-code。"
         },
@@ -30,9 +30,9 @@
           "url": "https://github.com/Z4nzu/hackingtool",
           "description_en": "ALL IN ONE Hacking Tool For Hackers",
           "language": "Python",
-          "stars_total": 66501,
+          "stars_total": 66847,
           "stars_today": 1839,
-          "description_zh": "黑客的全合一黑客工具。"
+          "description_zh": "黑客的全能黑客工具。"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/abhigyanpatwari/GitNexus",
           "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
           "language": "TypeScript",
-          "stars_total": 30837,
+          "stars_total": 31262,
           "stars_today": 1074,
-          "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具。拖入GitHub仓库或ZIP文件，即可获得一个带有内置图检索增强生成（Graph RAG）智能体的交互式知识图谱，非常适合代码探索。"
+          "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具。拖入GitHub仓库或ZIP文件，即可获得一个带有内置图RAG代理的交互式知识图谱。非常适合代码探索。"
         },
         {
           "rank": 5,
@@ -50,7 +50,7 @@
           "url": "https://github.com/microsoft/VibeVoice",
           "description_en": "Open-Source Frontier Voice AI",
           "language": "Python",
-          "stars_total": 42368,
+          "stars_total": 42809,
           "stars_today": 771,
           "description_zh": "开源前沿语音AI。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/ComposioHQ/awesome-codex-skills",
           "description_en": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
           "language": "Python",
-          "stars_total": 2396,
+          "stars_total": 2636,
           "stars_today": 637,
           "description_zh": "一份精选的实用Codex技能列表，用于通过Codex CLI和API自动化工作流程。"
         },
@@ -70,9 +70,9 @@
           "url": "https://github.com/gastownhall/beads",
           "description_en": "Beads - A memory upgrade for your coding agent",
           "language": "Go",
-          "stars_total": 21972,
+          "stars_total": 22092,
           "stars_today": 485,
-          "description_zh": "Beads——为你的编码智能体提供的内存升级。"
+          "description_zh": "Beads——为你的编码代理提供的内存升级。"
         },
         {
           "rank": 8,
@@ -80,49 +80,49 @@
           "url": "https://github.com/donnemartin/system-design-primer",
           "description_en": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
           "language": "Python",
-          "stars_total": 344857,
-          "stars_today": 366,
+          "stars_total": 345038,
+          "stars_today": 396,
           "description_zh": "学习如何设计大规模系统。为系统设计面试做准备。包含Anki闪卡。"
         },
         {
           "rank": 9,
-          "name": "davila7/claude-code-templates",
-          "url": "https://github.com/davila7/claude-code-templates",
-          "description_en": "CLI tool for configuring and monitoring Claude Code",
-          "language": "Python",
-          "stars_total": 25649,
-          "stars_today": 284,
-          "description_zh": "用于配置和监控Claude Code的CLI工具。"
-        },
-        {
-          "rank": 10,
           "name": "penpot/penpot",
           "url": "https://github.com/penpot/penpot",
           "description_en": "Penpot: The open-source design tool for design and code collaboration",
           "language": "Clojure",
-          "stars_total": 46335,
+          "stars_total": 46479,
           "stars_today": 283,
           "description_zh": "Penpot：用于设计与代码协作的开源设计工具。"
         },
         {
-          "rank": 11,
-          "name": "CJackHwang/ds2api",
-          "url": "https://github.com/CJackHwang/ds2api",
-          "description_en": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-          "language": "Go",
-          "stars_total": 1720,
-          "stars_today": 275,
-          "description_zh": "Deepseek转API：一个轻量级、高性能的全栈中间件，将客户端协议转换为通用API。支持多账户轮换、编译二进制文件、Vercel Serverless和Docker。兼容Google、Claude和OpenAI API格式。"
-        },
-        {
-          "rank": 12,
+          "rank": 10,
           "name": "TauricResearch/TradingAgents",
           "url": "https://github.com/TauricResearch/TradingAgents",
           "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
           "language": "Python",
-          "stars_total": 53360,
+          "stars_total": 53585,
           "stars_today": 183,
-          "description_zh": "TradingAgents：多智能体大语言模型金融交易框架。"
+          "description_zh": "TradingAgents：多智能体LLM金融交易框架。"
+        },
+        {
+          "rank": 11,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description_en": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars_total": 25731,
+          "stars_today": 181,
+          "description_zh": "用于配置和监控Claude Code的CLI工具。"
+        },
+        {
+          "rank": 12,
+          "name": "CJackHwang/ds2api",
+          "url": "https://github.com/CJackHwang/ds2api",
+          "description_en": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+          "language": "Go",
+          "stars_total": 1787,
+          "stars_today": 144,
+          "description_zh": "Deepseek转API：一个轻量级、高性能的全栈中间件，将客户端协议转换为通用API。支持多账户轮换、编译二进制文件、Vercel Serverless和Docker。兼容Google、Claude和OpenAI API格式。"
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/deepseek-ai/DeepSeek-V3",
           "description_en": "",
           "language": "Python",
-          "stars_total": 102978,
+          "stars_total": 103045,
           "stars_today": 60,
           "description_zh": ""
         }
