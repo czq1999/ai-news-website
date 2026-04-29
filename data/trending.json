@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-29",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链，涵盖代码智能引擎、语音AI、音乐生成及免费API资源，强调本地化、开源与自动化工作流。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链，涵盖代码智能引擎、语音AI、音乐生成及免费API集合，强调本地化、开源与自动化工作流。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 37802,
+          "stars_total": 39901,
           "stars_today": 7321,
           "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
         },
@@ -18,11 +18,11 @@
           "rank": 2,
           "name": "Alishahryar1/free-claude-code",
           "url": "https://github.com/Alishahryar1/free-claude-code",
-          "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "description_en": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
           "language": "Python",
-          "stars_total": 17569,
+          "stars_total": 17868,
           "stars_today": 1741,
-          "description_zh": "在终端、VSCode扩展或通过Discord（如openclaw）免费使用claude-code"
+          "description_zh": "在终端、VSCode扩展或Discord中像openclaw一样免费使用claude-code"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/abhigyanpatwari/GitNexus",
           "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
           "language": "TypeScript",
-          "stars_total": 32684,
+          "stars_total": 32901,
           "stars_today": 1607,
-          "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具。拖入GitHub仓库或ZIP文件，即可获得一个交互式知识图谱，并内置图RAG代理。非常适合代码探索。"
+          "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具。拖入GitHub仓库或ZIP文件，即可获得一个带有内置图RAG代理的交互式知识图谱，非常适合代码探索。"
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/microsoft/VibeVoice",
           "description_en": "Open-Source Frontier Voice AI",
           "language": "Python",
-          "stars_total": 44890,
+          "stars_total": 45222,
           "stars_today": 1483,
           "description_zh": "开源前沿语音AI"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/HunxByts/GhostTrack",
           "description_en": "Useful tool to track location or mobile number",
           "language": "Python",
-          "stars_total": 10675,
+          "stars_total": 10946,
           "stars_today": 967,
           "description_zh": "用于追踪位置或手机号码的实用工具"
         },
@@ -60,9 +60,9 @@
           "url": "https://github.com/ComposioHQ/awesome-codex-skills",
           "description_en": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
           "language": "Python",
-          "stars_total": 4056,
+          "stars_total": 4337,
           "stars_today": 953,
-          "description_zh": "一份精选的实用Codex技能列表，用于通过Codex CLI和API自动化工作流程。"
+          "description_zh": "一份精选的实用Codex技能列表，用于在Codex CLI和API中自动化工作流程。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/donnemartin/system-design-primer",
           "description_en": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
           "language": "Python",
-          "stars_total": 345877,
+          "stars_total": 346065,
           "stars_today": 744,
-          "description_zh": "学习如何设计大型系统。准备系统设计面试。包含Anki闪卡。"
+          "description_zh": "学习如何设计大型系统。为系统设计面试做准备。包含Anki闪卡。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/iamgio/quarkdown",
           "description_en": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
           "language": "Kotlin",
-          "stars_total": 12073,
+          "stars_total": 12384,
           "stars_today": 699,
-          "description_zh": "🪐 拥有超能力的Markdown：从想法到论文、演示文稿、网站、书籍和知识库。"
+          "description_zh": "🪐 超强Markdown：从创意到论文、演示文稿、网站、书籍和知识库。"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/public-apis/public-apis",
           "description_en": "A collective list of free APIs",
           "language": "Python",
-          "stars_total": 428234,
+          "stars_total": 428581,
           "stars_today": 644,
           "description_zh": "免费API的集体列表"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/CJackHwang/ds2api",
           "description_en": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
           "language": "Go",
-          "stars_total": 2364,
+          "stars_total": 2486,
           "stars_today": 417,
           "description_zh": "Deepseek转API：一个轻量级、高性能的全栈中间件，将客户端协议转换为通用API。支持多账户轮换、编译二进制文件、Vercel Serverless和Docker。兼容Google、Claude和OpenAI API格式。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/davila7/claude-code-templates",
           "description_en": "CLI tool for configuring and monitoring Claude Code",
           "language": "Python",
-          "stars_total": 26181,
+          "stars_total": 26310,
           "stars_today": 346,
           "description_zh": "用于配置和监控Claude Code的CLI工具"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/fspecii/ace-step-ui",
           "description_en": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
           "language": "JavaScript",
-          "stars_total": 1729,
+          "stars_total": 1963,
           "stars_today": 162,
           "description_zh": "🎵 终极开源Suno替代品——ACE-Step 1.5 AI音乐生成的专业UI。免费、本地、无限制。告别Suno付费！"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/EbookFoundation/free-programming-books",
           "description_en": "📚 Freely available programming books",
           "language": "Python",
-          "stars_total": 386667,
+          "stars_total": 386843,
           "stars_today": 147,
           "description_zh": "📚 免费提供的编程书籍"
         }
