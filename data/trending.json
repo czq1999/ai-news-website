@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-04-30",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理开发与工具，涵盖终端环境、金融交易、技能框架及API集合，展现代理技术多领域应用趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理开发与工具，涵盖终端代理环境、金融交易框架、技能方法论及开源API集合，展现智能体技术多元化趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/warpdotdev/warp",
           "description_en": "Warp is an agentic development environment, born out of the terminal.",
           "language": "Rust",
-          "stars_total": 47606,
+          "stars_total": 48694,
           "stars_today": 8262,
-          "description_zh": "Warp 是一个智能体开发环境，诞生于终端。"
+          "description_zh": "Warp 是一个源自终端的智能体开发环境。"
         },
         {
           "rank": 2,
@@ -20,39 +20,39 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 47708,
+          "stars_total": 48778,
           "stars_today": 6175,
-          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
+          "description_zh": "真正工程师的技能，直接来自我的 .claude 目录。"
         },
         {
           "rank": 3,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 57258,
+          "stars_today": 2203,
+          "description_zh": "TradingAgents：基于多智能体大语言模型的金融交易框架。"
+        },
+        {
+          "rank": 4,
           "name": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 174098,
+          "stars_total": 174393,
           "stars_today": 1623,
-          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "HunxByts/GhostTrack",
           "url": "https://github.com/HunxByts/GhostTrack",
           "description_en": "Useful tool to track location or mobile number",
           "language": "Python",
-          "stars_total": 11963,
+          "stars_total": 12091,
           "stars_today": 830,
-          "description_zh": "用于追踪位置或手机号码的实用工具"
-        },
-        {
-          "rank": 5,
-          "name": "iamgio/quarkdown",
-          "url": "https://github.com/iamgio/quarkdown",
-          "description_en": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
-          "language": "Kotlin",
-          "stars_total": 12765,
-          "stars_today": 799,
-          "description_zh": "🪐 拥有超能力的Markdown：从想法到论文、演示文稿、网站、书籍和知识库。"
+          "description_zh": "用于追踪位置或手机号码的实用工具。"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/soxoj/maigret",
           "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
           "language": "Python",
-          "stars_total": 20593,
+          "stars_total": 20720,
           "stars_today": 723,
-          "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案"
+          "description_zh": "🕵️‍♂️ 通过用户名从 3000 多个网站收集个人档案。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/1jehuang/jcode",
           "description_en": "Coding Agent Harness",
           "language": "Rust",
-          "stars_total": 1720,
+          "stars_total": 1818,
           "stars_today": 670,
-          "description_zh": "编码智能体工具集"
+          "description_zh": "编码智能体工具集。"
         },
         {
           "rank": 8,
@@ -80,19 +80,19 @@
           "url": "https://github.com/ghostty-org/ghostty",
           "description_en": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
           "language": "Zig",
-          "stars_total": 52541,
-          "stars_today": 411,
-          "description_zh": "👻 Ghostty 是一个快速、功能丰富且跨平台的终端模拟器，采用平台原生UI和GPU加速。"
+          "stars_total": 52724,
+          "stars_today": 379,
+          "description_zh": "👻 Ghostty 是一个快速、功能丰富且跨平台的终端模拟器，采用平台原生 UI 和 GPU 加速。"
         },
         {
           "rank": 9,
-          "name": "TauricResearch/TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-          "language": "Python",
-          "stars_total": 56672,
-          "stars_today": 386,
-          "description_zh": "TradingAgents：多智能体LLM金融交易框架"
+          "name": "iamgio/quarkdown",
+          "url": "https://github.com/iamgio/quarkdown",
+          "description_en": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+          "language": "Kotlin",
+          "stars_total": 12935,
+          "stars_today": 350,
+          "description_zh": "🪐 拥有超能力的 Markdown：从创意到论文、演示文稿、网站、书籍和知识库。"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/lukilabs/craft-agents-oss",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 5480,
+          "stars_total": 5529,
           "stars_today": 314,
           "description_zh": ""
         },
@@ -110,9 +110,9 @@
           "url": "https://github.com/public-apis/public-apis",
           "description_en": "A collective list of free APIs",
           "language": "Python",
-          "stars_total": 429106,
+          "stars_total": 429353,
           "stars_today": 307,
-          "description_zh": "免费API的集合列表"
+          "description_zh": "免费 API 的集合列表。"
         },
         {
           "rank": 12,
@@ -120,7 +120,7 @@
           "url": "https://github.com/ForrestKnight/open-source-cs",
           "description_en": "Video discussing this curriculum:",
           "language": "",
-          "stars_total": 22244,
+          "stars_total": 22339,
           "stars_today": 133,
           "description_zh": "讨论此课程的视频："
         },
@@ -130,9 +130,9 @@
           "url": "https://github.com/browserbase/skills",
           "description_en": "Claude Agent SDK with a web browsing tool",
           "language": "JavaScript",
-          "stars_total": 685,
+          "stars_total": 773,
           "stars_today": 54,
-          "description_zh": "包含网页浏览工具的Claude智能体SDK"
+          "description_zh": "带有网页浏览工具的 Claude 智能体 SDK。"
         }
       ]
     },
