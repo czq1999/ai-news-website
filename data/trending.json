@@ -1,6 +1,102 @@
 {
   "days": [
     {
+      "date": "2026-05-02",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体开发，涵盖金融交易、身份侦查、终端工具及技能框架，多智能体协作与自动化成为核心亮点。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars_total": 52630,
+          "stars_today": 3645,
+          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
+        },
+        {
+          "rank": 2,
+          "name": "warpdotdev/warp",
+          "url": "https://github.com/warpdotdev/warp",
+          "description_en": "Warp is an agentic development environment, born out of the terminal.",
+          "language": "Rust",
+          "stars_total": 51524,
+          "stars_today": 3401,
+          "description_zh": "Warp是一个源自终端的智能体开发环境。"
+        },
+        {
+          "rank": 3,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 59957,
+          "stars_today": 2112,
+          "description_zh": "TradingAgents：多智能体LLM金融交易框架"
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 175657,
+          "stars_today": 1096,
+          "description_zh": "一种行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 5,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars_total": 21703,
+          "stars_today": 535,
+          "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案"
+        },
+        {
+          "rank": 6,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description_en": "Coding Agent Harness",
+          "language": "Rust",
+          "stars_total": 2379,
+          "stars_today": 403,
+          "description_zh": "编码智能体工具集"
+        },
+        {
+          "rank": 7,
+          "name": "browserbase/skills",
+          "url": "https://github.com/browserbase/skills",
+          "description_en": "Claude Agent SDK with a web browsing tool",
+          "language": "JavaScript",
+          "stars_total": 1198,
+          "stars_today": 334,
+          "description_zh": "Claude智能体SDK，附带网页浏览工具"
+        },
+        {
+          "rank": 8,
+          "name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description_en": "",
+          "language": "Batchfile",
+          "stars_total": 26976,
+          "stars_today": 145,
+          "description_zh": ""
+        },
+        {
+          "rank": 9,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description_en": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+          "language": "TypeScript",
+          "stars_total": 28165,
+          "stars_today": 56,
+          "description_zh": "构建、部署和编排AI智能体。Sim是您AI工作团队的中央智能层。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-01",
       "summary_zh": "今日GitHub热门项目聚焦AI智能体开发，涵盖金融交易、身份侦查、终端环境及技能框架，多智能体协作与自动化工具成主要亮点。",
       "projects": [
