@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-05-05",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态，涵盖Claude多智能体编排、金融交易框架、终端编码助手及开源情报工具，展现从企业级应用到个人开发的全栈自动化趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description_en": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "language": "TypeScript",
+          "stars_total": 41516,
+          "stars_today": 2598,
+          "description_zh": "🌊 领先的Claude智能体编排平台。部署多智能体集群、协调自主工作流、构建对话式AI系统。具备企业级架构、自学习群体智能、RAG集成以及原生Claude Code/Codex集成能力。"
+        },
+        {
+          "rank": 2,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 67599,
+          "stars_today": 2182,
+          "description_zh": "TradingAgents：基于多智能体大语言模型的金融交易框架"
+        },
+        {
+          "rank": 3,
+          "name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description_en": "Coding agent for DeepSeek models that runs in your terminal",
+          "language": "Rust",
+          "stars_total": 4059,
+          "stars_today": 1274,
+          "description_zh": "在终端中运行的DeepSeek模型编程智能体"
+        },
+        {
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 92712,
+          "stars_today": 1189,
+          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区达人，从创意注入者到现实核查员。每个智能体都是具备个性、流程和可交付成果的专项专家。"
+        },
+        {
+          "rank": 5,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars_total": 24883,
+          "stars_today": 1119,
+          "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集人物档案"
+        },
+        {
+          "rank": 6,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description_en": "Coding Agent Harness",
+          "language": "Rust",
+          "stars_total": 3932,
+          "stars_today": 548,
+          "description_zh": "编程智能体框架"
+        },
+        {
+          "rank": 7,
+          "name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description_en": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "language": "Ruby",
+          "stars_total": 13305,
+          "stars_today": 535,
+          "description_zh": "开源DocuSign替代方案。创建、填写和签署数字文档 ✍️"
+        },
+        {
+          "rank": 8,
+          "name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description_en": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "language": "TypeScript",
+          "stars_total": 19930,
+          "stars_today": 496,
+          "description_zh": "为Claude Desktop/Claude Code/Windsurf/Cursor提供的MCP工具，用于自动构建n8n工作流"
+        },
+        {
+          "rank": 9,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description_en": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars_total": 23228,
+          "stars_today": 409,
+          "description_zh": "用于深度金融研究的自主智能体"
+        },
+        {
+          "rank": 10,
+          "name": "browserbase/skills",
+          "url": "https://github.com/browserbase/skills",
+          "description_en": "Claude Agent SDK with a web browsing tool",
+          "language": "JavaScript",
+          "stars_total": 2131,
+          "stars_today": 320,
+          "description_zh": "包含网页浏览工具的Claude智能体SDK"
+        },
+        {
+          "rank": 11,
+          "name": "fspecii/ace-step-ui",
+          "url": "https://github.com/fspecii/ace-step-ui",
+          "description_en": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+          "language": "JavaScript",
+          "stars_total": 2860,
+          "stars_today": 237,
+          "description_zh": "🎵 终极开源Suno替代方案——ACE-Step 1.5 AI音乐生成专业界面。免费、本地、无限制。告别Suno付费！"
+        },
+        {
+          "rank": 12,
+          "name": "cocoindex-io/cocoindex",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "description_en": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "language": "Python",
+          "stars_total": 8024,
+          "stars_today": 166,
+          "description_zh": "面向长周期智能体的增量引擎 🌟 喜欢请加星！"
+        },
+        {
+          "rank": 13,
+          "name": "qbittorrent/qBittorrent",
+          "url": "https://github.com/qbittorrent/qBittorrent",
+          "description_en": "qBittorrent BitTorrent client",
+          "language": "C++",
+          "stars_total": 37061,
+          "stars_today": 82,
+          "description_zh": "qBittorrent BitTorrent客户端"
+        },
+        {
+          "rank": 14,
+          "name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description_en": "",
+          "language": "Batchfile",
+          "stars_total": 27319,
+          "stars_today": 67,
+          "description_zh": ""
+        },
+        {
+          "rank": 15,
+          "name": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "description_en": "The Free Software Media System - Server Backend & API",
+          "language": "C#",
+          "stars_total": 51163,
+          "stars_today": 41,
+          "description_zh": "自由软件媒体系统——服务端后端与API"
+        }
+      ]
+    },
+    {
       "date": "2026-05-04",
       "summary_zh": "今日GitHub热门项目聚焦AI代理与金融工具：多智能体编排框架、金融交易代理、Claude网页浏览SDK、终端编码助手及开源情报收集工具。",
       "projects": [
