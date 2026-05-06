@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-06",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：终端编程代理、金融研究、文档签署、网页抓取及面试学习计划，多领域自动化工具与开发效率提升成亮点。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编码代理（如终端工具、金融研究）、开源文档签署、本地化深度研究浏览器及Postgres后端平台，展现AI工具链与隐私优先趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/Hmbown/DeepSeek-TUI",
           "description_en": "Coding agent for DeepSeek models that runs in your terminal",
           "language": "Rust",
-          "stars_total": 10167,
-          "stars_today": 2434,
+          "stars_total": 12134,
+          "stars_today": 6184,
           "description_zh": "在终端中运行的 DeepSeek 模型编码代理"
         },
         {
@@ -20,149 +20,139 @@
           "url": "https://github.com/ruvnet/ruflo",
           "description_en": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
           "language": "TypeScript",
-          "stars_total": 44374,
-          "stars_today": 2432,
-          "description_zh": "🌊 领先的 Claude 代理编排平台。部署智能多代理集群、协调自主工作流、构建对话式 AI 系统。具备企业级架构、自学习集群智能、RAG 集成以及原生 Claude Code / Codex 集成"
+          "stars_total": 44770,
+          "stars_today": 2190,
+          "description_zh": "🌊 面向 Claude 的领先代理编排平台。部署智能多代理集群、协调自主工作流、构建对话式 AI 系统。具备企业级架构、自学习集群智能、RAG 集成以及原生 Claude Code / Codex 集成。"
         },
         {
           "rank": 3,
-          "name": "forrestchang/andrej-karpathy-skills",
-          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "language": "",
-          "stars_total": 115138,
-          "stars_today": 2409,
-          "description_zh": "一个用于改进 Claude Code 行为的单文件 CLAUDE.md，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
-        },
-        {
-          "rank": 4,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 94025,
-          "stars_today": 1218,
-          "description_zh": "触手可及的完整 AI 代理机构——从前端高手到 Reddit 社区忍者，从趣味注入者到现实检验者。每个代理都是拥有个性、流程和可交付成果的领域专家。"
-        },
-        {
-          "rank": 5,
-          "name": "docusealco/docuseal",
-          "url": "https://github.com/docusealco/docuseal",
-          "description_en": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-          "language": "Ruby",
-          "stars_total": 14244,
-          "stars_today": 927,
-          "description_zh": "开源的 DocuSign 替代方案。创建、填写和签署数字文档 ✍️"
-        },
-        {
-          "rank": 6,
           "name": "D4Vinci/Scrapling",
           "url": "https://github.com/D4Vinci/Scrapling",
           "description_en": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
           "language": "Python",
-          "stars_total": 45490,
+          "stars_total": 45808,
           "stars_today": 914,
-          "description_zh": "🕷️ 一个自适应的网页抓取框架，从单次请求到全量爬取无所不包！"
+          "description_zh": "🕷️ 一个自适应的网页抓取框架，能够处理从单次请求到全规模爬取的所有任务！"
         },
         {
-          "rank": 7,
-          "name": "AIDC-AI/Pixelle-Video",
-          "url": "https://github.com/AIDC-AI/Pixelle-Video",
-          "description_en": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-          "language": "Python",
-          "stars_total": 12320,
-          "stars_today": 691,
-          "description_zh": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+          "rank": 4,
+          "name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description_en": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "language": "Ruby",
+          "stars_total": 14483,
+          "stars_today": 772,
+          "description_zh": "开源的 DocuSign 替代方案。创建、填写和签署数字文档 ✍️"
         },
         {
-          "rank": 8,
+          "rank": 5,
           "name": "virattt/dexter",
           "url": "https://github.com/virattt/dexter",
           "description_en": "An autonomous agent for deep financial research",
           "language": "TypeScript",
-          "stars_total": 24028,
-          "stars_today": 659,
+          "stars_total": 24164,
+          "stars_today": 666,
           "description_zh": "用于深度金融研究的自主代理"
         },
         {
-          "rank": 9,
-          "name": "cocoindex-io/cocoindex",
-          "url": "https://github.com/cocoindex-io/cocoindex",
-          "description_en": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "rank": 6,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 29380,
+          "stars_today": 629,
+          "description_zh": "面向 AI 编码代理的生产级工程技能"
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description_en": "",
           "language": "Python",
-          "stars_total": 8533,
-          "stars_today": 438,
-          "description_zh": "面向长周期代理的增量引擎 🌟 喜欢就点个星吧！"
+          "stars_total": 8624,
+          "stars_today": 540,
+          "description_zh": ""
         },
         {
-          "rank": 10,
-          "name": "jwasham/coding-interview-university",
-          "url": "https://github.com/jwasham/coding-interview-university",
-          "description_en": "A complete computer science study plan to become a software engineer.",
-          "language": "",
-          "stars_total": 346060,
-          "stars_today": 366,
-          "description_zh": "成为软件工程师的完整计算机科学学习计划。"
-        },
-        {
-          "rank": 11,
-          "name": "bwya77/vscode-dark-islands",
-          "url": "https://github.com/bwya77/vscode-dark-islands",
-          "description_en": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-          "language": "PowerShell",
-          "stars_total": 8006,
-          "stars_today": 321,
-          "description_zh": "基于 easemate IDE 和 Jetbrains islands 主题的 VSCode 主题"
-        },
-        {
-          "rank": 12,
-          "name": "browserbase/skills",
-          "url": "https://github.com/browserbase/skills",
-          "description_en": "Claude Agent SDK with a web browsing tool",
-          "language": "JavaScript",
-          "stars_total": 2487,
-          "stars_today": 311,
-          "description_zh": "包含网页浏览工具的 Claude Agent SDK"
-        },
-        {
-          "rank": 13,
-          "name": "mksglu/context-mode",
-          "url": "https://github.com/mksglu/context-mode",
-          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-          "language": "TypeScript",
-          "stars_total": 13349,
-          "stars_today": 276,
-          "description_zh": "AI 编码代理的上下文窗口优化。沙箱化工具输出，减少 98%。支持 14 个平台"
-        },
-        {
-          "rank": 14,
-          "name": "Arindam200/awesome-ai-apps",
-          "url": "https://github.com/Arindam200/awesome-ai-apps",
-          "description_en": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
-          "language": "Python",
-          "stars_total": 11649,
-          "stars_today": 211,
-          "description_zh": "展示 RAG、代理、工作流及其他 AI 用例的项目合集"
-        },
-        {
-          "rank": 15,
+          "rank": 8,
           "name": "LearningCircuit/local-deep-research",
           "url": "https://github.com/LearningCircuit/local-deep-research",
           "description_en": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
           "language": "Python",
-          "stars_total": 5345,
-          "stars_today": 197,
-          "description_zh": "在 SimpleQA 上达到约 95% 准确率（例如 Qwen3.6-27B 在 3090 上）。支持所有本地和云端大语言模型（llama.cpp、Ollama、Google 等）。10+ 搜索引擎——arXiv、PubMed、你的私人文档。一切本地且加密。"
+          "stars_total": 5460,
+          "stars_today": 532,
+          "description_zh": "在 SimpleQA 上达到约 95% 的准确率（例如在 3090 上运行 Qwen3.6-27B）。支持所有本地和云端 LLM（llama.cpp、Ollama、Google 等）。集成 10 多种搜索引擎——arXiv、PubMed、您的私人文档。一切本地化且加密。"
         },
         {
-          "rank": 16,
+          "rank": 9,
+          "name": "bwya77/vscode-dark-islands",
+          "url": "https://github.com/bwya77/vscode-dark-islands",
+          "description_en": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+          "language": "PowerShell",
+          "stars_total": 8092,
+          "stars_today": 502,
+          "description_zh": "基于 easemate IDE 和 Jetbrains islands 主题的 VSCode 主题"
+        },
+        {
+          "rank": 10,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description_en": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars_total": 20251,
+          "stars_today": 344,
+          "description_zh": "可通过 API 访问的免费 LLM 推理资源列表。"
+        },
+        {
+          "rank": 11,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars_total": 65383,
+          "stars_today": 328,
+          "description_zh": "一个开源的长周期 SuperAgent 框架，能够进行研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，它能够处理从几分钟到几小时不等的各种任务。"
+        },
+        {
+          "rank": 12,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 23100,
+          "stars_today": 241,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 13,
           "name": "PriorLabs/TabPFN",
           "url": "https://github.com/PriorLabs/TabPFN",
           "description_en": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
           "language": "Python",
-          "stars_total": 6439,
-          "stars_today": 57,
+          "stars_total": 6488,
+          "stars_today": 218,
           "description_zh": "⚡ TabPFN：表格数据的基础模型 ⚡"
+        },
+        {
+          "rank": 14,
+          "name": "InsForge/InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "description_en": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+          "language": "TypeScript",
+          "stars_total": 8264,
+          "stars_today": 213,
+          "description_zh": "InsForge 是一个基于 Postgres 的后端，集成了认证、存储、计算、托管和 AI 网关。专为编码代理构建。"
+        },
+        {
+          "rank": 15,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description_en": "Truly independent web browser",
+          "language": "C++",
+          "stars_total": 62847,
+          "stars_today": 87,
+          "description_zh": "真正独立的网页浏览器"
         }
       ]
     },
