@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-07",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程代理、金融研究、文档签署及浏览器开发，涵盖终端工具、表格模型与本地化深度搜索。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程代理、金融研究、文档签署及本地化浏览器，涵盖终端工具、表格模型与多智能体编排平台。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/Hmbown/DeepSeek-TUI",
           "description_en": "Coding agent for DeepSeek models that runs in your terminal",
           "language": "Rust",
-          "stars_total": 14332,
+          "stars_total": 16402,
           "stars_today": 6175,
           "description_zh": "在终端中运行的 DeepSeek 模型编码代理"
         },
@@ -20,9 +20,9 @@
           "url": "https://github.com/ruvnet/ruflo",
           "description_en": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
           "language": "TypeScript",
-          "stars_total": 45311,
+          "stars_total": 45606,
           "stars_today": 2192,
-          "description_zh": "🌊 领先的 Claude 代理编排平台。部署智能多代理集群，协调自主工作流，构建对话式 AI 系统。具备企业级架构、自学习群体智能、RAG 集成以及原生 Claude Code / Codex 集成。"
+          "description_zh": "🌊 Claude 领先的代理编排平台。部署智能多代理集群、协调自主工作流、构建对话式 AI 系统。具备企业级架构、自学习集群智能、RAG 集成以及原生 Claude Code / Codex 集成。"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/D4Vinci/Scrapling",
           "description_en": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
           "language": "Python",
-          "stars_total": 46345,
+          "stars_total": 46703,
           "stars_today": 1125,
-          "description_zh": "🕷️ 一个自适应的网页抓取框架，能够处理从单次请求到全规模爬取的所有任务！"
+          "description_zh": "🕷️ 一个自适应的网页抓取框架，可处理从单次请求到全规模爬取的一切！"
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_total": 30682,
+          "stars_total": 31712,
           "stars_today": 800,
           "description_zh": "面向 AI 编码代理的生产级工程技能"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/docusealco/docuseal",
           "description_en": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
           "language": "Ruby",
-          "stars_total": 14928,
+          "stars_total": 15162,
           "stars_today": 774,
           "description_zh": "开源的 DocuSign 替代方案。创建、填写和签署数字文档 ✍️"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/virattt/dexter",
           "description_en": "An autonomous agent for deep financial research",
           "language": "TypeScript",
-          "stars_total": 24383,
+          "stars_total": 24547,
           "stars_today": 666,
           "description_zh": "用于深度金融研究的自主代理"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 9202,
+          "stars_total": 9545,
           "stars_today": 641,
           "description_zh": ""
         },
@@ -80,9 +80,9 @@
           "url": "https://github.com/LearningCircuit/local-deep-research",
           "description_en": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
           "language": "Python",
-          "stars_total": 5685,
+          "stars_total": 5874,
           "stars_today": 532,
-          "description_zh": "在 SimpleQA 上达到约 95% 准确率（例如在 3090 上运行 Qwen3.6-27B）。支持所有本地和云端大语言模型（llama.cpp、Ollama、Google 等）。集成 10 多种搜索引擎——arXiv、PubMed、您的私人文档。一切本地化且加密。"
+          "description_zh": "在 SimpleQA 上达到约 95% 准确率（例如 Qwen3.6-27B 在 3090 上）。支持所有本地和云端 LLM（llama.cpp、Ollama、Google 等）。10+ 搜索引擎——arXiv、PubMed、你的私人文档。一切本地化且加密。"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/bwya77/vscode-dark-islands",
           "description_en": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
           "language": "PowerShell",
-          "stars_total": 8222,
+          "stars_total": 8290,
           "stars_today": 503,
           "description_zh": "基于 easemate IDE 和 Jetbrains islands 主题的 VSCode 主题"
         },
@@ -100,9 +100,9 @@
           "url": "https://github.com/bytedance/deer-flow",
           "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
           "language": "Python",
-          "stars_total": 65563,
+          "stars_total": 65732,
           "stars_today": 337,
-          "description_zh": "一个开源的长周期超级代理框架，能够进行研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，它可以处理从几分钟到几小时不等的不同层次的任务。"
+          "description_zh": "一个开源的长周期 SuperAgent 框架，可进行研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，它能够处理从几分钟到数小时不等的各种任务。"
         },
         {
           "rank": 11,
@@ -110,7 +110,7 @@
           "url": "https://github.com/shiyu-coder/Kronos",
           "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
           "language": "Python",
-          "stars_total": 23215,
+          "stars_total": 23300,
           "stars_today": 234,
           "description_zh": "Kronos：金融市场语言的基础模型"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/InsForge/InsForge",
           "description_en": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
           "language": "TypeScript",
-          "stars_total": 8479,
+          "stars_total": 8609,
           "stars_today": 230,
           "description_zh": "InsForge 是一个基于 Postgres 的后端，集成了认证、存储、计算、托管和 AI 网关。专为编码代理构建。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/PriorLabs/TabPFN",
           "description_en": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
           "language": "Python",
-          "stars_total": 6594,
+          "stars_total": 6672,
           "stars_today": 218,
           "description_zh": "⚡ TabPFN：表格数据的基础模型 ⚡"
         },
@@ -140,9 +140,9 @@
           "url": "https://github.com/cheahjs/free-llm-api-resources",
           "description_en": "A list of free LLM inference resources accessible via API.",
           "language": "Python",
-          "stars_total": 20529,
+          "stars_total": 20727,
           "stars_today": 198,
-          "description_zh": "可通过 API 访问的免费大语言模型推理资源列表。"
+          "description_zh": "可通过 API 访问的免费 LLM 推理资源列表。"
         },
         {
           "rank": 15,
@@ -150,9 +150,19 @@
           "url": "https://github.com/LadybirdBrowser/ladybird",
           "description_en": "Truly independent web browser",
           "language": "C++",
-          "stars_total": 62996,
+          "stars_total": 63081,
           "stars_today": 113,
           "description_zh": "真正独立的网页浏览器"
+        },
+        {
+          "rank": 16,
+          "name": "BigBodyCobain/Shadowbroker",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "description_en": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+          "language": "Python",
+          "stars_total": 6019,
+          "stars_today": 42,
+          "description_zh": "面向全球舞台的开源情报。在一个统一界面中追踪从富豪的企业/私人飞机、间谍卫星到地震事件的一切。连接 AI 代理以解析数据并发现此前未见的相关性。知识对所有人开放，但此前很少公开聚合——直到现在。"
         }
       ]
     },
