@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-05-07",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程代理、金融研究、文档签署及浏览器开发，涵盖终端工具、表格模型与本地化深度搜索。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description_en": "Coding agent for DeepSeek models that runs in your terminal",
+          "language": "Rust",
+          "stars_total": 14332,
+          "stars_today": 6175,
+          "description_zh": "在终端中运行的 DeepSeek 模型编码代理"
+        },
+        {
+          "rank": 2,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description_en": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "language": "TypeScript",
+          "stars_total": 45311,
+          "stars_today": 2192,
+          "description_zh": "🌊 领先的 Claude 代理编排平台。部署智能多代理集群，协调自主工作流，构建对话式 AI 系统。具备企业级架构、自学习群体智能、RAG 集成以及原生 Claude Code / Codex 集成。"
+        },
+        {
+          "rank": 3,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description_en": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+          "language": "Python",
+          "stars_total": 46345,
+          "stars_today": 1125,
+          "description_zh": "🕷️ 一个自适应的网页抓取框架，能够处理从单次请求到全规模爬取的所有任务！"
+        },
+        {
+          "rank": 4,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 30682,
+          "stars_today": 800,
+          "description_zh": "面向 AI 编码代理的生产级工程技能"
+        },
+        {
+          "rank": 5,
+          "name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description_en": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "language": "Ruby",
+          "stars_total": 14928,
+          "stars_today": 774,
+          "description_zh": "开源的 DocuSign 替代方案。创建、填写和签署数字文档 ✍️"
+        },
+        {
+          "rank": 6,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description_en": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars_total": 24383,
+          "stars_today": 666,
+          "description_zh": "用于深度金融研究的自主代理"
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 9202,
+          "stars_today": 641,
+          "description_zh": ""
+        },
+        {
+          "rank": 8,
+          "name": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description_en": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+          "language": "Python",
+          "stars_total": 5685,
+          "stars_today": 532,
+          "description_zh": "在 SimpleQA 上达到约 95% 准确率（例如在 3090 上运行 Qwen3.6-27B）。支持所有本地和云端大语言模型（llama.cpp、Ollama、Google 等）。集成 10 多种搜索引擎——arXiv、PubMed、您的私人文档。一切本地化且加密。"
+        },
+        {
+          "rank": 9,
+          "name": "bwya77/vscode-dark-islands",
+          "url": "https://github.com/bwya77/vscode-dark-islands",
+          "description_en": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+          "language": "PowerShell",
+          "stars_total": 8222,
+          "stars_today": 503,
+          "description_zh": "基于 easemate IDE 和 Jetbrains islands 主题的 VSCode 主题"
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars_total": 65563,
+          "stars_today": 337,
+          "description_zh": "一个开源的长周期超级代理框架，能够进行研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，它可以处理从几分钟到几小时不等的不同层次的任务。"
+        },
+        {
+          "rank": 11,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 23215,
+          "stars_today": 234,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 12,
+          "name": "InsForge/InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "description_en": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+          "language": "TypeScript",
+          "stars_total": 8479,
+          "stars_today": 230,
+          "description_zh": "InsForge 是一个基于 Postgres 的后端，集成了认证、存储、计算、托管和 AI 网关。专为编码代理构建。"
+        },
+        {
+          "rank": 13,
+          "name": "PriorLabs/TabPFN",
+          "url": "https://github.com/PriorLabs/TabPFN",
+          "description_en": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "language": "Python",
+          "stars_total": 6594,
+          "stars_today": 218,
+          "description_zh": "⚡ TabPFN：表格数据的基础模型 ⚡"
+        },
+        {
+          "rank": 14,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description_en": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars_total": 20529,
+          "stars_today": 198,
+          "description_zh": "可通过 API 访问的免费大语言模型推理资源列表。"
+        },
+        {
+          "rank": 15,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description_en": "Truly independent web browser",
+          "language": "C++",
+          "stars_total": 62996,
+          "stars_today": 113,
+          "description_zh": "真正独立的网页浏览器"
+        }
+      ]
+    },
+    {
       "date": "2026-05-06",
       "summary_zh": "今日GitHub热门项目聚焦AI编程代理、文档签署、金融研究及浏览器，涵盖终端工具、表格模型与本地化部署，技术栈多元。",
       "projects": [
@@ -3511,142 +3667,6 @@
           "stars_total": 71811,
           "stars_today": 63,
           "description_zh": "Apache Superset是一个数据可视化与数据探索平台"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-29",
-      "summary_zh": "今日GitHub趋势以AI智能体开发为核心，Claude Code相关教程、多智能体协作框架及开发工具成为热点，同时开源语音AI、金融数据平台和实时换脸等实用项目也备受关注。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 122486,
-          "stars_today": 2229,
-          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论"
-        },
-        {
-          "rank": 2,
-          "name": "microsoft/VibeVoice",
-          "url": "https://github.com/microsoft/VibeVoice",
-          "description_en": "Open-Source Frontier Voice AI",
-          "language": "Python",
-          "stars_total": 26736,
-          "stars_today": 1190,
-          "description_zh": "开源前沿语音人工智能"
-        },
-        {
-          "rank": 3,
-          "name": "mvanhorn/last30days-skill",
-          "url": "https://github.com/mvanhorn/last30days-skill",
-          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-          "language": "Python",
-          "stars_total": 15108,
-          "stars_today": 1186,
-          "description_zh": "AI智能体技能：研究Reddit、X、YouTube、HN、Polymarket及网络上的任何主题，并生成基于事实的综合摘要"
-        },
-        {
-          "rank": 4,
-          "name": "Yeachan-Heo/oh-my-claudecode",
-          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-          "description_en": "Teams-first Multi-agent orchestration for Claude Code",
-          "language": "TypeScript",
-          "stars_total": 15773,
-          "stars_today": 1140,
-          "description_zh": "面向团队优先的Claude Code多智能体编排框架"
-        },
-        {
-          "rank": 5,
-          "name": "hacksider/Deep-Live-Cam",
-          "url": "https://github.com/hacksider/Deep-Live-Cam",
-          "description_en": "real time face swap and one-click video deepfake with only a single image",
-          "language": "Python",
-          "stars_total": 85072,
-          "stars_today": 1131,
-          "description_zh": "实时人脸替换与一键视频深度伪造，仅需单张图片"
-        },
-        {
-          "rank": 6,
-          "name": "luongnv89/claude-howto",
-          "url": "https://github.com/luongnv89/claude-howto",
-          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "language": "Python",
-          "stars_total": 5828,
-          "stars_today": 1121,
-          "description_zh": "一份可视化、示例驱动的Claude Code指南——从基础概念到高级智能体，提供可直接复制粘贴的模板，带来即时价值。"
-        },
-        {
-          "rank": 7,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 16296,
-          "stars_today": 997,
-          "description_zh": "与你共同成长的智能体"
-        },
-        {
-          "rank": 8,
-          "name": "shareAI-lab/learn-claude-code",
-          "url": "https://github.com/shareAI-lab/learn-claude-code",
-          "description_en": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-          "language": "TypeScript",
-          "stars_total": 42558,
-          "stars_today": 908,
-          "description_zh": "Bash即是全部所需——从零到一构建的纳米级Claude Code式「智能体驾驭框架」"
-        },
-        {
-          "rank": 9,
-          "name": "thedotmack/claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-          "language": "TypeScript",
-          "stars_total": 42361,
-          "stars_today": 464,
-          "description_zh": "Claude Code插件：自动记录编码会话中的所有操作，通过AI（使用Claude agent-sdk）进行压缩，并将相关上下文注入未来的会话中"
-        },
-        {
-          "rank": 10,
-          "name": "twentyhq/twenty",
-          "url": "https://github.com/twentyhq/twenty",
-          "description_en": "Building a modern alternative to Salesforce, powered by the community.",
-          "language": "TypeScript",
-          "stars_total": 42796,
-          "stars_today": 451,
-          "description_zh": "构建由社区驱动的Salesforce现代替代方案"
-        },
-        {
-          "rank": 11,
-          "name": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-          "language": "TypeScript",
-          "stars_total": 36274,
-          "stars_today": 213,
-          "description_zh": "💖🧸 自托管、用户所有的Grok伴侣，作为虚拟角色与数字生命的容器，将她们带入我们的世界，致力于达到Neuro-sama的高度。支持实时语音聊天、玩《我的世界》和《异星工厂》。兼容Web/macOS/Windows平台"
-        },
-        {
-          "rank": 12,
-          "name": "OpenBB-finance/OpenBB",
-          "url": "https://github.com/OpenBB-finance/OpenBB",
-          "description_en": "Financial data platform for analysts, quants and AI agents.",
-          "language": "Python",
-          "stars_total": 63914,
-          "stars_today": 113,
-          "description_zh": "面向分析师、量化交易员和AI智能体的金融数据平台"
-        },
-        {
-          "rank": 13,
-          "name": "fastfetch-cli/fastfetch",
-          "url": "https://github.com/fastfetch-cli/fastfetch",
-          "description_en": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-          "language": "C",
-          "stars_total": 21094,
-          "stars_today": 28,
-          "description_zh": "功能丰富、性能导向的系统信息工具（类似neofetch），持续维护更新"
         }
       ]
     }
