@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-05-08",
+      "summary_zh": "今日GitHub热门项目聚焦AI编码代理、本地化深度研究工具及开源文档签署方案，涵盖终端代理、Postgres后端、向量化RAG及免费多模型路由等亮点。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description_en": "Coding agent for DeepSeek models that runs in your terminal",
+          "language": "Rust",
+          "stars_total": 19119,
+          "stars_today": 5799,
+          "description_zh": "DeepSeek模型的编码代理，可在终端中运行"
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 33102,
+          "stars_today": 3062,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 11929,
+          "stars_today": 1343,
+          "description_zh": ""
+        },
+        {
+          "rank": 4,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars_total": 29606,
+          "stars_today": 943,
+          "description_zh": "📑 PageIndex：面向无向量、基于推理的RAG系统的文档索引"
+        },
+        {
+          "rank": 5,
+          "name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description_en": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "language": "Ruby",
+          "stars_total": 15661,
+          "stars_today": 900,
+          "description_zh": "开源的DocuSign替代方案。创建、填写和签署数字文档✍️"
+        },
+        {
+          "rank": 6,
+          "name": "z-lab/dflash",
+          "url": "https://github.com/z-lab/dflash",
+          "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "language": "Python",
+          "stars_total": 3522,
+          "stars_today": 671,
+          "description_zh": "DFlash：用于快速推测解码的块扩散方法"
+        },
+        {
+          "rank": 7,
+          "name": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description_en": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+          "language": "Python",
+          "stars_total": 6295,
+          "stars_today": 559,
+          "description_zh": "在SimpleQA上达到约95%准确率（例如Qwen3.6-27B在3090显卡上）。支持所有本地和云端大语言模型（llama.cpp、Ollama、Google等）。集成10+搜索引擎——arXiv、PubMed、私人文档。全程本地化且加密。"
+        },
+        {
+          "rank": 8,
+          "name": "InsForge/InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "description_en": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+          "language": "TypeScript",
+          "stars_total": 8887,
+          "stars_today": 460,
+          "description_zh": "InsForge是一个基于Postgres的后端平台，集成了认证、存储、计算、托管和AI网关，专为编码代理构建。"
+        },
+        {
+          "rank": 9,
+          "name": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "language": "Rust",
+          "stars_total": 44532,
+          "stars_today": 390,
+          "description_zh": "一个开源、可扩展的AI代理，超越代码建议——可安装、执行、编辑和测试，支持任何大语言模型"
+        },
+        {
+          "rank": 10,
+          "name": "Augani/openreel-video",
+          "url": "https://github.com/Augani/openreel-video",
+          "description_en": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+          "language": "TypeScript",
+          "stars_total": 1759,
+          "stars_today": 233,
+          "description_zh": "OpenReel Video——专业的浏览器端视频编辑器。开源的CapCut替代方案。100%基于浏览器，无需安装，无需云上传，无水印。"
+        },
+        {
+          "rank": 11,
+          "name": "PriorLabs/TabPFN",
+          "url": "https://github.com/PriorLabs/TabPFN",
+          "description_en": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "language": "Python",
+          "stars_total": 6799,
+          "stars_today": 230,
+          "description_zh": "⚡ TabPFN：表格数据的基础模型⚡"
+        },
+        {
+          "rank": 12,
+          "name": "decolua/9router",
+          "url": "https://github.com/decolua/9router",
+          "description_en": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "language": "JavaScript",
+          "stars_total": 4619,
+          "stars_today": 149,
+          "description_zh": "🆓 无限免费AI编码。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
+        },
+        {
+          "rank": 13,
+          "name": "vercel-labs/open-agents",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "description_en": "An open source template for building cloud agents.",
+          "language": "TypeScript",
+          "stars_total": 5065,
+          "stars_today": 131,
+          "description_zh": "用于构建云端代理的开源模板。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-07",
       "summary_zh": "今日GitHub热门项目聚焦AI编码代理、本地化推理与文档处理，涵盖终端工具、Postgres后端、免费路由及开源DocuSign替代方案。",
       "projects": [
@@ -3531,122 +3667,6 @@
           "stars_total": 97868,
           "stars_today": 95,
           "description_zh": "专注于可扩展性与可用性的Vim分支"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-30",
-      "summary_zh": "今日GitHub趋势以AI开发工具为主导，微软VibeVoice开源语音AI和多个Claude Code实践指南成为焦点，同时涵盖金融数据分析、免费编程课程、社交媒体搜索及系统信息工具等多元项目。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "luongnv89/claude-howto",
-          "url": "https://github.com/luongnv89/claude-howto",
-          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "language": "Python",
-          "stars_total": 9539,
-          "stars_today": 4150,
-          "description_zh": "一份可视化、示例驱动的Claude Code指南——从基础概念到高级智能体，提供可直接复制粘贴的模板，带来即时价值。"
-        },
-        {
-          "rank": 2,
-          "name": "microsoft/VibeVoice",
-          "url": "https://github.com/microsoft/VibeVoice",
-          "description_en": "Open-Source Frontier Voice AI",
-          "language": "Python",
-          "stars_total": 29490,
-          "stars_today": 2509,
-          "description_zh": "开源前沿语音人工智能"
-        },
-        {
-          "rank": 3,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 18194,
-          "stars_today": 1859,
-          "description_zh": "与你共同成长的智能体"
-        },
-        {
-          "rank": 4,
-          "name": "Yeachan-Heo/oh-my-claudecode",
-          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-          "description_en": "Teams-first Multi-agent orchestration for Claude Code",
-          "language": "TypeScript",
-          "stars_total": 17408,
-          "stars_today": 1785,
-          "description_zh": "面向团队优先的Claude Code多智能体编排框架"
-        },
-        {
-          "rank": 5,
-          "name": "shanraisshan/claude-code-best-practice",
-          "url": "https://github.com/shanraisshan/claude-code-best-practice",
-          "description_en": "practice made claude perfect",
-          "language": "HTML",
-          "stars_total": 25609,
-          "stars_today": 1342,
-          "description_zh": "实践成就Claude完美"
-        },
-        {
-          "rank": 6,
-          "name": "hacksider/Deep-Live-Cam",
-          "url": "https://github.com/hacksider/Deep-Live-Cam",
-          "description_en": "real time face swap and one-click video deepfake with only a single image",
-          "language": "Python",
-          "stars_total": 86187,
-          "stars_today": 1138,
-          "description_zh": "实时人脸替换与一键视频深度伪造，仅需单张图片"
-        },
-        {
-          "rank": 7,
-          "name": "OpenBB-finance/OpenBB",
-          "url": "https://github.com/OpenBB-finance/OpenBB",
-          "description_en": "Financial data platform for analysts, quants and AI agents.",
-          "language": "Python",
-          "stars_total": 64433,
-          "stars_today": 499,
-          "description_zh": "面向分析师、量化交易员与AI智能体的金融数据平台"
-        },
-        {
-          "rank": 8,
-          "name": "freeCodeCamp/freeCodeCamp",
-          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-          "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-          "language": "TypeScript",
-          "stars_total": 439599,
-          "stars_today": 376,
-          "description_zh": "freeCodeCamp.org的开源代码库与课程体系。免费学习数学、编程与计算机科学。"
-        },
-        {
-          "rank": 9,
-          "name": "fastfetch-cli/fastfetch",
-          "url": "https://github.com/fastfetch-cli/fastfetch",
-          "description_en": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-          "language": "C",
-          "stars_total": 21361,
-          "stars_today": 271,
-          "description_zh": "一个持续维护、功能丰富且注重性能的类neofetch系统信息工具"
-        },
-        {
-          "rank": 10,
-          "name": "sherlock-project/sherlock",
-          "url": "https://github.com/sherlock-project/sherlock",
-          "description_en": "Hunt down social media accounts by username across social networks",
-          "language": "Python",
-          "stars_total": 74536,
-          "stars_today": 68,
-          "description_zh": "通过用户名在社交网络中追踪社交媒体账户"
-        },
-        {
-          "rank": 11,
-          "name": "apache/superset",
-          "url": "https://github.com/apache/superset",
-          "description_en": "Apache Superset is a Data Visualization and Data Exploration Platform",
-          "language": "TypeScript",
-          "stars_total": 71811,
-          "stars_today": 63,
-          "description_zh": "Apache Superset是一个数据可视化与数据探索平台"
         }
       ]
     }

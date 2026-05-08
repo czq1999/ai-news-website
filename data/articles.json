@@ -1,5 +1,126 @@
 [
   {
+    "id": "bc47ce2988c167501ec8b26502cb4f21",
+    "title_en": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+    "published_at": "2026-05-08T01:42:14.000Z",
+    "fetched_at": "2026-05-08T02:08:26.851Z",
+    "title_zh": "马斯克诉奥特曼案证据揭示微软高管对OpenAI的真实看法",
+    "summary_zh": "在马斯克起诉奥特曼的法律纠纷中，新披露的证据显示了微软高管对OpenAI的内部评价。文件揭示了科技巨头之间复杂的合作与竞争关系，以及AI行业权力博弈的幕后细节。",
+    "category": "industry"
+  },
+  {
+    "id": "8660dbc3b4d9793cfd195cde1a403cd8",
+    "title_en": "OpenAI launches new voice intelligence features in its API",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "published_at": "2026-05-07T22:24:50.000Z",
+    "fetched_at": "2026-05-08T02:08:26.349Z",
+    "title_zh": "OpenAI在API中推出全新语音智能功能",
+    "summary_zh": "OpenAI在其API中新增了先进的语音智能特性，允许开发者构建更自然的语音交互应用。新功能包括更精准的语音识别、情感分析和多语言支持，旨在提升AI助手的对话体验。此举将进一步推动语音AI在客服、教育等领域的应用。",
+    "category": "product"
+  },
+  {
+    "id": "98aabe91a3646c064cd17a47f5cb6c99",
+    "title_en": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+    "published_at": "2026-05-07T21:37:20.000Z",
+    "fetched_at": "2026-05-08T02:08:26.851Z",
+    "title_zh": "特朗普转向AI监管、被DOGE解雇的工人竞选公职、汉坦病毒解析",
+    "summary_zh": "本期综合报道涵盖：特朗普在AI监管政策上的立场转变；一位被DOGE项目解雇的工人决定竞选公职；以及汉坦病毒爆发的科学解析。多领域动态折射出科技、政治与公共卫生的交织影响。",
+    "category": "industry"
+  },
+  {
+    "id": "28296e015cc21f27d9211c14833c1c96",
+    "title_en": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "published_at": "2026-05-07T21:29:27.000Z",
+    "fetched_at": "2026-05-08T02:08:26.536Z",
+    "title_zh": "Canvas平台遭攻击下线，ShinyHunters威胁泄露学校数据",
+    "summary_zh": "知名教育管理平台Canvas因黑客组织ShinyHunters攻击而宕机，该组织声称已窃取大量学校敏感数据并威胁公开。事件波及全球众多教育机构，引发对教育系统网络安全的广泛担忧。目前Canvas正紧急修复并调查。",
+    "category": "industry"
+  },
+  {
+    "id": "fd7638a89d317ab04353ffe8f77fc8cf",
+    "title_en": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "published_at": "2026-05-07T21:02:11.000Z",
+    "fetched_at": "2026-05-08T02:08:26.349Z",
+    "title_zh": "Voi创始人新AI初创公司Pit成为斯德哥尔摩新星",
+    "summary_zh": "电动滑板车公司Voi的创始人创立了AI初创公司Pit，迅速成为斯德哥尔摩科技圈的新宠。Pit专注于利用AI优化城市物流与交通，已获得知名风投关注。其创新模式有望重塑城市配送效率，标志着北欧AI创业生态的活力。",
+    "category": "industry"
+  },
+  {
+    "id": "b6dfce6265fcc6f8cb87a21963a15656",
+    "title_en": "How to Disable Google's Gemini in Chrome",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+    "published_at": "2026-05-07T20:31:57.000Z",
+    "fetched_at": "2026-05-08T02:08:26.851Z",
+    "title_zh": "如何在Chrome中禁用谷歌Gemini",
+    "summary_zh": "谷歌将AI助手Gemini集成至Chrome浏览器，引发用户对隐私和自主控制的担忧。本文提供详细步骤指导用户如何在Chrome设置中关闭Gemini功能，帮助用户平衡AI便利与个人数据安全。",
+    "category": "product"
+  },
+  {
+    "id": "78b9d253c0d2ad25d889f17eaa8d7748",
+    "title_en": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "published_at": "2026-05-07T20:20:20.000Z",
+    "fetched_at": "2026-05-08T02:08:26.349Z",
+    "title_zh": "OpenAI推出“可信联系人”机制防范自残风险",
+    "summary_zh": "OpenAI引入了一项名为“可信联系人”的安全保障功能，当用户在与AI交互中表现出自残或自杀倾向时，系统可主动通知其预设的紧急联系人。此举旨在平衡AI开放性与用户心理健康保护，是AI伦理安全领域的重要尝试。",
+    "category": "product"
+  },
+  {
+    "id": "c158587de2a00b66bac03b9edac63304",
+    "title_en": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "published_at": "2026-05-07T19:57:59.000Z",
+    "fetched_at": "2026-05-08T02:08:26.349Z",
+    "title_zh": "Perplexity个人电脑应用现已面向所有Mac用户开放",
+    "summary_zh": "AI搜索公司Perplexity将其个人电脑助手应用正式推送给所有Mac用户。该应用集成深度搜索、文档分析及实时信息整合功能，旨在打造桌面端AI工作流中枢。此举标志着Perplexity从网页端向桌面生态的扩张。",
+    "category": "product"
+  },
+  {
+    "id": "5cb0197e266dbe9c89f7229f28d94a42",
+    "title_en": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+    "published_at": "2026-05-07T19:55:22.000Z",
+    "fetched_at": "2026-05-08T02:08:26.536Z",
+    "title_zh": "Mira Murati证词揭露Sam Altman被罢免内幕",
+    "summary_zh": "前OpenAI首席技术官Mira Murati在法庭证词中详细披露了CEO Sam Altman被董事会突然罢免的幕后细节，包括内部权力斗争与决策分歧。该证词为外界理解OpenAI高层动荡提供了关键视角，也引发对AI公司治理结构的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "408a70be651013791f9737ecaa4ceff2",
+    "title_en": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+    "published_at": "2026-05-07T19:39:22.000Z",
+    "fetched_at": "2026-05-08T02:08:26.536Z",
+    "title_zh": "苹果带摄像头AirPods即将量产，专为AI功能设计",
+    "summary_zh": "据供应链消息，苹果配备摄像头的AirPods已接近量产阶段。该设备将集成摄像头以支持空间音频、手势控制及AI视觉识别功能，可能成为苹果AI生态的重要入口。此举标志着可穿戴设备向多模态交互迈出关键一步。",
+    "category": "product"
+  },
+  {
+    "id": "7509b8b49231c59e7f62bdf4da65ca46",
+    "title_en": "Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global Crisis",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/",
+    "published_at": "2026-05-07T19:36:46.000Z",
+    "fetched_at": "2026-05-08T02:08:26.851Z",
+    "title_zh": "为何邮轮汉坦病毒爆发不太可能演变为全球危机",
+    "summary_zh": "近期邮轮上出现汉坦病毒病例引发关注，但专家分析指出，该病毒传播方式有限且现代卫生体系可有效控制，不太可能成为全球性公共卫生危机。文章解释了病毒特性与防控措施。",
+    "category": "industry"
+  },
+  {
     "id": "a4f7e22e914221fa86182680b5c72186",
     "title_en": "SpaceX has a $55 billion plan to build AI chips in Texas",
     "source": "The Verge",
@@ -20,6 +141,17 @@
     "title_zh": "马斯克诉讼将OpenAI安全记录置于聚光灯下",
     "summary_zh": "马斯克对OpenAI的诉讼引发行业关注，焦点在于OpenAI的安全记录是否经得起审视。该案可能揭示AI公司在快速发展中如何平衡安全与创新，对AI治理和行业透明度产生深远影响。",
     "category": "industry"
+  },
+  {
+    "id": "9fc187e8a48db24bd611482716399fb2",
+    "title_en": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "published_at": "2026-05-07T19:18:16.000Z",
+    "fetched_at": "2026-05-08T02:08:26.685Z",
+    "title_zh": "Mozilla称Mythos发现的271个漏洞“几乎无误报”",
+    "summary_zh": "Mozilla宣布其内部安全工具Mythos成功检测出271个安全漏洞，且误报率极低。这些漏洞涉及浏览器、扩展及底层库，Mythos的高精度表现展示了AI在自动化漏洞挖掘中的潜力，有望重塑软件安全测试流程。",
+    "category": "research"
   },
   {
     "id": "7e91dc3be4fb2397a589433cafc33073",
@@ -515,6 +647,105 @@
     "title_zh": "AT&T促销码与套餐优惠：五月可省50美元",
     "summary_zh": "AT&T在五月推出限时促销活动，用户使用指定优惠码可享受最高50美元的套餐折扣。活动涵盖家庭宽带、移动套餐等多项服务，是消费者升级网络服务的好时机。",
     "category": "product"
+  },
+  {
+    "id": "4b17873cc17816cc17bb09ab16566815",
+    "title_en": "‘Shame!: Utah Residents Livid After Shark Tank Billionaire’s Data Center Approved",
+    "source": "Crooksandliars.com",
+    "url": "https://crooksandliars.com/2026/05/shame-utah-residents-livid-after-shark",
+    "published_at": "2026-05-07T02:00:01Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "“可耻！”：犹他州居民怒批鲨鱼坦克亿万富翁的数据中心获批",
+    "summary_zh": "犹他州居民强烈抗议当地政府批准一位《鲨鱼坦克》亿万富翁建设大型数据中心，担心其带来巨大能耗、水资源消耗和环境破坏。该项目虽承诺创造就业，但社区认为利益分配不公且缺乏透明度。此事件凸显了科技基础设施建设与地方社区权益之间的尖锐矛盾。",
+    "category": "industry"
+  },
+  {
+    "id": "3c1ad4b11f38438c789911475d1bb8e6",
+    "title_en": "Deeptech bets heat up; Paytm, PB Fintech, Meesho earnings",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/deeptech-bets-heat-up-paytm-pb-fintech-meesho-earnings/articleshow/130875215.cms",
+    "published_at": "2026-05-07T01:44:36Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "深度科技投资升温；Paytm、PB Fintech、Meesho财报发布",
+    "summary_zh": "印度科技投资风向转变，深度科技领域获得更多资本关注，同时Paytm、PB Fintech和Meesho等知名公司相继发布最新财报。市场正从消费互联网转向硬核技术创业，投资者对AI、量子计算等前沿领域兴趣浓厚。财报表现将检验这些公司在新周期中的盈利能力和战略调整成效。",
+    "category": "industry"
+  },
+  {
+    "id": "1bd6590bf85bff815013d8cb8ca72f4d",
+    "title_en": "Brazil women beat Chile on penalties, reach South American U17 final",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/brazil-women-beat-chile-on-penalties-reach-south-american-u17-final-42825874",
+    "published_at": "2026-05-07T01:34:00Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "巴西女足点球击败智利，晋级南美U17决赛",
+    "summary_zh": "在2025年南美U17女足锦标赛半决赛中，巴西队与智利队鏖战120分钟战平，最终通过点球大战胜出，成功晋级决赛。巴西女足展现了强大的心理素质和战术执行力，继续捍卫其南美青少年女足霸主地位。决赛中她们将向冠军发起冲击。",
+    "category": "industry"
+  },
+  {
+    "id": "d35e924489c4182d5a602fab399e612b",
+    "title_en": "Is Claude conscious? No. But it’s not surprising AI chatbots feel conscious to us",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/is-claude-conscious-no-but-its-not-surprising-ai-chatbots-feel-conscious-to-us-282151",
+    "published_at": "2026-05-07T01:30:37Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "Claude有意识吗？没有。但AI聊天机器人让我们感觉有意识并不奇怪",
+    "summary_zh": "文章探讨了为何用户会感觉Claude等AI聊天机器人似乎具有意识。尽管技术上AI远未达到真正的意识，但其流畅的对话能力和拟人化设计极易触发人类的“心智化”本能。作者认为这种错觉源于人类大脑的社会认知机制，而非AI本身具备任何主观体验。",
+    "category": "research"
+  },
+  {
+    "id": "cc2897e7f893d67d7d20bc16e16e9d37",
+    "title_en": "Is Richard Dawkins right about Claude? No. But it’s not surprising AI chatbots feel conscious to us",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/is-richard-dawkins-right-about-claude-no-but-its-not-surprising-ai-chatbots-feel-conscious-to-us-282151",
+    "published_at": "2026-05-07T01:30:37Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "理查德·道金斯对Claude的看法对吗？不对。但AI聊天机器人让我们感觉有意识并不奇怪",
+    "summary_zh": "针对理查德·道金斯关于Claude可能具有意识的观点，本文提出反驳。作者认为道金斯误解了AI的工作原理，但承认AI对话系统确实容易让人产生“有意识”的错觉。文章从认知科学角度解释，这种感受源于人类对语言交互的本能反应，而非AI具备真正的意识或理解能力。",
+    "category": "research"
+  },
+  {
+    "id": "83ca1f7c9acc82f88bb2f084d3dd44e3",
+    "title_en": "Pattern Group Bets AI Will Reshape Online Product Discovery",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/news/ecommerce/2026/pattern-group-bets-ai-will-reshape-online-product-discovery/",
+    "published_at": "2026-05-07T01:21:17Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "Pattern Group押注AI将重塑在线产品发现方式",
+    "summary_zh": "Pattern Group宣布将大力投资AI技术，以改变消费者在线发现和探索产品的方式。该公司计划利用机器学习、自然语言处理和个性化推荐算法，打造更智能的购物体验，帮助用户在海量商品中快速找到所需。此举反映了电商行业从“搜索驱动”向“AI发现驱动”转型的趋势。",
+    "category": "industry"
+  },
+  {
+    "id": "950478c71fab645bead762d766a0324c",
+    "title_en": " Toluca v LAFC line-ups are in",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/toluca-v-lafc-line-ups-are-in-42825863",
+    "published_at": "2026-05-07T01:18:00Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "托卢卡vs洛杉矶FC首发阵容公布",
+    "summary_zh": "中北美及加勒比海地区赛事托卢卡对阵洛杉矶FC的首发阵容已正式公布。双方均派出最强阵容，托卢卡主场作战志在必得，而洛杉矶FC则希望延续近期良好状态。比赛看点包括两队核心球员的对位以及战术博弈，预计将是一场激烈的较量。",
+    "category": "industry"
+  },
+  {
+    "id": "f1e12bb6a37c1db78d55683b9307a190",
+    "title_en": "Anthropic is letting Claude agents ‘dream’ so they don’t sleep on the job",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/05/06/anthropic-letting-claude-agents-dream-dont-sleep-job/",
+    "published_at": "2026-05-07T01:16:51Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "Anthropic让Claude代理“做梦”以防止任务中断",
+    "summary_zh": "Anthropic为其Claude AI代理引入了一项创新机制：允许代理在空闲时进行“梦境”式后台处理，以保持上下文连贯性和任务状态更新。这一设计旨在解决AI代理在长时间任务中可能出现的“休眠”或遗忘问题，确保其能持续高效工作。该技术有望提升AI代理在复杂工作流中的可靠性。",
+    "category": "research"
+  },
+  {
+    "id": "f1eebdf114b8baf51d51c76cf3ea966c",
+    "title_en": "An Adaptive Cyber Analytics UI for Web Honeypot Logs [Guest Diary], (Wed, May 6th)",
+    "source": "Sans.edu",
+    "url": "https://isc.sans.edu/diary/32962",
+    "published_at": "2026-05-07T01:08:00Z",
+    "fetched_at": "2026-05-08T02:08:27.535Z",
+    "title_zh": "自适应网络蜜罐日志分析UI设计[访客日记]",
+    "summary_zh": "本文介绍了一种针对Web蜜罐日志的自适应网络安全分析用户界面设计。该UI能够根据日志数据的特征和攻击模式动态调整展示方式，帮助安全分析师更高效地识别异常行为和潜在威胁。设计强调灵活性和可扩展性，适用于不同规模的蜜罐部署环境，是网络安全可视化领域的一次实用创新。",
+    "category": "research"
   },
   {
     "id": "f2594370a05d2db3d57e52b739f6e85d",
@@ -5266,237 +5497,6 @@
     "fetched_at": "2026-05-02T01:55:07.343Z",
     "title_zh": "下一个阿尔茨海默症突破需要的不仅仅是科学",
     "summary_zh": "文章指出，尽管阿尔茨海默症研究取得进展，但真正突破还需解决科学之外的多重挑战：高昂的研发成本、漫长的临床试验周期、患者招募困难，以及医保覆盖和公众认知问题。作者呼吁建立跨学科合作机制，整合政策、资金和社会资源，才能将实验室成果转化为可及的治疗方案。",
-    "category": "research"
-  },
-  {
-    "id": "623f8314b1e7367c4f3a5ba77c0de9c1",
-    "title_en": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
-    "published_at": "2026-05-01T18:42:24.000Z",
-    "fetched_at": "2026-05-01T18:58:39.680Z",
-    "title_zh": "Birdfy智能鸟喂食器母亲节降至历史最低价",
-    "summary_zh": "Birdfy推出智能鸟喂食器，配备摄像头和AI识别功能，可自动识别鸟类种类并推送通知。母亲节促销期间价格降至历史新低，适合作为科技礼品。产品支持远程观看和分享，深受鸟类爱好者欢迎。",
-    "category": "product"
-  },
-  {
-    "id": "bfa3012875e35cb2be3e9cdcd675ec08",
-    "title_en": "Doctors Use AI to Spot 'Hidden' Sperm In Men",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/366374/doctors-ai-hidden-sperm-men-study",
-    "published_at": "2026-05-01T18:39:04Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "医生利用AI识别男性体内“隐藏”精子",
-    "summary_zh": "研究人员开发了一种AI系统，能够通过分析医学影像，在男性体内检测到传统方法难以发现的“隐藏”精子。该技术有望帮助无精症患者找到可用于辅助生殖的精子，为不孕不育治疗带来突破性进展。",
-    "category": "research"
-  },
-  {
-    "id": "d77f0e2a30d86c3eb975e2b113d9a2ec",
-    "title_en": "Meta acquires robotics AI company to help build humanoid technology",
-    "source": "Financial Post",
-    "url": "https://financialpost.com/technology/meta-acquires-robotics-ai-company",
-    "published_at": "2026-05-01T18:37:23Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "Meta收购机器人AI公司，加速人形机器人技术布局",
-    "summary_zh": "Meta宣布收购一家专注于机器人技术的AI初创公司，旨在推动其通用人形机器人研发。此举标志着Meta从虚拟现实向物理世界AI应用的重要拓展，未来或与特斯拉Optimus等产品展开竞争。收购细节未披露，但业界普遍看好其在具身智能领域的战略意义。",
-    "category": "industry"
-  },
-  {
-    "id": "6359622fe130abd787dac3a276ec4937",
-    "title_en": "Legendary hacker brings eGPU compatibility to M-Series Macs",
-    "source": "Boing Boing",
-    "url": "https://boingboing.net/2026/05/01/legendary-hacker-brings-egpu-compatibility-to-m-series-macs.html",
-    "published_at": "2026-05-01T18:36:07Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "传奇黑客让M系列Mac终于支持外接显卡",
-    "summary_zh": "知名黑客成功破解苹果M系列Mac的硬件限制，通过定制驱动和接口方案实现了eGPU（外接显卡）兼容性。这一突破让Mac用户得以大幅提升图形性能，尤其利好视频剪辑、3D渲染等专业场景。目前方案仍处于实验阶段，但已引发开发者社区广泛关注。",
-    "category": "research"
-  },
-  {
-    "id": "389faea726a4032dfe064cd212244554",
-    "title_en": "Oscars organization expands international film eligibility, addresses AI in new rules",
-    "source": "Abcnews.com",
-    "url": "https://abcnews.com/Entertainment/wireStory/oscars-organization-expands-international-film-eligibility-addresses-ai-132580723",
-    "published_at": "2026-05-01T18:28:22Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "奥斯卡主办方更新规则：扩大国际影片资格，明确AI使用规范",
-    "summary_zh": "美国电影艺术与科学学院宣布修订奥斯卡奖评选规则，首次对人工智能在电影制作中的角色作出明确界定。新规要求使用AI生成内容需显著披露，同时放宽国际影片的申报条件。此举旨在平衡技术创新与艺术原创性，引发影视行业对AI伦理的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "46ce9e5ce0650feda5ee563dd05ba799",
-    "title_en": "Google Releases, Pulls COSMO AI App From Google Play",
-    "source": "Droid Life",
-    "url": "https://www.droid-life.com/2026/05/01/google-cosmo-ai-app/",
-    "published_at": "2026-05-01T18:16:12Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "谷歌COSMO AI应用上架后紧急下架",
-    "summary_zh": "谷歌在Google Play悄然上架名为COSMO的AI应用，随后又迅速将其移除。该应用据称提供个性化AI助手功能，但下架原因未明。外界猜测可能与数据隐私合规或功能未达预期有关。谷歌暂未回应，开发者社区对这款神秘应用充满好奇。",
-    "category": "product"
-  },
-  {
-    "id": "e87a83d910edd92f6770843cc60c9719",
-    "title_en": "What Is the Jell-O Diet? Kathy Hilton Says She Got Duped by AI Scam Featuring Oprah and Dr. Oz",
-    "source": "TODAY",
-    "url": "https://www.today.com/health/diet-fitness/kathy-hilton-jell-o-diet-ai-oprah-dr-oz-rcna343113",
-    "published_at": "2026-05-01T18:13:40Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "果冻饮食减肥法？Kathy Hilton称遭AI诈骗：假冒奥普拉和Dr. Oz",
-    "summary_zh": "真人秀明星Kathy Hilton公开表示被一则AI生成的虚假广告欺骗，该广告利用深度伪造技术伪造奥普拉和Dr. Oz的形象，推销所谓的“果冻饮食”减肥法。她呼吁公众警惕AI诈骗，并强调名人代言需经核实。事件再次引发对AI虚假信息传播的担忧。",
-    "category": "industry"
-  },
-  {
-    "id": "6f4cc21e383b04a6c72d9b1fdd3383bc",
-    "title_en": "️ For May Day: football history's greatest grafters",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/for-may-day-football-historys-greatest-grafters-42799024",
-    "published_at": "2026-05-01T18:13:00Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "五一特辑：足球史上最伟大的“工兵”球员",
-    "summary_zh": "本文盘点足球历史上那些默默奉献、以防守和拼抢著称的“工兵型”球员。从加图索到马克莱莱，这些球员虽不常占据头条，却是球队不可或缺的基石。文章以劳动节为契机，致敬那些在绿茵场上辛勤耕耘的无名英雄。",
-    "category": "industry"
-  },
-  {
-    "id": "bd7da8dcb54924fd4ae30f9e1ad29f49",
-    "title_en": "What in the World?",
-    "source": "Foreign Policy",
-    "url": "http://foreignpolicy.com/2026/05/01/news-quiz-iran-war-hormuz-uae-opec-colombia-conference-mali-russia/",
-    "published_at": "2026-05-01T18:10:49Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "这个世界怎么了？",
-    "summary_zh": "一篇探讨当前全球地缘政治与经济乱象的评论文章，分析大国博弈、供应链重组及气候变化等复杂议题。作者以“What in the World?”为题，反思国际秩序面临的挑战，并呼吁多边合作应对共同危机。内容尖锐，引发读者对全球化未来的思考。",
-    "category": "industry"
-  },
-  {
-    "id": "f5b26b1b86e4a54a6cf051e3863c3799",
-    "title_en": "Why are US stock markets rising despite oil? #world",
-    "source": "Alltoc.com",
-    "url": "https://alltoc.com/world/why-are-us-stock-markets-rising-despite-oil",
-    "published_at": "2026-05-01T18:04:17Z",
-    "fetched_at": "2026-05-02T18:44:07.449Z",
-    "title_zh": "无视油价飙升，美股为何逆势上涨？",
-    "summary_zh": "尽管国际油价持续走高，美国股市却表现出强劲韧性。分析认为，这主要得益于科技股财报超预期、美联储降息预期升温以及经济数据向好。投资者对通胀的担忧被企业盈利增长所抵消，市场情绪乐观。但分析师警告地缘风险仍存变数。",
-    "category": "industry"
-  },
-  {
-    "id": "134a912d85ecf0b038ee1ae62d895f8d",
-    "title_en": "Amazon&#8217;s built-in AI price history expands to show the entire last year",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
-    "published_at": "2026-05-01T17:55:22.000Z",
-    "fetched_at": "2026-05-01T18:58:39.680Z",
-    "title_zh": "亚马逊内置AI价格历史功能扩展至显示全年数据",
-    "summary_zh": "亚马逊升级其AI驱动的价格追踪功能，现在可展示过去一整年的商品价格波动曲线。用户能更直观地判断最佳购买时机，避免被虚假折扣误导。该功能基于机器学习分析历史数据，提升购物透明度。",
-    "category": "product"
-  },
-  {
-    "id": "01bbeabc6e4afcf6b8af38993dfb671d",
-    "title_en": "Dreame — the vacuum company — just ‘launched’ its own phones",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
-    "published_at": "2026-05-01T17:55:08.000Z",
-    "fetched_at": "2026-05-01T18:58:39.681Z",
-    "title_zh": "扫地机器人公司追觅“发布”自有品牌手机",
-    "summary_zh": "以扫地机器人闻名的追觅科技跨界推出智能手机，引发行业关注。新手机主打高性能与AI集成，可能搭载自研清洁算法。此举显示智能家居企业向移动终端扩展的趋势，但市场前景尚待观察。",
-    "category": "product"
-  },
-  {
-    "id": "f15b72a01048fe273d7afd7a39b83555",
-    "title_en": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-    "published_at": "2026-05-01T17:44:29.000Z",
-    "fetched_at": "2026-05-01T18:58:39.570Z",
-    "title_zh": "你知道吗？慈善机构不能“偷”。别担心，马斯克会提醒你的。",
-    "summary_zh": "埃隆·马斯克再次发声，就慈善机构相关事宜发表评论。文章探讨了马斯克对慈善行为的独特看法，以及他如何利用自身影响力提醒公众关于慈善的道德和法律边界。这一话题引发了科技界和慈善界的广泛讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "c8f34512fcd406f7a0ddabb8a5add7ed",
-    "title_en": "This accessory can snap a Steam Controller to your phone — or almost anything else",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
-    "published_at": "2026-05-01T17:00:00.000Z",
-    "fetched_at": "2026-05-01T18:58:39.681Z",
-    "title_zh": "这款配件可将Steam手柄固定在手机或任何物品上",
-    "summary_zh": "一款创新配件让Steam手柄能轻松夹在手机、平板甚至其他物体上，极大扩展了游戏场景。设计兼容多种设备，采用可调节夹具，适合移动游戏玩家。该产品解决了手柄携带不便的痛点。",
-    "category": "product"
-  },
-  {
-    "id": "17a19a5c81e0d5129c27bbff95ec6f69",
-    "title_en": "Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217;",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets",
-    "published_at": "2026-05-01T16:57:27.000Z",
-    "fetched_at": "2026-05-01T18:58:39.681Z",
-    "title_zh": "NBA、NFL和MLB球员呼吁禁止投注“小分”",
-    "summary_zh": "来自美国三大体育联盟的球员联合发声，要求禁止对比赛“小分”（如总得分低于某数值）进行投注。他们认为这类赌注容易引发操纵比赛嫌疑，损害体育公平性。此举反映了运动员对博彩渗透体育的担忧。",
-    "category": "industry"
-  },
-  {
-    "id": "047cf013bbfa6cee8b7b233fc54c7eef",
-    "title_en": "Severe Linux Copy Fail security flaw uncovered using AI scanning help",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
-    "published_at": "2026-05-01T16:55:16.000Z",
-    "fetched_at": "2026-05-01T18:58:39.681Z",
-    "title_zh": "AI扫描助力发现严重Linux Copy Fail安全漏洞",
-    "summary_zh": "研究人员利用AI辅助扫描技术，发现Linux系统中一个名为“Copy Fail”的严重安全漏洞。该漏洞可能允许攻击者绕过内存保护机制，影响大量服务器和嵌入式设备。AI在漏洞挖掘中的高效性引发关注。",
-    "category": "research"
-  },
-  {
-    "id": "71e8c406d95d07cb2ab8c3e53740527c",
-    "title_en": "The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/",
-    "published_at": "2026-05-01T16:49:22.000Z",
-    "fetched_at": "2026-05-01T18:58:40.241Z",
-    "title_zh": "中国政府取消全球最大数字权利会议",
-    "summary_zh": "据Wired报道，中国官方取消了原定举行的全球最大数字权利会议。此举引发业界对数字权利与言论自由边界的广泛讨论，凸显AI时代下数据治理与监管的复杂博弈。",
-    "category": "industry"
-  },
-  {
-    "id": "0d5b5812e714fbd6602fe090963c6a1f",
-    "title_en": "Dreame’s rocket-powered car can do 0–60 in 0.9 seconds because you can just say things now",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/921204/dreame-ev-car-rocket-boosted-zero-sixty-reality",
-    "published_at": "2026-05-01T16:33:46.000Z",
-    "fetched_at": "2026-05-01T18:58:39.681Z",
-    "title_zh": "追觅火箭动力车0-60英里加速仅0.9秒：现在什么都能说",
-    "summary_zh": "追觅科技展示一款概念火箭动力汽车，宣称百公里加速仅需0.9秒，引发热议。虽然技术可行性存疑，但此举凸显了企业营销的创意边界。文章调侃了当前科技公司“只要敢说就能上头条”的现象。",
-    "category": "product"
-  },
-  {
-    "id": "cc97c299e434614382f187bb7679969a",
-    "title_en": "We just got a new reason to believe the Trump phone is real(ish)",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile",
-    "published_at": "2026-05-01T16:28:39.000Z",
-    "fetched_at": "2026-05-01T18:58:39.681Z",
-    "title_zh": "又有新证据表明“特朗普手机”可能真实存在",
-    "summary_zh": "最新线索显示，传闻中特朗普定制的加密手机可能并非虚构。该设备据称具备高度安全性，专为政治人物设计。新证据包括供应链文件和测试记录，但官方尚未确认。此事引发对政要通信安全的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "f9eee99f5f6567b6f2c84608ce0c388d",
-    "title_en": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "published_at": "2026-05-01T16:02:36.000Z",
-    "fetched_at": "2026-05-01T18:58:39.571Z",
-    "title_zh": "五角大楼与英伟达、微软和AWS签约，在机密网络上部署AI",
-    "summary_zh": "美国国防部与英伟达、微软及亚马逊AWS达成协议，计划在机密网络上部署人工智能技术。此举旨在提升国防系统的智能化水平，同时确保数据安全。合作将涉及AI模型训练、边缘计算及云端部署，标志着军事AI应用进入新阶段。",
-    "category": "industry"
-  },
-  {
-    "id": "6100f49737ffff44ff99ce54bafe521c",
-    "title_en": "Cyber-Insecurity in the AI Era",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-    "published_at": "2026-05-01T15:54:01.000Z",
-    "fetched_at": "2026-05-01T18:58:40.380Z",
-    "title_zh": "AI时代的网络安全危机",
-    "summary_zh": "MIT Tech Review指出，AI技术普及加剧了网络安全隐患，包括深度伪造、自动化攻击等新型威胁。文章呼吁加强AI安全框架建设，平衡创新与风险管控。",
     "category": "research"
   }
 ]
