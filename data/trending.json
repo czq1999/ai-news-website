@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-08",
-      "summary_zh": "今日GitHub热门项目聚焦AI编码代理、本地化深度研究工具及开源文档签署方案，涵盖终端代理、Postgres后端、向量化RAG及免费多模型路由等亮点。",
+      "summary_zh": "GitHub今日热门项目聚焦AI编码代理、本地化深度研究及文档处理，涵盖终端工具、RAG索引、开源DocuSign替代方案等，强调高效、免费与隐私保护。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/Hmbown/DeepSeek-TUI",
           "description_en": "Coding agent for DeepSeek models that runs in your terminal",
           "language": "Rust",
-          "stars_total": 19119,
+          "stars_total": 20219,
           "stars_today": 5799,
-          "description_zh": "DeepSeek模型的编码代理，可在终端中运行"
+          "description_zh": "在终端中运行的DeepSeek模型编码代理"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_total": 33102,
+          "stars_total": 33501,
           "stars_today": 3062,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 11929,
+          "stars_total": 12702,
           "stars_today": 1343,
           "description_zh": ""
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/VectifyAI/PageIndex",
           "description_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
           "language": "Python",
-          "stars_total": 29606,
+          "stars_total": 29818,
           "stars_today": 943,
           "description_zh": "📑 PageIndex：面向无向量、基于推理的RAG系统的文档索引"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/docusealco/docuseal",
           "description_en": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
           "language": "Ruby",
-          "stars_total": 15661,
+          "stars_total": 15767,
           "stars_today": 900,
-          "description_zh": "开源的DocuSign替代方案。创建、填写和签署数字文档✍️"
+          "description_zh": "开源的DocuSign替代方案。创建、填写和签署数字文档 ✍️"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/z-lab/dflash",
           "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
           "language": "Python",
-          "stars_total": 3522,
+          "stars_total": 3599,
           "stars_today": 671,
-          "description_zh": "DFlash：用于快速推测解码的块扩散方法"
+          "description_zh": "DFlash：用于快速推测性解码的块扩散技术"
         },
         {
           "rank": 7,
@@ -70,19 +70,19 @@
           "url": "https://github.com/LearningCircuit/local-deep-research",
           "description_en": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
           "language": "Python",
-          "stars_total": 6295,
+          "stars_total": 6438,
           "stars_today": 559,
-          "description_zh": "在SimpleQA上达到约95%准确率（例如Qwen3.6-27B在3090显卡上）。支持所有本地和云端大语言模型（llama.cpp、Ollama、Google等）。集成10+搜索引擎——arXiv、PubMed、私人文档。全程本地化且加密。"
+          "description_zh": "在SimpleQA上达到约95%准确率（例如在3090上运行Qwen3.6-27B）。支持所有本地和云端大语言模型（llama.cpp、Ollama、Google等）。集成10+搜索引擎——arXiv、PubMed、您的私有文档。一切本地化且加密。"
         },
         {
           "rank": 8,
           "name": "InsForge/InsForge",
           "url": "https://github.com/InsForge/InsForge",
-          "description_en": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+          "description_en": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
           "language": "TypeScript",
-          "stars_total": 8887,
+          "stars_total": 8968,
           "stars_today": 460,
-          "description_zh": "InsForge是一个基于Postgres的后端平台，集成了认证、存储、计算、托管和AI网关，专为编码代理构建。"
+          "description_zh": "面向智能编码代理的全能开源后端平台。InsForge为您的编码代理提供数据库、认证、存储、计算、托管和AI网关，助您端到端交付全栈应用。"
         },
         {
           "rank": 9,
@@ -90,47 +90,37 @@
           "url": "https://github.com/aaif-goose/goose",
           "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
           "language": "Rust",
-          "stars_total": 44532,
+          "stars_total": 44628,
           "stars_today": 390,
           "description_zh": "一个开源、可扩展的AI代理，超越代码建议——可安装、执行、编辑和测试，支持任何大语言模型"
         },
         {
           "rank": 10,
-          "name": "Augani/openreel-video",
-          "url": "https://github.com/Augani/openreel-video",
-          "description_en": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
-          "language": "TypeScript",
-          "stars_total": 1759,
-          "stars_today": 233,
-          "description_zh": "OpenReel Video——专业的浏览器端视频编辑器。开源的CapCut替代方案。100%基于浏览器，无需安装，无需云上传，无水印。"
-        },
-        {
-          "rank": 11,
           "name": "PriorLabs/TabPFN",
           "url": "https://github.com/PriorLabs/TabPFN",
           "description_en": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
           "language": "Python",
-          "stars_total": 6799,
+          "stars_total": 6842,
           "stars_today": 230,
-          "description_zh": "⚡ TabPFN：表格数据的基础模型⚡"
+          "description_zh": "⚡ TabPFN：表格数据的基础模型 ⚡"
+        },
+        {
+          "rank": 11,
+          "name": "decolua/9router",
+          "url": "https://github.com/decolua/9router",
+          "description_en": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "language": "JavaScript",
+          "stars_total": 4895,
+          "stars_today": 149,
+          "description_zh": "🇻🇳 无限免费AI编程。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动故障转移，RTK减少40%令牌消耗，永不触及限制。"
         },
         {
           "rank": 12,
-          "name": "decolua/9router",
-          "url": "https://github.com/decolua/9router",
-          "description_en": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-          "language": "JavaScript",
-          "stars_total": 4619,
-          "stars_today": 149,
-          "description_zh": "🆓 无限免费AI编码。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
-        },
-        {
-          "rank": 13,
           "name": "vercel-labs/open-agents",
           "url": "https://github.com/vercel-labs/open-agents",
           "description_en": "An open source template for building cloud agents.",
           "language": "TypeScript",
-          "stars_total": 5065,
+          "stars_total": 5146,
           "stars_today": 131,
           "description_zh": "用于构建云端代理的开源模板。"
         }
