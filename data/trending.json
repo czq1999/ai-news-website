@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-09",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态，涵盖金融、开发工具、持久记忆及3D编辑，多款开源教程助力零基础入门大模型与编程。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态，涵盖金融、开发工具、记忆系统及零基础编程教程，同时涌现3D编辑与DNS隧道等创新工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 16683,
-          "stars_today": 3660,
+          "stars_total": 17079,
+          "stars_today": 3077,
           "description_zh": ""
         },
         {
@@ -20,69 +20,69 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_total": 36876,
-          "stars_today": 1893,
+          "stars_total": 37200,
+          "stars_today": 2801,
           "description_zh": "面向AI编码智能体的生产级工程技能"
         },
         {
           "rank": 3,
-          "name": "decolua/9router",
-          "url": "https://github.com/decolua/9router",
-          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-          "language": "JavaScript",
-          "stars_total": 6147,
-          "stars_today": 1052,
-          "description_zh": "无限免费AI编码。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制"
-        },
-        {
-          "rank": 4,
-          "name": "bytedance/UI-TARS-desktop",
-          "url": "https://github.com/bytedance/UI-TARS-desktop",
-          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-          "language": "TypeScript",
-          "stars_total": 31108,
-          "stars_today": 850,
-          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
-        },
-        {
-          "rank": 5,
           "name": "datawhalechina/hello-agents",
           "url": "https://github.com/datawhalechina/hello-agents",
           "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
           "language": "Python",
-          "stars_total": 45400,
-          "stars_today": 667,
+          "stars_total": 45604,
+          "stars_today": 1162,
           "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "name": "decolua/9router",
+          "url": "https://github.com/decolua/9router",
+          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "language": "JavaScript",
+          "stars_total": 6357,
+          "stars_today": 980,
+          "description_zh": "无限免费AI编码。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制"
+        },
+        {
+          "rank": 5,
           "name": "masterking32/MasterDnsVPN",
           "url": "https://github.com/masterking32/MasterDnsVPN",
           "description_en": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
           "language": "Go",
-          "stars_total": 2136,
+          "stars_total": 2379,
           "stars_today": 595,
           "description_zh": "高级DNS隧道VPN，用于绕过审查，在DNSTT和SlipStream基础上优化，具备低开销ARQ、解析器负载均衡、高丢包稳定性与速度"
         },
         {
-          "rank": 7,
-          "name": "playcanvas/supersplat",
-          "url": "https://github.com/playcanvas/supersplat",
-          "description_en": "3D Gaussian Splat Editor",
+          "rank": 6,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
           "language": "TypeScript",
-          "stars_total": 6001,
-          "stars_today": 513,
-          "description_zh": "3D高斯泼溅编辑器"
+          "stars_total": 31282,
+          "stars_today": 549,
+          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "rohitg00/agentmemory",
           "url": "https://github.com/rohitg00/agentmemory",
           "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
           "language": "TypeScript",
-          "stars_total": 3085,
-          "stars_today": 400,
-          "description_zh": "基于真实世界基准测试的AI编码智能体持久化内存方案"
+          "stars_total": 3285,
+          "stars_today": 518,
+          "description_zh": "基于真实世界基准测试的AI编码智能体持久化记忆方案"
+        },
+        {
+          "rank": 8,
+          "name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description_en": "3D Gaussian Splat Editor",
+          "language": "TypeScript",
+          "stars_total": 6157,
+          "stars_today": 513,
+          "description_zh": "3D高斯泼溅编辑器"
         },
         {
           "rank": 9,
@@ -90,9 +90,9 @@
           "url": "https://github.com/datawhalechina/easy-vibe",
           "description_en": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
           "language": "JavaScript",
-          "stars_total": 8218,
+          "stars_total": 8411,
           "stars_today": 294,
-          "description_zh": "💻 vibe coding 2026 | 面向初学者的首个现代编程课程，助你循序渐进掌握编程技能"
+          "description_zh": "💻 vibe coding 2026 | 面向初学者的现代编程入门课程，助你循序渐进掌握编程技能"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/Lordog/dive-into-llms",
           "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
           "language": "Jupyter Notebook",
-          "stars_total": 36394,
+          "stars_total": 36449,
           "stars_today": 189,
           "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
@@ -110,8 +110,8 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 38632,
-          "stars_today": 145,
+          "stars_total": 38738,
+          "stars_today": 159,
           "description_zh": "面向编码智能体的Chrome开发者工具"
         },
         {
@@ -120,9 +120,9 @@
           "url": "https://github.com/rowboatlabs/rowboat",
           "description_en": "Open-source AI coworker, with memory",
           "language": "TypeScript",
-          "stars_total": 13562,
+          "stars_total": 13680,
           "stars_today": 144,
-          "description_zh": "开源AI同事，具备记忆功能"
+          "description_zh": "开源AI同事，具备记忆能力"
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
           "description_en": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
           "language": "Jupyter Notebook",
-          "stars_total": 661,
+          "stars_total": 742,
           "stars_today": 142,
           "description_zh": "面向AI开发者的技术资源，用于使用Oracle AI数据库和OCI服务构建应用、智能体和系统"
         }
