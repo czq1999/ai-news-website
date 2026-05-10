@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-10",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态，涵盖金融、多模态、持久记忆、开发工具及3D编辑，同时包含DNS隧道与LLM教程，展现AI工具链与学习资源多元化趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态，涵盖金融、开发工具、记忆系统及入门教程，同时涌现3D编辑、DNS隧道等创新工具，开源与实用并重。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 17457,
+          "stars_total": 17831,
           "stars_today": 3281,
           "description_zh": ""
         },
@@ -20,9 +20,9 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_total": 37425,
+          "stars_total": 37706,
           "stars_today": 3009,
-          "description_zh": "面向AI编码智能体的生产级工程技能。"
+          "description_zh": "面向AI编码智能体的生产级工程技能"
         },
         {
           "rank": 3,
@@ -30,7 +30,7 @@
           "url": "https://github.com/datawhalechina/hello-agents",
           "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
           "language": "Python",
-          "stars_total": 45717,
+          "stars_total": 45934,
           "stars_today": 1197,
           "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
         },
@@ -40,9 +40,9 @@
           "url": "https://github.com/decolua/9router",
           "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
           "language": "JavaScript",
-          "stars_total": 6536,
+          "stars_total": 6759,
           "stars_today": 1031,
-          "description_zh": "无限免费AI编码。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK节省40%令牌，永不触及限制。"
+          "description_zh": "无限免费AI编码。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
         },
         {
           "rank": 5,
@@ -50,9 +50,9 @@
           "url": "https://github.com/masterking32/MasterDnsVPN",
           "description_en": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
           "language": "Go",
-          "stars_total": 2553,
+          "stars_total": 2684,
           "stars_today": 597,
-          "description_zh": "高级DNS隧道VPN，用于绕过审查，超越DNSTT和SlipStream，具备低开销ARQ、解析器负载均衡、高丢包稳定性及速度优化。"
+          "description_zh": "高级DNS隧道VPN，用于绕过审查，超越DNSTT和SlipStream，具备低开销ARQ、解析器负载均衡、高丢包稳定性与速度优化。"
         },
         {
           "rank": 6,
@@ -60,7 +60,7 @@
           "url": "https://github.com/bytedance/UI-TARS-desktop",
           "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
           "language": "TypeScript",
-          "stars_total": 31444,
+          "stars_total": 31622,
           "stars_today": 552,
           "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
         },
@@ -70,9 +70,9 @@
           "url": "https://github.com/rohitg00/agentmemory",
           "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
           "language": "TypeScript",
-          "stars_total": 3465,
+          "stars_total": 3684,
           "stars_today": 533,
-          "description_zh": "#1 基于真实世界基准的AI编码智能体持久化记忆"
+          "description_zh": "基于真实世界基准测试的AI编码智能体持久化记忆方案（排名第一）"
         },
         {
           "rank": 8,
@@ -80,7 +80,7 @@
           "url": "https://github.com/playcanvas/supersplat",
           "description_en": "3D Gaussian Splat Editor",
           "language": "TypeScript",
-          "stars_total": 6331,
+          "stars_total": 6457,
           "stars_today": 514,
           "description_zh": "3D高斯泼溅编辑器"
         },
@@ -90,9 +90,9 @@
           "url": "https://github.com/datawhalechina/easy-vibe",
           "description_en": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
           "language": "JavaScript",
-          "stars_total": 8555,
+          "stars_total": 8719,
           "stars_today": 294,
-          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，适合初学者逐步掌握。"
+          "description_zh": "💻 vibe coding 2026 | 面向初学者的首个现代编程课程，助你循序渐进掌握编程技能。"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/Lordog/dive-into-llms",
           "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
           "language": "Jupyter Notebook",
-          "stars_total": 36490,
+          "stars_total": 36633,
           "stars_today": 160,
           "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/rowboatlabs/rowboat",
           "description_en": "Open-source AI coworker, with memory",
           "language": "TypeScript",
-          "stars_total": 13801,
+          "stars_total": 13899,
           "stars_today": 144,
           "description_zh": "开源AI同事，具备记忆功能"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 38841,
+          "stars_total": 38950,
           "stars_today": 107,
           "description_zh": "面向编码智能体的Chrome开发者工具"
         },
@@ -130,9 +130,9 @@
           "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
           "description_en": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
           "language": "Jupyter Notebook",
-          "stars_total": 812,
+          "stars_total": 901,
           "stars_today": 90,
-          "description_zh": "面向AI开发者的技术资源，用于使用Oracle AI数据库和OCI服务构建应用、智能体和系统。"
+          "description_zh": "面向AI开发者的技术资源，用于使用Oracle AI数据库和OCI服务构建应用、智能体和系统"
         }
       ]
     },
