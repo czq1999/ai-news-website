@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-10",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理技术：字节跳动开源多模态代理栈、金融与编程技能代理、全自动交易代理，以及反检测浏览器、DNS隧道VPN等工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理技术：多模态代理栈、金融交易代理、自进化代理及生产级编码技能，同时涵盖隐身浏览器、3D高斯编辑与免费AI编程工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,109 +10,109 @@
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 18120,
+          "stars_total": 18538,
           "stars_today": 1479,
           "description_zh": ""
         },
         {
           "rank": 2,
-          "name": "CloakHQ/CloakBrowser",
-          "url": "https://github.com/CloakHQ/CloakBrowser",
-          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-          "language": "Python",
-          "stars_total": 4209,
-          "stars_today": 1167,
-          "description_zh": "隐形Chromium浏览器，通过所有机器人检测测试。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
-        },
-        {
-          "rank": 3,
           "name": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_total": 37928,
+          "stars_total": 38199,
           "stars_today": 1092,
-          "description_zh": "面向AI编码智能体的生产级工程技能"
+          "description_zh": "面向AI编码智能体的生产级工程技能。"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "affaan-m/everything-claude-code",
           "url": "https://github.com/affaan-m/everything-claude-code",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 177379,
+          "stars_total": 177850,
           "stars_today": 1011,
-          "description_zh": "智能体工具链性能优化系统。面向Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全与研究优先开发。"
+          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全及研究优先的开发支持。"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "decolua/9router",
           "url": "https://github.com/decolua/9router",
           "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
           "language": "JavaScript",
-          "stars_total": 6933,
+          "stars_total": 7140,
           "stars_today": 806,
-          "description_zh": "无限免费AI编程。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK减少40%令牌消耗，永不触及限制。"
+          "description_zh": "无限免费AI编程。通过40多个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK节省40% token，永不触及限制。"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "datawhalechina/hello-agents",
           "url": "https://github.com/datawhalechina/hello-agents",
           "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
           "language": "Python",
-          "stars_total": 46137,
+          "stars_total": 46367,
           "stars_today": 756,
           "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
         },
         {
-          "rank": 7,
-          "name": "masterking32/MasterDnsVPN",
-          "url": "https://github.com/masterking32/MasterDnsVPN",
-          "description_en": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-          "language": "Go",
-          "stars_total": 2809,
-          "stars_today": 694,
-          "description_zh": "高级DNS隧道VPN，用于绕过审查，超越DNSTT和SlipStream，具备低开销ARQ、解析器负载均衡、高丢包稳定性和速度优化。"
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "name": "bytedance/UI-TARS-desktop",
           "url": "https://github.com/bytedance/UI-TARS-desktop",
           "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
           "language": "TypeScript",
-          "stars_total": 31771,
+          "stars_total": 31965,
           "stars_today": 656,
           "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
         },
         {
-          "rank": 9,
-          "name": "HKUDS/AI-Trader",
-          "url": "https://github.com/HKUDS/AI-Trader",
-          "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-          "language": "Python",
-          "stars_total": 15204,
-          "stars_today": 646,
-          "description_zh": "AI-Trader：100%全自动智能体原生交易系统"
-        },
-        {
-          "rank": 10,
+          "rank": 7,
           "name": "datawhalechina/easy-vibe",
           "url": "https://github.com/datawhalechina/easy-vibe",
-          "description_en": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+          "description_en": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
           "language": "JavaScript",
-          "stars_total": 8847,
+          "stars_total": 9013,
           "stars_today": 642,
-          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，适合初学者循序渐进掌握编程。"
+          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，面向初学者逐步掌握。"
         },
         {
-          "rank": 11,
+          "rank": 8,
           "name": "playcanvas/supersplat",
           "url": "https://github.com/playcanvas/supersplat",
           "description_en": "3D Gaussian Splat Editor",
           "language": "TypeScript",
-          "stars_total": 6562,
+          "stars_total": 6699,
           "stars_today": 604,
           "description_zh": "3D高斯泼溅编辑器"
+        },
+        {
+          "rank": 9,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "language": "Python",
+          "stars_total": 4486,
+          "stars_today": 567,
+          "description_zh": "隐形Chromium浏览器，可绕过所有机器人检测。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "language": "Python",
+          "stars_total": 15403,
+          "stars_today": 255,
+          "description_zh": "“AI-Trader：100%全自动智能体原生交易”"
+        },
+        {
+          "rank": 11,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "language": "Python",
+          "stars_total": 13193,
+          "stars_today": 187,
+          "description_zh": "面向Apple Silicon的LLM推理服务器，支持连续批处理与SSD缓存——通过macOS菜单栏管理"
         },
         {
           "rank": 12,
@@ -120,19 +120,9 @@
           "url": "https://github.com/lsdefine/GenericAgent",
           "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
           "language": "Python",
-          "stars_total": 10384,
-          "stars_today": 538,
-          "description_zh": "自我进化智能体：从3300行种子代码生长技能树，以6倍更少的令牌消耗实现完整系统控制"
-        },
-        {
-          "rank": 13,
-          "name": "jundot/omlx",
-          "url": "https://github.com/jundot/omlx",
-          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-          "language": "Python",
-          "stars_total": 13098,
-          "stars_today": 187,
-          "description_zh": "支持连续批处理与SSD缓存的LLM推理服务器，专为Apple Silicon设计——通过macOS菜单栏管理"
+          "stars_total": 10459,
+          "stars_today": 170,
+          "description_zh": "自我进化智能体：从3300行种子代码生长出技能树，以6倍更少的token消耗实现完整系统控制"
         }
       ]
     },
