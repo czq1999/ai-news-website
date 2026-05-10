@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-05-10",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态，涵盖金融、多模态、持久记忆、开发工具及3D编辑，同时包含DNS隧道与LLM教程，展现AI工具链与学习资源多元化趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 17457,
+          "stars_today": 3281,
+          "description_zh": ""
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 37425,
+          "stars_today": 3009,
+          "description_zh": "面向AI编码智能体的生产级工程技能。"
+        },
+        {
+          "rank": 3,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars_total": 45717,
+          "stars_today": 1197,
+          "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+        },
+        {
+          "rank": 4,
+          "name": "decolua/9router",
+          "url": "https://github.com/decolua/9router",
+          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "language": "JavaScript",
+          "stars_total": 6536,
+          "stars_today": 1031,
+          "description_zh": "无限免费AI编码。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK节省40%令牌，永不触及限制。"
+        },
+        {
+          "rank": 5,
+          "name": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "description_en": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+          "language": "Go",
+          "stars_total": 2553,
+          "stars_today": 597,
+          "description_zh": "高级DNS隧道VPN，用于绕过审查，超越DNSTT和SlipStream，具备低开销ARQ、解析器负载均衡、高丢包稳定性及速度优化。"
+        },
+        {
+          "rank": 6,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars_total": 31444,
+          "stars_today": 552,
+          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
+        },
+        {
+          "rank": 7,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars_total": 3465,
+          "stars_today": 533,
+          "description_zh": "#1 基于真实世界基准的AI编码智能体持久化记忆"
+        },
+        {
+          "rank": 8,
+          "name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description_en": "3D Gaussian Splat Editor",
+          "language": "TypeScript",
+          "stars_total": 6331,
+          "stars_today": 514,
+          "description_zh": "3D高斯泼溅编辑器"
+        },
+        {
+          "rank": 9,
+          "name": "datawhalechina/easy-vibe",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "description_en": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+          "language": "JavaScript",
+          "stars_total": 8555,
+          "stars_today": 294,
+          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，适合初学者逐步掌握。"
+        },
+        {
+          "rank": 10,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars_total": 36490,
+          "stars_today": 160,
+          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
+        },
+        {
+          "rank": 11,
+          "name": "rowboatlabs/rowboat",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description_en": "Open-source AI coworker, with memory",
+          "language": "TypeScript",
+          "stars_total": 13801,
+          "stars_today": 144,
+          "description_zh": "开源AI同事，具备记忆功能"
+        },
+        {
+          "rank": 12,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 38841,
+          "stars_today": 107,
+          "description_zh": "面向编码智能体的Chrome开发者工具"
+        },
+        {
+          "rank": 13,
+          "name": "oracle-devrel/oracle-ai-developer-hub",
+          "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+          "description_en": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+          "language": "Jupyter Notebook",
+          "stars_total": 812,
+          "stars_today": 90,
+          "description_zh": "面向AI开发者的技术资源，用于使用Oracle AI数据库和OCI服务构建应用、智能体和系统。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-09",
       "summary_zh": "今日GitHub热门项目聚焦AI智能体生态，涵盖金融、开发工具、记忆系统及零基础编程教程，同时涌现3D编辑与DNS隧道等创新工具。",
       "projects": [
@@ -3571,82 +3707,6 @@
           "stars_total": 36082,
           "stars_today": 323,
           "description_zh": "提取自 ChatGPT（GPT-5.4、GPT-5.3、Codex）、Claude（Opus 4.6、Sonnet 4.6、Claude Code）、Gemini（3.1 Pro、3 Flash、CLI）、Grok（4.2、4）、Perplexity 等模型的系统提示词。定期更新。"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-01",
-      "summary_zh": "今日GitHub趋势以AI编程工具为核心，Claude Code和Codex等终端智能助手突出，结合微软开源语音AI、谷歌时序预测模型，以及社区Prompt分享平台，展现AI赋能开发与协作的强劲势头。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "Shell",
-          "stars_total": 99351,
-          "stars_today": 10087,
-          "description_zh": "Claude Code 是一款智能编码助手，常驻您的终端，理解您的代码库，并通过自然语言命令执行常规任务、解释复杂代码、处理 Git 工作流，从而帮助您更快地编码。"
-        },
-        {
-          "rank": 2,
-          "name": "luongnv89/claude-howto",
-          "url": "https://github.com/luongnv89/claude-howto",
-          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "language": "Python",
-          "stars_total": 15265,
-          "stars_today": 3336,
-          "description_zh": "一份关于 Claude Code 的视觉化、示例驱动的指南——从基础概念到高级智能体，提供可复制粘贴的模板，带来即时价值。"
-        },
-        {
-          "rank": 3,
-          "name": "openai/codex",
-          "url": "https://github.com/openai/codex",
-          "description_en": "Lightweight coding agent that runs in your terminal",
-          "language": "Rust",
-          "stars_total": 71496,
-          "stars_today": 2345,
-          "description_zh": "在终端中运行的轻量级编码智能体"
-        },
-        {
-          "rank": 4,
-          "name": "microsoft/VibeVoice",
-          "url": "https://github.com/microsoft/VibeVoice",
-          "description_en": "Open-Source Frontier Voice AI",
-          "language": "Python",
-          "stars_total": 34254,
-          "stars_today": 1704,
-          "description_zh": "开源前沿语音人工智能"
-        },
-        {
-          "rank": 5,
-          "name": "f/prompts.chat",
-          "url": "https://github.com/f/prompts.chat",
-          "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-          "language": "HTML",
-          "stars_total": 155842,
-          "stars_today": 442,
-          "description_zh": "前身为 Awesome ChatGPT Prompts。分享、发现和收集社区提供的提示词。免费开源——可为您的组织自托管，确保完全隐私。"
-        },
-        {
-          "rank": 6,
-          "name": "google-research/timesfm",
-          "url": "https://github.com/google-research/timesfm",
-          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-          "language": "Python",
-          "stars_total": 11850,
-          "stars_today": 358,
-          "description_zh": "TimesFM（时间序列基础模型）是由 Google Research 开发的预训练时间序列基础模型，用于时间序列预测。"
-        },
-        {
-          "rank": 7,
-          "name": "axios/axios",
-          "url": "https://github.com/axios/axios",
-          "description_en": "Promise based HTTP client for the browser and node.js",
-          "language": "JavaScript",
-          "stars_total": 108829,
-          "stars_today": 88,
-          "description_zh": "基于 Promise 的 HTTP 客户端，适用于浏览器和 Node.js"
         }
       ]
     }
