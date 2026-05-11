@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-11",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理技术，涵盖金融交易、浏览器隐身、编程助手及3D编辑，多模态与自动化趋势显著。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理技术，涵盖金融交易、编程助手、浏览器隐身及3D编辑，多模态与自动化趋势显著。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 18950,
+          "stars_total": 19585,
           "stars_today": 1449,
           "description_zh": ""
         },
@@ -20,9 +20,9 @@
           "url": "https://github.com/affaan-m/everything-claude-code",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 178318,
+          "stars_total": 178847,
           "stars_today": 1081,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全及研究优先的开发支持。"
+          "description_zh": "智能体工具性能优化系统。面向Claude Code、Codex、Opencode、Cursor及更多平台的技能、直觉、记忆、安全与研究优先开发。"
         },
         {
           "rank": 3,
@@ -30,7 +30,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_total": 38525,
+          "stars_total": 39025,
           "stars_today": 1065,
           "description_zh": "面向AI编码智能体的生产级工程技能。"
         },
@@ -40,9 +40,9 @@
           "url": "https://github.com/decolua/9router",
           "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
           "language": "JavaScript",
-          "stars_total": 7349,
+          "stars_total": 7680,
           "stars_today": 803,
-          "description_zh": "无限免费AI编程。连接Claude Code、Codex、Cursor、Cline、Copilot、Antigravity至免费Claude/GPT/Gemini，支持40+提供商。自动回退，RTK减少40% Token，永不触及限制。"
+          "description_zh": "无限免费AI编程。连接Claude Code、Codex、Cursor、Cline、Copilot、Antigravity至40+提供商的免费Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
         },
         {
           "rank": 5,
@@ -50,7 +50,7 @@
           "url": "https://github.com/datawhalechina/hello-agents",
           "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
           "language": "Python",
-          "stars_total": 46608,
+          "stars_total": 47171,
           "stars_today": 748,
           "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/bytedance/UI-TARS-desktop",
           "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
           "language": "TypeScript",
-          "stars_total": 32200,
+          "stars_total": 32568,
           "stars_today": 669,
           "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/datawhalechina/easy-vibe",
           "description_en": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
           "language": "JavaScript",
-          "stars_total": 9223,
+          "stars_total": 9509,
           "stars_today": 635,
           "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，面向初学者逐步掌握。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/playcanvas/supersplat",
           "description_en": "3D Gaussian Splat Editor",
           "language": "TypeScript",
-          "stars_total": 6852,
+          "stars_total": 7015,
           "stars_today": 579,
           "description_zh": "3D高斯泼溅编辑器"
         },
@@ -90,9 +90,9 @@
           "url": "https://github.com/CloakHQ/CloakBrowser",
           "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
           "language": "Python",
-          "stars_total": 4827,
+          "stars_total": 5263,
           "stars_today": 496,
-          "description_zh": "隐形Chromium浏览器，可绕过所有机器人检测。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
+          "description_zh": "隐形Chromium浏览器，能通过所有机器人检测测试。即插即用的Playwright替代品，具备源码级指纹修复。30/30测试全部通过。"
         },
         {
           "rank": 10,
@@ -100,9 +100,9 @@
           "url": "https://github.com/jundot/omlx",
           "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
           "language": "Python",
-          "stars_total": 13331,
+          "stars_total": 13485,
           "stars_today": 185,
-          "description_zh": "支持连续批处理与SSD缓存的LLM推理服务器，专为Apple Silicon设计——可通过macOS菜单栏管理。"
+          "description_zh": "面向Apple Silicon的LLM推理服务器，支持连续批处理与SSD缓存——通过macOS菜单栏管理。"
         },
         {
           "rank": 11,
@@ -110,9 +110,9 @@
           "url": "https://github.com/lsdefine/GenericAgent",
           "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
           "language": "Python",
-          "stars_total": 10550,
+          "stars_total": 10750,
           "stars_today": 174,
-          "description_zh": "自我进化智能体：从3300行种子代码生长出技能树，以6倍更少的Token消耗实现完整系统控制。"
+          "description_zh": "自我进化智能体：从3300行种子代码生长出技能树，以6倍更少的令牌消耗实现全系统控制。"
         },
         {
           "rank": 12,
@@ -120,7 +120,7 @@
           "url": "https://github.com/HKUDS/AI-Trader",
           "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
           "language": "Python",
-          "stars_total": 15621,
+          "stars_total": 15933,
           "stars_today": 163,
           "description_zh": "“AI-Trader：100%全自动智能体原生交易”"
         }
