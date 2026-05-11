@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-11",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理工具链、隐私浏览器、3D编辑与LLM学习，涵盖多模态AI、无限制编程、React优化及Stable Diffusion界面。",
+      "summary_zh": "今日GitHub热门项目聚焦AI工具链：多模态智能体、免费AI编程、隐私AI助手，以及3D高斯泼溅编辑和Stable Diffusion WebUI等实用工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 144002,
-          "stars_today": 1496,
+          "stars_total": 144465,
+          "stars_today": 2229,
           "description_zh": "与你一同成长的智能体"
         },
         {
@@ -20,7 +20,7 @@
           "url": "https://github.com/CloakHQ/CloakBrowser",
           "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
           "language": "Python",
-          "stars_total": 5653,
+          "stars_total": 5916,
           "stars_today": 1325,
           "description_zh": "隐形Chromium浏览器，通过所有机器人检测测试。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/bytedance/UI-TARS-desktop",
           "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
           "language": "TypeScript",
-          "stars_total": 32776,
+          "stars_total": 32900,
           "stars_today": 956,
           "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/decolua/9router",
           "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
           "language": "JavaScript",
-          "stars_total": 7948,
+          "stars_total": 8162,
           "stars_today": 942,
           "description_zh": "无限免费AI编程。通过40多个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/datawhalechina/easy-vibe",
           "description_en": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
           "language": "JavaScript",
-          "stars_total": 9691,
+          "stars_total": 9802,
           "stars_today": 808,
-          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，面向初学者，循序渐进掌握编程。"
+          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，让初学者一步步掌握。"
         },
         {
           "rank": 6,
@@ -60,69 +60,69 @@
           "url": "https://github.com/rohitg00/agentmemory",
           "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
           "language": "TypeScript",
-          "stars_total": 4346,
-          "stars_today": 655,
-          "description_zh": "基于真实世界基准测试的#1持久化内存方案，专为AI编程智能体设计"
+          "stars_total": 4568,
+          "stars_today": 604,
+          "description_zh": "基于真实世界基准测试的AI编程智能体持久化记忆方案第一名"
         },
         {
           "rank": 7,
-          "name": "playcanvas/supersplat",
-          "url": "https://github.com/playcanvas/supersplat",
-          "description_en": "3D Gaussian Splat Editor",
-          "language": "TypeScript",
-          "stars_total": 7132,
-          "stars_today": 533,
-          "description_zh": "3D高斯泼溅编辑器"
-        },
-        {
-          "rank": 8,
           "name": "yikart/AiToEarn",
           "url": "https://github.com/yikart/AiToEarn",
           "description_en": "Let's use AI to Earn!",
           "language": "TypeScript",
-          "stars_total": 10392,
-          "stars_today": 397,
+          "stars_total": 10605,
+          "stars_today": 595,
           "description_zh": "用AI来赚钱！"
         },
         {
-          "rank": 9,
-          "name": "Lordog/dive-into-llms",
-          "url": "https://github.com/Lordog/dive-into-llms",
-          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
-          "language": "Jupyter Notebook",
-          "stars_total": 37195,
-          "stars_today": 373,
-          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
-        },
-        {
-          "rank": 10,
-          "name": "millionco/react-doctor",
-          "url": "https://github.com/millionco/react-doctor",
-          "description_en": "Your agent writes bad React. This catches it",
+          "rank": 8,
+          "name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description_en": "3D Gaussian Splat Editor",
           "language": "TypeScript",
-          "stars_total": 7738,
-          "stars_today": 312,
-          "description_zh": "你的智能体写了糟糕的React代码。这个工具能抓住它。"
+          "stars_total": 7246,
+          "stars_today": 533,
+          "description_zh": "3D高斯泼溅编辑器"
         },
         {
-          "rank": 11,
+          "rank": 9,
           "name": "tinyhumansai/openhuman",
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 1060,
-          "stars_today": 154,
+          "stars_total": 1273,
+          "stars_today": 501,
           "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
         {
-          "rank": 12,
+          "rank": 10,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars_total": 37254,
+          "stars_today": 451,
+          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
+        },
+        {
+          "rank": 11,
           "name": "rasbt/LLMs-from-scratch",
           "url": "https://github.com/rasbt/LLMs-from-scratch",
           "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
           "language": "Jupyter Notebook",
-          "stars_total": 92705,
-          "stars_today": 141,
+          "stars_total": 92848,
+          "stars_today": 408,
           "description_zh": "从零开始，逐步用PyTorch实现一个类似ChatGPT的大语言模型"
+        },
+        {
+          "rank": 12,
+          "name": "millionco/react-doctor",
+          "url": "https://github.com/millionco/react-doctor",
+          "description_en": "Your agent writes bad React. This catches it",
+          "language": "TypeScript",
+          "stars_total": 7920,
+          "stars_today": 340,
+          "description_zh": "你的智能体写出的React代码很烂。这个工具能抓住它。"
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
           "description_en": "Stable Diffusion web UI",
           "language": "Python",
-          "stars_total": 162848,
+          "stars_total": 162876,
           "stars_today": 29,
           "description_zh": "Stable Diffusion网页界面"
         }
