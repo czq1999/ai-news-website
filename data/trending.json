@@ -2,37 +2,37 @@
   "days": [
     {
       "date": "2026-05-11",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理技术，涵盖金融交易、编程助手、浏览器隐身及3D编辑，多模态与自动化趋势显著。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理工具链、隐私浏览器、3D编辑与LLM学习，涵盖多模态AI、无限制编程、React优化及Stable Diffusion界面。",
       "projects": [
         {
           "rank": 1,
-          "name": "anthropics/financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "description_en": "",
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 19585,
-          "stars_today": 1449,
-          "description_zh": ""
+          "stars_total": 144002,
+          "stars_today": 1496,
+          "description_zh": "与你一同成长的智能体"
         },
         {
           "rank": 2,
-          "name": "affaan-m/everything-claude-code",
-          "url": "https://github.com/affaan-m/everything-claude-code",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 178847,
-          "stars_today": 1081,
-          "description_zh": "智能体工具性能优化系统。面向Claude Code、Codex、Opencode、Cursor及更多平台的技能、直觉、记忆、安全与研究优先开发。"
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "language": "Python",
+          "stars_total": 5653,
+          "stars_today": 1325,
+          "description_zh": "隐形Chromium浏览器，通过所有机器人检测测试。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
         },
         {
           "rank": 3,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "Shell",
-          "stars_total": 39025,
-          "stars_today": 1065,
-          "description_zh": "面向AI编码智能体的生产级工程技能。"
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars_total": 32776,
+          "stars_today": 956,
+          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
         },
         {
           "rank": 4,
@@ -40,89 +40,99 @@
           "url": "https://github.com/decolua/9router",
           "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
           "language": "JavaScript",
-          "stars_total": 7680,
-          "stars_today": 803,
-          "description_zh": "无限免费AI编程。连接Claude Code、Codex、Cursor、Cline、Copilot、Antigravity至40+提供商的免费Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
+          "stars_total": 7948,
+          "stars_today": 942,
+          "description_zh": "无限免费AI编程。通过40多个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
         },
         {
           "rank": 5,
-          "name": "datawhalechina/hello-agents",
-          "url": "https://github.com/datawhalechina/hello-agents",
-          "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-          "language": "Python",
-          "stars_total": 47171,
-          "stars_today": 748,
-          "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
-        },
-        {
-          "rank": 6,
-          "name": "bytedance/UI-TARS-desktop",
-          "url": "https://github.com/bytedance/UI-TARS-desktop",
-          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-          "language": "TypeScript",
-          "stars_total": 32568,
-          "stars_today": 669,
-          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
-        },
-        {
-          "rank": 7,
           "name": "datawhalechina/easy-vibe",
           "url": "https://github.com/datawhalechina/easy-vibe",
           "description_en": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
           "language": "JavaScript",
-          "stars_total": 9509,
-          "stars_today": 635,
-          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，面向初学者逐步掌握。"
+          "stars_total": 9691,
+          "stars_today": 808,
+          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，面向初学者，循序渐进掌握编程。"
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars_total": 4346,
+          "stars_today": 655,
+          "description_zh": "基于真实世界基准测试的#1持久化内存方案，专为AI编程智能体设计"
+        },
+        {
+          "rank": 7,
           "name": "playcanvas/supersplat",
           "url": "https://github.com/playcanvas/supersplat",
           "description_en": "3D Gaussian Splat Editor",
           "language": "TypeScript",
-          "stars_total": 7015,
-          "stars_today": 579,
+          "stars_total": 7132,
+          "stars_today": 533,
           "description_zh": "3D高斯泼溅编辑器"
         },
         {
+          "rank": 8,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description_en": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars_total": 10392,
+          "stars_today": 397,
+          "description_zh": "用AI来赚钱！"
+        },
+        {
           "rank": 9,
-          "name": "CloakHQ/CloakBrowser",
-          "url": "https://github.com/CloakHQ/CloakBrowser",
-          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-          "language": "Python",
-          "stars_total": 5263,
-          "stars_today": 496,
-          "description_zh": "隐形Chromium浏览器，能通过所有机器人检测测试。即插即用的Playwright替代品，具备源码级指纹修复。30/30测试全部通过。"
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars_total": 37195,
+          "stars_today": 373,
+          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
         {
           "rank": 10,
-          "name": "jundot/omlx",
-          "url": "https://github.com/jundot/omlx",
-          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-          "language": "Python",
-          "stars_total": 13485,
-          "stars_today": 185,
-          "description_zh": "面向Apple Silicon的LLM推理服务器，支持连续批处理与SSD缓存——通过macOS菜单栏管理。"
+          "name": "millionco/react-doctor",
+          "url": "https://github.com/millionco/react-doctor",
+          "description_en": "Your agent writes bad React. This catches it",
+          "language": "TypeScript",
+          "stars_total": 7738,
+          "stars_today": 312,
+          "description_zh": "你的智能体写了糟糕的React代码。这个工具能抓住它。"
         },
         {
           "rank": 11,
-          "name": "lsdefine/GenericAgent",
-          "url": "https://github.com/lsdefine/GenericAgent",
-          "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-          "language": "Python",
-          "stars_total": 10750,
-          "stars_today": 174,
-          "description_zh": "自我进化智能体：从3300行种子代码生长出技能树，以6倍更少的令牌消耗实现全系统控制。"
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 1060,
+          "stars_today": 154,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
         {
           "rank": 12,
-          "name": "HKUDS/AI-Trader",
-          "url": "https://github.com/HKUDS/AI-Trader",
-          "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "name": "rasbt/LLMs-from-scratch",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "language": "Jupyter Notebook",
+          "stars_total": 92705,
+          "stars_today": 141,
+          "description_zh": "从零开始，逐步用PyTorch实现一个类似ChatGPT的大语言模型"
+        },
+        {
+          "rank": 13,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description_en": "Stable Diffusion web UI",
           "language": "Python",
-          "stars_total": 15933,
-          "stars_today": 163,
-          "description_zh": "“AI-Trader：100%全自动智能体原生交易”"
+          "stars_total": 162848,
+          "stars_today": 29,
+          "description_zh": "Stable Diffusion网页界面"
         }
       ]
     },
