@@ -1,6 +1,132 @@
 {
   "days": [
     {
+      "date": "2026-05-11",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理技术，涵盖金融交易、浏览器隐身、编程助手及3D编辑，多模态与自动化趋势显著。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 18950,
+          "stars_today": 1449,
+          "description_zh": ""
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 178318,
+          "stars_today": 1081,
+          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全及研究优先的开发支持。"
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 38525,
+          "stars_today": 1065,
+          "description_zh": "面向AI编码智能体的生产级工程技能。"
+        },
+        {
+          "rank": 4,
+          "name": "decolua/9router",
+          "url": "https://github.com/decolua/9router",
+          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "language": "JavaScript",
+          "stars_total": 7349,
+          "stars_today": 803,
+          "description_zh": "无限免费AI编程。连接Claude Code、Codex、Cursor、Cline、Copilot、Antigravity至免费Claude/GPT/Gemini，支持40+提供商。自动回退，RTK减少40% Token，永不触及限制。"
+        },
+        {
+          "rank": 5,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars_total": 46608,
+          "stars_today": 748,
+          "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+        },
+        {
+          "rank": 6,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars_total": 32200,
+          "stars_today": 669,
+          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
+        },
+        {
+          "rank": 7,
+          "name": "datawhalechina/easy-vibe",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "description_en": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+          "language": "JavaScript",
+          "stars_total": 9223,
+          "stars_today": 635,
+          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，面向初学者逐步掌握。"
+        },
+        {
+          "rank": 8,
+          "name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description_en": "3D Gaussian Splat Editor",
+          "language": "TypeScript",
+          "stars_total": 6852,
+          "stars_today": 579,
+          "description_zh": "3D高斯泼溅编辑器"
+        },
+        {
+          "rank": 9,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "language": "Python",
+          "stars_total": 4827,
+          "stars_today": 496,
+          "description_zh": "隐形Chromium浏览器，可绕过所有机器人检测。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
+        },
+        {
+          "rank": 10,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "language": "Python",
+          "stars_total": 13331,
+          "stars_today": 185,
+          "description_zh": "支持连续批处理与SSD缓存的LLM推理服务器，专为Apple Silicon设计——可通过macOS菜单栏管理。"
+        },
+        {
+          "rank": 11,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "language": "Python",
+          "stars_total": 10550,
+          "stars_today": 174,
+          "description_zh": "自我进化智能体：从3300行种子代码生长出技能树，以6倍更少的Token消耗实现完整系统控制。"
+        },
+        {
+          "rank": 12,
+          "name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "language": "Python",
+          "stars_total": 15621,
+          "stars_today": 163,
+          "description_zh": "“AI-Trader：100%全自动智能体原生交易”"
+        }
+      ]
+    },
+    {
       "date": "2026-05-10",
       "summary_zh": "今日GitHub热门项目聚焦AI代理技术：多模态代理栈、金融交易代理、自进化代理及生产级编码技能，同时涵盖隐身浏览器、3D高斯编辑与免费AI编程工具。",
       "projects": [
@@ -3661,42 +3787,6 @@
           "stars_total": 157061,
           "stars_today": 369,
           "description_zh": "原Awesome ChatGPT Prompts。分享、发现和收集社区提示词。免费开源——支持完全隐私的私有化部署。"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "summary_zh": "今日趋势项目聚焦开源工具与AI探索：OpenScreen提供免费无水印的演示录制方案；system_prompts_leaks持续揭秘各大AI模型的内部提示词；Sherlock则用于跨平台社交媒体账号追踪。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "siddharthvaddem/openscreen",
-          "url": "https://github.com/siddharthvaddem/openscreen",
-          "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-          "language": "TypeScript",
-          "stars_total": 15244,
-          "stars_today": 2496,
-          "description_zh": "免费创建惊艳的演示视频。开源、无订阅、无水印，可免费商用。Screen Studio 的替代品。"
-        },
-        {
-          "rank": 2,
-          "name": "sherlock-project/sherlock",
-          "url": "https://github.com/sherlock-project/sherlock",
-          "description_en": "Hunt down social media accounts by username across social networks",
-          "language": "Python",
-          "stars_total": 76980,
-          "stars_today": 807,
-          "description_zh": "通过用户名在社交网络中追踪社交媒体账户"
-        },
-        {
-          "rank": 3,
-          "name": "asgeirtj/system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
-          "language": "",
-          "stars_total": 36082,
-          "stars_today": 323,
-          "description_zh": "提取自 ChatGPT（GPT-5.4、GPT-5.3、Codex）、Claude（Opus 4.6、Sonnet 4.6、Claude Code）、Gemini（3.1 Pro、3 Flash、CLI）、Grok（4.2、4）、Perplexity 等模型的系统提示词。定期更新。"
         }
       ]
     }
