@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-05-12",
+      "summary_zh": "今日GitHub热门项目聚焦AI工具生态：多模态智能体、AI编程助手、3D高斯泼溅编辑器，以及反检测浏览器等前沿技术。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description_en": "The agent that grows with you",
+          "language": "Python",
+          "stars_total": 144952,
+          "stars_today": 2065,
+          "description_zh": "与你一同成长的智能体"
+        },
+        {
+          "rank": 2,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "language": "Python",
+          "stars_total": 6269,
+          "stars_today": 1320,
+          "description_zh": "隐形Chromium浏览器，通过所有机器人检测测试。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
+        },
+        {
+          "rank": 3,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars_total": 33048,
+          "stars_today": 956,
+          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
+        },
+        {
+          "rank": 4,
+          "name": "decolua/9router",
+          "url": "https://github.com/decolua/9router",
+          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "language": "JavaScript",
+          "stars_total": 8403,
+          "stars_today": 941,
+          "description_zh": "无限免费AI编程。通过40多个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
+        },
+        {
+          "rank": 5,
+          "name": "datawhalechina/easy-vibe",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "description_en": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+          "language": "JavaScript",
+          "stars_total": 9974,
+          "stars_today": 812,
+          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，让初学者一步步掌握。"
+        },
+        {
+          "rank": 6,
+          "name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description_en": "3D Gaussian Splat Editor",
+          "language": "TypeScript",
+          "stars_total": 7375,
+          "stars_today": 531,
+          "description_zh": "3D高斯泼溅编辑器"
+        },
+        {
+          "rank": 7,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars_total": 4803,
+          "stars_today": 430,
+          "description_zh": "基于真实世界基准测试的#1持久化记忆，专为AI编程智能体设计"
+        },
+        {
+          "rank": 8,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description_en": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars_total": 10859,
+          "stars_today": 427,
+          "description_zh": "用AI来赚钱！"
+        },
+        {
+          "rank": 9,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars_total": 37339,
+          "stars_today": 422,
+          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
+        },
+        {
+          "rank": 10,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 1534,
+          "stars_today": 366,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
+        },
+        {
+          "rank": 11,
+          "name": "rasbt/LLMs-from-scratch",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "language": "Jupyter Notebook",
+          "stars_total": 93044,
+          "stars_today": 337,
+          "description_zh": "从零开始，逐步用PyTorch实现一个类似ChatGPT的大语言模型"
+        },
+        {
+          "rank": 12,
+          "name": "millionco/react-doctor",
+          "url": "https://github.com/millionco/react-doctor",
+          "description_en": "Your agent writes bad React. This catches it",
+          "language": "TypeScript",
+          "stars_total": 8102,
+          "stars_today": 212,
+          "description_zh": "你的智能体写了糟糕的React代码。这个工具能抓住它。"
+        },
+        {
+          "rank": 13,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description_en": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars_total": 162909,
+          "stars_today": 39,
+          "description_zh": "Stable Diffusion网页界面"
+        }
+      ]
+    },
+    {
       "date": "2026-05-11",
       "summary_zh": "今日GitHub热门项目聚焦AI工具链：多模态智能体、免费AI编程、隐私AI助手，以及3D高斯泼溅编辑和Stable Diffusion WebUI等实用工具。",
       "projects": [
@@ -3721,82 +3857,6 @@
           "stars_total": 157190,
           "stars_today": 375,
           "description_zh": "前身为Awesome ChatGPT Prompts。分享、发现和收集社区提示词。免费开源——可为组织自托管，保障完全隐私。"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-03",
-      "summary_zh": "今日GitHub趋势项目聚焦AI工具与开发效率提升，涵盖代码助手增强、开源AI平台、时间序列预测模型、免费演示制作工具、高效文件搜索及社区提示词管理，同时包含社交媒体账户追踪工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Yeachan-Heo/oh-my-codex",
-          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-          "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-          "language": "TypeScript",
-          "stars_total": 13792,
-          "stars_today": 2984,
-          "description_zh": "OmX - Oh My codeX：你的代码库不再孤单。添加钩子、智能体团队、HUD界面等丰富功能。"
-        },
-        {
-          "rank": 2,
-          "name": "siddharthvaddem/openscreen",
-          "url": "https://github.com/siddharthvaddem/openscreen",
-          "description_en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-          "language": "TypeScript",
-          "stars_total": 17846,
-          "stars_today": 2855,
-          "description_zh": "免费创建惊艳演示视频。开源、无订阅、无水印，可免费商用。Screen Studio的替代方案。"
-        },
-        {
-          "rank": 3,
-          "name": "onyx-dot-app/onyx",
-          "url": "https://github.com/onyx-dot-app/onyx",
-          "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-          "language": "Python",
-          "stars_total": 23024,
-          "stars_today": 1872,
-          "description_zh": "开源AI平台——具备高级功能的AI聊天系统，兼容所有大型语言模型。"
-        },
-        {
-          "rank": 4,
-          "name": "sherlock-project/sherlock",
-          "url": "https://github.com/sherlock-project/sherlock",
-          "description_en": "Hunt down social media accounts by username across social networks",
-          "language": "Python",
-          "stars_total": 78290,
-          "stars_today": 1230,
-          "description_zh": "通过用户名跨社交网络追踪社交媒体账户。"
-        },
-        {
-          "rank": 5,
-          "name": "google-research/timesfm",
-          "url": "https://github.com/google-research/timesfm",
-          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-          "language": "Python",
-          "stars_total": 13958,
-          "stars_today": 912,
-          "description_zh": "TimesFM（时间序列基础模型）是谷歌研究开发的时间序列预测预训练基础模型。"
-        },
-        {
-          "rank": 6,
-          "name": "dmtrKovalenko/fff.nvim",
-          "url": "https://github.com/dmtrKovalenko/fff.nvim",
-          "description_en": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-          "language": "Rust",
-          "stars_total": 3160,
-          "stars_today": 767,
-          "description_zh": "为AI智能体、Neovim、Rust、C和NodeJS打造的最快最精准文件搜索工具包。"
-        },
-        {
-          "rank": 7,
-          "name": "f/prompts.chat",
-          "url": "https://github.com/f/prompts.chat",
-          "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-          "language": "HTML",
-          "stars_total": 157061,
-          "stars_today": 369,
-          "description_zh": "原Awesome ChatGPT Prompts。分享、发现和收集社区提示词。免费开源——支持完全隐私的私有化部署。"
         }
       ]
     }
