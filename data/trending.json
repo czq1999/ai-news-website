@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-13",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体、隐私工具与开发者效率，涵盖个人AI助手、持久记忆库、反检测浏览器、代理工具及React代码审查等。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体、隐私工具与开发者效率，涵盖个人AI助手、持久记忆、反检测浏览器、代理工具及React代码审查等创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 76294,
+          "stars_total": 77302,
           "stars_today": 3867,
-          "description_zh": ""
+          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
         },
         {
           "rank": 2,
@@ -20,9 +20,9 @@
           "url": "https://github.com/CloakHQ/CloakBrowser",
           "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
           "language": "Python",
-          "stars_total": 7976,
+          "stars_total": 8594,
           "stars_today": 1606,
-          "description_zh": ""
+          "description_zh": "隐形Chromium浏览器，通过所有机器人检测测试。即插即用的Playwright替代方案，带有源代码级指纹补丁。30/30测试全部通过。"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/yikart/AiToEarn",
           "description_en": "Let's use AI to Earn!",
           "language": "TypeScript",
-          "stars_total": 11952,
+          "stars_total": 12302,
           "stars_today": 1282,
-          "description_zh": ""
+          "description_zh": "让我们用AI来赚钱！"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/rohitg00/agentmemory",
           "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
           "language": "TypeScript",
-          "stars_total": 5973,
+          "stars_total": 6402,
           "stars_today": 1048,
-          "description_zh": ""
+          "description_zh": "#1 基于真实世界基准测试的AI编码智能体持久记忆方案"
         },
         {
           "rank": 5,
@@ -50,9 +50,9 @@
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 2832,
+          "stars_total": 3375,
           "stars_today": 1014,
-          "description_zh": ""
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/millionco/react-doctor",
           "description_en": "Your agent writes bad React. This catches it",
           "language": "TypeScript",
-          "stars_total": 8799,
+          "stars_total": 8965,
           "stars_today": 788,
-          "description_zh": ""
+          "description_zh": "你的智能体写了糟糕的React代码。这个工具能抓住它。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/rasbt/LLMs-from-scratch",
           "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
           "language": "Jupyter Notebook",
-          "stars_total": 93848,
+          "stars_total": 94078,
           "stars_today": 772,
-          "description_zh": ""
+          "description_zh": "从零开始，逐步用PyTorch实现一个类似ChatGPT的大语言模型。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/datawhalechina/hello-agents",
           "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
           "language": "Python",
-          "stars_total": 48315,
+          "stars_total": 48714,
           "stars_today": 599,
-          "description_zh": ""
+          "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
         },
         {
           "rank": 9,
@@ -90,9 +90,9 @@
           "url": "https://github.com/HKUDS/AI-Trader",
           "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
           "language": "Python",
-          "stars_total": 16659,
+          "stars_total": 16873,
           "stars_today": 229,
-          "description_zh": ""
+          "description_zh": "\"AI-Trader：100%全自动智能体原生交易系统\""
         },
         {
           "rank": 10,
@@ -100,9 +100,9 @@
           "url": "https://github.com/anonfaded/FadCam",
           "description_en": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
           "language": "Java",
-          "stars_total": 2237,
+          "stars_total": 2327,
           "stars_today": 116,
-          "description_zh": ""
+          "description_zh": "开源、无广告的Android多媒体录制器，支持后台视频录制、屏幕录制、直播和远程摄像头控制。"
         },
         {
           "rank": 11,
@@ -110,9 +110,9 @@
           "url": "https://github.com/apernet/hysteria",
           "description_en": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
           "language": "Go",
-          "stars_total": 20263,
+          "stars_total": 20413,
           "stars_today": 51,
-          "description_zh": ""
+          "description_zh": "Hysteria是一个功能强大、速度极快且抗审查的代理工具。"
         }
       ]
     },
