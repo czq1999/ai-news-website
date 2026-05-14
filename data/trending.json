@@ -1,6 +1,202 @@
 {
   "days": [
     {
+      "date": "2026-05-14",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理与基础设施，涵盖个人超级智能、持久记忆、技能框架、科研代理及反检测浏览器，凸显私有化、高效化与多场景应用趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars_total": 79176,
+          "stars_today": 3392,
+          "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
+        },
+        {
+          "rank": 2,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "language": "Python",
+          "stars_total": 9588,
+          "stars_today": 1835,
+          "description_zh": "能通过所有机器人检测的隐形Chromium浏览器。可直接替代Playwright，并包含源码级指纹补丁。30/30测试全部通过。"
+        },
+        {
+          "rank": 3,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 5701,
+          "stars_today": 1696,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 189639,
+          "stars_today": 1401,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars_total": 7766,
+          "stars_today": 1379,
+          "description_zh": "基于真实世界基准测试的AI编码智能体持久化存储方案。"
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars_total": 98450,
+          "stars_today": 1120,
+          "description_zh": "💫 帮助你开始规范驱动开发的工具包。"
+        },
+        {
+          "rank": 7,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description_en": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars_total": 12998,
+          "stars_today": 981,
+          "description_zh": "用AI来赚钱！"
+        },
+        {
+          "rank": 8,
+          "name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "language": "Swift",
+          "stars_total": 4416,
+          "stars_today": 859,
+          "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过ONNX原生运行。"
+        },
+        {
+          "rank": 9,
+          "name": "rasbt/LLMs-from-scratch",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "language": "Jupyter Notebook",
+          "stars_total": 94500,
+          "stars_today": 821,
+          "description_zh": "从零开始，用PyTorch逐步实现一个类似ChatGPT的大语言模型。"
+        },
+        {
+          "rank": 10,
+          "name": "millionco/react-doctor",
+          "url": "https://github.com/millionco/react-doctor",
+          "description_en": "Your agent writes bad React. This catches it",
+          "language": "TypeScript",
+          "stars_total": 9310,
+          "stars_today": 604,
+          "description_zh": "你的智能体写了糟糕的React代码，它能检测出来。"
+        },
+        {
+          "rank": 11,
+          "name": "apernet/hysteria",
+          "url": "https://github.com/apernet/hysteria",
+          "description_en": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+          "language": "Go",
+          "stars_total": 20635,
+          "stars_today": 485,
+          "description_zh": "Hysteria是一个功能强大、速度极快且能抵抗审查的代理。"
+        },
+        {
+          "rank": 12,
+          "name": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "description_en": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "language": "TypeScript",
+          "stars_total": 13405,
+          "stars_today": 435,
+          "description_zh": "用于增强人类能力的智能体AI基础设施。"
+        },
+        {
+          "rank": 13,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description_en": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "language": "HTML",
+          "stars_total": 16566,
+          "stars_today": 245,
+          "description_zh": "计算机使用智能体的开源基础设施。提供沙箱、SDK和基准测试，用于训练和评估能控制完整桌面（macOS、Linux、Windows）的AI智能体。"
+        },
+        {
+          "rank": 14,
+          "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "description_en": "An evolving how-to guide for securing a Linux server.",
+          "language": "",
+          "stars_total": 27126,
+          "stars_today": 234,
+          "description_zh": "一份不断更新的Linux服务器安全加固指南。"
+        },
+        {
+          "rank": 15,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "language": "Python",
+          "stars_total": 21172,
+          "stars_today": 99,
+          "description_zh": "一套即开即用的智能体技能，适用于研究、科学、工程、分析、金融和写作。"
+        },
+        {
+          "rank": 16,
+          "name": "ArthurBrussee/brush",
+          "url": "https://github.com/ArthurBrussee/brush",
+          "description_en": "3D Reconstruction for all",
+          "language": "Rust",
+          "stars_total": 4381,
+          "stars_today": 81,
+          "description_zh": "面向所有人的3D重建。"
+        },
+        {
+          "rank": 17,
+          "name": "Greedeks/GTweak",
+          "url": "https://github.com/Greedeks/GTweak",
+          "description_en": "Portable Tool for an Ideal Windows Setup",
+          "language": "C#",
+          "stars_total": 939,
+          "stars_today": 75,
+          "description_zh": "实现理想Windows设置的便携工具。"
+        },
+        {
+          "rank": 18,
+          "name": "ton-blockchain/acton",
+          "url": "https://github.com/ton-blockchain/acton",
+          "description_en": "Toolchain for TON smart contract development and beyond",
+          "language": "Rust",
+          "stars_total": 219,
+          "stars_today": 18,
+          "description_zh": "用于TON智能合约开发及其他用途的工具链。"
+        },
+        {
+          "rank": 19,
+          "name": "influxdata/telegraf",
+          "url": "https://github.com/influxdata/telegraf",
+          "description_en": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "language": "Go",
+          "stars_total": 17023,
+          "stars_today": 13,
+          "description_zh": "用于采集、处理、聚合和写入指标、日志及其他任意数据的智能体。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-13",
       "summary_zh": "今日GitHub热门项目聚焦AI代理与基础设施，涵盖个人超级智能、持久记忆、技能框架、科研代理及浏览器隐身技术，突出实用性与性能优化。",
       "projects": [
@@ -3831,132 +4027,6 @@
           "stars_total": 1809,
           "stars_today": 413,
           "description_zh": "自进化智能体：从3300行种子代码生长技能树，以降低6倍的token消耗实现完整系统控制。"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-14",
-      "summary_zh": "今日GitHub趋势项目聚焦AI编程工具与开源创新：Claude代码行为优化与开发会话记忆增强、开源语音合成工具、3D建筑编辑器、文档转Markdown工具、智能体开发框架，以及金融AI模型和登月源代码等跨领域开源项目。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "forrestchang/andrej-karpathy-skills",
-          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "language": "",
-          "stars_total": 32023,
-          "stars_today": 9230,
-          "description_zh": "一个用于改进Claude代码行为的CLAUDE.md文件，源自Andrej Karpathy对LLM编程常见陷阱的观察总结。"
-        },
-        {
-          "rank": 2,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 83739,
-          "stars_today": 8282,
-          "description_zh": "与你共同成长的智能体"
-        },
-        {
-          "rank": 3,
-          "name": "thedotmack/claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-          "language": "TypeScript",
-          "stars_total": 55342,
-          "stars_today": 2979,
-          "description_zh": "Claude Code插件，自动记录编码会话中的所有操作，通过AI（使用Claude的agent-sdk）压缩处理，并将相关上下文注入未来的会话中。"
-        },
-        {
-          "rank": 4,
-          "name": "shanraisshan/claude-code-best-practice",
-          "url": "https://github.com/shanraisshan/claude-code-best-practice",
-          "description_en": "from vibe coding to agentic engineering - practice makes claude perfect",
-          "language": "HTML",
-          "stars_total": 43484,
-          "stars_today": 2569,
-          "description_zh": "从氛围编程到智能体工程——熟能生巧，让Claude臻于完美"
-        },
-        {
-          "rank": 5,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 152004,
-          "stars_today": 1928,
-          "description_zh": "一个有效的智能体技能框架与软件开发方法论"
-        },
-        {
-          "rank": 6,
-          "name": "microsoft/markitdown",
-          "url": "https://github.com/microsoft/markitdown",
-          "description_en": "Python tool for converting files and office documents to Markdown.",
-          "language": "Python",
-          "stars_total": 108239,
-          "stars_today": 1672,
-          "description_zh": "将文件和办公文档转换为Markdown的Python工具"
-        },
-        {
-          "rank": 7,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source voice synthesis studio",
-          "language": "TypeScript",
-          "stars_total": 17130,
-          "stars_today": 1165,
-          "description_zh": "开源语音合成工作室"
-        },
-        {
-          "rank": 8,
-          "name": "virattt/ai-hedge-fund",
-          "url": "https://github.com/virattt/ai-hedge-fund",
-          "description_en": "An AI Hedge Fund Team",
-          "language": "Python",
-          "stars_total": 53974,
-          "stars_today": 1007,
-          "description_zh": "人工智能对冲基金团队"
-        },
-        {
-          "rank": 9,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 17704,
-          "stars_today": 965,
-          "description_zh": "Kronos：金融市场语言基础模型"
-        },
-        {
-          "rank": 10,
-          "name": "anthropics/claude-cookbooks",
-          "url": "https://github.com/anthropics/claude-cookbooks",
-          "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-          "language": "Jupyter Notebook",
-          "stars_total": 40120,
-          "stars_today": 922,
-          "description_zh": "展示Claude有趣且高效使用方法的笔记本/方案合集"
-        },
-        {
-          "rank": 11,
-          "name": "pascalorg/editor",
-          "url": "https://github.com/pascalorg/editor",
-          "description_en": "Create and share 3D architectural projects.",
-          "language": "TypeScript",
-          "stars_total": 11311,
-          "stars_today": 769,
-          "description_zh": "创建并分享3D建筑项目"
-        },
-        {
-          "rank": 12,
-          "name": "chrislgarry/Apollo-11",
-          "url": "https://github.com/chrislgarry/Apollo-11",
-          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-          "language": "Assembly",
-          "stars_total": 66237,
-          "stars_today": 390,
-          "description_zh": "阿波罗11号指令舱与登月舱的原始制导计算机（AGC）源代码"
         }
       ]
     }

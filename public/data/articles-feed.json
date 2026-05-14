@@ -1,5 +1,82 @@
 [
   {
+    "id": "4e1c17be14ecc5ae3b8b916646541566",
+    "title_en": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+    "published_at": "2026-05-13T22:04:28.000Z",
+    "fetched_at": "2026-05-14T02:15:25.895Z",
+    "title_zh": "微软Edge Copilot更新：AI可跨标签页提取信息",
+    "summary_zh": "微软Edge浏览器推出Copilot更新，新增跨标签页信息聚合功能。用户只需下达指令，AI即可自动浏览所有打开的标签页，提取并整合相关内容，无需手动切换。该功能大幅提升多任务浏览与信息检索效率，是浏览器AI助手的重要升级。",
+    "category": "product"
+  },
+  {
+    "id": "ce60a82a3b50445a78591bfba2e286fd",
+    "title_en": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+    "published_at": "2026-05-13T21:58:47.000Z",
+    "fetched_at": "2026-05-14T02:15:26.007Z",
+    "title_zh": "马斯克诉奥特曼庭审现场：所有人都在用高级坐垫",
+    "summary_zh": "在马斯克起诉奥特曼的庭审中，一个有趣细节引发关注：所有参与者都使用了高级坐垫。这场备受瞩目的科技巨头法律战不仅涉及AI公司控制权，还意外展现了法庭上的舒适度追求，成为社交媒体热议话题。",
+    "category": "industry"
+  },
+  {
+    "id": "e4edfbe33d59952de03b0707d1c257da",
+    "title_en": "Notion just turned its workspace into a hub for AI agents",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "published_at": "2026-05-13T21:45:09.000Z",
+    "fetched_at": "2026-05-14T02:15:25.845Z",
+    "title_zh": "Notion将工作空间转变为AI代理中心",
+    "summary_zh": "Notion宣布将其工作空间升级为AI代理的集中管理平台，用户可在此部署、协调各类AI助手完成自动化任务。此举旨在提升团队协作效率，使AI能力无缝融入日常文档、项目管理与知识库操作中，标志着生产力工具向智能化、代理化方向的重要演进。",
+    "category": "product"
+  },
+  {
+    "id": "c76bff3259aafa5adeba89e8f9c05dfa",
+    "title_en": "YouTube is courting creators — and sponsors — with streaming shows",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
+    "published_at": "2026-05-13T21:30:00.000Z",
+    "fetched_at": "2026-05-14T02:15:25.896Z",
+    "title_zh": "YouTube以流媒体节目吸引创作者与赞助商",
+    "summary_zh": "YouTube正通过推出原创流媒体节目来吸引顶级创作者和品牌赞助商，意图在竞争激烈的视频平台中巩固地位。该策略不仅为创作者提供更多变现机会，也为广告主提供高质量内容投放场景，推动平台从UGC向专业制作内容生态扩展。",
+    "category": "product"
+  },
+  {
+    "id": "eed70388f963f4aaf596a10d08a4ac85",
+    "title_en": "Instagram’s New Instants App Is a Snapchat Clone for Thirst Traps",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/instagrams-new-instants-app-is-a-snapchat-clone-for-thirst-traps/",
+    "published_at": "2026-05-13T20:49:17.000Z",
+    "fetched_at": "2026-05-14T02:15:26.007Z",
+    "title_zh": "Instagram推出“Instants”应用：专为“钓鱼照”打造的Snapchat克隆版",
+    "summary_zh": "Instagram发布全新独立应用“Instants”，功能类似Snapchat，专注于分享短暂存在的“钓鱼照”（Thirst Traps）。该应用旨在吸引年轻用户，通过限时内容增强互动性，但被批评为缺乏创新，仅是Snapchat的简单复制。",
+    "category": "product"
+  },
+  {
+    "id": "cf2cc74b0c5a3d0594add2ab0f890576",
+    "title_en": "AMD&#8217;s best CPU tech for gamers is coming to workstations too",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
+    "published_at": "2026-05-13T20:38:16.000Z",
+    "fetched_at": "2026-05-14T02:15:25.896Z",
+    "title_zh": "AMD最佳游戏CPU技术将登陆工作站平台",
+    "summary_zh": "AMD宣布将其在游戏领域备受赞誉的CPU核心技术（如3D V-Cache）引入工作站处理器，旨在提升专业应用中的缓存敏感型任务性能。此举将缩小游戏与工作站芯片之间的技术差距，为内容创作、科学计算等场景带来显著加速。",
+    "category": "product"
+  },
+  {
+    "id": "29058bb3c4c10fbae90d395869b9a124",
+    "title_en": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "published_at": "2026-05-13T19:49:42.000Z",
+    "fetched_at": "2026-05-14T02:15:25.846Z",
+    "title_zh": "马斯克xAI在密西西比数据中心运行近50台燃气轮机，未受监管",
+    "summary_zh": "据报道，马斯克旗下xAI公司在密西西比州的数据中心部署了约50台燃气轮机用于供电，但未获得必要的环境监管许可。此举引发对碳排放与当地空气质量的担忧，也凸显AI算力扩张与环保合规之间的紧张关系，可能面临监管审查。",
+    "category": "industry"
+  },
+  {
     "id": "b5a2360916db74f1b1460b3860fa1efc",
     "title_en": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
     "source": "TechCrunch AI",
@@ -635,6 +712,116 @@
     "fetched_at": "2026-05-13T02:12:58.104Z",
     "title_zh": "索尼新款Xperia手机迎来久违的重新设计",
     "summary_zh": "索尼终于对其Xperia系列手机进行了重大设计更新，新机型在外观和功能上均有显著改进。此次重新设计旨在提升用户体验，并可能引入更现代的摄像头布局和屏幕比例。索尼希望通过这次更新重振其智能手机业务，在竞争激烈的市场中吸引更多消费者。",
+    "category": "product"
+  },
+  {
+    "id": "bf4fbf6138aa113f26730516510e1475",
+    "title_en": "Confirmed squad list: Colo Colo call-ups to face Coquimbo",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/confirmed-squad-list-colo-colo-call-ups-to-face-coquimbo-42857765",
+    "published_at": "2026-05-13T01:57:00Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "科洛科洛队公布对阵科金博队大名单",
+    "summary_zh": "智利足球俱乐部科洛科洛公布了即将对阵科金博队的官方球员征召名单。这份名单包含了球队核心与关键替补，为即将到来的比赛做好准备。球迷可关注具体入选球员，了解球队战术部署与伤病情况。",
+    "category": "industry"
+  },
+  {
+    "id": "da66ea3aea8e877628e4848bacfe9674",
+    "title_en": "Lite-On, Delta benefit from surge in AI server power demand",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260512VL215/demand-taiwan-electronics-ai-server-revenue.html",
+    "published_at": "2026-05-13T01:45:00Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "AI服务器电力需求激增，光宝科技与台达电子受益",
+    "summary_zh": "随着AI服务器部署加速，电力需求大幅攀升，电源供应商光宝科技与台达电子迎来显著增长机遇。两家公司凭借高效电源解决方案，在AI数据中心基础设施市场占据有利位置，订单量持续上升，反映出AI算力扩张对能源基础设施的强劲拉动效应。",
+    "category": "industry"
+  },
+  {
+    "id": "d90ece2b589db8f33214fba5beb3359e",
+    "title_en": "Breeze Acquisition Corp. II Announces Pricing of $125,000,000 Initial Public Offering",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293604/0/en/Breeze-Acquisition-Corp-II-Announces-Pricing-of-125-000-000-Initial-Public-Offering.html",
+    "published_at": "2026-05-13T01:37:00Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "Breeze Acquisition Corp. II宣布1.25亿美元IPO定价",
+    "summary_zh": "特殊目的收购公司Breeze Acquisition Corp. II宣布其首次公开募股定价为1.25亿美元。此次IPO旨在筹集资金用于未来与一家或多家企业的合并、资本重组等业务组合交易，标志着资本市场对SPAC模式持续关注，尤其是在科技与AI领域寻找并购标的。",
+    "category": "industry"
+  },
+  {
+    "id": "e91eaad650380951c45f950c7c10b885",
+    "title_en": " Betis to the CHAMPIONS: the Engineer takes on history in Europe",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/betis-to-the-champions-the-engineer-takes-on-history-in-europe-42857755",
+    "published_at": "2026-05-13T01:37:00Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "皇家贝蒂斯冲击欧冠：工程师带队书写欧洲历史",
+    "summary_zh": "皇家贝蒂斯队在主教练（绰号“工程师”）的率领下，正全力冲击欧冠资格，力争在欧洲赛场创造历史。球队近期表现强劲，战术体系成熟，球迷期待这支西甲劲旅能在欧洲顶级赛事中留下属于自己的传奇篇章。",
+    "category": "industry"
+  },
+  {
+    "id": "90f31bfce3b19973577424a78efb2cad",
+    "title_en": "JPMorganChase Funds 7 Organizations to Combat Scammers",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/fraud-prevention/2026/jpmorganchase-funds-7-organizations-to-combat-scammers/",
+    "published_at": "2026-05-13T01:35:19Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "摩根大通资助7家机构打击诈骗分子",
+    "summary_zh": "摩根大通宣布向7家组织提供资金支持，用于开发反诈骗技术与公众教育项目。此举旨在应对日益猖獗的金融诈骗，特别是利用AI技术实施的深度伪造与社交工程攻击。该计划将加强消费者保护，提升金融系统安全性。",
+    "category": "industry"
+  },
+  {
+    "id": "24f84c5e57f510b577863b8c9775d12c",
+    "title_en": "Commencement Speaker Mercilessly Booed After Telling Grads That AI Is The ‘Next Industrial Revolution’",
+    "source": "The Daily Caller",
+    "url": "https://dailycaller.com/2026/05/12/university-of-central-florida-commencement-speaker-booed-graduating-students-ai-industrial-revolution-gloria-caulfield/",
+    "published_at": "2026-05-13T01:33:21Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "毕业典礼演讲者称AI是‘下一次工业革命’，遭全场嘘声",
+    "summary_zh": "在某大学毕业典礼上，演讲嘉宾因宣称人工智能是‘下一次工业革命’而遭到毕业生集体嘘声。现场反应凸显了年轻一代对AI取代就业、加剧不平等及伦理问题的深切担忧，也反映出公众对AI乐观叙事的普遍怀疑态度。",
+    "category": "industry"
+  },
+  {
+    "id": "6d62ea4543d0eff204f7b3d209f30dbd",
+    "title_en": "How AI Is Transforming the Architectural Visualization Workflow",
+    "source": "ArchDaily",
+    "url": "https://www.archdaily.com/1041348/how-ai-is-transforming-the-architectural-visualization-workflow",
+    "published_at": "2026-05-13T01:30:00Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "AI如何变革建筑可视化工作流程",
+    "summary_zh": "人工智能正在深刻改变建筑可视化领域，从概念草图到逼真渲染，AI工具显著提升效率与创意。通过生成式设计、自动材质匹配与实时光影模拟，建筑师能快速迭代方案，降低制作成本，同时探索更多设计可能性，推动行业向智能化转型。",
+    "category": "product"
+  },
+  {
+    "id": "03b5b967c6ce23212cc86e357b768765",
+    "title_en": "International Healthcare Week opens today, fuelling healthcare breakthroughs",
+    "source": "Antaranews.com",
+    "url": "https://en.antaranews.com/news/415576/international-healthcare-week-opens-today-fuelling-healthcare-breakthroughs",
+    "published_at": "2026-05-13T01:19:55Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "国际医疗保健周今日开幕，推动医疗突破",
+    "summary_zh": "国际医疗保健周于今日正式开幕，汇聚全球医疗专家、创新企业与政策制定者。活动聚焦AI诊断、远程医疗、基因治疗等前沿领域，旨在通过跨界合作加速医疗技术突破，应对公共卫生挑战，推动全球医疗体系向更高效、更普惠的方向发展。",
+    "category": "industry"
+  },
+  {
+    "id": "9cf50da97e4cc16d6adb0a87a6fa47ba",
+    "title_en": "Nebius snaps up Clarifai’s compute orchestration tech and talent to enhance AI inference",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/05/12/nebius-snaps-clarifais-compute-orchestration-tech-talent-enhance-ai-inference/",
+    "published_at": "2026-05-13T01:11:35Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "Nebius收购Clarifai计算编排技术与团队，强化AI推理能力",
+    "summary_zh": "AI基础设施公司Nebius宣布收购Clarifai的计算编排技术及相关人才，以增强其AI推理平台性能。此次收购将帮助Nebius优化模型部署与资源调度，降低推理成本，为客户提供更高效、可扩展的AI服务，进一步巩固其在AI云服务市场的竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "8f7d2be69a3fa43cbabc0ecef02ac64f",
+    "title_en": "Veeam introduces new backup management, cybersecurity features",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/05/12/veeam-introduces-new-backup-management-cybersecurity-features/",
+    "published_at": "2026-05-13T00:57:10Z",
+    "fetched_at": "2026-05-14T02:15:26.363Z",
+    "title_zh": "Veeam推出全新备份管理与网络安全功能",
+    "summary_zh": "数据保护公司Veeam发布最新更新，新增备份管理与网络安全功能。新功能包括增强的勒索软件检测、自动化恢复测试以及多云环境下的统一管理面板，旨在帮助企业应对日益复杂的数据安全威胁，确保业务连续性与数据合规性。",
     "category": "product"
   },
   {
@@ -5310,193 +5497,6 @@
     "fetched_at": "2026-05-08T13:10:24.598Z",
     "title_zh": "Maris-Tech 获得新加坡国防客户首个批量生产订单",
     "summary_zh": "以色列国防科技公司 Maris-Tech 宣布收到来自新加坡国防客户的首次批量生产订单。该订单涉及公司核心的智能视频监控与通信解决方案，标志着其产品在国际防务市场取得重要突破。此举不仅验证了 Maris-Tech 的技术实力，也为其在亚太地区的业务拓展奠定了坚实基础。",
-    "category": "industry"
-  },
-  {
-    "id": "a7cfb04f88b2168b4a1bb3a066961286",
-    "title_en": "Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.\n\nGabi, the newest monk at a temple in Seoul that is looking to spread Buddhism, vowed to not overcharge as it seeks enlightenment.",
-    "source": "Freerepublic.com",
-    "url": "https://freerepublic.com/focus/f-religion/4378099/posts",
-    "published_at": "2026-05-07T13:08:54Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "冥想还是重启？机器人僧侣来到韩国寺庙传播佛法",
-    "summary_zh": "韩国首尔一座寺庙引入了一位名为 Gabi 的机器人僧侣，旨在以现代方式传播佛教。Gabi 能够进行冥想引导、诵经并与访客互动，且承诺“不收费”。这一创新尝试引发了关于科技与宗教融合的讨论，有人视其为吸引年轻信徒的妙招，也有人质疑其是否真正触及佛教修行的本质。",
-    "category": "product"
-  },
-  {
-    "id": "7516f225d3880575eb08a21a51d5f19a",
-    "title_en": "Bi-Specific MAbS Market Research Report 2026: $21.83 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/05/07/3290146/28124/en/Bi-Specific-MAbS-Market-Research-Report-2026-21-83-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-    "published_at": "2026-05-07T13:08:00Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "双特异性单克隆抗体市场报告：2026年规模达218.3亿美元，增长机遇与竞争格局分析",
-    "summary_zh": "最新市场研究报告显示，全球双特异性单克隆抗体（Bi-Specific MAbS）市场预计到2026年将达到218.3亿美元。报告详细分析了2020至2035年的市场趋势、竞争格局及增长驱动因素，涵盖主要药企的研发管线、战略合作及区域市场表现。随着癌症免疫疗法需求激增，该领域正成为生物医药投资的热点。",
-    "category": "industry"
-  },
-  {
-    "id": "d5be3bf6f8b97ec17b98798b1eb7b55d",
-    "title_en": "Paul Tudor Jones says AI bull market has 'another year or two to run'",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/07/paul-tudor-jones-says-ai-bull-market-has-another-year-or-two-to-run.html",
-    "published_at": "2026-05-07T13:07:37Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "保罗·都铎·琼斯：AI牛市还有一到两年持续空间",
-    "summary_zh": "知名对冲基金经理保罗·都铎·琼斯表示，当前由人工智能驱动的股市牛市行情预计还将持续一到两年。他认为AI技术的生产力提升效应尚未完全释放，相关企业盈利增长仍有潜力。不过他也警告投资者需关注估值泡沫风险，并建议在AI领域进行选择性投资，而非盲目追高。",
-    "category": "industry"
-  },
-  {
-    "id": "bc7336d12890023ccd520f83f9e1e787",
-    "title_en": "US jobless claim applications rise to 200K but remain historically low",
-    "source": "Abcnews.com",
-    "url": "https://abcnews.com/Business/wireStory/us-jobless-claim-applications-rise-200000-remain-historically-132741208",
-    "published_at": "2026-05-07T13:05:40Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "美国初请失业金人数升至20万，但仍处历史低位",
-    "summary_zh": "美国劳工部数据显示，上周首次申请失业救济金人数上升至20万人，略高于市场预期。尽管有所增加，该数字仍处于历史低位，表明劳动力市场依然强劲。分析人士认为，就业韧性可能支持美联储维持当前利率政策，但需关注后续数据以判断经济是否出现降温迹象。",
-    "category": "industry"
-  },
-  {
-    "id": "e6e1cc5bc38048e5d3b1a00ba83c034a",
-    "title_en": "The 'Living Nostradamus' just made a terrifying Iran war prediction, and the date is very specific",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/international/us/the-living-nostradamus-just-made-a-terrifying-iran-war-prediction-and-the-date-is-very-specific/articleshow/130895096.cms",
-    "published_at": "2026-05-07T13:04:59Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "“活着的诺查丹玛斯”发出伊朗战争恐怖预测，日期极其具体",
-    "summary_zh": "被称为“活着的诺查丹玛斯”的预言家近日发布了一项关于伊朗战争的惊人预测，并给出了非常具体的日期。该言论迅速在社交媒体上引发恐慌和热议。不过，此类预测缺乏科学依据，更多被视为吸引眼球的噱头。专家提醒公众保持理性，勿轻信未经证实的末日预言。",
-    "category": "industry"
-  },
-  {
-    "id": "f4e078072c15322d86b4f55da7bb92ff",
-    "title_en": "PNB earmarks ₹3,400 crore for IT, AI push amid rising cyber frauds",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/companies/pnb-invests-crore-artificial-intelligence-combat-cyber-fraud-digital-innovation-11778153417076.html",
-    "published_at": "2026-05-07T13:04:57Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "印度旁遮普国家银行拨款340亿卢比用于IT和AI建设，应对网络欺诈激增",
-    "summary_zh": "印度旁遮普国家银行（PNB）宣布将投入340亿卢比（约合人民币29亿元）用于信息技术和人工智能领域的升级，以应对日益猖獗的网络欺诈。资金将用于构建智能风控系统、加强数据安全防护及提升数字化服务能力。此举反映了传统金融机构在数字化转型中面临的网络安全挑战与投入决心。",
-    "category": "industry"
-  },
-  {
-    "id": "e99529cbc967f6c8c3ce8699f6af9d0a",
-    "title_en": "HotelPlanner Launches TicketPlanner and Appoints Industry Veteran Paul Bausch to Lead Customer-First Ticketing Platform",
-    "source": "Financial Post",
-    "url": "https://financialpost.com/globe-newswire/hotelplanner-launches-ticketplanner-and-appoints-industry-veteran-paul-bausch-to-lead-customer-first-ticketing-platform",
-    "published_at": "2026-05-07T13:01:41Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "HotelPlanner 推出 TicketPlanner 平台，任命行业老将 Paul Bausch 领导客户优先的票务服务",
-    "summary_zh": "在线酒店预订平台 HotelPlanner 宣布推出全新票务平台 TicketPlanner，并任命资深行业专家 Paul Bausch 担任负责人。新平台将聚焦客户体验，提供活动门票预订、行程规划等一站式服务。此举标志着 HotelPlanner 从酒店预订向更广泛的旅游服务生态拓展，旨在通过个性化服务提升用户粘性。",
-    "category": "product"
-  },
-  {
-    "id": "5219ccb85af28af76a353e32febb2b33",
-    "title_en": "Pennsylvania Sues Character.AI, Alleging Chatbots Posed as Doctors",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/pennsylvania-sues-character-ai-over-chatbots-posing-as-doctors/",
-    "published_at": "2026-05-07T13:01:28Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "宾夕法尼亚州起诉 Character.AI，指控其聊天机器人冒充医生",
-    "summary_zh": "美国宾夕法尼亚州对 AI 聊天机器人公司 Character.AI 提起诉讼，指控其平台上的虚拟角色冒充医疗专业人士，向用户提供可能有害的健康建议。诉状称该行为违反了消费者保护法，并可能对未成年人造成误导。此案再次引发对 AI 对话产品内容安全与责任归属的广泛讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "e8d18d630ffa74c636014cb4f1b62171",
-    "title_en": "Silicon Valley spent $25 million on a California governor candidate. He is polling at 4 per cent",
-    "source": "The Next Web",
-    "url": "https://thenextweb.com/news/silicon-valley-matt-mahan-california-governor-tech-money/",
-    "published_at": "2026-05-07T13:00:44Z",
-    "fetched_at": "2026-05-08T13:10:24.599Z",
-    "title_zh": "硅谷砸2500万美元支持加州州长候选人，其民调仅4%",
-    "summary_zh": "据报道，硅谷科技界为一位加州州长候选人投入了高达2500万美元的竞选资金，但该候选人的民意支持率仅为4%。这一巨大反差凸显了金钱政治与选民意愿之间的脱节。分析人士指出，尽管科技富豪试图通过巨额捐款影响选举，但候选人缺乏基层支持和政策吸引力，导致投入与回报严重不成比例。",
-    "category": "industry"
-  },
-  {
-    "id": "f55681ab9b61ff93abc5ab5f255ea8cb",
-    "title_en": "Spotify wants to become the home for AI-generated personal audio",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-    "published_at": "2026-05-07T13:00:00.000Z",
-    "fetched_at": "2026-05-07T19:26:58.749Z",
-    "title_zh": "Spotify欲打造AI生成个人音频内容中心",
-    "summary_zh": "Spotify计划转型为AI生成个人音频内容平台，利用AI技术为用户定制播客、音乐和语音内容。此举将重新定义音频消费体验，可能颠覆传统内容创作模式。",
-    "category": "product"
-  },
-  {
-    "id": "545573325aebe9118f524cd1e8df1c2e",
-    "title_en": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-    "published_at": "2026-05-07T12:20:04.000Z",
-    "fetched_at": "2026-05-07T13:29:50.548Z",
-    "title_zh": "Spotify AI DJ新增支持法语、德语、意大利语和巴西葡萄牙语",
-    "summary_zh": "Spotify的AI DJ功能迎来重大更新，现已支持法语、德语、意大利语和巴西葡萄牙语。该功能利用AI技术为用户提供个性化音乐推荐和评论，此次语言扩展将覆盖更多非英语用户，提升全球用户体验。Spotify持续通过AI增强其平台互动性，巩固其在流媒体音乐市场的领先地位。",
-    "category": "product"
-  },
-  {
-    "id": "9f2e6d7d9407f3e0ee8514c029aef8d0",
-    "title_en": "The Download: the tech reshaping IVF and the rise of balcony solar",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
-    "published_at": "2026-05-07T12:10:00.000Z",
-    "fetched_at": "2026-05-07T13:29:51.064Z",
-    "title_zh": "下载：重塑试管婴儿的技术与阳台太阳能兴起",
-    "summary_zh": "本期内容聚焦两项技术趋势：AI和基因编辑正在提升试管婴儿成功率，降低遗传病风险；同时，阳台太阳能板在美国逐渐普及，为城市居民提供清洁能源选择。两项技术均有望在2026年取得更大突破，影响医疗和能源领域。",
-    "category": "industry"
-  },
-  {
-    "id": "901f40b0f44ca579c6d806d7cd7f02e4",
-    "title_en": "Sleep Number ComfortNext Lux Smart Bed: Redefining Support",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
-    "published_at": "2026-05-07T12:07:00.000Z",
-    "fetched_at": "2026-05-07T13:29:50.939Z",
-    "title_zh": "Sleep Number ComfortNext Lux智能床：重新定义支撑体验",
-    "summary_zh": "Sleep Number推出ComfortNext Lux智能床，通过AI算法实时调整床垫软硬度，根据睡眠姿势和身体数据提供个性化支撑。内置传感器监测心率、呼吸和翻身频率，并生成睡眠报告。售价较高，但为追求极致睡眠体验的用户提供了科技化解决方案。",
-    "category": "product"
-  },
-  {
-    "id": "96026ad66797cdc5f2f0d96f8fbcf03a",
-    "title_en": "Best Printers for Any Home-Office Need (2026): Brother, HP, and More",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-printers/",
-    "published_at": "2026-05-07T11:33:00.000Z",
-    "fetched_at": "2026-05-07T13:29:50.939Z",
-    "title_zh": "2026年最佳家用办公打印机推荐：Brother、HP等品牌评测",
-    "summary_zh": "WIRED评测了多款适合家庭办公的打印机，涵盖Brother、HP等品牌。推荐机型在打印速度、无线连接、耗材成本和多功能性上表现优异。特别关注了远程办公场景下的扫描和云打印功能，为不同预算用户提供了选购指南。",
-    "category": "product"
-  },
-  {
-    "id": "fe12dd9645a1eef5561ae72966771427",
-    "title_en": "Best Bug Spray (2026), Tested and Reviewed",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-bug-sprays/",
-    "published_at": "2026-05-07T11:30:00.000Z",
-    "fetched_at": "2026-05-07T13:29:50.939Z",
-    "title_zh": "2026年最佳驱虫喷雾实测推荐",
-    "summary_zh": "WIRED对多款驱虫喷雾进行了实地测试，评估其防蚊效果、持久性和气味。推荐产品包含DEET和天然成分两种类型，适合户外活动和旅行使用。测试结果显示，部分天然配方在防护时间上已接近化学产品，为消费者提供了更多选择。",
-    "category": "product"
-  },
-  {
-    "id": "b976b5e9470183ccad5ce55461e70308",
-    "title_en": "How I Fixed My Webcam Lighting for Zoom Calls (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/how-to-fix-bad-webcam-lighting/",
-    "published_at": "2026-05-07T11:02:00.000Z",
-    "fetched_at": "2026-05-07T13:29:50.939Z",
-    "title_zh": "2026年Zoom会议摄像头灯光改善指南",
-    "summary_zh": "本文分享了改善网络摄像头灯光效果的实用技巧，包括使用环形灯、自然光利用和背景布置。通过调整光源位置和色温，可显著提升视频通话画质。推荐了几款平价补光设备，适合远程工作者和直播用户参考。",
-    "category": "product"
-  },
-  {
-    "id": "3984323d91dd5ad3d018349337978ec3",
-    "title_en": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
-    "published_at": "2026-05-07T11:00:00.000Z",
-    "fetched_at": "2026-05-07T13:29:50.940Z",
-    "title_zh": "数千个AI生成应用在开放网络泄露企业及个人数据",
-    "summary_zh": "调查发现，数千个通过AI辅助编码（Vibe-Coding）开发的应用存在严重安全漏洞，导致企业数据库和用户个人信息在互联网上公开暴露。这些应用多由非专业开发者快速创建，缺乏基本安全措施。专家呼吁加强AI生成代码的安全审查。",
     "category": "industry"
   }
 ]
