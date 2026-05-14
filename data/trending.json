@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-14",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理与基础设施，涵盖个人超级智能、持久记忆、技能框架、科研代理及反检测浏览器，凸显私有化、高效化与多场景应用趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理与基础设施，涵盖个人超级智能、持久记忆、技能框架、数据采集、代码审查、科研代理及隐私浏览器等，突出实用性与性能优化。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 79176,
+          "stars_total": 80138,
           "stars_today": 3392,
-          "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
+          "description_zh": "为真正的工程师准备的技能。直接来自我的.claude目录。"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/CloakHQ/CloakBrowser",
           "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
           "language": "Python",
-          "stars_total": 9588,
+          "stars_total": 10019,
           "stars_today": 1835,
           "description_zh": "能通过所有机器人检测的隐形Chromium浏览器。可直接替代Playwright，并包含源码级指纹补丁。30/30测试全部通过。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 5701,
+          "stars_total": 6668,
           "stars_today": 1696,
           "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 189639,
+          "stars_total": 190219,
           "stars_today": 1401,
           "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/rohitg00/agentmemory",
           "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
           "language": "TypeScript",
-          "stars_total": 7766,
+          "stars_total": 8335,
           "stars_today": 1379,
-          "description_zh": "基于真实世界基准测试的AI编码智能体持久化存储方案。"
+          "description_zh": "基于真实世界基准测试的AI编码智能体持久化记忆方案（排名第一）"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/github/spec-kit",
           "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
           "language": "Python",
-          "stars_total": 98450,
+          "stars_total": 98793,
           "stars_today": 1120,
-          "description_zh": "💫 帮助你开始规范驱动开发的工具包。"
+          "description_zh": "💫 帮助你开启规范驱动开发的工具包。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/yikart/AiToEarn",
           "description_en": "Let's use AI to Earn!",
           "language": "TypeScript",
-          "stars_total": 12998,
+          "stars_total": 13383,
           "stars_today": 981,
-          "description_zh": "用AI来赚钱！"
+          "description_zh": "让我们用AI来赚钱！"
         },
         {
           "rank": 8,
@@ -80,7 +80,7 @@
           "url": "https://github.com/supertone-inc/supertonic",
           "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
           "language": "Swift",
-          "stars_total": 4416,
+          "stars_total": 4792,
           "stars_today": 859,
           "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过ONNX原生运行。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/rasbt/LLMs-from-scratch",
           "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
           "language": "Jupyter Notebook",
-          "stars_total": 94500,
+          "stars_total": 94657,
           "stars_today": 821,
           "description_zh": "从零开始，用PyTorch逐步实现一个类似ChatGPT的大语言模型。"
         },
@@ -100,9 +100,9 @@
           "url": "https://github.com/millionco/react-doctor",
           "description_en": "Your agent writes bad React. This catches it",
           "language": "TypeScript",
-          "stars_total": 9310,
+          "stars_total": 9446,
           "stars_today": 604,
-          "description_zh": "你的智能体写了糟糕的React代码，它能检测出来。"
+          "description_zh": "你的智能体写了糟糕的React代码——它能帮你揪出来。"
         },
         {
           "rank": 11,
@@ -110,9 +110,9 @@
           "url": "https://github.com/apernet/hysteria",
           "description_en": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
           "language": "Go",
-          "stars_total": 20635,
+          "stars_total": 20707,
           "stars_today": 485,
-          "description_zh": "Hysteria是一个功能强大、速度极快且能抵抗审查的代理。"
+          "description_zh": "Hysteria是一个强大、极速且抗审查的代理工具。"
         },
         {
           "rank": 12,
@@ -120,9 +120,9 @@
           "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
           "description_en": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
           "language": "TypeScript",
-          "stars_total": 13405,
+          "stars_total": 13568,
           "stars_today": 435,
-          "description_zh": "用于增强人类能力的智能体AI基础设施。"
+          "description_zh": "用于放大人类能力的智能体AI基础设施。"
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/trycua/cua",
           "description_en": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
           "language": "HTML",
-          "stars_total": 16566,
+          "stars_total": 16662,
           "stars_today": 245,
           "description_zh": "计算机使用智能体的开源基础设施。提供沙箱、SDK和基准测试，用于训练和评估能控制完整桌面（macOS、Linux、Windows）的AI智能体。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
           "description_en": "An evolving how-to guide for securing a Linux server.",
           "language": "",
-          "stars_total": 27126,
+          "stars_total": 27250,
           "stars_today": 234,
           "description_zh": "一份不断更新的Linux服务器安全加固指南。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
           "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
           "language": "Python",
-          "stars_total": 21172,
+          "stars_total": 21368,
           "stars_today": 99,
           "description_zh": "一套即开即用的智能体技能，适用于研究、科学、工程、分析、金融和写作。"
         },
@@ -160,37 +160,27 @@
           "url": "https://github.com/ArthurBrussee/brush",
           "description_en": "3D Reconstruction for all",
           "language": "Rust",
-          "stars_total": 4381,
+          "stars_total": 4446,
           "stars_today": 81,
-          "description_zh": "面向所有人的3D重建。"
+          "description_zh": "面向所有人的3D重建工具。"
         },
         {
           "rank": 17,
-          "name": "Greedeks/GTweak",
-          "url": "https://github.com/Greedeks/GTweak",
-          "description_en": "Portable Tool for an Ideal Windows Setup",
-          "language": "C#",
-          "stars_total": 939,
-          "stars_today": 75,
-          "description_zh": "实现理想Windows设置的便携工具。"
-        },
-        {
-          "rank": 18,
           "name": "ton-blockchain/acton",
           "url": "https://github.com/ton-blockchain/acton",
           "description_en": "Toolchain for TON smart contract development and beyond",
           "language": "Rust",
-          "stars_total": 219,
+          "stars_total": 278,
           "stars_today": 18,
-          "description_zh": "用于TON智能合约开发及其他用途的工具链。"
+          "description_zh": "用于TON智能合约开发及其他场景的工具链。"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "influxdata/telegraf",
           "url": "https://github.com/influxdata/telegraf",
           "description_en": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
           "language": "Go",
-          "stars_total": 17023,
+          "stars_total": 17080,
           "stars_today": 13,
           "description_zh": "用于采集、处理、聚合和写入指标、日志及其他任意数据的智能体。"
         }
