@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-14",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理技能框架、金融语言模型、设备端多语言TTS及WiFi信号空间感知技术，涵盖计算机视觉工具与Android设备控制。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体、金融模型与设备端技术，涵盖WiFi空间感知、个人AI助手、持久记忆框架、金融语言模型及开源工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 7246,
+          "stars_total": 7576,
           "stars_today": 3476,
-          "description_zh": "你的个人 AI 超级智能。私密、简单且极其强大。"
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
         {
           "rank": 2,
@@ -20,9 +20,9 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 81025,
+          "stars_total": 81856,
           "stars_today": 2971,
-          "description_zh": "面向真正工程师的技能。直接来自我的 .claude 目录。"
+          "description_zh": "为真正的工程师打造的技能集。直接来自我的.claude目录。"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/rohitg00/agentmemory",
           "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
           "language": "TypeScript",
-          "stars_total": 8653,
+          "stars_total": 8841,
           "stars_today": 1978,
-          "description_zh": "基于真实世界基准测试的 AI 编码智能体持久化记忆方案（排名第一）。"
+          "description_zh": "基于真实世界基准测试的AI编码智能体持久化记忆方案（排名第一）。"
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 190688,
+          "stars_total": 191024,
           "stars_today": 1801,
           "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 55194,
+          "stars_total": 55600,
           "stars_today": 1757,
-          "description_zh": "π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+          "description_zh": "π RuView 将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/CloakHQ/CloakBrowser",
           "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
           "language": "Python",
-          "stars_total": 10333,
+          "stars_total": 10676,
           "stars_today": 1369,
-          "description_zh": "隐身 Chromium 浏览器，能通过所有机器人检测测试。即插即用的 Playwright 替代方案，带有源码级指纹补丁。30/30 测试全部通过。"
+          "description_zh": "隐形Chromium浏览器，能通过所有机器人检测测试。即插即用的Playwright替代方案，带有源码级指纹补丁。30/30测试全部通过。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/github/spec-kit",
           "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
           "language": "Python",
-          "stars_total": 99058,
+          "stars_total": 99307,
           "stars_today": 1240,
-          "description_zh": "💫 帮助你快速上手规范驱动开发的工具包。"
+          "description_zh": "💫 帮助你开启规范驱动开发的工具包。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/supertone-inc/supertonic",
           "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
           "language": "Swift",
-          "stars_total": 5011,
+          "stars_total": 5217,
           "stars_today": 1163,
-          "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过 ONNX 原生执行。"
+          "description_zh": "闪电般快速、设备端运行的多语言文本转语音——通过ONNX原生执行。"
         },
         {
           "rank": 9,
@@ -90,29 +90,29 @@
           "url": "https://github.com/garrytan/gstack",
           "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
           "language": "TypeScript",
-          "stars_total": 96282,
-          "stars_today": 1083,
-          "description_zh": "使用 Garry Tan 的精确 Claude Code 配置：23 个独到工具，分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA 角色。"
+          "stars_total": 96568,
+          "stars_today": 960,
+          "description_zh": "使用Garry Tan的精确Claude Code配置：23个定制化工具，分别扮演CEO、设计师、工程经理、发布经理、文档工程师和QA角色。"
         },
         {
           "rank": 10,
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-          "language": "Python",
-          "stars_total": 21543,
-          "stars_today": 637,
-          "description_zh": "一套即开即用的智能体技能，适用于研究、科学、工程、分析、金融和写作领域。"
-        },
-        {
-          "rank": 11,
           "name": "Genymobile/scrcpy",
           "url": "https://github.com/Genymobile/scrcpy",
           "description_en": "Display and control your Android device",
           "language": "C",
-          "stars_total": 141061,
-          "stars_today": 589,
-          "description_zh": "显示并控制你的 Android 设备。"
+          "stars_total": 141231,
+          "stars_today": 778,
+          "description_zh": "显示并控制你的Android设备。"
+        },
+        {
+          "rank": 11,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "language": "Python",
+          "stars_total": 21699,
+          "stars_today": 637,
+          "description_zh": "一套即开即用的智能体技能集，适用于研究、科学、工程、分析、金融和写作领域。"
         },
         {
           "rank": 12,
@@ -120,7 +120,7 @@
           "url": "https://github.com/shiyu-coder/Kronos",
           "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
           "language": "Python",
-          "stars_total": 24624,
+          "stars_total": 24738,
           "stars_today": 359,
           "description_zh": "Kronos：金融市场语言的基石模型。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/influxdata/telegraf",
           "description_en": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
           "language": "Go",
-          "stars_total": 17122,
+          "stars_total": 17184,
           "stars_today": 211,
           "description_zh": "用于采集、处理、聚合和写入指标、日志及其他任意数据的智能体。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/roboflow/supervision",
           "description_en": "We write your reusable computer vision tools. 💜",
           "language": "Python",
-          "stars_total": 38737,
+          "stars_total": 38831,
           "stars_today": 59,
           "description_zh": "我们为你编写可复用的计算机视觉工具。💜"
         },
@@ -150,9 +150,9 @@
           "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
           "description_en": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
           "language": "Python",
-          "stars_total": 709,
+          "stars_total": 778,
           "stars_today": 28,
-          "description_zh": "一套参考架构套件，用于构建 GPU 加速的视觉智能体和 AI 驱动的视频分析应用。"
+          "description_zh": "一套参考架构套件，用于构建GPU加速的视觉智能体和AI驱动的视频分析应用。"
         }
       ]
     },
