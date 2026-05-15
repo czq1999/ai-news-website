@@ -2,157 +2,127 @@
   "days": [
     {
       "date": "2026-05-15",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体与工具：涵盖WiFi空间感知、个人AI助手、持久记忆框架、金融语言模型、计算机视觉及多语言TTS等前沿技术。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体与开发工具：个人AI助手、智能体技能框架、科研分析技能、离线多语言TTS、WiFi信号感知、数据采集代理及高速JS运行时等。",
       "projects": [
         {
           "rank": 1,
-          "name": "tinyhumansai/openhuman",
-          "url": "https://github.com/tinyhumansai/openhuman",
-          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-          "language": "Rust",
-          "stars_total": 8201,
-          "stars_today": 3329,
-          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
-        },
-        {
-          "rank": 2,
           "name": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 83459,
-          "stars_today": 2987,
-          "description_zh": "面向真正工程师的技能集。直接来自我的.claude目录。"
+          "stars_total": 84078,
+          "stars_today": 3155,
+          "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
         },
         {
-          "rank": 3,
-          "name": "rohitg00/agentmemory",
-          "url": "https://github.com/rohitg00/agentmemory",
-          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-          "language": "TypeScript",
-          "stars_total": 9279,
-          "stars_today": 1879,
-          "description_zh": "基于真实世界基准测试的AI编程代理持久化记忆方案第一名。"
-        },
-        {
-          "rank": 4,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 191853,
-          "stars_today": 1780,
-          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "name": "ruvnet/RuView",
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 56648,
-          "stars_today": 1715,
-          "description_zh": "π RuView 将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+          "stars_total": 57001,
+          "stars_today": 1865,
+          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
         {
-          "rank": 6,
-          "name": "CloakHQ/CloakBrowser",
-          "url": "https://github.com/CloakHQ/CloakBrowser",
-          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-          "language": "Python",
-          "stars_total": 11358,
-          "stars_today": 1354,
-          "description_zh": "能通过所有机器人检测测试的隐形Chromium浏览器。可直接替代Playwright，并包含源码级指纹补丁。30/30测试全部通过。"
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 192283,
+          "stars_today": 1646,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
         {
-          "rank": 7,
-          "name": "github/spec-kit",
-          "url": "https://github.com/github/spec-kit",
-          "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
-          "language": "Python",
-          "stars_total": 99815,
-          "stars_today": 1232,
-          "description_zh": "💫 帮助你开启规范驱动开发的工具包。"
+          "rank": 4,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 8494,
+          "stars_today": 1272,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
         {
-          "rank": 8,
+          "rank": 5,
           "name": "supertone-inc/supertonic",
           "url": "https://github.com/supertone-inc/supertonic",
           "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
           "language": "Swift",
-          "stars_total": 5553,
-          "stars_today": 1128,
-          "description_zh": "闪电般快速、设备端运行的多语言文本转语音——通过ONNX原生执行。"
+          "stars_total": 5709,
+          "stars_today": 712,
+          "description_zh": "闪电般快速、设备端运行的多语言文本转语音系统——通过ONNX原生运行。"
         },
         {
-          "rank": 9,
-          "name": "garrytan/gstack",
-          "url": "https://github.com/garrytan/gstack",
-          "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-          "language": "TypeScript",
-          "stars_total": 97160,
-          "stars_today": 915,
-          "description_zh": "使用Garry Tan的精确Claude Code配置：23个权威工具，分别扮演CEO、设计师、工程经理、发布经理、文档工程师和QA角色。"
-        },
-        {
-          "rank": 10,
-          "name": "Genymobile/scrcpy",
-          "url": "https://github.com/Genymobile/scrcpy",
-          "description_en": "Display and control your Android device",
-          "language": "C",
-          "stars_total": 141561,
-          "stars_today": 851,
-          "description_zh": "显示和控制你的Android设备。"
-        },
-        {
-          "rank": 11,
+          "rank": 6,
           "name": "K-Dense-AI/scientific-agent-skills",
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
           "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
           "language": "Python",
-          "stars_total": 22028,
-          "stars_today": 654,
-          "description_zh": "一套即开即用的代理技能集，适用于研究、科学、工程、分析、金融和写作领域。"
+          "stars_total": 22178,
+          "stars_today": 643,
+          "description_zh": "一套即开即用的智能体技能，适用于研究、科学、工程、分析、金融和写作领域。"
         },
         {
-          "rank": 12,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 24977,
-          "stars_today": 363,
-          "description_zh": "Kronos：金融市场语言的基础模型。"
+          "stars_total": 134728,
+          "stars_today": 625,
+          "description_zh": "智能体技能的公开仓库"
         },
         {
-          "rank": 13,
-          "name": "influxdata/telegraf",
-          "url": "https://github.com/influxdata/telegraf",
-          "description_en": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-          "language": "Go",
-          "stars_total": 17285,
-          "stars_today": 215,
-          "description_zh": "用于收集、处理、聚合和写入指标、日志及其他任意数据的代理程序。"
-        },
-        {
-          "rank": 14,
-          "name": "roboflow/supervision",
-          "url": "https://github.com/roboflow/supervision",
-          "description_en": "We write your reusable computer vision tools. 💜",
+          "rank": 8,
+          "name": "joeseesun/qiaomu-anything-to-notebooklm",
+          "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+          "description_en": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
           "language": "Python",
-          "stars_total": 39037,
-          "stars_today": 83,
-          "description_zh": "我们为你编写可复用的计算机视觉工具。💜"
+          "stars_total": 2441,
+          "stars_today": 465,
+          "description_zh": "Claude技能：面向NotebookLM的多源内容处理器。支持微信公众号文章、网页、YouTube、PDF、Markdown、搜索查询→播客/PPT/思维导图/测验等。"
         },
         {
-          "rank": 15,
+          "rank": 9,
           "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
           "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
           "description_en": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
           "language": "Python",
-          "stars_total": 948,
-          "stars_today": 62,
-          "description_zh": "用于构建GPU加速视觉代理和AI视频分析应用的参考架构套件。"
+          "stars_total": 1021,
+          "stars_today": 305,
+          "description_zh": "一套参考架构套件，用于构建GPU加速的视觉智能体和AI驱动的视频分析应用。"
+        },
+        {
+          "rank": 10,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Rust",
+          "stars_total": 90479,
+          "stars_today": 289,
+          "description_zh": "极速的JavaScript运行时、打包器、测试运行器和包管理器——全部集成于一体"
+        },
+        {
+          "rank": 11,
+          "name": "influxdata/telegraf",
+          "url": "https://github.com/influxdata/telegraf",
+          "description_en": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "language": "Go",
+          "stars_total": 17324,
+          "stars_today": 213,
+          "description_zh": "用于采集、处理、聚合和写入指标、日志及其他任意数据的代理程序。"
+        },
+        {
+          "rank": 12,
+          "name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description_en": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "language": "TypeScript",
+          "stars_total": 20767,
+          "stars_today": 68,
+          "description_zh": "为Claude Desktop/Claude Code/Windsurf/Cursor提供的MCP工具，用于帮你构建n8n工作流"
         }
       ]
     },
