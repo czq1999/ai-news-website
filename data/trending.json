@@ -1,6 +1,132 @@
 {
   "days": [
     {
+      "date": "2026-05-16",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体技能框架、本地化TTS、WiFi信号感知、视频分析及高性能JS运行时，强调私有化、多模态与开发效率。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars_total": 85046,
+          "stars_today": 3132,
+          "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
+        },
+        {
+          "rank": 2,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 57540,
+          "stars_today": 1859,
+          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 192876,
+          "stars_today": 1648,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 4,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 9107,
+          "stars_today": 1271,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
+        },
+        {
+          "rank": 5,
+          "name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "language": "Swift",
+          "stars_total": 6074,
+          "stars_today": 719,
+          "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过ONNX原生运行。"
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars_total": 135183,
+          "stars_today": 689,
+          "description_zh": "智能体技能的公共仓库"
+        },
+        {
+          "rank": 7,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "language": "Python",
+          "stars_total": 22484,
+          "stars_today": 646,
+          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作。"
+        },
+        {
+          "rank": 8,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Rust",
+          "stars_total": 90629,
+          "stars_today": 448,
+          "description_zh": "极速的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
+        },
+        {
+          "rank": 9,
+          "name": "joeseesun/qiaomu-anything-to-notebooklm",
+          "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+          "description_en": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+          "language": "Python",
+          "stars_total": 2730,
+          "stars_today": 438,
+          "description_zh": "Claude技能：面向NotebookLM的多源内容处理器。支持微信公众号文章、网页、YouTube、PDF、Markdown、搜索查询→播客/PPT/思维导图/测验等。"
+        },
+        {
+          "rank": 10,
+          "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "description_en": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+          "language": "Python",
+          "stars_total": 1163,
+          "stars_today": 308,
+          "description_zh": "一套参考架构套件，用于构建GPU加速的视觉智能体和AI驱动的视频分析应用。"
+        },
+        {
+          "rank": 11,
+          "name": "influxdata/telegraf",
+          "url": "https://github.com/influxdata/telegraf",
+          "description_en": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "language": "Go",
+          "stars_total": 17421,
+          "stars_today": 212,
+          "description_zh": "用于收集、处理、聚合和写入指标、日志及其他任意数据的代理。"
+        },
+        {
+          "rank": 12,
+          "name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description_en": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "language": "TypeScript",
+          "stars_total": 20905,
+          "stars_today": 68,
+          "description_zh": "一个用于Claude Desktop/Claude Code/Windsurf/Cursor的MCP，可为你构建n8n工作流"
+        }
+      ]
+    },
+    {
       "date": "2026-05-15",
       "summary_zh": "今日GitHub热门项目聚焦AI智能体技能框架、本地化TTS、WiFi信号感知、视频分析及高性能JS运行时，强调私有化、多模态与开发效率。",
       "projects": [
@@ -3831,152 +3957,6 @@
           "stars_total": 4257,
           "stars_today": 107,
           "description_zh": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "summary_zh": "今日GitHub趋势聚焦AI开发工具创新：Claude代码行为优化与记忆增强插件、自进化智能体实现高效系统控制、开源语音合成工具、云端智能体构建模板、AI文件类型检测工具、WhatsApp命令行客户端、轻量级AI知识引擎、大模型加速解码技术，以及大模型实践教程。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "forrestchang/andrej-karpathy-skills",
-          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "language": "",
-          "stars_total": 48864,
-          "stars_today": 7939,
-          "description_zh": "一个单独的CLAUDE.md文件，用于改进Claude Code的行为，源自Andrej Karpathy对LLM编码常见陷阱的观察总结。"
-        },
-        {
-          "rank": 2,
-          "name": "thedotmack/claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-          "language": "TypeScript",
-          "stars_total": 59353,
-          "stars_today": 1907,
-          "description_zh": "一款Claude Code插件，能自动记录编码会话中Claude的所有操作，通过AI（使用Claude的agent-sdk）进行压缩处理，并将相关上下文注入未来的会话中。"
-        },
-        {
-          "rank": 3,
-          "name": "Lordog/dive-into-llms",
-          "url": "https://github.com/Lordog/dive-into-llms",
-          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
-          "language": "Jupyter Notebook",
-          "stars_total": 30585,
-          "stars_today": 1394,
-          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
-        },
-        {
-          "rank": 4,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source voice synthesis studio",
-          "language": "TypeScript",
-          "stars_total": 18953,
-          "stars_today": 887,
-          "description_zh": "开源语音合成工作室"
-        },
-        {
-          "rank": 5,
-          "name": "lsdefine/GenericAgent",
-          "url": "https://github.com/lsdefine/GenericAgent",
-          "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-          "language": "Python",
-          "stars_total": 2655,
-          "stars_today": 883,
-          "description_zh": "自我进化智能体：从3300行种子代码生长技能树，以降低6倍的token消耗实现完全系统控制。"
-        },
-        {
-          "rank": 6,
-          "name": "google/magika",
-          "url": "https://github.com/google/magika",
-          "description_en": "Fast and accurate AI powered file content types detection",
-          "language": "Python",
-          "stars_total": 14584,
-          "stars_today": 871,
-          "description_zh": "基于AI的快速精准文件内容类型检测工具"
-        },
-        {
-          "rank": 7,
-          "name": "EvoMap/evolver",
-          "url": "https://github.com/EvoMap/evolver",
-          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-          "language": "JavaScript",
-          "stars_total": 3069,
-          "stars_today": 866,
-          "description_zh": "基于GEP的AI智能体自我进化引擎——基因组进化协议 | evomap.ai"
-        },
-        {
-          "rank": 8,
-          "name": "vercel-labs/open-agents",
-          "url": "https://github.com/vercel-labs/open-agents",
-          "description_en": "An open source template for building cloud agents.",
-          "language": "TypeScript",
-          "stars_total": 3097,
-          "stars_today": 735,
-          "description_zh": "构建云端智能体的开源模板"
-        },
-        {
-          "rank": 9,
-          "name": "BasedHardware/omi",
-          "url": "https://github.com/BasedHardware/omi",
-          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
-          "language": "Dart",
-          "stars_total": 8944,
-          "stars_today": 488,
-          "description_zh": "能观察屏幕、聆听对话并指导操作的AI助手"
-        },
-        {
-          "rank": 10,
-          "name": "SimoneAvogadro/android-reverse-engineering-skill",
-          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-          "description_en": "Claude Code skill to support Android app's reverse engineering",
-          "language": "Shell",
-          "stars_total": 2132,
-          "stars_today": 375,
-          "description_zh": "支持Android应用逆向工程的Claude Code技能模块"
-        },
-        {
-          "rank": 11,
-          "name": "steipete/wacli",
-          "url": "https://github.com/steipete/wacli",
-          "description_en": "WhatsApp CLI",
-          "language": "Go",
-          "stars_total": 1623,
-          "stars_today": 354,
-          "description_zh": "WhatsApp命令行客户端"
-        },
-        {
-          "rank": 12,
-          "name": "z-lab/dflash",
-          "url": "https://github.com/z-lab/dflash",
-          "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
-          "language": "Python",
-          "stars_total": 1554,
-          "stars_today": 183,
-          "description_zh": "DFlash：面向闪存推测解码的块扩散技术"
-        },
-        {
-          "rank": 13,
-          "name": "topoteretes/cognee",
-          "url": "https://github.com/topoteretes/cognee",
-          "description_en": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-          "language": "Python",
-          "stars_total": 15728,
-          "stars_today": 156,
-          "description_zh": "6行代码实现的AI智能体记忆知识引擎"
-        },
-        {
-          "rank": 14,
-          "name": "openai/openai-agents-python",
-          "url": "https://github.com/openai/openai-agents-python",
-          "description_en": "A lightweight, powerful framework for multi-agent workflows",
-          "language": "Python",
-          "stars_total": 21136,
-          "stars_today": 110,
-          "description_zh": "轻量级、功能强大的多智能体工作流框架"
         }
       ]
     }
