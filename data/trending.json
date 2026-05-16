@@ -2,17 +2,17 @@
   "days": [
     {
       "date": "2026-05-16",
-      "summary_zh": "今日GitHub热门项目聚焦全能型开发工具（Bun运行时）、AI智能体框架（科学/写作/金融）、开源视频生成平台（200+模型）、端侧TTS语音合成及WiFi信号空间感知技术。",
+      "summary_zh": "今日GitHub热门项目聚焦全能型JavaScript工具链、开源AI视频生成、本地化多语言TTS、WiFi信号空间感知及代码知识图谱，展现高效开发与AI民主化趋势。",
       "projects": [
         {
           "rank": 1,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 57918,
-          "stars_today": 1859,
-          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+          "stars_total": 10484,
+          "stars_today": 1601,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
         {
           "rank": 2,
@@ -20,19 +20,19 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 193472,
-          "stars_today": 1648,
+          "stars_total": 193789,
+          "stars_today": 1281,
           "description_zh": "一套行之有效的智能体技能框架与软件开发方法论"
         },
         {
           "rank": 3,
-          "name": "tinyhumansai/openhuman",
-          "url": "https://github.com/tinyhumansai/openhuman",
-          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 10018,
-          "stars_today": 1271,
-          "description_zh": "你的个人AI超级智能。私密、简洁且极其强大。"
+          "stars_total": 58161,
+          "stars_today": 990,
+          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
         {
           "rank": 4,
@@ -40,8 +40,8 @@
           "url": "https://github.com/supertone-inc/supertonic",
           "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
           "language": "Swift",
-          "stars_total": 6416,
-          "stars_today": 719,
+          "stars_total": 6684,
+          "stars_today": 745,
           "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过ONNX原生运行。"
         },
         {
@@ -50,48 +50,38 @@
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
           "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
           "language": "Python",
-          "stars_total": 22817,
-          "stars_today": 646,
+          "stars_total": 23007,
+          "stars_today": 669,
           "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作"
         },
         {
           "rank": 6,
-          "name": "pranshuparmar/witr",
-          "url": "https://github.com/pranshuparmar/witr",
-          "description_en": "Why is this running?",
-          "language": "Go",
-          "stars_total": 16573,
-          "stars_today": 484,
-          "description_zh": "为什么这个在运行？"
-        },
-        {
-          "rank": 7,
           "name": "oven-sh/bun",
           "url": "https://github.com/oven-sh/bun",
           "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
           "language": "Rust",
-          "stars_total": 90812,
-          "stars_today": 448,
+          "stars_total": 91057,
+          "stars_today": 414,
           "description_zh": "极速的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "colbymchenry/codegraph",
           "url": "https://github.com/colbymchenry/codegraph",
           "description_en": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
           "language": "TypeScript",
-          "stars_total": 2140,
+          "stars_total": 2355,
           "stars_today": 397,
           "description_zh": "为Claude Code预索引的代码知识图谱——更少的令牌、更少的工具调用、100%本地运行"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Anil-matcha/Open-Generative-AI",
           "url": "https://github.com/Anil-matcha/Open-Generative-AI",
           "description_en": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
           "language": "JavaScript",
-          "stars_total": 14096,
-          "stars_today": 356,
+          "stars_total": 14292,
+          "stars_today": 393,
           "description_zh": "AI视频平台的开源替代方案——免费AI图像与视频生成工作室，支持200+模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，采用MIT许可证。"
         }
       ]
