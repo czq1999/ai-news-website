@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-17",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具链：Bun极速JS运行时、多模态AI视频生成、本地TTS语音合成、WiFi信号空间感知，以及代码知识图谱优化，展现高效开发与边缘智能趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体、开源工具与基础设施：涵盖个人AI助手、全软件CLI化、调度平台、高速JS运行时、开源视频生成、全球情报追踪、AI编码技能注册表、生产级Agent教程、语音平台及科研Agent技能。",
       "projects": [
         {
           "rank": 1,
@@ -10,79 +10,179 @@
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 11241,
-          "stars_today": 1549,
-          "description_zh": "你的个人AI超级智能。私密、简洁且极其强大。"
+          "stars_total": 11733,
+          "stars_today": 1694,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
         {
           "rank": 2,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 194418,
-          "stars_today": 1305,
-          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论"
-        },
-        {
-          "rank": 3,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 58648,
-          "stars_today": 1010,
-          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
-        },
-        {
-          "rank": 4,
-          "name": "supertone-inc/supertonic",
-          "url": "https://github.com/supertone-inc/supertonic",
-          "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-          "language": "Swift",
-          "stars_total": 7117,
-          "stars_today": 749,
-          "description_zh": "闪电般快速的设备端多语言文本转语音——通过ONNX原生运行。"
-        },
-        {
-          "rank": 5,
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-          "language": "Python",
-          "stars_total": 23411,
-          "stars_today": 673,
-          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作"
-        },
-        {
-          "rank": 6,
-          "name": "colbymchenry/codegraph",
-          "url": "https://github.com/colbymchenry/codegraph",
-          "description_en": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-          "language": "TypeScript",
-          "stars_total": 2802,
-          "stars_today": 416,
-          "description_zh": "为Claude Code预索引的代码知识图谱——更少的令牌、更少的工具调用、100%本地运行"
-        },
-        {
-          "rank": 7,
           "name": "oven-sh/bun",
           "url": "https://github.com/oven-sh/bun",
           "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
           "language": "Rust",
-          "stars_total": 91468,
-          "stars_today": 397,
-          "description_zh": "极速的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
+          "stars_total": 91600,
+          "stars_today": 908,
+          "description_zh": "极快的JavaScript运行时、打包器、测试运行器和包管理器——集于一身。"
         },
         {
-          "rank": 8,
+          "rank": 3,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars_total": 2980,
+          "stars_today": 860,
+          "description_zh": "为Claude Code预索引的代码知识图谱——更少的令牌、更少的工具调用，100%本地运行"
+        },
+        {
+          "rank": 4,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "language": "Python",
+          "stars_total": 23558,
+          "stars_today": 764,
+          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作。"
+        },
+        {
+          "rank": 5,
           "name": "Anil-matcha/Open-Generative-AI",
           "url": "https://github.com/Anil-matcha/Open-Generative-AI",
           "description_en": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
           "language": "JavaScript",
-          "stars_total": 14651,
-          "stars_today": 317,
-          "description_zh": "AI视频平台的开源替代方案——免费AI图像与视频生成工作室，支持200+模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，MIT许可。"
+          "stars_total": 14785,
+          "stars_today": 704,
+          "description_zh": "AI视频平台的开源替代方案——免费AI图像与视频生成工作室，支持200+模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，采用MIT许可证。"
+        },
+        {
+          "rank": 6,
+          "name": "calcom/cal.diy",
+          "url": "https://github.com/calcom/cal.diy",
+          "description_en": "Scheduling infrastructure for absolutely everyone.",
+          "language": "TypeScript",
+          "stars_total": 43020,
+          "stars_today": 425,
+          "description_zh": "适用于所有人的日程安排基础设施。"
+        },
+        {
+          "rank": 7,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description_en": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+          "language": "TypeScript",
+          "stars_total": 42489,
+          "stars_today": 335,
+          "description_zh": "Shannon Lite是一款面向Web应用和API的自主式白盒AI渗透测试工具。它分析你的源代码，识别攻击向量，并执行真实漏洞利用，在漏洞进入生产环境之前证明其存在。"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 35270,
+          "stars_today": 333,
+          "description_zh": "\"CLI-Anything：让所有软件成为智能体原生应用\" -- CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 9,
+          "name": "dograh-hq/dograh",
+          "url": "https://github.com/dograh-hq/dograh",
+          "description_en": "Open Source Voice Agent Platform",
+          "language": "Python",
+          "stars_total": 1438,
+          "stars_today": 287,
+          "description_zh": "开源语音智能体平台"
+        },
+        {
+          "rank": 10,
+          "name": "NirDiamant/agents-towards-production",
+          "url": "https://github.com/NirDiamant/agents-towards-production",
+          "description_en": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+          "language": "Jupyter Notebook",
+          "stars_total": 19739,
+          "stars_today": 225,
+          "description_zh": "构建生产级GenAI智能体的端到端、代码优先教程。从原型到企业部署。"
+        },
+        {
+          "rank": 11,
+          "name": "knadh/listmonk",
+          "url": "https://github.com/knadh/listmonk",
+          "description_en": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+          "language": "Go",
+          "stars_total": 20372,
+          "stars_today": 222,
+          "description_zh": "高性能、自托管的新闻通讯和邮件列表管理器，配备现代化仪表盘。单一二进制应用。"
+        },
+        {
+          "rank": 12,
+          "name": "TryGhost/Ghost",
+          "url": "https://github.com/TryGhost/Ghost",
+          "description_en": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+          "language": "JavaScript",
+          "stars_total": 53084,
+          "stars_today": 209,
+          "description_zh": "面向现代出版、会员制、订阅和新闻通讯的独立技术。"
+        },
+        {
+          "rank": 13,
+          "name": "medusajs/medusa",
+          "url": "https://github.com/medusajs/medusa",
+          "description_en": "The world's most flexible commerce platform.",
+          "language": "TypeScript",
+          "stars_total": 33263,
+          "stars_today": 200,
+          "description_zh": "世界上最具灵活性的电商平台。"
+        },
+        {
+          "rank": 14,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description_en": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars_total": 62133,
+          "stars_today": 180,
+          "description_zh": "12节课程，助你入门构建AI智能体"
+        },
+        {
+          "rank": 15,
+          "name": "BigBodyCobain/Shadowbroker",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "description_en": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+          "language": "Python",
+          "stars_total": 6732,
+          "stars_today": 165,
+          "description_zh": "面向全球舞台的开源情报工具。在统一界面中追踪从富豪企业/私人飞机、间谍卫星到地震事件的一切。接入AI智能体，让它解析数据并发现此前未见的关联。知识对所有人开放，但很少被公开聚合——直到现在。"
+        },
+        {
+          "rank": 16,
+          "name": "plausible/analytics",
+          "url": "https://github.com/plausible/analytics",
+          "description_en": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+          "language": "Elixir",
+          "stars_total": 25102,
+          "stars_today": 128,
+          "description_zh": "开源、隐私优先的网站分析工具。轻量级、无Cookie的Google Analytics替代方案。可自托管或使用云服务。"
+        },
+        {
+          "rank": 17,
+          "name": "Light-Heart-Labs/DreamServer",
+          "url": "https://github.com/Light-Heart-Labs/DreamServer",
+          "description_en": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
+          "language": "Python",
+          "stars_total": 958,
+          "stars_today": 89,
+          "description_zh": "本地AI，无处不在，人人可用——LLM推理、聊天界面、语音、智能体、工作流、RAG和图像生成。无需云端，无需订阅。"
+        },
+        {
+          "rank": 18,
+          "name": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "language": "TypeScript",
+          "stars_total": 2594,
+          "stars_today": 44,
+          "description_zh": "面向专业AI编程智能体的安全、经过验证的技能注册表。可绝对放心地扩展Antigravity、Claude Code、Cursor、Copilot等工具。"
         }
       ]
     },
