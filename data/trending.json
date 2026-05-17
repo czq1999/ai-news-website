@@ -1,6 +1,92 @@
 {
   "days": [
     {
+      "date": "2026-05-17",
+      "summary_zh": "今日GitHub热门项目聚焦全能型工具：Bun极速运行时、开源AI视频生成、本地TTS语音合成、WiFi信号感知技术，以及代码知识图谱优化，展现高效开发与AI落地趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 10802,
+          "stars_today": 1549,
+          "description_zh": "你的个人AI超级智能。私密、简洁且极其强大。"
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 194074,
+          "stars_today": 1305,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论"
+        },
+        {
+          "rank": 3,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 58383,
+          "stars_today": 1010,
+          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+        },
+        {
+          "rank": 4,
+          "name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "language": "Swift",
+          "stars_total": 6934,
+          "stars_today": 749,
+          "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过ONNX原生运行。"
+        },
+        {
+          "rank": 5,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "language": "Python",
+          "stars_total": 23186,
+          "stars_today": 673,
+          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作"
+        },
+        {
+          "rank": 6,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars_total": 2573,
+          "stars_today": 416,
+          "description_zh": "为Claude Code预索引的代码知识图谱——更少的令牌、更少的工具调用、100%本地运行"
+        },
+        {
+          "rank": 7,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Rust",
+          "stars_total": 91271,
+          "stars_today": 397,
+          "description_zh": "极速的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
+        },
+        {
+          "rank": 8,
+          "name": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description_en": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "language": "JavaScript",
+          "stars_total": 14477,
+          "stars_today": 317,
+          "description_zh": "AI视频平台的开源替代方案——免费AI图像与视频生成工作室，支持200+模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，MIT许可。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-16",
       "summary_zh": "今日GitHub热门项目聚焦全能型JavaScript工具链、开源AI视频生成、本地化多语言TTS、WiFi信号空间感知及代码知识图谱，展现高效开发与AI民主化趋势。",
       "projects": [
@@ -3761,162 +3847,6 @@
           "stars_total": 6485,
           "stars_today": 31,
           "description_zh": "DeepGEMM：具备细粒度缩放功能的清洁高效FP8通用矩阵乘法内核"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-17",
-      "summary_zh": "今日GitHub趋势聚焦AI智能体进化与多模态开发：Evolver等项目的自进化引擎显著降低计算消耗，Claude Code技能库扩展至逆向工程与游戏开发，同时开源语音合成、屏幕交互AI及运维智能体工具包涌现，呈现智能体技术向高效能、专业化发展的趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 157557,
-          "stars_today": 1645,
-          "description_zh": "行之有效的智能体技能框架与软件开发方法论"
-        },
-        {
-          "rank": 2,
-          "name": "Lordog/dive-into-llms",
-          "url": "https://github.com/Lordog/dive-into-llms",
-          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
-          "language": "Jupyter Notebook",
-          "stars_total": 31460,
-          "stars_today": 949,
-          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
-        },
-        {
-          "rank": 3,
-          "name": "google/magika",
-          "url": "https://github.com/google/magika",
-          "description_en": "Fast and accurate AI powered file content types detection",
-          "language": "Python",
-          "stars_total": 15326,
-          "stars_today": 949,
-          "description_zh": "基于AI的快速精准文件内容类型检测工具"
-        },
-        {
-          "rank": 4,
-          "name": "lsdefine/GenericAgent",
-          "url": "https://github.com/lsdefine/GenericAgent",
-          "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-          "language": "Python",
-          "stars_total": 3474,
-          "stars_today": 848,
-          "description_zh": "自进化智能体：从3300行种子代码生长技能树，以降低6倍token消耗实现完整系统控制"
-        },
-        {
-          "rank": 5,
-          "name": "BasedHardware/omi",
-          "url": "https://github.com/BasedHardware/omi",
-          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
-          "language": "Dart",
-          "stars_total": 9683,
-          "stars_today": 821,
-          "description_zh": "能看见你的屏幕、聆听对话并指导你行动的AI助手"
-        },
-        {
-          "rank": 6,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source voice synthesis studio",
-          "language": "TypeScript",
-          "stars_total": 19685,
-          "stars_today": 802,
-          "description_zh": "开源语音合成工作室"
-        },
-        {
-          "rank": 7,
-          "name": "EvoMap/evolver",
-          "url": "https://github.com/EvoMap/evolver",
-          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-          "language": "JavaScript",
-          "stars_total": 3999,
-          "stars_today": 750,
-          "description_zh": "基于GEP驱动的AI智能体自进化引擎。基因组进化协议。| evomap.ai"
-        },
-        {
-          "rank": 8,
-          "name": "openai/openai-agents-python",
-          "url": "https://github.com/openai/openai-agents-python",
-          "description_en": "A lightweight, powerful framework for multi-agent workflows",
-          "language": "Python",
-          "stars_total": 21712,
-          "stars_today": 624,
-          "description_zh": "轻量级、功能强大的多智能体工作流框架"
-        },
-        {
-          "rank": 9,
-          "name": "SimoneAvogadro/android-reverse-engineering-skill",
-          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-          "description_en": "Claude Code skill to support Android app's reverse engineering",
-          "language": "Shell",
-          "stars_total": 2669,
-          "stars_today": 558,
-          "description_zh": "支持Android应用逆向工程的Claude Code技能"
-        },
-        {
-          "rank": 10,
-          "name": "Donchitos/Claude-Code-Game-Studios",
-          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-          "description_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-          "language": "Shell",
-          "stars_total": 11649,
-          "stars_today": 405,
-          "description_zh": "将Claude Code转化为完整游戏开发工作室——49个AI智能体、72项工作流技能，以及模拟真实工作室层级的完整协作系统"
-        },
-        {
-          "rank": 11,
-          "name": "z-lab/dflash",
-          "url": "https://github.com/z-lab/dflash",
-          "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
-          "language": "Python",
-          "stars_total": 1778,
-          "stars_today": 285,
-          "description_zh": "DFlash：面向Flash推测解码的块扩散技术"
-        },
-        {
-          "rank": 12,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 35748,
-          "stars_today": 279,
-          "description_zh": "面向编程智能体的Chrome开发者工具"
-        },
-        {
-          "rank": 13,
-          "name": "Tracer-Cloud/opensre",
-          "url": "https://github.com/Tracer-Cloud/opensre",
-          "description_en": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
-          "language": "Python",
-          "stars_total": 1313,
-          "stars_today": 257,
-          "description_zh": "构建专属AI站点可靠性工程（SRE）智能体。面向AI时代的开源工具包 ✨"
-        },
-        {
-          "rank": 14,
-          "name": "pingdotgg/t3code",
-          "url": "https://github.com/pingdotgg/t3code",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 9368,
-          "stars_today": 229,
-          "description_zh": ""
-        },
-        {
-          "rank": 15,
-          "name": "lukilabs/craft-agents-oss",
-          "url": "https://github.com/lukilabs/craft-agents-oss",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 4257,
-          "stars_today": 107,
-          "description_zh": ""
         }
       ]
     }
