@@ -1,6 +1,192 @@
 {
   "days": [
     {
+      "date": "2026-05-18",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体与开发工具：个人AI助手、开源视频生成、全平台调度基础设施、极速JS运行时、开源情报聚合平台，以及面向生产环境的AI代理教程与技能注册表。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 13592,
+          "stars_today": 1690,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
+        },
+        {
+          "rank": 2,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Rust",
+          "stars_total": 91743,
+          "stars_today": 910,
+          "description_zh": "极快的JavaScript运行时、打包器、测试运行器和包管理器——集于一身。"
+        },
+        {
+          "rank": 3,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars_total": 3459,
+          "stars_today": 857,
+          "description_zh": "为Claude Code、Codex、Cursor和OpenCode预索引的代码知识图谱——更少的令牌、更少的工具调用、100%本地运行。"
+        },
+        {
+          "rank": 4,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "language": "Python",
+          "stars_total": 23871,
+          "stars_today": 762,
+          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作。"
+        },
+        {
+          "rank": 5,
+          "name": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description_en": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "language": "JavaScript",
+          "stars_total": 15190,
+          "stars_today": 703,
+          "description_zh": "AI视频平台的开源替代方案——免费AI图像与视频生成工作室，支持200+模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，MIT许可。"
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description_en": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars_total": 62636,
+          "stars_today": 485,
+          "description_zh": "12节课程，助你入门构建AI智能体。"
+        },
+        {
+          "rank": 7,
+          "name": "calcom/cal.diy",
+          "url": "https://github.com/calcom/cal.diy",
+          "description_en": "Scheduling infrastructure for absolutely everyone.",
+          "language": "TypeScript",
+          "stars_total": 43315,
+          "stars_today": 433,
+          "description_zh": "面向所有人的日程安排基础设施。"
+        },
+        {
+          "rank": 8,
+          "name": "BigBodyCobain/Shadowbroker",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "description_en": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+          "language": "Python",
+          "stars_total": 7156,
+          "stars_today": 333,
+          "description_zh": "面向全球舞台的开源情报。在统一界面中追踪一切，从富豪的企业/私人飞机、间谍卫星到地震事件。接入AI智能体，让其解析数据并发现此前未见的关联。知识对所有人开放，但很少以公开方式聚合——直到现在。"
+        },
+        {
+          "rank": 9,
+          "name": "knadh/listmonk",
+          "url": "https://github.com/knadh/listmonk",
+          "description_en": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+          "language": "Go",
+          "stars_total": 20637,
+          "stars_today": 242,
+          "description_zh": "高性能、自托管的新闻通讯和邮件列表管理器，配备现代化仪表盘。单一二进制应用。"
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 35742,
+          "stars_today": 238,
+          "description_zh": "\"CLI-Anything：让所有软件成为智能体原生应用\" -- CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 11,
+          "name": "TryGhost/Ghost",
+          "url": "https://github.com/TryGhost/Ghost",
+          "description_en": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+          "language": "JavaScript",
+          "stars_total": 53345,
+          "stars_today": 231,
+          "description_zh": "面向现代出版、会员制、订阅和新闻通讯的独立技术。"
+        },
+        {
+          "rank": 12,
+          "name": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "language": "TypeScript",
+          "stars_total": 3586,
+          "stars_today": 225,
+          "description_zh": "面向专业AI编码智能体的安全、经过验证的技能注册表。可绝对放心地扩展Antigravity、Claude Code、Cursor、Copilot等工具。"
+        },
+        {
+          "rank": 13,
+          "name": "dograh-hq/dograh",
+          "url": "https://github.com/dograh-hq/dograh",
+          "description_en": "Open Source Voice Agent Platform",
+          "language": "Python",
+          "stars_total": 1730,
+          "stars_today": 223,
+          "description_zh": "开源语音智能体平台"
+        },
+        {
+          "rank": 14,
+          "name": "medusajs/medusa",
+          "url": "https://github.com/medusajs/medusa",
+          "description_en": "The world's most flexible commerce platform.",
+          "language": "TypeScript",
+          "stars_total": 33534,
+          "stars_today": 211,
+          "description_zh": "全球最灵活的电商平台。"
+        },
+        {
+          "rank": 15,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description_en": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+          "language": "TypeScript",
+          "stars_total": 42760,
+          "stars_today": 200,
+          "description_zh": "Shannon Lite是一款面向Web应用和API的自主、白盒AI渗透测试工具。它分析你的源代码，识别攻击向量，并执行真实漏洞利用，在漏洞进入生产环境之前证明其存在。"
+        },
+        {
+          "rank": 16,
+          "name": "plausible/analytics",
+          "url": "https://github.com/plausible/analytics",
+          "description_en": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+          "language": "Elixir",
+          "stars_total": 25481,
+          "stars_today": 186,
+          "description_zh": "开源、隐私优先的网站分析。轻量级、无Cookie的Google Analytics替代方案。可自托管或使用云服务。"
+        },
+        {
+          "rank": 17,
+          "name": "NirDiamant/agents-towards-production",
+          "url": "https://github.com/NirDiamant/agents-towards-production",
+          "description_en": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+          "language": "Jupyter Notebook",
+          "stars_total": 19964,
+          "stars_today": 172,
+          "description_zh": "构建生产级GenAI智能体的端到端、代码优先教程。从原型到企业级部署。"
+        },
+        {
+          "rank": 18,
+          "name": "Light-Heart-Labs/DreamServer",
+          "url": "https://github.com/Light-Heart-Labs/DreamServer",
+          "description_en": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
+          "language": "Python",
+          "stars_total": 1217,
+          "stars_today": 112,
+          "description_zh": "本地AI，随时随地，人人可用——LLM推理、聊天界面、语音、智能体、工作流、RAG和图像生成。无需云端，无需订阅。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-17",
       "summary_zh": "今日GitHub热门项目聚焦AI智能体与开发工具：涵盖个人AI助手、开源视频生成、智能体技能注册、生产级Agent教程，以及超快JS运行时Bun和开源调度平台。",
       "projects": [
@@ -3841,112 +4027,6 @@
           "stars_total": 9791,
           "stars_today": 96,
           "description_zh": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-04-18",
-      "summary_zh": "今日GitHub趋势项目聚焦AI自主性与开源工具：强调用户可控的AI模型与数据主权，提供多智能体开发框架及自进化引擎；同时涵盖高效计算内核、大模型实践教程、Linux桌面应用及远程协作工具，呈现开源生态的多元化发展。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "EvoMap/evolver",
-          "url": "https://github.com/EvoMap/evolver",
-          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-          "language": "JavaScript",
-          "stars_total": 4905,
-          "stars_today": 1150,
-          "description_zh": "基于GEP的AI智能体自进化引擎——基因组进化协议 | evomap.ai"
-        },
-        {
-          "rank": 2,
-          "name": "BasedHardware/omi",
-          "url": "https://github.com/BasedHardware/omi",
-          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
-          "language": "Dart",
-          "stars_total": 10313,
-          "stars_today": 617,
-          "description_zh": "能够观察您的屏幕、聆听对话并指导您行动的AI助手"
-        },
-        {
-          "rank": 3,
-          "name": "Lordog/dive-into-llms",
-          "url": "https://github.com/Lordog/dive-into-llms",
-          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
-          "language": "Jupyter Notebook",
-          "stars_total": 31967,
-          "stars_today": 562,
-          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
-        },
-        {
-          "rank": 4,
-          "name": "openai/openai-agents-python",
-          "url": "https://github.com/openai/openai-agents-python",
-          "description_en": "A lightweight, powerful framework for multi-agent workflows",
-          "language": "Python",
-          "stars_total": 22217,
-          "stars_today": 473,
-          "description_zh": "轻量而强大的多智能体工作流框架"
-        },
-        {
-          "rank": 5,
-          "name": "thunderbird/thunderbolt",
-          "url": "https://github.com/thunderbird/thunderbolt",
-          "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-          "language": "TypeScript",
-          "stars_total": 1427,
-          "stars_today": 458,
-          "description_zh": "由您掌控的AI：自由选择模型，完全拥有数据，彻底摆脱供应商锁定。"
-        },
-        {
-          "rank": 6,
-          "name": "SimoneAvogadro/android-reverse-engineering-skill",
-          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-          "description_en": "Claude Code skill to support Android app's reverse engineering",
-          "language": "Shell",
-          "stars_total": 3043,
-          "stars_today": 408,
-          "description_zh": "支持Android应用逆向工程的Claude代码技能"
-        },
-        {
-          "rank": 7,
-          "name": "rustdesk/rustdesk",
-          "url": "https://github.com/rustdesk/rustdesk",
-          "description_en": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-          "language": "Rust",
-          "stars_total": 111980,
-          "stars_today": 351,
-          "description_zh": "开源远程桌面应用，专为自托管设计，可作为TeamViewer的替代方案。"
-        },
-        {
-          "rank": 8,
-          "name": "tractorjuice/arc-kit",
-          "url": "https://github.com/tractorjuice/arc-kit",
-          "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-          "language": "HTML",
-          "stars_total": 667,
-          "stars_today": 143,
-          "description_zh": "企业架构治理与供应商采购工具套件"
-        },
-        {
-          "rank": 9,
-          "name": "aaddrick/claude-desktop-debian",
-          "url": "https://github.com/aaddrick/claude-desktop-debian",
-          "description_en": "Claude Desktop for Debian-based Linux distributions",
-          "language": "Shell",
-          "stars_total": 3430,
-          "stars_today": 39,
-          "description_zh": "适用于Debian系Linux发行版的Claude桌面客户端"
-        },
-        {
-          "rank": 10,
-          "name": "deepseek-ai/DeepGEMM",
-          "url": "https://github.com/deepseek-ai/DeepGEMM",
-          "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-          "language": "Cuda",
-          "stars_total": 6485,
-          "stars_today": 31,
-          "description_zh": "DeepGEMM：具备细粒度缩放功能的清洁高效FP8通用矩阵乘法内核"
         }
       ]
     }
