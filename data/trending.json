@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-19",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体、隐私工具与开源情报，涵盖个人AI助手、学术研究技能、设备端TTS及WiFi空间感知等前沿技术。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体、隐私工具与开源情报，涵盖个人AI助手、学术研究技能、命令行原生软件、多语言TTS及WiFi空间感知等前沿技术。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 17582,
+          "stars_total": 18897,
           "stars_today": 3941,
           "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/Imbad0202/academic-research-skills",
           "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
           "language": "Python",
-          "stars_total": 12010,
+          "stars_total": 13043,
           "stars_today": 1439,
           "description_zh": "面向Claude Code的学术研究技能：研究→写作→审阅→修订→定稿"
         },
@@ -30,9 +30,9 @@
           "url": "https://github.com/CloakHQ/CloakBrowser",
           "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
           "language": "Python",
-          "stars_total": 15337,
+          "stars_total": 15789,
           "stars_today": 1420,
-          "description_zh": "隐身Chromium，能通过所有机器人检测测试。即插即用的Playwright替代方案，带有源码级指纹补丁。30/30测试全部通过。"
+          "description_zh": "隐身Chromium浏览器，能通过所有机器人检测测试。即插即用的Playwright替代方案，带有源码级指纹补丁。30/30测试全部通过。"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/tech-leads-club/agent-skills",
           "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
           "language": "TypeScript",
-          "stars_total": 4084,
+          "stars_total": 4231,
           "stars_today": 1244,
-          "description_zh": "面向专业AI编程Agent的安全、经过验证的技能注册中心。可绝对放心地扩展Antigravity、Claude Code、Cursor、Copilot等工具。"
+          "description_zh": "面向专业AI编程智能体的安全、已验证技能注册中心。可绝对放心地扩展Antigravity、Claude Code、Cursor、Copilot等工具。"
         },
         {
           "rank": 5,
@@ -50,9 +50,9 @@
           "url": "https://github.com/HKUDS/CLI-Anything",
           "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
           "language": "Python",
-          "stars_total": 36730,
+          "stars_total": 37138,
           "stars_today": 1049,
-          "description_zh": "\"CLI-Anything：让所有软件原生支持Agent\" -- CLI-Hub：https://clianything.cc/"
+          "description_zh": "\"CLI-Anything：让所有软件原生支持智能体\" -- CLI-Hub：https://clianything.cc/"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/microsoft/ai-agents-for-beginners",
           "description_en": "12 Lessons to Get Started Building AI Agents",
           "language": "Jupyter Notebook",
-          "stars_total": 63512,
+          "stars_total": 63798,
           "stars_today": 1012,
-          "description_zh": "12节课程，带你入门构建AI Agent"
+          "description_zh": "12节课程，带你入门构建AI智能体"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/BigBodyCobain/Shadowbroker",
           "description_en": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
           "language": "Python",
-          "stars_total": 7777,
+          "stars_total": 7967,
           "stars_today": 767,
-          "description_zh": "面向全球舞台的开源情报。在统一界面中追踪一切：从富豪的企业/私人飞机、间谍卫星到地震事件。接入AI Agent即可解析数据并发现此前未见的相关性。知识对所有人开放，但此前很少公开聚合——直到现在。"
+          "description_zh": "面向全球舞台的开源情报。在统一界面中追踪一切：从富豪的企业/私人飞机、间谍卫星到地震事件。接入AI智能体即可解析数据并发现此前未见的相关性。知识对所有人开放，但鲜有公开聚合——直到现在。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/supertone-inc/supertonic",
           "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
           "language": "Swift",
-          "stars_total": 8388,
+          "stars_total": 8557,
           "stars_today": 715,
-          "description_zh": "超快速、设备端、多语言文本转语音——通过ONNX原生运行。"
+          "description_zh": "超快、设备端、多语言文本转语音——通过ONNX原生运行。"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 59954,
+          "stars_total": 60262,
           "stars_today": 700,
           "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/plausible/analytics",
           "description_en": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
           "language": "Elixir",
-          "stars_total": 26000,
+          "stars_total": 26122,
           "stars_today": 638,
           "description_zh": "开源、隐私优先的网站分析。轻量级、无Cookie的Google Analytics替代方案。支持自托管或云服务。"
         },
@@ -110,9 +110,9 @@
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
           "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
           "language": "Python",
-          "stars_total": 24446,
+          "stars_total": 24651,
           "stars_today": 609,
-          "description_zh": "一套即用型Agent技能，适用于研究、科学、工程、分析、金融和写作。"
+          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作。"
         },
         {
           "rank": 12,
@@ -120,9 +120,9 @@
           "url": "https://github.com/humanlayer/12-factor-agents",
           "description_en": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
           "language": "TypeScript",
-          "stars_total": 20651,
+          "stars_total": 20892,
           "stars_today": 399,
-          "description_zh": "构建真正优秀、足以交付给生产客户的LLM驱动软件，应遵循哪些原则？"
+          "description_zh": "构建真正优秀到可以交付给生产客户的LLM驱动软件，应遵循哪些原则？"
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/NVlabs/Sana",
           "description_en": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
           "language": "Python",
-          "stars_total": 6566,
+          "stars_total": 6805,
           "stars_today": 387,
           "description_zh": "SANA：基于线性扩散Transformer的高效高分辨率图像合成"
         },
@@ -140,9 +140,9 @@
           "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
           "description_en": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
           "language": "Python",
-          "stars_total": 37220,
+          "stars_total": 37565,
           "stars_today": 310,
-          "description_zh": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖。LLM驱动的A股/港股/美股分析系统。"
+          "description_zh": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖。"
         },
         {
           "rank": 15,
@@ -150,7 +150,7 @@
           "url": "https://github.com/ggml-org/llama.cpp",
           "description_en": "LLM inference in C/C++",
           "language": "C++",
-          "stars_total": 111085,
+          "stars_total": 111269,
           "stars_today": 213,
           "description_zh": "使用C/C++进行LLM推理"
         }
