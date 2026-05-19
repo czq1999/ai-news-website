@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-19",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理工具链：智能体框架、持久化记忆、代码知识图谱及令牌优化，同时涵盖隐身浏览器与学术研究自动化。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：智能代理框架、代码知识图谱、Token优化代理及反检测浏览器，强调本地化、高效能与自动化。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 19952,
+          "stars_total": 20720,
           "stars_today": 3991,
           "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/Imbad0202/academic-research-skills",
           "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
           "language": "Python",
-          "stars_total": 13708,
+          "stars_total": 13962,
           "stars_today": 3184,
           "description_zh": "面向Claude Code的学术研究技能：研究→写作→审阅→修订→定稿"
         },
@@ -30,9 +30,9 @@
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 137318,
-          "stars_today": 2014,
-          "description_zh": "一个单一的CLAUDE.md文件，用于改进Claude Code的行为，源自Andrej Karpathy对LLM编码陷阱的观察。"
+          "stars_total": 137729,
+          "stars_today": 1935,
+          "description_zh": "单个CLAUD.md文件，用于改进Claude Code行为，源自Andrej Karpathy对LLM编码陷阱的观察。"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/colbymchenry/codegraph",
           "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
           "language": "TypeScript",
-          "stars_total": 5951,
+          "stars_total": 6328,
           "stars_today": 1869,
-          "description_zh": "为Claude Code、Codex、Cursor和OpenCode预索引的代码知识图谱——更少的令牌、更少的工具调用、100%本地运行。"
+          "description_zh": "为Claude Code、Codex、Cursor和OpenCode预构建的代码知识图谱——更少令牌、更少工具调用、100%本地运行。"
         },
         {
           "rank": 5,
@@ -50,9 +50,9 @@
           "url": "https://github.com/rohitg00/agentmemory",
           "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
           "language": "TypeScript",
-          "stars_total": 13754,
+          "stars_total": 13977,
           "stars_today": 1626,
-          "description_zh": "#1 基于真实世界基准测试的AI编码智能体持久化记忆方案"
+          "description_zh": "#1 基于真实世界基准测试的AI编码代理持久化内存方案"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 197914,
+          "stars_total": 198224,
           "stars_today": 1620,
-          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
+          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/CloakHQ/CloakBrowser",
           "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
           "language": "Python",
-          "stars_total": 16138,
+          "stars_total": 16395,
           "stars_today": 1466,
-          "description_zh": "隐形Chromium浏览器，能通过所有机器人检测测试。即插即用的Playwright替代方案，带有源码级指纹补丁。30/30测试全部通过。"
+          "description_zh": "隐身Chromium浏览器，能通过所有机器人检测测试。即插即用的Playwright替代方案，带有源码级指纹补丁。30/30测试全部通过。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/HKUDS/CLI-Anything",
           "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
           "language": "Python",
-          "stars_total": 37427,
+          "stars_total": 37600,
           "stars_today": 1027,
-          "description_zh": "\"CLI-Anything：让所有软件原生支持智能体\" -- CLI-Hub：https://clianything.cc/"
+          "description_zh": "\"CLI-Anything：让所有软件实现代理原生\" -- CLI-Hub：https://clianything.cc/"
         },
         {
           "rank": 9,
@@ -90,9 +90,9 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 100927,
+          "stars_total": 101386,
           "stars_today": 983,
-          "description_zh": "一个完整的AI代理机构触手可及——从前端巫师到Reddit社区忍者，从灵感注入者到现实检验者。每个代理都是具有个性、流程和成熟交付物的专业专家。"
+          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是具有个性、流程和可交付成果的领域专家。"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/Diolinux/PhotoGIMP",
           "description_en": "A Patch for GIMP 3+ for Photoshop Users",
           "language": "CSS",
-          "stars_total": 10542,
+          "stars_total": 10687,
           "stars_today": 930,
           "description_zh": "面向Photoshop用户的GIMP 3+补丁。"
         },
@@ -110,9 +110,9 @@
           "url": "https://github.com/microsoft/ai-agents-for-beginners",
           "description_en": "12 Lessons to Get Started Building AI Agents",
           "language": "Jupyter Notebook",
-          "stars_total": 64029,
+          "stars_total": 64199,
           "stars_today": 820,
-          "description_zh": "12节课程，带你入门构建AI智能体。"
+          "description_zh": "12节入门课程，教你构建AI代理。"
         },
         {
           "rank": 12,
@@ -120,9 +120,9 @@
           "url": "https://github.com/humanlayer/12-factor-agents",
           "description_en": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
           "language": "TypeScript",
-          "stars_total": 21018,
+          "stars_total": 21111,
           "stars_today": 733,
-          "description_zh": "构建真正足够好、可以交付给生产客户的LLM驱动软件，我们可以使用哪些原则？"
+          "description_zh": "构建真正足以交付给生产客户的LLM驱动软件，我们可以遵循哪些原则？"
         },
         {
           "rank": 13,
@@ -130,9 +130,9 @@
           "url": "https://github.com/rtk-ai/rtk",
           "description_en": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
           "language": "Rust",
-          "stars_total": 50502,
+          "stars_total": 50728,
           "stars_today": 667,
-          "description_zh": "CLI代理，在常见开发命令上可将LLM令牌消耗降低60-90%。单个Rust二进制文件，零依赖。"
+          "description_zh": "CLI代理，可将常见开发命令的LLM令牌消耗降低60-90%。单个Rust二进制文件，零依赖。"
         },
         {
           "rank": 14,
@@ -140,9 +140,9 @@
           "url": "https://github.com/Alishahryar1/free-claude-code",
           "description_en": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
           "language": "Python",
-          "stars_total": 26036,
+          "stars_total": 26222,
           "stars_today": 543,
-          "description_zh": "在终端、VSCode扩展或Discord中免费使用claude-code（支持语音），类似OpenClaw。"
+          "description_zh": "在终端、VSCode扩展或Discord中免费使用claude-code（类似OpenClaw，支持语音）。"
         },
         {
           "rank": 15,
@@ -150,9 +150,9 @@
           "url": "https://github.com/HKUDS/ViMax",
           "description_en": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
           "language": "Python",
-          "stars_total": 5180,
+          "stars_total": 5323,
           "stars_today": 504,
-          "description_zh": "\"ViMax：智能体式视频生成（导演、编剧、制片人与视频生成器一体化）\""
+          "description_zh": "\"ViMax：代理式视频生成（导演、编剧、制片人与视频生成器一体化）\""
         },
         {
           "rank": 16,
@@ -160,7 +160,7 @@
           "url": "https://github.com/anthropics/claude-plugins-official",
           "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "language": "Python",
-          "stars_total": 19916,
+          "stars_total": 20068,
           "stars_today": 127,
           "description_zh": "由Anthropic官方管理的高质量Claude Code插件目录。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/pascalorg/editor",
           "description_en": "Create and share 3D architectural projects.",
           "language": "TypeScript",
-          "stars_total": 15754,
+          "stars_total": 15813,
           "stars_today": 88,
           "description_zh": "创建并分享3D建筑项目。"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/frappe/erpnext",
           "description_en": "Free and Open Source Enterprise Resource Planning (ERP)",
           "language": "Python",
-          "stars_total": 34105,
+          "stars_total": 34197,
           "stars_today": 65,
           "description_zh": "免费开源的企业资源规划（ERP）系统。"
         }
