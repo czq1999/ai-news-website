@@ -1,5 +1,71 @@
 [
   {
+    "id": "b94815cf9554bff1df96add15e8979de",
+    "title_en": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+    "published_at": "2026-05-19T01:10:12.000Z",
+    "fetched_at": "2026-05-19T02:29:10.836Z",
+    "title_zh": "LG将于今年发布首款1000Hz、1080p游戏显示器",
+    "summary_zh": "LG宣布计划在今年推出全球首款刷新率高达1000Hz的1080p游戏显示器，这一突破性技术将极大提升动态画面的流畅度，为电竞玩家和追求极致响应速度的用户带来前所未有的体验。该产品标志着显示器刷新率竞赛进入新阶段。",
+    "category": "product"
+  },
+  {
+    "id": "9b154231c9e453fc1dbd76411eb5c152",
+    "title_en": "Here’s why Elon Musk lost his suit against OpenAI",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "published_at": "2026-05-19T00:53:10.000Z",
+    "fetched_at": "2026-05-19T02:29:11.181Z",
+    "title_zh": "埃隆·马斯克为何输掉对OpenAI的诉讼",
+    "summary_zh": "法院驳回埃隆·马斯克对OpenAI的诉讼，原因在于其未能提供充分证据证明OpenAI违背了非营利初衷。此案凸显了法律上界定“使命偏离”的难度，以及创始人与公司治理之间的复杂关系。",
+    "category": "industry"
+  },
+  {
+    "id": "d8859cfa6328132ab539eff087a26d94",
+    "title_en": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "published_at": "2026-05-18T21:29:31.000Z",
+    "fetched_at": "2026-05-19T02:29:09.959Z",
+    "title_zh": "SandboxAQ将药物发现模型引入Claude，无需计算博士学位",
+    "summary_zh": "SandboxAQ宣布将其先进的AI药物发现模型集成到Anthropic的Claude平台中，旨在降低使用门槛，让没有计算生物学背景的研究人员也能轻松利用AI加速新药研发。此举有望推动药物发现领域的民主化，使更多科研团队受益于大模型能力。",
+    "category": "product"
+  },
+  {
+    "id": "a8e70fff32c6a8215ccfb8f3d0a83bcc",
+    "title_en": "Volvo teases a new affordable EV to replace discontinued EX30",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
+    "published_at": "2026-05-18T20:41:09.000Z",
+    "fetched_at": "2026-05-19T02:29:10.836Z",
+    "title_zh": "沃尔沃预告一款新的平价电动车，以取代停产的EX30",
+    "summary_zh": "沃尔沃透露正在开发一款新的平价电动车型，旨在替代此前停产的EX30。新车将主打性价比，进一步降低电动出行门槛，预计将采用更紧凑的设计和更高效的电池技术，以吸引更多主流消费者。",
+    "category": "product"
+  },
+  {
+    "id": "7b9bbcafbdd90476746eeff2562df674",
+    "title_en": "PlayStation exclusives aren&#8217;t coming to PC anymore",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
+    "published_at": "2026-05-18T19:28:42.000Z",
+    "fetched_at": "2026-05-19T02:29:10.836Z",
+    "title_zh": "PlayStation独占游戏将不再登陆PC平台",
+    "summary_zh": "索尼互动娱乐宣布调整策略，未来PlayStation第一方独占游戏将不再移植到PC平台。这一决定意味着玩家若想体验《战神》、《最后生还者》等大作，必须购买PlayStation主机，此举旨在巩固主机生态的独占优势。",
+    "category": "industry"
+  },
+  {
+    "id": "d023da2950a3e14fa36a22e06b9c23e3",
+    "title_en": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "published_at": "2026-05-18T19:27:52.000Z",
+    "fetched_at": "2026-05-19T02:29:09.959Z",
+    "title_zh": "Anthropic收购了曾被OpenAI、Google和Cloudflare使用的开发者工具初创公司",
+    "summary_zh": "Anthropic宣布收购一家知名的开发者工具初创公司，该公司的产品此前被OpenAI、Google和Cloudflare等科技巨头广泛使用。此次收购将增强Anthropic在AI开发工具链上的布局，为其模型训练和部署提供更强大的基础设施支持。",
+    "category": "industry"
+  },
+  {
     "id": "4752f49681f0807ead160544f343390b",
     "title_en": "Roundtables: Inside the Musk v. Altman Trial",
     "source": "MIT Tech Review",
@@ -198,6 +264,17 @@
     "category": "product"
   },
   {
+    "id": "f11f7497be7fb9ba4a4662314d3d03eb",
+    "title_en": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
+    "source": "Wired",
+    "url": "https://www.wired.com/review/review-leica-cine-play-1/",
+    "published_at": "2026-05-18T14:33:00.000Z",
+    "fetched_at": "2026-05-19T02:29:11.109Z",
+    "title_zh": "徕卡Cine Play 1评测：价格不菲但物有所值",
+    "summary_zh": "徕卡Cine Play 1投影仪评测显示，尽管售价高昂，但其卓越的画质、色彩表现和设计工艺使其成为高端家庭影院的理想选择。对于追求极致体验的用户而言，每一分钱都值得。",
+    "category": "product"
+  },
+  {
     "id": "1111e18d64957be7807be37a3806dd5d",
     "title_en": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
     "source": "The Verge",
@@ -361,6 +438,116 @@
     "title_zh": "丹麦夫妇的非洲研究在RFK Jr.疫苗政策中找到舞台",
     "summary_zh": "一对丹麦夫妇在非洲进行的独立疫苗研究，因与罗伯特·F·肯尼迪（RFK Jr.）的反疫苗立场相契合而突然受到关注。该研究质疑疫苗安全性，但其方法学备受主流科学界批评。这一事件凸显了边缘研究如何被政治化并影响公共卫生政策。",
     "category": "research"
+  },
+  {
+    "id": "846e7b632a9c0c966fbb578b4269aa5b",
+    "title_en": "10 Essential Photoshop Plugins That Will Transform Your Workflow",
+    "source": "Designer-daily.com",
+    "url": "https://www.designer-daily.com/10-essential-photoshop-plugins-that-will-transform-your-workflow-226735",
+    "published_at": "2026-05-18T02:23:50Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "10款必装Photoshop插件，彻底改变你的设计工作流",
+    "summary_zh": "文章精选10款Photoshop插件，涵盖智能抠图、色彩调整、特效生成等核心功能，旨在帮助设计师大幅提升效率。这些插件利用AI技术简化复杂操作，如自动选择主体、一键生成光影效果等，让创意工作更专注于设计本身而非繁琐步骤。",
+    "category": "product"
+  },
+  {
+    "id": "3125d418c4974e850cd0361575b9c219",
+    "title_en": "China Economy Slows Sharply as Investment Returns to Contraction",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/pmn/business-pmn/china-economy-slows-sharply-as-investment-returns-to-contraction",
+    "published_at": "2026-05-18T02:18:30Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "中国经济增速显著放缓，投资重回收缩区间",
+    "summary_zh": "最新数据显示中国经济增速明显放缓，固定资产投资再度陷入收缩，反映出内需疲软与外部不确定性加剧。分析人士指出，房地产低迷、消费信心不足及全球贸易摩擦是主要拖累因素，政策层面需加大刺激力度以稳定增长预期。",
+    "category": "industry"
+  },
+  {
+    "id": "c916edfeda9ec01784caeb7d580b1355",
+    "title_en": "アリゾナ大学の学生たちが卒業式でAIの話を始めたエリック・シュミットにブーイングを浴びせる",
+    "source": "Livedoor.com",
+    "url": "https://news.livedoor.com/article/detail/31302285/",
+    "published_at": "2026-05-18T02:03:00Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "亚利桑那大学学生毕业礼上对AI话题施密特报以嘘声",
+    "summary_zh": "在亚利桑那大学毕业典礼上，前谷歌CEO埃里克·施密特发表关于AI的演讲时遭到学生集体嘘声。学生们对AI技术可能带来的就业冲击、隐私问题及社会不平等表达强烈不满，反映出年轻一代对科技巨头主导AI发展的警惕与抵触情绪。",
+    "category": "industry"
+  },
+  {
+    "id": "1e745900313b43511319c1ff26f515a6",
+    "title_en": "Hainan Science Museum / MAD Architects",
+    "source": "ArchDaily",
+    "url": "https://www.archdaily.com/1041579/hainan-science-museum-mad-architects",
+    "published_at": "2026-05-18T02:00:00Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "MAD建筑事务所设计海南科技馆：未来感与自然共生",
+    "summary_zh": "MAD建筑事务所公布海南科技馆设计方案，建筑以流线型银色外观融入热带景观，内部空间强调开放性与互动性。设计灵感源于自然形态，旨在打造一个集科普、展览与公共活动于一体的地标性建筑，展现科技与生态的和谐共存。",
+    "category": "industry"
+  },
+  {
+    "id": "5d50843f612465985a28dbaeede20c7a",
+    "title_en": "The New Hiring Nightmare: Why Relying on AI to Schedule Interviews Is Backfiring on the Service Industry",
+    "source": "Twistedsifter.com",
+    "url": "http://twistedsifter.com/2026/05/job-seeker-was-excited-about-an-interview-at-a-restaurant-but-they-missed-the-interview-because-of-a-mistake-made-by-ai/",
+    "published_at": "2026-05-18T01:46:21Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "招聘新噩梦：服务业依赖AI安排面试反遭反噬",
+    "summary_zh": "服务业企业广泛使用AI自动筛选简历并安排面试，却引发候选人体验恶化、误判频发等问题。AI系统难以理解复杂工作背景，导致合格求职者被拒，而面试时间冲突、沟通机械等弊端更让招聘效率不升反降，业界呼吁重新审视AI在招聘中的角色。",
+    "category": "product"
+  },
+  {
+    "id": "95902bce9c3caffac6e18f62e31c8dc0",
+    "title_en": "Want to jump into the 'China is back' rally? Tread carefully",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/want-to-jump-into-the-china-is-back-rally-tread-carefully/articleshow/131164365.cms",
+    "published_at": "2026-05-18T01:41:15Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "想搭上‘中国回归’反弹行情？请谨慎行事",
+    "summary_zh": "近期中国股市出现‘中国回归’主题的反弹行情，吸引投资者关注。但分析指出，经济基本面疲软、政策不确定性及地缘风险依然存在，盲目追高可能面临回调风险。建议投资者精选个股，关注政策受益领域，并做好风险管理。",
+    "category": "industry"
+  },
+  {
+    "id": "d908200c0baca21ca7441613e9d00aec",
+    "title_en": "India, Sweden elevate ties to Strategic Partnership after Modi-Kristersson talks",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/india-sweden-elevate-ties-to-strategic-partnership-after-modi-kristersson-talks/article70992316.ece",
+    "published_at": "2026-05-18T01:30:49Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "印度与瑞典提升关系至战略伙伴，莫迪与克里斯特松会谈成果",
+    "summary_zh": "印度总理莫迪与瑞典首相克里斯特松举行会谈，双方宣布将双边关系升级为战略伙伴关系。合作领域涵盖绿色能源、数字技术、国防与创新，旨在深化经济与安全合作。此举标志着两国关系迈入新阶段，将共同应对全球挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "b34fd3587698abfed6ec8a07d205947d",
+    "title_en": "Jury to decide fate of Musk's blockbuster suit against OpenAI",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/business/jury-to-decide-fate-of-musks-blockbuster-suit-against-openai/article",
+    "published_at": "2026-05-18T01:26:42Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "陪审团将裁决马斯克对OpenAI的巨额诉讼案",
+    "summary_zh": "马斯克对OpenAI提起的巨额诉讼案将交由陪审团裁决。马斯克指控OpenAI背离非营利初衷，转向商业利益最大化，并涉嫌垄断行为。此案结果可能重塑AI行业格局，影响开源与闭源模型的竞争生态，以及AI技术发展方向。",
+    "category": "industry"
+  },
+  {
+    "id": "9190c584cf5af00411f6f1af028a6167",
+    "title_en": "Jon Favreau On AI In Hollywood: 'I Have A Healthy Concern'",
+    "source": "Deadline",
+    "url": "http://deadline.com/2026/05/jon-favreau-healthy-concern-ai-in-hollywood-1236913962/",
+    "published_at": "2026-05-18T01:09:05Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "乔恩·费儒谈好莱坞AI：我抱有合理的担忧",
+    "summary_zh": "知名导演乔恩·费儒就AI在好莱坞的应用发表看法，表示对AI技术持有‘合理的担忧’。他承认AI在特效、剧本辅助等方面的潜力，但强调必须保护创意工作者的权益，避免技术滥用导致行业生态失衡，呼吁建立伦理规范。",
+    "category": "industry"
+  },
+  {
+    "id": "4a3c5e70c9af7c36096304a18fe474de",
+    "title_en": "Your monthly spend also decides how soon you can retire: Expense tracking apps, AI tools are changing how Indians invest",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/wealth/plan/your-monthly-spend-also-decides-how-soon-you-can-retire-expense-tracking-apps-ai-tools-are-changing-how-indians-invest/articleshow/131131188.cms",
+    "published_at": "2026-05-18T01:00:00Z",
+    "fetched_at": "2026-05-19T02:29:11.822Z",
+    "title_zh": "每月支出也决定你何时退休：记账App与AI工具正改变印度人投资方式",
+    "summary_zh": "印度投资者正借助记账应用和AI理财工具优化个人财务规划。这些工具通过分析消费模式，提供个性化储蓄与投资建议，帮助用户更早实现退休目标。AI的介入让理财变得智能化、自动化，尤其受到年轻一代的青睐，推动投资行为从被动转向主动。",
+    "category": "product"
   },
   {
     "id": "d4f03461c7886d272cda7bc52b7a3648",
@@ -5311,192 +5498,5 @@
     "title_zh": "MAHA在生育问题上持续“诡异”操作引争议",
     "summary_zh": "科技公司MAHA在生育健康领域的系列举措被批评为“诡异且令人不安”。从数据收集到AI辅助决策，其做法引发隐私和伦理担忧。批评者认为公司过度干预个人生育选择，缺乏透明度。MAHA尚未回应争议，但舆论压力持续升温。",
     "category": "product"
-  },
-  {
-    "id": "eed543b4bdb576ca577b23f19807f876",
-    "title_en": "Meta won’t let you block its AI account on Threads",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-    "published_at": "2026-05-12T20:35:23.000Z",
-    "fetched_at": "2026-05-13T02:12:58.104Z",
-    "title_zh": "Meta不允许用户在Threads上屏蔽其AI账号",
-    "summary_zh": "Meta公司宣布，用户将无法在Threads平台上屏蔽其官方AI账号。这一决定引发了用户对隐私和自主控制权的担忧。Meta表示，该AI账号旨在提供辅助功能，但批评者认为这限制了用户的选择权，可能违反平台一贯的社区准则。",
-    "category": "product"
-  },
-  {
-    "id": "2b1beca41640d1741e42eed85578728b",
-    "title_en": "The Audemars Piguet x Swatch Collaboration Is Here for Real",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/this-is-the-real-swatch-x-audemars-piguet-royal-pop-collaboration/",
-    "published_at": "2026-05-12T20:13:26.000Z",
-    "fetched_at": "2026-05-13T02:12:58.302Z",
-    "title_zh": "爱彼 x 斯沃琪联名款正式发布：奢华与亲民的碰撞",
-    "summary_zh": "瑞士高端制表品牌爱彼与大众品牌斯沃琪的联名腕表正式上市。该系列以爱彼经典皇家橡树为设计蓝本，采用斯沃琪生物陶瓷材质，售价亲民。此次合作被视为奢侈品大众化的重要尝试，引发钟表界和收藏家广泛关注。",
-    "category": "product"
-  },
-  {
-    "id": "07ead4f233711c6722e3772cb720b57b",
-    "title_en": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
-    "published_at": "2026-05-12T19:56:50.000Z",
-    "fetched_at": "2026-05-13T02:12:58.104Z",
-    "title_zh": "Meta将告知家长：青少年在Instagram算法中添加了新兴趣",
-    "summary_zh": "Meta推出新功能，当青少年用户在Instagram上添加新的兴趣标签时，系统会通知其家长。此举旨在增强青少年在线安全，让家长更了解孩子的数字行为。然而，隐私倡导者担忧这可能过度监控青少年，引发新的隐私争议。",
-    "category": "product"
-  },
-  {
-    "id": "618b251c17111e5bcb9ef107ff71b33b",
-    "title_en": "Better.com’s AI Agent Resolved 35% of Mortgage Calls Alone",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/artificial-intelligence-2/2026/better-coms-ai-agent-resolved-35-of-mortgage-calls-alone/",
-    "published_at": "2026-05-12T19:38:43Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "Better.com AI客服独立处理35%的抵押贷款电话",
-    "summary_zh": "数字抵押贷款平台Better.com透露，其AI代理已能独立处理35%的客户来电，无需人工介入。该AI系统通过自然语言处理理解客户需求，自动完成查询解答、流程引导等任务，显著降低人工成本并提升响应效率。此举标志着金融科技领域AI客服从辅助工具向核心业务节点的转变。",
-    "category": "product"
-  },
-  {
-    "id": "349d9b093556f2c26d553a0442883d2a",
-    "title_en": "Goldman president says bank is ‘human assembly line’ facing automation",
-    "source": "Financial Post",
-    "url": "https://financialpost.com/fp-finance/banking/goldman-president-says-bank-is-human-assembly-line",
-    "published_at": "2026-05-12T19:37:18Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "高盛总裁：银行是面临自动化的“人类流水线”",
-    "summary_zh": "高盛总裁David Solomon在公开场合表示，银行业本质上是一条“人类流水线”，正面临自动化技术的深刻冲击。他指出，随着AI和机器人流程自动化的发展，大量重复性金融工作将被替代，银行必须主动拥抱技术变革以保持竞争力。这一言论引发行业对金融就业前景的广泛讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "03e4e24c37d444fcd266317b8e6ae3ee",
-    "title_en": "The Cannes Film Festival has started. Here are 5 things that happened on its first day",
-    "source": "seattlepi.com",
-    "url": "https://www.seattlepi.com/entertainment/article/the-cannes-film-festival-has-started-here-are-5-22255487.php",
-    "published_at": "2026-05-12T19:37:13Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "戛纳电影节开幕：首日五大亮点回顾",
-    "summary_zh": "第77届戛纳电影节正式拉开帷幕，首日即呈现多项精彩看点：红毯星光熠熠、开幕影片首映、评审团亮相、大师班开讲以及多部竞赛片首映。作为全球最具影响力的电影盛会之一，本届电影节将持续关注AI对电影工业的影响，并展示前沿技术与艺术创作的融合成果。",
-    "category": "industry"
-  },
-  {
-    "id": "e545fb20cb8d0dc23832be760ab77458",
-    "title_en": "Affirm Brings Pay-Over-Time Options to Google AI Platforms",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/buy-now-pay-later/2026/affirm-brings-pay-over-time-options-google-ai-platforms/",
-    "published_at": "2026-05-12T19:28:34Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "Affirm将分期付款功能引入Google AI平台",
-    "summary_zh": "金融科技公司Affirm宣布与Google合作，将其“先买后付”分期付款服务集成到Google的AI驱动平台中。用户在使用Google购物、搜索等AI功能时，可直接选择Affirm的分期方案完成支付。此举旨在利用AI精准推荐能力，提升消费金融的便捷性和转化率，进一步扩大BNPL在电商生态中的渗透。",
-    "category": "product"
-  },
-  {
-    "id": "0035cd87daa88c7ca377dc158efab07a",
-    "title_en": "Ilya Sutskever Sheds New Light on OpenAI’s Power Struggle in Musk-Altman Case",
-    "source": "Observer",
-    "url": "https://observer.com/2026/05/ilya-sutskever-revisits-openai-ouster/",
-    "published_at": "2026-05-12T19:25:47Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "Ilya Sutskever在马斯克-奥特曼案中披露OpenAI权力斗争新细节",
-    "summary_zh": "在马斯克诉OpenAI案中，联合创始人Ilya Sutskever出庭作证，揭示了OpenAI内部曾发生的激烈权力斗争。他详细描述了公司从非营利向营利转型过程中的分歧，以及董事会与CEO Sam Altman之间的冲突。这些证词为外界理解OpenAI治理结构演变及马斯克诉讼提供了关键线索。",
-    "category": "industry"
-  },
-  {
-    "id": "9b7e20bf88c24d2cd3c31135d403d08b",
-    "title_en": "Microsoft CEO Satya Nadella Takes the Stand to Defend Relationship with OpenAI",
-    "source": "Breitbart News",
-    "url": "https://www.breitbart.com/tech/2026/05/12/microsoft-ceo-satya-nadella-takes-the-stand-to-defend-relationship-with-openai/",
-    "published_at": "2026-05-12T19:24:49Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "微软CEO纳德拉出庭为与OpenAI的关系辩护",
-    "summary_zh": "微软首席执行官Satya Nadella在法庭上作证，就微软与OpenAI的合作关系进行辩护。他强调了双方合作的战略价值，称其推动了AI技术的快速商业化，并否认了有关微软试图控制OpenAI的指控。此案涉及AI行业巨头间的竞争与监管问题，引发业界对科技巨头与初创公司合作模式的关注。",
-    "category": "industry"
-  },
-  {
-    "id": "cb9babc6bf8f99eec29e9cfdbf8af5c6",
-    "title_en": "Diameter's Scott Goodwin says some private credit portfolios are 'almost criminal'",
-    "source": "Business Insider",
-    "url": "https://www.businessinsider.com/scott-goodwin-private-credit-loaded-software-almost-criminal-2026-5",
-    "published_at": "2026-05-12T19:24:45Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "Diameter高管：部分私人信贷投资组合“近乎犯罪”",
-    "summary_zh": "Diameter Capital Partners的Scott Goodwin严厉批评当前私人信贷市场中的某些投资组合，称其风险控制水平“近乎犯罪”。他指出，在AI推动的金融创新浪潮中，部分机构过度追逐高收益而忽视风控，可能导致系统性风险。这一言论反映了业界对私人信贷泡沫的担忧。",
-    "category": "industry"
-  },
-  {
-    "id": "237a4734b898aed3589a6d639a981365",
-    "title_en": "Google races to put Gemini at the center of Android before Apple’s AI reboot",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
-    "published_at": "2026-05-12T19:22:28Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "谷歌加速将Gemini嵌入安卓，抢在苹果AI革命前布局",
-    "summary_zh": "谷歌正全力推进其AI模型Gemini与安卓系统的深度融合，目标是在苹果即将推出的AI功能之前抢占移动端AI生态主导权。Gemini将被集成到安卓的搜索、助手、相机等核心应用中，提供更智能的交互体验。此举标志着移动操作系统AI竞争进入白热化阶段。",
-    "category": "product"
-  },
-  {
-    "id": "845db788ad2acca942fe740b36c30853",
-    "title_en": "Stop managing the past and start building IT’s future",
-    "source": "Redhat.com",
-    "url": "https://www.redhat.com/en/blog/stop-managing-past-and-start-building-its-future",
-    "published_at": "2026-05-12T19:21:43Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "告别过去管理，着手构建IT的未来",
-    "summary_zh": "Redhat发文呼吁企业IT部门应停止对遗留系统的被动维护，转而主动构建面向未来的技术架构。文章指出，AI和云原生技术为IT转型提供了前所未有的机遇，企业需要采用自动化、智能化的运维模式，将资源投入到创新项目中，以在数字化竞争中保持领先。",
-    "category": "industry"
-  },
-  {
-    "id": "ad22464adc099cc52f1ec1a512a47dd7",
-    "title_en": "New futures market for semiconductors comes as AI drives costs skyward",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/05/12/new-futures-market-for-semiconductors-comes-as-ai-drives-costs-skyward.html",
-    "published_at": "2026-05-12T19:21:05Z",
-    "fetched_at": "2026-05-13T19:41:19.921Z",
-    "title_zh": "AI推高成本催生半导体期货新市场",
-    "summary_zh": "随着AI大模型训练和推理对芯片需求的激增，半导体价格波动加剧，催生了全新的半导体期货市场。该市场允许投资者和芯片买家对冲价格风险，类似于大宗商品期货。分析认为，AI驱动的算力需求将持续推高芯片制造成本，这一金融工具的出现将有助于稳定供应链预期。",
-    "category": "industry"
-  },
-  {
-    "id": "1887abd3fd7972ad5e13c463f376470a",
-    "title_en": "Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/iran-is-using-tiny-mosquito-boats-to-shut-down-the-strait-of-hormuz/",
-    "published_at": "2026-05-12T19:06:26.000Z",
-    "fetched_at": "2026-05-12T19:28:59.555Z",
-    "title_zh": "伊朗动用微型“蚊子”快艇封锁霍尔木兹海峡",
-    "summary_zh": "伊朗军方部署大量小型、高速的“蚊子”快艇，试图封锁霍尔木兹海峡这一全球石油运输要道。这种非对称战术旨在以低成本手段对抗大型海军力量，对全球能源供应链和地区安全构成严峻挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "000a74bed36f0cf81280a66950ae37d3",
-    "title_en": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "published_at": "2026-05-12T18:05:15.000Z",
-    "fetched_at": "2026-05-12T19:28:58.889Z",
-    "title_zh": "奥特曼作证：马斯克曾考虑将OpenAI交给其子女",
-    "summary_zh": "在OpenAI与马斯克的法律纠纷中，萨姆·奥特曼出庭作证，披露马斯克曾考虑将OpenAI的控制权交给他的孩子。这一证词揭示了两人之间复杂的关系，以及马斯克对OpenAI未来走向的早期设想，为这场备受瞩目的诉讼增添了新的戏剧性。",
-    "category": "industry"
-  },
-  {
-    "id": "0e25700c8ad5a686ba8e310abd727a75",
-    "title_en": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "published_at": "2026-05-12T17:36:34.000Z",
-    "fetched_at": "2026-05-12T19:28:58.889Z",
-    "title_zh": "Anthropic警告投资者：警惕二级市场平台出售其股份",
-    "summary_zh": "AI公司Anthropic向投资者发出警告，提醒他们注意那些提供其股票交易的二级市场平台。该公司强调，这些非官方交易可能违反公司政策，并带来法律和合规风险。此举旨在保护公司股权结构的稳定，并防止未授权交易扰乱其融资计划。",
-    "category": "industry"
-  },
-  {
-    "id": "61896b729c5e5ac05b89a7fea3878b89",
-    "title_en": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-    "published_at": "2026-05-12T17:34:09.000Z",
-    "fetched_at": "2026-05-12T19:28:59.061Z",
-    "title_zh": "萨姆·奥特曼：马斯克的心理游戏对OpenAI造成了伤害",
-    "summary_zh": "OpenAI CEO萨姆·奥特曼公开表示，埃隆·马斯克对其公司进行的“心理游戏”造成了实质性伤害。在谈及两人的长期纠纷时，奥特曼指责马斯克的行为不仅影响了OpenAI的运营，也对团队士气产生了负面影响，进一步加剧了科技界对AI治理和领导力风格的关注。",
-    "category": "industry"
   }
 ]

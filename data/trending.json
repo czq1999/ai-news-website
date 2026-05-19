@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-05-19",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体、隐私工具与开源情报，涵盖个人AI助手、学术研究技能、设备端TTS及WiFi空间感知等前沿技术。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 17582,
+          "stars_today": 3941,
+          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
+        },
+        {
+          "rank": 2,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars_total": 12010,
+          "stars_today": 1439,
+          "description_zh": "面向Claude Code的学术研究技能：研究→写作→审阅→修订→定稿"
+        },
+        {
+          "rank": 3,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "language": "Python",
+          "stars_total": 15337,
+          "stars_today": 1420,
+          "description_zh": "隐身Chromium，能通过所有机器人检测测试。即插即用的Playwright替代方案，带有源码级指纹补丁。30/30测试全部通过。"
+        },
+        {
+          "rank": 4,
+          "name": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "language": "TypeScript",
+          "stars_total": 4084,
+          "stars_today": 1244,
+          "description_zh": "面向专业AI编程Agent的安全、经过验证的技能注册中心。可绝对放心地扩展Antigravity、Claude Code、Cursor、Copilot等工具。"
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 36730,
+          "stars_today": 1049,
+          "description_zh": "\"CLI-Anything：让所有软件原生支持Agent\" -- CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description_en": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars_total": 63512,
+          "stars_today": 1012,
+          "description_zh": "12节课程，带你入门构建AI Agent"
+        },
+        {
+          "rank": 7,
+          "name": "BigBodyCobain/Shadowbroker",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "description_en": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+          "language": "Python",
+          "stars_total": 7777,
+          "stars_today": 767,
+          "description_zh": "面向全球舞台的开源情报。在统一界面中追踪一切：从富豪的企业/私人飞机、间谍卫星到地震事件。接入AI Agent即可解析数据并发现此前未见的相关性。知识对所有人开放，但此前很少公开聚合——直到现在。"
+        },
+        {
+          "rank": 8,
+          "name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "language": "Swift",
+          "stars_total": 8388,
+          "stars_today": 715,
+          "description_zh": "超快速、设备端、多语言文本转语音——通过ONNX原生运行。"
+        },
+        {
+          "rank": 9,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 59954,
+          "stars_today": 700,
+          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+        },
+        {
+          "rank": 10,
+          "name": "plausible/analytics",
+          "url": "https://github.com/plausible/analytics",
+          "description_en": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+          "language": "Elixir",
+          "stars_total": 26000,
+          "stars_today": 638,
+          "description_zh": "开源、隐私优先的网站分析。轻量级、无Cookie的Google Analytics替代方案。支持自托管或云服务。"
+        },
+        {
+          "rank": 11,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "language": "Python",
+          "stars_total": 24446,
+          "stars_today": 609,
+          "description_zh": "一套即用型Agent技能，适用于研究、科学、工程、分析、金融和写作。"
+        },
+        {
+          "rank": 12,
+          "name": "humanlayer/12-factor-agents",
+          "url": "https://github.com/humanlayer/12-factor-agents",
+          "description_en": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+          "language": "TypeScript",
+          "stars_total": 20651,
+          "stars_today": 399,
+          "description_zh": "构建真正优秀、足以交付给生产客户的LLM驱动软件，应遵循哪些原则？"
+        },
+        {
+          "rank": 13,
+          "name": "NVlabs/Sana",
+          "url": "https://github.com/NVlabs/Sana",
+          "description_en": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+          "language": "Python",
+          "stars_total": 6566,
+          "stars_today": 387,
+          "description_zh": "SANA：基于线性扩散Transformer的高效高分辨率图像合成"
+        },
+        {
+          "rank": 14,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description_en": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+          "language": "Python",
+          "stars_total": 37220,
+          "stars_today": 310,
+          "description_zh": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖。LLM驱动的A股/港股/美股分析系统。"
+        },
+        {
+          "rank": 15,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description_en": "LLM inference in C/C++",
+          "language": "C++",
+          "stars_total": 111085,
+          "stars_today": 213,
+          "description_zh": "使用C/C++进行LLM推理"
+        }
+      ]
+    },
+    {
       "date": "2026-05-18",
       "summary_zh": "今日GitHub热门项目聚焦AI智能体、隐私工具与开源情报，涵盖个人超级智能、学术研究技能、设备端TTS及WiFi空间感知等前沿技术。",
       "projects": [
@@ -3891,112 +4047,6 @@
           "stars_total": 37394,
           "stars_today": 124,
           "description_zh": "Xray，穿透一切。也是最好的 v2ray-core。魔法发生之地。一个多用途的开放平台。"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-19",
-      "summary_zh": "今日GitHub趋势项目聚焦AI自主性与实用工具：涵盖金融终端分析、开源AI控制框架、企业架构治理工具、多智能体工作流、文档管理系统，以及创新的WiFi姿态感知和屏幕交互AI，呈现技术去中心化与垂直领域深度整合趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Fincept-Corporation/FinceptTerminal",
-          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-          "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-          "language": "Python",
-          "stars_total": 6054,
-          "stars_today": 1169,
-          "description_zh": "FinceptTerminal 是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在通过用户友好的环境实现交互式探索和数据驱动的决策。"
-        },
-        {
-          "rank": 2,
-          "name": "openai/openai-agents-python",
-          "url": "https://github.com/openai/openai-agents-python",
-          "description_en": "A lightweight, powerful framework for multi-agent workflows",
-          "language": "Python",
-          "stars_total": 23010,
-          "stars_today": 751,
-          "description_zh": "一个轻量级、功能强大的多智能体工作流框架"
-        },
-        {
-          "rank": 3,
-          "name": "Donchitos/Claude-Code-Game-Studios",
-          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-          "description_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-          "language": "Shell",
-          "stars_total": 13232,
-          "stars_today": 698,
-          "description_zh": "将Claude Code转化为完整的游戏开发工作室——包含49个AI智能体、72项工作流技能，以及模拟真实工作室层级的完整协作系统。"
-        },
-        {
-          "rank": 4,
-          "name": "thunderbird/thunderbolt",
-          "url": "https://github.com/thunderbird/thunderbolt",
-          "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-          "language": "TypeScript",
-          "stars_total": 2087,
-          "stars_today": 696,
-          "description_zh": "由您掌控的AI：自由选择模型，完全拥有数据，彻底消除供应商锁定。"
-        },
-        {
-          "rank": 5,
-          "name": "BasedHardware/omi",
-          "url": "https://github.com/BasedHardware/omi",
-          "description_en": "AI that sees your screen, listens to your conversations and tells you what to do",
-          "language": "Dart",
-          "stars_total": 10998,
-          "stars_today": 687,
-          "description_zh": "能看见您的屏幕、聆听对话并指导您行动的AI助手"
-        },
-        {
-          "rank": 6,
-          "name": "EvoMap/evolver",
-          "url": "https://github.com/EvoMap/evolver",
-          "description_en": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-          "language": "JavaScript",
-          "stars_total": 5404,
-          "stars_today": 525,
-          "description_zh": "基于GEP的AI智能体自进化引擎。基因组进化协议。| evomap.ai"
-        },
-        {
-          "rank": 7,
-          "name": "paperless-ngx/paperless-ngx",
-          "url": "https://github.com/paperless-ngx/paperless-ngx",
-          "description_en": "A community-supported supercharged document management system: scan, index and archive all your documents",
-          "language": "Python",
-          "stars_total": 38745,
-          "stars_today": 382,
-          "description_zh": "社区驱动的超级文档管理系统：扫描、索引并归档您的所有文档"
-        },
-        {
-          "rank": 8,
-          "name": "tractorjuice/arc-kit",
-          "url": "https://github.com/tractorjuice/arc-kit",
-          "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-          "language": "HTML",
-          "stars_total": 926,
-          "stars_today": 263,
-          "description_zh": "企业架构治理与供应商采购工具包"
-        },
-        {
-          "rank": 9,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 47379,
-          "stars_today": 118,
-          "description_zh": "π RuView：WiFi DensePose 将普通WiFi信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
-        },
-        {
-          "rank": 10,
-          "name": "pingdotgg/t3code",
-          "url": "https://github.com/pingdotgg/t3code",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 9791,
-          "stars_today": 96,
-          "description_zh": ""
         }
       ]
     }
