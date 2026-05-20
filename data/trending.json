@@ -1,6 +1,192 @@
 {
   "days": [
     {
+      "date": "2026-05-20",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：智能代理框架、代码知识图谱、令牌优化代理、持久化记忆系统及反检测浏览器，全面提升开发效率与AI协作体验。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 21523,
+          "stars_today": 3973,
+          "description_zh": ""
+        },
+        {
+          "rank": 2,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars_total": 14248,
+          "stars_today": 3164,
+          "description_zh": ""
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 138239,
+          "stars_today": 1955,
+          "description_zh": ""
+        },
+        {
+          "rank": 4,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars_total": 6768,
+          "stars_today": 1850,
+          "description_zh": ""
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 198544,
+          "stars_today": 1623,
+          "description_zh": ""
+        },
+        {
+          "rank": 6,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars_total": 14246,
+          "stars_today": 1609,
+          "description_zh": ""
+        },
+        {
+          "rank": 7,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+          "language": "Python",
+          "stars_total": 16702,
+          "stars_today": 1463,
+          "description_zh": ""
+        },
+        {
+          "rank": 8,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 101728,
+          "stars_today": 1120,
+          "description_zh": ""
+        },
+        {
+          "rank": 9,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 37781,
+          "stars_today": 1038,
+          "description_zh": ""
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description_en": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars_total": 64444,
+          "stars_today": 818,
+          "description_zh": ""
+        },
+        {
+          "rank": 11,
+          "name": "humanlayer/12-factor-agents",
+          "url": "https://github.com/humanlayer/12-factor-agents",
+          "description_en": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+          "language": "TypeScript",
+          "stars_total": 21221,
+          "stars_today": 736,
+          "description_zh": ""
+        },
+        {
+          "rank": 12,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description_en": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+          "language": "Rust",
+          "stars_total": 50991,
+          "stars_today": 704,
+          "description_zh": ""
+        },
+        {
+          "rank": 13,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description_en": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+          "language": "Python",
+          "stars_total": 26414,
+          "stars_today": 563,
+          "description_zh": ""
+        },
+        {
+          "rank": 14,
+          "name": "HKUDS/ViMax",
+          "url": "https://github.com/HKUDS/ViMax",
+          "description_en": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+          "language": "Python",
+          "stars_total": 5494,
+          "stars_today": 503,
+          "description_zh": ""
+        },
+        {
+          "rank": 15,
+          "name": "Diolinux/PhotoGIMP",
+          "url": "https://github.com/Diolinux/PhotoGIMP",
+          "description_en": "A Patch for GIMP 3+ for Photoshop Users",
+          "language": "CSS",
+          "stars_total": 10821,
+          "stars_today": 493,
+          "description_zh": ""
+        },
+        {
+          "rank": 16,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 20265,
+          "stars_today": 171,
+          "description_zh": ""
+        },
+        {
+          "rank": 17,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description_en": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars_total": 15907,
+          "stars_today": 110,
+          "description_zh": ""
+        },
+        {
+          "rank": 18,
+          "name": "frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext",
+          "description_en": "Free and Open Source Enterprise Resource Planning (ERP)",
+          "language": "Python",
+          "stars_total": 34314,
+          "stars_today": 98,
+          "description_zh": ""
+        }
+      ]
+    },
+    {
       "date": "2026-05-19",
       "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：智能代理框架、代码知识图谱、Token优化代理及反检测浏览器，强调本地化、高效能与自动化。",
       "projects": [
@@ -3971,112 +4157,6 @@
           "stars_total": 4772,
           "stars_today": 43,
           "description_zh": "一款适用于 iOS 的灵活 YouTube 增强工具。"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-20",
-      "summary_zh": "今日GitHub趋势项目聚焦AI与数据自主、隐私保护及效率工具。亮点包括：开源金融终端、WiFi人体姿态估计、可控AI框架、文档管理系统、企业架构工具包、全球情报仪表盘、多智能体框架、高效计算内核、广告拦截及网络穿透平台。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Fincept-Corporation/FinceptTerminal",
-          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-          "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-          "language": "Python",
-          "stars_total": 9112,
-          "stars_today": 3129,
-          "description_zh": "FinceptTerminal 是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在通过用户友好的环境实现交互式探索和数据驱动的决策。"
-        },
-        {
-          "rank": 2,
-          "name": "openai/openai-agents-python",
-          "url": "https://github.com/openai/openai-agents-python",
-          "description_en": "A lightweight, powerful framework for multi-agent workflows",
-          "language": "Python",
-          "stars_total": 23842,
-          "stars_today": 909,
-          "description_zh": "一个轻量级、强大的多智能体工作流框架"
-        },
-        {
-          "rank": 3,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 48067,
-          "stars_today": 716,
-          "description_zh": "π RuView：WiFi DensePose 将普通 WiFi 信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
-        },
-        {
-          "rank": 4,
-          "name": "thunderbird/thunderbolt",
-          "url": "https://github.com/thunderbird/thunderbolt",
-          "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-          "language": "TypeScript",
-          "stars_total": 2716,
-          "stars_today": 667,
-          "description_zh": "由你掌控的 AI：选择你的模型，拥有你的数据，消除供应商锁定。"
-        },
-        {
-          "rank": 5,
-          "name": "paperless-ngx/paperless-ngx",
-          "url": "https://github.com/paperless-ngx/paperless-ngx",
-          "description_en": "A community-supported supercharged document management system: scan, index and archive all your documents",
-          "language": "Python",
-          "stars_total": 39314,
-          "stars_today": 611,
-          "description_zh": "一个社区支持的超级文档管理系统：扫描、索引和归档你的所有文档。"
-        },
-        {
-          "rank": 6,
-          "name": "koala73/worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-          "language": "TypeScript",
-          "stars_total": 49833,
-          "stars_today": 477,
-          "description_zh": "实时全球情报仪表板。AI 驱动的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面。"
-        },
-        {
-          "rank": 7,
-          "name": "tractorjuice/arc-kit",
-          "url": "https://github.com/tractorjuice/arc-kit",
-          "description_en": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-          "language": "HTML",
-          "stars_total": 1268,
-          "stars_today": 334,
-          "description_zh": "企业架构治理与供应商采购工具包"
-        },
-        {
-          "rank": 8,
-          "name": "deepseek-ai/DeepGEMM",
-          "url": "https://github.com/deepseek-ai/DeepGEMM",
-          "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-          "language": "Cuda",
-          "stars_total": 6795,
-          "stars_today": 155,
-          "description_zh": "DeepGEMM：具有细粒度缩放功能的简洁高效 FP8 GEMM 内核"
-        },
-        {
-          "rank": 9,
-          "name": "pi-hole/pi-hole",
-          "url": "https://github.com/pi-hole/pi-hole",
-          "description_en": "A black hole for Internet advertisements",
-          "language": "Shell",
-          "stars_total": 57032,
-          "stars_today": 154,
-          "description_zh": "互联网广告的黑洞"
-        },
-        {
-          "rank": 10,
-          "name": "XTLS/Xray-core",
-          "url": "https://github.com/XTLS/Xray-core",
-          "description_en": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-          "language": "Go",
-          "stars_total": 37394,
-          "stars_today": 124,
-          "description_zh": "Xray，穿透一切。也是最好的 v2ray-core。魔法发生之地。一个多用途的开放平台。"
         }
       ]
     }
