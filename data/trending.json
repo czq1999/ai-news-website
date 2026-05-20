@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-20",
-      "summary_zh": "今日GitHub热门项目聚焦AI编码工具链优化，涵盖知识图谱、学术研究、终端代理及插件生态，强调本地化、低Token消耗与专业化Agent框架。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编码工具链优化，包括代码知识图谱、学术研究助手、终端智能代理及Claude插件生态，强调本地化、低Token消耗与专业化Agent开发。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
           "language": "Rust",
-          "stars_total": 23180,
+          "stars_total": 23461,
           "stars_today": 3603,
-          "description_zh": "你的个人 AI 超级智能。私密、简单且极其强大。"
+          "description_zh": "你的个人 AI 超级智能。私密、简洁且极其强大。"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 139974,
+          "stars_total": 140499,
           "stars_today": 2620,
           "description_zh": "一个单一的 CLAUDE.md 文件，用于改进 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
         },
@@ -30,129 +30,129 @@
           "url": "https://github.com/colbymchenry/codegraph",
           "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
           "language": "TypeScript",
-          "stars_total": 8151,
+          "stars_total": 9018,
           "stars_today": 1910,
-          "description_zh": "为 Claude Code、Codex、Cursor 和 OpenCode 提供的预索引代码知识图谱——更少的令牌、更少的工具调用，100% 本地运行"
+          "description_zh": "为 Claude Code、Codex、Cursor 和 OpenCode 预索引的代码知识图谱——更少的令牌、更少的工具调用，100% 本地运行"
         },
         {
           "rank": 4,
-          "name": "rmyndharis/OpenWA",
-          "url": "https://github.com/rmyndharis/OpenWA",
-          "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-          "language": "TypeScript",
-          "stars_total": 4519,
-          "stars_today": 1870,
-          "description_zh": "免费、开源、自托管的 WhatsApp API 网关"
-        },
-        {
-          "rank": 5,
           "name": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 199595,
+          "stars_total": 199868,
           "stars_today": 1776,
-          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "msitarzewski/agency-agents",
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 102475,
+          "stars_total": 102709,
           "stars_today": 1714,
-          "description_zh": "触手可及的完整 AI 代理机构——从前端魔法师到 Reddit 社区忍者，从趣味注入者到现实检验者。每个代理都是拥有个性、流程和可交付成果的领域专家。"
+          "description_zh": "触手可及的完整 AI 代理机构——从前端巫师到 Reddit 社区忍者，从趣味注入者到现实检验者。每个智能体都是拥有个性、流程和可靠交付成果的领域专家。"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Imbad0202/academic-research-skills",
           "url": "https://github.com/Imbad0202/academic-research-skills",
           "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
           "language": "Python",
-          "stars_total": 15395,
+          "stars_total": 15900,
           "stars_today": 1639,
-          "description_zh": "Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修订 → 定稿"
+          "description_zh": "面向 Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修订 → 定稿"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "rohitg00/agentmemory",
           "url": "https://github.com/rohitg00/agentmemory",
           "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
           "language": "TypeScript",
-          "stars_total": 14808,
+          "stars_total": 14997,
           "stars_today": 1121,
-          "description_zh": "基于真实世界基准测试的 AI 编码代理持久化内存方案，排名第一"
+          "description_zh": "基于真实世界基准测试的 AI 编码智能体持久化内存方案第一名"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "HKUDS/CLI-Anything",
           "url": "https://github.com/HKUDS/CLI-Anything",
           "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
           "language": "Python",
-          "stars_total": 38294,
+          "stars_total": 38448,
           "stars_today": 930,
-          "description_zh": "“CLI-Anything：让所有软件都成为 Agent 原生”——CLI-Hub：https://clianything.cc/"
+          "description_zh": "\"CLI-Anything：让所有软件原生支持智能体\"——CLI-Hub：https://clianything.cc/"
         },
         {
-          "rank": 10,
-          "name": "truelockmc/streambert",
-          "url": "https://github.com/truelockmc/streambert",
-          "description_en": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-          "language": "JavaScript",
-          "stars_total": 2581,
-          "stars_today": 925,
-          "description_zh": "一款跨平台的 Electron 桌面应用，用于流式播放和下载全球任何电影、电视剧或动漫。零广告与零追踪。"
-        },
-        {
-          "rank": 11,
+          "rank": 9,
           "name": "rohitg00/ai-engineering-from-scratch",
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 9099,
+          "stars_total": 9373,
           "stars_today": 762,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
         {
-          "rank": 12,
+          "rank": 10,
+          "name": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "language": "TypeScript",
+          "stars_total": 4710,
+          "stars_today": 726,
+          "description_zh": "免费、开源、自托管的 WhatsApp API 网关"
+        },
+        {
+          "rank": 11,
           "name": "anthropics/claude-plugins-official",
           "url": "https://github.com/anthropics/claude-plugins-official",
           "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "language": "Python",
-          "stars_total": 20568,
+          "stars_total": 20691,
           "stars_today": 706,
           "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "HKUDS/ViMax",
           "url": "https://github.com/HKUDS/ViMax",
           "description_en": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
           "language": "Python",
-          "stars_total": 5842,
+          "stars_total": 5964,
           "stars_today": 692,
-          "description_zh": "“ViMax：智能体视频生成（导演、编剧、制片人与视频生成器一体化）”"
+          "description_zh": "\"ViMax：智能体式视频生成（导演、编剧、制片人与视频生成器一体化）\""
+        },
+        {
+          "rank": 13,
+          "name": "truelockmc/streambert",
+          "url": "https://github.com/truelockmc/streambert",
+          "description_en": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+          "language": "JavaScript",
+          "stars_total": 2846,
+          "stars_today": 652,
+          "description_zh": "一款跨平台的 Electron 桌面应用，用于流式播放和下载全球任何电影、电视剧或动漫。零广告与零追踪。"
         },
         {
           "rank": 14,
-          "name": "ggml-org/llama.cpp",
-          "url": "https://github.com/ggml-org/llama.cpp",
-          "description_en": "LLM inference in C/C++",
-          "language": "C++",
-          "stars_total": 111661,
-          "stars_today": 549,
-          "description_zh": "使用 C/C++ 实现的 LLM 推理引擎"
-        },
-        {
-          "rank": 15,
           "name": "zakirullin/files.md",
           "url": "https://github.com/zakirullin/files.md",
           "description_en": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
           "language": "Go",
-          "stars_total": 2043,
+          "stars_total": 2146,
           "stars_today": 468,
           "description_zh": "🌱 私密、安静的思考空间。一个用于管理 .md 文件的简洁应用。"
+        },
+        {
+          "rank": 15,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description_en": "LLM inference in C/C++",
+          "language": "C++",
+          "stars_total": 111785,
+          "stars_today": 343,
+          "description_zh": "用 C/C++ 实现的 LLM 推理引擎"
         },
         {
           "rank": 16,
@@ -160,9 +160,9 @@
           "url": "https://github.com/can1357/oh-my-pi",
           "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
           "language": "TypeScript",
-          "stars_total": 5244,
+          "stars_total": 5336,
           "stars_today": 237,
-          "description_zh": "⌥ 面向终端的 AI 编码代理——基于哈希锚点的编辑、优化的工具框架、LSP、Python、浏览器、子代理等"
+          "description_zh": "⌥ 面向终端的 AI 编码智能体——基于哈希锚定的编辑、优化的工具框架、LSP、Python、浏览器、子智能体等"
         },
         {
           "rank": 17,
@@ -170,9 +170,9 @@
           "url": "https://github.com/opentoonz/opentoonz",
           "description_en": "OpenToonz - An open-source full-featured 2D animation creation software",
           "language": "C++",
-          "stars_total": 6177,
+          "stars_total": 6265,
           "stars_today": 206,
-          "description_zh": "OpenToonz——一款开源的全功能二维动画创作软件"
+          "description_zh": "OpenToonz —— 一款开源的全功能二维动画创作软件"
         }
       ]
     },
