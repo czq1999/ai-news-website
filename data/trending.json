@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-21",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程代理技能增强，涵盖Claude插件、代码知识图谱、CLI工具及Chrome DevTools集成，强调本地化、低Token消耗与开源自主。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程助手生态，涵盖Claude插件、代码知识图谱、技能框架及Chrome DevTools集成，强调本地化、低Token消耗与开源自托管。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/colbymchenry/codegraph",
           "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
           "language": "TypeScript",
-          "stars_total": 12333,
+          "stars_total": 12991,
           "stars_today": 4222,
           "description_zh": "为 Claude Code、Codex、Cursor 和 OpenCode 预索引的代码知识图谱——更少的令牌、更少的工具调用、100% 本地化。"
         },
@@ -20,9 +20,9 @@
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 142494,
+          "stars_total": 142894,
           "stars_today": 2590,
-          "description_zh": "一个单一的 CLAUDE.md 文件，用于改进 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
+          "description_zh": "一个用于改进 Claude Code 行为的单一 CLAUDE.md 文件，源自 Andrej Karpathy 关于 LLM 编码陷阱的观察。"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/Imbad0202/academic-research-skills",
           "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
           "language": "Python",
-          "stars_total": 17824,
+          "stars_total": 18045,
           "stars_today": 2502,
-          "description_zh": "面向 Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修订 → 定稿。"
+          "description_zh": "Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修订 → 定稿。"
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 201121,
+          "stars_total": 201378,
           "stars_today": 1572,
           "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 10403,
+          "stars_total": 10607,
           "stars_today": 1318,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
@@ -60,9 +60,9 @@
           "url": "https://github.com/truelockmc/streambert",
           "description_en": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
           "language": "JavaScript",
-          "stars_total": 3631,
+          "stars_total": 3839,
           "stars_today": 1057,
-          "description_zh": "一款跨平台的 Electron 桌面应用，用于流式播放和下载世界上任何电影、电视剧或动漫。零广告与零追踪。"
+          "description_zh": "一款跨平台的 Electron 桌面应用，用于流式播放和下载世界上任何电影、电视剧或动漫。零广告和追踪。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 103406,
+          "stars_total": 103563,
           "stars_today": 990,
-          "description_zh": "一个完整的 AI 代理机构触手可及——从前端巫师到 Reddit 社区忍者，从奇思妙想注入者到现实检验者。每个代理都是具有个性、流程和经过验证的交付成果的专家。"
+          "description_zh": "一个完整的 AI 代理机构触手可及——从前端向导到 Reddit 社区忍者，从趣味注入者到现实检查者。每个代理都是具有个性、流程和经过验证的交付成果的领域专家。"
         },
         {
           "rank": 8,
@@ -80,79 +80,79 @@
           "url": "https://github.com/anthropics/claude-plugins-official",
           "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "language": "Python",
-          "stars_total": 21537,
+          "stars_total": 22071,
           "stars_today": 891,
           "description_zh": "Anthropic 官方管理的高质量 Claude Code 插件目录。"
         },
         {
           "rank": 9,
-          "name": "rmyndharis/OpenWA",
-          "url": "https://github.com/rmyndharis/OpenWA",
-          "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-          "language": "TypeScript",
-          "stars_total": 5222,
-          "stars_today": 704,
-          "description_zh": "免费、开源、自托管的 WhatsApp API 网关。"
-        },
-        {
-          "rank": 10,
-          "name": "HKUDS/CLI-Anything",
-          "url": "https://github.com/HKUDS/CLI-Anything",
-          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-          "language": "Python",
-          "stars_total": 38925,
-          "stars_today": 644,
-          "description_zh": "“CLI-Anything：让所有软件都成为代理原生”——CLI-Hub：https://clianything.cc/"
-        },
-        {
-          "rank": 11,
-          "name": "multica-ai/multica",
-          "url": "https://github.com/multica-ai/multica",
-          "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-          "language": "Go",
-          "stars_total": 30435,
-          "stars_today": 511,
-          "description_zh": "开源托管代理平台。将编码代理转变为真正的队友——分配任务、跟踪进度、复合技能。"
-        },
-        {
-          "rank": 12,
-          "name": "can1357/oh-my-pi",
-          "url": "https://github.com/can1357/oh-my-pi",
-          "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-          "language": "TypeScript",
-          "stars_total": 5716,
-          "stars_today": 483,
-          "description_zh": "⌥ 终端 AI 编码代理——基于哈希锚定的编辑、优化的工具集、LSP、Python、浏览器、子代理等更多功能。"
-        },
-        {
-          "rank": 13,
-          "name": "antoinezambelli/forge",
-          "url": "https://github.com/antoinezambelli/forge",
-          "description_en": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
-          "language": "Python",
-          "stars_total": 1370,
-          "stars_today": 449,
-          "description_zh": "一个用于自托管 LLM 工具调用和多步骤代理工作流的 Python 框架。"
-        },
-        {
-          "rank": 14,
-          "name": "trimstray/the-book-of-secret-knowledge",
-          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-          "description_en": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-          "language": "",
-          "stars_total": 222071,
-          "stars_today": 429,
-          "description_zh": "一系列鼓舞人心的清单、手册、速查表、博客、黑客技巧、单行命令、CLI/Web 工具等。"
-        },
-        {
-          "rank": 15,
           "name": "Lum1104/Understand-Anything",
           "url": "https://github.com/Lum1104/Understand-Anything",
           "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
           "language": "TypeScript",
-          "stars_total": 16175,
-          "stars_today": 188,
-          "description_zh": "能教学的图表 > 仅令人印象深刻的图表。将任何代码转化为可探索、可搜索、可提问的交互式知识图谱。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+          "stars_total": 16438,
+          "stars_today": 854,
+          "description_zh": "能教学的图表 > 仅令人印象深刻的图表。将任何代码转化为可探索、搜索和提问的交互式知识图谱。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+        },
+        {
+          "rank": 10,
+          "name": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "language": "TypeScript",
+          "stars_total": 5334,
+          "stars_today": 704,
+          "description_zh": "免费、开源、可自托管的 WhatsApp API 网关。"
+        },
+        {
+          "rank": 11,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 39032,
+          "stars_today": 644,
+          "description_zh": "“CLI-Anything：让所有软件成为代理原生”——CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 12,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "language": "Go",
+          "stars_total": 30617,
+          "stars_today": 511,
+          "description_zh": "开源托管代理平台。将编码代理转变为真正的队友——分配任务、跟踪进度、复合技能。"
+        },
+        {
+          "rank": 13,
+          "name": "can1357/oh-my-pi",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+          "language": "TypeScript",
+          "stars_total": 5794,
+          "stars_today": 483,
+          "description_zh": "⌥ 终端 AI 编码代理——基于哈希锚定的编辑、优化的工具框架、LSP、Python、浏览器、子代理等。"
+        },
+        {
+          "rank": 14,
+          "name": "antoinezambelli/forge",
+          "url": "https://github.com/antoinezambelli/forge",
+          "description_en": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+          "language": "Python",
+          "stars_total": 1437,
+          "stars_today": 449,
+          "description_zh": "一个用于自托管 LLM 工具调用和多步骤代理工作流的 Python 框架。"
+        },
+        {
+          "rank": 15,
+          "name": "trimstray/the-book-of-secret-knowledge",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description_en": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+          "language": "",
+          "stars_total": 222278,
+          "stars_today": 429,
+          "description_zh": "一系列鼓舞人心的列表、手册、速查表、博客、技巧、单行命令、CLI/Web 工具等的合集。"
         },
         {
           "rank": 16,
@@ -160,29 +160,29 @@
           "url": "https://github.com/teng-lin/notebooklm-py",
           "description_en": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
           "language": "Python",
-          "stars_total": 14240,
+          "stars_total": 14316,
           "stars_today": 182,
           "description_zh": "Google NotebookLM 的非官方 Python API 和代理技能。通过 Python、CLI 以及 Claude Code、Codex、OpenClaw 等 AI 代理，实现对 NotebookLM 功能的完整编程访问——包括 Web UI 未公开的能力。"
         },
         {
           "rank": 17,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 40316,
-          "stars_today": 132,
-          "description_zh": "面向编码代理的 Chrome DevTools。"
-        },
-        {
-          "rank": 18,
           "name": "dotnet/skills",
           "url": "https://github.com/dotnet/skills",
           "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
           "language": "C#",
-          "stars_total": 2049,
-          "stars_today": 96,
+          "stars_total": 2138,
+          "stars_today": 179,
           "description_zh": "用于辅助 AI 编码代理处理 .NET 和 C# 的技能仓库。"
+        },
+        {
+          "rank": 18,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 40413,
+          "stars_today": 132,
+          "description_zh": "面向编码代理的 Chrome DevTools。"
         },
         {
           "rank": 19,
@@ -190,7 +190,7 @@
           "url": "https://github.com/alireza0/s-ui",
           "description_en": "An advanced Web Panel • Built for SagerNet/Sing-Box",
           "language": "Go",
-          "stars_total": 8883,
+          "stars_total": 8910,
           "stars_today": 25,
           "description_zh": "一个高级 Web 面板 • 专为 SagerNet/Sing-Box 构建。"
         }
