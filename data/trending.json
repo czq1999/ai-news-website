@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-05-21",
+      "summary_zh": "今日GitHub热门项目聚焦AI编码工具链优化，包括代码知识图谱、学术研究助手、终端智能体及插件生态，强调本地化、低Token消耗与专业化技能框架。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars_total": 23779,
+          "stars_today": 3394,
+          "description_zh": "你的个人 AI 超级智能。私密、简单且极其强大。"
+        },
+        {
+          "rank": 2,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 141082,
+          "stars_today": 2679,
+          "description_zh": "一个单一的 CLAUDE.md 文件，用于改进 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
+        },
+        {
+          "rank": 3,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars_total": 9950,
+          "stars_today": 2123,
+          "description_zh": "为 Claude Code、Codex、Cursor 和 OpenCode 预索引的代码知识图谱——更少的令牌、更少的工具调用，100% 本地运行"
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 200167,
+          "stars_today": 1743,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 5,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars_total": 16381,
+          "stars_today": 1667,
+          "description_zh": "面向 Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修订 → 定稿"
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 102916,
+          "stars_today": 1636,
+          "description_zh": "触手可及的完整 AI 代理机构——从前端巫师到 Reddit 社区忍者，从趣味注入者到现实检验者。每个智能体都是拥有个性、流程和可交付成果的领域专家。"
+        },
+        {
+          "rank": 7,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars_total": 15195,
+          "stars_today": 1080,
+          "description_zh": "基于真实世界基准测试的 AI 编码智能体首选持久化记忆方案"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 38589,
+          "stars_today": 890,
+          "description_zh": "\"CLI-Anything：让所有软件都成为智能体原生\"——CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 9,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 9679,
+          "stars_today": 765,
+          "description_zh": "学习它。构建它。为他人交付它。"
+        },
+        {
+          "rank": 10,
+          "name": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "language": "TypeScript",
+          "stars_total": 4897,
+          "stars_today": 741,
+          "description_zh": "免费、开源、自托管的 WhatsApp API 网关"
+        },
+        {
+          "rank": 11,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 20840,
+          "stars_today": 674,
+          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
+        },
+        {
+          "rank": 12,
+          "name": "HKUDS/ViMax",
+          "url": "https://github.com/HKUDS/ViMax",
+          "description_en": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+          "language": "Python",
+          "stars_total": 6117,
+          "stars_today": 674,
+          "description_zh": "\"ViMax：智能体化视频生成（导演、编剧、制片人与视频生成器四位一体）\""
+        },
+        {
+          "rank": 13,
+          "name": "truelockmc/streambert",
+          "url": "https://github.com/truelockmc/streambert",
+          "description_en": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+          "language": "JavaScript",
+          "stars_total": 3114,
+          "stars_today": 582,
+          "description_zh": "一款跨平台的 Electron 桌面应用，用于流式播放和下载全球任何电影、电视剧或动漫。零广告与零追踪。"
+        },
+        {
+          "rank": 14,
+          "name": "zakirullin/files.md",
+          "url": "https://github.com/zakirullin/files.md",
+          "description_en": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
+          "language": "Go",
+          "stars_total": 2242,
+          "stars_today": 429,
+          "description_zh": "🌱 私密、安静的思考空间。一个用于管理 .md 文件的简洁应用。"
+        },
+        {
+          "rank": 15,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description_en": "LLM inference in C/C++",
+          "language": "C++",
+          "stars_total": 111873,
+          "stars_today": 309,
+          "description_zh": "使用 C/C++ 实现的 LLM 推理引擎"
+        },
+        {
+          "rank": 16,
+          "name": "can1357/oh-my-pi",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+          "language": "TypeScript",
+          "stars_total": 5455,
+          "stars_today": 270,
+          "description_zh": "⌥ 面向终端的 AI 编码智能体——哈希锚定编辑、优化的工具框架、LSP、Python、浏览器、子智能体等"
+        },
+        {
+          "rank": 17,
+          "name": "opentoonz/opentoonz",
+          "url": "https://github.com/opentoonz/opentoonz",
+          "description_en": "OpenToonz - An open-source full-featured 2D animation creation software",
+          "language": "C++",
+          "stars_total": 6386,
+          "stars_today": 236,
+          "description_zh": "OpenToonz——一款开源的全功能二维动画创作软件"
+        }
+      ]
+    },
+    {
       "date": "2026-05-20",
       "summary_zh": "今日GitHub热门项目聚焦AI编码工具链优化，包括代码知识图谱、学术研究助手、终端智能代理及Claude插件生态，强调本地化、低Token消耗与专业化Agent开发。",
       "projects": [
@@ -4061,92 +4237,6 @@
           "stars_total": 25513,
           "stars_today": 160,
           "description_zh": "🪢 开源 LLM 工程平台：提供 LLM 可观测性、指标评估、提示词管理、游乐场和数据集。与 OpenTelemetry、Langchain、OpenAI SDK、LiteLLM 等集成。🍊YC W23"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-21",
-      "summary_zh": "今日GitHub趋势聚焦AI与数据工具：FinceptTerminal提供金融数据分析，Thunderbird强调可控AI模型，RAG-Anything统一检索增强框架，RuView实现WiFi人体感知，TrendRadar打造智能舆情监控，凸显AI代理、数据自主与多场景集成趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Fincept-Corporation/FinceptTerminal",
-          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-          "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-          "language": "Python",
-          "stars_total": 11321,
-          "stars_today": 2595,
-          "description_zh": "FinceptTerminal 是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在以用户友好的环境实现交互式探索和数据驱动的决策。"
-        },
-        {
-          "rank": 2,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 48796,
-          "stars_today": 828,
-          "description_zh": "π RuView：WiFi DensePose 技术将普通 WiFi 信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
-        },
-        {
-          "rank": 3,
-          "name": "thunderbird/thunderbolt",
-          "url": "https://github.com/thunderbird/thunderbolt",
-          "description_en": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-          "language": "TypeScript",
-          "stars_total": 3362,
-          "stars_today": 591,
-          "description_zh": "由您掌控的 AI：自由选择模型，完全拥有数据，彻底消除供应商锁定。"
-        },
-        {
-          "rank": 4,
-          "name": "sansan0/TrendRadar",
-          "url": "https://github.com/sansan0/TrendRadar",
-          "description_en": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-          "language": "Python",
-          "stars_total": 53532,
-          "stars_today": 584,
-          "description_zh": "⭐ AI 驱动的舆情与趋势监控工具，支持多平台聚合、RSS 订阅和智能提醒。🎯 告别信息过载，您的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
-        },
-        {
-          "rank": 5,
-          "name": "zilliztech/claude-context",
-          "url": "https://github.com/zilliztech/claude-context",
-          "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-          "language": "TypeScript",
-          "stars_total": 6453,
-          "stars_today": 259,
-          "description_zh": "为 Claude Code 设计的代码搜索 MCP（模型上下文协议），可将整个代码库作为任何编码智能体的上下文。"
-        },
-        {
-          "rank": 6,
-          "name": "HKUDS/RAG-Anything",
-          "url": "https://github.com/HKUDS/RAG-Anything",
-          "description_en": "\"RAG-Anything: All-in-One RAG Framework\"",
-          "language": "Python",
-          "stars_total": 16725,
-          "stars_today": 256,
-          "description_zh": "“RAG-Anything：一体化检索增强生成（RAG）框架”"
-        },
-        {
-          "rank": 7,
-          "name": "microsoft/ai-agents-for-beginners",
-          "url": "https://github.com/microsoft/ai-agents-for-beginners",
-          "description_en": "12 Lessons to Get Started Building AI Agents",
-          "language": "Jupyter Notebook",
-          "stars_total": 57510,
-          "stars_today": 131,
-          "description_zh": "12 节入门课程，助您开始构建 AI 智能体。"
-        },
-        {
-          "rank": 8,
-          "name": "dayanch96/YTLite",
-          "url": "https://github.com/dayanch96/YTLite",
-          "description_en": "A flexible enhancer for YouTube on iOS",
-          "language": "Logos",
-          "stars_total": 4772,
-          "stars_today": 43,
-          "description_zh": "一款适用于 iOS 的灵活 YouTube 增强工具。"
         }
       ]
     }
