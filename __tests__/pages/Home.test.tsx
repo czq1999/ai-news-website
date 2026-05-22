@@ -26,6 +26,11 @@ jest.mock('@/components/Article/ArticleFeed', () => ({
   default: () => <div>feed</div>,
 }));
 
+jest.mock('@/components/Blog/BlogSection', () => ({
+  __esModule: true,
+  default: () => <div>blog section</div>,
+}));
+
 const article: Article = {
   id: '1',
   title_en: 'English title',
@@ -40,7 +45,7 @@ const article: Article = {
 
 describe('Home page SEO', () => {
   it('renders title and canonical metadata through the SEO helper', () => {
-    render(<Home articles={[article]} initialArticles={[article]} />);
+    render(<Home articles={[article]} initialArticles={[article]} recentBlogs={[]} />);
 
     expect(screen.getByText('AI Signal | AI 资讯聚合')).toBeInTheDocument();
     expect(screen.getByText('feed')).toBeInTheDocument();
