@@ -1,8 +1,9 @@
 import { existsSync, readFileSync, writeFileSync } from 'fs';
+import os from 'os';
 import path from 'path';
 import { z } from 'zod';
 
-import { deduplicateBlogs } from '@/lib/server/blog-fetcher';
+import { buildBlogFromSearchResult, deduplicateBlogs } from '@/lib/server/blog-fetcher';
 import { translateBlogs } from '@/lib/server/blog-translator';
 import { mergeBlogs } from '@/scripts/merge-blogs';
 import { Blog, BlogSchema, RawBlog } from '@/types/blog';
@@ -23,12 +24,133 @@ export function parseBlogTopics(raw: unknown): string[] {
   return result.data.blogTopics.map((t) => t.query);
 }
 
-// NOTE: This is a stub. anysearch is an MCP tool that can only be invoked
-// from within a Claude Code session, not from a standalone script.
-// Actual blog search integration requires manual triggering via MCP in Claude Code.
+const ANYSEARCH_API = 'https://api.anysearch.com/mcp';
+const MAX_RESULTS_PER_QUERY = 10;
+
+function loadAnySearchApiKey(): string {
+  if (process.env.ANYSEARCH_API_KEY) return process.env.ANYSEARCH_API_KEY;
+
+  const skillEnvPath = path.join(os.homedir(), '.claude/skills/anysearch/.env');
+  if (existsSync(skillEnvPath)) {
+    const content = readFileSync(skillEnvPath, 'utf-8');
+    const match = content.match(/ANYSEARCH_API_KEY=(.+)/);
+    if (match) return match[1].trim();
+  }
+
+  return '';
+}
+
+interface AnySearchResultItem {
+  title: string;
+  url: string;
+  date?: string;
+}
+
+function parseSearchResultsMarkdown(markdown: string): AnySearchResultItem[] {
+  const results: AnySearchResultItem[] = [];
+  const sections = markdown.split(/### \d+\.\s+/);
+
+  for (const section of sections) {
+    if (!section.trim()) continue;
+
+    const lines = section.split('\n');
+    const title = lines[0].trim();
+    if (!title) continue;
+
+    let url = '';
+    let date: string | undefined;
+
+    for (const line of lines) {
+      const urlMatch = line.match(/\*\*URL\*\*:\s*(.+)/);
+      if (urlMatch) {
+        url = urlMatch[1].trim();
+      }
+      const dateMatch = line.match(/^date:\s*(.+)/i);
+      if (dateMatch) {
+        date = dateMatch[1].trim();
+      }
+    }
+
+    if (url && title) {
+      results.push({ title, url, date });
+    }
+  }
+
+  return results;
+}
+
+async function callAnySearchAPI(
+  toolName: string,
+  args: Record<string, unknown>,
+  apiKey: string
+): Promise<string> {
+  const response = await fetch(ANYSEARCH_API, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({
+      jsonrpc: '2.0',
+      id: 1,
+      method: 'tools/call',
+      params: { name: toolName, arguments: args },
+    }),
+  });
+
+  if (!response.ok) {
+    throw new Error(`AnySearch API error: ${response.status} ${response.statusText}`);
+  }
+
+  const json = await response.json();
+  if (json.error) {
+    throw new Error(json.error.message || JSON.stringify(json.error));
+  }
+
+  const content = json.result?.content;
+  if (Array.isArray(content)) {
+    const textItem = content.find((c: { type: string }) => c.type === 'text');
+    if (textItem) return textItem.text;
+  }
+
+  return JSON.stringify(json.result || json);
+}
+
 export async function searchBlogs(query: string): Promise<RawBlog[]> {
   console.log(`  Searching: "${query}"`);
-  return [];
+
+  const apiKey = loadAnySearchApiKey();
+  if (!apiKey) {
+    console.warn('  ANYSEARCH_API_KEY not configured. Set it in ~/.claude/skills/anysearch/.env');
+    return [];
+  }
+
+  try {
+    const markdown = await callAnySearchAPI(
+      'search',
+      {
+        query,
+        max_results: MAX_RESULTS_PER_QUERY,
+        freshness: 'week',
+      },
+      apiKey
+    );
+
+    const items = parseSearchResultsMarkdown(markdown);
+    return items
+      .map((item) =>
+        buildBlogFromSearchResult({
+          title: item.title,
+          url: item.url,
+          source: new URL(item.url).hostname.replace(/^www\./, ''),
+          date: item.date,
+        })
+      )
+      .filter((b): b is RawBlog => b !== null);
+  } catch (err) {
+    console.error(`  Search "${query}" failed:`, err);
+    return [];
+  }
 }
 
 export async function fetchAndSaveBlogs(): Promise<void> {
@@ -54,16 +176,46 @@ export async function fetchAndSaveBlogs(): Promise<void> {
     return;
   }
 
+  const apiKey = loadAnySearchApiKey();
+  if (!apiKey) {
+    console.warn('ANYSEARCH_API_KEY not configured. Set it in ~/.claude/skills/anysearch/.env');
+    return;
+  }
+
   console.log(`Fetching blogs for ${queries.length} topics...`);
   const allRaw: RawBlog[] = [];
 
-  for (const query of queries) {
+  // Batch queries into groups of 5 (batch_search limit)
+  const BATCH_SIZE = 5;
+  for (let i = 0; i < queries.length; i += BATCH_SIZE) {
+    const batch = queries.slice(i, i + BATCH_SIZE);
+    const batchNum = Math.floor(i / BATCH_SIZE) + 1;
+    const totalBatches = Math.ceil(queries.length / BATCH_SIZE);
+
+    console.log(`  Batch ${batchNum}/${totalBatches}: ${batch.map((q) => `"${q}"`).join(', ')}`);
     try {
-      const blogs = await searchBlogs(query);
-      allRaw.push(...blogs);
-      console.log(`  "${query}": ${blogs.length} results`);
+      const queryObjects = batch.map((query) => ({
+        query,
+        max_results: MAX_RESULTS_PER_QUERY,
+        freshness: 'week',
+      }));
+
+      const markdown = await callAnySearchAPI('batch_search', { queries: queryObjects }, apiKey);
+
+      const items = parseSearchResultsMarkdown(markdown);
+      for (const item of items) {
+        const blog = buildBlogFromSearchResult({
+          title: item.title,
+          url: item.url,
+          source: new URL(item.url).hostname.replace(/^www\./, ''),
+          date: item.date,
+        });
+        if (blog) allRaw.push(blog);
+      }
+
+      console.log(`  Batch ${batchNum}: ${allRaw.length} total results so far`);
     } catch (err) {
-      console.error(`  "${query}" failed:`, err);
+      console.error(`  Batch ${batchNum} failed:`, err);
     }
   }
 
