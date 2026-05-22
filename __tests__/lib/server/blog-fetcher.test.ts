@@ -53,6 +53,43 @@ describe('buildBlogFromSearchResult', () => {
     });
     expect(result?.source).toBe('Unknown');
   });
+
+  it('uses current date when date is not provided', () => {
+    const before = Date.now();
+    const result = buildBlogFromSearchResult({
+      title: 'Test Article',
+      url: 'https://example.com/test',
+    });
+    const after = Date.now();
+    expect(result).not.toBeNull();
+    const published = new Date(result!.published_at).getTime();
+    expect(published).toBeGreaterThanOrEqual(before);
+    expect(published).toBeLessThanOrEqual(after);
+  });
+
+  it('falls back to current date for invalid date string', () => {
+    const before = Date.now();
+    const result = buildBlogFromSearchResult({
+      title: 'Test Article',
+      url: 'https://example.com/test',
+      date: 'not-a-date',
+    });
+    const after = Date.now();
+    expect(result).not.toBeNull();
+    const published = new Date(result!.published_at).getTime();
+    expect(published).toBeGreaterThanOrEqual(before);
+    expect(published).toBeLessThanOrEqual(after);
+  });
+
+  it('parses valid ISO date correctly', () => {
+    const result = buildBlogFromSearchResult({
+      title: 'Test Article',
+      url: 'https://example.com/test',
+      date: '2026-05-20T10:00:00Z',
+    });
+    expect(result).not.toBeNull();
+    expect(result!.published_at).toBe('2026-05-20T10:00:00.000Z');
+  });
 });
 
 describe('deduplicateBlogs', () => {
