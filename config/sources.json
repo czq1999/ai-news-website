@@ -14,5 +14,19 @@
     "query": "artificial intelligence",
     "language": "en",
     "pageSize": 10
-  }
+  },
+  "blogTopics": [
+    { "query": "latest AI breakthroughs 2026" },
+    { "query": "AI agent framework tutorial" },
+    { "query": "autonomous AI agent development" },
+    { "query": "LLM fine-tuning best practices" },
+    { "query": "Linux server administration tips" },
+    { "query": "Linux performance tuning guide" },
+    { "query": "Kubernetes operations best practices" },
+    { "query": "Docker container optimization" },
+    { "query": "operating system security hardening" },
+    { "query": "CVE vulnerability analysis 2026" },
+    { "query": "kernel security patch review" },
+    { "query": "system administration automation" }
+  ]
 }
