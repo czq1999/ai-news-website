@@ -1,6 +1,202 @@
 {
   "days": [
     {
+      "date": "2026-05-22",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程代理技能增强，包括Claude插件、代码知识图谱、CLI工具及Chrome DevTools集成，强调本地化、低Token消耗与开源自主性。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars_total": 13838,
+          "stars_today": 4294,
+          "description_zh": "为 Claude Code、Codex、Cursor 和 OpenCode 预索引的代码知识图谱——更少的令牌、更少的工具调用、100% 本地化。"
+        },
+        {
+          "rank": 2,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 143406,
+          "stars_today": 2614,
+          "description_zh": "一个用于改进 Claude Code 行为的单一 CLAUDE.md 文件，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
+        },
+        {
+          "rank": 3,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars_total": 18271,
+          "stars_today": 2579,
+          "description_zh": "面向 Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修订 → 定稿。"
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 201641,
+          "stars_today": 1576,
+          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 10814,
+          "stars_today": 1333,
+          "description_zh": "学习它。构建它。为他人交付它。"
+        },
+        {
+          "rank": 6,
+          "name": "truelockmc/streambert",
+          "url": "https://github.com/truelockmc/streambert",
+          "description_en": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+          "language": "JavaScript",
+          "stars_total": 4066,
+          "stars_today": 1094,
+          "description_zh": "一款跨平台的 Electron 桌面应用，用于流式播放和下载全球任何电影、电视剧或动漫。零广告和追踪。"
+        },
+        {
+          "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 103734,
+          "stars_today": 1018,
+          "description_zh": "一个完整的 AI 代理机构触手可及——从前端魔法师到 Reddit 社区忍者，从趣味注入者到现实检查者。每个代理都是具有个性、流程和可交付成果的领域专家。"
+        },
+        {
+          "rank": 8,
+          "name": "trimstray/the-book-of-secret-knowledge",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description_en": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+          "language": "",
+          "stars_total": 222495,
+          "stars_today": 756,
+          "description_zh": "一系列鼓舞人心的列表、手册、速查表、博客、技巧、单行命令、CLI/Web 工具等。"
+        },
+        {
+          "rank": 9,
+          "name": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "language": "TypeScript",
+          "stars_total": 5453,
+          "stars_today": 730,
+          "description_zh": "免费、开源、可自托管的 WhatsApp API 网关。"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 22631,
+          "stars_today": 682,
+          "description_zh": "Anthropic 官方管理的高质量 Claude Code 插件目录。"
+        },
+        {
+          "rank": 11,
+          "name": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "language": "TypeScript",
+          "stars_total": 16745,
+          "stars_today": 666,
+          "description_zh": "能教学的图表 > 仅令人印象深刻的图表。将任何代码转化为可探索、搜索和提问的交互式知识图谱。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+        },
+        {
+          "rank": 12,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 39179,
+          "stars_today": 656,
+          "description_zh": "\"CLI-Anything：让所有软件成为代理原生\"——CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 13,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "language": "Go",
+          "stars_total": 30805,
+          "stars_today": 534,
+          "description_zh": "开源托管代理平台。将编码代理转变为真正的队友——分配任务、跟踪进度、复合技能。"
+        },
+        {
+          "rank": 14,
+          "name": "can1357/oh-my-pi",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+          "language": "TypeScript",
+          "stars_total": 5885,
+          "stars_today": 500,
+          "description_zh": "⌥ 终端 AI 编码代理——基于哈希锚定的编辑、优化的工具集、LSP、Python、浏览器、子代理等。"
+        },
+        {
+          "rank": 15,
+          "name": "antoinezambelli/forge",
+          "url": "https://github.com/antoinezambelli/forge",
+          "description_en": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+          "language": "Python",
+          "stars_total": 1513,
+          "stars_today": 398,
+          "description_zh": "一个用于自托管 LLM 工具调用和多步骤代理工作流的 Python 框架。"
+        },
+        {
+          "rank": 16,
+          "name": "teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py",
+          "description_en": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+          "language": "Python",
+          "stars_total": 14410,
+          "stars_today": 186,
+          "description_zh": "Google NotebookLM 的非官方 Python API 和代理技能。通过 Python、CLI 以及 Claude Code、Codex、OpenClaw 等 AI 代理，实现对 NotebookLM 功能的完整编程访问——包括 Web 界面未公开的能力。"
+        },
+        {
+          "rank": 17,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 40534,
+          "stars_today": 151,
+          "description_zh": "面向编码代理的 Chrome DevTools。"
+        },
+        {
+          "rank": 18,
+          "name": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
+          "language": "C#",
+          "stars_total": 2223,
+          "stars_today": 129,
+          "description_zh": "用于辅助 .NET 和 C# AI 编码代理的技能仓库。"
+        },
+        {
+          "rank": 19,
+          "name": "alireza0/s-ui",
+          "url": "https://github.com/alireza0/s-ui",
+          "description_en": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+          "language": "Go",
+          "stars_total": 8942,
+          "stars_today": 27,
+          "description_zh": "一个高级 Web 面板 • 专为 SagerNet/Sing-Box 构建。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-21",
       "summary_zh": "今日GitHub热门项目聚焦AI编程助手生态，涵盖Claude插件、代码知识图谱、技能框架及Chrome DevTools集成，强调本地化、低Token消耗与开源自托管。",
       "projects": [
@@ -4131,132 +4327,6 @@
           "stars_total": 52728,
           "stars_today": 76,
           "description_zh": "适用于每个系统的 PowerShell！"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-22",
-      "summary_zh": "今日GitHub趋势项目主要围绕AI增强的开发与数据分析工具，涵盖代码智能搜索、金融终端、实时情报仪表盘、LLM工程平台、AI安全测试、统一元数据管理、WiFi姿态感知、多模态RAG框架、舆情监控系统及短视频生成引擎，突出AI在提升开发效率、数据洞察和自动化内容创作方面的应用。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Fincept-Corporation/FinceptTerminal",
-          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-          "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-          "language": "Python",
-          "stars_total": 12905,
-          "stars_today": 1737,
-          "description_zh": "FinceptTerminal 是一款现代金融应用，提供先进的市场分析、投资研究和经济数据工具，旨在以用户友好的环境实现交互式探索和数据驱动的决策制定。"
-        },
-        {
-          "rank": 2,
-          "name": "sansan0/TrendRadar",
-          "url": "https://github.com/sansan0/TrendRadar",
-          "description_en": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-          "language": "Python",
-          "stars_total": 54350,
-          "stars_today": 932,
-          "description_zh": "⭐AI 驱动的舆情与趋势监控工具，支持多平台聚合、RSS 和智能提醒。🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
-        },
-        {
-          "rank": 3,
-          "name": "zilliztech/claude-context",
-          "url": "https://github.com/zilliztech/claude-context",
-          "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-          "language": "TypeScript",
-          "stars_total": 7348,
-          "stars_today": 873,
-          "description_zh": "Claude Code 的代码搜索 MCP 工具。将整个代码库作为任何编码智能体的上下文环境。"
-        },
-        {
-          "rank": 4,
-          "name": "HKUDS/RAG-Anything",
-          "url": "https://github.com/HKUDS/RAG-Anything",
-          "description_en": "\"RAG-Anything: All-in-One RAG Framework\"",
-          "language": "Python",
-          "stars_total": 17441,
-          "stars_today": 770,
-          "description_zh": "\"RAG-Anything：一体化 RAG 框架\""
-        },
-        {
-          "rank": 5,
-          "name": "open-metadata/OpenMetadata",
-          "url": "https://github.com/open-metadata/OpenMetadata",
-          "description_en": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-          "language": "TypeScript",
-          "stars_total": 12066,
-          "stars_today": 609,
-          "description_zh": "OpenMetadata 是一个统一的元数据平台，用于数据发现、数据可观测性和数据治理，由中央元数据仓库、深入的列级血缘分析和无缝团队协作提供支持。"
-        },
-        {
-          "rank": 6,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 49301,
-          "stars_today": 551,
-          "description_zh": "π RuView：WiFi DensePose 将商用 WiFi 信号转化为实时人体姿态估计、生命体征监测和存在检测——无需任何视频像素。"
-        },
-        {
-          "rank": 7,
-          "name": "Z4nzu/hackingtool",
-          "url": "https://github.com/Z4nzu/hackingtool",
-          "description_en": "ALL IN ONE Hacking Tool For Hackers",
-          "language": "Python",
-          "stars_total": 59432,
-          "stars_today": 509,
-          "description_zh": "黑客全能工具包 | 集所有黑客工具于一体"
-        },
-        {
-          "rank": 8,
-          "name": "koala73/worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-          "language": "TypeScript",
-          "stars_total": 51377,
-          "stars_today": 449,
-          "description_zh": "实时全球情报仪表板。集成了 AI 驱动的新闻聚合、地缘政治监控和基础设施追踪，提供统一态势感知界面。"
-        },
-        {
-          "rank": 9,
-          "name": "KeygraphHQ/shannon",
-          "url": "https://github.com/KeygraphHQ/shannon",
-          "description_en": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-          "language": "TypeScript",
-          "stars_total": 39410,
-          "stars_today": 346,
-          "description_zh": "Shannon Lite 是一款自主、白盒化的 AI 渗透测试工具，用于 Web 应用和 API。它分析源代码，识别攻击向量，并执行真实漏洞利用，在生产环境前验证安全风险。"
-        },
-        {
-          "rank": 10,
-          "name": "vercel-labs/skills",
-          "url": "https://github.com/vercel-labs/skills",
-          "description_en": "The open agent skills tool - npx skills",
-          "language": "TypeScript",
-          "stars_total": 15359,
-          "stars_today": 317,
-          "description_zh": "开源智能体技能工具 - npx skills"
-        },
-        {
-          "rank": 11,
-          "name": "AIDC-AI/Pixelle-Video",
-          "url": "https://github.com/AIDC-AI/Pixelle-Video",
-          "description_en": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-          "language": "Python",
-          "stars_total": 5447,
-          "stars_today": 237,
-          "description_zh": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
-        },
-        {
-          "rank": 12,
-          "name": "langfuse/langfuse",
-          "url": "https://github.com/langfuse/langfuse",
-          "description_en": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
-          "language": "TypeScript",
-          "stars_total": 25513,
-          "stars_today": 160,
-          "description_zh": "🪢 开源 LLM 工程平台：提供 LLM 可观测性、指标评估、提示词管理、游乐场和数据集。与 OpenTelemetry、Langchain、OpenAI SDK、LiteLLM 等集成。🍊YC W23"
         }
       ]
     }
