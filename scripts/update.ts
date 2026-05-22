@@ -7,6 +7,7 @@ import { fetchNewsApi, fetchRssSource } from '@/lib/server/fetcher';
 import { translateArticles } from '@/lib/server/translator';
 import { Article, ArticleSchema, RawArticle } from '@/types/article';
 
+import { fetchAndSaveBlogs } from './fetch-blogs';
 import { fetchAndSaveTrending } from './fetch-trending';
 import { mergeArticles } from './merge';
 
@@ -138,6 +139,13 @@ async function main() {
     mkdirSync(dirname(publicFeedPath), { recursive: true });
     writeFileSync(publicFeedPath, JSON.stringify(validatedMerged, null, 2));
     console.log(`  Total articles: ${validatedMerged.length}`);
+  }
+
+  console.log('\nFetching featured blogs...');
+  try {
+    await fetchAndSaveBlogs();
+  } catch (err) {
+    console.error('Failed to fetch blogs:', err);
   }
 
   console.log('\nFetching GitHub Trending...');

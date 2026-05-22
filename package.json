@@ -11,6 +11,8 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "update": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/update.ts",
+    "update:blogs": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/fetch-blogs.ts",
+    "update:all": "npm run update && npm run update:blogs",
     "prepare": "husky"
   },
   "lint-staged": {
