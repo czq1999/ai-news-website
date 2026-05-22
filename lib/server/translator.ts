@@ -1,6 +1,7 @@
 import { z } from 'zod';
 
 import { Article, ArticleSchema, CATEGORIES, RawArticle } from '@/types/article';
+import { RawBlog } from '@/types/blog';
 
 const TranslationResultSchema = z.object({
   id: z.string(),
@@ -158,4 +159,64 @@ export async function translateArticles(rawArticles: RawArticle[]): Promise<Arti
       return result.data;
     })
     .filter((a): a is Article => a !== null);
+}
+
+// --- Blog translation ---
+
+const BlogTranslationResultSchema = z.object({
+  id: z.string(),
+  title_zh: z.string(),
+  summary_zh: z.string(),
+});
+
+type BlogTranslationResult = z.infer<typeof BlogTranslationResultSchema>;
+
+export function buildBlogTranslationPrompt(blogs: RawBlog[]): string {
+  return `You are a professional tech blog translator and editor.
+
+Given the following English tech blog titles, for each blog:
+1. Translate the title to natural, accurate Chinese
+2. Write a 200-300 character Chinese summary suitable for a tech audience
+3. Focus on technical depth and practical value in the summary
+
+Respond with ONLY a valid JSON array. No markdown, no explanation, just the JSON array.
+Each object must have exactly these fields: id, title_zh, summary_zh
+
+Blogs:
+${JSON.stringify(
+  blogs.map((b) => ({ id: b.id, title: b.title_en, source: b.source })),
+  null,
+  2
+)}`;
+}
+
+export function parseBlogTranslationResults(output: string): BlogTranslationResult[] {
+  const jsonMatch = output.match(/\[[\s\S]*\]/);
+  if (!jsonMatch) {
+    throw new Error(`No JSON array found in output: ${output.slice(0, 200)}`);
+  }
+
+  const raw: unknown = JSON.parse(jsonMatch[0]);
+  if (!Array.isArray(raw)) {
+    throw new Error('Expected JSON array from model output');
+  }
+
+  const seenIds = new Set<string>();
+
+  return raw.flatMap((item, index) => {
+    const result = BlogTranslationResultSchema.safeParse(item);
+    if (!result.success) {
+      console.warn(`Skipping invalid blog translation at index ${index}:`, result.error.format());
+      return [];
+    }
+
+    const entry = result.data;
+    if (seenIds.has(entry.id)) {
+      console.warn(`Skipping duplicate blog translation for ${entry.id}`);
+      return [];
+    }
+
+    seenIds.add(entry.id);
+    return [entry];
+  });
 }
