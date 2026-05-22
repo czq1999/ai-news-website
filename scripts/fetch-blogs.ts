@@ -40,7 +40,13 @@ export async function fetchAndSaveBlogs(): Promise<void> {
     return;
   }
 
-  const sources = JSON.parse(readFileSync(sourcesPath, 'utf8'));
+  let sources: unknown;
+  try {
+    sources = JSON.parse(readFileSync(sourcesPath, 'utf8'));
+  } catch (err) {
+    console.error(`Failed to parse sources.json:`, err);
+    return;
+  }
   const queries = parseBlogTopics(sources);
 
   if (queries.length === 0) {
@@ -72,7 +78,19 @@ export async function fetchAndSaveBlogs(): Promise<void> {
   let existing: Blog[] = [];
   if (existsSync(dataPath)) {
     try {
-      existing = JSON.parse(readFileSync(dataPath, 'utf8'));
+      const raw: unknown = JSON.parse(readFileSync(dataPath, 'utf8'));
+      if (Array.isArray(raw)) {
+        existing = raw
+          .map((item) => {
+            const result = BlogSchema.safeParse(item);
+            if (!result.success) {
+              console.warn('Skipping invalid blog in existing data:', result.error.format());
+              return null;
+            }
+            return result.data;
+          })
+          .filter((b): b is Blog => b !== null);
+      }
     } catch {
       console.log('Could not parse existing blogs.json, starting fresh.');
     }

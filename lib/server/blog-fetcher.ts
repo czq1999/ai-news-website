@@ -22,12 +22,20 @@ export function buildBlogFromSearchResult(result: SearchResult): RawBlog | null 
     return null;
   }
 
+  let published_at: string;
+  if (result.date) {
+    const d = new Date(result.date);
+    published_at = isNaN(d.getTime()) ? new Date().toISOString() : d.toISOString();
+  } else {
+    published_at = new Date().toISOString();
+  }
+
   const raw: RawBlog = {
     id: buildBlogId(result.url),
     title_en: result.title,
     source: result.source || 'Unknown',
     url: result.url,
-    published_at: result.date ? new Date(result.date).toISOString() : new Date().toISOString(),
+    published_at,
     fetched_at: new Date().toISOString(),
   };
 

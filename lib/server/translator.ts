@@ -34,7 +34,7 @@ ${JSON.stringify(
 }
 
 export function parseTranslationResults(output: string): TranslationResult[] {
-  const jsonMatch = output.match(/\[[\s\S]*\]/);
+  const jsonMatch = output.match(/\[[\s\S]*?\]/);
   if (!jsonMatch) {
     throw new Error(`No JSON array found in output: ${output.slice(0, 200)}`);
   }
@@ -191,7 +191,7 @@ ${JSON.stringify(
 }
 
 export function parseBlogTranslationResults(output: string): BlogTranslationResult[] {
-  const jsonMatch = output.match(/\[[\s\S]*\]/);
+  const jsonMatch = output.match(/\[[\s\S]*?\]/);
   if (!jsonMatch) {
     throw new Error(`No JSON array found in output: ${output.slice(0, 200)}`);
   }

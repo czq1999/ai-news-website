@@ -63,7 +63,7 @@ async function translateBlogBatch(batch: RawBlog[], apiKey: string, retries = 2)
       await new Promise((resolve) => setTimeout(resolve, Math.pow(2, attempt) * 1000));
     }
   }
-  return [];
+  throw new Error('translateBlogBatch: all retries exhausted');
 }
 
 export async function translateBlogs(rawBlogs: RawBlog[]): Promise<Blog[]> {
