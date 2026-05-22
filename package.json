@@ -12,7 +12,7 @@
     "test:watch": "jest --watch",
     "update": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/update.ts",
     "update:blogs": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/fetch-blogs.ts",
-    "update:all": "npm run update && npm run update:blogs",
+    "update:all": "npm run update",
     "prepare": "husky"
   },
   "lint-staged": {
@@ -25,6 +25,7 @@
     ]
   },
   "dependencies": {
+    "@next/swc-darwin-arm64": "^16.2.6",
     "cheerio": "^1.2.0",
     "next": "14.2.35",
     "react": "^18",

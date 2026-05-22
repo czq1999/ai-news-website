@@ -23,6 +23,9 @@ export function parseBlogTopics(raw: unknown): string[] {
   return result.data.blogTopics.map((t) => t.query);
 }
 
+// NOTE: This is a stub. anysearch is an MCP tool that can only be invoked
+// from within a Claude Code session, not from a standalone script.
+// Actual blog search integration requires manual triggering via MCP in Claude Code.
 export async function searchBlogs(query: string): Promise<RawBlog[]> {
   console.log(`  Searching: "${query}"`);
   return [];
