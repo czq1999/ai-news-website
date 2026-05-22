@@ -309,8 +309,14 @@ const BlogTopicSchema = z.object({
 9. 修改 `pages/index.tsx` - 集成博客区块
 10. 添加测试用例
 
-## 14. 待确认事项
+## 14. 设计决策
 
-1. anysearch 是否有 CLI 版本，可在 GitHub Actions 中使用？
-2. 博客内容是否需要全文抓取，还是只保留标题和摘要？
-3. 是否需要博客详情页，还是只在首页展示区块？
+### 内容深度
+采用轻量方案：只保留标题和摘要，点击直接跳转原文，无独立详情页。
+
+### GitHub Actions 集成
+由于 anysearch 是 MCP 工具，在 GitHub Actions 中无法直接调用。采用以下方案：
+- 博客抓取在本地运行 `npm run update:blogs` 完成
+- 抓取结果（`data/blogs.json`）提交到 git
+- GitHub Actions 负责构建和部署，不负责抓取
+- 这与现有的新闻更新流程一致（新闻也是本地抓取后提交数据文件）
