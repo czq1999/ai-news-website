@@ -31,10 +31,17 @@ describe('parseBlogTranslationResults', () => {
     expect(() => parseBlogTranslationResults('no json here')).toThrow('No JSON array found');
   });
 
-  it('uses non-greedy match for JSON extraction', () => {
+  it('extracts first complete JSON array and ignores subsequent ones', () => {
     const output = `First: [{"id":"1","title_zh":"标题","summary_zh":"摘要"}] Second: [{"id":"2","title_zh":"二","summary_zh":"二"}]`;
     const results = parseBlogTranslationResults(output);
     expect(results).toHaveLength(1);
     expect(results[0].id).toBe('1');
+  });
+
+  it('handles brackets inside JSON string values', () => {
+    const output = `[{"id":"1","title_zh":"标题","summary_zh":"参考 [RFC 7231] 文档"}]`;
+    const results = parseBlogTranslationResults(output);
+    expect(results).toHaveLength(1);
+    expect(results[0].summary_zh).toBe('参考 [RFC 7231] 文档');
   });
 });

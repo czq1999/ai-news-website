@@ -79,7 +79,9 @@ export async function fetchAndSaveBlogs(): Promise<void> {
   if (existsSync(dataPath)) {
     try {
       const raw: unknown = JSON.parse(readFileSync(dataPath, 'utf8'));
-      if (Array.isArray(raw)) {
+      if (!Array.isArray(raw)) {
+        console.warn('blogs.json is not an array, starting fresh.');
+      } else {
         existing = raw
           .map((item) => {
             const result = BlogSchema.safeParse(item);

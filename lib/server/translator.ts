@@ -33,13 +33,51 @@ ${JSON.stringify(
 )}`;
 }
 
+function extractJsonArray(output: string): string | null {
+  const start = output.indexOf('[');
+  if (start === -1) return null;
+
+  let depth = 0;
+  let inString = false;
+  let escape = false;
+
+  for (let i = start; i < output.length; i++) {
+    const ch = output[i];
+
+    if (escape) {
+      escape = false;
+      continue;
+    }
+
+    if (ch === '\\' && inString) {
+      escape = true;
+      continue;
+    }
+
+    if (ch === '"') {
+      inString = !inString;
+      continue;
+    }
+
+    if (inString) continue;
+
+    if (ch === '[') depth++;
+    else if (ch === ']') {
+      depth--;
+      if (depth === 0) return output.slice(start, i + 1);
+    }
+  }
+
+  return null;
+}
+
 export function parseTranslationResults(output: string): TranslationResult[] {
-  const jsonMatch = output.match(/\[[\s\S]*?\]/);
-  if (!jsonMatch) {
+  const jsonStr = extractJsonArray(output);
+  if (!jsonStr) {
     throw new Error(`No JSON array found in output: ${output.slice(0, 200)}`);
   }
 
-  const raw: unknown = JSON.parse(jsonMatch[0]);
+  const raw: unknown = JSON.parse(jsonStr);
   if (!Array.isArray(raw)) {
     throw new Error('Expected JSON array from model output');
   }
@@ -191,12 +229,12 @@ ${JSON.stringify(
 }
 
 export function parseBlogTranslationResults(output: string): BlogTranslationResult[] {
-  const jsonMatch = output.match(/\[[\s\S]*?\]/);
-  if (!jsonMatch) {
+  const jsonStr = extractJsonArray(output);
+  if (!jsonStr) {
     throw new Error(`No JSON array found in output: ${output.slice(0, 200)}`);
   }
 
-  const raw: unknown = JSON.parse(jsonMatch[0]);
+  const raw: unknown = JSON.parse(jsonStr);
   if (!Array.isArray(raw)) {
     throw new Error('Expected JSON array from model output');
   }
