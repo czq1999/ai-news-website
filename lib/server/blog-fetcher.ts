@@ -2,6 +2,10 @@ import { createHash } from 'crypto';
 
 import { RawBlog, RawBlogSchema } from '@/types/blog';
 
+export function buildBlogId(url: string): string {
+  return createHash('md5').update(url).digest('hex');
+}
+
 interface SearchResult {
   title: string;
   url: string;
@@ -19,7 +23,7 @@ export function buildBlogFromSearchResult(result: SearchResult): RawBlog | null 
   }
 
   const raw: RawBlog = {
-    id: createHash('md5').update(result.url).digest('hex'),
+    id: buildBlogId(result.url),
     title_en: result.title,
     source: result.source || 'Unknown',
     url: result.url,

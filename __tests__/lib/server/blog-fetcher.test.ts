@@ -19,6 +19,24 @@ describe('buildBlogFromSearchResult', () => {
     expect(result!.fetched_at).toBeDefined();
   });
 
+  it('returns null when title is empty', () => {
+    const result = buildBlogFromSearchResult({
+      title: '',
+      url: 'https://example.com/test',
+      source: 'Test',
+    });
+    expect(result).toBeNull();
+  });
+
+  it('returns null when url is empty', () => {
+    const result = buildBlogFromSearchResult({
+      title: 'Test Article',
+      url: '',
+      source: 'Test',
+    });
+    expect(result).toBeNull();
+  });
+
   it('returns null for invalid URL', () => {
     const result = buildBlogFromSearchResult({
       title: 'Test',
