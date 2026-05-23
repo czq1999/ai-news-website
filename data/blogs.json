@@ -1,5 +1,731 @@
 [
   {
+    "id": "d4b58beeeeff5f8cf5473a1bfc418c8a",
+    "title_en": "加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告 - 信息安全知识库",
+    "source": "gm7.org",
+    "url": "https://www.gm7.org/archives/105584",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告",
+    "summary_zh": "本文是一篇总结性报告，深入探讨了Linux内核中著名的“Dirty”系列漏洞（如Dirty Pipe、Dirty Cow等）所揭示的加密机制、系统性能与安全之间的复杂平衡关系。作者分析了这些漏洞的共同根源——内核在实现某些功能时对安全边界的忽视，并对比了不同漏洞的利用方式和修复策略。文章还讨论了如何在设计内核子系统时，在保证性能的前提下，通过合理的加密和权限检查来避免此类漏洞。对于内核开发者、安全架构师和高级运维人员，本文提供了深刻的系统安全设计思考。",
+    "topic": "security"
+  },
+  {
+    "id": "01323fd10ccf020c1c76fc9e00bfa05a",
+    "title_en": "攻击者可提前检测到Linux 内核的补丁并开发exploit - 安全内参",
+    "source": "secrss.com",
+    "url": "https://www.secrss.com/articles/25364",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "攻击者可提前检测到Linux内核的补丁并开发exploit",
+    "summary_zh": "本文来自安全内参，报道了一项安全研究发现：攻击者能够通过监控和分析Linux内核的公开补丁提交，在官方发布安全公告之前，提前检测到漏洞并开发出利用程序（Exploit）。文章分析了这种“补丁分析”攻击手法的原理，即通过观察代码变更的上下文和提交信息，推断出漏洞的位置和性质。这一现象对传统的“先补丁后公开”的安全策略提出了挑战，并强调了加快补丁部署和采用更安全的内核开发流程的重要性。对于安全策略制定者和运维人员，本文提供了重要的威胁情报。",
+    "topic": "security"
+  },
+  {
+    "id": "cc4ff4f3bbf59c10c5d6f0213a0080ce",
+    "title_en": "【漏洞分析】CVE-2017-6178：从补丁对比到Exploit - 安全客",
+    "source": "anquanke.com",
+    "url": "https://www.anquanke.com/post/id/86203",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "【漏洞分析】CVE-2017-6178：从补丁对比到Exploit",
+    "summary_zh": "本文来自安全客，以CVE-2017-6178为例，详细演示了如何通过补丁对比（Patch Diffing）技术，从官方安全补丁中逆向分析出漏洞细节，并最终开发出可利用的Exploit。文章逐步展示了从获取补丁、定位修改点、理解漏洞原理，到编写利用代码的完整过程。作者强调了补丁对比在漏洞研究和利用开发中的核心地位，并分享了实用的分析工具和技巧。对于希望掌握漏洞分析实战技能的安全初学者和研究人员，本文是一份极佳的入门与进阶教程。",
+    "topic": "security"
+  },
+  {
+    "id": "68bfab13c03487fa21ec339a64cda33a",
+    "title_en": "一种Linux安全漏洞修复补丁自动识别方法 - 计算机研究与发展",
+    "source": "crad.ict.ac.cn",
+    "url": "https://crad.ict.ac.cn/fileJSJYJYFZ/journal/article/jsjyjyfz/HTML/2022-01-197.shtml",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "一种Linux安全漏洞修复补丁自动识别方法",
+    "summary_zh": "本文提出了一种自动识别Linux安全漏洞修复补丁的方法，基于补丁特征分析和机器学习技术。该方法能够从大量代码提交中准确筛选出与CVE相关的补丁，减少人工审计成本。文章详细介绍了特征提取、模型训练和评估过程，实验表明该方法在准确率和召回率上均有优异表现。对于安全研究员和运维工程师，本文提供了一种高效追踪漏洞修复的技术方案。",
+    "topic": "security"
+  },
+  {
+    "id": "5ec94b7a0fbced2c3f39445c4e5646d5",
+    "title_en": "DevOps和自动化运维实践— 运维开发修炼之路",
+    "source": "my-linux-devops.readthedocs.io",
+    "url": "https://my-linux-devops.readthedocs.io/en/latest/DevOps/index.html",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "DevOps和自动化运维实践— 运维开发修炼之路",
+    "summary_zh": "本文系统介绍了DevOps理念与自动化运维的实践方法，涵盖CI/CD流水线、配置管理、监控告警、容器化部署等核心内容。作者结合自身经验，分享了从传统运维向DevOps转型的路径，包括工具选型（如Jenkins、Ansible、Docker）和流程优化。对于运维开发工程师，本文提供了从理论到落地的完整指南，帮助提升交付效率与系统可靠性。",
+    "topic": "ops"
+  },
+  {
+    "id": "e6d9688970769f004391dac8c85fbae1",
+    "title_en": "《DevOps和自动化运维实践》电子书在线阅读-余洪春-得到APP",
+    "source": "dedao.cn",
+    "url": "https://www.dedao.cn/ebook/detail?id=Z1GDBjp8o9nDz1NZyd5MXvBj6RKEVwNqlK3Ap4aGOkJmYQrLbP7e2glqxl9qNPeX",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "《DevOps和自动化运维实践》电子书在线阅读",
+    "summary_zh": "本书由余洪春撰写，系统讲解了DevOps和自动化运维的核心技术与实践案例。内容涵盖持续集成/持续部署、基础设施即代码、监控与日志分析、容器编排等关键主题。作者结合多年一线经验，深入剖析了自动化运维中的常见问题与解决方案。适合运维工程师、DevOps从业者及技术管理者阅读，帮助构建高效、可扩展的运维体系。",
+    "topic": "ops"
+  },
+  {
+    "id": "eda9c212b68bc9164ef40d4c8d426059",
+    "title_en": "从零构建统一运维监控体系：选型、架构与实践 - 厚诺科技",
+    "source": "honops.com",
+    "url": "https://www.honops.com/blog/monitoring-system/",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "从零构建统一运维监控体系：选型、架构与实践",
+    "summary_zh": "本文详细介绍了从零构建统一运维监控体系的全过程，包括监控工具选型（如Zabbix、Prometheus、Grafana）、数据采集架构设计、告警规则配置以及可视化展示。文章强调了统一监控在提升故障响应速度方面的价值，并提供了多场景下的实践案例。对于运维工程师，本文是一份实用的监控体系建设指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "5a2753ce825e8cf0a73bda6010f61d0f",
+    "title_en": "IT基础架构：系统运维实践 - 赵旻 | 豆瓣阅读",
+    "source": "read.douban.com",
+    "url": "https://read.douban.com/ebook/51218530/",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "IT基础架构：系统运维实践",
+    "summary_zh": "本书由赵旻撰写，系统讲解了IT基础架构的运维实践，涵盖服务器管理、网络配置、存储优化、高可用架构等核心内容。作者结合真实案例，深入分析了运维中的常见问题与解决方案，如性能调优、故障排查和容量规划。适合系统管理员和运维工程师阅读，帮助提升基础架构的稳定性和可维护性。",
+    "topic": "ops"
+  },
+  {
+    "id": "f557155239c23526c284cd474378919f",
+    "title_en": "智能运维实践-阿里云",
+    "source": "aliyun.com",
+    "url": "https://www.aliyun.com/sswb/1510911.html",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "智能运维实践",
+    "summary_zh": "阿里云分享了智能运维（AIOps）的实践经验，重点介绍如何利用机器学习算法实现异常检测、根因分析和故障预测。文章涵盖了数据采集、特征工程、模型训练与部署的全流程，并提供了实际业务场景中的效果评估。对于运维和AI从业者，本文展示了AIOps在提升运维效率方面的巨大潜力。",
+    "topic": "ai"
+  },
+  {
+    "id": "bec89c672816bb8013d2e293a1e71a38",
+    "title_en": "OPS04-04 自动化工程运维任务_OPS04 自动化构建和部署流程_卓越运营支柱_卓越架构技术框架与实践_云架构中心-华为云",
+    "source": "support.huaweicloud.com",
+    "url": "https://support.huaweicloud.com/intl/zh-cn/usermanual-architecture/architecture_06_0027.html",
+    "published_at": "2026-05-23T00:30:52.658Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "OPS04-04 自动化工程运维任务",
+    "summary_zh": "华为云卓越架构技术框架中的OPS04-04实践指南，聚焦于自动化构建和部署流程。文章详细介绍了如何通过自动化工具实现基础设施即代码、持续集成/持续部署、自动化测试和回滚策略。对于云架构师和运维工程师，本文提供了标准化的自动化运维方法论，帮助提升交付效率与系统可靠性。",
+    "topic": "ops"
+  },
+  {
+    "id": "e46ff43d0024d90853b66e0d20e5c453",
+    "title_en": "性能调优指南 | Red Hat Enterprise Linux | 7 | Red Hat Documentation",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/Red_Hat_Enterprise_Linux/7/html-single/performance_tuning_guide/index",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "性能调优指南 | Red Hat Enterprise Linux 7",
+    "summary_zh": "本文是 Red Hat 官方文档，系统介绍了 RHEL 7 环境下的性能调优方法。内容涵盖性能监控工具（如 tuned、perf、SystemTap）的使用、内核参数调优、存储和网络子系统优化等。文档权威性高，提供了大量经过验证的配置示例和最佳实践，是企业级 Linux 性能调优的重要参考资料。",
+    "topic": "ops"
+  },
+  {
+    "id": "66b1f0db9d30c576cc457c7c75755fab",
+    "title_en": "Linux 性能调优工具：从原理到实践的全面指南",
+    "source": "linuxcool.com",
+    "url": "https://www.linuxcool.com/lxndygjcylds",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Linux 性能调优工具：从原理到实践的全面指南",
+    "summary_zh": "本文系统梳理了 Linux 性能调优的核心工具链，包括 perf、ftrace、eBPF、strace、iostat、vmstat 等。文章不仅介绍了各工具的基本用法，还深入讲解了其工作原理和适用场景，帮助读者根据实际问题选择合适的工具。内容兼具理论深度和实操价值，适合中高级系统工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "54cbbfd9c31e78dce7cd4102b1b32fb5",
+    "title_en": "Linux 内核性能优化的全景指南，可都在这里了，强烈推荐收藏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/483681854",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Linux 内核性能优化的全景指南，可都在这里了，强烈推荐收藏",
+    "summary_zh": "本文来自知乎专栏，是一份全景式的 Linux 内核性能优化指南。内容涵盖了内核调度器、内存管理、文件系统、网络协议栈等核心子系统的优化原理与实战方法。文章结合了最新的内核特性（如 eBPF、io_uring）和经典调优手段，提供了大量可落地的配置建议，是深度优化 Linux 系统性能的宝贵资料。",
+    "topic": "ops"
+  },
+  {
+    "id": "cfc9567bedc311247d7637deb52d34b7",
+    "title_en": "最佳实践 | Kubernetes",
+    "source": "kubernetes.io",
+    "url": "https://kubernetes.io/zh-cn/docs/setup/best-practices/",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "最佳实践 | Kubernetes",
+    "summary_zh": "本文是 Kubernetes 官方文档中的最佳实践章节，涵盖了集群部署、资源管理、安全配置、网络策略、存储规划以及应用部署等方面的推荐做法。内容权威且经过社区验证，旨在帮助用户构建高可用、高性能且安全的 Kubernetes 集群。适合所有 Kubernetes 用户作为生产环境配置的参考标准。",
+    "topic": "ops"
+  },
+  {
+    "id": "c3cdc287853941a9684b7da1cd83613b",
+    "title_en": "Kubernetes 运维模型",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/modern-apps/recommendation-guide/kubernetes/",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Kubernetes 运维模型",
+    "summary_zh": "本文来自 AWS，介绍了 Kubernetes 的运维模型，包括集群生命周期管理、节点组管理、监控告警、日志收集、备份恢复以及成本优化等关键运维实践。文章结合 AWS EKS 服务，提供了云原生环境下的 Kubernetes 运维最佳实践，帮助运维团队建立标准化、自动化的运维体系。",
+    "topic": "ops"
+  },
+  {
+    "id": "13265ec179f0bb538af933b26d37e2d0",
+    "title_en": "基于Kubernetes的容器云平台设计与实践",
+    "source": "tljsjyy.xml-journal.net",
+    "url": "http://tljsjyy.xml-journal.net/cn/article/pdf/preview/b2dd79b9-efb2-4ace-8806-39d318153ba2.pdf",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "基于Kubernetes的容器云平台设计与实践",
+    "summary_zh": "本文详细阐述了基于Kubernetes构建企业级容器云平台的全流程设计思路与实施方法。从架构选型、网络方案（如Calico/Flannel）、存储集成（Ceph/NFS）到多租户隔离与资源配额管理，系统性地介绍了平台核心组件的部署与调优。同时，文章还探讨了CI/CD流水线集成、日志与监控体系（Prometheus + Grafana）以及高可用保障策略。通过实际案例展示了如何解决大规模集群下的性能瓶颈与运维挑战，为云平台架构师和平台工程师提供了可落地的参考方案。",
+    "topic": "ops"
+  },
+  {
+    "id": "ddf743cb1f7edebac67f5af80f87024d",
+    "title_en": "Kubernetes 最佳实践：综合指南-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.cn",
+    "url": "https://cloud.tencent.cn/developer/article/2401676?policyId=1003",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Kubernetes 最佳实践：综合指南 - 腾讯云开发者社区",
+    "summary_zh": "本文是腾讯云开发者社区出品的Kubernetes综合实践指南，覆盖从集群部署、资源管理到安全加固的全生命周期最佳实践。重点包括Pod资源请求与限制的合理设置、HPA弹性伸缩策略、ConfigMap/Secret安全使用、RBAC权限控制以及网络策略配置。此外，还深入讲解了Helm Chart管理、Operator模式应用及集群升级与备份恢复方案。文章结合腾讯云实际运维经验，提供了大量配置示例和避坑建议，适合K8s初学者及进阶用户系统学习。",
+    "topic": "ops"
+  },
+  {
+    "id": "3e2f19e88f7a06c4b428ea91975f62ad",
+    "title_en": "K8s集群运维管理最佳实践 - 阿里云文档- Alibaba Cloud",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/edas/use-cases/best-practices-for-kubernetes-cluster-o-and-m",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "K8s集群运维管理最佳实践 - 阿里云文档",
+    "summary_zh": "阿里云官方文档提供的Kubernetes集群运维管理最佳实践，聚焦于生产环境的稳定性与效率。内容涵盖集群节点管理（如节点池配置、自动扩缩容）、核心组件优化（etcd性能调优、kube-apiserver参数设置）、日志与监控体系搭建（SLS、Prometheus集成）以及安全合规（RAM授权、网络策略、镜像扫描）。文章还介绍了故障排查方法论与常用工具链，包括kubectl技巧、事件分析及资源审计。所有实践均基于阿里云ACK服务，对云上K8s运维具有直接指导意义。",
+    "topic": "ops"
+  },
+  {
+    "id": "f8a4b317a1bd9e8c69623e112af8a17e",
+    "title_en": "大规模集群优化 | Kubernetes 实践指南",
+    "source": "imroc.cc",
+    "url": "https://imroc.cc/kubernetes/best-practices/ops/large-scale-cluster-optimization",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "大规模集群优化 | Kubernetes 实践指南",
+    "summary_zh": "本文针对大规模Kubernetes集群（千节点以上）的性能瓶颈与资源管理挑战，提供了系统化的优化策略。核心内容包括：etcd集群调优（如磁盘IOPS、快照压缩）、kube-apiserver限流与缓存优化、调度器性能提升（通过自定义调度器插件）、CNI网络插件选型（Cilium vs Calico）及DNS性能优化（NodeLocal DNSCache）。同时，文章深入分析了大规模集群下的Pod启动延迟、API Server负载均衡及日志采集压力等实际问题，并给出了可操作的配置参数与架构调整建议，是集群管理员的高阶参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "3aa7806fd0152c67a7f683ba80885f9b",
+    "title_en": "安全 - Kubernetes Secret 良好实践 - 《Kubernetes v1.26 中文文档》 - 书栈网 · BookStack",
+    "source": "bookstack.cn",
+    "url": "https://www.bookstack.cn/read/kubernetes-1.26-zh/c9af899d8a76575b.md",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "安全 - Kubernetes Secret 良好实践 - 《Kubernetes v1.26 中文文档》",
+    "summary_zh": "本文基于Kubernetes v1.26官方文档，系统阐述了Secret资源的安全管理最佳实践。内容涵盖Secret的加密存储（启用静态加密、使用KMS提供商）、访问控制（RBAC最小权限原则）、生命周期管理（自动轮换、版本控制）以及审计日志配置。文章还对比了Secret与External Secrets Operator、Vault等外部密钥管理方案的集成方式，并强调了避免将Secret明文写入YAML或Git仓库的重要性。通过具体配置示例，帮助运维和安全工程师有效防范敏感信息泄露风险。",
+    "topic": "security"
+  },
+  {
+    "id": "0ed160bfec1211bfbe5d32251173202c",
+    "title_en": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2551743",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
+    "summary_zh": "腾讯云出品的Kubernetes运维避坑指南，聚焦生产环境中常见但易被忽视的陷阱与解决方案。文章列举了多个典型问题案例，包括：资源配额设置不当导致Pod驱逐、节点压力驱逐（Node Pressure）触发条件、网络策略误配引发服务中断、存储卷挂载失败及集群证书过期处理。每个案例均附有根因分析、排查步骤和修复命令。此外，还分享了集群升级前的检查清单、备份恢复策略及成本优化建议，旨在帮助运维团队减少故障时间，提升集群稳定性。",
+    "topic": "ops"
+  },
+  {
+    "id": "bb833e665bd144527955617b8dd4923f",
+    "title_en": "Docker 容器性能优化思路 - 官方博客",
+    "source": "idc.net",
+    "url": "https://idc.net/help/442419/",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Docker 容器性能优化思路 - 官方博客",
+    "summary_zh": "本文从Docker容器运行时的资源消耗与性能瓶颈出发，系统梳理了性能优化的核心思路。涵盖CPU/内存限制的合理配置（cgroups参数调优）、存储驱动选择（overlay2 vs devicemapper）、网络模式优化（host vs bridge）以及镜像层缓存利用。文章还探讨了容器日志管理（避免日志文件过大）、系统调用开销（seccomp配置）及内核参数调整（如net.core.somaxconn）。通过实际benchmark数据对比，帮助开发者理解不同优化手段对应用吞吐量和延迟的影响，适合需要提升容器化应用性能的工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "9f321d9510a77757eee8b013cffb091a",
+    "title_en": "Docker硬件配置要求与优化方案全解析（2025版） - Comate",
+    "source": "comate.baidu.com",
+    "url": "https://comate.baidu.com/zh/page/mji7aw3hr9v",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Docker硬件配置要求与优化方案全解析（2025版） - Comate",
+    "summary_zh": "本文提供了2025年最新Docker部署的硬件配置要求与优化方案，覆盖CPU、内存、存储及网络各维度。详细分析了不同工作负载（Web服务、数据库、AI训练）对硬件资源的需求差异，并给出推荐配置（如CPU核心数、内存大小、SSD IOPS）。优化部分包括：NUMA架构下的CPU亲和性设置、内存大页（HugePages）启用、存储驱动选择（overlay2 vs fuse-overlayfs）及网络中断绑定。文章还提供了性能测试工具（如stress、fio、iperf）的使用方法，帮助读者验证优化效果，是容器化部署前的实用参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "cf41d95c206b5010bc471b06069cdf2f",
+    "title_en": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？-A5数据",
+    "source": "a5idc.com",
+    "url": "https://www.a5idc.com/article/22500.html",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？ - A5数据",
+    "summary_zh": "本文针对香港服务器部署Docker容器的场景，提供了存储和网络性能的专项优化方案。存储方面，推荐使用overlay2驱动并配置SSD缓存，调整Docker数据目录（/var/lib/docker）至高性能磁盘，以及启用日志轮转（logrotate）避免磁盘占满。网络方面，重点优化跨地域延迟，包括使用host网络模式减少NAT开销、调整MTU值、启用TCP BBR拥塞控制算法，并建议搭配CDN或边缘节点加速静态资源。文章还提供了监控工具（如cAdvisor、Netdata）的配置示例，帮助运维人员实时定位瓶颈。",
+    "topic": "ops"
+  },
+  {
+    "id": "96c499bab56c310666c3222a50d4287a",
+    "title_en": "Docker 27存储驱动性能优化（27步企业级Checklist·含eBPF实时监控脚本）-CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/LogicWander/article/details/160819380",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Docker 27存储驱动性能优化（27步企业级Checklist·含eBPF实时监控脚本） - CSDN博客",
+    "summary_zh": "本文针对Docker 27版本，提供了27步企业级存储驱动性能优化Checklist，并附赠eBPF实时监控脚本。优化步骤涵盖：存储驱动选择（overlay2推荐）、内核参数调整（如dirty_ratio、dirty_background_ratio）、磁盘调度器设置（none/mq-deadline）、文件系统挂载选项（noatime、nodiratime）、数据目录分离（使用独立SSD）及日志驱动配置（journald vs json-file）。eBPF脚本可实时追踪容器I/O延迟、文件系统操作及块设备请求，帮助定位性能瓶颈。文章还提供了性能基准测试方法（fio、dd），适合需要极致存储性能的容器化数据库或高I/O应用场景。",
+    "topic": "ops"
+  },
+  {
+    "id": "11b87f28506f40e97b3d1d2bdf5eb47b",
+    "title_en": "Docker容器的优化和性能调优技巧",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/1404694",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Docker容器的优化和性能调优技巧",
+    "summary_zh": "本文系统介绍了Docker容器性能调优的多种技巧，涵盖资源限制、存储、网络及安全层面。资源方面，强调通过--cpus、--memory等参数精确分配资源，避免资源争抢；存储方面，推荐使用overlay2驱动并定期清理无用镜像和卷；网络方面，建议使用自定义网络（bridge/overlay）并调整MTU值；安全方面，启用seccomp、AppArmor限制系统调用。文章还讨论了容器内应用层面的优化，如JVM参数调整、连接池配置及日志异步输出。通过综合运用这些技巧，可显著提升容器化应用的响应速度与稳定性。",
+    "topic": "ops"
+  },
+  {
+    "id": "1cb5d72ed5d111d8ec0759f833354ff7",
+    "title_en": "GB/T 20272-2026《网络安全技术 操作系统安全技术规范》--中国安防大数据服务平台",
+    "source": "afdata.org.cn",
+    "url": "https://www.afdata.org.cn/Standard/38df80b3-436c-45ea-b2f3-4377cf64c457",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "GB/T 20272-2026《网络安全技术 操作系统安全技术规范》--中国安防大数据服务平台",
+    "summary_zh": "本文解读了即将实施的GB/T 20272-2026国家标准，该标准替代旧版GB/T 20272-2019，针对操作系统安全提出了更严格的技术要求。内容涵盖身份鉴别、访问控制、安全审计、入侵防范、数据完整性及保密性等核心安全功能。重点分析了新标准在容器安全、虚拟化安全及可信计算方面的新增要求，并对比了与等保2.0的衔接关系。对于国产操作系统（如麒麟、统信）的合规建设具有重要指导意义，适合安全合规工程师及系统管理员参考。",
+    "topic": "security"
+  },
+  {
+    "id": "322d8a6319183a6ec795d91602ab8a36",
+    "title_en": "操作系统加固概述 | openEuler文档 | openEuler社区 | v23.03",
+    "source": "docs.openeuler.org",
+    "url": "https://docs.openeuler.org/zh/docs/23.03/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "操作系统加固概述 | openEuler文档 | openEuler社区 | v23.03",
+    "summary_zh": "本文是openEuler 23.03版本的官方安全加固文档，概述了操作系统加固的基本原则与框架。内容涵盖系统安装时的安全分区、最小化安装原则、用户与权限管理、PAM认证配置、防火墙与SELinux策略、以及系统更新与补丁管理。文档特别强调了openEuler特有的安全特性，如iSulad容器安全、secGear机密计算框架及A-Tune智能调优中的安全考量。适合使用openEuler作为基础设施的开发者与运维人员，帮助构建符合等保要求的可信环境。",
+    "topic": "security"
+  },
+  {
+    "id": "586ebc65cf7983ca2931c3b5a84c2ffc",
+    "title_en": "国产操作系统安全加固方法 - 北京大学期刊网",
+    "source": "ccj.pku.edu.cn",
+    "url": "https://ccj.pku.edu.cn/Article/info?aid=388274089",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "国产操作系统安全加固方法 - 北京大学期刊网",
+    "summary_zh": "本文基于学术研究视角，探讨了国产操作系统（如麒麟、统信、深度）的安全加固方法。分析了国产系统在自主可控背景下的安全挑战，包括内核漏洞、驱动安全及供应链风险。提出了从系统裁剪、强制访问控制（MAC）、可信启动（TPM/TCM）、安全审计到应用白名单的多层次加固方案。文章还对比了SELinux与国产系统自研安全模块（如KYSEC）的异同，并给出了针对政务、金融等场景的加固策略。适合关注国产化替代与安全合规的研究人员。",
+    "topic": "security"
+  },
+  {
+    "id": "a19b16f3b3b082f5249bd417d952b9cb",
+    "title_en": "腾讯云平台操作系统加固实践：构建坚不可摧的云端防线-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2554529",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "腾讯云平台操作系统加固实践：构建坚不可摧的云端防线-腾讯云开发者社区-腾讯云",
+    "summary_zh": "本文分享了腾讯云在操作系统安全加固方面的实战经验，针对云原生环境下的CVM、容器及Serverless场景。内容涵盖：基于CIS Benchmark的自动化基线检查、云安全中心的主机安全防护、主机入侵检测（HIDS）、以及结合腾讯云堡垒机实现运维审计。文章还介绍了利用Tlinux（腾讯自研OS）的内核安全特性，如增强的SELinux策略、内核热补丁及可信计算。适合在腾讯云上部署业务的安全运维人员，帮助构建纵深防御体系。",
+    "topic": "security"
+  },
+  {
+    "id": "9a9bf63f07e20e56acc6b032fb106b59",
+    "title_en": "安全加固 - 宝通测评",
+    "source": "hnbtcp.com",
+    "url": "http://www.hnbtcp.com/aqfw/aqjg/",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "安全加固 - 宝通测评",
+    "summary_zh": "本文由宝通测评机构发布，概述了信息系统安全加固的通用流程与关键要点。内容从资产梳理、漏洞扫描、基线核查开始，到针对操作系统、数据库、中间件及网络设备的具体加固实施。文章强调了加固后的验证测试与持续监控的重要性，并提供了等保测评中常见的加固项清单。适合正在准备等保测评或需要建立安全加固标准流程的企业IT人员参考。",
+    "topic": "security"
+  },
+  {
+    "id": "3b7fa725ea81475ef8866f187dbb16dc",
+    "title_en": "OpenClaw CVE-2026-25253 漏洞分析中文版 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/Joseph19820124/openclaw-vuln-report",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "OpenClaw CVE-2026-25253 漏洞分析中文版 - GitHub",
+    "summary_zh": "本文详细分析了OpenClaw项目中编号为CVE-2026-25253的安全漏洞。该漏洞涉及缓冲区溢出/越界读写问题，影响特定版本。文章从漏洞原理、触发条件、利用路径到修复方案进行了完整的技术剖析。提供了PoC代码片段与复现步骤，并给出了官方补丁的链接。对于使用OpenClaw相关组件的开发者，本文是理解漏洞影响并实施紧急修复的重要参考资料。",
+    "topic": "security"
+  },
+  {
+    "id": "56a2fbd96d5f3bef0fa8097c6ba77197",
+    "title_en": "CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE - 信息安全知识库",
+    "source": "gm7.org",
+    "url": "https://www.gm7.org/archives/97513",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "CVE-2026-41940 深度分析：影响7000万+量级的cPanel/WHM认证绕过漏洞——从CRLF注入到匿名RCE",
+    "summary_zh": "本文深入剖析了CVE-2026-41940，一个影响超过7000万cPanel/WHM实例的严重认证绕过漏洞。文章详细阐述了攻击链：从利用CRLF注入绕过身份验证，到最终实现匿名远程代码执行（RCE）。作者提供了漏洞的触发原理、影响范围评估以及具体的利用步骤，并给出了针对性的防御与修复建议。对于运维和安全人员而言，这是一份极具实战价值的漏洞分析报告，有助于理解攻击路径并加固相关系统。",
+    "topic": "security"
+  },
+  {
+    "id": "1a8f349fbf452b0bf8fd06ed95d53e4f",
+    "title_en": "Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)",
+    "source": "ti.qianxin.com",
+    "url": "https://ti.qianxin.com/vulnerability/notice-list",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Linux Kernel \"Copy Fail\" 本地权限提升漏洞（CVE-2026-31431）",
+    "summary_zh": "本文详细分析了Linux内核中的“Copy Fail”本地权限提升漏洞（CVE-2026-31431）。该漏洞源于内核在处理特定copy操作时的错误，允许低权限用户实现权限提升至root。文章深入探讨了漏洞的触发机制、受影响的内核版本范围，并提供了漏洞复现的步骤与代码示例。作者还给出了临时缓解措施和永久修复建议，包括应用官方补丁和调整内核参数。对于Linux系统管理员和安全研究人员，这是一份不可或缺的漏洞应急指南。",
+    "topic": "security"
+  },
+  {
+    "id": "6294158f280f488255f5a15057f85f0c",
+    "title_en": "Nginx CVE-2026-42945漏洞分析及复现-腾讯云开发者社区-腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2670070",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Nginx CVE-2026-42945漏洞分析及复现",
+    "summary_zh": "本文由腾讯云开发者社区发布，对Nginx中的CVE-2026-42945漏洞进行了详尽的分析与复现。该漏洞是一个严重的远程代码执行漏洞，影响广泛使用的Nginx版本。文章从漏洞原理出发，逐步拆解了攻击路径，并提供了在测试环境中的完整复现过程，包括环境搭建、Payload构造和效果验证。作者还分享了腾讯云针对此漏洞的应急响应措施和修复方案，对于使用Nginx的运维和安全人员具有极高的实战指导意义。",
+    "topic": "security"
+  },
+  {
+    "id": "aa2ea0faf70ab897c986cea98da3b7f4",
+    "title_en": "CVE-2026-42945 深度解析 NGINX Rift ：潜伏18年的堆溢出漏洞分析与防御指南 - 蚁景网安实验室",
+    "source": "yijinglab.com",
+    "url": "https://www.yijinglab.com/specialized/20260518171854",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "CVE-2026-42945 深度解析：NGINX Rift——潜伏18年的堆溢出漏洞分析与防御指南",
+    "summary_zh": "本文由蚁景网安实验室发布，深度解析了CVE-2026-42945，一个在Nginx中潜伏长达18年的堆溢出漏洞（代号NGINX Rift）。文章详细追溯了漏洞的引入历史，分析了其在HTTP/2协议处理中的根本原因，并提供了完整的漏洞利用链分析。作者不仅给出了漏洞复现的详细步骤，还从防御角度出发，提供了包括WAF规则、内核防护（如ASLR、SMAP/SMEP）以及Nginx配置加固在内的多层防御指南。对于安全研究人员和Nginx运维人员，这是一份兼具历史深度和实战价值的报告。",
+    "topic": "security"
+  },
+  {
+    "id": "a998910f298d32967d9368d7d8619472",
+    "title_en": "网络安全 - 潜伏9年通杀全版本！Copy Fail 内核提权漏洞分析（CVE-2026-31431） - 蚁景网安实验室 - SegmentFault 思否",
+    "source": "segmentfault.com",
+    "url": "https://segmentfault.com/a/1190000047750384",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "潜伏9年通杀全版本！Copy Fail 内核提权漏洞分析（CVE-2026-31431）",
+    "summary_zh": "本文由蚁景网安实验室在SegmentFault发布，深入分析了CVE-2026-31431（Copy Fail漏洞），一个潜伏9年且影响所有Linux内核版本的本地权限提升漏洞。文章详细阐述了漏洞的发现过程、内核代码层面的根本原因，以及如何利用该漏洞从普通用户权限提升至root。作者提供了完整的漏洞复现环境和利用代码分析，并讨论了该漏洞为何能“通杀”全版本。对于Linux内核安全研究者和系统管理员，本文提供了深入的技术细节和实用的修复建议。",
+    "topic": "security"
+  },
+  {
+    "id": "6b77b6192f94afbcc70a67442d06263d",
+    "title_en": "CVE-2026-42231 漏洞分析报告 | CN-SEC 中文网",
+    "source": "cn-sec.com",
+    "url": "http://cn-sec.com/archives/5222204.html",
+    "published_at": "2026-05-23T00:30:50.174Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "CVE-2026-42231 漏洞分析报告",
+    "summary_zh": "本文是CN-SEC中文网发布的关于CVE-2026-42231的漏洞分析报告。报告详细介绍了该漏洞的编号、影响范围、严重等级以及技术细节。作者对漏洞的触发条件、攻击向量和潜在危害进行了深入剖析，并提供了漏洞复现的步骤或思路。此外，报告还给出了针对该漏洞的临时缓解措施和官方修复方案，帮助安全团队快速评估风险并采取行动。对于需要及时跟进最新漏洞情报的安全运营人员，本文是一份及时且实用的参考资料。",
+    "topic": "security"
+  },
+  {
+    "id": "1f19d651288cc78c4e1dfede2b5ecc12",
+    "title_en": "Linux性能调优指南.pdf - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/ningyu1/e-books/blob/master/doc/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97.pdf",
+    "published_at": "2026-05-23T00:30:50.173Z",
+    "fetched_at": "2026-05-23T00:30:50.173Z",
+    "title_zh": "Linux 性能调优指南",
+    "summary_zh": "这是一份来自 GitHub 的 Linux 性能调优 PDF 文档，系统性地介绍了 CPU、内存、磁盘 I/O 和网络子系统的性能分析方法与调优策略。文档结合了理论原理与实用工具（如 perf、iostat、vmstat 等），帮助读者从监控数据中定位瓶颈并实施优化，适合中高级运维和系统工程师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "7e649b4b0d620a86d0b507214274ec1a",
+    "title_en": "序· Linux性能调优指南 - lihz",
+    "source": "lihz1990.gitbooks.io",
+    "url": "https://lihz1990.gitbooks.io/transoflptg/content/",
+    "published_at": "2026-05-23T00:30:50.173Z",
+    "fetched_at": "2026-05-23T00:30:50.173Z",
+    "title_zh": "序·Linux 性能调优指南",
+    "summary_zh": "本文作为 Linux 性能调优指南的开篇，概述了性能调优的核心思想与方法论，包括性能基准建立、瓶颈识别、调优效果评估等关键步骤。文章强调了系统化思维和工具链的重要性，为后续深入讲解 CPU、内存、磁盘和网络调优奠定了理论基础。适合希望建立系统性能调优知识框架的读者。",
+    "topic": "ops"
+  },
+  {
+    "id": "337fb129858469146441df3cac79eaf7",
+    "title_en": "主要思路流程 - 阿里云开发者社区",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/234597",
+    "published_at": "2026-05-23T00:30:50.173Z",
+    "fetched_at": "2026-05-23T00:30:50.173Z",
+    "title_zh": "主要思路流程",
+    "summary_zh": "本文来自阿里云开发者社区，梳理了 Linux 性能调优的主要思路和流程。文章从问题定义、数据采集、瓶颈分析到优化实施，构建了一套可复用的方法论。重点介绍了如何利用 top、sar、strace 等工具进行系统级和应用级性能分析，并给出了常见性能问题的排查路径。",
+    "topic": "ops"
+  },
+  {
+    "id": "3bd73b1c93f6f4c901356cc1330aa7fd",
+    "title_en": "Linux 服务器运维指南 | Atom's Tech Blogs",
+    "source": "blog.yasuo.fun",
+    "url": "https://blog.yasuo.fun/blog-latest/skills/service/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E7%BB%B4",
+    "published_at": "2026-05-23T00:30:45.959Z",
+    "fetched_at": "2026-05-23T00:30:45.959Z",
+    "title_zh": "Linux 服务器运维指南",
+    "summary_zh": "这是一份面向 Linux 系统管理员的综合运维指南，内容覆盖了日常运维中的关键任务，包括用户管理、文件系统维护、进程监控、日志分析以及常见故障排查方法。文章以实战为导向，提供了大量可直接使用的命令和脚本，帮助运维人员提升工作效率和系统稳定性。",
+    "topic": "ops"
+  },
+  {
+    "id": "ca981be5b1552920dc3374adda52c4f7",
+    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
+    "source": "edu.aliyun.com",
+    "url": "https://edu.aliyun.com/course/314200/",
+    "published_at": "2026-05-23T00:30:45.959Z",
+    "fetched_at": "2026-05-23T00:30:45.959Z",
+    "title_zh": "Linux 服务器运维基本操作",
+    "summary_zh": "本文由阿里云认证出品，系统介绍了 Linux 服务器运维的基本操作，涵盖远程连接、文件管理、软件包安装、服务启停、网络配置等核心技能。内容结构清晰，适合初学者快速上手，同时也为有经验的运维人员提供了规范的参考流程。",
+    "topic": "ops"
+  },
+  {
+    "id": "b5ac7fc6818cf11610c7259d941955ea",
+    "title_en": "首次！大模型通过最严图灵测试 73%裁判被骗 ＊ 阿波罗新闻网",
+    "source": "aboluowang.com",
+    "url": "https://www.aboluowang.com/2026/0522/2386679.html",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "首次！大模型通过最严图灵测试 73%裁判被骗",
+    "summary_zh": "本文报道了某大模型首次在严格控制的图灵测试环境下，成功欺骗73%的人类裁判，标志着AI对话能力达到新的里程碑。文章详细解析了测试协议设计、裁判筛选标准以及模型在上下文连贯性、情感模拟与常识推理上的表现，并讨论了该结果对AI伦理、安全检测以及人机交互设计的潜在影响，引发了对“智能”定义边界的深度思考。",
+    "topic": "ai"
+  },
+  {
+    "id": "5b88cbaf3b95ef695621b62be9b39e65",
+    "title_en": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/3818706603017094",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+    "summary_zh": "本文报道了OpenAI的非数学模型（非纯数学专用模型）首次自主解决一个困扰数学界80年的未解难题，令菲尔兹奖得主感到震惊。文章深入分析了模型在推理路径探索、符号操作与假设验证上的技术突破，探讨了其与AlphaFold等科学AI的异同，并讨论了该成果对AI在数学研究、科学发现以及形式化验证领域的深远意义。",
+    "topic": "ai"
+  },
+  {
+    "id": "21565e0887d712c244c84bc86573e8bb",
+    "title_en": "Qwen3.7-Max登场，智能体时代核心基座模型来了_腾讯新闻",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20260521A02B1S00",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "Qwen3.7-Max登场，智能体时代核心基座模型来了",
+    "summary_zh": "本文介绍了Qwen3.7-Max大模型的发布，该模型被定位为智能体（Agent）时代的核心基座模型。文章详细解析了其在长上下文支持、工具调用能力、多轮对话一致性以及任务规划上的关键改进，并提供了与GPT-4o、Claude 3.5等模型的性能对比。对于正在构建AI Agent应用的开发者，本文提供了模型选型、API使用与微调策略的实用指导。",
+    "topic": "ai"
+  },
+  {
+    "id": "c2b4bad0ea258d7fb52d9b7635c107e4",
+    "title_en": "B站首推！2025最新版大模型AI Agent入门到精通实战教程！包含所有 ...",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1SqKHeUEm5/",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "B站首推！2025最新版大模型AI Agent入门到精通实战教程！包含所有 ...",
+    "summary_zh": "本教程从零基础出发，系统讲解大模型AI Agent的开发全流程，涵盖Prompt工程、LangChain框架、工具调用、记忆机制与多Agent协作等核心模块。通过多个实战项目，帮助开发者掌握从环境搭建到部署上线的完整技能链。教程特别强调了Agent在复杂任务分解与动态规划中的实现技巧，适合希望快速进入AI Agent开发领域的工程师。",
+    "topic": "ai"
+  },
+  {
+    "id": "a229831c1fb87d90719025671866d313",
+    "title_en": "如何从零开始实现一个 AI Agent 框架（理论+实践）-腾讯云开发者社区-腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2631821",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "如何从零开始实现一个 AI Agent 框架（理论+实践）",
+    "summary_zh": "本文从理论到实践，详细讲解了如何从零实现一个轻量级AI Agent框架。内容涵盖Agent核心架构设计、LLM接口抽象、工具注册与调度机制、记忆管理以及多轮对话状态维护等关键技术。文章提供了完整的Python代码实现与架构图，并讨论了与LangChain等成熟框架的设计差异。适合希望深入理解Agent内部机制并构建定制化方案的开发者。",
+    "topic": "ai"
+  },
+  {
+    "id": "57daed4d13467d0da1fa12a6c0dbf7d8",
+    "title_en": "AgentGuide - AI Agent 开发学习指南 - 阿东玩AI",
+    "source": "adongwanai.github.io",
+    "url": "https://adongwanai.github.io/AgentGuide/",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "AgentGuide - AI Agent 开发学习指南",
+    "summary_zh": "本文是一份面向AI Agent开发者的系统性学习指南，涵盖从基础概念到进阶实践的完整路径。内容涉及Agent架构设计、工具链选择、多Agent协作模式以及常见陷阱规避。适合希望快速上手Agent开发的工程师，提供可复用的代码模板和项目结构建议，强调工程化落地与调试技巧。",
+    "topic": "ai"
+  },
+  {
+    "id": "1bdaaff955ab934f682bd67dce5ad89f",
+    "title_en": "Microsoft代理框架概述 | Microsoft Learn",
+    "source": "learn.microsoft.com",
+    "url": "https://learn.microsoft.com/zh-cn/agent-framework/overview/",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "Microsoft代理框架概述",
+    "summary_zh": "本文对微软推出的AI Agent框架进行技术概览，重点解析其核心组件如编排器、记忆模块、工具调用接口及安全策略。框架支持多语言扩展和云原生部署，适用于构建企业级自动化工作流。文章从架构设计角度对比了主流Agent框架的优劣，并给出选型建议。",
+    "topic": "ai"
+  },
+  {
+    "id": "a32b3e0d2e4a69fc010a6fcfa2cb19ec",
+    "title_en": "手把手入门教程 - Agently AI应用开发框架",
+    "source": "agently.tech",
+    "url": "https://agently.tech/v3/guides/agentic_request/guide.html",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "手把手入门教程 - Agently AI应用开发框架",
+    "summary_zh": "本文是Agently框架的入门教程，从环境搭建到第一个Agent应用逐步演示。重点介绍框架的声明式API、流式处理能力和插件机制，帮助开发者快速构建对话式AI应用。教程包含代码示例和常见问题解答，适合零基础开发者快速上手。",
+    "topic": "ai"
+  },
+  {
+    "id": "ccb32c88b361dd5573e32422b0289238",
+    "title_en": "AI Agent(智能体) 教程 - 菜鸟教程",
+    "source": "runoob.com",
+    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "AI Agent（智能体）教程",
+    "summary_zh": "本文是面向初学者的AI Agent概念与实操教程，从Agent定义、分类到简单实现。内容涵盖Prompt工程、工具调用和记忆机制等核心概念，并提供基于Python的简易代码示例。适合希望建立Agent基础认知的读者，强调理论与实践结合。",
+    "topic": "ai"
+  },
+  {
+    "id": "d23d822ef80e77298bddb180a5ac73f6",
+    "title_en": "AI Agent 开发实战手册| Wiki | JR Academy",
+    "source": "jiangren.com.au",
+    "url": "https://jiangren.com.au/wiki/ai-agent-guide",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "AI Agent 开发实战手册",
+    "summary_zh": "本文是一份实战导向的AI Agent开发手册，涵盖从需求分析到部署运维的全流程。内容包含常见业务场景的Agent设计模式、API集成技巧和测试策略，并提供可复用的代码仓库。强调工程化最佳实践，如日志记录、异常处理和版本管理。",
+    "topic": "ai"
+  },
+  {
+    "id": "4def84cf7f33535b985d2c84e218200c",
+    "title_en": "前言| AI Agent 开发实战",
+    "source": "waylandz.com",
+    "url": "https://waylandz.com/ai-agent-book/%E5%89%8D%E8%A8%80/",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "前言 | AI Agent 开发实战",
+    "summary_zh": "本文是AI Agent开发实战系列的前言，概述了Agent技术的演进历程、核心挑战和本书的章节规划。作者分享了自己在Agent开发中的经验教训，并推荐了学习路径和工具链。适合作为系统性学习Agent开发的起点。",
+    "topic": "ai"
+  },
+  {
+    "id": "150ed4f8b546367932a3bfe75cf149b8",
+    "title_en": "datawhalechina/hello-agents: 《从零开始构建智能体》 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "《从零开始构建智能体》 - Datawhale开源项目",
+    "summary_zh": "本文是Datawhale社区的开源项目《从零开始构建智能体》的简介，项目提供从基础到进阶的Agent开发教程，包含代码示例、实验环境和社区讨论。内容覆盖Agent核心概念、工具集成和部署实践，适合自学和团队培训。",
+    "topic": "ai"
+  },
+  {
+    "id": "29f9e2d134cd6c9969ff18c29aa654a4",
+    "title_en": "Agent全面爆发！一文搞懂Agent开发核心链路-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.com.cn",
+    "url": "https://cloud.tencent.com.cn/developer/article/2591036?policyId=1003",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "Agent全面爆发！一文搞懂Agent开发核心链路",
+    "summary_zh": "本文梳理AI Agent开发的核心链路，包括需求分析、架构设计、模型选型、工具集成、测试部署等关键环节。结合腾讯云生态，讲解如何利用云服务加速Agent开发，并分享性能优化和成本控制经验。适合企业级开发者参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "910e2c51dce88eafae999451f1533698",
+    "title_en": "炼石成丹：大语言模型微调实战系列（二）模型微调篇 - AWS",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-two/",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "炼石成丹：大语言模型微调实战系列（二）模型微调篇",
+    "summary_zh": "本文是AWS官方的大模型微调实战系列第二篇，深入讲解微调技术原理与AWS SageMaker实践。涵盖LoRA、QLoRA等参数高效微调方法，以及数据准备、训练监控和模型评估的完整流程。提供可复现的代码和性能对比数据，适合有深度学习基础的工程师。",
+    "topic": "ai"
+  },
+  {
+    "id": "973a1ff09d914232887be3684d28bb80",
+    "title_en": "GitHub - liguodongiot/llm-action: 本项目旨在分享大模型相关技术原理 ...",
+    "source": "github.com",
+    "url": "https://github.com/liguodongiot/llm-action",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "GitHub - liguodongiot/llm-action: 大模型技术原理与实战分享",
+    "summary_zh": "本文介绍一个专注于大模型技术原理的开源项目，涵盖Transformer架构、训练优化、推理加速和模型压缩等核心主题。项目提供丰富的代码示例和实验笔记，帮助开发者深入理解LLM内部机制。适合希望系统学习大模型技术的工程师。",
+    "topic": "ai"
+  },
+  {
+    "id": "25151837fc8fedc3d9db55d9ca1f51cf",
+    "title_en": "大模型微调从原理到PEFT与RLHF等高级技术实践-开发者社区-阿里云",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/1683849",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "大模型微调从原理到PEFT与RLHF等高级技术实践-开发者社区-阿里云",
+    "summary_zh": "本文系统梳理大模型微调技术演进，从传统全量微调出发，深入讲解LoRA、Prefix Tuning等PEFT方法的数学原理与实现细节。进一步探讨RLHF（基于人类反馈的强化学习）在微调中的应用，包括奖励模型训练、PPO算法优化等高级实践。结合阿里云平台资源，给出分布式训练、模型部署的工程化建议。适合追求技术深度、希望理解微调底层逻辑并掌握前沿方法的AI工程师。",
+    "topic": "ai"
+  },
+  {
+    "id": "17cedd48c53af01551627224422d87b6",
+    "title_en": "大模型微调完整指南 - LoRA/QLoRA实战",
+    "source": "nuik.cn",
+    "url": "https://www.nuik.cn/agent/finetune",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "大模型微调完整指南 - LoRA/QLoRA实战",
+    "summary_zh": "本文提供从零开始的LoRA与QLoRA微调实战指南，重点解决显存受限场景下的微调难题。详细对比了LoRA与QLoRA在量化精度、显存占用、训练速度及模型性能上的差异，并给出不同硬件配置（如RTX 3090、A100）下的最佳实践参数。包含完整代码示例、数据集格式要求及常见错误排查方法。适合资源有限但希望微调大模型的个人开发者或小型团队。",
+    "topic": "ai"
+  },
+  {
+    "id": "ef21dc0adc77b48ab1180b1f4f13019f",
+    "title_en": "【万字长文】大模型微调全攻略：从LoRA到框架选择，一篇搞定！_人工智能_m0_63171455-火山引擎 ADG 社区",
+    "source": "adg.csdn.net",
+    "url": "https://adg.csdn.net/69533c945b9f5f31781bf9e5.html",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "【万字长文】大模型微调全攻略：从LoRA到框架选择，一篇搞定！_人工智能_m0_63171455-火山引擎 ADG 社区",
+    "summary_zh": "本文以万字篇幅全面覆盖大模型微调全流程，从LoRA、QLoRA等参数高效方法原理讲起，深入对比Hugging Face PEFT、DeepSpeed、Megatron-LM等主流框架的适用场景与性能差异。提供从单卡微调到分布式训练的完整配置方案，并针对不同模型（LLaMA、ChatGLM、Qwen等）给出具体调参建议。最后总结常见陷阱与优化技巧，是一篇适合作为微调项目参考手册的综合性文章。",
+    "topic": "ai"
+  },
+  {
+    "id": "01935e2c2288ac8d7c236e734c7e24cf",
+    "title_en": "大模型参数高效微调技术原理综述（七）-最佳实践、总结 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/649755252)",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "大模型参数高效微调技术原理综述（七）-最佳实践、总结 - 知乎专栏",
+    "summary_zh": "本文作为参数高效微调（PEFT）技术综述系列的收官之作，系统总结了LoRA、Adapter、Prefix Tuning、Prompt Tuning等主流方法的原理、优缺点及适用场景。基于大量实验对比，给出不同任务（分类、生成、对话）下的最佳实践选型建议，包括秩的选择、学习率调度、混合精度训练等关键配置。同时探讨了PEFT与全量微调在收敛速度、泛化能力上的权衡，为技术选型提供理论依据。",
+    "topic": "ai"
+  },
+  {
+    "id": "52676756b1cde828821f12bf1f0a78dc",
+    "title_en": "[PDF] Linux 云服务器运维产品文档",
+    "source": "mc.qcloudimg.com",
+    "url": "https://mc.qcloudimg.com/static/qc_doc/444e862e59c420fca504407be3be225c/doc-Cloud%20Virtual%20Machine-Linux%20CVM%20Operation%20Manual.pdf",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "[PDF] Linux 云服务器运维产品文档",
+    "summary_zh": "本文为Linux云服务器运维的官方产品文档，系统介绍了云服务器的基本概念、创建配置、远程连接、安全组设置等基础操作。涵盖系统镜像选择、磁盘挂载、网络配置、监控告警等核心运维功能，并提供常见故障排查指南。文档结构清晰，适合云服务器入门用户快速掌握基础运维技能，也可作为日常操作的参考手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "8f19acb28c8910eac63efc38d92842f5",
+    "title_en": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
+    "source": "github.com",
+    "url": "https://github.com/mingongge/BestSRE",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
+    "summary_zh": "本文是一个开源的Linux运维工程师学习路线图与资源集合，从基础命令、Shell脚本、网络协议到高级主题如Kubernetes、监控系统（Prometheus/Grafana）、CI/CD流水线等，系统规划了运维工程师的技能成长路径。包含大量实战项目、面试题及最佳实践文档，覆盖从初级运维到SRE架构师的完整进阶路线。适合希望系统提升运维能力的工程师作为学习指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "a8492262271ced0d5d554d0f83480b0e",
+    "title_en": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时 - 运维笔记 - 李洋博客 | 专业博客搭建与技术分享",
+    "source": "itlaoli.com",
+    "url": "https://www.itlaoli.com/blog/900.html",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时 - 运维笔记 - 李洋博客 | 专业博客搭建与技术分享",
+    "summary_zh": "本文分享2026年Linux服务器运维的实战优化技巧，聚焦于提升效率与减少故障。涵盖系统启动优化、内核参数调优、IO调度器选择、内存管理优化、网络栈调优等底层优化方法。同时介绍自动化巡检脚本、日志分析工具链、性能瓶颈快速定位等实用技巧。每项技巧均附带具体配置参数与效果对比，帮助运维工程师在复杂环境中快速定位问题并优化系统性能。",
+    "topic": "ops"
+  },
+  {
+    "id": "b9f0b2b81d59da90e2c8f3cb61316367",
+    "title_en": "Linux 服务器安全加固 Checklist：上线前必做的 15 项配置 - 官方博客",
+    "source": "idc.net",
+    "url": "https://idc.net/help/442522/",
+    "published_at": "2026-05-23T00:30:45.958Z",
+    "fetched_at": "2026-05-23T00:30:45.959Z",
+    "title_zh": "Linux 服务器安全加固 Checklist：上线前必做的 15 项配置",
+    "summary_zh": "本文提供了一份详尽的 Linux 服务器安全加固清单，涵盖从账户权限管理、SSH 配置、防火墙规则到日志审计等 15 项核心配置。每项配置都附有具体的命令示例和最佳实践说明，帮助运维人员在服务器上线前系统性地消除常见安全风险。内容实用性强，适合作为生产环境部署前的安全检查标准。",
+    "topic": "security"
+  },
+  {
     "id": "8c5965f267718c08946c2c30859cabdf",
     "title_en": "Security bugs — The Linux Kernel documentation",
     "source": "kernel.org",
@@ -7,7 +733,8 @@
     "published_at": "2026-05-22T23:50:47.640Z",
     "fetched_at": "2026-05-22T23:50:47.640Z",
     "title_zh": "安全漏洞——Linux内核文档",
-    "summary_zh": "本文是Linux内核官方文档中关于安全漏洞处理流程的权威指南。内容涵盖了漏洞报告渠道、安全响应团队的工作机制、补丁开发与审查流程，以及安全公告的发布规范。文档还详细说明了内核安全策略，包括对敏感信息的处理、CVE分配流程及长期支持版本的漏洞修复承诺。对于内核开发者、安全研究员及企业运维人员，这是理解Linux内核安全生态的必读资料。"
+    "summary_zh": "本文是Linux内核官方文档中关于安全漏洞处理流程的权威指南。内容涵盖了漏洞报告渠道、安全响应团队的工作机制、补丁开发与审查流程，以及安全公告的发布规范。文档还详细说明了内核安全策略，包括对敏感信息的处理、CVE分配流程及长期支持版本的漏洞修复承诺。对于内核开发者、安全研究员及企业运维人员，这是理解Linux内核安全生态的必读资料。",
+    "topic": "other"
   },
   {
     "id": "6d2077333ca4dee57aa59636c06e28ad",
@@ -17,7 +744,8 @@
     "published_at": "2026-05-22T23:50:47.640Z",
     "fetched_at": "2026-05-22T23:50:47.640Z",
     "title_zh": "复制失败（CVE-2026-31431）：一行内核优化如何让自2017年以来的所有Linux系统崩溃 | IoT安全研究组",
-    "summary_zh": "本文深入剖析了CVE-2026-31431漏洞，该漏洞源于2017年引入Linux内核的一行优化代码，导致所有受影响系统存在严重的安全隐患。文章详细解释了漏洞的触发机制、影响范围以及攻击者如何利用该漏洞进行提权或数据泄露。对于运维和安全工程师而言，本文提供了具体的缓解措施和补丁建议，强调了内核代码审查与回归测试的重要性。"
+    "summary_zh": "本文深入剖析了CVE-2026-31431漏洞，该漏洞源于2017年引入Linux内核的一行优化代码，导致所有受影响系统存在严重的安全隐患。文章详细解释了漏洞的触发机制、影响范围以及攻击者如何利用该漏洞进行提权或数据泄露。对于运维和安全工程师而言，本文提供了具体的缓解措施和补丁建议，强调了内核代码审查与回归测试的重要性。",
+    "topic": "other"
   },
   {
     "id": "933a1b3c166a56dedc580be3be0b3b8c",
@@ -27,7 +755,8 @@
     "published_at": "2026-05-22T23:50:47.640Z",
     "fetched_at": "2026-05-22T23:50:47.640Z",
     "title_zh": "配置管理系统软件——Chef Infra | Chef",
-    "summary_zh": "Chef Infra是一款强大的配置管理工具，本文介绍了其核心概念（如Cookbook、Recipe、Node、Run List）和工作原理。文章详细说明了Chef如何通过声明式配置实现基础设施即代码（IaC），并提供了从安装、编写Recipe到部署的完整示例。对于需要管理大规模服务器集群的团队，Chef提供了灵活的自动化方案。"
+    "summary_zh": "Chef Infra是一款强大的配置管理工具，本文介绍了其核心概念（如Cookbook、Recipe、Node、Run List）和工作原理。文章详细说明了Chef如何通过声明式配置实现基础设施即代码（IaC），并提供了从安装、编写Recipe到部署的完整示例。对于需要管理大规模服务器集群的团队，Chef提供了灵活的自动化方案。",
+    "topic": "other"
   },
   {
     "id": "00cdbb02c2e3ebb646b9a898ab578680",
@@ -37,7 +766,8 @@
     "published_at": "2026-05-22T23:50:47.640Z",
     "fetched_at": "2026-05-22T23:50:47.640Z",
     "title_zh": "pyinfra：基于Python的快速基础设施自动化与配置管理工具",
-    "summary_zh": "pyinfra是一款轻量级、高性能的Python基础设施自动化工具，支持SSH批量执行、幂等操作和并行部署。本文介绍了pyinfra的核心特性，包括Pythonic的API设计、动态主机管理、丰富的内置模块（如文件、服务、包管理）以及与其他工具（如Ansible）的对比。对于Python开发者，pyinfra提供了更灵活、更易扩展的自动化方案。"
+    "summary_zh": "pyinfra是一款轻量级、高性能的Python基础设施自动化工具，支持SSH批量执行、幂等操作和并行部署。本文介绍了pyinfra的核心特性，包括Pythonic的API设计、动态主机管理、丰富的内置模块（如文件、服务、包管理）以及与其他工具（如Ansible）的对比。对于Python开发者，pyinfra提供了更灵活、更易扩展的自动化方案。",
+    "topic": "other"
   },
   {
     "id": "2ab92ee37c5146f6d3a7096b6899d253",
@@ -47,7 +777,8 @@
     "published_at": "2026-05-22T23:50:47.640Z",
     "fetched_at": "2026-05-22T23:50:47.640Z",
     "title_zh": "numtide/system-manager：NixOS系统管理工具",
-    "summary_zh": "system-manager是一个基于Nix的声明式系统管理工具，旨在简化NixOS和非NixOS系统的配置管理。本文介绍了其核心功能，包括模块化配置、服务管理、用户管理以及与其他Nix生态工具（如home-manager）的集成。对于追求可复现性和原子化升级的运维团队，system-manager提供了一种全新的系统管理范式。"
+    "summary_zh": "system-manager是一个基于Nix的声明式系统管理工具，旨在简化NixOS和非NixOS系统的配置管理。本文介绍了其核心功能，包括模块化配置、服务管理、用户管理以及与其他Nix生态工具（如home-manager）的集成。对于追求可复现性和原子化升级的运维团队，system-manager提供了一种全新的系统管理范式。",
+    "topic": "other"
   },
   {
     "id": "2bfaa56b71c62409d84610893483b777",
@@ -57,7 +788,8 @@
     "published_at": "2026-05-22T23:50:47.639Z",
     "fetched_at": "2026-05-22T23:50:47.639Z",
     "title_zh": "Microsoft安全公告 932596",
-    "summary_zh": "本文是Microsoft官方安全公告932596的详细解读，涉及一个影响Windows系统的关键安全更新。公告描述了漏洞的技术细节、受影响组件及攻击场景，并提供了官方补丁下载链接与部署指南。文章重点分析了该漏洞在域环境中的潜在风险，以及与其他已知漏洞的关联性，对Windows系统管理员进行补丁评估与紧急响应具有直接指导意义。"
+    "summary_zh": "本文是Microsoft官方安全公告932596的详细解读，涉及一个影响Windows系统的关键安全更新。公告描述了漏洞的技术细节、受影响组件及攻击场景，并提供了官方补丁下载链接与部署指南。文章重点分析了该漏洞在域环境中的潜在风险，以及与其他已知漏洞的关联性，对Windows系统管理员进行补丁评估与紧急响应具有直接指导意义。",
+    "topic": "other"
   },
   {
     "id": "a637e3da6d1603f301efffaea1ef3911",
@@ -67,7 +799,8 @@
     "published_at": "2026-05-22T23:50:35.010Z",
     "fetched_at": "2026-05-22T23:50:35.010Z",
     "title_zh": "Dirty Frag LPE：CVE-2026-43284与CVE-2026-43500深度剖析",
-    "summary_zh": "Picus Security对两个Linux内核本地权限提升漏洞进行了技术深挖。CVE-2026-43284与CVE-2026-43500均源于内核网络栈中的碎片重组逻辑缺陷，攻击者可通过精心构造的畸形数据包触发堆内存损坏，实现权限提升。文章详细分析了漏洞触发路径、利用原语及内核补丁修复策略，为安全研究员和系统管理员提供了可操作的检测与缓解方案。"
+    "summary_zh": "Picus Security对两个Linux内核本地权限提升漏洞进行了技术深挖。CVE-2026-43284与CVE-2026-43500均源于内核网络栈中的碎片重组逻辑缺陷，攻击者可通过精心构造的畸形数据包触发堆内存损坏，实现权限提升。文章详细分析了漏洞触发路径、利用原语及内核补丁修复策略，为安全研究员和系统管理员提供了可操作的检测与缓解方案。",
+    "topic": "other"
   },
   {
     "id": "9d1dbb2291b09892928006c2a5302001",
@@ -77,7 +810,8 @@
     "published_at": "2026-05-22T23:50:35.010Z",
     "fetched_at": "2026-05-22T23:50:35.010Z",
     "title_zh": "2026年第一季度漏洞态势 | Securelist",
-    "summary_zh": "Securelist发布的Q1 2026漏洞报告显示，本季度漏洞数量同比增长18%，其中远程代码执行漏洞占比最高。报告重点分析了针对企业级软件（如VMware、Exchange）的0day利用案例，以及勒索软件团伙对未修复漏洞的快速武器化趋势。文章提供了按行业和漏洞类型划分的详细统计，并强调了补丁管理自动化与网络分段在缓解风险中的关键作用。"
+    "summary_zh": "Securelist发布的Q1 2026漏洞报告显示，本季度漏洞数量同比增长18%，其中远程代码执行漏洞占比最高。报告重点分析了针对企业级软件（如VMware、Exchange）的0day利用案例，以及勒索软件团伙对未修复漏洞的快速武器化趋势。文章提供了按行业和漏洞类型划分的详细统计，并强调了补丁管理自动化与网络分段在缓解风险中的关键作用。",
+    "topic": "other"
   },
   {
     "id": "d2a6ddebcc77e4f70bba6f84d611ec92",
@@ -87,7 +821,8 @@
     "published_at": "2026-05-22T23:50:35.010Z",
     "fetched_at": "2026-05-22T23:50:35.010Z",
     "title_zh": "CVE-2026-46333：Linux内核ptrace路径中的本地root权限提升与凭据泄露 | Qualys",
-    "summary_zh": "Qualys披露了Linux内核ptrace子系统中的一个高危漏洞CVE-2026-46333。该漏洞允许本地攻击者通过竞争条件利用ptrace机制中的权限检查缺陷，实现从普通用户到root的权限提升，并可进一步泄露其他进程的敏感凭据。文章深入分析了漏洞的触发条件、利用代码片段及内核补丁的修复逻辑，对Linux系统管理员和内核安全开发者具有重要参考价值。"
+    "summary_zh": "Qualys披露了Linux内核ptrace子系统中的一个高危漏洞CVE-2026-46333。该漏洞允许本地攻击者通过竞争条件利用ptrace机制中的权限检查缺陷，实现从普通用户到root的权限提升，并可进一步泄露其他进程的敏感凭据。文章深入分析了漏洞的触发条件、利用代码片段及内核补丁的修复逻辑，对Linux系统管理员和内核安全开发者具有重要参考价值。",
+    "topic": "other"
   },
   {
     "id": "b2a503cd3a20a7e4530db5a069eff536",
@@ -97,7 +832,8 @@
     "published_at": "2026-05-22T23:50:35.010Z",
     "fetched_at": "2026-05-22T23:50:35.010Z",
     "title_zh": "打开服务器机房大门的主机面板：CVE-2026-41940 cPanel认证绕过，150万目标，东南亚国家间谍活动 | Lyrie Research",
-    "summary_zh": "Lyrie Research披露了cPanel中的一个严重认证绕过漏洞CVE-2026-41940，影响约150万台服务器。攻击者无需凭据即可完全接管cPanel管理界面，进而控制整个Web服务器。该漏洞已被东南亚APT组织用于国家级间谍活动。文章详细分析了漏洞的利用链、受影响版本范围及检测方法，并提供了紧急缓解措施，对托管服务提供商和网站管理员具有极高警示意义。"
+    "summary_zh": "Lyrie Research披露了cPanel中的一个严重认证绕过漏洞CVE-2026-41940，影响约150万台服务器。攻击者无需凭据即可完全接管cPanel管理界面，进而控制整个Web服务器。该漏洞已被东南亚APT组织用于国家级间谍活动。文章详细分析了漏洞的利用链、受影响版本范围及检测方法，并提供了紧急缓解措施，对托管服务提供商和网站管理员具有极高警示意义。",
+    "topic": "other"
   },
   {
     "id": "85eb2ea56ecdaaa9e29bb2e0305204ae",
@@ -107,7 +843,8 @@
     "published_at": "2026-05-22T23:50:35.010Z",
     "fetched_at": "2026-05-22T23:50:35.010Z",
     "title_zh": "CVE-2026-40369：十二字节突破浏览器沙箱——VoidSec",
-    "summary_zh": "VoidSec详细分析了CVE-2026-40369，一个仅需12字节即可突破主流浏览器沙箱的漏洞。该漏洞存在于浏览器的JavaScript引擎与渲染进程的通信机制中，攻击者通过精心构造的短Payload可触发内存损坏，实现沙箱逃逸。文章从汇编级角度剖析了漏洞利用的底层原理，并讨论了浏览器厂商的修复策略，对浏览器安全研究人员和前端开发者具有深度技术价值。"
+    "summary_zh": "VoidSec详细分析了CVE-2026-40369，一个仅需12字节即可突破主流浏览器沙箱的漏洞。该漏洞存在于浏览器的JavaScript引擎与渲染进程的通信机制中，攻击者通过精心构造的短Payload可触发内存损坏，实现沙箱逃逸。文章从汇编级角度剖析了漏洞利用的底层原理，并讨论了浏览器厂商的修复策略，对浏览器安全研究人员和前端开发者具有深度技术价值。",
+    "topic": "other"
   },
   {
     "id": "5884ff4df948ce6cff321312c1b935da",
@@ -117,7 +854,8 @@
     "published_at": "2026-05-22T23:50:35.010Z",
     "fetched_at": "2026-05-22T23:50:35.010Z",
     "title_zh": "FIRST发布2026年漏洞报告，预测CVE数量将创历史新高",
-    "summary_zh": "FIRST.org发布的2026年漏洞报告指出，预计全年CVE数量将突破历史纪录。报告基于对漏洞披露趋势、攻击利用数据及厂商修复速度的综合分析，预测了关键行业（如医疗、金融、能源）面临的主要威胁。文章强调了协作式漏洞披露（CVD）的重要性，并建议组织采用标准化漏洞评分与响应流程，以应对即将到来的漏洞洪峰。"
+    "summary_zh": "FIRST.org发布的2026年漏洞报告指出，预计全年CVE数量将突破历史纪录。报告基于对漏洞披露趋势、攻击利用数据及厂商修复速度的综合分析，预测了关键行业（如医疗、金融、能源）面临的主要威胁。文章强调了协作式漏洞披露（CVD）的重要性，并建议组织采用标准化漏洞评分与响应流程，以应对即将到来的漏洞洪峰。",
+    "topic": "other"
   },
   {
     "id": "9dc1974927fc99192e2209c8b0b47a6d",
@@ -127,7 +865,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Red Hat Enterprise Linux 7 性能调优指南",
-    "summary_zh": "本文是 Red Hat 官方发布的 RHEL 7 性能调优权威指南，系统介绍性能分析方法论、工具链（tuned、perf、SystemTap）及关键子系统调优。涵盖 CPU 调度策略、内存分配优化、存储 I/O 调优（deadline/noop 调度器）、网络缓冲区调整及虚拟化场景优化。适合企业级生产环境运维参考。"
+    "summary_zh": "本文是 Red Hat 官方发布的 RHEL 7 性能调优权威指南，系统介绍性能分析方法论、工具链（tuned、perf、SystemTap）及关键子系统调优。涵盖 CPU 调度策略、内存分配优化、存储 I/O 调优（deadline/noop 调度器）、网络缓冲区调整及虚拟化场景优化。适合企业级生产环境运维参考。",
+    "topic": "other"
   },
   {
     "id": "7b5feb98787de07149049818c134b30d",
@@ -137,7 +876,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Linux 服务器性能调优（书籍推荐）| Amazon",
-    "summary_zh": "本文推荐 Amazon 上广受好评的 Linux 服务器性能调优书籍，内容覆盖系统性能基准测试、内核参数调优、文件系统优化、网络栈调优及监控工具实战。适合希望系统化学习性能调优的运维工程师，书中提供大量可复用的配置脚本与案例分析，是提升服务器吞吐量与稳定性的实用资源。"
+    "summary_zh": "本文推荐 Amazon 上广受好评的 Linux 服务器性能调优书籍，内容覆盖系统性能基准测试、内核参数调优、文件系统优化、网络栈调优及监控工具实战。适合希望系统化学习性能调优的运维工程师，书中提供大量可复用的配置脚本与案例分析，是提升服务器吞吐量与稳定性的实用资源。",
+    "topic": "other"
   },
   {
     "id": "656c8b1824a4a1071a5248d452245eca",
@@ -147,7 +887,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Linux 性能调优指南：内核与系统优化",
-    "summary_zh": "本文全面讲解 Linux 内核与系统层面的性能优化技术，包括 CPU 调度器调优（CFS、实时调度）、内存管理（NUMA 绑定、OOM 调整）、存储 I/O 优化（blk-mq、多队列）及网络协议栈调优（TCP 拥塞控制、缓冲区大小）。提供 sysctl 参数详解与生产环境配置案例，适合追求极致性能的运维工程师。"
+    "summary_zh": "本文全面讲解 Linux 内核与系统层面的性能优化技术，包括 CPU 调度器调优（CFS、实时调度）、内存管理（NUMA 绑定、OOM 调整）、存储 I/O 优化（blk-mq、多队列）及网络协议栈调优（TCP 拥塞控制、缓冲区大小）。提供 sysctl 参数详解与生产环境配置案例，适合追求极致性能的运维工程师。",
+    "topic": "other"
   },
   {
     "id": "830f64df924ff5c4457fc485125138c9",
@@ -157,7 +898,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Linux 性能工程完全指南 2025：性能分析、系统调优、eBPF 与瓶颈诊断 | Chaos and Order",
-    "summary_zh": "本文是 2025 年 Linux 性能工程的全景指南，涵盖性能分析方法论、系统调优实践、eBPF 动态追踪技术及瓶颈诊断流程。深入讲解 CPU、内存、磁盘、网络四大子系统的监控与优化，并结合实际案例演示如何使用 perf、bpftrace、火焰图等工具定位问题。适合追求深度与广度的性能工程师。"
+    "summary_zh": "本文是 2025 年 Linux 性能工程的全景指南，涵盖性能分析方法论、系统调优实践、eBPF 动态追踪技术及瓶颈诊断流程。深入讲解 CPU、内存、磁盘、网络四大子系统的监控与优化，并结合实际案例演示如何使用 perf、bpftrace、火焰图等工具定位问题。适合追求深度与广度的性能工程师。",
+    "topic": "other"
   },
   {
     "id": "c973d006477551b7b58412b60706eae5",
@@ -167,7 +909,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Linux 性能调优：sysctl、内核参数与系统优化 | Calmops",
-    "summary_zh": "本文聚焦 Linux 内核参数调优，系统讲解 sysctl 配置文件的常用参数及其对系统性能的影响。涵盖网络栈优化（net.core.*、net.ipv4.*）、内存管理（vm.*）、文件系统（fs.*）及内核调度（kernel.*）等关键领域。提供可立即应用于生产环境的配置示例与调优思路，是运维人员优化服务器性能的实用手册。"
+    "summary_zh": "本文聚焦 Linux 内核参数调优，系统讲解 sysctl 配置文件的常用参数及其对系统性能的影响。涵盖网络栈优化（net.core.*、net.ipv4.*）、内存管理（vm.*）、文件系统（fs.*）及内核调度（kernel.*）等关键领域。提供可立即应用于生产环境的配置示例与调优思路，是运维人员优化服务器性能的实用手册。",
+    "topic": "other"
   },
   {
     "id": "9dd1c5620a63b813a40df1534a2fe425",
@@ -177,7 +920,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Kubernetes 官方最佳实践指南",
-    "summary_zh": "本文是 Kubernetes 官方文档中关于集群运维与工作负载管理的权威指南，系统介绍了 Pod 安全策略、RBAC 权限控制、资源配额管理、命名空间设计以及日志与监控集成等核心实践。重点包括使用 PodSecurityPolicy 或 OPA 实施安全基线、通过 LimitRange 和 ResourceQuota 防止资源争抢、以及利用 ConfigMap 和 Secret 实现配置与敏感数据分离。适合作为生产环境部署的参考标准。"
+    "summary_zh": "本文是 Kubernetes 官方文档中关于集群运维与工作负载管理的权威指南，系统介绍了 Pod 安全策略、RBAC 权限控制、资源配额管理、命名空间设计以及日志与监控集成等核心实践。重点包括使用 PodSecurityPolicy 或 OPA 实施安全基线、通过 LimitRange 和 ResourceQuota 防止资源争抢、以及利用 ConfigMap 和 Secret 实现配置与敏感数据分离。适合作为生产环境部署的参考标准。",
+    "topic": "other"
   },
   {
     "id": "23cc9bfcf82ad327e2248e5e4fec2c55",
@@ -187,7 +931,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "GKE 集群升级最佳实践（Google Cloud 官方文档）",
-    "summary_zh": "本文是 Google Cloud 官方针对 GKE 集群升级的详细指南，涵盖升级策略选择（快速升级 vs. 滚动升级）、节点池管理、应用兼容性验证、以及回滚方案。重点介绍了如何利用 Maintenance Windows 控制升级窗口、通过 Node Auto-Repair 和 Auto-Upgrade 减少人工干预，以及使用 PodDisruptionBudget 确保升级期间服务不中断。对于依赖 GKE 的企业用户，本文是保障集群高可用的必读资料。"
+    "summary_zh": "本文是 Google Cloud 官方针对 GKE 集群升级的详细指南，涵盖升级策略选择（快速升级 vs. 滚动升级）、节点池管理、应用兼容性验证、以及回滚方案。重点介绍了如何利用 Maintenance Windows 控制升级窗口、通过 Node Auto-Repair 和 Auto-Upgrade 减少人工干预，以及使用 PodDisruptionBudget 确保升级期间服务不中断。对于依赖 GKE 的企业用户，本文是保障集群高可用的必读资料。",
+    "topic": "other"
   },
   {
     "id": "8d097cf2e9eb0c0021bfb8185ac5fe0f",
@@ -197,7 +942,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "构建更安全、更可靠的 Kubernetes 集群（Komodor 实践指南）",
-    "summary_zh": "本文由 Komodor 团队撰写，聚焦于提升 Kubernetes 集群的安全性与可靠性。内容涵盖基于角色的访问控制（RBAC）精细化配置、Pod 安全上下文设置、网络策略实施、以及资源限制与请求的合理规划。文章还介绍了如何利用 Komodor 进行变更追踪与故障排查，强调通过审计日志和事件驱动告警快速定位问题。适合希望从运维角度强化集群稳定性的团队。"
+    "summary_zh": "本文由 Komodor 团队撰写，聚焦于提升 Kubernetes 集群的安全性与可靠性。内容涵盖基于角色的访问控制（RBAC）精细化配置、Pod 安全上下文设置、网络策略实施、以及资源限制与请求的合理规划。文章还介绍了如何利用 Komodor 进行变更追踪与故障排查，强调通过审计日志和事件驱动告警快速定位问题。适合希望从运维角度强化集群稳定性的团队。",
+    "topic": "other"
   },
   {
     "id": "a50f7cb71fe5cd23970c5a66f3c5a090",
@@ -207,7 +953,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Kubernetes 最佳实践指南（Apptio 企业级视角）",
-    "summary_zh": "本文从企业成本管理与资源优化角度出发，介绍了 Kubernetes 集群的最佳实践，包括容器资源请求与限制的合理设置、利用 Vertical Pod Autoscaler 自动调整资源、以及通过成本标签（Labels）实现费用分摊。文章还讨论了如何通过 HPA 和 Cluster Autoscaler 实现弹性伸缩，并推荐使用 FinOps 方法论优化云支出。适合关注云原生成本控制与资源效率的团队。"
+    "summary_zh": "本文从企业成本管理与资源优化角度出发，介绍了 Kubernetes 集群的最佳实践，包括容器资源请求与限制的合理设置、利用 Vertical Pod Autoscaler 自动调整资源、以及通过成本标签（Labels）实现费用分摊。文章还讨论了如何通过 HPA 和 Cluster Autoscaler 实现弹性伸缩，并推荐使用 FinOps 方法论优化云支出。适合关注云原生成本控制与资源效率的团队。",
+    "topic": "other"
   },
   {
     "id": "6a07cce5ef25930aad1f95db53e3d790",
@@ -217,7 +964,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Kubernetes 生产最佳实践：完整检查清单（SFEIR 研究院）",
-    "summary_zh": "本文提供了一份全面的 Kubernetes 生产环境检查清单，覆盖集群架构设计、网络与存储配置、安全加固、监控告警、备份恢复以及 CI/CD 集成等关键维度。文章详细列出了每个环节的具体操作项，例如启用审计日志、配置 Pod 反亲和性、使用 PersistentVolume 的回收策略、以及设置 ResourceQuota 和 LimitRange。适合作为新集群上线前的验收标准或现有集群的审计参考。"
+    "summary_zh": "本文提供了一份全面的 Kubernetes 生产环境检查清单，覆盖集群架构设计、网络与存储配置、安全加固、监控告警、备份恢复以及 CI/CD 集成等关键维度。文章详细列出了每个环节的具体操作项，例如启用审计日志、配置 Pod 反亲和性、使用 PersistentVolume 的回收策略、以及设置 ResourceQuota 和 LimitRange。适合作为新集群上线前的验收标准或现有集群的审计参考。",
+    "topic": "other"
   },
   {
     "id": "d095a8d0ca6d07e7e03c32e9e64eea53",
@@ -227,7 +975,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "如何减小 Docker 镜像体积：6 种优化方法（DevOpsCube 教程）",
-    "summary_zh": "本文列出了六种经过验证的 Docker 镜像体积优化方法：使用多阶段构建、选择最小基础镜像（如 Alpine）、合并 RUN 指令以减少层数、清理 apt/yum 缓存、利用 .dockerignore 排除无关文件、以及使用 Docker Squash 合并层。每种方法都配有实际代码示例和性能对比数据，帮助开发者直观了解优化效果。文章还强调了在 CI/CD 流程中集成镜像扫描工具（如 Trivy）以兼顾安全与效率。"
+    "summary_zh": "本文列出了六种经过验证的 Docker 镜像体积优化方法：使用多阶段构建、选择最小基础镜像（如 Alpine）、合并 RUN 指令以减少层数、清理 apt/yum 缓存、利用 .dockerignore 排除无关文件、以及使用 Docker Squash 合并层。每种方法都配有实际代码示例和性能对比数据，帮助开发者直观了解优化效果。文章还强调了在 CI/CD 流程中集成镜像扫描工具（如 Trivy）以兼顾安全与效率。",
+    "topic": "other"
   },
   {
     "id": "9b4bd83f04c6e56368cd1e2be9605485",
@@ -237,7 +986,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Docker Compose 性能调优指南 | Docker Recipes",
-    "summary_zh": "聚焦 Docker Compose 在开发与生产环境中的性能优化，涵盖服务依赖启动顺序控制、卷挂载策略、资源限制声明及网络配置调优。通过实际案例演示如何利用 depends_on 条件、healthcheck 机制和 profiles 特性，减少启动延迟并提升多服务编排的稳定性与资源利用率。"
+    "summary_zh": "聚焦 Docker Compose 在开发与生产环境中的性能优化，涵盖服务依赖启动顺序控制、卷挂载策略、资源限制声明及网络配置调优。通过实际案例演示如何利用 depends_on 条件、healthcheck 机制和 profiles 特性，减少启动延迟并提升多服务编排的稳定性与资源利用率。",
+    "topic": "other"
   },
   {
     "id": "8d2ce1258ffcb42beb4e26b81202e90a",
@@ -247,7 +997,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "云端构建优化 | Docker 官方文档",
-    "summary_zh": "Docker 官方文档针对云端 CI/CD 场景，提出构建缓存远程共享、构建参数化、多架构镜像构建及层缓存失效管理等最佳实践。重点介绍 BuildKit 的高级特性，如 --cache-from 和 --cache-to 实现跨节点缓存复用，显著缩短云端构建时间并降低存储成本。"
+    "summary_zh": "Docker 官方文档针对云端 CI/CD 场景，提出构建缓存远程共享、构建参数化、多架构镜像构建及层缓存失效管理等最佳实践。重点介绍 BuildKit 的高级特性，如 --cache-from 和 --cache-to 实现跨节点缓存复用，显著缩短云端构建时间并降低存储成本。",
+    "topic": "other"
   },
   {
     "id": "ac2dc90064e96901531d02490101d05a",
@@ -257,7 +1008,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "系统加固标准 | RSI Security",
-    "summary_zh": "本文对比主流系统加固标准，包括 CIS Benchmarks、NIST SP 800-53、ISO 27001 及 PCI DSS 中的相关要求。重点解析如何将标准转化为可执行的加固脚本与自动化检查工具（如 OpenSCAP、Ansible），并讨论合规性审计中的常见陷阱与持续监控策略。"
+    "summary_zh": "本文对比主流系统加固标准，包括 CIS Benchmarks、NIST SP 800-53、ISO 27001 及 PCI DSS 中的相关要求。重点解析如何将标准转化为可执行的加固脚本与自动化检查工具（如 OpenSCAP、Ansible），并讨论合规性审计中的常见陷阱与持续监控策略。",
+    "topic": "other"
   },
   {
     "id": "1a11f5a893a5b2517f3e31785e6c9fc4",
@@ -267,7 +1019,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "操作系统加固 | 加州州立大学圣贝纳迪诺分校 IT 服务",
-    "summary_zh": "面向高校 IT 环境的 OS 加固指南，涵盖 Windows 与 Linux 系统的通用安全配置：禁用不必要的服务与端口、启用安全基线策略、配置自动更新、实施 BitLocker/LUKS 全盘加密及集中日志审计。强调用户教育与合规检查在加固流程中的重要性。"
+    "summary_zh": "面向高校 IT 环境的 OS 加固指南，涵盖 Windows 与 Linux 系统的通用安全配置：禁用不必要的服务与端口、启用安全基线策略、配置自动更新、实施 BitLocker/LUKS 全盘加密及集中日志审计。强调用户教育与合规检查在加固流程中的重要性。",
+    "topic": "other"
   },
   {
     "id": "c5460acdb5a9cccce3f055c3c0bdcb17",
@@ -277,7 +1030,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "什么是系统加固？| Intel",
-    "summary_zh": "Intel 从硬件与软件协同角度阐释系统加固，涵盖 BIOS/UEFI 安全配置（Secure Boot、TPM）、微码更新、内存加密（TME/SGX）及固件完整性验证。结合操作系统层面的内核加固、驱动签名与虚拟化安全，提供从芯片到 OS 的全栈加固方案。"
+    "summary_zh": "Intel 从硬件与软件协同角度阐释系统加固，涵盖 BIOS/UEFI 安全配置（Secure Boot、TPM）、微码更新、内存加密（TME/SGX）及固件完整性验证。结合操作系统层面的内核加固、驱动签名与虚拟化安全，提供从芯片到 OS 的全栈加固方案。",
+    "topic": "other"
   },
   {
     "id": "2280e774f6f6f88eea8888c75be76887",
@@ -287,7 +1041,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "安全与加固指南 | SUSE Linux Enterprise Server 15 SP7",
-    "summary_zh": "SUSE 官方安全加固手册，覆盖 SLES 15 SP7 的全面安全配置：YaST 安全模块、SELinux 策略定制、防火墙（firewalld）高级规则、加密文件系统（eCryptfs/LUKS）、PAM 认证强化及系统日志集中管理（rsyslog/auditd）。提供合规性检查脚本与自动化部署方案。"
+    "summary_zh": "SUSE 官方安全加固手册，覆盖 SLES 15 SP7 的全面安全配置：YaST 安全模块、SELinux 策略定制、防火墙（firewalld）高级规则、加密文件系统（eCryptfs/LUKS）、PAM 认证强化及系统日志集中管理（rsyslog/auditd）。提供合规性检查脚本与自动化部署方案。",
+    "topic": "other"
   },
   {
     "id": "985baba49c2494da0a02b633cfe992ad",
@@ -297,7 +1052,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "安全加固 | Red Hat Enterprise Linux 10 | Red Hat 文档",
-    "summary_zh": "Red Hat 官方 RHEL 10 安全加固文档，涵盖：系统范围策略（polkit）、SELinux 强制模式配置、OpenSCAP 合规扫描、USB 设备控制、内核实时补丁（kpatch）及加密策略（crypto-policies）。重点介绍 RHEL 10 新增的安全特性，如系统角色（system roles）与自动化加固 playbook。"
+    "summary_zh": "Red Hat 官方 RHEL 10 安全加固文档，涵盖：系统范围策略（polkit）、SELinux 强制模式配置、OpenSCAP 合规扫描、USB 设备控制、内核实时补丁（kpatch）及加密策略（crypto-policies）。重点介绍 RHEL 10 新增的安全特性，如系统角色（system roles）与自动化加固 playbook。",
+    "topic": "other"
   },
   {
     "id": "1b4a6d499aff5c50d8bb7250edd40314",
@@ -307,7 +1063,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "2026年漏洞预测：未来一年展望",
-    "summary_zh": "本文基于FIRST.org的年度报告，对2026年漏洞趋势进行前瞻性分析。预测指出，随着攻击面扩大和漏洞披露加速，2026年CVE数量将再创新高。文章深入探讨了关键基础设施、云原生环境及AI供应链中的新兴风险，并建议安全团队优先采用自动化漏洞管理与优先级排序策略，以应对日益复杂的威胁格局。"
+    "summary_zh": "本文基于FIRST.org的年度报告，对2026年漏洞趋势进行前瞻性分析。预测指出，随着攻击面扩大和漏洞披露加速，2026年CVE数量将再创新高。文章深入探讨了关键基础设施、云原生环境及AI供应链中的新兴风险，并建议安全团队优先采用自动化漏洞管理与优先级排序策略，以应对日益复杂的威胁格局。",
+    "topic": "other"
   },
   {
     "id": "bc6cb182b4b2fdd86c5371ec935cd787",
@@ -317,7 +1074,8 @@
     "published_at": "2026-05-22T23:50:35.009Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "2026年NVD变革：NIST漏洞数据库迁移与BDSA...",
-    "summary_zh": "本文解读了2026年NIST国家漏洞数据库（NVD）的重大架构调整，包括数据格式更新、API接口变更以及与Black Duck BDSA的集成方案。这些变化将影响自动化漏洞管理工具的解析逻辑与数据源可靠性。文章从技术实操角度分析了迁移带来的兼容性问题，并给出了适配新NVD标准的建议，对依赖NVD进行漏洞扫描的团队具有直接指导意义。"
+    "summary_zh": "本文解读了2026年NIST国家漏洞数据库（NVD）的重大架构调整，包括数据格式更新、API接口变更以及与Black Duck BDSA的集成方案。这些变化将影响自动化漏洞管理工具的解析逻辑与数据源可靠性。文章从技术实操角度分析了迁移带来的兼容性问题，并给出了适配新NVD标准的建议，对依赖NVD进行漏洞扫描的团队具有直接指导意义。",
+    "topic": "other"
   },
   {
     "id": "1a6c9d6109ab7b9201f3a753f3c90cf5",
@@ -327,7 +1085,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "LLM微调终极指南：最佳实践与策略",
-    "summary_zh": "Lakera AI出品的深度指南，系统梳理了LLM微调的最佳实践，包括数据质量评估、微调方法对比（全量微调 vs PEFT）、超参数调优、评估框架及安全对齐。内容兼顾理论与工程，提供了可复用的检查清单和决策树，适合需要构建生产级微调管线的团队参考。"
+    "summary_zh": "Lakera AI出品的深度指南，系统梳理了LLM微调的最佳实践，包括数据质量评估、微调方法对比（全量微调 vs PEFT）、超参数调优、评估框架及安全对齐。内容兼顾理论与工程，提供了可复用的检查清单和决策树，适合需要构建生产级微调管线的团队参考。",
+    "topic": "other"
   },
   {
     "id": "ead910383122882b6ada92f9434d76a6",
@@ -337,7 +1096,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "2026年LLM微调实战指南：LoRA、QLoRA、DPO、GRPO",
-    "summary_zh": "来自DEV社区的实战指南，聚焦2026年主流的LLM微调技术，包括LoRA、QLoRA、DPO和GRPO。文章详细讲解了每种方法的原理、适用场景、代码实现及性能对比，并提供了完整的工程化建议。适合希望紧跟技术前沿、快速上手最新微调框架的开发者。"
+    "summary_zh": "来自DEV社区的实战指南，聚焦2026年主流的LLM微调技术，包括LoRA、QLoRA、DPO和GRPO。文章详细讲解了每种方法的原理、适用场景、代码实现及性能对比，并提供了完整的工程化建议。适合希望紧跟技术前沿、快速上手最新微调框架的开发者。",
+    "topic": "other"
   },
   {
     "id": "8627b257de028dc6ddc3b1fe1fc7d189",
@@ -347,7 +1107,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "LLM微调实战指南",
-    "summary_zh": "Databricks官方博客，从数据工程和MLOps角度介绍了LLM微调的完整流程。内容涵盖数据湖管理、特征工程、分布式训练、模型评估与部署，并分享了在Spark和MLflow生态下的最佳实践。适合数据工程师和ML平台团队，提供了可扩展的企业级微调方案。"
+    "summary_zh": "Databricks官方博客，从数据工程和MLOps角度介绍了LLM微调的完整流程。内容涵盖数据湖管理、特征工程、分布式训练、模型评估与部署，并分享了在Spark和MLflow生态下的最佳实践。适合数据工程师和ML平台团队，提供了可扩展的企业级微调方案。",
+    "topic": "other"
   },
   {
     "id": "7f868a850e678ce72b58c2b0bf3d3350",
@@ -357,7 +1118,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "企业级LLM微调指南（2025）：提升准确性",
-    "summary_zh": "面向企业场景的LLM微调指南，重点讨论如何通过微调提升模型在特定业务领域的准确性。内容涵盖数据标注策略、领域适配、评估指标设计、成本控制及合规要求。适合企业AI团队，提供了从需求分析到上线监控的全流程方法论。"
+    "summary_zh": "面向企业场景的LLM微调指南，重点讨论如何通过微调提升模型在特定业务领域的准确性。内容涵盖数据标注策略、领域适配、评估指标设计、成本控制及合规要求。适合企业AI团队，提供了从需求分析到上线监控的全流程方法论。",
+    "topic": "other"
   },
   {
     "id": "aa9de63b7c062123219eaa0ea4856a28",
@@ -367,7 +1129,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "LLM微调终极指南：从基础到突破——技术、研究、最佳实践、应用挑战与机遇全面综述（1.1版）",
-    "summary_zh": "这是一篇详尽的学术综述，系统回顾了LLM微调的技术演进、核心方法（如全参数微调、PEFT、RLHF）、前沿研究、最佳实践及当前面临的挑战。内容覆盖理论分析、实验对比和未来方向，适合研究人员和高级工程师全面掌握微调领域的最新进展与开放问题。"
+    "summary_zh": "这是一篇详尽的学术综述，系统回顾了LLM微调的技术演进、核心方法（如全参数微调、PEFT、RLHF）、前沿研究、最佳实践及当前面临的挑战。内容覆盖理论分析、实验对比和未来方向，适合研究人员和高级工程师全面掌握微调领域的最新进展与开放问题。",
+    "topic": "other"
   },
   {
     "id": "2d7cb62a3c287d6f648b986a82d5701a",
@@ -377,7 +1140,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "Linux系统管理最佳实践 - CETS",
-    "summary_zh": "来自宾夕法尼亚大学CETS团队的系统管理最佳实践指南，内容涵盖用户权限管理、安全加固、备份策略、日志审计、自动化运维等核心领域。强调安全性和可维护性，提供了经过验证的配置模板和检查清单，适合高校及企业IT运维团队参考。"
+    "summary_zh": "来自宾夕法尼亚大学CETS团队的系统管理最佳实践指南，内容涵盖用户权限管理、安全加固、备份策略、日志审计、自动化运维等核心领域。强调安全性和可维护性，提供了经过验证的配置模板和检查清单，适合高校及企业IT运维团队参考。",
+    "topic": "other"
   },
   {
     "id": "d6546eb35a4f1e33142292467c9ecd5e",
@@ -387,7 +1151,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "Linux系统管理 | Cycle.io",
-    "summary_zh": "Cycle.io提供的Linux系统管理指南，聚焦于现代云原生环境下的运维实践，包括容器化部署、自动化配置管理、监控告警、日志聚合及安全策略。内容结合了传统系统管理与DevOps工具链，适合在云基础设施中管理Linux服务器的工程师参考。"
+    "summary_zh": "Cycle.io提供的Linux系统管理指南，聚焦于现代云原生环境下的运维实践，包括容器化部署、自动化配置管理、监控告警、日志聚合及安全策略。内容结合了传统系统管理与DevOps工具链，适合在云基础设施中管理Linux服务器的工程师参考。",
+    "topic": "other"
   },
   {
     "id": "f6d1ecddabfa5b302b80c5587e3bda61",
@@ -397,7 +1162,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "精通 Linux 服务器管理：2026 完全指南 | Nerd Level Tech",
-    "summary_zh": "本指南前瞻 2026 年 Linux 服务器管理趋势，涵盖从基础安装、用户管理、存储配置到高级网络与安全加固。重点介绍 systemd、容器化部署（Docker/Podman）、自动化配置工具（Ansible）及监控体系搭建。提供可落地的生产环境最佳实践，适合中高级运维工程师提升全栈管理能力。"
+    "summary_zh": "本指南前瞻 2026 年 Linux 服务器管理趋势，涵盖从基础安装、用户管理、存储配置到高级网络与安全加固。重点介绍 systemd、容器化部署（Docker/Podman）、自动化配置工具（Ansible）及监控体系搭建。提供可落地的生产环境最佳实践，适合中高级运维工程师提升全栈管理能力。",
+    "topic": "other"
   },
   {
     "id": "ee34ce55b79c82b9d6956f2634365d08",
@@ -407,7 +1173,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "2026 年完整 Linux 系统管理指南 | LinuxTeck",
-    "summary_zh": "本文提供面向 2026 年的 Linux 系统管理全流程指南，从系统安装、软件包管理、用户与组策略，到网络服务配置（SSH、Nginx、防火墙）和自动化运维脚本。深入讲解 LVM 逻辑卷管理、SELinux 安全策略及系统日志审计。内容结构清晰，适合系统管理员作为日常参考手册。"
+    "summary_zh": "本文提供面向 2026 年的 Linux 系统管理全流程指南，从系统安装、软件包管理、用户与组策略，到网络服务配置（SSH、Nginx、防火墙）和自动化运维脚本。深入讲解 LVM 逻辑卷管理、SELinux 安全策略及系统日志审计。内容结构清晰，适合系统管理员作为日常参考手册。",
+    "topic": "other"
   },
   {
     "id": "770ee469a572aa8a1e5c60aeda759dad",
@@ -417,7 +1184,8 @@
     "published_at": "2026-05-22T23:50:28.418Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "Linux 系统管理：系统管理员实用指南",
-    "summary_zh": "本文从实战角度出发，系统介绍 Linux 系统管理员的核心职责与日常操作，包括用户管理、磁盘分区与挂载、进程监控、计划任务（cron）及网络故障排查。强调命令行效率与脚本化运维，并给出常见问题（如磁盘满、内存泄漏）的快速定位与修复方法。适合刚入行的运维人员快速上手。"
+    "summary_zh": "本文从实战角度出发，系统介绍 Linux 系统管理员的核心职责与日常操作，包括用户管理、磁盘分区与挂载、进程监控、计划任务（cron）及网络故障排查。强调命令行效率与脚本化运维，并给出常见问题（如磁盘满、内存泄漏）的快速定位与修复方法。适合刚入行的运维人员快速上手。",
+    "topic": "other"
   },
   {
     "id": "e3b21747da09d710e88fce605b8ecbf4",
@@ -427,7 +1195,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "最新AI新闻与最具影响力的突破性进展",
-    "summary_zh": "本文汇总了近期AI领域最值得关注的新闻，涵盖开源大模型性能逼近闭源模型、AI Agent在复杂工作流中的自主纠错能力、以及多模态理解在视频分析中的突破。文章特别强调了RAG（检索增强生成）架构的演进——从简单向量检索到结合知识图谱的混合检索，显著提升了事实性问答的准确率。"
+    "summary_zh": "本文汇总了近期AI领域最值得关注的新闻，涵盖开源大模型性能逼近闭源模型、AI Agent在复杂工作流中的自主纠错能力、以及多模态理解在视频分析中的突破。文章特别强调了RAG（检索增强生成）架构的演进——从简单向量检索到结合知识图谱的混合检索，显著提升了事实性问答的准确率。",
+    "topic": "other"
   },
   {
     "id": "bcd0e77d5e273bae69f53b89865b5b68",
@@ -437,7 +1206,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "OpenAI解决80年Erdős几何难题：AI自主推翻方格网格猜想（2026年5月）",
-    "summary_zh": "本文报道了OpenAI的AI系统在2026年5月自主解决了困扰数学界80年的Erdős几何问题——通过构造反例推翻了方格网格猜想。系统采用了强化学习与符号推理结合的架构，在未提供任何人类提示的情况下，生成了严格的数学证明。这一成果标志着AI在纯数学研究领域从辅助工具跃升为独立发现者，对自动定理证明领域具有里程碑意义。"
+    "summary_zh": "本文报道了OpenAI的AI系统在2026年5月自主解决了困扰数学界80年的Erdős几何问题——通过构造反例推翻了方格网格猜想。系统采用了强化学习与符号推理结合的架构，在未提供任何人类提示的情况下，生成了严格的数学证明。这一成果标志着AI在纯数学研究领域从辅助工具跃升为独立发现者，对自动定理证明领域具有里程碑意义。",
+    "topic": "other"
   },
   {
     "id": "8994cda36627526ebf2f98d0664f00ab",
@@ -447,7 +1217,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "AI在困扰专家数十年的数学难题上取得重大突破",
-    "summary_zh": "Phys.org报道了AI在数学领域的最新突破：一个基于深度学习和符号推理的混合系统成功解决了一个困扰人类专家数十年的组合数学问题。文章详细解释了AI如何通过生成大量候选构造并利用形式化验证工具自动筛选，最终找到反例。这一方法不仅解决了具体问题，更展示了AI在数学发现中的通用范式——结合直觉搜索与严格证明。"
+    "summary_zh": "Phys.org报道了AI在数学领域的最新突破：一个基于深度学习和符号推理的混合系统成功解决了一个困扰人类专家数十年的组合数学问题。文章详细解释了AI如何通过生成大量候选构造并利用形式化验证工具自动筛选，最终找到反例。这一方法不仅解决了具体问题，更展示了AI在数学发现中的通用范式——结合直觉搜索与严格证明。",
+    "topic": "other"
   },
   {
     "id": "94985b3bfb1fca26b78007579043f7ec",
@@ -457,7 +1228,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "microsoft/ai-agents-for-beginners：12节入门课程——GitHub",
-    "summary_zh": "微软官方GitHub仓库提供了12节AI Agent入门课程，覆盖从基础概念到高级主题：Agent架构模式（ReAct、Plan-and-Execute）、工具调用与API集成、多Agent协作（对话式与任务式）、记忆管理（短期/长期/语义记忆）、以及安全与对齐。每节课包含Jupyter Notebook实践代码，使用Semantic Kernel和AutoGen框架，适合有Python基础的开发者快速上手。"
+    "summary_zh": "微软官方GitHub仓库提供了12节AI Agent入门课程，覆盖从基础概念到高级主题：Agent架构模式（ReAct、Plan-and-Execute）、工具调用与API集成、多Agent协作（对话式与任务式）、记忆管理（短期/长期/语义记忆）、以及安全与对齐。每节课包含Jupyter Notebook实践代码，使用Semantic Kernel和AutoGen框架，适合有Python基础的开发者快速上手。",
+    "topic": "other"
   },
   {
     "id": "6c66634b872dfd467f5ad97966e87753",
@@ -467,7 +1239,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "使用OpenAI Agents SDK构建你的第一个多Agent系统——2026年Python教程",
-    "summary_zh": "DEV社区发布的2026年实战教程，手把手教你用OpenAI Agents SDK构建多Agent系统。教程从安装SDK开始，逐步实现：定义专用Agent（如搜索Agent、代码Agent）、配置工具函数、设置Agent间通信协议（基于消息队列），最后通过Orchestrator Agent协调任务。代码示例展示了如何实现Agent间的上下文传递、错误重试和结果合并，适合希望快速落地多Agent架构的开发者。"
+    "summary_zh": "DEV社区发布的2026年实战教程，手把手教你用OpenAI Agents SDK构建多Agent系统。教程从安装SDK开始，逐步实现：定义专用Agent（如搜索Agent、代码Agent）、配置工具函数、设置Agent间通信协议（基于消息队列），最后通过Orchestrator Agent协调任务。代码示例展示了如何实现Agent间的上下文传递、错误重试和结果合并，适合希望快速落地多Agent架构的开发者。",
+    "topic": "other"
   },
   {
     "id": "e0bfa9f84079cd8673c9886dff5a10cd",
@@ -477,7 +1250,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "Microsoft Agent Framework 1.0 入门指南：使用 Python 和 C# 构建生产级多智能体系统",
-    "summary_zh": "本文详细介绍了 Microsoft Agent Framework 1.0 的核心架构与开发流程，涵盖智能体编排、任务分配、状态管理及错误恢复机制。通过 Python 和 C# 双语言示例，演示如何构建可扩展的多智能体协作系统，并探讨了生产环境下的性能优化与监控策略，适合希望快速落地 AI 智能体项目的开发者。"
+    "summary_zh": "本文详细介绍了 Microsoft Agent Framework 1.0 的核心架构与开发流程，涵盖智能体编排、任务分配、状态管理及错误恢复机制。通过 Python 和 C# 双语言示例，演示如何构建可扩展的多智能体协作系统，并探讨了生产环境下的性能优化与监控策略，适合希望快速落地 AI 智能体项目的开发者。",
+    "topic": "other"
   },
   {
     "id": "1442a86fa7db4a57cd20154a8c9adbba",
@@ -487,7 +1261,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "AI 智能体框架：如何选择合适的基础设施——IBM 技术指南",
-    "summary_zh": "IBM 从企业级视角出发，对比主流 AI 智能体框架（如 LangChain、Semantic Kernel、AutoGen）的架构差异、扩展性及生态成熟度。重点分析框架与现有基础设施的集成难度、安全合规要求及运维成本，提供基于业务场景的选型决策矩阵，帮助技术团队在性能、灵活性与可维护性之间做出权衡。"
+    "summary_zh": "IBM 从企业级视角出发，对比主流 AI 智能体框架（如 LangChain、Semantic Kernel、AutoGen）的架构差异、扩展性及生态成熟度。重点分析框架与现有基础设施的集成难度、安全合规要求及运维成本，提供基于业务场景的选型决策矩阵，帮助技术团队在性能、灵活性与可维护性之间做出权衡。",
+    "topic": "other"
   },
   {
     "id": "db07115e1d404fa1adb411f980345c23",
@@ -497,7 +1272,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "AI 智能体框架实用指南（2026）——Salesforce 技术洞察",
-    "summary_zh": "Salesforce 前瞻性分析 2026 年 AI 智能体框架的技术趋势，涵盖多模态交互、记忆管理、工具调用及安全护栏设计。通过对比 LangGraph、CrewAI 等框架的优劣势，提供从原型验证到生产部署的完整路径，并分享 CRM 场景下的最佳实践，为构建企业级智能体系统提供可落地的技术参考。"
+    "summary_zh": "Salesforce 前瞻性分析 2026 年 AI 智能体框架的技术趋势，涵盖多模态交互、记忆管理、工具调用及安全护栏设计。通过对比 LangGraph、CrewAI 等框架的优劣势，提供从原型验证到生产部署的完整路径，并分享 CRM 场景下的最佳实践，为构建企业级智能体系统提供可落地的技术参考。",
+    "topic": "other"
   },
   {
     "id": "59440a307026971da368648ba681fd03",
@@ -507,7 +1283,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "教程：使用 agents-cli 构建你的第一个智能体",
-    "summary_zh": "Google 官方教程指导开发者通过 agents-cli 命令行工具快速创建并部署首个 AI 智能体。内容涵盖项目初始化、智能体行为定义、工具注册及本地测试流程，重点展示如何利用预置模板和插件机制加速开发。适合希望零门槛体验 Google 智能体框架的开发者，快速掌握核心操作。"
+    "summary_zh": "Google 官方教程指导开发者通过 agents-cli 命令行工具快速创建并部署首个 AI 智能体。内容涵盖项目初始化、智能体行为定义、工具注册及本地测试流程，重点展示如何利用预置模板和插件机制加速开发。适合希望零门槛体验 Google 智能体框架的开发者，快速掌握核心操作。",
+    "topic": "other"
   },
   {
     "id": "4a5f95d975eca016067ca44fa7857fcd",
@@ -517,7 +1294,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "构建自主 AI 智能体 | Coursera 专项课程",
-    "summary_zh": "Coursera 专项课程系统讲解自主 AI 智能体的设计原理与实现方法，涵盖感知-规划-执行循环、强化学习集成及多智能体协作。通过项目驱动教学，学员将掌握使用 LangChain、AutoGPT 等工具构建具备记忆、推理和工具使用能力的智能体，并学习评估与优化策略，适合希望系统提升 AI 工程能力的开发者。"
+    "summary_zh": "Coursera 专项课程系统讲解自主 AI 智能体的设计原理与实现方法，涵盖感知-规划-执行循环、强化学习集成及多智能体协作。通过项目驱动教学，学员将掌握使用 LangChain、AutoGPT 等工具构建具备记忆、推理和工具使用能力的智能体，并学习评估与优化策略，适合希望系统提升 AI 工程能力的开发者。",
+    "topic": "other"
   },
   {
     "id": "0f41b664c2211c45337d5142a4a19478",
@@ -527,7 +1305,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "构建与招募自主 AI 智能体——Relevance AI 平台实践",
-    "summary_zh": "Relevance AI 展示如何通过其平台快速构建和部署自主 AI 智能体，涵盖智能体创建、技能配置、知识库集成及监控面板。重点介绍“智能体市场”概念，支持从预置模板中招募专业智能体并组合成工作流，适合企业快速实现业务流程自动化，降低 AI 应用开发门槛。"
+    "summary_zh": "Relevance AI 展示如何通过其平台快速构建和部署自主 AI 智能体，涵盖智能体创建、技能配置、知识库集成及监控面板。重点介绍“智能体市场”概念，支持从预置模板中招募专业智能体并组合成工作流，适合企业快速实现业务流程自动化，降低 AI 应用开发门槛。",
+    "topic": "other"
   },
   {
     "id": "b6035ff2ffdc30041f8d7aba0fd0e7af",
@@ -537,7 +1316,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "自主 AI 智能体入门——Microsoft Copilot 技术解析",
-    "summary_zh": "Microsoft 官方文档介绍自主 AI 智能体的核心概念与 Copilot 生态的集成方式，涵盖智能体定义、任务规划、记忆管理及安全护栏。通过 Copilot Studio 演示如何创建自定义智能体并集成到 Microsoft 365 工作流中，重点讲解插件开发与数据权限控制，为企业用户提供低门槛的智能体构建方案。"
+    "summary_zh": "Microsoft 官方文档介绍自主 AI 智能体的核心概念与 Copilot 生态的集成方式，涵盖智能体定义、任务规划、记忆管理及安全护栏。通过 Copilot Studio 演示如何创建自定义智能体并集成到 Microsoft 365 工作流中，重点讲解插件开发与数据权限控制，为企业用户提供低门槛的智能体构建方案。",
+    "topic": "other"
   },
   {
     "id": "c4041551aa2d16daf3e6763ced669587",
@@ -547,7 +1327,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "agent0ai/agent-zero：开源自主智能体框架",
-    "summary_zh": "Agent Zero 是一个开源自主 AI 智能体框架，支持多模型后端（如 OpenAI、Anthropic、本地模型）和动态工具注册。核心特性包括长期记忆、任务分解、自我反思及人类反馈学习。项目提供完整的 API 与 CLI 接口，适合开发者进行二次开发或集成到现有系统，社区活跃且文档完善。"
+    "summary_zh": "Agent Zero 是一个开源自主 AI 智能体框架，支持多模型后端（如 OpenAI、Anthropic、本地模型）和动态工具注册。核心特性包括长期记忆、任务分解、自我反思及人类反馈学习。项目提供完整的 API 与 CLI 接口，适合开发者进行二次开发或集成到现有系统，社区活跃且文档完善。",
+    "topic": "other"
   },
   {
     "id": "5d6c7bfbb0fe549c56e0fdab6e5c39d1",
@@ -557,7 +1338,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "LLM微调建议",
-    "summary_zh": "本文来自微软官方，系统性地总结了LLM微调的关键建议。内容涵盖数据准备、超参数选择、评估策略及部署注意事项，强调在保持模型通用能力的同时提升特定任务表现。适合需要将大模型应用于企业级场景的工程师参考，提供了可落地的实践指导。"
+    "summary_zh": "本文来自微软官方，系统性地总结了LLM微调的关键建议。内容涵盖数据准备、超参数选择、评估策略及部署注意事项，强调在保持模型通用能力的同时提升特定任务表现。适合需要将大模型应用于企业级场景的工程师参考，提供了可落地的实践指导。",
+    "topic": "other"
   },
   {
     "id": "65d7752c45957285750762c82778baf6",
@@ -567,7 +1349,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "成为LLM微调大师的6个技巧",
-    "summary_zh": "本文以烹饪类比，生动讲解了LLM微调的六大核心技巧，包括数据清洗、学习率调度、批次大小选择、防止过拟合、评估指标设定及迭代优化策略。内容深入浅出，适合有一定基础但希望提升微调效果的开发者，提供了实用的调参思路和常见陷阱规避方法。"
+    "summary_zh": "本文以烹饪类比，生动讲解了LLM微调的六大核心技巧，包括数据清洗、学习率调度、批次大小选择、防止过拟合、评估指标设定及迭代优化策略。内容深入浅出，适合有一定基础但希望提升微调效果的开发者，提供了实用的调参思路和常见陷阱规避方法。",
+    "topic": "other"
   },
   {
     "id": "297c4965413bd8c549a82d59ced9cdae",
@@ -577,7 +1360,8 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "LLM微调：概述与指南",
-    "summary_zh": "Google Cloud官方出品，从工程实践角度介绍了LLM微调的完整流程，包括数据准备、模型选择、训练配置、评估与部署。重点讲解了Vertex AI平台上的微调工具链和最佳实践，适合希望在云平台上高效进行模型定制的开发者，提供了端到端的操作指引。"
+    "summary_zh": "Google Cloud官方出品，从工程实践角度介绍了LLM微调的完整流程，包括数据准备、模型选择、训练配置、评估与部署。重点讲解了Vertex AI平台上的微调工具链和最佳实践，适合希望在云平台上高效进行模型定制的开发者，提供了端到端的操作指引。",
+    "topic": "other"
   },
   {
     "id": "dad3de0e3e1bea349bbd3e78e2a1e874",
@@ -587,7 +1371,30 @@
     "published_at": "2026-05-22T23:50:28.417Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "LLM微调最佳实践（r/LocalLLaMA社区讨论）",
-    "summary_zh": "Reddit社区r/LocalLLaMA的精华讨论帖，汇集了众多开发者分享的LLM微调实战经验。内容涵盖数据集构建、LoRA参数设置、训练监控、显存优化等细节，尤其针对本地部署场景。适合希望从社区实践中获取避坑指南和实用技巧的工程师，信息密度高且接地气。"
+    "summary_zh": "Reddit社区r/LocalLLaMA的精华讨论帖，汇集了众多开发者分享的LLM微调实战经验。内容涵盖数据集构建、LoRA参数设置、训练监控、显存优化等细节，尤其针对本地部署场景。适合希望从社区实践中获取避坑指南和实用技巧的工程师，信息密度高且接地气。",
+    "topic": "other"
+  },
+  {
+    "id": "62bee051d19decda991487f1b6c3a0e1",
+    "title_en": "Linux系统性能调优实战指南- OSCHINA - 开源× AI · 开发者生态社区",
+    "source": "my.oschina.net",
+    "url": "https://my.oschina.net/emacs_7988436/blog/19665913",
+    "published_at": "2026-05-13T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.173Z",
+    "title_zh": "Linux 系统性能调优实战指南",
+    "summary_zh": "本文来自 OSCHINA 社区，是一份面向开发者和运维人员的 Linux 性能调优实战指南。文章从性能监控指标入手，详细讲解了 CPU 调度、内存管理、磁盘 I/O 和网络优化的具体方法，并提供了多个真实案例的调优过程。内容兼具深度与可操作性，有助于读者在实际系统中快速定位和解决性能问题。",
+    "topic": "ops"
+  },
+  {
+    "id": "c2bb922832ad1d2be7819a18cfbb4d48",
+    "title_en": "最新！2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2658619",
+    "published_at": "2026-04-22T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "最新！2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发",
+    "summary_zh": "本文全景式梳理了2026年3月全球大模型生态的最新格局，重点包括国产模型在综合性能榜单上首次登顶、百万级上下文窗口技术走向成熟，以及基于大模型的智能体（Agent）应用呈现爆发式增长。文章从模型架构、训练数据、推理优化与工具链等维度展开分析，为开发者提供了当前最具竞争力的模型选型建议与Agent开发实践指南。",
+    "topic": "ai"
   },
   {
     "id": "494689cf52fe968275f6003adf8d2d2a",
@@ -597,7 +1404,19 @@
     "published_at": "2026-04-17T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "2026年AI能做的15件新事：去年还不可能",
-    "summary_zh": "视频内容总结：2026年AI实现了15项去年无法完成的任务，包括：实时3D场景生成与编辑、通过自然语言直接操控机器人完成精细操作、AI自主发现新材料并合成、长视频（1小时以上）的语义理解与摘要、以及AI在数学定理证明中首次独立解决未解难题。每项能力均展示了底层模型架构（如Diffusion Transformer、World Model）的实质性进步。"
+    "summary_zh": "视频内容总结：2026年AI实现了15项去年无法完成的任务，包括：实时3D场景生成与编辑、通过自然语言直接操控机器人完成精细操作、AI自主发现新材料并合成、长视频（1小时以上）的语义理解与摘要、以及AI在数学定理证明中首次独立解决未解难题。每项能力均展示了底层模型架构（如Diffusion Transformer、World Model）的实质性进步。",
+    "topic": "other"
+  },
+  {
+    "id": "13bbf78d32b3b46f16bedd98c129cbad",
+    "title_en": "漏洞數暴增263%，NIST縮減CVE分析範圍轉向風險優先 - iThome",
+    "source": "ithome.com.tw",
+    "url": "https://www.ithome.com.tw/news/175144",
+    "published_at": "2026-04-17T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "漏洞数暴增263%，NIST缩减CVE分析范围转向风险优先",
+    "summary_zh": "本文报道了NIST（美国国家标准与技术研究院）因CVE（通用漏洞披露）数量同比暴增263%而调整策略，决定缩减对每个CVE的深度分析范围，转而采用基于风险的优先级评估方法。文章分析了这一变化背后的原因，包括自动化漏洞挖掘工具的普及和开源组件的激增，并探讨了这种策略转变对安全社区、企业漏洞管理流程以及CVE生态系统的潜在影响。对于安全运营和风险管理从业者，本文提供了重要的行业趋势洞察。",
+    "topic": "security"
   },
   {
     "id": "91e98e3db15a25efb6e1fecc20c4c4ab",
@@ -607,7 +1426,19 @@
     "published_at": "2026-04-06T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "Microsoft Agent Framework 概述",
-    "summary_zh": "微软官方文档详细介绍了Agent Framework：基于.NET和Python的跨平台框架，支持构建多Agent协作系统。核心特性包括：声明式Agent定义（YAML配置）、内置工具调用与API集成、基于语义内核（Semantic Kernel）的规划器、以及可观测性（OpenTelemetry）支持。文档提供了从单Agent聊天机器人到多Agent工作流编排的完整开发指南，并对比了与LangChain的架构差异。"
+    "summary_zh": "微软官方文档详细介绍了Agent Framework：基于.NET和Python的跨平台框架，支持构建多Agent协作系统。核心特性包括：声明式Agent定义（YAML配置）、内置工具调用与API集成、基于语义内核（Semantic Kernel）的规划器、以及可观测性（OpenTelemetry）支持。文档提供了从单Agent聊天机器人到多Agent工作流编排的完整开发指南，并对比了与LangChain的架构差异。",
+    "topic": "other"
+  },
+  {
+    "id": "a7d37742a56f1dcd01e678b1b66c8efa",
+    "title_en": "AI Agent 开发实践-阶段一：建立agent 心智模型 - 稀土掘金",
+    "source": "juejin.cn",
+    "url": "https://juejin.cn/post/7619994737622941736",
+    "published_at": "2026-03-23T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "AI Agent 开发实践-阶段一：建立Agent心智模型",
+    "summary_zh": "本文聚焦AI Agent开发的第一阶段——心智模型构建，探讨如何通过系统提示词、角色设定和决策树设计Agent的行为逻辑。结合具体案例讲解意图识别、上下文管理和反馈循环的实现方法，为后续复杂功能开发奠定基础。适合入门级开发者学习。",
+    "topic": "ai"
   },
   {
     "id": "74fdf37ba3f3367b8ec9cca3a25d071e",
@@ -617,7 +1448,19 @@
     "published_at": "2026-03-16T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "Linux 完全入门教程 | 学习 Linux 系统管理",
-    "summary_zh": "本教程面向零基础学员，系统讲解 Linux 系统管理的核心概念与实操技能。内容涵盖文件系统、用户权限、进程管理、网络配置及 Shell 脚本基础。通过命令行实践，帮助初学者掌握日常运维必备技能，为后续深入学习打下坚实基础。适合希望转型运维或提升 Linux 操作能力的开发者。"
+    "summary_zh": "本教程面向零基础学员，系统讲解 Linux 系统管理的核心概念与实操技能。内容涵盖文件系统、用户权限、进程管理、网络配置及 Shell 脚本基础。通过命令行实践，帮助初学者掌握日常运维必备技能，为后续深入学习打下坚实基础。适合希望转型运维或提升 Linux 操作能力的开发者。",
+    "topic": "other"
+  },
+  {
+    "id": "a1fc5e7bf1e293becd282da343bd8073",
+    "title_en": "2026年AI大爆发：7大模型混战，DeepSeek杀疯了 - AtomGit开源社区",
+    "source": "gitcode.csdn.net",
+    "url": "https://gitcode.csdn.net/69b621000a2f6a37c5978948.html",
+    "published_at": "2026-03-15T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.957Z",
+    "title_zh": "2026年AI大爆发：7大模型混战，DeepSeek杀疯了",
+    "summary_zh": "本文回顾了2026年AI大模型领域的激烈竞争格局，重点分析了包括DeepSeek在内的七大主流模型的性能表现、技术路线与市场策略。文章从模型架构创新、训练效率、推理成本及生态建设等维度进行了横向对比，指出DeepSeek凭借其独特的稀疏注意力机制与高效MoE架构在多项基准测试中取得领先，并探讨了其对开源社区与商业应用的深远影响。",
+    "topic": "ai"
   },
   {
     "id": "25fada6283afed6dbe63cb19867b03db",
@@ -627,7 +1470,19 @@
     "published_at": "2026-03-13T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "摩根士丹利警告：2026年将迎来AI重大突破",
-    "summary_zh": "摩根士丹利发布研报指出，2026年AI领域将出现颠覆性突破，可能源于以下方向：推理能力接近人类专家的通用Agent、AI在药物研发中实现端到端自动化、或能源效率提升100倍的新型计算架构。报告从投资角度分析了这些突破对半导体、云计算和企业软件行业的潜在影响，并提醒市场需重新评估当前估值模型。"
+    "summary_zh": "摩根士丹利发布研报指出，2026年AI领域将出现颠覆性突破，可能源于以下方向：推理能力接近人类专家的通用Agent、AI在药物研发中实现端到端自动化、或能源效率提升100倍的新型计算架构。报告从投资角度分析了这些突破对半导体、云计算和企业软件行业的潜在影响，并提醒市场需重新评估当前估值模型。",
+    "topic": "other"
+  },
+  {
+    "id": "5d76b7b5c2e6273343f2b8ab1efdf541",
+    "title_en": "如何从零开始实现一个AI Agent 框架（理论+实践） - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2631821",
+    "published_at": "2026-02-27T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "如何从零开始实现一个AI Agent框架（理论+实践）",
+    "summary_zh": "本文从零开始讲解如何实现一个轻量级AI Agent框架，包括核心模块设计（如任务调度、记忆存储、工具调用）和代码实现。通过逐步构建的方式，揭示Agent内部工作原理，并讨论扩展性和性能优化策略。适合有编程基础、希望深入理解Agent机制的开发者。",
+    "topic": "ai"
   },
   {
     "id": "33feb1ef17bfef0e952fd720776aacc2",
@@ -637,7 +1492,30 @@
     "published_at": "2026-02-26T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "AI 智能体在软件开发中的应用：用例与实例",
-    "summary_zh": "Teamvoy 系统梳理 AI 智能体在软件开发全生命周期中的典型应用，包括需求分析、代码生成、自动化测试、代码审查及部署运维。通过具体案例展示智能体如何提升开发效率与代码质量，并讨论当前技术局限与未来演进方向，为技术团队提供可参考的落地场景与实施建议。"
+    "summary_zh": "Teamvoy 系统梳理 AI 智能体在软件开发全生命周期中的典型应用，包括需求分析、代码生成、自动化测试、代码审查及部署运维。通过具体案例展示智能体如何提升开发效率与代码质量，并讨论当前技术局限与未来演进方向，为技术团队提供可参考的落地场景与实施建议。",
+    "topic": "other"
+  },
+  {
+    "id": "39917a0c15f262e8b012e009d664f9ac",
+    "title_en": "自进化智能运维Agent：理念、架构与实践 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/2002030039676524521",
+    "published_at": "2026-02-26T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "自进化智能运维Agent：理念、架构与实践",
+    "summary_zh": "本文提出了一种自进化智能运维Agent的架构设计，融合强化学习与知识图谱技术，实现运维任务的自主决策与持续优化。Agent能够根据历史数据和实时反馈自动调整策略，涵盖故障诊断、资源调度和异常检测等场景。对于AI和运维交叉领域的研究者，本文提供了从理念到落地的完整技术方案。",
+    "topic": "ai"
+  },
+  {
+    "id": "ec6cc7e1e9f678b743c94cbd12a3803b",
+    "title_en": "大模型榜单周报（2026/02/15） - KAI智习- 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/xjk15082/p/19619738",
+    "published_at": "2026-02-16T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.957Z",
+    "title_zh": "大模型榜单周报（2026/02/15）",
+    "summary_zh": "本报告汇总了2026年2月15日当周全球主流大模型在MMLU、HumanEval、GSM8K等核心基准上的最新排名与性能变化。重点分析了国产模型在数学推理与代码生成任务上的突破，以及开源模型与闭源模型之间的差距缩小趋势。报告还提供了模型版本更新、训练技巧与部署优化建议，适合关注模型选型与性能追踪的AI工程师参考。",
+    "topic": "ai"
   },
   {
     "id": "4b484901a206685ade0d999aaed6cd86",
@@ -647,7 +1525,8 @@
     "published_at": "2026-02-13T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.010Z",
     "title_zh": "2026年CVE预测：预计59,427个漏洞——LinkedIn",
-    "summary_zh": "基于历史数据与增长模型，本文预测2026年公开披露的CVE数量将达到59,427个，较往年显著增长。分析指出，物联网、工业控制系统及开源软件供应链是漏洞增长的主要驱动力。文章建议企业安全团队采用基于风险的漏洞管理框架，结合威胁情报进行优先级排序，而非单纯依赖CVE数量，以在资源有限的情况下最大化安全投入产出比。"
+    "summary_zh": "基于历史数据与增长模型，本文预测2026年公开披露的CVE数量将达到59,427个，较往年显著增长。分析指出，物联网、工业控制系统及开源软件供应链是漏洞增长的主要驱动力。文章建议企业安全团队采用基于风险的漏洞管理框架，结合威胁情报进行优先级排序，而非单纯依赖CVE数量，以在资源有限的情况下最大化安全投入产出比。",
+    "topic": "other"
   },
   {
     "id": "f808c669bd11d5138be4ae7f6ecfe43a",
@@ -657,7 +1536,41 @@
     "published_at": "2026-02-12T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "在哪里可以学习构建自己的AI Agent框架？——Reddit讨论",
-    "summary_zh": "Reddit热帖汇总了社区推荐的AI Agent框架学习资源：从LangGraph、CrewAI等开源框架的官方文档，到斯坦福CS224N课程中的Agent专题，再到AutoGPT和BabyAGI的源码分析。高赞回答强调实践路径：先通过OpenAI Assistants API快速原型，再深入理解ReAct模式、工具调用编排和记忆管理机制，最后用Ray或Celery实现分布式Agent部署。"
+    "summary_zh": "Reddit热帖汇总了社区推荐的AI Agent框架学习资源：从LangGraph、CrewAI等开源框架的官方文档，到斯坦福CS224N课程中的Agent专题，再到AutoGPT和BabyAGI的源码分析。高赞回答强调实践路径：先通过OpenAI Assistants API快速原型，再深入理解ReAct模式、工具调用编排和记忆管理机制，最后用Ray或Celery实现分布式Agent部署。",
+    "topic": "other"
+  },
+  {
+    "id": "2c7d095d76ecd434e29b904436bee366",
+    "title_en": "完整教程：多智能体框架调研：10个主流AI Agent 框架 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/yangykaifa/p/19593416",
+    "published_at": "2026-02-09T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "完整教程：多智能体框架调研：10个主流AI Agent 框架",
+    "summary_zh": "本文对当前主流的10个AI Agent框架进行了系统性调研与对比，包括LangChain、AutoGPT、BabyAGI、CrewAI、MetaGPT、AutoGen、Dify、Coze、AgentGPT与SuperAGI。从框架架构、任务编排能力、工具生态、可扩展性与部署复杂度等维度进行了详细评估，并给出了不同应用场景下的选型建议，为多智能体系统的设计与开发提供了全面参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "960a2b55f8ab13a23d30304b7e5540da",
+    "title_en": "人工智能- 大模型榜单周报（2026/01/31） - KAI智 - SegmentFault 思否",
+    "source": "segmentfault.com",
+    "url": "https://segmentfault.com/a/1190000047584551",
+    "published_at": "2026-01-31T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "人工智能- 大模型榜单周报（2026/01/31）",
+    "summary_zh": "本文为2026年1月31日当周的大模型性能榜单更新，涵盖语言理解、代码生成、数学推理与多模态任务等维度的评测结果。文章特别关注了国产模型在长上下文处理与指令遵循能力上的进步，并分析了不同模型在推理成本与响应速度上的权衡。对于需要持续跟踪模型能力演进与进行技术选型的开发者，提供了详实的数据与趋势解读。",
+    "topic": "ai"
+  },
+  {
+    "id": "5e9a03b6e866695e4be570dae9420c21",
+    "title_en": "CVE-2026-25126 Detail - NVD",
+    "source": "nvd.nist.gov",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25126",
+    "published_at": "2026-01-29T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "CVE-2026-25126 详细信息 - NVD",
+    "summary_zh": "本文是美国国家漏洞数据库（NVD）对CVE-2026-25126的官方详细描述。该漏洞涉及特定软件/组件（需根据实际CVE描述补充），包括漏洞类型、CVSS评分、攻击向量、影响范围及受影响的版本范围。NVD提供了官方参考链接、补丁信息及缓解措施。对于安全运维人员，这是评估漏洞风险、确定修复优先级及制定应急响应的权威信息来源。",
+    "topic": "security"
   },
   {
     "id": "82fdcfbba18b0a3121fd9072150c989d",
@@ -667,7 +1580,8 @@
     "published_at": "2026-01-26T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "2026年1月CVE全景：23个严重漏洞标记5...",
-    "summary_zh": "Recorded Future对2026年1月CVE态势进行了量化分析，当月共发现23个严重级别漏洞。报告详细列举了这些漏洞的分布情况，包括受影响厂商、攻击向量及利用复杂度。重点分析了多个远程代码执行与权限提升漏洞的潜在影响，为安全团队提供了月度漏洞优先级排序的实战参考，强调需关注CVSS评分之外的现实可利用性。"
+    "summary_zh": "Recorded Future对2026年1月CVE态势进行了量化分析，当月共发现23个严重级别漏洞。报告详细列举了这些漏洞的分布情况，包括受影响厂商、攻击向量及利用复杂度。重点分析了多个远程代码执行与权限提升漏洞的潜在影响，为安全团队提供了月度漏洞优先级排序的实战参考，强调需关注CVSS评分之外的现实可利用性。",
+    "topic": "other"
   },
   {
     "id": "acdec8b5b9dfe452a63212b6b8693db7",
@@ -677,7 +1591,19 @@
     "published_at": "2026-01-13T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "2026年AI趋势：人工智能突破与进步的新纪元",
-    "summary_zh": "Trigyn发布的2026年AI趋势报告指出，多模态模型、边缘AI推理、自主Agent系统以及AI驱动的科学发现将成为核心突破点。文章详细分析了AI在医疗诊断、代码生成和工业自动化中的实际落地案例，并讨论了模型压缩技术（如量化与蒸馏）如何使大模型在低功耗设备上高效运行，为开发者提供了明确的技术选型方向。"
+    "summary_zh": "Trigyn发布的2026年AI趋势报告指出，多模态模型、边缘AI推理、自主Agent系统以及AI驱动的科学发现将成为核心突破点。文章详细分析了AI在医疗诊断、代码生成和工业自动化中的实际落地案例，并讨论了模型压缩技术（如量化与蒸馏）如何使大模型在低功耗设备上高效运行，为开发者提供了明确的技术选型方向。",
+    "topic": "other"
+  },
+  {
+    "id": "8c8624dd805121787ec2fce824116c3d",
+    "title_en": "Nuclei POC 精选分析- 2026-01-12",
+    "source": "github.com",
+    "url": "https://github.com/terrying/my-blog/blob/main/data/blog/nuclei-poc-2026-01-12.mdx",
+    "published_at": "2026-01-12T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Nuclei POC 精选分析 - 2026-01-12",
+    "summary_zh": "本文精选并分析了2026年1月12日发布的多个Nuclei漏洞检测模板（POC）。作者对每个POC的检测逻辑、触发条件及适用场景进行了技术拆解，帮助安全工程师理解如何利用Nuclei高效扫描和验证特定漏洞。文章不仅提供了现成的模板，还深入讲解了编写高质量POC的技巧，包括如何避免误报、优化扫描性能等。对于从事安全攻防、漏洞管理和自动化检测的读者，本文具有直接的参考价值。",
+    "topic": "security"
   },
   {
     "id": "79b9d17b2bf1ad1d30aa5f0a210f1f81",
@@ -687,7 +1613,19 @@
     "published_at": "2026-01-06T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.416Z",
     "title_zh": "2026年人工智能与数据科学五大趋势",
-    "summary_zh": "本文基于MIT斯隆管理评论的分析，预测2026年AI与数据科学的五大关键趋势：从大模型向小模型的实用化迁移、数据治理与合成数据的崛起、AI Agent从辅助工具向自主决策体的进化、MLOps与LLMOps的深度融合，以及可解释AI在合规场景中的强制落地。文章强调企业应关注模型效率与数据质量，而非单纯追求参数规模。"
+    "summary_zh": "本文基于MIT斯隆管理评论的分析，预测2026年AI与数据科学的五大关键趋势：从大模型向小模型的实用化迁移、数据治理与合成数据的崛起、AI Agent从辅助工具向自主决策体的进化、MLOps与LLMOps的深度融合，以及可解释AI在合规场景中的强制落地。文章强调企业应关注模型效率与数据质量，而非单纯追求参数规模。",
+    "topic": "other"
+  },
+  {
+    "id": "a53820c2424f1375eaf7f5acb0f37f04",
+    "title_en": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型 - YouTube",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=lAy9RKQSi2U",
+    "published_at": "2026-01-03T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型",
+    "summary_zh": "本文对2026年科技行业的关键趋势进行了前瞻性分析，涵盖AI大模型、自动驾驶、机器人技术与世界模型四大领域。文章指出，大模型将从语言扩展到多模态与具身智能，自动驾驶进入L4级规模化部署阶段，机器人结合大模型实现通用操作能力，世界模型则推动仿真与决策的深度融合。为技术决策者提供了跨领域的战略参考。",
+    "topic": "ai"
   },
   {
     "id": "f0ce5fddd65a5d9ab16b7fb615b71326",
@@ -697,7 +1635,8 @@
     "published_at": "2026-01-01T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "IBM：塑造2026年AI与科技格局的关键趋势",
-    "summary_zh": "IBM从企业级视角分析了2026年AI趋势：可信AI治理框架成为合规刚需、AI与自动化深度融合形成自主业务流程、混合云上AI工作负载的优化调度、以及量子计算与AI的初步交叉应用。文章特别强调了基于开放标准的模型互操作性（如ONNX Runtime）和可解释AI在金融风控中的实际部署经验。"
+    "summary_zh": "IBM从企业级视角分析了2026年AI趋势：可信AI治理框架成为合规刚需、AI与自动化深度融合形成自主业务流程、混合云上AI工作负载的优化调度、以及量子计算与AI的初步交叉应用。文章特别强调了基于开放标准的模型互操作性（如ONNX Runtime）和可解释AI在金融风控中的实际部署经验。",
+    "topic": "other"
   },
   {
     "id": "c296741aa7e4b79dd5947fd8e3ae736c",
@@ -707,7 +1646,8 @@
     "published_at": "2025-12-22T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "InfoWorld：定义2026年的六大AI突破",
-    "summary_zh": "InfoWorld评选的六大AI突破包括：基于MoE（混合专家）架构的万亿参数模型实现推理成本下降10倍、AI自动生成可验证的数学证明、端侧模型在手机本地运行70B参数模型、Agentic RAG实现多步推理与工具调用、AI驱动的自动化渗透测试，以及视频生成模型达到电影级画质。每项突破均附有技术原理与工程实现细节。"
+    "summary_zh": "InfoWorld评选的六大AI突破包括：基于MoE（混合专家）架构的万亿参数模型实现推理成本下降10倍、AI自动生成可验证的数学证明、端侧模型在手机本地运行70B参数模型、Agentic RAG实现多步推理与工具调用、AI驱动的自动化渗透测试，以及视频生成模型达到电影级画质。每项突破均附有技术原理与工程实现细节。",
+    "topic": "other"
   },
   {
     "id": "2d4e7bd4a36942bb4022d823cbe14e1a",
@@ -717,7 +1657,41 @@
     "published_at": "2025-12-08T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "AI下一步：2026年值得关注的七大趋势——微软官方",
-    "summary_zh": "微软官方博客展望2026年AI趋势，重点包括：Copilot从辅助工具进化为自主Agent、多模态AI在工业质检中的规模化应用、AI安全对齐技术的工程化落地、小模型通过蒸馏达到大模型90%性能、AI辅助编程覆盖全生命周期、以及AI在气候科学中的突破。文章提供了Azure AI Studio中Agent框架的实践案例。"
+    "summary_zh": "微软官方博客展望2026年AI趋势，重点包括：Copilot从辅助工具进化为自主Agent、多模态AI在工业质检中的规模化应用、AI安全对齐技术的工程化落地、小模型通过蒸馏达到大模型90%性能、AI辅助编程覆盖全生命周期、以及AI在气候科学中的突破。文章提供了Azure AI Studio中Agent框架的实践案例。",
+    "topic": "other"
+  },
+  {
+    "id": "807ae30e17b3ac77d026327f7bfa3041",
+    "title_en": "【2025必学】AI Agent开发全攻略：从理论到实践 - 火山引擎ADG 社区",
+    "source": "adg.csdn.net",
+    "url": "https://adg.csdn.net/69524cce5b9f5f31781b6f0b.html",
+    "published_at": "2025-12-08T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "【2025必学】AI Agent开发全攻略：从理论到实践",
+    "summary_zh": "本文提供2025年AI Agent开发的完整攻略，涵盖理论框架（如规划、记忆、工具使用）和实战项目。重点讲解如何利用LangChain、AutoGPT等工具构建生产级Agent，包括性能调优、成本控制和多模态集成。适合希望掌握前沿技术的开发者。",
+    "topic": "ai"
+  },
+  {
+    "id": "faa4ae6393823ebee2ac4aa360e3820b",
+    "title_en": "自动化运维：从基础实践到未来趋势 - 稀土掘金",
+    "source": "juejin.cn",
+    "url": "https://juejin.cn/post/7580723992497946660",
+    "published_at": "2025-12-07T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "自动化运维：从基础实践到未来趋势",
+    "summary_zh": "本文从基础实践出发，探讨了自动化运维的演进路径和未来趋势。内容涵盖脚本自动化、配置管理、CI/CD、容器化以及AIOps等阶段。文章分析了各阶段的技术选型与挑战，并展望了无服务器运维、自愈系统等前沿方向。对于运维从业者，本文提供了清晰的自动化发展路线图。",
+    "topic": "ops"
+  },
+  {
+    "id": "995cda75b0e1e0dbbd7c351c6629d71f",
+    "title_en": "大模型的2026年展望 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1980183029914804381",
+    "published_at": "2025-12-05T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.957Z",
+    "title_zh": "大模型的2026年展望",
+    "summary_zh": "本文对2026年大模型技术发展进行了系统性展望，从模型规模增长趋缓、推理效率优先、多模态与具身智能融合、Agent生态成熟以及安全对齐等关键趋势展开。文章指出，2026年将是大模型从“能力竞赛”转向“工程落地”的关键一年，强调长上下文、实时交互与低成本部署将成为核心竞争力，并为AI从业者提供了技术选型与研发方向建议。",
+    "topic": "ai"
   },
   {
     "id": "15a3c4b73c8685b42ca354354d9bd8a0",
@@ -727,7 +1701,19 @@
     "published_at": "2025-11-27T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "轻松上手你的第一个自主智能体！——YouTube 实战教程",
-    "summary_zh": "本视频教程以极简方式引导开发者创建第一个自主 AI 智能体，使用 Python 和主流框架（如 LangChain、AutoGen）实现。内容涵盖环境搭建、智能体核心逻辑编写、工具调用及本地测试，通过可视化调试工具展示智能体决策过程，适合希望快速获得动手经验的初学者。"
+    "summary_zh": "本视频教程以极简方式引导开发者创建第一个自主 AI 智能体，使用 Python 和主流框架（如 LangChain、AutoGen）实现。内容涵盖环境搭建、智能体核心逻辑编写、工具调用及本地测试，通过可视化调试工具展示智能体决策过程，适合希望快速获得动手经验的初学者。",
+    "topic": "other"
+  },
+  {
+    "id": "18d5f5cc6f47a1e0b6b9d19dfc33d433",
+    "title_en": "Docker 性能调优 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1977051410257433402",
+    "published_at": "2025-11-26T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Docker 性能调优 - 知乎专栏",
+    "summary_zh": "本文从Docker底层原理出发，深入探讨了容器性能调优的关键技术点。内容涵盖：cgroups资源隔离机制（CPU、内存、IO权重设置）、命名空间对性能的影响、存储驱动（overlay2 vs aufs）的I/O性能对比、网络模式（bridge/host/macvlan）的吞吐量差异，以及Docker守护进程参数优化（如--max-concurrent-downloads、--storage-opt）。文章还结合Linux内核特性（如cgroup v2、io_uring）介绍了最新优化方向。通过理论分析与实验数据，帮助读者理解性能瓶颈根源并制定针对性调优策略，适合有Linux内核基础的运维和开发人员。",
+    "topic": "ops"
   },
   {
     "id": "cb933ff74eb3a2b7628834e5b9b85955",
@@ -737,7 +1723,19 @@
     "published_at": "2025-11-20T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "Microsoft Agent Framework 2025 教程 | 完整课程",
-    "summary_zh": "本视频课程系统讲解 Microsoft Agent Framework 2025 版本的核心概念与实战技巧，从智能体定义、通信协议到高级编排模式。内容涵盖环境配置、调试工具使用及常见陷阱规避，通过完整项目案例演示如何构建可靠的多智能体应用，适合初学者快速上手并深入理解框架设计哲学。"
+    "summary_zh": "本视频课程系统讲解 Microsoft Agent Framework 2025 版本的核心概念与实战技巧，从智能体定义、通信协议到高级编排模式。内容涵盖环境配置、调试工具使用及常见陷阱规避，通过完整项目案例演示如何构建可靠的多智能体应用，适合初学者快速上手并深入理解框架设计哲学。",
+    "topic": "other"
+  },
+  {
+    "id": "523393d82e9a9803a407bd17bbc6f894",
+    "title_en": "2025–2026 年大模型最可能爆发的10 大技术方向 - AI编程社区- CSDN",
+    "source": "aicoding.csdn.net",
+    "url": "https://aicoding.csdn.net/691bd5d282fbe0098cac8838.html",
+    "published_at": "2025-11-18T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.957Z",
+    "title_zh": "2025–2026年大模型最可能爆发的10大技术方向",
+    "summary_zh": "本文预测了2025-2026年间大模型领域最可能爆发的十大技术方向，涵盖多模态融合、长上下文窗口、推理能力增强、Agent自主决策、端侧模型部署、合成数据与自监督学习、模型压缩与蒸馏、可解释性与安全性、开源生态竞争以及行业垂直大模型。文章基于当前技术趋势与产业需求，为开发者提供了前瞻性的技术布局参考，尤其关注了推理效率与成本优化的关键突破点。",
+    "topic": "ai"
   },
   {
     "id": "fc66df6a4c2e24c9241b1f055cbeb84b",
@@ -747,7 +1745,30 @@
     "published_at": "2025-11-14T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Docker 镜像优化入门：实用步骤与技巧（Reddit 讨论）",
-    "summary_zh": "本文基于 Reddit 社区讨论，总结了 Docker 镜像优化的实用步骤，包括使用多阶段构建减少层数、选择 Alpine 等轻量基础镜像、清理构建缓存、以及合并 RUN 指令以降低镜像体积。文章还讨论了如何利用 .dockerignore 排除无关文件，以及通过 Docker Squash 进一步压缩层。这些技巧可显著缩短镜像构建与传输时间，适合容器化应用开发初期参考。"
+    "summary_zh": "本文基于 Reddit 社区讨论，总结了 Docker 镜像优化的实用步骤，包括使用多阶段构建减少层数、选择 Alpine 等轻量基础镜像、清理构建缓存、以及合并 RUN 指令以降低镜像体积。文章还讨论了如何利用 .dockerignore 排除无关文件，以及通过 Docker Squash 进一步压缩层。这些技巧可显著缩短镜像构建与传输时间，适合容器化应用开发初期参考。",
+    "topic": "other"
+  },
+  {
+    "id": "d27025bf5289f4f770005251f3c67b14",
+    "title_en": "国产操作系统安全基线手册正式发布 - CICS-CERT国家工信安全中心",
+    "source": "cics-cert.org.cn",
+    "url": "https://www.cics-cert.org.cn/web_root/webpage/articlecontent_101001_1985268694053294081.html",
+    "published_at": "2025-11-03T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "国产操作系统安全基线手册正式发布 - CICS-CERT国家工信安全中心",
+    "summary_zh": "本文报道了国家工信安全中心（CICS-CERT）正式发布的国产操作系统安全基线手册。该手册覆盖了麒麟、统信等主流国产OS，从账户管理、认证授权、日志审计、网络服务、文件系统、内核参数及补丁管理等方面制定了详细的安全配置基线。手册还提供了自动化检测与修复脚本，帮助企业快速满足等保2.0及关键信息基础设施安全保护要求。文章强调了基线手册在提升国产系统整体安全水位中的重要作用，适合政企单位安全负责人参考。",
+    "topic": "security"
+  },
+  {
+    "id": "cc304bee0179676af72615e1f8d13485",
+    "title_en": "AI Agent开发全攻略（超详细）从零基础到精通，一篇搞定，不看后悔",
+    "source": "modelengine.csdn.net",
+    "url": "https://modelengine.csdn.net/690c50655511483559e2ad44.html",
+    "published_at": "2025-10-25T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "AI Agent开发全攻略（超详细）从零基础到精通，一篇搞定，不看后悔",
+    "summary_zh": "本文是一份超详细的AI Agent开发全攻略，从基础概念到高级实战，覆盖了Agent架构设计、LLM调用封装、工具集成、状态管理与错误恢复等关键技术点。文章提供了多个可复用的代码示例与架构模式，并对比了LangChain、AutoGPT、CrewAI等主流框架的优劣。适合希望系统掌握Agent开发并快速落地项目的AI工程师。",
+    "topic": "ai"
   },
   {
     "id": "3ae33b8b42e61acfd66d3ef84f577398",
@@ -757,7 +1778,8 @@
     "published_at": "2025-10-04T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "探索Microsoft Agent Framework及其开发流程",
-    "summary_zh": "Medium技术文章深入剖析了Microsoft Agent Framework的架构设计与开发实践。作者通过构建一个客服多Agent系统为例，展示了如何利用框架的Agent Orchestrator实现任务分解与结果聚合，以及如何通过自定义插件扩展Agent能力。文章重点讨论了状态管理、错误恢复和并发控制等生产环境关键问题，并提供了性能基准测试数据。"
+    "summary_zh": "Medium技术文章深入剖析了Microsoft Agent Framework的架构设计与开发实践。作者通过构建一个客服多Agent系统为例，展示了如何利用框架的Agent Orchestrator实现任务分解与结果聚合，以及如何通过自定义插件扩展Agent能力。文章重点讨论了状态管理、错误恢复和并发控制等生产环境关键问题，并提供了性能基准测试数据。",
+    "topic": "other"
   },
   {
     "id": "349f30757d0d08819e311450f844cdd3",
@@ -767,7 +1789,8 @@
     "published_at": "2025-09-29T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "性能调优：优化 Linux 性能 | DigitalOcean",
-    "summary_zh": "DigitalOcean 出品的 Linux 性能优化教程，从基础监控命令（top、free、df）到高级调优技巧（内核参数、文件系统优化、网络栈调优）。重点讲解如何识别 CPU 饥饿、内存泄漏、磁盘 I/O 瓶颈及网络延迟，并给出针对云服务器的优化建议。内容简洁实用，适合开发者与运维人员快速提升系统性能。"
+    "summary_zh": "DigitalOcean 出品的 Linux 性能优化教程，从基础监控命令（top、free、df）到高级调优技巧（内核参数、文件系统优化、网络栈调优）。重点讲解如何识别 CPU 饥饿、内存泄漏、磁盘 I/O 瓶颈及网络延迟，并给出针对云服务器的优化建议。内容简洁实用，适合开发者与运维人员快速提升系统性能。",
+    "topic": "other"
   },
   {
     "id": "a8f9ed476d26a07c06ffd1a616290ee3",
@@ -777,7 +1800,8 @@
     "published_at": "2025-09-15T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "操作系统加固 20 项最佳实践 | CalCom Software",
-    "summary_zh": "本文列出 20 项可操作的 OS 加固实践，涵盖账户策略（禁用 root 远程登录、密码复杂度）、文件系统权限（SUID/SGID 清理）、内核参数调优（sysctl 安全设置）、服务最小化、防火墙规则及 SELinux/AppArmor 强制访问控制。每项均附有具体命令与配置示例，适用于 Linux/Windows 服务器。"
+    "summary_zh": "本文列出 20 项可操作的 OS 加固实践，涵盖账户策略（禁用 root 远程登录、密码复杂度）、文件系统权限（SUID/SGID 清理）、内核参数调优（sysctl 安全设置）、服务最小化、防火墙规则及 SELinux/AppArmor 强制访问控制。每项均附有具体命令与配置示例，适用于 Linux/Windows 服务器。",
+    "topic": "other"
   },
   {
     "id": "6a8a840d7399f8ae5a82982b2b715cd6",
@@ -787,7 +1811,8 @@
     "published_at": "2025-08-05T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "自主 AI 智能体如何变革开发工作流",
-    "summary_zh": "Augment Code 分析自主 AI 智能体对软件开发流程的颠覆性影响，涵盖代码生成、测试自动化、缺陷修复及文档维护等场景。深入探讨智能体与 CI/CD 管道的集成模式、代码审查辅助机制及团队协作新范式，并分享实际案例中的效率提升数据与实施建议，为技术管理者提供智能化转型参考。"
+    "summary_zh": "Augment Code 分析自主 AI 智能体对软件开发流程的颠覆性影响，涵盖代码生成、测试自动化、缺陷修复及文档维护等场景。深入探讨智能体与 CI/CD 管道的集成模式、代码审查辅助机制及团队协作新范式，并分享实际案例中的效率提升数据与实施建议，为技术管理者提供智能化转型参考。",
+    "topic": "other"
   },
   {
     "id": "4ead271d6dc7dfec3c930ac0cb306678",
@@ -797,7 +1822,8 @@
     "published_at": "2025-07-23T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "什么是系统加固？| GeeksforGeeks",
-    "summary_zh": "系统加固是减少攻击面的关键安全实践，涵盖操作系统、网络、应用及数据库层的配置强化。本文系统介绍最小权限原则、服务禁用、补丁管理、日志审计及入侵检测等核心措施，并对比不同加固标准（如 CIS、NIST），为安全工程师提供可落地的基线指南。"
+    "summary_zh": "系统加固是减少攻击面的关键安全实践，涵盖操作系统、网络、应用及数据库层的配置强化。本文系统介绍最小权限原则、服务禁用、补丁管理、日志审计及入侵检测等核心措施，并对比不同加固标准（如 CIS、NIST），为安全工程师提供可落地的基线指南。",
+    "topic": "other"
   },
   {
     "id": "01cbbb19d3b4fc76e76007dec219ba47",
@@ -807,7 +1833,19 @@
     "published_at": "2025-07-15T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "Linux系统管理初学者指南",
-    "summary_zh": "GeeksforGeeks出品的入门教程，从零开始介绍Linux系统管理的基础知识，包括文件系统、用户管理、进程控制、软件包管理、网络配置等。内容结构清晰，配有大量命令示例和练习题，适合刚接触Linux运维的初学者快速建立系统管理知识体系。"
+    "summary_zh": "GeeksforGeeks出品的入门教程，从零开始介绍Linux系统管理的基础知识，包括文件系统、用户管理、进程控制、软件包管理、网络配置等。内容结构清晰，配有大量命令示例和练习题，适合刚接触Linux运维的初学者快速建立系统管理知识体系。",
+    "topic": "other"
+  },
+  {
+    "id": "02c79f734bc288b1f75366528034096f",
+    "title_en": "深入浅出LangChain AI Agent智能体开发教程（一） - 稀土掘金",
+    "source": "juejin.cn",
+    "url": "https://juejin.cn/post/7526993716071202851",
+    "published_at": "2025-07-15T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "深入浅出LangChain AI Agent智能体开发教程（一）",
+    "summary_zh": "本文是LangChain AI Agent开发系列教程的第一篇，从LangChain的核心概念入手，详细讲解了如何构建一个具备工具调用与记忆能力的智能体。内容包括Agent类型选择、Prompt模板设计、工具定义与链式调用等关键步骤，并提供了完整的代码实现与调试技巧。适合有一定Python基础、希望快速上手LangChain Agent开发的工程师。",
+    "topic": "ai"
   },
   {
     "id": "36872b84e32141fd9a3ef65cec27028b",
@@ -817,7 +1855,19 @@
     "published_at": "2025-07-03T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "构建个人 AI 智能体：从零代码到自主系统",
-    "summary_zh": "本文以零代码起点逐步构建个人 AI 智能体，涵盖需求分析、工具选型（如 n8n、Zapier 结合 LLM）、工作流设计及自主决策逻辑实现。通过实际案例演示如何让智能体自动处理邮件、管理日程及执行重复任务，并讨论隐私保护与成本控制策略，适合非技术背景用户快速拥有专属 AI 助手。"
+    "summary_zh": "本文以零代码起点逐步构建个人 AI 智能体，涵盖需求分析、工具选型（如 n8n、Zapier 结合 LLM）、工作流设计及自主决策逻辑实现。通过实际案例演示如何让智能体自动处理邮件、管理日程及执行重复任务，并讨论隐私保护与成本控制策略，适合非技术背景用户快速拥有专属 AI 助手。",
+    "topic": "other"
+  },
+  {
+    "id": "e12c3646f75cce8af56afa83831da428",
+    "title_en": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1919338285160965135",
+    "published_at": "2025-06-23T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent",
+    "summary_zh": "本文以万字篇幅系统讲解复杂AI Agent的开发全流程，从底层原理（如ReAct循环、规划算法）到上层实现（如状态管理、错误恢复）。通过多个实战案例展示如何设计可扩展的Agent架构，包括工具注册、上下文窗口优化和异步任务调度。适合中高级开发者提升工程能力。",
+    "topic": "ai"
   },
   {
     "id": "3e227c3a691cf9afd8d4933a9fe11bbf",
@@ -827,7 +1877,8 @@
     "published_at": "2025-06-13T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "自主智能体的崛起：企业领导者需要了解什么——AWS 技术洞察",
-    "summary_zh": "AWS 从企业架构视角分析自主智能体的技术成熟度、应用场景及风险管控。重点探讨智能体与云原生服务（如 Lambda、SageMaker）的集成模式、安全合规框架设计及成本优化策略，并分享金融、医疗等行业的落地案例，为企业决策者提供从概念验证到规模化部署的路线图。"
+    "summary_zh": "AWS 从企业架构视角分析自主智能体的技术成熟度、应用场景及风险管控。重点探讨智能体与云原生服务（如 Lambda、SageMaker）的集成模式、安全合规框架设计及成本优化策略，并分享金融、医疗等行业的落地案例，为企业决策者提供从概念验证到规模化部署的路线图。",
+    "topic": "other"
   },
   {
     "id": "c7a032d246ebd0fcb9d9e888f6c19031",
@@ -837,7 +1888,8 @@
     "published_at": "2025-05-27T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:47.640Z",
     "title_zh": "Linux 6.15内核安全更新：Rust Bcachefs发布",
-    "summary_zh": "Linux 6.15内核版本带来了多项安全更新，其中最引人注目的是使用Rust语言重写的Bcachefs文件系统模块。这一举措旨在利用Rust的内存安全特性，从根源上减少文件系统相关漏洞。文章分析了此次更新中修复的关键安全缺陷，包括多个潜在的缓冲区溢出与释放后使用问题，并讨论了Rust在内核中逐步推广对整体安全性的提升意义，对关注内核安全演进的技术人员具有前瞻性价值。"
+    "summary_zh": "Linux 6.15内核版本带来了多项安全更新，其中最引人注目的是使用Rust语言重写的Bcachefs文件系统模块。这一举措旨在利用Rust的内存安全特性，从根源上减少文件系统相关漏洞。文章分析了此次更新中修复的关键安全缺陷，包括多个潜在的缓冲区溢出与释放后使用问题，并讨论了Rust在内核中逐步推广对整体安全性的提升意义，对关注内核安全演进的技术人员具有前瞻性价值。",
+    "topic": "other"
   },
   {
     "id": "4f0cf8141d1268dc6f4ebc9fbdeacef3",
@@ -847,7 +1899,30 @@
     "published_at": "2025-05-22T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.418Z",
     "title_zh": "10个被低估的Linux系统管理技巧与窍门",
-    "summary_zh": "本文分享了10个常被忽视但极为实用的Linux系统管理技巧，涵盖命令行效率提升、日志分析、进程管理、磁盘监控、网络诊断等方面。每个技巧都配有具体命令和场景说明，适合有一定基础的运维人员快速提升日常工作效率，减少重复劳动。"
+    "summary_zh": "本文分享了10个常被忽视但极为实用的Linux系统管理技巧，涵盖命令行效率提升、日志分析、进程管理、磁盘监控、网络诊断等方面。每个技巧都配有具体命令和场景说明，适合有一定基础的运维人员快速提升日常工作效率，减少重复劳动。",
+    "topic": "other"
+  },
+  {
+    "id": "93294798932247e6d668dd00d98ada0d",
+    "title_en": "容器镜像优化终极指南 - Serverion",
+    "source": "serverion.com",
+    "url": "https://www.serverion.com/cn/uncategorized/ultimate-guide-to-container-image-optimization/",
+    "published_at": "2025-05-09T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "容器镜像优化终极指南 - Serverion",
+    "summary_zh": "本文深入探讨了容器镜像优化的全流程策略，涵盖从基础镜像选择、多阶段构建、层缓存利用到镜像瘦身工具（如Dive、Slim）的实战应用。针对生产环境，详细分析了如何通过减少层数、合并RUN指令、清理临时文件及使用distroless镜像来显著降低镜像体积与攻击面。文章还提供了针对不同语言（Go、Node.js、Python）的专项优化技巧，并对比了Alpine与Debian slim等基础镜像的优劣。适合需要提升CI/CD效率、降低存储与网络传输成本的DevOps工程师阅读。",
+    "topic": "ops"
+  },
+  {
+    "id": "5ea703f07534d115f43d250634fc34fa",
+    "title_en": "AI Agent开发全攻略：从理论到实践的完整指南与行业解决方案",
+    "source": "betteryeah.com",
+    "url": "https://www.betteryeah.com/blog/guide-to-ai-agent-development-from-theory-to-practice",
+    "published_at": "2025-04-29T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "AI Agent开发全攻略：从理论到实践的完整指南与行业解决方案",
+    "summary_zh": "本文提供AI Agent开发的完整指南，从理论基础（如强化学习、规划算法）到行业解决方案（如客服、自动化运维）。重点分析不同场景下的架构选型、数据流设计和部署策略，并给出性能基准测试结果。适合技术决策者和高级工程师。",
+    "topic": "ai"
   },
   {
     "id": "f82feb1979547b05e5307656baf933aa",
@@ -857,7 +1932,19 @@
     "published_at": "2025-04-18T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "生产环境 Kubernetes 安全最佳实践（Mirantis 出品）",
-    "summary_zh": "本文由 Mirantis 撰写，系统阐述了生产级 Kubernetes 集群的安全加固方案，包括镜像签名与扫描、运行时安全（如 Falco 检测异常行为）、网络分段（Cilium 或 Calico 策略）、以及密钥管理（Vault 集成）。文章特别强调了最小权限原则、Pod 安全准入控制器（PSA）的应用，以及如何通过 OPA/Gatekeeper 实现合规策略自动化。对于安全敏感型业务场景具有极高参考价值。"
+    "summary_zh": "本文由 Mirantis 撰写，系统阐述了生产级 Kubernetes 集群的安全加固方案，包括镜像签名与扫描、运行时安全（如 Falco 检测异常行为）、网络分段（Cilium 或 Calico 策略）、以及密钥管理（Vault 集成）。文章特别强调了最小权限原则、Pod 安全准入控制器（PSA）的应用，以及如何通过 OPA/Gatekeeper 实现合规策略自动化。对于安全敏感型业务场景具有极高参考价值。",
+    "topic": "other"
+  },
+  {
+    "id": "ecda38c6c98010ec63182a04522b907e",
+    "title_en": "大模型微调实战：通过LoRA 微调修改模型自我认知 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/KubeExplorer/p/18828441",
+    "published_at": "2025-04-16T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "大模型微调实战：通过LoRA 微调修改模型自我认知 - 博客园",
+    "summary_zh": "本文以修改大模型自我认知为具体目标，手把手演示如何使用LoRA进行参数高效微调。从环境搭建、数据集构造（包含身份、能力等定制化问答对）到训练脚本编写与模型推理验证，完整呈现了微调流程。重点讲解了LoRA秩、目标模块选择等关键超参数对效果的影响，并提供了避免灾难性遗忘的实用技巧。适合有基础Python编程经验、希望快速上手LoRA微调的开发者。",
+    "topic": "ai"
   },
   {
     "id": "4b60bdf5a8cdef53443a094fdb79d325",
@@ -867,7 +1954,8 @@
     "published_at": "2025-04-11T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:47.640Z",
     "title_zh": "一线经验：系统管理员的IT自动化实战指南",
-    "summary_zh": "Red Hat分享了来自一线系统管理员的自动化实践经验，涵盖从手动操作到自动化运维的转型路径。文章重点介绍了如何评估现有工作流、选择自动化工具（如Ansible、Red Hat Satellite）以及建立自动化运维的标准化流程。作者还强调了变更管理、回滚策略和自动化测试在降低风险中的关键作用。"
+    "summary_zh": "Red Hat分享了来自一线系统管理员的自动化实践经验，涵盖从手动操作到自动化运维的转型路径。文章重点介绍了如何评估现有工作流、选择自动化工具（如Ansible、Red Hat Satellite）以及建立自动化运维的标准化流程。作者还强调了变更管理、回滚策略和自动化测试在降低风险中的关键作用。",
+    "topic": "other"
   },
   {
     "id": "6f8d74fa4403a2eb2e792b2a10069678",
@@ -877,7 +1965,41 @@
     "published_at": "2025-04-09T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:28.417Z",
     "title_zh": "如何构建真正自主工作的 AI 智能体？——Reddit 技术讨论",
-    "summary_zh": "Reddit 社区深度探讨构建真正自主 AI 智能体的技术挑战，包括长期目标分解、环境感知、错误自愈及人类反馈集成。分享多种架构方案（如 ReAct、Plan-and-Execute）的实际效果对比，并讨论记忆持久化、工具调用可靠性及安全边界设定等关键问题，为开发者提供社区验证的实战经验。"
+    "summary_zh": "Reddit 社区深度探讨构建真正自主 AI 智能体的技术挑战，包括长期目标分解、环境感知、错误自愈及人类反馈集成。分享多种架构方案（如 ReAct、Plan-and-Execute）的实际效果对比，并讨论记忆持久化、工具调用可靠性及安全边界设定等关键问题，为开发者提供社区验证的实战经验。",
+    "topic": "other"
+  },
+  {
+    "id": "5470ed57463347ccd779e03d7216c9aa",
+    "title_en": "Linux性能调优：寻找性能瓶颈的基本步骤与实战指南 - 51CTO学堂",
+    "source": "edu.51cto.com",
+    "url": "https://edu.51cto.com/article/note/32423.html",
+    "published_at": "2025-04-07T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Linux 性能调优：寻找性能瓶颈的基本步骤与实战指南",
+    "summary_zh": "本文来自 51CTO 学堂，以实战为导向，详细讲解了 Linux 性能瓶颈的定位方法。文章从 USE 方法论（利用率、饱和度、错误）出发，结合具体工具演示了 CPU、内存、磁盘和网络瓶颈的排查过程，并给出了针对性的调优方案。适合希望提升故障排查能力的运维工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "e9a1824cf5b4e4e004c52db21f39fd74",
+    "title_en": "Linux系统管理实战：服务器配置与运维技巧 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/shejizuopin/article/details/146472468",
+    "published_at": "2025-03-26T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "Linux系统管理实战：服务器配置与运维技巧 - CSDN博客",
+    "summary_zh": "本文以实战为导向，系统讲解Linux服务器从初始配置到日常运维的关键技巧。内容包括SSH安全配置、防火墙规则编写、Nginx/Apache等Web服务部署、MySQL数据库优化、日志轮转与监控等。每个主题均提供可复用的配置模板和常见问题解决方案。适合需要快速上手Linux服务器管理、希望获得可直接应用于生产环境的运维经验的初学者或中级工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "f9d959325d36985e935b682963253652",
+    "title_en": "Docker镜像瘦身实战：7个必须掌握的生产级优化技巧 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/leojazz/p/18789505",
+    "published_at": "2025-03-24T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "Docker镜像瘦身实战：7个必须掌握的生产级优化技巧 - 博客园",
+    "summary_zh": "本文总结了7个生产级Docker镜像瘦身技巧，旨在减少镜像体积、提升构建与部署效率。技巧包括：使用多阶段构建分离编译与运行环境、选择Alpine等精简基础镜像、合并RUN指令减少层数、清理apt/yum缓存及临时文件、利用.dockerignore排除无关文件、使用--squash合并历史层，以及通过distroless镜像进一步缩减攻击面。每个技巧均附有Dockerfile示例和体积对比数据。文章还讨论了镜像层缓存利用策略，帮助CI/CD流水线加速构建过程，适合追求极致镜像体积的DevOps工程师。",
+    "topic": "ops"
   },
   {
     "id": "c01277fa926bc5d48b71b8cab60a2fb2",
@@ -887,7 +2009,8 @@
     "published_at": "2025-03-14T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "什么是系统加固？从操作系统到 Ubuntu 的必备检查清单",
-    "summary_zh": "Ubuntu 官方指南提供从 OS 到应用层的完整加固检查清单，涵盖：SSH 密钥认证与端口修改、UFW 防火墙规则、AppArmor 强制访问控制、自动安全更新配置、系统日志审计（auditd）及入侵检测（AIDE）。每项均附有 Ubuntu 专用命令与自动化脚本示例。"
+    "summary_zh": "Ubuntu 官方指南提供从 OS 到应用层的完整加固检查清单，涵盖：SSH 密钥认证与端口修改、UFW 防火墙规则、AppArmor 强制访问控制、自动安全更新配置、系统日志审计（auditd）及入侵检测（AIDE）。每项均附有 Ubuntu 专用命令与自动化脚本示例。",
+    "topic": "other"
   },
   {
     "id": "42697f45e2b41ef0650a9ea9ae6f65d8",
@@ -897,7 +2020,8 @@
     "published_at": "2025-03-04T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Linux 系统性能调优：优化 CPU、内存与存储 | Linux Journal",
-    "summary_zh": "本文来自 Linux Journal，深入讲解 CPU、内存及存储子系统的性能优化策略。CPU 方面涉及进程调度与亲和性设置；内存方面涵盖大页配置、内存回收策略；存储方面包括 I/O 调度器选择、文件系统挂载参数调优。提供具体命令与配置示例，帮助运维人员精准定位并消除性能瓶颈。"
+    "summary_zh": "本文来自 Linux Journal，深入讲解 CPU、内存及存储子系统的性能优化策略。CPU 方面涉及进程调度与亲和性设置；内存方面涵盖大页配置、内存回收策略；存储方面包括 I/O 调度器选择、文件系统挂载参数调优。提供具体命令与配置示例，帮助运维人员精准定位并消除性能瓶颈。",
+    "topic": "other"
   },
   {
     "id": "8e40eacbb30fa3b5e4c568c4fbd57b74",
@@ -907,7 +2031,41 @@
     "published_at": "2025-02-28T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "什么是“OS 加固”？为何这项 IT 安全措施至关重要？",
-    "summary_zh": "本文从攻击者视角解释 OS 加固的必要性，通过真实入侵案例展示未加固系统的脆弱性。核心措施包括：最小化安装、禁用未使用的服务与端口、应用最小权限原则、启用审计日志、定期漏洞扫描及自动化补丁管理。强调加固是持续过程而非一次性任务。"
+    "summary_zh": "本文从攻击者视角解释 OS 加固的必要性，通过真实入侵案例展示未加固系统的脆弱性。核心措施包括：最小化安装、禁用未使用的服务与端口、应用最小权限原则、启用审计日志、定期漏洞扫描及自动化补丁管理。强调加固是持续过程而非一次性任务。",
+    "topic": "other"
+  },
+  {
+    "id": "33407c9bce5d799f7d14d287f2f7037f",
+    "title_en": "大模型微调（Fine-tuning）全解，需要了解的都在这里 - 53AI",
+    "source": "53ai.com",
+    "url": "https://www.53ai.com/news/finetuning/2025022604125.html",
+    "published_at": "2025-02-26T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "大模型微调（Fine-tuning）全解，需要了解的都在这里 - 53AI",
+    "summary_zh": "本文全面解析大模型微调的核心概念、方法与实践，涵盖从基础原理到高级技术的完整知识体系。详细介绍了微调的必要性、常见策略（全量微调与参数高效微调）、数据准备、训练技巧及评估指标。针对不同场景给出选型建议，并对比了LoRA、Adapter等主流PEFT方法的优劣。适合希望系统掌握微调技术的AI从业者，提供从理论到落地的完整参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "a65d7b830af36c7d7e8c5c20a7fd06fb",
+    "title_en": "Linux 性能调优简单指南 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/weixin_42168046/article/details/145756151",
+    "published_at": "2025-02-20T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.173Z",
+    "title_zh": "Linux 性能调优简单指南",
+    "summary_zh": "本文是一份简洁实用的 Linux 性能调优指南，面向有一定基础的运维人员。文章从 CPU、内存、磁盘和网络四个维度出发，介绍了常用的性能监控命令和调优参数，并提供了针对高并发、高 IO 等典型场景的优化建议。内容精炼，适合快速查阅和实战参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "aa230d01115ca4163c698ff43b65f203",
+    "title_en": "自动化运维：理念、技术与最佳实践 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/qq_20245171/article/details/145542659",
+    "published_at": "2025-02-10T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "自动化运维：理念、技术与最佳实践",
+    "summary_zh": "本文从理念、技术和最佳实践三个维度全面解析自动化运维。内容涵盖自动化脚本编写、配置管理工具（如Puppet、SaltStack）、监控系统搭建以及故障自愈机制。文章强调了自动化运维在降低人为失误、提升效率方面的价值，并提供了实际案例供参考。对于运维团队，本文是一份实用的自动化转型指南。",
+    "topic": "ops"
   },
   {
     "id": "7f1a6f987242a336808e48269469151a",
@@ -917,7 +2075,19 @@
     "published_at": "2025-02-02T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "如何优化 Docker 性能 | Scout Monitoring",
-    "summary_zh": "本文从监控视角出发，系统分析 Docker 性能瓶颈的常见成因，包括 CPU 限制、内存分配不当、I/O 竞争及网络模式选择。提供基于实际指标的调优策略，如调整 cgroup 参数、使用 overlay2 存储驱动、优化容器日志管理，并推荐 Scout 等监控工具实现持续性能追踪。"
+    "summary_zh": "本文从监控视角出发，系统分析 Docker 性能瓶颈的常见成因，包括 CPU 限制、内存分配不当、I/O 竞争及网络模式选择。提供基于实际指标的调优策略，如调整 cgroup 参数、使用 overlay2 存储驱动、优化容器日志管理，并推荐 Scout 等监控工具实现持续性能追踪。",
+    "topic": "other"
+  },
+  {
+    "id": "79c9a597d5aec9b22f9fcf8effbf9c46",
+    "title_en": "CVE-2018-9568 Linux内核漏洞分析和利用 - 奇安信技术研究院",
+    "source": "research.qianxin.com",
+    "url": "https://research.qianxin.com/archives/2819",
+    "published_at": "2025-01-23T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:52.658Z",
+    "title_zh": "CVE-2018-9568 Linux内核漏洞分析和利用",
+    "summary_zh": "本文由奇安信技术研究院发布，对经典的Linux内核漏洞CVE-2018-9568进行了深入的分析和利用演示。文章从漏洞原理出发，详细讲解了漏洞在代码层面的触发路径，并逐步构建了完整的漏洞利用程序（Exploit），实现了从普通用户到root的权限提升。作者还分享了在分析和利用过程中遇到的挑战及解决思路，例如绕过内核保护机制（如KASLR）。对于希望深入学习Linux内核漏洞挖掘与利用技术的研究人员，本文是一份高质量的教学案例。",
+    "topic": "security"
   },
   {
     "id": "40c8d907b37e40583ca6f5a6e1d04300",
@@ -927,7 +2097,19 @@
     "published_at": "2025-01-21T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "那些我希望早点知道的 Kubernetes 最佳实践（Reddit 热帖）",
-    "summary_zh": "本文汇总了 Reddit 社区中资深工程师分享的 Kubernetes 实战经验，涵盖资源限制设置、Pod 反亲和性、命名空间隔离、配置管理以及监控告警等关键领域。文章强调避免使用 latest 标签、合理配置 Readiness 和 Liveness 探针、利用 HPA 实现自动扩缩容，并推荐使用 NetworkPolicy 增强安全性。这些实践源自真实生产事故，对于减少集群故障、提升运维效率具有直接指导价值。"
+    "summary_zh": "本文汇总了 Reddit 社区中资深工程师分享的 Kubernetes 实战经验，涵盖资源限制设置、Pod 反亲和性、命名空间隔离、配置管理以及监控告警等关键领域。文章强调避免使用 latest 标签、合理配置 Readiness 和 Liveness 探针、利用 HPA 实现自动扩缩容，并推荐使用 NetworkPolicy 增强安全性。这些实践源自真实生产事故，对于减少集群故障、提升运维效率具有直接指导价值。",
+    "topic": "other"
+  },
+  {
+    "id": "4ffb0bb4b8725e41715dfa0ab9608345",
+    "title_en": "linux运维需要什么技能 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/19668592352",
+    "published_at": "2025-01-21T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "linux运维需要什么技能 - 知乎专栏",
+    "summary_zh": "本文系统梳理Linux运维工程师所需的核心技能体系，从基础到进阶分层次讲解。基础层包括Linux命令、Shell编程、网络协议（TCP/IP、DNS、HTTP）；进阶层涵盖自动化工具（Ansible、SaltStack）、容器技术（Docker、Kubernetes）、监控告警（Prometheus、Zabbix）；高级层涉及分布式系统、高可用架构、安全攻防等。同时给出学习路径与推荐资源，帮助运维人员明确职业发展方向。",
+    "topic": "ops"
   },
   {
     "id": "5eff29cebb93dd8e42158a4f0ea77be2",
@@ -937,7 +2119,8 @@
     "published_at": "2025-01-20T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "那些我希望早点知道的 Kubernetes 最佳实践（Pulumi 博客）",
-    "summary_zh": "本文由 Pulumi 团队撰写，分享了作者在多年 Kubernetes 运维中总结的实战经验，包括使用 Infrastructure as Code（IaC）管理集群配置、避免手动 kubectl 操作、通过 Helm 或 Kustomize 实现声明式部署、以及利用 Pulumi 自动化跨环境编排。文章还强调了版本控制、不可变标签、以及定期清理未使用资源的重要性。内容实用性强，适合希望提升集群管理自动化水平的开发者。"
+    "summary_zh": "本文由 Pulumi 团队撰写，分享了作者在多年 Kubernetes 运维中总结的实战经验，包括使用 Infrastructure as Code（IaC）管理集群配置、避免手动 kubectl 操作、通过 Helm 或 Kustomize 实现声明式部署、以及利用 Pulumi 自动化跨环境编排。文章还强调了版本控制、不可变标签、以及定期清理未使用资源的重要性。内容实用性强，适合希望提升集群管理自动化水平的开发者。",
+    "topic": "other"
   },
   {
     "id": "8d409325b831cc83edc2f900befe82b9",
@@ -947,7 +2130,30 @@
     "published_at": "2025-01-09T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "揭秘 Docker：深入理解并优化你的镜像",
-    "summary_zh": "本文深入剖析 Docker 镜像的构建原理，从分层存储、缓存机制到多阶段构建，系统讲解如何识别镜像膨胀的根源。重点涵盖 .dockerignore 优化、基础镜像选择策略、层合并技巧及安全扫描实践，帮助开发者将镜像体积缩减 50% 以上，同时提升构建速度与部署效率。"
+    "summary_zh": "本文深入剖析 Docker 镜像的构建原理，从分层存储、缓存机制到多阶段构建，系统讲解如何识别镜像膨胀的根源。重点涵盖 .dockerignore 优化、基础镜像选择策略、层合并技巧及安全扫描实践，帮助开发者将镜像体积缩减 50% 以上，同时提升构建速度与部署效率。",
+    "topic": "other"
+  },
+  {
+    "id": "8862abe0665049dd386c56f014267f74",
+    "title_en": "深入探索Kubernetes：从基础概念到实战运维",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/zhoutuo/p/18646996",
+    "published_at": "2025-01-05T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:50.174Z",
+    "title_zh": "深入探索Kubernetes：从基础概念到实战运维",
+    "summary_zh": "本文是一篇面向Kubernetes入门到进阶的系统教程，从Pod、Deployment、Service等核心概念讲起，逐步深入到集群网络、存储卷、配置管理及安全策略。实战部分涵盖使用kubectl进行日常运维、Helm包管理、Prometheus监控集成以及日志收集（EFK/ELK）。文章还介绍了常见的故障排查思路，如Pod CrashLoopBackOff分析、节点资源不足处理及网络策略调试。通过理论与实践结合的方式，帮助读者快速掌握K8s集群的搭建、配置与维护技能。",
+    "topic": "ops"
+  },
+  {
+    "id": "af43d8d9f8e80a0a9830e14e2304bc15",
+    "title_en": "炼石成丹：大语言模型微调实战系列（一）数据准备篇 - AWS",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-one/",
+    "published_at": "2024-12-23T00:00:00.000Z",
+    "fetched_at": "2026-05-23T00:30:45.958Z",
+    "title_zh": "炼石成丹：大语言模型微调实战系列（一）数据准备篇 - AWS",
+    "summary_zh": "本文聚焦大模型微调中最关键却常被忽视的数据准备环节。详细讲解如何从原始语料中清洗、标注、构建高质量的微调数据集，涵盖数据去重、格式统一、指令模板设计、多轮对话数据构造等具体操作。结合AWS SageMaker等云服务，演示自动化数据流水线的搭建方法，并给出数据质量评估指标。适合重视数据质量、希望系统化构建微调数据管道的AI团队。",
+    "topic": "ai"
   },
   {
     "id": "afd978bfc42c6fb0a170ee13b0b84522",
@@ -957,7 +2163,8 @@
     "published_at": "2024-12-07T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Docker 镜像最佳实践：从 1.2GB 压缩到 10MB",
-    "summary_zh": "视频教程通过真实项目演示，从基础镜像选择（Alpine/Scratch）、多阶段构建、依赖精简到二进制静态编译，逐步将镜像从 1.2GB 压缩至 10MB。深入讲解 distroless 镜像原理、层合并技巧及安全扫描，展示极致瘦身后对部署速度和安全性的显著提升。"
+    "summary_zh": "视频教程通过真实项目演示，从基础镜像选择（Alpine/Scratch）、多阶段构建、依赖精简到二进制静态编译，逐步将镜像从 1.2GB 压缩至 10MB。深入讲解 distroless 镜像原理、层合并技巧及安全扫描，展示极致瘦身后对部署速度和安全性的显著提升。",
+    "topic": "other"
   },
   {
     "id": "30d50b5a04762cc9af16ce2fceee5c74",
@@ -967,7 +2174,8 @@
     "published_at": "2024-11-26T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:47.640Z",
     "title_zh": "最佳系统管理员IT自动化工具盘点——VMblog",
-    "summary_zh": "VMblog盘点了当前最优秀的系统管理员自动化工具，包括Ansible、Puppet、Chef、SaltStack、Terraform和Kubernetes等。文章从配置管理、基础设施编排、持续交付和监控告警四个维度对比了各工具的优缺点、适用场景及学习曲线。对于正在选型的团队，本文提供了清晰的决策参考和实际部署案例。"
+    "summary_zh": "VMblog盘点了当前最优秀的系统管理员自动化工具，包括Ansible、Puppet、Chef、SaltStack、Terraform和Kubernetes等。文章从配置管理、基础设施编排、持续交付和监控告警四个维度对比了各工具的优缺点、适用场景及学习曲线。对于正在选型的团队，本文提供了清晰的决策参考和实际部署案例。",
+    "topic": "other"
   },
   {
     "id": "24b52f865d974301750abbc81e3c924c",
@@ -977,7 +2185,8 @@
     "published_at": "2024-11-16T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "Docker 镜像优化：减小体积以实现更快部署（Dev.to 实战）",
-    "summary_zh": "本文聚焦于通过减小 Docker 镜像体积来加速部署流程，详细介绍了多阶段构建、使用 Alpine 或 BusyBox 基础镜像、删除不必要的系统包与临时文件、以及利用 --no-install-recommends 等标志减少依赖。文章还探讨了如何通过 Docker Slim 工具自动分析并精简镜像，以及将静态编译语言（如 Go）的二进制文件直接复制到 scratch 镜像中。实测可将镜像体积减少 80% 以上。"
+    "summary_zh": "本文聚焦于通过减小 Docker 镜像体积来加速部署流程，详细介绍了多阶段构建、使用 Alpine 或 BusyBox 基础镜像、删除不必要的系统包与临时文件、以及利用 --no-install-recommends 等标志减少依赖。文章还探讨了如何通过 Docker Slim 工具自动分析并精简镜像，以及将静态编译语言（如 Go）的二进制文件直接复制到 scratch 镜像中。实测可将镜像体积减少 80% 以上。",
+    "topic": "other"
   },
   {
     "id": "45944b7e6e82f2cc12d283a3b2ab5d7f",
@@ -987,216 +2196,7 @@
     "published_at": "2024-10-31T00:00:00.000Z",
     "fetched_at": "2026-05-22T23:50:35.009Z",
     "title_zh": "系统加固详解 | 开源网络安全",
-    "summary_zh": "视频教程以开源工具为核心，演示 Linux 系统加固的完整流程：使用 Lynis 进行安全审计、OpenSCAP 应用 CIS 基线、Fail2ban 防御暴力破解、rkhunter 检测 rootkit，以及 ClamAV 扫描恶意软件。强调自动化加固脚本（Ansible/Puppet）在规模化环境中的实践。"
-  },
-  {
-    "id": "0f3b777de1bfae4726b00250d00d0e08",
-    "title_en": "How to optimize your Dockerfile for faster Docker builds | Blacksmith",
-    "source": "blacksmith.sh",
-    "url": "https://www.blacksmith.sh/blog/how-to-optimize-dockerfile-faster-docker-builds",
-    "published_at": "2024-08-26T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "如何优化 Dockerfile 以加速 Docker 构建（Blacksmith 技术博客）",
-    "summary_zh": "本文从 Docker 构建缓存机制出发，介绍了优化 Dockerfile 以提升构建速度的实用技巧，包括合理安排指令顺序（将变化少的层前置）、使用 BuildKit 特性（如 --mount=type=cache 缓存依赖）、以及利用多阶段构建分离编译与运行环境。文章还讨论了如何通过远程缓存（如 Docker Registry 或 S3）加速 CI/CD 流水线中的镜像构建，并提供了 Blacksmith 平台的实测数据，展示构建时间缩短 50% 以上的效果。"
-  },
-  {
-    "id": "1a91dfafacc6dc19ca8e6a9720b6fba9",
-    "title_en": "Kernel - when to upgrade and how to identify relevant \"what's new\"?",
-    "source": "discussion.fedoraproject.org",
-    "url": "https://discussion.fedoraproject.org/t/kernel-when-to-upgrade-and-how-to-identify-relevant-whats-new/129463",
-    "published_at": "2024-08-25T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "内核升级时机与变更日志解读指南",
-    "summary_zh": "本文从Fedora用户视角出发，系统性地回答了何时升级内核以及如何有效阅读内核变更日志的问题。作者建议根据安全漏洞严重性、硬件兼容性需求以及长期支持（LTS）版本策略决定升级时机。文章还介绍了如何利用git log、changelog和发行版公告快速定位关键变更，避免盲目升级带来的稳定性风险。"
-  },
-  {
-    "id": "8e0963010484cd8fc70a2457e18f5257",
-    "title_en": "The Ultimate Guide to Fine-Tuning LLMs from Basics ...",
-    "source": "arxiv.org",
-    "url": "https://arxiv.org/html/2408.13296v1",
-    "published_at": "2024-08-23T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "LLM微调终极指南：从基础到进阶",
-    "summary_zh": "这是一篇来自arXiv的综述性文章，全面覆盖了LLM微调的基础概念、主流方法（如全参数微调、LoRA、Adapter）及前沿技术。内容严谨，包含大量实验对比和理论分析，适合研究人员和高级工程师系统学习微调原理，并了解不同场景下的技术选型依据。"
-  },
-  {
-    "id": "973428707bd4ee2cc99f639eb03fab6f",
-    "title_en": "System Monitoring and Performance Tuning in Linux - Medium",
-    "source": "medium.com",
-    "url": "https://medium.com/@iAadiDev/system-monitoring-and-performance-tuning-in-linux-d5ea8bdc0e65",
-    "published_at": "2024-06-06T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "Linux 系统监控与性能调优实战 | Medium",
-    "summary_zh": "本文深入探讨 Linux 系统监控与性能调优的核心方法，涵盖 CPU、内存、磁盘 I/O 及网络瓶颈的识别与优化。介绍 top、vmstat、iostat、sar 等经典工具的使用技巧，并结合实际案例讲解如何通过调整内核参数（如 swappiness、I/O 调度器）提升系统响应速度。适合需要精细化运维的工程师。"
-  },
-  {
-    "id": "8f6b287265ceff35ce188c93b5b72756",
-    "title_en": "Linux Performance - Brendan Gregg's",
-    "source": "brendangregg.com",
-    "url": "https://www.brendangregg.com/linuxperf.html",
-    "published_at": "2024-03-17T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "Linux 性能分析权威指南 | Brendan Gregg",
-    "summary_zh": "本文由性能工程专家 Brendan Gregg 撰写，系统介绍 Linux 性能分析与调优的方法论与工具链。涵盖 USE 方法（利用率、饱和度、错误）、火焰图生成与解读、eBPF 动态追踪、perf 剖析及内核调度分析。内容深度极高，适合高级运维与 SRE 工程师，是性能调优领域的必读经典。"
-  },
-  {
-    "id": "3e71dfc9f9431165461c5c86f7cf03a6",
-    "title_en": "Are kernel updates mostly security fixes and hardware support?",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/linuxquestions/comments/1b93fad/are_kernel_updates_mostly_security_fixes_and/",
-    "published_at": "2024-03-07T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.639Z",
-    "title_zh": "内核更新主要是安全修复和硬件支持吗？",
-    "summary_zh": "本文来自Reddit技术社区的热门讨论，探讨了Linux内核更新的实际构成。分析指出，虽然安全修复和硬件支持是内核更新的重要组成部分，但性能优化、新特性引入及代码重构同样占据大量提交。文章通过统计近期内核版本的commit记录，量化了各类更新的比例，并讨论了长期稳定版（LTS）与主线内核在安全修复策略上的差异，对内核运维决策具有参考价值。"
-  },
-  {
-    "id": "fabcd766dac8454d046b0a7ef112ed9f",
-    "title_en": "Linux kernel security tunables everyone should consider adopting",
-    "source": "blog.cloudflare.com",
-    "url": "https://blog.cloudflare.com/linux-kernel-hardening/",
-    "published_at": "2024-03-06T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "每个团队都应考虑的Linux内核安全调优参数",
-    "summary_zh": "Cloudflare分享了其生产环境中使用的关键Linux内核安全调优参数，涵盖内存管理、网络栈、进程隔离等核心领域。文章详细解释了每个参数的作用、推荐值及其对系统性能和安全性的影响。对于希望在不牺牲性能的前提下提升系统安全性的运维团队，本文提供了可直接落地的配置建议和最佳实践。"
-  },
-  {
-    "id": "297e761241a13d72be75c9738c6bee43",
-    "title_en": "What is your favorite Linux tweak to improve performance - Reddit",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/linux/comments/17xeul1/what_is_your_favorite_linux_tweak_to_improve/",
-    "published_at": "2023-11-17T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "你最喜欢的 Linux 性能优化技巧是什么？—— Reddit 社区热议",
-    "summary_zh": "本文整理 Reddit 社区中 Linux 用户分享的高赞性能优化技巧，涵盖内核参数调优（sysctl）、I/O 调度器选择、内存管理优化（如禁用透明大页）、CPU 频率调节及磁盘缓存策略。还包括实用工具推荐（htop、iotop、perf）及常见误区的纠正。内容来自一线实践，极具参考价值。"
-  },
-  {
-    "id": "263a96ba1dd4e5a413319156dd14b56d",
-    "title_en": "Learning Linux system administration : r/sysadmin - Reddit",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/sysadmin/comments/15wfawm/learning_linux_system_administration/",
-    "published_at": "2023-08-20T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.418Z",
-    "title_zh": "学习Linux系统管理（r/sysadmin社区讨论）",
-    "summary_zh": "Reddit社区r/sysadmin的经典讨论帖，汇集了资深运维人员分享的学习路径、推荐资源、实战经验和职业建议。内容涵盖从入门到进阶的书籍、课程、认证以及常见问题的解决方案，适合希望系统学习Linux系统管理并了解行业实践的初学者。"
-  },
-  {
-    "id": "2a20ee01d95c27599ca07b487090df38",
-    "title_en": "Kubernetes Governance & the Top 5 Best Practices of K8s ...",
-    "source": "fairwinds.com",
-    "url": "https://www.fairwinds.com/blog/kubernetes-governance-the-top-5-best-practices-of-k8s-deployment",
-    "published_at": "2023-08-08T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "Kubernetes 治理与五大最佳实践（Fairwinds 深度解析）",
-    "summary_zh": "本文从治理角度出发，探讨了 Kubernetes 集群的五大核心最佳实践：资源配额管理、成本优化（通过 Right-Sizing 和 Spot 实例）、合规性审计（使用 Polaris 或 kube-bench）、多租户隔离（命名空间与 RBAC 结合）以及自动化运维（GitOps 流程）。文章强调通过策略即代码（Policy as Code）实现集群标准化管理，并提供了 Fairwinds Insights 平台的实操案例，适合大规模集群治理场景。"
-  },
-  {
-    "id": "4e56da71448da463a47ac6dbd92df8f4",
-    "title_en": "10 System Administration Tasks to Automate - ServerWatch",
-    "source": "serverwatch.com",
-    "url": "https://www.serverwatch.com/guides/system-administrator-tasks-to-automate",
-    "published_at": "2023-08-02T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "10个必须自动化的系统管理任务——ServerWatch",
-    "summary_zh": "ServerWatch列出了系统管理中10个最值得自动化的任务，包括用户账户管理、日志轮转、备份恢复、补丁部署、配置同步、监控告警、DNS更新、证书续期、容器编排和资源扩缩容。每个任务都附带了推荐的工具链（如Ansible、Cron、Shell脚本）和实现思路，帮助运维团队快速提升效率并减少人为失误。"
-  },
-  {
-    "id": "ebfbf2265d8c27114614edbeb009e019",
-    "title_en": "Optimizing Docker Images: Best Practices. - Medium",
-    "source": "medium.com",
-    "url": "https://medium.com/@AlexanderObregon/how-to-optimize-docker-images-for-faster-deployment-and-better-performance-97b5ad06760d",
-    "published_at": "2023-05-03T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "优化 Docker 镜像的最佳实践（Medium 深度指南）",
-    "summary_zh": "本文系统介绍了 Docker 镜像优化的核心策略，包括多阶段构建、基础镜像选择（如 distroless 或 Alpine）、层缓存利用、以及依赖包精简。文章深入分析了镜像层结构对构建速度的影响，并提供了具体 Dockerfile 示例，展示如何通过 COPY --from 和 RUN --mount=type=cache 提升效率。此外，还介绍了使用 dive 工具分析镜像层内容，帮助开发者精准定位冗余文件。"
-  },
-  {
-    "id": "517c2c2c97f14852fa7e49070cc87318",
-    "title_en": "Sysadmin Professionals: What automation projects have you done ...",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/sysadmin/comments/vbfd81/sysadmin_professionals_what_automation_projects/",
-    "published_at": "2022-06-13T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "系统管理员分享：你完成过哪些自动化项目？——Reddit讨论",
-    "summary_zh": "Reddit上系统管理员们分享了各自完成的自动化项目，涵盖服务器初始化、网络配置、数据库备份、日志分析、安全扫描、证书管理、容器部署和云资源编排等。讨论中提到了多种工具（如Ansible、Python脚本、PowerShell）和实际遇到的坑。本文汇总了高赞回答，为同行提供了丰富的实战灵感和避坑指南。"
-  },
-  {
-    "id": "bf47b3106e98bc2ad5e77b4f44a1b07a",
-    "title_en": "5 Reasons to Prioritize Automation in Administration - PCMI",
-    "source": "pcmicorp.com",
-    "url": "https://www.pcmicorp.com/2022/05/5-reasons-to-prioritize-automation-in-administration/",
-    "published_at": "2022-05-26T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "优先推进管理自动化的5大理由——PCMI",
-    "summary_zh": "PCMI从业务价值角度阐述了优先推进管理自动化的五大理由：降低运营成本、减少人为错误、提升响应速度、增强合规性以及释放团队创新潜力。文章通过实际案例展示了自动化如何将系统管理员从繁琐的日常维护中解放出来，并提供了从简单任务开始逐步扩展自动化的实施路线图。"
-  },
-  {
-    "id": "1021de9f5c04fd5f3decbb966996701f",
-    "title_en": "L4T Security Patches / Kernel Updates - Jetson Nano",
-    "source": "forums.developer.nvidia.com",
-    "url": "https://forums.developer.nvidia.com/t/l4t-security-patches-kernel-updates/179519",
-    "published_at": "2021-06-01T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "Jetson Nano的L4T安全补丁与内核更新指南",
-    "summary_zh": "针对NVIDIA Jetson Nano平台，本文详细介绍了L4T（Linux for Tegra）安全补丁的获取方式、内核更新流程以及版本兼容性注意事项。内容涵盖如何通过官方源或手动编译方式应用安全修复，以及更新后可能遇到的驱动兼容性问题。对于嵌入式Linux开发者，本文提供了从补丁识别到部署的完整操作指南。"
-  },
-  {
-    "id": "5716d6c8bb8947749b7664787e087994",
-    "title_en": "Are kernel updates security updates? - Linux Mint Forums",
-    "source": "forums.linuxmint.com",
-    "url": "https://forums.linuxmint.com/viewtopic.php?t=318689",
-    "published_at": "2020-05-03T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "内核更新是否等同于安全更新？——Linux Mint论坛讨论",
-    "summary_zh": "本文探讨了Linux内核更新与安全更新之间的区别与联系。作者指出，并非所有内核更新都包含安全修复，部分更新可能仅引入新功能或驱动支持。文章建议用户根据发行版的安全公告和CVE列表判断是否需要紧急升级，并提供了实用的内核版本管理策略，帮助系统管理员在稳定性和安全性之间做出权衡。"
-  },
-  {
-    "id": "4e80f3d19a4555db195fc9023c133372",
-    "title_en": "Kubernetes Best Practices - Medium",
-    "source": "medium.com",
-    "url": "https://medium.com/google-cloud/kubernetes-best-practices-8d5cd03446e2",
-    "published_at": "2018-04-18T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "Kubernetes 最佳实践（Medium 精选）",
-    "summary_zh": "本文从 Medium 平台精选了 Kubernetes 在生产环境中的关键最佳实践，包括声明式配置管理、不可变基础设施、健康检查优化、滚动更新策略以及日志聚合方案。文章深入探讨了如何通过 Helm Chart 管理应用版本、利用 Istio 实现服务网格流量控制，并推荐使用 Prometheus + Grafana 构建可观测性体系。内容兼具理论深度与实操案例，适合中高级运维与开发人员参考。"
-  },
-  {
-    "id": "bd6139cb2fe247da989b1f84c96facac",
-    "title_en": "Sysadmin 101: Automation | Linux Journal",
-    "source": "linuxjournal.com",
-    "url": "https://www.linuxjournal.com/content/sysadmin-101-automation",
-    "published_at": "2017-08-01T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "系统管理员101：自动化入门——Linux Journal",
-    "summary_zh": "Linux Journal为系统管理员新手提供了自动化入门指南，从Shell脚本、Cron任务到Ansible和Puppet等配置管理工具逐步展开。文章解释了自动化的核心概念（如幂等性、声明式配置）和常见模式（如推送vs拉取）。对于希望从零开始构建自动化能力的读者，本文提供了清晰的学习路径和最小可行示例。"
-  },
-  {
-    "id": "9b056379cb97af6d861266dfe4688ec6",
-    "title_en": "Will automation kill system administration completely?",
-    "source": "community.spiceworks.com",
-    "url": "https://community.spiceworks.com/t/will-automation-kill-system-administration-completely/596763",
-    "published_at": "2017-07-31T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "自动化会彻底终结系统管理员岗位吗？",
-    "summary_zh": "本文探讨了IT自动化对系统管理员职业的影响，认为自动化并非取代而是重塑了系统管理员的角色。作者指出，自动化工具（如Ansible、Terraform）接管了重复性任务，但管理员需要转向架构设计、策略制定和异常处理等更高价值的工作。文章提供了转型建议，强调掌握脚本编写、基础设施即代码（IaC）和监控告警系统的重要性。"
-  },
-  {
-    "id": "17658b5a36c8ef1cd7090ef95065773a",
-    "title_en": "Code Review Training for Kernel Patch Reviewers - YouTube",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=HmZnhe1zvzU",
-    "published_at": "2017-02-28T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:47.640Z",
-    "title_zh": "面向内核补丁审查者的代码审查培训——YouTube",
-    "summary_zh": "这是一段面向Linux内核补丁审查者的专业培训视频，内容涵盖代码审查的最佳实践、常见安全漏洞模式及审查流程优化。视频重点讲解了如何识别内核代码中的竞态条件、内存泄漏及权限检查缺陷，并演示了使用静态分析工具辅助审查的方法。对于希望提升内核贡献质量或参与安全审查的开发者，该培训提供了系统化的方法论与实战技巧。"
-  },
-  {
-    "id": "814b1986a93e648650d26b38a1befcb3",
-    "title_en": "What a Linux administrator must know by head? - Server Fault",
-    "source": "serverfault.com",
-    "url": "https://serverfault.com/questions/167991/what-a-linux-administrator-must-know-by-head",
-    "published_at": "2010-08-06T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.418Z",
-    "title_zh": "Linux 管理员必须熟记的核心知识有哪些？—— Server Fault 社区讨论",
-    "summary_zh": "本文汇总了资深 Linux 管理员在 Server Fault 上分享的必须熟记的核心知识点，包括常用命令（grep、awk、sed）、文件系统结构、进程管理、权限模型、网络诊断工具（tcpdump、netstat）以及系统日志分析。强调理解而非死记硬背，并推荐通过日常排障和自动化脚本巩固记忆，是提升运维效率的实用参考。"
+    "summary_zh": "视频教程以开源工具为核心，演示 Linux 系统加固的完整流程：使用 Lynis 进行安全审计、OpenSCAP 应用 CIS 基线、Fail2ban 防御暴力破解、rkhunter 检测 rootkit，以及 ClamAV 扫描恶意软件。强调自动化加固脚本（Ansible/Puppet）在规模化环境中的实践。",
+    "topic": "other"
   }
 ]
