@@ -1,5 +1,104 @@
 [
   {
+    "id": "43ec61c7743b1962485b5be8a251b142",
+    "title_en": "Dirty Frag漏洞深度分析：Linux内核页缓存污染漏洞的技术原理与安全防护 - 技术栈",
+    "source": "jishuzhan.net",
+    "url": "https://jishuzhan.net/article/2057311224295690242",
+    "published_at": "2026-05-23T13:04:28.789Z",
+    "fetched_at": "2026-05-23T13:04:28.789Z",
+    "title_zh": "Dirty Frag漏洞深度分析：Linux内核页缓存污染漏洞的技术原理与安全防护",
+    "summary_zh": "本文对Dirty Frag漏洞进行了深度技术分析，该漏洞是Linux内核中一个严重的页缓存污染漏洞，可导致本地权限提升或系统崩溃。文章详细剖析了漏洞的触发机制，包括页缓存与文件系统交互中的竞态条件，以及如何通过精心构造的读写操作污染内核页缓存。同时给出了防护措施，如应用内核补丁、启用KASLR、配置seccomp等。对内核开发者和系统安全运维人员具有重要参考意义。",
+    "topic": "security"
+  },
+  {
+    "id": "28b0f8b52aac7077987eeadf20162031",
+    "title_en": "系统运维管理OOS - 统一自动化运维编排管理- 阿里云",
+    "source": "aliyun.com",
+    "url": "https://www.aliyun.com/product/oos",
+    "published_at": "2026-05-23T13:04:28.789Z",
+    "fetched_at": "2026-05-23T13:04:28.789Z",
+    "title_zh": "系统运维管理OOS - 统一自动化运维编排管理- 阿里云",
+    "summary_zh": "本文介绍了阿里云系统运维管理服务（OOS），一种统一的自动化运维编排管理平台。OOS支持通过可视化编排和脚本方式定义运维任务，如批量执行命令、配置管理、补丁安装、资源巡检等。文章详细说明了OOS的核心功能，包括运维模板、执行管理、审批流程和集成能力，并给出了典型应用场景，如自动修复ECS实例异常、定期安全扫描等。适合云上运维人员提升自动化水平。",
+    "topic": "ops"
+  },
+  {
+    "id": "33cffb839f8a375e4588ba714f0b51f3",
+    "title_en": "第 2 章 准备一个控制节点和受管节点，以使用 RHEL 系统角色 | 使用 RHEL 系统角色自动化系统管理 | Red Hat Enterprise Linux | 9 | Red Hat Documentation",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/9/html/automating_system_administration_by_using_rhel_system_roles/assembly_preparing-a-control-node-and-managed-nodes-to-use-rhel-system-roles_automating-system-administration-by-using-rhel-system-roles",
+    "published_at": "2026-05-23T13:04:28.789Z",
+    "fetched_at": "2026-05-23T13:04:28.789Z",
+    "title_zh": "第 2 章 准备一个控制节点和受管节点，以使用 RHEL 系统角色 | 使用 RHEL 系统角色自动化系统管理 | Red Hat Enterprise Linux 9",
+    "summary_zh": "本文是Red Hat官方文档的一部分，详细介绍了如何准备控制节点和受管节点以使用RHEL系统角色进行自动化系统管理。内容涵盖系统角色的安装、配置、以及如何通过Ansible Playbook调用系统角色来管理网络、存储、安全等配置。文章提供了具体的步骤和命令示例，包括设置SSH免密登录、安装ansible-core和rhel-system-roles包等。适合RHEL管理员和自动化运维工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "a7f022f85e2d02c25c4a90928bf4c9db",
+    "title_en": "一文带你看清运维技术体系 - GitHub Gist",
+    "source": "gist.github.com",
+    "url": "https://gist.github.com/4b4b7066a6e9915c05411b60d53f2ff3",
+    "published_at": "2026-05-23T13:04:28.789Z",
+    "fetched_at": "2026-05-23T13:04:28.789Z",
+    "title_zh": "一文带你看清运维技术体系 - GitHub Gist",
+    "summary_zh": "本文以思维导图的形式梳理了现代运维技术体系的完整架构，涵盖基础设施、监控告警、日志管理、配置管理、容器编排、CI/CD、安全合规等多个维度。文章对每个技术领域的关键工具和概念进行了简要说明，如Prometheus、Kubernetes、Terraform、GitLab CI等，并指出了各组件之间的关联关系。适合运维新手快速建立知识体系，也适合资深工程师查漏补缺。",
+    "topic": "ops"
+  },
+  {
+    "id": "902dab7abf1102e86f69ec679802e832",
+    "title_en": "【运维安全】CVE-2026-27654深度解析：NGINX WebDAV高危漏洞原理与修复方案-CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/qq_35366330/article/details/160934931",
+    "published_at": "2026-05-23T13:04:26.202Z",
+    "fetched_at": "2026-05-23T13:04:26.202Z",
+    "title_zh": "【运维安全】CVE-2026-27654深度解析：NGINX WebDAV高危漏洞原理与修复方案",
+    "summary_zh": "本文深度分析了CVE-2026-27654漏洞，该漏洞存在于NGINX的WebDAV模块中，可导致远程代码执行或数据泄露。文章从漏洞原理出发，详细解释了WebDAV协议在处理PUT、DELETE等方法时的缺陷，以及攻击者如何利用该漏洞绕过权限检查。同时提供了具体的修复方案，包括升级NGINX版本、禁用WebDAV模块、配置访问控制列表等。对运维和安全人员具有重要参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "d4cd7182b361be8f4f00ddaf2f69b382",
+    "title_en": "Docker 安全性与性能优化实战指南-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2480979",
+    "published_at": "2026-05-23T13:04:26.201Z",
+    "fetched_at": "2026-05-23T13:04:26.201Z",
+    "title_zh": "Docker 安全性与性能优化实战指南",
+    "summary_zh": "本文兼顾Docker的安全性与性能优化，安全方面涵盖镜像签名、非root用户运行、Seccomp/AppArmor配置、网络隔离以及密钥管理；性能方面包括资源限制、存储驱动选择、日志驱动优化和内核参数调优。通过实战案例展示如何在保障安全的同时提升容器运行效率，适合生产环境容器化部署的参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "255b1332fa260fd54c821543e59005d1",
+    "title_en": "“拼好模”：字节跳动开源轻量原生统一多模态 AI 模型 Lance - 钛刻科技 | TCTI.cn",
+    "source": "tcti.cn",
+    "url": "https://www.tcti.cn/post/1327244",
+    "published_at": "2026-05-23T13:04:21.790Z",
+    "fetched_at": "2026-05-23T13:04:21.790Z",
+    "title_zh": "“拼好模”：字节跳动开源轻量原生统一多模态AI模型Lance",
+    "summary_zh": "字节跳动开源了名为Lance的轻量级原生统一多模态AI模型，旨在通过“拼好模”的方式实现高效的多模态理解与生成。本文详细介绍了Lance的架构设计，包括其统一的视觉-语言表示学习、轻量化部署策略以及在图像描述、视觉问答等任务上的性能表现。对于关注多模态模型落地、边缘端推理或开源AI框架的开发者，本文提供了技术细节与基准测试数据，具有较高的实践参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "661d0493a16d106c5a1968993fafcff4",
+    "title_en": "极客时间训练营-企业级Agents 开发实战营",
+    "source": "u.geekbang.org",
+    "url": "https://u.geekbang.org/subject/agents",
+    "published_at": "2026-05-23T13:04:21.790Z",
+    "fetched_at": "2026-05-23T13:04:21.790Z",
+    "title_zh": "极客时间训练营-企业级Agents开发实战营",
+    "summary_zh": "本文是极客时间推出的企业级Agents开发实战营课程介绍，面向希望系统掌握AI Agent开发技能的工程师。课程内容涵盖Agent核心原理、LangChain与AutoGPT等主流框架实战、多Agent协作设计、以及企业级部署与运维。通过项目驱动的学习方式，帮助学员从零构建一个完整的智能体应用。适合有一定编程基础、希望快速进入Agent开发领域的从业者。",
+    "topic": "ai"
+  },
+  {
+    "id": "366fce391d4f8cb854969465cce6b976",
+    "title_en": "大模型应用开发实战：AI Agent与智能体开发技术解析 - 聚客AI学院",
+    "source": "edu.guangjuke.com",
+    "url": "https://edu.guangjuke.com/haowen/234.html",
+    "published_at": "2026-05-23T13:04:21.790Z",
+    "fetched_at": "2026-05-23T13:04:21.790Z",
+    "title_zh": "大模型应用开发实战：AI Agent与智能体开发技术解析",
+    "summary_zh": "本文聚焦于大模型应用开发中的AI Agent与智能体技术，从实战角度解析了Agent的构建流程与关键技术。内容包括如何设计Agent的思考-行动循环、如何集成外部工具与API、以及如何通过记忆模块提升对话连贯性。文章提供了多个代码示例与架构图，帮助读者理解从理论到落地的完整路径。适合有一定大模型基础、希望动手实践Agent开发的开发者。",
+    "topic": "ai"
+  },
+  {
     "id": "1772ed9f4964f08bb52bcc3ab8fa711f",
     "title_en": "【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析 | CN-SEC 中文网",
     "source": "cn-sec.com",
@@ -2098,105 +2197,6 @@
     "fetched_at": "2026-05-23T00:30:45.957Z",
     "title_zh": "大模型的2026年展望",
     "summary_zh": "本文对2026年大模型技术发展进行了系统性展望，从模型规模增长趋缓、推理效率优先、多模态与具身智能融合、Agent生态成熟以及安全对齐等关键趋势展开。文章指出，2026年将是大模型从“能力竞赛”转向“工程落地”的关键一年，强调长上下文、实时交互与低成本部署将成为核心竞争力，并为AI从业者提供了技术选型与研发方向建议。",
-    "topic": "ai"
-  },
-  {
-    "id": "3585b5a3c3bff58b54ba091d9d9624f7",
-    "title_en": "大语言模型微调指引 - 阿里云文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/pai/user-guide/llm-fine-tuning-experience",
-    "published_at": "2025-12-03T00:00:00.000Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "大语言模型微调指引",
-    "summary_zh": "本文是阿里云官方提供的大语言模型微调技术文档，系统介绍了微调的基本流程、关键参数配置及最佳实践。内容涵盖数据准备（格式、清洗、增强）、模型选择、训练策略（如LoRA、全量微调）、评估与部署等环节。文档还提供了在阿里云PAI平台上的具体操作步骤与常见问题排查指南，适合使用阿里云服务进行模型微调的开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "15a3c4b73c8685b42ca354354d9bd8a0",
-    "title_en": "Easy Steps to Your First Autonomous Agent! - YouTube",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=X4SfQx7ykBE",
-    "published_at": "2025-11-27T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "轻松上手你的第一个自主智能体！——YouTube 实战教程",
-    "summary_zh": "本视频教程以极简方式引导开发者创建第一个自主 AI 智能体，使用 Python 和主流框架（如 LangChain、AutoGen）实现。内容涵盖环境搭建、智能体核心逻辑编写、工具调用及本地测试，通过可视化调试工具展示智能体决策过程，适合希望快速获得动手经验的初学者。",
-    "topic": "other"
-  },
-  {
-    "id": "18d5f5cc6f47a1e0b6b9d19dfc33d433",
-    "title_en": "Docker 性能调优 - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1977051410257433402",
-    "published_at": "2025-11-26T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "Docker 性能调优 - 知乎专栏",
-    "summary_zh": "本文从Docker底层原理出发，深入探讨了容器性能调优的关键技术点。内容涵盖：cgroups资源隔离机制（CPU、内存、IO权重设置）、命名空间对性能的影响、存储驱动（overlay2 vs aufs）的I/O性能对比、网络模式（bridge/host/macvlan）的吞吐量差异，以及Docker守护进程参数优化（如--max-concurrent-downloads、--storage-opt）。文章还结合Linux内核特性（如cgroup v2、io_uring）介绍了最新优化方向。通过理论分析与实验数据，帮助读者理解性能瓶颈根源并制定针对性调优策略，适合有Linux内核基础的运维和开发人员。",
-    "topic": "ops"
-  },
-  {
-    "id": "cb933ff74eb3a2b7628834e5b9b85955",
-    "title_en": "Microsoft Agent Framework Tutorial 2025 | Complete Course",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=EAeUiipzCTE",
-    "published_at": "2025-11-20T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "Microsoft Agent Framework 2025 教程 | 完整课程",
-    "summary_zh": "本视频课程系统讲解 Microsoft Agent Framework 2025 版本的核心概念与实战技巧，从智能体定义、通信协议到高级编排模式。内容涵盖环境配置、调试工具使用及常见陷阱规避，通过完整项目案例演示如何构建可靠的多智能体应用，适合初学者快速上手并深入理解框架设计哲学。",
-    "topic": "other"
-  },
-  {
-    "id": "523393d82e9a9803a407bd17bbc6f894",
-    "title_en": "2025–2026 年大模型最可能爆发的10 大技术方向 - AI编程社区- CSDN",
-    "source": "aicoding.csdn.net",
-    "url": "https://aicoding.csdn.net/691bd5d282fbe0098cac8838.html",
-    "published_at": "2025-11-18T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.957Z",
-    "title_zh": "2025–2026年大模型最可能爆发的10大技术方向",
-    "summary_zh": "本文预测了2025-2026年间大模型领域最可能爆发的十大技术方向，涵盖多模态融合、长上下文窗口、推理能力增强、Agent自主决策、端侧模型部署、合成数据与自监督学习、模型压缩与蒸馏、可解释性与安全性、开源生态竞争以及行业垂直大模型。文章基于当前技术趋势与产业需求，为开发者提供了前瞻性的技术布局参考，尤其关注了推理效率与成本优化的关键突破点。",
-    "topic": "ai"
-  },
-  {
-    "id": "fc66df6a4c2e24c9241b1f055cbeb84b",
-    "title_en": "Introduction to Docker Image Optimization — practical steps and ...",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/devops/comments/1owq0t5/introduction_to_docker_image_optimization/",
-    "published_at": "2025-11-14T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "Docker 镜像优化入门：实用步骤与技巧（Reddit 讨论）",
-    "summary_zh": "本文基于 Reddit 社区讨论，总结了 Docker 镜像优化的实用步骤，包括使用多阶段构建减少层数、选择 Alpine 等轻量基础镜像、清理构建缓存、以及合并 RUN 指令以降低镜像体积。文章还讨论了如何利用 .dockerignore 排除无关文件，以及通过 Docker Squash 进一步压缩层。这些技巧可显著缩短镜像构建与传输时间，适合容器化应用开发初期参考。",
-    "topic": "other"
-  },
-  {
-    "id": "266de8134f82128e7ec49e2900dc0cbe",
-    "title_en": "AI Agent入门教程：大模型智能体开发指南(含代码) - ModelEngine社区",
-    "source": "modelengine.csdn.net",
-    "url": "https://modelengine.csdn.net/690b1f695511483559e279bd.html",
-    "published_at": "2025-11-04T00:00:00.000Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "AI Agent入门教程：大模型智能体开发指南(含代码)",
-    "summary_zh": "本文是一份面向初学者的AI Agent开发实战指南，以代码驱动的方式讲解如何基于大模型构建智能体。内容涵盖Agent核心概念、工具调用（Function Calling）、记忆机制、规划与执行循环等关键技术。文章提供了完整的项目示例，帮助读者快速理解Agent的工作流程并上手实践，适合希望从零开始掌握智能体开发的AI工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "d27025bf5289f4f770005251f3c67b14",
-    "title_en": "国产操作系统安全基线手册正式发布 - CICS-CERT国家工信安全中心",
-    "source": "cics-cert.org.cn",
-    "url": "https://www.cics-cert.org.cn/web_root/webpage/articlecontent_101001_1985268694053294081.html",
-    "published_at": "2025-11-03T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "国产操作系统安全基线手册正式发布 - CICS-CERT国家工信安全中心",
-    "summary_zh": "本文报道了国家工信安全中心（CICS-CERT）正式发布的国产操作系统安全基线手册。该手册覆盖了麒麟、统信等主流国产OS，从账户管理、认证授权、日志审计、网络服务、文件系统、内核参数及补丁管理等方面制定了详细的安全配置基线。手册还提供了自动化检测与修复脚本，帮助企业快速满足等保2.0及关键信息基础设施安全保护要求。文章强调了基线手册在提升国产系统整体安全水位中的重要作用，适合政企单位安全负责人参考。",
-    "topic": "security"
-  },
-  {
-    "id": "cc304bee0179676af72615e1f8d13485",
-    "title_en": "AI Agent开发全攻略（超详细）从零基础到精通，一篇搞定，不看后悔",
-    "source": "modelengine.csdn.net",
-    "url": "https://modelengine.csdn.net/690c50655511483559e2ad44.html",
-    "published_at": "2025-10-25T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "AI Agent开发全攻略（超详细）从零基础到精通，一篇搞定，不看后悔",
-    "summary_zh": "本文是一份超详细的AI Agent开发全攻略，从基础概念到高级实战，覆盖了Agent架构设计、LLM调用封装、工具集成、状态管理与错误恢复等关键技术点。文章提供了多个可复用的代码示例与架构模式，并对比了LangChain、AutoGPT、CrewAI等主流框架的优劣。适合希望系统掌握Agent开发并快速落地项目的AI工程师。",
     "topic": "ai"
   }
 ]

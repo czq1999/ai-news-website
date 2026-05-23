@@ -1,5 +1,115 @@
 [
   {
+    "id": "7658c2d01755101142e3cd0d9794cd4e",
+    "title_en": "Hanging out in my favorite virtual coffee shop in Tokyo",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
+    "published_at": "2026-05-23T13:00:00.000Z",
+    "fetched_at": "2026-05-23T13:03:07.917Z",
+    "title_zh": "在东京最爱的虚拟咖啡店消磨时光",
+    "summary_zh": "本文作者分享了在东京一家虚拟咖啡店中的沉浸式体验，探讨了VR社交空间如何模拟真实咖啡馆的温馨氛围，以及这种数字场所对远程工作者和社交焦虑者的独特吸引力。文章还对比了不同虚拟平台的交互设计，分析了虚拟空间在情感连接和日常放松中的潜力。",
+    "category": "product"
+  },
+  {
+    "id": "fb2ebcebda5cfd7f72ed85fce11c0cd3",
+    "title_en": "I have a new go-to browser",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+    "published_at": "2026-05-23T12:00:00.000Z",
+    "fetched_at": "2026-05-23T13:03:07.918Z",
+    "title_zh": "我找到了新的首选浏览器",
+    "summary_zh": "作者分享了自己更换浏览器的经历，详细对比了新浏览器在速度、隐私保护、扩展生态和界面设计上的优势。文章还讨论了当前浏览器市场的竞争格局，以及用户选择浏览器时需要考虑的关键因素，如资源占用和同步功能。",
+    "category": "product"
+  },
+  {
+    "id": "3cedfee295562059c7a95fc8a35a89c5",
+    "title_en": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/llbean-zip-hunters-tote-bag/",
+    "published_at": "2026-05-23T11:01:00.000Z",
+    "fetched_at": "2026-05-23T13:03:08.207Z",
+    "title_zh": "L.L.Bean Zip Hunter's Tote：一款全能型手提包",
+    "summary_zh": "L.L.Bean推出的Zip Hunter's Tote手提包凭借大容量、耐用材质和多功能设计，被评测为年度最佳随身包。其拉链封口设计提升了安全性，适合日常通勤、旅行和户外活动。该产品在实用性与时尚感之间取得了良好平衡。",
+    "category": "product"
+  },
+  {
+    "id": "b01ec93d479b0e4be8a0bb71f5ab2e23",
+    "title_en": "Google’s new anything-to-anything AI model is wild",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "published_at": "2026-05-23T11:00:00.000Z",
+    "fetched_at": "2026-05-23T13:03:07.918Z",
+    "title_zh": "谷歌全新“万物互转”AI模型令人惊叹",
+    "summary_zh": "谷歌发布了一款突破性的AI模型，能够实现文本、图像、音频、视频等多种模态之间的任意转换。该模型在跨模态理解和生成上展现出惊人能力，有望彻底改变内容创作、数据分析和人机交互方式。文章分析了其技术原理和潜在应用场景。",
+    "category": "llm"
+  },
+  {
+    "id": "a2a71085d2368326fb2734c9c445e7d4",
+    "title_en": "Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/",
+    "published_at": "2026-05-23T11:00:00.000Z",
+    "fetched_at": "2026-05-23T13:03:08.207Z",
+    "title_zh": "量子“干扰”现象或能揭示因果关系的奥秘",
+    "summary_zh": "物理学家提出一种名为“量子干扰”的新概念，通过操控量子纠缠态来研究因果关系。该理论有望在量子计算和量子通信领域带来突破，帮助科学家理解时间与因果的基本性质。相关实验正在筹备中，可能引发物理学重大进展。",
+    "category": "research"
+  },
+  {
+    "id": "96ff09de97f99a4a767b9304a7eb8b0b",
+    "title_en": "The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers (2026)",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems/",
+    "published_at": "2026-05-23T10:38:00.000Z",
+    "fetched_at": "2026-05-23T13:03:08.207Z",
+    "title_zh": "2026年最佳智能灌溉系统推荐：地埋式喷头与水管定时器",
+    "summary_zh": "评测机构发布2026年最佳智能灌溉系统榜单，涵盖地埋式喷头和软管定时器两大类。推荐产品具备手机远程控制、天气感应和节水优化功能，可显著提升园艺效率。文章还提供了选购指南，帮助用户根据庭院面积和预算做出选择。",
+    "category": "product"
+  },
+  {
+    "id": "91da70aac7a8bc082b37249f61fcc476",
+    "title_en": "The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+    "published_at": "2026-05-23T10:30:00.000Z",
+    "fetched_at": "2026-05-23T13:03:08.207Z",
+    "title_zh": "FBI寻求“近乎实时”访问全美车牌识别数据",
+    "summary_zh": "美国联邦调查局（FBI）提出新计划，要求获得对全美车牌识别系统数据的“近乎实时”访问权限。此举引发隐私权争议，批评者认为可能侵犯公民自由。支持者则强调该技术有助于快速追踪嫌疑车辆，提升公共安全。",
+    "category": "industry"
+  },
+  {
+    "id": "287b14126e2c95a936f7c09f4d9a4e3d",
+    "title_en": "Cosmic Voids May Contain the Universe’s Best Secrets",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
+    "published_at": "2026-05-23T10:00:00.000Z",
+    "fetched_at": "2026-05-23T13:03:08.207Z",
+    "title_zh": "宇宙空洞或隐藏着宇宙最深的秘密",
+    "summary_zh": "天文学家发现，宇宙中巨大的空洞区域可能并非空无一物，而是暗能量和暗物质的关键线索。研究认为，通过分析空洞的分布和演化，可以揭示宇宙膨胀的机制以及基本物理定律。这一发现为宇宙学研究开辟了新方向。",
+    "category": "research"
+  },
+  {
+    "id": "4f6afec2edcb4d1db040d3e64382d6ba",
+    "title_en": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/best-memorial-day-deals-2026-1/",
+    "published_at": "2026-05-23T09:56:00.000Z",
+    "fetched_at": "2026-05-23T13:03:08.207Z",
+    "title_zh": "2026年阵亡将士纪念日最佳优惠：Garmin、Birdfy、Branch等",
+    "summary_zh": "2026年阵亡将士纪念日促销季来临，多家品牌推出大幅折扣。推荐商品包括Garmin智能手表、Birdfy智能鸟屋和Branch办公家具等。文章汇总了最值得入手的科技与生活产品，并提供省钱攻略，帮助消费者抓住限时优惠。",
+    "category": "product"
+  },
+  {
+    "id": "920555e6d1fa78875c41ba95fd8c4568",
+    "title_en": "A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/",
+    "published_at": "2026-05-23T09:00:00.000Z",
+    "fetched_at": "2026-05-23T13:03:08.207Z",
+    "title_zh": "海底“金色球体”源自神秘未知生物",
+    "summary_zh": "深海科考队在太平洋海底发现一个神秘的“金色球体”，经初步分析确认来自一种未知生物。该物体结构独特，可能是一种新型海绵或珊瑚。科学家计划进一步取样研究，以揭示其生物学特性和生态意义，为深海生物多样性研究提供新线索。",
+    "category": "research"
+  },
+  {
     "id": "7d9648dc04d2a3a53787ae1a64a20730",
     "title_en": "All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer",
     "source": "Wired",
@@ -396,6 +506,72 @@
     "category": "industry"
   },
   {
+    "id": "a4bfdddbd7bd27830d04c82176221671",
+    "title_en": "Newmark Appoints Kyle Lutnick as Chief Strategy Officer",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/newmark-appoints-kyle-lutnick-as-chief-strategy-officer-302779740.html",
+    "published_at": "2026-05-22T13:03:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "Newmark任命Kyle Lutnick为首席战略官",
+    "summary_zh": "商业房地产服务公司Newmark宣布任命Kyle Lutnick为首席战略官，负责推动公司长期战略规划与业务增长。Lutnick拥有丰富的金融与科技行业经验，此次任命旨在强化Newmark在数字化转型中的竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "1e2c22b595d6e6f5d2579e57a27fea32",
+    "title_en": "New logo after 36 years: Serie A club changes crest",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/new-logo-after-36-years-serie-a-club-changes-crest-42906774",
+    "published_at": "2026-05-22T13:03:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "36年首次换标：意甲俱乐部更换队徽",
+    "summary_zh": "一家意甲俱乐部在成立36年后首次更换队徽，新标志采用更现代简约的设计风格，以吸引年轻球迷并提升品牌辨识度。此举标志着俱乐部在数字化时代对视觉形象的战略升级。",
+    "category": "industry"
+  },
+  {
+    "id": "ba7c5bf5144a2c272a7e0785ffaad0fd",
+    "title_en": "Newmark Appoints Kyle Lutnick as Chief Strategy Officer",
+    "source": "PR Newswire UK",
+    "url": "https://www.prnewswire.co.uk/news-releases/newmark-appoints-kyle-lutnick-as-chief-strategy-officer-302779740.html",
+    "published_at": "2026-05-22T13:03:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "Newmark任命Kyle Lutnick为首席战略官",
+    "summary_zh": "商业房地产服务公司Newmark宣布任命Kyle Lutnick为首席战略官，负责推动公司长期战略规划与业务增长。Lutnick拥有丰富的金融与科技行业经验，此次任命旨在强化Newmark在数字化转型中的竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "3cf76620067fe2bb0eb6040b85e6955e",
+    "title_en": "Newmark Appoints Kyle Lutnick as Chief Strategy Officer",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/newmark-appoints-kyle-lutnick-as-chief-strategy-officer-302779689.html",
+    "published_at": "2026-05-22T13:03:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "Newmark任命Kyle Lutnick为首席战略官",
+    "summary_zh": "商业房地产服务公司Newmark宣布任命Kyle Lutnick为首席战略官，负责推动公司长期战略规划与业务增长。Lutnick拥有丰富的金融与科技行业经验，此次任命旨在强化Newmark在数字化转型中的竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "24b7f52588d27f8db82e3807fd0fcdd1",
+    "title_en": "Major Announcement: US$4.0 Billion Valuation and a US$10.00 Per Share Reference Price, AGAE to Issue Shares to Acquire HyalRoute, a Scarce Southeast Asian Fiber-Optic Infrastructure Leader, Transforming into a Global AI Optical Network Platform Combining “Optical Compute + Optical Transmission”",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/globe-newswire/major-announcement-us4-0-billion-valuation-and-a-us10-00-per-share-reference-price-agae-to-issue-shares-to-acquire-hyalroute-a-scarce-southeast-asian-fiber-optic-infrastructure-leader-transformi",
+    "published_at": "2026-05-22T13:02:04Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "重大公告：AGAE以40亿美元估值、每股10美元参考价发行股份收购东南亚稀缺光纤基础设施领导者HyalRoute，转型为融合“光计算+光传输”的全球AI光网络平台",
+    "summary_zh": "AGAE宣布以40亿美元估值及每股10美元参考价发行股份，收购东南亚稀缺光纤基础设施领导者HyalRoute。此举将使AGAE转型为全球AI光网络平台，整合光计算与光传输技术，抢占东南亚数字基建与AI算力融合的战略高地。",
+    "category": "industry"
+  },
+  {
+    "id": "116f42689d4d9cbd845346848cac46a3",
+    "title_en": "The New Narco-Sea Routes: How IUU Fishing Networks Are Fueling Drug Trafficking Across the Indo-Pacific",
+    "source": "The Diplomat",
+    "url": "https://thediplomat.com/2026/05/the-new-narco-sea-routes-how-iuu-fishing-networks-are-fueling-drug-trafficking-across-the-indo-pacific/",
+    "published_at": "2026-05-22T13:02:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "新型毒品海上通道：IUU捕捞网络如何助长印太地区毒品贩运",
+    "summary_zh": "报告揭示非法、不报告和不管制（IUU）捕捞网络正被利用为新型毒品海上运输通道，在印太地区形成毒品贩运与渔业犯罪的交叉网络。该现象对区域安全与海洋治理构成严峻挑战。",
+    "category": "industry"
+  },
+  {
     "id": "3c7079f1d5a192a2760f9da95386f50d",
     "title_en": "The Boys limped through its last season, but made up for it with the finale",
     "source": "The Verge",
@@ -416,6 +592,50 @@
     "title_zh": "如果只能选一台兼顾工作与游戏的笔记本，我会选它",
     "summary_zh": "作者分享了一款在生产力与游戏性能之间取得完美平衡的笔记本电脑。该机型搭载高性能处理器与独立显卡，同时保持轻薄便携设计，适合需要频繁移动办公又热衷游戏的用户。文章从实际体验出发，对比了散热、续航、屏幕素质等关键指标，给出购买建议。",
     "category": "product"
+  },
+  {
+    "id": "03599634609610c933786ed3199647df",
+    "title_en": "Major Announcement: US$4.0 Billion Valuation and a US$10.00 Per Share Reference Price, AGAE to Issue Shares to Acquire HyalRoute, a Scarce Southeast Asian Fiber-Optic Infrastructure Leader, Transforming into a Global AI Optical Network Platform Combining “Optical Compute + Optical Transmission”",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/05/22/3300129/0/en/Major-Announcement-US-4-0-Billion-Valuation-and-a-US-10-00-Per-Share-Reference-Price-AGAE-to-Issue-Shares-to-Acquire-HyalRoute-a-Scarce-Southeast-Asian-Fiber-Optic-Infrastructure-L.html",
+    "published_at": "2026-05-22T13:00:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "重大公告：AGAE以40亿美元估值、每股10美元参考价发行股份收购东南亚稀缺光纤基础设施领导者HyalRoute，转型为融合“光计算+光传输”的全球AI光网络平台",
+    "summary_zh": "AGAE宣布以40亿美元估值及每股10美元参考价发行股份，收购东南亚稀缺光纤基础设施领导者HyalRoute。此举将使AGAE转型为全球AI光网络平台，整合光计算与光传输技术，抢占东南亚数字基建与AI算力融合的战略高地。",
+    "category": "industry"
+  },
+  {
+    "id": "8f484f165ac2dcb7611b9b0a6583ecf3",
+    "title_en": "GovCIO-Supported VA Help Desk Closes Two-Millionth Telehealth Support Ticket",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/govcio-supported-va-help-desk-closes-two-millionth-telehealth-support-ticket-302779680.html",
+    "published_at": "2026-05-22T13:00:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "GovCIO支持的VA服务台处理完第200万张远程医疗支持工单",
+    "summary_zh": "由GovCIO支持的美国退伍军人事务部（VA）服务台成功处理了第200万张远程医疗支持工单，标志着远程医疗服务在退伍军人群体中的大规模普及与高效运营。该里程碑凸显了AI与自动化技术在医疗支持中的关键作用。",
+    "category": "product"
+  },
+  {
+    "id": "b40f75b0dd099076f13644fb9e44bd32",
+    "title_en": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+    "source": "Europa.eu",
+    "url": "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc260522~a4812a8f23.en.html",
+    "published_at": "2026-05-22T13:00:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "欧洲央行管理委员会决策（除利率设定外）",
+    "summary_zh": "欧洲央行管理委员会公布了除利率决策外的其他重要决议，涵盖货币政策工具、资产购买计划及银行监管框架调整。这些措施旨在应对通胀压力与经济增长放缓，维持欧元区金融稳定。",
+    "category": "industry"
+  },
+  {
+    "id": "d57f30e249cb3c5ff87fb8235fceeb5e",
+    "title_en": "Global Mofy AI Limited Announces Pricing of $8 Million Registered Offering",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/05/22/3300130/0/en/Global-Mofy-AI-Limited-Announces-Pricing-of-8-Million-Registered-Offering.html",
+    "published_at": "2026-05-22T13:00:00Z",
+    "fetched_at": "2026-05-23T13:03:08.782Z",
+    "title_zh": "环球墨非AI有限公司宣布800万美元注册发行定价",
+    "summary_zh": "环球墨非AI有限公司宣布其800万美元注册公开发行定价，资金将用于扩展AI数字内容生成与虚拟人技术研发。此次融资反映了资本市场对AI创意工具商业化前景的持续看好。",
+    "category": "industry"
   },
   {
     "id": "043b8de6089f729d175e86c5deedb94c",
@@ -5277,226 +5497,6 @@
     "fetched_at": "2026-05-19T02:29:11.109Z",
     "title_zh": "徕卡Cine Play 1评测：价格不菲但物有所值",
     "summary_zh": "徕卡Cine Play 1投影仪评测显示，尽管售价高昂，但其卓越的画质、色彩表现和设计工艺使其成为高端家庭影院的理想选择。对于追求极致体验的用户而言，每一分钱都值得。",
-    "category": "product"
-  },
-  {
-    "id": "e5bd8d571c85817599b5c3c6fb471688",
-    "title_en": "I asked ChatGPT: How to spend money 'guilt-free'; AI suggests 'Anti-Budget'; check the comprehensive plan",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-how-to-spend-money-guilt-free-ai-suggests-anti-budget-check-the-comprehensive-plan-11779112821355.html",
-    "published_at": "2026-05-18T14:31:41Z",
-    "fetched_at": "2026-05-19T14:38:08.120Z",
-    "title_zh": "我问ChatGPT如何‘无负罪感’花钱：AI推荐‘反预算’法，附完整计划",
-    "summary_zh": "本文探讨了如何利用AI工具ChatGPT解决消费心理问题。用户向ChatGPT寻求‘无负罪感’花钱的建议，AI给出了名为‘反预算’的理财策略，并提供了详细执行计划，旨在帮助人们在不产生愧疚感的前提下合理支配收入。",
-    "category": "product"
-  },
-  {
-    "id": "f9476058927d3f7ef5b81164dab84711",
-    "title_en": "NextEra Energy strikes $66.8 billion deal for Dominion in bets on AI power demand",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nextera-energy-strikes-66-8-billion-deal-for-dominion-in-bets-on-ai-power-demand/articleshow/131179481.cms",
-    "published_at": "2026-05-18T14:30:51Z",
-    "fetched_at": "2026-05-19T14:38:08.120Z",
-    "title_zh": "NextEra Energy以668亿美元收购Dominion，押注AI电力需求激增",
-    "summary_zh": "美国能源巨头NextEra Energy宣布以668亿美元收购Dominion Energy，此举被视为对人工智能发展带来的巨大电力需求的战略押注。随着AI数据中心能耗飙升，能源公司正积极布局以满足未来算力基础设施的供电需求。",
-    "category": "industry"
-  },
-  {
-    "id": "ea04e644e34b5cec0dfdaafe398f1f22",
-    "title_en": "Soluble Fertilizer Industry Association launches Research Contest for academic community",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/economy/agri-business/soluble-fertilizer-industry-association-launches-research-contest-for-academic-community/article70993808.ece",
-    "published_at": "2026-05-18T14:28:15Z",
-    "fetched_at": "2026-05-19T14:38:08.120Z",
-    "title_zh": "可溶性肥料工业协会面向学术界发起研究竞赛",
-    "summary_zh": "可溶性肥料工业协会宣布启动一项面向学术界的专项研究竞赛，旨在鼓励科研人员围绕可溶性肥料的技术创新、应用效果及环境影响等课题展开深入研究。此举将促进产学研结合，推动肥料行业可持续发展。",
-    "category": "research"
-  },
-  {
-    "id": "6b9efda28bb86faa1ca7dc49a5f096f7",
-    "title_en": "Have Algorithms Begun to Shape Our Collective Emotions?",
-    "source": "Psychology Today",
-    "url": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202605/have-algorithms-begun-to-shape-our-collective-emotions",
-    "published_at": "2026-05-18T14:27:16Z",
-    "fetched_at": "2026-05-19T14:38:08.120Z",
-    "title_zh": "算法是否已开始塑造我们的集体情绪？",
-    "summary_zh": "本文探讨了算法推荐系统对人类社会情绪的潜在影响。随着社交媒体和内容平台广泛使用算法，它们可能通过信息筛选和推送，潜移默化地影响甚至操控用户的情绪状态，进而形成某种‘集体情绪’，引发对技术伦理的深度思考。",
-    "category": "research"
-  },
-  {
-    "id": "0928580360517d4df13ab7da3a6e17a6",
-    "title_en": "Catwoman #87 Preview: Black Mask Makes Murder Fun",
-    "source": "Bleeding Cool News",
-    "url": "https://bleedingcool.com/comics/catwoman-87-preview-black-mask-makes-murder-fun/",
-    "published_at": "2026-05-18T14:26:09Z",
-    "fetched_at": "2026-05-19T14:38:08.120Z",
-    "title_zh": "《猫女》第87期预览：黑面具让谋杀变得有趣",
-    "summary_zh": "DC漫画《猫女》第87期发布预览，反派黑面具登场，将谋杀行为包装成一场‘有趣’的游戏。本期剧情预计将围绕猫女与黑面具之间的对抗展开，充满黑暗幽默与动作场面，为读者带来独特的漫画阅读体验。",
-    "category": "product"
-  },
-  {
-    "id": "8c73be1361ce47ccd67e633e002216aa",
-    "title_en": "Gelatine Sculpt Exploding in 2026: The Viral Gelatin Trick For Weight Loss Trend Taking Over Wellness",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/05/18/3296784/0/en/Gelatine-Sculpt-Exploding-in-2026-The-Viral-Gelatin-Trick-For-Weight-Loss-Trend-Taking-Over-Wellness.html",
-    "published_at": "2026-05-18T14:25:00Z",
-    "fetched_at": "2026-05-19T14:38:08.120Z",
-    "title_zh": "2026年明胶雕塑爆炸式增长：风靡健康圈的‘明胶减肥法’病毒式传播",
-    "summary_zh": "一种名为‘明胶减肥法’的潮流正在健康领域病毒式传播，预计到2026年将引发明胶雕塑市场的爆炸式增长。该方法声称通过食用特定明胶制品达到减重效果，但其科学性和安全性尚存争议，需谨慎对待。",
-    "category": "product"
-  },
-  {
-    "id": "7423096b3fec78319e5915c3dffd2944",
-    "title_en": "Dominion energy stock rises highest in over 3 years, Nextera energy stock crashes. Here's why",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/international/us/dominion-energy-stock-rises-highest-in-over-3-years-nextera-stock-crashes-heres-why/articleshow/131179273.cms",
-    "published_at": "2026-05-18T14:24:31Z",
-    "fetched_at": "2026-05-19T14:38:08.120Z",
-    "title_zh": "Dominion能源股价创三年新高，NextEra能源暴跌：原因解析",
-    "summary_zh": "在NextEra Energy宣布以668亿美元收购Dominion Energy后，市场反应两极分化：Dominion股价飙升至三年多来最高点，而NextEra股价则大幅下挫。分析认为，投资者对收购价格、整合风险及未来收益预期存在分歧。",
-    "category": "industry"
-  },
-  {
-    "id": "1111e18d64957be7807be37a3806dd5d",
-    "title_en": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
-    "published_at": "2026-05-18T14:21:10.000Z",
-    "fetched_at": "2026-05-18T14:55:20.294Z",
-    "title_zh": "Linus Torvalds：AI生成的错误报告让Linux安全列表变得“难以管理”",
-    "summary_zh": "Linux创始人Linus Torvalds近日抱怨，由于大量由AI生成的错误报告涌入，Linux内核安全邮件列表已变得“难以管理”。这些低质量、重复的报告淹没了真正有价值的安全问题，给维护团队带来了巨大负担，凸显了AI工具在开源协作中的双刃剑效应。",
-    "category": "industry"
-  },
-  {
-    "id": "167fc5c4aef093dac0be70371cd415e5",
-    "title_en": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
-    "published_at": "2026-05-18T14:15:00.000Z",
-    "fetched_at": "2026-05-18T14:55:20.294Z",
-    "title_zh": "独家：Jonah Peretti解释为何出售BuzzFeed",
-    "summary_zh": "BuzzFeed创始人Jonah Peretti在独家采访中透露了出售公司的原因。他坦言，面对数字广告市场的剧烈变化和AI对内容生产模式的冲击，独立运营的挑战日益增大。出售是为了让BuzzFeed在更大平台的支持下，更好地应对行业变革并探索AI驱动的新增长路径。",
-    "category": "industry"
-  },
-  {
-    "id": "19452ea4063a5aa5d21930710fa69f53",
-    "title_en": "Starlink raises prices across satellite internet plans",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
-    "published_at": "2026-05-18T14:08:19.000Z",
-    "fetched_at": "2026-05-18T14:55:20.294Z",
-    "title_zh": "Starlink上调卫星互联网套餐价格",
-    "summary_zh": "SpaceX旗下星链（Starlink）宣布上调其卫星互联网服务的多个套餐价格。此次调价涉及标准版、高性能版及商业版等，旨在应对持续上升的运营成本和基础设施建设投入。尽管价格上涨，星链仍凭借其全球覆盖优势在偏远地区保持竞争力。",
-    "category": "product"
-  },
-  {
-    "id": "df65582c7e0fdcaf539fcb15fa21b48a",
-    "title_en": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/",
-    "published_at": "2026-05-18T13:38:01.000Z",
-    "fetched_at": "2026-05-18T14:55:20.423Z",
-    "title_zh": "Swatch x Audemars Piguet灾难性发布：完全可预测且本可避免",
-    "summary_zh": "Swatch与Audemars Piguet联名腕表的发布引发混乱，粉丝彻夜排队却遭遇库存不足、系统崩溃等问题。分析指出，此次失败源于对需求严重低估和缺乏应急预案，完全可预测且本可避免。事件成为品牌联名营销的经典反面案例。",
-    "category": "industry"
-  },
-  {
-    "id": "68ea0f146800e83280bf3303f0bffe8c",
-    "title_en": "Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks",
-    "published_at": "2026-05-18T12:10:03.000Z",
-    "fetched_at": "2026-05-18T14:55:20.294Z",
-    "title_zh": "泄露图片显示索尼将推出十周年纪念版“ColleXion”耳机",
-    "summary_zh": "一组疑似索尼官方泄露的图片显示，该公司计划推出名为“ColleXion”的十周年纪念版耳机。从设计上看，该耳机融合了经典元素与现代工艺，预计将作为限量产品发售，吸引音频发烧友和品牌收藏爱好者，进一步巩固索尼在高端音频市场的地位。",
-    "category": "product"
-  },
-  {
-    "id": "a6efc725652055a361295d82f92b86de",
-    "title_en": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-    "published_at": "2026-05-18T12:10:00.000Z",
-    "fetched_at": "2026-05-18T14:55:20.546Z",
-    "title_zh": "下载周刊：马斯克与奥特曼对决第三周，特朗普的科技交易",
-    "summary_zh": "本期《下载》周刊聚焦两大热点：马斯克与OpenAI CEO奥特曼的法律与舆论战进入第三周，双方围绕AI控制权激烈交锋；同时分析特朗普政府时期的科技交易策略，探讨其对当前AI产业格局的潜在影响。",
-    "category": "industry"
-  },
-  {
-    "id": "d612bd570f4d33296cee194b37ca69a5",
-    "title_en": "Bad, Bad, Bad, Bad Roommate",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
-    "published_at": "2026-05-18T11:00:31.000Z",
-    "fetched_at": "2026-05-18T14:55:20.294Z",
-    "title_zh": "糟糕透顶的室友：一场数字时代的闹剧",
-    "summary_zh": "本文讲述了一个因合租引发的荒诞故事，涉及网络行为、隐私边界与社交媒体的复杂互动。事件中，一位“糟糕室友”的行为被曝光后迅速发酵，引发了对当代年轻人合租文化及数字时代人际关系的广泛讨论，折射出技术如何放大日常生活中的矛盾。",
-    "category": "industry"
-  },
-  {
-    "id": "ed128b31ae1c9421f3313eb5e961cea4",
-    "title_en": "South Korea’s LetinAR is building optics behind AI glasses",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "published_at": "2026-05-18T11:00:00.000Z",
-    "fetched_at": "2026-05-18T14:55:20.210Z",
-    "title_zh": "韩国LetinAR打造AI眼镜核心光学方案",
-    "summary_zh": "韩国初创公司LetinAR正在研发用于AI眼镜的光学技术，旨在解决智能眼镜的显示与佩戴舒适度问题。其独特的光学方案有望为下一代AI可穿戴设备提供更清晰的视觉体验和更轻便的形态，推动AI眼镜从概念走向实用。",
-    "category": "product"
-  },
-  {
-    "id": "1a2b85cd873958cf77483398d3d561cb",
-    "title_en": "How to Watch Google I/O 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/how-to-watch-google-io/",
-    "published_at": "2026-05-18T11:00:00.000Z",
-    "fetched_at": "2026-05-18T14:55:20.423Z",
-    "title_zh": "如何观看Google I/O 2026大会",
-    "summary_zh": "Google I/O 2026开发者大会即将举行，本文提供详细观看指南。包括官方直播渠道、时间安排、重点议程预测（如Android新版本、AI模型更新、硬件发布等）。开发者可提前注册并关注线上互动环节，获取最新技术动态。",
-    "category": "product"
-  },
-  {
-    "id": "e0f9ae0a8a753b68af9dfc12e0a252a1",
-    "title_en": "The Backward Logic of Chickenpox Parties",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
-    "published_at": "2026-05-18T11:00:00.000Z",
-    "fetched_at": "2026-05-18T14:55:20.423Z",
-    "title_zh": "水痘派对的荒谬逻辑：主动感染真的有益吗？",
-    "summary_zh": "部分家长仍组织“水痘派对”让孩子主动感染水痘以获取免疫力，但医学专家强烈反对。研究显示，水痘可能引发严重并发症，且疫苗更安全有效。文章批判这种反智行为，强调科学防疫的重要性，并呼吁公众遵循现代医学建议。",
-    "category": "research"
-  },
-  {
-    "id": "78b7f2ed4334e914e57e7a55ef610a1f",
-    "title_en": "Supercharging Immune Cells May Help Control HIV Long-Term",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
-    "published_at": "2026-05-18T10:30:00.000Z",
-    "fetched_at": "2026-05-18T14:55:20.423Z",
-    "title_zh": "增强免疫细胞或可长期控制HIV",
-    "summary_zh": "最新研究表明，通过基因工程增强特定免疫细胞的功能，可能实现HIV病毒的长期控制，甚至无需持续用药。实验在动物模型中取得积极结果，为功能性治愈HIV提供了新方向。下一步将开展人体临床试验，验证安全性和有效性。",
-    "category": "research"
-  },
-  {
-    "id": "8bff43b65e18a73d0df519133a266589",
-    "title_en": "Disco Elysium’s spiritual successor can&#8217;t escape its phantoms",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
-    "published_at": "2026-05-18T10:00:00.000Z",
-    "fetched_at": "2026-05-18T14:55:20.294Z",
-    "title_zh": "《极乐迪斯科》精神续作难逃前作阴影",
-    "summary_zh": "备受期待的《极乐迪斯科》精神续作在开发过程中面临重重挑战，似乎始终无法摆脱前作的光环与内部纠纷的阴影。文章探讨了原班人马分裂、版权争议以及创作理念冲突如何影响这款新作的诞生，揭示了独立游戏续作在艺术与商业之间的艰难平衡。",
-    "category": "industry"
-  },
-  {
-    "id": "c1428e6761ad4f7748e3ae4a2f1eaa04",
-    "title_en": "I’m a Normie. Can Normies Really Vibe Code?",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/normie-vibe-code/",
-    "published_at": "2026-05-18T10:00:00.000Z",
-    "fetched_at": "2026-05-18T14:55:20.423Z",
-    "title_zh": "普通人也能“氛围编程”？一个非技术用户的体验报告",
-    "summary_zh": "“氛围编程”（Vibe Coding）概念兴起，指通过自然语言描述需求让AI自动生成代码。一位自称“技术小白”的作者尝试后表示，虽然能快速搭建简单应用，但复杂逻辑仍需人工调试。文章认为，AI降低了编程门槛，但无法替代专业开发者的深度思考。",
     "category": "product"
   }
 ]
