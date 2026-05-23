@@ -13,6 +13,7 @@ const mockBlog: Blog = {
   url: 'https://example.com/ai-agents',
   published_at: '2026-05-20T10:00:00Z',
   fetched_at: '2026-05-22T08:00:00Z',
+  topic: 'ai',
 };
 
 describe('BlogCard', () => {

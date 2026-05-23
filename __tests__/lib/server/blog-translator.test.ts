@@ -37,6 +37,13 @@ describe('parseBlogTranslationResults', () => {
     expect(results[0].topic).toBe('ai');
   });
 
+  it('defaults topic to other when omitted', () => {
+    const output = `[{"id":"1","title_zh":"标题","summary_zh":"摘要"}]`;
+    const results = parseBlogTranslationResults(output);
+    expect(results).toHaveLength(1);
+    expect(results[0].topic).toBe('other');
+  });
+
   it('throws when no json array is present', () => {
     expect(() => parseBlogTranslationResults('no json here')).toThrow('No JSON array found');
   });

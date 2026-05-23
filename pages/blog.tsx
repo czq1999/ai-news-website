@@ -6,7 +6,7 @@ import BlogCard from '@/components/Blog/BlogCard';
 import Layout from '@/components/Layout/Layout';
 import SeoHead from '@/lib/seo';
 import { SITE_NAME } from '@/lib/site';
-import type { Blog, BlogTopic } from '@/types/blog';
+import { type Blog, BlogSchema, type BlogTopic } from '@/types/blog';
 
 const INITIAL_BATCH = 12;
 const LOAD_MORE_BATCH = 12;
@@ -38,13 +38,22 @@ export default function BlogPage({ initialBlogs }: Props) {
     fetch(`${router.basePath}/data/blogs.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`${res.status}`);
-        return res.json() as Promise<Blog[]>;
+        return res.json();
       })
-      .then((data) => {
-        if (!cancelled) setAllBlogs(data);
+      .then((raw) => {
+        if (!cancelled) {
+          const data = (Array.isArray(raw) ? raw : [])
+            .map((item: unknown) => BlogSchema.safeParse(item))
+            .filter((r): r is { success: true; data: Blog } => r.success)
+            .map((r) => r.data);
+          const sorted = [...data].sort(
+            (a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime()
+          );
+          setAllBlogs(sorted);
+        }
       })
       .catch(() => {
-        if (!cancelled) setError('加载更多失败，请稍后重试。');
+        if (!cancelled) setError('博客数据加载失败，请刷新重试。');
       });
 
     return () => {
@@ -66,15 +75,12 @@ export default function BlogPage({ initialBlogs }: Props) {
     setVisibleCount(INITIAL_BATCH);
   }, [selectedTopic]);
 
-  async function handleLoadMore() {
+  function handleLoadMore() {
     if (isLoadingMore || !hasMore) return;
 
     setIsLoadingMore(true);
-    try {
-      setVisibleCount((current) => Math.min(current + LOAD_MORE_BATCH, filteredBlogs.length));
-    } finally {
-      setIsLoadingMore(false);
-    }
+    setVisibleCount((current) => Math.min(current + LOAD_MORE_BATCH, filteredBlogs.length));
+    setIsLoadingMore(false);
   }
 
   const topicCounts = useMemo(() => {

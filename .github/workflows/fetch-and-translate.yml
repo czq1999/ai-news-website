@@ -63,7 +63,7 @@ jobs:
       - name: Ensure blogs data is available for build
         run: |
           mkdir -p public/data
-          if [ -f data/blogs.json ] && [ ! -f public/data/blogs.json ]; then
+          if [ -f data/blogs.json ]; then
             cp data/blogs.json public/data/blogs.json
           fi
 

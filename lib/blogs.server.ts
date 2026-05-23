@@ -1,7 +1,10 @@
 import blogsData from '@/data/blogs.json';
-import type { Blog } from '@/types/blog';
+import { Blog, BlogSchema } from '@/types/blog';
 
-const blogs = blogsData as Blog[];
+const blogs: Blog[] = (Array.isArray(blogsData) ? blogsData : [])
+  .map((item) => BlogSchema.safeParse(item))
+  .filter((r): r is { success: true; data: Blog } => r.success)
+  .map((r) => r.data);
 
 export function getAllBlogs(): Blog[] {
   return [...blogs].sort(

@@ -147,7 +147,7 @@ async function translateBatch(
       await new Promise((resolve) => setTimeout(resolve, Math.pow(2, attempt) * 1000));
     }
   }
-  return [];
+  throw new Error('translateBatch: all retries exhausted');
 }
 
 export async function translateArticles(rawArticles: RawArticle[]): Promise<Article[]> {
@@ -205,7 +205,7 @@ const BlogTranslationResultSchema = z.object({
   id: z.string(),
   title_zh: z.string(),
   summary_zh: z.string(),
-  topic: z.enum(['ai', 'ops', 'security', 'other']),
+  topic: z.enum(['ai', 'ops', 'security', 'other']).default('other'),
 });
 
 type BlogTranslationResult = z.infer<typeof BlogTranslationResultSchema>;

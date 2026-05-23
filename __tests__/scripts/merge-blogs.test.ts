@@ -10,6 +10,7 @@ const makeBlog = (id: string, published_at: string): Blog => ({
   url: `https://example.com/${id}`,
   published_at,
   fetched_at: '2026-05-22T11:00:00Z',
+  topic: 'other',
 });
 
 describe('mergeBlogs', () => {
