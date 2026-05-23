@@ -144,6 +144,14 @@ async function main() {
   console.log('\nFetching featured blogs...');
   try {
     await fetchAndSaveBlogs();
+
+    const blogsDataPath = join(process.cwd(), 'data/blogs.json');
+    const publicBlogsPath = join(process.cwd(), 'public/data/blogs.json');
+    if (existsSync(blogsDataPath)) {
+      mkdirSync(dirname(publicBlogsPath), { recursive: true });
+      writeFileSync(publicBlogsPath, readFileSync(blogsDataPath));
+      console.log('  Copied blogs.json to public/data/');
+    }
   } catch (err) {
     console.error('Failed to fetch blogs:', err);
   }

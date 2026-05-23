@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 
 import { useFavorites } from '@/components/Favorites/FavoritesProvider';
-import { FILTER_CATEGORIES } from '@/lib/article-categories';
 
 interface SidebarProps {
   menuOpen: boolean;
@@ -12,25 +11,30 @@ interface SidebarProps {
 export default function Sidebar({ menuOpen, onClose }: SidebarProps) {
   const router = useRouter();
   const { favorites } = useFavorites();
-  const currentCategory =
-    router.pathname === '/' ? 'all' : ((router.query.slug as string) ?? 'all');
-
-  const isActive = (slug: string) =>
-    slug === 'all' ? router.pathname === '/' : currentCategory === slug;
 
   return (
     <aside id="site-sidebar" className={`sidebar-drawer${menuOpen ? ' open' : ''}`}>
-      <div className="sidebar-label">分类</div>
+      <div className="sidebar-label">导航</div>
 
-      <nav className="sidebar-nav" aria-label="文章分类">
+      <nav className="sidebar-nav" aria-label="主导航">
         <Link
-          href="/favorites"
-          className={`sidebar-link${router.pathname === '/favorites' ? ' active' : ''}`}
-          style={{ ['--sidebar-accent' as string]: '#F7C36E' }}
+          href="/"
+          className={`sidebar-link${router.pathname === '/' ? ' active' : ''}`}
+          style={{ ['--sidebar-accent' as string]: '#6EE7F7' }}
           onClick={onClose}
         >
-          <span className="sidebar-link__label">收藏</span>
-          <span className="sidebar-link__count">{favorites.length}</span>
+          {router.pathname === '/' && <span className="sidebar-link__dot" aria-hidden="true" />}
+          <span className="sidebar-link__label">新闻</span>
+        </Link>
+
+        <Link
+          href="/blog"
+          className={`sidebar-link${router.pathname === '/blog' ? ' active' : ''}`}
+          style={{ ['--sidebar-accent' as string]: '#A78BFA' }}
+          onClick={onClose}
+        >
+          {router.pathname === '/blog' && <span className="sidebar-link__dot" aria-hidden="true" />}
+          <span className="sidebar-link__label">博客</span>
         </Link>
 
         <Link
@@ -45,23 +49,15 @@ export default function Sidebar({ menuOpen, onClose }: SidebarProps) {
           <span className="sidebar-link__label">热点项目</span>
         </Link>
 
-        {FILTER_CATEGORIES.map((cat) => {
-          const href = cat.slug === 'all' ? '/' : `/category/${cat.slug}`;
-          const active = isActive(cat.slug);
-
-          return (
-            <Link
-              key={cat.slug}
-              href={href}
-              className={`sidebar-link${active ? ' active' : ''}`}
-              style={{ ['--sidebar-accent' as string]: cat.accent }}
-              onClick={onClose}
-            >
-              {active && <span className="sidebar-link__dot" aria-hidden="true" />}
-              <span className="sidebar-link__label">{cat.label}</span>
-            </Link>
-          );
-        })}
+        <Link
+          href="/favorites"
+          className={`sidebar-link${router.pathname === '/favorites' ? ' active' : ''}`}
+          style={{ ['--sidebar-accent' as string]: '#F7C36E' }}
+          onClick={onClose}
+        >
+          <span className="sidebar-link__label">收藏</span>
+          <span className="sidebar-link__count">{favorites.length}</span>
+        </Link>
       </nav>
     </aside>
   );

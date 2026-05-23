@@ -16,17 +16,17 @@
     "pageSize": 10
   },
   "blogTopics": [
-    { "query": "latest AI breakthroughs 2026" },
-    { "query": "AI agent framework tutorial" },
-    { "query": "autonomous AI agent development" },
-    { "query": "LLM fine-tuning best practices" },
-    { "query": "Linux server administration tips" },
-    { "query": "Linux performance tuning guide" },
-    { "query": "Kubernetes operations best practices" },
-    { "query": "Docker container optimization" },
-    { "query": "operating system security hardening" },
-    { "query": "CVE vulnerability analysis 2026" },
-    { "query": "kernel security patch review" },
-    { "query": "system administration automation" }
+    { "query": "大模型最新突破 2026" },
+    { "query": "AI Agent 开发框架教程" },
+    { "query": "自主 AI Agent 开发实践" },
+    { "query": "大模型微调最佳实践" },
+    { "query": "Linux 服务器运维技巧" },
+    { "query": "Linux 性能调优指南" },
+    { "query": "Kubernetes 运维最佳实践" },
+    { "query": "Docker 容器优化方案" },
+    { "query": "操作系统安全加固" },
+    { "query": "CVE 漏洞分析 2026" },
+    { "query": "内核安全补丁分析" },
+    { "query": "系统运维自动化实践" }
   ]
 }
