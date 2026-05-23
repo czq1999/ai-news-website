@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-23",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链：Claude插件生态、代码知识图谱、WiFi信号感知技术，以及Chrome DevTools与.NET技能库，助力开发者高效构建与部署。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链：Claude插件生态、代码知识图谱、WiFi信号感知技术，以及Chrome DevTools与.NET技能库等开发者效率工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/colbymchenry/codegraph",
           "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
           "language": "TypeScript",
-          "stars_total": 16523,
+          "stars_total": 16669,
           "stars_today": 3684,
           "description_zh": "为Claude Code、Codex、Cursor、OpenCode和Hermes Agent预索引的代码知识图谱——更少的令牌、更少的工具调用、100%本地运行。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/anthropics/claude-plugins-official",
           "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "language": "Python",
-          "stars_total": 24917,
+          "stars_total": 25033,
           "stars_today": 2549,
           "description_zh": "由Anthropic官方管理的高质量Claude Code插件目录。"
         },
@@ -30,9 +30,9 @@
           "url": "https://github.com/Lum1104/Understand-Anything",
           "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
           "language": "TypeScript",
-          "stars_total": 18590,
+          "stars_total": 18766,
           "stars_today": 1393,
-          "description_zh": "能教学的图谱 > 仅用于展示的图谱。将任何代码转化为可探索、可搜索、可提问的交互式知识图谱。兼容Claude Code、Codex、Cursor、Copilot、Gemini CLI等工具。"
+          "description_zh": "能教学的图表 > 仅令人印象深刻的图表。将任何代码转化为可探索、搜索和提问的交互式知识图谱。兼容Claude Code、Codex、Cursor、Copilot、Gemini CLI等。"
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 11912,
+          "stars_total": 11994,
           "stars_today": 988,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 64013,
+          "stars_total": 64070,
           "stars_today": 978,
           "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
@@ -60,9 +60,9 @@
           "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
           "description_en": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
           "language": "",
-          "stars_total": 223198,
+          "stars_total": 223231,
           "stars_today": 969,
-          "description_zh": "一份汇集了启发式清单、手册、速查表、博客、技巧、单行命令、命令行/Web工具等的集合。"
+          "description_zh": "一系列鼓舞人心的清单、手册、速查表、博客、技巧、单行命令、命令行/Web工具等合集。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 40972,
+          "stars_total": 40992,
           "stars_today": 501,
-          "description_zh": "为编码代理提供的Chrome DevTools。"
+          "description_zh": "面向编码代理的Chrome DevTools。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/can1357/oh-my-pi",
           "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
           "language": "TypeScript",
-          "stars_total": 6342,
+          "stars_total": 6373,
           "stars_today": 457,
-          "description_zh": "⌥ 终端AI编码代理——支持哈希锚定编辑、优化工具集、LSP、Python、浏览器、子代理等更多功能。"
+          "description_zh": "⌥ 终端AI编码代理——基于哈希锚定的编辑、优化的工具框架、LSP、Python、浏览器、子代理等。"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/yt-dlp/yt-dlp",
           "description_en": "A feature-rich command-line audio/video downloader",
           "language": "Python",
-          "stars_total": 164334,
+          "stars_total": 164379,
           "stars_today": 444,
           "description_zh": "一款功能丰富的命令行音视频下载器。"
         },
@@ -100,9 +100,9 @@
           "url": "https://github.com/dotnet/skills",
           "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
           "language": "C#",
-          "stars_total": 2530,
+          "stars_total": 2545,
           "stars_today": 389,
-          "description_zh": "用于帮助AI编码代理掌握.NET和C#的技能仓库。"
+          "description_zh": "用于辅助AI编码代理处理.NET和C#的技能仓库。"
         },
         {
           "rank": 11,
@@ -110,9 +110,9 @@
           "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
           "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
           "language": "Python",
-          "stars_total": 22637,
+          "stars_total": 22664,
           "stars_today": 367,
-          "description_zh": "FinceptTerminal是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，专为交互式探索和数据驱动决策而设计，用户界面友好。"
+          "description_zh": "FinceptTerminal是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，专为交互式探索和数据驱动决策设计，环境友好。"
         },
         {
           "rank": 12,
@@ -120,7 +120,7 @@
           "url": "https://github.com/karpathy/nn-zero-to-hero",
           "description_en": "Neural Networks: Zero to Hero",
           "language": "Jupyter Notebook",
-          "stars_total": 22338,
+          "stars_total": 22378,
           "stars_today": 159,
           "description_zh": "神经网络：从零到精通。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/byJoey/cfnew",
           "description_en": "",
           "language": "",
-          "stars_total": 13298,
+          "stars_total": 13320,
           "stars_today": 87,
           "description_zh": ""
         },
@@ -140,9 +140,9 @@
           "url": "https://github.com/odoo/odoo",
           "description_en": "Odoo. Open Source Apps To Grow Your Business.",
           "language": "Python",
-          "stars_total": 51126,
+          "stars_total": 51152,
           "stars_today": 79,
-          "description_zh": "Odoo。助力企业成长的开源应用。"
+          "description_zh": "Odoo。助您业务增长的开源应用。"
         }
       ]
     },
