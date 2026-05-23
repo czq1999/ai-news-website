@@ -18,7 +18,7 @@ const TOPIC_DISPLAY: Record<BlogTopic, { label: string; accent: string }> = {
   other: { label: '其他', accent: '#A78BFA' },
 };
 
-const TOPIC_OPTIONS = (Object.keys(TOPIC_DISPLAY) as BlogTopic[]).filter((t) => t !== 'other');
+const TOPIC_OPTIONS = Object.keys(TOPIC_DISPLAY) as BlogTopic[];
 
 interface Props {
   initialBlogs: Blog[];
