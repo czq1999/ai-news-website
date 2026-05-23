@@ -1,5 +1,82 @@
 [
   {
+    "id": "1772ed9f4964f08bb52bcc3ab8fa711f",
+    "title_en": "【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析 | CN-SEC 中文网",
+    "source": "cn-sec.com",
+    "url": "http://cn-sec.com/archives/5229637.html",
+    "published_at": "2026-05-23T08:07:59.480Z",
+    "fetched_at": "2026-05-23T08:07:59.480Z",
+    "title_zh": "【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析",
+    "summary_zh": "本文由天穹团队发布，对 CVE-2026-31431（Copy Fail）漏洞进行了完整的利用分析。从漏洞原理出发，详细描述了如何通过精心构造的 I/O 操作污染 page cache，进而实现内核内存的越界读写与权限提升。文章包含了完整的利用代码逻辑、调试技巧以及绕过现有缓解措施的思路，是内核漏洞利用研究领域的高质量技术文章。",
+    "topic": "security"
+  },
+  {
+    "id": "0b43047be6c6fe2d4e3a579e06ac1915",
+    "title_en": "Nginx CVE-2026-42945漏洞分析及复现 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2670070",
+    "published_at": "2026-05-23T08:07:56.573Z",
+    "fetched_at": "2026-05-23T08:07:56.573Z",
+    "title_zh": "Nginx CVE-2026-42945漏洞分析及复现",
+    "summary_zh": "本文详细分析了Nginx的高危漏洞CVE-2026-42945，包括漏洞成因（如内存损坏、配置解析错误）、影响范围（特定版本）以及攻击利用条件。作者提供了漏洞复现步骤和PoC代码，并给出了临时缓解措施（如升级、配置限制）和官方补丁信息。适合Nginx运维人员和安全研究员进行风险评估和应急响应。",
+    "topic": "security"
+  },
+  {
+    "id": "db74b6b390213ab62cc6c66a35a73b8e",
+    "title_en": "提权漏洞CVE-2026-31431 拆解",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV12F99BhEdN/",
+    "published_at": "2026-05-23T08:07:56.573Z",
+    "fetched_at": "2026-05-23T08:07:56.573Z",
+    "title_zh": "提权漏洞 CVE-2026-31431 拆解",
+    "summary_zh": "本视频/文章对 CVE-2026-31431 提权漏洞进行了细致的拆解分析，从漏洞原理出发，逐步讲解如何利用 page cache 污染实现从普通用户到 root 的权限提升。内容涵盖漏洞利用的关键数据结构、内存布局操控技巧以及稳定的触发条件。适合希望深入理解 Linux 内核漏洞利用技术的安全研究人员和逆向工程师学习参考。",
+    "topic": "security"
+  },
+  {
+    "id": "e1dc65e8ba15943fffe1d8704b2af14f",
+    "title_en": "yangpeng14/DevOps - 个人自动化运维指南 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/yangpeng14/DevOps",
+    "published_at": "2026-05-23T08:07:56.572Z",
+    "fetched_at": "2026-05-23T08:07:56.572Z",
+    "title_zh": "yangpeng14/DevOps - 个人自动化运维指南",
+    "summary_zh": "该项目是一份个人整理的DevOps自动化运维指南，内容覆盖CI/CD流水线搭建、配置管理工具（如Ansible、Terraform）、监控告警体系以及日志管理最佳实践。作者结合自身经验，提供了从代码提交到生产部署的全链路自动化方案，并附有实际案例和脚本示例。适合DevOps工程师和运维人员参考，帮助构建高效、可复用的自动化运维体系。",
+    "topic": "ops"
+  },
+  {
+    "id": "14051b0ef949615ffcbde58ad1a44369",
+    "title_en": "Docker容器化最佳实践：从镜像构建到生产部署全流程（2025） - 信逆云科技",
+    "source": "xinniyun.com",
+    "url": "https://www.xinniyun.com/%E8%BF%90%E7%BB%B4%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F/article-docker-container-best-practices",
+    "published_at": "2026-05-23T08:07:56.572Z",
+    "fetched_at": "2026-05-23T08:07:56.572Z",
+    "title_zh": "Docker容器化最佳实践：从镜像构建到生产部署全流程（2025）",
+    "summary_zh": "本文总结了2025年Docker容器化的最佳实践，覆盖从Dockerfile编写、镜像构建优化、私有仓库管理、容器编排（Kubernetes）到生产环境部署与监控的全流程。作者强调了安全性（如最小权限、镜像签名）、可观测性（日志、指标）和自动化（CI/CD集成）的重要性，并提供了多个实战模板。适合希望系统化提升容器化水平的团队。",
+    "topic": "ops"
+  },
+  {
+    "id": "c4e8cb4f648bce3f7a6ad5e2301608fa",
+    "title_en": "国产第一！阿里千问旗舰模型Qwen3.7-Max发布：全自主完成35小时任务|编程|max|智能体|qwen|开源模型|阿里巴巴集团_网易订阅",
+    "source": "163.com",
+    "url": "https://www.163.com/dy/article/KTCDCJN50511CPVM.html",
+    "published_at": "2026-05-23T08:07:52.155Z",
+    "fetched_at": "2026-05-23T08:07:52.155Z",
+    "title_zh": "国产第一！阿里千问旗舰模型Qwen3.7-Max发布：全自主完成35小时任务",
+    "summary_zh": "阿里巴巴发布千问旗舰模型Qwen3.7-Max，宣称具备全自主完成长达35小时复杂任务的能力。该模型在编程、智能体协作及开源生态方面有显著提升，标志着国产大模型在自主规划与长周期任务执行上取得重要突破。文章详细介绍了模型架构、多智能体协同机制及其在真实场景中的表现，对AI开发者和企业用户具有较高参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "c9f3d05ea0d9fcac73e97172caf3291e",
+    "title_en": "Linux运维工程师必须掌握的服务器性能参数指标",
+    "source": "xasun.com",
+    "url": "https://www.xasun.com/article/26/2395.html",
+    "published_at": "2026-05-23T08:07:52.155Z",
+    "fetched_at": "2026-05-23T08:07:52.155Z",
+    "title_zh": "Linux运维工程师必须掌握的服务器性能参数指标",
+    "summary_zh": "本文详细介绍了Linux运维工程师必须掌握的服务器关键性能参数指标，包括CPU使用率、负载、内存占用、磁盘I/O、网络吞吐量、进程状态等。文章解释了每个指标的含义、正常范围及异常排查方法，并提供了常用的监控命令与工具。对于系统性能评估和故障定位具有重要参考价值。",
+    "topic": "ops"
+  },
+  {
     "id": "3f28ee7d237eba668912302e3090fbc0",
     "title_en": "高危漏洞 - 阿里云漏洞库",
     "source": "avd.aliyun.com",
@@ -1617,6 +1694,17 @@
     "topic": "ops"
   },
   {
+    "id": "798957b3774541170a087c20217e9a43",
+    "title_en": "Copy Fail / CVE-2026-31431 漏洞分析：一次page cache 污染引发的 ...",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/2033591780361421980",
+    "published_at": "2026-05-01T00:00:00.000Z",
+    "fetched_at": "2026-05-23T08:07:56.573Z",
+    "title_zh": "Copy Fail / CVE-2026-31431 漏洞分析：一次 page cache 污染引发的内核危机",
+    "summary_zh": "本文深入分析了编号为 CVE-2026-31431 的 Linux 内核漏洞，该漏洞源于文件系统在 copy 操作中对 page cache 状态管理不当，导致缓存污染。攻击者可利用此漏洞实现信息泄露或权限提升。文章详细拆解了漏洞触发路径、内核函数调用链以及数据流污染过程，并给出了针对性的缓解措施与补丁分析。对于从事内核安全研究、系统加固的工程师具有极高的参考价值。",
+    "topic": "security"
+  },
+  {
     "id": "c2bb922832ad1d2be7819a18cfbb4d48",
     "title_en": "最新！2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发",
     "source": "cloud.tencent.com",
@@ -1626,6 +1714,17 @@
     "title_zh": "最新！2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发",
     "summary_zh": "本文全景式梳理了2026年3月全球大模型生态的最新格局，重点包括国产模型在综合性能榜单上首次登顶、百万级上下文窗口技术走向成熟，以及基于大模型的智能体（Agent）应用呈现爆发式增长。文章从模型架构、训练数据、推理优化与工具链等维度展开分析，为开发者提供了当前最具竞争力的模型选型建议与Agent开发实践指南。",
     "topic": "ai"
+  },
+  {
+    "id": "a84af08344d27afcdf10660ba889fbd1",
+    "title_en": "Cisco Webex Services存在高風險安全漏洞(CVE-2026-20184)",
+    "source": "nics.nat.gov.tw",
+    "url": "https://www.nics.nat.gov.tw/core_business/information_security_information_sharing/Vulnerability_Alert_Announcements/e67caa88-0ac1-4656-bf73-233544d685e7/",
+    "published_at": "2026-04-21T00:00:00.000Z",
+    "fetched_at": "2026-05-23T08:07:56.573Z",
+    "title_zh": "Cisco Webex Services存在高風險安全漏洞(CVE-2026-20184)",
+    "summary_zh": "本文通报了Cisco Webex Services中的高风险漏洞CVE-2026-20184，该漏洞可能允许未经身份验证的远程攻击者执行任意代码或获取敏感信息。文章提供了漏洞编号、CVSS评分、受影响版本范围以及官方修复建议。作者还建议用户立即升级到安全版本并启用必要的访问控制。适合使用Cisco Webex的企业安全管理员。",
+    "topic": "security"
   },
   {
     "id": "494689cf52fe968275f6003adf8d2d2a",
@@ -1703,6 +1802,17 @@
     "title_zh": "摩根士丹利警告：2026年将迎来AI重大突破",
     "summary_zh": "摩根士丹利发布研报指出，2026年AI领域将出现颠覆性突破，可能源于以下方向：推理能力接近人类专家的通用Agent、AI在药物研发中实现端到端自动化、或能源效率提升100倍的新型计算架构。报告从投资角度分析了这些突破对半导体、云计算和企业软件行业的潜在影响，并提醒市场需重新评估当前估值模型。",
     "topic": "other"
+  },
+  {
+    "id": "9706da25e0ea2ecbdcf600efb9a07d32",
+    "title_en": "微软SQL Server CVE-2026-21262 的分析: r/SQLServer - Reddit",
+    "source": "reddit.com",
+    "url": "https://www.reddit.com/r/SQLServer/comments/1rrqsb6/analysis_of_microsoft_sql_server_cve202621262/?tl=zh-hans",
+    "published_at": "2026-03-12T00:00:00.000Z",
+    "fetched_at": "2026-05-23T08:07:56.572Z",
+    "title_zh": "微软SQL Server CVE-2026-21262 的分析",
+    "summary_zh": "本文分析了微软SQL Server的高危漏洞CVE-2026-21262，该漏洞可能允许远程攻击者执行任意代码或导致拒绝服务。文章详细描述了漏洞原理、受影响版本、攻击向量以及官方补丁信息。作者还提供了临时缓解措施和检测方法，帮助DBA和安全团队快速评估风险并采取行动。适合SQL Server管理员和安全研究人员。",
+    "topic": "security"
   },
   {
     "id": "70919fc80714e4870dddefc03cb8223c",
@@ -1868,6 +1978,17 @@
     "title_zh": "2026年AI趋势：人工智能突破与进步的新纪元",
     "summary_zh": "Trigyn发布的2026年AI趋势报告指出，多模态模型、边缘AI推理、自主Agent系统以及AI驱动的科学发现将成为核心突破点。文章详细分析了AI在医疗诊断、代码生成和工业自动化中的实际落地案例，并讨论了模型压缩技术（如量化与蒸馏）如何使大模型在低功耗设备上高效运行，为开发者提供了明确的技术选型方向。",
     "topic": "other"
+  },
+  {
+    "id": "391b6a3eb5f07d7800aa5a07c741f54c",
+    "title_en": "【2026最新版】保姆级AI Agent智能应用从0到1定制开发教程！通俗 ...",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=LenB-tCVrp8",
+    "published_at": "2026-01-13T00:00:00.000Z",
+    "fetched_at": "2026-05-23T08:07:52.155Z",
+    "title_zh": "【2026最新版】保姆级AI Agent智能应用从0到1定制开发教程",
+    "summary_zh": "本教程以通俗易懂的方式，从零开始讲解AI Agent智能应用的定制开发流程。内容涵盖Agent框架选型、任务分解、工具调用与记忆管理等核心概念，并结合实际代码示例演示如何构建一个完整的智能体应用。适合希望快速入门AI Agent开发的初学者和中级开发者，强调动手实践与项目落地。",
+    "topic": "ai"
   },
   {
     "id": "8c8624dd805121787ec2fce824116c3d",
@@ -2077,126 +2198,5 @@
     "title_zh": "AI Agent开发全攻略（超详细）从零基础到精通，一篇搞定，不看后悔",
     "summary_zh": "本文是一份超详细的AI Agent开发全攻略，从基础概念到高级实战，覆盖了Agent架构设计、LLM调用封装、工具集成、状态管理与错误恢复等关键技术点。文章提供了多个可复用的代码示例与架构模式，并对比了LangChain、AutoGPT、CrewAI等主流框架的优劣。适合希望系统掌握Agent开发并快速落地项目的AI工程师。",
     "topic": "ai"
-  },
-  {
-    "id": "3ae33b8b42e61acfd66d3ef84f577398",
-    "title_en": "Exploring Microsoft Agent Framework and the process of developing ...",
-    "source": "medium.com",
-    "url": "https://medium.com/@sainitesh/exploring-microsoft-agent-framework-and-the-process-of-developing-an-ai-agent-using-this-framework-2d81afe12955",
-    "published_at": "2025-10-04T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "探索Microsoft Agent Framework及其开发流程",
-    "summary_zh": "Medium技术文章深入剖析了Microsoft Agent Framework的架构设计与开发实践。作者通过构建一个客服多Agent系统为例，展示了如何利用框架的Agent Orchestrator实现任务分解与结果聚合，以及如何通过自定义插件扩展Agent能力。文章重点讨论了状态管理、错误恢复和并发控制等生产环境关键问题，并提供了性能基准测试数据。",
-    "topic": "other"
-  },
-  {
-    "id": "349f30757d0d08819e311450f844cdd3",
-    "title_en": "Tune Up: Optimizing Linux Performance - DigitalOcean",
-    "source": "digitalocean.com",
-    "url": "https://www.digitalocean.com/community/tutorials/tuning-linux-performance-optimization",
-    "published_at": "2025-09-29T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "性能调优：优化 Linux 性能 | DigitalOcean",
-    "summary_zh": "DigitalOcean 出品的 Linux 性能优化教程，从基础监控命令（top、free、df）到高级调优技巧（内核参数、文件系统优化、网络栈调优）。重点讲解如何识别 CPU 饥饿、内存泄漏、磁盘 I/O 瓶颈及网络延迟，并给出针对云服务器的优化建议。内容简洁实用，适合开发者与运维人员快速提升系统性能。",
-    "topic": "other"
-  },
-  {
-    "id": "a8f9ed476d26a07c06ffd1a616290ee3",
-    "title_en": "Operating System Hardening 20 Best Practices - CalCom Software",
-    "source": "calcomsoftware.com",
-    "url": "https://calcomsoftware.com/os-hardening-20-best-practices/",
-    "published_at": "2025-09-15T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "操作系统加固 20 项最佳实践 | CalCom Software",
-    "summary_zh": "本文列出 20 项可操作的 OS 加固实践，涵盖账户策略（禁用 root 远程登录、密码复杂度）、文件系统权限（SUID/SGID 清理）、内核参数调优（sysctl 安全设置）、服务最小化、防火墙规则及 SELinux/AppArmor 强制访问控制。每项均附有具体命令与配置示例，适用于 Linux/Windows 服务器。",
-    "topic": "other"
-  },
-  {
-    "id": "1dbdcf8e6d752678aa454c8ef0405ef2",
-    "title_en": "一站式Agent智能体教程：新手也能轻松上手的AI开发指南",
-    "source": "betteryeah.com",
-    "url": "https://www.betteryeah.com/blog/one-stop-agent-tutorial-newbie-ai-development-guide",
-    "published_at": "2025-08-25T00:00:00.000Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "一站式Agent智能体教程：新手也能轻松上手的AI开发指南",
-    "summary_zh": "本文提供了一站式的AI Agent开发教程，面向零基础新手，逐步讲解如何利用大模型构建智能体应用。内容从基础概念入手，涵盖Agent框架选择、提示词设计、工具集成、状态管理及部署上线等全流程。教程注重实践，配有清晰步骤与示例代码，降低了Agent开发的门槛，适合希望快速入门AI应用开发的初学者。",
-    "topic": "ai"
-  },
-  {
-    "id": "6a8a840d7399f8ae5a82982b2b715cd6",
-    "title_en": "How Do Autonomous AI Agents Transform Development Workflows",
-    "source": "augmentcode.com",
-    "url": "https://www.augmentcode.com/learn/how-do-autonomous-ai-agents-transform-development-workflows",
-    "published_at": "2025-08-05T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "自主 AI 智能体如何变革开发工作流",
-    "summary_zh": "Augment Code 分析自主 AI 智能体对软件开发流程的颠覆性影响，涵盖代码生成、测试自动化、缺陷修复及文档维护等场景。深入探讨智能体与 CI/CD 管道的集成模式、代码审查辅助机制及团队协作新范式，并分享实际案例中的效率提升数据与实施建议，为技术管理者提供智能化转型参考。",
-    "topic": "other"
-  },
-  {
-    "id": "4ead271d6dc7dfec3c930ac0cb306678",
-    "title_en": "What is System Hardening? - GeeksforGeeks",
-    "source": "geeksforgeeks.org",
-    "url": "https://www.geeksforgeeks.org/computer-networks/what-is-system-hardening/",
-    "published_at": "2025-07-23T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.009Z",
-    "title_zh": "什么是系统加固？| GeeksforGeeks",
-    "summary_zh": "系统加固是减少攻击面的关键安全实践，涵盖操作系统、网络、应用及数据库层的配置强化。本文系统介绍最小权限原则、服务禁用、补丁管理、日志审计及入侵检测等核心措施，并对比不同加固标准（如 CIS、NIST），为安全工程师提供可落地的基线指南。",
-    "topic": "other"
-  },
-  {
-    "id": "01cbbb19d3b4fc76e76007dec219ba47",
-    "title_en": "Beginner's Guide to Linux System Administration - GeeksforGeeks",
-    "source": "geeksforgeeks.org",
-    "url": "https://www.geeksforgeeks.org/linux-unix/beginners-guide-to-linux-system-administration/",
-    "published_at": "2025-07-15T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.418Z",
-    "title_zh": "Linux系统管理初学者指南",
-    "summary_zh": "GeeksforGeeks出品的入门教程，从零开始介绍Linux系统管理的基础知识，包括文件系统、用户管理、进程控制、软件包管理、网络配置等。内容结构清晰，配有大量命令示例和练习题，适合刚接触Linux运维的初学者快速建立系统管理知识体系。",
-    "topic": "other"
-  },
-  {
-    "id": "02c79f734bc288b1f75366528034096f",
-    "title_en": "深入浅出LangChain AI Agent智能体开发教程（一） - 稀土掘金",
-    "source": "juejin.cn",
-    "url": "https://juejin.cn/post/7526993716071202851",
-    "published_at": "2025-07-15T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "深入浅出LangChain AI Agent智能体开发教程（一）",
-    "summary_zh": "本文是LangChain AI Agent开发系列教程的第一篇，从LangChain的核心概念入手，详细讲解了如何构建一个具备工具调用与记忆能力的智能体。内容包括Agent类型选择、Prompt模板设计、工具定义与链式调用等关键步骤，并提供了完整的代码实现与调试技巧。适合有一定Python基础、希望快速上手LangChain Agent开发的工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "36872b84e32141fd9a3ef65cec27028b",
-    "title_en": "Building a Personal AI Agent: From Zero Code to Autonomous System",
-    "source": "jasoncyr.medium.com",
-    "url": "https://jasoncyr.medium.com/building-a-personal-ai-agent-from-zero-code-to-autonomous-system-e02201529e17",
-    "published_at": "2025-07-03T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "构建个人 AI 智能体：从零代码到自主系统",
-    "summary_zh": "本文以零代码起点逐步构建个人 AI 智能体，涵盖需求分析、工具选型（如 n8n、Zapier 结合 LLM）、工作流设计及自主决策逻辑实现。通过实际案例演示如何让智能体自动处理邮件、管理日程及执行重复任务，并讨论隐私保护与成本控制策略，适合非技术背景用户快速拥有专属 AI 助手。",
-    "topic": "other"
-  },
-  {
-    "id": "e12c3646f75cce8af56afa83831da428",
-    "title_en": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1919338285160965135",
-    "published_at": "2025-06-23T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent",
-    "summary_zh": "本文以万字篇幅系统讲解复杂AI Agent的开发全流程，从底层原理（如ReAct循环、规划算法）到上层实现（如状态管理、错误恢复）。通过多个实战案例展示如何设计可扩展的Agent架构，包括工具注册、上下文窗口优化和异步任务调度。适合中高级开发者提升工程能力。",
-    "topic": "ai"
-  },
-  {
-    "id": "3e227c3a691cf9afd8d4933a9fe11bbf",
-    "title_en": "The rise of autonomous agents: What enterprise leaders need to ...",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/",
-    "published_at": "2025-06-13T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "自主智能体的崛起：企业领导者需要了解什么——AWS 技术洞察",
-    "summary_zh": "AWS 从企业架构视角分析自主智能体的技术成熟度、应用场景及风险管控。重点探讨智能体与云原生服务（如 Lambda、SageMaker）的集成模式、安全合规框架设计及成本优化策略，并分享金融、医疗等行业的落地案例，为企业决策者提供从概念验证到规模化部署的路线图。",
-    "topic": "other"
   }
 ]
