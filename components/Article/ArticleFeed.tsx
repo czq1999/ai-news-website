@@ -59,10 +59,12 @@ export default function ArticleFeed({
   const feedRequestRef = useRef<Promise<Article[]> | null>(null);
 
   useEffect(() => {
-    const storedCategories = readStoredCategories();
-    setSelectedCategories(
-      storedCategories.length > 0 ? storedCategories : category ? [category] : []
-    );
+    if (category) {
+      setSelectedCategories([category]);
+    } else {
+      const storedCategories = readStoredCategories();
+      setSelectedCategories(storedCategories.length > 0 ? storedCategories : []);
+    }
     setIsHydrated(true);
   }, [category]);
 
@@ -132,7 +134,8 @@ export default function ArticleFeed({
 
   useEffect(() => {
     setVisibleCount(Math.min(initialVisibleCount, Math.max(filteredArticles.length, 1)));
-  }, [filteredArticles.length, initialVisibleCount]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [category, initialVisibleCount]);
 
   const visibleArticles = filteredArticles.slice(0, visibleCount);
 

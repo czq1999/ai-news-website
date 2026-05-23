@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, mkdirSync, readFileSync, renameSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import { z } from 'zod';
 
@@ -69,6 +69,7 @@ export function filterNewRawArticles(allRaw: RawArticle[], existing: Article[]):
 }
 
 async function main() {
+  let hasFailures = false;
   const sourcesPath = join(process.cwd(), 'config/sources.json');
   const dataPath = join(process.cwd(), 'data/articles.json');
   const publicFeedPath = join(process.cwd(), 'public/data/articles-feed.json');
@@ -135,9 +136,12 @@ async function main() {
       return true;
     });
 
-    writeFileSync(dataPath, JSON.stringify(validatedMerged, null, 2));
+    const dataJson = JSON.stringify(validatedMerged, null, 2);
+    writeFileSync(`${dataPath}.tmp`, dataJson);
+    renameSync(`${dataPath}.tmp`, dataPath);
     mkdirSync(dirname(publicFeedPath), { recursive: true });
-    writeFileSync(publicFeedPath, JSON.stringify(validatedMerged, null, 2));
+    writeFileSync(`${publicFeedPath}.tmp`, dataJson);
+    renameSync(`${publicFeedPath}.tmp`, publicFeedPath);
     console.log(`  Total articles: ${validatedMerged.length}`);
   }
 
@@ -149,11 +153,14 @@ async function main() {
     const publicBlogsPath = join(process.cwd(), 'public/data/blogs.json');
     if (existsSync(blogsDataPath)) {
       mkdirSync(dirname(publicBlogsPath), { recursive: true });
-      writeFileSync(publicBlogsPath, readFileSync(blogsDataPath));
+      const blogsJson = readFileSync(blogsDataPath);
+      writeFileSync(`${publicBlogsPath}.tmp`, blogsJson);
+      renameSync(`${publicBlogsPath}.tmp`, publicBlogsPath);
       console.log('  Copied blogs.json to public/data/');
     }
   } catch (err) {
     console.error('Failed to fetch blogs:', err);
+    hasFailures = true;
   }
 
   console.log('\nFetching GitHub Trending...');
@@ -161,10 +168,11 @@ async function main() {
     await fetchAndSaveTrending();
   } catch (err) {
     console.error('Failed to fetch trending:', err);
+    hasFailures = true;
   }
 
   console.log('\nDone!');
-  process.exit(0);
+  process.exit(hasFailures ? 1 : 0);
 }
 
 if (require.main === module) {

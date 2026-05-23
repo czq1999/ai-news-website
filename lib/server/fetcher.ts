@@ -3,8 +3,26 @@ import Parser from 'rss-parser';
 
 import { RawArticle, RawArticleSchema } from '@/types/article';
 
+export function canonicalizeUrl(url: string): string {
+  try {
+    const parsed = new URL(url);
+    parsed.searchParams.delete('utm_source');
+    parsed.searchParams.delete('utm_medium');
+    parsed.searchParams.delete('utm_campaign');
+    parsed.searchParams.delete('utm_term');
+    parsed.searchParams.delete('utm_content');
+    parsed.searchParams.delete('ref');
+    parsed.searchParams.delete('source');
+    parsed.hash = '';
+    parsed.pathname = parsed.pathname.replace(/\/+$/, '') || '/';
+    return parsed.toString();
+  } catch {
+    return url;
+  }
+}
+
 export function buildArticleId(url: string): string {
-  return createHash('md5').update(url).digest('hex');
+  return createHash('md5').update(canonicalizeUrl(url)).digest('hex');
 }
 
 export function parseRssItem(
@@ -65,9 +83,12 @@ export async function fetchNewsApi(
 ): Promise<RawArticle[]> {
   const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(
     query
-  )}&language=${encodeURIComponent(language)}&pageSize=${pageSize}&sortBy=publishedAt&apiKey=${apiKey}`;
+  )}&language=${encodeURIComponent(language)}&pageSize=${pageSize}&sortBy=publishedAt`;
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      headers: { 'X-Api-Key': apiKey },
+      ...(typeof AbortSignal.timeout === 'function' ? { signal: AbortSignal.timeout(30_000) } : {}),
+    });
     if (!res.ok) {
       console.error(`NewsAPI responded ${res.status}`);
       return [];

@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio';
-import { existsSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, readFileSync, renameSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
 import type { TrendingData, TrendingDay, TrendingProject } from '@/types/trending';
@@ -70,6 +70,7 @@ async function callDeepSeek(prompt: string, apiKey: string, maxTokens: number): 
       temperature: 0.3,
       max_tokens: maxTokens,
     }),
+    ...(typeof AbortSignal.timeout === 'function' ? { signal: AbortSignal.timeout(60_000) } : {}),
   });
   if (!response.ok) {
     throw new Error(`DeepSeek API error: ${response.status} ${response.statusText}`);
@@ -124,6 +125,7 @@ export async function fetchAndSaveTrending(): Promise<void> {
       'User-Agent': 'Mozilla/5.0 (compatible; AI-News-Bot/1.0)',
       Accept: 'text/html',
     },
+    ...(typeof AbortSignal.timeout === 'function' ? { signal: AbortSignal.timeout(30_000) } : {}),
   });
   if (!response.ok) {
     throw new Error(`GitHub Trending fetch failed: ${response.status}`);
@@ -157,12 +159,22 @@ export async function fetchAndSaveTrending(): Promise<void> {
 
   const newDay: TrendingDay = { date: today, summary_zh, projects };
 
-  const existing: TrendingData = existsSync(trendingPath)
-    ? (JSON.parse(readFileSync(trendingPath, 'utf8')) as TrendingData)
-    : { days: [] };
+  let existing: TrendingData = { days: [] };
+  if (existsSync(trendingPath)) {
+    try {
+      const parsed = JSON.parse(readFileSync(trendingPath, 'utf8'));
+      if (parsed && Array.isArray(parsed.days)) {
+        existing = parsed as TrendingData;
+      }
+    } catch (err) {
+      console.warn('  Could not parse existing trending.json, starting fresh:', err);
+    }
+  }
 
   const merged = mergeTrendingDay(existing, newDay);
-  writeFileSync(trendingPath, JSON.stringify(merged, null, 2));
+  const tmpPath = `${trendingPath}.tmp`;
+  writeFileSync(tmpPath, JSON.stringify(merged, null, 2));
+  renameSync(tmpPath, trendingPath);
   console.log(`  Trending saved: ${projects.length} projects for ${today}`);
 }
 

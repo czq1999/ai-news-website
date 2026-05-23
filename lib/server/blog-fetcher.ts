@@ -2,8 +2,26 @@ import { createHash } from 'crypto';
 
 import { RawBlog, RawBlogSchema } from '@/types/blog';
 
+function canonicalizeUrl(url: string): string {
+  try {
+    const parsed = new URL(url);
+    parsed.searchParams.delete('utm_source');
+    parsed.searchParams.delete('utm_medium');
+    parsed.searchParams.delete('utm_campaign');
+    parsed.searchParams.delete('utm_term');
+    parsed.searchParams.delete('utm_content');
+    parsed.searchParams.delete('ref');
+    parsed.searchParams.delete('source');
+    parsed.hash = '';
+    parsed.pathname = parsed.pathname.replace(/\/+$/, '') || '/';
+    return parsed.toString();
+  } catch {
+    return url;
+  }
+}
+
 export function buildBlogId(url: string): string {
-  return createHash('md5').update(url).digest('hex');
+  return createHash('md5').update(canonicalizeUrl(url)).digest('hex');
 }
 
 interface SearchResult {

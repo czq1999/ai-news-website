@@ -7,7 +7,12 @@ interface Props {
 
 export default function BlogCard({ blog }: Props) {
   return (
-    <a href={blog.url} target="_blank" rel="noopener noreferrer" className="blog-card">
+    <a
+      href={/^https?:\/\//i.test(blog.url) ? blog.url : '#'}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="blog-card"
+    >
       <div className="blog-card__header">
         <span className="blog-card__source mono-label">{blog.source}</span>
         <span className="blog-card__date mono-label">{blog.published_at.slice(0, 10)}</span>

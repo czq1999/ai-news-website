@@ -80,8 +80,14 @@ export default function BlogPage({ initialBlogs }: Props) {
 
     setIsLoadingMore(true);
     setVisibleCount((current) => Math.min(current + LOAD_MORE_BATCH, filteredBlogs.length));
-    setIsLoadingMore(false);
+    // isLoadingMore is reset in the next effect after visibleCount updates
   }
+
+  useEffect(() => {
+    if (isLoadingMore) {
+      setIsLoadingMore(false);
+    }
+  }, [visibleCount, isLoadingMore]);
 
   const topicCounts = useMemo(() => {
     const counts: Record<string, number> = {};

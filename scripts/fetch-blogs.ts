@@ -1,4 +1,4 @@
-import { existsSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, readFileSync, renameSync, writeFileSync } from 'fs';
 import os from 'os';
 import path from 'path';
 import { z } from 'zod';
@@ -138,14 +138,20 @@ export async function searchBlogs(query: string): Promise<RawBlog[]> {
 
     const items = parseSearchResultsMarkdown(markdown);
     return items
-      .map((item) =>
-        buildBlogFromSearchResult({
+      .map((item) => {
+        let hostname = 'Unknown';
+        try {
+          hostname = new URL(item.url).hostname.replace(/^www\./, '');
+        } catch {
+          return null;
+        }
+        return buildBlogFromSearchResult({
           title: item.title,
           url: item.url,
-          source: new URL(item.url).hostname.replace(/^www\./, ''),
+          source: hostname,
           date: item.date,
-        })
-      )
+        });
+      })
       .filter((b): b is RawBlog => b !== null);
   } catch (err) {
     console.error(`  Search "${query}" failed:`, err);
@@ -204,10 +210,16 @@ export async function fetchAndSaveBlogs(): Promise<void> {
 
       const items = parseSearchResultsMarkdown(markdown);
       for (const item of items) {
+        let hostname = 'Unknown';
+        try {
+          hostname = new URL(item.url).hostname.replace(/^www\./, '');
+        } catch {
+          continue;
+        }
         const blog = buildBlogFromSearchResult({
           title: item.title,
           url: item.url,
-          source: new URL(item.url).hostname.replace(/^www\./, ''),
+          source: hostname,
           date: item.date,
         });
         if (blog) allRaw.push(blog);
@@ -280,7 +292,9 @@ export async function fetchAndSaveBlogs(): Promise<void> {
     return true;
   });
 
-  writeFileSync(dataPath, JSON.stringify(validated, null, 2));
+  const tmpPath = `${dataPath}.tmp`;
+  writeFileSync(tmpPath, JSON.stringify(validated, null, 2));
+  renameSync(tmpPath, dataPath);
   console.log(`  Total blogs: ${validated.length}`);
 }
 

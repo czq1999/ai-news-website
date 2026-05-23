@@ -76,7 +76,7 @@ export default function TrendingPage({ days }: Props) {
                 <div className="trending-item__body">
                   <div className="trending-item__meta">
                     <a
-                      href={project.url}
+                      href={/^https?:\/\//i.test(project.url) ? project.url : '#'}
                       className="trending-item__name"
                       target="_blank"
                       rel="noopener noreferrer"

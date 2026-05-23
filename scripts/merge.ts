@@ -8,7 +8,11 @@ export function mergeArticles(existing: Article[], incoming: Article[]): Article
   const existingIds = new Set(existing.map((a) => a.id));
   const newOnes = incoming.filter((a) => !existingIds.has(a.id));
   const combined = [...existing, ...newOnes];
-  combined.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
+  combined.sort((a, b) => {
+    const aTime = new Date(b.published_at).getTime() || 0;
+    const bTime = new Date(a.published_at).getTime() || 0;
+    return aTime - bTime;
+  });
   return combined.slice(0, MAX_ARTICLES);
 }
 

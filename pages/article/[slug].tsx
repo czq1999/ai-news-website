@@ -22,7 +22,9 @@ export default function ArticlePage({ article }: Props) {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(buildArticleStructuredData(article)) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(buildArticleStructuredData(article)).replace(/</g, '\\u003c'),
+        }}
       />
       <Layout>
         <div className="article-page">

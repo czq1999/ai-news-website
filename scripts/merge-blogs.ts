@@ -8,7 +8,11 @@ export function mergeBlogs(existing: Blog[], incoming: Blog[]): Blog[] {
   const existingIds = new Set(existing.map((b) => b.id));
   const newOnes = incoming.filter((b) => !existingIds.has(b.id));
   const combined = [...existing, ...newOnes];
-  combined.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
+  combined.sort((a, b) => {
+    const aTime = new Date(b.published_at).getTime() || 0;
+    const bTime = new Date(a.published_at).getTime() || 0;
+    return aTime - bTime;
+  });
   return combined.slice(0, MAX_BLOGS);
 }
 

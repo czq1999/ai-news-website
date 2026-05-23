@@ -27,10 +27,21 @@ Each object must have exactly these fields: id, title_zh, summary_zh, category
 
 Articles:
 ${JSON.stringify(
-  articles.map((a) => ({ id: a.id, title: a.title_en, source: a.source })),
+  articles.map((a) => ({
+    id: a.id,
+    title: sanitizeForPrompt(a.title_en),
+    source: sanitizeForPrompt(a.source),
+  })),
   null,
   2
 )}`;
+}
+
+function sanitizeForPrompt(value: string): string {
+  return value
+    .replace(/["[\]{}<>\\]/g, '')
+    .replace(/\n/g, ' ')
+    .slice(0, 300);
 }
 
 function extractJsonArray(output: string): string | null {
@@ -123,6 +134,9 @@ async function translateBatch(
           temperature: 0.3,
           max_tokens: 8192,
         }),
+        ...(typeof AbortSignal.timeout === 'function'
+          ? { signal: AbortSignal.timeout(60_000) }
+          : {}),
       });
 
       if (!response.ok) {
@@ -139,7 +153,11 @@ async function translateBatch(
         throw new Error('DeepSeek API response did not include choices[0].message.content');
       }
 
-      return parseTranslationResults(output);
+      const results = parseTranslationResults(output);
+      if (results.length === 0 && batch.length > 0) {
+        throw new Error(`Translation batch returned 0 results for ${batch.length} articles`);
+      }
+      return results;
     } catch (err) {
       console.error(`  Attempt ${attempt + 1} failed:`, err);
       if (attempt === retries) throw err;
@@ -228,7 +246,11 @@ Each object must have exactly these fields: id, title_zh, summary_zh, topic
 
 Blogs:
 ${JSON.stringify(
-  blogs.map((b) => ({ id: b.id, title: b.title_en, source: b.source })),
+  blogs.map((b) => ({
+    id: b.id,
+    title: sanitizeForPrompt(b.title_en),
+    source: sanitizeForPrompt(b.source),
+  })),
   null,
   2
 )}`;

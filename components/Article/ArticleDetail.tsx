@@ -49,16 +49,23 @@ export default function ArticleDetail({ article }: { article: Article }) {
         <p className="detail-original-title">来源：{article.source}</p>
         <p className="detail-original-title">域名：{sourceHost}</p>
         <p className="detail-original-title">
-          发布时间：{new Date(article.published_at).toLocaleString('zh-CN', { hour12: false })}
+          发布时间：
+          {new Date(article.published_at).toLocaleString('zh-CN', {
+            hour12: false,
+            timeZone: 'UTC',
+          })}
         </p>
         <p className="detail-original-title">
-          抓取时间：{new Date(article.fetched_at).toLocaleString('zh-CN', { hour12: false })}
+          抓取时间：
+          {new Date(article.fetched_at).toLocaleString('zh-CN', { hour12: false, timeZone: 'UTC' })}
         </p>
       </section>
 
-      <a href={article.url} target="_blank" rel="noopener noreferrer" className="cta-button">
-        阅读原文
-      </a>
+      {/^https?:\/\//i.test(article.url) && (
+        <a href={article.url} target="_blank" rel="noopener noreferrer" className="cta-button">
+          阅读原文
+        </a>
+      )}
     </article>
   );
 }

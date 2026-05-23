@@ -21,6 +21,9 @@ async function translateBlogBatch(batch: RawBlog[], apiKey: string, retries = 2)
           temperature: 0.3,
           max_tokens: 8192,
         }),
+        ...(typeof AbortSignal.timeout === 'function'
+          ? { signal: AbortSignal.timeout(60_000) }
+          : {}),
       });
 
       if (!response.ok) {
@@ -38,6 +41,9 @@ async function translateBlogBatch(batch: RawBlog[], apiKey: string, retries = 2)
       }
 
       const translations = parseBlogTranslationResults(output);
+      if (translations.length === 0 && batch.length > 0) {
+        throw new Error(`Blog translation batch returned 0 results for ${batch.length} blogs`);
+      }
       const translationMap = new Map(translations.map((t) => [t.id, t]));
 
       return batch

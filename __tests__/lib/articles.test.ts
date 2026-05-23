@@ -2,6 +2,31 @@ import { CATEGORIES } from '@/lib/article-categories';
 import { getAllArticles, getArticleById, getArticlesByCategory } from '@/lib/articles.server';
 import { normalizeArticle, normalizeChineseText } from '@/lib/server/article-normalizer';
 
+jest.mock('@/data/articles.json', () => [
+  {
+    id: 'test-1',
+    title_en: 'Test Article 1',
+    title_zh: '测试文章一',
+    summary_zh: '测试摘要一',
+    category: 'llm',
+    source: 'TestSource',
+    url: 'https://example.com/1',
+    published_at: '2026-03-24T12:00:00Z',
+    fetched_at: '2026-03-24T13:00:00Z',
+  },
+  {
+    id: 'test-2',
+    title_en: 'Test Article 2',
+    title_zh: '测试文章二',
+    summary_zh: '测试摘要二',
+    category: 'research',
+    source: 'TestSource',
+    url: 'https://example.com/2',
+    published_at: '2026-03-23T10:00:00Z',
+    fetched_at: '2026-03-23T11:00:00Z',
+  },
+]);
+
 describe('getAllArticles', () => {
   it('returns articles sorted by published_at descending', () => {
     const result = getAllArticles();

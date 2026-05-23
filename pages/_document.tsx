@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html lang="zh-CN">
       <Head>
+        <link rel="icon" href="/ai-news-website/favicon.ico" />
         <meta name="theme-color" content="#090910" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />

@@ -5,9 +5,11 @@ import type { Article, Category } from '@/types/article';
 const articles = (articlesData as Article[]).map(normalizeArticle);
 
 export function getAllArticles(): Article[] {
-  return [...articles].sort(
-    (a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime()
-  );
+  return [...articles].sort((a, b) => {
+    const aTime = new Date(b.published_at).getTime() || 0;
+    const bTime = new Date(a.published_at).getTime() || 0;
+    return aTime - bTime;
+  });
 }
 
 export function getArticlesByCategory(category: Category): Article[] {
