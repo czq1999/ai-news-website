@@ -6,88 +6,19 @@ import BlogCard from '@/components/Blog/BlogCard';
 import Layout from '@/components/Layout/Layout';
 import SeoHead from '@/lib/seo';
 import { SITE_NAME } from '@/lib/site';
-import type { Blog } from '@/types/blog';
+import type { Blog, BlogTopic } from '@/types/blog';
 
 const INITIAL_BATCH = 12;
 const LOAD_MORE_BATCH = 12;
 
-interface BlogTopic {
-  slug: string;
-  label: string;
-  accent: string;
-  keywords: string[];
-}
+const TOPIC_DISPLAY: Record<BlogTopic, { label: string; accent: string }> = {
+  ai: { label: 'AI', accent: '#6EE7F7' },
+  ops: { label: '运维', accent: '#F7C36E' },
+  security: { label: '安全', accent: '#F77B7B' },
+  other: { label: '其他', accent: '#A78BFA' },
+};
 
-const BLOG_TOPICS: BlogTopic[] = [
-  {
-    slug: 'ai',
-    label: 'AI',
-    accent: '#6EE7F7',
-    keywords: [
-      '大模型',
-      'AI',
-      'LLM',
-      'Agent',
-      '机器学习',
-      '深度学习',
-      'GPT',
-      'Transformer',
-      '自然语言',
-      'NLP',
-      'RAG',
-      '微调',
-      'fine-tun',
-    ],
-  },
-  {
-    slug: 'ops',
-    label: '运维',
-    accent: '#F7C36E',
-    keywords: [
-      'Linux',
-      'Docker',
-      'Kubernetes',
-      'K8s',
-      '运维',
-      '服务器',
-      '容器',
-      '部署',
-      'DevOps',
-      'CI/CD',
-      '监控',
-      '性能调优',
-    ],
-  },
-  {
-    slug: 'security',
-    label: '安全',
-    accent: '#F77B7B',
-    keywords: [
-      'CVE',
-      '安全',
-      '漏洞',
-      '内核',
-      '补丁',
-      '加固',
-      '渗透',
-      '攻击',
-      '防护',
-      '权限',
-      '审计',
-      '恶意',
-    ],
-  },
-];
-
-function matchTopic(blog: Blog): string | null {
-  const text = `${blog.title_zh} ${blog.summary_zh}`.toLowerCase();
-  for (const topic of BLOG_TOPICS) {
-    if (topic.keywords.some((kw) => text.includes(kw.toLowerCase()))) {
-      return topic.slug;
-    }
-  }
-  return null;
-}
+const TOPIC_OPTIONS = (Object.keys(TOPIC_DISPLAY) as BlogTopic[]).filter((t) => t !== 'other');
 
 interface Props {
   initialBlogs: Blog[];
@@ -99,7 +30,7 @@ export default function BlogPage({ initialBlogs }: Props) {
   const [visibleCount, setVisibleCount] = useState(INITIAL_BATCH);
   const [isLoadingMore, setIsLoadingMore] = useState(false);
   const [error, setError] = useState('');
-  const [selectedTopic, setSelectedTopic] = useState<string | null>(null);
+  const [selectedTopic, setSelectedTopic] = useState<BlogTopic | null>(null);
 
   useEffect(() => {
     let cancelled = false;
@@ -123,15 +54,10 @@ export default function BlogPage({ initialBlogs }: Props) {
 
   const sourceBlogs = allBlogs ?? initialBlogs;
 
-  const blogsWithTopic = useMemo(
-    () => sourceBlogs.map((blog) => ({ blog, topic: matchTopic(blog) })),
-    [sourceBlogs]
-  );
-
   const filteredBlogs = useMemo(() => {
-    if (!selectedTopic) return blogsWithTopic;
-    return blogsWithTopic.filter((item) => item.topic === selectedTopic);
-  }, [blogsWithTopic, selectedTopic]);
+    if (!selectedTopic) return sourceBlogs;
+    return sourceBlogs.filter((blog) => (blog.topic ?? 'other') === selectedTopic);
+  }, [sourceBlogs, selectedTopic]);
 
   const visibleBlogs = filteredBlogs.slice(0, visibleCount);
   const hasMore = visibleCount < filteredBlogs.length;
@@ -153,13 +79,12 @@ export default function BlogPage({ initialBlogs }: Props) {
 
   const topicCounts = useMemo(() => {
     const counts: Record<string, number> = {};
-    for (const item of blogsWithTopic) {
-      if (item.topic) {
-        counts[item.topic] = (counts[item.topic] || 0) + 1;
-      }
+    for (const blog of sourceBlogs) {
+      const topic = blog.topic ?? 'other';
+      counts[topic] = (counts[topic] || 0) + 1;
     }
     return counts;
-  }, [blogsWithTopic]);
+  }, [sourceBlogs]);
 
   return (
     <>
@@ -179,9 +104,7 @@ export default function BlogPage({ initialBlogs }: Props) {
               </div>
               <div className="category-filter__summary" aria-live="polite">
                 <span>
-                  {selectedTopic
-                    ? `已选: ${BLOG_TOPICS.find((t) => t.slug === selectedTopic)?.label}`
-                    : '全部主题'}
+                  {selectedTopic ? `已选: ${TOPIC_DISPLAY[selectedTopic].label}` : '全部主题'}
                 </span>
                 <span>
                   {filteredBlogs.length} / {sourceBlogs.length} 篇
@@ -198,18 +121,16 @@ export default function BlogPage({ initialBlogs }: Props) {
               >
                 <span className="category-filter-chip__label">全部</span>
               </button>
-              {BLOG_TOPICS.map((topic) => (
+              {TOPIC_OPTIONS.map((topic) => (
                 <button
-                  key={topic.slug}
+                  key={topic}
                   type="button"
-                  className={`category-filter-chip${selectedTopic === topic.slug ? ' active' : ''}`}
-                  style={{ ['--chip-accent' as string]: topic.accent }}
-                  onClick={() =>
-                    setSelectedTopic((current) => (current === topic.slug ? null : topic.slug))
-                  }
+                  className={`category-filter-chip${selectedTopic === topic ? ' active' : ''}`}
+                  style={{ ['--chip-accent' as string]: TOPIC_DISPLAY[topic].accent }}
+                  onClick={() => setSelectedTopic((current) => (current === topic ? null : topic))}
                 >
-                  <span className="category-filter-chip__label">{topic.label}</span>
-                  <span className="category-filter-chip__hint">{topicCounts[topic.slug] || 0}</span>
+                  <span className="category-filter-chip__label">{TOPIC_DISPLAY[topic].label}</span>
+                  <span className="category-filter-chip__hint">{topicCounts[topic] || 0}</span>
                 </button>
               ))}
             </div>
@@ -227,8 +148,8 @@ export default function BlogPage({ initialBlogs }: Props) {
 
           {visibleBlogs.length > 0 ? (
             <div className="blog-section__grid">
-              {visibleBlogs.map((item) => (
-                <BlogCard key={item.blog.id} blog={item.blog} />
+              {visibleBlogs.map((blog) => (
+                <BlogCard key={blog.id} blog={blog} />
               ))}
             </div>
           ) : (

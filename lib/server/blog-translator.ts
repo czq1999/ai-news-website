@@ -48,6 +48,7 @@ async function translateBlogBatch(batch: RawBlog[], apiKey: string, retries = 2)
             ...raw,
             title_zh: t.title_zh,
             summary_zh: t.summary_zh,
+            topic: t.topic,
           };
           const result = BlogSchema.safeParse(combined);
           if (!result.success) {

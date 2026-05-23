@@ -205,6 +205,7 @@ const BlogTranslationResultSchema = z.object({
   id: z.string(),
   title_zh: z.string(),
   summary_zh: z.string(),
+  topic: z.enum(['ai', 'ops', 'security', 'other']),
 });
 
 type BlogTranslationResult = z.infer<typeof BlogTranslationResultSchema>;
@@ -212,13 +213,18 @@ type BlogTranslationResult = z.infer<typeof BlogTranslationResultSchema>;
 export function buildBlogTranslationPrompt(blogs: RawBlog[]): string {
   return `You are a professional tech blog translator and editor.
 
-Given the following English tech blog titles, for each blog:
+Given the following tech blog titles, for each blog:
 1. Translate the title to natural, accurate Chinese
 2. Write a 200-300 character Chinese summary suitable for a tech audience
 3. Focus on technical depth and practical value in the summary
+4. Classify the blog topic into exactly one of: ai, ops, security, other
+   - ai: AI, machine learning, LLM, deep learning, NLP, Agent, RAG, fine-tuning, GPT, Transformer
+   - ops: Linux, Docker, Kubernetes, DevOps, CI/CD, server administration, monitoring, deployment, container
+   - security: CVE, vulnerability, kernel patch, security hardening, penetration, attack, defense, audit
+   - other: anything that does not clearly fit the above categories
 
 Respond with ONLY a valid JSON array. No markdown, no explanation, just the JSON array.
-Each object must have exactly these fields: id, title_zh, summary_zh
+Each object must have exactly these fields: id, title_zh, summary_zh, topic
 
 Blogs:
 ${JSON.stringify(
