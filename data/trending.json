@@ -2,17 +2,17 @@
   "days": [
     {
       "date": "2026-05-24",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程工具与知识图谱，涵盖代码可视化、金融终端、网络安全技能及演示生成，强调本地化与高效开发。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链，包括代码知识图谱、Claude插件生态、开源代理平台及金融模型，强调本地化、低token消耗与团队协作效率提升。",
       "projects": [
         {
           "rank": 1,
-          "name": "multica-ai/andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "language": "",
-          "stars_total": 150394,
-          "stars_today": 3507,
-          "description_zh": "一个单一的 CLAUDE.md 文件，用于改进 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
+          "name": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "language": "TypeScript",
+          "stars_total": 23837,
+          "stars_today": 3987,
+          "description_zh": "能教学的图表 > 能震撼的图表。将任何代码转化为可交互的知识图谱，支持探索、搜索和提问。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
         },
         {
           "rank": 2,
@@ -20,149 +20,149 @@
           "url": "https://github.com/colbymchenry/codegraph",
           "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
           "language": "TypeScript",
-          "stars_total": 20496,
-          "stars_today": 2456,
-          "description_zh": "为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 提供的预索引代码知识图谱——更少的令牌消耗、更少的工具调用、完全本地化运行。"
+          "stars_total": 21005,
+          "stars_today": 2993,
+          "description_zh": "为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 预索引的代码知识图谱——更少的 token、更少的工具调用、100% 本地运行。"
         },
         {
           "rank": 3,
-          "name": "Lum1104/Understand-Anything",
-          "url": "https://github.com/Lum1104/Understand-Anything",
-          "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-          "language": "TypeScript",
-          "stars_total": 22901,
-          "stars_today": 2299,
-          "description_zh": "以教学为目的的图谱，而非仅仅令人印象深刻的图谱。将任何代码转化为可探索、可搜索、可提问的交互式知识图谱。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 150957,
+          "stars_today": 2555,
+          "description_zh": "一个单一的 CLAUDE.md 文件，用于改进 Claude Code 的行为，灵感来源于 Andrej Karpathy 对 LLM 编码陷阱的观察。"
         },
         {
           "rank": 4,
-          "name": "anthropics/claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-          "language": "Python",
-          "stars_total": 26847,
-          "stars_today": 2193,
-          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
-        },
-        {
-          "rank": 5,
           "name": "rohitg00/ai-engineering-from-scratch",
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 14267,
-          "stars_today": 1521,
-          "description_zh": "学习它。构建它。为他人交付它。"
+          "stars_total": 14715,
+          "stars_today": 1836,
+          "description_zh": "学习它。构建它。交付给他人。"
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 27027,
+          "stars_today": 1179,
+          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
         },
         {
           "rank": 6,
-          "name": "yt-dlp/yt-dlp",
-          "url": "https://github.com/yt-dlp/yt-dlp",
-          "description_en": "A feature-rich command-line audio/video downloader",
-          "language": "Python",
-          "stars_total": 165134,
-          "stars_today": 759,
-          "description_zh": "一款功能丰富的命令行音视频下载器。"
-        },
-        {
-          "rank": 7,
-          "name": "trimstray/the-book-of-secret-knowledge",
-          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-          "description_en": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-          "language": "",
-          "stars_total": 224034,
-          "stars_today": 628,
-          "description_zh": "一系列鼓舞人心的列表、手册、速查表、博客、技巧、单行命令、命令行/Web 工具等。"
-        },
-        {
-          "rank": 8,
-          "name": "Fincept-Corporation/FinceptTerminal",
-          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-          "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-          "language": "Python",
-          "stars_total": 23278,
-          "stars_today": 545,
-          "description_zh": "FinceptTerminal 是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，旨在用户友好的环境中实现交互式探索和数据驱动决策。"
-        },
-        {
-          "rank": 9,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 41440,
-          "stars_today": 435,
-          "description_zh": "为编码代理提供的 Chrome DevTools。"
-        },
-        {
-          "rank": 10,
-          "name": "multica-ai/multica",
-          "url": "https://github.com/multica-ai/multica",
-          "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-          "language": "TypeScript",
-          "stars_total": 32114,
-          "stars_today": 410,
-          "description_zh": "开源托管代理平台。将编码代理转变为真正的团队成员——分配任务、跟踪进度、复合技能。"
-        },
-        {
-          "rank": 11,
-          "name": "odoo/odoo",
-          "url": "https://github.com/odoo/odoo",
-          "description_en": "Odoo. Open Source Apps To Grow Your Business.",
-          "language": "Python",
-          "stars_total": 51578,
-          "stars_today": 386,
-          "description_zh": "Odoo。助力企业成长的开源应用。"
-        },
-        {
-          "rank": 12,
           "name": "mukul975/Anthropic-Cybersecurity-Skills",
           "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
           "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
           "language": "Python",
-          "stars_total": 7707,
-          "stars_today": 281,
-          "description_zh": "为 AI 代理提供的 754 项结构化网络安全技能 · 映射至 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · 采用 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20 多个平台 · 涵盖 26 个安全领域 · Apache 2.0 许可。"
+          "stars_total": 7870,
+          "stars_today": 934,
+          "description_zh": "754 项面向 AI 智能体的结构化网络安全技能 · 映射至 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 涵盖 26 个安全领域 · Apache 2.0 许可。"
+        },
+        {
+          "rank": 7,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description_en": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars_total": 503985,
+          "stars_today": 590,
+          "description_zh": "通过从头重建你喜爱的技术来掌握编程。"
+        },
+        {
+          "rank": 8,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "language": "TypeScript",
+          "stars_total": 32223,
+          "stars_today": 584,
+          "description_zh": "开源托管智能体平台。将编码智能体变成真正的队友——分配任务、跟踪进度、复合技能。"
+        },
+        {
+          "rank": 9,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description_en": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+          "language": "Python",
+          "stars_total": 28862,
+          "stars_today": 565,
+          "description_zh": "在终端、VSCode 扩展或 Discord 中免费使用 claude-code，类似 OpenClaw（支持语音）。"
+        },
+        {
+          "rank": 10,
+          "name": "manaflow-ai/cmux",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "description_en": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+          "language": "Swift",
+          "stars_total": 18727,
+          "stars_today": 560,
+          "description_zh": "基于 Ghostty 的 macOS 终端，带有垂直标签页和 AI 编码智能体通知功能。"
+        },
+        {
+          "rank": 11,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars_total": 13243,
+          "stars_today": 486,
+          "description_zh": "开源插件仓库，主要面向知识工作者在 Claude Cowork 中使用。"
+        },
+        {
+          "rank": 12,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description_en": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "language": "TypeScript",
+          "stars_total": 53644,
+          "stars_today": 444,
+          "description_zh": "AI 智能体工具包：编码智能体 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM Pods。"
         },
         {
           "rank": 13,
+          "name": "blakeblackshear/frigate",
+          "url": "https://github.com/blakeblackshear/frigate",
+          "description_en": "NVR with realtime local object detection for IP cameras",
+          "language": "TypeScript",
+          "stars_total": 32670,
+          "stars_today": 355,
+          "description_zh": "支持实时本地物体检测的 IP 摄像头网络录像机（NVR）。"
+        },
+        {
+          "rank": 14,
           "name": "dotnet/skills",
           "url": "https://github.com/dotnet/skills",
           "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
           "language": "C#",
-          "stars_total": 2802,
-          "stars_today": 266,
-          "description_zh": "用于帮助 AI 编码代理处理 .NET 和 C# 的技能仓库。"
-        },
-        {
-          "rank": 14,
-          "name": "presenton/presenton",
-          "url": "https://github.com/presenton/presenton",
-          "description_en": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-          "language": "TypeScript",
-          "stars_total": 6582,
-          "stars_today": 241,
-          "description_zh": "开源 AI 演示文稿生成器及 API（Gamma、Beautiful AI、Decktopus 的替代方案）。"
+          "stars_total": 2845,
+          "stars_today": 181,
+          "description_zh": "用于帮助 AI 编码智能体处理 .NET 和 C# 的技能仓库。"
         },
         {
           "rank": 15,
-          "name": "NVlabs/LongLive",
-          "url": "https://github.com/NVlabs/LongLive",
-          "description_en": "LongLive 2.0: Infra - Long Video Gen",
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
           "language": "Python",
-          "stars_total": 1916,
-          "stars_today": 94,
-          "description_zh": "LongLive 2.0：基础设施 - 长视频生成"
+          "stars_total": 61897,
+          "stars_today": 179,
+          "description_zh": "一个简单通用的群体智能引擎，可预测万物。简洁通用的群体智能引擎，预测万物。"
         },
         {
           "rank": 16,
-          "name": "janestreet/magic-trace",
-          "url": "https://github.com/janestreet/magic-trace",
-          "description_en": "magic-trace collects and displays high-resolution traces of what a process is doing",
-          "language": "OCaml",
-          "stars_total": 5977,
-          "stars_today": 68,
-          "description_zh": "magic-trace 可收集并显示进程活动的高分辨率跟踪信息。"
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 25689,
+          "stars_today": 96,
+          "description_zh": "Kronos：金融市场语言的基础模型。"
         }
       ]
     },

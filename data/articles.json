@@ -1,5 +1,93 @@
 [
   {
+    "id": "a51bc6b64f11c53e2cf17b0ac032e91d",
+    "title_en": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "published_at": "2026-05-24T12:00:00.000Z",
+    "fetched_at": "2026-05-24T13:02:08.616Z",
+    "title_zh": "黑客正在学习利用聊天机器人的“个性”进行攻击",
+    "summary_zh": "黑客开始针对AI聊天机器人的“人格设定”进行攻击，通过精心设计的提示词诱导模型绕过安全限制，泄露敏感信息或执行恶意操作。这种新型攻击方式利用了模型对角色扮演的深度理解，使得传统安全防护手段面临挑战。",
+    "category": "llm"
+  },
+  {
+    "id": "8d2c35a258dc161ea365718e304cb849",
+    "title_en": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
+    "published_at": "2026-05-24T11:01:00.000Z",
+    "fetched_at": "2026-05-24T13:02:08.940Z",
+    "title_zh": "Topo Designs Rover Trail Pack：我用过最好的背包",
+    "summary_zh": "评测者高度评价Topo Designs Rover Trail Pack，称其为迄今为止用过的最佳背包。该背包在设计、耐用性和功能性上表现出色，兼顾了日常通勤与户外探险的需求。其合理的隔层布局和舒适的背负系统获得了专业认可，成为一款值得推荐的优质装备。",
+    "category": "product"
+  },
+  {
+    "id": "a3b87b8f589855d9b618b73988c8a48d",
+    "title_en": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+    "published_at": "2026-05-24T11:00:00.000Z",
+    "fetched_at": "2026-05-24T13:02:08.616Z",
+    "title_zh": "Nuro认为作为Robotaxi“后来者”反而拥有优势",
+    "summary_zh": "自动驾驶配送公司Nuro表示，作为Robotaxi领域的“第二波”玩家，他们可以从先行者的错误中学习，避免高昂的试错成本。公司专注于低速、轻量级无人配送车，认为这一细分市场比载人出租车更早实现商业化落地。",
+    "category": "product"
+  },
+  {
+    "id": "6de290a634dbc0fa517d7c7105112fe5",
+    "title_en": "The Best Browser Extensions to Get More Out of YouTube",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/",
+    "published_at": "2026-05-24T11:00:00.000Z",
+    "fetched_at": "2026-05-24T13:02:08.940Z",
+    "title_zh": "提升YouTube体验的最佳浏览器扩展推荐",
+    "summary_zh": "本文精选了多款实用的浏览器扩展，旨在优化YouTube的使用体验。这些工具涵盖了广告拦截、视频下载、增强播放控制、屏蔽干扰内容等功能。无论是提升观看效率还是改善界面交互，这些扩展都能帮助用户更高效、更个性化地使用YouTube平台。",
+    "category": "product"
+  },
+  {
+    "id": "61926588aa0c00888c4d38ba072af904",
+    "title_en": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+    "published_at": "2026-05-24T10:30:00.000Z",
+    "fetched_at": "2026-05-24T13:02:08.940Z",
+    "title_zh": "旧金山田德隆区：机器人正在为非营利组织制作餐食",
+    "summary_zh": "在旧金山田德隆区，一家非营利组织开始引入机器人进行餐食制作。这些机器人负责完成烹饪流程中的部分环节，旨在提高供餐效率并降低成本，以更好地服务当地有需要的人群。这一实践展示了自动化技术在公益领域的应用潜力，为解决城市食品短缺问题提供了新思路。",
+    "category": "industry"
+  },
+  {
+    "id": "8529c1b312500ad72dd91a3ff91b0104",
+    "title_en": "14 New Tools for Taking on the Great Outdoors Properly",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/",
+    "published_at": "2026-05-24T09:30:00.000Z",
+    "fetched_at": "2026-05-24T13:02:08.940Z",
+    "title_zh": "14款全新户外装备，助你尽情探索大自然",
+    "summary_zh": "本文盘点了14款最新推出的户外装备，涵盖服装、工具、配件等多个品类。这些产品旨在提升户外活动的舒适度、安全性和便利性，从高性能背包到创新烹饪工具，为热爱自然探险的用户提供了全面的升级选择。无论是徒步、露营还是登山，都能找到合适的装备。",
+    "category": "product"
+  },
+  {
+    "id": "39950135dcb09a2dbf0253710faf578e",
+    "title_en": "Why Garlic Repels Mosquitoes and Keeps Them From Breeding",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
+    "published_at": "2026-05-24T09:00:00.000Z",
+    "fetched_at": "2026-05-24T13:02:08.940Z",
+    "title_zh": "大蒜驱蚊的原理：不仅能驱赶，还能阻止繁殖",
+    "summary_zh": "研究发现，大蒜不仅能有效驱赶蚊子，还能干扰其繁殖过程。其强烈的气味成分对蚊子具有天然的排斥作用，并能影响蚊虫的产卵和幼虫发育。这一发现为开发更环保、更高效的天然驱蚊剂提供了科学依据，有望替代部分化学驱蚊产品。",
+    "category": "research"
+  },
+  {
+    "id": "4468029609d6e79577ff8f2f39809970",
+    "title_en": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "published_at": "2026-05-24T08:30:00.000Z",
+    "fetched_at": "2026-05-24T13:02:08.940Z",
+    "title_zh": "航空工程学的一项基本原理被推翻",
+    "summary_zh": "一项最新研究颠覆了航空工程学中一个长期被视为金科玉律的基本原理。该原理曾被认为是飞行器设计的核心依据，但新发现表明其存在重大局限或错误。这一突破将迫使工程师重新审视飞行器的气动设计，可能对未来飞机、无人机等航空器的性能优化产生深远影响。",
+    "category": "research"
+  },
+  {
     "id": "f08c5a6d861476d3944f606517d1bd31",
     "title_en": "The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why",
     "source": "Wired",
@@ -77,6 +165,17 @@
     "category": "product"
   },
   {
+    "id": "cb57d35fc1a08231f9ef3413e3febf78",
+    "title_en": "If Google Search is morphing into Gemini, then what’s the point of Gemini?",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/google-search-vs-gemini-identity-crisis-3669955/",
+    "published_at": "2026-05-23T13:00:46Z",
+    "fetched_at": "2026-05-24T13:02:09.386Z",
+    "title_zh": "如果谷歌搜索正在变成Gemini，那Gemini本身还有什么意义？",
+    "summary_zh": "随着谷歌将AI助手Gemini深度整合进搜索引擎，两者功能日益重叠，引发了关于产品定位的困惑。文章质疑，当搜索本身具备了Gemini的对话和生成能力后，独立的Gemini应用是否还有存在的必要。这反映了科技巨头在整合AI功能时面临的内部产品冲突与用户体验挑战。",
+    "category": "industry"
+  },
+  {
     "id": "7658c2d01755101142e3cd0d9794cd4e",
     "title_en": "Hanging out in my favorite virtual coffee shop in Tokyo",
     "source": "The Verge",
@@ -96,6 +195,94 @@
     "fetched_at": "2026-05-23T18:57:13.849Z",
     "title_zh": "埃隆·马斯克已放弃（地球上的）太阳能业务",
     "summary_zh": "据报道，马斯克旗下的特斯拉和SolarCity正逐步缩减住宅太阳能安装业务，转而聚焦储能和电动汽车。分析认为，太阳能市场竞争激烈、利润微薄，且马斯克个人兴趣已转向AI、脑机接口和太空探索，地球上的太阳能不再是其战略重点。",
+    "category": "industry"
+  },
+  {
+    "id": "ff190cd6cbf040ee62a8cb786c73d2f9",
+    "title_en": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
+    "published_at": "2026-05-23T13:00:00Z",
+    "fetched_at": "2026-05-24T13:02:09.386Z",
+    "title_zh": "《清晰法案》或引爆加密“收益即服务”热潮",
+    "summary_zh": "《清晰法案》的提出可能为加密货币领域带来新的商业模式——“收益即服务”。该法案旨在明确数字资产监管框架，有望吸引更多机构投资者入场，推动加密资产收益产品化、服务化，从而引爆新一轮市场增长。",
+    "category": "industry"
+  },
+  {
+    "id": "b91df4db36ab698096429f0850792371",
+    "title_en": "Oman leads international dialogue in Geneva on future of AI in health",
+    "source": "Times of Oman",
+    "url": "https://cdn-5.timesofoman.com/article/172075-oman-leads-international-dialogue-in-geneva-on-future-of-ai-in-health",
+    "published_at": "2026-05-23T12:53:42Z",
+    "fetched_at": "2026-05-24T13:02:09.386Z",
+    "title_zh": "阿曼在日内瓦主导人工智能健康未来国际对话",
+    "summary_zh": "阿曼在日内瓦主持了一场关于人工智能在健康领域未来的国际对话，汇聚全球专家探讨AI如何革新医疗诊断、治疗及公共卫生管理。此举彰显了阿曼在推动全球AI健康治理中的领导角色，旨在促进国际合作与标准制定。",
+    "category": "industry"
+  },
+  {
+    "id": "e5f8800150cfde760375c4349d31acea",
+    "title_en": "New AI body map reveals obesity’s hidden attack on facial nerves",
+    "source": "Science Daily",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm",
+    "published_at": "2026-05-23T12:34:45Z",
+    "fetched_at": "2026-05-24T13:02:09.386Z",
+    "title_zh": "新AI人体图谱揭示肥胖对面部神经的隐秘攻击",
+    "summary_zh": "研究人员利用新型AI人体图谱技术，首次详细揭示了肥胖如何悄然损害面部神经。该研究通过分析大量医学影像数据，发现肥胖与面部神经病变之间存在显著关联，为肥胖相关神经疾病的早期诊断和干预提供了新线索。",
+    "category": "research"
+  },
+  {
+    "id": "14b82cc74e238dc2904775235013f9fb",
+    "title_en": "Nick Doyle’s “Mirror, Mirror” Turns the American Dream Inside Out",
+    "source": "Observer",
+    "url": "https://observer.com/2026/05/artist-nick-doyle-mirror-mirror-perrotin-ai-american-dream/",
+    "published_at": "2026-05-23T12:30:27Z",
+    "fetched_at": "2026-05-24T13:02:09.386Z",
+    "title_zh": "尼克·多伊尔《镜中镜》：颠覆美国梦的内外视角",
+    "summary_zh": "艺术家尼克·多伊尔的最新作品《镜中镜》以独特视角解构美国梦。通过镜像与反转的视觉语言，作品探讨了身份、消费主义与社会期望之间的张力，引发观众对当代美国文化内核的反思。",
+    "category": "product"
+  },
+  {
+    "id": "fe09c5101a6cd4964876a3480fff3ebc",
+    "title_en": "Microsoft MSFT Stock Dips Slightly as AI Cloud Momentum Continues in May 2026",
+    "source": "Ibtimes.com.au",
+    "url": "https://www.ibtimes.com.au/microsoft-q3-2026-ai-growth-revenue-surge-1869364",
+    "published_at": "2026-05-23T12:30:09Z",
+    "fetched_at": "2026-05-24T13:02:09.386Z",
+    "title_zh": "微软MSFT股价微跌，AI云业务势头不减（2026年5月）",
+    "summary_zh": "2026年5月，微软股价小幅下跌，但其AI云业务持续强劲增长。市场分析认为，短期股价波动属正常调整，AI驱动的云服务需求依然旺盛，长期看好微软在AI领域的领先地位及盈利能力。",
+    "category": "industry"
+  },
+  {
+    "id": "8deef804558abb81016311c6720dea8c",
+    "title_en": "Generation X-23 #4: Laura Kinney Unleashes Her Claws for Family",
+    "source": "Bleeding Cool News",
+    "url": "https://bleedingcool.com/comics/generation-x-23-4-laura-kinney-unleashes-her-claws-for-family/",
+    "published_at": "2026-05-23T12:27:08Z",
+    "fetched_at": "2026-05-24T13:02:09.387Z",
+    "title_zh": "《X-23世代》第4期：劳拉·金尼为家人亮出利爪",
+    "summary_zh": "在《X-23世代》第4期中，劳拉·金尼（X-23）为保护家人而释放战斗本能。本期漫画聚焦家庭与牺牲主题，劳拉在亲情与变种人身份之间挣扎，最终选择用利爪捍卫所爱之人。",
+    "category": "product"
+  },
+  {
+    "id": "0314fb43cf75e33c695dd57b254533b8",
+    "title_en": " Official: Cherki beaten to the Premier League young player award!",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/official-cherki-beaten-to-the-premier-league-young-player-award-42910877",
+    "published_at": "2026-05-23T12:14:00Z",
+    "fetched_at": "2026-05-24T13:02:09.387Z",
+    "title_zh": "官方：切尔基憾失英超最佳年轻球员奖",
+    "summary_zh": "官方消息确认，里昂新星切尔基在英超最佳年轻球员评选中惜败。尽管赛季表现亮眼，但最终未能获奖。这一结果引发球迷热议，也凸显了英超年轻才俊竞争的激烈程度。",
+    "category": "industry"
+  },
+  {
+    "id": "00335ea11c0926bb25c1bc08a6b501d2",
+    "title_en": "Shirdi to emerge as defence manufacturing, innovation hub: CDS General Anil Chauhan",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/defence/shirdi-to-emerge-as-defence-manufacturing-innovation-hub-cds-general-anil-chauhan/articleshow/131279209.cms",
+    "published_at": "2026-05-23T12:04:48Z",
+    "fetched_at": "2026-05-24T13:02:09.387Z",
+    "title_zh": "印度国防参谋长：希尔迪将成国防制造与创新中心",
+    "summary_zh": "印度国防参谋长阿尼尔·乔汉将军宣布，希尔迪将被打造成国防制造与创新枢纽。该计划旨在推动本土军工产业发展，吸引投资与技术，强化印度国防自主能力，并促进区域经济多元化。",
     "category": "industry"
   },
   {
@@ -5311,192 +5498,5 @@
     "title_zh": "DeepMind创始人哈萨比斯：AI导致裁员是愚蠢的",
     "summary_zh": "DeepMind联合创始人Demis Hassabis公开批评企业因AI而大规模裁员的做法，认为这是短视且愚蠢的。他强调AI应作为增强人类能力的工具，而非替代品，并呼吁行业更负责任地部署技术，关注再培训和创造新岗位，而非简单削减人力成本。",
     "category": "industry"
-  },
-  {
-    "id": "4a32d5bcd0bcc5f11d99811910ea3afb",
-    "title_en": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-    "published_at": "2026-05-19T17:45:00.000Z",
-    "fetched_at": "2026-05-19T19:43:25.188Z",
-    "title_zh": "谷歌搜索走向“代理化”——不再需要你",
-    "summary_zh": "谷歌搜索正在进行重大变革，从传统的信息检索工具转向主动式AI代理。新搜索能理解复杂意图、自主执行多步骤任务并直接给出结果，用户无需再手动点击链接。这一“代理化”趋势将彻底改变人机交互方式，但也引发了对信息控制权和用户自主性的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "ed8d751b372755056d56277d01225992",
-    "title_en": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
-    "published_at": "2026-05-19T17:45:00.000Z",
-    "fetched_at": "2026-05-19T19:43:25.188Z",
-    "title_zh": "Gemini Spark：谷歌对标OpenClaw 24/7 AI代理的回应",
-    "summary_zh": "谷歌推出Gemini Spark，作为对OpenClaw全天候AI代理的竞品。该产品旨在提供不间断的智能助手服务，可自动处理日程、邮件、数据分析等任务。此举标志着AI代理市场竞争白热化，谷歌试图通过深度整合自身生态来占据优势，但隐私和可靠性仍是用户关注焦点。",
-    "category": "product"
-  },
-  {
-    "id": "e7785d8c77e3bec4917263d6fc928b46",
-    "title_en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "source": "VentureBeat AI",
-    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "published_at": "2026-05-19T17:45:00.000Z",
-    "fetched_at": "2026-05-19T19:43:25.489Z",
-    "title_zh": "谷歌25年来首次重新设计搜索框——其意义远超想象",
-    "summary_zh": "谷歌对搜索框进行了25年来的首次重大改版，引入更智能的交互方式。新设计不仅优化了视觉风格，更深度整合了AI能力，支持多模态输入和上下文理解。这一变化标志着搜索从“关键词匹配”向“意图理解”的范式转移，对用户体验、广告模式和整个搜索生态都将产生深远影响。",
-    "category": "product"
-  },
-  {
-    "id": "d982756a75dd428f8146aeaeac6c2aec",
-    "title_en": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-    "published_at": "2026-05-19T17:45:00.000Z",
-    "fetched_at": "2026-05-20T02:29:25.974Z",
-    "title_zh": "谷歌推出“通用购物车”：追踪你在互联网上的完整购物旅程",
-    "summary_zh": "谷歌在IO 2026上发布了“通用购物车”功能，旨在跨网站追踪用户的购物行为。该工具利用AI整合用户在不同电商平台的浏览、比价和购买记录，提供统一的购物车管理体验。用户可一键结算或比较价格，极大简化了在线购物流程，有望改变电商生态。",
-    "category": "product"
-  },
-  {
-    "id": "947ea2dcc2413bd356c6ead737b138ad",
-    "title_en": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-    "published_at": "2026-05-19T17:45:00.000Z",
-    "fetched_at": "2026-05-20T02:29:25.974Z",
-    "title_zh": "谷歌在IO 2026上发布Antigravity 2.0：更新桌面应用和CLI工具",
-    "summary_zh": "谷歌在IO 2026大会上推出了Antigravity 2.0，这是一款面向开发者的工具，包含全新的桌面应用和命令行界面（CLI）工具。新版本提升了AI模型部署和管理的效率，支持更复杂的自动化工作流。Antigravity 2.0的发布进一步巩固了谷歌在AI开发工具领域的竞争力。",
-    "category": "product"
-  },
-  {
-    "id": "f8e07eea8773280a620912460f7cc3f1",
-    "title_en": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
-    "published_at": "2026-05-19T17:45:00.000Z",
-    "fetched_at": "2026-05-20T02:29:25.974Z",
-    "title_zh": "谷歌在IO 2026上更新Gemini应用，正面迎战ChatGPT和Claude",
-    "summary_zh": "在Google IO 2026上，谷歌对其Gemini应用进行了重大更新，以与OpenAI的ChatGPT和Anthropic的Claude竞争。新版本增强了多模态能力、推理速度和上下文理解，并整合了更多谷歌服务。谷歌此举旨在巩固其在AI聊天助手市场的地位，提供更全面、高效的AI交互体验。",
-    "category": "product"
-  },
-  {
-    "id": "a173121408daf48e0385e367e4f6e497",
-    "title_en": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-    "published_at": "2026-05-19T15:43:04.000Z",
-    "fetched_at": "2026-05-19T19:43:24.380Z",
-    "title_zh": "OpenAI联合创始人卡帕西加入Anthropic预训练团队",
-    "summary_zh": "OpenAI联合创始人、前特斯拉AI总监安德烈·卡帕西宣布加入Anthropic，专注于预训练团队。卡帕西在AI领域拥有深厚背景，其加入被视为对Anthropic技术实力的重要补充。此举也反映出AI人才在头部公司间的激烈流动，尤其是在大模型预训练这一关键环节。",
-    "category": "industry"
-  },
-  {
-    "id": "61d6432eef81de7e03a72e5299bb5f21",
-    "title_en": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
-    "published_at": "2026-05-19T15:00:28.000Z",
-    "fetched_at": "2026-05-19T19:43:25.188Z",
-    "title_zh": "前OpenAI员工警告：xAI安全记录差或影响SpaceX IPO",
-    "summary_zh": "多位前OpenAI员工公开指出，马斯克旗下xAI公司在AI安全方面记录不佳，这可能对其兄弟公司SpaceX的首次公开募股（IPO）构成风险。他们担忧xAI的激进开发策略会引发监管审查和公众信任危机，进而波及SpaceX的资本市场表现。该事件凸显了AI安全与企业声誉的紧密关联。",
-    "category": "industry"
-  },
-  {
-    "id": "e5a26e775364de335f16cdd86d456160",
-    "title_en": "SputnikPro Maintains Engagement With New Era University",
-    "source": "Sputnikglobe.com",
-    "url": "https://sputnikglobe.com/20260519/sputnikpro-maintains-engagement-with-new-era-university-1124151338.html",
-    "published_at": "2026-05-19T14:35:51Z",
-    "fetched_at": "2026-05-20T14:38:06.294Z",
-    "title_zh": "SputnikPro与新时代大学保持合作互动",
-    "summary_zh": "俄罗斯卫星通讯社旗下SputnikPro项目与新时代大学持续开展合作，通过媒体培训、讲座和联合活动提升学生新闻实践能力。该项目旨在培养新一代媒体人才，促进国际传播交流。文章介绍了近期合作成果及未来规划。",
-    "category": "industry"
-  },
-  {
-    "id": "d979acb876103acb38156073d504a49d",
-    "title_en": "China calls for stronger engagement towards FTAAP",
-    "source": "Antaranews.com",
-    "url": "https://en.antaranews.com/news/416261/china-calls-for-stronger-engagement-towards-ftaap",
-    "published_at": "2026-05-19T14:34:58Z",
-    "fetched_at": "2026-05-20T14:38:06.295Z",
-    "title_zh": "中国呼吁加强合作以推动亚太自贸区建设",
-    "summary_zh": "中国在相关国际场合发出倡议，呼吁各方加强沟通与协作，共同推进亚太自由贸易区（FTAAP）的建设进程。此举旨在深化区域经济一体化，应对全球贸易挑战，促进亚太地区的长期繁荣与稳定。分析认为，中国的积极表态将为多边贸易体系注入新动力。",
-    "category": "industry"
-  },
-  {
-    "id": "b3cecda7e73a9f4d11e8a55bbaec4ea0",
-    "title_en": "Super-sized utility merger runs through Virginia",
-    "source": "Politico",
-    "url": "https://www.politico.com/news/2026/05/19/power-companies-merger-lower-bills-affordability-politics-00927494",
-    "published_at": "2026-05-19T14:30:37Z",
-    "fetched_at": "2026-05-20T14:38:06.295Z",
-    "title_zh": "大型公用事业合并案在弗吉尼亚州推进",
-    "summary_zh": "一项涉及多家大型公用事业公司的超级合并案正在弗吉尼亚州稳步推进。该交易若成功，将重塑当地能源市场格局，引发对电价、服务质量和行业垄断的广泛讨论。监管机构与利益相关方正密切关注其潜在影响，合并案最终能否获批仍存变数。",
-    "category": "industry"
-  },
-  {
-    "id": "3ecf5bb2d72dae7572ae36b78b9ccad5",
-    "title_en": "Golden Natalka.",
-    "source": "Kaspersky.com",
-    "url": "https://eugene.kaspersky.com/2026/05/19/golden-natalka/",
-    "published_at": "2026-05-19T14:30:25Z",
-    "fetched_at": "2026-05-20T14:38:06.295Z",
-    "title_zh": "“金色娜塔莉卡”恶意软件分析",
-    "summary_zh": "卡巴斯基实验室披露了一种名为“金色娜塔莉卡”的新型恶意软件。该软件具备高度隐蔽性和持久性，主要通过钓鱼邮件和漏洞利用传播，可窃取敏感信息并远程控制受感染系统。安全专家建议用户及时更新补丁并提高警惕，防范此类高级持续性威胁。",
-    "category": "research"
-  },
-  {
-    "id": "5030d9907b539db26a73a4871d4d9a58",
-    "title_en": "AI chatbots leading children into ‘terrible harm’, Oireachtas committee hears",
-    "source": "The Irish Times",
-    "url": "https://www.irishtimes.com/politics/oireachtas/2026/05/19/ai-chatbots-leading-children-into-terrible-harm-oireachtas-committee-hears/",
-    "published_at": "2026-05-19T14:30:11Z",
-    "fetched_at": "2026-05-20T14:38:06.295Z",
-    "title_zh": "爱尔兰议会听证：AI聊天机器人正对儿童造成“严重伤害”",
-    "summary_zh": "在爱尔兰议会（Oireachtas）的一场听证会上，专家和议员警告称，AI聊天机器人缺乏有效监管，可能向儿童提供不当内容、诱导危险行为或侵犯隐私，导致“严重伤害”。呼吁立法机构尽快出台严格措施，保护未成年人免受AI技术滥用的影响。",
-    "category": "industry"
-  },
-  {
-    "id": "a472433966de3f20b23573dba4471645",
-    "title_en": "Cloud Storage Market Surges to $380.15 billion by 2031 | CAGR 17.1%",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/05/19/3297727/0/en/Cloud-Storage-Market-Surges-to-380-15-billion-by-2031-CAGR-17-1.html",
-    "published_at": "2026-05-19T14:30:00Z",
-    "fetched_at": "2026-05-20T14:38:06.295Z",
-    "title_zh": "云存储市场预计2031年达3801.5亿美元，年复合增长率17.1%",
-    "summary_zh": "最新市场研究报告显示，全球云存储市场正高速增长，预计到2031年规模将突破3801.5亿美元，2024至2031年间年复合增长率达17.1%。驱动因素包括企业数字化转型、数据量爆发式增长以及对混合云和边缘计算解决方案的需求激增。",
-    "category": "industry"
-  },
-  {
-    "id": "49607c6a8fc68ff22f3719978ac79d68",
-    "title_en": "Universities Space Research Association Announces the Establishment of its New Subsidiary, USRA Energy LLC, to Advance the Nation's Priorities in Energy",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/universities-space-research-association-announces-the-establishment-of-its-new-subsidiary-usra-energy-llc-to-advance-the-nations-priorities-in-energy-302775198.html",
-    "published_at": "2026-05-19T14:30:00Z",
-    "fetched_at": "2026-05-20T14:38:06.295Z",
-    "title_zh": "大学空间研究协会成立新子公司USRA Energy LLC，推进国家能源优先事项",
-    "summary_zh": "大学空间研究协会（USRA）宣布成立全资子公司USRA Energy LLC，专注于能源领域的前沿研究与技术开发。新公司将整合学术与产业资源，致力于解决能源安全、可持续性和创新等关键挑战，以支持美国国家能源战略目标的实现。",
-    "category": "industry"
-  },
-  {
-    "id": "a6d346f3cbccceac0ba29db95c77823e",
-    "title_en": "Southern Africa Safari Tourism Market Trends Analysis Report 2026-2033: Leading Operators Such As Wilderness Safaris, &Beyond, and Singita Have Set Benchmarks in Luxury and Sustainable Safari Tourism",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/05/19/3297724/28124/en/Southern-Africa-Safari-Tourism-Market-Trends-Analysis-Report-2026-2033-Leading-Operators-Such-As-Wilderness-Safaris-Beyond-and-Singita-Have-Set-Benchmarks-in-Luxury-and-Sustainable.html",
-    "published_at": "2026-05-19T14:28:00Z",
-    "fetched_at": "2026-05-20T14:38:06.295Z",
-    "title_zh": "南部非洲野生动物园旅游市场趋势分析报告（2026-2033）：Wilderness Safaris等运营商树立奢华与可持续标杆",
-    "summary_zh": "一份针对南部非洲野生动物园旅游市场的最新报告指出，2026至2033年间，该市场将保持稳健增长。以Wilderness Safaris、&Beyond和Singita为代表的领先运营商，通过提供高端奢华体验与践行可持续发展理念，为行业树立了标杆。生态旅游和个性化服务成为主要增长驱动力。",
-    "category": "industry"
-  },
-  {
-    "id": "582c4285d61c8f94dafdf2107db4ff11",
-    "title_en": "Microsoft's biggest India data centre on track to go live in mid-2026, executive says",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/tech/technology/microsofts-biggest-india-data-centre-on-track-to-go-live-in-mid-2026-executive-says/articleshow/131203807.cms",
-    "published_at": "2026-05-19T14:26:36Z",
-    "fetched_at": "2026-05-20T14:38:06.295Z",
-    "title_zh": "微软高管：印度最大数据中心将于2026年中投入运营",
-    "summary_zh": "微软一位高管透露，公司在印度建设的最大规模数据中心项目进展顺利，预计将于2026年年中正式上线。该设施将大幅提升微软云服务在印度及南亚地区的算力与存储能力，满足日益增长的企业级AI和云计算需求，进一步巩固其市场地位。",
-    "category": "product"
   }
 ]

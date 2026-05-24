@@ -1,5 +1,93 @@
 [
   {
+    "id": "af9c678f190ee48299293cdf7a1073f7",
+    "title_en": "系统运维管理 OOS - 统一自动化运维编排管理 - 阿里云",
+    "source": "cn.aliyun.com",
+    "url": "https://cn.aliyun.com/product/oos?from_alibabacloud=",
+    "published_at": "2026-05-24T13:03:36.196Z",
+    "fetched_at": "2026-05-24T13:03:36.196Z",
+    "title_zh": "系统运维管理 OOS - 统一自动化运维编排管理 - 阿里云",
+    "summary_zh": "本文介绍了阿里云系统运维管理服务（OOS），该服务提供统一的自动化运维编排能力。文章详细说明了OOS的核心功能，包括运维模板定义、批量执行、定时任务、审批流程以及跨地域资源管理。通过可视化编排和API集成，用户可快速实现云资源的自动化部署、配置变更和故障恢复。对于阿里云用户，本文是一份高效利用OOS提升运维效率的实用指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "af3646b283c2c6ac22cae0a041fe976e",
+    "title_en": "CN113946834A - 一种Linux操作系统的安全加固策略优化方法",
+    "source": "patents.google.com",
+    "url": "https://patents.google.com/patent/CN113946834A/zh",
+    "published_at": "2026-05-24T13:03:19.180Z",
+    "fetched_at": "2026-05-24T13:03:19.180Z",
+    "title_zh": "CN113946834A - 一种Linux操作系统的安全加固策略优化方法",
+    "summary_zh": "这是一份中国发明专利，公开了一种Linux操作系统安全加固策略的优化方法。专利提出了一种基于安全基线模型和策略冲突检测的自动化加固方案。核心创新点包括：通过策略依赖图分析加固规则之间的冲突与冗余，利用强化学习算法动态调整加固策略优先级，以及结合系统运行时状态（如CPU负载、网络流量）自适应启用或禁用部分加固措施。该方法旨在解决传统静态加固策略导致性能下降或安全覆盖不足的问题。适合安全研究者和策略自动化工具开发者参考。",
+    "topic": "security"
+  },
+  {
+    "id": "fc7d9c82e17aa4786eab60abf1bac134",
+    "title_en": "整合分析 | Fortinet 双子星高危漏洞：未认证即可远程代码执行 - 信息安全知识库",
+    "source": "gm7.org",
+    "url": "https://www.gm7.org/archives/105861",
+    "published_at": "2026-05-24T13:03:19.180Z",
+    "fetched_at": "2026-05-24T13:03:19.180Z",
+    "title_zh": "整合分析 | Fortinet双子星高危漏洞：未认证即可远程代码执行",
+    "summary_zh": "本文整合分析了Fortinet防火墙产品中披露的两个高危漏洞（CVE-2023-27997等），攻击者无需认证即可通过特制请求实现远程代码执行。文章详细分析了漏洞成因（如堆缓冲区溢出、输入验证缺失），并给出了受影响的产品版本（FortiOS、FortiProxy等）及对应的修复版本。同时提供了临时缓解措施（如限制管理接口访问、禁用易受攻击的功能模块）。对于使用Fortinet设备的企业安全团队，本文是紧急漏洞响应的关键参考资料。",
+    "topic": "security"
+  },
+  {
+    "id": "11146f82d1d531f7de5d16ee41b18e88",
+    "title_en": "全网首发｜CVE-2026-34926 Trend Micro Apex One零日漏洞在野利用全解析：从路径遍历到全网终端沦陷-CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/weixin_42376192/article/details/161357281",
+    "published_at": "2026-05-24T13:03:19.180Z",
+    "fetched_at": "2026-05-24T13:03:19.180Z",
+    "title_zh": "全网首发｜CVE-2026-34926 Trend Micro Apex One零日漏洞在野利用全解析：从路径遍历到全网终端沦陷",
+    "summary_zh": "本文详细披露了CVE-2026-34926零日漏洞，该漏洞影响Trend Micro Apex One终端安全产品。文章从路径遍历漏洞入手，逐步展示了攻击者如何利用该漏洞绕过身份验证、提升权限并最终实现全网终端沦陷。作者提供了完整的攻击链分析、受影响版本清单以及详细的修复方案，包括临时缓解措施和官方补丁部署建议。对于企业安全防护人员，本文是理解并防御该高危漏洞的关键参考资料。",
+    "topic": "security"
+  },
+  {
+    "id": "ba59722c84fda8d8c6a06875f08e4084",
+    "title_en": "什么是Docker容器？Docker容器是如何工作的？ - 华为",
+    "source": "info.support.huawei.com",
+    "url": "https://info.support.huawei.com/info-finder/encyclopedia/zh/Docker%E5%AE%B9%E5%99%A8.html",
+    "published_at": "2026-05-24T13:03:19.179Z",
+    "fetched_at": "2026-05-24T13:03:19.179Z",
+    "title_zh": "什么是Docker容器？Docker容器是如何工作的？",
+    "summary_zh": "本文由华为技术团队撰写，从底层原理出发解释Docker容器的核心工作机制。文章深入剖析了容器与虚拟机的本质区别，详细介绍了Linux Namespace（实现资源隔离）和Cgroups（实现资源限制）两大关键技术。同时，解释了Docker镜像的分层存储（UnionFS）、容器运行时的创建过程，以及Docker Engine的架构（client-daemon模式）。对于希望理解容器技术本质的初学者和中级开发者，是一篇兼具理论深度与清晰表达的入门佳作。",
+    "topic": "ops"
+  },
+  {
+    "id": "3a9abdda96e37bfbde9436b4a967c952",
+    "title_en": "什么是Docker？了解Docker 容器技术、优势与企业应用 - IBM",
+    "source": "ibm.com",
+    "url": "https://www.ibm.com/cn-zh/think/topics/docker",
+    "published_at": "2026-05-24T13:03:19.179Z",
+    "fetched_at": "2026-05-24T13:03:19.179Z",
+    "title_zh": "什么是Docker？了解Docker容器技术、优势与企业应用",
+    "summary_zh": "IBM官方出品的Docker技术科普文章，从企业级应用视角全面解读容器技术。文章不仅介绍了Docker的基本概念（镜像、容器、仓库）和核心优势（轻量、可移植、快速部署），还重点分析了企业在采用Docker时面临的挑战（安全、持久化存储、网络管理）及对应解决方案。此外，文中结合IBM Cloud等实际案例，展示了Docker在微服务架构、CI/CD流水线和混合云部署中的典型应用场景。适合技术决策者和架构师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "1555885bb60e9bda78ecba0582c743c6",
+    "title_en": "从零开始自学《Linux运维工程师》",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
+    "published_at": "2026-05-24T13:03:02.464Z",
+    "fetched_at": "2026-05-24T13:03:02.464Z",
+    "title_zh": "从零开始自学《Linux运维工程师》",
+    "summary_zh": "本文为从零开始自学Linux运维的初学者提供了一份系统化的学习路线图。内容从Linux基础命令与文件系统入手，逐步引导读者掌握用户管理、权限控制、软件安装与编译、网络配置、服务搭建（如Web、FTP、DNS），以及Shell脚本编程。文章还推荐了实践环境搭建方法（如虚拟机、云服务器）和进阶学习资源，并强调了动手实验与项目驱动学习的重要性，帮助零基础读者循序渐进地成长为运维工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "cea0781dd64bc2f3745635f4b3259f5d",
+    "title_en": "Nature发布两大AI模型：人工智能不再只是“工具”——人机共创，全球科研范式正在变革！|科研_新浪财经_新浪网",
+    "source": "finance.sina.com.cn",
+    "url": "https://finance.sina.com.cn/wm/2026-05-24/doc-inhyyaqq6867186.shtml",
+    "published_at": "2026-05-24T13:03:02.463Z",
+    "fetched_at": "2026-05-24T13:03:02.463Z",
+    "title_zh": "Nature发布两大AI模型：人工智能不再只是“工具”——人机共创，全球科研范式正在变革！",
+    "summary_zh": "Nature杂志发布两大新型AI模型，标志着人工智能从单纯工具向人机共创伙伴的角色转变。文章详细介绍了模型在科研场景中的应用，如自动生成实验假设、辅助数据分析、加速文献综述等，展示了AI如何深度融入科研流程并改变传统范式。对于科研人员和AI开发者，本文揭示了AI在科学发现中的新角色，以及如何利用这些模型提升研究效率与创新质量，具有重要的实践启示。",
+    "topic": "ai"
+  },
+  {
     "id": "1996c6b738d2867803c8b5e16108401e",
     "title_en": "使用eBPF Linux 安全模块实时修补Linux 内核中的安全漏洞",
     "source": "blog.cloudflare.com",
@@ -2068,6 +2156,17 @@
     "topic": "ops"
   },
   {
+    "id": "37f5a4456b078db16ef848b4fb9568f0",
+    "title_en": "CVE-2026-22218 Chainlit 框架任意文件读取漏洞全解析 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/hetianlab/p/19993514",
+    "published_at": "2026-05-08T00:00:00.000Z",
+    "fetched_at": "2026-05-24T13:03:19.180Z",
+    "title_zh": "CVE-2026-22218 Chainlit 框架任意文件读取漏洞全解析",
+    "summary_zh": "本文深入剖析了CVE-2026-22218漏洞，该漏洞存在于Chainlit框架中，允许攻击者通过精心构造的请求实现任意文件读取。文章从漏洞原理出发，详细分析了攻击路径、受影响版本范围，并提供了具体的复现步骤与POC。针对该漏洞，作者给出了包括输入验证、路径限制和升级补丁在内的多层防御方案。对于使用Chainlit构建AI应用的安全工程师，本文提供了极具实操价值的漏洞排查与修复指南。",
+    "topic": "security"
+  },
+  {
     "id": "798957b3774541170a087c20217e9a43",
     "title_en": "Copy Fail / CVE-2026-31431 漏洞分析：一次page cache 污染引发的 ...",
     "source": "zhuanlan.zhihu.com",
@@ -2099,104 +2198,5 @@
     "title_zh": "最新！2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发",
     "summary_zh": "本文全景式梳理了2026年3月全球大模型生态的最新格局，重点包括国产模型在综合性能榜单上首次登顶、百万级上下文窗口技术走向成熟，以及基于大模型的智能体（Agent）应用呈现爆发式增长。文章从模型架构、训练数据、推理优化与工具链等维度展开分析，为开发者提供了当前最具竞争力的模型选型建议与Agent开发实践指南。",
     "topic": "ai"
-  },
-  {
-    "id": "a84af08344d27afcdf10660ba889fbd1",
-    "title_en": "Cisco Webex Services存在高風險安全漏洞(CVE-2026-20184)",
-    "source": "nics.nat.gov.tw",
-    "url": "https://www.nics.nat.gov.tw/core_business/information_security_information_sharing/Vulnerability_Alert_Announcements/e67caa88-0ac1-4656-bf73-233544d685e7/",
-    "published_at": "2026-04-21T00:00:00.000Z",
-    "fetched_at": "2026-05-23T08:07:56.573Z",
-    "title_zh": "Cisco Webex Services存在高風險安全漏洞(CVE-2026-20184)",
-    "summary_zh": "本文通报了Cisco Webex Services中的高风险漏洞CVE-2026-20184，该漏洞可能允许未经身份验证的远程攻击者执行任意代码或获取敏感信息。文章提供了漏洞编号、CVSS评分、受影响版本范围以及官方修复建议。作者还建议用户立即升级到安全版本并启用必要的访问控制。适合使用Cisco Webex的企业安全管理员。",
-    "topic": "security"
-  },
-  {
-    "id": "494689cf52fe968275f6003adf8d2d2a",
-    "title_en": "15 New Things AI Can Do in 2026 That Were Impossible Last Year",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=IjHIE2DMUNg",
-    "published_at": "2026-04-17T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "2026年AI能做的15件新事：去年还不可能",
-    "summary_zh": "视频内容总结：2026年AI实现了15项去年无法完成的任务，包括：实时3D场景生成与编辑、通过自然语言直接操控机器人完成精细操作、AI自主发现新材料并合成、长视频（1小时以上）的语义理解与摘要、以及AI在数学定理证明中首次独立解决未解难题。每项能力均展示了底层模型架构（如Diffusion Transformer、World Model）的实质性进步。",
-    "topic": "other"
-  },
-  {
-    "id": "13bbf78d32b3b46f16bedd98c129cbad",
-    "title_en": "漏洞數暴增263%，NIST縮減CVE分析範圍轉向風險優先 - iThome",
-    "source": "ithome.com.tw",
-    "url": "https://www.ithome.com.tw/news/175144",
-    "published_at": "2026-04-17T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "漏洞数暴增263%，NIST缩减CVE分析范围转向风险优先",
-    "summary_zh": "本文报道了NIST（美国国家标准与技术研究院）因CVE（通用漏洞披露）数量同比暴增263%而调整策略，决定缩减对每个CVE的深度分析范围，转而采用基于风险的优先级评估方法。文章分析了这一变化背后的原因，包括自动化漏洞挖掘工具的普及和开源组件的激增，并探讨了这种策略转变对安全社区、企业漏洞管理流程以及CVE生态系统的潜在影响。对于安全运营和风险管理从业者，本文提供了重要的行业趋势洞察。",
-    "topic": "security"
-  },
-  {
-    "id": "91e98e3db15a25efb6e1fecc20c4c4ab",
-    "title_en": "Microsoft Agent Framework Overview",
-    "source": "learn.microsoft.com",
-    "url": "https://learn.microsoft.com/en-us/agent-framework/overview/",
-    "published_at": "2026-04-06T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "Microsoft Agent Framework 概述",
-    "summary_zh": "微软官方文档详细介绍了Agent Framework：基于.NET和Python的跨平台框架，支持构建多Agent协作系统。核心特性包括：声明式Agent定义（YAML配置）、内置工具调用与API集成、基于语义内核（Semantic Kernel）的规划器、以及可观测性（OpenTelemetry）支持。文档提供了从单Agent聊天机器人到多Agent工作流编排的完整开发指南，并对比了与LangChain的架构差异。",
-    "topic": "other"
-  },
-  {
-    "id": "a7d37742a56f1dcd01e678b1b66c8efa",
-    "title_en": "AI Agent 开发实践-阶段一：建立agent 心智模型 - 稀土掘金",
-    "source": "juejin.cn",
-    "url": "https://juejin.cn/post/7619994737622941736",
-    "published_at": "2026-03-23T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "AI Agent 开发实践-阶段一：建立Agent心智模型",
-    "summary_zh": "本文聚焦AI Agent开发的第一阶段——心智模型构建，探讨如何通过系统提示词、角色设定和决策树设计Agent的行为逻辑。结合具体案例讲解意图识别、上下文管理和反馈循环的实现方法，为后续复杂功能开发奠定基础。适合入门级开发者学习。",
-    "topic": "ai"
-  },
-  {
-    "id": "d520b22848d25e4f8bca9cb864fbae17",
-    "title_en": "内核热补丁概述-Alibaba Cloud Linux(Alinux) - 阿里云文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/alinux/user-guide/kernel-live-patching/",
-    "published_at": "2026-03-18T00:00:00.000Z",
-    "fetched_at": "2026-05-24T02:28:15.841Z",
-    "title_zh": "内核热补丁概述 - Alibaba Cloud Linux (Alinux)",
-    "summary_zh": "本文是阿里云官方文档，介绍了Alibaba Cloud Linux（Alinux）的内核热补丁技术。内核热补丁允许在不重启系统的情况下，动态修复内核漏洞或缺陷，从而减少业务中断时间。文档详细说明了热补丁的工作原理（基于kpatch或livepatch）、支持的内核版本、补丁制作与部署流程、以及回滚机制。还提供了在Alinux上启用和管理热补丁的具体操作步骤。对于追求高可用性的云上业务，该技术是重要的安全运维手段。",
-    "topic": "security"
-  },
-  {
-    "id": "74fdf37ba3f3367b8ec9cca3a25d071e",
-    "title_en": "Linux Full Course for Beginners | Learn Linux System Administration",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=dvA9gh5dCwU",
-    "published_at": "2026-03-16T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.418Z",
-    "title_zh": "Linux 完全入门教程 | 学习 Linux 系统管理",
-    "summary_zh": "本教程面向零基础学员，系统讲解 Linux 系统管理的核心概念与实操技能。内容涵盖文件系统、用户权限、进程管理、网络配置及 Shell 脚本基础。通过命令行实践，帮助初学者掌握日常运维必备技能，为后续深入学习打下坚实基础。适合希望转型运维或提升 Linux 操作能力的开发者。",
-    "topic": "other"
-  },
-  {
-    "id": "a1fc5e7bf1e293becd282da343bd8073",
-    "title_en": "2026年AI大爆发：7大模型混战，DeepSeek杀疯了 - AtomGit开源社区",
-    "source": "gitcode.csdn.net",
-    "url": "https://gitcode.csdn.net/69b621000a2f6a37c5978948.html",
-    "published_at": "2026-03-15T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.957Z",
-    "title_zh": "2026年AI大爆发：7大模型混战，DeepSeek杀疯了",
-    "summary_zh": "本文回顾了2026年AI大模型领域的激烈竞争格局，重点分析了包括DeepSeek在内的七大主流模型的性能表现、技术路线与市场策略。文章从模型架构创新、训练效率、推理成本及生态建设等维度进行了横向对比，指出DeepSeek凭借其独特的稀疏注意力机制与高效MoE架构在多项基准测试中取得领先，并探讨了其对开源社区与商业应用的深远影响。",
-    "topic": "ai"
-  },
-  {
-    "id": "25fada6283afed6dbe63cb19867b03db",
-    "title_en": "Morgan Stanley warns an AI breakthrough Is coming in 2026",
-    "source": "finance.yahoo.com",
-    "url": "https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html",
-    "published_at": "2026-03-13T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "摩根士丹利警告：2026年将迎来AI重大突破",
-    "summary_zh": "摩根士丹利发布研报指出，2026年AI领域将出现颠覆性突破，可能源于以下方向：推理能力接近人类专家的通用Agent、AI在药物研发中实现端到端自动化、或能源效率提升100倍的新型计算架构。报告从投资角度分析了这些突破对半导体、云计算和企业软件行业的潜在影响，并提醒市场需重新评估当前估值模型。",
-    "topic": "other"
   }
 ]
