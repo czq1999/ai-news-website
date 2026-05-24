@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-24",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链，涵盖代码知识图谱（Understand-Anything、codegraph）、Claude插件与技能库（claude-plugins、skills）、金融终端及AI演示生成器，强调本地化、低token消耗与多框架兼容。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程工具与知识图谱，涵盖代码可视化、金融终端、网络安全技能及演示生成，强调本地化与高效开发。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 149782,
+          "stars_total": 150394,
           "stars_today": 3507,
-          "description_zh": "基于 Andrej Karpathy 对 LLM 编码陷阱的观察，通过单个 CLAUDE.md 文件改进 Claude Code 的行为表现。"
+          "description_zh": "一个单一的 CLAUDE.md 文件，用于改进 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
         },
         {
           "rank": 2,
@@ -20,9 +20,9 @@
           "url": "https://github.com/colbymchenry/codegraph",
           "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
           "language": "TypeScript",
-          "stars_total": 19684,
+          "stars_total": 20496,
           "stars_today": 2456,
-          "description_zh": "为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 预构建的代码知识图谱——更少的令牌消耗、更少的工具调用、完全本地化运行。"
+          "description_zh": "为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 提供的预索引代码知识图谱——更少的令牌消耗、更少的工具调用、完全本地化运行。"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/Lum1104/Understand-Anything",
           "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
           "language": "TypeScript",
-          "stars_total": 21774,
+          "stars_total": 22901,
           "stars_today": 2299,
-          "description_zh": "以教学为目的的图表，而非仅追求视觉震撼。将任意代码转化为可探索、可搜索、可提问的交互式知识图谱。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
+          "description_zh": "以教学为目的的图谱，而非仅仅令人印象深刻的图谱。将任何代码转化为可探索、可搜索、可提问的交互式知识图谱。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/anthropics/claude-plugins-official",
           "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "language": "Python",
-          "stars_total": 26523,
+          "stars_total": 26847,
           "stars_today": 2193,
-          "description_zh": "由 Anthropic 官方维护的高质量 Claude Code 插件目录。"
+          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
         },
         {
           "rank": 5,
@@ -50,7 +50,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 13846,
+          "stars_total": 14267,
           "stars_today": 1521,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
@@ -60,9 +60,9 @@
           "url": "https://github.com/yt-dlp/yt-dlp",
           "description_en": "A feature-rich command-line audio/video downloader",
           "language": "Python",
-          "stars_total": 164990,
+          "stars_total": 165134,
           "stars_today": 759,
-          "description_zh": "一款功能丰富的命令行音视频下载工具。"
+          "description_zh": "一款功能丰富的命令行音视频下载器。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
           "description_en": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
           "language": "",
-          "stars_total": 223876,
+          "stars_total": 224034,
           "stars_today": 628,
-          "description_zh": "一系列启发性的列表、手册、速查表、博客、黑客技巧、单行命令、命令行/Web 工具等资源的合集。"
+          "description_zh": "一系列鼓舞人心的列表、手册、速查表、博客、技巧、单行命令、命令行/Web 工具等。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
           "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
           "language": "Python",
-          "stars_total": 23149,
+          "stars_total": 23278,
           "stars_today": 545,
-          "description_zh": "FinceptTerminal 是一款现代金融应用程序，提供高级市场分析、投资研究和经济数据工具，旨在用户友好的环境中实现交互式探索和数据驱动决策。"
+          "description_zh": "FinceptTerminal 是一款现代金融应用，提供高级市场分析、投资研究和经济数据工具，旨在用户友好的环境中实现交互式探索和数据驱动决策。"
         },
         {
           "rank": 9,
@@ -90,9 +90,9 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 41360,
+          "stars_total": 41440,
           "stars_today": 435,
-          "description_zh": "为编码代理提供的 Chrome DevTools 工具。"
+          "description_zh": "为编码代理提供的 Chrome DevTools。"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/multica-ai/multica",
           "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
           "language": "TypeScript",
-          "stars_total": 31958,
+          "stars_total": 32114,
           "stars_today": 410,
           "description_zh": "开源托管代理平台。将编码代理转变为真正的团队成员——分配任务、跟踪进度、复合技能。"
         },
@@ -110,9 +110,9 @@
           "url": "https://github.com/odoo/odoo",
           "description_en": "Odoo. Open Source Apps To Grow Your Business.",
           "language": "Python",
-          "stars_total": 51499,
+          "stars_total": 51578,
           "stars_today": 386,
-          "description_zh": "Odoo。助力业务增长的开源应用套件。"
+          "description_zh": "Odoo。助力企业成长的开源应用。"
         },
         {
           "rank": 12,
@@ -120,9 +120,9 @@
           "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
           "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
           "language": "Python",
-          "stars_total": 7478,
+          "stars_total": 7707,
           "stars_today": 281,
-          "description_zh": "为 AI 代理提供的 754 项结构化网络安全技能 · 映射至五大框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 涵盖 26 个安全领域 · Apache 2.0 许可。"
+          "description_zh": "为 AI 代理提供的 754 项结构化网络安全技能 · 映射至 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · 采用 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20 多个平台 · 涵盖 26 个安全领域 · Apache 2.0 许可。"
         },
         {
           "rank": 13,
@@ -130,9 +130,9 @@
           "url": "https://github.com/dotnet/skills",
           "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
           "language": "C#",
-          "stars_total": 2762,
+          "stars_total": 2802,
           "stars_today": 266,
-          "description_zh": "用于帮助 AI 编码代理掌握 .NET 和 C# 的技能仓库。"
+          "description_zh": "用于帮助 AI 编码代理处理 .NET 和 C# 的技能仓库。"
         },
         {
           "rank": 14,
@@ -140,7 +140,7 @@
           "url": "https://github.com/presenton/presenton",
           "description_en": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
           "language": "TypeScript",
-          "stars_total": 6412,
+          "stars_total": 6582,
           "stars_today": 241,
           "description_zh": "开源 AI 演示文稿生成器及 API（Gamma、Beautiful AI、Decktopus 的替代方案）。"
         },
@@ -150,9 +150,9 @@
           "url": "https://github.com/NVlabs/LongLive",
           "description_en": "LongLive 2.0: Infra - Long Video Gen",
           "language": "Python",
-          "stars_total": 1829,
+          "stars_total": 1916,
           "stars_today": 94,
-          "description_zh": "LongLive 2.0：基础设施——长视频生成。"
+          "description_zh": "LongLive 2.0：基础设施 - 长视频生成"
         },
         {
           "rank": 16,
@@ -160,9 +160,9 @@
           "url": "https://github.com/janestreet/magic-trace",
           "description_en": "magic-trace collects and displays high-resolution traces of what a process is doing",
           "language": "OCaml",
-          "stars_total": 5877,
+          "stars_total": 5977,
           "stars_today": 68,
-          "description_zh": "magic-trace 可采集并展示进程运行的高分辨率追踪信息。"
+          "description_zh": "magic-trace 可收集并显示进程活动的高分辨率跟踪信息。"
         }
       ]
     },

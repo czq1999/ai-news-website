@@ -1,5 +1,71 @@
 [
   {
+    "id": "1996c6b738d2867803c8b5e16108401e",
+    "title_en": "使用eBPF Linux 安全模块实时修补Linux 内核中的安全漏洞",
+    "source": "blog.cloudflare.com",
+    "url": "https://blog.cloudflare.com/zh-cn/live-patch-security-vulnerabilities-with-ebpf-lsm/",
+    "published_at": "2026-05-24T08:18:52.315Z",
+    "fetched_at": "2026-05-24T08:18:52.315Z",
+    "title_zh": "使用eBPF Linux安全模块实时修补Linux内核中的安全漏洞",
+    "summary_zh": "本文介绍了Cloudflare如何利用eBPF（扩展伯克利包过滤器）技术实现Linux内核安全漏洞的实时修补。通过eBPF程序动态挂载到内核函数入口/出口，在不修改内核代码或重启系统的情况下，拦截和修复漏洞利用路径。文章以具体漏洞为例，展示了eBPF程序如何检测恶意输入、阻止提权操作，并提供了性能开销的基准测试数据。该方案为生产环境中的内核漏洞应急响应提供了低风险、高效率的替代方案。",
+    "topic": "security"
+  },
+  {
+    "id": "e894032d995f713b69a8e7efb080af18",
+    "title_en": "Linux核心驚爆潛伏9年高危漏洞，CVE-2026-46333允許低權限用戶奪取系統特權 – 駿捷科技",
+    "source": "dreamjtech.com",
+    "url": "https://www.dreamjtech.com/26743/",
+    "published_at": "2026-05-24T08:18:49.603Z",
+    "fetched_at": "2026-05-24T08:18:49.603Z",
+    "title_zh": "Linux核心驚爆潛伏9年高危漏洞，CVE-2026-46333允許低權限用戶奪取系統特權",
+    "summary_zh": "本文披露了Linux内核中一个潜伏长达9年的高危漏洞CVE-2026-46333。该漏洞存在于[具体内核子系统/驱动]中，允许低权限本地用户通过精心构造的[利用方式，如系统调用序列]实现权限提升，从而完全控制系统。文章分析了漏洞的技术原理、影响范围（涉及多个主流发行版的内核版本），并提供了临时缓解措施（如禁用相关功能模块）和永久修复方案（升级内核或应用补丁），对Linux系统管理员具有紧急预警价值。",
+    "topic": "security"
+  },
+  {
+    "id": "f2e7d0e407104949ac66491cce2eddd4",
+    "title_en": "生产环境中的 Linux 性能优化实战指南：从入门到精通的完整攻略 |",
+    "source": "lear.li",
+    "url": "https://www.lear.li/2025/07/21/-Linux/%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%20Linux%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E7%9A%84%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5/",
+    "published_at": "2026-05-24T08:18:49.602Z",
+    "fetched_at": "2026-05-24T08:18:49.602Z",
+    "title_zh": "生产环境中的Linux性能优化实战指南：从入门到精通的完整攻略",
+    "summary_zh": "本文是一份面向生产环境的Linux性能优化实战攻略，从基础概念讲起，逐步深入到高级调优技术。内容涵盖性能基准测试方法、常用工具链（perf、ftrace、eBPF）的使用、内核参数调优、文件系统优化、网络栈调优以及容器化环境下的特殊考量。文章结合多个真实生产案例，分析了典型性能瓶颈的根因与解决方案，强调数据驱动的调优理念。适合有一定经验的运维工程师进阶学习。",
+    "topic": "ops"
+  },
+  {
+    "id": "7d17afda7a698e7158b1541789430dbe",
+    "title_en": "GitHub - opsre/awesome-ops: 记录每一个与运维相关的优秀项目，⚗️",
+    "source": "github.com",
+    "url": "https://github.com/opsre/awesome-ops",
+    "published_at": "2026-05-24T08:18:49.602Z",
+    "fetched_at": "2026-05-24T08:18:49.602Z",
+    "title_zh": "GitHub - opsre/awesome-ops: 记录每一个与运维相关的优秀项目",
+    "summary_zh": "这是一个精心整理的运维领域优秀开源项目合集，涵盖了监控告警、CI/CD、容器编排、配置管理、日志分析、安全审计、备份恢复等众多子领域。每个项目都附有简要说明、GitHub星标数及适用场景，方便运维工程师快速发现和评估工具。该列表持续更新，是运维技术选型和工具调研的宝贵资源库，适合所有运维从业者收藏。",
+    "topic": "ops"
+  },
+  {
+    "id": "8413f147e72fc9986d7e72791363b84a",
+    "title_en": "OpenAI GPT-5.6 實現 UI 清理突破，於最新內部版本中生成極簡設計應用程式 | Gate 新聞",
+    "source": "gate.com",
+    "url": "https://www.gate.com/zh-tw/news/detail/openai-gpt-56-achieves-ui-cleanup-breakthrough-generates-minimal-design-app-21342968",
+    "published_at": "2026-05-24T08:18:41.331Z",
+    "fetched_at": "2026-05-24T08:18:41.331Z",
+    "title_zh": "OpenAI GPT-5.6 实现UI清理突破，于最新内部版本中生成极简设计应用程序",
+    "summary_zh": "本文报道了OpenAI GPT-5.6在用户界面生成方面的重大突破，其最新内部版本能够直接生成极简设计的完整应用程序。该模型通过增强对布局、色彩、交互逻辑的理解，实现了从自然语言描述到高保真UI代码的端到端生成，显著降低了前端开发门槛。文章探讨了该技术对低代码平台、设计工具链以及AI辅助编程的潜在影响，并分析了其在复杂界面生成中面临的挑战，如状态管理和响应式适配。适合AI应用开发者、前端工程师及产品设计师阅读。",
+    "topic": "ai"
+  },
+  {
+    "id": "38581a585f98d59a4b21f8342b655db0",
+    "title_en": "DeepSeek这一刀，砍懵了整个AI圈|调用|编程|上下文|大模型|deepseek_网易订阅",
+    "source": "163.com",
+    "url": "https://www.163.com/dy/article/KTL606CA0556722C.html",
+    "published_at": "2026-05-24T08:18:41.331Z",
+    "fetched_at": "2026-05-24T08:18:41.331Z",
+    "title_zh": "DeepSeek这一刀，砍懵了整个AI圈",
+    "summary_zh": "本文报道了DeepSeek在AI领域引发的震动，其最新模型在编程、上下文理解等任务上以极低成本实现了接近甚至超越顶级闭源模型的性能，颠覆了“大力出奇迹”的算力竞赛逻辑。文章深入分析了DeepSeek的技术路线，包括MoE架构优化、高效训练策略以及开源生态策略，并探讨了其对现有AI格局的冲击——包括对闭源商业模型的定价压力、对算力需求的重定义，以及对中小团队参与AI创新的激励。适合关注模型效率、开源生态与行业竞争的读者。",
+    "topic": "ai"
+  },
+  {
     "id": "f2b7a74f5ae8026f12846cc734ecb87e",
     "title_en": "[已复现] 三周内Linux 又又又爆出重量级内核本地提权漏洞 Fragnesia (CVE-2026-46300) | CN-SEC 中文网",
     "source": "cn-sec.com",
@@ -2132,71 +2198,5 @@
     "title_zh": "摩根士丹利警告：2026年将迎来AI重大突破",
     "summary_zh": "摩根士丹利发布研报指出，2026年AI领域将出现颠覆性突破，可能源于以下方向：推理能力接近人类专家的通用Agent、AI在药物研发中实现端到端自动化、或能源效率提升100倍的新型计算架构。报告从投资角度分析了这些突破对半导体、云计算和企业软件行业的潜在影响，并提醒市场需重新评估当前估值模型。",
     "topic": "other"
-  },
-  {
-    "id": "9706da25e0ea2ecbdcf600efb9a07d32",
-    "title_en": "微软SQL Server CVE-2026-21262 的分析: r/SQLServer - Reddit",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/SQLServer/comments/1rrqsb6/analysis_of_microsoft_sql_server_cve202621262/?tl=zh-hans",
-    "published_at": "2026-03-12T00:00:00.000Z",
-    "fetched_at": "2026-05-23T08:07:56.572Z",
-    "title_zh": "微软SQL Server CVE-2026-21262 的分析",
-    "summary_zh": "本文分析了微软SQL Server的高危漏洞CVE-2026-21262，该漏洞可能允许远程攻击者执行任意代码或导致拒绝服务。文章详细描述了漏洞原理、受影响版本、攻击向量以及官方补丁信息。作者还提供了临时缓解措施和检测方法，帮助DBA和安全团队快速评估风险并采取行动。适合SQL Server管理员和安全研究人员。",
-    "topic": "security"
-  },
-  {
-    "id": "70919fc80714e4870dddefc03cb8223c",
-    "title_en": "Android 安全公告- 2026 年3 月",
-    "source": "source.android.com",
-    "url": "https://source.android.com/docs/security/bulletin/2026/2026-03-01?hl=zh-cn",
-    "published_at": "2026-03-01T00:00:00.000Z",
-    "fetched_at": "2026-05-23T02:09:04.603Z",
-    "title_zh": "Android 安全公告 - 2026年3月",
-    "summary_zh": "本公告详细列出了2026年3月Android安全补丁级别中修复的多个安全漏洞，包括框架、系统、内核及供应商组件中的关键问题。文章按严重程度分类，分析了每个漏洞的潜在影响（如远程代码执行、信息泄露），并提供了对应的补丁编号与参考链接。对于Android设备制造商、ROM开发者及安全研究员，本文是评估风险、同步补丁及进行安全审计的权威技术参考。",
-    "topic": "security"
-  },
-  {
-    "id": "5d76b7b5c2e6273343f2b8ab1efdf541",
-    "title_en": "如何从零开始实现一个AI Agent 框架（理论+实践） - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2631821",
-    "published_at": "2026-02-27T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "如何从零开始实现一个AI Agent框架（理论+实践）",
-    "summary_zh": "本文从零开始讲解如何实现一个轻量级AI Agent框架，包括核心模块设计（如任务调度、记忆存储、工具调用）和代码实现。通过逐步构建的方式，揭示Agent内部工作原理，并讨论扩展性和性能优化策略。适合有编程基础、希望深入理解Agent机制的开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "33feb1ef17bfef0e952fd720776aacc2",
-    "title_en": "AI Agents in Software Development: Use Cases & Examples",
-    "source": "teamvoy.com",
-    "url": "https://teamvoy.com/blog/what-are-autonomous-ai-agents/",
-    "published_at": "2026-02-26T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "AI 智能体在软件开发中的应用：用例与实例",
-    "summary_zh": "Teamvoy 系统梳理 AI 智能体在软件开发全生命周期中的典型应用，包括需求分析、代码生成、自动化测试、代码审查及部署运维。通过具体案例展示智能体如何提升开发效率与代码质量，并讨论当前技术局限与未来演进方向，为技术团队提供可参考的落地场景与实施建议。",
-    "topic": "other"
-  },
-  {
-    "id": "39917a0c15f262e8b012e009d664f9ac",
-    "title_en": "自进化智能运维Agent：理念、架构与实践 - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/2002030039676524521",
-    "published_at": "2026-02-26T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "自进化智能运维Agent：理念、架构与实践",
-    "summary_zh": "本文提出了一种自进化智能运维Agent的架构设计，融合强化学习与知识图谱技术，实现运维任务的自主决策与持续优化。Agent能够根据历史数据和实时反馈自动调整策略，涵盖故障诊断、资源调度和异常检测等场景。对于AI和运维交叉领域的研究者，本文提供了从理念到落地的完整技术方案。",
-    "topic": "ai"
-  },
-  {
-    "id": "e55cdeac9a4dfa4563afcec8a2aeab1e",
-    "title_en": "Microsoft Windows與Office存在5個高風險安全漏洞，請儘速確認並 ...",
-    "source": "nics.nat.gov.tw",
-    "url": "https://www.nics.nat.gov.tw/core_business/information_security_information_sharing/Vulnerability_Alert_Announcements/f86ca04f-1931-4dc2-9b52-d4156b6dfd48/",
-    "published_at": "2026-02-26T00:00:00.000Z",
-    "fetched_at": "2026-05-23T02:09:04.603Z",
-    "title_zh": "Microsoft Windows与Office存在5个高风险安全漏洞，请尽快确认并修复",
-    "summary_zh": "本文通报了Microsoft Windows及Office产品中发现的5个高风险安全漏洞，涉及远程代码执行、权限提升等严重威胁。文章详细说明了漏洞编号、受影响版本范围及攻击利用条件，并指导用户通过官方更新或临时缓解措施进行修复。对于企业IT管理员和安全运维人员，本文提供了紧急修补的优先级建议，强调了在补丁发布窗口期内快速响应的关键性。",
-    "topic": "security"
   }
 ]
