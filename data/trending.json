@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-05-24",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链，涵盖代码知识图谱（Understand-Anything、codegraph）、Claude插件与技能库（claude-plugins、skills）、金融终端及AI演示生成器，强调本地化、低token消耗与多框架兼容。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 149782,
+          "stars_today": 3507,
+          "description_zh": "基于 Andrej Karpathy 对 LLM 编码陷阱的观察，通过单个 CLAUDE.md 文件改进 Claude Code 的行为表现。"
+        },
+        {
+          "rank": 2,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars_total": 19684,
+          "stars_today": 2456,
+          "description_zh": "为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 预构建的代码知识图谱——更少的令牌消耗、更少的工具调用、完全本地化运行。"
+        },
+        {
+          "rank": 3,
+          "name": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "language": "TypeScript",
+          "stars_total": 21774,
+          "stars_today": 2299,
+          "description_zh": "以教学为目的的图表，而非仅追求视觉震撼。将任意代码转化为可探索、可搜索、可提问的交互式知识图谱。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 26523,
+          "stars_today": 2193,
+          "description_zh": "由 Anthropic 官方维护的高质量 Claude Code 插件目录。"
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 13846,
+          "stars_today": 1521,
+          "description_zh": "学习它。构建它。为他人交付它。"
+        },
+        {
+          "rank": 6,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description_en": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars_total": 164990,
+          "stars_today": 759,
+          "description_zh": "一款功能丰富的命令行音视频下载工具。"
+        },
+        {
+          "rank": 7,
+          "name": "trimstray/the-book-of-secret-knowledge",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description_en": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+          "language": "",
+          "stars_total": 223876,
+          "stars_today": 628,
+          "description_zh": "一系列启发性的列表、手册、速查表、博客、黑客技巧、单行命令、命令行/Web 工具等资源的合集。"
+        },
+        {
+          "rank": 8,
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description_en": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "language": "Python",
+          "stars_total": 23149,
+          "stars_today": 545,
+          "description_zh": "FinceptTerminal 是一款现代金融应用程序，提供高级市场分析、投资研究和经济数据工具，旨在用户友好的环境中实现交互式探索和数据驱动决策。"
+        },
+        {
+          "rank": 9,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 41360,
+          "stars_today": 435,
+          "description_zh": "为编码代理提供的 Chrome DevTools 工具。"
+        },
+        {
+          "rank": 10,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "language": "TypeScript",
+          "stars_total": 31958,
+          "stars_today": 410,
+          "description_zh": "开源托管代理平台。将编码代理转变为真正的团队成员——分配任务、跟踪进度、复合技能。"
+        },
+        {
+          "rank": 11,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description_en": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars_total": 51499,
+          "stars_today": 386,
+          "description_zh": "Odoo。助力业务增长的开源应用套件。"
+        },
+        {
+          "rank": 12,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "language": "Python",
+          "stars_total": 7478,
+          "stars_today": 281,
+          "description_zh": "为 AI 代理提供的 754 项结构化网络安全技能 · 映射至五大框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 涵盖 26 个安全领域 · Apache 2.0 许可。"
+        },
+        {
+          "rank": 13,
+          "name": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
+          "language": "C#",
+          "stars_total": 2762,
+          "stars_today": 266,
+          "description_zh": "用于帮助 AI 编码代理掌握 .NET 和 C# 的技能仓库。"
+        },
+        {
+          "rank": 14,
+          "name": "presenton/presenton",
+          "url": "https://github.com/presenton/presenton",
+          "description_en": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+          "language": "TypeScript",
+          "stars_total": 6412,
+          "stars_today": 241,
+          "description_zh": "开源 AI 演示文稿生成器及 API（Gamma、Beautiful AI、Decktopus 的替代方案）。"
+        },
+        {
+          "rank": 15,
+          "name": "NVlabs/LongLive",
+          "url": "https://github.com/NVlabs/LongLive",
+          "description_en": "LongLive 2.0: Infra - Long Video Gen",
+          "language": "Python",
+          "stars_total": 1829,
+          "stars_today": 94,
+          "description_zh": "LongLive 2.0：基础设施——长视频生成。"
+        },
+        {
+          "rank": 16,
+          "name": "janestreet/magic-trace",
+          "url": "https://github.com/janestreet/magic-trace",
+          "description_en": "magic-trace collects and displays high-resolution traces of what a process is doing",
+          "language": "OCaml",
+          "stars_total": 5877,
+          "stars_today": 68,
+          "description_zh": "magic-trace 可采集并展示进程运行的高分辨率追踪信息。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-23",
       "summary_zh": "今日GitHub热门项目聚焦AI编码助手生态，涌现大量知识图谱工具（如代码转交互图谱）及技能库（网络安全、.NET等），同时涵盖开源AI演示生成器与金融终端，强调本地化与框架兼容性。",
       "projects": [
@@ -4151,132 +4317,6 @@
           "stars_total": 2746,
           "stars_today": 16,
           "description_zh": "通用商业协议（UCP）的规范与文档"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-24",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具、安全扫描与数据治理，涵盖免费Claude代码终端、开源ML工程师平台、漏洞扫描器、黑客工具包及元数据管理平台。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "huggingface/ml-intern",
-          "url": "https://github.com/huggingface/ml-intern",
-          "description_en": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-          "language": "Python",
-          "stars_total": 5009,
-          "stars_today": 2981,
-          "description_zh": "🤗 ml-intern：一个开源机器学习工程师，能够阅读论文、训练模型并部署机器学习模型"
-        },
-        {
-          "rank": 2,
-          "name": "Alishahryar1/free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-          "language": "Python",
-          "stars_total": 8127,
-          "stars_today": 2640,
-          "description_zh": "在终端、VSCode 扩展或通过 Discord 免费使用 Claude Code，类似 openclaw"
-        },
-        {
-          "rank": 3,
-          "name": "Z4nzu/hackingtool",
-          "url": "https://github.com/Z4nzu/hackingtool",
-          "description_en": "ALL IN ONE Hacking Tool For Hackers",
-          "language": "Python",
-          "stars_total": 62074,
-          "stars_today": 1377,
-          "description_zh": "黑客的全能黑客工具"
-        },
-        {
-          "rank": 4,
-          "name": "Anil-matcha/Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "description_en": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-          "language": "JavaScript",
-          "stars_total": 7523,
-          "stars_today": 847,
-          "description_zh": "无审查、开源的 Higgsfield AI、Freepik AI、Krea AI、Openart AI 替代品——免费、无限制的 AI 图像与视频生成工作室，拥有 200+ 模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，MIT 许可。"
-        },
-        {
-          "rank": 5,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 494457,
-          "stars_today": 817,
-          "description_zh": "通过从头重建你喜爱的技术来掌握编程。"
-        },
-        {
-          "rank": 6,
-          "name": "zilliztech/claude-context",
-          "url": "https://github.com/zilliztech/claude-context",
-          "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-          "language": "TypeScript",
-          "stars_total": 8909,
-          "stars_today": 706,
-          "description_zh": "Claude Code 的代码搜索 MCP。让整个代码库成为任何编码代理的上下文。"
-        },
-        {
-          "rank": 7,
-          "name": "open-metadata/OpenMetadata",
-          "url": "https://github.com/open-metadata/OpenMetadata",
-          "description_en": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-          "language": "TypeScript",
-          "stars_total": 13270,
-          "stars_today": 530,
-          "description_zh": "OpenMetadata 是一个统一的元数据平台，用于数据发现、数据可观测性和数据治理，由中央元数据仓库、深入的列级血缘关系和无缝的团队协作驱动。"
-        },
-        {
-          "rank": 8,
-          "name": "dani-garcia/vaultwarden",
-          "url": "https://github.com/dani-garcia/vaultwarden",
-          "description_en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-          "language": "Rust",
-          "stars_total": 59115,
-          "stars_today": 252,
-          "description_zh": "用 Rust 编写的非官方 Bitwarden 兼容服务器，原名 bitwarden_rs"
-        },
-        {
-          "rank": 9,
-          "name": "google/osv-scanner",
-          "url": "https://github.com/google/osv-scanner",
-          "description_en": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
-          "language": "Go",
-          "stars_total": 9384,
-          "stars_today": 147,
-          "description_zh": "用 Go 编写的漏洞扫描器，使用 https://osv.dev 提供的数据"
-        },
-        {
-          "rank": 10,
-          "name": "PostHog/posthog",
-          "url": "https://github.com/PostHog/posthog",
-          "description_en": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-          "language": "Python",
-          "stars_total": 33004,
-          "stars_today": 90,
-          "description_zh": "🦔 PostHog 是一个用于构建成功产品的全栈开发者平台。我们提供产品分析、网站分析、会话重放、错误追踪、功能开关、实验、调查、数据仓库、CDP 以及 AI 产品助手，帮助您调试代码、更快地发布功能，并将所有使用数据和客户数据保存在一个堆栈中。"
-        },
-        {
-          "rank": 11,
-          "name": "deepseek-ai/DeepEP",
-          "url": "https://github.com/deepseek-ai/DeepEP",
-          "description_en": "DeepEP: an efficient expert-parallel communication library",
-          "language": "Cuda",
-          "stars_total": 9293,
-          "stars_today": 29,
-          "description_zh": "DeepEP：一个高效的专家并行通信库"
-        },
-        {
-          "rank": 12,
-          "name": "microsoft/typescript-go",
-          "url": "https://github.com/microsoft/typescript-go",
-          "description_en": "Staging repo for development of native port of TypeScript",
-          "language": "Go",
-          "stars_total": 24980,
-          "stars_today": 22,
-          "description_zh": "TypeScript 原生移植开发的暂存仓库"
         }
       ]
     }

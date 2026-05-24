@@ -1,5 +1,60 @@
 [
   {
+    "id": "f2b7a74f5ae8026f12846cc734ecb87e",
+    "title_en": "[已复现] 三周内Linux 又又又爆出重量级内核本地提权漏洞 Fragnesia (CVE-2026-46300) | CN-SEC 中文网",
+    "source": "cn-sec.com",
+    "url": "https://cn-sec.com/archives/5240538.html",
+    "published_at": "2026-05-24T02:28:15.842Z",
+    "fetched_at": "2026-05-24T02:28:15.842Z",
+    "title_zh": "已复现：三周内Linux再爆重量级内核本地提权漏洞Fragnesia (CVE-2026-46300)",
+    "summary_zh": "本文详细分析了近期曝出的Linux内核本地提权漏洞Fragnesia（CVE-2026-46300），该漏洞影响多个主流发行版。作者提供了完整的复现步骤与PoC代码，深入剖析了漏洞触发机制，包括内存管理缺陷与权限检查绕过。对于安全运维人员，文章给出了紧急缓解措施（如内核参数调整、补丁回测）及长期加固建议，强调及时更新内核与启用内核自我保护功能的重要性。技术细节丰富，实战价值高。",
+    "topic": "security"
+  },
+  {
+    "id": "1127948da29fe94095dfc58250ca648e",
+    "title_en": "[Linux操作系统]Linux系统服务器管理，基础与实践|linux服务器管理工具,Linux系统 服务器管理,Linux操作系统,云主机博士",
+    "source": "yunzhujiboshi.com",
+    "url": "https://www.yunzhujiboshi.com/2026/05/1632734.html",
+    "published_at": "2026-05-24T02:28:09.796Z",
+    "fetched_at": "2026-05-24T02:28:09.796Z",
+    "title_zh": "Linux系统服务器管理：基础与实践",
+    "summary_zh": "本文系统介绍了Linux服务器管理的核心内容，涵盖用户与权限管理、磁盘分区与LVM逻辑卷管理、软件包管理、防火墙配置、SSH安全加固等。通过实际操作演示如何搭建Web服务器、数据库服务及文件共享服务，并讨论常见故障排除思路，适合运维新手巩固基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "8c6f40fa78ef907abd573cbde837e4f1",
+    "title_en": "AI大模型微调企业项目实战课(完结)-云社区-华为云",
+    "source": "bbs.huaweicloud.com",
+    "url": "https://bbs.huaweicloud.com/blogs/477270",
+    "published_at": "2026-05-24T02:28:09.795Z",
+    "fetched_at": "2026-05-24T02:28:09.795Z",
+    "title_zh": "AI大模型微调企业项目实战课(完结)",
+    "summary_zh": "本文是一套面向企业级AI大模型微调项目的实战课程总结。内容涵盖从业务需求分析、数据工程、模型选型、微调策略到部署上线的全流程。重点讲解了全参数微调、LoRA、QLoRA等不同方法的适用场景与性能对比，并分享了在华为云平台上进行大规模微调的经验与踩坑记录。对于企业AI团队，提供了可落地的项目方法论与技术方案。",
+    "topic": "ai"
+  },
+  {
+    "id": "ff0e96348a37b921584ebe03c1cf6692",
+    "title_en": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时 - 优质的技术综合教程与网站源码分享 - 阿影博客网",
+    "source": "aybk.cn",
+    "url": "https://www.aybk.cn/post-10197.html",
+    "published_at": "2026-05-24T02:28:09.795Z",
+    "fetched_at": "2026-05-24T02:28:09.795Z",
+    "title_zh": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时",
+    "summary_zh": "本文总结了2026年Linux服务器运维中的高效优化技巧，包括内核参数调优、I/O调度策略选择、内存与CPU资源隔离、日志轮转自动化等。通过实际案例展示如何利用systemd、sysctl、perf等工具快速定位性能瓶颈并实施优化，旨在减少运维人员重复劳动，提升服务器稳定性与响应速度。",
+    "topic": "ops"
+  },
+  {
+    "id": "9dd9c2b8de60a77a9ff1f5121e9e2343",
+    "title_en": "谷歌Gemini 1.5模型来了，突破100万个tokens，能处理1小时视频【附58页技术报告】-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/2650854374260993",
+    "published_at": "2026-05-24T02:28:09.794Z",
+    "fetched_at": "2026-05-24T02:28:09.794Z",
+    "title_zh": "谷歌Gemini 1.5模型来了，突破100万个tokens，能处理1小时视频",
+    "summary_zh": "本文详细介绍了谷歌Gemini 1.5模型的核心技术突破，重点解析其百万级token上下文窗口的实现原理与应用场景。文章基于官方技术报告，深入探讨了MoE架构、长序列注意力机制优化以及多模态融合策略，并展示了其在视频理解、代码分析、长文档处理等任务上的实测效果。对于研究长上下文模型和多模态AI的工程师，提供了扎实的技术细节与性能评估。",
+    "topic": "ai"
+  },
+  {
     "id": "3876a2601481893ff4017aee890307e2",
     "title_en": "从零构建统一运维监控体系：选型、架构与实践 - 厚诺科技",
     "source": "honops.com",
@@ -1958,6 +2013,17 @@
     "topic": "security"
   },
   {
+    "id": "e546aac5c72696c7d4ac92075ba7218a",
+    "title_en": "2026 年AI Agent 开发实战：从单步调用到多步自主推理 - AI探索笔记",
+    "source": "owai.cc",
+    "url": "https://www.owai.cc/62.html",
+    "published_at": "2026-04-30T00:00:00.000Z",
+    "fetched_at": "2026-05-24T02:28:09.795Z",
+    "title_zh": "2026年AI Agent开发实战：从单步调用到多步自主推理",
+    "summary_zh": "本文聚焦2026年AI Agent开发的前沿实践，重点讲解从简单的单步工具调用到复杂的多步自主推理的演进路径。文章通过实际案例展示了如何设计Agent的推理循环、状态管理以及动态规划策略，并对比了不同推理框架（如ReAct、Tree-of-Thought）的适用场景。对于希望提升Agent自主决策能力的开发者，提供了实用的技术方案与代码示例。",
+    "topic": "ai"
+  },
+  {
     "id": "c2bb922832ad1d2be7819a18cfbb4d48",
     "title_en": "最新！2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发",
     "source": "cloud.tencent.com",
@@ -2022,6 +2088,17 @@
     "title_zh": "AI Agent 开发实践-阶段一：建立Agent心智模型",
     "summary_zh": "本文聚焦AI Agent开发的第一阶段——心智模型构建，探讨如何通过系统提示词、角色设定和决策树设计Agent的行为逻辑。结合具体案例讲解意图识别、上下文管理和反馈循环的实现方法，为后续复杂功能开发奠定基础。适合入门级开发者学习。",
     "topic": "ai"
+  },
+  {
+    "id": "d520b22848d25e4f8bca9cb864fbae17",
+    "title_en": "内核热补丁概述-Alibaba Cloud Linux(Alinux) - 阿里云文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/alinux/user-guide/kernel-live-patching/",
+    "published_at": "2026-03-18T00:00:00.000Z",
+    "fetched_at": "2026-05-24T02:28:15.841Z",
+    "title_zh": "内核热补丁概述 - Alibaba Cloud Linux (Alinux)",
+    "summary_zh": "本文是阿里云官方文档，介绍了Alibaba Cloud Linux（Alinux）的内核热补丁技术。内核热补丁允许在不重启系统的情况下，动态修复内核漏洞或缺陷，从而减少业务中断时间。文档详细说明了热补丁的工作原理（基于kpatch或livepatch）、支持的内核版本、补丁制作与部署流程、以及回滚机制。还提供了在Alinux上启用和管理热补丁的具体操作步骤。对于追求高可用性的云上业务，该技术是重要的安全运维手段。",
+    "topic": "security"
   },
   {
     "id": "74fdf37ba3f3367b8ec9cca3a25d071e",
@@ -2121,82 +2198,5 @@
     "title_zh": "Microsoft Windows与Office存在5个高风险安全漏洞，请尽快确认并修复",
     "summary_zh": "本文通报了Microsoft Windows及Office产品中发现的5个高风险安全漏洞，涉及远程代码执行、权限提升等严重威胁。文章详细说明了漏洞编号、受影响版本范围及攻击利用条件，并指导用户通过官方更新或临时缓解措施进行修复。对于企业IT管理员和安全运维人员，本文提供了紧急修补的优先级建议，强调了在补丁发布窗口期内快速响应的关键性。",
     "topic": "security"
-  },
-  {
-    "id": "ec6cc7e1e9f678b743c94cbd12a3803b",
-    "title_en": "大模型榜单周报（2026/02/15） - KAI智习- 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/xjk15082/p/19619738",
-    "published_at": "2026-02-16T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.957Z",
-    "title_zh": "大模型榜单周报（2026/02/15）",
-    "summary_zh": "本报告汇总了2026年2月15日当周全球主流大模型在MMLU、HumanEval、GSM8K等核心基准上的最新排名与性能变化。重点分析了国产模型在数学推理与代码生成任务上的突破，以及开源模型与闭源模型之间的差距缩小趋势。报告还提供了模型版本更新、训练技巧与部署优化建议，适合关注模型选型与性能追踪的AI工程师参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "4b484901a206685ade0d999aaed6cd86",
-    "title_en": "2026 CVE Forecast: 59,427 Vulnerabilities Predicted - LinkedIn",
-    "source": "linkedin.com",
-    "url": "https://www.linkedin.com/posts/pricedevin_vulnerability-forecast-2026-the-year-ahead-activity-7428110514360225793-9SbF",
-    "published_at": "2026-02-13T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:35.010Z",
-    "title_zh": "2026年CVE预测：预计59,427个漏洞——LinkedIn",
-    "summary_zh": "基于历史数据与增长模型，本文预测2026年公开披露的CVE数量将达到59,427个，较往年显著增长。分析指出，物联网、工业控制系统及开源软件供应链是漏洞增长的主要驱动力。文章建议企业安全团队采用基于风险的漏洞管理框架，结合威胁情报进行优先级排序，而非单纯依赖CVE数量，以在资源有限的情况下最大化安全投入产出比。",
-    "topic": "other"
-  },
-  {
-    "id": "f808c669bd11d5138be4ae7f6ecfe43a",
-    "title_en": "Where can I learn to build my own AI agent framework? - Reddit",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1r2xuem/where_can_i_learn_to_build_my_own_ai_agent/",
-    "published_at": "2026-02-12T00:00:00.000Z",
-    "fetched_at": "2026-05-22T23:50:28.417Z",
-    "title_zh": "在哪里可以学习构建自己的AI Agent框架？——Reddit讨论",
-    "summary_zh": "Reddit热帖汇总了社区推荐的AI Agent框架学习资源：从LangGraph、CrewAI等开源框架的官方文档，到斯坦福CS224N课程中的Agent专题，再到AutoGPT和BabyAGI的源码分析。高赞回答强调实践路径：先通过OpenAI Assistants API快速原型，再深入理解ReAct模式、工具调用编排和记忆管理机制，最后用Ray或Celery实现分布式Agent部署。",
-    "topic": "other"
-  },
-  {
-    "id": "2c7d095d76ecd434e29b904436bee366",
-    "title_en": "完整教程：多智能体框架调研：10个主流AI Agent 框架 - 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/yangykaifa/p/19593416",
-    "published_at": "2026-02-09T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "完整教程：多智能体框架调研：10个主流AI Agent 框架",
-    "summary_zh": "本文对当前主流的10个AI Agent框架进行了系统性调研与对比，包括LangChain、AutoGPT、BabyAGI、CrewAI、MetaGPT、AutoGen、Dify、Coze、AgentGPT与SuperAGI。从框架架构、任务编排能力、工具生态、可扩展性与部署复杂度等维度进行了详细评估，并给出了不同应用场景下的选型建议，为多智能体系统的设计与开发提供了全面参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "19a7bc2bbb0064aeab3e035fd4b75f62",
-    "title_en": "中金：2026年大模型在强化学习、上下文工程等方面将取得更多突破",
-    "source": "news.qq.com",
-    "url": "https://news.qq.com/rain/a/20260205A01OWA00",
-    "published_at": "2026-02-05T00:00:00.000Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "中金：2026年大模型在强化学习、上下文工程等方面将取得更多突破",
-    "summary_zh": "本文基于中金公司研究报告，展望2026年大模型技术发展。核心观点认为，强化学习（RL）将深度融入模型训练与对齐，提升复杂推理与决策能力；上下文工程（Context Engineering）将成为关键优化方向，通过动态构建和优化输入上下文来增强模型表现。文章还探讨了多模态融合、推理效率提升及Agent化趋势，为AI从业者提供了未来技术演进路线图，具有较高的前瞻性和参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "3b22b1be8eeb2a0761b39eda85589829",
-    "title_en": "2026 AI未來展望｜大型語言模型與AGI - YouTube",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=MQcLtd6Wyek",
-    "published_at": "2026-02-02T00:00:00.000Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "2026 AI未来展望｜大型语言模型与AGI",
-    "summary_zh": "本视频内容聚焦2026年AI技术趋势，重点分析大型语言模型（LLM）向通用人工智能（AGI）演进的路径。讨论涵盖模型规模扩展的边际收益递减、推理能力提升、多模态融合以及自主Agent系统的发展。视频还涉及当前LLM在可靠性、可控性方面的挑战，并预测了未来几年可能的技术突破点，适合关注AI前沿动态的开发者与研究者。",
-    "topic": "ai"
-  },
-  {
-    "id": "960a2b55f8ab13a23d30304b7e5540da",
-    "title_en": "人工智能- 大模型榜单周报（2026/01/31） - KAI智 - SegmentFault 思否",
-    "source": "segmentfault.com",
-    "url": "https://segmentfault.com/a/1190000047584551",
-    "published_at": "2026-01-31T00:00:00.000Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "人工智能- 大模型榜单周报（2026/01/31）",
-    "summary_zh": "本文为2026年1月31日当周的大模型性能榜单更新，涵盖语言理解、代码生成、数学推理与多模态任务等维度的评测结果。文章特别关注了国产模型在长上下文处理与指令遵循能力上的进步，并分析了不同模型在推理成本与响应速度上的权衡。对于需要持续跟踪模型能力演进与进行技术选型的开发者，提供了详实的数据与趋势解读。",
-    "topic": "ai"
   }
 ]
