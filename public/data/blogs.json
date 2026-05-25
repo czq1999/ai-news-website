@@ -1,5 +1,93 @@
 [
   {
+    "id": "6a6502ca43fdd6261c6588f8a7e4075a",
+    "title_en": "漏洞修复深度解析：AI 赋能的CVE-2025-60719 根本原因分析 - Akamai",
+    "source": "akamai.com",
+    "url": "https://www.akamai.com/zh/blog/security-research/inside-fix-ai-root-cause-analysis-cve-2025-60719",
+    "published_at": "2026-05-25T19:17:22.979Z",
+    "fetched_at": "2026-05-25T19:17:22.979Z",
+    "title_zh": "漏洞修复深度解析：AI赋能的CVE-2025-60719根本原因分析 - Akamai",
+    "summary_zh": "本文展示了Akamai如何利用AI技术对CVE-2025-60719漏洞进行根本原因分析。通过机器学习模型分析代码变更、崩溃转储和运行时行为，AI辅助定位了漏洞触发点并生成了修复建议。文章对比了传统人工分析与AI增强分析的效率差异，并讨论了AI在漏洞修复自动化中的潜力。适合安全研究和DevSecOps团队参考。",
+    "topic": "security"
+  },
+  {
+    "id": "9d0c3241c66fc7516d0334e28fda36b6",
+    "title_en": "[PDF] 智能运维的实践：现状与标准化",
+    "source": "netman.aiops.org",
+    "url": "https://netman.aiops.org/wp-content/uploads/2023/03/2.-mt008.pdf",
+    "published_at": "2026-05-25T19:17:22.979Z",
+    "fetched_at": "2026-05-25T19:17:22.979Z",
+    "title_zh": "PDF智能运维的实践：现状与标准化",
+    "summary_zh": "本文探讨了智能运维（AIOps）在PDF文档处理场景中的实践，重点分析了当前运维现状与标准化需求。内容涵盖日志异常检测、性能瓶颈预测、自动化故障恢复等AIOps核心能力在文档服务中的应用。文章提出了标准化数据采集、模型评估和告警收敛的框架，对运维团队构建智能化文档基础设施具有指导意义。",
+    "topic": "ops"
+  },
+  {
+    "id": "7adc1f9574dfb836825a95502383cdc6",
+    "title_en": "CVE-2026-1207｜Django SQL注入漏洞（POC）-腾讯云开发者社区",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2653882",
+    "published_at": "2026-05-25T19:17:20.405Z",
+    "fetched_at": "2026-05-25T19:17:20.405Z",
+    "title_zh": "CVE-2026-1207｜Django SQL注入漏洞（POC） - 腾讯云开发者社区",
+    "summary_zh": "本文披露了Django框架中的一个SQL注入漏洞（CVE-2026-1207），并提供了概念验证代码。漏洞源于ORM查询构造中对用户输入的不当处理，攻击者可绕过参数化查询限制。文章分析了受影响版本、利用条件及修复方法，对使用Django的Web开发团队具有紧急参考价值，建议立即升级或应用临时补丁。",
+    "topic": "security"
+  },
+  {
+    "id": "586ebc65cf7983ca2931c3b5a84c2ffc",
+    "title_en": "国产操作系统安全加固方法 - 北京大学期刊网",
+    "source": "ccj.pku.edu.cn",
+    "url": "https://ccj.pku.edu.cn/Article/info?aid=388274089",
+    "published_at": "2026-05-25T19:17:20.404Z",
+    "fetched_at": "2026-05-25T19:17:20.404Z",
+    "title_zh": "国产操作系统安全加固方法",
+    "summary_zh": "本文发表于北京大学期刊网，聚焦国产操作系统（如麒麟、统信 UOS）的安全加固方法。内容涵盖系统账户与认证策略、文件与目录权限控制、网络服务最小化、内核参数安全调优、日志审计配置以及安全合规基线检查。针对国产系统的特殊架构与生态，提供适配的加固工具与配置示例，适合政务、金融等国产化替代场景下的安全运维人员参考。",
+    "topic": "security"
+  },
+  {
+    "id": "1a8f349fbf452b0bf8fd06ed95d53e4f",
+    "title_en": "Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)",
+    "source": "ti.qianxin.com",
+    "url": "https://ti.qianxin.com/vulnerability/notice-list",
+    "published_at": "2026-05-25T19:17:20.404Z",
+    "fetched_at": "2026-05-25T19:17:20.404Z",
+    "title_zh": "Linux内核Copy Fail本地权限提升漏洞（CVE-2026-31431）",
+    "summary_zh": "本文分析了Linux内核中一个名为Copy Fail的本地权限提升漏洞（CVE-2026-31431）。漏洞源于内核内存拷贝操作中的条件竞争或边界处理不当，攻击者可利用该漏洞获取root权限。文章提供了漏洞原理、影响版本及修复建议，适合运维和安全人员评估风险并制定内核升级或热补丁方案。",
+    "topic": "security"
+  },
+  {
+    "id": "6294158f280f488255f5a15057f85f0c",
+    "title_en": "Nginx CVE-2026-42945漏洞分析及复现-腾讯云开发者社区-腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2670070",
+    "published_at": "2026-05-25T19:17:20.404Z",
+    "fetched_at": "2026-05-25T19:17:20.404Z",
+    "title_zh": "Nginx CVE-2026-42945漏洞分析及复现 - 腾讯云开发者社区",
+    "summary_zh": "本文对Nginx中的CVE-2026-42945漏洞进行了详细分析，包括漏洞触发条件、利用原理及复现步骤。该漏洞可能影响Nginx的HTTP/2或核心处理模块，导致拒绝服务或远程代码执行。文章还提供了腾讯云环境下的修复建议和临时缓解措施，对使用Nginx的运维和安全团队具有直接指导意义。",
+    "topic": "security"
+  },
+  {
+    "id": "aa2ea0faf70ab897c986cea98da3b7f4",
+    "title_en": "CVE-2026-42945 深度解析 NGINX Rift ：潜伏18年的堆溢出漏洞分析与防御指南 - 蚁景网安实验室",
+    "source": "yijinglab.com",
+    "url": "https://www.yijinglab.com/specialized/20260518171854",
+    "published_at": "2026-05-25T19:17:20.404Z",
+    "fetched_at": "2026-05-25T19:17:20.404Z",
+    "title_zh": "CVE-2026-42945深度解析：NGINX Rift——潜伏18年的堆溢出漏洞分析与防御指南",
+    "summary_zh": "本文由蚁景网安实验室深度解析了CVE-2026-42945（NGINX Rift），一个潜伏18年的堆溢出漏洞。文章从漏洞发现历程、堆内存布局、利用原理解析到实际攻击场景进行了全面剖析，并提供了基于编译选项、运行时监控和WAF规则的防御指南。对于深入理解Nginx内部机制和堆安全的研究者极具价值。",
+    "topic": "security"
+  },
+  {
+    "id": "150ed4f8b546367932a3bfe75cf149b8",
+    "title_en": "GitHub - datawhalechina/hello-agents: 《从零开始构建智能体》",
+    "source": "github.com",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "published_at": "2026-05-25T19:17:04.107Z",
+    "fetched_at": "2026-05-25T19:17:04.107Z",
+    "title_zh": "GitHub - datawhalechina/hello-agents: 《从零开始构建智能体》",
+    "summary_zh": "这是一个开源项目，旨在帮助开发者从零开始构建智能体（Agent）。项目提供了完整的教程和代码示例，涵盖Agent核心概念、工具调用、记忆管理、多Agent协作等主题。教程采用循序渐进的方式，从最简单的单步Agent逐步演进到复杂的自主决策系统，并配有详细的注释和实验指导。适合作为Agent开发的学习入门资料。",
+    "topic": "ai"
+  },
+  {
     "id": "2a0ab55f65339c934c2175f93a75968d",
     "title_en": "运维实践相关内容 - 阿里云",
     "source": "cn.aliyun.com",
@@ -2109,94 +2197,6 @@
     "fetched_at": "2026-05-23T00:30:50.174Z",
     "title_zh": "安全 - Kubernetes Secret 良好实践 - 《Kubernetes v1.26 中文文档》",
     "summary_zh": "本文基于Kubernetes v1.26官方文档，系统阐述了Secret资源的安全管理最佳实践。内容涵盖Secret的加密存储（启用静态加密、使用KMS提供商）、访问控制（RBAC最小权限原则）、生命周期管理（自动轮换、版本控制）以及审计日志配置。文章还对比了Secret与External Secrets Operator、Vault等外部密钥管理方案的集成方式，并强调了避免将Secret明文写入YAML或Git仓库的重要性。通过具体配置示例，帮助运维和安全工程师有效防范敏感信息泄露风险。",
-    "topic": "security"
-  },
-  {
-    "id": "0ed160bfec1211bfbe5d32251173202c",
-    "title_en": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2551743",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
-    "summary_zh": "腾讯云出品的Kubernetes运维避坑指南，聚焦生产环境中常见但易被忽视的陷阱与解决方案。文章列举了多个典型问题案例，包括：资源配额设置不当导致Pod驱逐、节点压力驱逐（Node Pressure）触发条件、网络策略误配引发服务中断、存储卷挂载失败及集群证书过期处理。每个案例均附有根因分析、排查步骤和修复命令。此外，还分享了集群升级前的检查清单、备份恢复策略及成本优化建议，旨在帮助运维团队减少故障时间，提升集群稳定性。",
-    "topic": "ops"
-  },
-  {
-    "id": "bb833e665bd144527955617b8dd4923f",
-    "title_en": "Docker 容器性能优化思路 - 官方博客",
-    "source": "idc.net",
-    "url": "https://idc.net/help/442419/",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "Docker 容器性能优化思路 - 官方博客",
-    "summary_zh": "本文从Docker容器运行时的资源消耗与性能瓶颈出发，系统梳理了性能优化的核心思路。涵盖CPU/内存限制的合理配置（cgroups参数调优）、存储驱动选择（overlay2 vs devicemapper）、网络模式优化（host vs bridge）以及镜像层缓存利用。文章还探讨了容器日志管理（避免日志文件过大）、系统调用开销（seccomp配置）及内核参数调整（如net.core.somaxconn）。通过实际benchmark数据对比，帮助开发者理解不同优化手段对应用吞吐量和延迟的影响，适合需要提升容器化应用性能的工程师。",
-    "topic": "ops"
-  },
-  {
-    "id": "9f321d9510a77757eee8b013cffb091a",
-    "title_en": "Docker硬件配置要求与优化方案全解析（2025版） - Comate",
-    "source": "comate.baidu.com",
-    "url": "https://comate.baidu.com/zh/page/mji7aw3hr9v",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "Docker硬件配置要求与优化方案全解析（2025版） - Comate",
-    "summary_zh": "本文提供了2025年最新Docker部署的硬件配置要求与优化方案，覆盖CPU、内存、存储及网络各维度。详细分析了不同工作负载（Web服务、数据库、AI训练）对硬件资源的需求差异，并给出推荐配置（如CPU核心数、内存大小、SSD IOPS）。优化部分包括：NUMA架构下的CPU亲和性设置、内存大页（HugePages）启用、存储驱动选择（overlay2 vs fuse-overlayfs）及网络中断绑定。文章还提供了性能测试工具（如stress、fio、iperf）的使用方法，帮助读者验证优化效果，是容器化部署前的实用参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "cf41d95c206b5010bc471b06069cdf2f",
-    "title_en": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？-A5数据",
-    "source": "a5idc.com",
-    "url": "https://www.a5idc.com/article/22500.html",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？ - A5数据",
-    "summary_zh": "本文针对香港服务器部署Docker容器的场景，提供了存储和网络性能的专项优化方案。存储方面，推荐使用overlay2驱动并配置SSD缓存，调整Docker数据目录（/var/lib/docker）至高性能磁盘，以及启用日志轮转（logrotate）避免磁盘占满。网络方面，重点优化跨地域延迟，包括使用host网络模式减少NAT开销、调整MTU值、启用TCP BBR拥塞控制算法，并建议搭配CDN或边缘节点加速静态资源。文章还提供了监控工具（如cAdvisor、Netdata）的配置示例，帮助运维人员实时定位瓶颈。",
-    "topic": "ops"
-  },
-  {
-    "id": "96c499bab56c310666c3222a50d4287a",
-    "title_en": "Docker 27存储驱动性能优化（27步企业级Checklist·含eBPF实时监控脚本）-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/LogicWander/article/details/160819380",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "Docker 27存储驱动性能优化（27步企业级Checklist·含eBPF实时监控脚本） - CSDN博客",
-    "summary_zh": "本文针对Docker 27版本，提供了27步企业级存储驱动性能优化Checklist，并附赠eBPF实时监控脚本。优化步骤涵盖：存储驱动选择（overlay2推荐）、内核参数调整（如dirty_ratio、dirty_background_ratio）、磁盘调度器设置（none/mq-deadline）、文件系统挂载选项（noatime、nodiratime）、数据目录分离（使用独立SSD）及日志驱动配置（journald vs json-file）。eBPF脚本可实时追踪容器I/O延迟、文件系统操作及块设备请求，帮助定位性能瓶颈。文章还提供了性能基准测试方法（fio、dd），适合需要极致存储性能的容器化数据库或高I/O应用场景。",
-    "topic": "ops"
-  },
-  {
-    "id": "11b87f28506f40e97b3d1d2bdf5eb47b",
-    "title_en": "Docker容器的优化和性能调优技巧",
-    "source": "developer.aliyun.com",
-    "url": "https://developer.aliyun.com/article/1404694",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "Docker容器的优化和性能调优技巧",
-    "summary_zh": "本文系统介绍了Docker容器性能调优的多种技巧，涵盖资源限制、存储、网络及安全层面。资源方面，强调通过--cpus、--memory等参数精确分配资源，避免资源争抢；存储方面，推荐使用overlay2驱动并定期清理无用镜像和卷；网络方面，建议使用自定义网络（bridge/overlay）并调整MTU值；安全方面，启用seccomp、AppArmor限制系统调用。文章还讨论了容器内应用层面的优化，如JVM参数调整、连接池配置及日志异步输出。通过综合运用这些技巧，可显著提升容器化应用的响应速度与稳定性。",
-    "topic": "ops"
-  },
-  {
-    "id": "1cb5d72ed5d111d8ec0759f833354ff7",
-    "title_en": "GB/T 20272-2026《网络安全技术 操作系统安全技术规范》--中国安防大数据服务平台",
-    "source": "afdata.org.cn",
-    "url": "https://www.afdata.org.cn/Standard/38df80b3-436c-45ea-b2f3-4377cf64c457",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "GB/T 20272-2026《网络安全技术 操作系统安全技术规范》--中国安防大数据服务平台",
-    "summary_zh": "本文解读了即将实施的GB/T 20272-2026国家标准，该标准替代旧版GB/T 20272-2019，针对操作系统安全提出了更严格的技术要求。内容涵盖身份鉴别、访问控制、安全审计、入侵防范、数据完整性及保密性等核心安全功能。重点分析了新标准在容器安全、虚拟化安全及可信计算方面的新增要求，并对比了与等保2.0的衔接关系。对于国产操作系统（如麒麟、统信）的合规建设具有重要指导意义，适合安全合规工程师及系统管理员参考。",
-    "topic": "security"
-  },
-  {
-    "id": "322d8a6319183a6ec795d91602ab8a36",
-    "title_en": "操作系统加固概述 | openEuler文档 | openEuler社区 | v23.03",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/23.03/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "操作系统加固概述 | openEuler文档 | openEuler社区 | v23.03",
-    "summary_zh": "本文是openEuler 23.03版本的官方安全加固文档，概述了操作系统加固的基本原则与框架。内容涵盖系统安装时的安全分区、最小化安装原则、用户与权限管理、PAM认证配置、防火墙与SELinux策略、以及系统更新与补丁管理。文档特别强调了openEuler特有的安全特性，如iSulad容器安全、secGear机密计算框架及A-Tune智能调优中的安全考量。适合使用openEuler作为基础设施的开发者与运维人员，帮助构建符合等保要求的可信环境。",
     "topic": "security"
   }
 ]
