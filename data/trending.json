@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-05-25",
+      "summary_zh": "今日GitHub趋势聚焦AI编程工具生态：知识图谱代码理解、Claude插件与代理平台、免费终端方案、金融领域基础模型，强调本地化与效率提升。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "language": "TypeScript",
+          "stars_total": 26503,
+          "stars_today": 3999,
+          "description_zh": "以教学为目的的图谱 > 以炫技为目的的图谱。将任意代码转化为可交互的知识图谱，支持探索、搜索和提问。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
+        },
+        {
+          "rank": 2,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars_total": 22405,
+          "stars_today": 3003,
+          "description_zh": "为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 预索引的代码知识图谱——更少的令牌、更少的工具调用、100% 本地运行。"
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 152379,
+          "stars_today": 2551,
+          "description_zh": "基于 Andrej Karpathy 对 LLM 编码陷阱的观察，通过单个 CLAUDE.md 文件改进 Claude Code 行为。"
+        },
+        {
+          "rank": 4,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 16316,
+          "stars_today": 1853,
+          "description_zh": "学习它。构建它。交付给他人。"
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 27301,
+          "stars_today": 1173,
+          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
+        },
+        {
+          "rank": 6,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "language": "Python",
+          "stars_total": 8421,
+          "stars_today": 930,
+          "description_zh": "为 AI 智能体提供的 754 项结构化网络安全技能 · 映射至五大框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 覆盖 26 个安全领域 · Apache 2.0 许可。"
+        },
+        {
+          "rank": 7,
+          "name": "manaflow-ai/cmux",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "description_en": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+          "language": "Swift",
+          "stars_total": 19059,
+          "stars_today": 696,
+          "description_zh": "基于 Ghostty 的 macOS 终端，为 AI 编码智能体提供垂直标签页和通知功能。"
+        },
+        {
+          "rank": 8,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "language": "TypeScript",
+          "stars_total": 32568,
+          "stars_today": 585,
+          "description_zh": "开源托管智能体平台。将编码智能体转变为真正的队友——分配任务、跟踪进度、复合技能。"
+        },
+        {
+          "rank": 9,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description_en": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+          "language": "Python",
+          "stars_total": 29209,
+          "stars_today": 553,
+          "description_zh": "在终端、VSCode 扩展或 Discord 中免费使用 claude-code（类似 OpenClaw，支持语音）。"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars_total": 14140,
+          "stars_today": 550,
+          "description_zh": "面向知识工作者的开源插件仓库，主要用于在 Claude Cowork 中使用。"
+        },
+        {
+          "rank": 11,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description_en": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars_total": 504303,
+          "stars_today": 550,
+          "description_zh": "通过从头重建你喜爱的技术来掌握编程。"
+        },
+        {
+          "rank": 12,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description_en": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "language": "TypeScript",
+          "stars_total": 54010,
+          "stars_today": 456,
+          "description_zh": "AI 智能体工具包：编码智能体 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM Pods。"
+        },
+        {
+          "rank": 13,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars_total": 62199,
+          "stars_today": 197,
+          "description_zh": "简洁通用的群体智能引擎，预测万物。A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
+        },
+        {
+          "rank": 14,
+          "name": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
+          "language": "C#",
+          "stars_total": 2976,
+          "stars_today": 183,
+          "description_zh": "为 AI 编码智能体提供 .NET 和 C# 辅助技能的仓库。"
+        },
+        {
+          "rank": 15,
+          "name": "blakeblackshear/frigate",
+          "url": "https://github.com/blakeblackshear/frigate",
+          "description_en": "NVR with realtime local object detection for IP cameras",
+          "language": "TypeScript",
+          "stars_total": 32879,
+          "stars_today": 181,
+          "description_zh": "支持实时本地物体检测的 IP 摄像头网络录像机（NVR）。"
+        },
+        {
+          "rank": 16,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 25819,
+          "stars_today": 106,
+          "description_zh": "Kronos：金融市场语言的基石模型。"
+        }
+      ]
+    },
+    {
       "date": "2026-05-24",
       "summary_zh": "今日GitHub热门项目聚焦AI编程工具生态：知识图谱可视化代码、Claude插件与代理平台、金融领域基础模型，以及开源免费使用Claude Code的解决方案。",
       "projects": [
@@ -4181,142 +4347,6 @@
           "stars_total": 25139,
           "stars_today": 38,
           "description_zh": "TypeScript 原生移植开发的暂存仓库。"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-25",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与黑客工具，涵盖Claude代码免费使用、全栈产品分析平台PostHog、AI代理编程助手、高效通信库及开源ML工程师，展现AI赋能开发与安全领域的最新趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Alishahryar1/free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-          "language": "Python",
-          "stars_total": 11190,
-          "stars_today": 3975,
-          "description_zh": "在终端、VSCode扩展或通过Discord（如openclaw）免费使用claude-code"
-        },
-        {
-          "rank": 2,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 495778,
-          "stars_today": 1431,
-          "description_zh": "通过从头重新创建您喜爱的技术来掌握编程。"
-        },
-        {
-          "rank": 3,
-          "name": "huggingface/ml-intern",
-          "url": "https://github.com/huggingface/ml-intern",
-          "description_en": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-          "language": "Python",
-          "stars_total": 6097,
-          "stars_today": 1236,
-          "description_zh": "🤗 ml-intern：一个开源ML工程师，能够阅读论文、训练模型并部署ML模型"
-        },
-        {
-          "rank": 4,
-          "name": "Z4nzu/hackingtool",
-          "url": "https://github.com/Z4nzu/hackingtool",
-          "description_en": "ALL IN ONE Hacking Tool For Hackers",
-          "language": "Python",
-          "stars_total": 63522,
-          "stars_today": 1200,
-          "description_zh": "黑客的全能黑客工具"
-        },
-        {
-          "rank": 5,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "My personal directory of skills, straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 19452,
-          "stars_today": 857,
-          "description_zh": "我的个人技能目录，直接来自我的.claude目录"
-        },
-        {
-          "rank": 6,
-          "name": "PostHog/posthog",
-          "url": "https://github.com/PostHog/posthog",
-          "description_en": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-          "language": "Python",
-          "stars_total": 33409,
-          "stars_today": 469,
-          "description_zh": "🦔 PostHog是一个面向成功产品构建的全能开发者平台。我们提供产品分析、网站分析、会话回放、错误追踪、功能开关、实验、调查、数据仓库、CDP以及AI产品助手，帮助您调试代码、更快地发布功能，并将所有使用数据和客户数据集中管理。"
-        },
-        {
-          "rank": 7,
-          "name": "deepseek-ai/DeepEP",
-          "url": "https://github.com/deepseek-ai/DeepEP",
-          "description_en": "DeepEP: an efficient expert-parallel communication library",
-          "language": "Cuda",
-          "stars_total": 9459,
-          "stars_today": 189,
-          "description_zh": "DeepEP：一个高效的专家并行通信库"
-        },
-        {
-          "rank": 8,
-          "name": "ComposioHQ/awesome-codex-skills",
-          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-          "description_en": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-          "language": "Python",
-          "stars_total": 1375,
-          "stars_today": 174,
-          "description_zh": "一份精选的实用Codex技能列表，用于通过Codex CLI和API自动化工作流程。"
-        },
-        {
-          "rank": 9,
-          "name": "davila7/claude-code-templates",
-          "url": "https://github.com/davila7/claude-code-templates",
-          "description_en": "CLI tool for configuring and monitoring Claude Code",
-          "language": "Python",
-          "stars_total": 25270,
-          "stars_today": 78,
-          "description_zh": "用于配置和监控Claude Code的CLI工具"
-        },
-        {
-          "rank": 10,
-          "name": "PowerShell/PowerShell",
-          "url": "https://github.com/PowerShell/PowerShell",
-          "description_en": "PowerShell for every system!",
-          "language": "C#",
-          "stars_total": 53007,
-          "stars_today": 68,
-          "description_zh": "适用于每个系统的PowerShell！"
-        },
-        {
-          "rank": 11,
-          "name": "RooCodeInc/Roo-Code",
-          "url": "https://github.com/RooCodeInc/Roo-Code",
-          "description_en": "Roo Code gives you a whole dev team of AI agents in your code editor.",
-          "language": "TypeScript",
-          "stars_total": 23465,
-          "stars_today": 55,
-          "description_zh": "Roo Code在您的代码编辑器中为您提供一整套AI代理开发团队。"
-        },
-        {
-          "rank": 12,
-          "name": "CJackHwang/ds2api",
-          "url": "https://github.com/CJackHwang/ds2api",
-          "description_en": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-          "language": "Go",
-          "stars_total": 1368,
-          "stars_today": 37,
-          "description_zh": "Deepseek转API：一个轻量级、高性能的全栈中间件，将客户端协议转换为通用API。支持多账户轮换、编译二进制文件、Vercel Serverless和Docker。兼容Google、Claude和OpenAI API格式。"
-        },
-        {
-          "rank": 13,
-          "name": "Universal-Commerce-Protocol/ucp",
-          "url": "https://github.com/Universal-Commerce-Protocol/ucp",
-          "description_en": "Specification and documentation for the Universal Commerce Protocol (UCP)",
-          "language": "Python",
-          "stars_total": 2746,
-          "stars_today": 16,
-          "description_zh": "通用商业协议（UCP）的规范与文档"
         }
       ]
     }

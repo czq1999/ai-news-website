@@ -1,5 +1,148 @@
 [
   {
+    "id": "693ea7feb95654fa53242e068e2c64d3",
+    "title_en": "深入解读补丁分析发现的linux内核提权漏洞(CVE-2017–1000405)",
+    "source": "anquanke.com",
+    "url": "https://www.anquanke.com/post/id/89096",
+    "published_at": "2026-05-25T02:36:19.253Z",
+    "fetched_at": "2026-05-25T02:36:19.253Z",
+    "title_zh": "深入解读补丁分析发现的linux内核提权漏洞(CVE-2017–1000405)",
+    "summary_zh": "本文通过补丁对比分析，详细解读了Linux内核提权漏洞CVE-2017-1000405的发现过程与利用原理。该漏洞存在于内核的Gigaset ISDN驱动中，因缺少对用户输入的正确校验导致堆溢出，可被本地用户利用获取root权限。文章展示了从补丁逆向推导漏洞触发点的思路，对内核安全研究者具有重要参考意义。",
+    "topic": "security"
+  },
+  {
+    "id": "ccd4c1d73502ba063256e93b04936fe4",
+    "title_en": "安全修补| GKE security - Google Cloud Documentation",
+    "source": "docs.cloud.google.com",
+    "url": "https://docs.cloud.google.com/kubernetes-engine/docs/resources/security-patching?hl=zh-cn",
+    "published_at": "2026-05-25T02:36:19.253Z",
+    "fetched_at": "2026-05-25T02:36:19.253Z",
+    "title_zh": "安全修补 | GKE security - Google Cloud 文档",
+    "summary_zh": "Google Cloud官方文档详细介绍了GKE（Google Kubernetes Engine）的安全修补策略，包括节点自动升级、安全补丁管理、漏洞扫描集成以及运行时安全加固。重点讲解了如何利用GKE的自动修复功能（Auto Repair）和节点池升级策略来最小化安全风险，同时提供了Pod安全策略（PSP）与Workload Identity的配置建议，适用于云原生环境的安全运维。",
+    "topic": "security"
+  },
+  {
+    "id": "7a302f1f3187fbe6fd9b6274185373d7",
+    "title_en": "第8 章使用内核实时修补程序应用补丁| 管理 - Red Hat Documentation",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/9/html/managing_monitoring_and_updating_the_kernel/applying-patches-with-kernel-live-patching_managing-monitoring-and-updating-the-kernel",
+    "published_at": "2026-05-25T02:36:19.253Z",
+    "fetched_at": "2026-05-25T02:36:19.253Z",
+    "title_zh": "第8章 使用内核实时修补程序应用补丁 | 管理 - Red Hat 文档",
+    "summary_zh": "Red Hat官方文档详细介绍了使用内核实时修补（Kpatch）技术在不重启系统的情况下应用安全补丁的方法。内容涵盖kpatch的安装、补丁模块的创建与加载、补丁状态监控以及回滚操作。该技术对于需要保持高可用性的生产环境至关重要，能够在不中断服务的前提下修复内核漏洞，显著降低安全修复的运维成本。",
+    "topic": "security"
+  },
+  {
+    "id": "c291648a6fe0b042b15a976c5f52a9b5",
+    "title_en": "CPU处理器内核存在Meltdown和Spectre漏洞分析(引用于中国教育和 ...",
+    "source": "cetc.nwu.edu.cn",
+    "url": "https://cetc.nwu.edu.cn/info/1065/1343.htm",
+    "published_at": "2026-05-25T02:36:19.253Z",
+    "fetched_at": "2026-05-25T02:36:19.253Z",
+    "title_zh": "CPU处理器内核Meltdown与Spectre漏洞深度分析",
+    "summary_zh": "本文详细分析了Meltdown和Spectre两大CPU侧信道攻击漏洞的原理、影响范围及攻击向量。Meltdown利用乱序执行机制突破内核内存隔离，而Spectre则通过分支预测训练诱导信息泄露。文章深入探讨了KPTI（内核页表隔离）、retpoline等缓解措施的性能开销与局限性，并给出了针对不同处理器架构的修复建议。对于系统安全工程师和内核开发者而言，理解这些硬件漏洞的底层机制是构建纵深防御体系的关键。",
+    "topic": "security"
+  },
+  {
+    "id": "2cca3ef8b0ae86ed5f50b7333b0bc415",
+    "title_en": "潜伏9年通杀全版本：Copy Fail Linux内核提权漏洞深度解析（CVE-2026-31431） - 云栈社区",
+    "source": "yunpan.plus",
+    "url": "https://yunpan.plus/t/24198-1-1",
+    "published_at": "2026-05-25T02:36:19.253Z",
+    "fetched_at": "2026-05-25T02:36:19.253Z",
+    "title_zh": "潜伏9年通杀全版本：Copy Fail Linux内核提权漏洞深度解析（CVE-2026-31431）",
+    "summary_zh": "本文深度剖析了编号CVE-2026-31431的Linux内核提权漏洞，该漏洞在copy_from_user等内存拷贝函数中存在条件竞争，影响所有内核版本长达9年。文章从漏洞触发路径、利用原语构造到提权实现进行了完整的技术拆解，并给出了内核补丁分析及临时缓解措施。对于安全研究员和系统管理员，本文提供了从漏洞发现到修复验证的全链路参考，具有极高的实战价值。",
+    "topic": "security"
+  },
+  {
+    "id": "e10a47db039552f5aca9b68f1e5cfb85",
+    "title_en": "Docker容器优化-阿里云",
+    "source": "aliyun.com",
+    "url": "https://www.aliyun.com/sswb/745299.html",
+    "published_at": "2026-05-25T02:36:16.461Z",
+    "fetched_at": "2026-05-25T02:36:16.461Z",
+    "title_zh": "Docker容器优化",
+    "summary_zh": "阿里云出品的Docker容器优化指南，聚焦于生产环境中容器的性能与稳定性提升。内容涵盖镜像构建优化（减少层数、利用构建缓存、使用Alpine等轻量基础镜像）、运行时资源限制（内存与CPU的cgroup配置）、日志管理（避免容器内日志无限增长）、数据持久化方案（Volume vs Bind Mount）以及安全最佳实践（非root用户运行、只读文件系统）。适合云原生环境下的容器使用者。",
+    "topic": "ops"
+  },
+  {
+    "id": "ab575a41814d7092e5a01d573c239b66",
+    "title_en": "操作系统加固概述 | openEuler文档 | openEuler社区 | v22.03_LTS_SP3",
+    "source": "docs.openeuler.org",
+    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS_SP3/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
+    "published_at": "2026-05-25T02:36:16.461Z",
+    "fetched_at": "2026-05-25T02:36:16.461Z",
+    "title_zh": "操作系统加固概述 | openEuler文档",
+    "summary_zh": "本文档基于openEuler 22.03 LTS SP3版本，系统阐述了操作系统安全加固的总体框架与实施要点。内容涵盖身份鉴别、访问控制、安全审计、入侵防范、资源控制等关键安全域，并针对内核参数、服务管理、文件系统挂载选项等给出具体配置建议。适合企业级Linux环境下的安全基线建设参考，强调合规性与可操作性。",
+    "topic": "security"
+  },
+  {
+    "id": "17cedd48c53af01551627224422d87b6",
+    "title_en": "大模型微调完整指南 - LoRA/QLoRA实战",
+    "source": "nuik.cn",
+    "url": "https://www.nuik.cn/agent/finetune",
+    "published_at": "2026-05-25T02:36:12.374Z",
+    "fetched_at": "2026-05-25T02:36:12.374Z",
+    "title_zh": "大模型微调完整指南 - LoRA/QLoRA实战",
+    "summary_zh": "本文是一份面向实战的大模型微调指南，聚焦LoRA与QLoRA两种主流参数高效微调方法。内容从环境配置、模型加载、数据集构建到训练与推理，提供了完整的代码示例。作者重点对比了LoRA与QLoRA在显存占用、训练速度、模型性能上的差异，并给出了不同硬件条件下的选型建议。此外还涵盖了量化、合并、部署等生产环节，适合有微调需求的工程师直接参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "01935e2c2288ac8d7c236e734c7e24cf",
+    "title_en": "大模型参数高效微调技术原理综述（七）-最佳实践、总结 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/649755252)",
+    "published_at": "2026-05-25T02:36:12.374Z",
+    "fetched_at": "2026-05-25T02:36:12.374Z",
+    "title_zh": "大模型参数高效微调技术原理综述（七）-最佳实践、总结",
+    "summary_zh": "本文是大模型参数高效微调技术综述系列的收官篇，系统总结了LoRA、Adapter、Prefix Tuning、Prompt Tuning等主流方法的最佳实践。内容涵盖：不同微调方法的适用场景对比、超参数调优指南、训练稳定性提升技巧、多任务微调策略以及模型评估与部署建议。作者还给出了从数据准备到上线监控的全流程checklist，为工程师提供了可落地的技术决策框架。",
+    "topic": "ai"
+  },
+  {
+    "id": "52676756b1cde828821f12bf1f0a78dc",
+    "title_en": "[PDF] Linux 云服务器运维产品文档",
+    "source": "mc.qcloudimg.com",
+    "url": "https://mc.qcloudimg.com/static/qc_doc/444e862e59c420fca504407be3be225c/doc-Cloud%20Virtual%20Machine-Linux%20CVM%20Operation%20Manual.pdf",
+    "published_at": "2026-05-25T02:36:12.374Z",
+    "fetched_at": "2026-05-25T02:36:12.374Z",
+    "title_zh": "PDF Linux 云服务器运维产品文档",
+    "summary_zh": "本文档为Linux云服务器运维的官方产品手册，系统涵盖了服务器初始化、网络配置、安全组规则、磁盘管理、监控告警、日志分析等核心运维场景。内容以操作指南和最佳实践为主，包括常用命令详解、性能调优参数、故障排查流程等。适合云服务器运维人员作为日常参考手册，帮助快速定位问题并提升运维效率。",
+    "topic": "ops"
+  },
+  {
+    "id": "8f19acb28c8910eac63efc38d92842f5",
+    "title_en": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
+    "source": "github.com",
+    "url": "https://github.com/mingongge/BestSRE",
+    "published_at": "2026-05-25T02:36:12.374Z",
+    "fetched_at": "2026-05-25T02:36:12.374Z",
+    "title_zh": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
+    "summary_zh": "该项目是Linux运维工程师的技能成长路线图，系统整理了从初级到高级所需掌握的知识体系。内容包括：Linux基础命令与系统管理、Shell脚本编程、网络与安全、监控与日志、自动化运维（Ansible/SaltStack）、容器与Kubernetes、数据库运维、故障排查与性能优化等。每个阶段配有学习资源与实践项目，是运维工程师系统提升的优质参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "a8492262271ced0d5d554d0f83480b0e",
+    "title_en": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时 - 运维笔记 - 李洋博客 | 专业博客搭建与技术分享",
+    "source": "itlaoli.com",
+    "url": "https://www.itlaoli.com/blog/900.html",
+    "published_at": "2026-05-25T02:36:12.374Z",
+    "fetched_at": "2026-05-25T02:36:12.374Z",
+    "title_zh": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时",
+    "summary_zh": "本文分享了2026年Linux服务器运维的实战优化技巧，旨在帮助运维人员提升效率、减少加班。内容涵盖：系统参数调优（内核参数、文件描述符）、磁盘I/O优化、网络性能调优、日志管理策略、自动化脚本编写、监控告警配置以及常见故障的快速定位方法。作者结合多年运维经验，提供了可直接落地的命令与配置示例，适合一线运维工程师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "3f7de4b7b7346aa672e55e0c19c17638",
+    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
+    "source": "edu.aliyun.com",
+    "url": "https://edu.aliyun.com/course/314200/",
+    "published_at": "2026-05-25T02:36:12.374Z",
+    "fetched_at": "2026-05-25T02:36:12.374Z",
+    "title_zh": "Linux服务器运维基本操作",
+    "summary_zh": "阿里云认证出品的Linux服务器运维入门指南，聚焦于服务器日常管理中的高频操作，包括用户与权限管理、文件系统维护、进程控制、网络配置、软件包管理、系统日志查看及远程连接安全设置。内容以阿里云ECS实例为背景，兼顾通用Linux发行版，强调操作规范与安全基线。适合云服务器初学者快速上手，也适合需要系统化梳理基础运维流程的从业者参考。",
+    "topic": "ops"
+  },
+  {
     "id": "d1051553868e7150698157edf1fa7300",
     "title_en": "什么是Linux 内核实时修补？ - Red Hat",
     "source": "redhat.com",
@@ -2054,149 +2197,6 @@
     "fetched_at": "2026-05-23T00:30:45.958Z",
     "title_zh": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
     "summary_zh": "本文报道了OpenAI的非数学模型（非纯数学专用模型）首次自主解决一个困扰数学界80年的未解难题，令菲尔兹奖得主感到震惊。文章深入分析了模型在推理路径探索、符号操作与假设验证上的技术突破，探讨了其与AlphaFold等科学AI的异同，并讨论了该成果对AI在数学研究、科学发现以及形式化验证领域的深远意义。",
-    "topic": "ai"
-  },
-  {
-    "id": "21565e0887d712c244c84bc86573e8bb",
-    "title_en": "Qwen3.7-Max登场，智能体时代核心基座模型来了_腾讯新闻",
-    "source": "news.qq.com",
-    "url": "https://news.qq.com/rain/a/20260521A02B1S00",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "Qwen3.7-Max登场，智能体时代核心基座模型来了",
-    "summary_zh": "本文介绍了Qwen3.7-Max大模型的发布，该模型被定位为智能体（Agent）时代的核心基座模型。文章详细解析了其在长上下文支持、工具调用能力、多轮对话一致性以及任务规划上的关键改进，并提供了与GPT-4o、Claude 3.5等模型的性能对比。对于正在构建AI Agent应用的开发者，本文提供了模型选型、API使用与微调策略的实用指导。",
-    "topic": "ai"
-  },
-  {
-    "id": "c2b4bad0ea258d7fb52d9b7635c107e4",
-    "title_en": "B站首推！2025最新版大模型AI Agent入门到精通实战教程！包含所有 ...",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1SqKHeUEm5/",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "B站首推！2025最新版大模型AI Agent入门到精通实战教程！包含所有 ...",
-    "summary_zh": "本教程从零基础出发，系统讲解大模型AI Agent的开发全流程，涵盖Prompt工程、LangChain框架、工具调用、记忆机制与多Agent协作等核心模块。通过多个实战项目，帮助开发者掌握从环境搭建到部署上线的完整技能链。教程特别强调了Agent在复杂任务分解与动态规划中的实现技巧，适合希望快速进入AI Agent开发领域的工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "a229831c1fb87d90719025671866d313",
-    "title_en": "如何从零开始实现一个 AI Agent 框架（理论+实践）-腾讯云开发者社区-腾讯云",
-    "source": "developer.cloud.tencent.com",
-    "url": "https://developer.cloud.tencent.com/article/2631821",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "如何从零开始实现一个 AI Agent 框架（理论+实践）",
-    "summary_zh": "本文从理论到实践，详细讲解了如何从零实现一个轻量级AI Agent框架。内容涵盖Agent核心架构设计、LLM接口抽象、工具注册与调度机制、记忆管理以及多轮对话状态维护等关键技术。文章提供了完整的Python代码实现与架构图，并讨论了与LangChain等成熟框架的设计差异。适合希望深入理解Agent内部机制并构建定制化方案的开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "57daed4d13467d0da1fa12a6c0dbf7d8",
-    "title_en": "AgentGuide - AI Agent 开发学习指南 - 阿东玩AI",
-    "source": "adongwanai.github.io",
-    "url": "https://adongwanai.github.io/AgentGuide/",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "AgentGuide - AI Agent 开发学习指南",
-    "summary_zh": "本文是一份面向AI Agent开发者的系统性学习指南，涵盖从基础概念到进阶实践的完整路径。内容涉及Agent架构设计、工具链选择、多Agent协作模式以及常见陷阱规避。适合希望快速上手Agent开发的工程师，提供可复用的代码模板和项目结构建议，强调工程化落地与调试技巧。",
-    "topic": "ai"
-  },
-  {
-    "id": "1bdaaff955ab934f682bd67dce5ad89f",
-    "title_en": "Microsoft代理框架概述 | Microsoft Learn",
-    "source": "learn.microsoft.com",
-    "url": "https://learn.microsoft.com/zh-cn/agent-framework/overview/",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "Microsoft代理框架概述",
-    "summary_zh": "本文对微软推出的AI Agent框架进行技术概览，重点解析其核心组件如编排器、记忆模块、工具调用接口及安全策略。框架支持多语言扩展和云原生部署，适用于构建企业级自动化工作流。文章从架构设计角度对比了主流Agent框架的优劣，并给出选型建议。",
-    "topic": "ai"
-  },
-  {
-    "id": "a32b3e0d2e4a69fc010a6fcfa2cb19ec",
-    "title_en": "手把手入门教程 - Agently AI应用开发框架",
-    "source": "agently.tech",
-    "url": "https://agently.tech/v3/guides/agentic_request/guide.html",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "手把手入门教程 - Agently AI应用开发框架",
-    "summary_zh": "本文是Agently框架的入门教程，从环境搭建到第一个Agent应用逐步演示。重点介绍框架的声明式API、流式处理能力和插件机制，帮助开发者快速构建对话式AI应用。教程包含代码示例和常见问题解答，适合零基础开发者快速上手。",
-    "topic": "ai"
-  },
-  {
-    "id": "ccb32c88b361dd5573e32422b0289238",
-    "title_en": "AI Agent(智能体) 教程 - 菜鸟教程",
-    "source": "runoob.com",
-    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "AI Agent（智能体）教程",
-    "summary_zh": "本文是面向初学者的AI Agent概念与实操教程，从Agent定义、分类到简单实现。内容涵盖Prompt工程、工具调用和记忆机制等核心概念，并提供基于Python的简易代码示例。适合希望建立Agent基础认知的读者，强调理论与实践结合。",
-    "topic": "ai"
-  },
-  {
-    "id": "d23d822ef80e77298bddb180a5ac73f6",
-    "title_en": "AI Agent 开发实战手册| Wiki | JR Academy",
-    "source": "jiangren.com.au",
-    "url": "https://jiangren.com.au/wiki/ai-agent-guide",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "AI Agent 开发实战手册",
-    "summary_zh": "本文是一份实战导向的AI Agent开发手册，涵盖从需求分析到部署运维的全流程。内容包含常见业务场景的Agent设计模式、API集成技巧和测试策略，并提供可复用的代码仓库。强调工程化最佳实践，如日志记录、异常处理和版本管理。",
-    "topic": "ai"
-  },
-  {
-    "id": "4def84cf7f33535b985d2c84e218200c",
-    "title_en": "前言| AI Agent 开发实战",
-    "source": "waylandz.com",
-    "url": "https://waylandz.com/ai-agent-book/%E5%89%8D%E8%A8%80/",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "前言 | AI Agent 开发实战",
-    "summary_zh": "本文是AI Agent开发实战系列的前言，概述了Agent技术的演进历程、核心挑战和本书的章节规划。作者分享了自己在Agent开发中的经验教训，并推荐了学习路径和工具链。适合作为系统性学习Agent开发的起点。",
-    "topic": "ai"
-  },
-  {
-    "id": "150ed4f8b546367932a3bfe75cf149b8",
-    "title_en": "datawhalechina/hello-agents: 《从零开始构建智能体》 - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "《从零开始构建智能体》 - Datawhale开源项目",
-    "summary_zh": "本文是Datawhale社区的开源项目《从零开始构建智能体》的简介，项目提供从基础到进阶的Agent开发教程，包含代码示例、实验环境和社区讨论。内容覆盖Agent核心概念、工具集成和部署实践，适合自学和团队培训。",
-    "topic": "ai"
-  },
-  {
-    "id": "29f9e2d134cd6c9969ff18c29aa654a4",
-    "title_en": "Agent全面爆发！一文搞懂Agent开发核心链路-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com.cn",
-    "url": "https://cloud.tencent.com.cn/developer/article/2591036?policyId=1003",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "Agent全面爆发！一文搞懂Agent开发核心链路",
-    "summary_zh": "本文梳理AI Agent开发的核心链路，包括需求分析、架构设计、模型选型、工具集成、测试部署等关键环节。结合腾讯云生态，讲解如何利用云服务加速Agent开发，并分享性能优化和成本控制经验。适合企业级开发者参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "910e2c51dce88eafae999451f1533698",
-    "title_en": "炼石成丹：大语言模型微调实战系列（二）模型微调篇 - AWS",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-two/",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "炼石成丹：大语言模型微调实战系列（二）模型微调篇",
-    "summary_zh": "本文是AWS官方的大模型微调实战系列第二篇，深入讲解微调技术原理与AWS SageMaker实践。涵盖LoRA、QLoRA等参数高效微调方法，以及数据准备、训练监控和模型评估的完整流程。提供可复现的代码和性能对比数据，适合有深度学习基础的工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "973a1ff09d914232887be3684d28bb80",
-    "title_en": "GitHub - liguodongiot/llm-action: 本项目旨在分享大模型相关技术原理 ...",
-    "source": "github.com",
-    "url": "https://github.com/liguodongiot/llm-action",
-    "published_at": "2026-05-23T00:30:45.958Z",
-    "fetched_at": "2026-05-23T00:30:45.958Z",
-    "title_zh": "GitHub - liguodongiot/llm-action: 大模型技术原理与实战分享",
-    "summary_zh": "本文介绍一个专注于大模型技术原理的开源项目，涵盖Transformer架构、训练优化、推理加速和模型压缩等核心主题。项目提供丰富的代码示例和实验笔记，帮助开发者深入理解LLM内部机制。适合希望系统学习大模型技术的工程师。",
     "topic": "ai"
   }
 ]
