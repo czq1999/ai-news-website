@@ -1,5 +1,82 @@
 [
   {
+    "id": "68bfab13c03487fa21ec339a64cda33a",
+    "title_en": "一种Linux安全漏洞修复补丁自动识别方法 - 计算机研究与发展",
+    "source": "crad.ict.ac.cn",
+    "url": "https://crad.ict.ac.cn/fileJSJYJYFZ/journal/article/jsjyjyfz/HTML/2022-01-197.shtml",
+    "published_at": "2026-05-26T19:58:29.325Z",
+    "fetched_at": "2026-05-26T19:58:29.325Z",
+    "title_zh": "一种Linux安全漏洞修复补丁自动识别方法",
+    "summary_zh": "本文提出了一种自动化识别Linux安全漏洞修复补丁的方法，基于补丁特征分析和机器学习技术，能够高效地从大量代码提交中定位安全修复。文章详细介绍了方法原理、特征工程及实验验证结果，为自动化漏洞管理和补丁追踪提供了创新解决方案。",
+    "topic": "security"
+  },
+  {
+    "id": "5ec94b7a0fbced2c3f39445c4e5646d5",
+    "title_en": "DevOps和自动化运维实践— 运维开发修炼之路",
+    "source": "my-linux-devops.readthedocs.io",
+    "url": "https://my-linux-devops.readthedocs.io/en/latest/DevOps/index.html",
+    "published_at": "2026-05-26T19:58:29.325Z",
+    "fetched_at": "2026-05-26T19:58:29.325Z",
+    "title_zh": "DevOps和自动化运维实践——运维开发修炼之路",
+    "summary_zh": "本文系统介绍了DevOps和自动化运维的核心实践，涵盖CI/CD流水线构建、配置管理、监控告警及容器化部署等关键环节。文章结合真实案例，分享了从传统运维向自动化运维转型的经验教训，为运维工程师提供了可落地的技术方案和最佳实践。",
+    "topic": "ops"
+  },
+  {
+    "id": "d4b58beeeeff5f8cf5473a1bfc418c8a",
+    "title_en": "加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告 - 信息安全知识库",
+    "source": "gm7.org",
+    "url": "https://www.gm7.org/archives/105584",
+    "published_at": "2026-05-26T19:58:29.324Z",
+    "fetched_at": "2026-05-26T19:58:29.324Z",
+    "title_zh": "加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty家族”漏洞三连的总结报告",
+    "summary_zh": "本文系统总结了Linux内核中“Dirty家族”系列漏洞（如Dirty Pipe、Dirty Cow等），深入探讨了加密机制、系统性能与安全防护之间的平衡关系。文章从漏洞原理、利用手法到修复方案进行了全面分析，为内核安全工程师提供了实用的防御策略和性能优化建议。",
+    "topic": "security"
+  },
+  {
+    "id": "0ed160bfec1211bfbe5d32251173202c",
+    "title_en": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2551743",
+    "published_at": "2026-05-26T19:58:26.797Z",
+    "fetched_at": "2026-05-26T19:58:26.797Z",
+    "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南",
+    "summary_zh": "本文总结了Kubernetes生产运维中常见的陷阱与最佳实践，涵盖集群稳定性、资源管理、网络策略、存储持久化及安全配置等关键领域。作者结合腾讯云实际案例，分析了Pod调度失败、节点资源耗尽、DNS解析异常等典型问题的根因与解决方案。文章强调预防性运维与自动化监控的重要性，为云原生运维团队提供了实用的避坑指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "348a7be6a21cfaaee14bf6dcdeec4975",
+    "title_en": "2025吃透AI Agent全套视频教程，15天学完",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1NxstziEk9/",
+    "published_at": "2026-05-26T19:58:23.600Z",
+    "fetched_at": "2026-05-26T19:58:23.600Z",
+    "title_zh": "2025吃透AI Agent全套视频教程，15天学完",
+    "summary_zh": "B站视频教程系列，计划15天内系统学习AI Agent开发。内容涵盖Agent基础理论、主流框架（LangChain、AutoGPT）实战、多智能体协作、RAG集成、部署与监控等。教程以项目驱动，适合有Python基础的开发者快速掌握Agent开发全流程。",
+    "topic": "ai"
+  },
+  {
+    "id": "8d654f099b24bca2ed5456bad3187bcb",
+    "title_en": "字节跳动推出Lance：一个能同时\"看懂\"和\"画出\"图片与视频AI模型|算法|模态|新论文|知名企业_网易订阅",
+    "source": "163.com",
+    "url": "https://www.163.com/dy/article/KTQA0KMP0511DTVV.html",
+    "published_at": "2026-05-26T19:58:23.599Z",
+    "fetched_at": "2026-05-26T19:58:23.599Z",
+    "title_zh": "字节跳动推出Lance：一个能同时看懂和画出图片与视频的AI模型",
+    "summary_zh": "字节跳动发布多模态模型Lance，实现图像与视频的统一理解与生成。该模型采用联合视觉编码器与扩散Transformer架构，支持图文视频跨模态推理与创作。文章介绍其技术细节、训练方法及在内容创作、视频编辑等场景的应用潜力。对多模态AI研究者与开发者具有参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "9675cae6ec0be3df4b378a1b28ed8c3c",
+    "title_en": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程- 知乎",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1993642974563812198",
+    "published_at": "2026-05-26T19:58:23.599Z",
+    "fetched_at": "2026-05-26T19:58:23.599Z",
+    "title_zh": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程",
+    "summary_zh": "知乎专栏推出面向2026年的AI系列教程，涵盖大模型原理、智能体（Agent）开发、LLMOps（模型部署、监控、优化）等主题。教程结合实战案例，讲解RAG、微调、提示工程、Agent框架等关键技术，适合希望系统掌握AI工程化能力的开发者与运维人员。",
+    "topic": "ai"
+  },
+  {
     "id": "a7f2ca72886d055ae609d83630ea2c7c",
     "title_en": "Linux 内核提权风暴：从 Copy Fail 到 Dirty Frag 再到 Fragnesia——零拷贝页缓存污染漏洞家族的终极解剖-程序员茄子",
     "source": "chenxutan.com",
@@ -2120,83 +2197,6 @@
     "fetched_at": "2026-05-23T02:09:04.602Z",
     "title_zh": "如何部署运维K8s？我们整理了3份Gartner报告，得到这些建议",
     "summary_zh": "本文基于3份Gartner报告，提炼出Kubernetes部署与运维的关键建议，涵盖集群规划、安全策略、成本控制、工具选型等维度。结合行业趋势与最佳实践，帮助团队避免常见陷阱。适合正在或计划引入K8s的运维与架构团队，提供从战略到落地的参考框架，提升容器化运维的成熟度。",
-    "topic": "ops"
-  },
-  {
-    "id": "cddff51f261e8c70f73cf2045ba878a0",
-    "title_en": "Docker 镜像优化的一些建议 - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2397229",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "Docker 镜像优化的一些建议 - 腾讯云",
-    "summary_zh": "本文总结了来自腾讯云的多项 Docker 镜像优化实践，涵盖基础镜像选择、多阶段构建、减少层数、利用构建缓存、清理临时文件等关键技巧。通过合理使用 .dockerignore、合并 RUN 指令、选择 Alpine 等轻量基础镜像，可显著降低镜像体积并提升构建速度。文章还介绍了如何利用 Docker 的构建缓存机制避免重复下载依赖，以及通过分层分析工具定位冗余文件。这些方法适用于生产环境下的 CI/CD 流程，帮助团队降低存储成本、加速部署。",
-    "topic": "ops"
-  },
-  {
-    "id": "f0fdaac37b5757fcd1b3e3c24c109571",
-    "title_en": "操作系统加固概述 - Docs | openEuler",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "操作系统加固概述 - Docs | openEuler",
-    "summary_zh": "本文是 openEuler 官方文档中关于操作系统安全加固的概述章节，系统介绍了加固的基本原则、常见攻击面及防护措施。内容涵盖账户管理、权限控制、文件系统安全、内核参数调优、日志审计、防火墙配置、SELinux/AppArmor 强制访问控制等核心领域。文章强调最小权限原则和纵深防御思想，并提供了针对 openEuler 系统的具体配置示例。适合系统管理员和安全运维人员参考。",
-    "topic": "security"
-  },
-  {
-    "id": "25e08804bcbf2d69d4a2f8437ea14b71",
-    "title_en": "安全配置和安全加固关系 - Huawei Support",
-    "source": "support.huawei.com",
-    "url": "https://support.huawei.com/enterprise/zh/doc/EDOC1100040039/39e58b13",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "安全配置和安全加固关系 - Huawei Support",
-    "summary_zh": "本文来自华为技术支持，深入探讨了安全配置与安全加固两个概念的区别与联系。安全配置侧重于系统默认参数的合规调整（如关闭不必要的服务、设置密码策略），而安全加固则是在配置基础上进一步强化，包括应用补丁、启用强制访问控制、部署入侵检测等。文章以华为设备为例，说明了从安全配置到安全加固的完整流程，并强调了基线管理的重要性。适合网络与系统安全从业人员。",
-    "topic": "security"
-  },
-  {
-    "id": "5511d4a73656ac4cfdc42775d16fa641",
-    "title_en": "[PDF] Windows 操作系统配置安全基线标准与操作指南 - 南京农业大学迎新网",
-    "source": "yx.njau.edu.cn",
-    "url": "https://yx.njau.edu.cn/__local/3/30/38/FB38F23775A9BC8DCCF498280E2_5EC87E05_98C4A.pdf",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "[PDF] Windows 操作系统配置安全基线标准与操作指南 - 南京农业大学迎新网",
-    "summary_zh": "本文档为南京农业大学发布的 Windows 操作系统安全基线配置指南，详细规定了账户策略、审计策略、用户权限分配、安全选项、事件日志等关键安全项的配置标准。内容涵盖密码复杂度、账户锁定阈值、审核登录事件、关闭不必要的服务、启用 Windows Defender 防火墙等。文档以表格形式列出每项配置的推荐值及操作步骤，适合高校及企业 IT 部门用于 Windows 系统合规性检查与加固。",
-    "topic": "security"
-  },
-  {
-    "id": "c51d0b362a6f86da993cdff9bec05b16",
-    "title_en": "操作系统安全加固 - Scribd",
-    "source": "scribd.com",
-    "url": "https://www.scribd.com/presentation/829640715/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "操作系统安全加固 - Scribd",
-    "summary_zh": "本文档概述了操作系统安全加固的核心实践，包括账户与密码策略、文件系统权限、网络服务最小化、日志审计、以及补丁管理。内容强调最小权限原则和纵深防御，并介绍了常见的安全加固框架（如 CIS、NIST）。文档还讨论了虚拟化环境下的加固注意事项，以及自动化工具（如 Ansible、Chef）在批量管理中的应用。适合系统管理员和安全运维人员作为参考手册。",
-    "topic": "security"
-  },
-  {
-    "id": "6b48d5cf4a0a0cea308e320f3bf671c7",
-    "title_en": "《高性能Linux服务器运维实战》电子书在线阅读-高俊峰编著 - 得到APP",
-    "source": "dedao.cn",
-    "url": "https://www.dedao.cn/ebook/detail?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZzO4WQA1xO54nlvZq296YodejLXVJE5eAd",
-    "published_at": "2026-05-23T02:09:00.641Z",
-    "fetched_at": "2026-05-23T02:09:00.641Z",
-    "title_zh": "《高性能Linux服务器运维实战》电子书在线阅读——高俊峰编著",
-    "summary_zh": "本书由资深运维专家高俊峰编著，系统讲解高性能Linux服务器的运维实战技巧。内容涵盖系统架构、性能监控、故障排查、安全加固等核心模块，结合大量真实案例，帮助读者掌握从单机到集群的运维方法论。适合有一定基础的运维工程师进阶学习，重点突出实战性与可操作性，是提升服务器稳定性与性能的必备参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "e1b1871855d32d973cfa6bd93ab12a0a",
-    "title_en": "从零开始自学《Linux运维工程师》",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
-    "published_at": "2026-05-23T02:09:00.641Z",
-    "fetched_at": "2026-05-23T02:09:00.641Z",
-    "title_zh": "从零开始自学《Linux运维工程师》",
-    "summary_zh": "这是一套面向零基础学习者的Linux运维工程师自学教程，覆盖从系统安装、命令行操作到网络配置、服务部署等核心技能。课程设计循序渐进，注重动手实践，适合希望转行或入门运维的开发者。通过系统学习，可掌握日常运维所需的基础命令、脚本编写及常见问题处理方法，为后续进阶打下坚实基础。",
     "topic": "ops"
   }
 ]

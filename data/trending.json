@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-26",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理工具链：知识图谱构建、安全技能框架、代码优化系统，以及去AI痕迹写作技巧，同时涵盖免费域名与开源媒体服务器。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理工具链，涵盖代码知识图谱、安全技能框架、写作质量提升及免费资源，强调实用性与开源生态。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/Lum1104/Understand-Anything",
           "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
           "language": "TypeScript",
-          "stars_total": 34405,
+          "stars_total": 35295,
           "stars_today": 4721,
-          "description_zh": "以教学为目的的图谱 > 以炫技为目的的图谱。将任意代码转化为可交互的知识图谱，支持探索、搜索和提问。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
+          "description_zh": "以教学为目的的图表 > 以炫技为目的的图表。将任何代码转化为可交互的知识图谱，支持探索、搜索和提问。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 20144,
+          "stars_total": 20509,
           "stars_today": 2169,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
@@ -30,9 +30,9 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 193701,
+          "stars_total": 194105,
           "stars_today": 1912,
-          "description_zh": "智能体工具链性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等平台提供技能、本能、记忆、安全及研究优先的开发能力。"
+          "description_zh": "智能体工具性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等平台提供技能、本能、记忆、安全及研究优先的开发能力。"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 16402,
+          "stars_total": 16558,
           "stars_today": 1698,
-          "description_zh": "开源插件仓库，主要面向知识工作者在 Claude Cowork 中使用。"
+          "description_zh": "面向知识工作者的开源插件仓库，主要用于 Claude Cowork 环境。"
         },
         {
           "rank": 5,
@@ -50,9 +50,9 @@
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
           "language": "Shell",
-          "stars_total": 20753,
+          "stars_total": 21240,
           "stars_today": 1440,
-          "description_zh": "Taste-Skill —— 赋予你的 AI 良好品味。阻止 AI 生成无聊、千篇一律的劣质内容。"
+          "description_zh": "Taste-Skill —— 赋予你的 AI 良好品味，避免生成无聊、千篇一律的垃圾内容。"
         },
         {
           "rank": 6,
@@ -60,7 +60,7 @@
           "url": "https://github.com/DigitalPlatDev/FreeDomain",
           "description_en": "DigitalPlat FreeDomain: Free Domain For Everyone",
           "language": "HTML",
-          "stars_total": 166552,
+          "stars_total": 167059,
           "stars_today": 1127,
           "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名。"
         },
@@ -70,9 +70,9 @@
           "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
           "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
           "language": "Python",
-          "stars_total": 9791,
+          "stars_total": 9967,
           "stars_today": 871,
-          "description_zh": "为 AI 智能体提供的 754 项结构化网络安全技能 · 映射至 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 及 NIST AI RMF · 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 覆盖 26 个安全领域 · Apache 2.0 许可"
+          "description_zh": "754 项结构化网络安全技能，适用于 AI 智能体。映射至五大框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF。遵循 agentskills.io 标准，兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台。覆盖 26 个安全领域。采用 Apache 2.0 许可。"
         },
         {
           "rank": 8,
@@ -80,7 +80,7 @@
           "url": "https://github.com/Axorax/awesome-free-apps",
           "description_en": "Curated list of the best free apps for PC and mobile",
           "language": "JavaScript",
-          "stars_total": 5022,
+          "stars_total": 5157,
           "stars_today": 738,
           "description_zh": "精心整理的 PC 和移动端最佳免费应用列表。"
         },
@@ -90,39 +90,39 @@
           "url": "https://github.com/hardikpandya/stop-slop",
           "description_en": "A skill file for removing AI tells from prose",
           "language": "",
-          "stars_total": 4777,
+          "stars_total": 4914,
           "stars_today": 547,
-          "description_zh": "用于从散文中去除 AI 痕迹的技能文件。"
+          "description_zh": "用于去除 AI 写作痕迹的技能文件。"
         },
         {
           "rank": 10,
-          "name": "st-tech/ppf-contact-solver",
-          "url": "https://github.com/st-tech/ppf-contact-solver",
-          "description_en": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
-          "language": "Python",
-          "stars_total": 3318,
-          "stars_today": 432,
-          "description_zh": "用于基于物理的模拟的接触求解器，支持 👚 壳体、🪵 实体和 🪢 杆件。"
-        },
-        {
-          "rank": 11,
           "name": "thedotmack/claude-mem",
           "url": "https://github.com/thedotmack/claude-mem",
           "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "stars_total": 78394,
+          "stars_total": 78533,
           "stars_today": 319,
           "description_zh": "为每个智能体提供跨会话的持久上下文 —— 捕获智能体在会话中的所有操作，通过 AI 压缩，并将相关上下文注入未来会话。兼容 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等。"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "twentyhq/twenty",
           "url": "https://github.com/twentyhq/twenty",
           "description_en": "The open alternative to Salesforce, designed for AI.",
           "language": "TypeScript",
-          "stars_total": 46637,
-          "stars_today": 231,
+          "stars_total": 46761,
+          "stars_today": 237,
           "description_zh": "专为 AI 设计的 Salesforce 开源替代品。"
+        },
+        {
+          "rank": 12,
+          "name": "st-tech/ppf-contact-solver",
+          "url": "https://github.com/st-tech/ppf-contact-solver",
+          "description_en": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+          "language": "Python",
+          "stars_total": 3410,
+          "stars_today": 207,
+          "description_zh": "用于物理模拟的接触求解器，支持 👚 壳、🪵 固体和 🪢 杆。"
         },
         {
           "rank": 13,
@@ -130,9 +130,9 @@
           "url": "https://github.com/Open-Dev-Society/OpenStock",
           "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
           "language": "TypeScript",
-          "stars_total": 11870,
+          "stars_total": 11994,
           "stars_today": 128,
-          "description_zh": "OpenStock 是昂贵市场平台的开源替代品。跟踪实时价格、设置个性化提醒、探索详细公司洞察 —— 以开放方式构建，面向所有人，永久免费。"
+          "description_zh": "OpenStock 是昂贵市场平台的开源替代品。实时追踪价格、设置个性化提醒、探索详细公司信息 —— 完全开放、面向所有人、永久免费。"
         },
         {
           "rank": 14,
@@ -140,9 +140,9 @@
           "url": "https://github.com/jellyfin/jellyfin",
           "description_en": "The Free Software Media System - Server Backend & API",
           "language": "C#",
-          "stars_total": 52275,
+          "stars_total": 52334,
           "stars_today": 91,
-          "description_zh": "自由软件媒体系统 —— 服务器后端与 API。"
+          "description_zh": "自由软件媒体系统 —— 服务端后端与 API。"
         }
       ]
     },
