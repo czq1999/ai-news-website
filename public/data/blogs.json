@@ -1,5 +1,104 @@
 [
   {
+    "id": "ddf743cb1f7edebac67f5af80f87024d",
+    "title_en": "Kubernetes 最佳实践：综合指南-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.cn",
+    "url": "https://cloud.tencent.cn/developer/article/2401676?policyId=1003",
+    "published_at": "2026-05-26T09:38:15.684Z",
+    "fetched_at": "2026-05-26T09:38:15.684Z",
+    "title_zh": "Kubernetes 最佳实践：综合指南 - 腾讯云开发者社区",
+    "summary_zh": "来自腾讯云开发者社区的 Kubernetes 综合实践指南，从集群规划、资源管理、安全配置到监控告警，覆盖了生产级 K8s 运维的各个关键环节。文章深入讲解了命名空间隔离、资源配额（ResourceQuota）、Pod 安全策略（PSA）、网络策略（NetworkPolicy）以及基于角色的访问控制（RBAC）等核心配置。同时结合腾讯云 TKE 的实际场景，给出了可落地的优化建议，适合 K8s 初学者及进阶运维人员系统学习。",
+    "topic": "ops"
+  },
+  {
+    "id": "3e2f19e88f7a06c4b428ea91975f62ad",
+    "title_en": "K8s集群运维管理最佳实践 - 阿里云文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/edas/use-cases/best-practices-for-kubernetes-cluster-o-and-m",
+    "published_at": "2026-05-26T09:38:15.684Z",
+    "fetched_at": "2026-05-26T09:38:15.684Z",
+    "title_zh": "K8s集群运维管理最佳实践 - 阿里云文档",
+    "summary_zh": "阿里云官方文档提供的 K8s 集群运维管理最佳实践，聚焦于集群生命周期管理、节点运维、组件升级及故障排查。详细介绍了如何通过节点池管理、自动伸缩（Cluster Autoscaler）、Pod 驱逐策略、节点亲和性调度等手段保障集群高可用。同时涵盖了日志采集、监控告警（Prometheus + Grafana）以及备份恢复等日常运维要点。内容务实，操作性强，是阿里云 ACK 用户及自建 K8s 运维人员的必备参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "f8a4b317a1bd9e8c69623e112af8a17e",
+    "title_en": "大规模集群优化 | Kubernetes 实践指南",
+    "source": "imroc.cc",
+    "url": "https://imroc.cc/kubernetes/best-practices/ops/large-scale-cluster-optimization",
+    "published_at": "2026-05-26T09:38:15.684Z",
+    "fetched_at": "2026-05-26T09:38:15.684Z",
+    "title_zh": "大规模集群优化 | Kubernetes 实践指南",
+    "summary_zh": "本文专注于大规模 Kubernetes 集群的性能优化，深入剖析了 etcd 性能瓶颈、API Server 限流、调度器吞吐量、kubelet 资源消耗等核心问题。提供了包括 etcd 参数调优、API Server 缓存优化、调度器配置调整、节点规模上限评估等具体优化方案。同时讨论了 CNI 网络插件（如 Calico、Flannel）在大规模场景下的性能差异与选型建议。适合管理数千节点规模集群的资深运维工程师阅读。",
+    "topic": "ops"
+  },
+  {
+    "id": "000ce828b69ae9d7c2f51e1db4c62830",
+    "title_en": "Docker内存占用优化：从配置到监控的完整解决方案 - Comate",
+    "source": "comate.baidu.com",
+    "url": "https://comate.baidu.com/zh/page/ny4wo0vyl7i",
+    "published_at": "2026-05-26T09:38:15.684Z",
+    "fetched_at": "2026-05-26T09:38:15.684Z",
+    "title_zh": "Docker内存占用优化：从配置到监控的完整解决方案 - Comate",
+    "summary_zh": "本文提供了一套完整的 Docker 内存占用优化解决方案，覆盖从配置到监控的全链路。详细介绍了如何通过 --memory、--memory-swap、--memory-reservation 等参数精确控制容器内存使用，以及如何利用 cgroups 机制进行资源隔离。同时讲解了内存泄漏的排查方法，包括使用 docker stats、cadvisor、Prometheus 等工具进行实时监控与告警。对于需要精细化管控容器内存消耗的运维团队，是一份实用的操作指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "9b6374fbeef76b5ccc86119e43f10ab3",
+    "title_en": "如何优化Docker 容器的资源使用 - LabEx",
+    "source": "labex.io",
+    "url": "https://labex.io/zh/tutorials/docker-how-to-optimize-resource-usage-of-a-docker-container-417538",
+    "published_at": "2026-05-26T09:38:15.684Z",
+    "fetched_at": "2026-05-26T09:38:15.684Z",
+    "title_zh": "如何优化Docker 容器的资源使用 - LabEx",
+    "summary_zh": "LabEx 出品的 Docker 容器资源使用优化指南，从 CPU、内存、磁盘 I/O 和网络四个维度展开。文章详细阐述了如何通过 docker run 参数设置资源限制（--cpus、--memory、--blkio-weight），以及如何利用 Docker Compose 或 Kubernetes 进行更精细的资源管理。同时介绍了资源使用监控的最佳实践，包括使用 docker stats、htop、iotop 等工具进行实时分析。内容简洁实用，适合 Docker 初学者快速上手。",
+    "topic": "ops"
+  },
+  {
+    "id": "11b87f28506f40e97b3d1d2bdf5eb47b",
+    "title_en": "Docker容器的优化和性能调优技巧",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/1404694",
+    "published_at": "2026-05-26T09:38:15.684Z",
+    "fetched_at": "2026-05-26T09:38:15.684Z",
+    "title_zh": "Docker容器的优化和性能调优技巧",
+    "summary_zh": "来自阿里云开发者的 Docker 容器优化与性能调优技巧汇总，内容涵盖镜像构建优化、运行时资源限制、存储驱动选择、网络模式优化等关键领域。重点介绍了多阶段构建、基础镜像精简、合理设置 CPU 和内存限制、使用 overlay2 存储驱动、以及 host 网络模式在特定场景下的性能优势。同时提供了使用 docker stats 和 Prometheus 进行性能监控的实践方案。适合有一定 Docker 使用经验的开发者阅读。",
+    "topic": "ops"
+  },
+  {
+    "id": "d4bbd7f7e97149502592934c7cab0570",
+    "title_en": "模型微调实战：从原理到生产级落地的完整指南-CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/weixin_43726381/article/details/161378633",
+    "published_at": "2026-05-26T09:38:07.091Z",
+    "fetched_at": "2026-05-26T09:38:07.091Z",
+    "title_zh": "模型微调实战：从原理到生产级落地的完整指南",
+    "summary_zh": "本文提供了一份从原理到生产落地的模型微调完整指南。内容涵盖微调理论基础（迁移学习、参数高效微调）、主流框架（Hugging Face Transformers、PEFT）使用、训练优化（混合精度、梯度累积）以及模型评估与部署。重点介绍了生产环境中的模型版本管理、A/B测试、监控与回滚策略，帮助团队将微调模型安全、稳定地推向生产。",
+    "topic": "ai"
+  },
+  {
+    "id": "fd71be55656b7d78db68b12f0f8641a2",
+    "title_en": "人类56年解不出，谷歌AI一夜连破9道世纪难题！|定理|数学家|新论文|智能体|算法|编译器|谷歌ai_手机网易网",
+    "source": "m.163.com",
+    "url": "https://m.163.com/dy/article/KTPQS4BK0511ABV6.html",
+    "published_at": "2026-05-26T09:38:07.090Z",
+    "fetched_at": "2026-05-26T09:38:07.090Z",
+    "title_zh": "人类56年解不出，谷歌AI一夜连破9道世纪难题！",
+    "summary_zh": "本文报道了谷歌AI在数学和算法领域取得的突破性进展，其系统在一夜之间解决了9道困扰人类数十年的数学难题。文章从技术角度分析了AI所使用的算法创新，包括新的搜索策略、符号推理与神经网络的结合，以及大规模并行计算的应用。这一成果展示了AI在科学发现中的巨大潜力，对于AI for Science领域的研究者具有重要启发意义。",
+    "topic": "ai"
+  },
+  {
+    "id": "8ad1f3bbe8ce077f71ea9625fc16dc51",
+    "title_en": "2026最新实测数据：全球AI大模型综合能力排行榜前十名深度解析",
+    "source": "scribd.com",
+    "url": "https://www.scribd.com/document/1028825123/2026%E6%9C%80%E6%96%B0%E5%AE%9E%E6%B5%8B%E6%95%B0%E6%8D%AE-%E5%85%A8%E7%90%83AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BB%BC%E5%90%88%E8%83%BD%E5%8A%9B%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%89%8D%E5%8D%81%E5%90%8D%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90",
+    "published_at": "2026-05-26T09:38:07.089Z",
+    "fetched_at": "2026-05-26T09:38:07.089Z",
+    "title_zh": "2026最新实测数据：全球AI大模型综合能力排行榜前十名深度解析",
+    "summary_zh": "本文基于2026年最新实测数据，对全球排名前十的AI大模型进行了综合能力深度解析。内容涵盖各模型在自然语言理解、代码生成、数学推理、多模态处理等核心维度的性能对比，并分析了不同模型在特定任务上的优劣势。文章提供了详细的基准测试结果和排名依据，帮助开发者根据实际需求选择最合适的模型。对于关注大模型选型与性能评估的技术人员，具有较高的参考价值。",
+    "topic": "ai"
+  },
+  {
     "id": "1cb5d72ed5d111d8ec0759f833354ff7",
     "title_en": "GB/T 20272-2026《网络安全技术 操作系统安全技术规范》--中国安防大数据服务平台",
     "source": "afdata.org.cn",
@@ -2098,105 +2197,6 @@
     "fetched_at": "2026-05-23T00:30:52.658Z",
     "title_zh": "DevOps和自动化运维实践— 运维开发修炼之路",
     "summary_zh": "本文系统介绍了DevOps理念与自动化运维的实践方法，涵盖CI/CD流水线、配置管理、监控告警、容器化部署等核心内容。作者结合自身经验，分享了从传统运维向DevOps转型的路径，包括工具选型（如Jenkins、Ansible、Docker）和流程优化。对于运维开发工程师，本文提供了从理论到落地的完整指南，帮助提升交付效率与系统可靠性。",
-    "topic": "ops"
-  },
-  {
-    "id": "e6d9688970769f004391dac8c85fbae1",
-    "title_en": "《DevOps和自动化运维实践》电子书在线阅读-余洪春-得到APP",
-    "source": "dedao.cn",
-    "url": "https://www.dedao.cn/ebook/detail?id=Z1GDBjp8o9nDz1NZyd5MXvBj6RKEVwNqlK3Ap4aGOkJmYQrLbP7e2glqxl9qNPeX",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "《DevOps和自动化运维实践》电子书在线阅读",
-    "summary_zh": "本书由余洪春撰写，系统讲解了DevOps和自动化运维的核心技术与实践案例。内容涵盖持续集成/持续部署、基础设施即代码、监控与日志分析、容器编排等关键主题。作者结合多年一线经验，深入剖析了自动化运维中的常见问题与解决方案。适合运维工程师、DevOps从业者及技术管理者阅读，帮助构建高效、可扩展的运维体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "eda9c212b68bc9164ef40d4c8d426059",
-    "title_en": "从零构建统一运维监控体系：选型、架构与实践 - 厚诺科技",
-    "source": "honops.com",
-    "url": "https://www.honops.com/blog/monitoring-system/",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "从零构建统一运维监控体系：选型、架构与实践",
-    "summary_zh": "本文详细介绍了从零构建统一运维监控体系的全过程，包括监控工具选型（如Zabbix、Prometheus、Grafana）、数据采集架构设计、告警规则配置以及可视化展示。文章强调了统一监控在提升故障响应速度方面的价值，并提供了多场景下的实践案例。对于运维工程师，本文是一份实用的监控体系建设指南。",
-    "topic": "ops"
-  },
-  {
-    "id": "5a2753ce825e8cf0a73bda6010f61d0f",
-    "title_en": "IT基础架构：系统运维实践 - 赵旻 | 豆瓣阅读",
-    "source": "read.douban.com",
-    "url": "https://read.douban.com/ebook/51218530/",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "IT基础架构：系统运维实践",
-    "summary_zh": "本书由赵旻撰写，系统讲解了IT基础架构的运维实践，涵盖服务器管理、网络配置、存储优化、高可用架构等核心内容。作者结合真实案例，深入分析了运维中的常见问题与解决方案，如性能调优、故障排查和容量规划。适合系统管理员和运维工程师阅读，帮助提升基础架构的稳定性和可维护性。",
-    "topic": "ops"
-  },
-  {
-    "id": "f557155239c23526c284cd474378919f",
-    "title_en": "智能运维实践-阿里云",
-    "source": "aliyun.com",
-    "url": "https://www.aliyun.com/sswb/1510911.html",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "智能运维实践",
-    "summary_zh": "阿里云分享了智能运维（AIOps）的实践经验，重点介绍如何利用机器学习算法实现异常检测、根因分析和故障预测。文章涵盖了数据采集、特征工程、模型训练与部署的全流程，并提供了实际业务场景中的效果评估。对于运维和AI从业者，本文展示了AIOps在提升运维效率方面的巨大潜力。",
-    "topic": "ai"
-  },
-  {
-    "id": "bec89c672816bb8013d2e293a1e71a38",
-    "title_en": "OPS04-04 自动化工程运维任务_OPS04 自动化构建和部署流程_卓越运营支柱_卓越架构技术框架与实践_云架构中心-华为云",
-    "source": "support.huaweicloud.com",
-    "url": "https://support.huaweicloud.com/intl/zh-cn/usermanual-architecture/architecture_06_0027.html",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "OPS04-04 自动化工程运维任务",
-    "summary_zh": "华为云卓越架构技术框架中的OPS04-04实践指南，聚焦于自动化构建和部署流程。文章详细介绍了如何通过自动化工具实现基础设施即代码、持续集成/持续部署、自动化测试和回滚策略。对于云架构师和运维工程师，本文提供了标准化的自动化运维方法论，帮助提升交付效率与系统可靠性。",
-    "topic": "ops"
-  },
-  {
-    "id": "e46ff43d0024d90853b66e0d20e5c453",
-    "title_en": "性能调优指南 | Red Hat Enterprise Linux | 7 | Red Hat Documentation",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/Red_Hat_Enterprise_Linux/7/html-single/performance_tuning_guide/index",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "性能调优指南 | Red Hat Enterprise Linux 7",
-    "summary_zh": "本文是 Red Hat 官方文档，系统介绍了 RHEL 7 环境下的性能调优方法。内容涵盖性能监控工具（如 tuned、perf、SystemTap）的使用、内核参数调优、存储和网络子系统优化等。文档权威性高，提供了大量经过验证的配置示例和最佳实践，是企业级 Linux 性能调优的重要参考资料。",
-    "topic": "ops"
-  },
-  {
-    "id": "66b1f0db9d30c576cc457c7c75755fab",
-    "title_en": "Linux 性能调优工具：从原理到实践的全面指南",
-    "source": "linuxcool.com",
-    "url": "https://www.linuxcool.com/lxndygjcylds",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "Linux 性能调优工具：从原理到实践的全面指南",
-    "summary_zh": "本文系统梳理了 Linux 性能调优的核心工具链，包括 perf、ftrace、eBPF、strace、iostat、vmstat 等。文章不仅介绍了各工具的基本用法，还深入讲解了其工作原理和适用场景，帮助读者根据实际问题选择合适的工具。内容兼具理论深度和实操价值，适合中高级系统工程师。",
-    "topic": "ops"
-  },
-  {
-    "id": "54cbbfd9c31e78dce7cd4102b1b32fb5",
-    "title_en": "Linux 内核性能优化的全景指南，可都在这里了，强烈推荐收藏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/483681854",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "Linux 内核性能优化的全景指南，可都在这里了，强烈推荐收藏",
-    "summary_zh": "本文来自知乎专栏，是一份全景式的 Linux 内核性能优化指南。内容涵盖了内核调度器、内存管理、文件系统、网络协议栈等核心子系统的优化原理与实战方法。文章结合了最新的内核特性（如 eBPF、io_uring）和经典调优手段，提供了大量可落地的配置建议，是深度优化 Linux 系统性能的宝贵资料。",
-    "topic": "ops"
-  },
-  {
-    "id": "cfc9567bedc311247d7637deb52d34b7",
-    "title_en": "最佳实践 | Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/docs/setup/best-practices/",
-    "published_at": "2026-05-23T00:30:50.174Z",
-    "fetched_at": "2026-05-23T00:30:50.174Z",
-    "title_zh": "最佳实践 | Kubernetes",
-    "summary_zh": "本文是 Kubernetes 官方文档中的最佳实践章节，涵盖了集群部署、资源管理、安全配置、网络策略、存储规划以及应用部署等方面的推荐做法。内容权威且经过社区验证，旨在帮助用户构建高可用、高性能且安全的 Kubernetes 集群。适合所有 Kubernetes 用户作为生产环境配置的参考标准。",
     "topic": "ops"
   }
 ]
