@@ -1,5 +1,115 @@
 [
   {
+    "id": "a7f2ca72886d055ae609d83630ea2c7c",
+    "title_en": "Linux 内核提权风暴：从 Copy Fail 到 Dirty Frag 再到 Fragnesia——零拷贝页缓存污染漏洞家族的终极解剖-程序员茄子",
+    "source": "chenxutan.com",
+    "url": "http://www.chenxutan.com/d/2743.html",
+    "published_at": "2026-05-26T14:48:21.842Z",
+    "fetched_at": "2026-05-26T14:48:21.842Z",
+    "title_zh": "Linux内核提权风暴：从Copy Fail到Dirty Frag再到Fragnesia——零拷贝页缓存污染漏洞家族的终极解剖",
+    "summary_zh": "本文由安全研究员“程序员茄子”撰写，深度剖析了Linux内核中一系列零拷贝页缓存污染漏洞（如Copy Fail、Dirty Frag、Fragnesia）。文章从内核内存管理机制入手，详细解释了这些漏洞如何利用页缓存与零拷贝技术的缺陷实现本地提权。作者提供了漏洞触发条件、利用代码分析及修复补丁的解读，并总结了该类漏洞的共性特征与防御策略。对于内核开发者与安全研究人员，这是一篇极具技术深度的漏洞分析文章。",
+    "topic": "security"
+  },
+  {
+    "id": "e6d9688970769f004391dac8c85fbae1",
+    "title_en": "《DevOps和自动化运维实践》电子书在线阅读-余洪春-得到APP",
+    "source": "dedao.cn",
+    "url": "https://www.dedao.cn/ebook/detail?id=Z1GDBjp8o9nDz1NZyd5MXvBj6RKEVwNqlK3Ap4aGOkJmYQrLbP7e2glqxl9qNPeX",
+    "published_at": "2026-05-26T14:48:21.842Z",
+    "fetched_at": "2026-05-26T14:48:21.842Z",
+    "title_zh": "《DevOps和自动化运维实践》电子书在线阅读-余洪春-得到APP",
+    "summary_zh": "本书由资深运维专家余洪春撰写，系统性地介绍了DevOps理念与自动化运维的落地实践。内容涵盖持续集成/持续部署（CI/CD）流水线设计、配置管理工具（如Ansible、Puppet）、容器化与编排（Docker、Kubernetes）、监控告警体系构建等核心主题。作者结合大量真实案例，分享了从手工运维向自动化运维转型的路径与经验。适合运维工程师、DevOps从业者及技术管理者阅读，以提升团队效能与系统可靠性。",
+    "topic": "ops"
+  },
+  {
+    "id": "bec89c672816bb8013d2e293a1e71a38",
+    "title_en": "OPS04-04 自动化工程运维任务_OPS04 自动化构建和部署流程_卓越运营支柱_卓越架构技术框架与实践_云架构中心-华为云",
+    "source": "support.huaweicloud.com",
+    "url": "https://support.huaweicloud.com/intl/zh-cn/usermanual-architecture/architecture_06_0027.html",
+    "published_at": "2026-05-26T14:48:21.842Z",
+    "fetched_at": "2026-05-26T14:48:21.842Z",
+    "title_zh": "OPS04-04 自动化工程运维任务_OPS04 自动化构建和部署流程_卓越运营支柱_卓越架构技术框架与实践_云架构中心-华为云",
+    "summary_zh": "本文是华为云卓越架构技术框架中关于自动化构建与部署流程的实践指南。内容聚焦于OPS04-04最佳实践，详细阐述了如何通过CI/CD流水线、基础设施即代码（IaC）、自动化测试等手段实现工程运维任务的自动化。文章提供了华为云上的具体配置示例与架构设计建议，帮助用户构建高效、可靠的自动化运维体系。对于使用华为云或遵循云卓越架构框架的团队，具有直接的指导意义。",
+    "topic": "ops"
+  },
+  {
+    "id": "bd9af7f9b9984880b3c16429f0609afc",
+    "title_en": "[PDF] DevOps运维体系框架与其精益实践",
+    "source": "pic.huodongjia.com",
+    "url": "https://pic.huodongjia.com/ganhuodocs/2017-07-17/1500273707.29.pdf",
+    "published_at": "2026-05-26T14:48:21.842Z",
+    "fetched_at": "2026-05-26T14:48:21.842Z",
+    "title_zh": "PDF DevOps运维体系框架与其精益实践",
+    "summary_zh": "本文以PDF形式系统阐述了DevOps运维体系框架及其精益实践方法。内容涵盖DevOps文化、持续交付管道、基础设施自动化、监控与反馈循环等核心组件。作者结合精益生产理念，强调了消除浪费、持续改进在运维中的重要性，并提供了具体的实施步骤与度量指标。对于希望构建高效DevOps体系的技术管理者与运维负责人，本文提供了理论框架与实操指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "06bc7707e9607e27872b4db215b1b16d",
+    "title_en": "Linux操作系统加固 - 阿里云文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/document_detail/49809.html",
+    "published_at": "2026-05-26T14:48:17.883Z",
+    "fetched_at": "2026-05-26T14:48:17.883Z",
+    "title_zh": "Linux操作系统加固 - 阿里云文档",
+    "summary_zh": "本文档来自阿里云官方，详细介绍了Linux操作系统的安全加固最佳实践。内容涵盖内核参数调优、SSH安全配置、防火墙规则、文件权限管理、SELinux/AppArmor强制访问控制、日志审计等核心领域。文档结合云环境特点，提供了针对性的加固建议与命令示例，帮助用户在阿里云ECS等场景下构建高安全等级的Linux服务器。对于云原生架构下的系统安全运维具有直接的指导意义。",
+    "topic": "security"
+  },
+  {
+    "id": "e46ff43d0024d90853b66e0d20e5c453",
+    "title_en": "性能调优指南 | Red Hat Enterprise Linux | 7 | Red Hat Documentation",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/Red_Hat_Enterprise_Linux/7/html-single/performance_tuning_guide/index",
+    "published_at": "2026-05-26T14:48:17.882Z",
+    "fetched_at": "2026-05-26T14:48:17.882Z",
+    "title_zh": "性能调优指南 | Red Hat Enterprise Linux 7",
+    "summary_zh": "Red Hat官方文档，针对RHEL 7系统提供了全面的性能调优指导。内容覆盖了从硬件配置、内核参数调优到具体工作负载（如数据库、Web服务器）的优化策略。重点介绍了tuned服务的使用方法，包括预置性能配置集（如throughput-performance、latency-performance）的适用场景，以及如何自定义profile。文档还深入探讨了CPU调度策略、内存管理、存储和网络子系统调优，是生产环境性能优化的权威参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "66b1f0db9d30c576cc457c7c75755fab",
+    "title_en": "Linux 性能调优工具：从原理到实践的全面指南",
+    "source": "linuxcool.com",
+    "url": "https://www.linuxcool.com/lxndygjcylds",
+    "published_at": "2026-05-26T14:48:17.882Z",
+    "fetched_at": "2026-05-26T14:48:17.882Z",
+    "title_zh": "Linux 性能调优工具：从原理到实践的全面指南",
+    "summary_zh": "本文深入剖析了Linux性能调优工具链的工作原理与使用技巧，涵盖perf、ftrace、eBPF、strace、lsof等高级工具。作者不仅讲解了如何利用perf进行CPU热点采样和硬件事件分析，还展示了eBPF在动态追踪内核函数和应用程序性能方面的强大能力。文章通过多个实际案例，演示了从系统级到进程级的性能诊断方法，帮助读者建立从工具输出到问题定位的完整思维链路。",
+    "topic": "ops"
+  },
+  {
+    "id": "54cbbfd9c31e78dce7cd4102b1b32fb5",
+    "title_en": "Linux 内核性能优化的全景指南，可都在这里了，强烈推荐收藏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/483681854",
+    "published_at": "2026-05-26T14:48:17.882Z",
+    "fetched_at": "2026-05-26T14:48:17.882Z",
+    "title_zh": "Linux 内核性能优化的全景指南",
+    "summary_zh": "本文是一篇关于Linux内核性能优化的综合性指南，内容覆盖进程调度、内存管理、文件系统、网络协议栈等核心子系统。作者详细解读了CFS调度器、NUMA亲和性、slab分配器、I/O调度算法等关键机制，并给出了针对不同场景（如高并发、低延迟、大文件传输）的内核参数调优建议。文章还介绍了内核编译选项优化和动态调优工具（如sysctl、tuned）的使用，适合希望深入理解内核行为以提升系统性能的工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "5b88cbaf3b95ef695621b62be9b39e65",
+    "title_en": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/3818706603017094",
+    "published_at": "2026-05-26T14:48:13.632Z",
+    "fetched_at": "2026-05-26T14:48:13.632Z",
+    "title_zh": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+    "summary_zh": "报道OpenAI非数学模型（如GPT-5或类似LLM）在未经过专门数学训练的情况下，自主解决了一个困扰数学界80年的难题。文章分析了模型如何通过链式推理、符号操作与自我验证机制实现突破，并讨论了这一事件对AI推理能力、数学发现范式以及AGI路径的深远影响。对AI研究者与数学爱好者而言，这是一个里程碑式的案例研究。",
+    "topic": "ai"
+  },
+  {
+    "id": "56e4a7216f5a168ae94f8df0fb2ab138",
+    "title_en": "手把手教你从零微调一个专属领域大模型，零基础也能学会！",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=sE12haEVREY",
+    "published_at": "2026-05-26T14:48:13.632Z",
+    "fetched_at": "2026-05-26T14:48:13.632Z",
+    "title_zh": "手把手教你从零微调一个专属领域大模型，零基础也能学会！",
+    "summary_zh": "本文以零基础为起点，详细讲解了大模型微调的全流程。内容涵盖数据收集与清洗、指令微调（SFT）与LoRA/QLoRA等参数高效微调技术的原理与实现、训练环境配置（如DeepSpeed、Transformers库）、以及模型评估与部署。作者通过一个具体领域（如法律或医疗）的案例，展示了如何将通用模型适配为领域专家，并给出了避免灾难性遗忘与过拟合的实用技巧。",
+    "topic": "ai"
+  },
+  {
     "id": "ddf743cb1f7edebac67f5af80f87024d",
     "title_en": "Kubernetes 最佳实践：综合指南-腾讯云开发者社区-腾讯云",
     "source": "cloud.tencent.cn",
@@ -2087,116 +2197,6 @@
     "fetched_at": "2026-05-23T02:09:00.641Z",
     "title_zh": "从零开始自学《Linux运维工程师》",
     "summary_zh": "这是一套面向零基础学习者的Linux运维工程师自学教程，覆盖从系统安装、命令行操作到网络配置、服务部署等核心技能。课程设计循序渐进，注重动手实践，适合希望转行或入门运维的开发者。通过系统学习，可掌握日常运维所需的基础命令、脚本编写及常见问题处理方法，为后续进阶打下坚实基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "b7cfc69a71db81a040d14e4d0894a51e",
-    "title_en": "Linux企业运维实战- 入门及常用命令 - 阿里云认证",
-    "source": "edu.aliyun.com",
-    "url": "https://edu.aliyun.com/course/314053/",
-    "published_at": "2026-05-23T02:09:00.641Z",
-    "fetched_at": "2026-05-23T02:09:00.641Z",
-    "title_zh": "Linux企业运维实战——入门及常用命令（阿里云认证）",
-    "summary_zh": "本课程为阿里云认证配套内容，聚焦Linux企业运维的入门与常用命令实战。涵盖文件管理、权限控制、进程管理、网络诊断等高频操作，并结合云环境下的运维场景进行讲解。适合准备阿里云认证或希望快速上手企业级Linux运维的工程师，内容精炼实用，强调命令的准确使用与问题排查效率。",
-    "topic": "ops"
-  },
-  {
-    "id": "9675cae6ec0be3df4b378a1b28ed8c3c",
-    "title_en": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程- 知乎",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1993642974563812198",
-    "published_at": "2026-05-23T02:09:00.640Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程",
-    "summary_zh": "本系列教程系统梳理了面向2026年的AI技术栈，涵盖大模型基础、智能体（Agent）架构设计、LLMOps工程实践等核心主题。内容从理论到实战，包括模型选型、提示工程、RAG实现、Agent编排与部署等关键环节。教程强调可操作性，提供了大量代码示例与最佳实践，适合希望系统掌握AI应用开发全流程的工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "d769be445c30a574fa4f79163ea1f8bf",
-    "title_en": "AI Agent开发路线图2025：从入门到精通，一文读懂智能体技术",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1985379253525697644",
-    "published_at": "2026-05-23T02:09:00.640Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "AI Agent开发路线图2025：从入门到精通，一文读懂智能体技术",
-    "summary_zh": "本文系统梳理了2025年AI Agent开发的技术路线图，从基础理论到高级实践全面覆盖。内容包括Agent架构模式（如ReAct、Plan-and-Execute）、工具使用、记忆管理、多Agent协作等核心主题。文章还分析了主流框架（LangChain、AutoGPT等）的优劣，并给出了学习路径建议，适合希望系统提升Agent开发能力的工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "bad0dac841a4d3c88df62689a7a5b459",
-    "title_en": "AIGeniusInstitute/AI-Agent-In-Action: AI Agent 开发实战 - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/AIGeniusInstitute/AI-Agent-In-Action",
-    "published_at": "2026-05-23T02:09:00.640Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "AIGeniusInstitute/AI-Agent-In-Action: AI Agent 开发实战",
-    "summary_zh": "这是一个GitHub开源项目，专注于AI Agent的实战开发。项目提供了从基础到进阶的完整代码示例，涵盖Agent核心组件实现（如规划、记忆、工具调用）、多Agent协作、与外部系统集成等场景。代码结构清晰，注释详尽，适合开发者通过动手实践深入理解Agent的工作原理与工程实现，是学习Agent开发的优质资源。",
-    "topic": "ai"
-  },
-  {
-    "id": "c201ddb974b1ad4aef07c0ad0783aaf3",
-    "title_en": "概述、方法和最佳实践（附天工Skywork-13B微调） - 飞书文档",
-    "source": "docs.feishu.cn",
-    "url": "https://docs.feishu.cn/article/wiki/TNUAw3AMtiToCnkVgL5cVR8anyh",
-    "published_at": "2026-05-23T02:09:00.640Z",
-    "fetched_at": "2026-05-23T02:09:00.640Z",
-    "title_zh": "概述、方法和最佳实践（附天工Skywork-13B微调）",
-    "summary_zh": "本文全面介绍了大模型微调的概述、核心方法及最佳实践，并以天工Skywork-13B模型为例进行了详细演示。内容涵盖微调理论基础（如迁移学习、参数高效微调）、数据构建策略、训练技巧（学习率调度、梯度累积）以及效果评估。文章还分享了实际微调过程中的经验教训，包括如何平衡模型泛化性与领域适配性，对从事模型微调的工程师具有直接指导意义。",
-    "topic": "ai"
-  },
-  {
-    "id": "d4b58beeeeff5f8cf5473a1bfc418c8a",
-    "title_en": "加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告 - 信息安全知识库",
-    "source": "gm7.org",
-    "url": "https://www.gm7.org/archives/105584",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告",
-    "summary_zh": "本文是一篇总结性报告，深入探讨了Linux内核中著名的“Dirty”系列漏洞（如Dirty Pipe、Dirty Cow等）所揭示的加密机制、系统性能与安全之间的复杂平衡关系。作者分析了这些漏洞的共同根源——内核在实现某些功能时对安全边界的忽视，并对比了不同漏洞的利用方式和修复策略。文章还讨论了如何在设计内核子系统时，在保证性能的前提下，通过合理的加密和权限检查来避免此类漏洞。对于内核开发者、安全架构师和高级运维人员，本文提供了深刻的系统安全设计思考。",
-    "topic": "security"
-  },
-  {
-    "id": "01323fd10ccf020c1c76fc9e00bfa05a",
-    "title_en": "攻击者可提前检测到Linux 内核的补丁并开发exploit - 安全内参",
-    "source": "secrss.com",
-    "url": "https://www.secrss.com/articles/25364",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "攻击者可提前检测到Linux内核的补丁并开发exploit",
-    "summary_zh": "本文来自安全内参，报道了一项安全研究发现：攻击者能够通过监控和分析Linux内核的公开补丁提交，在官方发布安全公告之前，提前检测到漏洞并开发出利用程序（Exploit）。文章分析了这种“补丁分析”攻击手法的原理，即通过观察代码变更的上下文和提交信息，推断出漏洞的位置和性质。这一现象对传统的“先补丁后公开”的安全策略提出了挑战，并强调了加快补丁部署和采用更安全的内核开发流程的重要性。对于安全策略制定者和运维人员，本文提供了重要的威胁情报。",
-    "topic": "security"
-  },
-  {
-    "id": "cc4ff4f3bbf59c10c5d6f0213a0080ce",
-    "title_en": "【漏洞分析】CVE-2017-6178：从补丁对比到Exploit - 安全客",
-    "source": "anquanke.com",
-    "url": "https://www.anquanke.com/post/id/86203",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "【漏洞分析】CVE-2017-6178：从补丁对比到Exploit",
-    "summary_zh": "本文来自安全客，以CVE-2017-6178为例，详细演示了如何通过补丁对比（Patch Diffing）技术，从官方安全补丁中逆向分析出漏洞细节，并最终开发出可利用的Exploit。文章逐步展示了从获取补丁、定位修改点、理解漏洞原理，到编写利用代码的完整过程。作者强调了补丁对比在漏洞研究和利用开发中的核心地位，并分享了实用的分析工具和技巧。对于希望掌握漏洞分析实战技能的安全初学者和研究人员，本文是一份极佳的入门与进阶教程。",
-    "topic": "security"
-  },
-  {
-    "id": "68bfab13c03487fa21ec339a64cda33a",
-    "title_en": "一种Linux安全漏洞修复补丁自动识别方法 - 计算机研究与发展",
-    "source": "crad.ict.ac.cn",
-    "url": "https://crad.ict.ac.cn/fileJSJYJYFZ/journal/article/jsjyjyfz/HTML/2022-01-197.shtml",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "一种Linux安全漏洞修复补丁自动识别方法",
-    "summary_zh": "本文提出了一种自动识别Linux安全漏洞修复补丁的方法，基于补丁特征分析和机器学习技术。该方法能够从大量代码提交中准确筛选出与CVE相关的补丁，减少人工审计成本。文章详细介绍了特征提取、模型训练和评估过程，实验表明该方法在准确率和召回率上均有优异表现。对于安全研究员和运维工程师，本文提供了一种高效追踪漏洞修复的技术方案。",
-    "topic": "security"
-  },
-  {
-    "id": "5ec94b7a0fbced2c3f39445c4e5646d5",
-    "title_en": "DevOps和自动化运维实践— 运维开发修炼之路",
-    "source": "my-linux-devops.readthedocs.io",
-    "url": "https://my-linux-devops.readthedocs.io/en/latest/DevOps/index.html",
-    "published_at": "2026-05-23T00:30:52.658Z",
-    "fetched_at": "2026-05-23T00:30:52.658Z",
-    "title_zh": "DevOps和自动化运维实践— 运维开发修炼之路",
-    "summary_zh": "本文系统介绍了DevOps理念与自动化运维的实践方法，涵盖CI/CD流水线、配置管理、监控告警、容器化部署等核心内容。作者结合自身经验，分享了从传统运维向DevOps转型的路径，包括工具选型（如Jenkins、Ansible、Docker）和流程优化。对于运维开发工程师，本文提供了从理论到落地的完整指南，帮助提升交付效率与系统可靠性。",
     "topic": "ops"
   }
 ]
