@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-27",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理工具链：知识图谱构建、安全技能框架、写作质量优化，以及免费域名和开源媒体系统等实用资源。",
+      "summary_zh": "今日GitHub热门项目聚焦AI内容创作与质量提升，涵盖一键短视频生成、代码知识图谱、反AI味文本优化、金融模型及网络安全技能框架，强调实用性与去AI化。",
       "projects": [
         {
           "rank": 1,
@@ -10,139 +10,159 @@
           "url": "https://github.com/Lum1104/Understand-Anything",
           "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
           "language": "TypeScript",
-          "stars_total": 37799,
-          "stars_today": 4697,
-          "description_zh": "以教学为目的的图谱 > 以展示为目的的图谱。将任何代码转化为可交互的知识图谱，支持探索、搜索和提问。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
+          "stars_total": 38767,
+          "stars_today": 4466,
+          "description_zh": "能教学的图表 > 能炫耀的图表。将任意代码转化为可探索、搜索和提问的交互式知识图谱。兼容Claude Code、Codex、Cursor、Copilot、Gemini CLI等工具。"
         },
         {
           "rank": 2,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 21451,
-          "stars_today": 2155,
-          "description_zh": "学习它。构建它。为他人交付它。"
-        },
-        {
-          "rank": 3,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 195251,
-          "stars_today": 1915,
-          "description_zh": "智能体工具性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等平台提供技能、本能、记忆、安全及研究优先的开发支持。"
-        },
-        {
-          "rank": 4,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 16923,
-          "stars_today": 1718,
-          "description_zh": "面向知识工作者的开源插件仓库，主要用于 Claude Cowork 环境。"
-        },
-        {
-          "rank": 5,
           "name": "Leonxlnx/taste-skill",
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
           "language": "Shell",
-          "stars_total": 23004,
-          "stars_today": 1430,
-          "description_zh": "Taste-Skill —— 赋予你的 AI 良好品味，避免生成枯燥、千篇一律的劣质内容"
+          "stars_total": 23558,
+          "stars_today": 2715,
+          "description_zh": "Taste-Skill —— 赋予AI良好审美，阻止其生成无聊、千篇一律的劣质内容"
         },
         {
-          "rank": 6,
+          "rank": 3,
           "name": "DigitalPlatDev/FreeDomain",
           "url": "https://github.com/DigitalPlatDev/FreeDomain",
           "description_en": "DigitalPlat FreeDomain: Free Domain For Everyone",
           "language": "HTML",
-          "stars_total": 168147,
-          "stars_today": 1219,
+          "stars_total": 168562,
+          "stars_today": 2223,
           "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名"
         },
         {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 195621,
+          "stars_today": 2062,
+          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
+        },
+        {
+          "rank": 5,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars_total": 60828,
+          "stars_today": 1737,
+          "description_zh": "利用AI大模型，一键生成高清短视频"
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 209083,
+          "stars_today": 1680,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论"
+        },
+        {
           "rank": 7,
+          "name": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "description_en": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "",
+          "stars_total": 45999,
+          "stars_today": 1133,
+          "description_zh": "一份可能让你受益匪浅的英语进阶指南 🎉 。离谱的英语学习指南/英语学习教程/英语学习/学英语"
+        },
+        {
+          "rank": 8,
           "name": "mukul975/Anthropic-Cybersecurity-Skills",
           "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
           "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
           "language": "Python",
-          "stars_total": 10452,
-          "stars_today": 880,
-          "description_zh": "为 AI 智能体提供 754 项结构化网络安全技能 · 映射至五大框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 及 NIST AI RMF · 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 覆盖 26 个安全领域 · Apache 2.0 许可"
+          "stars_total": 10666,
+          "stars_today": 885,
+          "description_zh": "为AI智能体提供的754项结构化网络安全技能 · 映射至5个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND及NIST AI RMF · 采用agentskills.io标准 · 兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20+平台 · 覆盖26个安全领域 · Apache 2.0许可"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Axorax/awesome-free-apps",
           "url": "https://github.com/Axorax/awesome-free-apps",
           "description_en": "Curated list of the best free apps for PC and mobile",
           "language": "JavaScript",
-          "stars_total": 5546,
-          "stars_today": 731,
-          "description_zh": "精选的 PC 和移动端最佳免费应用列表"
+          "stars_total": 5685,
+          "stars_today": 728,
+          "description_zh": "精选的PC和移动端最佳免费应用列表"
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars_total": 17057,
+          "stars_today": 695,
+          "description_zh": "主要面向知识工作者在Claude Cowork中使用的开源插件仓库"
+        },
+        {
+          "rank": 11,
           "name": "hardikpandya/stop-slop",
           "url": "https://github.com/hardikpandya/stop-slop",
           "description_en": "A skill file for removing AI tells from prose",
           "language": "",
-          "stars_total": 5277,
-          "stars_today": 539,
-          "description_zh": "用于从散文中去除 AI 痕迹的技能文件"
+          "stars_total": 5444,
+          "stars_today": 664,
+          "description_zh": "用于去除文本中AI痕迹的技能文件"
         },
         {
-          "rank": 10,
-          "name": "thedotmack/claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-          "language": "TypeScript",
-          "stars_total": 78961,
-          "stars_today": 352,
-          "description_zh": "为每个智能体提供跨会话的持久上下文 —— 捕获智能体在会话中的所有操作，通过 AI 压缩，并将相关上下文注入未来会话。兼容 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等。"
-        },
-        {
-          "rank": 11,
+          "rank": 12,
           "name": "twentyhq/twenty",
           "url": "https://github.com/twentyhq/twenty",
           "description_en": "The open alternative to Salesforce, designed for AI.",
           "language": "TypeScript",
-          "stars_total": 47059,
-          "stars_today": 216,
-          "description_zh": "专为 AI 设计的 Salesforce 开源替代方案"
-        },
-        {
-          "rank": 12,
-          "name": "st-tech/ppf-contact-solver",
-          "url": "https://github.com/st-tech/ppf-contact-solver",
-          "description_en": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
-          "language": "Python",
-          "stars_total": 3631,
-          "stars_today": 170,
-          "description_zh": "基于物理模拟的接触求解器，支持 👚 壳体、🪵 实体和 🪢 杆件。"
+          "stars_total": 47151,
+          "stars_today": 520,
+          "description_zh": "专为AI设计的Salesforce开源替代方案"
         },
         {
           "rank": 13,
-          "name": "Open-Dev-Society/OpenStock",
-          "url": "https://github.com/Open-Dev-Society/OpenStock",
-          "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-          "language": "TypeScript",
-          "stars_total": 12372,
-          "stars_today": 156,
-          "description_zh": "OpenStock 是昂贵市场平台的开源替代品。实时追踪价格、设置个性化提醒、探索详细公司洞察 —— 完全开放、面向所有人、永久免费。"
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 26748,
+          "stars_today": 425,
+          "description_zh": "Kronos：金融市场语言的基础模型"
         },
         {
           "rank": 14,
-          "name": "jellyfin/jellyfin",
-          "url": "https://github.com/jellyfin/jellyfin",
-          "description_en": "The Free Software Media System - Server Backend & API",
-          "language": "C#",
-          "stars_total": 52504,
-          "stars_today": 83,
-          "description_zh": "自由软件媒体系统 —— 服务器后端与 API"
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description_en": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars_total": 21874,
+          "stars_today": 314,
+          "description_zh": "语言模型的完全自动化审查移除工具"
+        },
+        {
+          "rank": 15,
+          "name": "iii-hq/iii",
+          "url": "https://github.com/iii-hq/iii",
+          "description_en": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+          "language": "Rust",
+          "stars_total": 16664,
+          "stars_today": 244,
+          "description_zh": "首次实现轻松实时编排、扩展和观测每一项服务"
+        },
+        {
+          "rank": 16,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars_total": 40076,
+          "stars_today": 56,
+          "description_zh": "💖🧸 自托管的、你拥有的Grok伴侣，一个容纳虚拟角色灵魂的容器，将赛博生命带入我们的世界，期望达到Neuro-sama的高度。支持实时语音聊天、Minecraft和Factorio游戏。支持Web/macOS/Windows。"
         }
       ]
     },
