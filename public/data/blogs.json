@@ -1,5 +1,126 @@
 [
   {
+    "id": "cadf33b32487b849a032dcc830d2a40c",
+    "title_en": "运维平台实践教程【共38课时】_自动化运维课程 - 51CTO学堂",
+    "source": "edu.51cto.com",
+    "url": "https://edu.51cto.com/course/31293.html",
+    "published_at": "2026-05-27T09:31:14.210Z",
+    "fetched_at": "2026-05-27T09:31:14.210Z",
+    "title_zh": "运维平台实践教程【共38课时】_自动化运维课程 - 51CTO学堂",
+    "summary_zh": "一套完整的自动化运维平台实践教程，共 38 课时，覆盖从基础工具（如 Docker、Kubernetes）到 CI/CD 流水线、监控告警、日志管理等核心模块。课程以项目驱动，提供可复用的运维脚本与平台搭建方案，适合运维人员系统提升自动化能力。",
+    "topic": "ops"
+  },
+  {
+    "id": "fa65669e885351249b6b575a05a9d0a7",
+    "title_en": "【紧急预警】CopyFail：CVE-2026-31431Linux内核本地提权漏洞深度解析 | ZONE.CI 全球网",
+    "source": "zone.ci",
+    "url": "https://zone.ci/secarticles/wx/527289.html",
+    "published_at": "2026-05-27T09:31:14.209Z",
+    "fetched_at": "2026-05-27T09:31:14.209Z",
+    "title_zh": "【紧急预警】CopyFail：CVE-2026-31431 Linux内核本地提权漏洞深度解析 | ZONE.CI 全球网",
+    "summary_zh": "针对 CVE-2026-31431（CopyFail）Linux 内核本地提权漏洞的深度解析，涵盖漏洞原理、触发条件、利用手法及影响范围。漏洞涉及内核内存拷贝操作中的竞争条件，攻击者可借此获取 root 权限。文章提供详细的技术分析与临时缓解措施，适用于安全运维与内核开发人员。",
+    "topic": "security"
+  },
+  {
+    "id": "5655134c0dd7af0aebf50d2941bac36d",
+    "title_en": "[PDF] 一种面向开源软件漏洞的补丁查找与解析方法",
+    "source": "shcas.net",
+    "url": "https://www.shcas.net/cn/article/pdf/preview/10.3969/j.issn.1000x.386x.2025.04.001.pdf",
+    "published_at": "2026-05-27T09:31:14.209Z",
+    "fetched_at": "2026-05-27T09:31:14.209Z",
+    "title_zh": "PDF 一种面向开源软件漏洞的补丁查找与解析方法",
+    "summary_zh": "提出一种面向开源软件的自动化补丁查找与解析方法，通过版本差异分析、提交日志挖掘及代码语义匹配，快速定位漏洞修复补丁。方法可辅助安全团队在漏洞披露后第一时间获取补丁细节，加速内部修复流程，降低暴露窗口。",
+    "topic": "security"
+  },
+  {
+    "id": "3f28ee7d237eba668912302e3090fbc0",
+    "title_en": "高危漏洞 - 阿里云漏洞库",
+    "source": "avd.aliyun.com",
+    "url": "https://avd.aliyun.com/high-risk/list",
+    "published_at": "2026-05-27T09:31:10.813Z",
+    "fetched_at": "2026-05-27T09:31:10.813Z",
+    "title_zh": "高危漏洞 - 阿里云漏洞库",
+    "summary_zh": "本文汇总了阿里云漏洞库收录的高危安全漏洞信息，涵盖漏洞编号、影响范围、危害等级及修复建议。内容聚焦于实际可利用的严重漏洞，为安全运维人员提供及时的威胁情报和应急响应参考，帮助团队快速定位并修复关键资产中的风险点。",
+    "topic": "security"
+  },
+  {
+    "id": "33c5a2fdef594a033e1e140446714186",
+    "title_en": "CVE 漏洞列表 - DEVCORE 戴夫寇爾",
+    "source": "devco.re",
+    "url": "https://devco.re/research/cve/",
+    "published_at": "2026-05-27T09:31:10.813Z",
+    "fetched_at": "2026-05-27T09:31:10.813Z",
+    "title_zh": "CVE 漏洞列表 - DEVCORE 戴夫寇爾",
+    "summary_zh": "DEVCORE 团队发布的 CVE 漏洞列表，详细披露了多个已公开漏洞的技术细节、影响版本及利用条件。文章以实战视角分析漏洞成因与攻击链，适合安全研究人员用于漏洞复现、渗透测试及防御策略制定，具有较高的技术参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "8ef17c3d0790b5eb893ecd6710534b14",
+    "title_en": "漏洞- X情报中心 - 微步在线",
+    "source": "x.threatbook.com",
+    "url": "https://x.threatbook.com/v5/vulIntelligence",
+    "published_at": "2026-05-27T09:31:10.813Z",
+    "fetched_at": "2026-05-27T09:31:10.813Z",
+    "title_zh": "漏洞- X情报中心 - 微步在线",
+    "summary_zh": "微步在线 X 情报中心提供的漏洞情报聚合，实时追踪全球最新安全漏洞，包括漏洞描述、影响范围、POC 状态及缓解措施。内容面向安全运营团队，辅助威胁研判与应急响应，提升对新兴攻击面的感知与防御能力。",
+    "topic": "security"
+  },
+  {
+    "id": "56a2fbd96d5f3bef0fa8097c6ba77197",
+    "title_en": "CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE - 信息安全知识库",
+    "source": "gm7.org",
+    "url": "https://www.gm7.org/archives/97513",
+    "published_at": "2026-05-27T09:31:10.812Z",
+    "fetched_at": "2026-05-27T09:31:10.812Z",
+    "title_zh": "CVE-2026-41940 深度分析：影响7000万+量级的cPanel/WHM认证绕过漏洞——从CRLF注入到匿名RCE",
+    "summary_zh": "本文深度分析了CVE-2026-41940漏洞，该漏洞影响超过7000万cPanel/WHM实例，可实现从CRLF注入到匿名远程代码执行（RCE）的完整攻击链。作者详细剖析了漏洞成因：WHM接口对HTTP头部验证不严导致CRLF注入，进而绕过认证机制，最终通过特定API实现无需身份验证的命令执行。文章提供了漏洞复现步骤、影响范围评估以及临时缓解措施（如WAF规则、端口限制），对安全研究人员和系统管理员具有重要参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "23c3ad73c9172be81a350c18826b6733",
+    "title_en": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens_腾讯新闻",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20260526A0255700",
+    "published_at": "2026-05-27T09:31:05.477Z",
+    "fetched_at": "2026-05-27T09:31:05.477Z",
+    "title_zh": "OpenAI GPT-5.6模型曝下月发布：AI上下文150万tokens",
+    "summary_zh": "据爆料，OpenAI即将发布GPT-5.6模型，其核心亮点在于支持高达150万tokens的超长上下文窗口，远超当前主流模型。这一突破将极大提升对长文档、代码库、多轮对话及复杂推理任务的处理能力。文章分析了超长上下文在技术实现上的挑战，如注意力机制优化、显存占用和推理延迟，并探讨了其对RAG、Agent和知识密集型应用场景的潜在影响，为AI工程师提供了重要的技术前瞻。",
+    "topic": "ai"
+  },
+  {
+    "id": "c9e50da86d41a59bc8cec54277b00809",
+    "title_en": "2026 AI大模型产业创新TOP50|革命|通用 - 新浪",
+    "source": "k.sina.com.cn",
+    "url": "https://k.sina.com.cn/article_5953740931_162dee08306703ab7z.html?from=tech",
+    "published_at": "2026-05-27T09:31:05.477Z",
+    "fetched_at": "2026-05-27T09:31:05.477Z",
+    "title_zh": "2026 AI大模型产业创新TOP50",
+    "summary_zh": "本文发布了2026年AI大模型产业创新TOP50榜单，覆盖基础模型、应用平台、工具链和行业解决方案等细分领域。榜单评选基于技术创新性、商业落地能力、生态贡献和增长潜力等维度，重点突出了在MoE架构、长上下文、多模态、Agent框架和垂直行业大模型方面取得突破的企业。文章分析了头部厂商的差异化竞争策略，以及中小企业在细分场景中的创新机会，为产业界提供了清晰的竞争格局参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "9d01b6cc041b7cdabdd38a0843c093a6",
+    "title_en": "刚刚，国产AI自己造了AI，全球首例！|代码|预训练|大模型|神经网络_网易订阅",
+    "source": "163.com",
+    "url": "https://www.163.com/dy/article/KTSBIPDC0511DSSR.html",
+    "published_at": "2026-05-27T09:31:05.477Z",
+    "fetched_at": "2026-05-27T09:31:05.477Z",
+    "title_zh": "刚刚，国产AI自己造了AI，全球首例！",
+    "summary_zh": "本文报道了全球首例由AI自主设计并生成完整AI模型的突破性进展。该国产系统利用大模型自动完成神经网络架构搜索、超参数优化、训练代码生成及验证，实现了从需求描述到可部署模型的端到端自动化。文章深入分析了背后的核心技术，包括代码生成、强化学习反馈和模型蒸馏，并讨论了这一范式对降低AI开发门槛、加速模型迭代的深远影响，为AI工程化提供了全新的思路。",
+    "topic": "ai"
+  },
+  {
+    "id": "13a829cf97d70baf350db3a7bca96749",
+    "title_en": "2026 年AI Agent 的12 大构建框架 - 亮数据",
+    "source": "bright.cn",
+    "url": "https://www.bright.cn/blog/ai/best-ai-agent-frameworks",
+    "published_at": "2026-05-27T09:31:05.477Z",
+    "fetched_at": "2026-05-27T09:31:05.477Z",
+    "title_zh": "2026年AI Agent的12大构建框架",
+    "summary_zh": "本文系统梳理了2026年主流的12个AI Agent构建框架，包括LangGraph、AutoGen、CrewAI、Semantic Kernel、Dify、Coze等。从框架的架构设计、工具集成、多Agent协作、记忆管理、可观测性和部署灵活性等维度进行了横向对比。文章提供了每个框架的适用场景、优缺点分析和入门示例，帮助开发者根据项目复杂度、语言偏好和生态需求选择最合适的Agent开发平台，是构建智能体应用的实用指南。",
+    "topic": "ai"
+  },
+  {
     "id": "a998910f298d32967d9368d7d8619472",
     "title_en": "网络安全 - 潜伏9年通杀全版本！Copy Fail 内核提权漏洞分析（CVE-2026-31431） - 蚁景网安实验室 - SegmentFault 思否",
     "source": "segmentfault.com",
@@ -2077,126 +2198,5 @@
     "title_zh": "一文带你看清运维技术体系 - GitHub Gist",
     "summary_zh": "本文以思维导图的形式梳理了现代运维技术体系的完整架构，涵盖基础设施、监控告警、日志管理、配置管理、容器编排、CI/CD、安全合规等多个维度。文章对每个技术领域的关键工具和概念进行了简要说明，如Prometheus、Kubernetes、Terraform、GitLab CI等，并指出了各组件之间的关联关系。适合运维新手快速建立知识体系，也适合资深工程师查漏补缺。",
     "topic": "ops"
-  },
-  {
-    "id": "902dab7abf1102e86f69ec679802e832",
-    "title_en": "【运维安全】CVE-2026-27654深度解析：NGINX WebDAV高危漏洞原理与修复方案-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/qq_35366330/article/details/160934931",
-    "published_at": "2026-05-23T13:04:26.202Z",
-    "fetched_at": "2026-05-23T13:04:26.202Z",
-    "title_zh": "【运维安全】CVE-2026-27654深度解析：NGINX WebDAV高危漏洞原理与修复方案",
-    "summary_zh": "本文深度分析了CVE-2026-27654漏洞，该漏洞存在于NGINX的WebDAV模块中，可导致远程代码执行或数据泄露。文章从漏洞原理出发，详细解释了WebDAV协议在处理PUT、DELETE等方法时的缺陷，以及攻击者如何利用该漏洞绕过权限检查。同时提供了具体的修复方案，包括升级NGINX版本、禁用WebDAV模块、配置访问控制列表等。对运维和安全人员具有重要参考价值。",
-    "topic": "security"
-  },
-  {
-    "id": "d4cd7182b361be8f4f00ddaf2f69b382",
-    "title_en": "Docker 安全性与性能优化实战指南-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2480979",
-    "published_at": "2026-05-23T13:04:26.201Z",
-    "fetched_at": "2026-05-23T13:04:26.201Z",
-    "title_zh": "Docker 安全性与性能优化实战指南",
-    "summary_zh": "本文兼顾Docker的安全性与性能优化，安全方面涵盖镜像签名、非root用户运行、Seccomp/AppArmor配置、网络隔离以及密钥管理；性能方面包括资源限制、存储驱动选择、日志驱动优化和内核参数调优。通过实战案例展示如何在保障安全的同时提升容器运行效率，适合生产环境容器化部署的参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "255b1332fa260fd54c821543e59005d1",
-    "title_en": "“拼好模”：字节跳动开源轻量原生统一多模态 AI 模型 Lance - 钛刻科技 | TCTI.cn",
-    "source": "tcti.cn",
-    "url": "https://www.tcti.cn/post/1327244",
-    "published_at": "2026-05-23T13:04:21.790Z",
-    "fetched_at": "2026-05-23T13:04:21.790Z",
-    "title_zh": "“拼好模”：字节跳动开源轻量原生统一多模态AI模型Lance",
-    "summary_zh": "字节跳动开源了名为Lance的轻量级原生统一多模态AI模型，旨在通过“拼好模”的方式实现高效的多模态理解与生成。本文详细介绍了Lance的架构设计，包括其统一的视觉-语言表示学习、轻量化部署策略以及在图像描述、视觉问答等任务上的性能表现。对于关注多模态模型落地、边缘端推理或开源AI框架的开发者，本文提供了技术细节与基准测试数据，具有较高的实践参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "661d0493a16d106c5a1968993fafcff4",
-    "title_en": "极客时间训练营-企业级Agents 开发实战营",
-    "source": "u.geekbang.org",
-    "url": "https://u.geekbang.org/subject/agents",
-    "published_at": "2026-05-23T13:04:21.790Z",
-    "fetched_at": "2026-05-23T13:04:21.790Z",
-    "title_zh": "极客时间训练营-企业级Agents开发实战营",
-    "summary_zh": "本文是极客时间推出的企业级Agents开发实战营课程介绍，面向希望系统掌握AI Agent开发技能的工程师。课程内容涵盖Agent核心原理、LangChain与AutoGPT等主流框架实战、多Agent协作设计、以及企业级部署与运维。通过项目驱动的学习方式，帮助学员从零构建一个完整的智能体应用。适合有一定编程基础、希望快速进入Agent开发领域的从业者。",
-    "topic": "ai"
-  },
-  {
-    "id": "366fce391d4f8cb854969465cce6b976",
-    "title_en": "大模型应用开发实战：AI Agent与智能体开发技术解析 - 聚客AI学院",
-    "source": "edu.guangjuke.com",
-    "url": "https://edu.guangjuke.com/haowen/234.html",
-    "published_at": "2026-05-23T13:04:21.790Z",
-    "fetched_at": "2026-05-23T13:04:21.790Z",
-    "title_zh": "大模型应用开发实战：AI Agent与智能体开发技术解析",
-    "summary_zh": "本文聚焦于大模型应用开发中的AI Agent与智能体技术，从实战角度解析了Agent的构建流程与关键技术。内容包括如何设计Agent的思考-行动循环、如何集成外部工具与API、以及如何通过记忆模块提升对话连贯性。文章提供了多个代码示例与架构图，帮助读者理解从理论到落地的完整路径。适合有一定大模型基础、希望动手实践Agent开发的开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "1772ed9f4964f08bb52bcc3ab8fa711f",
-    "title_en": "【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析 | CN-SEC 中文网",
-    "source": "cn-sec.com",
-    "url": "http://cn-sec.com/archives/5229637.html",
-    "published_at": "2026-05-23T08:07:59.480Z",
-    "fetched_at": "2026-05-23T08:07:59.480Z",
-    "title_zh": "【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析",
-    "summary_zh": "本文由天穹团队发布，对 CVE-2026-31431（Copy Fail）漏洞进行了完整的利用分析。从漏洞原理出发，详细描述了如何通过精心构造的 I/O 操作污染 page cache，进而实现内核内存的越界读写与权限提升。文章包含了完整的利用代码逻辑、调试技巧以及绕过现有缓解措施的思路，是内核漏洞利用研究领域的高质量技术文章。",
-    "topic": "security"
-  },
-  {
-    "id": "0b43047be6c6fe2d4e3a579e06ac1915",
-    "title_en": "Nginx CVE-2026-42945漏洞分析及复现 - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2670070",
-    "published_at": "2026-05-23T08:07:56.573Z",
-    "fetched_at": "2026-05-23T08:07:56.573Z",
-    "title_zh": "Nginx CVE-2026-42945漏洞分析及复现",
-    "summary_zh": "本文详细分析了Nginx的高危漏洞CVE-2026-42945，包括漏洞成因（如内存损坏、配置解析错误）、影响范围（特定版本）以及攻击利用条件。作者提供了漏洞复现步骤和PoC代码，并给出了临时缓解措施（如升级、配置限制）和官方补丁信息。适合Nginx运维人员和安全研究员进行风险评估和应急响应。",
-    "topic": "security"
-  },
-  {
-    "id": "db74b6b390213ab62cc6c66a35a73b8e",
-    "title_en": "提权漏洞CVE-2026-31431 拆解",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV12F99BhEdN/",
-    "published_at": "2026-05-23T08:07:56.573Z",
-    "fetched_at": "2026-05-23T08:07:56.573Z",
-    "title_zh": "提权漏洞 CVE-2026-31431 拆解",
-    "summary_zh": "本视频/文章对 CVE-2026-31431 提权漏洞进行了细致的拆解分析，从漏洞原理出发，逐步讲解如何利用 page cache 污染实现从普通用户到 root 的权限提升。内容涵盖漏洞利用的关键数据结构、内存布局操控技巧以及稳定的触发条件。适合希望深入理解 Linux 内核漏洞利用技术的安全研究人员和逆向工程师学习参考。",
-    "topic": "security"
-  },
-  {
-    "id": "e1dc65e8ba15943fffe1d8704b2af14f",
-    "title_en": "yangpeng14/DevOps - 个人自动化运维指南 - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/yangpeng14/DevOps",
-    "published_at": "2026-05-23T08:07:56.572Z",
-    "fetched_at": "2026-05-23T08:07:56.572Z",
-    "title_zh": "yangpeng14/DevOps - 个人自动化运维指南",
-    "summary_zh": "该项目是一份个人整理的DevOps自动化运维指南，内容覆盖CI/CD流水线搭建、配置管理工具（如Ansible、Terraform）、监控告警体系以及日志管理最佳实践。作者结合自身经验，提供了从代码提交到生产部署的全链路自动化方案，并附有实际案例和脚本示例。适合DevOps工程师和运维人员参考，帮助构建高效、可复用的自动化运维体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "14051b0ef949615ffcbde58ad1a44369",
-    "title_en": "Docker容器化最佳实践：从镜像构建到生产部署全流程（2025） - 信逆云科技",
-    "source": "xinniyun.com",
-    "url": "https://www.xinniyun.com/%E8%BF%90%E7%BB%B4%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F/article-docker-container-best-practices",
-    "published_at": "2026-05-23T08:07:56.572Z",
-    "fetched_at": "2026-05-23T08:07:56.572Z",
-    "title_zh": "Docker容器化最佳实践：从镜像构建到生产部署全流程（2025）",
-    "summary_zh": "本文总结了2025年Docker容器化的最佳实践，覆盖从Dockerfile编写、镜像构建优化、私有仓库管理、容器编排（Kubernetes）到生产环境部署与监控的全流程。作者强调了安全性（如最小权限、镜像签名）、可观测性（日志、指标）和自动化（CI/CD集成）的重要性，并提供了多个实战模板。适合希望系统化提升容器化水平的团队。",
-    "topic": "ops"
-  },
-  {
-    "id": "c4e8cb4f648bce3f7a6ad5e2301608fa",
-    "title_en": "国产第一！阿里千问旗舰模型Qwen3.7-Max发布：全自主完成35小时任务|编程|max|智能体|qwen|开源模型|阿里巴巴集团_网易订阅",
-    "source": "163.com",
-    "url": "https://www.163.com/dy/article/KTCDCJN50511CPVM.html",
-    "published_at": "2026-05-23T08:07:52.155Z",
-    "fetched_at": "2026-05-23T08:07:52.155Z",
-    "title_zh": "国产第一！阿里千问旗舰模型Qwen3.7-Max发布：全自主完成35小时任务",
-    "summary_zh": "阿里巴巴发布千问旗舰模型Qwen3.7-Max，宣称具备全自主完成长达35小时复杂任务的能力。该模型在编程、智能体协作及开源生态方面有显著提升，标志着国产大模型在自主规划与长周期任务执行上取得重要突破。文章详细介绍了模型架构、多智能体协同机制及其在真实场景中的表现，对AI开发者和企业用户具有较高参考价值。",
-    "topic": "ai"
   }
 ]
