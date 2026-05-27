@@ -1,6 +1,152 @@
 {
   "days": [
     {
+      "date": "2026-05-27",
+      "summary_zh": "今日GitHub热门项目聚焦AI工具链优化：知识图谱化代码理解、智能体性能增强、网络安全技能库，以及去除AI生成文本痕迹的实用技能文件。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "language": "TypeScript",
+          "stars_total": 36252,
+          "stars_today": 4697,
+          "description_zh": "以教学为目的的图表 > 以炫技为目的的图表。将任何代码转化为可交互的知识图谱，支持探索、搜索和提问。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
+        },
+        {
+          "rank": 2,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 20901,
+          "stars_today": 2155,
+          "description_zh": "学习它。构建它。为他人交付它。"
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 194556,
+          "stars_today": 1915,
+          "description_zh": "智能体工具性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等平台提供技能、本能、记忆、安全及研究优先的开发支持。"
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars_total": 16733,
+          "stars_today": 1718,
+          "description_zh": "开源插件仓库，主要面向知识工作者，用于 Claude Cowork 环境。"
+        },
+        {
+          "rank": 5,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "Shell",
+          "stars_total": 22033,
+          "stars_today": 1430,
+          "description_zh": "Taste-Skill - 赋予你的 AI 良好品味。阻止 AI 生成无聊、千篇一律的劣质内容"
+        },
+        {
+          "rank": 6,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description_en": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars_total": 167553,
+          "stars_today": 1219,
+          "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名"
+        },
+        {
+          "rank": 7,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "language": "Python",
+          "stars_total": 10185,
+          "stars_today": 880,
+          "description_zh": "为 AI 智能体提供的 754 项结构化网络安全技能 · 映射至 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 覆盖 26 个安全领域 · Apache 2.0 许可"
+        },
+        {
+          "rank": 8,
+          "name": "Axorax/awesome-free-apps",
+          "url": "https://github.com/Axorax/awesome-free-apps",
+          "description_en": "Curated list of the best free apps for PC and mobile",
+          "language": "JavaScript",
+          "stars_total": 5341,
+          "stars_today": 731,
+          "description_zh": "精心整理的 PC 和移动端最佳免费应用列表"
+        },
+        {
+          "rank": 9,
+          "name": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description_en": "A skill file for removing AI tells from prose",
+          "language": "",
+          "stars_total": 5080,
+          "stars_today": 539,
+          "description_zh": "用于从散文中去除 AI 痕迹的技能文件"
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars_total": 78727,
+          "stars_today": 352,
+          "description_zh": "为每个智能体提供跨会话的持久上下文——捕获智能体在会话中的所有操作，通过 AI 压缩，并将相关上下文注入未来会话。兼容 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等。"
+        },
+        {
+          "rank": 11,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description_en": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars_total": 46895,
+          "stars_today": 216,
+          "description_zh": "专为 AI 设计的 Salesforce 开源替代方案。"
+        },
+        {
+          "rank": 12,
+          "name": "st-tech/ppf-contact-solver",
+          "url": "https://github.com/st-tech/ppf-contact-solver",
+          "description_en": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+          "language": "Python",
+          "stars_total": 3515,
+          "stars_today": 170,
+          "description_zh": "用于基于物理的模拟的接触求解器，涉及👚壳、🪵固体和🪢杆。"
+        },
+        {
+          "rank": 13,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "language": "TypeScript",
+          "stars_total": 12177,
+          "stars_today": 156,
+          "description_zh": "OpenStock 是昂贵市场平台的开源替代品。实时追踪价格、设置个性化提醒、探索详细公司信息——以开放方式构建，面向所有人，永久免费。"
+        },
+        {
+          "rank": 14,
+          "name": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "description_en": "The Free Software Media System - Server Backend & API",
+          "language": "C#",
+          "stars_total": 52407,
+          "stars_today": 83,
+          "description_zh": "自由软件媒体系统 - 服务器后端与 API"
+        }
+      ]
+    },
+    {
       "date": "2026-05-26",
       "summary_zh": "今日GitHub热门项目聚焦AI代理工具链，涵盖代码知识图谱、安全技能框架、写作质量提升及免费资源，强调实用性与开源生态。",
       "projects": [
@@ -4231,142 +4377,6 @@
           "stars_total": 386542,
           "stars_today": 133,
           "description_zh": "📚 免费提供的编程书籍"
-        }
-      ]
-    },
-    {
-      "date": "2026-04-27",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链，涵盖代码智能引擎、Claude技能模板、开源设计协作及金融交易代理框架，强调本地化、开源与自动化工作流。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 28845,
-          "stars_today": 5551,
-          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
-        },
-        {
-          "rank": 2,
-          "name": "Alishahryar1/free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-          "language": "Python",
-          "stars_total": 15772,
-          "stars_today": 2973,
-          "description_zh": "在终端、VSCode扩展或通过Discord（如openclaw）免费使用claude-code。"
-        },
-        {
-          "rank": 3,
-          "name": "Z4nzu/hackingtool",
-          "url": "https://github.com/Z4nzu/hackingtool",
-          "description_en": "ALL IN ONE Hacking Tool For Hackers",
-          "language": "Python",
-          "stars_total": 66847,
-          "stars_today": 1839,
-          "description_zh": "黑客的全能黑客工具。"
-        },
-        {
-          "rank": 4,
-          "name": "abhigyanpatwari/GitNexus",
-          "url": "https://github.com/abhigyanpatwari/GitNexus",
-          "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-          "language": "TypeScript",
-          "stars_total": 31262,
-          "stars_today": 1074,
-          "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建工具。拖入GitHub仓库或ZIP文件，即可获得一个带有内置图RAG代理的交互式知识图谱。非常适合代码探索。"
-        },
-        {
-          "rank": 5,
-          "name": "microsoft/VibeVoice",
-          "url": "https://github.com/microsoft/VibeVoice",
-          "description_en": "Open-Source Frontier Voice AI",
-          "language": "Python",
-          "stars_total": 42809,
-          "stars_today": 771,
-          "description_zh": "开源前沿语音AI。"
-        },
-        {
-          "rank": 6,
-          "name": "ComposioHQ/awesome-codex-skills",
-          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-          "description_en": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-          "language": "Python",
-          "stars_total": 2636,
-          "stars_today": 637,
-          "description_zh": "一份精选的实用Codex技能列表，用于通过Codex CLI和API自动化工作流程。"
-        },
-        {
-          "rank": 7,
-          "name": "gastownhall/beads",
-          "url": "https://github.com/gastownhall/beads",
-          "description_en": "Beads - A memory upgrade for your coding agent",
-          "language": "Go",
-          "stars_total": 22092,
-          "stars_today": 485,
-          "description_zh": "Beads——为你的编码代理提供的内存升级。"
-        },
-        {
-          "rank": 8,
-          "name": "donnemartin/system-design-primer",
-          "url": "https://github.com/donnemartin/system-design-primer",
-          "description_en": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-          "language": "Python",
-          "stars_total": 345038,
-          "stars_today": 396,
-          "description_zh": "学习如何设计大规模系统。为系统设计面试做准备。包含Anki闪卡。"
-        },
-        {
-          "rank": 9,
-          "name": "penpot/penpot",
-          "url": "https://github.com/penpot/penpot",
-          "description_en": "Penpot: The open-source design tool for design and code collaboration",
-          "language": "Clojure",
-          "stars_total": 46479,
-          "stars_today": 283,
-          "description_zh": "Penpot：用于设计与代码协作的开源设计工具。"
-        },
-        {
-          "rank": 10,
-          "name": "TauricResearch/TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-          "language": "Python",
-          "stars_total": 53585,
-          "stars_today": 183,
-          "description_zh": "TradingAgents：多智能体LLM金融交易框架。"
-        },
-        {
-          "rank": 11,
-          "name": "davila7/claude-code-templates",
-          "url": "https://github.com/davila7/claude-code-templates",
-          "description_en": "CLI tool for configuring and monitoring Claude Code",
-          "language": "Python",
-          "stars_total": 25731,
-          "stars_today": 181,
-          "description_zh": "用于配置和监控Claude Code的CLI工具。"
-        },
-        {
-          "rank": 12,
-          "name": "CJackHwang/ds2api",
-          "url": "https://github.com/CJackHwang/ds2api",
-          "description_en": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-          "language": "Go",
-          "stars_total": 1787,
-          "stars_today": 144,
-          "description_zh": "Deepseek转API：一个轻量级、高性能的全栈中间件，将客户端协议转换为通用API。支持多账户轮换、编译二进制文件、Vercel Serverless和Docker。兼容Google、Claude和OpenAI API格式。"
-        },
-        {
-          "rank": 13,
-          "name": "deepseek-ai/DeepSeek-V3",
-          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 103045,
-          "stars_today": 60,
-          "description_zh": ""
         }
       ]
     }

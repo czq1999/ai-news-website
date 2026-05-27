@@ -1,5 +1,115 @@
 [
   {
+    "id": "a998910f298d32967d9368d7d8619472",
+    "title_en": "网络安全 - 潜伏9年通杀全版本！Copy Fail 内核提权漏洞分析（CVE-2026-31431） - 蚁景网安实验室 - SegmentFault 思否",
+    "source": "segmentfault.com",
+    "url": "https://segmentfault.com/a/1190000047750384",
+    "published_at": "2026-05-27T02:36:34.198Z",
+    "fetched_at": "2026-05-27T02:36:34.198Z",
+    "title_zh": "潜伏9年通杀全版本！Copy Fail内核提权漏洞分析（CVE-2026-31431）",
+    "summary_zh": "本文由蚁景网安实验室发布，详细分析了潜伏9年、影响所有版本的内核提权漏洞CVE-2026-31431。漏洞源于内核内存拷贝操作中的条件竞争，攻击者可通过低权限进程触发提权。文章从漏洞发现历程、利用原语构造、稳定利用技巧到补丁绕过方法进行了全面剖析，并给出了针对性的内核参数调优和监控建议，对内核安全研究具有极高价值。",
+    "topic": "security"
+  },
+  {
+    "id": "f557155239c23526c284cd474378919f",
+    "title_en": "智能运维实践-阿里云",
+    "source": "aliyun.com",
+    "url": "https://www.aliyun.com/sswb/1510911.html",
+    "published_at": "2026-05-27T02:36:34.198Z",
+    "fetched_at": "2026-05-27T02:36:34.198Z",
+    "title_zh": "智能运维实践 - 阿里云",
+    "summary_zh": "本文来自阿里云，分享了其在智能运维（AIOps）领域的实践经验，包括异常检测、根因分析和故障预测等核心能力。文章介绍了基于时间序列分析和机器学习的监控体系，以及如何通过知识图谱关联告警事件。实践案例展示了智能运维在降低MTTR、提升系统可用性方面的显著效果，为云原生环境下的运维团队提供了可复用的方法论和工具选型建议。",
+    "topic": "ops"
+  },
+  {
+    "id": "a39e0b3df2e0a0cd10fa926ea1c3fc39",
+    "title_en": "神龙漏洞库: 漏洞数据库- AI 增强中文CVE 平台与情报",
+    "source": "cve.imfht.com",
+    "url": "https://cve.imfht.com/",
+    "published_at": "2026-05-27T02:36:31.704Z",
+    "fetched_at": "2026-05-27T02:36:31.704Z",
+    "title_zh": "神龙漏洞库：AI增强的中文CVE平台与情报",
+    "summary_zh": "本文介绍了神龙漏洞库这一新型中文CVE平台，其核心特色在于利用AI技术对漏洞信息进行智能增强处理，包括自动翻译、关联分析、威胁评分和情报聚合。平台整合了NVD、CNNVD等多源数据，并提供中文搜索和定制化告警功能。对于国内安全团队而言，该平台降低了英文漏洞情报的获取门槛，提升了漏洞响应的时效性和准确性。",
+    "topic": "security"
+  },
+  {
+    "id": "5c4faaec447b73ce26b1f5700ed7cb42",
+    "title_en": "GitHub \"分号漏洞\" CVE-2026-3854 深度复盘：一条 git push 命令如何触发远程代码执行-程序员茄子",
+    "source": "chenxutan.com",
+    "url": "http://www.chenxutan.com/d/2483.html",
+    "published_at": "2026-05-27T02:36:31.704Z",
+    "fetched_at": "2026-05-27T02:36:31.704Z",
+    "title_zh": "GitHub分号漏洞CVE-2026-3854深度复盘：一条git push命令如何触发远程代码执行",
+    "summary_zh": "本文深入分析了GitHub分号漏洞CVE-2026-3854的完整攻击链。漏洞源于Git仓库元数据处理中的输入验证缺陷，攻击者可通过精心构造的git push请求触发远程代码执行。文章从漏洞发现、PoC构造、利用条件到修复补丁进行了全流程复盘，并提供了针对Git服务部署的安全加固建议，对DevOps和代码托管平台的安全运维具有重要参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "5675d999f7d2786ffcc58af0785a2f3d",
+    "title_en": "漏洞分析 - 奇安信技术研究院",
+    "source": "research.qianxin.com",
+    "url": "https://research.qianxin.com/archives/tag/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90",
+    "published_at": "2026-05-27T02:36:31.704Z",
+    "fetched_at": "2026-05-27T02:36:31.704Z",
+    "title_zh": "漏洞分析 - 奇安信技术研究院",
+    "summary_zh": "本文来自奇安信技术研究院，针对近期高危漏洞进行深度技术分析。内容涵盖漏洞的触发原理、利用代码分析、受影响系统范围以及检测与防御方案。文章以实际案例演示了漏洞利用过程，并提供了详细的修复补丁分析。对于企业安全团队，本文有助于理解漏洞本质，制定针对性的安全策略和应急响应计划。",
+    "topic": "security"
+  },
+  {
+    "id": "0bdeba5588037c40eff487da4b5f2fb3",
+    "title_en": "CVE 2026 Vulnerabilities Database | 23926+ Security Flaws Discovered in 2026",
+    "source": "fixthecve.com",
+    "url": "https://fixthecve.com/cve/2026",
+    "published_at": "2026-05-27T02:36:31.704Z",
+    "fetched_at": "2026-05-27T02:36:31.704Z",
+    "title_zh": "CVE 2026漏洞数据库 | 2026年已发现23926+个安全缺陷",
+    "summary_zh": "本文汇总了2026年已收录的超过23926个CVE漏洞，按严重等级、影响类型和受影响的软件/硬件进行分类统计。数据库提供可搜索的漏洞详情、CVSS评分、PoC链接及修复状态。对于安全运维人员，该数据库是进行漏洞扫描、风险评估和补丁管理的实用工具，有助于快速掌握年度漏洞态势并优先处理高危风险。",
+    "topic": "security"
+  },
+  {
+    "id": "6b48d5cf4a0a0cea308e320f3bf671c7",
+    "title_en": "《高性能Linux服务器运维实战》电子书在线阅读-高俊峰编著 - 得到APP",
+    "source": "dedao.cn",
+    "url": "https://www.dedao.cn/ebook/detail?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZzO4WQA1xO54nlvZq296YodejLXVJE5eAd",
+    "published_at": "2026-05-27T02:36:23.081Z",
+    "fetched_at": "2026-05-27T02:36:23.081Z",
+    "title_zh": "《高性能Linux服务器运维实战》电子书在线阅读",
+    "summary_zh": "本书由高俊峰编著，系统介绍了高性能Linux服务器运维的实战方法。内容涵盖服务器硬件选型、操作系统安装与优化、常用服务部署、性能监控与调优、集群管理以及故障应急处理。通过大量真实案例，深入剖析了运维中的常见问题与解决方案，是运维工程师提升实战能力的经典参考书。",
+    "topic": "ops"
+  },
+  {
+    "id": "d571e5cc596db227a5dec536df3a297f",
+    "title_en": "第17章 多 Agent 模式实战 · LangGraph 设计与实现 · 杨艺韬讲堂",
+    "source": "yangyitao.com",
+    "url": "https://www.yangyitao.com/books/langgraph/chapters/17-multi-agent-patterns",
+    "published_at": "2026-05-27T02:36:23.080Z",
+    "fetched_at": "2026-05-27T02:36:23.080Z",
+    "title_zh": "第17章 多Agent模式实战 · LangGraph设计与实现",
+    "summary_zh": "本文聚焦于LangGraph框架下的多Agent协作模式设计与实现。详细介绍了如何利用图结构编排多个Agent的交互流程，包括状态共享、任务分发、结果聚合以及异常处理机制。通过实战案例，展示了多Agent系统在复杂任务分解与并行执行中的优势，为构建可扩展的智能体协作网络提供了技术参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "a59da52b05bfbbc6d443a567cd453183",
+    "title_en": "天工AI发布SkyClaw-v1.0：面向真实工作流的百万上下文 Agent 模型 - 53AI-AI知识库|企业AI知识库|大模型知识库|前线部署工程师|FDE|AIHub",
+    "source": "53ai.com",
+    "url": "https://www.53ai.com/news/LargeLanguageModel/2026052612963.html",
+    "published_at": "2026-05-27T02:36:23.079Z",
+    "fetched_at": "2026-05-27T02:36:23.079Z",
+    "title_zh": "天工AI发布SkyClaw-v1.0：面向真实工作流的百万上下文Agent模型",
+    "summary_zh": "本文介绍天工AI最新发布的SkyClaw-v1.0模型，该模型专为真实工作流设计，支持百万级上下文窗口，可高效处理长文档、复杂任务链与多步骤推理。文章详细解析其架构设计、训练策略及在自动化办公、代码审查等场景的实测效果。适合Agent开发与工作流自动化工程师。",
+    "topic": "ai"
+  },
+  {
+    "id": "95d7903a6f1f66fd1e46fcb72e9eb8ac",
+    "title_en": "阿里通义EAPO框架：30B小模型反超120B闭源大模型的强化学习突破，ACL 2026论文详解 – Prompt 语宙",
+    "source": "paooo.com",
+    "url": "https://paooo.com/aigc-news/10771/",
+    "published_at": "2026-05-27T02:36:23.079Z",
+    "fetched_at": "2026-05-27T02:36:23.080Z",
+    "title_zh": "阿里通义EAPO框架：30B小模型反超120B闭源大模型的强化学习突破",
+    "summary_zh": "本文详解阿里通义团队提出的EAPO（Efficient Alignment via Preference Optimization）强化学习框架，该框架使30B参数的小模型在多项任务上超越120B闭源模型。核心创新包括偏好对齐优化、高效采样策略与奖励模型设计。适合对模型压缩、强化学习与对齐技术感兴趣的AI研究员。",
+    "topic": "ai"
+  },
+  {
     "id": "68bfab13c03487fa21ec339a64cda33a",
     "title_en": "一种Linux安全漏洞修复补丁自动识别方法 - 计算机研究与发展",
     "source": "crad.ict.ac.cn",
@@ -2088,115 +2198,5 @@
     "title_zh": "国产第一！阿里千问旗舰模型Qwen3.7-Max发布：全自主完成35小时任务",
     "summary_zh": "阿里巴巴发布千问旗舰模型Qwen3.7-Max，宣称具备全自主完成长达35小时复杂任务的能力。该模型在编程、智能体协作及开源生态方面有显著提升，标志着国产大模型在自主规划与长周期任务执行上取得重要突破。文章详细介绍了模型架构、多智能体协同机制及其在真实场景中的表现，对AI开发者和企业用户具有较高参考价值。",
     "topic": "ai"
-  },
-  {
-    "id": "c9f3d05ea0d9fcac73e97172caf3291e",
-    "title_en": "Linux运维工程师必须掌握的服务器性能参数指标",
-    "source": "xasun.com",
-    "url": "https://www.xasun.com/article/26/2395.html",
-    "published_at": "2026-05-23T08:07:52.155Z",
-    "fetched_at": "2026-05-23T08:07:52.155Z",
-    "title_zh": "Linux运维工程师必须掌握的服务器性能参数指标",
-    "summary_zh": "本文详细介绍了Linux运维工程师必须掌握的服务器关键性能参数指标，包括CPU使用率、负载、内存占用、磁盘I/O、网络吞吐量、进程状态等。文章解释了每个指标的含义、正常范围及异常排查方法，并提供了常用的监控命令与工具。对于系统性能评估和故障定位具有重要参考价值。",
-    "topic": "ops"
-  },
-  {
-    "id": "3f28ee7d237eba668912302e3090fbc0",
-    "title_en": "高危漏洞 - 阿里云漏洞库",
-    "source": "avd.aliyun.com",
-    "url": "https://avd.aliyun.com/high-risk/list",
-    "published_at": "2026-05-23T02:09:04.603Z",
-    "fetched_at": "2026-05-23T02:09:04.603Z",
-    "title_zh": "高危漏洞 - 阿里云漏洞库",
-    "summary_zh": "阿里云漏洞库收录了近期公开的高危安全漏洞信息，包括漏洞编号（CVE）、影响范围、危害等级、利用条件及修复建议。内容涵盖操作系统、Web 应用、数据库、中间件等多个类别，例如远程代码执行、权限提升、拒绝服务等严重漏洞。每个漏洞均提供详细的描述和官方补丁链接，帮助安全团队快速评估风险并制定应急响应方案。适合安全运维人员用于漏洞预警与修复跟踪。",
-    "topic": "security"
-  },
-  {
-    "id": "b5b03cf96bde67ee488e173279f66b5b",
-    "title_en": "漏洞预警- 安全通告 - 启明星辰",
-    "source": "venustech.com.cn",
-    "url": "https://www.venustech.com.cn/new_type/aqtg/",
-    "published_at": "2026-05-23T02:09:04.603Z",
-    "fetched_at": "2026-05-23T02:09:04.603Z",
-    "title_zh": "漏洞预警 - 安全通告 - 启明星辰",
-    "summary_zh": "启明星辰发布的安全漏洞预警通告，针对近期发现的重大安全漏洞进行及时通报。每份通告包含漏洞概述、影响版本、攻击路径分析、危害评估以及临时缓解措施和官方修复方案。内容覆盖操作系统、网络设备、应用软件等多个领域，例如 Apache Log4j、Windows Print Spooler 等知名漏洞。通告旨在帮助企业和组织在补丁发布前采取有效的防护措施，降低被攻击风险。",
-    "topic": "security"
-  },
-  {
-    "id": "8ef17c3d0790b5eb893ecd6710534b14",
-    "title_en": "漏洞- X情报中心 - 微步在线- ThreatBook",
-    "source": "x.threatbook.com",
-    "url": "https://x.threatbook.com/v5/vulIntelligence",
-    "published_at": "2026-05-23T02:09:04.603Z",
-    "fetched_at": "2026-05-23T02:09:04.603Z",
-    "title_zh": "漏洞 - X情报中心 - 微步在线 - ThreatBook",
-    "summary_zh": "微步在线 X 情报中心提供实时的漏洞情报数据，包括漏洞编号、影响产品、攻击利用状态、在野利用情况、以及关联的恶意样本或攻击团伙信息。平台整合了多方威胁情报源，支持按漏洞类型、严重等级、时间范围进行检索。每条漏洞条目均包含技术细节、PoC 状态和修复建议，帮助安全团队快速掌握漏洞态势并优先处置高风险威胁。适合 SOC 分析师和威胁情报研究人员使用。",
-    "topic": "security"
-  },
-  {
-    "id": "2f4c181196716f555c76ffe02b4db682",
-    "title_en": "漏洞- 安全内参| 决策者的网络安全知识库",
-    "source": "secrss.com",
-    "url": "https://www.secrss.com/articles?tag=%E6%BC%8F%E6%B4%9E",
-    "published_at": "2026-05-23T02:09:04.603Z",
-    "fetched_at": "2026-05-23T02:09:04.603Z",
-    "title_zh": "漏洞 - 安全内参 | 决策者的网络安全知识库",
-    "summary_zh": "本文汇总了近期披露的多个高危安全漏洞，涵盖操作系统、应用软件及网络设备等关键领域。内容深入分析了漏洞的成因、攻击向量及潜在影响，并提供了针对性的缓解措施与补丁建议。对于安全决策者而言，本文是及时掌握威胁态势、制定防御策略的重要参考，强调了漏洞生命周期管理与主动防御的必要性。",
-    "topic": "security"
-  },
-  {
-    "id": "1150407474f5c6315c5788ae4333c8a9",
-    "title_en": "性能调优指南| Red Hat Enterprise Linux | 7",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "性能调优指南 | Red Hat Enterprise Linux 7",
-    "summary_zh": "Red Hat官方出品的RHEL 7性能调优指南，系统介绍内核参数、CPU调度、内存管理、存储I/O及网络子系统的优化方法。涵盖tuned、perf、SystemTap等工具的使用，并提供针对不同工作负载的调优策略。适合需要深入理解Linux性能原理的运维与系统工程师，是进行生产环境性能调优的权威参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "1f4dfcab4b75cf813c3e236b6b7853b3",
-    "title_en": "Linux性能调优指南| PDF - Scribd",
-    "source": "scribd.com",
-    "url": "https://www.scribd.com/document/955065137/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "Linux性能调优指南（PDF）",
-    "summary_zh": "这是一份PDF格式的Linux性能调优指南，系统讲解性能分析的方法论与工具链。内容涵盖基准测试、瓶颈定位、内核调优、应用层优化等，并包含多个实际案例。适合希望系统学习性能调优的运维工程师，可作为理论结合实践的参考手册，帮助建立从监控到优化的完整知识体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "8e906b3995bd287b869f87bb1677a8c7",
-    "title_en": "Kubernetes自动化运维最佳实践 - CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/2609_95049439/article/details/161145049",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "Kubernetes自动化运维最佳实践（CSDN博客）",
-    "summary_zh": "本文分享Kubernetes集群自动化运维的最佳实践，涵盖集群部署、资源管理、自动伸缩、日志监控、故障自愈等关键场景。结合Operator、Helm、Prometheus等工具，讲解如何实现运维流程的标准化与自动化。适合K8s运维工程师参考，帮助提升集群稳定性与运维效率，降低人工干预成本。",
-    "topic": "ops"
-  },
-  {
-    "id": "aa310082c0d9f99c88125115131406c5",
-    "title_en": "生产级别的容器编排系统 - Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "生产级别的容器编排系统——Kubernetes",
-    "summary_zh": "Kubernetes官方文档概述，介绍其作为生产级容器编排系统的核心能力，包括服务发现、负载均衡、自动伸缩、滚动更新、存储编排等。强调其声明式配置与自愈特性，适合用于大规模微服务部署。是运维与开发人员理解K8s架构与设计理念的基础读物，为实际部署与运维提供权威参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "8e255991b65abc095f29c2485ead40a7",
-    "title_en": "如何部署运维K8s？我们整理了3 份Gartner 报告，得到这些建议",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/623130227",
-    "published_at": "2026-05-23T02:09:04.602Z",
-    "fetched_at": "2026-05-23T02:09:04.602Z",
-    "title_zh": "如何部署运维K8s？我们整理了3份Gartner报告，得到这些建议",
-    "summary_zh": "本文基于3份Gartner报告，提炼出Kubernetes部署与运维的关键建议，涵盖集群规划、安全策略、成本控制、工具选型等维度。结合行业趋势与最佳实践，帮助团队避免常见陷阱。适合正在或计划引入K8s的运维与架构团队，提供从战略到落地的参考框架，提升容器化运维的成熟度。",
-    "topic": "ops"
   }
 ]
