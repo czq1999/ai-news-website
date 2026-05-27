@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-27",
-      "summary_zh": "今日GitHub热门项目聚焦AI内容创作与质量提升，涵盖一键短视频生成、代码知识图谱、反AI味文本优化、金融模型及网络安全技能框架，强调实用性与去AI化。",
+      "summary_zh": "今日GitHub热门项目聚焦AI内容创作与优化，涵盖一键短视频生成、代码知识图谱、去除AI痕迹、金融模型及网络安全技能框架，强调实用性与反AI同质化。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/Lum1104/Understand-Anything",
           "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
           "language": "TypeScript",
-          "stars_total": 38767,
+          "stars_total": 39378,
           "stars_today": 4466,
-          "description_zh": "能教学的图表 > 能炫耀的图表。将任意代码转化为可探索、搜索和提问的交互式知识图谱。兼容Claude Code、Codex、Cursor、Copilot、Gemini CLI等工具。"
+          "description_zh": "能教学的图表 > 能炫技的图表。将任何代码转化为可探索、可搜索、可提问的交互式知识图谱。兼容Claude Code、Codex、Cursor、Copilot、Gemini CLI等工具。"
         },
         {
           "rank": 2,
@@ -20,9 +20,9 @@
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
           "language": "Shell",
-          "stars_total": 23558,
+          "stars_total": 23969,
           "stars_today": 2715,
-          "description_zh": "Taste-Skill —— 赋予AI良好审美，阻止其生成无聊、千篇一律的劣质内容"
+          "description_zh": "Taste-Skill —— 为AI赋予良好品味，阻止AI生成无聊、千篇一律的劣质内容"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/DigitalPlatDev/FreeDomain",
           "description_en": "DigitalPlat FreeDomain: Free Domain For Everyone",
           "language": "HTML",
-          "stars_total": 168562,
+          "stars_total": 168935,
           "stars_today": 2223,
-          "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名"
+          "description_zh": "DigitalPlat FreeDomain：人人可用的免费域名"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 195621,
+          "stars_total": 195874,
           "stars_today": 2062,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
+          "description_zh": "智能体工具链性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
         },
         {
           "rank": 5,
@@ -50,7 +50,7 @@
           "url": "https://github.com/harry0703/MoneyPrinterTurbo",
           "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
           "language": "Python",
-          "stars_total": 60828,
+          "stars_total": 61537,
           "stars_today": 1737,
           "description_zh": "利用AI大模型，一键生成高清短视频"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 209083,
+          "stars_total": 209368,
           "stars_today": 1680,
           "description_zh": "一套行之有效的智能体技能框架与软件开发方法论"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/byoungd/English-level-up-tips",
           "description_en": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
           "language": "",
-          "stars_total": 45999,
+          "stars_total": 46331,
           "stars_today": 1133,
           "description_zh": "一份可能让你受益匪浅的英语进阶指南 🎉 。离谱的英语学习指南/英语学习教程/英语学习/学英语"
         },
@@ -80,9 +80,9 @@
           "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
           "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
           "language": "Python",
-          "stars_total": 10666,
+          "stars_total": 10838,
           "stars_today": 885,
-          "description_zh": "为AI智能体提供的754项结构化网络安全技能 · 映射至5个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND及NIST AI RMF · 采用agentskills.io标准 · 兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20+平台 · 覆盖26个安全领域 · Apache 2.0许可"
+          "description_zh": "为AI智能体提供的754项结构化网络安全技能 · 映射至五大框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND及NIST AI RMF · 采用agentskills.io标准 · 兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20余个平台 · 覆盖26个安全领域 · Apache 2.0许可"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/Axorax/awesome-free-apps",
           "description_en": "Curated list of the best free apps for PC and mobile",
           "language": "JavaScript",
-          "stars_total": 5685,
+          "stars_total": 5791,
           "stars_today": 728,
           "description_zh": "精选的PC和移动端最佳免费应用列表"
         },
@@ -100,9 +100,9 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 17057,
+          "stars_total": 17168,
           "stars_today": 695,
-          "description_zh": "主要面向知识工作者在Claude Cowork中使用的开源插件仓库"
+          "description_zh": "主要面向知识工作者在Claude Cowork中使用的开源插件库"
         },
         {
           "rank": 11,
@@ -110,9 +110,9 @@
           "url": "https://github.com/hardikpandya/stop-slop",
           "description_en": "A skill file for removing AI tells from prose",
           "language": "",
-          "stars_total": 5444,
+          "stars_total": 5561,
           "stars_today": 664,
-          "description_zh": "用于去除文本中AI痕迹的技能文件"
+          "description_zh": "用于从文章中去除AI痕迹的技能文件"
         },
         {
           "rank": 12,
@@ -120,49 +120,59 @@
           "url": "https://github.com/twentyhq/twenty",
           "description_en": "The open alternative to Salesforce, designed for AI.",
           "language": "TypeScript",
-          "stars_total": 47151,
+          "stars_total": 47254,
           "stars_today": 520,
-          "description_zh": "专为AI设计的Salesforce开源替代方案"
+          "description_zh": "专为AI设计的Salesforce开源替代品"
         },
         {
           "rank": 13,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 26748,
-          "stars_today": 425,
-          "description_zh": "Kronos：金融市场语言的基础模型"
-        },
-        {
-          "rank": 14,
-          "name": "p-e-w/heretic",
-          "url": "https://github.com/p-e-w/heretic",
-          "description_en": "Fully automatic censorship removal for language models",
-          "language": "Python",
-          "stars_total": 21874,
-          "stars_today": 314,
-          "description_zh": "语言模型的完全自动化审查移除工具"
-        },
-        {
-          "rank": 15,
           "name": "iii-hq/iii",
           "url": "https://github.com/iii-hq/iii",
           "description_en": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
           "language": "Rust",
-          "stars_total": 16664,
-          "stars_today": 244,
-          "description_zh": "首次实现轻松实时编排、扩展和观测每一项服务"
+          "stars_total": 16788,
+          "stars_today": 427,
+          "description_zh": "首次实现轻松实时编排、扩展和监控每一项服务"
+        },
+        {
+          "rank": 14,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 26839,
+          "stars_today": 402,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 15,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description_en": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars_total": 21955,
+          "stars_today": 219,
+          "description_zh": "语言模型的完全自动审查移除工具"
         },
         {
           "rank": 16,
+          "name": "Chachamaru127/claude-code-harness",
+          "url": "https://github.com/Chachamaru127/claude-code-harness",
+          "description_en": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+          "language": "Shell",
+          "stars_total": 1754,
+          "stars_today": 143,
+          "description_zh": "Claude Code专用开发工具链 —— 通过自主规划→执行→审查循环实现高质量开发"
+        },
+        {
+          "rank": 17,
           "name": "moeru-ai/airi",
           "url": "https://github.com/moeru-ai/airi",
           "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
           "language": "TypeScript",
-          "stars_total": 40076,
+          "stars_total": 40169,
           "stars_today": 56,
-          "description_zh": "💖🧸 自托管的、你拥有的Grok伴侣，一个容纳虚拟角色灵魂的容器，将赛博生命带入我们的世界，期望达到Neuro-sama的高度。支持实时语音聊天、Minecraft和Factorio游戏。支持Web/macOS/Windows。"
+          "description_zh": "💖🧸 自托管、你拥有的Grok伴侣，一个装载二次元灵魂的容器，将赛博生命带入我们的世界，旨在达到Neuro-sama的高度。支持实时语音聊天、Minecraft和Factorio游戏。兼容Web/macOS/Windows。"
         }
       ]
     },

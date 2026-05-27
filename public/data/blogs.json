@@ -1,5 +1,71 @@
 [
   {
+    "id": "e1dc65e8ba15943fffe1d8704b2af14f",
+    "title_en": "yangpeng14/DevOps - 个人自动化运维指南 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/yangpeng14/DevOps",
+    "published_at": "2026-05-27T20:02:37.595Z",
+    "fetched_at": "2026-05-27T20:02:37.595Z",
+    "title_zh": "yangpeng14/DevOps - 个人自动化运维指南",
+    "summary_zh": "这是一个开源的DevOps实践指南仓库，涵盖了从基础运维到自动化部署的完整知识体系。内容包括Ansible/SaltStack配置管理、Jenkins CI/CD流水线搭建、Docker Compose多容器编排、以及监控告警系统（Prometheus + Alertmanager）的部署。项目以实际可运行的代码和配置文件为主，附带详细的注释和架构说明。特别适合希望从手动运维转向自动化运维的团队和个人学习参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "348242881f8742faa33c053d2267ccf8",
+    "title_en": "Docker性能优化：让容器跑得更快 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2595679",
+    "published_at": "2026-05-27T20:02:37.595Z",
+    "fetched_at": "2026-05-27T20:02:37.595Z",
+    "title_zh": "Docker性能优化：让容器跑得更快",
+    "summary_zh": "腾讯云出品的Docker性能优化实战文章，重点解决容器化后的性能损耗问题。内容涵盖CPU绑定（--cpuset-cpus）减少上下文切换、内存限制避免OOM、磁盘I/O限制（--device-read-bps）防止资源争抢。网络方面介绍了如何通过--net=host提升吞吐量，以及使用iptables优化端口映射。还分享了腾讯云内部使用的镜像加速方案和容器启动优化技巧。适合在云环境中运行Docker的开发和运维人员。",
+    "topic": "ops"
+  },
+  {
+    "id": "1150407474f5c6315c5788ae4333c8a9",
+    "title_en": "性能调优指南| Red Hat Enterprise Linux | 7",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
+    "published_at": "2026-05-27T20:02:37.594Z",
+    "fetched_at": "2026-05-27T20:02:37.594Z",
+    "title_zh": "性能调优指南 | Red Hat Enterprise Linux 7",
+    "summary_zh": "Red Hat官方出品的RHEL 7性能调优权威指南，内容严谨且系统。文档从性能基准测试方法论讲起，详细介绍了tuned服务（动态调优配置文件）、CPU频率缩放（cpufreq）、内存NUMA亲和性、存储设备队列深度调整等企业级特性。特别针对数据库、Web服务器和虚拟化场景给出了具体的调优配置模板。还包含了性能监控工具（如turbostat、numastat）的使用说明和性能数据解读方法。适合企业级Linux运维和架构师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "c9f3d05ea0d9fcac73e97172caf3291e",
+    "title_en": "Linux运维工程师必须掌握的服务器性能参数指标",
+    "source": "xasun.com",
+    "url": "https://www.xasun.com/article/26/2395.html",
+    "published_at": "2026-05-27T20:02:31.449Z",
+    "fetched_at": "2026-05-27T20:02:31.449Z",
+    "title_zh": "Linux运维工程师必须掌握的服务器性能参数指标",
+    "summary_zh": "本文系统梳理Linux运维工程师必须掌握的服务器性能参数指标，涵盖CPU（负载、使用率、上下文切换）、内存（使用量、交换分区、缓存）、磁盘（IOPS、吞吐量、延迟）、网络（带宽、丢包率、连接数）等核心维度。详细解释各指标的含义、正常阈值与异常排查方法，并结合常用工具（如vmstat、iostat、sar）给出监控命令示例。适合运维人员建立系统的性能监控与调优知识体系。",
+    "topic": "ops"
+  },
+  {
+    "id": "92df8448a85cd13d9af32f6c6682ed9a",
+    "title_en": "Command A+：开源稀疏MoE大模型，支持超长上下文与图文多模态处理 | AI铺子",
+    "source": "aipuzi.cn",
+    "url": "https://www.aipuzi.cn/ai-news/command-a-plus.html",
+    "published_at": "2026-05-27T20:02:31.448Z",
+    "fetched_at": "2026-05-27T20:02:31.448Z",
+    "title_zh": "Command A+：开源稀疏MoE大模型，支持超长上下文与图文多模态处理 | AI铺子",
+    "summary_zh": "本文介绍Command A+，一款基于稀疏混合专家（MoE）架构的开源大模型。其核心特性包括：支持超长上下文窗口（百万token级别），适合文档分析、代码库理解等场景；原生支持图文多模态输入，可处理图像描述、图表理解等任务；MoE架构在保持高性能的同时降低推理成本。文章还提供了模型部署、微调与API调用的实践指南。适合需要高性价比、长上下文或多模态能力的AI开发者与架构师阅读。",
+    "topic": "ai"
+  },
+  {
+    "id": "366fce391d4f8cb854969465cce6b976",
+    "title_en": "大模型应用开发实战：AI Agent与智能体开发技术解析 - 聚客AI学院",
+    "source": "edu.guangjuke.com",
+    "url": "https://edu.guangjuke.com/haowen/234.html",
+    "published_at": "2026-05-27T20:02:31.448Z",
+    "fetched_at": "2026-05-27T20:02:31.449Z",
+    "title_zh": "大模型应用开发实战：AI Agent与智能体开发技术解析",
+    "summary_zh": "本文聚焦大模型驱动的AI Agent开发技术，从Prompt设计、Function Calling到多智能体协作系统，系统解析智能体开发全流程。涵盖工具调用、记忆管理、任务规划与执行等关键模块的实现细节，并结合实际业务场景（如自动化客服、智能文档处理）给出架构建议。适合正在构建企业级Agent应用的开发者，提供可落地的技术方案与性能优化策略。",
+    "topic": "ai"
+  },
+  {
     "id": "1e04ceaacae046664444611fa0d850ae",
     "title_en": "2026 年高危漏洞 TOP10 盘点与修复实战指南 - 信息安全知识库",
     "source": "gm7.org",
@@ -2132,71 +2198,5 @@
     "title_zh": "前言 | AI Agent开发实战",
     "summary_zh": "本文是AI Agent开发实战系列的前言，概述了系列教程的目标、内容结构与学习路径。作者从Agent的基本定义出发，介绍了系列将涵盖的核心主题：Agent架构设计、工具集成、记忆管理、多Agent协作、部署与运维。文章强调了实战导向，承诺提供可运行的代码仓库与逐步指导，适合希望系统掌握AI Agent开发技能的读者作为学习路线图。",
     "topic": "ai"
-  },
-  {
-    "id": "ab44692da05b2d4a4e37b0a487dd4d88",
-    "title_en": "炼石成丹：大语言模型微调实战系列（二）模型微调篇 - AWS",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-two/",
-    "published_at": "2026-05-23T18:59:17.354Z",
-    "fetched_at": "2026-05-23T18:59:17.354Z",
-    "title_zh": "炼石成丹：大语言模型微调实战系列（二）模型微调篇",
-    "summary_zh": "本文是AWS大模型微调实战系列的第二篇，聚焦模型微调的核心技术细节。详细讲解了LoRA、QLoRA、P-Tuning等参数高效微调方法的原理与实现，并对比了全量微调与高效微调在显存占用、训练速度与效果上的差异。文章提供了基于Amazon SageMaker的完整微调代码示例，涵盖数据加载、模型配置、训练参数调优与评估流程，为实际微调任务提供了可复现的工程方案。",
-    "topic": "ai"
-  },
-  {
-    "id": "9c59361058ece8a5cfc3be7f073765dc",
-    "title_en": "万字全景解读大模型微调技术：方法、实践与未来趋势",
-    "source": "woshipm.com",
-    "url": "https://www.woshipm.com/ai/6256219.html",
-    "published_at": "2026-05-23T18:59:17.354Z",
-    "fetched_at": "2026-05-23T18:59:17.354Z",
-    "title_zh": "万字全景解读大模型微调技术：方法、实践与未来趋势",
-    "summary_zh": "本文以万字篇幅全景式解读大模型微调技术，涵盖从传统全量微调到LoRA、QLoRA、Prefix Tuning等参数高效微调方法的原理与对比。深入分析了微调中的数据策略、训练技巧（如学习率调度、梯度累积）、评估指标与部署优化。文章还探讨了微调在垂直领域（医疗、法律、代码）的应用案例，并展望了模型融合、持续学习等未来趋势，为AI从业者提供了全面的技术参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "9b6b026a4e5104155a9debc318b679cd",
-    "title_en": "别让大模型“学废了”！从数据清洗到参数调优，一次讲透微调实战 - 文章 - 开发者社区 - 火山引擎",
-    "source": "developer.volcengine.com",
-    "url": "https://developer.volcengine.com/articles/7604124966660866084",
-    "published_at": "2026-05-23T18:59:17.354Z",
-    "fetched_at": "2026-05-23T18:59:17.354Z",
-    "title_zh": "别让大模型“学废了”！从数据清洗到参数调优，一次讲透微调实战",
-    "summary_zh": "本文深入探讨了大模型微调的全流程实战，重点覆盖数据清洗、参数调优等关键环节。作者结合火山引擎平台，详细阐述了如何避免模型在微调过程中出现“灾难性遗忘”或过拟合问题。文章提供了从数据预处理（去重、噪声过滤、格式标准化）到超参数选择（学习率、批次大小、LoRA rank）的具体策略，并对比了全量微调与参数高效微调（PEFT）的适用场景。对于希望在企业级应用中落地大模型微调的工程师，本文具有很高的参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "6c057d4d791a9a50e05d3a87fcd30fd1",
-    "title_en": "B站首推！2025最新版大模型AI Agent入门到精通实战教程！包含所有 ...",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1SqKHeUEm5/",
-    "published_at": "2026-05-23T18:59:17.353Z",
-    "fetched_at": "2026-05-23T18:59:17.353Z",
-    "title_zh": "B站首推！2025最新版大模型AI Agent入门到精通实战教程",
-    "summary_zh": "本教程系统覆盖AI Agent从基础概念到高级实战的全链路知识，包括Agent架构设计、工具调用、记忆管理、规划与执行循环等核心模块。通过大量代码示例与项目实战，帮助学习者掌握基于大模型构建智能体的完整流程，涵盖LangChain、AutoGPT等主流框架的使用技巧。教程注重工程落地，适合希望快速上手AI Agent开发的初学者及进阶开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "d97dfececf94d231ca8cb0907e6af9f4",
-    "title_en": "Microsoft代理框架概述 | Microsoft Learn",
-    "source": "learn.microsoft.com",
-    "url": "https://learn.microsoft.com/zh-cn/agent-framework/overview/",
-    "published_at": "2026-05-23T18:59:17.353Z",
-    "fetched_at": "2026-05-23T18:59:17.353Z",
-    "title_zh": "Microsoft代理框架概述",
-    "summary_zh": "本文是微软官方对AI Agent框架的概述，介绍了其面向企业级智能体开发的架构设计、核心组件与集成能力。框架支持多Agent协作、工具编排、安全管控与可观测性，并深度整合Azure AI服务与Microsoft 365生态。文章重点阐述了Agent的生命周期管理、事件驱动模型以及与企业系统的无缝对接方案，为开发者提供了构建可靠、可扩展AI Agent的官方技术参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "43ec61c7743b1962485b5be8a251b142",
-    "title_en": "Dirty Frag漏洞深度分析：Linux内核页缓存污染漏洞的技术原理与安全防护 - 技术栈",
-    "source": "jishuzhan.net",
-    "url": "https://jishuzhan.net/article/2057311224295690242",
-    "published_at": "2026-05-23T13:04:28.789Z",
-    "fetched_at": "2026-05-23T13:04:28.789Z",
-    "title_zh": "Dirty Frag漏洞深度分析：Linux内核页缓存污染漏洞的技术原理与安全防护",
-    "summary_zh": "本文对Dirty Frag漏洞进行了深度技术分析，该漏洞是Linux内核中一个严重的页缓存污染漏洞，可导致本地权限提升或系统崩溃。文章详细剖析了漏洞的触发机制，包括页缓存与文件系统交互中的竞态条件，以及如何通过精心构造的读写操作污染内核页缓存。同时给出了防护措施，如应用内核补丁、启用KASLR、配置seccomp等。对内核开发者和系统安全运维人员具有重要参考意义。",
-    "topic": "security"
   }
 ]
