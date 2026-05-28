@@ -1,5 +1,82 @@
 [
   {
+    "id": "1996c6b738d2867803c8b5e16108401e",
+    "title_en": "使用eBPF Linux 安全模块实时修补Linux 内核中的安全漏洞",
+    "source": "blog.cloudflare.com",
+    "url": "https://blog.cloudflare.com/zh-cn/live-patch-security-vulnerabilities-with-ebpf-lsm/",
+    "published_at": "2026-05-28T15:32:02.558Z",
+    "fetched_at": "2026-05-28T15:32:02.558Z",
+    "title_zh": "使用eBPF Linux 安全模块实时修补Linux 内核中的安全漏洞",
+    "summary_zh": "本文由Cloudflare出品，介绍了如何利用eBPF（Extended Berkeley Packet Filter）与LSM（Linux Security Module）框架实时修补Linux内核安全漏洞。文章详细阐述了eBPF在无需重启或重新编译内核的情况下，通过动态注入安全策略来阻断漏洞利用的技术原理。作者以实际漏洞为例，展示了eBPF程序如何拦截恶意系统调用、限制权限提升及监控异常行为。该方案为生产环境提供了低延迟、高灵活性的内核安全加固手段。",
+    "topic": "security"
+  },
+  {
+    "id": "070be02569f49b08dec6afe0f7daec49",
+    "title_en": "系统和内核安全",
+    "source": "source.android.com",
+    "url": "https://source.android.com/docs/security/overview/kernel-security?hl=zh-cn",
+    "published_at": "2026-05-28T15:32:02.558Z",
+    "fetched_at": "2026-05-28T15:32:02.558Z",
+    "title_zh": "系统和内核安全",
+    "summary_zh": "本文来自Android官方文档，系统阐述了Android平台在系统和内核层面的安全架构。内容涵盖Linux内核安全增强（如SELinux强制访问控制、dm-verity完整性校验）、内核自我保护机制（如KASLR、CFI）、以及针对Android特有的安全特性（如AVB、KeyStore、TEE集成）。文章还讨论了内核漏洞缓解技术（如PAN/XN）和用户空间隔离策略。对于Android系统开发者、安全工程师以及移动设备固件维护者，本文提供了权威的技术参考和最佳实践指南。",
+    "topic": "security"
+  },
+  {
+    "id": "7d17afda7a698e7158b1541789430dbe",
+    "title_en": "GitHub - opsre/awesome-ops: 记录每一个与运维相关的优秀项目，⚗️",
+    "source": "github.com",
+    "url": "https://github.com/opsre/awesome-ops",
+    "published_at": "2026-05-28T15:31:59.766Z",
+    "fetched_at": "2026-05-28T15:31:59.766Z",
+    "title_zh": "GitHub - opsre/awesome-ops: 记录每一个与运维相关的优秀项目，⚗️",
+    "summary_zh": "本文推荐了GitHub上的awesome-ops项目，这是一个精心整理的运维相关优秀资源列表。项目涵盖了运维领域的各个方面，包括监控（Prometheus、Grafana、Zabbix）、日志（ELK、Loki）、CI/CD（Jenkins、GitLab CI、ArgoCD）、容器编排（Kubernetes、Docker Swarm）、配置管理（Ansible、Puppet、SaltStack）、自动化（Terraform、Pulumi）、安全（Vault、Trivy）以及网络工具（Cilium、Calico）等。每个分类下都列出了经过社区验证的高质量开源项目，并附有简要说明与GitHub链接。适合运维工程师作为工具选型与学习参考的宝典。",
+    "topic": "ops"
+  },
+  {
+    "id": "ff0e96348a37b921584ebe03c1cf6692",
+    "title_en": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时 - 优质的技术综合教程与网站源码分享 - 阿影博客网",
+    "source": "aybk.cn",
+    "url": "https://www.aybk.cn/post-10197.html",
+    "published_at": "2026-05-28T15:31:31.147Z",
+    "fetched_at": "2026-05-28T15:31:31.147Z",
+    "title_zh": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时 - 优质的技术综合教程与网站源码分享 - 阿影博客网",
+    "summary_zh": "本文汇集了2026年Linux服务器运维的实战优化技巧，旨在提升工作效率、减少重复劳动。内容涵盖自动化脚本编写（Bash/Python）、系统性能快速诊断（利用htop、dstat、bcc等工具）、日志分析与异常检测（结合awk、grep与ELK）、以及常见故障的快速恢复方案。文章还分享了基于systemd的服务自愈配置、内核参数一键优化脚本、以及利用crontab与Ansible实现批量任务管理的经验。每个技巧都配有实际案例与代码，适合希望提升运维效率的工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "1127948da29fe94095dfc58250ca648e",
+    "title_en": "[Linux操作系统]Linux系统服务器管理，基础与实践|linux服务器管理工具,Linux系统 服务器管理,Linux操作系统,云主机博士",
+    "source": "yunzhujiboshi.com",
+    "url": "https://www.yunzhujiboshi.com/2026/05/1632734.html",
+    "published_at": "2026-05-28T15:31:31.147Z",
+    "fetched_at": "2026-05-28T15:31:31.147Z",
+    "title_zh": "Linux操作系统Linux系统服务器管理，基础与实践|linux服务器管理工具,Linux系统 服务器管理,Linux操作系统,云主机博士",
+    "summary_zh": "本文系统介绍Linux服务器管理的基础知识与实践操作，面向运维新手与进阶用户。内容涵盖常用管理工具（如htop、iotop、netstat、ss）、用户与权限管理（ACL、sudoers）、软件包管理（apt/yum/dnf）、进程与服务管理（systemd）、磁盘管理（LVM、RAID）以及网络配置（bonding、bridge）。文章强调命令行实操，提供了大量常用命令的用法详解与场景示例，并介绍了自动化管理工具（如Ansible）的入门使用。适合希望系统掌握Linux服务器管理的读者。",
+    "topic": "ops"
+  },
+  {
+    "id": "2c7d095d76ecd434e29b904436bee366",
+    "title_en": "完整教程：多智能体框架调研：10个主流AI Agent 框架 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/yangykaifa/p/19593416",
+    "published_at": "2026-05-28T15:31:31.146Z",
+    "fetched_at": "2026-05-28T15:31:31.146Z",
+    "title_zh": "完整教程：多智能体框架调研：10个主流AI Agent 框架",
+    "summary_zh": "本文系统调研了10个主流AI Agent框架，包括LangChain、CrewAI、AutoGPT、MetaGPT、ChatDev等，从架构设计、功能特性、易用性、社区活跃度等维度进行对比。重点分析了多智能体协作模式（如角色扮演、任务分解、辩论机制）的实现差异，并给出了不同场景下的选型建议。对于需要构建复杂多Agent系统的开发者，提供了全面的技术参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "8c6f40fa78ef907abd573cbde837e4f1",
+    "title_en": "AI大模型微调企业项目实战课(完结)-云社区-华为云",
+    "source": "bbs.huaweicloud.com",
+    "url": "https://bbs.huaweicloud.com/blogs/477270",
+    "published_at": "2026-05-28T15:31:31.146Z",
+    "fetched_at": "2026-05-28T15:31:31.146Z",
+    "title_zh": "AI大模型微调企业项目实战课(完结)-云社区-华为云",
+    "summary_zh": "本课程为华为云出品的AI大模型微调企业级实战教程，从项目立项到部署上线全流程覆盖。内容聚焦于如何利用华为云ModelArts平台进行高效微调，包括数据准备、模型选择、参数配置、训练监控及模型评估等关键环节。课程结合真实企业案例，深入讲解PEFT（如LoRA、Adapter）等高效微调技术，并探讨了模型压缩、量化部署等生产化问题。适合希望将大模型落地到企业业务中的开发者与架构师。",
+    "topic": "ai"
+  },
+  {
     "id": "69247c64704871a0efb7213c1dbdfa48",
     "title_en": "自动识别CVE受影响的版本与补丁和开发人员日志- 安全内参",
     "source": "secrss.com",
@@ -2120,83 +2197,6 @@
     "fetched_at": "2026-05-24T19:04:14.959Z",
     "title_zh": "datawhalechina/hello-generic-agent：通用智能体入门项目",
     "summary_zh": "这是一个由 Datawhale 社区维护的开源项目，旨在帮助开发者快速入门通用智能体（Agent）的开发。项目提供了从零开始构建 Agent 的完整代码和教程，涵盖了 Agent 的核心组件：感知、规划、记忆和行动。文章详细介绍了如何使用 LangChain 等框架实现工具调用、多轮对话和任务分解。项目还包含了多个实战案例，如自动信息检索和简单工作流自动化，并提供了详细的代码注释和调试指南。对于希望系统学习 Agent 开发的初学者，这是一个理想的起点。",
-    "topic": "ai"
-  },
-  {
-    "id": "3f9e73e4161b1ac64751d2922f5b2311",
-    "title_en": "Annyfee/agent-craft",
-    "source": "github.com",
-    "url": "https://github.com/Annyfee/agent-craft",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "Annyfee/agent-craft：智能体构建工具集",
-    "summary_zh": "Agent-Craft 是一个专注于简化智能体构建流程的开源工具集。本文介绍了该项目的核心功能，包括可视化的 Agent 工作流编辑器、预置的工具库和灵活的插件系统。文章详细演示了如何通过拖拽方式定义 Agent 的行为逻辑，以及如何集成自定义 API 和数据库。项目还提供了性能监控和日志分析模块，帮助开发者快速定位和修复 Agent 运行中的问题。对于希望降低 Agent 开发复杂度、提升开发效率的团队，这是一个值得关注的实用工具。",
-    "topic": "ai"
-  },
-  {
-    "id": "895e307201cdfc83dd52310153f5b39f",
-    "title_en": "OpenAI AgentKit完全指南第1部分：核心概念与入门",
-    "source": "jangwook.net",
-    "url": "https://jangwook.net/zh/blog/zh/openai-agentkit-tutorial-part1/",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "OpenAI AgentKit 完全指南第1部分：核心概念与入门",
-    "summary_zh": "本文是 OpenAI AgentKit 系列教程的第一部分，旨在帮助开发者理解 AgentKit 的核心概念并快速上手。文章详细解释了 AgentKit 中的关键抽象，包括 Agent、Tool、Memory 和 Planner，并通过一个简单的示例展示了如何创建一个能够调用外部 API 的智能助手。文章还对比了 AgentKit 与其他主流 Agent 框架（如 LangChain）的异同，并提供了最佳实践建议。对于希望利用 OpenAI 官方工具构建生产级 Agent 的开发者，这是一份权威的入门指南。",
-    "topic": "ai"
-  },
-  {
-    "id": "b15875d4050dddd03dd85ad0456df041",
-    "title_en": "智能体 - OpenAI Agents SDK",
-    "source": "openai.github.io",
-    "url": "https://openai.github.io/openai-agents-python/zh/agents/",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "智能体 - OpenAI Agents SDK 官方文档",
-    "summary_zh": "本文是 OpenAI Agents SDK 的官方文档，全面介绍了该 SDK 的设计理念、核心 API 和使用方法。文档详细阐述了如何利用 SDK 快速构建、测试和部署智能体，包括对工具注册、上下文管理和错误处理的支持。文章还提供了多个代码示例，展示了如何实现多 Agent 协作、动态任务分配和与外部系统的集成。对于希望基于 OpenAI 模型构建复杂 Agent 应用的开发者，这是一份不可或缺的官方技术参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "f1b558f613d11591f71ea78da2dec55d",
-    "title_en": "docs/guide/%E5%89%8D%E8%A8%80.md at main · datawhalechina/easy-langent",
-    "source": "github.com",
-    "url": "https://github.com/datawhalechina/easy-langent/blob/main/docs/guide/%E5%89%8D%E8%A8%80.md",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "Easy-Langent 指南：Datawhale 社区的大模型 Agent 开发教程",
-    "summary_zh": "Easy-Langent 是 Datawhale 社区推出的一套大模型 Agent 开发教程，旨在降低 Agent 开发的学习门槛。本文是教程的前言部分，概述了项目的目标、内容结构和适用人群。教程将从基础概念讲起，逐步深入到 Agent 的架构设计、工具集成、记忆管理和多 Agent 协作等高级主题。项目提供了丰富的代码示例和实战项目，并鼓励社区贡献和讨论。对于希望系统学习 Agent 开发的学生和开发者，这是一个友好的学习路径。",
-    "topic": "ai"
-  },
-  {
-    "id": "8b1ac9a25dd0b7cd6944b00d47f759ce",
-    "title_en": "大模型Agent开发全攻略：架构拆解+生产级实战+90%开发者踩坑指南-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/qq_44903378/article/details/158929264",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "大模型Agent开发全攻略：架构拆解+生产级实战+90%开发者踩坑指南",
-    "summary_zh": "这是一篇面向中高级开发者的 Agent 开发实战文章，涵盖了从架构设计到生产部署的全流程。文章首先拆解了主流 Agent 架构的核心组件，包括规划器、执行器和记忆模块。随后，通过一个电商客服 Agent 的案例，详细演示了如何实现工具调用、状态管理和异常处理。文章最后总结了90%开发者常犯的错误，如提示词设计不当、工具调用循环和上下文溢出，并提供了相应的解决方案。对于正在构建生产级 Agent 的团队，这是一份宝贵的经验总结。",
-    "topic": "ai"
-  },
-  {
-    "id": "3333058bab96c81bb89dc185517271b3",
-    "title_en": "Callous-0923/agent-study",
-    "source": "github.com",
-    "url": "https://github.com/Callous-0923/agent-study",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "Callous-0923/agent-study：智能体学习笔记与代码实践",
-    "summary_zh": "这是一个个人维护的 Agent 学习项目，包含了作者在学习过程中的笔记、代码示例和实验记录。项目涵盖了从基础的 Agent 概念到高级的强化学习在 Agent 中的应用。文章详细记录了作者在实现 ReAct 模式、使用 LangChain 和 AutoGPT 等框架时的经验与教训。项目还包含了一些有趣的实验，如让 Agent 玩文字游戏和自动生成报告。对于正在自学 Agent 开发的开发者，这是一个可以借鉴和参考的宝贵资源。",
-    "topic": "ai"
-  },
-  {
-    "id": "60d670388b4d1daedf70148d0879b416",
-    "title_en": "didilili/ai-agents-from-zero",
-    "source": "github.com",
-    "url": "https://github.com/didilili/ai-agents-from-zero/",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "didilili/ai-agents-from-zero：从零构建AI智能体实战教程",
-    "summary_zh": "该项目提供了一套从零开始构建AI Agent的完整教程，涵盖Agent核心概念、工具调用、记忆机制与多Agent协作等关键技术。通过手把手代码示例，帮助开发者理解ReAct模式、函数调用与外部工具集成，适合希望快速上手Agent开发的AI工程师。",
     "topic": "ai"
   }
 ]
