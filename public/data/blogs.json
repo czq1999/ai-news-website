@@ -1,5 +1,71 @@
 [
   {
+    "id": "dd39fc7c5c20317110db8e4db5521e27",
+    "title_en": "AI POC 生成器- CVE 漏洞验证代码库",
+    "source": "cve.imfht.com",
+    "url": "https://cve.imfht.com/poc",
+    "published_at": "2026-05-28T20:08:13.634Z",
+    "fetched_at": "2026-05-28T20:08:13.634Z",
+    "title_zh": "AI POC生成器：CVE漏洞验证代码库",
+    "summary_zh": "本文介绍了一个利用AI技术自动生成CVE漏洞验证代码（PoC）的平台。该工具通过分析CVE描述、补丁差异和公开漏洞数据库，使用大语言模型（LLM）生成可运行的Python/Go等语言的PoC脚本。重点讨论了AI生成代码的准确性、安全性（避免生成恶意代码）以及如何结合沙箱环境进行安全测试。适合安全研究员和渗透测试工程师快速验证漏洞。",
+    "topic": "ai"
+  },
+  {
+    "id": "c201ddb974b1ad4aef07c0ad0783aaf3",
+    "title_en": "概述、方法和最佳实践（附天工Skywork-13B微调） - 飞书文档",
+    "source": "docs.feishu.cn",
+    "url": "https://docs.feishu.cn/article/wiki/TNUAw3AMtiToCnkVgL5cVR8anyh",
+    "published_at": "2026-05-28T20:08:10.264Z",
+    "fetched_at": "2026-05-28T20:08:10.264Z",
+    "title_zh": "概述、方法和最佳实践（附天工Skywork-13B微调）",
+    "summary_zh": "本文以天工Skywork-13B模型为例，系统介绍了大模型微调的概述、主流方法（如LoRA、P-Tuning）及最佳实践。内容涵盖微调数据构建、训练参数配置、模型评估与部署，并提供了完整的代码示例与实验对比。适合希望快速掌握大模型微调实操技巧、提升模型在特定任务上性能的开发者。",
+    "topic": "ai"
+  },
+  {
+    "id": "e9a1824cf5b4e4e004c52db21f39fd74",
+    "title_en": "Linux系统管理实战：服务器配置与运维技巧 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/shejizuopin/article/details/146472468",
+    "published_at": "2026-05-28T20:08:10.264Z",
+    "fetched_at": "2026-05-28T20:08:10.264Z",
+    "title_zh": "Linux系统管理实战：服务器配置与运维技巧",
+    "summary_zh": "本文聚焦Linux系统管理的实战技巧，涵盖服务器初始化配置、常用服务部署（Nginx、MySQL等）、日志管理、性能监控与故障排查。作者结合多年运维经验，分享了大量实用命令与脚本，并针对常见问题给出了高效解决方案。适合日常从事Linux服务器维护的运维工程师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "d5af3fb85ca98b70b5b0877eb9fc97f9",
+    "title_en": "比剧透提前！Anthropic发布Claude Opus 4.8：更“诚实”、可调思考强度、新功能协调数百智能体|调用|编程|工作流|大模型|agent|anthropic_网易订阅",
+    "source": "163.com",
+    "url": "https://www.163.com/dy/article/KU2FOJ0305198NMR.html?clickfrom=w_tech",
+    "published_at": "2026-05-28T20:08:10.263Z",
+    "fetched_at": "2026-05-28T20:08:10.263Z",
+    "title_zh": "比剧透提前！Anthropic发布Claude Opus 4.8：更“诚实”、可调思考强度、新功能协调数百智能体",
+    "summary_zh": "文章详细介绍了Anthropic最新发布的Claude Opus 4.8模型，核心亮点包括：更强的“诚实性”（减少幻觉）、可调节的思考强度（平衡速度与深度）、以及支持协调数百个智能体协同工作的新功能。对于AI应用开发者，这些特性意味着更可靠的基础模型和更灵活的Agent编排能力，是构建复杂AI系统的关键更新。",
+    "topic": "ai"
+  },
+  {
+    "id": "21ea51c7c84bcc7aa478c1654fdff7f9",
+    "title_en": "AgentGuide - AI Agent 开发学习指南 - 阿东玩AI",
+    "source": "adongwanai.github.io",
+    "url": "https://adongwanai.github.io/AgentGuide/",
+    "published_at": "2026-05-28T20:08:10.263Z",
+    "fetched_at": "2026-05-28T20:08:10.263Z",
+    "title_zh": "AgentGuide - AI Agent 开发学习指南",
+    "summary_zh": "这是一份系统化的AI Agent开发学习路线图，覆盖从基础概念（如ReAct模式、工具调用）到高级主题（如多Agent协作、记忆持久化、安全控制）的全链路知识。指南推荐了关键的学习资源、开源框架和实战项目，并提供了常见问题的解决方案。对于计划系统学习Agent开发的工程师，是一份结构清晰、内容全面的自学手册。",
+    "topic": "ai"
+  },
+  {
+    "id": "60d670388b4d1daedf70148d0879b416",
+    "title_en": "didilili/ai-agents-from-zero",
+    "source": "github.com",
+    "url": "https://github.com/didilili/ai-agents-from-zero/",
+    "published_at": "2026-05-28T20:08:10.263Z",
+    "fetched_at": "2026-05-28T20:08:10.263Z",
+    "title_zh": "didilili/ai-agents-from-zero",
+    "summary_zh": "这是一个GitHub开源项目，旨在从零开始构建AI Agent，提供完整的代码实现与教程。项目覆盖Agent基础架构、工具调用、记忆模块、多Agent协作等核心功能，并配有详细的文档与示例。适合希望深入理解Agent内部机制、动手实践并贡献代码的开发者，是学习AI Agent工程实现的优质资源。",
+    "topic": "ai"
+  },
+  {
     "id": "1996c6b738d2867803c8b5e16108401e",
     "title_en": "使用eBPF Linux 安全模块实时修补Linux 内核中的安全漏洞",
     "source": "blog.cloudflare.com",
@@ -2131,72 +2197,6 @@
     "fetched_at": "2026-05-24T19:04:14.959Z",
     "title_zh": "Claude Mythos 核心架构开源，22岁天才一人破解，融合DeepSeek思路",
     "summary_zh": "一位22岁的独立研究者成功逆向并开源了 Claude 系列模型的核心架构 Mythos，并创造性地融合了 DeepSeek 的稀疏注意力与 MoE 优化思路。文章详细拆解了 Mythos 架构中的关键组件，包括其独特的层级间信息传递机制和高效的参数共享策略。作者还对比了该架构与主流 Transformer 变体的异同，并提供了在有限算力下复现和微调该模型的实践指南。这一开源成果不仅降低了前沿模型架构的研究门槛，也为社区提供了全新的优化方向。",
-    "topic": "ai"
-  },
-  {
-    "id": "18229decf622652a9162e3396de1e501",
-    "title_en": "何恺明首个语言模型：105M参数，不走GPT自回归老路-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3807012110441987",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
-    "summary_zh": "计算机视觉领域权威何恺明发布了其首个语言模型，该模型仅有1.05亿参数，却摒弃了 GPT 系列的自回归生成范式。本文深入解析了该模型采用的创新架构，重点介绍了其非自回归的并行解码机制和全新的训练目标函数。文章通过实验数据展示了该模型在文本生成速度、推理效率以及特定任务上的表现，并讨论了这种架构在降低推理延迟和硬件需求方面的巨大潜力。对于探索大模型轻量化和高效推理路径的研究者，这是一篇不可多得的技术分析。",
-    "topic": "ai"
-  },
-  {
-    "id": "f7c7b15856b6aa0e024911d85fafbcfa",
-    "title_en": "AI 圈又要炸了？GPT-5.6、Claude Sonnet 4.8 或在 6 月发布|gpt|工作流|claude|openai_网易订阅",
-    "source": "163.com",
-    "url": "https://www.163.com/dy/article/KTMQ31T30511D6RL.html",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "AI圈又要炸了？GPT-5.6、Claude Sonnet 4.8 或在6月发布",
-    "summary_zh": "据多方消息源透露，OpenAI 和 Anthropic 可能将于今年6月分别发布 GPT-5.6 和 Claude Sonnet 4.8 两个重大版本更新。本文汇总了目前泄露的技术细节和性能预期，包括 GPT-5.6 在长上下文窗口和多模态融合上的改进，以及 Claude Sonnet 4.8 在代码生成和复杂工作流编排上的突破。文章还分析了这两款模型可能带来的行业影响，以及对现有 AI 应用生态的冲击。对于关注前沿模型动态和规划技术选型的开发者，这是一份及时的预测与解读。",
-    "topic": "ai"
-  },
-  {
-    "id": "0425cc13357c6d690ed45e40c443cda1",
-    "title_en": "伯克利神作背刺OpenAI：持续学习才是真神-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3815882289192713",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "伯克利神作背刺OpenAI：持续学习才是真神",
-    "summary_zh": "加州大学伯克利分校的一项最新研究对当前主流的大模型训练范式提出了挑战，认为持续学习（Continual Learning）才是实现通用人工智能的关键。文章详细介绍了该研究提出的新型持续学习框架，该框架允许模型在不遗忘旧知识的前提下，高效地吸收新数据和新任务。作者通过对比实验，展示了该框架在避免灾难性遗忘、提升模型适应性和降低训练成本方面的显著优势。这一成果为打破 OpenAI 等公司主导的“一次训练、永久使用”模式提供了理论依据和实践路径。",
-    "topic": "ai"
-  },
-  {
-    "id": "6cc3aea042997c8171b1e1bf3696eeca",
-    "title_en": "OpenAI祭出GPT-5.4神装，Codex同款Harness全面开放-36氪",
-    "source": "36kr.com",
-    "url": "https://www.36kr.com/p/3769362731467272",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "OpenAI祭出GPT-5.4神装，Codex同款Harness全面开放",
-    "summary_zh": "OpenAI 发布了 GPT-5.4 版本，并同步开放了此前仅用于 Codex 的 Harness 评估框架。本文深入解读了 GPT-5.4 在代码生成、数学推理和多步骤任务上的性能提升，重点分析了 Harness 框架的设计理念和核心功能。文章详细介绍了如何利用 Harness 对自定义模型进行标准化评估，包括测试用例的编写、性能指标的采集以及结果的可视化。对于从事 AI 模型评测、代码智能和 Agent 开发的工程师，这是一份极具操作性的技术指南。",
-    "topic": "ai"
-  },
-  {
-    "id": "ef779f453d24302d87f7860478af8244",
-    "title_en": "Mini-Agent：构建您的第一个智能助手 - MiniMax 开放平台文档中心",
-    "source": "platform.minimaxi.com",
-    "url": "https://platform.minimaxi.com/docs/solutions/mini-agent",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "Mini-Agent：构建您的第一个智能助手 - MiniMax 开放平台文档中心",
-    "summary_zh": "本文是 MiniMax 开放平台提供的 Mini-Agent 构建指南，面向希望快速上手智能体开发的开发者。文章从零开始，详细讲解了 Agent 的核心概念，包括工具调用、记忆管理和任务规划。通过一个具体的案例，逐步演示了如何利用 MiniMax 的 API 和 SDK 搭建一个能够执行多步骤任务的智能助手。文章还涵盖了常见的调试技巧和性能优化建议，帮助开发者避免在 Agent 开发中常见的陷阱。这是一份非常适合入门 Agent 开发的实战教程。",
-    "topic": "ai"
-  },
-  {
-    "id": "877d8ac049d9e96e7b2af637a1c8aa43",
-    "title_en": "datawhalechina/hello-generic-agent",
-    "source": "github.com",
-    "url": "https://github.com/datawhalechina/hello-generic-agent",
-    "published_at": "2026-05-24T19:04:14.959Z",
-    "fetched_at": "2026-05-24T19:04:14.959Z",
-    "title_zh": "datawhalechina/hello-generic-agent：通用智能体入门项目",
-    "summary_zh": "这是一个由 Datawhale 社区维护的开源项目，旨在帮助开发者快速入门通用智能体（Agent）的开发。项目提供了从零开始构建 Agent 的完整代码和教程，涵盖了 Agent 的核心组件：感知、规划、记忆和行动。文章详细介绍了如何使用 LangChain 等框架实现工具调用、多轮对话和任务分解。项目还包含了多个实战案例，如自动信息检索和简单工作流自动化，并提供了详细的代码注释和调试指南。对于希望系统学习 Agent 开发的初学者，这是一个理想的起点。",
     "topic": "ai"
   }
 ]
