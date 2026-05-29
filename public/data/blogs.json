@@ -1,5 +1,60 @@
 [
   {
+    "id": "7c496baaa30bf2d3071a1a759fe93cdc",
+    "title_en": "Linux系统安全加固指南（万字长文）-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/1984407",
+    "published_at": "2026-05-29T14:42:26.501Z",
+    "fetched_at": "2026-05-29T14:42:26.501Z",
+    "title_zh": "Linux系统安全加固指南（万字长文）",
+    "summary_zh": "腾讯云开发者社区发布的万字长文，全面覆盖Linux系统安全加固的各个维度：从账户与密码策略、SSH安全配置、防火墙规则、SELinux/AppArmor强制访问控制，到文件完整性校验、入侵检测与日志审计。文章结合实战案例与工具推荐（如Lynis、Fail2ban），提供从入门到精通的系统化安全加固方案，适合云原生环境下的主机安全建设。",
+    "topic": "security"
+  },
+  {
+    "id": "53f83dd5801494441565a5f37b5d7dbb",
+    "title_en": "GitHub - datawhalechina/hello-agents: 《从零开始构建智能体》",
+    "source": "github.com",
+    "url": "https://github.com/datawhalechina/Hello-Agents",
+    "published_at": "2026-05-29T14:42:22.287Z",
+    "fetched_at": "2026-05-29T14:42:22.287Z",
+    "title_zh": "GitHub - datawhalechina/hello-agents: 《从零开始构建智能体》",
+    "summary_zh": "Datawhale社区开源项目《从零开始构建智能体》提供了一套完整的AI Agent学习与开发教程。项目从基础概念讲起，逐步深入到Agent的规划、记忆、工具使用和多Agent协作等高级主题。每个章节都配有可运行的代码示例和实验，适合自学和团队培训。该项目是入门AI Agent开发的优质开源资源。",
+    "topic": "ai"
+  },
+  {
+    "id": "bad0dac841a4d3c88df62689a7a5b459",
+    "title_en": "AIGeniusInstitute/AI-Agent-In-Action: AI Agent 开发实战 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/AIGeniusInstitute/AI-Agent-In-Action",
+    "published_at": "2026-05-29T14:42:22.287Z",
+    "fetched_at": "2026-05-29T14:42:22.287Z",
+    "title_zh": "AIGeniusInstitute/AI-Agent-In-Action：AI Agent 开发实战 - GitHub",
+    "summary_zh": "本文深入剖析了AI Agent的开发全流程，从基础概念到实际编码，涵盖Agent架构设计、工具调用、记忆管理及多Agent协作等关键技术点。通过GitHub开源项目，读者可获取完整代码示例与最佳实践，快速上手构建具备自主决策能力的智能体。内容聚焦工程落地，适合希望从理论转向实战的AI开发者。",
+    "topic": "ai"
+  },
+  {
+    "id": "587850ad8cbd85fad8ba4dcb62d438d0",
+    "title_en": "AI大模型微调企业项目实战：从通用智能到业务专家的工程化之路-腾讯云开发者社区-腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2665899",
+    "published_at": "2026-05-29T14:42:22.287Z",
+    "fetched_at": "2026-05-29T14:42:22.287Z",
+    "title_zh": "AI大模型微调企业项目实战：从通用智能到业务专家的工程化之路 - 腾讯云开发者社区",
+    "summary_zh": "本文从企业级视角出发，系统阐述了将通用大模型微调为业务专家的工程化方法论。涵盖数据清洗、模型选型、分布式训练、评估与部署等关键环节，并分享了腾讯云在真实项目中的踩坑与优化经验。强调微调并非简单调参，而是需要结合业务场景设计训练策略，最终实现模型在特定领域的精准落地与持续迭代。",
+    "topic": "ai"
+  },
+  {
+    "id": "a8e24f39d6d53027e1cf33c01fde7fe1",
+    "title_en": "突破256K超长上下文瓶颈，快手Keye-VL-2.0刷新多模态推理能力边界-砍柴网",
+    "source": "ikanchai.com",
+    "url": "https://www.ikanchai.com/article/20260528/658601.shtml",
+    "published_at": "2026-05-29T14:42:22.286Z",
+    "fetched_at": "2026-05-29T14:42:22.286Z",
+    "title_zh": "突破256K超长上下文瓶颈，快手Keye-VL-2.0刷新多模态推理能力边界",
+    "summary_zh": "本文介绍了快手Keye-VL-2.0模型在超长上下文处理上的技术突破，成功支持256K token的输入。文章深入解析了其背后的架构创新，包括高效的注意力机制优化、位置编码改进以及多模态对齐策略。该模型在视频理解、长文档问答等任务上展现了显著优势，为多模态大模型在工业场景的应用提供了新的技术路径。",
+    "topic": "ai"
+  },
+  {
     "id": "6d495c60d474e9a4f87a3f6fb7acdfd0",
     "title_en": "Linux系统自动化运维（Python版）（微课版）.pdf-张莉，丁传炜-2024年版-人民邮电出版社-电子书在线阅读、下载-原创力文档",
     "source": "max.book118.com",
@@ -2143,60 +2198,5 @@
     "title_zh": "Docker镜像优化实用指南",
     "summary_zh": "本文来自腾讯云开发者社区，提供了Docker镜像优化的实用指南，旨在减小镜像体积、提升构建速度和安全性。内容涵盖多阶段构建（multi-stage builds）、选择轻量级基础镜像（如Alpine）、合理利用.dockerignore文件、减少镜像层数（合并RUN指令）、以及使用缓存机制加速构建。文章还介绍了如何通过docker-slim、dive等工具分析镜像内容并进一步瘦身，以及如何扫描镜像漏洞（Trivy、Clair）。优化后的镜像不仅节省存储和带宽，还能降低攻击面。",
     "topic": "ops"
-  },
-  {
-    "id": "e5768edf5fb219264f3565e9d95393b6",
-    "title_en": "Docker资源限制完全指南：防止容器内存泄漏拖垮服务器 · 比邻",
-    "source": "eastondev.com",
-    "url": "https://eastondev.com/blog/zh/posts/dev/20251218-docker-resource-limits-guide/",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Docker资源限制完全指南：防止容器内存泄漏拖垮服务器",
-    "summary_zh": "本文系统性地介绍了Docker容器的资源限制机制，涵盖CPU、内存、磁盘I/O和网络带宽的配额设置。重点分析了如何通过cgroups和内核参数防止单个容器因内存泄漏耗尽宿主机资源，导致OOM Killer误杀其他进程。文章提供了实用的docker run和docker-compose配置示例，以及监控和告警的最佳实践，帮助运维人员构建高可用的容器化基础设施。",
-    "topic": "ops"
-  },
-  {
-    "id": "63587a851f159fd3c9e9108f55e7fdac",
-    "title_en": "Docker 进阶指南：从入门能用，到生产环境稳、快、安全的核心实践与底层原理-腾讯云开发者社区-腾讯云",
-    "source": "developer.cloud.tencent.com",
-    "url": "https://developer.cloud.tencent.com/article/2631058",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Docker进阶指南：从入门到生产环境稳、快、安全的核心实践与底层原理",
-    "summary_zh": "本文深入探讨了Docker在生产环境中的进阶实践，包括镜像分层优化、多阶段构建、网络模式选择（bridge/overlay/macvlan）、存储驱动对比（overlay2 vs devicemapper）以及安全配置（Seccomp、AppArmor、用户命名空间）。结合底层Linux内核特性（命名空间、cgroups、UnionFS）解释了Docker如何实现资源隔离与高效运行，并给出了性能调优和故障排查的实战建议。",
-    "topic": "ops"
-  },
-  {
-    "id": "6d91c2f0df743e82b0154bdccb72dcac",
-    "title_en": "后端 - Docker 性能调优 - 个人文章 - SegmentFault 思否",
-    "source": "segmentfault.com",
-    "url": "https://segmentfault.com/a/1190000047429950",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Docker性能调优",
-    "summary_zh": "本文聚焦Docker容器的性能调优策略，从CPU绑定（cpuset）、内存限制、磁盘I/O优先级（blkio）到网络优化（调整MTU、使用host模式或macvlan）。分析了常见性能瓶颈如日志驱动选择（json-file vs journald）、镜像层数过多导致的构建缓慢，以及容器内时钟漂移问题。提供了基于perf和strace的调试方法，帮助开发者定位并消除容器化应用中的性能损耗。",
-    "topic": "ops"
-  },
-  {
-    "id": "78a15441441a31119aeb3c50743faac4",
-    "title_en": "【DevOps】Docker 最佳实践指南（绝对干货）-阿里云开发者社区",
-    "source": "developer.aliyun.com",
-    "url": "https://developer.aliyun.com/article/1511292",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "DevOps Docker最佳实践指南",
-    "summary_zh": "本文总结了Docker在DevOps流程中的最佳实践，涵盖Dockerfile编写规范（减少层数、利用构建缓存、使用非root用户）、镜像安全扫描（Trivy、Clair）、CI/CD集成（GitLab CI、Jenkins）以及容器编排（Docker Compose与Swarm）。重点介绍了如何通过健康检查、资源限制和日志管理实现生产级稳定性，并给出了多环境配置管理和镜像版本控制的实用建议。",
-    "topic": "ops"
-  },
-  {
-    "id": "f1d69edea145d3d48c5f796b622e2b6e",
-    "title_en": "等保2.0三级安全基线全栈落地指南：CentOS/麒麟/UOS 多系统适配（保姆式脚本版） - 刘子毅 - 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/liuziyi1/p/19709844",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "等保2.0三级安全基线全栈落地指南：CentOS/麒麟/UOS多系统适配（保姆式脚本版）",
-    "summary_zh": "本文提供了等保2.0三级安全基线的全栈落地实施方案，覆盖CentOS、麒麟和UOS三种操作系统。包含自动化脚本实现账户管理、口令策略、审计配置、文件权限、内核参数加固（sysctl）、服务最小化等核心要求。详细解释了每项配置的安全原理和合规依据，并提供了兼容性适配和回滚机制，适合政企单位快速通过等保测评。",
-    "topic": "security"
   }
 ]
