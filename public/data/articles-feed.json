@@ -1,5 +1,82 @@
 [
   {
+    "id": "d439028cd7d3cfe6d2455397052b1a5d",
+    "title_en": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "published_at": "2026-05-29T00:44:37.000Z",
+    "fetched_at": "2026-05-29T02:14:32.268Z",
+    "title_zh": "Glean营收突破3亿美元，AI预算削减成其核心卖点",
+    "summary_zh": "企业AI搜索初创公司Glean宣布年经常性收入突破3亿美元，其核心卖点转向帮助企业削减AI开支。Glean通过优化AI模型调用、减少冗余计算，为客户节省大量成本。这一策略在AI投资回报率备受关注的当下，成功吸引了大批企业客户，推动其营收快速增长。",
+    "category": "industry"
+  },
+  {
+    "id": "5d1dc02295528f01e8c08f8409a7d82a",
+    "title_en": "The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/",
+    "published_at": "2026-05-28T23:49:53.000Z",
+    "fetched_at": "2026-05-29T02:14:32.465Z",
+    "title_zh": "共和党对 James Talarico 的攻击，完全照搬“非自愿独身者”手册",
+    "summary_zh": "Wired 评论文章指出，共和党针对民主党议员 James Talarico 的抨击策略，与网络“非自愿独身者”（incel）群体的典型话术高度相似。文章分析了这种攻击模式如何利用性别偏见和人身攻击，试图削弱政治对手的公信力，并呼吁公众警惕此类低劣的舆论手段。",
+    "category": "industry"
+  },
+  {
+    "id": "2e7bbcca2daf334fb2015b24e6a8897c",
+    "title_en": "The internet is being rebuilt for machines",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "published_at": "2026-05-28T21:24:01.000Z",
+    "fetched_at": "2026-05-29T02:14:32.268Z",
+    "title_zh": "互联网正在被机器重建",
+    "summary_zh": "随着AI代理和自动化工具普及，互联网正从面向人类设计转向为机器优化。网站结构、API接口和数据格式都在适应AI抓取和交互需求。这一趋势将重塑网络生态，但也引发了对隐私、安全和人类体验的担忧。专家呼吁在机器效率与用户权益间寻求平衡。",
+    "category": "industry"
+  },
+  {
+    "id": "5d69b81d2d4c599051382a24aa2a7126",
+    "title_en": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "published_at": "2026-05-28T20:29:53.000Z",
+    "fetched_at": "2026-05-29T02:14:32.403Z",
+    "title_zh": "受够“氛围编程”开发者，程序员在代码中植入数据清除提示注入",
+    "summary_zh": "一名开发者因不满“氛围编程”（vibe coding）风气，故意在开源代码中植入恶意提示注入，一旦被AI编码工具调用，将触发数据清除操作。这一极端行为引发争议，暴露了AI辅助编程的安全隐患，也反映了传统开发者对过度依赖AI生成代码的担忧。",
+    "category": "research"
+  },
+  {
+    "id": "bdb73c66b796085dcfa589e5539ec419",
+    "title_en": "Nintendo&#8217;s newest WarioWare is a weirdo smartphone app",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
+    "published_at": "2026-05-28T20:16:16.000Z",
+    "fetched_at": "2026-05-29T02:14:32.344Z",
+    "title_zh": "任天堂新作《瓦力欧制造》竟是一款古怪的智能手机应用",
+    "summary_zh": "任天堂出人意料地发布了一款《瓦力欧制造》系列新作，但这次不是游戏机平台，而是一款智能手机应用。该应用延续了系列无厘头、快节奏的小游戏风格，并针对触屏操作进行了优化。这一跨界尝试标志着任天堂在移动端布局的进一步拓展。",
+    "category": "product"
+  },
+  {
+    "id": "b68701c5ea779f41a04b8bcf7f7b7f8b",
+    "title_en": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+    "published_at": "2026-05-28T20:14:07.000Z",
+    "fetched_at": "2026-05-29T02:14:32.344Z",
+    "title_zh": "Microsoft 365 Copilot迎来速度提升与界面精简",
+    "summary_zh": "微软宣布对Microsoft 365 Copilot进行重大更新，显著提升了响应速度，并采用了更简洁的界面设计。新版本减少了操作步骤，优化了AI建议的呈现方式，使用户能更高效地完成文档编辑、数据分析等任务。此举旨在提升用户体验，巩固其在AI办公领域的领先地位。",
+    "category": "product"
+  },
+  {
+    "id": "5eb4b25cf69e16b59a62855fc91aa0ab",
+    "title_en": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle ",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
+    "published_at": "2026-05-28T20:10:09.000Z",
+    "fetched_at": "2026-05-29T02:14:32.344Z",
+    "title_zh": "亚马逊上一代Paperwhite降价促销，价格低于入门款Kindle",
+    "summary_zh": "亚马逊将上一代Kindle Paperwhite进行大幅降价促销，使其售价甚至低于当前入门款Kindle。这款Paperwhite拥有更高分辨率屏幕和防水功能，性价比极高。此举可能是为了清库存，为新款设备让路，同时也给消费者提供了难得的入手良机。",
+    "category": "product"
+  },
+  {
     "id": "b18cb69c081cec71e69dec09413aabc1",
     "title_en": "Asana acquires no-code agent-builder Stack AI",
     "source": "TechCrunch AI",
@@ -669,6 +746,116 @@
     "title_zh": "Altra Running 2026年6月促销码",
     "summary_zh": "跑鞋品牌Altra Running发布2026年6月促销码，用户可享指定商品折扣。Altra以零落差鞋底和宽鞋头设计著称，适合自然跑步姿势。此次促销涵盖多款越野跑鞋和路跑鞋，跑者可通过输入优惠码在官网或合作渠道享受优惠，建议关注最新款式和尺码。",
     "category": "product"
+  },
+  {
+    "id": "63edcdec340486842d88dcd51f14e99a",
+    "title_en": "7/21/26: FREE: SF’s “Laugh GPT” AI-Powered Comedy Night (The Function) - FREE",
+    "source": "Funcheap.com",
+    "url": "https://sf.funcheap.com/free-sfs-laugh-gpt-ai-powered-comedy-night-the-function-15/",
+    "published_at": "2026-05-28T02:13:47Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "7/21/26 免费：旧金山“笑谈GPT”AI喜剧之夜（The Function）",
+    "summary_zh": "旧金山将于2026年7月21日举办一场名为“笑谈GPT”的免费AI喜剧之夜活动。该活动由The Function组织，利用人工智能技术生成喜剧内容，为观众带来独特的幽默体验。无需门票，免费入场，适合对AI与娱乐结合感兴趣的科技爱好者。",
+    "category": "product"
+  },
+  {
+    "id": "7e09beb6469d95ac700bf89842f3cc62",
+    "title_en": "7/14/26: FREE: SF’s “Laugh GPT” AI-Powered Comedy Night (The Function) - FREE",
+    "source": "Funcheap.com",
+    "url": "https://sf.funcheap.com/free-sfs-laugh-gpt-ai-powered-comedy-night-the-function-14/",
+    "published_at": "2026-05-28T02:13:45Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "7/14/26 免费：旧金山“笑谈GPT”AI喜剧之夜（The Function）",
+    "summary_zh": "2026年7月14日，旧金山将再次举办免费AI喜剧之夜“笑谈GPT”。活动由The Function主办，通过AI驱动生成笑料，探索人工智能在喜剧创作中的应用。免费开放，适合科技与喜剧爱好者体验前沿娱乐形式。",
+    "category": "product"
+  },
+  {
+    "id": "32ddbf461eec6e94647b1927039911d3",
+    "title_en": "7/7/26: FREE: SF’s “Laugh GPT” AI-Powered Comedy Night (The Function) - FREE",
+    "source": "Funcheap.com",
+    "url": "https://sf.funcheap.com/free-sfs-laugh-gpt-ai-powered-comedy-night-the-function-13/",
+    "published_at": "2026-05-28T02:13:43Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "7/7/26 免费：旧金山“笑谈GPT”AI喜剧之夜（The Function）",
+    "summary_zh": "2026年7月7日，旧金山“笑谈GPT”AI喜剧之夜免费开放。该活动由The Function策划，利用AI模型生成喜剧段子，展示人工智能在创意领域的潜力。无需费用，欢迎科技爱好者参与。",
+    "category": "product"
+  },
+  {
+    "id": "5a70dd48252be185142c78007ff34712",
+    "title_en": "6/30/26: FREE: SF’s “Laugh GPT” AI-Powered Comedy Night (The Function) - FREE",
+    "source": "Funcheap.com",
+    "url": "https://sf.funcheap.com/free-sfs-laugh-gpt-ai-powered-comedy-night-the-function-12/",
+    "published_at": "2026-05-28T02:13:41Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "6/30/26 免费：旧金山“笑谈GPT”AI喜剧之夜（The Function）",
+    "summary_zh": "2026年6月30日，旧金山将举办免费AI喜剧之夜“笑谈GPT”。活动由The Function组织，以AI技术为核心创作喜剧内容，为观众呈现人机协作的幽默表演。免费入场，适合对AI应用感兴趣的观众。",
+    "category": "product"
+  },
+  {
+    "id": "1d7a80dcab89f33b63cfe7dfc2997d47",
+    "title_en": "6/23/26: FREE: SF’s “Laugh GPT” AI-Powered Comedy Night (The Function) - FREE",
+    "source": "Funcheap.com",
+    "url": "https://sf.funcheap.com/free-sfs-laugh-gpt-ai-powered-comedy-night-the-function-11/",
+    "published_at": "2026-05-28T02:13:38Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "6/23/26 免费：旧金山“笑谈GPT”AI喜剧之夜（The Function）",
+    "summary_zh": "2026年6月23日，旧金山“笑谈GPT”AI喜剧之夜免费举行。该活动由The Function主办，借助AI生成喜剧内容，探索人工智能在娱乐领域的创新应用。免费开放，科技爱好者不容错过。",
+    "category": "product"
+  },
+  {
+    "id": "2b3ba833ac98c2dc09b5f29e32bc9693",
+    "title_en": "Steven Spielberg Says He Is ‘Withholding Judgment’ on AI, But Refuses to ‘Substitute’ Humanity | Video",
+    "source": "TheWrap",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/steven-spielberg-withholding-judgment-on-ai-video/",
+    "published_at": "2026-05-28T02:01:09Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "史蒂文·斯皮尔伯格谈AI：暂不评判，但拒绝“取代”人性 | 视频",
+    "summary_zh": "著名导演史蒂文·斯皮尔伯格在最新采访中表示，对人工智能持“保留判断”态度，但强调不能以AI“替代”人类本质。他认为AI是工具而非人性的替代品，呼吁在技术发展中保持人文关怀。该言论引发业界对AI伦理的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "a5e567f5df75278ab42b7630cb36fc94",
+    "title_en": "United Texas Bank Becomes Nationally Chartered to Serve Crypto Industry",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/cryptocurrency/2026/united-texas-bank-becomes-nationally-chartered-to-serve-crypto-industry/",
+    "published_at": "2026-05-28T01:59:10Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "联合德克萨斯银行获国家特许，服务加密行业",
+    "summary_zh": "联合德克萨斯银行（United Texas Bank）获得国家银行特许，正式成为服务加密货币行业的持牌银行。此举标志着传统金融与加密领域的进一步融合，为数字资产企业提供合规银行服务，推动行业规范化发展。",
+    "category": "industry"
+  },
+  {
+    "id": "7fd931302d6a9e2777861e0a501ba26c",
+    "title_en": "Moniepoint invests N3bn in university innovation hubs",
+    "source": "The Punch",
+    "url": "https://punchng.com/moniepoint-invests-n3bn-in-university-innovation-hubs/",
+    "published_at": "2026-05-28T01:50:40Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "Moniepoint投资30亿奈拉建设大学创新中心",
+    "summary_zh": "尼日利亚金融科技公司Moniepoint宣布投资30亿奈拉（约合人民币2600万元），在高校建设创新中心。该举措旨在培养科技人才，推动金融科技与人工智能领域的研究，助力非洲数字经济发展。",
+    "category": "industry"
+  },
+  {
+    "id": "aad65aba818bbca098af95dccccfd4e6",
+    "title_en": "Chief Telecom sees AI demand pushing AIDC leasing past 50% and plans further expansion",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260528PD207/chief-telecom-demand-aidc-expansion-revenue.html",
+    "published_at": "2026-05-28T01:45:28Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "首席电信：AI需求推动AIDC租赁超50%，计划进一步扩张",
+    "summary_zh": "台湾首席电信（Chief Telecom）表示，受人工智能需求驱动，其AI数据中心（AIDC）租赁率已超过50%，并计划继续扩大规模。这一趋势反映了AI算力需求的爆发式增长，以及数据中心市场的强劲前景。",
+    "category": "industry"
+  },
+  {
+    "id": "1382381d2e793c0d171c6abe02b00b32",
+    "title_en": "Neymar's tests involved a special CBF operation",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/neymars-tests-involved-a-special-cbf-operation-42932421",
+    "published_at": "2026-05-28T01:43:00Z",
+    "fetched_at": "2026-05-29T02:14:32.870Z",
+    "title_zh": "内马尔体检涉及巴西足协特殊行动",
+    "summary_zh": "足球明星内马尔的最新体检过程被曝涉及巴西足协（CBF）的一项特殊操作。该事件引发媒体关注，但具体细节尚未公开。目前内马尔正从伤病中恢复，此次体检可能与其重返赛场相关。",
+    "category": "industry"
   },
   {
     "id": "dd9eb5e1fc9282997703616cde917d81",
@@ -5311,192 +5498,5 @@
     "title_zh": "2026年阵亡将士纪念日烤炉与煎锅促销：Weber、Traeger、Recteq",
     "summary_zh": "2026年阵亡将士纪念日期间，Weber、Traeger、Recteq等知名烤炉品牌推出大幅折扣。涵盖燃气烤炉、颗粒烤炉及多功能煎锅，适合户外烹饪爱好者。建议提前比价，锁定心仪型号的限时优惠。",
     "category": "product"
-  },
-  {
-    "id": "1970b383c696d01af2f7c29f0e00f6b2",
-    "title_en": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
-    "published_at": "2026-05-22T17:27:08.000Z",
-    "fetched_at": "2026-05-22T19:23:32.437Z",
-    "title_zh": "Meta的Forum：融合Reddit、Facebook和Google AI Overview的社交实验",
-    "summary_zh": "Meta推出全新社交平台Forum，整合了Reddit的社区讨论、Facebook的社交网络和Google AI Overview的智能摘要功能。该平台旨在通过AI技术提升内容发现和互动体验，但隐私和内容审核问题仍是挑战。",
-    "category": "product"
-  },
-  {
-    "id": "5e435b725c5fc04a3b46f5ebd0c1a9b4",
-    "title_en": "Elon, stop trying to make Grok happen",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-    "published_at": "2026-05-22T17:17:06.000Z",
-    "fetched_at": "2026-05-22T19:23:32.437Z",
-    "title_zh": "埃隆，别硬推Grok了",
-    "summary_zh": "马斯克旗下xAI的聊天机器人Grok市场表现不佳，用户反馈其功能与竞品相比缺乏亮点。文章呼吁马斯克停止强行推广，转而专注产品打磨。Grok的困境反映了AI聊天机器人赛道竞争的白热化。",
-    "category": "product"
-  },
-  {
-    "id": "831266fe703a13efc0d0eede53c49162",
-    "title_en": "The best Memorial Day sales you can shop this weekend",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-    "published_at": "2026-05-22T16:50:38.000Z",
-    "fetched_at": "2026-05-22T19:23:32.437Z",
-    "title_zh": "阵亡将士纪念日周末最佳促销清单",
-    "summary_zh": "美国阵亡将士纪念日周末迎来年度大促，涵盖电子产品、家居用品等多品类。文章精选了包括电视、耳机、智能家居设备在内的最佳折扣，为消费者提供购物指南。",
-    "category": "product"
-  },
-  {
-    "id": "4429ab563a6b17628468622b9768f35c",
-    "title_en": "Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale",
-    "published_at": "2026-05-22T16:30:00.000Z",
-    "fetched_at": "2026-05-22T19:23:32.438Z",
-    "title_zh": "Govee与JBL联名智能台灯Pro 2降至历史最低价",
-    "summary_zh": "Govee Lamp Pro 2智能台灯迎来价格新低，该产品由JBL调音，支持多彩灯光和音乐同步功能。降价促销使其成为智能家居爱好者的高性价比选择，尤其适合游戏和影音场景。",
-    "category": "product"
-  },
-  {
-    "id": "fc6572d9db4e09ffbaa75e42ca4ce46f",
-    "title_en": "Google appeals search monopoly ruling, says it won business &#8216;fair and square’",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal",
-    "published_at": "2026-05-22T16:28:56.000Z",
-    "fetched_at": "2026-05-22T19:23:32.438Z",
-    "title_zh": "Google上诉搜索垄断裁决：称赢得市场“光明正大”",
-    "summary_zh": "Google就美国法院认定其搜索业务构成垄断的裁决提起上诉，坚称其市场地位源于产品优势而非不正当竞争。此案可能重塑科技行业反垄断格局，影响数字广告和搜索市场的未来。",
-    "category": "industry"
-  },
-  {
-    "id": "6dd4fd21998c399ebd7afe160a121f91",
-    "title_en": "Waymo suspends freeway driving amid safety concerns",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/936129/waymo-freeway-suspend-atlanta-san-antonio-flood-pause",
-    "published_at": "2026-05-22T16:17:54.000Z",
-    "fetched_at": "2026-05-22T19:23:32.438Z",
-    "title_zh": "Waymo因安全隐患暂停高速公路自动驾驶测试",
-    "summary_zh": "Alphabet旗下自动驾驶公司Waymo宣布暂停在高速公路上的无人驾驶测试，原因是近期发生多起安全事件。此举凸显自动驾驶技术在城市复杂路况和高速场景中面临的挑战，行业安全标准亟待完善。",
-    "category": "product"
-  },
-  {
-    "id": "7e9de1698fc8e7e7ccb7ec1647b1e376",
-    "title_en": "You can no longer Google the word ‘disregard’",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-    "published_at": "2026-05-22T16:16:48.000Z",
-    "fetched_at": "2026-05-22T19:23:32.061Z",
-    "title_zh": "你再也无法用Google搜索“disregard”这个词了",
-    "summary_zh": "Google的AI搜索功能出现严重故障，当用户搜索“disregard”等特定词汇时，搜索结果被AI错误地忽略或篡改。这一漏洞暴露了AI在理解语义和上下文方面的局限性，引发用户对搜索可靠性的担忧。Google尚未对此作出正式回应。",
-    "category": "product"
-  },
-  {
-    "id": "e61e0cfc5f85558fff49cacd94b78934",
-    "title_en": "You can no longer Google the word ‘disregard’",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-    "published_at": "2026-05-22T16:16:48.000Z",
-    "fetched_at": "2026-05-23T18:57:13.849Z",
-    "title_zh": "你现在无法在谷歌上搜索“disregard”这个词了",
-    "summary_zh": "谷歌搜索出现奇怪故障：输入“disregard”后返回空白结果或错误页面。官方尚未回应原因，猜测可能是算法误将该词标记为敏感内容，或与近期反垃圾策略调整有关。用户调侃：谷歌终于开始“无视”某些词了。",
-    "category": "product"
-  },
-  {
-    "id": "955ca9a5f55f1ce3cf222e3f07200b06",
-    "title_en": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-    "published_at": "2026-05-22T16:01:17.000Z",
-    "fetched_at": "2026-05-22T19:23:32.438Z",
-    "title_zh": "Google AI搜索漏洞百出：连“忽略”指令都能搞砸",
-    "summary_zh": "Google AI搜索功能出现严重逻辑错误，当用户输入“disregard”等指令时，系统不仅未能正确执行，反而导致搜索结果异常。该问题暴露了AI在自然语言理解上的短板，引发用户对AI可靠性的质疑。",
-    "category": "product"
-  },
-  {
-    "id": "3db5dbae3cb28860fe8234eb25214495",
-    "title_en": "We tried Google’s AI glasses and they’re almost there",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "published_at": "2026-05-22T15:37:15.000Z",
-    "fetched_at": "2026-05-22T19:23:32.061Z",
-    "title_zh": "我们试用了Google的AI眼镜，它离完美只差一步",
-    "summary_zh": "Google最新AI眼镜原型机体验评测出炉，设备在实时翻译、导航和信息叠加方面表现出色，但续航和佩戴舒适度仍有提升空间。评测者认为，这款眼镜已接近消费级产品，有望成为下一代智能穿戴设备标杆。",
-    "category": "product"
-  },
-  {
-    "id": "a921c5269dc010b7b8f65c9726fea50b",
-    "title_en": "We tried Google’s AI glasses and they’re almost there",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "published_at": "2026-05-22T15:37:15.000Z",
-    "fetched_at": "2026-05-23T18:57:13.849Z",
-    "title_zh": "我们试了谷歌的AI眼镜，它离完美只差一步",
-    "summary_zh": "谷歌新一代AI眼镜原型机体验评测：实时翻译、导航叠加、物体识别等功能表现出色，但续航仅2小时、佩戴舒适度欠佳、隐私摄像头引发路人警惕。评测认为技术已成熟，但需解决电池和社交接受度问题才能成为主流产品。",
-    "category": "product"
-  },
-  {
-    "id": "f63d652a3e8f484919f495f5f01be2af",
-    "title_en": "Routers vs. Modems: What You Need to Get Online",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/router-vs-modem/",
-    "published_at": "2026-05-22T15:14:37.000Z",
-    "fetched_at": "2026-05-22T19:23:32.590Z",
-    "title_zh": "路由器 vs 调制解调器：上网必备知识",
-    "summary_zh": "本文清晰解析路由器和调制解调器的区别：调制解调器负责连接互联网服务提供商，路由器则创建家庭局域网。了解两者功能有助于正确选购网络设备，避免常见误区，确保稳定高速上网体验。",
-    "category": "product"
-  },
-  {
-    "id": "8b31c18590b74c61eba7742b67c9035b",
-    "title_en": "Even If You Hate AI, You Will Use Google AI Search",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-    "published_at": "2026-05-22T15:00:00.000Z",
-    "fetched_at": "2026-05-22T19:23:32.590Z",
-    "title_zh": "即使你讨厌AI，也终将使用谷歌AI搜索",
-    "summary_zh": "谷歌正将AI深度整合进搜索服务，即使对AI持怀疑态度的用户也难以避开。文章指出，AI搜索能提供更精准、更个性化的答案，提升效率。随着技术普及，用户习惯将逐渐被重塑，抗拒可能徒劳。",
-    "category": "product"
-  },
-  {
-    "id": "04598a16437ac16e505db572dc531c8a",
-    "title_en": "LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale",
-    "published_at": "2026-05-22T14:48:00.000Z",
-    "fetched_at": "2026-05-22T19:23:32.438Z",
-    "title_zh": "LG 77英寸B5 OLED电视降至1500美元，还送200美元礼品卡",
-    "summary_zh": "LG 77英寸B5系列OLED电视迎来大幅降价，售价仅1500美元并附赠200美元礼品卡。该电视支持4K分辨率和OLED自发光技术，适合家庭影院升级，性价比极高。",
-    "category": "product"
-  },
-  {
-    "id": "157082ec0eee568dec30e3ce3258c048",
-    "title_en": "The Trump phone is not here",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped",
-    "published_at": "2026-05-22T14:46:20.000Z",
-    "fetched_at": "2026-05-22T19:23:32.438Z",
-    "title_zh": "特朗普手机并未问世",
-    "summary_zh": "此前传闻的特朗普品牌智能手机被证实为虚假消息。文章澄清并无相关产品发布计划，提醒用户警惕网络谣言。该事件反映了科技圈对政治人物跨界产品的关注度。",
-    "category": "industry"
-  },
-  {
-    "id": "50ff72bb6a1d8d5d88590f2c74b21bbd",
-    "title_en": "SpaceX files to go public, and the math requires a little faith",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-    "published_at": "2026-05-22T14:30:00.000Z",
-    "fetched_at": "2026-05-22T19:23:32.061Z",
-    "title_zh": "SpaceX申请上市，估值数学题需要一点信仰",
-    "summary_zh": "SpaceX正式提交IPO文件，计划在公开市场募资。其估值高达1.75万亿美元，但财务模型依赖未来星链用户增长和星舰发射收入，存在较大不确定性。投资者需权衡太空探索的长期潜力与短期盈利压力。",
-    "category": "industry"
-  },
-  {
-    "id": "c60993f1ce49be836cb1c2342157d8f5",
-    "title_en": "SpaceX files to go public, and the math requires a little faith",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-    "published_at": "2026-05-22T14:30:00.000Z",
-    "fetched_at": "2026-05-23T18:57:13.849Z",
-    "title_zh": "SpaceX申请上市，但估值数学需要一点信仰",
-    "summary_zh": "SpaceX正式提交IPO申请，估值目标1.75万亿美元。文件显示其收入主要来自星链和发射服务，但火星殖民计划尚未盈利。分析师指出，该估值隐含未来20年每年50%增长假设，需投资者对马斯克愿景有“信仰”才能接受。",
-    "category": "industry"
   }
 ]
