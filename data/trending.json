@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-29",
-      "summary_zh": "今日GitHub热门项目聚焦AI视频生成、智能体框架优化、反AI味写作、开源CRM替代、免费域名及英语学习工具，展现AI实用化与效率提升趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI视频生成、智能体性能优化、反AI味写作、开源CRM替代、免费域名、英语学习指南、文档转Markdown及智能体技能框架开发。",
       "projects": [
         {
           "rank": 1,
@@ -10,9 +10,9 @@
           "url": "https://github.com/harry0703/MoneyPrinterTurbo",
           "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
           "language": "Python",
-          "stars_total": 66597,
+          "stars_total": 68049,
           "stars_today": 4698,
-          "description_zh": "利用AI大模型，一键生成高清短视频"
+          "description_zh": "利用AI大模型，一键生成高清短视频。"
         },
         {
           "rank": 2,
@@ -20,9 +20,9 @@
           "url": "https://github.com/Lum1104/Understand-Anything",
           "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
           "language": "TypeScript",
-          "stars_total": 42921,
+          "stars_total": 43700,
           "stars_today": 3776,
-          "description_zh": "能教学的图谱 > 仅展示的图谱。将任意代码转化为可探索、搜索和提问的交互式知识图谱。兼容Claude Code、Codex、Cursor、Copilot、Gemini CLI等工具"
+          "description_zh": "能教学的图表 > 仅展示的图表。将任意代码转化为可探索、搜索和提问的交互式知识图谱。适用于Claude Code、Codex、Cursor、Copilot、Gemini CLI等工具。"
         },
         {
           "rank": 3,
@@ -30,9 +30,9 @@
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
           "language": "Shell",
-          "stars_total": 26566,
+          "stars_total": 27289,
           "stars_today": 2234,
-          "description_zh": "Taste-Skill —— 赋予AI良好品味，阻止AI生成无聊、千篇一律的劣质内容"
+          "description_zh": "Taste-Skill —— 赋予AI良好品味，防止AI生成无聊、千篇一律的劣质内容。"
         },
         {
           "rank": 4,
@@ -40,9 +40,9 @@
           "url": "https://github.com/byoungd/English-level-up-tips",
           "description_en": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
           "language": "",
-          "stars_total": 48625,
+          "stars_total": 49166,
           "stars_today": 2019,
-          "description_zh": "一份可能让你受益匪浅的英语进阶指南 🎉 。离谱的英语学习指南/英语学习教程/英语学习/学英语"
+          "description_zh": "一份可能让你受益匪浅的英语进阶指南 🎉。离谱的英语学习指南/英语学习教程/英语学习/学英语。"
         },
         {
           "rank": 5,
@@ -50,9 +50,9 @@
           "url": "https://github.com/DigitalPlatDev/FreeDomain",
           "description_en": "DigitalPlat FreeDomain: Free Domain For Everyone",
           "language": "HTML",
-          "stars_total": 170789,
+          "stars_total": 171203,
           "stars_today": 1761,
-          "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名"
+          "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名。"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 211170,
+          "stars_total": 211777,
           "stars_today": 1730,
-          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论"
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/microsoft/markitdown",
           "description_en": "Python tool for converting files and office documents to Markdown.",
           "language": "Python",
-          "stars_total": 127830,
+          "stars_total": 128380,
           "stars_today": 1410,
-          "description_zh": "用于将文件和办公文档转换为Markdown的Python工具"
+          "description_zh": "用于将文件和Office文档转换为Markdown的Python工具。"
         },
         {
           "rank": 8,
@@ -80,7 +80,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 197370,
+          "stars_total": 197923,
           "stars_today": 1385,
           "description_zh": "智能体工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
         },
@@ -90,9 +90,9 @@
           "url": "https://github.com/codecrafters-io/build-your-own-x",
           "description_en": "Master programming by recreating your favorite technologies from scratch.",
           "language": "Markdown",
-          "stars_total": 506599,
+          "stars_total": 506876,
           "stars_today": 1066,
-          "description_zh": "通过从零重建你喜爱的技术来掌握编程"
+          "description_zh": "通过从零重建你喜爱的技术来掌握编程。"
         },
         {
           "rank": 10,
@@ -100,9 +100,9 @@
           "url": "https://github.com/hardikpandya/stop-slop",
           "description_en": "A skill file for removing AI tells from prose",
           "language": "",
-          "stars_total": 6463,
+          "stars_total": 6652,
           "stars_today": 761,
-          "description_zh": "一个用于去除散文中AI痕迹的技能文件"
+          "description_zh": "一个用于去除文章中AI痕迹的技能文件。"
         },
         {
           "rank": 11,
@@ -110,9 +110,9 @@
           "url": "https://github.com/anthropics/skills",
           "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 142897,
+          "stars_total": 143296,
           "stars_today": 718,
-          "description_zh": "智能体技能的公共仓库"
+          "description_zh": "智能体技能的公共仓库。"
         },
         {
           "rank": 12,
@@ -120,9 +120,9 @@
           "url": "https://github.com/twentyhq/twenty",
           "description_en": "The open alternative to Salesforce, designed for AI.",
           "language": "TypeScript",
-          "stars_total": 47893,
+          "stars_total": 48085,
           "stars_today": 493,
-          "description_zh": "面向AI设计的Salesforce开源替代方案"
+          "description_zh": "专为AI设计的Salesforce开源替代方案。"
         },
         {
           "rank": 13,
@@ -130,9 +130,9 @@
           "url": "https://github.com/EveryInc/compound-engineering-plugin",
           "description_en": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
           "language": "TypeScript",
-          "stars_total": 17797,
+          "stars_total": 17923,
           "stars_today": 184,
-          "description_zh": "适用于Claude Code、Codex、Cursor等工具的官方复合工程插件"
+          "description_zh": "面向Claude Code、Codex、Cursor等工具的官方复合工程插件。"
         },
         {
           "rank": 14,
@@ -140,7 +140,7 @@
           "url": "https://github.com/unclecode/crawl4ai",
           "description_en": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
           "language": "Python",
-          "stars_total": 66986,
+          "stars_total": 67178,
           "stars_today": 154,
           "description_zh": "🚀🤖 Crawl4AI：开源、对LLM友好的网络爬虫与抓取工具。欢迎加入：https://discord.gg/jP8KfhDhyN"
         },
@@ -150,9 +150,9 @@
           "url": "https://github.com/OpenMOSS/MOSS-TTS",
           "description_en": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
           "language": "Python",
-          "stars_total": 2279,
+          "stars_total": 2428,
           "stars_today": 71,
-          "description_zh": "MOSS‑TTS系列是由MOSI.AI和OpenMOSS团队开发的开源语音与声音生成模型系列。专为高保真、高表现力及复杂真实场景设计，涵盖稳定长文本语音、多说话人对话、语音/角色设计、环境音效及实时流式TTS"
+          "description_zh": "MOSS‑TTS系列是MOSI.AI与OpenMOSS团队推出的开源语音与声音生成模型系列。专为高保真、高表现力及复杂真实场景设计，涵盖稳定长文本语音、多说话人对话、语音/角色设计、环境音效及实时流式TTS。"
         },
         {
           "rank": 16,
@@ -160,9 +160,9 @@
           "url": "https://github.com/revfactory/harness",
           "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
           "language": "HTML",
-          "stars_total": 3924,
+          "stars_total": 4056,
           "stars_today": 65,
-          "description_zh": "一种元技能，用于设计特定领域的智能体团队、定义专业智能体并生成它们所使用的技能"
+          "description_zh": "一种元技能，用于设计领域专属的智能体团队、定义专业智能体并生成它们所使用的技能。"
         }
       ]
     },

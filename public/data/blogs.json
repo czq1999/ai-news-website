@@ -1,5 +1,82 @@
 [
   {
+    "id": "6d495c60d474e9a4f87a3f6fb7acdfd0",
+    "title_en": "Linux系统自动化运维（Python版）（微课版）.pdf-张莉，丁传炜-2024年版-人民邮电出版社-电子书在线阅读、下载-原创力文档",
+    "source": "max.book118.com",
+    "url": "https://max.book118.com/html/2025/0307/8022052057007040.shtm",
+    "published_at": "2026-05-29T09:38:02.880Z",
+    "fetched_at": "2026-05-29T09:38:02.880Z",
+    "title_zh": "Linux系统自动化运维（Python版）（微课版）",
+    "summary_zh": "本书以Python为核心工具，系统讲解Linux系统自动化运维的实战技术。内容涵盖Shell脚本进阶、Python自动化模块（如paramiko、fabric、ansible）、系统监控与日志分析、批量部署与配置管理。作者结合微课视频，深入剖析了从基础命令到复杂自动化框架的构建过程，并提供了大量企业级运维场景的代码示例。适合希望提升运维效率的Linux管理员与Python开发者阅读。",
+    "topic": "ops"
+  },
+  {
+    "id": "940281dabc0b7c100309f3966574e467",
+    "title_en": "CVE-2026-42945：Nginx \"Rift\" 漏洞深度解析与紧急修复指南-云社区-华为云",
+    "source": "bbs.huaweicloud.cn",
+    "url": "https://bbs.huaweicloud.cn/blogs/478029",
+    "published_at": "2026-05-29T09:37:54.088Z",
+    "fetched_at": "2026-05-29T09:37:54.088Z",
+    "title_zh": "CVE-2026-42945：Nginx Rift漏洞深度解析与紧急修复指南",
+    "summary_zh": "本文对Nginx中的高危漏洞CVE-2026-42945（代号Rift）进行了深度技术解析，包括漏洞触发原理、影响版本范围及攻击场景。该漏洞可能允许攻击者通过特制请求导致内存损坏，进而实现远程代码执行或服务崩溃。文章提供了详细的紧急修复指南，包括升级到修复版本、应用临时补丁、配置缓解规则（如限制请求大小、启用WAF）以及监控异常日志。对于使用Nginx作为反向代理或Web服务器的运维团队，本文是快速应对该漏洞的必备参考。",
+    "topic": "security"
+  },
+  {
+    "id": "9baaab71061a694a25a0b0967b88e56d",
+    "title_en": "Windows Server 容器的性能优化 - Microsoft Learn",
+    "source": "learn.microsoft.com",
+    "url": "https://learn.microsoft.com/zh-cn/windows-server/administration/performance-tuning/role/windows-server-container/",
+    "published_at": "2026-05-29T09:37:54.087Z",
+    "fetched_at": "2026-05-29T09:37:54.087Z",
+    "title_zh": "Windows Server容器的性能优化",
+    "summary_zh": "本文由微软官方发布，专注于Windows Server容器的性能优化策略。内容涵盖镜像大小优化（使用纳米服务器基础镜像、分层缓存）、资源限制配置（CPU、内存、磁盘IOPS）、网络性能调优（使用透明网络、优化NAT）、以及存储性能提升（使用SMB映射卷）。文章还对比了Hyper-V隔离与进程隔离模式的性能差异，并给出了针对IIS、ASP.NET等典型工作负载的调优建议，为Windows容器化部署提供了权威指导。",
+    "topic": "ops"
+  },
+  {
+    "id": "4e0bdd048a47115fd79ff8020403274c",
+    "title_en": "Microsoft Defender双零日漏洞CVE-2026-41091/CVE-2026-45498深度解析与企业级防御方案 - CSDN文库",
+    "source": "wenku.csdn.net",
+    "url": "https://wenku.csdn.net/doc/ck7smkzmsxct",
+    "published_at": "2026-05-29T09:37:54.087Z",
+    "fetched_at": "2026-05-29T09:37:54.087Z",
+    "title_zh": "Microsoft Defender双零日漏洞CVE-2026-41091/CVE-2026-45498深度解析与企业级防御方案",
+    "summary_zh": "本文深度分析了Microsoft Defender中两个零日漏洞（CVE-2026-41091和CVE-2026-45498），包括漏洞原理、利用条件及潜在影响。CVE-2026-41091可能允许攻击者绕过Defender的实时保护机制，而CVE-2026-45498则涉及权限提升。文章详细介绍了攻击者如何组合利用这两个漏洞实现完全控制，并给出了企业级防御方案，包括紧急补丁部署、组策略配置、端点检测与响应（EDR）规则调整以及网络隔离策略。适合企业安全团队参考以加固Microsoft Defender防护。",
+    "topic": "security"
+  },
+  {
+    "id": "18fe8ad52f1e0dee1a9bb147368bb795",
+    "title_en": "Linux自动化运维实战：利用Ansible实现多服务器配置批量管理与应用部署的标准化 | RayByte",
+    "source": "raybyte.cn",
+    "url": "https://raybyte.cn/post/2026/5/8/588d6bdb",
+    "published_at": "2026-05-29T09:37:39.987Z",
+    "fetched_at": "2026-05-29T09:37:39.987Z",
+    "title_zh": "Linux自动化运维实战：利用Ansible实现多服务器配置批量管理与应用部署的标准化",
+    "summary_zh": "本文深入实战，展示了如何利用Ansible实现Linux服务器的批量配置管理与应用部署标准化。内容涵盖Ansible核心组件（Inventory、Playbook、Role）的编写技巧、YAML语法最佳实践、以及如何通过Jinja2模板实现动态配置。文章还介绍了与GitLab CI/CD集成实现自动化流水线、使用Ansible Vault管理敏感信息、以及幂等性检查等高级用法，帮助运维团队提升效率并降低人为失误。",
+    "topic": "ops"
+  },
+  {
+    "id": "4ac51464c1f19fc447fbf1f4ee861bea",
+    "title_en": "Linux 运维常用手册 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/zhoutuo/p/18782411",
+    "published_at": "2026-05-29T09:37:39.987Z",
+    "fetched_at": "2026-05-29T09:37:39.987Z",
+    "title_zh": "Linux运维常用手册",
+    "summary_zh": "本文是一份面向Linux运维人员的实用速查手册，汇总了日常工作中最常用的命令与操作技巧。内容涵盖系统信息查看（CPU、内存、磁盘、网络）、进程管理（ps、top、htop）、日志分析（journalctl、tail、grep）、文件权限管理、定时任务（crontab）、以及常见故障排查（如磁盘空间不足、端口冲突）。手册还收录了网络工具（curl、telnet、ss）和性能分析命令（vmstat、iostat）的典型用法，是运维工程师案头必备的参考文档。",
+    "topic": "ops"
+  },
+  {
+    "id": "9856b68d1796fb47923df94f8301ddd2",
+    "title_en": "李飞飞全新「世界模型」问世，单张H100实时生成3D永恒世界-36氪",
+    "source": "m.36kr.com",
+    "url": "https://m.36kr.com/p/3512599772454023",
+    "published_at": "2026-05-29T09:37:39.986Z",
+    "fetched_at": "2026-05-29T09:37:39.986Z",
+    "title_zh": "李飞飞全新「世界模型」问世，单张H100实时生成3D永恒世界",
+    "summary_zh": "本文介绍了李飞飞团队发布的全新世界模型，该模型能够在单张NVIDIA H100 GPU上实时生成连续、可交互的3D虚拟世界。文章从技术原理出发，解析了模型如何结合空间智能、时序预测与神经渲染，实现低延迟、高保真的场景构建。这一突破对游戏开发、自动驾驶仿真、机器人训练等领域具有重大实践意义，展示了生成式AI在3D内容创作上的新高度。",
+    "topic": "ai"
+  },
+  {
     "id": "f2342cd48bf772b809603f52062d1bdb",
     "title_en": "[PDF] 基于DevOps的应用运维实践方案",
     "source": "bos.itdks.com",
@@ -2121,82 +2198,5 @@
     "title_zh": "等保2.0三级安全基线全栈落地指南：CentOS/麒麟/UOS多系统适配（保姆式脚本版）",
     "summary_zh": "本文提供了等保2.0三级安全基线的全栈落地实施方案，覆盖CentOS、麒麟和UOS三种操作系统。包含自动化脚本实现账户管理、口令策略、审计配置、文件权限、内核参数加固（sysctl）、服务最小化等核心要求。详细解释了每项配置的安全原理和合规依据，并提供了兼容性适配和回滚机制，适合政企单位快速通过等保测评。",
     "topic": "security"
-  },
-  {
-    "id": "7c496baaa30bf2d3071a1a759fe93cdc",
-    "title_en": "Linux系统安全加固指南（万字长文）-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/1984407",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Linux系统安全加固指南（万字长文）",
-    "summary_zh": "本文全面梳理了Linux系统安全加固的各个层面，包括账户与认证（PAM配置、SSH密钥认证、sudo权限控制）、文件系统安全（挂载选项、ACL、SELinux/AppArmor）、网络防火墙（iptables/nftables规则）、内核参数优化（防SYN Flood、IP欺骗）、日志审计（auditd、rsyslog）以及入侵检测（AIDE、RKHunter）。每项措施均附有配置示例和风险说明。",
-    "topic": "security"
-  },
-  {
-    "id": "90c2ac4592e2cc8bb0e4541730373770",
-    "title_en": "Ubuntu Server 安全加固指南 - 官方博客",
-    "source": "idc.net",
-    "url": "https://idc.net/help/442443/",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Ubuntu Server安全加固指南",
-    "summary_zh": "本文针对Ubuntu Server提供了详细的安全加固步骤，涵盖初始安装后的基本配置（禁用root登录、更新源、防火墙UFW）、SSH安全强化（密钥认证、端口修改、Fail2ban）、自动安全更新（unattended-upgrades）、入侵检测（OSSEC）以及系统审计（Lynis）。重点介绍了如何利用AppArmor限制应用权限，并给出了针对Web服务器和数据库的额外安全建议。",
-    "topic": "security"
-  },
-  {
-    "id": "ab60f5dab4b38307ad8da82cfae8d9f5",
-    "title_en": "安全强化 | Red Hat Enterprise Linux | 10 | Red Hat Documentation",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/10/html-single/security_hardening/index",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.454Z",
-    "title_zh": "Red Hat Enterprise Linux 10 安全强化指南",
-    "summary_zh": "本文是Red Hat官方文档，详细介绍了RHEL 10的安全强化功能，包括系统范围的加密策略（crypto-policies）、SELinux强制访问控制配置、fapolicyd基于文件的访问控制、USBGuard设备管控、以及OpenSCAP合规扫描。重点阐述了如何通过安全内容自动化协议（SCAP）实现自动化合规审计，并提供了针对不同部署场景（服务器、容器、云）的定制化安全策略。",
-    "topic": "security"
-  },
-  {
-    "id": "8997b615afb266e3853233b4ae1276e5",
-    "title_en": "GitHub - yeasy/agentic_ai_guide at 95c9d28c54ec226535f93110cfd55288ab2c842b · GitHub",
-    "source": "github.com",
-    "url": "https://github.com/yeasy/agentic_ai_guide/tree/95c9d28c54ec226535f93110cfd55288ab2c842b",
-    "published_at": "2026-05-24T19:04:14.960Z",
-    "fetched_at": "2026-05-24T19:04:14.960Z",
-    "title_zh": "yeasy/agentic_ai_guide：智能体AI工程实践指南",
-    "summary_zh": "该仓库提供了一份全面的Agentic AI工程实践指南，从基础架构设计到高级模式如规划、记忆、工具使用与多智能体系统均有详细阐述。内容结合主流框架（LangChain、AutoGPT）与真实案例，强调可复用的设计模式与性能调优策略，是构建生产级Agent系统的必备参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "76bfa208880f570084fabd3820a62226",
-    "title_en": "alienzhou/zero2agent",
-    "source": "github.com",
-    "url": "https://github.com/alienzhou/zero2agent",
-    "published_at": "2026-05-24T19:04:14.960Z",
-    "fetched_at": "2026-05-24T19:04:14.960Z",
-    "title_zh": "alienzhou/zero2agent：从零到智能体实战项目",
-    "summary_zh": "该项目以实战为导向，从零开始带领开发者构建一个完整的AI Agent。内容覆盖LLM调用、工具定义、记忆管理、Agent循环以及Web部署等全链路。通过简洁的代码示例和清晰的架构说明，帮助开发者快速掌握Agent开发的核心模式，适合希望将AI能力落地的全栈工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "587850ad8cbd85fad8ba4dcb62d438d0",
-    "title_en": "AI大模型微调企业项目实战：从通用智能到业务专家的工程化之路-腾讯云开发者社区-腾讯云",
-    "source": "developer.cloud.tencent.com",
-    "url": "https://developer.cloud.tencent.com/article/2665899",
-    "published_at": "2026-05-24T19:04:14.960Z",
-    "fetched_at": "2026-05-24T19:04:14.960Z",
-    "title_zh": "AI大模型微调企业项目实战：从通用智能到业务专家的工程化之路",
-    "summary_zh": "本文深入探讨了企业级大模型微调的完整工程化流程，包括数据准备、模型选择、训练策略与部署优化。重点介绍了LoRA、QLoRA等参数高效微调方法在业务场景中的应用，以及如何平衡模型性能与推理成本。提供了从数据清洗到模型评估的实战经验，适合有微调需求的AI工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "3585b5a3c3bff58b54ba091d9d9624f7",
-    "title_en": "大语言模型微调指引 - 阿里云文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/pai/user-guide/llm-fine-tuning-experience",
-    "published_at": "2026-05-24T19:04:14.960Z",
-    "fetched_at": "2026-05-24T19:04:14.960Z",
-    "title_zh": "大语言模型微调指引 - 阿里云官方文档",
-    "summary_zh": "阿里云官方提供的LLM微调技术文档，系统介绍了微调的基本原理、常见方法（全参数微调、LoRA、P-Tuning等）以及阿里云PAI平台的实操步骤。涵盖数据格式要求、训练参数调优、模型评估指标等关键内容，为开发者提供了从环境搭建到模型部署的一站式微调指南。",
-    "topic": "ai"
   }
 ]
