@@ -1,5 +1,60 @@
 [
   {
+    "id": "b44cd44ff9f65a77b456357c0fed1899",
+    "title_en": "XZ1r0/cve-2026-poc-collection",
+    "source": "github.com",
+    "url": "https://github.com/XZ1r0/cve-2026-poc-collection",
+    "published_at": "2026-05-29T20:10:25.956Z",
+    "fetched_at": "2026-05-29T20:10:25.956Z",
+    "title_zh": "XZ1r0/cve-2026-poc-collection",
+    "summary_zh": "这是一个GitHub仓库，收集了针对CVE-2026系列漏洞的PoC（概念验证）代码。仓库由安全研究者XZ1r0维护，持续更新包含漏洞利用脚本、复现步骤和受影响版本说明。对于安全研究人员和渗透测试人员，该仓库提供了直接可用的漏洞验证工具，有助于快速评估系统是否受相关CVE影响。仓库还包含了漏洞分析文档，帮助理解漏洞原理和利用条件。",
+    "topic": "security"
+  },
+  {
+    "id": "25922c7bb0ece90830023c97d68bb875",
+    "title_en": "StarCrossPortal/VulnsDB: CVE漏洞分析合集-持续更新 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/StarCrossPortal/VulnsDB",
+    "published_at": "2026-05-29T20:10:25.956Z",
+    "fetched_at": "2026-05-29T20:10:25.956Z",
+    "title_zh": "StarCrossPortal/VulnsDB: CVE漏洞分析合集-持续更新",
+    "summary_zh": "这是一个持续更新的CVE漏洞分析合集仓库，由StarCrossPortal维护。仓库收录了大量CVE漏洞的详细分析报告，包括漏洞原理、影响范围、复现步骤、PoC代码以及修复建议。内容覆盖Web应用、操作系统、数据库、中间件等多个领域。每个漏洞分析都附有参考链接和CVSS评分，方便安全团队进行风险评估。仓库还提供了按CVE编号、厂商、产品分类的索引，是安全研究和应急响应的实用资源库。",
+    "topic": "security"
+  },
+  {
+    "id": "c456e58fb0f668a6109938e6c3bb66db",
+    "title_en": "[PDF] 数据驱动下的大模型微调： 策略与挑战",
+    "source": "liip.kust.edu.cn",
+    "url": "https://liip.kust.edu.cn/yssnlp/ppt_yssnlp/%E8%AE%B2%E4%B9%A0%E7%8F%AD/4%20%E6%9D%A8%E6%95%8F-%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E4%B8%8B%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83%EF%BC%9A%E7%AD%96%E7%95%A5%E4%B8%8E%E6%8C%91%E6%88%98.pdf",
+    "published_at": "2026-05-29T20:10:15.663Z",
+    "fetched_at": "2026-05-29T20:10:15.663Z",
+    "title_zh": "PDF数据驱动下的大模型微调：策略与挑战",
+    "summary_zh": "本文探讨了以PDF文档为主要数据源进行大模型微调的技术路线与难点。分析了PDF解析（OCR、版面分析、表格提取）中的常见问题，并提出了针对非结构化文本的清洗与结构化策略。进一步讨论了领域知识注入、长文本截断策略以及微调后的评估方法。对于需要从大量PDF文档中提取知识并微调模型的研发团队具有直接参考意义。",
+    "topic": "ai"
+  },
+  {
+    "id": "8c341b556d8934d7b27664d65ab4ede6",
+    "title_en": "[Linux操作系统]Linux服务器维护技巧，提升系统稳定性和效率的秘诀|linux服务器维护教程,linux 服务器维护技巧,Linux操作系统,云主机博士",
+    "source": "yunzhujiboshi.com",
+    "url": "https://www.yunzhujiboshi.com/2026/05/1649170.html",
+    "published_at": "2026-05-29T20:10:15.663Z",
+    "fetched_at": "2026-05-29T20:10:15.663Z",
+    "title_zh": "Linux服务器维护技巧：提升系统稳定性和效率的秘诀",
+    "summary_zh": "本文总结了Linux服务器日常维护的核心技巧，旨在提升系统稳定性与运行效率。内容涉及内核参数优化（如文件句柄、网络缓冲区）、磁盘I/O调度策略选择、内存管理（Swap调整）、CPU亲和性设置以及定期健康检查脚本的编写。还介绍了使用top、iostat、vmstat等工具进行性能瓶颈定位的方法，适合运维人员参考实践。",
+    "topic": "ops"
+  },
+  {
+    "id": "d769be445c30a574fa4f79163ea1f8bf",
+    "title_en": "AI Agent开发路线图2025：从入门到精通，一文读懂智能体技术",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1985379253525697644",
+    "published_at": "2026-05-29T20:10:15.662Z",
+    "fetched_at": "2026-05-29T20:10:15.662Z",
+    "title_zh": "AI Agent开发路线图2025：从入门到精通，一文读懂智能体技术",
+    "summary_zh": "本文为AI Agent开发者提供了一份从入门到精通的系统性学习路线图。内容按照技术深度分层：基础层涵盖Prompt Engineering、LLM调用与函数调用（Function Calling）；进阶层深入Agent框架（LangChain、CrewAI）的原理与高级用法，包括复杂工具链编排、记忆系统设计、以及多Agent协作；高级层则探讨了Agent的可靠性提升（如自我反思、验证循环）、性能优化（缓存、并行化）以及安全对齐。文章还推荐了关键的学习资源与开源项目，是构建Agent技术栈的实用指南。",
+    "topic": "ai"
+  },
+  {
     "id": "7c496baaa30bf2d3071a1a759fe93cdc",
     "title_en": "Linux系统安全加固指南（万字长文）-腾讯云开发者社区-腾讯云",
     "source": "cloud.tencent.com",
@@ -2142,61 +2197,6 @@
     "fetched_at": "2026-05-24T19:04:20.453Z",
     "title_zh": "监控和管理系统状态和性能 | Red Hat Enterprise Linux 8",
     "summary_zh": "本文是Red Hat Enterprise Linux 8官方文档中关于系统状态与性能监控管理的章节，系统介绍了使用Performance Co-Pilot (PCP)、sysstat、procps-ng等工具进行实时监控和历史数据分析的方法。内容涵盖CPU、内存、磁盘、网络等子系统的性能指标解读，以及如何设置告警阈值和自动化响应。文档还介绍了使用tuned和systemd资源控制（如CPUQuota、MemoryMax）进行性能优化的实践，为RHEL 8运维人员提供了全面的监控与调优参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "703b99bcb29439fe91a610d5b0a76eb4",
-    "title_en": "生产环境 | Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/docs/setup/production-environment/",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "生产环境 | Kubernetes",
-    "summary_zh": "本文是Kubernetes官方文档中关于生产环境部署的核心指南，涵盖了集群规划、节点配置、高可用设计、安全加固及资源管理的最佳实践。内容强调生产环境与开发环境的差异，包括etcd集群的部署要求、控制平面组件的冗余配置、网络插件的选择（如Calico、Cilium）、以及持久化存储的考量。文章还介绍了Pod资源限制（requests/limits）、Horizontal Pod Autoscaler、Pod Disruption Budgets等关键配置，帮助团队构建稳定、可扩展的生产级Kubernetes集群。",
-    "topic": "ops"
-  },
-  {
-    "id": "bc12b7d972098abe9914ae7be2cb30e9",
-    "title_en": "大规模集群的注意事项 | Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/docs/setup/best-practices/cluster-large/",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "大规模集群的注意事项 | Kubernetes",
-    "summary_zh": "本文是Kubernetes官方文档中针对大规模集群（节点数超过500）的专项指南，重点讨论了控制平面性能、etcd扩展性、网络瓶颈及资源管理挑战。内容涵盖API服务器优化（如并发请求限制、缓存大小）、etcd的硬件选型与调优（SSD、快照频率）、节点标签与污点的合理使用、以及使用Cluster Autoscaler进行弹性伸缩。文章还介绍了如何通过HPA、VPA和Descheduler实现资源的高效利用，并提供了大规模集群下的监控与日志收集方案。",
-    "topic": "ops"
-  },
-  {
-    "id": "72ee0632210cd9007fa66a20d605dc04",
-    "title_en": "高级开发指南 | Jimmy Song",
-    "source": "jimmysong.io",
-    "url": "https://jimmysong.io/zh/book/kubernetes-handbook/develop/advance-developer/",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "高级开发指南 | Jimmy Song",
-    "summary_zh": "本文是Jimmy Song撰写的高级开发指南，内容涵盖云原生技术栈中的多个关键领域，包括Kubernetes Operator开发、Service Mesh（如Istio）的深度使用、以及CI/CD流水线的高级配置。文章从实战角度出发，详细讲解了如何编写自定义控制器、管理CRD、实现蓝绿部署和金丝雀发布。还涉及了性能调优、安全策略（如网络策略、Pod安全标准）和可观测性（Prometheus、Grafana）的集成，适合有一定基础并希望深入云原生开发的工程师。",
-    "topic": "ops"
-  },
-  {
-    "id": "ef2b111a55d64efb9dadbd04b9d6a17d",
-    "title_en": "01 2025-12-16",
-    "source": "support.huaweicloud.com",
-    "url": "https://support.huaweicloud.com/bestpractice-ucs/ucs-bestpractice-pdf.pdf",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "01 2025-12-16",
-    "summary_zh": "本文标题信息不完整，可能为华为云支持文档中的一篇技术文章。根据来源推测，内容可能涉及云服务配置、运维操作或故障排查指南。由于缺乏具体标题和摘要信息，无法提供详细的技术总结。建议直接访问华为云支持站点获取完整文档内容。",
-    "topic": "other"
-  },
-  {
-    "id": "1760159125c637430b6cf782b19cb27b",
-    "title_en": "Docker镜像优化实用指南 - 腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.cn",
-    "url": "https://cloud.tencent.cn/developer/news/2792076",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Docker镜像优化实用指南",
-    "summary_zh": "本文来自腾讯云开发者社区，提供了Docker镜像优化的实用指南，旨在减小镜像体积、提升构建速度和安全性。内容涵盖多阶段构建（multi-stage builds）、选择轻量级基础镜像（如Alpine）、合理利用.dockerignore文件、减少镜像层数（合并RUN指令）、以及使用缓存机制加速构建。文章还介绍了如何通过docker-slim、dive等工具分析镜像内容并进一步瘦身，以及如何扫描镜像漏洞（Trivy、Clair）。优化后的镜像不仅节省存储和带宽，还能降低攻击面。",
     "topic": "ops"
   }
 ]
