@@ -1,5 +1,115 @@
 [
   {
+    "id": "bac9a2558446e423c973d074c0ca2fc8",
+    "title_en": "自动化运维实践-阿里云",
+    "source": "aliyun.com",
+    "url": "https://www.aliyun.com/sswb/1640743.html",
+    "published_at": "2026-05-30T08:18:09.040Z",
+    "fetched_at": "2026-05-30T08:18:09.040Z",
+    "title_zh": "自动化运维实践-阿里云",
+    "summary_zh": "本文深入探讨了阿里云环境下的自动化运维实践，涵盖从基础设施即代码（IaC）到持续集成/持续部署（CI/CD）流水线的完整技术栈。重点介绍了如何利用阿里云资源编排（ROS）、运维编排服务（OOS）及弹性伸缩等原生服务，实现云资源的自动化创建、配置与故障自愈。文章还分享了基于Ansible/Terraform的混合云管理方案，以及通过云监控与日志服务构建智能告警体系的实战经验，为运维团队提供了可落地的降本增效方法论。",
+    "topic": "ops"
+  },
+  {
+    "id": "0172292e0b34fc5f0ed012060862cddc",
+    "title_en": "配置最佳实践 | Kubernetes",
+    "source": "kubernetes.ltd",
+    "url": "https://kubernetes.ltd/zh-cn/docs/concepts/configuration/overview/",
+    "published_at": "2026-05-30T08:18:04.713Z",
+    "fetched_at": "2026-05-30T08:18:04.713Z",
+    "title_zh": "配置最佳实践 | Kubernetes",
+    "summary_zh": "本文是 Kubernetes 官方文档中关于配置管理的最佳实践总结，重点介绍了 ConfigMap 和 Secret 的正确使用方法。内容包括如何将配置与镜像分离、敏感信息的安全存储与注入、配置的热更新策略，以及多环境配置管理方案。文章还强调了不可变基础设施理念，推荐将配置作为代码纳入版本控制。对于希望提升 K8s 集群配置管理规范性和安全性的运维与开发人员，本文提供了清晰且权威的指导。",
+    "topic": "ops"
+  },
+  {
+    "id": "2b6043e10babacdf5c56ae14868421cf",
+    "title_en": "20 个Kubernetes 运维技巧：支撑生产级集群稳定运行的实践清单",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/Ring7852/article/details/156205308",
+    "published_at": "2026-05-30T08:18:04.713Z",
+    "fetched_at": "2026-05-30T08:18:04.713Z",
+    "title_zh": "20 个 Kubernetes 运维技巧：支撑生产级集群稳定运行的实践清单",
+    "summary_zh": "本文总结了 20 个经过生产验证的 Kubernetes 运维技巧，涵盖集群监控、日志管理、资源配额、节点维护、Pod 调度策略、网络策略、备份恢复等核心场景。每个技巧都配有具体的命令或配置示例，并解释了其背后的原理与适用条件。文章旨在帮助运维人员快速定位和解决常见问题，提升集群的稳定性与资源利用率。适合一线 K8s 运维工程师作为日常操作手册使用。",
+    "topic": "ops"
+  },
+  {
+    "id": "c70817f0e85f981f27239d9617adea7d",
+    "title_en": "10个终极Docker容器资源优化技巧：提升性能的完整指南 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/gitblog_00678/article/details/150640542",
+    "published_at": "2026-05-30T08:18:04.713Z",
+    "fetched_at": "2026-05-30T08:18:04.713Z",
+    "title_zh": "10 个终极 Docker 容器资源优化技巧：提升性能的完整指南 - CSDN 博客",
+    "summary_zh": "本文从资源利用率和运行时性能两个维度，总结了 10 个 Docker 容器优化技巧。内容涵盖 CPU 和内存限制的合理配置、存储驱动选择、网络模式调优、日志驱动优化、健康检查策略等。作者结合生产环境中的常见问题，提供了具体的配置参数和调优建议。文章还讨论了 cgroups 和 namespaces 等底层机制对性能的影响，帮助读者理解优化背后的原理。",
+    "topic": "ops"
+  },
+  {
+    "id": "47597554a9090f19a22e6d73289b5c28",
+    "title_en": "[PDF] Linux 操作系统配置安全基线标准与操作指南 - 南京农业大学",
+    "source": "net.njau.edu.cn",
+    "url": "https://net.njau.edu.cn/__local/1/67/A5/D21715B801E6421539442E4C0DB_BBFF938E_692F7.pdf",
+    "published_at": "2026-05-30T08:18:04.713Z",
+    "fetched_at": "2026-05-30T08:18:04.713Z",
+    "title_zh": "PDF Linux 操作系统配置安全基线标准与操作指南 - 南京农业大学",
+    "summary_zh": "本文由南京农业大学发布，是一份 Linux 操作系统安全基线配置的标准化操作指南。内容涵盖账户管理、认证授权、日志审计、网络服务、文件系统权限、内核参数等关键领域，并给出了具体的配置项和合规检查方法。文档以基线标准表格形式呈现，便于管理员逐项对照执行。适用于高校、企业等组织建立统一的主机安全配置规范，提升整体安全防护水平。",
+    "topic": "security"
+  },
+  {
+    "id": "24f66aca6a28f17eea6c5e7a2efb0aa8",
+    "title_en": "为什么Oracle对CVE-2026-21996的“低严重性”评级是一个危险的误判 ...",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=Bw__IG-jxVc",
+    "published_at": "2026-05-30T08:18:04.713Z",
+    "fetched_at": "2026-05-30T08:18:04.713Z",
+    "title_zh": "为什么Oracle对CVE-2026-21996的“低严重性”评级是一个危险的误判",
+    "summary_zh": "本文批判性分析了Oracle对CVE-2026-21996漏洞的严重性评级，指出其“低严重性”判定忽略了实际攻击场景中的连锁利用风险。通过技术论证，展示了该漏洞在特定配置下可被用于远程代码执行或权限提升，CVSS评分存在低估。文章呼吁厂商采用更全面的风险评估模型，并建议安全团队主动进行补丁测试与缓解措施部署。",
+    "topic": "security"
+  },
+  {
+    "id": "f2e7d0e407104949ac66491cce2eddd4",
+    "title_en": "生产环境中的 Linux 性能优化实战指南：从入门到精通的完整攻略 |",
+    "source": "lear.li",
+    "url": "https://www.lear.li/2025/07/21/-Linux/%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%20Linux%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E7%9A%84%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5/",
+    "published_at": "2026-05-30T08:18:04.712Z",
+    "fetched_at": "2026-05-30T08:18:04.712Z",
+    "title_zh": "生产环境中的 Linux 性能优化实战指南：从入门到精通的完整攻略",
+    "summary_zh": "本文是一份面向生产环境的 Linux 性能优化实战指南，涵盖从基础到高级的完整知识体系。内容包括 CPU、内存、磁盘 I/O、网络等核心子系统的性能分析与调优方法，以及常用工具如 perf、strace、top、iostat 的使用技巧。文章强调理论与实践结合，提供了大量真实案例和可复用的优化策略，帮助运维工程师系统性地提升系统吞吐量、降低延迟，并确保服务在高负载下的稳定性。适合有一定 Linux 基础、希望深入掌握性能调优的读者。",
+    "topic": "ops"
+  },
+  {
+    "id": "2c05ae1d8c474b791f3ca7eeb5131ece",
+    "title_en": "[Linux操作系统]Linux服务器维护技巧，提升服务器稳定性和安全性的关键策略|linux服务器维护教程,linux 服务器维护技巧,Linux操作系统,云主机博士",
+    "source": "yunzhujiboshi.com",
+    "url": "https://www.yunzhujiboshi.com/2026/05/1652591.html",
+    "published_at": "2026-05-30T08:18:01.657Z",
+    "fetched_at": "2026-05-30T08:18:01.657Z",
+    "title_zh": "Linux服务器维护技巧：提升稳定性和安全性的关键策略",
+    "summary_zh": "本文系统介绍了Linux服务器维护的核心技巧，重点围绕提升系统稳定性与安全性展开。内容涵盖内核参数优化、文件系统维护、日志管理、用户权限最小化、防火墙配置（iptables/firewalld）、SSH安全加固、定期安全审计等关键策略。提供了可落地的配置示例与检查清单，帮助运维人员构建高可靠、高安全的Linux服务器环境。",
+    "topic": "ops"
+  },
+  {
+    "id": "29df93622734bfe55adcbf9be4d3c7eb",
+    "title_en": "“逐帧时代”终结？自变量机器人全球首个“事件级预测能力”世界模型落地 具身智能加速规模化商用竞争|机器人_新浪财经_新浪网",
+    "source": "finance.sina.com.cn",
+    "url": "https://finance.sina.com.cn/roll/2026-05-30/doc-inhzrzut7048947.shtml",
+    "published_at": "2026-05-30T08:18:01.656Z",
+    "fetched_at": "2026-05-30T08:18:01.656Z",
+    "title_zh": "“逐帧时代”终结？自变量机器人全球首个“事件级预测能力”世界模型落地",
+    "summary_zh": "本文报道了自变量机器人发布的全球首个具备“事件级预测能力”的世界模型，该模型不再依赖逐帧图像处理，而是直接预测物理世界中的事件序列，大幅提升了具身智能在复杂环境中的决策效率与鲁棒性。文章探讨了该技术对机器人规模化商用竞争的意义，以及与传统端到端方法的差异。适合机器人、自动驾驶及具身智能领域的研究者。",
+    "topic": "ai"
+  },
+  {
+    "id": "e04497893b2fbcaae2e095fd6dddf7eb",
+    "title_en": "GPT-5.3上线Codex，OpenAI回应Claude新模型只用了15分钟-36氪",
+    "source": "36kr.com",
+    "url": "https://www.36kr.com/p/3671505759298178",
+    "published_at": "2026-05-30T08:18:01.656Z",
+    "fetched_at": "2026-05-30T08:18:01.656Z",
+    "title_zh": "GPT-5.3上线Codex，OpenAI回应Claude新模型只用了15分钟",
+    "summary_zh": "本文报道了OpenAI发布GPT-5.3并集成Codex能力，同时披露其仅用15分钟便完成了对Claude新模型的回应。文章分析了GPT-5.3在代码生成、执行与调试方面的提升，以及OpenAI快速迭代背后的技术架构与工程策略。对于关注AI编程工具竞争与模型部署效率的开发者，提供了有价值的行业动态。",
+    "topic": "ai"
+  },
+  {
     "id": "45184a49070261ce141dea6ddc134023",
     "title_en": "万字长文---手把手教你加固内核安全配置",
     "source": "zhuanlan.zhihu.com",
@@ -2088,115 +2198,5 @@
     "title_zh": "GitHub - ansiblecn/Ansible_Practice_Book: Ansible实践手册",
     "summary_zh": "这是一个开源的Ansible实践手册项目，由社区维护，旨在提供从入门到精通的完整学习路径。手册涵盖了Ansible核心概念、Playbook编写、角色设计、变量管理、模板渲染及与Docker/Kubernetes的集成。每个章节均配有可运行的示例代码与实战场景，如自动化部署Web服务、配置负载均衡、管理数据库集群等。对于运维工程师和DevOps从业者，本项目是快速上手Ansible的优质资源，也可作为企业内部培训的参考资料。代码仓库持续更新，支持社区贡献。",
     "topic": "ops"
-  },
-  {
-    "id": "63543b437b59e3640f6670f2e5cd8b4f",
-    "title_en": "清华大学出版社--图书详情",
-    "source": "tup.com.cn",
-    "url": "https://www.tup.com.cn/booksCenter/book_11433501.html",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "清华大学出版社--图书详情",
-    "summary_zh": "该页面为清华大学出版社某技术图书的详情介绍，具体内容需进一步访问确认。通常此类页面会提供书籍的目录、作者简介、内容摘要及读者评价。对于技术从业者，清华大学出版社出版的计算机类书籍通常具有较高的学术权威性与实践指导价值，涵盖操作系统、网络、算法、人工智能等方向。建议根据具体书名判断是否与自身技术栈相关，可重点关注其实验案例与代码资源。",
-    "topic": "other"
-  },
-  {
-    "id": "8ed80d49630927ecbef5bdb91e5f097b",
-    "title_en": "清华大学出版社--图书详情",
-    "source": "tup.tsinghua.edu.cn",
-    "url": "http://www.tup.tsinghua.edu.cn/bookscenter/book_10820301.html",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "清华大学出版社--图书详情",
-    "summary_zh": "该页面为清华大学出版社另一技术图书的详情页，具体主题需进一步查看。清华大学出版社在计算机与信息技术领域出版了大量经典教材与专业参考书，内容覆盖从基础理论到前沿技术。对于技术读者，建议根据书籍分类（如人工智能、网络安全、系统架构等）判断其适用性，并关注书中是否包含实验环境、代码仓库或在线资源。此类图书通常适合系统学习或作为团队技术沉淀的参考资料。",
-    "topic": "other"
-  },
-  {
-    "id": "d520b22848d25e4f8bca9cb864fbae17",
-    "title_en": "内核热补丁概述-Alibaba Cloud Linux(Alinux) - 阿里云文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/alinux/user-guide/kernel-live-patching/",
-    "published_at": "2026-05-24T19:04:23.841Z",
-    "fetched_at": "2026-05-24T19:04:23.841Z",
-    "title_zh": "内核热补丁概述 - 阿里云Linux（Alinux）",
-    "summary_zh": "本文详细介绍了阿里云Linux（Alinux）内核热补丁技术的原理与实现机制。内核热补丁允许在不重启系统或停止服务的情况下，动态修复运行中内核的安全漏洞或逻辑错误，极大提升了生产环境的可用性与安全性。文章从热补丁的生成、加载、应用到回滚全流程进行解析，并对比了与传统内核升级方案的优劣。对于运维人员而言，掌握热补丁技术可有效降低内核漏洞修复带来的停机风险，是保障关键业务连续性的重要手段。文中还提供了Alinux环境下的最佳实践与注意事项，适合需要高可用内核管理的工程师参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "075cc54ad37b1642400945b4023b3c46",
-    "title_en": "Dirty Frag——又一个Linux内核提权漏洞，Ubuntu又双叒叕中招了 | 姓王者的博客",
-    "source": "xingwangzhe.fun",
-    "url": "https://xingwangzhe.fun/posts/dirty-frag-linux-lpe/",
-    "published_at": "2026-05-24T19:04:23.841Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "Dirty Frag——又一个Linux内核提权漏洞，Ubuntu又双叒叕中招了",
-    "summary_zh": "本文深入分析了新发现的Linux内核提权漏洞Dirty Frag，该漏洞影响多个Ubuntu版本，攻击者可利用其实现本地权限提升。文章从漏洞成因入手，详细解释了内核内存管理中的碎片整理机制缺陷如何被利用，并提供了漏洞复现步骤与缓解措施。对于安全运维人员，理解Dirty Frag的攻击路径有助于加固系统配置，及时应用补丁。文中还对比了类似漏洞（如Dirty Pipe）的异同，强调了内核内存子系统安全审计的重要性。建议所有受影响版本用户立即更新内核或启用临时缓解方案。",
-    "topic": "security"
-  },
-  {
-    "id": "4de9db11f3092405603dd40ef44be5c7",
-    "title_en": "Linux 服务器加固清单 | FDC 服务器",
-    "source": "fdcservers.net",
-    "url": "https://fdcservers.net/zh-hans/blog/linux-server-hardening-checklist",
-    "published_at": "2026-05-24T19:04:20.454Z",
-    "fetched_at": "2026-05-24T19:04:20.454Z",
-    "title_zh": "Linux服务器加固清单",
-    "summary_zh": "本文提供了一份实用的Linux服务器安全加固清单，涵盖物理安全、BIOS保护、磁盘加密（LUKS）、GRUB密码、系统更新策略、用户账户管理、SSH配置、防火墙规则、日志审计以及定期备份。每项检查点均附有操作命令和验证方法，适合运维人员作为日常安全巡检的参考模板，确保服务器基础安全配置无遗漏。",
-    "topic": "security"
-  },
-  {
-    "id": "348cf995656ffeb9b3d7b0cc60db7a82",
-    "title_en": "安全加固工具 | 文档 | openEuler社区",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/24.03_LTS_SP2/server/security/secharden/security_hardening_tools.html",
-    "published_at": "2026-05-24T19:04:20.454Z",
-    "fetched_at": "2026-05-24T19:04:20.454Z",
-    "title_zh": "openEuler安全加固工具",
-    "summary_zh": "本文介绍了openEuler社区提供的安全加固工具，包括secGear（机密计算框架）、secPaver（安全策略自动化生成）、以及secScanner（安全基线扫描）。重点讲解了如何利用这些工具实现系统安全配置的自动化检测与修复，支持等保2.0和CIS基准。提供了命令行和API两种使用方式，并给出了针对鲲鹏架构的优化建议。",
-    "topic": "security"
-  },
-  {
-    "id": "d01fa4cfdd27b4a9527ef0009fd93657",
-    "title_en": "安全和强化指南 - SUSE Linux Enterprise Server 15 SP6",
-    "source": "documentation.suse.com",
-    "url": "https://documentation.suse.com/zh-cn/sles/15-SP6/pdf/book-security_zh_cn.pdf",
-    "published_at": "2026-05-24T19:04:20.454Z",
-    "fetched_at": "2026-05-24T19:04:20.454Z",
-    "title_zh": "SUSE Linux Enterprise Server 15 SP6 安全与强化指南",
-    "summary_zh": "本文是SUSE官方文档，详细介绍了SLES 15 SP6的安全强化功能，包括AppArmor强制访问控制、SUSE Firewall（基于nftables）、系统加密策略、安全更新管理（SUSE Manager）、以及审计子系统（auditd）。重点阐述了如何通过YaST工具进行图形化安全配置，以及利用SUSE Security Module实现内核级防护。提供了针对容器和云环境的额外安全建议。",
-    "topic": "security"
-  },
-  {
-    "id": "6239666e83ef3afc7c6c7cb789192766",
-    "title_en": "从零到一：服务器安全加固全流程实战指南-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2563718",
-    "published_at": "2026-05-24T19:04:20.454Z",
-    "fetched_at": "2026-05-24T19:04:20.454Z",
-    "title_zh": "从零到一：服务器安全加固全流程实战指南",
-    "summary_zh": "本文以实战为导向，从服务器初始部署开始，逐步讲解安全加固的全流程。内容包括操作系统最小化安装、账户权限管理、SSH安全配置、防火墙策略、入侵检测与防御（Fail2ban、Snort）、日志集中管理（ELK）、文件完整性校验（Tripwire）、以及定期安全扫描（Nmap、OpenVAS）。每步均提供命令示例和配置模板，适合新手快速上手。",
-    "topic": "security"
-  },
-  {
-    "id": "fa3179d5a0e22b9cc598c17b13ab5024",
-    "title_en": "rheodev/CVE-2026-42945",
-    "source": "github.com",
-    "url": "https://github.com/rheodev/CVE-2026-42945",
-    "published_at": "2026-05-24T19:04:20.454Z",
-    "fetched_at": "2026-05-24T19:04:20.454Z",
-    "title_zh": "CVE-2026-42945漏洞分析与利用",
-    "summary_zh": "本文深入分析了CVE-2026-42945漏洞的技术细节，包括漏洞成因（如缓冲区溢出、未授权访问）、影响范围（相关软件版本）、利用条件（攻击向量、前置权限）以及复现步骤。提供了临时缓解措施（如配置防火墙规则、禁用受影响功能）和永久修复方案（升级补丁或更新配置）。适合安全研究人员和系统管理员评估风险并制定应急响应计划。",
-    "topic": "security"
-  },
-  {
-    "id": "2b3f7eee6d86ec4dc748c1a436990f90",
-    "title_en": "CVE-2026-8153深度剖析：未认证命令注入攻陷全球5万台工业机器人，OT安全防线全面告急-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/weixin_42376192/article/details/161334453",
-    "published_at": "2026-05-24T19:04:20.454Z",
-    "fetched_at": "2026-05-24T19:04:20.454Z",
-    "title_zh": "CVE-2026-8153深度剖析：未认证命令注入攻陷全球5万台工业机器人",
-    "summary_zh": "本文深度剖析了CVE-2026-8153漏洞，该漏洞允许未认证攻击者通过命令注入远程控制工业机器人，影响全球约5万台设备。详细分析了漏洞的触发条件（如Web接口输入验证缺失）、攻击链（从初始访问到完全控制）以及潜在危害（生产中断、物理损坏）。提供了OT环境下的应急响应建议，包括网络隔离、固件升级和入侵检测规则部署。",
-    "topic": "security"
   }
 ]
