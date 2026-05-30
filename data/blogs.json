@@ -1,5 +1,82 @@
 [
   {
+    "id": "28b0f8b52aac7077987eeadf20162031",
+    "title_en": "系统运维管理OOS - 统一自动化运维编排管理- 阿里云",
+    "source": "aliyun.com",
+    "url": "https://www.aliyun.com/product/oos",
+    "published_at": "2026-05-30T19:00:53.930Z",
+    "fetched_at": "2026-05-30T19:00:53.930Z",
+    "title_zh": "系统运维管理OOS - 统一自动化运维编排管理- 阿里云",
+    "summary_zh": "本文介绍阿里云系统运维管理OOS（Operation Orchestration Service），一种统一自动化运维编排管理服务。详细阐述OOS如何通过模板化任务定义、定时触发与事件驱动机制，实现云资源的批量操作、补丁管理、配置漂移修复等场景。文章还提供了OOS与Ansible、Terraform等工具的对比分析，以及在大规模集群中实现自动化运维的最佳实践，帮助运维团队降低人工干预，提升运维效率。",
+    "topic": "ops"
+  },
+  {
+    "id": "f424467073ba746b94ec4ff23758b216",
+    "title_en": "运维自动化的最佳实践探索 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/1541502",
+    "published_at": "2026-05-30T19:00:53.930Z",
+    "fetched_at": "2026-05-30T19:00:53.930Z",
+    "title_zh": "运维自动化的最佳实践探索 - 腾讯云",
+    "summary_zh": "本文由腾讯云分享运维自动化的最佳实践，涵盖从基础设施即代码（IaC）到持续部署与合规审计的全流程。重点介绍如何利用Terraform、Ansible与Jenkins构建自动化流水线，实现云资源的声明式管理与版本控制。文章还讨论了自动化运维中的安全加固、权限管控与变更管理策略，并结合腾讯云实际案例展示自动化在故障恢复与成本优化中的效果。适合云运维团队参考，提升运维效率与系统可靠性。",
+    "topic": "ops"
+  },
+  {
+    "id": "1d692a0c88b37a604f8abdb824412731",
+    "title_en": "银河麒麟高级服务器操作系统V10 SP3，如何进行加固？ - 网硕互联帮助中心",
+    "source": "wsisp.com",
+    "url": "https://www.wsisp.com/helps/65359.html",
+    "published_at": "2026-05-30T19:00:51.091Z",
+    "fetched_at": "2026-05-30T19:00:51.092Z",
+    "title_zh": "银河麒麟高级服务器操作系统V10 SP3，如何进行加固？",
+    "summary_zh": "本文针对银河麒麟高级服务器操作系统V10 SP3，提供了详细的安全加固操作指南。内容涵盖：系统账户与密码策略配置（如PAM模块调优）、SSH安全增强（禁用root登录、使用密钥认证）、防火墙与SELinux启用、内核参数安全优化（如禁用IP转发、开启SYN Cookie）、以及日志审计配置（rsyslog与auditd）。文章还介绍了如何通过CIS基线工具进行合规性检查，是国产操作系统运维人员的实用手册。",
+    "topic": "security"
+  },
+  {
+    "id": "fffa633064ccdd42ea0d743760d19f35",
+    "title_en": "系统分析和微调指南 - SUSE Linux Enterprise Server 15 SP4",
+    "source": "documentation.suse.com",
+    "url": "https://documentation.suse.com/zh-cn/sles/15-SP4/pdf/book-tuning_zh_cn.pdf",
+    "published_at": "2026-05-30T19:00:51.090Z",
+    "fetched_at": "2026-05-30T19:00:51.090Z",
+    "title_zh": "系统分析和微调指南 - SUSE Linux Enterprise Server 15 SP4",
+    "summary_zh": "SUSE官方文档，针对SLES 15 SP4系统提供了系统分析与微调的详细指南。涵盖系统资源监控、内核参数调优、内存管理、I/O调度、网络优化等主题。每个调优项均给出了推荐配置与影响说明，并提供了性能基准测试方法。适合SUSE环境下的系统管理员参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "f6db0d0471c779fe9b2bbf76b6213893",
+    "title_en": "智能体开发实战：从零构建一个能够自主决策的Agent系统（保姆级 ...",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2658641",
+    "published_at": "2026-05-30T19:00:46.649Z",
+    "fetched_at": "2026-05-30T19:00:46.649Z",
+    "title_zh": "智能体开发实战：从零构建一个能够自主决策的Agent系统（保姆级）",
+    "summary_zh": "本文以保姆级教程的形式，手把手指导读者从零开始构建一个能够自主决策的AI Agent系统。内容从环境搭建、依赖安装开始，逐步讲解如何设计Agent的感知、推理和行动模块。重点演示了如何利用ReAct模式让Agent根据环境反馈动态调整策略，并集成了简单的工具调用（如文件读写、API请求）。代码注释详尽，逻辑清晰，非常适合没有任何Agent开发经验但希望动手实践的初学者。",
+    "topic": "ai"
+  },
+  {
+    "id": "1c3a0ac00fa273e6067188ab5b069b19",
+    "title_en": "[Linux操作系统]Linux服务器维护技巧，提升服务器稳定性和安全性的关键策略|linux服务器维护教程,linux 服务器维护技巧,Linux操作系统,云主机博士",
+    "source": "yunzhujiboshi.com",
+    "url": "https://www.yunzhujiboshi.com/2026/04/1603214.html",
+    "published_at": "2026-05-30T19:00:46.649Z",
+    "fetched_at": "2026-05-30T19:00:46.649Z",
+    "title_zh": "Linux服务器维护技巧：提升稳定性和安全性的关键策略",
+    "summary_zh": "本文聚焦于Linux服务器维护中的稳定性与安全性提升策略，涵盖内核参数调优、防火墙配置、SSH安全加固、入侵检测、日志审计等关键措施。通过实际案例，演示了如何通过系统监控、定期更新、权限最小化等手段防范常见攻击，确保服务器长期稳定运行。",
+    "topic": "ops"
+  },
+  {
+    "id": "3f7de4b7b7346aa672e55e0c19c17638",
+    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
+    "source": "edu.aliyun.com",
+    "url": "https://edu.aliyun.com/course/314200/",
+    "published_at": "2026-05-30T19:00:46.649Z",
+    "fetched_at": "2026-05-30T19:00:46.649Z",
+    "title_zh": "Linux服务器运维基本操作",
+    "summary_zh": "阿里云认证课程配套文档，系统讲解Linux服务器运维的基本操作，包括远程连接、文件管理、进程管理、软件包管理、磁盘管理、网络诊断等。每个操作均配有命令详解与实战场景，并强调了安全操作规范。适合运维新手快速上手。",
+    "topic": "ops"
+  },
+  {
     "id": "08b48ed4ee42cceed5599bd69cfde250",
     "title_en": "[PDF] Python自动化运维：技术与最佳实践 - Hello-World",
     "source": "hello.choong.net",
@@ -2121,82 +2198,5 @@
     "title_zh": "CPU处理器内核Meltdown与Spectre漏洞深度分析",
     "summary_zh": "本文详细分析了Meltdown和Spectre两大CPU侧信道攻击漏洞的原理、影响范围及攻击向量。Meltdown利用乱序执行机制突破内核内存隔离，而Spectre则通过分支预测训练诱导信息泄露。文章深入探讨了KPTI（内核页表隔离）、retpoline等缓解措施的性能开销与局限性，并给出了针对不同处理器架构的修复建议。对于系统安全工程师和内核开发者而言，理解这些硬件漏洞的底层机制是构建纵深防御体系的关键。",
     "topic": "security"
-  },
-  {
-    "id": "2cca3ef8b0ae86ed5f50b7333b0bc415",
-    "title_en": "潜伏9年通杀全版本：Copy Fail Linux内核提权漏洞深度解析（CVE-2026-31431） - 云栈社区",
-    "source": "yunpan.plus",
-    "url": "https://yunpan.plus/t/24198-1-1",
-    "published_at": "2026-05-25T02:36:19.253Z",
-    "fetched_at": "2026-05-25T02:36:19.253Z",
-    "title_zh": "潜伏9年通杀全版本：Copy Fail Linux内核提权漏洞深度解析（CVE-2026-31431）",
-    "summary_zh": "本文深度剖析了编号CVE-2026-31431的Linux内核提权漏洞，该漏洞在copy_from_user等内存拷贝函数中存在条件竞争，影响所有内核版本长达9年。文章从漏洞触发路径、利用原语构造到提权实现进行了完整的技术拆解，并给出了内核补丁分析及临时缓解措施。对于安全研究员和系统管理员，本文提供了从漏洞发现到修复验证的全链路参考，具有极高的实战价值。",
-    "topic": "security"
-  },
-  {
-    "id": "e10a47db039552f5aca9b68f1e5cfb85",
-    "title_en": "Docker容器优化-阿里云",
-    "source": "aliyun.com",
-    "url": "https://www.aliyun.com/sswb/745299.html",
-    "published_at": "2026-05-25T02:36:16.461Z",
-    "fetched_at": "2026-05-25T02:36:16.461Z",
-    "title_zh": "Docker容器优化",
-    "summary_zh": "阿里云出品的Docker容器优化指南，聚焦于生产环境中容器的性能与稳定性提升。内容涵盖镜像构建优化（减少层数、利用构建缓存、使用Alpine等轻量基础镜像）、运行时资源限制（内存与CPU的cgroup配置）、日志管理（避免容器内日志无限增长）、数据持久化方案（Volume vs Bind Mount）以及安全最佳实践（非root用户运行、只读文件系统）。适合云原生环境下的容器使用者。",
-    "topic": "ops"
-  },
-  {
-    "id": "ab575a41814d7092e5a01d573c239b66",
-    "title_en": "操作系统加固概述 | openEuler文档 | openEuler社区 | v22.03_LTS_SP3",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS_SP3/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
-    "published_at": "2026-05-25T02:36:16.461Z",
-    "fetched_at": "2026-05-25T02:36:16.461Z",
-    "title_zh": "操作系统加固概述 | openEuler文档",
-    "summary_zh": "本文档基于openEuler 22.03 LTS SP3版本，系统阐述了操作系统安全加固的总体框架与实施要点。内容涵盖身份鉴别、访问控制、安全审计、入侵防范、资源控制等关键安全域，并针对内核参数、服务管理、文件系统挂载选项等给出具体配置建议。适合企业级Linux环境下的安全基线建设参考，强调合规性与可操作性。",
-    "topic": "security"
-  },
-  {
-    "id": "17cedd48c53af01551627224422d87b6",
-    "title_en": "大模型微调完整指南 - LoRA/QLoRA实战",
-    "source": "nuik.cn",
-    "url": "https://www.nuik.cn/agent/finetune",
-    "published_at": "2026-05-25T02:36:12.374Z",
-    "fetched_at": "2026-05-25T02:36:12.374Z",
-    "title_zh": "大模型微调完整指南 - LoRA/QLoRA实战",
-    "summary_zh": "本文是一份面向实战的大模型微调指南，聚焦LoRA与QLoRA两种主流参数高效微调方法。内容从环境配置、模型加载、数据集构建到训练与推理，提供了完整的代码示例。作者重点对比了LoRA与QLoRA在显存占用、训练速度、模型性能上的差异，并给出了不同硬件条件下的选型建议。此外还涵盖了量化、合并、部署等生产环节，适合有微调需求的工程师直接参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "01935e2c2288ac8d7c236e734c7e24cf",
-    "title_en": "大模型参数高效微调技术原理综述（七）-最佳实践、总结 - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/649755252)",
-    "published_at": "2026-05-25T02:36:12.374Z",
-    "fetched_at": "2026-05-25T02:36:12.374Z",
-    "title_zh": "大模型参数高效微调技术原理综述（七）-最佳实践、总结",
-    "summary_zh": "本文是大模型参数高效微调技术综述系列的收官篇，系统总结了LoRA、Adapter、Prefix Tuning、Prompt Tuning等主流方法的最佳实践。内容涵盖：不同微调方法的适用场景对比、超参数调优指南、训练稳定性提升技巧、多任务微调策略以及模型评估与部署建议。作者还给出了从数据准备到上线监控的全流程checklist，为工程师提供了可落地的技术决策框架。",
-    "topic": "ai"
-  },
-  {
-    "id": "52676756b1cde828821f12bf1f0a78dc",
-    "title_en": "[PDF] Linux 云服务器运维产品文档",
-    "source": "mc.qcloudimg.com",
-    "url": "https://mc.qcloudimg.com/static/qc_doc/444e862e59c420fca504407be3be225c/doc-Cloud%20Virtual%20Machine-Linux%20CVM%20Operation%20Manual.pdf",
-    "published_at": "2026-05-25T02:36:12.374Z",
-    "fetched_at": "2026-05-25T02:36:12.374Z",
-    "title_zh": "PDF Linux 云服务器运维产品文档",
-    "summary_zh": "本文档为Linux云服务器运维的官方产品手册，系统涵盖了服务器初始化、网络配置、安全组规则、磁盘管理、监控告警、日志分析等核心运维场景。内容以操作指南和最佳实践为主，包括常用命令详解、性能调优参数、故障排查流程等。适合云服务器运维人员作为日常参考手册，帮助快速定位问题并提升运维效率。",
-    "topic": "ops"
-  },
-  {
-    "id": "8f19acb28c8910eac63efc38d92842f5",
-    "title_en": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
-    "source": "github.com",
-    "url": "https://github.com/mingongge/BestSRE",
-    "published_at": "2026-05-25T02:36:12.374Z",
-    "fetched_at": "2026-05-25T02:36:12.374Z",
-    "title_zh": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
-    "summary_zh": "该项目是Linux运维工程师的技能成长路线图，系统整理了从初级到高级所需掌握的知识体系。内容包括：Linux基础命令与系统管理、Shell脚本编程、网络与安全、监控与日志、自动化运维（Ansible/SaltStack）、容器与Kubernetes、数据库运维、故障排查与性能优化等。每个阶段配有学习资源与实践项目，是运维工程师系统提升的优质参考。",
-    "topic": "ops"
   }
 ]
