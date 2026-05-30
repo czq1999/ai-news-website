@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-05-30",
-      "summary_zh": "今日GitHub热门项目聚焦AI视频生成、文档转换、AI编程工具及英语学习，涵盖短视频、Markdown转换、Claude Code等实用工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI工具：一键生成短视频、文档转Markdown、智能编程助手、开源CRM及英语学习指南，涵盖内容创作与效率提升。",
       "projects": [
         {
           "rank": 1,
@@ -10,59 +10,59 @@
           "url": "https://github.com/harry0703/MoneyPrinterTurbo",
           "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
           "language": "Python",
-          "stars_total": 70625,
-          "stars_today": 3567,
-          "description_zh": "利用AI大模型，一键生成高清短视频"
+          "stars_total": 71223,
+          "stars_today": 2775,
+          "description_zh": "利用AI大模型，一键生成高清短视频。"
         },
         {
           "rank": 2,
-          "name": "Leonxlnx/taste-skill",
-          "url": "https://github.com/Leonxlnx/taste-skill",
-          "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-          "language": "Shell",
-          "stars_total": 28534,
-          "stars_today": 2062,
-          "description_zh": "Taste-Skill - 为你的AI赋予良好品味，阻止AI生成无聊、千篇一律的劣质内容"
-        },
-        {
-          "rank": 3,
           "name": "microsoft/markitdown",
           "url": "https://github.com/microsoft/markitdown",
           "description_en": "Python tool for converting files and office documents to Markdown.",
           "language": "Python",
-          "stars_total": 130649,
-          "stars_today": 1873,
-          "description_zh": "用于将文件和办公文档转换为Markdown的Python工具"
+          "stars_total": 131131,
+          "stars_today": 2473,
+          "description_zh": "用于将文件和办公文档转换为Markdown的Python工具。"
+        },
+        {
+          "rank": 3,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "Shell",
+          "stars_total": 28813,
+          "stars_today": 1310,
+          "description_zh": "Taste-Skill——赋予你的AI良好品味，阻止AI生成无聊、千篇一律的劣质内容。"
         },
         {
           "rank": 4,
-          "name": "byoungd/English-level-up-tips",
-          "url": "https://github.com/byoungd/English-level-up-tips",
-          "description_en": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-          "language": "",
-          "stars_total": 49818,
-          "stars_today": 1566,
-          "description_zh": "一份可能让你受益匪浅的英语进阶指南 🎉"
-        },
-        {
-          "rank": 5,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 198790,
-          "stars_today": 1406,
-          "description_zh": "智能体工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持"
-        },
-        {
-          "rank": 6,
           "name": "DigitalPlatDev/FreeDomain",
           "url": "https://github.com/DigitalPlatDev/FreeDomain",
           "description_en": "DigitalPlat FreeDomain: Free Domain For Everyone",
           "language": "HTML",
-          "stars_total": 172081,
-          "stars_today": 1313,
-          "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名"
+          "stars_total": 172292,
+          "stars_today": 979,
+          "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名。"
+        },
+        {
+          "rank": 5,
+          "name": "run-llama/liteparse",
+          "url": "https://github.com/run-llama/liteparse",
+          "description_en": "A fast, helpful, and open-source document parser",
+          "language": "Rust",
+          "stars_total": 7669,
+          "stars_today": 929,
+          "description_zh": "一个快速、实用且开源的文档解析器。"
+        },
+        {
+          "rank": 6,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 198939,
+          "stars_today": 918,
+          "description_zh": "智能体工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
         },
         {
           "rank": 7,
@@ -70,59 +70,59 @@
           "url": "https://github.com/codecrafters-io/build-your-own-x",
           "description_en": "Master programming by recreating your favorite technologies from scratch.",
           "language": "Markdown",
-          "stars_total": 507599,
-          "stars_today": 866,
-          "description_zh": "通过从头重建你喜爱的技术来掌握编程"
+          "stars_total": 507755,
+          "stars_today": 814,
+          "description_zh": "通过从零重建你喜爱的技术来掌握编程。"
         },
         {
           "rank": 8,
-          "name": "run-llama/liteparse",
-          "url": "https://github.com/run-llama/liteparse",
-          "description_en": "A fast, helpful, and open-source document parser",
-          "language": "Rust",
-          "stars_total": 7539,
-          "stars_today": 701,
-          "description_zh": "一个快速、实用且开源的文档解析器"
+          "name": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "description_en": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "",
+          "stars_total": 50010,
+          "stars_today": 700,
+          "description_zh": "一份可能让你受益匪浅的英语进阶指南🎉。离谱的英语学习指南/英语学习教程/英语学习/学英语。"
         },
         {
           "rank": 9,
-          "name": "hardikpandya/stop-slop",
-          "url": "https://github.com/hardikpandya/stop-slop",
-          "description_en": "A skill file for removing AI tells from prose",
-          "language": "",
-          "stars_total": 7134,
-          "stars_today": 617,
-          "description_zh": "用于从散文中去除AI痕迹的技能文件"
-        },
-        {
-          "rank": 10,
-          "name": "twentyhq/twenty",
-          "url": "https://github.com/twentyhq/twenty",
-          "description_en": "The open alternative to Salesforce, designed for AI.",
-          "language": "TypeScript",
-          "stars_total": 48547,
-          "stars_today": 578,
-          "description_zh": "专为AI设计的开源Salesforce替代方案"
-        },
-        {
-          "rank": 11,
           "name": "anthropics/claude-code",
           "url": "https://github.com/anthropics/claude-code",
           "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "Python",
-          "stars_total": 128060,
-          "stars_today": 395,
-          "description_zh": "Claude Code是一款驻留在终端中的智能编码工具，它能理解你的代码库，通过执行日常任务、解释复杂代码和处理Git工作流来帮助你更快地编码——全程使用自然语言指令"
+          "stars_total": 128174,
+          "stars_today": 595,
+          "description_zh": "Claude Code是一款驻留在终端中的智能编码工具，它能理解你的代码库，通过自然语言指令执行日常任务、解释复杂代码和处理Git工作流，从而帮助你更快地编码。"
+        },
+        {
+          "rank": 10,
+          "name": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description_en": "A skill file for removing AI tells from prose",
+          "language": "",
+          "stars_total": 7245,
+          "stars_today": 523,
+          "description_zh": "一个用于去除散文中AI痕迹的技能文件。"
+        },
+        {
+          "rank": 11,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description_en": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars_total": 48630,
+          "stars_today": 485,
+          "description_zh": "专为AI设计的开源Salesforce替代方案。"
         },
         {
           "rank": 12,
-          "name": "galilai-group/stable-worldmodel",
-          "url": "https://github.com/galilai-group/stable-worldmodel",
-          "description_en": "A platform for reproducible world model research and evaluation",
-          "language": "Python",
-          "stars_total": 1316,
-          "stars_today": 362,
-          "description_zh": "一个用于可复现世界模型研究与评估的平台"
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "language": "TypeScript",
+          "stars_total": 27159,
+          "stars_today": 473,
+          "description_zh": "N.O.M.A.D项目，是一款自包含的离线生存计算机，内置关键工具、知识和AI，让你随时随地保持知情并拥有自主能力。"
         },
         {
           "rank": 13,
@@ -130,19 +130,19 @@
           "url": "https://github.com/EveryInc/compound-engineering-plugin",
           "description_en": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
           "language": "TypeScript",
-          "stars_total": 18246,
-          "stars_today": 353,
-          "description_zh": "适用于Claude Code、Codex、Cursor等工具的官方复合工程插件"
+          "stars_total": 18305,
+          "stars_today": 348,
+          "description_zh": "适用于Claude Code、Codex、Cursor等工具的官方复合工程插件。"
         },
         {
           "rank": 14,
-          "name": "Crosstalk-Solutions/project-nomad",
-          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-          "language": "TypeScript",
-          "stars_total": 27078,
-          "stars_today": 318,
-          "description_zh": "Project N.O.M.A.D，一款自包含的离线生存计算机，内置关键工具、知识和AI，让你随时随地保持信息灵通并具备行动力"
+          "name": "galilai-group/stable-worldmodel",
+          "url": "https://github.com/galilai-group/stable-worldmodel",
+          "description_en": "A platform for reproducible world model research and evaluation",
+          "language": "Python",
+          "stars_total": 1369,
+          "stars_today": 319,
+          "description_zh": "一个用于可复现世界模型研究与评估的平台。"
         },
         {
           "rank": 15,
@@ -150,9 +150,9 @@
           "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
           "description_en": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
           "language": "Jupyter Notebook",
-          "stars_total": 41645,
-          "stars_today": 160,
-          "description_zh": "数据工程训练营是一个为期9周的免费课程，教授如何构建生产级数据管道。下一期将于2026年1月开始。点击下方链接加入课程 👇🏼"
+          "stars_total": 41697,
+          "stars_today": 277,
+          "description_zh": "数据工程训练营是一个为期9周的免费课程，教授如何构建可用于生产环境的数据管道。下一期课程将于2026年1月开始。点击下方链接加入课程👇🏼"
         },
         {
           "rank": 16,
@@ -160,9 +160,9 @@
           "url": "https://github.com/cursor/plugins",
           "description_en": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "stars_total": 1347,
-          "stars_today": 134,
-          "description_zh": "Cursor插件规范及官方插件"
+          "stars_total": 1373,
+          "stars_today": 206,
+          "description_zh": "Cursor插件规范及官方插件。"
         },
         {
           "rank": 17,
@@ -170,8 +170,8 @@
           "url": "https://github.com/Biohub/esm",
           "description_en": "",
           "language": "Jupyter Notebook",
-          "stars_total": 2586,
-          "stars_today": 52,
+          "stars_total": 2597,
+          "stars_today": 98,
           "description_zh": ""
         }
       ]

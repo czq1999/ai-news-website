@@ -1,5 +1,115 @@
 [
   {
+    "id": "08b48ed4ee42cceed5599bd69cfde250",
+    "title_en": "[PDF] Python自动化运维：技术与最佳实践 - Hello-World",
+    "source": "hello.choong.net",
+    "url": "https://hello.choong.net/Technical%20File(PDF)/Python%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%EF%BC%9A%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%88%E5%88%98%E5%A4%A9%E6%96%AF-%E8%91%97%EF%BC%89.pdf",
+    "published_at": "2026-05-30T13:05:51.797Z",
+    "fetched_at": "2026-05-30T13:05:51.797Z",
+    "title_zh": "Python自动化运维：技术与最佳实践",
+    "summary_zh": "Hello-World网站发布的PDF文档，专注于使用Python实现自动化运维的技术方案。内容涵盖Python在系统管理（psutil/paramiko）、网络设备配置（Netmiko/Napalm）、云资源编排（Boto3/Azure SDK）及监控数据采集（Prometheus客户端）等场景的应用。文章提供了大量代码示例与设计模式，并讨论了异常处理、日志记录与并发优化等最佳实践。对于希望用Python提升运维效率的工程师，是一份实用的技术手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "547817446f5e298e629d2f1ed6fe6bce",
+    "title_en": "内核补丁保护- 维基百科，自由的百科全书",
+    "source": "zh.wikipedia.org",
+    "url": "https://zh.wikipedia.org/zh-cn/%E5%86%85%E6%A0%B8%E8%A1%A5%E4%B8%81%E4%BF%9D%E6%8A%A4",
+    "published_at": "2026-05-30T13:05:51.796Z",
+    "fetched_at": "2026-05-30T13:05:51.796Z",
+    "title_zh": "内核补丁保护",
+    "summary_zh": "本文来自维基百科，系统介绍了内核补丁保护（Kernel Patch Protection，简称KPP）的概念与实现机制，主要针对Windows 64位系统。KPP通过检测内核代码段、关键数据结构及驱动程序的未授权修改，防止恶意软件或Rootkit注入。文章深入探讨了其工作原理，包括定时校验、异常处理与系统崩溃触发等策略，并讨论了绕过技术的演进与防御方的应对措施，对安全研究人员理解内核完整性保护有重要参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "291aa3be4a0a011f75d1a6f2d1333508",
+    "title_en": "CVE 漏洞库 - 阿里云漏洞库",
+    "source": "avd.aliyun.com",
+    "url": "https://avd.aliyun.com/nvd/list",
+    "published_at": "2026-05-30T13:05:48.160Z",
+    "fetched_at": "2026-05-30T13:05:48.160Z",
+    "title_zh": "CVE漏洞库 - 阿里云漏洞库",
+    "summary_zh": "阿里云漏洞库（AVD）是一个集中收录CVE漏洞信息的平台，覆盖主流操作系统、数据库、中间件、云原生组件及阿里云产品。该库提供漏洞详情（CVE编号、CVSS评分、影响版本、修复版本）、PoC/EXP链接、安全公告及一键检测脚本。用户可通过API或Web界面查询，支持按产品、时间、严重等级筛选。文章还介绍了如何利用AVD进行资产风险扫描和补丁自动化管理，是云安全运维人员的实用工具。",
+    "topic": "security"
+  },
+  {
+    "id": "239a8828c262ed2cf7befdc0f50c02a8",
+    "title_en": "Kubernetes最简实践 - GitHub Gist",
+    "source": "gist.github.com",
+    "url": "https://gist.github.com/e8cb1f1604a90284a937b363b1f1b0c2",
+    "published_at": "2026-05-30T13:05:48.159Z",
+    "fetched_at": "2026-05-30T13:05:48.159Z",
+    "title_zh": "Kubernetes最简实践 - GitHub Gist",
+    "summary_zh": "本文以最简化的方式介绍了Kubernetes的核心实践。内容聚焦于如何快速搭建一个可用的K8s集群，并部署一个简单的应用。文章通过一系列精炼的命令和YAML示例，演示了Pod、Deployment、Service、ConfigMap等核心资源的使用方法。重点在于帮助初学者理解K8s的基本工作流程，包括应用部署、服务暴露、滚动更新和故障恢复，避免了复杂的理论阐述，强调动手实践，是快速入门K8s的优秀参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "1af6e0158354acf0006daf295939270a",
+    "title_en": "K8s集群运维实战：高效部署与故障排查技巧 - 袋鼠云",
+    "source": "dtstack.com",
+    "url": "https://www.dtstack.com/bbs/article/55578",
+    "published_at": "2026-05-30T13:05:48.159Z",
+    "fetched_at": "2026-05-30T13:05:48.159Z",
+    "title_zh": "K8s集群运维实战：高效部署与故障排查技巧 - 袋鼠云",
+    "summary_zh": "本文分享了Kubernetes集群运维的实战经验，重点聚焦于高效部署与故障排查。在部署方面，文章介绍了使用Helm Chart进行应用标准化部署、利用GitOps实现声明式运维，以及通过HPA实现自动弹性伸缩的最佳实践。在故障排查方面，详细讲解了如何通过kubectl命令、Pod日志、Events事件以及容器内调试工具定位Pod启动失败、节点NotReady、网络不通等常见问题，并提供了系统化的排查思路和实用脚本。",
+    "topic": "ops"
+  },
+  {
+    "id": "b1ec70b31b5feba419db917ec552766b",
+    "title_en": "[PDF] 云安区数字政府办公终端安全加固指引（Window 操作系统）",
+    "source": "yunan.gov.cn",
+    "url": "https://www.yunan.gov.cn/yfyazsj/attachment/0/101/101796/1878259.pdf",
+    "published_at": "2026-05-30T13:05:48.159Z",
+    "fetched_at": "2026-05-30T13:05:48.159Z",
+    "title_zh": "PDF 云安区数字政府办公终端安全加固指引（Window操作系统）",
+    "summary_zh": "本PDF文档为云安区数字政府办公终端（Windows系统）提供安全加固指引，内容涵盖账户与口令策略（强制密码复杂度、定期更换）、系统服务精简（禁用非必要服务）、软件安装管控（白名单机制）、外设管理（USB存储禁用）、网络访问控制（主机防火墙策略）、日志审计（启用审核策略并集中收集）以及病毒防护（安装EDR并定期扫描）。文档以政府办公场景为背景，强调合规性与可操作性，适合政务系统运维人员参考实施。",
+    "topic": "security"
+  },
+  {
+    "id": "3682112b92bf76594d442525712150a4",
+    "title_en": "Linux运维工具箱｜从入门到进阶的完整学习路径（建议收藏）-腾讯云开发者社区-腾讯云",
+    "source": "developer.cloud.tencent.cn",
+    "url": "https://developer.cloud.tencent.cn/article/2664910",
+    "published_at": "2026-05-30T13:05:45.296Z",
+    "fetched_at": "2026-05-30T13:05:45.296Z",
+    "title_zh": "Linux运维工具箱｜从入门到进阶的完整学习路径（建议收藏）-腾讯云开发者社区-腾讯云",
+    "summary_zh": "本文为Linux运维人员规划了一条从入门到进阶的完整学习路径。内容从基础命令、文件系统、用户权限管理讲起，逐步深入到Shell脚本编程、网络配置、服务管理（systemd）。进阶部分涵盖性能调优（CPU、内存、I/O）、安全加固、日志分析以及容器化技术（Docker）。文章还推荐了每个阶段对应的学习资源和实战项目，并提供了腾讯云环境下的实践案例，是一份结构清晰、实用性强的运维学习指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "4c8f0188d1ec1927845cc592d817b2e4",
+    "title_en": "大语言模型微调指引 - 阿里云文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/pai/llm-fine-tuning-experience",
+    "published_at": "2026-05-30T13:05:45.295Z",
+    "fetched_at": "2026-05-30T13:05:45.295Z",
+    "title_zh": "大语言模型微调指引 - 阿里云文档",
+    "summary_zh": "本文是阿里云官方提供的大语言模型微调技术指引文档。内容涵盖了微调的基本概念、适用场景以及基于阿里云PAI平台的完整操作流程。文档详细介绍了如何选择基础模型、准备数据集、配置训练参数（如学习率、批次大小），并提供了使用LoRA等高效微调方法的示例代码。此外，还包含了模型评估、部署以及成本优化方面的建议，是阿里云用户进行模型微调的权威参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "91269538777b2042f20ed589bebaa13a",
+    "title_en": "「智元」自研世界模型“裸考”夺冠！力压谷歌、英伟达等|机器人|模拟器|物理世界|知名企业_网易订阅",
+    "source": "163.com",
+    "url": "https://www.163.com/dy/article/KU63T6SA05568W0A.html",
+    "published_at": "2026-05-30T13:05:45.294Z",
+    "fetched_at": "2026-05-30T13:05:45.294Z",
+    "title_zh": "「智元」自研世界模型“裸考”夺冠！力压谷歌、英伟达等",
+    "summary_zh": "报道智元机器人公司自研的世界模型在未经针对性训练（“裸考”）的情况下，于多项机器人模拟器基准测试中夺冠，性能超越谷歌、英伟达等巨头方案。文章解析该模型在物理世界理解、物体交互、长程任务规划上的技术优势，探讨其背后的架构设计与训练策略，以及对具身智能和机器人领域的潜在影响。",
+    "topic": "ai"
+  },
+  {
+    "id": "760ea9a1cbf118a695dec60be657535b",
+    "title_en": "一小时快速上手AI Agent！从开发框架到应用实战手把手教学",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1atWEzJEf8/",
+    "published_at": "2026-05-30T13:05:45.294Z",
+    "fetched_at": "2026-05-30T13:05:45.295Z",
+    "title_zh": "一小时快速上手AI Agent！从开发框架到应用实战手把手教学",
+    "summary_zh": "本教程面向AI Agent初学者，在一小时内引导完成从环境搭建、框架选择（如LangChain、CrewAI）到构建一个可执行任务的Agent的全流程。涵盖Agent核心概念（工具、记忆、规划）、API调用、多步骤任务分解与执行，并提供一个完整的实战项目（如自动化信息检索与报告生成）。强调动手实践，降低入门门槛。",
+    "topic": "ai"
+  },
+  {
     "id": "bac9a2558446e423c973d074c0ca2fc8",
     "title_en": "自动化运维实践-阿里云",
     "source": "aliyun.com",
@@ -2087,116 +2197,6 @@
     "fetched_at": "2026-05-25T02:36:12.374Z",
     "title_zh": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
     "summary_zh": "该项目是Linux运维工程师的技能成长路线图，系统整理了从初级到高级所需掌握的知识体系。内容包括：Linux基础命令与系统管理、Shell脚本编程、网络与安全、监控与日志、自动化运维（Ansible/SaltStack）、容器与Kubernetes、数据库运维、故障排查与性能优化等。每个阶段配有学习资源与实践项目，是运维工程师系统提升的优质参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "a8492262271ced0d5d554d0f83480b0e",
-    "title_en": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时 - 运维笔记 - 李洋博客 | 专业博客搭建与技术分享",
-    "source": "itlaoli.com",
-    "url": "https://www.itlaoli.com/blog/900.html",
-    "published_at": "2026-05-25T02:36:12.374Z",
-    "fetched_at": "2026-05-25T02:36:12.374Z",
-    "title_zh": "2026 年 Linux 服务器运维优化实战技巧，看完少加班两小时",
-    "summary_zh": "本文分享了2026年Linux服务器运维的实战优化技巧，旨在帮助运维人员提升效率、减少加班。内容涵盖：系统参数调优（内核参数、文件描述符）、磁盘I/O优化、网络性能调优、日志管理策略、自动化脚本编写、监控告警配置以及常见故障的快速定位方法。作者结合多年运维经验，提供了可直接落地的命令与配置示例，适合一线运维工程师参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "3f7de4b7b7346aa672e55e0c19c17638",
-    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
-    "source": "edu.aliyun.com",
-    "url": "https://edu.aliyun.com/course/314200/",
-    "published_at": "2026-05-25T02:36:12.374Z",
-    "fetched_at": "2026-05-25T02:36:12.374Z",
-    "title_zh": "Linux服务器运维基本操作",
-    "summary_zh": "阿里云认证出品的Linux服务器运维入门指南，聚焦于服务器日常管理中的高频操作，包括用户与权限管理、文件系统维护、进程控制、网络配置、软件包管理、系统日志查看及远程连接安全设置。内容以阿里云ECS实例为背景，兼顾通用Linux发行版，强调操作规范与安全基线。适合云服务器初学者快速上手，也适合需要系统化梳理基础运维流程的从业者参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "d1051553868e7150698157edf1fa7300",
-    "title_en": "什么是Linux 内核实时修补？ - Red Hat",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/topics/linux/what-is-linux-kernel-live-patching",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "什么是Linux内核实时修补？",
-    "summary_zh": "红帽官方文档对Linux内核实时修补（Live Patching）进行了全面解读。实时修补技术允许管理员在系统运行状态下直接应用内核安全补丁，无需重启或中断服务，尤其适用于关键业务服务器。文章介绍了实时修补的工作原理，包括函数级替换、一致性模型以及补丁生命周期管理。同时对比了红帽的Kpatch与其它实时修补方案（如KGraft）的技术差异。对于运维工程师，掌握实时修补可显著提升系统可用性，减少计划内停机窗口。文中还提供了红帽企业Linux中的配置示例与最佳实践。",
-    "topic": "ops"
-  },
-  {
-    "id": "0e3bace17e3e87bfb0592df5b285a839",
-    "title_en": "“分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞 - 知乎",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/2040454114409193546",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "“分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞",
-    "summary_zh": "本文揭示了安全补丁引入新漏洞的典型案例：为修复Dirty Frag漏洞而发布的内核补丁，意外导致了新的Fragnesia漏洞。作者深入分析了补丁代码中的逻辑缺陷，指出内存碎片整理路径中的竞态条件如何被绕过，从而产生新的提权向量。对于安全研究员和内核开发者，本文提供了漏洞演化分析的宝贵视角，强调了补丁审查与回归测试的重要性。文中还给出了Fragnesia的触发条件与修复建议，提醒运维人员在应用紧急补丁后仍需持续监控系统行为。",
-    "topic": "security"
-  },
-  {
-    "id": "1ff2c1c5954d56a0bfbe58fcac60b378",
-    "title_en": "CVE-2026-31431 漏洞复现方法与修复建议 - 贾旭博客",
-    "source": "jiaxu.net",
-    "url": "https://www.jiaxu.net/archives/4598.html",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "CVE-2026-31431 漏洞复现方法与修复建议",
-    "summary_zh": "本文针对CVE-2026-31431漏洞提供了完整的复现流程与修复方案。该漏洞涉及内核网络子系统的内存越界读写，攻击者可通过精心构造的网络包触发拒绝服务或潜在代码执行。文章详细描述了漏洞环境搭建、触发条件及利用验证步骤，并给出了内核补丁、sysctl参数调整及防火墙规则等多层修复建议。对于安全运维团队，本文是一份实用的应急响应指南，帮助快速评估风险并实施缓解措施。文中还讨论了漏洞的CVSS评分与影响范围，建议优先修补暴露于公网的系统。",
-    "topic": "security"
-  },
-  {
-    "id": "663037e2322170163a88859102d93817",
-    "title_en": "容器服务 CVE-2026-43284 和 CVE-2026-4",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/document/product/457/131392",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "容器服务 CVE-2026-43284 和 CVE-2026-4",
-    "summary_zh": "腾讯云官方文档披露了影响容器服务的两个高危漏洞CVE-2026-43284及CVE-2026-4（编号不完整），涉及容器运行时与内核隔离机制的缺陷。攻击者可利用漏洞实现容器逃逸或宿主机权限提升。文章详细说明了漏洞原理、受影响组件版本及检测方法，并提供了腾讯云容器服务（TKE）的自动修复方案与手动升级步骤。对于云原生运维人员，本文强调了及时更新容器运行时、启用安全上下文约束的重要性，并给出了生产环境中的漏洞排查清单。",
-    "topic": "security"
-  },
-  {
-    "id": "dbbcf06cae6e767cf051f46f1b6f6f27",
-    "title_en": "实现红帽企业 Linux 自动化",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/resources/automate-red-hat-enterprise-linux-ebook",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "实现红帽企业Linux自动化",
-    "summary_zh": "红帽官方指南系统介绍了如何利用Ansible自动化平台实现红帽企业Linux（RHEL）的批量部署、配置管理与合规审计。文章从自动化架构设计入手，涵盖Playbook编写、角色管理、变量传递及错误处理等核心技能。通过实际案例演示了如何自动化执行系统更新、用户管理、防火墙规则及SELinux策略配置。对于运维工程师，掌握RHEL自动化可大幅减少重复性工作，提升运维效率与一致性。文中还提供了与红帽智能管理集成的进阶技巧，适合企业级Linux运维团队参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "0754c08f199859dc15b1fc1cd19b9f32",
-    "title_en": "Linux-企业级自动化实用指南-全- - 绝不原创的飞龙 - 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/apachecn/p/18965744",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "Linux企业级自动化实用指南（全）",
-    "summary_zh": "这是一份全面的Linux企业级自动化实战指南，覆盖从基础到高级的自动化运维技术。内容涵盖Shell脚本、Ansible、Puppet、SaltStack等主流工具的对比与选型，以及CI/CD流水线集成、配置管理、监控告警等场景。每章均配有可复用的代码示例与最佳实践，特别强调了大规模集群下的性能优化与错误处理策略。对于希望构建自动化运维体系的工程师，本书提供了从规划到落地的完整知识框架，适合作为团队培训教材或日常参考手册。",
-    "topic": "ops"
-  },
-  {
-    "id": "dd67c803de33f6723e9ff5238b87ac6b",
-    "title_en": "使用 Oracle Linux Automation Engine 运行 Oracle Linux 任务",
-    "source": "docs.oracle.com",
-    "url": "https://docs.oracle.com/zh-cn/learn/olae-setup-ol8/",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "使用Oracle Linux Automation Engine运行Oracle Linux任务",
-    "summary_zh": "Oracle官方文档详细介绍了Oracle Linux Automation Engine（基于Ansible）的安装、配置与使用。该引擎专为Oracle Linux环境优化，支持模块化任务执行、Playbook编排及与Oracle云基础设施的深度集成。文章通过实际案例演示了如何自动化执行系统更新、存储配置、网络设置及Oracle数据库部署。对于使用Oracle Linux的企业运维人员，本文提供了从入门到进阶的完整指导，包括自定义模块开发与错误处理技巧，有助于提升运维效率与标准化水平。",
-    "topic": "ops"
-  },
-  {
-    "id": "a10988c348b3da726141e45b70a70cca",
-    "title_en": "GitHub - ansiblecn/Ansible_Practice_Book: Ansible_Practice_Book · GitHub",
-    "source": "github.com",
-    "url": "https://github.com/ansiblecn/Ansible_Practice_Book/tree/master/",
-    "published_at": "2026-05-24T19:04:23.842Z",
-    "fetched_at": "2026-05-24T19:04:23.842Z",
-    "title_zh": "GitHub - ansiblecn/Ansible_Practice_Book: Ansible实践手册",
-    "summary_zh": "这是一个开源的Ansible实践手册项目，由社区维护，旨在提供从入门到精通的完整学习路径。手册涵盖了Ansible核心概念、Playbook编写、角色设计、变量管理、模板渲染及与Docker/Kubernetes的集成。每个章节均配有可运行的示例代码与实战场景，如自动化部署Web服务、配置负载均衡、管理数据库集群等。对于运维工程师和DevOps从业者，本项目是快速上手Ansible的优质资源，也可作为企业内部培训的参考资料。代码仓库持续更新，支持社区贡献。",
     "topic": "ops"
   }
 ]
