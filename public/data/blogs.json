@@ -1,5 +1,104 @@
 [
   {
+    "id": "45184a49070261ce141dea6ddc134023",
+    "title_en": "万字长文---手把手教你加固内核安全配置",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/548481948",
+    "published_at": "2026-05-30T02:11:19.017Z",
+    "fetched_at": "2026-05-30T02:11:19.017Z",
+    "title_zh": "万字长文---手把手教你加固内核安全配置",
+    "summary_zh": "本文以万字篇幅系统讲解了Linux内核安全加固的完整方案，涵盖内核参数调优、LSM（SELinux/AppArmor）配置、内核模块签名、KASLR、SMEP/SMAP等防护机制。每项配置均附有原理说明和操作示例，适合运维和安全工程师参考实施，提升系统内核级防御能力。",
+    "topic": "security"
+  },
+  {
+    "id": "5511d4a73656ac4cfdc42775d16fa641",
+    "title_en": "[PDF] Windows 操作系统配置安全基线标准与操作指南 - 南京农业大学迎新网",
+    "source": "yx.njau.edu.cn",
+    "url": "https://yx.njau.edu.cn/__local/3/30/38/FB38F23775A9BC8DCCF498280E2_5EC87E05_98C4A.pdf",
+    "published_at": "2026-05-30T02:11:16.009Z",
+    "fetched_at": "2026-05-30T02:11:16.009Z",
+    "title_zh": "PDF Windows 操作系统配置安全基线标准与操作指南 - 南京农业大学迎新网",
+    "summary_zh": "本文档详细阐述了Windows操作系统安全基线的配置标准与操作步骤，涵盖账户策略、审计策略、安全选项、用户权限分配等关键安全配置项。通过遵循该指南，系统管理员可有效降低系统被攻击的风险，满足等保合规要求。内容实用性强，适合企业IT运维和安全管理人员参考实施。",
+    "topic": "security"
+  },
+  {
+    "id": "d3fc6a85a44220c5290f765e6e8421e9",
+    "title_en": "GB/T 20272-2026网络安全技术操作系统安全技术规范-正版授权.pdf - 人人文库",
+    "source": "renrendoc.com",
+    "url": "https://www.renrendoc.com/paper/524139050.html",
+    "published_at": "2026-05-30T02:11:16.009Z",
+    "fetched_at": "2026-05-30T02:11:16.009Z",
+    "title_zh": "GB/T 20272-2026网络安全技术操作系统安全技术规范-正版授权.pdf - 人人文库",
+    "summary_zh": "该文档为国家标准GB/T 20272-2026《网络安全技术 操作系统安全技术规范》的正式授权版本，规定了操作系统在身份鉴别、访问控制、安全审计、数据保护等方面的技术要求。适用于操作系统产品开发、测评及安全合规建设，是信息安全从业者必备的参考标准。",
+    "topic": "security"
+  },
+  {
+    "id": "b3286c8b75eed9a09f32491aa1caff38",
+    "title_en": "《Kubernetes 最佳实践》第二版",
+    "source": "oreilly.com",
+    "url": "https://www.oreilly.com/library/view/kubernetes-zui-jia-shi-jian-di-er-ban/9798341657250/",
+    "published_at": "2026-05-30T02:11:16.008Z",
+    "fetched_at": "2026-05-30T02:11:16.008Z",
+    "title_zh": "《Kubernetes 最佳实践》第二版",
+    "summary_zh": "本书第二版全面更新了Kubernetes在生产环境中的最佳实践，涵盖集群设计、安全加固、资源管理、监控告警及故障排查等核心主题。新增内容包括对服务网格、Operator模式、多集群管理及云原生存储的深入探讨。书中提供了大量经过验证的配置示例和架构模式，帮助团队构建高可用、可扩展的容器化平台，是Kubernetes运维工程师的必备参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "37626459e3f23bcb2addfb27dd547329",
+    "title_en": "Kubernetes 概述| SRE运维进阶之路",
+    "source": "clay-wangzhi.com",
+    "url": "https://clay-wangzhi.com/cloudnative/tools-ops/kubernetes-overview.html",
+    "published_at": "2026-05-30T02:11:16.008Z",
+    "fetched_at": "2026-05-30T02:11:16.008Z",
+    "title_zh": "Kubernetes 概述| SRE运维进阶之路",
+    "summary_zh": "本文从SRE视角出发，系统介绍了Kubernetes的核心架构与关键组件，包括控制平面、工作节点、Pod、Service、Ingress等。文章重点讲解了Kubernetes在服务发现、负载均衡、自动伸缩及滚动更新方面的能力，并结合实际案例分析了如何利用这些特性提升系统可靠性和运维效率。适合希望深入理解Kubernetes原理并应用于SRE实践的读者。",
+    "topic": "ops"
+  },
+  {
+    "id": "ec64e8d0a750745558493520babadcf6",
+    "title_en": "wovert/LinuxSRE: Linux 运维工程师技能总结 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/wovert/LinuxSRE",
+    "published_at": "2026-05-30T02:10:59.365Z",
+    "fetched_at": "2026-05-30T02:10:59.365Z",
+    "title_zh": "wovert/LinuxSRE: Linux 运维工程师技能总结",
+    "summary_zh": "这是一个GitHub上的Linux运维工程师技能总结仓库，系统整理了SRE岗位所需的核心技能树。内容涵盖Linux系统管理（进程管理、文件系统、网络配置）、常用运维工具（Ansible、Prometheus、Grafana、ELK）、容器化与编排（Docker、Kubernetes）、监控告警体系搭建、日志分析、自动化脚本编写等。仓库以知识图谱和速查表形式呈现，适合运维工程师作为技能自查与学习路线图使用。",
+    "topic": "ops"
+  },
+  {
+    "id": "eb8198f42d9cbe1c00e9b9a3774fc1e6",
+    "title_en": "阿里Qwen3.5-Omni全模态大模型发布：215项SOTA霸榜，超越Gemini-3.1 Pro，开启Vibe Coding新纪元 – Prompt 语宙",
+    "source": "paooo.com",
+    "url": "https://paooo.com/aigc-news/11188/",
+    "published_at": "2026-05-30T02:10:59.364Z",
+    "fetched_at": "2026-05-30T02:10:59.364Z",
+    "title_zh": "阿里Qwen3.5-Omni全模态大模型发布：215项SOTA霸榜，超越Gemini-3.1 Pro，开启Vibe Coding新纪元 – Prompt 语宙",
+    "summary_zh": "本文详细介绍了阿里Qwen3.5-Omni全模态大模型的技术突破，该模型在215项基准测试中取得SOTA成绩，超越Gemini-3.1 Pro。文章重点分析了其多模态融合架构、训练策略与推理优化，并探讨了Vibe Coding等新应用范式。对多模态AI研究与工程实践具有重要参考意义。",
+    "topic": "ai"
+  },
+  {
+    "id": "5b2338ea45feeb421aa82b2d2c64bbe7",
+    "title_en": "刚刚，Gemini 3 再次大更新！全球免费享 Pro 级智商，奥特曼又要失眠了-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/3600333305856264",
+    "published_at": "2026-05-30T02:10:59.364Z",
+    "fetched_at": "2026-05-30T02:10:59.364Z",
+    "title_zh": "刚刚，Gemini 3 再次大更新！全球免费享 Pro 级智商，奥特曼又要失眠了-36氪",
+    "summary_zh": "本文报道了Gemini 3的重大更新，重点介绍了其免费版获得Pro级推理能力的技术细节。文章分析了更新背后的模型优化策略，包括知识蒸馏与推理加速技术。对于AI服务使用者与开发者，本文提供了新功能评测与使用建议。",
+    "topic": "ai"
+  },
+  {
+    "id": "4902431fbc788f9e4f538edf31e5adf1",
+    "title_en": "人工智能- 2026年AI前沿观察：超大模型打破天花板，真正令人胆寒的 ...",
+    "source": "segmentfault.com",
+    "url": "https://segmentfault.com/a/1190000047784882",
+    "published_at": "2026-05-30T02:10:59.363Z",
+    "fetched_at": "2026-05-30T02:10:59.363Z",
+    "title_zh": "人工智能- 2026年AI前沿观察：超大模型打破天花板，真正令人胆寒的 ...",
+    "summary_zh": "本文聚焦2026年超大AI模型的技术突破，分析了模型规模与性能之间的新关系。文章指出，通过架构创新与训练优化，超大模型在推理、长文本处理与多模态任务上达到了前所未有的水平。同时探讨了算力成本与部署可行性等现实问题，为技术决策者提供深度洞察。",
+    "topic": "ai"
+  },
+  {
     "id": "b44cd44ff9f65a77b456357c0fed1899",
     "title_en": "XZ1r0/cve-2026-poc-collection",
     "source": "github.com",
@@ -2099,104 +2198,5 @@
     "title_zh": "CVE-2026-8153深度剖析：未认证命令注入攻陷全球5万台工业机器人",
     "summary_zh": "本文深度剖析了CVE-2026-8153漏洞，该漏洞允许未认证攻击者通过命令注入远程控制工业机器人，影响全球约5万台设备。详细分析了漏洞的触发条件（如Web接口输入验证缺失）、攻击链（从初始访问到完全控制）以及潜在危害（生产中断、物理损坏）。提供了OT环境下的应急响应建议，包括网络隔离、固件升级和入侵检测规则部署。",
     "topic": "security"
-  },
-  {
-    "id": "cb303631470776abc1f9dbddcc58c10f",
-    "title_en": "CaveOps | Post: Copy Fail：732字节即可在所有主流Linux发行版上获得Root权限",
-    "source": "caveops.com",
-    "url": "https://www.caveops.com/blog/post/linux-kernel-copy-fail/",
-    "published_at": "2026-05-24T19:04:20.454Z",
-    "fetched_at": "2026-05-24T19:04:20.454Z",
-    "title_zh": "Copy Fail：732字节即可在所有主流Linux发行版上获得Root权限",
-    "summary_zh": "本文披露了一个名为'Copy Fail'的严重漏洞，仅需732字节的恶意代码即可在所有主流Linux发行版上实现本地权限提升至Root。详细分析了漏洞的技术原理（如内核模块加载缺陷、SUID二进制文件滥用），并给出了受影响的内核版本范围。提供了临时缓解措施（如禁用特定系统调用、应用SELinux策略）和永久修复方案（安装安全补丁）。",
-    "topic": "security"
-  },
-  {
-    "id": "4643a0d776e67bd33af9a9bc5250bf76",
-    "title_en": "Ubuntu Server 性能优化最佳实践 - 官方博客",
-    "source": "idc.net",
-    "url": "https://idc.net/help/442439/",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Ubuntu Server 性能优化最佳实践",
-    "summary_zh": "本文基于官方文档总结了Ubuntu Server在生产环境中的性能优化最佳实践，涵盖内核参数调整（如sysctl配置）、文件系统选择（ext4 vs XFS）、内存管理（swap策略、hugepages）及网络栈优化（RPS/RFS、网卡多队列）。文章还介绍了使用 tuned 和 systemd 服务进行动态调优的方法，并提供了针对数据库、Web服务器等典型负载的配置模板，帮助系统管理员在保持稳定性的前提下最大化硬件资源利用率。",
-    "topic": "ops"
-  },
-  {
-    "id": "bb6f93b0385cbe956ddc860b2891c8ad",
-    "title_en": "Linux 性能调优：从内核参数到网络栈的深度实践",
-    "source": "blog.eimoon.com",
-    "url": "https://blog.eimoon.com/p/linux-performance-tuning-deep-dive/",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Linux 性能调优：从内核参数到网络栈的深度实践",
-    "summary_zh": "本文深入探讨了Linux系统性能调优的多个层面，从内核参数（如vm.dirty_ratio、kernel.sched_migration_cost）的精细调整，到网络协议栈的深度优化（包括TCP拥塞控制算法选择、套接字缓冲区大小、GRO/GSO卸载）。作者结合真实案例，展示了如何通过perf、eBPF等工具定位性能瓶颈，并针对高吞吐、低延迟场景给出具体的参数配置建议。文章还讨论了NUMA架构下的内存亲和性设置与CPU隔离技术，适合追求极致性能的运维工程师。",
-    "topic": "ops"
-  },
-  {
-    "id": "abe2798be09815c470644e9fc803f5a5",
-    "title_en": "Linux系统性能优化实战 - 腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com.cn",
-    "url": "https://cloud.tencent.com.cn/developer/news/358393",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "Linux系统性能优化实战",
-    "summary_zh": "本文来自腾讯云开发者社区，以实战为导向介绍了Linux系统性能优化的完整流程。内容涵盖性能基准测试方法（使用sysbench、fio等工具）、常见瓶颈分析（CPU、内存、磁盘、网络）以及对应的调优策略，如调整I/O调度器、优化文件系统挂载参数、配置swap分区等。文章还特别强调了云环境下的特殊考量，包括虚拟化层对性能的影响、弹性伸缩场景下的参数动态调整，并提供了可复用的优化脚本示例。",
-    "topic": "ops"
-  },
-  {
-    "id": "b33914981901404b288d768d723a466c",
-    "title_en": "有关系统微调的一般说明 | 系统分析和微调指南 | SLES 15 SP4",
-    "source": "documentation.suse.com",
-    "url": "https://documentation.suse.com/zh-cn/sles/15-SP4/html/SLES-all/cha-tuning-basics.html",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "系统微调一般说明 | 系统分析和微调指南 | SLES 15 SP4",
-    "summary_zh": "本文是SUSE Linux Enterprise Server 15 SP4官方文档的一部分，系统性地介绍了系统性能微调的一般原则与方法。内容涵盖性能分析工具的使用（如sar、perf、turbostat）、内核参数调整（包括内存管理、调度器、文件系统）、以及针对不同工作负载（如数据库、HPC、虚拟化）的调优策略。文档还提供了TuneD配置示例和sysctl参数详解，强调在调优过程中需持续监控并验证效果，避免盲目调整导致系统不稳定。",
-    "topic": "ops"
-  },
-  {
-    "id": "ce71c2ddaeb3981728908bc004885ca5",
-    "title_en": "提高性能 - ArchWiki - Arch Linux 教程",
-    "source": "wiki.archlinux.org.cn",
-    "url": "https://wiki.archlinux.org.cn/title/Improving_performance",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "提高性能 - ArchWiki",
-    "summary_zh": "本文是Arch Linux官方Wiki中关于系统性能优化的综合指南，涵盖了从硬件配置到软件调优的各个方面。内容包括CPU频率调节（cpufreq）、内存压缩（zram/zswap）、I/O调度器选择（BFQ、Kyber）、文件系统优化（noatime挂载选项）、以及内核参数调整（如vm.vfs_cache_pressure）。文章还介绍了使用systemd服务进行启动优化、禁用不必要的守护进程、以及通过mkinitcpio精简内核模块的方法，适合追求轻量化和高性能的Arch用户。",
-    "topic": "ops"
-  },
-  {
-    "id": "fffa633064ccdd42ea0d743760d19f35",
-    "title_en": "系统分析和微调指南 - SUSE Linux Enterprise Server 15 SP4",
-    "source": "documentation.suse.com",
-    "url": "https://documentation.suse.com/zh-cn/sles/15-SP4/pdf/book-tuning_zh_cn.pdf",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "系统分析和微调指南 - SUSE Linux Enterprise Server 15 SP4",
-    "summary_zh": "本文是SUSE官方针对SLES 15 SP4的系统分析与微调指南，详细介绍了性能监控工具（如top、vmstat、iostat、netstat、perf）的使用方法，以及如何根据分析结果进行针对性调优。内容涵盖CPU调度策略（deadline、CFS）、内存管理（透明大页、KSM）、存储子系统（I/O调度器、块设备参数）和网络性能优化（TCP参数、网卡多队列）。文档还提供了TuneD配置示例和性能基准测试方法，帮助系统管理员系统化地提升服务器性能。",
-    "topic": "ops"
-  },
-  {
-    "id": "b7d728941be8f264a99ce8d814279a45",
-    "title_en": "第 2 章 使用 TuneD 优化系统性能 | 监控和管理系统状态和性能 | Red Hat Enterprise Linux | 10 | Red Hat Documentation",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/10/html/monitoring_and_managing_system_status_and_performance/optimizing-system-performance-with-tuned",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "第 2 章 使用 TuneD 优化系统性能 | Red Hat Enterprise Linux 10",
-    "summary_zh": "本文是Red Hat Enterprise Linux 10官方文档的一部分，重点介绍了TuneD性能优化工具的使用方法。TuneD通过预定义的性能配置文件（如throughput-performance、latency-performance、virtual-host）自动调整内核参数、CPU调控器、磁盘调度器等，以适应不同工作负载。文章详细说明了如何创建自定义配置文件、动态切换配置、以及结合perf和sysstat进行性能监控。对于RHEL运维人员，TuneD是简化性能调优、确保配置一致性的关键工具。",
-    "topic": "ops"
-  },
-  {
-    "id": "e443667e8ddf226779f69c538ae28f53",
-    "title_en": "监控和管理系统状态和性能 | Red Hat Enterprise Linux | 8 | Red Hat Documentation",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/8/html-single/monitoring_and_managing_system_status_and_performance/index",
-    "published_at": "2026-05-24T19:04:20.453Z",
-    "fetched_at": "2026-05-24T19:04:20.453Z",
-    "title_zh": "监控和管理系统状态和性能 | Red Hat Enterprise Linux 8",
-    "summary_zh": "本文是Red Hat Enterprise Linux 8官方文档中关于系统状态与性能监控管理的章节，系统介绍了使用Performance Co-Pilot (PCP)、sysstat、procps-ng等工具进行实时监控和历史数据分析的方法。内容涵盖CPU、内存、磁盘、网络等子系统的性能指标解读，以及如何设置告警阈值和自动化响应。文档还介绍了使用tuned和systemd资源控制（如CPUQuota、MemoryMax）进行性能优化的实践，为RHEL 8运维人员提供了全面的监控与调优参考。",
-    "topic": "ops"
   }
 ]
