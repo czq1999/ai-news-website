@@ -1,5 +1,82 @@
 [
   {
+    "id": "d6fc3a1ce72305a47cbdba6dd01a5d5d",
+    "title_en": "2026年CVE漏洞数量可能首次突破10万个 - QQ - 腾讯新闻",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20260212A0638C00",
+    "published_at": "2026-05-31T02:36:57.475Z",
+    "fetched_at": "2026-05-31T02:36:57.475Z",
+    "title_zh": "2026年CVE漏洞数量可能首次突破10万个",
+    "summary_zh": "据腾讯新闻报道，2026年全球CVE漏洞数量预计将首次突破10万大关，标志着安全威胁态势的进一步恶化。本文基于当前漏洞增长趋势，分析了漏洞激增背后的驱动因素，包括软件供应链复杂化、开源组件广泛使用以及自动化漏洞挖掘工具的普及。对于安全从业者而言，这意味着漏洞管理、优先级排序和自动化补丁策略将面临更大挑战。文章还探讨了企业如何通过建立完善的漏洞生命周期管理机制来应对这一趋势，强调从被动响应转向主动防御的必要性。",
+    "topic": "security"
+  },
+  {
+    "id": "d9ab29e29d800821ce9bbc7af425530d",
+    "title_en": "Kubernetes企业级云原生运维实战》：K8s进阶的必备指南",
+    "source": "cloud.baidu.com",
+    "url": "https://cloud.baidu.com/article/4484971",
+    "published_at": "2026-05-31T02:36:57.474Z",
+    "fetched_at": "2026-05-31T02:36:57.474Z",
+    "title_zh": "Kubernetes企业级云原生运维实战：K8s进阶的必备指南",
+    "summary_zh": "本文作为《Kubernetes企业级云原生运维实战》一书的导读或精华摘要，系统梳理了从集群规划、网络方案选型、存储管理到安全策略与故障排查的企业级 K8s 运维知识体系。重点介绍了多集群管理、资源配额、Pod 安全策略以及日志监控等进阶主题，旨在帮助运维工程师构建可扩展、高可用的生产级容器平台。内容偏重实战，适合希望提升 K8s 运维深度的技术人员。",
+    "topic": "ops"
+  },
+  {
+    "id": "88defaa56ef37b1c071454ec2c7705ee",
+    "title_en": "CNVD漏洞周报2026年第20期 - 信息安全知识库",
+    "source": "gm7.org",
+    "url": "https://www.gm7.org/archives/108098",
+    "published_at": "2026-05-31T02:36:57.474Z",
+    "fetched_at": "2026-05-31T02:36:57.474Z",
+    "title_zh": "CNVD漏洞周报2026年第20期",
+    "summary_zh": "本文是 CNVD（国家信息安全漏洞共享平台）发布的 2026 年第 20 期漏洞周报，汇总了本周收录的高危漏洞信息，包括漏洞编号、影响产品、危害等级及修复建议。内容涵盖操作系统、Web 应用、数据库及工控系统等多个领域，重点分析了活跃利用的漏洞（如远程代码执行、权限提升）及其攻击链。适合安全运维人员及时获取漏洞情报，进行风险排查与应急响应。",
+    "topic": "security"
+  },
+  {
+    "id": "688be3482e6d0283bbfc2d15dd0345bf",
+    "title_en": "2026年1月关键安全漏洞与威胁态势分析-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2626763",
+    "published_at": "2026-05-31T02:36:57.474Z",
+    "fetched_at": "2026-05-31T02:36:57.474Z",
+    "title_zh": "2026年1月关键安全漏洞与威胁态势分析",
+    "summary_zh": "本文由腾讯云安全团队发布，对 2026 年 1 月的关键安全漏洞与整体威胁态势进行了深度分析。内容涵盖本月活跃的 0day 漏洞（如 Apache、Microsoft 产品中的远程代码执行漏洞）、勒索软件与 APT 组织攻击趋势，以及云原生环境中的容器逃逸与配置风险。作者结合腾讯云自身威胁情报数据，给出了针对性的防护建议与应急响应流程。适合企业安全团队用于月度安全态势评估与策略调整。",
+    "topic": "security"
+  },
+  {
+    "id": "01935e2c2288ac8d7c236e734c7e24cf",
+    "title_en": "大模型参数高效微调技术原理综述（七）-最佳实践、总结 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/649755252)",
+    "published_at": "2026-05-31T02:36:54.163Z",
+    "fetched_at": "2026-05-31T02:36:54.163Z",
+    "title_zh": "大模型参数高效微调技术原理综述（七）-最佳实践、总结",
+    "summary_zh": "本文作为参数高效微调技术综述系列的收官之作，系统总结了LoRA、Prefix Tuning、P-Tuning v2、Adapter等主流方法的原理、优缺点及适用场景。重点对比了各方法在参数量、训练速度、推理延迟和下游任务表现上的差异，并给出了针对不同任务类型（分类、生成、对话等）的最佳实践建议。文章还讨论了多任务微调、持续微调等进阶话题，为研究者提供了全面的技术选型参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "52676756b1cde828821f12bf1f0a78dc",
+    "title_en": "[PDF] Linux 云服务器运维产品文档",
+    "source": "mc.qcloudimg.com",
+    "url": "https://mc.qcloudimg.com/static/qc_doc/444e862e59c420fca504407be3be225c/doc-Cloud%20Virtual%20Machine-Linux%20CVM%20Operation%20Manual.pdf",
+    "published_at": "2026-05-31T02:36:54.163Z",
+    "fetched_at": "2026-05-31T02:36:54.163Z",
+    "title_zh": "Linux云服务器运维产品文档",
+    "summary_zh": "本文是一份面向Linux云服务器的运维产品文档，涵盖了从基础环境配置、安全组规则设置、磁盘挂载与管理，到系统监控、日志分析、故障排查等核心运维场景。文档以实操为导向，提供了大量命令行示例和配置模板，帮助运维人员快速掌握云服务器的日常管理技能。内容还包括性能基准测试、备份策略制定以及常见问题处理，是云服务器运维的实用手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "d0f682f3aa28716498c7c9e98e0d1c0b",
+    "title_en": "全球首次单机降服万亿巨模DeepSeek-V4！RL后训练框架Orbit开源！_腾讯新闻",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20260528A04MXQ00",
+    "published_at": "2026-05-31T02:36:54.162Z",
+    "fetched_at": "2026-05-31T02:36:54.162Z",
+    "title_zh": "全球首次单机降服万亿巨模DeepSeek-V4！RL后训练框架Orbit开源！",
+    "summary_zh": "本文报道了全球首次在单台机器上成功运行万亿参数级模型DeepSeek-V4的技术突破，并介绍了配套开源的强化学习后训练框架Orbit。文章深入解析了模型量化、分布式推理、显存优化等关键技术细节，以及Orbit框架在RLHF训练中的效率优势。对于关注大模型部署与后训练优化的工程师具有重要参考价值。",
+    "topic": "ai"
+  },
+  {
     "id": "28b0f8b52aac7077987eeadf20162031",
     "title_en": "系统运维管理OOS - 统一自动化运维编排管理- 阿里云",
     "source": "aliyun.com",
@@ -2121,82 +2198,5 @@
     "title_zh": "大模型微调从原理到PEFT与RLHF等高级技术实践-开发者社区-阿里云",
     "summary_zh": "本文由阿里云开发者社区发布，系统讲解了大模型微调从原理到高级技术的完整实践。内容涵盖全参数微调、PEFT（如LoRA、Adapter）、RLHF（基于人类反馈的强化学习）等主流方法。作者深入分析了每种技术的适用场景、优缺点与性能对比，并提供了基于阿里云PAI平台的实战代码。文章还讨论了微调中的数据质量、过拟合、灾难性遗忘等关键问题及解决方案。对于希望掌握大模型定制化技术的工程师，这是一份权威且实用的技术指南。",
     "topic": "ai"
-  },
-  {
-    "id": "a229831c1fb87d90719025671866d313",
-    "title_en": "如何从零开始实现一个 AI Agent 框架（理论+实践）-腾讯云开发者社区-腾讯云",
-    "source": "developer.cloud.tencent.com",
-    "url": "https://developer.cloud.tencent.com/article/2631821",
-    "published_at": "2026-05-25T09:51:20.193Z",
-    "fetched_at": "2026-05-25T09:51:20.193Z",
-    "title_zh": "如何从零开始实现一个AI Agent框架（理论+实践）",
-    "summary_zh": "本文从理论到实践，详细讲解如何从零实现一个轻量级AI Agent框架。内容涵盖Agent的核心设计模式（ReAct、Plan-and-Execute）、工具注册与调用机制、记忆管理策略以及多轮对话的状态维护。文章提供了完整的Python代码实现，并对比了与LangChain等成熟框架的异同。适合希望深入理解Agent底层原理并具备自定义开发需求的工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "a32b3e0d2e4a69fc010a6fcfa2cb19ec",
-    "title_en": "手把手入门教程 - Agently AI应用开发框架",
-    "source": "agently.tech",
-    "url": "https://agently.tech/v3/guides/agentic_request/guide.html",
-    "published_at": "2026-05-25T09:51:20.193Z",
-    "fetched_at": "2026-05-25T09:51:20.193Z",
-    "title_zh": "手把手入门教程 - Agently AI应用开发框架",
-    "summary_zh": "本教程手把手指导开发者使用Agently框架快速构建AI应用。Agently是一个轻量级、高可扩展的AI Agent开发框架，支持多模型接入、流式输出、工具调用与状态管理。教程从环境搭建开始，逐步演示如何创建智能体、定义工具、实现多轮对话与任务编排。适合希望快速原型验证或构建生产级AI应用的开发者，尤其适合对Python和LLM有一定了解的读者。",
-    "topic": "ai"
-  },
-  {
-    "id": "ccb32c88b361dd5573e32422b0289238",
-    "title_en": "AI Agent(智能体) 教程 - 菜鸟教程",
-    "source": "runoob.com",
-    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
-    "published_at": "2026-05-25T09:51:20.193Z",
-    "fetched_at": "2026-05-25T09:51:20.193Z",
-    "title_zh": "AI Agent(智能体) 教程",
-    "summary_zh": "本文是菜鸟教程推出的AI Agent入门级教程，面向零基础开发者。内容从AI Agent的基本概念讲起，涵盖智能体的定义、核心组件（感知、决策、执行）、常见应用场景以及主流开发框架简介。教程以通俗易懂的语言和简单示例帮助读者快速建立对Agent技术的整体认知，为进一步学习LangChain等框架打下基础。适合AI初学者与技术爱好者阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "693ea7feb95654fa53242e068e2c64d3",
-    "title_en": "深入解读补丁分析发现的linux内核提权漏洞(CVE-2017–1000405)",
-    "source": "anquanke.com",
-    "url": "https://www.anquanke.com/post/id/89096",
-    "published_at": "2026-05-25T02:36:19.253Z",
-    "fetched_at": "2026-05-25T02:36:19.253Z",
-    "title_zh": "深入解读补丁分析发现的linux内核提权漏洞(CVE-2017–1000405)",
-    "summary_zh": "本文通过补丁对比分析，详细解读了Linux内核提权漏洞CVE-2017-1000405的发现过程与利用原理。该漏洞存在于内核的Gigaset ISDN驱动中，因缺少对用户输入的正确校验导致堆溢出，可被本地用户利用获取root权限。文章展示了从补丁逆向推导漏洞触发点的思路，对内核安全研究者具有重要参考意义。",
-    "topic": "security"
-  },
-  {
-    "id": "ccd4c1d73502ba063256e93b04936fe4",
-    "title_en": "安全修补| GKE security - Google Cloud Documentation",
-    "source": "docs.cloud.google.com",
-    "url": "https://docs.cloud.google.com/kubernetes-engine/docs/resources/security-patching?hl=zh-cn",
-    "published_at": "2026-05-25T02:36:19.253Z",
-    "fetched_at": "2026-05-25T02:36:19.253Z",
-    "title_zh": "安全修补 | GKE security - Google Cloud 文档",
-    "summary_zh": "Google Cloud官方文档详细介绍了GKE（Google Kubernetes Engine）的安全修补策略，包括节点自动升级、安全补丁管理、漏洞扫描集成以及运行时安全加固。重点讲解了如何利用GKE的自动修复功能（Auto Repair）和节点池升级策略来最小化安全风险，同时提供了Pod安全策略（PSP）与Workload Identity的配置建议，适用于云原生环境的安全运维。",
-    "topic": "security"
-  },
-  {
-    "id": "7a302f1f3187fbe6fd9b6274185373d7",
-    "title_en": "第8 章使用内核实时修补程序应用补丁| 管理 - Red Hat Documentation",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/9/html/managing_monitoring_and_updating_the_kernel/applying-patches-with-kernel-live-patching_managing-monitoring-and-updating-the-kernel",
-    "published_at": "2026-05-25T02:36:19.253Z",
-    "fetched_at": "2026-05-25T02:36:19.253Z",
-    "title_zh": "第8章 使用内核实时修补程序应用补丁 | 管理 - Red Hat 文档",
-    "summary_zh": "Red Hat官方文档详细介绍了使用内核实时修补（Kpatch）技术在不重启系统的情况下应用安全补丁的方法。内容涵盖kpatch的安装、补丁模块的创建与加载、补丁状态监控以及回滚操作。该技术对于需要保持高可用性的生产环境至关重要，能够在不中断服务的前提下修复内核漏洞，显著降低安全修复的运维成本。",
-    "topic": "security"
-  },
-  {
-    "id": "c291648a6fe0b042b15a976c5f52a9b5",
-    "title_en": "CPU处理器内核存在Meltdown和Spectre漏洞分析(引用于中国教育和 ...",
-    "source": "cetc.nwu.edu.cn",
-    "url": "https://cetc.nwu.edu.cn/info/1065/1343.htm",
-    "published_at": "2026-05-25T02:36:19.253Z",
-    "fetched_at": "2026-05-25T02:36:19.253Z",
-    "title_zh": "CPU处理器内核Meltdown与Spectre漏洞深度分析",
-    "summary_zh": "本文详细分析了Meltdown和Spectre两大CPU侧信道攻击漏洞的原理、影响范围及攻击向量。Meltdown利用乱序执行机制突破内核内存隔离，而Spectre则通过分支预测训练诱导信息泄露。文章深入探讨了KPTI（内核页表隔离）、retpoline等缓解措施的性能开销与局限性，并给出了针对不同处理器架构的修复建议。对于系统安全工程师和内核开发者而言，理解这些硬件漏洞的底层机制是构建纵深防御体系的关键。",
-    "topic": "security"
   }
 ]
