@@ -1,5 +1,60 @@
 [
   {
+    "id": "010722878c0a966247c9a867406e41fc",
+    "title_en": "[PDF] 基于GenAI的混合云智能运维实践",
+    "source": "pdf.dfcfw.com",
+    "url": "https://pdf.dfcfw.com/pdf/H3_AP202503221646031781_1.pdf",
+    "published_at": "2026-05-31T19:04:20.812Z",
+    "fetched_at": "2026-05-31T19:04:20.812Z",
+    "title_zh": "PDF 基于GenAI的混合云智能运维实践",
+    "summary_zh": "本文探讨了基于生成式AI（GenAI）的混合云智能运维实践，重点介绍了如何利用大语言模型（LLM）和检索增强生成（RAG）技术提升运维效率。文章详细描述了GenAI在故障诊断、日志分析、变更风险评估和自动化脚本生成等场景中的应用，并给出了混合云环境下的架构设计方案。作者还讨论了数据隐私、模型微调和实时性等挑战，并提供了相应的解决方案。对于探索AI在运维领域落地的技术团队，本文提供了有价值的实践参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "1f19d651288cc78c4e1dfede2b5ecc12",
+    "title_en": "Linux性能调优指南.pdf - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/ningyu1/e-books/blob/master/doc/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97.pdf",
+    "published_at": "2026-05-31T19:04:17.455Z",
+    "fetched_at": "2026-05-31T19:04:17.455Z",
+    "title_zh": "Linux性能调优指南",
+    "summary_zh": "本文是一份系统化的Linux性能调优指南，从CPU、内存、磁盘I/O、网络四个维度深入分析性能瓶颈的定位与优化方法。内容涵盖使用perf、vmstat、iostat、sar等工具进行性能剖析，以及内核参数调优、文件系统优化、进程调度策略调整等实战技巧。文章还提供了针对高并发Web服务与数据库场景的调优案例，适合系统管理员与后端开发者。",
+    "topic": "ops"
+  },
+  {
+    "id": "337fb129858469146441df3cac79eaf7",
+    "title_en": "主要思路流程",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/234597",
+    "published_at": "2026-05-31T19:04:17.455Z",
+    "fetched_at": "2026-05-31T19:04:17.455Z",
+    "title_zh": "主要思路流程",
+    "summary_zh": "本文简要梳理了Linux性能调优的主要思路与流程，从问题定义、数据采集、瓶颈分析到优化实施与效果验证。强调了使用系统工具（如top、iostat、netstat）进行定量分析的重要性，并给出了常见的性能优化策略，如调整内核参数、优化应用程序配置、升级硬件等。适合作为性能调优的快速入门参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "cfb1556189b2c82a6d246e4539d50794",
+    "title_en": "集群运维| Kubernetes 实践指南 - roc 云原生",
+    "source": "imroc.cc",
+    "url": "https://imroc.cc/kubernetes/best-practices/ops",
+    "published_at": "2026-05-31T19:04:17.455Z",
+    "fetched_at": "2026-05-31T19:04:17.455Z",
+    "title_zh": "集群运维 | Kubernetes 实践指南 - roc 云原生",
+    "summary_zh": "本文是一份面向生产环境的 Kubernetes 实践指南，涵盖集群部署、资源管理、网络配置、监控告警及故障排查等核心运维场景。作者结合自身经验，详细讲解了如何通过声明式配置实现服务的高可用与弹性伸缩，并分享了 kubectl 高效使用技巧、Pod 调度策略优化以及集群安全加固方法。文章还涉及了日志收集、持久化存储和 CI/CD 集成等进阶内容，旨在帮助运维人员构建稳定、可扩展的云原生基础设施。",
+    "topic": "ops"
+  },
+  {
+    "id": "150ed4f8b546367932a3bfe75cf149b8",
+    "title_en": "datawhalechina/hello-agents: 《从零开始构建智能体》 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "published_at": "2026-05-31T19:04:12.955Z",
+    "fetched_at": "2026-05-31T19:04:12.955Z",
+    "title_zh": "datawhalechina/hello-agents: 《从零开始构建智能体》",
+    "summary_zh": "本文是GitHub开源项目《从零开始构建智能体》的简介，该项目由Datawhale社区维护，旨在帮助开发者系统学习AI Agent开发。内容涵盖Agent基础概念、框架使用、实战案例与最佳实践，并提供完整的代码仓库与文档。项目适合不同层次的开发者，从入门到进阶均有覆盖，是学习智能体开发的优质开源资源。",
+    "topic": "ai"
+  },
+  {
     "id": "dbbcf06cae6e767cf051f46f1b6f6f27",
     "title_en": "实现红帽企业 Linux 自动化",
     "source": "redhat.com",
@@ -2143,60 +2198,5 @@
     "title_zh": "PDF智能运维的实践：现状与标准化",
     "summary_zh": "本文探讨了智能运维（AIOps）在PDF文档处理场景中的实践，重点分析了当前运维现状与标准化需求。内容涵盖日志异常检测、性能瓶颈预测、自动化故障恢复等AIOps核心能力在文档服务中的应用。文章提出了标准化数据采集、模型评估和告警收敛的框架，对运维团队构建智能化文档基础设施具有指导意义。",
     "topic": "ops"
-  },
-  {
-    "id": "7adc1f9574dfb836825a95502383cdc6",
-    "title_en": "CVE-2026-1207｜Django SQL注入漏洞（POC）-腾讯云开发者社区",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2653882",
-    "published_at": "2026-05-25T19:17:20.405Z",
-    "fetched_at": "2026-05-25T19:17:20.405Z",
-    "title_zh": "CVE-2026-1207｜Django SQL注入漏洞（POC） - 腾讯云开发者社区",
-    "summary_zh": "本文披露了Django框架中的一个SQL注入漏洞（CVE-2026-1207），并提供了概念验证代码。漏洞源于ORM查询构造中对用户输入的不当处理，攻击者可绕过参数化查询限制。文章分析了受影响版本、利用条件及修复方法，对使用Django的Web开发团队具有紧急参考价值，建议立即升级或应用临时补丁。",
-    "topic": "security"
-  },
-  {
-    "id": "586ebc65cf7983ca2931c3b5a84c2ffc",
-    "title_en": "国产操作系统安全加固方法 - 北京大学期刊网",
-    "source": "ccj.pku.edu.cn",
-    "url": "https://ccj.pku.edu.cn/Article/info?aid=388274089",
-    "published_at": "2026-05-25T19:17:20.404Z",
-    "fetched_at": "2026-05-25T19:17:20.404Z",
-    "title_zh": "国产操作系统安全加固方法",
-    "summary_zh": "本文发表于北京大学期刊网，聚焦国产操作系统（如麒麟、统信 UOS）的安全加固方法。内容涵盖系统账户与认证策略、文件与目录权限控制、网络服务最小化、内核参数安全调优、日志审计配置以及安全合规基线检查。针对国产系统的特殊架构与生态，提供适配的加固工具与配置示例，适合政务、金融等国产化替代场景下的安全运维人员参考。",
-    "topic": "security"
-  },
-  {
-    "id": "1a8f349fbf452b0bf8fd06ed95d53e4f",
-    "title_en": "Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)",
-    "source": "ti.qianxin.com",
-    "url": "https://ti.qianxin.com/vulnerability/notice-list",
-    "published_at": "2026-05-25T19:17:20.404Z",
-    "fetched_at": "2026-05-25T19:17:20.404Z",
-    "title_zh": "Linux内核Copy Fail本地权限提升漏洞（CVE-2026-31431）",
-    "summary_zh": "本文分析了Linux内核中一个名为Copy Fail的本地权限提升漏洞（CVE-2026-31431）。漏洞源于内核内存拷贝操作中的条件竞争或边界处理不当，攻击者可利用该漏洞获取root权限。文章提供了漏洞原理、影响版本及修复建议，适合运维和安全人员评估风险并制定内核升级或热补丁方案。",
-    "topic": "security"
-  },
-  {
-    "id": "6294158f280f488255f5a15057f85f0c",
-    "title_en": "Nginx CVE-2026-42945漏洞分析及复现-腾讯云开发者社区-腾讯云",
-    "source": "developer.cloud.tencent.com",
-    "url": "https://developer.cloud.tencent.com/article/2670070",
-    "published_at": "2026-05-25T19:17:20.404Z",
-    "fetched_at": "2026-05-25T19:17:20.404Z",
-    "title_zh": "Nginx CVE-2026-42945漏洞分析及复现 - 腾讯云开发者社区",
-    "summary_zh": "本文对Nginx中的CVE-2026-42945漏洞进行了详细分析，包括漏洞触发条件、利用原理及复现步骤。该漏洞可能影响Nginx的HTTP/2或核心处理模块，导致拒绝服务或远程代码执行。文章还提供了腾讯云环境下的修复建议和临时缓解措施，对使用Nginx的运维和安全团队具有直接指导意义。",
-    "topic": "security"
-  },
-  {
-    "id": "aa2ea0faf70ab897c986cea98da3b7f4",
-    "title_en": "CVE-2026-42945 深度解析 NGINX Rift ：潜伏18年的堆溢出漏洞分析与防御指南 - 蚁景网安实验室",
-    "source": "yijinglab.com",
-    "url": "https://www.yijinglab.com/specialized/20260518171854",
-    "published_at": "2026-05-25T19:17:20.404Z",
-    "fetched_at": "2026-05-25T19:17:20.404Z",
-    "title_zh": "CVE-2026-42945深度解析：NGINX Rift——潜伏18年的堆溢出漏洞分析与防御指南",
-    "summary_zh": "本文由蚁景网安实验室深度解析了CVE-2026-42945（NGINX Rift），一个潜伏18年的堆溢出漏洞。文章从漏洞发现历程、堆内存布局、利用原理解析到实际攻击场景进行了全面剖析，并提供了基于编译选项、运行时监控和WAF规则的防御指南。对于深入理解Nginx内部机制和堆安全的研究者极具价值。",
-    "topic": "security"
   }
 ]
