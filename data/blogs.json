@@ -1,5 +1,60 @@
 [
   {
+    "id": "af9c678f190ee48299293cdf7a1073f7",
+    "title_en": "系统运维管理 OOS - 统一自动化运维编排管理 - 阿里云",
+    "source": "cn.aliyun.com",
+    "url": "https://cn.aliyun.com/product/oos?from_alibabacloud=",
+    "published_at": "2026-05-31T08:35:59.235Z",
+    "fetched_at": "2026-05-31T08:35:59.235Z",
+    "title_zh": "系统运维管理 OOS - 统一自动化运维编排管理 - 阿里云",
+    "summary_zh": "本文是阿里云官方产品文档，全面介绍了系统运维管理服务（OOS）的功能与使用场景。OOS提供统一的自动化运维编排管理能力，支持通过可视化模板或脚本定义运维任务，实现批量操作、定时任务、事件触发等场景的自动化。文章详细说明了OOS的架构、核心组件及典型应用案例，对于需要提升云上运维效率的团队，该服务可显著降低重复性工作，确保操作的一致性与安全性。",
+    "topic": "ops"
+  },
+  {
+    "id": "e78644bbb7cc55d0f2daa148a5ccb040",
+    "title_en": "CVE-2026-41089: Netlogon Unauthenticated RCE Analysis",
+    "source": "safeguard.sh",
+    "url": "https://safeguard.sh/resources/blog/cve-2026-41089-netlogon-rce-domain-controller-may-2026",
+    "published_at": "2026-05-31T08:35:42.253Z",
+    "fetched_at": "2026-05-31T08:35:42.253Z",
+    "title_zh": "CVE-2026-41089: Netlogon未授权远程代码执行分析",
+    "summary_zh": "本文深入分析CVE-2026-41089漏洞，该漏洞存在于Windows Netlogon协议中，允许未认证攻击者远程执行任意代码。文章详细描述漏洞原理、利用条件、攻击链以及受影响版本，并给出临时缓解措施和永久修复补丁。同时提供检测该漏洞的Nuclei POC和Metasploit模块示例，供安全团队应急响应参考。",
+    "topic": "security"
+  },
+  {
+    "id": "6de498a85a274f97d225bedd5db6b004",
+    "title_en": "2026 年上半年全球常规被利用漏洞全景分析 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/2043112087396816838",
+    "published_at": "2026-05-31T08:35:42.252Z",
+    "fetched_at": "2026-05-31T08:35:42.252Z",
+    "title_zh": "2026年上半年全球常规被利用漏洞全景分析",
+    "summary_zh": "本文对2026年上半年全球范围内被广泛利用的漏洞进行全景分析，涵盖CVE编号、影响范围、攻击向量、利用复杂度及修复状态。重点剖析了多个0day漏洞在野利用案例，并给出各行业受影响程度的统计。最后提出基于威胁情报的主动防御策略，帮助安全团队优先修复高风险漏洞。",
+    "topic": "security"
+  },
+  {
+    "id": "ccb32c88b361dd5573e32422b0289238",
+    "title_en": "AI Agent(智能体) 教程 - 菜鸟教程",
+    "source": "runoob.com",
+    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
+    "published_at": "2026-05-31T08:35:38.009Z",
+    "fetched_at": "2026-05-31T08:35:38.009Z",
+    "title_zh": "AI Agent(智能体) 教程",
+    "summary_zh": "本教程从基础概念出发，系统介绍AI Agent的定义、分类、工作原理及开发方法。内容涵盖Agent的感知-思考-行动循环、基于LLM的推理引擎、工具调用与外部系统集成、记忆管理机制等核心知识点。教程以通俗易懂的方式讲解ReAct模式、Plan-and-Execute等经典架构，并提供了基于Python的简单实现示例。适合AI初学者快速建立对Agent技术的整体认知。",
+    "topic": "ai"
+  },
+  {
+    "id": "a229831c1fb87d90719025671866d313",
+    "title_en": "如何从零开始实现一个 AI Agent 框架（理论+实践）-腾讯云开发者社区-腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2631821",
+    "published_at": "2026-05-31T08:35:38.009Z",
+    "fetched_at": "2026-05-31T08:35:38.009Z",
+    "title_zh": "如何从零开始实现一个 AI Agent 框架（理论+实践）",
+    "summary_zh": "本文由腾讯云开发者社区出品，详细讲解了从零构建AI Agent框架的完整过程。内容包括Agent核心组件设计（LLM调用、工具注册、记忆管理）、任务规划与执行引擎的实现，以及基于Python的代码示例。文章兼顾理论基础与工程实践，帮助开发者理解Agent内部机制，并提供了可复用的框架模板。适合对Agent底层原理感兴趣的进阶开发者。",
+    "topic": "ai"
+  },
+  {
     "id": "d6fc3a1ce72305a47cbdba6dd01a5d5d",
     "title_en": "2026年CVE漏洞数量可能首次突破10万个 - QQ - 腾讯新闻",
     "source": "news.qq.com",
@@ -2143,60 +2198,5 @@
     "title_zh": "确保Android长期安全的制造商指南",
     "summary_zh": "本文是Google官方发布的Android设备制造商安全指南，旨在帮助OEM厂商建立长期有效的安全更新机制。指南涵盖了从芯片启动链安全（AVB）、内核加固、驱动隔离、系统分区保护到定期安全补丁推送的全链路要求。重点强调了Project Treble与Mainline模块化更新对缩短补丁延迟的作用，并提供了CTS/VTS测试、安全公告合规性检查及漏洞奖励计划的最佳实践。对于Android设备制造商及系统集成商具有直接指导意义。",
     "topic": "security"
-  },
-  {
-    "id": "cfb1556189b2c82a6d246e4539d50794",
-    "title_en": "集群运维| Kubernetes 实践指南 - roc 云原生",
-    "source": "imroc.cc",
-    "url": "https://imroc.cc/kubernetes/best-practices/ops",
-    "published_at": "2026-05-25T09:51:37.656Z",
-    "fetched_at": "2026-05-25T09:51:37.656Z",
-    "title_zh": "集群运维| Kubernetes实践指南",
-    "summary_zh": "本文是一份面向Kubernetes集群运维的实践指南，涵盖了集群部署、监控、日志管理和故障排查等核心运维场景。文章详细介绍了如何利用kubeadm搭建高可用集群，配置RBAC权限控制，以及使用Prometheus和Grafana实现资源监控。在故障排查部分，作者分享了Pod启动失败、节点NotReady、网络插件异常等常见问题的诊断思路和修复命令。此外，还讨论了集群升级策略和备份恢复方案，适合K8s运维工程师参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "d23d822ef80e77298bddb180a5ac73f6",
-    "title_en": "AI Agent 开发实战手册| Wiki | JR Academy",
-    "source": "jiangren.com.au",
-    "url": "https://jiangren.com.au/wiki/ai-agent-guide",
-    "published_at": "2026-05-25T09:51:20.194Z",
-    "fetched_at": "2026-05-25T09:51:20.194Z",
-    "title_zh": "AI Agent 开发实战手册| Wiki | JR Academy",
-    "summary_zh": "本手册由JR Academy整理，是一份面向AI Agent开发者的实战指南。内容涵盖Agent框架选型（如LangChain、CrewAI）、任务规划与执行、工具集成、记忆管理以及多Agent协作模式。手册通过多个实际项目案例，展示了如何构建客服Agent、代码助手Agent等典型应用。重点强调了Agent的调试、日志记录与性能评估方法。对于希望快速上手Agent开发的工程师，这是一份结构清晰、可直接参考的技术文档。",
-    "topic": "ai"
-  },
-  {
-    "id": "29f9e2d134cd6c9969ff18c29aa654a4",
-    "title_en": "Agent全面爆发！一文搞懂Agent开发核心链路-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com.cn",
-    "url": "https://cloud.tencent.com.cn/developer/article/2591036?policyId=1003",
-    "published_at": "2026-05-25T09:51:20.194Z",
-    "fetched_at": "2026-05-25T09:51:20.194Z",
-    "title_zh": "Agent全面爆发！一文搞懂Agent开发核心链路-腾讯云开发者社区-腾讯云",
-    "summary_zh": "本文由腾讯云开发者社区发布，全面解析了AI Agent开发的核心链路。文章从Agent的定义与演进开始，详细拆解了感知、规划、执行与反馈四大模块。重点介绍了如何利用腾讯云服务（如TI-ONE、向量数据库）构建高性能Agent，并提供了多Agent协作、工具调用与记忆管理的实战代码。作者还分享了Agent在金融、客服等行业的落地案例，以及性能调优与安全防护策略。对于希望快速掌握Agent开发全流程的读者，本文极具参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "973a1ff09d914232887be3684d28bb80",
-    "title_en": "GitHub - liguodongiot/llm-action: 本项目旨在分享大模型相关技术原理 ...",
-    "source": "github.com",
-    "url": "https://github.com/liguodongiot/llm-action",
-    "published_at": "2026-05-25T09:51:20.194Z",
-    "fetched_at": "2026-05-25T09:51:20.194Z",
-    "title_zh": "GitHub - liguodongiot/llm-action: 本项目旨在分享大模型相关技术原理...",
-    "summary_zh": "这是一个GitHub开源项目，专注于分享大模型（LLM）相关的技术原理与实战代码。项目内容涵盖Transformer架构详解、预训练与微调技术、模型压缩与量化、推理优化以及Agent应用开发。作者提供了大量可运行的代码示例，包括基于PyTorch的模型实现、LoRA微调脚本、RAG管道构建等。对于希望深入理解大模型底层机制并动手实践的开发者，这是一个高质量的学习资源库，持续更新中。",
-    "topic": "ai"
-  },
-  {
-    "id": "25151837fc8fedc3d9db55d9ca1f51cf",
-    "title_en": "大模型微调从原理到PEFT与RLHF等高级技术实践-开发者社区-阿里云",
-    "source": "developer.aliyun.com",
-    "url": "https://developer.aliyun.com/article/1683849",
-    "published_at": "2026-05-25T09:51:20.194Z",
-    "fetched_at": "2026-05-25T09:51:20.194Z",
-    "title_zh": "大模型微调从原理到PEFT与RLHF等高级技术实践-开发者社区-阿里云",
-    "summary_zh": "本文由阿里云开发者社区发布，系统讲解了大模型微调从原理到高级技术的完整实践。内容涵盖全参数微调、PEFT（如LoRA、Adapter）、RLHF（基于人类反馈的强化学习）等主流方法。作者深入分析了每种技术的适用场景、优缺点与性能对比，并提供了基于阿里云PAI平台的实战代码。文章还讨论了微调中的数据质量、过拟合、灾难性遗忘等关键问题及解决方案。对于希望掌握大模型定制化技术的工程师，这是一份权威且实用的技术指南。",
-    "topic": "ai"
   }
 ]
