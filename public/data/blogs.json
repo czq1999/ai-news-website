@@ -1,5 +1,115 @@
 [
   {
+    "id": "dbbcf06cae6e767cf051f46f1b6f6f27",
+    "title_en": "实现红帽企业 Linux 自动化",
+    "source": "redhat.com",
+    "url": "https://www.redhat.com/zh-cn/resources/automate-red-hat-enterprise-linux-ebook",
+    "published_at": "2026-05-31T13:17:22.044Z",
+    "fetched_at": "2026-05-31T13:17:22.044Z",
+    "title_zh": "实现红帽企业Linux自动化",
+    "summary_zh": "本文介绍红帽企业Linux（RHEL）的自动化实现方案，涵盖系统部署、配置管理、补丁更新与合规审计等场景。重点讲解Ansible自动化工具在RHEL环境中的应用，包括Playbook编写、角色设计与集成CI/CD管道。文章还讨论自动化安全策略与性能调优，适合企业级Linux运维人员提升管理效率与系统稳定性。",
+    "topic": "ops"
+  },
+  {
+    "id": "228eb2a6f1ee8f51710ea3c7d49d1aff",
+    "title_en": "从零入门linux内核安全：脏牛提权漏洞分析与补丁分析（CVE-2016 ...",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV18Q4y1i7Ld/",
+    "published_at": "2026-05-31T13:17:22.043Z",
+    "fetched_at": "2026-05-31T13:17:22.043Z",
+    "title_zh": "从零入门Linux内核安全：脏牛提权漏洞分析与补丁分析（CVE-2016-5195）",
+    "summary_zh": "本文以经典的脏牛（Dirty COW）漏洞（CVE-2016-5195）为切入点，系统讲解Linux内核安全入门知识。内容涵盖漏洞原理：利用内核竞态条件实现本地权限提升，详细分析补丁如何通过引入原子操作修复写时拷贝（COW）机制中的竞争窗口。适合希望理解内核漏洞利用与防御机制的开发者，提供从漏洞触发到补丁修复的完整技术链路。",
+    "topic": "security"
+  },
+  {
+    "id": "ecd84014ef774ca1aab3bbc4ebd6bb51",
+    "title_en": "CVE-2016-4470内核补丁技术问询：变量修复逻辑与竞态条件分析",
+    "source": "volcengine.com",
+    "url": "https://www.volcengine.com/article/775708",
+    "published_at": "2026-05-31T13:17:22.043Z",
+    "fetched_at": "2026-05-31T13:17:22.043Z",
+    "title_zh": "CVE-2016-4470内核补丁技术问询：变量修复逻辑与竞态条件分析",
+    "summary_zh": "本文围绕CVE-2016-4470内核漏洞的补丁修复展开技术问询，重点分析变量修复逻辑与竞态条件。漏洞源于内核密钥环（keyring）子系统中的引用计数竞争，补丁通过调整变量作用域与加锁顺序消除竞态。文章深入探讨补丁设计意图，对比不同修复方案的优劣，为内核开发者理解并发安全编程提供实例。",
+    "topic": "security"
+  },
+  {
+    "id": "7a302f1f3187fbe6fd9b6274185373d7",
+    "title_en": "第8 章使用内核实时修补程序应用补丁| 管理 - Red Hat Documentation",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/9/html/managing_monitoring_and_updating_the_kernel/applying-patches-with-kernel-live-patching_managing-monitoring-and-updating-the-kernel",
+    "published_at": "2026-05-31T13:17:22.043Z",
+    "fetched_at": "2026-05-31T13:17:22.043Z",
+    "title_zh": "第8章 使用内核实时修补程序应用补丁 | 管理 - Red Hat Documentation",
+    "summary_zh": "本文为Red Hat官方文档节选，详细讲解如何使用内核实时修补（Kernel Live Patching）技术在不重启系统的情况下应用安全补丁。涵盖kpatch与kGraft工具的原理、配置步骤、补丁生命周期管理及回滚策略。适合运维与安全工程师，帮助实现关键业务系统的高可用性与零停机安全修复。",
+    "topic": "ops"
+  },
+  {
+    "id": "92bf268f7ec25cf200d1416212127b5d",
+    "title_en": "2026年上半年全球常规被利用漏洞全景分析 - 信息安全知识库",
+    "source": "gm7.org",
+    "url": "https://www.gm7.org/archives/107854",
+    "published_at": "2026-05-31T13:17:19.059Z",
+    "fetched_at": "2026-05-31T13:17:19.059Z",
+    "title_zh": "2026年上半年全球常规被利用漏洞全景分析",
+    "summary_zh": "本文对 2026 年上半年全球范围内被广泛利用的漏洞进行了全景式分析，涵盖漏洞类型分布（远程代码执行、权限提升、信息泄露等）、受影响厂商（Microsoft、Google、Apple、Adobe 等）、攻击趋势（供应链攻击、零日漏洞利用）以及行业影响。文章基于 CVE 与公开威胁情报数据，提供了漏洞利用链分析与修复优先级建议，帮助安全团队把握威胁态势并制定有效的漏洞管理策略。",
+    "topic": "security"
+  },
+  {
+    "id": "89dd0fd37731d67e80299442eed7d44f",
+    "title_en": "2026年1月重大漏洞威胁情报与分析-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2623513",
+    "published_at": "2026-05-31T13:17:19.059Z",
+    "fetched_at": "2026-05-31T13:17:19.059Z",
+    "title_zh": "2026年1月重大漏洞威胁情报与分析",
+    "summary_zh": "本文汇总了 2026 年 1 月发布的重大漏洞威胁情报，包括多个已被在野利用的 0day 漏洞（如 Windows 内核提权漏洞、主流 CMS 远程代码执行漏洞），以及影响广泛的供应链漏洞。文章对每个漏洞的 CVE 编号、影响范围、利用条件、PoC 公开状态及修复方案进行了详细分析，并给出了针对性的缓解措施与检测规则（YARA/Sigma），帮助安全团队快速响应并降低风险。",
+    "topic": "security"
+  },
+  {
+    "id": "1f4dfcab4b75cf813c3e236b6b7853b3",
+    "title_en": "Linux性能调优指南 - Scribd",
+    "source": "scribd.com",
+    "url": "https://www.scribd.com/document/955065137/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97",
+    "published_at": "2026-05-31T13:17:19.058Z",
+    "fetched_at": "2026-05-31T13:17:19.058Z",
+    "title_zh": "Linux性能调优指南",
+    "summary_zh": "本文是一份全面的Linux性能调优指南，涵盖从基础概念到高级技术的完整知识体系。内容包括性能度量指标解读、常见瓶颈分析（CPU、内存、I/O、网络）、调优工具链（perf、sysstat、bcc/ebpf）使用、内核参数优化（调度器、内存管理、文件系统）以及应用层调优（数据库、Web服务器）。适合系统管理员与DevOps工程师系统学习性能优化。",
+    "topic": "ops"
+  },
+  {
+    "id": "3312b4b276527e63183778dfae3ffcda",
+    "title_en": "【2026最新版】保姆级AI Agent智能体系统教程",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1ZzvUBXEoL/",
+    "published_at": "2026-05-31T13:17:15.462Z",
+    "fetched_at": "2026-05-31T13:17:15.462Z",
+    "title_zh": "【2026最新版】保姆级AI Agent智能体系统教程",
+    "summary_zh": "本视频教程以保姆级教学方式，系统讲解AI Agent智能体系统的构建全过程。从环境搭建、模型选择、提示词设计到Agent框架使用，逐步演示如何创建一个具备工具调用与自主决策能力的智能体。内容涵盖常见问题排查与性能调优技巧，适合零基础开发者快速入门AI Agent开发，并理解其在实际应用中的工作流程。",
+    "topic": "ai"
+  },
+  {
+    "id": "973a1ff09d914232887be3684d28bb80",
+    "title_en": "GitHub - liguodongiot/llm-action: 本项目旨在分享大模型相关技术原理 ...",
+    "source": "github.com",
+    "url": "https://github.com/liguodongiot/llm-action",
+    "published_at": "2026-05-31T13:17:15.462Z",
+    "fetched_at": "2026-05-31T13:17:15.462Z",
+    "title_zh": "GitHub - liguodongiot/llm-action: 大模型相关技术原理分享",
+    "summary_zh": "该项目是一个大模型技术原理的代码与文档仓库，涵盖Transformer架构、预训练、指令微调、RLHF、模型压缩（量化/蒸馏）等核心主题。通过可运行的代码示例和详细注释，帮助开发者深入理解LLM的内部机制与训练流程，适合希望从原理层面掌握大模型技术的AI工程师和研究人员。",
+    "topic": "ai"
+  },
+  {
+    "id": "b6e53abcb3de734ac9485afbb7157734",
+    "title_en": "Claude Opus 4.8 发布：补上 4.7 的短板，押注 Agent 工作流_腾讯新闻",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20260530A035DN00",
+    "published_at": "2026-05-31T13:17:15.461Z",
+    "fetched_at": "2026-05-31T13:17:15.461Z",
+    "title_zh": "Claude Opus 4.8 发布：补上4.7的短板，押注Agent工作流",
+    "summary_zh": "本文介绍了Claude Opus 4.8版本的核心更新，重点分析了其在Agent工作流能力上的强化。新版本修复了4.7在长上下文推理、工具调用稳定性及多步骤任务规划上的不足，并引入了更高效的Agent编排机制。文章从技术实现角度解读了模型架构调整与训练策略优化，对于关注AI Agent开发与部署的工程师具有实际参考价值。",
+    "topic": "ai"
+  },
+  {
     "id": "af9c678f190ee48299293cdf7a1073f7",
     "title_en": "系统运维管理 OOS - 统一自动化运维编排管理 - 阿里云",
     "source": "cn.aliyun.com",
@@ -2087,116 +2197,6 @@
     "fetched_at": "2026-05-25T19:17:20.404Z",
     "title_zh": "CVE-2026-42945深度解析：NGINX Rift——潜伏18年的堆溢出漏洞分析与防御指南",
     "summary_zh": "本文由蚁景网安实验室深度解析了CVE-2026-42945（NGINX Rift），一个潜伏18年的堆溢出漏洞。文章从漏洞发现历程、堆内存布局、利用原理解析到实际攻击场景进行了全面剖析，并提供了基于编译选项、运行时监控和WAF规则的防御指南。对于深入理解Nginx内部机制和堆安全的研究者极具价值。",
-    "topic": "security"
-  },
-  {
-    "id": "150ed4f8b546367932a3bfe75cf149b8",
-    "title_en": "GitHub - datawhalechina/hello-agents: 《从零开始构建智能体》",
-    "source": "github.com",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "published_at": "2026-05-25T19:17:04.107Z",
-    "fetched_at": "2026-05-25T19:17:04.107Z",
-    "title_zh": "GitHub - datawhalechina/hello-agents: 《从零开始构建智能体》",
-    "summary_zh": "这是一个开源项目，旨在帮助开发者从零开始构建智能体（Agent）。项目提供了完整的教程和代码示例，涵盖Agent核心概念、工具调用、记忆管理、多Agent协作等主题。教程采用循序渐进的方式，从最简单的单步Agent逐步演进到复杂的自主决策系统，并配有详细的注释和实验指导。适合作为Agent开发的学习入门资料。",
-    "topic": "ai"
-  },
-  {
-    "id": "2a0ab55f65339c934c2175f93a75968d",
-    "title_en": "运维实践相关内容 - 阿里云",
-    "source": "cn.aliyun.com",
-    "url": "https://cn.aliyun.com/sswb/channel_545228.html",
-    "published_at": "2026-05-25T14:36:53.219Z",
-    "fetched_at": "2026-05-25T14:36:53.219Z",
-    "title_zh": "运维实践相关内容 - 阿里云",
-    "summary_zh": "阿里云提供的运维实践内容合集，涵盖云资源管理、自动化运维、监控告警、安全合规及成本优化等主题。文章详细介绍了如何使用阿里云运维编排服务（OOS）、资源编排（ROS）及云监控实现基础设施自动化，并提供了针对ECS、RDS、SLB等产品的运维最佳实践。同时讨论了混合云场景下的统一运维方案及安全基线配置。适合阿里云用户和云运维工程师参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "6a25a69213af49708716f3e1a8c0e1d8",
-    "title_en": "《双态IT联盟自动化运维白皮书》概览 - H3C",
-    "source": "h3c.com",
-    "url": "https://www.h3c.com/cn/d_201901/1147062_233453_0.htm",
-    "published_at": "2026-05-25T14:36:53.219Z",
-    "fetched_at": "2026-05-25T14:36:53.219Z",
-    "title_zh": "《双态IT联盟自动化运维白皮书》概览 - H3C",
-    "summary_zh": "本文概览了双态IT联盟发布的自动化运维白皮书，聚焦于传统稳态IT与敏态IT融合场景下的运维挑战与解决方案。白皮书提出了自动化运维成熟度模型，涵盖标准化、工具化、平台化、智能化四个阶段，并给出了组织架构、流程规范及技术选型建议。重点讨论了CMDB、自动化编排、AIOps及安全合规在双态环境中的落地实践。适合企业IT管理者制定运维转型战略。",
-    "topic": "ops"
-  },
-  {
-    "id": "f4c135d82a98e051d2079adc6c9b4b4c",
-    "title_en": "漏洞预警-启明星辰- 安全通告",
-    "source": "venustech.com.cn",
-    "url": "https://www.venustech.com.cn/new_type/aqtg/",
-    "published_at": "2026-05-25T14:36:50.604Z",
-    "fetched_at": "2026-05-25T14:36:50.604Z",
-    "title_zh": "漏洞预警 - 启明星辰安全通告",
-    "summary_zh": "启明星辰发布的安全漏洞预警通告，针对近期发现的高危漏洞进行通报。通告内容包括漏洞编号、影响范围、危害等级及修复建议。重点分析了漏洞的利用复杂度、攻击前提条件及潜在影响，并提供了厂商补丁链接或临时缓解方案。建议企业安全团队立即排查受影响系统，优先修复面向公网的服务，并加强入侵检测规则以防范潜在攻击。",
-    "topic": "security"
-  },
-  {
-    "id": "86a5779eb1fa1accf3bccc00785f77fb",
-    "title_en": "Kubernetes 集群运维与管理 - Jimmy Song",
-    "source": "jimmysong.io",
-    "url": "https://jimmysong.io/zh/book/kubernetes-handbook/operation/overview/",
-    "published_at": "2026-05-25T14:36:50.603Z",
-    "fetched_at": "2026-05-25T14:36:50.603Z",
-    "title_zh": "Kubernetes 集群运维与管理",
-    "summary_zh": "本文由 Kubernetes 专家 Jimmy Song 撰写，深入讲解了生产环境中 Kubernetes 集群的日常运维与管理要点。内容覆盖节点管理、资源配额设置、Pod 安全策略、日志与监控集成（Prometheus + Grafana）、以及集群升级与备份恢复方案。作者结合自身经验，分享了多租户隔离、网络策略配置及 etcd 性能调优等实战技巧，并提供了常见故障（如节点 NotReady、Pod 驱逐）的排查思路。适合 Kubernetes 集群管理员与 SRE 工程师阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "9e15821c585920e499dc517989ebda80",
-    "title_en": "CN109408230B - 基于能耗优化的Docker容器部署方法及系统",
-    "source": "patents.google.com",
-    "url": "https://patents.google.com/patent/CN109408230B/zh",
-    "published_at": "2026-05-25T14:36:50.603Z",
-    "fetched_at": "2026-05-25T14:36:50.603Z",
-    "title_zh": "CN109408230B：基于能耗优化的 Docker 容器部署方法及系统",
-    "summary_zh": "本发明专利公开了一种基于能耗优化的 Docker 容器部署方法及系统，旨在降低数据中心能耗。核心思路是通过实时监控容器的资源使用特征（CPU、内存、I/O），结合机器学习模型预测负载变化，动态调整容器在物理节点上的调度策略与资源配额。系统还引入了功耗感知的装箱算法，在保证服务质量的前提下最大化资源利用率。该专利适用于绿色计算、数据中心能效优化等场景，为容器编排平台的节能设计提供了技术参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "ce576a93145104d2014bde27eaefa32e",
-    "title_en": "使用Docker 容器优化公司的IT 基础设施",
-    "source": "iphos.com",
-    "url": "https://www.iphos.com/zh-CN/edv-%E5%AE%83%E5%AE%83m/%E4%BD%BF%E7%94%A8-Docker-%E5%AE%B9%E5%99%A8%E4%BC%98%E5%8C%96%E5%85%AC%E5%8F%B8%E7%9A%84-IT-%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/",
-    "published_at": "2026-05-25T14:36:50.603Z",
-    "fetched_at": "2026-05-25T14:36:50.603Z",
-    "title_zh": "利用 Docker 容器优化公司 IT 基础设施",
-    "summary_zh": "本文从企业 IT 基础设施优化的角度，阐述了 Docker 容器化带来的实际收益与实施路径。内容涵盖传统单体应用向微服务架构的拆分策略、CI/CD 流水线集成、环境一致性保障以及资源利用率提升。作者还讨论了容器化过程中面临的挑战，如数据持久化、网络互通及安全隔离，并给出了基于 Docker Compose 或 Kubernetes 的选型建议。适合正在推进 IT 基础设施现代化改造的企业技术决策者与架构师。",
-    "topic": "ops"
-  },
-  {
-    "id": "1f19d651288cc78c4e1dfede2b5ecc12",
-    "title_en": "Linux性能调优指南.pdf - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/ningyu1/e-books/blob/master/doc/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97.pdf",
-    "published_at": "2026-05-25T14:36:50.602Z",
-    "fetched_at": "2026-05-25T14:36:50.602Z",
-    "title_zh": "Linux性能调优指南.pdf",
-    "summary_zh": "本文是一份PDF格式的Linux性能调优指南，系统介绍了从监控到调优的完整方法论。内容涵盖CPU、内存、磁盘I/O与网络子系统的性能分析工具（如perf、sar、iostat、tcpdump）及其使用场景。作者深入讲解了常见性能瓶颈的识别方法，例如上下文切换过高、内存泄漏、磁盘等待与网络延迟，并给出了针对性的内核参数调整建议（如vm.swappiness、net.core.somaxconn）。适合系统管理员与性能工程师深入研读。",
-    "topic": "ops"
-  },
-  {
-    "id": "337fb129858469146441df3cac79eaf7",
-    "title_en": "主要思路流程 - 阿里云开发者社区",
-    "source": "developer.aliyun.com",
-    "url": "https://developer.aliyun.com/article/234597",
-    "published_at": "2026-05-25T14:36:50.602Z",
-    "fetched_at": "2026-05-25T14:36:50.602Z",
-    "title_zh": "主要思路流程",
-    "summary_zh": "本文来自阿里云开发者社区，内容聚焦于技术方案设计中的主要思路与流程梳理。文章以架构设计为例，讲解了从需求分析、技术选型、模块划分到接口定义的完整思考过程。作者强调了流程图与思维导图在复杂系统设计中的辅助作用，并分享了如何通过迭代评审与原型验证来降低设计风险。虽然未限定具体技术栈，但其方法论对于任何需要系统化解决问题的开发者都具有参考价值。",
-    "topic": "other"
-  },
-  {
-    "id": "7cc1753b0adb8e4f8f3e9e8c8c0de68c",
-    "title_en": "确保Android 长期安全的制造商指南",
-    "source": "source.android.com",
-    "url": "https://source.android.com/docs/automotive/security/mfg_guide?hl=zh-cn",
-    "published_at": "2026-05-25T09:51:41.903Z",
-    "fetched_at": "2026-05-25T09:51:41.903Z",
-    "title_zh": "确保Android长期安全的制造商指南",
-    "summary_zh": "本文是Google官方发布的Android设备制造商安全指南，旨在帮助OEM厂商建立长期有效的安全更新机制。指南涵盖了从芯片启动链安全（AVB）、内核加固、驱动隔离、系统分区保护到定期安全补丁推送的全链路要求。重点强调了Project Treble与Mainline模块化更新对缩短补丁延迟的作用，并提供了CTS/VTS测试、安全公告合规性检查及漏洞奖励计划的最佳实践。对于Android设备制造商及系统集成商具有直接指导意义。",
     "topic": "security"
   }
 ]
