@@ -1,5 +1,148 @@
 [
   {
+    "id": "bf5e0841d9246ba05a6a35b249a01b68",
+    "title_en": "安全缺陷",
+    "source": "kernel.org",
+    "url": "https://www.kernel.org/doc/html/v6.1/translations/zh_CN/admin-guide/security-bugs.html",
+    "published_at": "2026-06-01T21:22:51.602Z",
+    "fetched_at": "2026-06-01T21:22:51.602Z",
+    "title_zh": "安全缺陷",
+    "summary_zh": "Linux内核官方安全缺陷列表，汇总了已公开的内核漏洞信息，包括CVE编号、影响版本及修复状态。内核维护者与系统管理员可据此跟踪最新安全补丁，及时更新内核以防范潜在攻击。",
+    "topic": "security"
+  },
+  {
+    "id": "7cc1753b0adb8e4f8f3e9e8c8c0de68c",
+    "title_en": "确保Android 长期安全的制造商指南",
+    "source": "source.android.com",
+    "url": "https://source.android.com/docs/automotive/security/mfg_guide?hl=zh-cn",
+    "published_at": "2026-06-01T21:22:51.602Z",
+    "fetched_at": "2026-06-01T21:22:51.602Z",
+    "title_zh": "确保Android长期安全的制造商指南",
+    "summary_zh": "Google发布的Android长期安全维护指南，面向设备制造商。内容涵盖安全补丁管理、内核加固、可信执行环境等关键实践，帮助厂商建立持续的安全更新机制，确保Android设备在整个生命周期内抵御漏洞威胁。",
+    "topic": "security"
+  },
+  {
+    "id": "9d0c3241c66fc7516d0334e28fda36b6",
+    "title_en": "[PDF] 智能运维的实践：现状与标准化",
+    "source": "netman.aiops.org",
+    "url": "https://netman.aiops.org/wp-content/uploads/2023/03/2.-mt008.pdf",
+    "published_at": "2026-06-01T21:22:51.602Z",
+    "fetched_at": "2026-06-01T21:22:51.602Z",
+    "title_zh": "PDF 智能运维的实践：现状与标准化",
+    "summary_zh": "本文探讨了智能运维（AIOps）的当前实践现状与标准化进展，涵盖数据采集、异常检测、根因分析等关键技术。通过实际案例展示AIOps如何提升运维效率，并讨论了标准化对行业发展的推动作用。",
+    "topic": "ops"
+  },
+  {
+    "id": "f7ae3e6971310d62d246b981f004af9f",
+    "title_en": "Newest CVEs | Tenable®",
+    "source": "tenable.com",
+    "url": "https://www.tenable.com/cve/newest",
+    "published_at": "2026-06-01T21:22:33.499Z",
+    "fetched_at": "2026-06-01T21:22:33.499Z",
+    "title_zh": "最新CVE漏洞列表 | Tenable",
+    "summary_zh": "Tenable平台汇总的最新CVE漏洞列表，涵盖各厂商产品的安全缺陷。每个漏洞均附有CVSS评分、描述及参考链接，是安全运维人员进行漏洞扫描、风险评估和优先级排序的重要数据源。",
+    "topic": "security"
+  },
+  {
+    "id": "cf41d95c206b5010bc471b06069cdf2f",
+    "title_en": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？-A5数据",
+    "source": "a5idc.com",
+    "url": "https://www.a5idc.com/article/22500.html",
+    "published_at": "2026-06-01T21:22:33.498Z",
+    "fetched_at": "2026-06-01T21:22:33.498Z",
+    "title_zh": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？",
+    "summary_zh": "本文针对香港服务器这一特定场景，探讨了Docker容器在存储和网络性能方面的优化策略。作者分析了香港机房网络延迟的特点，提出了使用本地SSD存储、调整Docker存储驱动为overlay2、配置网络桥接模式等具体方案。文章还介绍了如何通过资源限制和容器编排工具减少资源浪费，以及针对跨境业务场景的CDN加速建议。对于部署在海外或香港服务器的运维人员，本文提供了实用的性能优化指导。",
+    "topic": "ops"
+  },
+  {
+    "id": "af3646b283c2c6ac22cae0a041fe976e",
+    "title_en": "CN113946834A - 一种Linux操作系统的安全加固策略优化方法",
+    "source": "patents.google.com",
+    "url": "https://patents.google.com/patent/CN113946834A/zh",
+    "published_at": "2026-06-01T21:22:33.498Z",
+    "fetched_at": "2026-06-01T21:22:33.498Z",
+    "title_zh": "CN113946834A - 一种Linux操作系统的安全加固策略优化方法",
+    "summary_zh": "本发明专利公开了一种Linux操作系统安全加固策略的优化方法，旨在解决传统加固策略配置繁琐、兼容性差的问题。该方法通过自动化评估系统当前安全状态，动态生成最优加固策略，并支持策略的回滚与验证。专利详细描述了策略优化算法、规则引擎设计以及与现有安全框架的集成方式。对于从事操作系统安全研究和自动化运维的工程师，本文提供了创新的技术思路。",
+    "topic": "security"
+  },
+  {
+    "id": "d5d3d3ce9ce8dd35cd38f8319e9bab7f",
+    "title_en": "基于Linux内核的国产操作系统安全加固方法研究 - 北京大学期刊网",
+    "source": "ccj.pku.edu.cn",
+    "url": "https://ccj.pku.edu.cn/Article/info?aid=388967464",
+    "published_at": "2026-06-01T21:22:33.498Z",
+    "fetched_at": "2026-06-01T21:22:33.498Z",
+    "title_zh": "基于Linux内核的国产操作系统安全加固方法研究",
+    "summary_zh": "本文基于北京大学期刊网的研究成果，探讨了国产操作系统（如麒麟、统信UOS）基于Linux内核的安全加固方法。研究重点包括内核模块安全加载、系统调用过滤、内存保护机制增强、文件系统完整性校验等关键技术。文章还分析了国产操作系统在安全合规方面的特殊要求，并提出了针对性的加固方案。对于从事国产化替代和安全研究的专业人士，本文具有重要的学术和工程参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "3bd73b1c93f6f4c901356cc1330aa7fd",
+    "title_en": "Linux 服务器运维指南 | Atom's Tech Blogs",
+    "source": "blog.yasuo.fun",
+    "url": "https://blog.yasuo.fun/blog-latest/skills/service/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E7%BB%B4",
+    "published_at": "2026-06-01T21:22:26.797Z",
+    "fetched_at": "2026-06-01T21:22:26.797Z",
+    "title_zh": "Linux 服务器运维指南",
+    "summary_zh": "本文是一份全面的Linux服务器运维指南，从基础配置到高级管理技巧均有涉及。内容涵盖系统初始化、用户管理、软件包管理、服务配置、防火墙设置、SSH安全加固、日志轮转、定时任务、备份策略等。文章还介绍了常用的监控工具（如Prometheus、Grafana）与自动化运维方案，以及常见故障的排查思路。适合Linux运维初学者和中级工程师系统学习。",
+    "topic": "ops"
+  },
+  {
+    "id": "0d0b21751d26dd2c381c7fe29afed64d",
+    "title_en": "Llama3-8B大模型微调训练- 人工智能平台PAI - 阿里云 - Alibaba Cloud",
+    "source": "alibabacloud.com",
+    "url": "https://www.alibabacloud.com/help/zh/pai/use-cases/fine-tune-a-llama3-8b-model",
+    "published_at": "2026-06-01T21:22:26.796Z",
+    "fetched_at": "2026-06-01T21:22:26.796Z",
+    "title_zh": "Llama3-8B大模型微调训练 - 人工智能平台PAI",
+    "summary_zh": "本文介绍了在阿里云PAI平台上对Llama3-8B模型进行微调训练的完整流程。内容涵盖平台环境配置、数据准备、训练脚本编写、分布式训练策略以及模型评估与部署。文章重点讲解了PAI平台提供的自动化调参、资源监控与弹性伸缩等特性，以及如何利用这些特性提升微调效率。对于希望在云平台上进行大模型微调的团队，提供了来自阿里云的技术实践参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "8f19acb28c8910eac63efc38d92842f5",
+    "title_en": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
+    "source": "github.com",
+    "url": "https://github.com/mingongge/BestSRE",
+    "published_at": "2026-06-01T21:22:26.796Z",
+    "fetched_at": "2026-06-01T21:22:26.796Z",
+    "title_zh": "GitHub - BestSRE: Linux 运维工程师打怪升级进阶成神之路",
+    "summary_zh": "这是一个开源的Linux运维工程师学习路线图项目，系统整理了从入门到高级的完整知识体系。内容涵盖Linux基础命令、Shell脚本编程、网络服务配置、监控告警、自动化运维、容器化技术、Kubernetes集群管理、CI/CD流水线、数据库运维、安全加固等核心技能。项目还提供了推荐的学习资源、实战项目与面试题集，是Linux运维工程师系统提升技术能力的宝贵资料。",
+    "topic": "ops"
+  },
+  {
+    "id": "a1deb01d8707c902a0bde4b2c986579b",
+    "title_en": "2026大模型排行榜：实测10+主流大模型选型指南",
+    "source": "daxue.taobao.com",
+    "url": "https://daxue.taobao.com/information/detail.jhtml?id=1375&",
+    "published_at": "2026-06-01T21:22:26.795Z",
+    "fetched_at": "2026-06-01T21:22:26.795Z",
+    "title_zh": "2026大模型排行榜：实测10+主流大模型选型指南",
+    "summary_zh": "本文基于对10余款主流大模型的实测数据，发布了2026年大模型排行榜。内容涵盖模型在自然语言理解、代码生成、数学推理、多模态任务等场景下的性能对比，并提供了详细的选型建议。文章不仅分析了各模型的优势与局限，还结合部署成本、推理速度等实际因素，为企业和开发者提供了可落地的模型选择策略，是一份实用的技术决策指南。",
+    "topic": "ai"
+  },
+  {
+    "id": "9c941de70a5141cea816d257d18c6638",
+    "title_en": "MiniMax M3：前沿 Coding 能力，1M上下文，原生多模态，一个模型全给你 - MiniMax Research | MiniMax",
+    "source": "minimaxi.com",
+    "url": "https://www.minimaxi.com/blog/minimax-m3",
+    "published_at": "2026-06-01T21:22:26.795Z",
+    "fetched_at": "2026-06-01T21:22:26.795Z",
+    "title_zh": "MiniMax M3：前沿Coding能力，1M上下文，原生多模态，一个模型全给你",
+    "summary_zh": "MiniMax 发布 M3 模型，具备前沿的代码生成能力、高达100万token的上下文窗口，并原生支持多模态输入输出。文章详细介绍了M3的架构设计、训练策略以及在编程、长文档理解、多模态推理等任务上的表现。该模型在单一框架内整合了多项能力，为开发者提供了更高效、更统一的AI解决方案，尤其适合需要处理复杂任务和长序列的场景。",
+    "topic": "ai"
+  },
+  {
+    "id": "7306471bc72779b45314760459a06469",
+    "title_en": "英伟达发布 5500 亿参数 Nemotron 3 Ultra 开源模型，较同级别前沿模型推理速度最高提升 5 倍|英伟达|智能体|推理_新浪科技_新浪网",
+    "source": "finance.sina.com.cn",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzwpyu4073484.shtml",
+    "published_at": "2026-06-01T21:22:26.794Z",
+    "fetched_at": "2026-06-01T21:22:26.794Z",
+    "title_zh": "英伟达发布5500亿参数Nemotron 3 Ultra开源模型，推理速度较同级别前沿模型最高提升5倍",
+    "summary_zh": "英伟达正式发布Nemotron 3 Ultra开源大模型，参数量高达5500亿。该模型在推理性能上实现重大突破，相比同级别前沿模型，推理速度最高可提升5倍。文章详细介绍了其架构优化、训练策略及在多种基准测试中的表现，为开发者提供了在高性能计算场景下部署大模型的新选择。对于关注模型效率与开源生态的AI从业者，具有极高的参考价值。",
+    "topic": "ai"
+  },
+  {
     "id": "1a8f349fbf452b0bf8fd06ed95d53e4f",
     "title_en": "Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)",
     "source": "ti.qianxin.com",
@@ -2055,148 +2198,5 @@
     "title_zh": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
     "summary_zh": "报道OpenAI非数学模型（如GPT-5或类似LLM）在未经过专门数学训练的情况下，自主解决了一个困扰数学界80年的难题。文章分析了模型如何通过链式推理、符号操作与自我验证机制实现突破，并讨论了这一事件对AI推理能力、数学发现范式以及AGI路径的深远影响。对AI研究者与数学爱好者而言，这是一个里程碑式的案例研究。",
     "topic": "ai"
-  },
-  {
-    "id": "56e4a7216f5a168ae94f8df0fb2ab138",
-    "title_en": "手把手教你从零微调一个专属领域大模型，零基础也能学会！",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=sE12haEVREY",
-    "published_at": "2026-05-26T14:48:13.632Z",
-    "fetched_at": "2026-05-26T14:48:13.632Z",
-    "title_zh": "手把手教你从零微调一个专属领域大模型，零基础也能学会！",
-    "summary_zh": "本文以零基础为起点，详细讲解了大模型微调的全流程。内容涵盖数据收集与清洗、指令微调（SFT）与LoRA/QLoRA等参数高效微调技术的原理与实现、训练环境配置（如DeepSpeed、Transformers库）、以及模型评估与部署。作者通过一个具体领域（如法律或医疗）的案例，展示了如何将通用模型适配为领域专家，并给出了避免灾难性遗忘与过拟合的实用技巧。",
-    "topic": "ai"
-  },
-  {
-    "id": "ddf743cb1f7edebac67f5af80f87024d",
-    "title_en": "Kubernetes 最佳实践：综合指南-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.cn",
-    "url": "https://cloud.tencent.cn/developer/article/2401676?policyId=1003",
-    "published_at": "2026-05-26T09:38:15.684Z",
-    "fetched_at": "2026-05-26T09:38:15.684Z",
-    "title_zh": "Kubernetes 最佳实践：综合指南 - 腾讯云开发者社区",
-    "summary_zh": "来自腾讯云开发者社区的 Kubernetes 综合实践指南，从集群规划、资源管理、安全配置到监控告警，覆盖了生产级 K8s 运维的各个关键环节。文章深入讲解了命名空间隔离、资源配额（ResourceQuota）、Pod 安全策略（PSA）、网络策略（NetworkPolicy）以及基于角色的访问控制（RBAC）等核心配置。同时结合腾讯云 TKE 的实际场景，给出了可落地的优化建议，适合 K8s 初学者及进阶运维人员系统学习。",
-    "topic": "ops"
-  },
-  {
-    "id": "3e2f19e88f7a06c4b428ea91975f62ad",
-    "title_en": "K8s集群运维管理最佳实践 - 阿里云文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/edas/use-cases/best-practices-for-kubernetes-cluster-o-and-m",
-    "published_at": "2026-05-26T09:38:15.684Z",
-    "fetched_at": "2026-05-26T09:38:15.684Z",
-    "title_zh": "K8s集群运维管理最佳实践 - 阿里云文档",
-    "summary_zh": "阿里云官方文档提供的 K8s 集群运维管理最佳实践，聚焦于集群生命周期管理、节点运维、组件升级及故障排查。详细介绍了如何通过节点池管理、自动伸缩（Cluster Autoscaler）、Pod 驱逐策略、节点亲和性调度等手段保障集群高可用。同时涵盖了日志采集、监控告警（Prometheus + Grafana）以及备份恢复等日常运维要点。内容务实，操作性强，是阿里云 ACK 用户及自建 K8s 运维人员的必备参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "f8a4b317a1bd9e8c69623e112af8a17e",
-    "title_en": "大规模集群优化 | Kubernetes 实践指南",
-    "source": "imroc.cc",
-    "url": "https://imroc.cc/kubernetes/best-practices/ops/large-scale-cluster-optimization",
-    "published_at": "2026-05-26T09:38:15.684Z",
-    "fetched_at": "2026-05-26T09:38:15.684Z",
-    "title_zh": "大规模集群优化 | Kubernetes 实践指南",
-    "summary_zh": "本文专注于大规模 Kubernetes 集群的性能优化，深入剖析了 etcd 性能瓶颈、API Server 限流、调度器吞吐量、kubelet 资源消耗等核心问题。提供了包括 etcd 参数调优、API Server 缓存优化、调度器配置调整、节点规模上限评估等具体优化方案。同时讨论了 CNI 网络插件（如 Calico、Flannel）在大规模场景下的性能差异与选型建议。适合管理数千节点规模集群的资深运维工程师阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "000ce828b69ae9d7c2f51e1db4c62830",
-    "title_en": "Docker内存占用优化：从配置到监控的完整解决方案 - Comate",
-    "source": "comate.baidu.com",
-    "url": "https://comate.baidu.com/zh/page/ny4wo0vyl7i",
-    "published_at": "2026-05-26T09:38:15.684Z",
-    "fetched_at": "2026-05-26T09:38:15.684Z",
-    "title_zh": "Docker内存占用优化：从配置到监控的完整解决方案 - Comate",
-    "summary_zh": "本文提供了一套完整的 Docker 内存占用优化解决方案，覆盖从配置到监控的全链路。详细介绍了如何通过 --memory、--memory-swap、--memory-reservation 等参数精确控制容器内存使用，以及如何利用 cgroups 机制进行资源隔离。同时讲解了内存泄漏的排查方法，包括使用 docker stats、cadvisor、Prometheus 等工具进行实时监控与告警。对于需要精细化管控容器内存消耗的运维团队，是一份实用的操作指南。",
-    "topic": "ops"
-  },
-  {
-    "id": "9b6374fbeef76b5ccc86119e43f10ab3",
-    "title_en": "如何优化Docker 容器的资源使用 - LabEx",
-    "source": "labex.io",
-    "url": "https://labex.io/zh/tutorials/docker-how-to-optimize-resource-usage-of-a-docker-container-417538",
-    "published_at": "2026-05-26T09:38:15.684Z",
-    "fetched_at": "2026-05-26T09:38:15.684Z",
-    "title_zh": "如何优化Docker 容器的资源使用 - LabEx",
-    "summary_zh": "LabEx 出品的 Docker 容器资源使用优化指南，从 CPU、内存、磁盘 I/O 和网络四个维度展开。文章详细阐述了如何通过 docker run 参数设置资源限制（--cpus、--memory、--blkio-weight），以及如何利用 Docker Compose 或 Kubernetes 进行更精细的资源管理。同时介绍了资源使用监控的最佳实践，包括使用 docker stats、htop、iotop 等工具进行实时分析。内容简洁实用，适合 Docker 初学者快速上手。",
-    "topic": "ops"
-  },
-  {
-    "id": "11b87f28506f40e97b3d1d2bdf5eb47b",
-    "title_en": "Docker容器的优化和性能调优技巧",
-    "source": "developer.aliyun.com",
-    "url": "https://developer.aliyun.com/article/1404694",
-    "published_at": "2026-05-26T09:38:15.684Z",
-    "fetched_at": "2026-05-26T09:38:15.684Z",
-    "title_zh": "Docker容器的优化和性能调优技巧",
-    "summary_zh": "来自阿里云开发者的 Docker 容器优化与性能调优技巧汇总，内容涵盖镜像构建优化、运行时资源限制、存储驱动选择、网络模式优化等关键领域。重点介绍了多阶段构建、基础镜像精简、合理设置 CPU 和内存限制、使用 overlay2 存储驱动、以及 host 网络模式在特定场景下的性能优势。同时提供了使用 docker stats 和 Prometheus 进行性能监控的实践方案。适合有一定 Docker 使用经验的开发者阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "d4bbd7f7e97149502592934c7cab0570",
-    "title_en": "模型微调实战：从原理到生产级落地的完整指南-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/weixin_43726381/article/details/161378633",
-    "published_at": "2026-05-26T09:38:07.091Z",
-    "fetched_at": "2026-05-26T09:38:07.091Z",
-    "title_zh": "模型微调实战：从原理到生产级落地的完整指南",
-    "summary_zh": "本文提供了一份从原理到生产落地的模型微调完整指南。内容涵盖微调理论基础（迁移学习、参数高效微调）、主流框架（Hugging Face Transformers、PEFT）使用、训练优化（混合精度、梯度累积）以及模型评估与部署。重点介绍了生产环境中的模型版本管理、A/B测试、监控与回滚策略，帮助团队将微调模型安全、稳定地推向生产。",
-    "topic": "ai"
-  },
-  {
-    "id": "fd71be55656b7d78db68b12f0f8641a2",
-    "title_en": "人类56年解不出，谷歌AI一夜连破9道世纪难题！|定理|数学家|新论文|智能体|算法|编译器|谷歌ai_手机网易网",
-    "source": "m.163.com",
-    "url": "https://m.163.com/dy/article/KTPQS4BK0511ABV6.html",
-    "published_at": "2026-05-26T09:38:07.090Z",
-    "fetched_at": "2026-05-26T09:38:07.090Z",
-    "title_zh": "人类56年解不出，谷歌AI一夜连破9道世纪难题！",
-    "summary_zh": "本文报道了谷歌AI在数学和算法领域取得的突破性进展，其系统在一夜之间解决了9道困扰人类数十年的数学难题。文章从技术角度分析了AI所使用的算法创新，包括新的搜索策略、符号推理与神经网络的结合，以及大规模并行计算的应用。这一成果展示了AI在科学发现中的巨大潜力，对于AI for Science领域的研究者具有重要启发意义。",
-    "topic": "ai"
-  },
-  {
-    "id": "8ad1f3bbe8ce077f71ea9625fc16dc51",
-    "title_en": "2026最新实测数据：全球AI大模型综合能力排行榜前十名深度解析",
-    "source": "scribd.com",
-    "url": "https://www.scribd.com/document/1028825123/2026%E6%9C%80%E6%96%B0%E5%AE%9E%E6%B5%8B%E6%95%B0%E6%8D%AE-%E5%85%A8%E7%90%83AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BB%BC%E5%90%88%E8%83%BD%E5%8A%9B%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%89%8D%E5%8D%81%E5%90%8D%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90",
-    "published_at": "2026-05-26T09:38:07.089Z",
-    "fetched_at": "2026-05-26T09:38:07.089Z",
-    "title_zh": "2026最新实测数据：全球AI大模型综合能力排行榜前十名深度解析",
-    "summary_zh": "本文基于2026年最新实测数据，对全球排名前十的AI大模型进行了综合能力深度解析。内容涵盖各模型在自然语言理解、代码生成、数学推理、多模态处理等核心维度的性能对比，并分析了不同模型在特定任务上的优劣势。文章提供了详细的基准测试结果和排名依据，帮助开发者根据实际需求选择最合适的模型。对于关注大模型选型与性能评估的技术人员，具有较高的参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "1cb5d72ed5d111d8ec0759f833354ff7",
-    "title_en": "GB/T 20272-2026《网络安全技术 操作系统安全技术规范》--中国安防大数据服务平台",
-    "source": "afdata.org.cn",
-    "url": "https://www.afdata.org.cn/Standard/38df80b3-436c-45ea-b2f3-4377cf64c457",
-    "published_at": "2026-05-26T02:16:29.103Z",
-    "fetched_at": "2026-05-26T02:16:29.103Z",
-    "title_zh": "GB/T 20272-2026《网络安全技术 操作系统安全技术规范》",
-    "summary_zh": "本文解读了最新国家标准GB/T 20272-2026《网络安全技术 操作系统安全技术规范》。该标准规定了操作系统在身份鉴别、访问控制、安全审计、数据完整性、密码支持等方面的技术要求。文章分析了新标准相较于旧版的主要变化，如强化了虚拟化安全、容器安全、可信启动等要求，并提供了企业合规落地的实施建议，对操作系统选型与安全评估具有重要参考价值。",
-    "topic": "security"
-  },
-  {
-    "id": "3b7fa725ea81475ef8866f187dbb16dc",
-    "title_en": "OpenClaw CVE-2026-25253 漏洞分析中文版 - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/Joseph19820124/openclaw-vuln-report",
-    "published_at": "2026-05-26T02:16:29.103Z",
-    "fetched_at": "2026-05-26T02:16:29.103Z",
-    "title_zh": "OpenClaw CVE-2026-25253 漏洞分析中文版 - GitHub",
-    "summary_zh": "本文对OpenClaw项目中发现的CVE-2026-25253漏洞进行了详细的中文分析。漏洞源于输入验证不严导致的缓冲区溢出，攻击者可利用特制请求实现远程代码执行。文章从漏洞原理、触发条件、PoC构造到修复方案进行了完整剖析，并提供了补丁代码与临时缓解措施。适合安全研究人员和开源项目维护者深入理解漏洞本质。",
-    "topic": "security"
-  },
-  {
-    "id": "9f321d9510a77757eee8b013cffb091a",
-    "title_en": "Docker硬件配置要求与优化方案全解析（2025版） - Comate",
-    "source": "comate.baidu.com",
-    "url": "https://comate.baidu.com/zh/page/mji7aw3hr9v",
-    "published_at": "2026-05-26T02:16:29.102Z",
-    "fetched_at": "2026-05-26T02:16:29.102Z",
-    "title_zh": "Docker硬件配置要求与优化方案全解析（2025版）",
-    "summary_zh": "本文详细分析了Docker运行环境对CPU、内存、磁盘（SSD vs HDD）及网络硬件的具体要求，并给出针对不同负载场景（Web服务、大数据处理、AI训练）的硬件选型建议。同时深入探讨了存储驱动（overlay2 vs devicemapper）、内核参数调优（cgroup、swap限制）、以及网络模式（bridge/host/macvlan）的性能影响。",
-    "topic": "ops"
   }
 ]
