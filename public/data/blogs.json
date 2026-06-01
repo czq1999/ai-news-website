@@ -1,5 +1,60 @@
 [
   {
+    "id": "1a8f349fbf452b0bf8fd06ed95d53e4f",
+    "title_en": "Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)",
+    "source": "ti.qianxin.com",
+    "url": "https://ti.qianxin.com/vulnerability/notice-list",
+    "published_at": "2026-06-01T02:46:44.901Z",
+    "fetched_at": "2026-06-01T02:46:44.901Z",
+    "title_zh": "Linux内核Copy Fail本地权限提升漏洞(CVE-2026-31431)分析",
+    "summary_zh": "本文详细剖析了Linux内核中CVE-2026-31431漏洞，该漏洞源于内核内存拷贝操作中的条件竞争，可导致本地权限提升。文章从漏洞原理、触发条件、影响内核版本及利用手法展开，提供了补丁对比分析与PoC思路。对于内核开发者与安全研究员，本文揭示了copy_from_user等函数在并发场景下的风险，并给出了修复建议与临时缓解措施，是理解内核内存安全的重要参考资料。",
+    "topic": "security"
+  },
+  {
+    "id": "f4c135d82a98e051d2079adc6c9b4b4c",
+    "title_en": "漏洞预警-启明星辰- 安全通告",
+    "source": "venustech.com.cn",
+    "url": "https://www.venustech.com.cn/new_type/aqtg/",
+    "published_at": "2026-06-01T02:46:44.901Z",
+    "fetched_at": "2026-06-01T02:46:44.901Z",
+    "title_zh": "漏洞预警：启明星辰安全通告",
+    "summary_zh": "本文为启明星辰发布的安全漏洞预警，汇总了近期多个高危漏洞的详细信息，包括漏洞编号、影响范围、攻击复杂度及修复状态。文章重点分析了漏洞在真实环境中的利用趋势，并提供了检测规则与防护建议。对于企业安全团队，本文可作为威胁情报输入，辅助进行漏洞优先级排序与应急响应决策。内容涵盖Web应用、操作系统及网络设备等多个层面，具有较高的实用价值。",
+    "topic": "security"
+  },
+  {
+    "id": "5738d8c4cfa8a2270cc32e42d5f6363c",
+    "title_en": "蚂蚁百灵开源万亿参数模型Ling-2.6-1T：智效比登顶，AIME26/SWE-bench双料SOTA，专为Agent与Coding打造 – Prompt 语宙",
+    "source": "paooo.com",
+    "url": "https://paooo.com/aigc-news/10736/",
+    "published_at": "2026-06-01T02:46:26.935Z",
+    "fetched_at": "2026-06-01T02:46:26.935Z",
+    "title_zh": "蚂蚁百灵开源万亿参数模型Ling-2.6-1T：智效比登顶，AIME26/SWE-bench双料SOTA，专为Agent与Coding打造",
+    "summary_zh": "本文深度解析蚂蚁集团开源的万亿参数大模型Ling-2.6-1T，该模型在AIME26数学推理与SWE-bench软件工程基准上取得双料SOTA。文章重点介绍了其架构设计中的智效比优化策略，包括稀疏激活、混合精度训练及针对Agent与Coding场景的专项微调。同时提供了模型部署的硬件需求与推理性能数据，对研究高效大模型与智能体开发的工程师极具参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "d23d822ef80e77298bddb180a5ac73f6",
+    "title_en": "AI Agent 开发实战手册| Wiki | JR Academy",
+    "source": "jiangren.com.au",
+    "url": "https://jiangren.com.au/wiki/ai-agent-guide",
+    "published_at": "2026-06-01T02:46:26.935Z",
+    "fetched_at": "2026-06-01T02:46:26.935Z",
+    "title_zh": "AI Agent 开发实战手册",
+    "summary_zh": "本手册系统性地介绍了AI Agent从设计到部署的全流程开发方法。内容涵盖Agent架构选型、工具调用机制、记忆系统实现以及多Agent协作模式等核心议题。作者结合具体业务场景，深入讲解了如何利用LangChain、AutoGPT等框架快速搭建可自主执行任务的Agent，并分享了在任务规划、错误恢复与性能优化方面的实战经验。适合希望快速掌握Agent开发技能的AI工程师阅读。",
+    "topic": "ai"
+  },
+  {
+    "id": "09ff619982cf69e29c481c233346e827",
+    "title_en": "从零自建AI Agent：全栈开发框架与私有化部署实战 - 七牛云",
+    "source": "news.qiniu.com",
+    "url": "https://news.qiniu.com/archives/post-1771987174100-0",
+    "published_at": "2026-06-01T02:46:26.935Z",
+    "fetched_at": "2026-06-01T02:46:26.935Z",
+    "title_zh": "从零自建AI Agent：全栈开发框架与私有化部署实战",
+    "summary_zh": "本文面向需要私有化部署AI Agent的企业开发者，提供了一套完整的全栈开发框架。内容从Agent的对话管理、插件系统设计到后端服务编排，再到基于Docker与Kubernetes的私有化部署方案，覆盖了从开发到上线的全链路。作者特别强调了在数据安全与低延迟要求下，如何优化Agent的推理性能与资源调度。对于希望在内部环境中落地AI Agent的团队，本文是一份极具参考价值的实战指南。",
+    "topic": "ai"
+  },
+  {
     "id": "010722878c0a966247c9a867406e41fc",
     "title_en": "[PDF] 基于GenAI的混合云智能运维实践",
     "source": "pdf.dfcfw.com",
@@ -2142,61 +2197,6 @@
     "fetched_at": "2026-05-26T02:16:29.102Z",
     "title_zh": "Docker硬件配置要求与优化方案全解析（2025版）",
     "summary_zh": "本文详细分析了Docker运行环境对CPU、内存、磁盘（SSD vs HDD）及网络硬件的具体要求，并给出针对不同负载场景（Web服务、大数据处理、AI训练）的硬件选型建议。同时深入探讨了存储驱动（overlay2 vs devicemapper）、内核参数调优（cgroup、swap限制）、以及网络模式（bridge/host/macvlan）的性能影响。",
-    "topic": "ops"
-  },
-  {
-    "id": "cf41d95c206b5010bc471b06069cdf2f",
-    "title_en": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？-A5数据",
-    "source": "a5idc.com",
-    "url": "https://www.a5idc.com/article/22500.html",
-    "published_at": "2026-05-26T02:16:29.102Z",
-    "fetched_at": "2026-05-26T02:16:29.102Z",
-    "title_zh": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？",
-    "summary_zh": "本文针对香港服务器这一特定场景，提出Docker容器存储与网络性能优化方案。存储方面推荐使用本地SSD + overlay2驱动，并配置数据卷挂载避免容器层写放大；网络方面建议启用host网络模式或使用Macvlan减少NAT开销，同时优化iptables规则与内核TCP参数（如tcp_congestion_control=bbr）。提供实际延迟测试数据对比。",
-    "topic": "ops"
-  },
-  {
-    "id": "ef21dc0adc77b48ab1180b1f4f13019f",
-    "title_en": "【万字长文】大模型微调全攻略：从LoRA到框架选择，一篇搞定！_人工智能_m0_63171455-火山引擎 ADG 社区",
-    "source": "adg.csdn.net",
-    "url": "https://adg.csdn.net/69533c945b9f5f31781bf9e5.html",
-    "published_at": "2026-05-26T02:16:24.777Z",
-    "fetched_at": "2026-05-26T02:16:24.777Z",
-    "title_zh": "【万字长文】大模型微调全攻略：从LoRA到框架选择，一篇搞定！",
-    "summary_zh": "本文是一篇万字长文，全面覆盖大模型微调的核心技术。内容从微调理论基础出发，深入讲解LoRA、QLoRA、P-Tuning等参数高效微调方法的原理与实现，对比了Hugging Face Transformers、DeepSpeed、LLaMA-Factory等主流框架的优劣与适用场景。文章还提供了完整的数据准备、训练配置、模型评估与部署流程，并分享了内存优化、训练加速等实战技巧。适合希望一站式掌握微调技术的AI工程师与研究者。",
-    "topic": "ai"
-  },
-  {
-    "id": "3bd73b1c93f6f4c901356cc1330aa7fd",
-    "title_en": "Linux 服务器运维指南 | Atom's Tech Blogs",
-    "source": "blog.yasuo.fun",
-    "url": "https://blog.yasuo.fun/blog-latest/skills/service/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E7%BB%B4",
-    "published_at": "2026-05-26T02:16:24.777Z",
-    "fetched_at": "2026-05-26T02:16:24.777Z",
-    "title_zh": "Linux服务器运维指南",
-    "summary_zh": "本文是一份面向Linux服务器运维的综合性指南，涵盖了从基础配置到高级管理的全流程。内容涉及系统安装与初始化、用户与权限管理、网络服务配置（SSH、Nginx、MySQL）、日志审计、安全加固（防火墙、SELinux）、性能监控（top、htop、iostat）以及自动化运维脚本编写。文章注重实战，每个环节都配有具体命令与配置示例，帮助运维人员快速定位问题并优化系统性能。适合Linux服务器管理员与DevOps工程师阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "6a6502ca43fdd6261c6588f8a7e4075a",
-    "title_en": "漏洞修复深度解析：AI 赋能的CVE-2025-60719 根本原因分析 - Akamai",
-    "source": "akamai.com",
-    "url": "https://www.akamai.com/zh/blog/security-research/inside-fix-ai-root-cause-analysis-cve-2025-60719",
-    "published_at": "2026-05-25T19:17:22.979Z",
-    "fetched_at": "2026-05-25T19:17:22.979Z",
-    "title_zh": "漏洞修复深度解析：AI赋能的CVE-2025-60719根本原因分析 - Akamai",
-    "summary_zh": "本文展示了Akamai如何利用AI技术对CVE-2025-60719漏洞进行根本原因分析。通过机器学习模型分析代码变更、崩溃转储和运行时行为，AI辅助定位了漏洞触发点并生成了修复建议。文章对比了传统人工分析与AI增强分析的效率差异，并讨论了AI在漏洞修复自动化中的潜力。适合安全研究和DevSecOps团队参考。",
-    "topic": "security"
-  },
-  {
-    "id": "9d0c3241c66fc7516d0334e28fda36b6",
-    "title_en": "[PDF] 智能运维的实践：现状与标准化",
-    "source": "netman.aiops.org",
-    "url": "https://netman.aiops.org/wp-content/uploads/2023/03/2.-mt008.pdf",
-    "published_at": "2026-05-25T19:17:22.979Z",
-    "fetched_at": "2026-05-25T19:17:22.979Z",
-    "title_zh": "PDF智能运维的实践：现状与标准化",
-    "summary_zh": "本文探讨了智能运维（AIOps）在PDF文档处理场景中的实践，重点分析了当前运维现状与标准化需求。内容涵盖日志异常检测、性能瓶颈预测、自动化故障恢复等AIOps核心能力在文档服务中的应用。文章提出了标准化数据采集、模型评估和告警收敛的框架，对运维团队构建智能化文档基础设施具有指导意义。",
     "topic": "ops"
   }
 ]
