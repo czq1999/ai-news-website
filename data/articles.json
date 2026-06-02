@@ -1,5 +1,27 @@
 [
   {
+    "id": "eafbd942c0920690755d91cdba586c66",
+    "title_en": "Alphabet plans to raise $80B to pay for AI buildout",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "published_at": "2026-06-01T22:55:09.000Z",
+    "fetched_at": "2026-06-02T02:43:15.872Z",
+    "title_zh": "Alphabet计划筹集800亿美元用于AI基础设施建设",
+    "summary_zh": "Alphabet宣布计划通过发行债券等方式筹集800亿美元，以加速其人工智能基础设施的建设和扩展。这笔巨额投资将用于数据中心、芯片和网络设备等关键领域，旨在巩固其在AI领域的领先地位。此举反映了科技巨头对AI算力需求的激增，以及为抢占未来市场先机而进行的战略性资本投入。",
+    "category": "industry"
+  },
+  {
+    "id": "f33b2f2f87c7f2c7d05477b89e28f2ba",
+    "title_en": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "published_at": "2026-06-01T21:35:00.000Z",
+    "fetched_at": "2026-06-02T02:43:15.872Z",
+    "title_zh": "英伟达联手微软、戴尔和惠普，以AI智能体PC进军2000亿美元CPU市场",
+    "summary_zh": "英伟达正联合微软、戴尔和惠普等巨头，推出搭载AI智能体的个人电脑，意图挑战英特尔和AMD在价值2000亿美元的CPU市场的主导地位。这些AI PC将集成强大的本地AI处理能力，能够运行复杂的AI应用和智能体，为用户带来全新的计算体验。此举标志着AI技术正从云端向终端设备深度渗透。",
+    "category": "product"
+  },
+  {
     "id": "1e36bc5f75af6f112dec6a73207afdf8",
     "title_en": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
     "source": "The Verge",
@@ -383,6 +405,116 @@
     "title_zh": "英伟达发布RTX Spark：号称史上最高效PC芯片",
     "summary_zh": "英伟达正式发布RTX Spark芯片，宣称其为“有史以来最高效的PC芯片”。该芯片在性能功耗比上实现重大突破，专为AI推理和图形渲染优化。英伟达表示，RTX Spark将重新定义移动计算设备的能效标准，推动AI PC普及。",
     "category": "product"
+  },
+  {
+    "id": "30d043a0a8db15e67396239f94054584",
+    "title_en": "Official: Ecuador’s World Cup squad is out!",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/official-ecuadors-world-cup-squad-is-out-42949418",
+    "published_at": "2026-06-01T02:33:00Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "官方：厄瓜多尔世界杯大名单出炉！",
+    "summary_zh": "厄瓜多尔国家队正式公布了参加2026年世界杯的最终大名单。主教练征召了包括核心球员在内的最强阵容，旨在小组赛中取得突破。名单中既有经验丰富的老将，也有崭露头角的新星。球迷对球队的战术安排和晋级前景充满期待，厄瓜多尔将力争在世界杯舞台上展现南美足球的实力。",
+    "category": "industry"
+  },
+  {
+    "id": "57dbc1cea92235632ab68dea91230ec3",
+    "title_en": "Supergirl: Survive #1 Preview: Babysitting at the End of the World",
+    "source": "Bleeding Cool News",
+    "url": "https://bleedingcool.com/comics/supergirl-survive-1-preview-babysitting-at-the-end-of-the-world/",
+    "published_at": "2026-06-01T02:26:09Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "《超级少女：幸存》#1预览：世界末日下的保姆工作",
+    "summary_zh": "DC漫画新刊《超级少女：幸存》第1期发布预览，故事设定在世界末日背景下，超级少女被迫承担起照顾幸存儿童的责任。剧情聚焦于她在绝望环境中保护弱者的挣扎与成长，画风阴暗而富有张力。该系列试图探索超级英雄在极端灾难下的人性一面，为经典角色注入新的叙事深度。",
+    "category": "industry"
+  },
+  {
+    "id": "376167f341f6ab109b33fade10ec8cd4",
+    "title_en": "Nvidia Computex 2026 keynote live - will the GPU maker announce a new Arm-based chip to take on Apple, Intel, and Qualcomm?",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com/news/live/nvidia-computex-2026",
+    "published_at": "2026-06-01T02:05:36Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "英伟达Computex 2026主题演讲直播：GPU巨头会发布新Arm芯片挑战苹果、英特尔和高通吗？",
+    "summary_zh": "英伟达在Computex 2026上发表主题演讲，外界高度关注其是否会发布基于Arm架构的新芯片。若属实，该芯片将直接对标苹果M系列、英特尔酷睿和高通骁龙X系列，进军PC和服务器市场。此举可能重塑芯片竞争格局，英伟达凭借AI优势有望在CPU领域开辟新战场。",
+    "category": "product"
+  },
+  {
+    "id": "6cb7e61d57e7bcfb252d0d3e5b8623ad",
+    "title_en": "Official: Mexico reveal Javier Aguirre's squad for the World Cup",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/official-mexico-unveil-javier-aguirres-squad-for-the-world-cup-42949386",
+    "published_at": "2026-06-01T02:05:00Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "官方：墨西哥公布哈维尔·阿吉雷执教的世界杯大名单",
+    "summary_zh": "墨西哥国家队主教练哈维尔·阿吉雷正式公布了参加2026年世界杯的球员名单。球队阵容融合了老将经验与年轻活力，旨在延续墨西哥队连续晋级淘汰赛的传统。阿吉雷的战术选择和球员状态将成为关键因素，墨西哥球迷期待球队能在本届世界杯上走得更远，创造历史最佳战绩。",
+    "category": "industry"
+  },
+  {
+    "id": "9dc532f4086b208823ebeb046b65714c",
+    "title_en": "How Bryson DeChambeau used AI to fix his swing",
+    "source": "Golf.com",
+    "url": "https://golf.com/instruction/bryson-dechambeau-used-ai-fix-swing/",
+    "published_at": "2026-06-01T02:03:20Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "布赖森·德尚博如何利用AI修正挥杆动作",
+    "summary_zh": "高尔夫名将布赖森·德尚博公开了他利用AI技术分析并改进挥杆动作的过程。通过高速摄像和机器学习模型，AI精准识别出他挥杆中的细微缺陷，并提供个性化调整建议。德尚博表示AI帮助他提升了击球稳定性和距离。这一案例展示了AI在体育训练中的实际应用，为运动员科学训练提供了新思路。",
+    "category": "product"
+  },
+  {
+    "id": "9f3b817d1adce796012ed7230ae84b89",
+    "title_en": "MediaTek eyes AI glasses, PCs, and home servers as computing shifts beyond the cloud",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260601PD208/mediatek-smart-glasses-servers-chips.html",
+    "published_at": "2026-06-01T02:01:05Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "联发科瞄准AI眼镜、PC和家庭服务器，计算正从云端向边缘转移",
+    "summary_zh": "联发科宣布将战略重心转向AI眼镜、AI PC和家庭服务器等边缘计算设备。随着AI工作负载从云端向终端迁移，联发科计划利用其在芯片设计上的优势，推出针对这些场景的专用处理器。此举旨在抓住AI硬件爆发的机遇，与高通、英特尔等对手在边缘AI领域展开竞争。",
+    "category": "industry"
+  },
+  {
+    "id": "a3429dc5b11b53b5f2ab07a867917453",
+    "title_en": "What is CBSE’s On-Screen Marking system and how does it compare with global practices?",
+    "source": "The Indian Express",
+    "url": "https://indianexpress.com/article/explained/cbse-on-screen-marking-system-global-practices-10717716/",
+    "published_at": "2026-06-01T01:59:32Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "CBSE屏幕阅卷系统是什么？与全球实践相比如何？",
+    "summary_zh": "印度中等教育中央委员会（CBSE）推出的屏幕阅卷系统，旨在通过数字化手段提升考试评分的效率与公正性。该系统允许考官在电脑上直接批改扫描后的答卷，并支持多轮复核。与全球实践相比，类似系统在英美等国已广泛应用，但CBSE的版本需适应印度庞大的考生规模和多语言需求。文章分析了其技术优势、潜在挑战及与全球标准的异同。",
+    "category": "product"
+  },
+  {
+    "id": "b3f04ea3d32578954a02731255bdc35f",
+    "title_en": "Why did CBA shares sink 5% in May?",
+    "source": "Motley Fool Australia",
+    "url": "https://www.fool.com.au/2026/06/01/why-did-cba-shares-sink-5-in-may/",
+    "published_at": "2026-06-01T01:58:08Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "CBA股价5月为何下跌5%？",
+    "summary_zh": "澳大利亚联邦银行（CBA）股价在5月下跌5%，主要受多重因素影响：市场对利率前景的担忧、银行业竞争加剧以及财报表现不及预期。此外，宏观经济不确定性及投资者获利回吐也加剧了抛售压力。分析人士指出，尽管CBA基本面稳健，但短期市场情绪偏空，需关注后续政策动向及行业趋势。",
+    "category": "industry"
+  },
+  {
+    "id": "13ff0e39b995a4522452e5c9d8f5be2d",
+    "title_en": " Now... only after the cup! See where your team stands in BR-2026",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/now-only-after-the-cup-see-where-your-team-stands-in-br-2026-42949362",
+    "published_at": "2026-06-01T01:58:00Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "现在...只待奖杯！查看你的球队在BR-2026中的排名",
+    "summary_zh": "本文聚焦2026年巴西世界杯预选赛（BR-2026）的最新战况，为球迷提供各支球队的实时排名与晋级形势分析。通过数据可视化工具，用户可直观了解主队积分、净胜球及剩余赛程。文章强调关键对决对出线格局的影响，并预测热门球队的晋级概率，是足球爱好者不可错过的赛事指南。",
+    "category": "product"
+  },
+  {
+    "id": "beccc06fbd2883be1eb36f81884b9615",
+    "title_en": "Stocks Rise on AI, Oil Climbs as Iran Deal Elusive: Markets Wrap",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/pmn/business-pmn/stocks-rise-on-ai-oil-climbs-as-iran-deal-elusive-markets-wrap",
+    "published_at": "2026-06-01T01:53:54Z",
+    "fetched_at": "2026-06-02T02:43:16.378Z",
+    "title_zh": "AI概念股推动股市上涨，伊朗协议难产致油价攀升：市场综述",
+    "summary_zh": "受人工智能板块强劲表现提振，全球股市普遍走高，投资者对AI技术商业化前景保持乐观。与此同时，由于伊朗核协议谈判陷入僵局，原油供应担忧加剧，推动油价持续攀升。市场综述指出，科技股与能源股的分化走势反映了当前宏观环境的复杂性，投资者需警惕地缘政治风险与货币政策转向的潜在冲击。",
+    "category": "industry"
   },
   {
     "id": "22c53716733b21e4e8687df61a0389eb",
@@ -5366,137 +5498,5 @@
     "title_zh": "数百万AI代理面临风险：开源包中发现严重漏洞",
     "summary_zh": "一个广泛使用的开源软件包中被曝存在严重安全漏洞，可能危及数百万个AI代理系统的安全。攻击者可利用该漏洞远程执行代码或窃取敏感数据。此事件再次敲响警钟，凸显了AI供应链安全的重要性，以及依赖开源组件的潜在风险。开发者需立即更新补丁。",
     "category": "research"
-  },
-  {
-    "id": "b29fa604a2dba555f66602ff6f9cf811",
-    "title_en": "xAI Curbs Staff Contact With Cursor Ahead of Possible Deal",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/artificial-intelligence-2/2026/xai-curbs-staff-contact-with-cursor-ahead-of-possible-deal/",
-    "published_at": "2026-05-26T19:46:39Z",
-    "fetched_at": "2026-05-27T20:01:16.588Z",
-    "title_zh": "xAI限制员工与Cursor接触，潜在交易引关注",
-    "summary_zh": "据知情人士透露，马斯克旗下xAI公司正限制员工与AI编程工具Cursor的接触，此举可能为双方潜在的合作或收购铺路。Cursor作为新兴AI编程助手，在开发者社区颇受欢迎。xAI此举被解读为在AI工具市场竞争加剧背景下，为未来战略布局做准备。行业分析认为，若交易达成，将强化xAI在AI开发工具领域的话语权。",
-    "category": "industry"
-  },
-  {
-    "id": "92c9c4d01dcebfa0a5fa05513d551435",
-    "title_en": "Kevin Warsh is now leading the Fed. His main challenge is a doozy.",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/kevin-warsh-federal-reserve-inflation-challenges/",
-    "published_at": "2026-05-26T19:38:53Z",
-    "fetched_at": "2026-05-27T20:01:16.588Z",
-    "title_zh": "凯文·沃什执掌美联储，面临严峻挑战",
-    "summary_zh": "凯文·沃什正式出任美联储主席，其首要挑战是应对当前复杂的经济形势。市场关注其货币政策立场，尤其是在通胀压力和经济增长放缓的背景下。沃什此前以鹰派立场著称，此次上任将面临平衡物价稳定与就业市场的双重考验。分析人士指出，其决策将对全球金融市场产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "4b38c33dbdfdc922dbc2a03a08da6dfe",
-    "title_en": "Tech titans mostly silent after Pope Leo’s warning about risks of AI",
-    "source": "NBC News",
-    "url": "https://www.nbcnews.com/tech/innovation/tech-titans-mostly-silent-pope-leos-warning-risks-ai-rcna346903",
-    "published_at": "2026-05-26T19:36:37Z",
-    "fetched_at": "2026-05-27T20:01:16.588Z",
-    "title_zh": "科技巨头对教皇方济各AI风险警告保持沉默",
-    "summary_zh": "教皇方济各近日就人工智能风险发出严厉警告，呼吁全球关注AI伦理与安全。然而，主要科技公司对此保持沉默，未予公开回应。教皇指出AI可能加剧不平等、侵犯隐私并威胁人类自主性。科技界的沉默引发外界猜测，或反映其在AI监管与商业利益间的微妙平衡。专家呼吁行业领袖应更积极参与AI治理讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "3335d0b580fb3f8df6a669cfbbdb3c26",
-    "title_en": "AI Is the NBA’s Sixth Man Now",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-is-the-nbas-sixth-man-now/",
-    "published_at": "2026-05-26T19:33:24Z",
-    "fetched_at": "2026-05-27T20:01:16.588Z",
-    "title_zh": "AI成为NBA的“第六人”",
-    "summary_zh": "人工智能正深度融入NBA赛场，从球员表现分析、战术优化到球迷体验提升，AI已成为不可或缺的“第六人”。球队利用AI进行伤病预测、训练方案定制，甚至辅助裁判判罚。联盟还通过AI生成个性化观赛内容，增强互动性。技术专家认为，AI将彻底改变篮球运动的训练、比赛和商业模式，开启体育智能化的新纪元。",
-    "category": "product"
-  },
-  {
-    "id": "c72b577d2827e16e4abf71f97158c044",
-    "title_en": "Tech Life",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS",
-    "published_at": "2026-05-26T19:30:00Z",
-    "fetched_at": "2026-05-27T20:01:16.588Z",
-    "title_zh": "科技生活",
-    "summary_zh": "本期《科技生活》聚焦AI在日常生活中的最新应用，涵盖智能家居、健康监测、教育辅助等领域。节目探讨了AI如何改变人们的工作与休闲方式，同时关注数据隐私和算法偏见等潜在风险。专家建议用户在享受便利的同时，应保持对技术的批判性思考。节目还展示了多款即将上市的AI消费产品，引发观众对未来生活方式的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "7efa7094c3e8a5b82b1b7ddb0e5fec88",
-    "title_en": "Sam Altman Says AI ‘Jobs Apocalypse’ He Once Predicted Probably Won’t Happen. What Changed?",
-    "source": "Time",
-    "url": "https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/",
-    "published_at": "2026-05-26T19:28:15Z",
-    "fetched_at": "2026-05-27T20:01:16.588Z",
-    "title_zh": "Sam Altman改口：AI“失业末日”可能不会发生，什么变了？",
-    "summary_zh": "OpenAI CEO Sam Altman此前曾预测AI将导致大规模失业，但近日他改口称这一“末日场景”可能不会出现。Altman表示，AI更可能成为增强人类能力的工具而非替代者，社会有足够时间适应技术变革。他强调了人机协作的新范式，并指出教育体系和政策调整将缓解冲击。这一转变引发业界对AI就业影响的新一轮讨论。",
-    "category": "llm"
-  },
-  {
-    "id": "bf4c60fe892cebd234dd99c033c67e1e",
-    "title_en": "OpenRouter Raises $113 Million to Expand AI Model Marketplace",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/news/investment-tracker/2026/openrouter-raises-113-million-to-expand-ai-model-marketplace/",
-    "published_at": "2026-05-26T19:28:09Z",
-    "fetched_at": "2026-05-27T20:01:16.588Z",
-    "title_zh": "OpenRouter获1.13亿美元融资，扩张AI模型市场",
-    "summary_zh": "AI模型聚合平台OpenRouter宣布完成1.13亿美元融资，估值大幅提升。该平台允许开发者通过统一接口访问多种AI模型，简化了模型选择与部署流程。本轮融资将用于拓展模型生态、优化定价机制并加强企业级服务。OpenRouter的快速增长反映了企业对灵活、低成本AI模型访问的强劲需求，有望重塑AI服务市场格局。",
-    "category": "industry"
-  },
-  {
-    "id": "ffc295047f331b4ad6b9c2bd174b8d77",
-    "title_en": "Google Health is here, but a lot of people want their Fitbit app back instead",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
-    "published_at": "2026-05-26T19:00:15.000Z",
-    "fetched_at": "2026-05-26T19:57:10.232Z",
-    "title_zh": "Google Health上线，但大量用户仍希望找回Fitbit应用",
-    "summary_zh": "Google Health应用正式推出，整合了健康数据追踪功能，但此举引发许多Fitbit用户不满。用户抱怨Google Health界面复杂、功能缺失，并怀念原来简洁的Fitbit应用。这一争议凸显了科技巨头在整合健康服务时面临的用户体验挑战，以及用户对原有品牌忠诚度的影响。",
-    "category": "product"
-  },
-  {
-    "id": "ae76e08ee94a40bc96d11ac82b00ed41",
-    "title_en": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
-    "published_at": "2026-05-26T18:50:35.000Z",
-    "fetched_at": "2026-05-26T19:57:10.232Z",
-    "title_zh": "GE制冰机翻新版近半价促销",
-    "summary_zh": "GE的经典碎冰制冰机推出翻新版，价格接近原价的一半。该产品以生产口感极佳的碎冰而闻名，翻新版经过严格检测和清洁，提供与新机相同的保修服务。对于追求高品质冰块但预算有限的消费者来说，这是一个极具吸引力的选择。",
-    "category": "product"
-  },
-  {
-    "id": "2f4de5cc094705b74dc65b274ff38b92",
-    "title_en": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "published_at": "2026-05-26T18:33:01.000Z",
-    "fetched_at": "2026-05-26T19:57:09.989Z",
-    "title_zh": "OpenRouter一年内估值翻倍，突破13亿美元",
-    "summary_zh": "AI模型聚合平台OpenRouter在一年内估值从约6亿美元飙升至13亿美元，实现翻倍增长。该公司通过整合多种大语言模型并提供统一API接口，吸引了大量开发者和企业客户。此次估值飙升反映了市场对AI基础设施服务需求的持续高涨，以及投资者对模型中间层商业模式的强烈信心。",
-    "category": "industry"
-  },
-  {
-    "id": "6f2765e180084c8a04fffc5fee0762ab",
-    "title_en": "Internet Starts to Return in Iran After 3-Month Blackout",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/",
-    "published_at": "2026-05-26T17:31:25.000Z",
-    "fetched_at": "2026-05-26T19:57:11.117Z",
-    "title_zh": "伊朗互联网在断网三个月后开始恢复",
-    "summary_zh": "伊朗在经历了长达三个月的全国性互联网中断后，网络服务开始逐步恢复。此次断网是政府为应对抗议活动而采取的措施，严重影响了民众生活和经济活动。国际社会对恢复表示欢迎，但呼吁伊朗保障公民网络自由。",
-    "category": "industry"
-  },
-  {
-    "id": "3cd8d01d05801af9c393c2f6465acbc0",
-    "title_en": "7 Best Outdoor Security Cameras (2026) After Testing Dozens",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-outdoor-security-cameras/",
-    "published_at": "2026-05-26T16:42:21.000Z",
-    "fetched_at": "2026-05-26T19:57:11.117Z",
-    "title_zh": "2026年最佳户外安防摄像头推荐：实测数十款后的精选",
-    "summary_zh": "经过对数十款户外安防摄像头的全面测试，我们精选出7款2026年度最佳产品。评测涵盖画质、夜视、防水、智能检测等核心功能，并对比了价格与订阅服务。无论你是家庭用户还是小型企业，都能找到适合的安防解决方案。",
-    "category": "product"
   }
 ]
