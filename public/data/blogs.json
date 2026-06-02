@@ -1,5 +1,71 @@
 [
   {
+    "id": "5ec94b7a0fbced2c3f39445c4e5646d5",
+    "title_en": "DevOps和自动化运维实践— 运维开发修炼之路",
+    "source": "my-linux-devops.readthedocs.io",
+    "url": "https://my-linux-devops.readthedocs.io/en/latest/DevOps/index.html",
+    "published_at": "2026-06-02T16:02:55.702Z",
+    "fetched_at": "2026-06-02T16:02:55.702Z",
+    "title_zh": "DevOps和自动化运维实践— 运维开发修炼之路",
+    "summary_zh": "本文是一份面向运维开发工程师的实践指南，系统梳理了从传统运维向DevOps转型所需的核心技能与工具链。内容涵盖持续集成/持续部署（CI/CD）流水线搭建（Jenkins/GitLab CI）、容器化与编排（Docker/Kubernetes）、基础设施即代码（Terraform/Ansible）以及监控日志体系（ELK/Prometheus）。作者结合自身项目经验，详细讲解了如何通过自动化脚本和工具链整合，提升部署效率、降低人为失误，并给出了常见踩坑记录与优化建议。适合初中级运维开发人员进阶学习。",
+    "topic": "ops"
+  },
+  {
+    "id": "a39e0b3df2e0a0cd10fa926ea1c3fc39",
+    "title_en": "神龙漏洞库: 漏洞数据库- AI 增强中文CVE 平台与情报",
+    "source": "cve.imfht.com",
+    "url": "https://cve.imfht.com/",
+    "published_at": "2026-06-02T16:02:51.054Z",
+    "fetched_at": "2026-06-02T16:02:51.054Z",
+    "title_zh": "神龙漏洞库: 漏洞数据库 - AI增强中文CVE平台与情报",
+    "summary_zh": "本文介绍了神龙漏洞库，一个基于AI技术增强的中文CVE漏洞数据库与威胁情报平台。该平台通过自然语言处理技术自动提取和翻译CVE详情，提供漏洞评分、影响版本、利用状态及修复建议。支持多维度检索与关联分析，帮助安全团队快速掌握漏洞态势并优先处置高风险漏洞。",
+    "topic": "security"
+  },
+  {
+    "id": "2f4c181196716f555c76ffe02b4db682",
+    "title_en": "漏洞- 安全内参| 决策者的网络安全知识库",
+    "source": "secrss.com",
+    "url": "https://www.secrss.com/articles?tag=%E6%BC%8F%E6%B4%9E",
+    "published_at": "2026-06-02T16:02:51.054Z",
+    "fetched_at": "2026-06-02T16:02:51.055Z",
+    "title_zh": "漏洞 - 安全内参 | 决策者的网络安全知识库",
+    "summary_zh": "本文汇总了近期多个高危漏洞的通报与分析，涵盖操作系统、Web应用及物联网设备等领域。内容包括漏洞编号、影响版本、攻击向量及修复建议。特别关注了已被利用的0day漏洞及其在野攻击活动，为安全决策者提供及时的情报更新与风险优先级评估参考。",
+    "topic": "security"
+  },
+  {
+    "id": "b8ef8c0d59a2c5d38c5237e2c43682da",
+    "title_en": "Docker容器的优化思路 - Escape",
+    "source": "escapelife.site",
+    "url": "https://www.escapelife.site/posts/36c7bd6f.html",
+    "published_at": "2026-06-02T16:02:51.053Z",
+    "fetched_at": "2026-06-02T16:02:51.053Z",
+    "title_zh": "Docker容器的优化思路",
+    "summary_zh": "本文深入探讨了Docker容器的优化策略，从镜像构建、资源限制、网络性能到存储驱动选择等多个维度展开。重点介绍了多阶段构建减小镜像体积、合理设置CPU/内存限制防止资源争抢、使用overlay2存储驱动提升I/O性能、以及通过--net=host或自定义网络减少网络延迟等实用技巧。为容器化应用的性能调优提供了清晰的思路和可落地的方案。",
+    "topic": "ops"
+  },
+  {
+    "id": "c68a4d8464a48d63cc97a40e4fd7e263",
+    "title_en": "Spring AI 进阶系列- Agent 智能体开发：ReAct模式、多步推理与自主Agent实战_springboot reactagent-CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/dreamcatcher1314/article/details/161161848",
+    "published_at": "2026-06-02T16:02:39.822Z",
+    "fetched_at": "2026-06-02T16:02:39.822Z",
+    "title_zh": "Spring AI 进阶系列- Agent 智能体开发：ReAct模式、多步推理与自主Agent实战_springboot reactagent-CSDN博客",
+    "summary_zh": "本文是Spring AI进阶系列的一部分，专注于在Java/Spring Boot生态中开发AI Agent。文章详细讲解了ReAct模式的实现原理，并展示了如何利用Spring AI框架构建支持多步推理和自主决策的Agent。内容包含完整的代码示例，涵盖工具注册、对话管理、错误恢复等关键环节。适合Java技术栈的AI开发者学习。",
+    "topic": "ai"
+  },
+  {
+    "id": "792bafb498d13776554438956274301f",
+    "title_en": "MiniMax发布新一代旗舰模型|新一代_新浪财经_新浪网",
+    "source": "finance.sina.com.cn",
+    "url": "https://finance.sina.com.cn/jjxw/2026-06-02/doc-inhzyxfs3277203.shtml",
+    "published_at": "2026-06-02T16:02:39.821Z",
+    "fetched_at": "2026-06-02T16:02:39.821Z",
+    "title_zh": "MiniMax发布新一代旗舰模型|新一代_新浪财经_新浪网",
+    "summary_zh": "本文报道了MiniMax公司发布的新一代旗舰大模型，重点介绍了其在模型架构、训练效率、推理速度以及多模态能力上的技术突破。文章分析了该模型在长文本处理、指令跟随和Agent任务中的表现，并对比了同期其他主流模型的优劣势。对于关注国产大模型进展和模型选型的开发者，提供了及时的技术解读。",
+    "topic": "ai"
+  },
+  {
     "id": "d520b22848d25e4f8bca9cb864fbae17",
     "title_en": "内核热补丁概述-Alibaba Cloud Linux(Alinux) - 阿里云文档",
     "source": "help.aliyun.com",
@@ -2132,71 +2198,5 @@
     "title_zh": "运维平台实践教程【共38课时】_自动化运维课程 - 51CTO学堂",
     "summary_zh": "一套完整的自动化运维平台实践教程，共 38 课时，覆盖从基础工具（如 Docker、Kubernetes）到 CI/CD 流水线、监控告警、日志管理等核心模块。课程以项目驱动，提供可复用的运维脚本与平台搭建方案，适合运维人员系统提升自动化能力。",
     "topic": "ops"
-  },
-  {
-    "id": "fa65669e885351249b6b575a05a9d0a7",
-    "title_en": "【紧急预警】CopyFail：CVE-2026-31431Linux内核本地提权漏洞深度解析 | ZONE.CI 全球网",
-    "source": "zone.ci",
-    "url": "https://zone.ci/secarticles/wx/527289.html",
-    "published_at": "2026-05-27T09:31:14.209Z",
-    "fetched_at": "2026-05-27T09:31:14.209Z",
-    "title_zh": "【紧急预警】CopyFail：CVE-2026-31431 Linux内核本地提权漏洞深度解析 | ZONE.CI 全球网",
-    "summary_zh": "针对 CVE-2026-31431（CopyFail）Linux 内核本地提权漏洞的深度解析，涵盖漏洞原理、触发条件、利用手法及影响范围。漏洞涉及内核内存拷贝操作中的竞争条件，攻击者可借此获取 root 权限。文章提供详细的技术分析与临时缓解措施，适用于安全运维与内核开发人员。",
-    "topic": "security"
-  },
-  {
-    "id": "5655134c0dd7af0aebf50d2941bac36d",
-    "title_en": "[PDF] 一种面向开源软件漏洞的补丁查找与解析方法",
-    "source": "shcas.net",
-    "url": "https://www.shcas.net/cn/article/pdf/preview/10.3969/j.issn.1000x.386x.2025.04.001.pdf",
-    "published_at": "2026-05-27T09:31:14.209Z",
-    "fetched_at": "2026-05-27T09:31:14.209Z",
-    "title_zh": "PDF 一种面向开源软件漏洞的补丁查找与解析方法",
-    "summary_zh": "提出一种面向开源软件的自动化补丁查找与解析方法，通过版本差异分析、提交日志挖掘及代码语义匹配，快速定位漏洞修复补丁。方法可辅助安全团队在漏洞披露后第一时间获取补丁细节，加速内部修复流程，降低暴露窗口。",
-    "topic": "security"
-  },
-  {
-    "id": "3f28ee7d237eba668912302e3090fbc0",
-    "title_en": "高危漏洞 - 阿里云漏洞库",
-    "source": "avd.aliyun.com",
-    "url": "https://avd.aliyun.com/high-risk/list",
-    "published_at": "2026-05-27T09:31:10.813Z",
-    "fetched_at": "2026-05-27T09:31:10.813Z",
-    "title_zh": "高危漏洞 - 阿里云漏洞库",
-    "summary_zh": "本文汇总了阿里云漏洞库收录的高危安全漏洞信息，涵盖漏洞编号、影响范围、危害等级及修复建议。内容聚焦于实际可利用的严重漏洞，为安全运维人员提供及时的威胁情报和应急响应参考，帮助团队快速定位并修复关键资产中的风险点。",
-    "topic": "security"
-  },
-  {
-    "id": "33c5a2fdef594a033e1e140446714186",
-    "title_en": "CVE 漏洞列表 - DEVCORE 戴夫寇爾",
-    "source": "devco.re",
-    "url": "https://devco.re/research/cve/",
-    "published_at": "2026-05-27T09:31:10.813Z",
-    "fetched_at": "2026-05-27T09:31:10.813Z",
-    "title_zh": "CVE 漏洞列表 - DEVCORE 戴夫寇爾",
-    "summary_zh": "DEVCORE 团队发布的 CVE 漏洞列表，详细披露了多个已公开漏洞的技术细节、影响版本及利用条件。文章以实战视角分析漏洞成因与攻击链，适合安全研究人员用于漏洞复现、渗透测试及防御策略制定，具有较高的技术参考价值。",
-    "topic": "security"
-  },
-  {
-    "id": "8ef17c3d0790b5eb893ecd6710534b14",
-    "title_en": "漏洞- X情报中心 - 微步在线",
-    "source": "x.threatbook.com",
-    "url": "https://x.threatbook.com/v5/vulIntelligence",
-    "published_at": "2026-05-27T09:31:10.813Z",
-    "fetched_at": "2026-05-27T09:31:10.813Z",
-    "title_zh": "漏洞- X情报中心 - 微步在线",
-    "summary_zh": "微步在线 X 情报中心提供的漏洞情报聚合，实时追踪全球最新安全漏洞，包括漏洞描述、影响范围、POC 状态及缓解措施。内容面向安全运营团队，辅助威胁研判与应急响应，提升对新兴攻击面的感知与防御能力。",
-    "topic": "security"
-  },
-  {
-    "id": "56a2fbd96d5f3bef0fa8097c6ba77197",
-    "title_en": "CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE - 信息安全知识库",
-    "source": "gm7.org",
-    "url": "https://www.gm7.org/archives/97513",
-    "published_at": "2026-05-27T09:31:10.812Z",
-    "fetched_at": "2026-05-27T09:31:10.812Z",
-    "title_zh": "CVE-2026-41940 深度分析：影响7000万+量级的cPanel/WHM认证绕过漏洞——从CRLF注入到匿名RCE",
-    "summary_zh": "本文深度分析了CVE-2026-41940漏洞，该漏洞影响超过7000万cPanel/WHM实例，可实现从CRLF注入到匿名远程代码执行（RCE）的完整攻击链。作者详细剖析了漏洞成因：WHM接口对HTTP头部验证不严导致CRLF注入，进而绕过认证机制，最终通过特定API实现无需身份验证的命令执行。文章提供了漏洞复现步骤、影响范围评估以及临时缓解措施（如WAF规则、端口限制），对安全研究人员和系统管理员具有重要参考价值。",
-    "topic": "security"
   }
 ]
