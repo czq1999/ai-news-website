@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-02",
-      "summary_zh": "今日GitHub热门项目聚焦AI效率工具与智能体开发，涵盖压缩工具、文档转换、网页爬虫、语音生成及交易机器学习，突出性能优化与多场景应用。",
+      "summary_zh": "今日GitHub热门项目聚焦AI效率工具与智能体开发，涵盖压缩工具、文档转换、网页抓取、语音生成及交易机器学习，强调性能优化与多场景应用。",
       "projects": [
         {
           "rank": 1,
@@ -10,29 +10,29 @@
           "url": "https://github.com/microsoft/markitdown",
           "description_en": "Python tool for converting files and office documents to Markdown.",
           "language": "Python",
-          "stars_total": 140692,
+          "stars_total": 140931,
           "stars_today": 3616,
           "description_zh": "用于将文件和办公文档转换为Markdown的Python工具。"
         },
         {
           "rank": 2,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 203246,
-          "stars_today": 1842,
-          "description_zh": "代理工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全性和研究优先的开发支持。"
-        },
-        {
-          "rank": 3,
           "name": "nesquena/hermes-webui",
           "url": "https://github.com/nesquena/hermes-webui",
           "description_en": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
           "language": "Python",
-          "stars_total": 12355,
+          "stars_total": 12463,
           "stars_today": 1725,
-          "description_zh": "Hermes WebUI：从网页或手机上使用Hermes Agent的最佳方式！"
+          "description_zh": "Hermes WebUI：通过网页或手机使用Hermes Agent的最佳方式！"
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 203646,
+          "stars_today": 1597,
+          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全性和研究优先的开发支持。"
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/chopratejas/headroom",
           "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
           "language": "Python",
-          "stars_total": 5432,
+          "stars_total": 5992,
           "stars_today": 1266,
           "description_zh": "在工具输出、日志、文件和RAG分块到达LLM之前对其进行压缩。减少60-95%的令牌，答案不变。提供库、代理、MCP服务器。"
         },
@@ -50,9 +50,9 @@
           "url": "https://github.com/D4Vinci/Scrapling",
           "description_en": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
           "language": "Python",
-          "stars_total": 58884,
+          "stars_total": 59052,
           "stars_today": 1196,
-          "description_zh": "🕷️ 一个自适应网页抓取框架，可处理从单次请求到全规模爬取的所有任务！"
+          "description_zh": "🕷️ 一个自适应的网页抓取框架，可处理从单个请求到全规模爬取的所有任务！"
         },
         {
           "rank": 6,
@@ -60,9 +60,9 @@
           "url": "https://github.com/OpenBMB/VoxCPM",
           "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
           "language": "Python",
-          "stars_total": 24913,
+          "stars_total": 25033,
           "stars_today": 779,
-          "description_zh": "VoxCPM2：用于多语言语音生成、创意语音设计和逼真克隆的无分词器文本转语音系统。"
+          "description_zh": "VoxCPM2：用于多语言语音生成、创意语音设计和逼真克隆的无分词器TTS系统。"
         },
         {
           "rank": 7,
@@ -70,9 +70,9 @@
           "url": "https://github.com/supermemoryai/supermemory",
           "description_en": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
           "language": "TypeScript",
-          "stars_total": 24460,
+          "stars_total": 24552,
           "stars_today": 677,
-          "description_zh": "极快、可扩展的记忆引擎和应用。面向AI时代的记忆API。"
+          "description_zh": "极快、可扩展的记忆引擎和应用程序。面向AI时代的记忆API。"
         },
         {
           "rank": 8,
@@ -80,9 +80,9 @@
           "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
           "description_en": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
           "language": "Jupyter Notebook",
-          "stars_total": 18253,
+          "stars_total": 18396,
           "stars_today": 570,
-          "description_zh": "《机器学习算法交易》第二版的代码。"
+          "description_zh": "《算法交易机器学习》第二版的代码。"
         },
         {
           "rank": 9,
@@ -90,9 +90,9 @@
           "url": "https://github.com/reconurge/flowsint",
           "description_en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
           "language": "TypeScript",
-          "stars_total": 4349,
-          "stars_today": 319,
-          "description_zh": "一个现代化的平台，用于可视化、灵活且可扩展的基于图形的调查。专为网络安全分析师和调查人员设计。"
+          "stars_total": 4443,
+          "stars_today": 190,
+          "description_zh": "一个现代化的平台，用于可视化、灵活且可扩展的基于图形的调查。适用于网络安全分析师和调查人员。"
         },
         {
           "rank": 10,
@@ -100,9 +100,9 @@
           "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
           "description_en": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
           "language": "Python",
-          "stars_total": 8158,
+          "stars_total": 8274,
           "stars_today": 65,
-          "description_zh": "与任何LLM进行免提语音交互、支持语音打断和Live2D面部追踪，跨平台本地运行。"
+          "description_zh": "与任何LLM进行免提语音交互、语音打断，并在本地跨平台运行带有Live2D面部追踪的对话。"
         },
         {
           "rank": 11,
@@ -110,7 +110,7 @@
           "url": "https://github.com/jamwithai/production-agentic-rag-course",
           "description_en": "",
           "language": "Python",
-          "stars_total": 6283,
+          "stars_total": 6343,
           "stars_today": 31,
           "description_zh": ""
         }

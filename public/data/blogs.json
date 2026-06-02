@@ -1,5 +1,148 @@
 [
   {
+    "id": "68bfab13c03487fa21ec339a64cda33a",
+    "title_en": "一种Linux安全漏洞修复补丁自动识别方法 - 计算机研究与发展",
+    "source": "crad.ict.ac.cn",
+    "url": "https://crad.ict.ac.cn/fileJSJYJYFZ/journal/article/jsjyjyfz/HTML/2022-01-197.shtml",
+    "published_at": "2026-06-02T20:36:37.589Z",
+    "fetched_at": "2026-06-02T20:36:37.589Z",
+    "title_zh": "一种Linux安全漏洞修复补丁自动识别方法 - 计算机研究与发展",
+    "summary_zh": "本文提出了一种针对Linux安全漏洞修复补丁的自动识别方法，旨在解决开源软件补丁数量庞大、人工筛选效率低下的问题。该方法基于补丁的元数据特征和代码变更模式，利用机器学习分类器自动判定补丁是否与安全漏洞修复相关。实验结果表明，该方法在准确率和召回率上均优于传统规则匹配方式，为安全运维团队提供了高效的补丁管理自动化工具。",
+    "topic": "security"
+  },
+  {
+    "id": "6a6502ca43fdd6261c6588f8a7e4075a",
+    "title_en": "漏洞修复深度解析：AI 赋能的CVE-2025-60719 根本原因分析 - Akamai",
+    "source": "akamai.com",
+    "url": "https://www.akamai.com/zh/blog/security-research/inside-fix-ai-root-cause-analysis-cve-2025-60719",
+    "published_at": "2026-06-02T20:36:37.589Z",
+    "fetched_at": "2026-06-02T20:36:37.589Z",
+    "title_zh": "漏洞修复深度解析：AI赋能的CVE-2025-60719根本原因分析 - Akamai",
+    "summary_zh": "本文展示了Akamai如何利用AI技术对CVE-2025-60719漏洞进行根本原因分析。通过自动化代码审查、补丁差异对比和漏洞传播路径追踪，AI模型能够快速定位漏洞触发点并生成修复建议。文章详细介绍了AI辅助分析的工作流程，包括数据预处理、特征提取和模型推理，显著缩短了从漏洞发现到补丁发布的时间窗口，为安全团队提供了智能化漏洞响应的实践案例。",
+    "topic": "ai"
+  },
+  {
+    "id": "5655134c0dd7af0aebf50d2941bac36d",
+    "title_en": "[PDF] 一种面向开源软件漏洞的补丁查找与解析方法",
+    "source": "shcas.net",
+    "url": "https://www.shcas.net/cn/article/pdf/preview/10.3969/j.issn.1000x.386x.2025.04.001.pdf",
+    "published_at": "2026-06-02T20:36:37.589Z",
+    "fetched_at": "2026-06-02T20:36:37.589Z",
+    "title_zh": "PDF 一种面向开源软件漏洞的补丁查找与解析方法",
+    "summary_zh": "本文提出了一种面向开源软件漏洞的补丁查找与解析方法，旨在自动化地从大量代码提交中识别与CVE相关的修复补丁。方法结合了自然语言处理（NLP）和代码变更分析技术，通过解析提交日志、代码差异和关联的漏洞数据库，实现高精度的补丁定位。该研究对于安全运维团队自动化漏洞管理、减少人工审查负担具有重要实用价值。",
+    "topic": "security"
+  },
+  {
+    "id": "c22353f2f4a8f5e33fb895db6498b2d2",
+    "title_en": "京东獬豸信息安全实验室",
+    "source": "dawnslab.jd.com",
+    "url": "https://dawnslab.jd.com/",
+    "published_at": "2026-06-02T20:36:37.589Z",
+    "fetched_at": "2026-06-02T20:36:37.589Z",
+    "title_zh": "京东獬豸信息安全实验室",
+    "summary_zh": "本文介绍了京东獬豸信息安全实验室的研究方向与核心成果，涵盖Web安全、移动安全、云安全及AI安全等多个领域。实验室专注于漏洞挖掘、攻防对抗技术和安全自动化工具的研发，并分享了多个实战案例，如针对电商业务场景的威胁建模和应急响应方案。内容适合企业安全团队参考，用于提升自身安全检测与防御体系的有效性。",
+    "topic": "security"
+  },
+  {
+    "id": "0754c08f199859dc15b1fc1cd19b9f32",
+    "title_en": "Linux-企业级自动化实用指南-全- - 绝不原创的飞龙 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/apachecn/p/18965744",
+    "published_at": "2026-06-02T20:36:37.589Z",
+    "fetched_at": "2026-06-02T20:36:37.589Z",
+    "title_zh": "Linux企业级自动化实用指南（全） - 绝不原创的飞龙 - 博客园",
+    "summary_zh": "本文是一份全面的Linux企业级自动化实用指南，覆盖了从基础脚本编写到高级自动化框架的完整内容。重点包括Shell脚本最佳实践、Ansible Playbook设计模式、SaltStack配置管理以及基于Cobbler的批量部署方案。文章还涉及日志审计、备份策略和性能调优等运维常见场景，适合Linux运维工程师作为日常工作的参考手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "3f28ee7d237eba668912302e3090fbc0",
+    "title_en": "高危漏洞 - 阿里云漏洞库",
+    "source": "avd.aliyun.com",
+    "url": "https://avd.aliyun.com/high-risk/list",
+    "published_at": "2026-06-02T20:36:34.526Z",
+    "fetched_at": "2026-06-02T20:36:34.526Z",
+    "title_zh": "高危漏洞 - 阿里云漏洞库",
+    "summary_zh": "本文是阿里云漏洞库（AVD）对当前高危漏洞的汇总页面，列出了多个已公开的高危CVE漏洞，包括漏洞编号、影响组件、危害等级、利用条件及阿里云提供的修复建议。每个漏洞条目均附有详细的技术分析，如漏洞触发原理、PoC代码片段以及云安全产品（如WAF、RASP）的防护方案。该页面是云上用户及时获取漏洞情报、进行风险排查的重要参考。",
+    "topic": "security"
+  },
+  {
+    "id": "33c5a2fdef594a033e1e140446714186",
+    "title_en": "CVE 漏洞列表 - DEVCORE 戴夫寇爾",
+    "source": "devco.re",
+    "url": "https://devco.re/research/cve/",
+    "published_at": "2026-06-02T20:36:34.526Z",
+    "fetched_at": "2026-06-02T20:36:34.526Z",
+    "title_zh": "CVE漏洞列表 - DEVCORE 戴夫寇爾",
+    "summary_zh": "本文是DEVCORE（戴夫寇爾）安全研究团队公开的CVE漏洞列表，展示了该团队发现并上报的多个高危漏洞，涵盖Web应用、操作系统、网络设备等不同领域。每个漏洞条目包含CVE编号、漏洞类型、影响版本、利用难度及修复建议。DEVCORE以其在真实世界漏洞挖掘中的深厚技术积累著称，该列表对于安全从业者了解前沿攻击面、提升自身防御能力具有重要参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "8ef17c3d0790b5eb893ecd6710534b14",
+    "title_en": "漏洞- X情报中心 - 微步在线- ThreatBook",
+    "source": "x.threatbook.com",
+    "url": "https://x.threatbook.com/v5/vulIntelligence",
+    "published_at": "2026-06-02T20:36:34.526Z",
+    "fetched_at": "2026-06-02T20:36:34.526Z",
+    "title_zh": "漏洞 - X情报中心 - 微步在线 ThreatBook",
+    "summary_zh": "本文来自微步在线X情报中心，聚焦于最新漏洞情报的汇总与分析。内容涵盖漏洞的披露时间、影响范围、攻击利用情况以及修复建议。作为专业威胁情报平台，文章提供了针对企业安全团队的实用信息，包括IOC（威胁指标）提取、漏洞危害评级和应急响应指南。适合安全运维人员用于日常威胁监测和漏洞优先级排序，提升企业安全防护能力。",
+    "topic": "security"
+  },
+  {
+    "id": "66b1f0db9d30c576cc457c7c75755fab",
+    "title_en": "Linux 性能调优工具：从原理到实践的全面指南",
+    "source": "linuxcool.com",
+    "url": "https://www.linuxcool.com/lxndygjcylds",
+    "published_at": "2026-06-02T20:36:34.525Z",
+    "fetched_at": "2026-06-02T20:36:34.525Z",
+    "title_zh": "Linux 性能调优工具：从原理到实践的全面指南",
+    "summary_zh": "本文全面介绍了Linux性能调优的核心工具，从原理到实践进行了系统讲解。内容涵盖性能监控工具（top、vmstat、iostat、sar、perf）、内存分析工具（free、valgrind）、磁盘I/O工具（iotop、blktrace）、网络工具（netstat、tcpdump、ss）以及系统追踪工具（strace、ltrace、ftrace）。文章不仅说明了每个工具的基本用法，还深入解释了其工作原理与适用场景，并提供了结合多个工具进行综合性能分析的实战案例。适合希望系统掌握Linux性能调优工具链的工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "06bc7707e9607e27872b4db215b1b16d",
+    "title_en": "Linux操作系统加固 - 阿里云文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/document_detail/49809.html",
+    "published_at": "2026-06-02T20:36:34.525Z",
+    "fetched_at": "2026-06-02T20:36:34.525Z",
+    "title_zh": "Linux操作系统加固",
+    "summary_zh": "本文是阿里云官方提供的Linux操作系统加固文档，针对云服务器场景给出了标准化的安全配置方案。内容涵盖系统账户安全（密码策略、锁定机制）、网络服务最小化、内核参数调优（禁用IP转发、开启反向路径过滤）、日志审计配置（rsyslog、auditd）以及常用安全工具（如AIDE、ClamAV）的部署。文档还提供了自动化加固脚本，便于用户在批量实例上快速实施安全基线。",
+    "topic": "security"
+  },
+  {
+    "id": "750de09354bf2a29f6f2497e1595d634",
+    "title_en": "[Linux操作系统]Linux系统服务器管理，基础与实践|linux服务器管理工具,Linux系统 服务器管理,Linux操作系统,云主机博士",
+    "source": "yunzhujiboshi.com",
+    "url": "https://www.yunzhujiboshi.com/2026/05/1653456.html",
+    "published_at": "2026-06-02T20:36:30.734Z",
+    "fetched_at": "2026-06-02T20:36:30.734Z",
+    "title_zh": "Linux系统服务器管理：基础与实践",
+    "summary_zh": "本文全面介绍了Linux服务器管理的基础知识与实践操作，涵盖系统安装、用户与权限管理、软件包管理、网络配置、防火墙设置、SSH远程管理、以及系统监控与日志分析等核心主题。文章以实操为导向，提供了大量命令行示例和配置案例，帮助读者快速掌握Linux服务器的日常管理技能。此外，还讨论了服务器安全加固、性能调优、以及常见故障的排查方法，适合系统管理员和运维工程师作为入门与进阶参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "e7981fdce44e9ff83f43972723a59d38",
+    "title_en": "详解Linux运维工程师必备技能 - 张戈博客",
+    "source": "zhang.ge",
+    "url": "https://zhang.ge/128.html",
+    "published_at": "2026-06-02T20:36:30.734Z",
+    "fetched_at": "2026-06-02T20:36:30.734Z",
+    "title_zh": "详解Linux运维工程师必备技能",
+    "summary_zh": "本文详细解析了Linux运维工程师所需掌握的各项必备技能，从基础到高级逐步展开。内容涵盖Linux系统原理、常用命令与脚本编写、网络服务配置（Nginx/Apache/DNS）、数据库管理（MySQL/Redis）、以及自动化运维工具（Ansible/Puppet）的使用。文章还重点介绍了监控告警系统（Zabbix/Grafana）、日志分析（ELK Stack）、以及容器化部署（Docker）等现代运维技术。作者结合多年实战经验，分享了高效学习路径与面试常见问题，适合运维从业者系统提升。",
+    "topic": "ops"
+  },
+  {
+    "id": "13a829cf97d70baf350db3a7bca96749",
+    "title_en": "2026 年AI Agent 的12 大构建框架 - 亮数据",
+    "source": "bright.cn",
+    "url": "https://www.bright.cn/blog/ai/best-ai-agent-frameworks",
+    "published_at": "2026-06-02T20:36:30.733Z",
+    "fetched_at": "2026-06-02T20:36:30.733Z",
+    "title_zh": "2026 年AI Agent 的12 大构建框架 - 亮数据",
+    "summary_zh": "本文盘点了2026年最值得关注的12个AI Agent构建框架，覆盖了从轻量级库到全栈平台的各类选择。文章对每个框架的核心特性、技术栈、适用场景以及优缺点进行了客观评估。特别关注了框架对多模型支持、工具集成、记忆管理以及生产部署的支持能力，为技术团队在框架选型时提供了全面的决策参考。",
+    "topic": "ai"
+  },
+  {
     "id": "5ec94b7a0fbced2c3f39445c4e5646d5",
     "title_en": "DevOps和自动化运维实践— 运维开发修炼之路",
     "source": "my-linux-devops.readthedocs.io",
@@ -2055,148 +2198,5 @@
     "title_zh": "AI Agent：自主性、反应性与交互性的融合，将颠覆软件行业",
     "summary_zh": "本文从软件架构演进角度，深入分析了AI Agent如何通过自主决策、环境感知与多轮交互能力重塑传统软件范式。文章探讨了Agent在自动化流程、智能客服与复杂任务编排中的颠覆性潜力，并对比了与传统微服务架构的差异。适合关注AI对软件行业长期影响的技术管理者与架构师。",
     "topic": "ai"
-  },
-  {
-    "id": "ab44692da05b2d4a4e37b0a487dd4d88",
-    "title_en": "炼石成丹：大语言模型微调实战系列（二）模型微调篇 - AWS",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-two/",
-    "published_at": "2026-05-28T02:11:57.595Z",
-    "fetched_at": "2026-05-28T02:11:57.595Z",
-    "title_zh": "炼石成丹：大语言模型微调实战系列（二）模型微调篇",
-    "summary_zh": "本文是AWS官方出品的LLM微调实战系列第二篇，聚焦模型微调的核心技术。内容涵盖LoRA、QLoRA等参数高效微调方法的原理与实现，以及超参数调优、训练稳定性监控与模型评估策略。文章结合Amazon SageMaker平台，提供了可复现的微调流水线示例，适合希望在生产环境中高效微调大模型的工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "9c59361058ece8a5cfc3be7f073765dc",
-    "title_en": "万字全景解读大模型微调技术：方法、实践与未来趋势",
-    "source": "woshipm.com",
-    "url": "https://www.woshipm.com/ai/6256219.html",
-    "published_at": "2026-05-28T02:11:57.595Z",
-    "fetched_at": "2026-05-28T02:11:57.595Z",
-    "title_zh": "万字全景解读大模型微调技术：方法、实践与未来趋势",
-    "summary_zh": "本文以万字篇幅全景式解读大模型微调技术，从Prompt Tuning、Prefix Tuning到LoRA、QLoRA等前沿方法，系统梳理了各类微调范式的原理与适用场景。文章还深入探讨了多任务微调、持续学习与模型合并等进阶话题，并结合工业界案例展望了未来趋势。适合希望全面了解微调技术生态的研究者与工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "9b6b026a4e5104155a9debc318b679cd",
-    "title_en": "别让大模型“学废了”！从数据清洗到参数调优，一次讲透微调实战 - 文章 - 开发者社区 - 火山引擎",
-    "source": "developer.volcengine.com",
-    "url": "https://developer.volcengine.com/articles/7604124966660866084",
-    "published_at": "2026-05-28T02:11:57.595Z",
-    "fetched_at": "2026-05-28T02:11:57.595Z",
-    "title_zh": "别让大模型“学废了”！从数据清洗到参数调优，一次讲透微调实战",
-    "summary_zh": "本文由火山引擎开发者社区出品，聚焦大模型微调实战中的关键痛点。从数据清洗、标注质量控制，到LoRA参数选择、学习率与batch size调优，逐一给出可操作的解决方案。文章还分享了火山引擎平台上的微调工具链与性能监控方法，帮助开发者避免常见陷阱，提升微调效果。",
-    "topic": "ai"
-  },
-  {
-    "id": "e1dc65e8ba15943fffe1d8704b2af14f",
-    "title_en": "yangpeng14/DevOps - 个人自动化运维指南 - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/yangpeng14/DevOps",
-    "published_at": "2026-05-27T20:02:37.595Z",
-    "fetched_at": "2026-05-27T20:02:37.595Z",
-    "title_zh": "yangpeng14/DevOps - 个人自动化运维指南",
-    "summary_zh": "这是一个开源的DevOps实践指南仓库，涵盖了从基础运维到自动化部署的完整知识体系。内容包括Ansible/SaltStack配置管理、Jenkins CI/CD流水线搭建、Docker Compose多容器编排、以及监控告警系统（Prometheus + Alertmanager）的部署。项目以实际可运行的代码和配置文件为主，附带详细的注释和架构说明。特别适合希望从手动运维转向自动化运维的团队和个人学习参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "348242881f8742faa33c053d2267ccf8",
-    "title_en": "Docker性能优化：让容器跑得更快 - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2595679",
-    "published_at": "2026-05-27T20:02:37.595Z",
-    "fetched_at": "2026-05-27T20:02:37.595Z",
-    "title_zh": "Docker性能优化：让容器跑得更快",
-    "summary_zh": "腾讯云出品的Docker性能优化实战文章，重点解决容器化后的性能损耗问题。内容涵盖CPU绑定（--cpuset-cpus）减少上下文切换、内存限制避免OOM、磁盘I/O限制（--device-read-bps）防止资源争抢。网络方面介绍了如何通过--net=host提升吞吐量，以及使用iptables优化端口映射。还分享了腾讯云内部使用的镜像加速方案和容器启动优化技巧。适合在云环境中运行Docker的开发和运维人员。",
-    "topic": "ops"
-  },
-  {
-    "id": "1150407474f5c6315c5788ae4333c8a9",
-    "title_en": "性能调优指南| Red Hat Enterprise Linux | 7",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
-    "published_at": "2026-05-27T20:02:37.594Z",
-    "fetched_at": "2026-05-27T20:02:37.594Z",
-    "title_zh": "性能调优指南 | Red Hat Enterprise Linux 7",
-    "summary_zh": "Red Hat官方出品的RHEL 7性能调优权威指南，内容严谨且系统。文档从性能基准测试方法论讲起，详细介绍了tuned服务（动态调优配置文件）、CPU频率缩放（cpufreq）、内存NUMA亲和性、存储设备队列深度调整等企业级特性。特别针对数据库、Web服务器和虚拟化场景给出了具体的调优配置模板。还包含了性能监控工具（如turbostat、numastat）的使用说明和性能数据解读方法。适合企业级Linux运维和架构师参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "c9f3d05ea0d9fcac73e97172caf3291e",
-    "title_en": "Linux运维工程师必须掌握的服务器性能参数指标",
-    "source": "xasun.com",
-    "url": "https://www.xasun.com/article/26/2395.html",
-    "published_at": "2026-05-27T20:02:31.449Z",
-    "fetched_at": "2026-05-27T20:02:31.449Z",
-    "title_zh": "Linux运维工程师必须掌握的服务器性能参数指标",
-    "summary_zh": "本文系统梳理Linux运维工程师必须掌握的服务器性能参数指标，涵盖CPU（负载、使用率、上下文切换）、内存（使用量、交换分区、缓存）、磁盘（IOPS、吞吐量、延迟）、网络（带宽、丢包率、连接数）等核心维度。详细解释各指标的含义、正常阈值与异常排查方法，并结合常用工具（如vmstat、iostat、sar）给出监控命令示例。适合运维人员建立系统的性能监控与调优知识体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "92df8448a85cd13d9af32f6c6682ed9a",
-    "title_en": "Command A+：开源稀疏MoE大模型，支持超长上下文与图文多模态处理 | AI铺子",
-    "source": "aipuzi.cn",
-    "url": "https://www.aipuzi.cn/ai-news/command-a-plus.html",
-    "published_at": "2026-05-27T20:02:31.448Z",
-    "fetched_at": "2026-05-27T20:02:31.448Z",
-    "title_zh": "Command A+：开源稀疏MoE大模型，支持超长上下文与图文多模态处理 | AI铺子",
-    "summary_zh": "本文介绍Command A+，一款基于稀疏混合专家（MoE）架构的开源大模型。其核心特性包括：支持超长上下文窗口（百万token级别），适合文档分析、代码库理解等场景；原生支持图文多模态输入，可处理图像描述、图表理解等任务；MoE架构在保持高性能的同时降低推理成本。文章还提供了模型部署、微调与API调用的实践指南。适合需要高性价比、长上下文或多模态能力的AI开发者与架构师阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "366fce391d4f8cb854969465cce6b976",
-    "title_en": "大模型应用开发实战：AI Agent与智能体开发技术解析 - 聚客AI学院",
-    "source": "edu.guangjuke.com",
-    "url": "https://edu.guangjuke.com/haowen/234.html",
-    "published_at": "2026-05-27T20:02:31.448Z",
-    "fetched_at": "2026-05-27T20:02:31.449Z",
-    "title_zh": "大模型应用开发实战：AI Agent与智能体开发技术解析",
-    "summary_zh": "本文聚焦大模型驱动的AI Agent开发技术，从Prompt设计、Function Calling到多智能体协作系统，系统解析智能体开发全流程。涵盖工具调用、记忆管理、任务规划与执行等关键模块的实现细节，并结合实际业务场景（如自动化客服、智能文档处理）给出架构建议。适合正在构建企业级Agent应用的开发者，提供可落地的技术方案与性能优化策略。",
-    "topic": "ai"
-  },
-  {
-    "id": "1e04ceaacae046664444611fa0d850ae",
-    "title_en": "2026 年高危漏洞 TOP10 盘点与修复实战指南 - 信息安全知识库",
-    "source": "gm7.org",
-    "url": "https://www.gm7.org/archives/79173",
-    "published_at": "2026-05-27T14:58:19.624Z",
-    "fetched_at": "2026-05-27T14:58:19.624Z",
-    "title_zh": "2026年高危漏洞TOP10盘点与修复实战指南",
-    "summary_zh": "本文盘点了2026年度最危险的十大高危漏洞，涵盖操作系统、数据库、Web应用及云平台等关键领域。作者对每个漏洞的CVE编号、影响范围、攻击原理及PoC进行了详细分析，并提供了针对性的修复步骤与临时缓解措施。文章还讨论了漏洞优先级排序、补丁管理流程及自动化扫描工具的使用，帮助安全团队高效应对漏洞威胁，提升整体安全防护能力。",
-    "topic": "security"
-  },
-  {
-    "id": "29074dab1718e9ca07febdf0639b6314",
-    "title_en": "CVE-2026-8376：Perl正規表示式編譯器堆疊緩衝區溢位漏洞的深入解析與修復指南 – 駿捷科技",
-    "source": "dreamjtech.com",
-    "url": "https://www.dreamjtech.com/26996/",
-    "published_at": "2026-05-27T14:58:19.624Z",
-    "fetched_at": "2026-05-27T14:58:19.624Z",
-    "title_zh": "CVE-2026-8376：Perl正则表达式编译器堆栈缓冲区溢出漏洞的深入解析与修复指南",
-    "summary_zh": "本文深入分析了CVE-2026-8376漏洞，该漏洞存在于Perl正则表达式编译器中，属于堆栈缓冲区溢出类型。文章详细阐述了漏洞的触发机制、影响范围以及攻击者如何利用该漏洞实现远程代码执行。同时，提供了具体的修复指南，包括补丁应用、代码审计和临时缓解措施。对于使用Perl进行正则表达式处理的应用，本文具有极高的技术参考价值和实践指导意义。",
-    "topic": "security"
-  },
-  {
-    "id": "de7e4d50b0e3fad589d882b60f18b6da",
-    "title_en": "上交大与腾讯联合研究：教AI用\"语义地图\"同时看懂和画好图，多模态模型的\"左右脑\"终于协调了 - 科技行者",
-    "source": "techwalker.com",
-    "url": "https://www.techwalker.com/2026/0526/3188288.shtml",
-    "published_at": "2026-05-27T14:58:13.082Z",
-    "fetched_at": "2026-05-27T14:58:13.082Z",
-    "title_zh": "上交大与腾讯联合研究：教AI用语义地图同时看懂和画好图，多模态模型的左右脑终于协调了",
-    "summary_zh": "本文介绍上海交通大学与腾讯联合提出的多模态模型新方法——语义地图（Semantic Map），旨在解决视觉理解与生成任务之间的语义鸿沟。该方法通过构建统一的语义空间，让模型在图像识别与图像生成时共享概念表征，类似人类左右脑协调工作。实验表明，该方法在COCO Captioning、Text-to-Image等任务上显著提升了一致性与细节保真度。论文提供了开源代码与预训练模型，对多模态研究者具有直接参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "cadf33b32487b849a032dcc830d2a40c",
-    "title_en": "运维平台实践教程【共38课时】_自动化运维课程 - 51CTO学堂",
-    "source": "edu.51cto.com",
-    "url": "https://edu.51cto.com/course/31293.html",
-    "published_at": "2026-05-27T09:31:14.210Z",
-    "fetched_at": "2026-05-27T09:31:14.210Z",
-    "title_zh": "运维平台实践教程【共38课时】_自动化运维课程 - 51CTO学堂",
-    "summary_zh": "一套完整的自动化运维平台实践教程，共 38 课时，覆盖从基础工具（如 Docker、Kubernetes）到 CI/CD 流水线、监控告警、日志管理等核心模块。课程以项目驱动，提供可复用的运维脚本与平台搭建方案，适合运维人员系统提升自动化能力。",
-    "topic": "ops"
   }
 ]
