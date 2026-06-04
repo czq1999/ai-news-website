@@ -1538,7 +1538,7 @@ img {
 .blog-card {
   display: block;
   height: 100%;
-  padding: 1.25rem;
+  padding: 1.25rem 3.25rem 1.25rem 1.25rem;
   border-radius: var(--radius-md);
   background: var(--surface-strong);
   border: 1px solid var(--border);
