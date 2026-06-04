@@ -10,9 +10,9 @@
           "url": "https://github.com/chopratejas/headroom",
           "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
           "language": "Python",
-          "stars_total": 10053,
+          "stars_total": 11094,
           "stars_today": 3530,
-          "description_zh": "在工具输出、日志、文件和RAG分块到达LLM之前进行压缩。减少60-95%的令牌，答案不变。提供库、代理、MCP服务器。"
+          "description_zh": "在工具输出、日志、文件和RAG分块到达LLM之前对其进行压缩。减少60-95%的令牌，答案不变。提供库、代理、MCP服务器。"
         },
         {
           "rank": 2,
@@ -20,7 +20,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 205883,
+          "stars_total": 206402,
           "stars_today": 2141,
           "description_zh": "代理工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/microsoft/markitdown",
           "description_en": "Python tool for converting files and office documents to Markdown.",
           "language": "Python",
-          "stars_total": 143000,
+          "stars_total": 143500,
           "stars_today": 1984,
           "description_zh": "用于将文件和办公文档转换为Markdown的Python工具。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 179307,
+          "stars_total": 179955,
           "stars_today": 1735,
           "description_zh": "与你一同成长的智能代理。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/D4Vinci/Scrapling",
           "description_en": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
           "language": "Python",
-          "stars_total": 60358,
+          "stars_total": 60700,
           "stars_today": 1067,
           "description_zh": "🕷️ 一个自适应网页抓取框架，从单次请求到全规模爬取无所不能！"
         },
@@ -60,9 +60,9 @@
           "url": "https://github.com/nesquena/hermes-webui",
           "description_en": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
           "language": "Python",
-          "stars_total": 13137,
+          "stars_total": 13290,
           "stars_today": 719,
-          "description_zh": "Hermes WebUI：在网页或手机上使用Hermes Agent的最佳方式！"
+          "description_zh": "Hermes WebUI：从网页或手机使用Hermes Agent的最佳方式！"
         },
         {
           "rank": 7,
@@ -70,7 +70,7 @@
           "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
           "description_en": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
           "language": "Python",
-          "stars_total": 9020,
+          "stars_total": 9232,
           "stars_today": 693,
           "description_zh": "与任意LLM进行免提语音交互、支持语音打断和Live2D形象，跨平台本地运行。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/supermemoryai/supermemory",
           "description_en": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
           "language": "TypeScript",
-          "stars_total": 25222,
+          "stars_total": 25392,
           "stars_today": 600,
           "description_zh": "极速、可扩展的记忆引擎与应用。面向AI时代的记忆API。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/opendataloader-project/opendataloader-pdf",
           "description_en": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
           "language": "Java",
-          "stars_total": 23351,
+          "stars_total": 23564,
           "stars_today": 570,
           "description_zh": "面向AI就绪数据的PDF解析器。自动化PDF无障碍处理。开源。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/jwasham/coding-interview-university",
           "description_en": "A complete computer science study plan to become a software engineer.",
           "language": "",
-          "stars_total": 349096,
+          "stars_total": 349345,
           "stars_today": 330,
           "description_zh": "一份完整的计算机科学学习计划，助你成为软件工程师。"
         },
@@ -110,9 +110,9 @@
           "url": "https://github.com/lyogavin/airllm",
           "description_en": "AirLLM 70B inference with single 4GB GPU",
           "language": "Jupyter Notebook",
-          "stars_total": 18959,
+          "stars_total": 19147,
           "stars_today": 208,
-          "description_zh": "AirLLM：仅需单张4GB GPU即可运行70B参数模型推理。"
+          "description_zh": "AirLLM 70B推理，仅需单张4GB GPU。"
         },
         {
           "rank": 12,
@@ -120,9 +120,9 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 10034,
+          "stars_total": 10430,
           "stars_today": 197,
-          "description_zh": "“Vibe-Trading：你的个人交易代理”"
+          "description_zh": "\"Vibe-Trading：你的个人交易代理\""
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/odoo/odoo",
           "description_en": "Odoo. Open Source Apps To Grow Your Business.",
           "language": "Python",
-          "stars_total": 51980,
+          "stars_total": 52106,
           "stars_today": 29,
           "description_zh": "Odoo。助力业务增长的开源应用套件。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/aquasecurity/trivy",
           "description_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
           "language": "Go",
-          "stars_total": 35437,
+          "stars_total": 35529,
           "stars_today": 24,
           "description_zh": "在容器、Kubernetes、代码仓库、云环境等中查找漏洞、错误配置、密钥和SBOM。"
         }
