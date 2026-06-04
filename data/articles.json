@@ -1,5 +1,60 @@
 [
   {
+    "id": "9fe300d964a2643487ed192f68cdfab3",
+    "title_en": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "published_at": "2026-06-04T01:01:00.000Z",
+    "fetched_at": "2026-06-04T02:47:03.331Z",
+    "title_zh": "OpenAI与Anthropic签署承诺书，防止AI用于开发生物武器",
+    "summary_zh": "OpenAI和Anthropic联合签署公开承诺书，承诺将严格管控其AI模型，防止被滥用于开发生物武器。两家公司同意实施更严格的模型发布前评估、用户行为监控以及数据过滤机制。此举被视为AI行业在安全治理上的重要自律行动。",
+    "category": "industry"
+  },
+  {
+    "id": "8beeef1d02207cd7b9850c10b71c6d33",
+    "title_en": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+    "published_at": "2026-06-04T00:04:04.000Z",
+    "fetched_at": "2026-06-04T02:47:02.977Z",
+    "title_zh": "任天堂确认将在欧盟销售配备可更换电池的新款Switch 2",
+    "summary_zh": "任天堂官方确认，即将推出的Switch 2游戏机在欧盟版本中将配备用户可自行更换的电池，以符合欧盟最新的环保法规。这一设计调整不仅回应了欧盟对电子产品可维修性的要求，也可能影响全球其他地区的产品策略。可更换电池设计在游戏掌机领域较为罕见，或将成为Switch 2的一大卖点。",
+    "category": "product"
+  },
+  {
+    "id": "597c1c6414ccb84ce164fb13746a4758",
+    "title_en": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "published_at": "2026-06-03T22:56:51.000Z",
+    "fetched_at": "2026-06-04T02:47:02.771Z",
+    "title_zh": "Lovable与Google Cloud签署多年协议，目标将使用量提升5倍",
+    "summary_zh": "据消息人士透露，AI初创公司Lovable与Google Cloud达成一项多年合作协议，旨在将其平台使用量提升5倍。该合作将利用Google Cloud的基础设施和AI能力，加速Lovable的产品扩展。此举标志着云服务商与AI初创企业深度绑定的又一案例，也反映了当前AI应用层对算力资源的巨大需求。",
+    "category": "industry"
+  },
+  {
+    "id": "ff49347e3b0b4b879c8fc5380cc97a79",
+    "title_en": "Apple is bringing age verification to Texas this week",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+    "published_at": "2026-06-03T21:49:51.000Z",
+    "fetched_at": "2026-06-04T02:47:02.977Z",
+    "title_zh": "苹果本周将在得克萨斯州推出年龄验证功能",
+    "summary_zh": "苹果公司宣布将于本周在得克萨斯州率先推出新的年龄验证系统，旨在加强对未成年用户的保护。该功能将集成在App Store和系统层面，要求用户验证年龄以访问特定内容或应用。此举是苹果在数字隐私和儿童安全领域的又一举措，但也引发了关于数据收集和用户隐私的讨论。",
+    "category": "product"
+  },
+  {
+    "id": "acb2baecb3b848c2964082ab676b9c61",
+    "title_en": "WiiM expands its whole-home ecosystem with a new soundbar",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+    "published_at": "2026-06-03T21:12:51.000Z",
+    "fetched_at": "2026-06-04T02:47:02.977Z",
+    "title_zh": "WiiM扩展全屋音频生态，推出全新条形音箱",
+    "summary_zh": "智能音频品牌WiiM发布新款条形音箱，进一步丰富其全屋音频生态系统。该产品支持多房间同步播放、语音控制及主流流媒体服务，旨在为用户提供无缝的家庭娱乐体验。WiiM此举意在抢占智能家居音频市场，与Sonos等品牌展开竞争，其性价比策略或将成为关键优势。",
+    "category": "product"
+  },
+  {
     "id": "43753bda8bda7d74d06fec2130380c0d",
     "title_en": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
     "source": "The Verge",
@@ -9,6 +64,17 @@
     "title_zh": "英伟达已规划N2X和N3X芯片，目标是打造《星际迷航》式超级计算机",
     "summary_zh": "英伟达正在规划其下一代N2X和N3X芯片，目标直指实现《星际迷航》中强大计算机的愿景。这标志着英伟达在AI算力领域的野心不止于当前产品，而是着眼于未来十年甚至更远。新芯片将推动AI性能达到新高度，为更复杂的模型和应用提供基础。",
     "category": "llm"
+  },
+  {
+    "id": "52d7c28e8ca49568f9a51deb3d0bd132",
+    "title_en": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+    "published_at": "2026-06-03T19:53:14.000Z",
+    "fetched_at": "2026-06-04T02:47:03.144Z",
+    "title_zh": "Dashlane密码库被盗通知令人困惑？你不是一个人",
+    "summary_zh": "密码管理器Dashlane向用户发送了关于其密码库可能被盗的通知，但通知内容含糊不清，引发大量用户困惑。安全专家指出，该通知缺乏关键细节，如攻击时间、影响范围及具体应对措施，导致用户难以判断风险。此事件凸显了安全公司在事件响应和用户沟通方面的不足。",
+    "category": "industry"
   },
   {
     "id": "9ff9980e7b97d2e9e656a6628393415e",
@@ -537,6 +603,105 @@
     "title_zh": "Squarespace促销码：2026年6月享20%折扣",
     "summary_zh": "网站建设平台Squarespace在2026年6月推出促销活动，使用优惠码可享20%折扣。适用于域名注册、网站托管及电商套餐等。适合个人创业者和小企业主搭建在线业务。",
     "category": "product"
+  },
+  {
+    "id": "dac7f7fc54e2ac9b9b77f63a1d7b5f0c",
+    "title_en": "Sweet revenge for sacked Mamamia star as axe falls on podcast division and insiders warn of 'Shameless-style' mistake: INSIDE MAIL",
+    "source": "Dailymail.com",
+    "url": "https://www.dailymail.com/news/article-15869263/Sweet-revenge-sacked-Mamamia-star-Claire-Murphy-Shameless-podcasts.html",
+    "published_at": "2026-06-03T02:42:55Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "被解雇的Mamamia明星复仇：播客部门被砍，内部警告重蹈覆辙",
+    "summary_zh": "澳大利亚媒体公司Mamamia解雇一名明星员工后，其播客部门被整体裁撤。内部人士警告此举可能重蹈此前知名播客'Shameless'的覆辙，导致人才流失和品牌受损。事件揭示了媒体公司在内容转型和人员管理上的激烈冲突。",
+    "category": "industry"
+  },
+  {
+    "id": "1b0d8559840e415467a99092f50cd4bc",
+    "title_en": " Rout in the first leg: Junior thrash Nacional in Barranquilla",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/rout-in-the-first-leg-junior-thrash-nacional-in-barranquilla-42958352",
+    "published_at": "2026-06-03T02:41:00Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "首回合惨败：青年体育在巴兰基亚大胜民族竞技",
+    "summary_zh": "在解放者杯首回合较量中，哥伦比亚青年体育队主场以压倒性优势击败乌拉圭民族竞技队，取得关键胜利。比赛在巴兰基亚大都会球场进行，青年体育凭借出色进攻和稳固防守完全掌控局面，为晋级奠定坚实基础。民族竞技队则需在次回合全力反扑。",
+    "category": "industry"
+  },
+  {
+    "id": "bec6a16b9c41081c2c15c890b822e15c",
+    "title_en": "No doctor should earn below N1m monthly – OOUTH ARD",
+    "source": "The Punch",
+    "url": "https://punchng.com/no-doctor-should-earn-below-n1m-monthly-oouth-ard-2/",
+    "published_at": "2026-06-03T02:39:27Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "OOUTH ARD：医生月薪不应低于100万奈拉",
+    "summary_zh": "奥卢索拉·奥巴桑乔大学教学医院（OOUTH）学术人员代表委员会（ARD）呼吁政府提高医生薪酬，认为任何医生月薪都不应低于100万奈拉。该组织指出当前薪资水平无法匹配医生工作强度与专业价值，导致人才流失和医疗系统压力加剧，要求立即调整薪资结构。",
+    "category": "industry"
+  },
+  {
+    "id": "7262c0bf56848839477c973bca4dd4fe",
+    "title_en": "Bitcoin Crash Explained: Binance Research Blames Outflows Toward US Equities",
+    "source": "newsBTC",
+    "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-crash-explained-binance-research-blames-outflows-toward-us-equities/",
+    "published_at": "2026-06-03T02:30:57Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "比特币暴跌解析：币安研究归因于资金流向美股",
+    "summary_zh": "币安研究发布报告指出，近期比特币价格大幅下跌的主要原因是资金从加密市场持续流向美国股市。随着美股屡创新高，投资者风险偏好转移，导致比特币等数字资产遭遇抛售。分析认为，宏观经济因素和监管不确定性也加剧了市场波动，短期内比特币或将继续承压。",
+    "category": "industry"
+  },
+  {
+    "id": "40b30f509729408aa8d9122c631afa2b",
+    "title_en": "Tokyo's Nikkei 225 index tops 68,000 for the 1st time as Wall Street logs more records",
+    "source": "seattlepi.com",
+    "url": "https://www.seattlepi.com/business/article/tokyo-s-nikkei-225-index-tops-68-000-for-the-1st-22288733.php",
+    "published_at": "2026-06-03T02:22:17Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "日经225指数首破68000点，美股再创新高",
+    "summary_zh": "东京股市日经225指数首次突破68000点大关，创历史新高，跟随华尔街强劲涨势。美股三大指数同步刷新纪录，科技股和金融股领涨。市场对全球经济复苏预期增强，加上日本央行宽松政策持续，推动资金涌入股市。分析师警告需关注通胀数据和地缘政治风险。",
+    "category": "industry"
+  },
+  {
+    "id": "d4cabd493609411faa60e79e79cb9914",
+    "title_en": "Trump signs executive order to vet top AI models for national security risks",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/world/trump-signs-executive-order-to-vet-top-ai-models-for-national-security-risks/article71055273.ece",
+    "published_at": "2026-06-03T02:17:33Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "特朗普签署行政令：审查顶级AI模型国家安全风险",
+    "summary_zh": "美国前总统特朗普签署行政命令，要求对顶级人工智能模型进行国家安全风险评估。该命令旨在防止AI技术被用于恶意目的，包括网络攻击、虚假信息传播和关键基础设施破坏。政府将成立专门委员会，对大型语言模型等前沿AI系统进行安全审查，并制定相应监管框架。此举引发科技界对创新受限的担忧。",
+    "category": "llm"
+  },
+  {
+    "id": "c0726aa56a220c54652d6bb563a80787",
+    "title_en": "Asian Stocks Rise to Record, Yen Trades Near 160: Markets Wrap",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-rise-to-record-yen-trades-near-160-markets-wrap",
+    "published_at": "2026-06-03T02:14:36Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "亚洲股市创新高，日元逼近160关口：市场综述",
+    "summary_zh": "亚洲股市普遍上涨，多个指数创下历史新高，受全球风险偏好提升推动。日元汇率持续走弱，兑美元逼近160大关，引发市场对日本央行可能干预的猜测。日本出口企业受益于日元贬值，但进口成本上升令经济承压。投资者关注即将公布的各国通胀数据及央行政策动向。",
+    "category": "industry"
+  },
+  {
+    "id": "8d4e6ebafee8d52b909869dbe5340d24",
+    "title_en": "Numbers assigned: Mexico's squad numbers for the World Cup",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/numbers-assigned-mexicos-squad-numbers-for-the-world-cup-42958321",
+    "published_at": "2026-06-03T02:14:00Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "号码确定：墨西哥队世界杯球衣号码公布",
+    "summary_zh": "墨西哥国家队正式公布了参加2026年世界杯的球员球衣号码。核心球员洛萨诺将身披22号，老将奥乔亚继续穿1号门将球衣。号码分配体现了教练组对球员角色和战术定位的考量，年轻新秀也获得了重要号码。墨西哥队将在世界杯小组赛中面对强劲对手，球迷期待球队取得突破。",
+    "category": "industry"
+  },
+  {
+    "id": "d1af6d920b181169473642798c5a45e4",
+    "title_en": "With Champions League trio, Brazil begin Copa prep in the US",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/with-champions-league-trio-brazil-begin-copa-prep-in-the-us-42958305",
+    "published_at": "2026-06-03T02:04:00Z",
+    "fetched_at": "2026-06-04T02:47:04.075Z",
+    "title_zh": "携欧冠三将，巴西队在美国开启美洲杯备战",
+    "summary_zh": "巴西国家队在美国开始备战即将到来的美洲杯，三名效力于欧冠决赛球队的球员归队。主教练蒂特征召了维尼修斯、罗德里戈等核心球员，球队将在美国进行多场热身赛。巴西队被视为夺冠热门，阵容深度和战术灵活性是最大优势。美洲杯将于6月在美国多个城市举行。",
+    "category": "industry"
   },
   {
     "id": "c6e072e9099dc22f709de8d1d57cc674",
@@ -5333,170 +5498,5 @@
     "title_zh": "Oculus 创始人创立的对话 AI 公司 Sesame 推出 iOS 应用",
     "summary_zh": "由 Oculus 创始人创办的对话式 AI 初创公司 Sesame 正式发布其 iOS 应用。该应用主打自然流畅的语音交互体验，旨在成为用户日常生活中的智能助手。Sesame 的推出标志着 VR/AR 领域资深创业者向 AI 语音赛道进军，有望带来全新的交互范式。",
     "category": "product"
-  },
-  {
-    "id": "9c3937af687192d664b37c317991ec70",
-    "title_en": "Call of Duty: Modern Warfare 4 is out in October, and it&#8217;s coming to the Switch 2",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/939001/call-of-duty-modern-warfare-4-release-date-trailer-switch-2",
-    "published_at": "2026-05-28T15:32:52.000Z",
-    "fetched_at": "2026-05-28T20:06:31.197Z",
-    "title_zh": "《使命召唤：现代战争4》十月发售，同步登陆Switch 2",
-    "summary_zh": "动视宣布《使命召唤：现代战争4》将于今年10月正式发售，并首次登陆任天堂Switch 2平台。这标志着该系列在任天堂主机上的重要突破，预计将吸引更多跨平台玩家。游戏将延续现代战争系列的硬核风格，并针对Switch 2的硬件特性进行优化。",
-    "category": "product"
-  },
-  {
-    "id": "1936d9016cf68db273848c40ae344841",
-    "title_en": "The secret to Roku’s success: not being cool",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool",
-    "published_at": "2026-05-28T15:30:00.000Z",
-    "fetched_at": "2026-05-28T20:06:31.197Z",
-    "title_zh": "Roku成功的秘诀：不追求酷炫",
-    "summary_zh": "Roku凭借其低调务实的产品策略，在流媒体设备市场取得了巨大成功。与竞争对手追求高端设计和功能不同，Roku专注于提供简单易用、价格亲民的体验，从而赢得了大量用户。这种“不酷”的定位反而成为其核心竞争力。",
-    "category": "industry"
-  },
-  {
-    "id": "edfb8ce0feccc139d7f637acc0d0bbef",
-    "title_en": "Waymo to begin passenger rides in its new Ojai robotaxi",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips",
-    "published_at": "2026-05-28T15:00:00.000Z",
-    "fetched_at": "2026-05-28T15:29:42.859Z",
-    "title_zh": "Waymo全新Ojai机器人出租车开始载客运营",
-    "summary_zh": "Waymo宣布其最新款机器人出租车Ojai正式投入商业运营，开始在指定区域提供无人驾驶载客服务。该车型采用升级的传感器套件和AI算法，旨在提升安全性和乘坐体验，进一步推动自动驾驶出行普及。",
-    "category": "product"
-  },
-  {
-    "id": "d159f18651cbbddb693b0b586b54ae5f",
-    "title_en": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
-    "published_at": "2026-05-28T15:00:00.000Z",
-    "fetched_at": "2026-05-28T15:29:43.031Z",
-    "title_zh": "Waymo推出中国制造新Robotaxi：Ojai",
-    "summary_zh": "Waymo发布了其最新款自动驾驶出租车Ojai，该车型由中国制造。Ojai旨在进一步降低自动驾驶出行成本，并提升运营效率。此举标志着Waymo在全球化供应链和自动驾驶商业化落地上的新进展。",
-    "category": "product"
-  },
-  {
-    "id": "37174646f356943dd1dbed3dd87eba63",
-    "title_en": "This sound card could give gamers a competitive edge",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/938861/fosi-audio-c3-gaming-sound-card-headphone-app-fps-audio-boost",
-    "published_at": "2026-05-28T14:55:23.000Z",
-    "fetched_at": "2026-05-28T15:29:42.859Z",
-    "title_zh": "这款声卡能为游戏玩家带来竞技优势",
-    "summary_zh": "一款新型游戏声卡宣称可通过增强音频定位和降噪技术，为玩家提供竞技优势。该设备利用AI算法实时优化声音细节，帮助玩家更精准地判断敌人位置，成为电竞装备的新选择。",
-    "category": "product"
-  },
-  {
-    "id": "304a2c75f0d6a652a8ba19204a342a97",
-    "title_en": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-    "published_at": "2026-05-28T14:45:13.000Z",
-    "fetched_at": "2026-05-28T15:29:42.819Z",
-    "title_zh": "新Siri应用预览曝光：苹果计划正面迎战ChatGPT",
-    "summary_zh": "据最新泄露信息，苹果正在开发一款全新的Siri应用，旨在与ChatGPT等AI助手竞争。该应用将集成更强大的自然语言处理能力，并可能支持多模态交互，标志着苹果在AI领域的重大战略升级。",
-    "category": "product"
-  },
-  {
-    "id": "5dd8b5fd7446d54ace18a9ec917c84cc",
-    "title_en": "These new iOS 27 renders hint at Siri’s big redesign",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
-    "published_at": "2026-05-28T14:33:31.000Z",
-    "fetched_at": "2026-05-28T15:29:42.859Z",
-    "title_zh": "iOS 27渲染图曝光：Siri迎来重大界面 redesign",
-    "summary_zh": "最新泄露的iOS 27渲染图显示，Siri将迎来全新界面设计，采用更沉浸式的交互方式和更强大的AI功能。新Siri可能支持更自然的对话和跨应用操作，标志着苹果语音助手的重大升级。",
-    "category": "product"
-  },
-  {
-    "id": "d5eaa9dc61e76df1e57291a91c64fe25",
-    "title_en": "Nvidia CEO Jensen Huang hosts trillion-dollar dinner for Taiwan AI suppliers",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260528PD242/chairman-ceo-nvidia-jensen-huang-taiwan.html",
-    "published_at": "2026-05-28T14:32:16Z",
-    "fetched_at": "2026-05-29T14:41:22.447Z",
-    "title_zh": "英伟达 CEO 黄仁勋设万亿晚宴，款待台湾 AI 供应链伙伴",
-    "summary_zh": "英伟达 CEO 黄仁勋在台湾举办高端晚宴，宴请当地 AI 供应链重要供应商，彰显其对台湾半导体及硬件生态的重视。此举不仅巩固了英伟达在 AI 芯片领域的领导地位，也凸显了全球 AI 产业链对台湾制造能力的深度依赖。",
-    "category": "industry"
-  },
-  {
-    "id": "ad5658338f27de3def9164f77e72a8ef",
-    "title_en": "RSI is the new AGI — and it’s just as hard to pin down",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-    "published_at": "2026-05-28T14:30:17.000Z",
-    "fetched_at": "2026-05-28T15:29:42.820Z",
-    "title_zh": "RSI成新AGI：同样难以定义和实现",
-    "summary_zh": "文章探讨了RSI（递归自我改进）作为AGI（通用人工智能）新方向的概念。RSI旨在让AI系统自主改进自身能力，但面临与AGI类似的定义模糊和实现困难问题，引发学界对AI发展路径的重新思考。",
-    "category": "research"
-  },
-  {
-    "id": "ee01ea287935366ad67fc8b63c7bd9b8",
-    "title_en": "OpenAI, Anthropic among key names eyeing summer IPOs amid economic challenges",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/openai-anthropic-summer-ipos-stagflation/",
-    "published_at": "2026-05-28T14:30:09Z",
-    "fetched_at": "2026-05-29T14:41:22.447Z",
-    "title_zh": "OpenAI、Anthropic 等 AI 巨头考虑夏季 IPO，经济挑战下寻求上市",
-    "summary_zh": "据报道，OpenAI 和 Anthropic 等 AI 头部公司正考虑在夏季进行首次公开募股（IPO），尽管面临宏观经济挑战。此举表明 AI 行业正加速资本化进程，通过公开市场融资以支持大规模模型研发和商业化扩张，可能成为今年科技领域最受关注的上市事件。",
-    "category": "industry"
-  },
-  {
-    "id": "23e85e828e10f291ad9a8ddb31756a25",
-    "title_en": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-    "published_at": "2026-05-28T14:30:00.000Z",
-    "fetched_at": "2026-05-28T15:29:42.820Z",
-    "title_zh": "TechCrunch Disrupt 2026：Databricks联合创始人揭秘企业AI交易失败原因",
-    "summary_zh": "在TechCrunch Disrupt 2026大会上，Databricks联合创始人分享了企业AI项目失败的常见原因，包括数据质量不足、缺乏明确业务目标以及技术集成困难。他强调成功的关键在于将AI与具体业务场景深度结合。",
-    "category": "industry"
-  },
-  {
-    "id": "3e16c502cc5c015a40eb9672ac33759e",
-    "title_en": "First Trailer for Fully AI-Generated Movie ‘Dreams of Violets,’ Premiering at Tribeca",
-    "source": "TheWrap",
-    "url": "https://www.thewrap.com/creative-content/movies/ai-movie-trailer-dreams-of-violets-iran-tribeca/",
-    "published_at": "2026-05-28T14:29:54Z",
-    "fetched_at": "2026-05-29T14:41:22.447Z",
-    "title_zh": "全 AI 生成电影《紫罗兰之梦》首支预告片发布，将在翠贝卡电影节首映",
-    "summary_zh": "完全由 AI 生成的电影《紫罗兰之梦》发布首支预告片，并宣布将在翠贝卡电影节全球首映。该片标志着 AI 在影视创作领域的重大突破，从剧本到画面均由 AI 完成，引发关于 AI 艺术创作边界、版权及行业未来的广泛讨论。",
-    "category": "product"
-  },
-  {
-    "id": "1b9a0de6f2df023b556780d702eab10c",
-    "title_en": "Ragic's New AI Agent Puts Enterprise-Grade Automation in the Hands of Non-Technical Teams",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/05/28/3303036/0/en/Ragic-s-New-AI-Agent-Puts-Enterprise-Grade-Automation-in-the-Hands-of-Non-Technical-Teams.html",
-    "published_at": "2026-05-28T14:29:00Z",
-    "fetched_at": "2026-05-29T14:41:22.447Z",
-    "title_zh": "Ragic 推出新 AI 代理，让非技术团队也能实现企业级自动化",
-    "summary_zh": "Ragic 发布全新 AI 代理工具，旨在让非技术团队无需编程即可构建企业级自动化流程。该产品通过自然语言交互和可视化配置，降低了企业数字化转型的门槛，使业务人员能直接利用 AI 优化工作流，提升运营效率。",
-    "category": "product"
-  },
-  {
-    "id": "d777877b55cd30858d5d7f9aff21df76",
-    "title_en": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-    "published_at": "2026-05-28T14:28:47.000Z",
-    "fetched_at": "2026-05-28T15:29:42.820Z",
-    "title_zh": "YouTube推出播客新功能：AI推荐工具与自动变速播放",
-    "summary_zh": "YouTube为播客创作者和听众新增多项功能，包括基于AI的智能推荐系统，帮助用户发现感兴趣的内容；以及“自动速度”功能，可根据内容动态调整播放速度，提升收听体验。",
-    "category": "product"
-  },
-  {
-    "id": "768134b389d94046bdce1c4ad89defe1",
-    "title_en": "NVIDIA Stock Edges Higher to $212.63 as AI Demand Powers Continued Market Leadership in 2026",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/nvidia-ai-dominance-stock-growth-1869666",
-    "published_at": "2026-05-28T14:28:06Z",
-    "fetched_at": "2026-05-29T14:41:22.447Z",
-    "title_zh": "英伟达股价微涨至 212.63 美元，AI 需求持续推动 2026 年市场领导地位",
-    "summary_zh": "英伟达股价小幅上涨至 212.63 美元，反映出市场对其在 AI 领域持续领先地位的信心。随着 AI 算力需求在 2026 年依然强劲，英伟达凭借 GPU 和 AI 芯片的垄断性优势，继续引领科技股表现，成为投资者关注的焦点。",
-    "category": "industry"
   }
 ]
