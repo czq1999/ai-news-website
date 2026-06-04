@@ -34,5 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# runtime-mutable favorites (written by API route, must not be overwritten by git pull)
+data/favorites.json
 .superpowers/
 .worktrees/

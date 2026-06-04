@@ -121,7 +121,15 @@ async function main() {
     }
 
     console.log('\nMerging...');
-    const merged = mergeArticles(existing, translated).map(normalizeArticle);
+    let pinnedArticleIds = new Set<string>();
+    try {
+      const favPath = join(process.cwd(), 'data/favorites.json');
+      const favData = JSON.parse(readFileSync(favPath, 'utf8')) as { articles?: string[] };
+      if (Array.isArray(favData.articles)) pinnedArticleIds = new Set(favData.articles);
+    } catch {
+      // favorites.json absent — no pinned protection needed
+    }
+    const merged = mergeArticles(existing, translated, pinnedArticleIds).map(normalizeArticle);
 
     // Final validation before write
     const validatedMerged = merged.filter((a) => {

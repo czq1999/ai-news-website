@@ -11,7 +11,7 @@ interface HeaderProps {
 
 export default function Header({ onToggleMenu, menuOpen }: HeaderProps) {
   const router = useRouter();
-  const { favorites } = useFavorites();
+  const { favorites, blogFavorites } = useFavorites();
 
   return (
     <header className="site-header">
@@ -61,7 +61,7 @@ export default function Header({ onToggleMenu, menuOpen }: HeaderProps) {
             href="/favorites"
             className={`header-meta-link${router.pathname === '/favorites' ? ' active' : ''}`}
           >
-            收藏 <span>{favorites.length}</span>
+            收藏 <span>{favorites.length + blogFavorites.length}</span>
           </Link>
           <Link
             href="/trending"

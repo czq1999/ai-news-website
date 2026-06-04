@@ -49,4 +49,17 @@ describe('mergeBlogs', () => {
   it('returns empty array when both inputs are empty', () => {
     expect(mergeBlogs([], [])).toEqual([]);
   });
+
+  it('preserves pinned blogs even when over the limit', () => {
+    const existing = Array.from({ length: 200 }, (_, i) =>
+      makeBlog(`e${i}`, '2026-05-22T08:00:00Z')
+    );
+    // pinned blog has older date, would normally be dropped
+    const pinned = makeBlog('pinned', '2020-01-01T00:00:00Z');
+    existing.push(pinned);
+    const pinnedIds = new Set(['pinned']);
+    const result = mergeBlogs(existing, [], pinnedIds);
+    expect(result.some((b) => b.id === 'pinned')).toBe(true);
+    expect(result).toHaveLength(200);
+  });
 });

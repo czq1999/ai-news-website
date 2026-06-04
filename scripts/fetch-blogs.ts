@@ -281,7 +281,15 @@ export async function fetchAndSaveBlogs(): Promise<void> {
   }
 
   console.log('\nMerging blogs...');
-  const merged = mergeBlogs(existing, translated);
+  let pinnedBlogIds = new Set<string>();
+  try {
+    const favPath = path.join(process.cwd(), 'data/favorites.json');
+    const favData = JSON.parse(readFileSync(favPath, 'utf8')) as { blogs?: string[] };
+    if (Array.isArray(favData.blogs)) pinnedBlogIds = new Set(favData.blogs);
+  } catch {
+    // favorites.json absent — no pinned protection needed
+  }
+  const merged = mergeBlogs(existing, translated, pinnedBlogIds);
 
   const validated = merged.filter((b) => {
     const res = BlogSchema.safeParse(b);

@@ -45,4 +45,17 @@ describe('mergeArticles', () => {
     const result = mergeArticles(existing, incoming);
     expect(result).toHaveLength(500);
   });
+
+  it('preserves pinned articles even when over the limit', () => {
+    const existing = Array.from({ length: 500 }, (_, i) =>
+      makeArticle(`e${i}`, '2026-03-24T08:00:00Z')
+    );
+    // pinned article has older date, would normally be dropped
+    const pinned = makeArticle('pinned', '2020-01-01T00:00:00Z');
+    existing.push(pinned);
+    const pinnedIds = new Set(['pinned']);
+    const result = mergeArticles(existing, [], pinnedIds);
+    expect(result.some((a) => a.id === 'pinned')).toBe(true);
+    expect(result).toHaveLength(500);
+  });
 });
