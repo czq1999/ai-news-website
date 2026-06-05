@@ -198,6 +198,44 @@ export async function fetchAndSaveTrending(): Promise<void> {
   const newDay: TrendingDay = { date: today, summary_zh, projects };
 
   const merged = mergeTrendingDay(existing, newDay);
+
+  // Retroactively translate any historical entries missing description_zh
+  const missingProjects = merged.days
+    .filter((d) => d.date !== today)
+    .flatMap((d) => d.projects.filter((p) => !p.description_zh));
+
+  if (missingProjects.length > 0) {
+    console.log(
+      `  Retranslating ${missingProjects.length} historical entries missing description_zh...`
+    );
+    const retroMap = await translateDescriptions(
+      missingProjects.map((p) => ({
+        rank: p.rank,
+        name: p.name,
+        url: p.url,
+        description_en: p.description_en,
+        language: p.language,
+        stars_total: p.stars_total,
+        stars_today: p.stars_today,
+      })),
+      apiKey
+    );
+    if (retroMap.size > 0) {
+      for (const day of merged.days) {
+        for (const p of day.projects) {
+          if (!p.description_zh && retroMap.has(p.name)) {
+            p.description_zh = retroMap.get(p.name)!;
+          }
+        }
+      }
+      console.log(`  Retroactive translation complete: ${retroMap.size} entries updated.`);
+    } else {
+      console.warn(
+        '  Retroactive translation failed; historical descriptions remain untranslated.'
+      );
+    }
+  }
+
   const tmpPath = `${trendingPath}.tmp`;
   writeFileSync(tmpPath, JSON.stringify(merged, null, 2));
   renameSync(tmpPath, trendingPath);
