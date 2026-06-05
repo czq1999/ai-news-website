@@ -84,9 +84,12 @@ async function translateDescriptions(
   apiKey: string
 ): Promise<Map<string, string>> {
   const items = projects.map((p) => ({ name: p.name, description: p.description_en }));
-  const prompt = `Translate these GitHub project descriptions to Chinese. Return ONLY a JSON array. Each object must have exactly "name" and "description_zh" fields.
+  const prompt = `Translate these GitHub project descriptions to Chinese. Return ONLY a JSON array with no markdown wrapping. Each object must have exactly "name" (unchanged) and "description_zh" (Chinese translation) fields.
 
-Projects:
+Example output format:
+[{"name": "owner/repo", "description_zh": "中文描述"}]
+
+Projects to translate:
 ${JSON.stringify(items, null, 2)}`;
 
   const maxAttempts = 3;
@@ -95,8 +98,12 @@ ${JSON.stringify(items, null, 2)}`;
       const output = await callDeepSeek(prompt, apiKey, 4096);
       const jsonMatch = output.match(/\[[\s\S]*\]/);
       if (!jsonMatch) throw new Error('No JSON array in response');
-      const results = JSON.parse(jsonMatch[0]) as Array<{ name: string; description_zh: string }>;
-      return new Map(results.map((r) => [r.name, r.description_zh ?? '']));
+      const results = JSON.parse(jsonMatch[0]) as Array<{
+        name: string;
+        description_zh?: string;
+        description?: string;
+      }>;
+      return new Map(results.map((r) => [r.name, r.description_zh ?? r.description ?? '']));
     } catch (err) {
       console.error(`  Translation attempt ${attempt}/${maxAttempts} failed:`, err);
       if (attempt < maxAttempts) await new Promise((r) => setTimeout(r, 5000 * attempt));
@@ -199,10 +206,8 @@ export async function fetchAndSaveTrending(): Promise<void> {
 
   const merged = mergeTrendingDay(existing, newDay);
 
-  // Retroactively translate any historical entries missing description_zh
-  const missingProjects = merged.days
-    .filter((d) => d.date !== today)
-    .flatMap((d) => d.projects.filter((p) => !p.description_zh));
+  // Retroactively translate any entries (including today) missing description_zh
+  const missingProjects = merged.days.flatMap((d) => d.projects.filter((p) => !p.description_zh));
 
   if (missingProjects.length > 0) {
     console.log(
