@@ -89,12 +89,20 @@ async function translateDescriptions(
 Projects:
 ${JSON.stringify(items, null, 2)}`;
 
-  const output = await callDeepSeek(prompt, apiKey, 4096);
-  const jsonMatch = output.match(/\[[\s\S]*\]/);
-  if (!jsonMatch) return new Map();
-
-  const results = JSON.parse(jsonMatch[0]) as Array<{ name: string; description_zh: string }>;
-  return new Map(results.map((r) => [r.name, r.description_zh ?? '']));
+  const maxAttempts = 3;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    try {
+      const output = await callDeepSeek(prompt, apiKey, 4096);
+      const jsonMatch = output.match(/\[[\s\S]*\]/);
+      if (!jsonMatch) throw new Error('No JSON array in response');
+      const results = JSON.parse(jsonMatch[0]) as Array<{ name: string; description_zh: string }>;
+      return new Map(results.map((r) => [r.name, r.description_zh ?? '']));
+    } catch (err) {
+      console.error(`  Translation attempt ${attempt}/${maxAttempts} failed:`, err);
+      if (attempt < maxAttempts) await new Promise((r) => setTimeout(r, 5000 * attempt));
+    }
+  }
+  return new Map();
 }
 
 async function generateSummary(projects: RawTrendingProject[], apiKey: string): Promise<string> {
@@ -135,41 +143,59 @@ export async function fetchAndSaveTrending(): Promise<void> {
   const rawProjects = parseTrendingProjects(html);
   console.log(`  Parsed ${rawProjects.length} trending projects`);
 
-  console.log('  Translating descriptions...');
-  let descMap = new Map<string, string>();
-  try {
-    descMap = await translateDescriptions(rawProjects, apiKey);
-  } catch (err) {
-    console.error('  Description translation failed:', err);
-  }
-
-  console.log('  Generating summary...');
-  let summary_zh = '今日 GitHub Trending 项目精选。';
-  try {
-    summary_zh = await generateSummary(rawProjects, apiKey);
-  } catch (err) {
-    console.error('  Summary generation failed:', err);
-  }
-
   const today = new Date().toISOString().slice(0, 10);
-  const projects: TrendingProject[] = rawProjects
-    .map((p) => ({ ...p, description_zh: descMap.get(p.name) ?? '' }))
-    .sort((a, b) => b.stars_today - a.stars_today)
-    .map((p, i) => ({ ...p, rank: i + 1 }));
-
-  const newDay: TrendingDay = { date: today, summary_zh, projects };
 
   let existing: TrendingData = { days: [] };
   if (existsSync(trendingPath)) {
     try {
       const parsed = JSON.parse(readFileSync(trendingPath, 'utf8'));
-      if (parsed && Array.isArray(parsed.days)) {
-        existing = parsed as TrendingData;
-      }
-    } catch (err) {
-      console.warn('  Could not parse existing trending.json, starting fresh:', err);
+      if (parsed && Array.isArray(parsed.days)) existing = parsed as TrendingData;
+    } catch {
+      // ignore parse error
     }
   }
+  const existingDay = existing.days.find((d) => d.date === today);
+  const existingDescMap = new Map(
+    (existingDay?.projects ?? [])
+      .filter((p) => p.description_zh)
+      .map((p) => [p.name, p.description_zh])
+  );
+
+  const untranslated = rawProjects.filter((p) => !existingDescMap.has(p.name));
+  let descMap = new Map<string, string>();
+  if (untranslated.length > 0) {
+    console.log(
+      `  Translating ${untranslated.length} new descriptions (${rawProjects.length - untranslated.length} reused)...`
+    );
+    descMap = await translateDescriptions(untranslated, apiKey);
+    if (descMap.size === 0 && untranslated.length > 0) {
+      console.warn('  Translation failed; reusing existing Chinese descriptions from stored data.');
+    }
+  } else {
+    console.log('  All descriptions already translated, skipping API call.');
+  }
+
+  const translationSucceeded = untranslated.length === 0 || descMap.size >= untranslated.length;
+
+  console.log('  Generating summary...');
+  let summary_zh = existingDay?.summary_zh || '今日 GitHub Trending 项目精选。';
+  if (!existingDay?.summary_zh || translationSucceeded) {
+    try {
+      summary_zh = await generateSummary(rawProjects, apiKey);
+    } catch (err) {
+      console.error('  Summary generation failed:', err);
+    }
+  }
+
+  const projects: TrendingProject[] = rawProjects
+    .map((p) => ({
+      ...p,
+      description_zh: descMap.get(p.name) || existingDescMap.get(p.name) || '',
+    }))
+    .sort((a, b) => b.stars_today - a.stars_today)
+    .map((p, i) => ({ ...p, rank: i + 1 }));
+
+  const newDay: TrendingDay = { date: today, summary_zh, projects };
 
   const merged = mergeTrendingDay(existing, newDay);
   const tmpPath = `${trendingPath}.tmp`;
