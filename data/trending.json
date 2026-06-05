@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-05",
-      "summary_zh": "今日GitHub热门项目聚焦AI效率工具、智能体开发、物理AI平台及OCR技术，涵盖模型压缩、语音交互、面试准备与规范驱动开发。",
+      "summary_zh": "今日GitHub热门项目聚焦AI效率工具与多模态应用，涵盖令牌压缩、OCR文档解析、物理AI平台及语音交互，同时包含面试学习与开发规范工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/chopratejas/headroom",
           "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
           "language": "Python",
-          "stars_total": 12710,
+          "stars_total": 13616,
           "stars_today": 3142,
           "description_zh": "在工具输出、日志、文件和RAG分块到达LLM之前对其进行压缩。可减少60-95%的令牌，答案不变。提供库、代理、MCP服务器。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 181138,
+          "stars_total": 181723,
           "stars_today": 1913,
           "description_zh": "与你一同成长的智能体"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 207341,
+          "stars_total": 207754,
           "stars_today": 1750,
           "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全及研究优先的开发支持。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/jwasham/coding-interview-university",
           "description_en": "A complete computer science study plan to become a software engineer.",
           "language": "",
-          "stars_total": 349775,
+          "stars_total": 350048,
           "stars_today": 632,
           "description_zh": "一份完整的计算机科学学习计划，助你成为软件工程师。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
           "description_en": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
           "language": "Python",
-          "stars_total": 9656,
+          "stars_total": 9845,
           "stars_today": 581,
           "description_zh": "与任何LLM进行免提语音交互、语音打断，并支持跨平台本地运行的Live2D面部捕捉。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/openclaw/openclaw-windows-node",
           "description_en": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
           "language": "C#",
-          "stars_total": 1356,
+          "stars_total": 1442,
           "stars_today": 411,
           "description_zh": "OpenClaw的Windows配套套件——包含系统托盘应用、共享库、Node模块及PowerToys命令面板扩展。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/github/spec-kit",
           "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
           "language": "Python",
-          "stars_total": 108624,
+          "stars_total": 108863,
           "stars_today": 321,
           "description_zh": "💫 帮助你快速上手规范驱动开发的工具包"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/reconurge/flowsint",
           "description_en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
           "language": "TypeScript",
-          "stars_total": 5333,
+          "stars_total": 5450,
           "stars_today": 308,
           "description_zh": "一个现代化的可视化、灵活且可扩展的基于图的调查平台。专为网络安全分析师和调查人员设计。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/aquasecurity/trivy",
           "description_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
           "language": "Go",
-          "stars_total": 35680,
+          "stars_total": 35745,
           "stars_today": 255,
           "description_zh": "在容器、Kubernetes、代码仓库、云环境等中查找漏洞、错误配置、密钥和SBOM。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/lfnovo/open-notebook",
           "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
           "language": "TypeScript",
-          "stars_total": 25135,
+          "stars_total": 25438,
           "stars_today": 212,
           "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_total": 27640,
+          "stars_total": 27916,
           "stars_today": 199,
           "description_zh": "AI智能体技能，可跨Reddit、X、YouTube、HN、Polymarket及网络研究任何主题，并综合生成有依据的摘要。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/PaddlePaddle/PaddleOCR",
           "description_en": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
           "language": "Python",
-          "stars_total": 79940,
+          "stars_total": 80219,
           "stars_today": 141,
           "description_zh": "将任何PDF或图像文档转化为可供AI使用的结构化数据。一个强大轻量的OCR工具包，弥合图像/PDF与LLM之间的鸿沟。支持100+种语言。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/NVIDIA/cosmos",
           "description_en": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
           "language": "Jupyter Notebook",
-          "stars_total": 9057,
+          "stars_total": 9218,
           "stars_today": 133,
           "description_zh": "NVIDIA Cosmos是一个开放的世界模型、数据集和工具平台，使开发者能够为机器人、自动驾驶汽车、智能基础设施等构建物理AI。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/github/copilot-sdk",
           "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
           "language": "Java",
-          "stars_total": 8999,
+          "stars_total": 9086,
           "stars_today": 38,
           "description_zh": "用于将GitHub Copilot Agent集成到应用和服务中的多平台SDK。"
         }
