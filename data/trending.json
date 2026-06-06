@@ -2,47 +2,47 @@
   "days": [
     {
       "date": "2026-06-06",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理生态：智能体成长框架、工具压缩优化、多平台数据采集引擎，以及物理世界模型与OCR文档结构化工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理生态，涵盖多平台信息聚合、前端交互框架、开源记忆系统及个人AI基础设施，同时包含安全扫描与Web开发工具。",
       "projects": [
         {
           "rank": 1,
-          "name": "chopratejas/headroom",
-          "url": "https://github.com/chopratejas/headroom",
-          "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-          "language": "Python",
-          "stars_total": 14905,
-          "stars_today": 2473,
-          "description_zh": "在工具输出、日志、文件和RAG分块到达大语言模型前进行压缩。减少60-95%的令牌，答案不变。提供库、代理和MCP服务器。"
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 219298,
+          "stars_today": 1008,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
         {
           "rank": 2,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 183870,
-          "stars_today": 1845,
-          "description_zh": "与你共同成长的智能体"
-        },
-        {
-          "rank": 3,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 208625,
-          "stars_today": 1361,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
-        },
-        {
-          "rank": 4,
           "name": "lfnovo/open-notebook",
           "url": "https://github.com/lfnovo/open-notebook",
           "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
           "language": "TypeScript",
-          "stars_total": 26229,
-          "stars_today": 1152,
+          "stars_total": 26356,
+          "stars_today": 783,
           "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能。"
+        },
+        {
+          "rank": 3,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 21976,
+          "stars_today": 700,
+          "description_zh": "为你的AI智能体赋予浏览整个互联网的能力。通过单一命令行界面，无需API费用即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书。"
+        },
+        {
+          "rank": 4,
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description_en": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+          "language": "TypeScript",
+          "stars_total": 32963,
+          "stars_today": 613,
+          "description_zh": "智能体与生成式UI的前端技术栈。支持React和Angular。AG-UI协议的创造者。"
         },
         {
           "rank": 5,
@@ -50,129 +50,139 @@
           "url": "https://github.com/PaddlePaddle/PaddleOCR",
           "description_en": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
           "language": "Python",
-          "stars_total": 80678,
-          "stars_today": 747,
+          "stars_total": 80763,
+          "stars_today": 449,
           "description_zh": "将任何PDF或图像文档转化为AI可用的结构化数据。一个强大轻量的OCR工具包，弥合图像/PDF与大语言模型之间的鸿沟。支持100多种语言。"
         },
         {
           "rank": 6,
-          "name": "jwasham/coding-interview-university",
-          "url": "https://github.com/jwasham/coding-interview-university",
-          "description_en": "A complete computer science study plan to become a software engineer.",
-          "language": "",
-          "stars_total": 350529,
-          "stars_today": 745,
-          "description_zh": "成为软件工程师的完整计算机科学学习计划。"
-        },
-        {
-          "rank": 7,
           "name": "mvanhorn/last30days-skill",
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_total": 28363,
-          "stars_today": 731,
+          "stars_total": 28451,
+          "stars_today": 441,
           "description_zh": "AI智能体技能，可跨Reddit、X、YouTube、HN、Polymarket及网络研究任意主题，并综合生成有依据的摘要。"
         },
         {
-          "rank": 8,
-          "name": "NVIDIA/cosmos",
-          "url": "https://github.com/NVIDIA/cosmos",
-          "description_en": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-          "language": "Jupyter Notebook",
-          "stars_total": 9511,
-          "stars_today": 479,
-          "description_zh": "NVIDIA Cosmos是一个开放的世界模型、数据集和工具平台，使开发者能够为机器人、自动驾驶汽车、智能基础设施等构建物理AI。"
-        },
-        {
-          "rank": 9,
-          "name": "CopilotKit/CopilotKit",
-          "url": "https://github.com/CopilotKit/CopilotKit",
-          "description_en": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-          "language": "TypeScript",
-          "stars_total": 32865,
-          "stars_today": 366,
-          "description_zh": "智能体与生成式UI的前端技术栈。支持React和Angular。AG-UI协议的创造者。"
-        },
-        {
-          "rank": 10,
-          "name": "openclaw/openclaw-windows-node",
-          "url": "https://github.com/openclaw/openclaw-windows-node",
-          "description_en": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-          "language": "C#",
-          "stars_total": 1648,
-          "stars_today": 326,
-          "description_zh": "OpenClaw的Windows配套套件——包含系统托盘应用、共享库、Node及PowerToys命令面板扩展。"
-        },
-        {
-          "rank": 11,
-          "name": "666ghj/MiroFish",
-          "url": "https://github.com/666ghj/MiroFish",
-          "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-          "language": "Python",
-          "stars_total": 64875,
-          "stars_today": 320,
-          "description_zh": "一个简单通用的群体智能引擎，可预测万物。简洁通用的群体智能引擎，预测万物。"
-        },
-        {
-          "rank": 12,
-          "name": "github/copilot-sdk",
-          "url": "https://github.com/github/copilot-sdk",
-          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-          "language": "Java",
-          "stars_total": 9324,
-          "stars_today": 309,
-          "description_zh": "用于将GitHub Copilot智能体集成到应用和服务中的多平台SDK。"
-        },
-        {
-          "rank": 13,
+          "rank": 7,
           "name": "MemPalace/mempalace",
           "url": "https://github.com/MemPalace/mempalace",
           "description_en": "The best-benchmarked open-source AI memory system. And it's free.",
           "language": "Python",
-          "stars_total": 53998,
-          "stars_today": 227,
+          "stars_total": 54078,
+          "stars_today": 441,
           "description_zh": "基准测试表现最佳的开源AI记忆系统。而且完全免费。"
         },
         {
-          "rank": 14,
-          "name": "aquasecurity/trivy",
-          "url": "https://github.com/aquasecurity/trivy",
-          "description_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-          "language": "Go",
-          "stars_total": 35898,
-          "stars_today": 207,
-          "description_zh": "在容器、Kubernetes、代码仓库、云环境等中查找漏洞、错误配置、密钥和软件物料清单。"
-        },
-        {
-          "rank": 15,
-          "name": "Panniantong/Agent-Reach",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "rank": 8,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description_en": "Open-Source Frontier Voice AI",
           "language": "Python",
-          "stars_total": 21819,
-          "stars_today": 148,
-          "description_zh": "为你的AI智能体赋予浏览整个互联网的能力。通过单一命令行界面，无需API费用即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书。"
+          "stars_total": 48319,
+          "stars_today": 219,
+          "description_zh": "开源前沿语音AI。"
         },
         {
-          "rank": 16,
-          "name": "withastro/flue",
-          "url": "https://github.com/withastro/flue",
-          "description_en": "The sandbox agent framework.",
-          "language": "TypeScript",
-          "stars_total": 4625,
-          "stars_today": 126,
-          "description_zh": "沙盒智能体框架。"
-        },
-        {
-          "rank": 17,
+          "rank": 9,
           "name": "openai/plugins",
           "url": "https://github.com/openai/plugins",
           "description_en": "OpenAI Plugins",
           "language": "JavaScript",
-          "stars_total": 1609,
-          "stars_today": 49,
+          "stars_total": 1645,
+          "stars_today": 215,
           "description_zh": "OpenAI插件"
+        },
+        {
+          "rank": 10,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "language": "JavaScript",
+          "stars_total": 48978,
+          "stars_today": 186,
+          "description_zh": "基于Claude Code的AI驱动求职系统，支持14种技能模式、Go仪表盘、PDF生成与批量处理。"
+        },
+        {
+          "rank": 11,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+          "language": "Go",
+          "stars_total": 35923,
+          "stars_today": 159,
+          "description_zh": "在容器、Kubernetes、代码仓库、云环境等中查找漏洞、错误配置、密钥和软件物料清单。"
+        },
+        {
+          "rank": 12,
+          "name": "sveltejs/svelte",
+          "url": "https://github.com/sveltejs/svelte",
+          "description_en": "web development for the rest of us",
+          "language": "JavaScript",
+          "stars_total": 86864,
+          "stars_today": 158,
+          "description_zh": "面向我们所有人的Web开发框架。"
+        },
+        {
+          "rank": 13,
+          "name": "openai/whisper",
+          "url": "https://github.com/openai/whisper",
+          "description_en": "Robust Speech Recognition via Large-Scale Weak Supervision",
+          "language": "Python",
+          "stars_total": 101696,
+          "stars_today": 116,
+          "description_zh": "通过大规模弱监督实现的鲁棒语音识别。"
+        },
+        {
+          "rank": 14,
+          "name": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "description_en": "Next generation frontend tooling. It's fast!",
+          "language": "TypeScript",
+          "stars_total": 81082,
+          "stars_today": 71,
+          "description_zh": "下一代前端工具链，速度极快！"
+        },
+        {
+          "rank": 15,
+          "name": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "description_en": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "language": "TypeScript",
+          "stars_total": 14800,
+          "stars_today": 63,
+          "description_zh": "用于增强人类能力的智能体AI基础设施。"
+        },
+        {
+          "rank": 16,
+          "name": "microsoft/mxc",
+          "url": "https://github.com/microsoft/mxc",
+          "description_en": "Policy-driven, layered isolation and containment",
+          "language": "Rust",
+          "stars_total": 456,
+          "stars_today": 57,
+          "description_zh": "基于策略的分层隔离与遏制机制。"
+        },
+        {
+          "rank": 17,
+          "name": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "description_en": "The official NGINX Open Source repository.",
+          "language": "C",
+          "stars_total": 30602,
+          "stars_today": 39,
+          "description_zh": "官方NGINX开源代码仓库。"
+        },
+        {
+          "rank": 18,
+          "name": "golang/go",
+          "url": "https://github.com/golang/go",
+          "description_en": "The Go programming language",
+          "language": "Go",
+          "stars_total": 134434,
+          "stars_today": 24,
+          "description_zh": "Go编程语言"
         }
       ]
     },
