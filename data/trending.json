@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-06",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理生态：智能体成长框架、工具压缩优化、多平台数据采集、物理世界模型及群体智能引擎，OCR与笔记工具同步升级。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理生态：智能体成长框架、工具压缩优化、多平台数据采集引擎，以及物理世界模型与OCR文档结构化工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/chopratejas/headroom",
           "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
           "language": "Python",
-          "stars_total": 14568,
+          "stars_total": 14905,
           "stars_today": 2473,
           "description_zh": "在工具输出、日志、文件和RAG分块到达大语言模型前进行压缩。减少60-95%的令牌，答案不变。提供库、代理和MCP服务器。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 183214,
+          "stars_total": 183870,
           "stars_today": 1845,
           "description_zh": "与你共同成长的智能体"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 208394,
+          "stars_total": 208625,
           "stars_today": 1361,
           "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/lfnovo/open-notebook",
           "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
           "language": "TypeScript",
-          "stars_total": 26042,
+          "stars_total": 26229,
           "stars_today": 1152,
           "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/PaddlePaddle/PaddleOCR",
           "description_en": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
           "language": "Python",
-          "stars_total": 80566,
+          "stars_total": 80678,
           "stars_today": 747,
           "description_zh": "将任何PDF或图像文档转化为AI可用的结构化数据。一个强大轻量的OCR工具包，弥合图像/PDF与大语言模型之间的鸿沟。支持100多种语言。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/jwasham/coding-interview-university",
           "description_en": "A complete computer science study plan to become a software engineer.",
           "language": "",
-          "stars_total": 350406,
+          "stars_total": 350529,
           "stars_today": 745,
           "description_zh": "成为软件工程师的完整计算机科学学习计划。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_total": 28234,
+          "stars_total": 28363,
           "stars_today": 731,
           "description_zh": "AI智能体技能，可跨Reddit、X、YouTube、HN、Polymarket及网络研究任意主题，并综合生成有依据的摘要。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/NVIDIA/cosmos",
           "description_en": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
           "language": "Jupyter Notebook",
-          "stars_total": 9429,
+          "stars_total": 9511,
           "stars_today": 479,
           "description_zh": "NVIDIA Cosmos是一个开放的世界模型、数据集和工具平台，使开发者能够为机器人、自动驾驶汽车、智能基础设施等构建物理AI。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/CopilotKit/CopilotKit",
           "description_en": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
           "language": "TypeScript",
-          "stars_total": 32717,
+          "stars_total": 32865,
           "stars_today": 366,
           "description_zh": "智能体与生成式UI的前端技术栈。支持React和Angular。AG-UI协议的创造者。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/openclaw/openclaw-windows-node",
           "description_en": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
           "language": "C#",
-          "stars_total": 1613,
+          "stars_total": 1648,
           "stars_today": 326,
           "description_zh": "OpenClaw的Windows配套套件——包含系统托盘应用、共享库、Node及PowerToys命令面板扩展。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/666ghj/MiroFish",
           "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
           "language": "Python",
-          "stars_total": 64726,
+          "stars_total": 64875,
           "stars_today": 320,
           "description_zh": "一个简单通用的群体智能引擎，可预测万物。简洁通用的群体智能引擎，预测万物。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/github/copilot-sdk",
           "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
           "language": "Java",
-          "stars_total": 9254,
+          "stars_total": 9324,
           "stars_today": 309,
           "description_zh": "用于将GitHub Copilot智能体集成到应用和服务中的多平台SDK。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/MemPalace/mempalace",
           "description_en": "The best-benchmarked open-source AI memory system. And it's free.",
           "language": "Python",
-          "stars_total": 53910,
+          "stars_total": 53998,
           "stars_today": 227,
           "description_zh": "基准测试表现最佳的开源AI记忆系统。而且完全免费。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/aquasecurity/trivy",
           "description_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
           "language": "Go",
-          "stars_total": 35865,
+          "stars_total": 35898,
           "stars_today": 207,
           "description_zh": "在容器、Kubernetes、代码仓库、云环境等中查找漏洞、错误配置、密钥和软件物料清单。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/Panniantong/Agent-Reach",
           "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
           "language": "Python",
-          "stars_total": 21601,
+          "stars_total": 21819,
           "stars_today": 148,
           "description_zh": "为你的AI智能体赋予浏览整个互联网的能力。通过单一命令行界面，无需API费用即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/withastro/flue",
           "description_en": "The sandbox agent framework.",
           "language": "TypeScript",
-          "stars_total": 4539,
+          "stars_total": 4625,
           "stars_today": 126,
           "description_zh": "沙盒智能体框架。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/openai/plugins",
           "description_en": "OpenAI Plugins",
           "language": "JavaScript",
-          "stars_total": 1551,
+          "stars_total": 1609,
           "stars_today": 49,
           "description_zh": "OpenAI插件"
         }
