@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-07",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体与工具：跨平台研究助手、提升AI审美品味、开源Notebook LM替代、离线生存计算机，以及OpenCV、llama.cpp等经典项目持续活跃。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理与工具创新，涵盖多源信息聚合、视觉库、内容质量提升及离线生存计算，展现开源AI生态的实用化与多元化趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/RyanCodrai/turbovec",
           "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
           "language": "Python",
-          "stars_total": 6324,
+          "stars_total": 6838,
           "stars_today": 1533,
           "description_zh": "基于TurboQuant构建的向量索引，使用Rust编写并带有Python绑定"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 185359,
+          "stars_total": 185713,
           "stars_today": 1117,
           "description_zh": "与你一同成长的智能体"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
           "language": "Shell",
-          "stars_total": 35880,
+          "stars_total": 36354,
           "stars_today": 1104,
           "description_zh": "Taste-Skill - 赋予你的AI良好品味，防止AI生成无聊、千篇一律的劣质内容"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_total": 29661,
+          "stars_total": 30412,
           "stars_today": 1097,
           "description_zh": "一个AI代理技能，可研究Reddit、X、YouTube、HN、Polymarket及网络上的任何话题，然后综合生成有依据的摘要"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/lfnovo/open-notebook",
           "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
           "language": "TypeScript",
-          "stars_total": 26909,
+          "stars_total": 27082,
           "stars_today": 555,
           "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能"
         },
@@ -60,39 +60,39 @@
           "url": "https://github.com/TapXWorld/ChinaTextbook",
           "description_en": "所有小初高、大学PDF教材。",
           "language": "Roff",
-          "stars_total": 72306,
+          "stars_total": 72404,
           "stars_today": 355,
           "description_zh": "所有小初高、大学PDF教材。"
         },
         {
           "rank": 7,
-          "name": "microsoft/pg_durable",
-          "url": "https://github.com/microsoft/pg_durable",
-          "description_en": "PostgreSQL in-database durable execution",
-          "language": "Rust",
-          "stars_total": 1289,
-          "stars_today": 314,
-          "description_zh": "PostgreSQL数据库内的持久化执行"
-        },
-        {
-          "rank": 8,
-          "name": "Crosstalk-Solutions/project-nomad",
-          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-          "language": "TypeScript",
-          "stars_total": 29462,
-          "stars_today": 304,
-          "description_zh": "Project N.O.M.A.D，一个自包含的离线生存计算机，内置关键工具、知识和AI，让你随时随地保持信息灵通和自主能力"
-        },
-        {
-          "rank": 9,
           "name": "aaif-goose/goose",
           "url": "https://github.com/aaif-goose/goose",
           "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
           "language": "Rust",
-          "stars_total": 47186,
-          "stars_today": 262,
+          "stars_total": 47331,
+          "stars_today": 338,
           "description_zh": "一个开源、可扩展的AI智能体，超越代码建议——可安装、执行、编辑和测试任何LLM"
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/pg_durable",
+          "url": "https://github.com/microsoft/pg_durable",
+          "description_en": "PostgreSQL in-database durable execution",
+          "language": "Rust",
+          "stars_total": 1389,
+          "stars_today": 314,
+          "description_zh": "PostgreSQL数据库内的持久化执行"
+        },
+        {
+          "rank": 9,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "language": "TypeScript",
+          "stars_total": 29598,
+          "stars_today": 304,
+          "description_zh": "Project N.O.M.A.D，一个自包含的离线生存计算机，内置关键工具、知识和AI，让你随时随地保持信息灵通和自主能力"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/openai/plugins",
           "description_en": "OpenAI Plugins",
           "language": "JavaScript",
-          "stars_total": 1914,
+          "stars_total": 1979,
           "stars_today": 262,
           "description_zh": "OpenAI 插件"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/refactoringhq/tolaria",
           "description_en": "Desktop app to manage markdown knowledge bases",
           "language": "TypeScript",
-          "stars_total": 12619,
+          "stars_total": 12770,
           "stars_today": 242,
           "description_zh": "用于管理Markdown知识库的桌面应用"
         },
@@ -120,8 +120,8 @@
           "url": "https://github.com/ggml-org/llama.cpp",
           "description_en": "LLM inference in C/C++",
           "language": "C++",
-          "stars_total": 115105,
-          "stars_today": 199,
+          "stars_total": 115241,
+          "stars_today": 197,
           "description_zh": "用C/C++实现的LLM推理"
         },
         {
@@ -130,7 +130,7 @@
           "url": "https://github.com/yikart/AiToEarn",
           "description_en": "Let's use AI to Earn!",
           "language": "TypeScript",
-          "stars_total": 18506,
+          "stars_total": 18678,
           "stars_today": 180,
           "description_zh": "让我们用AI来赚钱！"
         },
@@ -140,8 +140,8 @@
           "url": "https://github.com/opencv/opencv",
           "description_en": "Open Source Computer Vision Library",
           "language": "C++",
-          "stars_total": 87905,
-          "stars_today": 58,
+          "stars_total": 88010,
+          "stars_today": 89,
           "description_zh": "开源计算机视觉库"
         },
         {
@@ -150,7 +150,7 @@
           "url": "https://github.com/HunxByts/GhostTrack",
           "description_en": "Useful tool to track location or mobile number",
           "language": "Python",
-          "stars_total": 13588,
+          "stars_total": 13672,
           "stars_today": 21,
           "description_zh": "用于追踪位置或手机号码的实用工具"
         }

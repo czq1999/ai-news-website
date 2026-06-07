@@ -1,5 +1,137 @@
 [
   {
+    "id": "1820034816e70e4fe99a73a44d297185",
+    "title_en": "The 7 biggest storylines from Summer Game Fest 2026",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+    "published_at": "2026-06-07T18:45:33.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "2026年夏季游戏节七大看点",
+    "summary_zh": "2026年夏季游戏节落下帷幕，本届活动公布了多款重磅新作与更新。从《女神异闻录6》的正式确认到《光环》系列新作，再到《我的世界：地下城2》的发布日期，各大厂商为玩家带来了丰富的内容盛宴。",
+    "category": "industry"
+  },
+  {
+    "id": "1394b3596fd3cf3f9163c13776917639",
+    "title_en": "Persona 6 exists, and that’s all we know",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
+    "published_at": "2026-06-07T18:00:41.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "《女神异闻录6》确认存在，但仅此而已",
+    "summary_zh": "在2026年夏季游戏节上，Atlus正式确认了《女神异闻录6》的存在，但未公布任何具体细节，包括平台、发售日期或游戏画面。这一消息让期待已久的玩家既兴奋又好奇，官方表示更多信息将在未来陆续公开。",
+    "category": "industry"
+  },
+  {
+    "id": "2065de65fc63b67432105c1ffc9d9971",
+    "title_en": "Notion restores access to Anthropic after service disruption",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "published_at": "2026-06-07T17:56:22.000Z",
+    "fetched_at": "2026-06-07T19:07:14.756Z",
+    "title_zh": "Notion恢复对Anthropic服务的访问",
+    "summary_zh": "知名笔记应用Notion在经历服务中断后，已成功恢复对AI公司Anthropic相关功能的访问。此次中断影响了部分用户使用AI辅助功能，具体原因尚未完全披露。Notion团队迅速响应并修复了问题，目前服务已全面恢复正常。",
+    "category": "product"
+  },
+  {
+    "id": "1729ad1835c89b5d082622042fe81c47",
+    "title_en": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
+    "published_at": "2026-06-07T17:45:48.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "微软Xbox 25周年纪念主机：半透明绿色设计",
+    "summary_zh": "为庆祝Xbox诞生25周年，微软推出了一款半透明绿色特别版主机。该设计致敬经典初代Xbox的配色风格，融合现代硬件性能。限量版主机将于近期发售，并附带专属纪念配件和主题界面。",
+    "category": "product"
+  },
+  {
+    "id": "66b4191273c128c9c9ced35bb317c214",
+    "title_en": "Minecraft Dungeons 2 gets a September release date",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
+    "published_at": "2026-06-07T17:45:25.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "《我的世界：地下城2》定档9月发售",
+    "summary_zh": "Mojang工作室宣布《我的世界：地下城2》将于今年9月正式发售。作为热门衍生作品续作，新作将带来更多地下城、新敌人和更丰富的装备系统，支持多人合作模式，登陆主流游戏平台。",
+    "category": "industry"
+  },
+  {
+    "id": "1213003d5aadb5322a27baf18d9aae3b",
+    "title_en": "Fable launches in late February after recent delay",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026",
+    "published_at": "2026-06-07T17:14:57.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "《神鬼寓言》新作延期后定档2月底",
+    "summary_zh": "经过近期宣布的延期后，微软旗下备受期待的《神鬼寓言》重启作终于确定于2月下旬发售。这款角色扮演游戏将延续系列幽默奇幻风格，并采用全新引擎打造，登陆Xbox和PC平台。",
+    "category": "industry"
+  },
+  {
+    "id": "679bc358efa185468004e04d85b75a25",
+    "title_en": "Halo: Campaign Evolved arrives July 28th",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
+    "published_at": "2026-06-07T17:14:08.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "《光环：进化战役》7月28日上线",
+    "summary_zh": "343 Industries宣布《光环：进化战役》将于7月28日正式发布。该作品是对经典《光环》战役的重制升级版，包含改进的画面、现代操作优化以及新增剧情内容，为老玩家和新玩家带来全新体验。",
+    "category": "industry"
+  },
+  {
+    "id": "efef9244ac224d29efa5cfa3188139de",
+    "title_en": "Gears of War: E-Day isn’t coming to the PS5",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
+    "published_at": "2026-06-07T17:08:56.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "《战争机器：E-Day》不会登陆PS5",
+    "summary_zh": "微软确认《战争机器：E-Day》将保持Xbox和PC平台独占，不会登陆PS5。这款系列前传作品聚焦于事变日事件，采用更黑暗写实的风格，是Xbox生态的重要独占内容。",
+    "category": "industry"
+  },
+  {
+    "id": "6c6bb029b5ea825e4213140e74522932",
+    "title_en": "The Verge Weekend Questionnaire",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire",
+    "published_at": "2026-06-07T17:00:00.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "The Verge周末问卷特辑",
+    "summary_zh": "The Verge发布了一期特别的周末问卷内容，邀请读者分享他们对科技、游戏和数字生活的看法。问卷涵盖多个趣味话题，旨在收集社区反馈并促进读者互动，结果将在后续报道中公布。",
+    "category": "industry"
+  },
+  {
+    "id": "f885764cd949ceb6a4075b3d5855c386",
+    "title_en": "Xbox Games Showcase 2026: All the news and trailers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers",
+    "published_at": "2026-06-07T16:40:00.000Z",
+    "fetched_at": "2026-06-07T19:07:14.876Z",
+    "title_zh": "Xbox游戏展2026：全部新闻与预告汇总",
+    "summary_zh": "2026年Xbox游戏展示会公布了大量新作信息，包括《神鬼寓言》发售日、《战争机器：E-Day》新预告、《光环》重制版等。此外还有多款第三方作品亮相，展示了Xbox生态的丰富游戏阵容。",
+    "category": "industry"
+  },
+  {
+    "id": "314f2c8a2a7d245a23b42bdf435092dd",
+    "title_en": "OpenAI is still working on that ‘super app’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "published_at": "2026-06-07T16:23:22.000Z",
+    "fetched_at": "2026-06-07T19:07:14.756Z",
+    "title_zh": "OpenAI仍在开发那个“超级应用”",
+    "summary_zh": "OpenAI持续推进其整合聊天、搜索、文件处理等多功能的“超级应用”计划。尽管具体发布时间未定，但该项目被视为公司战略核心，旨在打造一个超越ChatGPT的全能AI平台，与现有科技巨头展开竞争。",
+    "category": "llm"
+  },
+  {
+    "id": "3598248835d95bdd9f11eb6c3d0e9a52",
+    "title_en": "Govee’s all-weather smart lamp post is under $200 for the first time",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale",
+    "published_at": "2026-06-07T16:00:00.000Z",
+    "fetched_at": "2026-06-07T19:07:14.877Z",
+    "title_zh": "Govee全气候智能灯柱首次降至200美元以下",
+    "summary_zh": "智能家居品牌Govee的全气候智能灯柱迎来首次降价，售价跌破200美元。该产品支持户外全天候使用，可通过App控制灯光颜色和模式，兼容主流语音助手，是庭院智能照明的热门选择。",
+    "category": "product"
+  },
+  {
     "id": "b788065ea00663fa9aef858db8ddb6ae",
     "title_en": "Kill some time with these much needed distractions",
     "source": "The Verge",
@@ -99,6 +231,61 @@
     "category": "product"
   },
   {
+    "id": "dc2723eff8b9b177cd8c53d88cc62472",
+    "title_en": "A World Cup star loses the plot in a friendly ",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/a-world-cup-star-loses-the-plot-in-a-friendly-42974879",
+    "published_at": "2026-06-06T18:55:00Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "世界杯球星在友谊赛中失控",
+    "summary_zh": "一则体育新闻，报道某位世界杯明星球员在一场友谊赛中情绪失控，做出不当行为。具体细节未在标题中展开，但暗示了比赛中的冲突或争议事件。该新闻可能涉及球员的过激反应或违规动作，引发球迷和媒体关注。",
+    "category": "industry"
+  },
+  {
+    "id": "a3f9c8b82341c678272e48de49319834",
+    "title_en": "University of Phoenix researchers publish study examining doctoral students' attitudes toward AI chatbots and ChatGPT use in higher education",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/university-of-phoenix-researchers-publish-study-examining-doctoral-students-attitudes-toward-ai-chatbots-and-chatgpt-use-in-higher-education-302793237.html",
+    "published_at": "2026-06-06T18:54:00Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "凤凰城大学研究：博士生对AI聊天机器人和ChatGPT在高等教育中使用的态度",
+    "summary_zh": "凤凰城大学研究人员发表了一项关于博士生对AI聊天机器人（包括ChatGPT）在高等教育中应用态度的研究。该研究旨在了解高学历学生对AI工具辅助学习、研究和写作的看法，探讨其潜在益处与伦理挑战。结果将为教育机构制定AI使用政策提供参考，反映了学术界对AI融入教育的审慎探索。",
+    "category": "research"
+  },
+  {
+    "id": "3388fc7625fa8898e031ce9550d3b701",
+    "title_en": " Leao loses it: punches an opponent in the face! Red card and scenes ",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/leao-loses-it-punches-an-opponent-in-the-face-red-card-and-scenes-42974864",
+    "published_at": "2026-06-06T18:52:00Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "莱奥失控：拳击对手面部！红牌与混乱场面",
+    "summary_zh": "体育新闻，报道球员莱奥在比赛中情绪失控，挥拳击打对手面部，因此被直接红牌罚下，引发场上混乱。该事件发生在友谊赛中，但暴力行为仍引起广泛关注。莱奥作为知名球员，此举可能面临追加处罚，并对其职业形象造成负面影响。",
+    "category": "industry"
+  },
+  {
+    "id": "0f3ea759e0a208a6aa1a4b3912863447",
+    "title_en": " Half-punch & red, World Cup star loses it in friendly",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/half-punch-red-world-cup-star-loses-it-in-friendly-42974840",
+    "published_at": "2026-06-06T18:46:00Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "半拳出击与红牌：世界杯球星在友谊赛中失控",
+    "summary_zh": "综合报道，一位世界杯球星在友谊赛中因冲突做出类似拳击的动作，被裁判出示红牌驱逐出场。事件细节显示球员情绪管理出现问题，导致不理智行为。该新闻聚焦于体育赛场上的纪律问题，以及明星球员在非正式比赛中仍需保持职业素养的重要性。",
+    "category": "industry"
+  },
+  {
+    "id": "2d66027ec14a4ba5c5ea08cd9397c7a5",
+    "title_en": "China can build humanoids at scale. The hard part is finding enough buyers",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/china-can-build-humanoids-at-scale-the-hard-part-is-finding-enough-buyers/articleshow/131557705.cms",
+    "published_at": "2026-06-06T18:28:40Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "中国能大规模制造人形机器人，但难点在于找到足够买家",
+    "summary_zh": "报道指出，中国在人形机器人制造方面具备规模化能力，但市场需求不足成为主要挑战。尽管技术成熟且供应链完善，但高昂成本、应用场景有限以及客户接受度低导致销量不及预期。该现象反映了人形机器人产业从技术突破到商业落地的鸿沟，企业需探索更实用的应用场景以刺激需求。",
+    "category": "industry"
+  },
+  {
     "id": "1b122398199fa9d5b0c3a8394604742a",
     "title_en": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
     "source": "TechCrunch AI",
@@ -108,6 +295,17 @@
     "title_zh": "WWDC 2026前瞻：Siri大改版与苹果智能更新备受期待",
     "summary_zh": "苹果WWDC 2026即将召开，最受关注的莫过于Siri的全面革新以及Apple Intelligence的升级。传闻Siri将深度融合大语言模型，实现更自然的对话和更强的上下文理解能力。同时，苹果的AI战略将如何落地，能否在生成式AI浪潮中追赶对手，成为本次大会的最大看点。",
     "category": "product"
+  },
+  {
+    "id": "f73d5434c6f0371ca34b3f6b0b344b66",
+    "title_en": "Is USA ready?",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/world-cup-fifa-security-secret-service-trump-32f04baf3a242395f26816292a9dc7e2",
+    "published_at": "2026-06-06T18:00:17Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "美国准备好了吗？",
+    "summary_zh": "简短标题引发对美国当前状态或某项重大挑战的思考。可能涉及科技、经济或社会领域的准备情况，暗示美国在应对未来趋势或危机方面存在不确定性。具体内容需进一步阅读，但标题本身具有开放性和讨论价值。",
+    "category": "industry"
   },
   {
     "id": "c7d7de08339ac1d1c966ffa21ff1deee",
@@ -121,6 +319,17 @@
     "category": "product"
   },
   {
+    "id": "702b69b431c6e7d176eae7ae1853d611",
+    "title_en": "‘Chasing every model release is a fool's errand and a fast track to AI fatigue inside your organisation’: GoodData.AI CTO says businesses should focus on automation use cases over every single new release",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com/pro/chasing-every-model-release-is-a-fools-errand-and-a-fast-track-to-ai-fatigue-inside-your-organisation-gooddata-ai-cto-says-businesses-should-focus-on-automation-use-cases-over-every-single-new-release",
+    "published_at": "2026-06-06T18:00:00Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "GoodData.AI CTO：追逐每个模型发布是愚蠢行为，会让组织陷入AI疲劳",
+    "summary_zh": "GoodData.AI首席技术官警告企业不要盲目追逐每个新AI模型发布，认为这会导致组织内部AI疲劳。他建议企业应聚焦于自动化用例，将AI应用于实际业务问题而非频繁更换模型。这一观点反映了业界对AI过度炒作和资源浪费的反思，强调务实部署和长期价值。",
+    "category": "industry"
+  },
+  {
     "id": "cdd1631e4f22fa08b7f11b83993274db",
     "title_en": "GOG apologizes for emailing people Nazi symbols",
     "source": "The Verge",
@@ -129,6 +338,28 @@
     "fetched_at": "2026-06-06T19:06:05.631Z",
     "title_zh": "GOG就误发含纳粹符号邮件致歉",
     "summary_zh": "游戏平台GOG近日因技术失误，向部分用户发送了包含纳粹符号的营销邮件，引发强烈批评。GOG随后公开道歉，解释称是自动化内容审核系统出错，未能过滤掉历史游戏宣传素材中的不当图像。该事件凸显了AI内容审核的潜在风险。",
+    "category": "industry"
+  },
+  {
+    "id": "d96d7b9c953846b5c52acd0bbec37d05",
+    "title_en": "Gen Z mentors flip the corporate learning script",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms",
+    "published_at": "2026-06-06T17:55:21Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "Z世代导师翻转企业学习模式",
+    "summary_zh": "报道指出，Z世代（1997-2012年出生）正在成为企业中的导师，颠覆传统的自上而下学习模式。年轻员工凭借对新技术和数字工具的熟悉，反向指导年长同事，促进知识双向流动。这种“反向导师制”有助于企业适应快速变化的技术环境，并提升跨代际协作效率。",
+    "category": "industry"
+  },
+  {
+    "id": "62beedb915b041f60729651183b2a516",
+    "title_en": "Transfer update, 6 June ",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/transfer-update-6-june-42974650",
+    "published_at": "2026-06-06T17:46:00Z",
+    "fetched_at": "2026-06-07T19:07:15.720Z",
+    "title_zh": "转会动态，6月6日",
+    "summary_zh": "体育新闻，提供6月6日最新的球员转会信息。可能涉及各大足球俱乐部的引援、离队或租借动态。转会窗口期间，此类更新为球迷和行业观察者提供关键信息，影响球队阵容和赛季预期。具体细节需查看完整报道。",
     "category": "industry"
   },
   {
@@ -5266,237 +5497,6 @@
     "fetched_at": "2026-06-02T20:35:35.235Z",
     "title_zh": "如何为你的书想出好的对标书名",
     "summary_zh": "本文为作者提供实用建议，指导如何为书籍选择有效的对标书名（comp titles），以帮助出版定位与营销。内容聚焦写作与出版技巧，与AI技术无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "d68564d3d7ea59a717017c8dec731c85",
-    "title_en": "iOS 27 could make it way easier to split the bill",
-    "source": "Cult of Mac",
-    "url": "https://www.cultofmac.com/news/ios-27-could-make-it-way-easier-to-split-the-bill",
-    "published_at": "2026-06-01T20:21:04Z",
-    "fetched_at": "2026-06-02T20:35:35.235Z",
-    "title_zh": "iOS 27或将让AA制分账变得更容易",
-    "summary_zh": "传闻称iOS 27将引入更便捷的账单分摊功能，简化朋友间AA制付款流程。若实现，将提升Apple Pay的实用性与用户体验，但消息尚未得到官方确认。",
-    "category": "product"
-  },
-  {
-    "id": "481ad15b8f0f0bbf190804c42f09bc0d",
-    "title_en": "Verra Mobility Initiates CEO Transition",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/verra-mobility-initiates-ceo-transition-302787557.html",
-    "published_at": "2026-06-01T20:20:00Z",
-    "fetched_at": "2026-06-02T20:35:35.235Z",
-    "title_zh": "Verra Mobility启动CEO交接程序",
-    "summary_zh": "智能交通技术公司Verra Mobility宣布启动CEO继任计划，现任CEO将卸任。公司表示交接过程有序，旨在确保战略连续性。此举属于企业高管变动，与AI技术无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "d3e83fd296722bb3b5efcfbd465613c0",
-    "title_en": "VC Bill Gurley says Anthropic is 'midwifing a deity' by 'building a species that's superior to humans'",
-    "source": "Business Insider",
-    "url": "https://www.businessinsider.com/bill-gurley-anthropic-ai-god-humanity-theory-2026-6",
-    "published_at": "2026-06-01T20:18:02Z",
-    "fetched_at": "2026-06-02T20:35:35.235Z",
-    "title_zh": "风投Bill Gurley称Anthropic正在“催生神明”——“构建一个超越人类的物种”",
-    "summary_zh": "知名风投Bill Gurley对AI公司Anthropic发表惊人评论，称其正在“催生一个超越人类的物种”，引发对AI安全与伦理的激烈讨论。该言论反映了业界对通用人工智能潜在风险的深层忧虑。",
-    "category": "llm"
-  },
-  {
-    "id": "631c23019e18bd6fdea98b51e0cb65d5",
-    "title_en": "Is Michael Saylor’s Strategy changing its Bitcoin playbook? MSTR sells $2.5 million of BTC for the first time since 2022 - here's why",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/international/us/is-michael-saylors-strategy-changing-its-bitcoin-playbook-mstr-sells-2-5-million-of-btc-for-the-first-time-since-2022-heres-why/articleshow/131449744.cms",
-    "published_at": "2026-06-01T20:15:42Z",
-    "fetched_at": "2026-06-02T20:35:35.235Z",
-    "title_zh": "Michael Saylor的策略在改变比特币玩法？MSTR自2022年以来首次卖出250万美元BTC——原因在此",
-    "summary_zh": "MicroStrategy（MSTR）自2022年以来首次出售价值250万美元的比特币，引发市场对其长期持有策略是否转变的猜测。公司创始人Michael Saylor解释此举为税务优化，而非看空比特币。",
-    "category": "industry"
-  },
-  {
-    "id": "b4f75b11f2c4cd913f994a277b8fc183",
-    "title_en": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "published_at": "2026-06-01T20:03:40.000Z",
-    "fetched_at": "2026-06-01T21:21:37.958Z",
-    "title_zh": "佛罗里达州起诉OpenAI及萨姆·奥尔特曼，开创暴力事件相关诉讼先河",
-    "summary_zh": "佛罗里达州对OpenAI及其CEO萨姆·奥尔特曼提起一项具有里程碑意义的诉讼，指控其AI产品与多起暴力事件有关。这是首例由州政府直接针对AI公司提起的此类诉讼，可能为AI责任划定新边界，引发业界对模型安全与监管的广泛关注。",
-    "category": "industry"
-  },
-  {
-    "id": "2aaeca7d02053fc781d01ba788ddedff",
-    "title_en": "This could be Windows’ M1 moment — but expect it to cost a ton",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-    "published_at": "2026-06-01T20:02:31.000Z",
-    "fetched_at": "2026-06-01T21:21:38.391Z",
-    "title_zh": "这可能是Windows的M1时刻——但代价不菲",
-    "summary_zh": "Windows平台可能迎来类似苹果M1芯片的架构变革，但预计成本高昂。新架构有望大幅提升性能和能效，但用户需为硬件升级和软件适配付出更高代价。这一转变将重塑PC生态，值得关注。",
-    "category": "product"
-  },
-  {
-    "id": "f15aed5f33506d11977827c07fb4be83",
-    "title_en": "Gemini’s new AI agent is about as good as Google’s demo",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-    "published_at": "2026-06-01T20:00:00.000Z",
-    "fetched_at": "2026-06-01T21:21:38.391Z",
-    "title_zh": "Gemini新AI智能体表现与谷歌演示相当",
-    "summary_zh": "谷歌Gemini的最新AI智能体在实际测试中展现出与官方演示一致的能力，能够自主完成复杂任务。这一进展标志着AI代理技术从概念走向实用，但仍有改进空间。业界对其在真实场景中的稳定性保持关注。",
-    "category": "llm"
-  },
-  {
-    "id": "9b71b016455b8974135887de3f2735b8",
-    "title_en": "Dozens of Red Hat packages backdoored through its offical NPM channel",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
-    "published_at": "2026-06-01T19:49:09.000Z",
-    "fetched_at": "2026-06-01T21:21:38.534Z",
-    "title_zh": "数十个Red Hat软件包通过官方NPM渠道被植入后门",
-    "summary_zh": "安全研究人员发现，数十个Red Hat软件包通过其官方NPM渠道被植入了后门代码。攻击者利用供应链漏洞，将恶意代码伪装成合法更新，影响范围广泛。此事件再次敲响开源软件供应链安全的警钟。",
-    "category": "industry"
-  },
-  {
-    "id": "998477006dab9b6eda88420bedbcdd57",
-    "title_en": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-    "published_at": "2026-06-01T19:20:47.000Z",
-    "fetched_at": "2026-06-01T21:21:38.391Z",
-    "title_zh": "Meta自家AI被利用劫持Instagram账户",
-    "summary_zh": "Meta的AI系统遭到恶意利用，导致大量Instagram账户被劫持。攻击者通过绕过安全机制，使用AI工具实施自动化入侵。这一事件暴露了AI在安全防护中的双刃剑效应，引发对平台信任度的质疑。",
-    "category": "industry"
-  },
-  {
-    "id": "d4855e2a99710443a4b0a26e045abee4",
-    "title_en": "Casey Neistat’s guide to posting every day",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast",
-    "published_at": "2026-06-01T19:07:03.000Z",
-    "fetched_at": "2026-06-01T21:21:38.391Z",
-    "title_zh": "Casey Neistat的每日更新指南",
-    "summary_zh": "知名视频创作者Casey Neistat分享其坚持每日更新的秘诀，涵盖内容规划、时间管理和创意激发等实用技巧。他强调持续输出对建立个人品牌的重要性，并为内容创作者提供了可操作的行动框架。",
-    "category": "product"
-  },
-  {
-    "id": "c897d92a2a50c2f8fa693559585375e8",
-    "title_en": "Water access is now a risk factor in SpaceX’s IPO",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-    "published_at": "2026-06-01T18:19:53.000Z",
-    "fetched_at": "2026-06-01T21:21:37.959Z",
-    "title_zh": "水资源获取成为SpaceX IPO的新风险因素",
-    "summary_zh": "SpaceX的IPO进程面临新的不确定性：水资源获取问题被列为关键风险。随着星舰发射活动对当地水资源消耗巨大，环保与监管压力可能影响公司估值和上市进程，凸显科技巨头在扩张中需平衡资源可持续性。",
-    "category": "industry"
-  },
-  {
-    "id": "2fa0b0841d6f6359f8f1006e419b16f9",
-    "title_en": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-    "published_at": "2026-06-01T17:17:58.000Z",
-    "fetched_at": "2026-06-01T21:21:38.623Z",
-    "title_zh": "Anthropic秘密提交IPO申请，或成史上最大规模首次公开募股",
-    "summary_zh": "AI初创公司Anthropic已秘密向美国证券交易委员会提交IPO申请，预计估值将创历史新高。作为OpenAI的主要竞争对手，Anthropic凭借其安全优先的Claude模型系列获得了巨额融资和商业客户。若成功上市，这将成为科技史上规模最大的IPO之一，标志着AI行业从风险投资驱动向公开市场迈进的转折点。",
-    "category": "industry"
-  },
-  {
-    "id": "60f849d5b1f2052c182593a9ea62ad06",
-    "title_en": "Anthropic has officially filed to go public",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-    "published_at": "2026-06-01T16:40:38.000Z",
-    "fetched_at": "2026-06-01T17:18:36.794Z",
-    "title_zh": "Anthropic正式提交IPO申请",
-    "summary_zh": "AI公司Anthropic已正式向监管机构提交上市文件，计划进行首次公开募股。该公司以开发安全、负责任的AI模型著称，其Claude系列产品在企业和开发者中广受欢迎。上市将帮助其扩大算力基础设施并吸引顶尖人才，但AI行业的高估值和监管不确定性仍是挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "68df3196ae798c3c28eb6f9199bec19f",
-    "title_en": "Anthropic files to go public",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "published_at": "2026-06-01T16:36:55.000Z",
-    "fetched_at": "2026-06-01T17:18:36.680Z",
-    "title_zh": "Anthropic正式提交上市申请",
-    "summary_zh": "AI初创公司Anthropic已正式提交IPO申请，计划在公开市场上市。此举标志着这家由前OpenAI员工创立的公司进入新阶段，其开发的Claude系列模型在业界备受关注。上市将为其提供更多资金以加速AI研发，但也面临监管审查和市场波动风险。",
-    "category": "industry"
-  },
-  {
-    "id": "bc48ccec061e7f96ab999f84420238e7",
-    "title_en": "Sony’s new fight stick and gaming monitor launch in August",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
-    "published_at": "2026-06-01T16:36:18.000Z",
-    "fetched_at": "2026-06-01T17:18:36.794Z",
-    "title_zh": "索尼新款街机摇杆和游戏显示器8月上市",
-    "summary_zh": "索尼宣布将于8月推出全新街机摇杆和游戏显示器，专为格斗游戏玩家设计。街机摇杆采用高精度微动开关和可定制按键布局，显示器则支持高刷新率和低延迟技术。此举进一步丰富了索尼游戏外设生态，满足专业玩家和电竞爱好者的需求。",
-    "category": "product"
-  },
-  {
-    "id": "ab7401b030d1f1d73d941ff4068a2911",
-    "title_en": "Nvidia unveils 'superchip' bringing AI to Windows laptops",
-    "source": "Boston Herald",
-    "url": "https://www.bostonherald.com/2026/06/01/nvidia-ai-superchip-windows-laptops/",
-    "published_at": "2026-06-01T16:01:34Z",
-    "fetched_at": "2026-06-02T16:01:49.004Z",
-    "title_zh": "英伟达发布“超级芯片”，将AI带入Windows笔记本电脑",
-    "summary_zh": "英伟达推出全新“超级芯片”，旨在将强大的AI计算能力引入Windows笔记本平台。该芯片集成了高性能GPU与CPU，专为本地运行大模型和AI应用优化，有望显著提升移动设备的AI处理效率，开启AI PC新时代。",
-    "category": "product"
-  },
-  {
-    "id": "21fd52391d6fe478e3edad7775857c3c",
-    "title_en": "How human error became a weapon against large language models",
-    "source": "New Scientist",
-    "url": "https://www.newscientist.com/article/2528529-how-human-error-became-a-weapon-against-large-language-models/",
-    "published_at": "2026-06-01T16:00:31Z",
-    "fetched_at": "2026-06-02T16:01:49.004Z",
-    "title_zh": "人类错误如何成为对抗大语言模型的武器",
-    "summary_zh": "研究发现，利用人类常见的认知偏差和错误模式，可以有效攻击和欺骗大语言模型。这种“人类错误”攻击揭示了当前AI模型在理解与对齐上的脆弱性，为模型安全研究提供了新视角，也提醒开发者需更关注人机交互中的潜在漏洞。",
-    "category": "research"
-  },
-  {
-    "id": "1189b7fc9bd38e443e3c1d4c397c7d42",
-    "title_en": "Prosperity Comes From Freedom, Not Redistribution",
-    "source": "Legalinsurrection.com",
-    "url": "https://legalinsurrection.com/2026/06/prosperity-comes-from-freedom-not-redistribution/",
-    "published_at": "2026-06-01T16:00:25Z",
-    "fetched_at": "2026-06-02T16:01:49.004Z",
-    "title_zh": "繁荣源于自由，而非再分配",
-    "summary_zh": "文章探讨经济繁荣的根本动力，认为自由市场与个人创新才是财富增长的源泉，而非政府主导的再分配政策。在AI与科技快速发展的当下，这一观点引发对技术红利分配与监管边界的深层思考。",
-    "category": "industry"
-  },
-  {
-    "id": "e288bad30b9271ad9345ab29317de554",
-    "title_en": "AI helped researchers bypass Apple M5 defenses",
-    "source": "Fox News",
-    "url": "https://www.foxnews.com/tech/ai-helped-researchers-bypass-apple-m5-defenses",
-    "published_at": "2026-06-01T16:00:11Z",
-    "fetched_at": "2026-06-02T16:01:49.004Z",
-    "title_zh": "AI帮助研究人员突破苹果M5芯片防御",
-    "summary_zh": "研究人员利用AI技术成功绕过了苹果最新M5芯片的安全防御机制。这一突破展示了AI在硬件安全攻防中的双刃剑效应，既可用于发现漏洞，也可能被恶意利用，对芯片安全设计提出新挑战。",
-    "category": "research"
-  },
-  {
-    "id": "857a23e1c9bea5558f6b61fad597f311",
-    "title_en": "This AI weather startup is out-forecasting government agencies",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "published_at": "2026-06-01T16:00:00.000Z",
-    "fetched_at": "2026-06-01T17:18:36.681Z",
-    "title_zh": "这家AI天气初创公司预报能力超越政府机构",
-    "summary_zh": "一家专注于AI天气预测的初创公司声称其模型在准确性和时效性上已超越传统政府气象机构。通过深度学习和大数据分析，该公司能提供更精细的局部天气预报，对农业、物流等行业具有重要价值。这一突破展示了AI在科学计算领域的巨大潜力。",
-    "category": "product"
-  },
-  {
-    "id": "60d8a9602dbb784d5801bcc9e3c2d688",
-    "title_en": "Kedrion Biopharma and InstaLILY Convene Industry Leaders to Advance the Future of AI in Healthcare at NY Tech Week",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/kedrion-biopharma-and-instalily-convene-industry-leaders-to-advance-the-future-of-ai-in-healthcare-at-ny-tech-week-302787282.html",
-    "published_at": "2026-06-01T16:00:00Z",
-    "fetched_at": "2026-06-02T16:01:49.004Z",
-    "title_zh": "Kedrion Biopharma与InstaLILY在纽约科技周共议AI医疗未来",
-    "summary_zh": "在纽约科技周期间，Kedrion Biopharma与InstaLILY召集行业领袖，共同探讨AI在医疗健康领域的应用前景。会议聚焦AI如何加速药物研发、优化诊疗流程，并推动精准医疗落地，标志着AI与生物医药的深度融合进入新阶段。",
     "category": "industry"
   }
 ]
