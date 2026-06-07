@@ -2,187 +2,157 @@
   "days": [
     {
       "date": "2026-06-07",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理生态：多平台信息聚合、前端交互框架、记忆系统及个人AI基础设施，同时涵盖安全扫描、Web开发与编程语言工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体与工具：跨平台研究助手、提升AI审美品味、开源Notebook LM替代、离线生存计算机，以及OpenCV、llama.cpp等经典项目持续活跃。",
       "projects": [
         {
           "rank": 1,
-          "name": "lfnovo/open-notebook",
-          "url": "https://github.com/lfnovo/open-notebook",
-          "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
-          "language": "TypeScript",
-          "stars_total": 26804,
-          "stars_today": 794,
-          "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能"
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Python",
+          "stars_total": 6324,
+          "stars_today": 1533,
+          "description_zh": "基于TurboQuant构建的向量索引，使用Rust编写并带有Python绑定"
         },
         {
           "rank": 2,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 219943,
-          "stars_today": 700,
-          "description_zh": "一套行之有效的代理技能框架与软件开发方法论"
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description_en": "The agent that grows with you",
+          "language": "Python",
+          "stars_total": 185359,
+          "stars_today": 1117,
+          "description_zh": "与你一同成长的智能体"
         },
         {
           "rank": 3,
-          "name": "Panniantong/Agent-Reach",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-          "language": "Python",
-          "stars_total": 22734,
-          "stars_today": 683,
-          "description_zh": "为你的AI代理赋予浏览整个互联网的视觉能力。通过一个命令行界面即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——无需任何API费用"
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "Shell",
+          "stars_total": 35880,
+          "stars_today": 1104,
+          "description_zh": "Taste-Skill - 赋予你的AI良好品味，防止AI生成无聊、千篇一律的劣质内容"
         },
         {
           "rank": 4,
-          "name": "CopilotKit/CopilotKit",
-          "url": "https://github.com/CopilotKit/CopilotKit",
-          "description_en": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-          "language": "TypeScript",
-          "stars_total": 33446,
-          "stars_today": 631,
-          "description_zh": "面向代理与生成式UI的前端技术栈。支持React、Angular、移动端、Slack等。AG-UI协议的缔造者"
-        },
-        {
-          "rank": 5,
-          "name": "MemPalace/mempalace",
-          "url": "https://github.com/MemPalace/mempalace",
-          "description_en": "The best-benchmarked open-source AI memory system. And it's free.",
-          "language": "Python",
-          "stars_total": 54467,
-          "stars_today": 446,
-          "description_zh": "基准测试表现最佳的开源AI记忆系统，而且完全免费"
-        },
-        {
-          "rank": 6,
           "name": "mvanhorn/last30days-skill",
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_total": 29294,
-          "stars_today": 439,
+          "stars_total": 29661,
+          "stars_today": 1097,
           "description_zh": "一个AI代理技能，可研究Reddit、X、YouTube、HN、Polymarket及网络上的任何话题，然后综合生成有依据的摘要"
         },
         {
+          "rank": 5,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars_total": 26909,
+          "stars_today": 555,
+          "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能"
+        },
+        {
+          "rank": 6,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description_en": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars_total": 72306,
+          "stars_today": 355,
+          "description_zh": "所有小初高、大学PDF教材。"
+        },
+        {
           "rank": 7,
-          "name": "PaddlePaddle/PaddleOCR",
-          "url": "https://github.com/PaddlePaddle/PaddleOCR",
-          "description_en": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-          "language": "Python",
-          "stars_total": 81108,
-          "stars_today": 433,
-          "description_zh": "将任何PDF或图像文档转化为可供AI使用的结构化数据。一款强大轻量的OCR工具包，连接图像/PDF与大语言模型，支持100多种语言"
+          "name": "microsoft/pg_durable",
+          "url": "https://github.com/microsoft/pg_durable",
+          "description_en": "PostgreSQL in-database durable execution",
+          "language": "Rust",
+          "stars_total": 1289,
+          "stars_today": 314,
+          "description_zh": "PostgreSQL数据库内的持久化执行"
         },
         {
           "rank": 8,
-          "name": "microsoft/VibeVoice",
-          "url": "https://github.com/microsoft/VibeVoice",
-          "description_en": "Open-Source Frontier Voice AI",
-          "language": "Python",
-          "stars_total": 48578,
-          "stars_today": 216,
-          "description_zh": "开源前沿语音AI"
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "language": "TypeScript",
+          "stars_total": 29462,
+          "stars_today": 304,
+          "description_zh": "Project N.O.M.A.D，一个自包含的离线生存计算机，内置关键工具、知识和AI，让你随时随地保持信息灵通和自主能力"
         },
         {
           "rank": 9,
+          "name": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "language": "Rust",
+          "stars_total": 47186,
+          "stars_today": 262,
+          "description_zh": "一个开源、可扩展的AI智能体，超越代码建议——可安装、执行、编辑和测试任何LLM"
+        },
+        {
+          "rank": 10,
           "name": "openai/plugins",
           "url": "https://github.com/openai/plugins",
           "description_en": "OpenAI Plugins",
           "language": "JavaScript",
-          "stars_total": 1864,
-          "stars_today": 213,
+          "stars_total": 1914,
+          "stars_today": 262,
           "description_zh": "OpenAI 插件"
         },
         {
-          "rank": 10,
-          "name": "santifer/career-ops",
-          "url": "https://github.com/santifer/career-ops",
-          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-          "language": "JavaScript",
-          "stars_total": 49608,
-          "stars_today": 193,
-          "description_zh": "基于Claude Code构建的AI驱动求职系统，包含14种技能模式、Go仪表盘、PDF生成和批量处理功能"
-        },
-        {
           "rank": 11,
-          "name": "aquasecurity/trivy",
-          "url": "https://github.com/aquasecurity/trivy",
-          "description_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-          "language": "Go",
-          "stars_total": 36041,
-          "stars_today": 159,
-          "description_zh": "在容器、Kubernetes、代码仓库、云环境等中查找漏洞、错误配置、密钥和软件物料清单"
+          "name": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "description_en": "Desktop app to manage markdown knowledge bases",
+          "language": "TypeScript",
+          "stars_total": 12619,
+          "stars_today": 242,
+          "description_zh": "用于管理Markdown知识库的桌面应用"
         },
         {
           "rank": 12,
-          "name": "openai/whisper",
-          "url": "https://github.com/openai/whisper",
-          "description_en": "Robust Speech Recognition via Large-Scale Weak Supervision",
-          "language": "Python",
-          "stars_total": 101964,
-          "stars_today": 150,
-          "description_zh": "通过大规模弱监督实现稳健的语音识别"
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description_en": "LLM inference in C/C++",
+          "language": "C++",
+          "stars_total": 115105,
+          "stars_today": 199,
+          "description_zh": "用C/C++实现的LLM推理"
         },
         {
           "rank": 13,
-          "name": "danielmiessler/Personal_AI_Infrastructure",
-          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-          "description_en": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description_en": "Let's use AI to Earn!",
           "language": "TypeScript",
-          "stars_total": 15099,
-          "stars_today": 70,
-          "description_zh": "用于增强人类能力的代理式AI基础设施"
+          "stars_total": 18506,
+          "stars_today": 180,
+          "description_zh": "让我们用AI来赚钱！"
         },
         {
           "rank": 14,
-          "name": "microsoft/mxc",
-          "url": "https://github.com/microsoft/mxc",
-          "description_en": "Policy-driven, layered isolation and containment",
-          "language": "Rust",
-          "stars_total": 650,
-          "stars_today": 64,
-          "description_zh": "基于策略的分层隔离与管控"
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description_en": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars_total": 87905,
+          "stars_today": 58,
+          "description_zh": "开源计算机视觉库"
         },
         {
           "rank": 15,
-          "name": "golang/go",
-          "url": "https://github.com/golang/go",
-          "description_en": "The Go programming language",
-          "language": "Go",
-          "stars_total": 134560,
-          "stars_today": 30,
-          "description_zh": "Go编程语言"
-        },
-        {
-          "rank": 16,
-          "name": "sveltejs/svelte",
-          "url": "https://github.com/sveltejs/svelte",
-          "description_en": "web development for the rest of us",
-          "language": "JavaScript",
-          "stars_total": 87069,
-          "stars_today": 25,
-          "description_zh": "面向我们所有人的Web开发框架"
-        },
-        {
-          "rank": 17,
-          "name": "vitejs/vite",
-          "url": "https://github.com/vitejs/vite",
-          "description_en": "Next generation frontend tooling. It's fast!",
-          "language": "TypeScript",
-          "stars_total": 81248,
-          "stars_today": 25,
-          "description_zh": "下一代前端工具链，速度极快"
-        },
-        {
-          "rank": 18,
-          "name": "nginx/nginx",
-          "url": "https://github.com/nginx/nginx",
-          "description_en": "The official NGINX Open Source repository.",
-          "language": "C",
-          "stars_total": 30729,
-          "stars_today": 20,
-          "description_zh": "官方NGINX开源仓库"
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description_en": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars_total": 13588,
+          "stars_today": 21,
+          "description_zh": "用于追踪位置或手机号码的实用工具"
         }
       ]
     },
