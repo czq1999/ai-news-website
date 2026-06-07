@@ -1,5 +1,16 @@
 [
   {
+    "id": "4095a1c9c206d3a5cf713e7be74cacb2",
+    "title_en": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "published_at": "2026-06-06T20:32:24.000Z",
+    "fetched_at": "2026-06-07T02:39:32.044Z",
+    "title_zh": "OpenAI推出“锁定模式”防御提示注入攻击，保护敏感数据安全",
+    "summary_zh": "OpenAI发布全新“锁定模式”安全功能，旨在防止恶意提示注入攻击窃取敏感数据。该模式通过限制模型对系统指令的响应范围，有效阻断攻击者利用精心设计的提示绕过安全机制的行为，为AI应用提供更高级别的数据保护。",
+    "category": "product"
+  },
+  {
     "id": "1b122398199fa9d5b0c3a8394604742a",
     "title_en": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
     "source": "TechCrunch AI",
@@ -250,6 +261,105 @@
     "fetched_at": "2026-06-06T13:09:58.782Z",
     "title_zh": "《辛普森一家》编剧当真举行总统竞选集会",
     "summary_zh": "《辛普森一家》的一位编剧竟真的举办了一场总统竞选集会，引发媒体热议。尽管看似玩笑，但活动吸引了真实支持者，并讨论了严肃政策议题。这一事件模糊了虚构与现实、娱乐与政治的界限，也反映了当代政治生态的娱乐化趋势。",
+    "category": "industry"
+  },
+  {
+    "id": "dad23346f9ccb9245b8359ca627c795e",
+    "title_en": "Donald Trump says US may take equity stakes in AI companies - Financial Times",
+    "source": "Slashdot.org",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183615826",
+    "published_at": "2026-06-06T02:32:30Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "特朗普称美国可能持有AI公司股权",
+    "summary_zh": "据《金融时报》报道，美国前总统特朗普表示，美国政府可能考虑通过持有AI公司股权的方式参与人工智能产业发展。这一表态引发市场对AI行业政策走向和公私合作模式的广泛讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "76558e02421f52bfb89336c32c19a504",
+    "title_en": "SpaceX inks $38.7 billion computing power deal with Google",
+    "source": "The Straits Times",
+    "url": "https://www.straitstimes.com/business/spacex-inks-38-7-billion-computing-power-deal-with-google",
+    "published_at": "2026-06-06T02:13:49Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "SpaceX与谷歌签署387亿美元算力大单",
+    "summary_zh": "SpaceX与谷歌达成价值387亿美元的云计算与算力合作协议，将为谷歌提供卫星网络支持及大规模计算资源。这笔交易凸显了太空与AI算力融合的趋势，也标志着科技巨头在基础设施领域的竞争升级。",
+    "category": "industry"
+  },
+  {
+    "id": "711fcf3ecbf8ac1540dd075387b4e01e",
+    "title_en": "Northern Albertans raise concerns about Wonder Valley AI data centre at packed community hall",
+    "source": "CBC News",
+    "url": "https://www.cbc.ca/news/canada/edmonton/wonder-valley-data-centre-open-house-9.7225459",
+    "published_at": "2026-06-06T02:10:04Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "阿尔伯塔北部居民对Wonder Valley AI数据中心表达担忧",
+    "summary_zh": "加拿大阿尔伯塔省北部社区举行会议，居民对计划建设的Wonder Valley AI数据中心提出环境与资源消耗方面的担忧。该事件反映了AI基础设施建设与地方社区利益之间的潜在冲突，引发对可持续AI发展的思考。",
+    "category": "industry"
+  },
+  {
+    "id": "6983bc2e4ae8b919731ff249f2db6a2e",
+    "title_en": "China can build humanoids at scale. The hard part is finding enough buyers",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/china-build-humanoids-scale-hard-020746267.html",
+    "published_at": "2026-06-06T02:07:46Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "中国具备大规模量产人形机器人能力，但买家难寻",
+    "summary_zh": "报道指出，中国在人形机器人制造方面已具备规模化生产能力，然而市场需求不足成为主要瓶颈。技术成熟与商业落地之间的鸿沟，使得人形机器人产业面临“造得出、卖不掉”的尴尬局面。",
+    "category": "industry"
+  },
+  {
+    "id": "922dd050b1918e9e7a130617539d5fc8",
+    "title_en": "Bitcoin crashes below $60K first time in almost 2 years: buy, hold, or exit – What investors should do now?",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/money/personal-finance/bitcoin-crashes-below-60k-first-time-in-almost-2-years-buy-hold-or-exit-what-investors-should-do-now-11780707214418.html",
+    "published_at": "2026-06-06T02:02:32Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "比特币跌破6万美元创近两年新低：投资者该如何应对？",
+    "summary_zh": "比特币价格跌破6万美元，为近两年来首次。市场恐慌情绪蔓延，投资者面临买入、持有或抛售的抉择。分析人士建议关注宏观经济与监管动态，理性评估风险，避免盲目跟风操作。",
+    "category": "industry"
+  },
+  {
+    "id": "7abdf31c1dd1d642aba0225608f76ed2",
+    "title_en": "Mano Menezes' side beat Brazil's rivals in the Copa",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/mano-menezes-side-beat-brazils-rivals-in-the-copa-42972074",
+    "published_at": "2026-06-06T01:59:00Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "马诺·梅内塞斯率队击败巴西对手赢得美洲杯",
+    "summary_zh": "在美洲杯比赛中，马诺·梅内塞斯执教的球队击败了巴西的竞争对手，成功夺冠。这场比赛展现了球队的战术执行力和团队协作，为球迷奉献了一场精彩对决。",
+    "category": "industry"
+  },
+  {
+    "id": "0fbbbe0c9f1411ff0853ca89e8b49ebd",
+    "title_en": "SpaceX’s lofty IPO has serious earthbound problems, from emissions to water",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/news/spacexs-lofty-ipo-has-serious-earthbound-problems-from-emissions-to-water-11780710698355.html",
+    "published_at": "2026-06-06T01:56:30Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "SpaceX宏伟IPO面临严峻地球问题：从排放到水资源",
+    "summary_zh": "SpaceX的首次公开募股（IPO）估值虽高，但面临来自环境方面的重大挑战，包括火箭发射产生的碳排放以及对当地水资源的影响。这些问题可能影响其上市进程和长期发展，投资者需关注其可持续性风险。",
+    "category": "industry"
+  },
+  {
+    "id": "612619f9ee8bc4f27339a7648ece38c9",
+    "title_en": "AI is now more enjoyable - and inescapable",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/opinion/google-gemini-ai-services-notebooklm-apple-ai-offerings-11780366743458.html",
+    "published_at": "2026-06-06T01:30:38Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "AI如今更令人愉悦——且无处不在",
+    "summary_zh": "人工智能技术正变得更加有趣且难以回避，从娱乐应用到日常工具，AI的融入提升了用户体验。文章探讨了AI如何以更自然、更互动的方式融入生活，同时指出其普及带来的隐私和依赖性问题。",
+    "category": "product"
+  },
+  {
+    "id": "d5e287e492c795e5c78c088d6a46a923",
+    "title_en": "Why Reid Hoffman is leaving Microsoft's board for an AI startup?",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/people/reid-hoffman-exits-microsoft-board-to-focus-on-ai-drug-discovery-startup-manas-11780708167278.html",
+    "published_at": "2026-06-06T01:21:25Z",
+    "fetched_at": "2026-06-07T02:39:32.961Z",
+    "title_zh": "雷德·霍夫曼为何离开微软董事会加入AI初创公司？",
+    "summary_zh": "LinkedIn联合创始人雷德·霍夫曼辞去微软董事会职务，转而加入一家AI初创公司。此举反映了他对AI领域创新机会的看好，以及科技巨头与初创企业之间的人才流动趋势。分析认为，霍夫曼的加入将助力该初创公司在AI赛道加速发展。",
     "category": "industry"
   },
   {
@@ -5388,115 +5498,5 @@
     "title_zh": "长新冠的痛苦真相：患者面临的长期挑战",
     "summary_zh": "长新冠（Long Covid）患者持续遭受疲劳、认知障碍等症状困扰，严重影响生活质量。文章深入探讨了长新冠的病理机制、治疗困境及社会支持不足的问题，呼吁更多关注和研究投入。",
     "category": "research"
-  },
-  {
-    "id": "b2550cee1e43f22076b2afcffdcc8cf8",
-    "title_en": "Hackers are already laying groundwork to disrupt the 2026 midterms, research says",
-    "source": "Nextgov",
-    "url": "https://www.nextgov.com/cybersecurity/2026/06/hackers-are-already-laying-groundwork-disrupt-2026-midterms-research-says/413874/",
-    "published_at": "2026-06-01T10:00:00Z",
-    "fetched_at": "2026-06-02T10:05:13.920Z",
-    "title_zh": "研究显示黑客已开始为干扰2026年中期选举布局",
-    "summary_zh": "Nextgov报道，网络安全研究显示黑客组织已提前布局，准备干扰2026年美国中期选举。攻击手段可能包括虚假信息传播、网络入侵和投票系统破坏。专家呼吁政府和科技公司加强防御，防范类似2016年选举干预事件重演，确保选举安全与公正。",
-    "category": "industry"
-  },
-  {
-    "id": "3eb16bd6596ac9c7549ceaae319df804",
-    "title_en": "The Pope vs. Silicon Valley",
-    "source": "Calnewport.com",
-    "url": "https://calnewport.com/the-pope-vs-silicon-valley/",
-    "published_at": "2026-06-01T10:00:00Z",
-    "fetched_at": "2026-06-02T10:05:13.920Z",
-    "title_zh": "教皇对阵硅谷",
-    "summary_zh": "Calnewport.com发表文章，对比教皇方济各与硅谷科技领袖在技术伦理上的立场冲突。教皇强调技术应服务于人类福祉，警惕AI和数字技术带来的社会分裂；而硅谷则追求创新和效率。文章探讨了宗教与科技在价值观上的根本分歧，以及如何平衡技术进步与人文关怀。",
-    "category": "industry"
-  },
-  {
-    "id": "2de338e41c6a4195c44234547b51db34",
-    "title_en": "Pudu Robotics and Shenzhen CTID Co. Ltd Launch the World's First Full-Scenario Robot-Serviced Hotel Project",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/pudu-robotics-and-shenzhen-ctid-co-ltd-launch-the-worlds-first-full-scenario-robot-serviced-hotel-project-302786945.html",
-    "published_at": "2026-06-01T10:00:00Z",
-    "fetched_at": "2026-06-02T10:05:13.920Z",
-    "title_zh": "普渡机器人与深圳CTID推出全球首个全场景机器人服务酒店项目",
-    "summary_zh": "普渡机器人联合深圳CTID公司，共同推出全球首个全场景机器人服务酒店项目。该项目整合多种机器人，覆盖前台接待、客房服务、清洁和配送等环节，实现酒店运营全面自动化。此举标志着机器人技术在服务行业的深度应用，为未来智慧酒店树立了新标杆。",
-    "category": "product"
-  },
-  {
-    "id": "af283407007d986475f4078c7256cde7",
-    "title_en": "Xbox fan backlash to \"PlayStation logos in the Showcase\" isn't about gatekeeping — it's about distrust",
-    "source": "Windows Central",
-    "url": "https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust",
-    "published_at": "2026-06-01T10:00:00Z",
-    "fetched_at": "2026-06-02T10:05:13.920Z",
-    "title_zh": "Xbox粉丝对展示会中PlayStation标志的抵制并非排外，而是源于不信任",
-    "summary_zh": "Windows Central分析指出，Xbox粉丝在展示会上看到PlayStation标志后产生强烈反感，这并非简单的平台排外，而是源于对微软承诺的不信任。此前Xbox曾承诺独占内容，但近期策略转变让玩家感到被背叛。这一事件反映了游戏社区对平台忠诚度和商业决策的复杂情绪。",
-    "category": "industry"
-  },
-  {
-    "id": "737a5f1036a8957d2d03809ae619ef05",
-    "title_en": "Why a surge of election-related websites could spell rising cyber threats for the midterms",
-    "source": "PBS",
-    "url": "https://www.pbs.org/newshour/politics/why-a-surge-of-election-related-websites-could-spell-rising-cyber-threats-for-the-midterms",
-    "published_at": "2026-06-01T09:55:32Z",
-    "fetched_at": "2026-06-02T10:05:13.920Z",
-    "title_zh": "选举相关网站激增或预示中期选举面临更高网络威胁",
-    "summary_zh": "PBS报道，大量与选举相关的新网站涌现，可能预示着2026年中期选举将面临更严峻的网络威胁。这些网站可能被用于传播虚假信息、钓鱼攻击或操纵舆论。网络安全专家警告，选举基础设施需加强防护，以应对日益复杂的网络攻击手段，保障选举过程的完整性。",
-    "category": "industry"
-  },
-  {
-    "id": "954d2ace0541c8c9eb594a4b82ec3ca6",
-    "title_en": "Websites Can Now Spy on You Through Your Hard Drive",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
-    "published_at": "2026-06-01T09:30:00.000Z",
-    "fetched_at": "2026-06-01T11:10:04.823Z",
-    "title_zh": "网站可通过硬盘追踪用户：新型隐私威胁曝光",
-    "summary_zh": "研究人员发现一种新型追踪技术，网站可通过分析硬盘响应时间等特征识别用户，绕过传统隐私保护措施。该技术对用户隐私构成严重威胁，呼吁浏览器和操作系统加强防护。",
-    "category": "research"
-  },
-  {
-    "id": "68bed50f15a20ad445219d25c911339c",
-    "title_en": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-    "published_at": "2026-06-01T09:09:00.000Z",
-    "fetched_at": "2026-06-01T17:18:37.162Z",
-    "title_zh": "中国批准全球首款侵入式脑机接口芯片——下一步是什么？",
-    "summary_zh": "中国已批准全球首款侵入式脑机接口芯片进行人体临床试验，这标志着神经科技领域的重大突破。该芯片旨在通过直接连接大脑与外部设备，帮助治疗神经系统疾病并增强人类认知能力。文章分析了这一里程碑事件背后的技术细节、监管历程以及未来商业化前景。对于AI和医疗科技行业而言，这不仅是技术创新的胜利，也预示着人机融合新时代的到来，但同时也带来了伦理和安全挑战。",
-    "category": "research"
-  },
-  {
-    "id": "640b480237c3a0c9e4bc6f38203236df",
-    "title_en": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
-    "published_at": "2026-06-01T04:36:41.000Z",
-    "fetched_at": "2026-06-01T11:10:04.172Z",
-    "title_zh": "微软Surface Laptop Ultra亮相：搭载Nvidia RTX Spark",
-    "summary_zh": "微软推出全新Surface Laptop Ultra，首次搭载Nvidia RTX Spark芯片，主打极致轻薄与强劲图形性能。该设备面向创意工作者和高端用户，结合微软的硬件设计与Nvidia的AI加速能力，有望在移动工作站市场掀起波澜。",
-    "category": "product"
-  },
-  {
-    "id": "3c29974bd81f18ea6bcc184c937e717a",
-    "title_en": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
-    "published_at": "2026-06-01T04:28:53.000Z",
-    "fetched_at": "2026-06-01T11:10:04.172Z",
-    "title_zh": "英伟达发布RTX Spark：号称史上最高效PC芯片",
-    "summary_zh": "英伟达正式发布RTX Spark芯片，宣称其为“有史以来最高效的PC芯片”。该芯片在性能功耗比上实现重大突破，专为AI推理和图形渲染优化。英伟达表示，RTX Spark将重新定义移动计算设备的能效标准，推动AI PC普及。",
-    "category": "product"
-  },
-  {
-    "id": "30d043a0a8db15e67396239f94054584",
-    "title_en": "Official: Ecuador’s World Cup squad is out!",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/official-ecuadors-world-cup-squad-is-out-42949418",
-    "published_at": "2026-06-01T02:33:00Z",
-    "fetched_at": "2026-06-02T02:43:16.378Z",
-    "title_zh": "官方：厄瓜多尔世界杯大名单出炉！",
-    "summary_zh": "厄瓜多尔国家队正式公布了参加2026年世界杯的最终大名单。主教练征召了包括核心球员在内的最强阵容，旨在小组赛中取得突破。名单中既有经验丰富的老将，也有崭露头角的新星。球迷对球队的战术安排和晋级前景充满期待，厄瓜多尔将力争在世界杯舞台上展现南美足球的实力。",
-    "category": "industry"
   }
 ]

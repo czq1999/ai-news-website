@@ -1,6 +1,192 @@
 {
   "days": [
     {
+      "date": "2026-06-07",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理生态：多平台信息聚合、前端交互框架、开源记忆系统及个人AI基础设施，凸显代理化、开源化与工具链整合趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars_total": 26654,
+          "stars_today": 794,
+          "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能"
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 219710,
+          "stars_today": 700,
+          "description_zh": "一套行之有效的代理技能框架与软件开发方法论"
+        },
+        {
+          "rank": 3,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 22393,
+          "stars_today": 683,
+          "description_zh": "为你的AI代理赋予浏览整个互联网的视觉能力。通过一个命令行界面即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——无需任何API费用"
+        },
+        {
+          "rank": 4,
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description_en": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+          "language": "TypeScript",
+          "stars_total": 33247,
+          "stars_today": 631,
+          "description_zh": "面向代理与生成式UI的前端技术栈。支持React、Angular、移动端、Slack等。AG-UI协议的缔造者"
+        },
+        {
+          "rank": 5,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description_en": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars_total": 54315,
+          "stars_today": 446,
+          "description_zh": "基准测试表现最佳的开源AI记忆系统，而且完全免费"
+        },
+        {
+          "rank": 6,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 28898,
+          "stars_today": 439,
+          "description_zh": "一个AI代理技能，可研究Reddit、X、YouTube、HN、Polymarket及网络上的任何话题，然后综合生成有依据的摘要"
+        },
+        {
+          "rank": 7,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description_en": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+          "language": "Python",
+          "stars_total": 80993,
+          "stars_today": 433,
+          "description_zh": "将任何PDF或图像文档转化为可供AI使用的结构化数据。一款强大轻量的OCR工具包，连接图像/PDF与大语言模型，支持100多种语言"
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description_en": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars_total": 48492,
+          "stars_today": 216,
+          "description_zh": "开源前沿语音AI"
+        },
+        {
+          "rank": 9,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description_en": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars_total": 1795,
+          "stars_today": 213,
+          "description_zh": "OpenAI 插件"
+        },
+        {
+          "rank": 10,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "language": "JavaScript",
+          "stars_total": 49413,
+          "stars_today": 193,
+          "description_zh": "基于Claude Code构建的AI驱动求职系统，包含14种技能模式、Go仪表盘、PDF生成和批量处理功能"
+        },
+        {
+          "rank": 11,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+          "language": "Go",
+          "stars_total": 36015,
+          "stars_today": 159,
+          "description_zh": "在容器、Kubernetes、代码仓库、云环境等中查找漏洞、错误配置、密钥和软件物料清单"
+        },
+        {
+          "rank": 12,
+          "name": "openai/whisper",
+          "url": "https://github.com/openai/whisper",
+          "description_en": "Robust Speech Recognition via Large-Scale Weak Supervision",
+          "language": "Python",
+          "stars_total": 101889,
+          "stars_today": 150,
+          "description_zh": "通过大规模弱监督实现稳健的语音识别"
+        },
+        {
+          "rank": 13,
+          "name": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "description_en": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "language": "TypeScript",
+          "stars_total": 14987,
+          "stars_today": 70,
+          "description_zh": "用于增强人类能力的代理式AI基础设施"
+        },
+        {
+          "rank": 14,
+          "name": "microsoft/mxc",
+          "url": "https://github.com/microsoft/mxc",
+          "description_en": "Policy-driven, layered isolation and containment",
+          "language": "Rust",
+          "stars_total": 600,
+          "stars_today": 64,
+          "description_zh": "基于策略的分层隔离与管控"
+        },
+        {
+          "rank": 15,
+          "name": "golang/go",
+          "url": "https://github.com/golang/go",
+          "description_en": "The Go programming language",
+          "language": "Go",
+          "stars_total": 134518,
+          "stars_today": 30,
+          "description_zh": "Go编程语言"
+        },
+        {
+          "rank": 16,
+          "name": "sveltejs/svelte",
+          "url": "https://github.com/sveltejs/svelte",
+          "description_en": "web development for the rest of us",
+          "language": "JavaScript",
+          "stars_total": 87007,
+          "stars_today": 25,
+          "description_zh": "面向我们所有人的Web开发框架"
+        },
+        {
+          "rank": 17,
+          "name": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "description_en": "Next generation frontend tooling. It's fast!",
+          "language": "TypeScript",
+          "stars_total": 81200,
+          "stars_today": 25,
+          "description_zh": "下一代前端工具链，速度极快"
+        },
+        {
+          "rank": 18,
+          "name": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "description_en": "The official NGINX Open Source repository.",
+          "language": "C",
+          "stars_total": 30700,
+          "stars_today": 20,
+          "description_zh": "官方NGINX开源仓库"
+        }
+      ]
+    },
+    {
       "date": "2026-06-06",
       "summary_zh": "今日GitHub热门项目聚焦AI代理生态，涵盖跨平台信息聚合、前端交互框架、记忆系统及安全扫描工具，凸显开源AI基础设施与开发效率提升趋势。",
       "projects": [
@@ -4581,132 +4767,6 @@
           "stars_total": 742,
           "stars_today": 142,
           "description_zh": "面向AI开发者的技术资源，用于使用Oracle AI数据库和OCI服务构建应用、智能体和系统"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-08",
-      "summary_zh": "今日GitHub热门项目聚焦AI编码代理、金融交易、本地化深度研究及反检测浏览器，涵盖多代理协作、免费API路由与终端工具等前沿技术。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Hmbown/DeepSeek-TUI",
-          "url": "https://github.com/Hmbown/DeepSeek-TUI",
-          "description_en": "Coding agent for DeepSeek models that runs in your terminal",
-          "language": "Rust",
-          "stars_total": 21577,
-          "stars_today": 3827,
-          "description_zh": "在终端中运行的DeepSeek模型编码智能体。"
-        },
-        {
-          "rank": 2,
-          "name": "anthropics/financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 14511,
-          "stars_today": 3662,
-          "description_zh": ""
-        },
-        {
-          "rank": 3,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "Shell",
-          "stars_total": 34923,
-          "stars_today": 1794,
-          "description_zh": "面向AI编码智能体的生产级工程技能。"
-        },
-        {
-          "rank": 4,
-          "name": "decolua/9router",
-          "url": "https://github.com/decolua/9router",
-          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-          "language": "JavaScript",
-          "stars_total": 5427,
-          "stars_today": 1028,
-          "description_zh": "无限免费AI编程。通过40多个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
-        },
-        {
-          "rank": 5,
-          "name": "datawhalechina/hello-agents",
-          "url": "https://github.com/datawhalechina/hello-agents",
-          "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-          "language": "Python",
-          "stars_total": 44479,
-          "stars_today": 645,
-          "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
-        },
-        {
-          "rank": 6,
-          "name": "LearningCircuit/local-deep-research",
-          "url": "https://github.com/LearningCircuit/local-deep-research",
-          "description_en": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-          "language": "Python",
-          "stars_total": 6659,
-          "stars_today": 572,
-          "description_zh": "在SimpleQA上达到约95%准确率（例如在3090上运行Qwen3.6-27B）。支持所有本地和云端LLM（llama.cpp、Ollama、Google等）。10+搜索引擎——arXiv、PubMed、您的私人文档。一切本地化且加密。"
-        },
-        {
-          "rank": 7,
-          "name": "CloakHQ/CloakBrowser",
-          "url": "https://github.com/CloakHQ/CloakBrowser",
-          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-          "language": "Python",
-          "stars_total": 2775,
-          "stars_today": 482,
-          "description_zh": "隐身Chromium，通过所有机器人检测测试。即插即用的Playwright替代方案，带有源码级指纹补丁。30/30测试通过。"
-        },
-        {
-          "rank": 8,
-          "name": "z-lab/dflash",
-          "url": "https://github.com/z-lab/dflash",
-          "description_en": "DFlash: Block Diffusion for Flash Speculative Decoding",
-          "language": "Python",
-          "stars_total": 3784,
-          "stars_today": 388,
-          "description_zh": "DFlash：用于快速推测解码的块扩散方法。"
-        },
-        {
-          "rank": 9,
-          "name": "HKUDS/AI-Trader",
-          "url": "https://github.com/HKUDS/AI-Trader",
-          "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-          "language": "Python",
-          "stars_total": 14510,
-          "stars_today": 189,
-          "description_zh": "“AI-Trader：100%全自动智能体原生交易”"
-        },
-        {
-          "rank": 10,
-          "name": "flutter/skills",
-          "url": "https://github.com/flutter/skills",
-          "description_en": "",
-          "language": "Dart",
-          "stars_total": 1606,
-          "stars_today": 168,
-          "description_zh": ""
-        },
-        {
-          "rank": 11,
-          "name": "awslabs/aidlc-workflows",
-          "url": "https://github.com/awslabs/aidlc-workflows",
-          "description_en": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-          "language": "Python",
-          "stars_total": 1700,
-          "stars_today": 92,
-          "description_zh": "面向AI编码智能体的AI驱动生命周期（AI-DLC）自适应工作流引导规则。"
-        },
-        {
-          "rank": 12,
-          "name": "lobehub/lobehub",
-          "url": "https://github.com/lobehub/lobehub",
-          "description_en": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-          "language": "TypeScript",
-          "stars_total": 76408,
-          "stars_today": 74,
-          "description_zh": "工作与生活的终极空间——寻找、构建并与与您共同成长的智能体队友协作。我们将智能体框架提升至新高度——支持多智能体协作、轻松设计智能体团队，并引入智能体作为工作交互的基本单元。"
         }
       ]
     }
