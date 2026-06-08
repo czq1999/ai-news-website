@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-06-08",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：多源信息聚合、个性化风格优化、开源笔记本工具及离线生存AI系统，同时涵盖计算机视觉、向量索引等基础设施。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Python",
+          "stars_total": 7314,
+          "stars_today": 1554,
+          "description_zh": "基于TurboQuant构建的向量索引，使用Rust编写并带有Python绑定"
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description_en": "The agent that grows with you",
+          "language": "Python",
+          "stars_total": 186088,
+          "stars_today": 1112,
+          "description_zh": "与你一同成长的智能体"
+        },
+        {
+          "rank": 3,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 31390,
+          "stars_today": 1111,
+          "description_zh": "AI代理技能，可跨Reddit、X、YouTube、HN、Polymarket及网络研究任何主题，然后综合生成有依据的摘要"
+        },
+        {
+          "rank": 4,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "Shell",
+          "stars_total": 36918,
+          "stars_today": 1103,
+          "description_zh": "品味技能——赋予AI良好品味，阻止AI生成无聊、千篇一律的劣质内容"
+        },
+        {
+          "rank": 5,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars_total": 27354,
+          "stars_today": 554,
+          "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能"
+        },
+        {
+          "rank": 6,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description_en": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars_total": 72551,
+          "stars_today": 350,
+          "description_zh": "所有小初高、大学PDF教材。"
+        },
+        {
+          "rank": 7,
+          "name": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "language": "Rust",
+          "stars_total": 47561,
+          "stars_today": 322,
+          "description_zh": "一个开源、可扩展的AI代理，超越代码建议——可安装、执行、编辑和测试，支持任何LLM"
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/pg_durable",
+          "url": "https://github.com/microsoft/pg_durable",
+          "description_en": "PostgreSQL in-database durable execution",
+          "language": "Rust",
+          "stars_total": 1482,
+          "stars_today": 316,
+          "description_zh": "PostgreSQL数据库内的持久化执行"
+        },
+        {
+          "rank": 9,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "language": "TypeScript",
+          "stars_total": 29773,
+          "stars_today": 309,
+          "description_zh": "N.O.M.A.D项目，是一款自包含的离线生存计算机，内置关键工具、知识和AI，让您随时随地保持知情并拥有自主能力"
+        },
+        {
+          "rank": 10,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description_en": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars_total": 2067,
+          "stars_today": 262,
+          "description_zh": "OpenAI插件"
+        },
+        {
+          "rank": 11,
+          "name": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "description_en": "Desktop app to manage markdown knowledge bases",
+          "language": "TypeScript",
+          "stars_total": 12941,
+          "stars_today": 245,
+          "description_zh": "用于管理Markdown知识库的桌面应用"
+        },
+        {
+          "rank": 12,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description_en": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars_total": 18859,
+          "stars_today": 183,
+          "description_zh": "让我们用AI赚钱！"
+        },
+        {
+          "rank": 13,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description_en": "LLM inference in C/C++",
+          "language": "C++",
+          "stars_total": 115372,
+          "stars_today": 158,
+          "description_zh": "用C/C++实现的LLM推理"
+        },
+        {
+          "rank": 14,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description_en": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars_total": 88138,
+          "stars_today": 65,
+          "description_zh": "开源计算机视觉库"
+        },
+        {
+          "rank": 15,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description_en": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars_total": 13757,
+          "stars_today": 28,
+          "description_zh": "用于追踪位置或手机号码的实用工具"
+        }
+      ]
+    },
+    {
       "date": "2026-06-07",
       "summary_zh": "今日GitHub热门项目聚焦AI代理与工具创新，涵盖多源信息聚合、视觉库、内容质量提升及离线生存计算，展现开源AI生态的实用化与多元化趋势。",
       "projects": [
@@ -4601,142 +4757,6 @@
           "stars_total": 10459,
           "stars_today": 170,
           "description_zh": "自我进化智能体：从3300行种子代码生长出技能树，以6倍更少的token消耗实现完整系统控制"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-09",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态，涵盖金融、开发工具、记忆系统及零基础编程教程，同时涌现3D编辑与DNS隧道等创新工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "anthropics/financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 17079,
-          "stars_today": 3077,
-          "description_zh": ""
-        },
-        {
-          "rank": 2,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "Shell",
-          "stars_total": 37200,
-          "stars_today": 2801,
-          "description_zh": "面向AI编码智能体的生产级工程技能"
-        },
-        {
-          "rank": 3,
-          "name": "datawhalechina/hello-agents",
-          "url": "https://github.com/datawhalechina/hello-agents",
-          "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-          "language": "Python",
-          "stars_total": 45604,
-          "stars_today": 1162,
-          "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
-        },
-        {
-          "rank": 4,
-          "name": "decolua/9router",
-          "url": "https://github.com/decolua/9router",
-          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-          "language": "JavaScript",
-          "stars_total": 6357,
-          "stars_today": 980,
-          "description_zh": "无限免费AI编码。通过40+提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制"
-        },
-        {
-          "rank": 5,
-          "name": "masterking32/MasterDnsVPN",
-          "url": "https://github.com/masterking32/MasterDnsVPN",
-          "description_en": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-          "language": "Go",
-          "stars_total": 2379,
-          "stars_today": 595,
-          "description_zh": "高级DNS隧道VPN，用于绕过审查，在DNSTT和SlipStream基础上优化，具备低开销ARQ、解析器负载均衡、高丢包稳定性与速度"
-        },
-        {
-          "rank": 6,
-          "name": "bytedance/UI-TARS-desktop",
-          "url": "https://github.com/bytedance/UI-TARS-desktop",
-          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-          "language": "TypeScript",
-          "stars_total": 31282,
-          "stars_today": 549,
-          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
-        },
-        {
-          "rank": 7,
-          "name": "rohitg00/agentmemory",
-          "url": "https://github.com/rohitg00/agentmemory",
-          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-          "language": "TypeScript",
-          "stars_total": 3285,
-          "stars_today": 518,
-          "description_zh": "基于真实世界基准测试的AI编码智能体持久化记忆方案"
-        },
-        {
-          "rank": 8,
-          "name": "playcanvas/supersplat",
-          "url": "https://github.com/playcanvas/supersplat",
-          "description_en": "3D Gaussian Splat Editor",
-          "language": "TypeScript",
-          "stars_total": 6157,
-          "stars_today": 513,
-          "description_zh": "3D高斯泼溅编辑器"
-        },
-        {
-          "rank": 9,
-          "name": "datawhalechina/easy-vibe",
-          "url": "https://github.com/datawhalechina/easy-vibe",
-          "description_en": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
-          "language": "JavaScript",
-          "stars_total": 8411,
-          "stars_today": 294,
-          "description_zh": "💻 vibe coding 2026 | 面向初学者的现代编程入门课程，助你循序渐进掌握编程技能"
-        },
-        {
-          "rank": 10,
-          "name": "Lordog/dive-into-llms",
-          "url": "https://github.com/Lordog/dive-into-llms",
-          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
-          "language": "Jupyter Notebook",
-          "stars_total": 36449,
-          "stars_today": 189,
-          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
-        },
-        {
-          "rank": 11,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 38738,
-          "stars_today": 159,
-          "description_zh": "面向编码智能体的Chrome开发者工具"
-        },
-        {
-          "rank": 12,
-          "name": "rowboatlabs/rowboat",
-          "url": "https://github.com/rowboatlabs/rowboat",
-          "description_en": "Open-source AI coworker, with memory",
-          "language": "TypeScript",
-          "stars_total": 13680,
-          "stars_today": 144,
-          "description_zh": "开源AI同事，具备记忆能力"
-        },
-        {
-          "rank": 13,
-          "name": "oracle-devrel/oracle-ai-developer-hub",
-          "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
-          "description_en": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
-          "language": "Jupyter Notebook",
-          "stars_total": 742,
-          "stars_today": 142,
-          "description_zh": "面向AI开发者的技术资源，用于使用Oracle AI数据库和OCI服务构建应用、智能体和系统"
         }
       ]
     }
