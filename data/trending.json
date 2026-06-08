@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-08",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：多源信息聚合、个性化风格优化、开源笔记本工具及离线生存AI系统，同时涵盖计算机视觉、向量索引等基础设施。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理与工具，涵盖跨平台信息聚合、计算机视觉、内容质量提升、离线生存系统及高效向量索引，展现AI实用化与开源创新趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/RyanCodrai/turbovec",
           "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
           "language": "Python",
-          "stars_total": 7314,
+          "stars_total": 7805,
           "stars_today": 1554,
           "description_zh": "基于TurboQuant构建的向量索引，使用Rust编写并带有Python绑定"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 186088,
+          "stars_total": 186701,
           "stars_today": 1112,
           "description_zh": "与你一同成长的智能体"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_total": 31390,
+          "stars_total": 32750,
           "stars_today": 1111,
           "description_zh": "AI代理技能，可跨Reddit、X、YouTube、HN、Polymarket及网络研究任何主题，然后综合生成有依据的摘要"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
           "language": "Shell",
-          "stars_total": 36918,
+          "stars_total": 37850,
           "stars_today": 1103,
           "description_zh": "品味技能——赋予AI良好品味，阻止AI生成无聊、千篇一律的劣质内容"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/lfnovo/open-notebook",
           "description_en": "An Open Source implementation of Notebook LM with more flexibility and features",
           "language": "TypeScript",
-          "stars_total": 27354,
+          "stars_total": 27702,
           "stars_today": 554,
           "description_zh": "Notebook LM的开源实现，具有更高的灵活性和更多功能"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/TapXWorld/ChinaTextbook",
           "description_en": "所有小初高、大学PDF教材。",
           "language": "Roff",
-          "stars_total": 72551,
+          "stars_total": 72807,
           "stars_today": 350,
           "description_zh": "所有小初高、大学PDF教材。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/aaif-goose/goose",
           "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
           "language": "Rust",
-          "stars_total": 47561,
+          "stars_total": 47795,
           "stars_today": 322,
           "description_zh": "一个开源、可扩展的AI代理，超越代码建议——可安装、执行、编辑和测试，支持任何LLM"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/microsoft/pg_durable",
           "description_en": "PostgreSQL in-database durable execution",
           "language": "Rust",
-          "stars_total": 1482,
+          "stars_total": 1603,
           "stars_today": 316,
           "description_zh": "PostgreSQL数据库内的持久化执行"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/Crosstalk-Solutions/project-nomad",
           "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
           "language": "TypeScript",
-          "stars_total": 29773,
+          "stars_total": 29936,
           "stars_today": 309,
           "description_zh": "N.O.M.A.D项目，是一款自包含的离线生存计算机，内置关键工具、知识和AI，让您随时随地保持知情并拥有自主能力"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/openai/plugins",
           "description_en": "OpenAI Plugins",
           "language": "JavaScript",
-          "stars_total": 2067,
+          "stars_total": 2174,
           "stars_today": 262,
           "description_zh": "OpenAI插件"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/refactoringhq/tolaria",
           "description_en": "Desktop app to manage markdown knowledge bases",
           "language": "TypeScript",
-          "stars_total": 12941,
+          "stars_total": 13166,
           "stars_today": 245,
           "description_zh": "用于管理Markdown知识库的桌面应用"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/yikart/AiToEarn",
           "description_en": "Let's use AI to Earn!",
           "language": "TypeScript",
-          "stars_total": 18859,
+          "stars_total": 19239,
           "stars_today": 183,
           "description_zh": "让我们用AI赚钱！"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/ggml-org/llama.cpp",
           "description_en": "LLM inference in C/C++",
           "language": "C++",
-          "stars_total": 115372,
+          "stars_total": 115529,
           "stars_today": 158,
           "description_zh": "用C/C++实现的LLM推理"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/opencv/opencv",
           "description_en": "Open Source Computer Vision Library",
           "language": "C++",
-          "stars_total": 88138,
+          "stars_total": 88303,
           "stars_today": 65,
           "description_zh": "开源计算机视觉库"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/HunxByts/GhostTrack",
           "description_en": "Useful tool to track location or mobile number",
           "language": "Python",
-          "stars_total": 13757,
+          "stars_total": 13902,
           "stars_today": 28,
           "description_zh": "用于追踪位置或手机号码的实用工具"
         }
