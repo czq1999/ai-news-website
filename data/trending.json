@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-06-09",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理技能生态，涵盖多平台信息聚合、向量索引、知识库管理及求职系统，强调零API费用与本地化部署。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 34717,
+          "stars_today": 3558,
+          "description_zh": "AI代理技能，可跨Reddit、X、YouTube、HN、Polymarket及网络研究任意主题，然后综合生成有依据的摘要"
+        },
+        {
+          "rank": 2,
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Python",
+          "stars_total": 8971,
+          "stars_today": 1729,
+          "description_zh": "基于TurboQuant构建的向量索引，使用Rust编写并附带Python绑定"
+        },
+        {
+          "rank": 3,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description_en": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars_total": 42379,
+          "stars_today": 1288,
+          "description_zh": "我们编写可复用的计算机视觉工具。💜"
+        },
+        {
+          "rank": 4,
+          "name": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "language": "Rust",
+          "stars_total": 48131,
+          "stars_today": 699,
+          "description_zh": "一个开源、可扩展的AI代理，超越代码建议——可安装、执行、编辑和测试，支持任意LLM"
+        },
+        {
+          "rank": 5,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 24289,
+          "stars_today": 679,
+          "description_zh": "为你的AI代理赋予观察整个互联网的能力。通过单一命令行界面，零API费用，即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书"
+        },
+        {
+          "rank": 6,
+          "name": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "description_en": "Desktop app to manage markdown knowledge bases",
+          "language": "TypeScript",
+          "stars_total": 13623,
+          "stars_today": 651,
+          "description_zh": "用于管理Markdown知识库的桌面应用"
+        },
+        {
+          "rank": 7,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description_en": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars_total": 73023,
+          "stars_today": 592,
+          "description_zh": "所有小初高、大学PDF教材。"
+        },
+        {
+          "rank": 8,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description_en": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars_total": 12467,
+          "stars_today": 461,
+          "description_zh": "面向Google产品与技术的代理技能"
+        },
+        {
+          "rank": 9,
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description_en": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+          "language": "TypeScript",
+          "stars_total": 34175,
+          "stars_today": 378,
+          "description_zh": "面向代理与生成式UI的前端技术栈。支持React、Angular、移动端、Slack等。AG-UI协议的缔造者"
+        },
+        {
+          "rank": 10,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "language": "Python",
+          "stars_total": 35820,
+          "stars_today": 312,
+          "description_zh": "一份可视化、示例驱动的Claude Code指南——从基础概念到高级代理，附带即用型复制粘贴模板，带来立竿见影的价值"
+        },
+        {
+          "rank": 11,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "language": "JavaScript",
+          "stars_total": 50584,
+          "stars_today": 308,
+          "description_zh": "基于Claude Code构建的AI驱动求职系统。包含14种技能模式、Go语言仪表盘、PDF生成及批量处理功能"
+        },
+        {
+          "rank": 12,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description_en": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars_total": 2337,
+          "stars_today": 296,
+          "description_zh": "OpenAI插件"
+        },
+        {
+          "rank": 13,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description_en": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars_total": 54968,
+          "stars_today": 170,
+          "description_zh": "基准测试表现最佳的开源AI记忆系统，而且完全免费"
+        },
+        {
+          "rank": 14,
+          "name": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+          "language": "",
+          "stars_total": 12747,
+          "stars_today": 164,
+          "description_zh": "PM技能市场：100多种代理技能、命令和插件——覆盖从发现到战略、执行、发布和增长的完整流程"
+        },
+        {
+          "rank": 15,
+          "name": "Andyyyy64/whichllm",
+          "url": "https://github.com/Andyyyy64/whichllm",
+          "description_en": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+          "language": "Python",
+          "stars_total": 3515,
+          "stars_today": 143,
+          "description_zh": "找到在你的硬件上真正能运行且性能最佳的本地LLM。基于真实且关注时效性的基准排名，而非参数数量。一条命令，即刻运行"
+        },
+        {
+          "rank": 16,
+          "name": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "description_en": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "language": "TypeScript",
+          "stars_total": 15466,
+          "stars_today": 62,
+          "description_zh": "用于增强人类能力的自主AI基础设施"
+        }
+      ]
+    },
+    {
       "date": "2026-06-08",
       "summary_zh": "今日GitHub热门项目聚焦AI代理技能生态，涵盖多平台信息聚合、向量索引、知识库管理及求职系统，强调零API费用与本地化部署。",
       "projects": [
@@ -4641,132 +4807,6 @@
           "stars_total": 162876,
           "stars_today": 29,
           "description_zh": "Stable Diffusion网页界面"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-10",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理技术：多模态代理栈、金融交易代理、自进化代理及生产级编码技能，同时涵盖隐身浏览器、3D高斯编辑与免费AI编程工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "anthropics/financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 18538,
-          "stars_today": 1479,
-          "description_zh": ""
-        },
-        {
-          "rank": 2,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "Shell",
-          "stars_total": 38199,
-          "stars_today": 1092,
-          "description_zh": "面向AI编码智能体的生产级工程技能。"
-        },
-        {
-          "rank": 3,
-          "name": "affaan-m/everything-claude-code",
-          "url": "https://github.com/affaan-m/everything-claude-code",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 177850,
-          "stars_today": 1011,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全及研究优先的开发支持。"
-        },
-        {
-          "rank": 4,
-          "name": "decolua/9router",
-          "url": "https://github.com/decolua/9router",
-          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-          "language": "JavaScript",
-          "stars_total": 7140,
-          "stars_today": 806,
-          "description_zh": "无限免费AI编程。通过40多个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK节省40% token，永不触及限制。"
-        },
-        {
-          "rank": 5,
-          "name": "datawhalechina/hello-agents",
-          "url": "https://github.com/datawhalechina/hello-agents",
-          "description_en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-          "language": "Python",
-          "stars_total": 46367,
-          "stars_today": 756,
-          "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
-        },
-        {
-          "rank": 6,
-          "name": "bytedance/UI-TARS-desktop",
-          "url": "https://github.com/bytedance/UI-TARS-desktop",
-          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-          "language": "TypeScript",
-          "stars_total": 31965,
-          "stars_today": 656,
-          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
-        },
-        {
-          "rank": 7,
-          "name": "datawhalechina/easy-vibe",
-          "url": "https://github.com/datawhalechina/easy-vibe",
-          "description_en": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-          "language": "JavaScript",
-          "stars_total": 9013,
-          "stars_today": 642,
-          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，面向初学者逐步掌握。"
-        },
-        {
-          "rank": 8,
-          "name": "playcanvas/supersplat",
-          "url": "https://github.com/playcanvas/supersplat",
-          "description_en": "3D Gaussian Splat Editor",
-          "language": "TypeScript",
-          "stars_total": 6699,
-          "stars_today": 604,
-          "description_zh": "3D高斯泼溅编辑器"
-        },
-        {
-          "rank": 9,
-          "name": "CloakHQ/CloakBrowser",
-          "url": "https://github.com/CloakHQ/CloakBrowser",
-          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-          "language": "Python",
-          "stars_total": 4486,
-          "stars_today": 567,
-          "description_zh": "隐形Chromium浏览器，可绕过所有机器人检测。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
-        },
-        {
-          "rank": 10,
-          "name": "HKUDS/AI-Trader",
-          "url": "https://github.com/HKUDS/AI-Trader",
-          "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-          "language": "Python",
-          "stars_total": 15403,
-          "stars_today": 255,
-          "description_zh": "“AI-Trader：100%全自动智能体原生交易”"
-        },
-        {
-          "rank": 11,
-          "name": "jundot/omlx",
-          "url": "https://github.com/jundot/omlx",
-          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-          "language": "Python",
-          "stars_total": 13193,
-          "stars_today": 187,
-          "description_zh": "面向Apple Silicon的LLM推理服务器，支持连续批处理与SSD缓存——通过macOS菜单栏管理"
-        },
-        {
-          "rank": 12,
-          "name": "lsdefine/GenericAgent",
-          "url": "https://github.com/lsdefine/GenericAgent",
-          "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-          "language": "Python",
-          "stars_total": 10459,
-          "stars_today": 170,
-          "description_zh": "自我进化智能体：从3300行种子代码生长出技能树，以6倍更少的token消耗实现完整系统控制"
         }
       ]
     }
