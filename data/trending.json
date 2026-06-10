@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-06-10",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理、计算机视觉与本地模型工具，涵盖多源信息摘要、向量索引、开源CV库及知识管理应用。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 37531,
+          "stars_today": 3191,
+          "description_zh": "AI代理技能，可研究Reddit、X、YouTube、HN、Polymarket及网络上的任何话题，然后综合生成有依据的摘要"
+        },
+        {
+          "rank": 2,
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Python",
+          "stars_total": 10263,
+          "stars_today": 1801,
+          "description_zh": "基于TurboQuant构建的向量索引，使用Rust编写并带有Python绑定"
+        },
+        {
+          "rank": 3,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "language": "JavaScript",
+          "stars_total": 51769,
+          "stars_today": 1110,
+          "description_zh": "基于Claude Code构建的AI驱动求职系统。14种技能模式、Go仪表盘、PDF生成、批量处理。"
+        },
+        {
+          "rank": 4,
+          "name": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "description_en": "Desktop app to manage markdown knowledge bases",
+          "language": "TypeScript",
+          "stars_total": 14390,
+          "stars_today": 829,
+          "description_zh": "用于管理Markdown知识库的桌面应用"
+        },
+        {
+          "rank": 5,
+          "name": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+          "language": "",
+          "stars_total": 13489,
+          "stars_today": 806,
+          "description_zh": "PM技能市场：100多种代理技能、命令和插件——从发现到策略、执行、发布和增长。"
+        },
+        {
+          "rank": 6,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description_en": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars_total": 43060,
+          "stars_today": 733,
+          "description_zh": "我们编写可复用的计算机视觉工具。💜"
+        },
+        {
+          "rank": 7,
+          "name": "Andyyyy64/whichllm",
+          "url": "https://github.com/Andyyyy64/whichllm",
+          "description_en": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+          "language": "Python",
+          "stars_total": 4146,
+          "stars_today": 633,
+          "description_zh": "找到在你的硬件上真正运行且性能最佳的本地LLM。基于真实且时效性强的基准排名，而非参数数量。一条命令，即刻运行。"
+        },
+        {
+          "rank": 8,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description_en": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars_total": 73546,
+          "stars_today": 519,
+          "description_zh": "所有小初高、大学PDF教材。"
+        },
+        {
+          "rank": 9,
+          "name": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "language": "Rust",
+          "stars_total": 48526,
+          "stars_today": 489,
+          "description_zh": "一个开源、可扩展的AI代理，超越代码建议——可安装、执行、编辑和测试，支持任何LLM"
+        },
+        {
+          "rank": 10,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 49873,
+          "stars_today": 443,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 11,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description_en": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars_total": 20001,
+          "stars_today": 402,
+          "description_zh": "让我们用AI赚钱！"
+        },
+        {
+          "rank": 12,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description_en": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars_total": 2627,
+          "stars_today": 284,
+          "description_zh": "OpenAI插件"
+        },
+        {
+          "rank": 13,
+          "name": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description_en": "open-source healthcare ai",
+          "language": "Python",
+          "stars_total": 1905,
+          "stars_today": 191,
+          "description_zh": "开源医疗AI"
+        },
+        {
+          "rank": 14,
+          "name": "francescopace/espectre",
+          "url": "https://github.com/francescopace/espectre",
+          "description_en": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+          "language": "Python",
+          "stars_total": 8240,
+          "stars_today": 134,
+          "description_zh": "🛜 ESPectre 👻 - 基于Wi-Fi频谱分析（CSI）的运动检测系统，支持Home Assistant集成。"
+        },
+        {
+          "rank": 15,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description_en": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars_total": 88683,
+          "stars_today": 102,
+          "description_zh": "开源计算机视觉库"
+        },
+        {
+          "rank": 16,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description_en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+          "language": "",
+          "stars_total": 139209,
+          "stars_today": 79,
+          "description_zh": "完整的Augment Code、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia和v0（及其他开源）系统提示词、内部工具和AI模型"
+        }
+      ]
+    },
+    {
       "date": "2026-06-09",
       "summary_zh": "今日GitHub热门项目聚焦AI代理、计算机视觉与本地模型工具，涵盖多源信息摘要、向量索引、知识库管理及教材资源，开源生态活跃。",
       "projects": [
@@ -4671,142 +4837,6 @@
           "stars_total": 2159,
           "stars_today": 111,
           "description_zh": "开源、无广告的Android多媒体录制器，支持后台视频录制、屏幕录制、直播和远程摄像头控制。"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-11",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具链：多模态智能体、免费AI编程、隐私AI助手，以及3D高斯泼溅编辑和Stable Diffusion WebUI等实用工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 144465,
-          "stars_today": 2229,
-          "description_zh": "与你一同成长的智能体"
-        },
-        {
-          "rank": 2,
-          "name": "CloakHQ/CloakBrowser",
-          "url": "https://github.com/CloakHQ/CloakBrowser",
-          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-          "language": "Python",
-          "stars_total": 5916,
-          "stars_today": 1325,
-          "description_zh": "隐形Chromium浏览器，通过所有机器人检测测试。即插即用的Playwright替代方案，附带源码级指纹补丁。30/30测试全部通过。"
-        },
-        {
-          "rank": 3,
-          "name": "bytedance/UI-TARS-desktop",
-          "url": "https://github.com/bytedance/UI-TARS-desktop",
-          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-          "language": "TypeScript",
-          "stars_total": 32900,
-          "stars_today": 956,
-          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
-        },
-        {
-          "rank": 4,
-          "name": "decolua/9router",
-          "url": "https://github.com/decolua/9router",
-          "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-          "language": "JavaScript",
-          "stars_total": 8162,
-          "stars_today": 942,
-          "description_zh": "无限免费AI编程。通过40多个提供商将Claude Code、Codex、Cursor、Cline、Copilot、Antigravity连接到免费的Claude/GPT/Gemini。自动回退，RTK减少40%令牌，永不触及限制。"
-        },
-        {
-          "rank": 5,
-          "name": "datawhalechina/easy-vibe",
-          "url": "https://github.com/datawhalechina/easy-vibe",
-          "description_en": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-          "language": "JavaScript",
-          "stars_total": 9802,
-          "stars_today": 808,
-          "description_zh": "💻 vibe coding 2026 | 你的第一门现代编程课程，让初学者一步步掌握。"
-        },
-        {
-          "rank": 6,
-          "name": "rohitg00/agentmemory",
-          "url": "https://github.com/rohitg00/agentmemory",
-          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-          "language": "TypeScript",
-          "stars_total": 4568,
-          "stars_today": 604,
-          "description_zh": "基于真实世界基准测试的AI编程智能体持久化记忆方案第一名"
-        },
-        {
-          "rank": 7,
-          "name": "yikart/AiToEarn",
-          "url": "https://github.com/yikart/AiToEarn",
-          "description_en": "Let's use AI to Earn!",
-          "language": "TypeScript",
-          "stars_total": 10605,
-          "stars_today": 595,
-          "description_zh": "用AI来赚钱！"
-        },
-        {
-          "rank": 8,
-          "name": "playcanvas/supersplat",
-          "url": "https://github.com/playcanvas/supersplat",
-          "description_en": "3D Gaussian Splat Editor",
-          "language": "TypeScript",
-          "stars_total": 7246,
-          "stars_today": 533,
-          "description_zh": "3D高斯泼溅编辑器"
-        },
-        {
-          "rank": 9,
-          "name": "tinyhumansai/openhuman",
-          "url": "https://github.com/tinyhumansai/openhuman",
-          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-          "language": "Rust",
-          "stars_total": 1273,
-          "stars_today": 501,
-          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
-        },
-        {
-          "rank": 10,
-          "name": "Lordog/dive-into-llms",
-          "url": "https://github.com/Lordog/dive-into-llms",
-          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
-          "language": "Jupyter Notebook",
-          "stars_total": 37254,
-          "stars_today": 451,
-          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
-        },
-        {
-          "rank": 11,
-          "name": "rasbt/LLMs-from-scratch",
-          "url": "https://github.com/rasbt/LLMs-from-scratch",
-          "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-          "language": "Jupyter Notebook",
-          "stars_total": 92848,
-          "stars_today": 408,
-          "description_zh": "从零开始，逐步用PyTorch实现一个类似ChatGPT的大语言模型"
-        },
-        {
-          "rank": 12,
-          "name": "millionco/react-doctor",
-          "url": "https://github.com/millionco/react-doctor",
-          "description_en": "Your agent writes bad React. This catches it",
-          "language": "TypeScript",
-          "stars_total": 7920,
-          "stars_today": 340,
-          "description_zh": "你的智能体写出的React代码很烂。这个工具能抓住它。"
-        },
-        {
-          "rank": 13,
-          "name": "AUTOMATIC1111/stable-diffusion-webui",
-          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-          "description_en": "Stable Diffusion web UI",
-          "language": "Python",
-          "stars_total": 162876,
-          "stars_today": 29,
-          "description_zh": "Stable Diffusion网页界面"
         }
       ]
     }
