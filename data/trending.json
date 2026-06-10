@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-10",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理、计算机视觉与本地模型工具，涵盖多源信息摘要、向量索引、开源CV库及知识管理应用。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理、计算机视觉、本地LLM评测及开源教育资料，涵盖多平台信息聚合、向量索引、知识库管理及AI工具系统提示开源。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_total": 37531,
+          "stars_total": 38472,
           "stars_today": 3191,
           "description_zh": "AI代理技能，可研究Reddit、X、YouTube、HN、Polymarket及网络上的任何话题，然后综合生成有依据的摘要"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/RyanCodrai/turbovec",
           "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
           "language": "Python",
-          "stars_total": 10263,
+          "stars_total": 10538,
           "stars_today": 1801,
           "description_zh": "基于TurboQuant构建的向量索引，使用Rust编写并带有Python绑定"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/santifer/career-ops",
           "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
           "language": "JavaScript",
-          "stars_total": 51769,
+          "stars_total": 52210,
           "stars_today": 1110,
           "description_zh": "基于Claude Code构建的AI驱动求职系统。14种技能模式、Go仪表盘、PDF生成、批量处理。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/refactoringhq/tolaria",
           "description_en": "Desktop app to manage markdown knowledge bases",
           "language": "TypeScript",
-          "stars_total": 14390,
+          "stars_total": 14578,
           "stars_today": 829,
           "description_zh": "用于管理Markdown知识库的桌面应用"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/phuryn/pm-skills",
           "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
           "language": "",
-          "stars_total": 13489,
+          "stars_total": 13784,
           "stars_today": 806,
           "description_zh": "PM技能市场：100多种代理技能、命令和插件——从发现到策略、执行、发布和增长。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/roboflow/supervision",
           "description_en": "We write your reusable computer vision tools. 💜",
           "language": "Python",
-          "stars_total": 43060,
+          "stars_total": 43294,
           "stars_today": 733,
           "description_zh": "我们编写可复用的计算机视觉工具。💜"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/Andyyyy64/whichllm",
           "description_en": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
           "language": "Python",
-          "stars_total": 4146,
+          "stars_total": 4305,
           "stars_today": 633,
           "description_zh": "找到在你的硬件上真正运行且性能最佳的本地LLM。基于真实且时效性强的基准排名，而非参数数量。一条命令，即刻运行。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/TapXWorld/ChinaTextbook",
           "description_en": "所有小初高、大学PDF教材。",
           "language": "Roff",
-          "stars_total": 73546,
+          "stars_total": 73751,
           "stars_today": 519,
           "description_zh": "所有小初高、大学PDF教材。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/aaif-goose/goose",
           "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
           "language": "Rust",
-          "stars_total": 48526,
+          "stars_total": 48649,
           "stars_today": 489,
           "description_zh": "一个开源、可扩展的AI代理，超越代码建议——可安装、执行、编辑和测试，支持任何LLM"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_total": 49873,
+          "stars_total": 50083,
           "stars_today": 443,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/yikart/AiToEarn",
           "description_en": "Let's use AI to Earn!",
           "language": "TypeScript",
-          "stars_total": 20001,
+          "stars_total": 20324,
           "stars_today": 402,
           "description_zh": "让我们用AI赚钱！"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/openai/plugins",
           "description_en": "OpenAI Plugins",
           "language": "JavaScript",
-          "stars_total": 2627,
+          "stars_total": 2706,
           "stars_today": 284,
           "description_zh": "OpenAI插件"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/maziyarpanahi/openmed",
           "description_en": "open-source healthcare ai",
           "language": "Python",
-          "stars_total": 1905,
+          "stars_total": 2068,
           "stars_today": 191,
           "description_zh": "开源医疗AI"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/francescopace/espectre",
           "description_en": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
           "language": "Python",
-          "stars_total": 8240,
+          "stars_total": 8395,
           "stars_today": 134,
           "description_zh": "🛜 ESPectre 👻 - 基于Wi-Fi频谱分析（CSI）的运动检测系统，支持Home Assistant集成。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/opencv/opencv",
           "description_en": "Open Source Computer Vision Library",
           "language": "C++",
-          "stars_total": 88683,
+          "stars_total": 88812,
           "stars_today": 102,
           "description_zh": "开源计算机视觉库"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
           "description_en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
           "language": "",
-          "stars_total": 139209,
+          "stars_total": 139345,
           "stars_today": 79,
           "description_zh": "完整的Augment Code、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia和v0（及其他开源）系统提示词、内部工具和AI模型"
         }
