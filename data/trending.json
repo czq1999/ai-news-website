@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-12",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理技能生态，涵盖容器工具、安全扫描、开源医疗及系统提示模型，同时包含个人信息追踪与知识管理工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理技能生态，涵盖容器工具、安全扫描、人物追踪及开源医疗AI，同时包含Markdown知识库管理与高效备份方案。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_total": 54984,
+          "stars_total": 55904,
           "stars_today": 3278,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/apple/container",
           "description_en": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
           "language": "Swift",
-          "stars_total": 32774,
+          "stars_total": 34006,
           "stars_today": 2430,
           "description_zh": "一款在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它用Swift编写，并针对Apple芯片进行了优化。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/phuryn/pm-skills",
           "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
           "language": "",
-          "stars_total": 16297,
+          "stars_total": 16627,
           "stars_today": 1978,
           "description_zh": "PM技能市场：100多种代理技能、命令和插件——涵盖从发现到战略、执行、发布和增长的完整流程。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 111663,
+          "stars_total": 111945,
           "stars_today": 1599,
           "description_zh": "一个触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是拥有个性、流程和可交付成果的领域专家。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 224954,
+          "stars_total": 225481,
           "stars_today": 1322,
           "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/soxoj/maigret",
           "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
           "language": "Python",
-          "stars_total": 32658,
+          "stars_total": 32860,
           "stars_today": 661,
           "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/refactoringhq/tolaria",
           "description_en": "Desktop app to manage markdown knowledge bases",
           "language": "TypeScript",
-          "stars_total": 15440,
+          "stars_total": 15555,
           "stars_today": 604,
           "description_zh": "用于管理Markdown知识库的桌面应用程序"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/masterking32/MasterDnsVPN",
           "description_en": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
           "language": "Go",
-          "stars_total": 5728,
+          "stars_total": 5848,
           "stars_today": 507,
           "description_zh": "用于绕过审查的高级DNS隧道VPN，在DNSTT和SlipStream基础上优化，具备低开销ARQ、解析器负载均衡、高丢包稳定性和速度优势。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/maziyarpanahi/openmed",
           "description_en": "open-source healthcare ai",
           "language": "Python",
-          "stars_total": 2806,
+          "stars_total": 3001,
           "stars_today": 426,
           "description_zh": "开源医疗人工智能"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
           "description_en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
           "language": "",
-          "stars_total": 139906,
+          "stars_total": 140042,
           "stars_today": 368,
           "description_zh": "包含Augment Code、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia和v0（以及其他开源项目）的系统提示词、内部工具和AI模型。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/NVIDIA/SkillSpector",
           "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
           "language": "Python",
-          "stars_total": 2747,
+          "stars_total": 3027,
           "stars_today": 319,
           "description_zh": "AI代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/hexo-ai/sia",
           "description_en": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
           "language": "Python",
-          "stars_total": 1344,
+          "stars_total": 1514,
           "stars_today": 199,
           "description_zh": "SIA是一个自我改进的AI框架，能够自主提升任何AI系统（模型/代理）在基准任务上的性能。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/bannedbook/fanqiang",
           "description_en": "翻墙-科学上网",
           "language": "Kotlin",
-          "stars_total": 46888,
+          "stars_total": 47219,
           "stars_today": 161,
           "description_zh": "翻墙-科学上网"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/kenn-io/agentsview",
           "description_en": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
           "language": "Go",
-          "stars_total": 1693,
+          "stars_total": 1914,
           "stars_today": 114,
           "description_zh": "面向编码代理的本地优先会话智能与分析工具，支持Claude Code、Codex及20多种其他代理。同时，它是ccusage的100倍速度替代品！"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
           "description_en": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
           "language": "",
-          "stars_total": 7989,
+          "stars_total": 8149,
           "stars_today": 89,
           "description_zh": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/TapXWorld/ChinaTextbook",
           "description_en": "所有小初高、大学PDF教材。",
           "language": "Roff",
-          "stars_total": 73966,
+          "stars_total": 74087,
           "stars_today": 88,
           "description_zh": "所有小初高、大学PDF教材。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/chatwoot/chatwoot",
           "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
           "language": "Ruby",
-          "stars_total": 30396,
+          "stars_total": 30521,
           "stars_today": 67,
           "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud等的替代方案。🔥💬"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/restic/restic",
           "description_en": "Fast, secure, efficient backup program",
           "language": "Go",
-          "stars_total": 34197,
+          "stars_total": 34288,
           "stars_today": 61,
           "description_zh": "快速、安全、高效的备份程序"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/mattermost/mattermost",
           "description_en": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
           "language": "TypeScript",
-          "stars_total": 37348,
+          "stars_total": 37468,
           "stars_today": 53,
           "description_zh": "Mattermost是一个开源平台，用于在整个软件开发生命周期中实现安全协作。"
         }
