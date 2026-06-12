@@ -1,6 +1,202 @@
 {
   "days": [
     {
+      "date": "2026-06-12",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理技能生态，涵盖容器工具、安全扫描、开源医疗及系统提示模型，同时包含个人信息追踪与知识管理工具。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 54984,
+          "stars_today": 3278,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 2,
+          "name": "apple/container",
+          "url": "https://github.com/apple/container",
+          "description_en": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "language": "Swift",
+          "stars_total": 32774,
+          "stars_today": 2430,
+          "description_zh": "一款在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它用Swift编写，并针对Apple芯片进行了优化。"
+        },
+        {
+          "rank": 3,
+          "name": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+          "language": "",
+          "stars_total": 16297,
+          "stars_today": 1978,
+          "description_zh": "PM技能市场：100多种代理技能、命令和插件——涵盖从发现到战略、执行、发布和增长的完整流程。"
+        },
+        {
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 111663,
+          "stars_today": 1599,
+          "description_zh": "一个触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是拥有个性、流程和可交付成果的领域专家。"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 224954,
+          "stars_today": 1322,
+          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 6,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars_total": 32658,
+          "stars_today": 661,
+          "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案"
+        },
+        {
+          "rank": 7,
+          "name": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "description_en": "Desktop app to manage markdown knowledge bases",
+          "language": "TypeScript",
+          "stars_total": 15440,
+          "stars_today": 604,
+          "description_zh": "用于管理Markdown知识库的桌面应用程序"
+        },
+        {
+          "rank": 8,
+          "name": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "description_en": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+          "language": "Go",
+          "stars_total": 5728,
+          "stars_today": 507,
+          "description_zh": "用于绕过审查的高级DNS隧道VPN，在DNSTT和SlipStream基础上优化，具备低开销ARQ、解析器负载均衡、高丢包稳定性和速度优势。"
+        },
+        {
+          "rank": 9,
+          "name": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description_en": "open-source healthcare ai",
+          "language": "Python",
+          "stars_total": 2806,
+          "stars_today": 426,
+          "description_zh": "开源医疗人工智能"
+        },
+        {
+          "rank": 10,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description_en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+          "language": "",
+          "stars_total": 139906,
+          "stars_today": 368,
+          "description_zh": "包含Augment Code、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia和v0（以及其他开源项目）的系统提示词、内部工具和AI模型。"
+        },
+        {
+          "rank": 11,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+          "language": "Python",
+          "stars_total": 2747,
+          "stars_today": 319,
+          "description_zh": "AI代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+        },
+        {
+          "rank": 12,
+          "name": "hexo-ai/sia",
+          "url": "https://github.com/hexo-ai/sia",
+          "description_en": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+          "language": "Python",
+          "stars_total": 1344,
+          "stars_today": 199,
+          "description_zh": "SIA是一个自我改进的AI框架，能够自主提升任何AI系统（模型/代理）在基准任务上的性能。"
+        },
+        {
+          "rank": 13,
+          "name": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "description_en": "翻墙-科学上网",
+          "language": "Kotlin",
+          "stars_total": 46888,
+          "stars_today": 161,
+          "description_zh": "翻墙-科学上网"
+        },
+        {
+          "rank": 14,
+          "name": "kenn-io/agentsview",
+          "url": "https://github.com/kenn-io/agentsview",
+          "description_en": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+          "language": "Go",
+          "stars_total": 1693,
+          "stars_today": 114,
+          "description_zh": "面向编码代理的本地优先会话智能与分析工具，支持Claude Code、Codex及20多种其他代理。同时，它是ccusage的100倍速度替代品！"
+        },
+        {
+          "rank": 15,
+          "name": "alchaincyf/zhangxuefeng-skill",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "description_en": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+          "language": "",
+          "stars_total": 7989,
+          "stars_today": 89,
+          "description_zh": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
+        },
+        {
+          "rank": 16,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description_en": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars_total": 73966,
+          "stars_today": 88,
+          "description_zh": "所有小初高、大学PDF教材。"
+        },
+        {
+          "rank": 17,
+          "name": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "language": "Ruby",
+          "stars_total": 30396,
+          "stars_today": 67,
+          "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud等的替代方案。🔥💬"
+        },
+        {
+          "rank": 18,
+          "name": "restic/restic",
+          "url": "https://github.com/restic/restic",
+          "description_en": "Fast, secure, efficient backup program",
+          "language": "Go",
+          "stars_total": 34197,
+          "stars_today": 61,
+          "description_zh": "快速、安全、高效的备份程序"
+        },
+        {
+          "rank": 19,
+          "name": "mattermost/mattermost",
+          "url": "https://github.com/mattermost/mattermost",
+          "description_en": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+          "language": "TypeScript",
+          "stars_total": 37348,
+          "stars_today": 53,
+          "description_zh": "Mattermost是一个开源平台，用于在整个软件开发生命周期中实现安全协作。"
+        }
+      ]
+    },
+    {
       "date": "2026-06-11",
       "summary_zh": "今日GitHub热门项目聚焦AI代理技能安全与开发工具，涵盖容器管理、安全扫描、知识库及开源医疗AI，凸显代理生态与效率提升趋势。",
       "projects": [
@@ -4731,202 +4927,6 @@
           "stars_total": 778,
           "stars_today": 28,
           "description_zh": "一套参考架构套件，用于构建GPU加速的视觉智能体和AI驱动的视频分析应用。"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-13",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理与基础设施，涵盖个人超级智能、持久记忆、技能框架、科研代理及浏览器隐身技术，突出实用性与性能优化。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 78669,
-          "stars_today": 3372,
-          "description_zh": "面向真正工程师的技能，直接来自我的.claude目录。"
-        },
-        {
-          "rank": 2,
-          "name": "CloakHQ/CloakBrowser",
-          "url": "https://github.com/CloakHQ/CloakBrowser",
-          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-          "language": "Python",
-          "stars_total": 9321,
-          "stars_today": 1829,
-          "description_zh": "隐身Chromium浏览器，能通过所有机器人检测测试。即插即用的Playwright替代方案，带有源码级指纹补丁。30/30测试全部通过。"
-        },
-        {
-          "rank": 3,
-          "name": "tinyhumansai/openhuman",
-          "url": "https://github.com/tinyhumansai/openhuman",
-          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-          "language": "Rust",
-          "stars_total": 5015,
-          "stars_today": 1595,
-          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
-        },
-        {
-          "rank": 4,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 189346,
-          "stars_today": 1506,
-          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 5,
-          "name": "rohitg00/agentmemory",
-          "url": "https://github.com/rohitg00/agentmemory",
-          "description_en": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-          "language": "TypeScript",
-          "stars_total": 7350,
-          "stars_today": 1335,
-          "description_zh": "#1 基于真实世界基准测试的AI编码智能体持久记忆系统"
-        },
-        {
-          "rank": 6,
-          "name": "github/spec-kit",
-          "url": "https://github.com/github/spec-kit",
-          "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
-          "language": "Python",
-          "stars_total": 98197,
-          "stars_today": 1159,
-          "description_zh": "💫 帮助你开始规范驱动开发的工具包。"
-        },
-        {
-          "rank": 7,
-          "name": "supertone-inc/supertonic",
-          "url": "https://github.com/supertone-inc/supertonic",
-          "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-          "language": "Swift",
-          "stars_total": 4171,
-          "stars_today": 1048,
-          "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过ONNX原生运行。"
-        },
-        {
-          "rank": 8,
-          "name": "yikart/AiToEarn",
-          "url": "https://github.com/yikart/AiToEarn",
-          "description_en": "Let's use AI to Earn!",
-          "language": "TypeScript",
-          "stars_total": 12814,
-          "stars_today": 987,
-          "description_zh": "用AI来赚钱！"
-        },
-        {
-          "rank": 9,
-          "name": "rasbt/LLMs-from-scratch",
-          "url": "https://github.com/rasbt/LLMs-from-scratch",
-          "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-          "language": "Jupyter Notebook",
-          "stars_total": 94378,
-          "stars_today": 824,
-          "description_zh": "从零开始，用PyTorch逐步实现一个类似ChatGPT的大语言模型。"
-        },
-        {
-          "rank": 10,
-          "name": "millionco/react-doctor",
-          "url": "https://github.com/millionco/react-doctor",
-          "description_en": "Your agent writes bad React. This catches it",
-          "language": "TypeScript",
-          "stars_total": 9203,
-          "stars_today": 620,
-          "description_zh": "你的智能体写了糟糕的React代码——这个工具能抓住它。"
-        },
-        {
-          "rank": 11,
-          "name": "apernet/hysteria",
-          "url": "https://github.com/apernet/hysteria",
-          "description_en": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
-          "language": "Go",
-          "stars_total": 20572,
-          "stars_today": 489,
-          "description_zh": "Hysteria是一个功能强大、速度极快且能抵抗审查的代理。"
-        },
-        {
-          "rank": 12,
-          "name": "danielmiessler/Personal_AI_Infrastructure",
-          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-          "description_en": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-          "language": "TypeScript",
-          "stars_total": 13275,
-          "stars_today": 439,
-          "description_zh": "用于放大人类能力的智能体AI基础设施。"
-        },
-        {
-          "rank": 13,
-          "name": "trycua/cua",
-          "url": "https://github.com/trycua/cua",
-          "description_en": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-          "language": "HTML",
-          "stars_total": 16480,
-          "stars_today": 307,
-          "description_zh": "计算机使用智能体的开源基础设施。提供沙箱、SDK和基准测试，用于训练和评估能控制完整桌面（macOS、Linux、Windows）的AI智能体。"
-        },
-        {
-          "rank": 14,
-          "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-          "description_en": "An evolving how-to guide for securing a Linux server.",
-          "language": "",
-          "stars_total": 27008,
-          "stars_today": 233,
-          "description_zh": "一份不断更新的Linux服务器安全指南。"
-        },
-        {
-          "rank": 15,
-          "name": "Greedeks/GTweak",
-          "url": "https://github.com/Greedeks/GTweak",
-          "description_en": "Portable Tool for an Ideal Windows Setup",
-          "language": "C#",
-          "stars_total": 862,
-          "stars_today": 127,
-          "description_zh": "打造理想Windows系统的便携工具。"
-        },
-        {
-          "rank": 16,
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-          "language": "Python",
-          "stars_total": 21030,
-          "stars_today": 83,
-          "description_zh": "一套即开即用的智能体技能，适用于研究、科学、工程、分析、金融和写作。"
-        },
-        {
-          "rank": 17,
-          "name": "ArthurBrussee/brush",
-          "url": "https://github.com/ArthurBrussee/brush",
-          "description_en": "3D Reconstruction for all",
-          "language": "Rust",
-          "stars_total": 4329,
-          "stars_today": 78,
-          "description_zh": "面向所有人的3D重建。"
-        },
-        {
-          "rank": 18,
-          "name": "ton-blockchain/acton",
-          "url": "https://github.com/ton-blockchain/acton",
-          "description_en": "Toolchain for TON smart contract development and beyond",
-          "language": "Rust",
-          "stars_total": 165,
-          "stars_today": 15,
-          "description_zh": "用于TON智能合约开发及更多场景的工具链。"
-        },
-        {
-          "rank": 19,
-          "name": "influxdata/telegraf",
-          "url": "https://github.com/influxdata/telegraf",
-          "description_en": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-          "language": "Go",
-          "stars_total": 16960,
-          "stars_today": 6,
-          "description_zh": "用于收集、处理、聚合和写入指标、日志及其他任意数据的智能体。"
         }
       ]
     }
