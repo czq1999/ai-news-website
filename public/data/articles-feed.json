@@ -1,5 +1,93 @@
 [
   {
+    "id": "87901703b771215e51536a28f013105a",
+    "title_en": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "published_at": "2026-06-13T02:26:30.000Z",
+    "fetched_at": "2026-06-13T02:32:47.736Z",
+    "title_zh": "Anthropic安全警告反噬：政府叫停其最强AI模型",
+    "summary_zh": "Anthropic此前发布的安全警告可能适得其反，导致政府直接叫停了其最强大的AI模型。该事件凸显了AI安全声明与监管之间的复杂关系，以及企业在披露风险时面临的困境。业界对此反应不一，有人认为这是必要的监管介入，也有人担忧会阻碍AI创新。",
+    "category": "llm"
+  },
+  {
+    "id": "8d97174713899501bda22008dece5448",
+    "title_en": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+    "published_at": "2026-06-13T02:26:10.000Z",
+    "fetched_at": "2026-06-13T02:32:48.045Z",
+    "title_zh": "Anthropic称将下架Claude Fable 5以遵守美国政府命令",
+    "summary_zh": "AI公司Anthropic宣布，应美国政府要求，将下架其AI模型Claude Fable 5。此举可能与模型能力或安全审查有关，具体原因未披露。Anthropic表示将配合监管，同时强调AI安全的重要性。该事件引发业界对AI模型监管与商业自由之间平衡的讨论。",
+    "category": "llm"
+  },
+  {
+    "id": "3fc9bb1d0cbbaef45c4ba6964bc78f31",
+    "title_en": "Valve just imported 13 tons of VR headsets in one day",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+    "published_at": "2026-06-13T01:32:18.000Z",
+    "fetched_at": "2026-06-13T02:32:47.829Z",
+    "title_zh": "Valve一日内进口13吨VR头显，或为新品铺路",
+    "summary_zh": "Valve在一天内进口了重达13吨的VR头显设备，这一大规模进口行为引发市场猜测，认为可能是在为即将发布的新款VR硬件做准备。此举也显示出Valve对VR市场的持续投入，以及其对未来沉浸式体验的看好。具体产品细节尚未公布。",
+    "category": "product"
+  },
+  {
+    "id": "5756cdd8430c9da35828f67df6e4d661",
+    "title_en": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+    "published_at": "2026-06-12T23:45:26.000Z",
+    "fetched_at": "2026-06-13T02:32:48.045Z",
+    "title_zh": "Meta员工强烈反对扎克伯格的全公司AI黑客马拉松计划",
+    "summary_zh": "据内部消息，Meta员工对CEO扎克伯格提出的全公司AI黑客马拉松计划普遍持反对态度。员工认为该计划过于仓促，缺乏明确目标，且可能加剧工作压力。部分人质疑这是为了追赶竞争对手而进行的表面工程。Meta内部文化与管理层的战略分歧再次浮出水面。",
+    "category": "industry"
+  },
+  {
+    "id": "ef80ae1164812bc9c7cdec2d548c363d",
+    "title_en": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "published_at": "2026-06-12T23:00:54.000Z",
+    "fetched_at": "2026-06-13T02:32:47.736Z",
+    "title_zh": "Meta成立数月的AI部门被工程师称为“灵魂压榨的集中营”",
+    "summary_zh": "Meta新成立的AI部门内部氛围堪忧，工程师们形容其为“灵魂压榨的集中营”。高强度的工作压力、混乱的管理和缺乏成就感导致员工士气低落。这一爆料引发了对科技巨头AI团队工作文化的广泛讨论，也让人质疑Meta在AI领域的长期竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "eebca2927d31fa4e4244ae96f6946938",
+    "title_en": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+    "published_at": "2026-06-12T21:16:25.000Z",
+    "fetched_at": "2026-06-13T02:32:48.045Z",
+    "title_zh": "“告诉他他就是个混蛋”：Meta新AI部门内部混乱不堪",
+    "summary_zh": "报道揭露Meta新成立的AI部门内部管理混乱，员工士气低落。有员工甚至被要求直接辱骂同事。部门目标不清晰，资源分配不均，高层频繁变动，导致项目进展缓慢。尽管Meta在AI领域投入巨大，但内部文化问题可能阻碍其创新效率。",
+    "category": "industry"
+  },
+  {
+    "id": "593a02167d2ae97c31e722f11dea3704",
+    "title_en": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "published_at": "2026-06-12T20:38:09.000Z",
+    "fetched_at": "2026-06-13T02:32:47.736Z",
+    "title_zh": "谷歌起诉利用AI诈骗数十万受害者的中国网络犯罪团伙",
+    "summary_zh": "谷歌对一中国网络犯罪团伙提起诉讼，该团伙利用AI技术实施诈骗，受害者达“数十万”。案件揭示了AI技术被滥用于大规模网络犯罪的新趋势，包括深度伪造、自动化钓鱼等手段。谷歌此举旨在打击网络犯罪并保护用户安全，也引发了对AI监管的进一步讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "e500de5018a260dbdc095a03b4e190e0",
+    "title_en": "Nothing CEO says phone prices are going to keep going up",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+    "published_at": "2026-06-12T20:02:48.000Z",
+    "fetched_at": "2026-06-13T02:32:47.829Z",
+    "title_zh": "Nothing CEO预测手机价格将持续上涨",
+    "summary_zh": "Nothing公司CEO表示，受零部件成本上升、供应链压力及研发投入增加等因素影响，手机价格未来将继续上涨。这一言论反映了整个智能手机行业面临的成本挑战，也暗示消费者可能需要为未来的旗舰机型支付更高费用。Nothing自身产品定价策略也可能随之调整。",
+    "category": "industry"
+  },
+  {
     "id": "03ef97ac41dcb2c7ea5dbe095405abc9",
     "title_en": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
     "source": "Ars Technica",
@@ -583,6 +671,61 @@
     "category": "product"
   },
   {
+    "id": "13f4dc94b2eab22a969e6786461b8df9",
+    "title_en": "Elon Musk's net worth is set to cross $1.1 trillion making him the world's first trillionaire after SpaceX's bumper IPO",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/people/elon-musk-net-worth-over-1-1-trillion-spacex-bumper-ipo-company-richest-person-to-become-worlds-first-trillionaire-tesla-11781226797372.html",
+    "published_at": "2026-06-12T02:28:57Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "SpaceX大规模IPO后，马斯克净资产将突破1.1万亿美元，成为全球首位万亿富翁",
+    "summary_zh": "随着SpaceX创纪录的IPO估值达1.77万亿美元，埃隆·马斯克个人净资产预计突破1.1万亿美元，成为人类历史上首位万亿富翁。此次IPO募资750亿美元，刷新全球最大IPO纪录，进一步巩固马斯克在航天与科技领域的财富霸主地位。",
+    "category": "industry"
+  },
+  {
+    "id": "64c65cfc001fa7f200d185e834f4d5a8",
+    "title_en": "Google promised never to build AI weapons; then director René Mayrhofer resigned when the tech giant broke that promise",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/news/google-promised-never-to-build-ai-weapons-director-ren-mayrhofer-resigned-when-the-tech-giant-signed-pentagon-deal-11781229340818.html",
+    "published_at": "2026-06-12T02:27:42Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "谷歌曾承诺永不开发AI武器，但导演雷内·迈尔霍费尔因公司违背承诺辞职",
+    "summary_zh": "谷歌前董事雷内·迈尔霍费尔因公司违背“不开发AI武器”的承诺而辞职。谷歌曾公开承诺不将AI用于武器开发，但近期项目涉足军事领域引发内部争议。此举凸显科技巨头在AI伦理与商业利益间的矛盾，以及员工对原则底线的坚守。",
+    "category": "industry"
+  },
+  {
+    "id": "95c02a787d72e0ba1f3d4bf6f8b40aa5",
+    "title_en": "Nvidia hires veteran lobbyist Bruce Andrews to head government affairs",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-hires-veteran-lobbyist-bruce-andrews-to-head-government-affairs/articleshow/131671620.cms",
+    "published_at": "2026-06-12T01:55:14Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "英伟达聘请资深说客布鲁斯·安德鲁斯主管政府事务",
+    "summary_zh": "英伟达任命前美国商务部高官、资深说客布鲁斯·安德鲁斯为政府事务主管，以应对日益复杂的全球芯片监管与贸易政策。此举表明英伟达正加强在华盛顿的游说力量，确保AI芯片出口管制、补贴政策等关键议题上获得有利地位。",
+    "category": "industry"
+  },
+  {
+    "id": "3b460a8fbb86886f5532c9f59771a8db",
+    "title_en": "SpaceX raises $75B in the largest IPO in history, valued at $1.77 trillion",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/spacex-75b-largest-ipo-ever/",
+    "published_at": "2026-06-12T01:54:56Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "SpaceX以1.77万亿美元估值完成史上最大IPO，募资750亿美元",
+    "summary_zh": "SpaceX成功完成史上最大规模IPO，估值达1.77万亿美元，募资750亿美元。此次上市不仅刷新全球IPO纪录，更将SpaceX推至全球最高估值私营公司之列，为星际探索与卫星互联网业务注入巨额资金。",
+    "category": "industry"
+  },
+  {
+    "id": "4f3d1e57d456c1c40018dce0b7a6a0e8",
+    "title_en": "AI can’t replace humans in brand building – Obaje",
+    "source": "The Punch",
+    "url": "https://punchng.com/ai-cant-replace-humans-in-brand-building-obaje/",
+    "published_at": "2026-06-12T01:53:01Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "专家Obaje：AI无法替代人类进行品牌建设",
+    "summary_zh": "品牌专家Obaje指出，AI虽能提升效率，但无法替代人类在品牌建设中的情感连接、文化洞察与创意决策。品牌的核心在于人性化叙事与信任构建，这些需要人类独有的同理心与战略思维，AI仅能作为辅助工具。",
+    "category": "industry"
+  },
+  {
     "id": "4ffe66bce06a260e44919513124d60ba",
     "title_en": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
     "source": "TechCrunch AI",
@@ -591,6 +734,61 @@
     "fetched_at": "2026-06-12T02:39:55.594Z",
     "title_zh": "Theker融资8500万美元，打造不专精于任何任务的通用工厂机器人",
     "summary_zh": "Theker宣布完成8500万美元融资，致力于开发一种不针对特定任务的通用型工厂机器人。该机器人旨在通过灵活适应多种生产场景，提升制造业的自动化和效率，标志着工业机器人领域向通用化、智能化迈出重要一步。",
+    "category": "industry"
+  },
+  {
+    "id": "1f23406915c224356bdb5df2d2de6f95",
+    "title_en": "SpaceX IPO makes Elon Musk the world's first trillionaire",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/technology/spacex-ipo-makes-elon-musk-the-worlds-first-trillionaire/articleshow/131671876.cms",
+    "published_at": "2026-06-12T01:46:11Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "SpaceX IPO使马斯克成为全球首位万亿富翁",
+    "summary_zh": "SpaceX成功IPO后，埃隆·马斯克凭借其持股价值成为全球首位净资产突破万亿美元的富豪。此次IPO估值高达1.77万亿美元，募资750亿美元，进一步巩固马斯克在航天、电动汽车及AI领域的财富帝国。",
+    "category": "industry"
+  },
+  {
+    "id": "ff471c04ca7537d8e64494f5eac22466",
+    "title_en": "SpaceX IPO makes Elon Musk the world's first trillionaire",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/technology/spacex-ipo-makes-elon-musk-the-worlds-first-trillionaire/articleshow/131671586.cms",
+    "published_at": "2026-06-12T01:46:11Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "SpaceX IPO使马斯克成为全球首位万亿富翁",
+    "summary_zh": "SpaceX成功IPO后，埃隆·马斯克凭借其持股价值成为全球首位净资产突破万亿美元的富豪。此次IPO估值高达1.77万亿美元，募资750亿美元，进一步巩固马斯克在航天、电动汽车及AI领域的财富帝国。",
+    "category": "industry"
+  },
+  {
+    "id": "474588bbd50f10cf3b3210269f96a566",
+    "title_en": "Elon Musk says Moon can power 1,000x more AI than Earth — Here's SpaceX boss' plan to railgun data centers into space",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/people/elon-musk-says-moon-can-power-1-000x-more-ai-than-earth-heres-spacex-boss-plan-to-railgun-data-centers-into-space-11781226534119.html",
+    "published_at": "2026-06-12T01:43:51Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "马斯克称月球可提供比地球强1000倍的AI算力，计划用电磁炮将数据中心发射至太空",
+    "summary_zh": "埃隆·马斯克提出利用月球能源支持AI算力，声称月球可提供地球1000倍的电力。他设想通过电磁炮（railgun）将数据中心发射至太空，以解决地球能源瓶颈。该计划虽具科幻色彩，但凸显AI对能源的巨量需求与太空资源开发的潜在方向。",
+    "category": "llm"
+  },
+  {
+    "id": "5df515ef94015e6f21049e6254ec05be",
+    "title_en": "Cars.com Announces Inducement Awards Under NYSE Listing Rule 303A.08",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/carscom-announces-inducement-awards-under-nyse-listing-rule-303a08-302798727.html",
+    "published_at": "2026-06-12T01:40:00Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "Cars.com宣布根据纽交所规则303A.08授予股权激励",
+    "summary_zh": "汽车交易平台Cars.com宣布依据纽交所上市规则303A.08，向新员工授予股权激励奖励。此举旨在吸引和留住关键人才，通常用于新入职高管或核心技术人员的入职激励，反映公司对人才竞争的重视。",
+    "category": "industry"
+  },
+  {
+    "id": "3fd4f3d4481ac86de6092b5361c9c123",
+    "title_en": "RCCG launches tech fellowship to train 100,000 youths",
+    "source": "The Punch",
+    "url": "https://punchng.com/rccg-launches-tech-fellowship-to-train-100000-youths/",
+    "published_at": "2026-06-12T01:37:16Z",
+    "fetched_at": "2026-06-13T02:32:48.557Z",
+    "title_zh": "RCCG启动科技奖学金计划，目标培训10万青年",
+    "summary_zh": "尼日利亚RCCG教会宣布启动科技奖学金计划，旨在培训10万名青年掌握编程、AI等数字技能。该项目聚焦非洲青年科技赋能，通过提供免费课程与就业支持，缩小数字鸿沟，助力当地科技产业发展。",
     "category": "industry"
   },
   {
@@ -5299,204 +5497,6 @@
     "fetched_at": "2026-06-09T02:10:10.750Z",
     "title_zh": "韩国AI影响力引发政府债券市场全面压力",
     "summary_zh": "人工智能技术在韩国的快速渗透正对政府债券市场产生连锁反应。AI驱动的自动化交易、风险模型及宏观经济预测加剧了市场波动，促使监管层重新评估债券定价机制与流动性管理。本文解析AI如何重塑韩国债市生态及政策应对。",
-    "category": "industry"
-  },
-  {
-    "id": "e8f5db67e6534eb2234ec2ca7a0ecd18",
-    "title_en": "Nvidia partners with South Korea’s SK Hynix, Naver and Doosan to expand the country’s AI infrastructure",
-    "source": "SiliconANGLE News",
-    "url": "https://siliconangle.com/2026/06/07/nvidia-partners-south-koreas-sk-hynix-naver-doosan-expand-countrys-ai-infrastructure/",
-    "published_at": "2026-06-08T01:30:16Z",
-    "fetched_at": "2026-06-09T02:10:10.750Z",
-    "title_zh": "英伟达携手韩国SK海力士、Naver及斗山，共拓韩国AI基础设施",
-    "summary_zh": "英伟达宣布与韩国科技巨头SK海力士、Naver及斗山集团达成合作，共同建设韩国AI基础设施。合作涵盖高性能存储、云计算平台及工业AI应用，旨在加速韩国在半导体、数据中心及智能制造领域的AI部署，巩固其全球AI竞争力。",
-    "category": "industry"
-  },
-  {
-    "id": "27186ae4044ea74f38d5378265bb41fb",
-    "title_en": "SpaceX targets $75B IPO, faces skepticism over multitrillion-dollar growth projections",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/spacex-75b-ipo-valuation-skepticism/",
-    "published_at": "2026-06-08T01:23:48Z",
-    "fetched_at": "2026-06-09T02:10:10.750Z",
-    "title_zh": "SpaceX拟750亿美元IPO，市场质疑其数万亿美元增长预期",
-    "summary_zh": "SpaceX计划以750亿美元估值进行首次公开募股，但其提出的数万亿美元长期增长目标引发投资者怀疑。分析指出，星链收入、火星任务及太空旅游商业化仍面临技术、监管及市场竞争等不确定性，高估值能否兑现尚待观察。",
-    "category": "industry"
-  },
-  {
-    "id": "d188b4b4056d6cc0f5cd5124d22a7e23",
-    "title_en": "‘Strategic distraction?’ Trump ramps up AI memes ahead of midterms",
-    "source": "Digital Journal",
-    "url": "https://www.digitaljournal.com/article/strategic-distraction-trump-ramps-up-ai-memes-ahead-of-midterms/",
-    "published_at": "2026-06-08T01:20:09Z",
-    "fetched_at": "2026-06-09T02:10:10.750Z",
-    "title_zh": "“战略干扰？”特朗普中期选举前猛推AI梗图",
-    "summary_zh": "美国前总统特朗普在中期选举前夕大量发布AI生成的表情包与图像，引发舆论对其意图的猜测。批评者认为此举旨在转移政策争议焦点，支持者则视其为创新竞选手段。本文分析AI政治传播的潜在影响与伦理争议。",
-    "category": "industry"
-  },
-  {
-    "id": "489a03c1eab31d2026a8404ba9a7bf59",
-    "title_en": "キャパシティ対応推論：SageMaker AI エンドポイントにおけるインスタンスの自動フォールバック",
-    "source": "Amazon.com",
-    "url": "https://aws.amazon.com/jp/blogs/news/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints/",
-    "published_at": "2026-06-08T01:11:57Z",
-    "fetched_at": "2026-06-09T02:10:10.750Z",
-    "title_zh": "容量感知推理：SageMaker AI端点实例自动回退机制",
-    "summary_zh": "亚马逊SageMaker AI推出容量感知推理功能，实现端点实例的自动回退。当主实例资源不足时，系统智能切换至备用实例，确保推理服务高可用性。该机制基于实时负载监控与预测，降低运维复杂度，适用于大规模AI部署场景。",
-    "category": "product"
-  },
-  {
-    "id": "c3b3496a826e37ea094d102f91ffa118",
-    "title_en": "UFC Working on New Merit-Based Rankings System After Years of Dana White’s Frustration",
-    "source": "Yahoo Entertainment",
-    "url": "https://sports.yahoo.com/articles/ufc-working-merit-based-rankings-010418820.html",
-    "published_at": "2026-06-08T01:04:18Z",
-    "fetched_at": "2026-06-09T02:10:10.750Z",
-    "title_zh": "UFC开发全新基于成绩的排名系统，终结达纳·怀特多年不满",
-    "summary_zh": "UFC正在研发一套基于选手实际战绩的排名系统，以取代长期受诟病的主观评选机制。总裁达纳·怀特曾多次公开表达对现行排名的不满。新系统将综合胜负记录、对手强度及比赛表现等数据，旨在提升排名公正性与透明度。",
-    "category": "product"
-  },
-  {
-    "id": "e90e7496413777694a2d7ee8d0d62b2f",
-    "title_en": "NASA will wear high-tech Prada long johns to the Moon",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
-    "published_at": "2026-06-07T22:16:41.000Z",
-    "fetched_at": "2026-06-08T02:43:40.222Z",
-    "title_zh": "NASA将穿高科技Prada保暖内衣登月",
-    "summary_zh": "NASA与奢侈品牌Prada合作，为阿尔忒弥斯登月任务开发高科技保暖内衣。这款服装融合了先进温控面料与时尚设计，旨在保护宇航员在极端月球环境中保持舒适，标志着航天装备与消费科技跨界合作的新里程碑。",
-    "category": "product"
-  },
-  {
-    "id": "351df0202b9173b4019829bce4f8b60d",
-    "title_en": "Is this the dawn of the Tokenpocalypse?",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-    "published_at": "2026-06-07T20:26:13.000Z",
-    "fetched_at": "2026-06-08T02:43:40.151Z",
-    "title_zh": "Token末日来临？AI模型代币化引发行业恐慌",
-    "summary_zh": "随着AI模型对Token（代币）的消耗呈指数级增长，业界开始担忧所谓的“Token末日”即将到来。高昂的计算成本和有限的Token供应可能成为AI发展的新瓶颈，迫使企业重新思考模型训练与推理的经济模式。",
-    "category": "llm"
-  },
-  {
-    "id": "af0d5218c6abd59d847b385165b3984b",
-    "title_en": "The side effects no one reported: How Reddit and AI are changing drug safety",
-    "source": "Digital Journal",
-    "url": "https://www.digitaljournal.com/article/the-side-effects-no-one-reported-how-reddit-and-ai-are-changing-drug-safety/",
-    "published_at": "2026-06-07T19:50:25Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "未被报告的副作用：Reddit与AI如何改变药物安全监测",
-    "summary_zh": "研究显示，Reddit等社交平台上的用户自述正成为药物副作用监测的新数据源。AI通过分析海量非结构化文本，能发现传统临床试验中遗漏的不良反应信号。这种方法有望补充现有药物警戒体系，但同时也面临数据准确性和隐私保护的挑战。",
-    "category": "research"
-  },
-  {
-    "id": "2ec0c1dfa45d5ea58e322f2f6d0361b2",
-    "title_en": "White House AI adviser Sriram Krishnan quits",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-ai-adviser-sriram-krishnan-quits/articleshow/131573663.cms",
-    "published_at": "2026-06-07T19:37:25Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "白宫AI顾问Sriram Krishnan辞职",
-    "summary_zh": "白宫人工智能高级政策顾问Sriram Krishnan宣布离职，其任期仅数月。Krishnan此前负责协调联邦AI政策与监管框架，他的离开可能影响美国AI立法进程。目前白宫尚未公布继任者，业界关注这一变动对AI治理方向的影响。",
-    "category": "industry"
-  },
-  {
-    "id": "6d2c82f65f05ef709bf11890513fe4b7",
-    "title_en": "A little bit slow off the gate in quick commerce, says Amazon India head as company ramps up quick commerce push",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/companies/news/amazon-india-quick-commerce-amazon-now-expansion-blinkit-competition-zepto-blinkit-11780817075165.html",
-    "published_at": "2026-06-07T19:30:44Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "亚马逊印度负责人承认在即时零售领域起步较慢，正加速追赶",
-    "summary_zh": "亚马逊印度负责人坦言公司在即时零售（Quick Commerce）领域起步迟缓，目前正全力加速布局。面对Blinkit、Zepto等本土玩家的激烈竞争，亚马逊计划通过优化物流网络和扩大合作门店来提升配送时效。此举显示电商巨头正重新审视即时零售战略。",
-    "category": "industry"
-  },
-  {
-    "id": "db80dc77e5e1d82fd744430fe2d4320c",
-    "title_en": "AI and the reinvention of work: Why some sectors are hiring more, not less",
-    "source": "Digital Journal",
-    "url": "https://www.digitaljournal.com/article/ai-and-the-reinvention-of-work-why-some-sectors-are-hiring-more-not-less/",
-    "published_at": "2026-06-07T19:27:18Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "AI与工作重塑：为何部分行业反而在增加招聘",
-    "summary_zh": "尽管AI自动化威胁论盛行，但部分行业因AI应用反而创造了更多就业机会。报告指出，AI在医疗、教育、创意产业等领域催生了新岗位，如AI训练师、提示工程师和伦理合规专员。这些岗位要求人类与AI协作，而非简单替代。",
-    "category": "industry"
-  },
-  {
-    "id": "8144c32bd900232b2b3315d00c92b0ba",
-    "title_en": "Morganti stresses value of prep time for Club World Cup format",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/morganti-stresses-value-of-prep-time-for-club-world-cup-format-42978362",
-    "published_at": "2026-06-07T19:13:00Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "Morganti强调世俱杯新赛制下准备时间的重要性",
-    "summary_zh": "国际足联官员Morganti指出，2025年扩军后的世俱杯对参赛球队的赛前准备时间提出更高要求。新赛制下球队需应对更密集的赛程和跨洲旅行，充足的备战期成为关键。该言论引发对球员疲劳和赛事质量的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "b04f3b5606a7b1f246e8f5b5ef957da2",
-    "title_en": "‘Access to education across different cultures and languages needs to be improved’: IEEE award winner’s best work came from identifying issues, and fixing them",
-    "source": "TechRadar",
-    "url": "https://www.techradar.com/pro/access-to-education-across-different-cultures-and-languages-needs-to-be-improved-ieee-award-winners-best-work-came-from-identifying-issues-and-fixing-them",
-    "published_at": "2026-06-07T19:05:00Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "IEEE获奖者：跨文化跨语言教育可及性亟待提升，发现问题并解决是最佳工作",
-    "summary_zh": "IEEE教育奖得主分享其研究心得，强调AI技术应致力于打破语言和文化壁垒，让优质教育资源惠及更多人群。其最具影响力的工作源于识别教育公平中的关键问题，并开发针对性解决方案。这一观点为AI教育应用指明了社会价值方向。",
-    "category": "research"
-  },
-  {
-    "id": "1820034816e70e4fe99a73a44d297185",
-    "title_en": "The 7 biggest storylines from Summer Game Fest 2026",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
-    "published_at": "2026-06-07T18:45:33.000Z",
-    "fetched_at": "2026-06-07T19:07:14.876Z",
-    "title_zh": "2026年夏季游戏节七大看点",
-    "summary_zh": "2026年夏季游戏节落下帷幕，本届活动公布了多款重磅新作与更新。从《女神异闻录6》的正式确认到《光环》系列新作，再到《我的世界：地下城2》的发布日期，各大厂商为玩家带来了丰富的内容盛宴。",
-    "category": "industry"
-  },
-  {
-    "id": "3144dde2452d4aeba7cb9b345233b7a3",
-    "title_en": "AI’s Next Frontier Isn’t Intelligence, It’s Trust",
-    "source": "Briansolis.com",
-    "url": "https://briansolis.com/2026/06/ais-next-frontier-isnt-intelligence-its-trust/",
-    "published_at": "2026-06-07T18:44:33Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "AI的下一个前沿不是智能，而是信任",
-    "summary_zh": "文章指出，随着AI能力快速提升，公众信任成为制约其广泛应用的关键瓶颈。未来AI发展重点应从追求性能指标转向构建可解释、可审计、负责任的系统。建立信任机制（如透明度报告、第三方认证）将是AI产业可持续发展的基石。",
-    "category": "industry"
-  },
-  {
-    "id": "636505389d47afa66e84178bf53e4da2",
-    "title_en": "chaoscypher-cli added to PyPI",
-    "source": "Pypi.org",
-    "url": "https://pypi.org/project/chaoscypher-cli/",
-    "published_at": "2026-06-07T18:44:05Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "chaoscypher-cli已发布至PyPI",
-    "summary_zh": "开源工具chaoscypher-cli正式上架Python包索引PyPI。该命令行工具旨在帮助开发者进行混沌工程实验，通过模拟系统故障来测试分布式应用的韧性。其发布为云原生开发者提供了新的可靠性测试手段。",
-    "category": "product"
-  },
-  {
-    "id": "f4ff8928407e70c32183bc3412017236",
-    "title_en": "As big tech heads Down Under, some fear Australia risks giving up control",
-    "source": "ABC News (AU)",
-    "url": "https://www.abc.net.au/news/2026-06-08/federal-government-ai-policy-retreat-data-centres-four-corners/106753596",
-    "published_at": "2026-06-07T18:43:33Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "科技巨头涌入澳大利亚，引发主权控制担忧",
-    "summary_zh": "随着谷歌、微软等科技巨头在澳大利亚大规模投资AI基础设施，当地专家警告国家可能丧失对关键技术和数据的控制权。争议焦点在于外国公司主导的云服务和AI平台是否威胁国家安全与数字主权。澳大利亚政府正面临平衡开放与监管的难题。",
-    "category": "industry"
-  },
-  {
-    "id": "04c9710acac231a7a0e3fc772ac7ece7",
-    "title_en": "Anthropic wants caution but the market wants more AI",
-    "source": "ABC News (AU)",
-    "url": "https://www.abc.net.au/news/2026-06-08/ai-bubble-anthropic-glasswing-mythos-hack-singularity/106765338",
-    "published_at": "2026-06-07T18:40:06Z",
-    "fetched_at": "2026-06-08T20:01:55.901Z",
-    "title_zh": "Anthropic呼吁谨慎，但市场渴望更多AI",
-    "summary_zh": "Anthropic联合创始人强调AI安全与负责任发展的重要性，呼吁行业放慢脚步进行充分测试。然而市场对AI产品的需求持续高涨，投资者和用户更关注功能迭代而非潜在风险。这种矛盾凸显了AI行业在创新速度与安全治理之间的根本张力。",
     "category": "industry"
   }
 ]
