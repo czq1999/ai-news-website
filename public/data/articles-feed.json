@@ -1,5 +1,71 @@
 [
   {
+    "id": "7f77192cb36d7295839f7229667e5913",
+    "title_en": "Sealed Super Mario Bros. sells for a record $3 million",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+    "published_at": "2026-06-13T18:37:21.000Z",
+    "fetched_at": "2026-06-13T19:09:14.185Z",
+    "title_zh": "《超级马里奥兄弟》未拆封卡带以300万美元天价成交",
+    "summary_zh": "一张未拆封的《超级马里奥兄弟》NES卡带在拍卖中以创纪录的300万美元成交，再次刷新电子游戏收藏品价格纪录。该卡带保存完好，评级极高，被视为游戏史上的珍品。此次拍卖凸显了复古游戏市场的持续火爆和收藏价值。",
+    "category": "industry"
+  },
+  {
+    "id": "407a9620dc9dc4cf183afdaca96303a1",
+    "title_en": "OpenAI faces investigation from state attorneys general",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "published_at": "2026-06-13T16:47:18.000Z",
+    "fetched_at": "2026-06-13T19:09:14.041Z",
+    "title_zh": "OpenAI遭多州总检察长联合调查",
+    "summary_zh": "OpenAI正面临来自美国多个州总检察长的调查，涉及数据隐私、安全及商业行为等问题。此举标志着监管机构对AI行业巨头的审查进一步升级，可能对OpenAI的运营模式和AI治理产生深远影响。业界密切关注调查结果，以评估其对整个AI生态的潜在冲击。",
+    "category": "industry"
+  },
+  {
+    "id": "752f092ac1eb1cf662751dee141966ec",
+    "title_en": "Microsoft hasn’t ruled out spinning off Xbox",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+    "published_at": "2026-06-13T16:29:47.000Z",
+    "fetched_at": "2026-06-13T19:09:14.185Z",
+    "title_zh": "微软尚未排除分拆Xbox业务的可能性",
+    "summary_zh": "微软高管表示，并未完全排除未来分拆Xbox业务的可能性。这一表态引发业界对微软游戏战略调整的猜测。尽管目前Xbox仍是微软重要业务板块，但面对竞争和监管压力，分拆或重组可能成为其优化资源配置的选项之一。",
+    "category": "industry"
+  },
+  {
+    "id": "ce5d89c5f30d47881a83132b3d83172a",
+    "title_en": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price ",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+    "published_at": "2026-06-13T16:00:00.000Z",
+    "fetched_at": "2026-06-13T19:09:14.185Z",
+    "title_zh": "Bose最新QuietComfort Ultra耳机降价70美元，创历史新低",
+    "summary_zh": "Bose旗舰降噪耳机QuietComfort Ultra迎来大幅降价，优惠70美元后价格创下历史新低。该耳机以出色的主动降噪和沉浸式音频体验著称，此次促销为消费者提供了绝佳的入手时机。对于追求高品质无线降噪耳机的用户而言，性价比极高。",
+    "category": "product"
+  },
+  {
+    "id": "32a09a489ecbe77b5d9dbe457d92e481",
+    "title_en": "My first 24 hours with Siri AI on the Mac",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+    "published_at": "2026-06-13T15:00:00.000Z",
+    "fetched_at": "2026-06-13T19:09:14.185Z",
+    "title_zh": "我在Mac上使用Siri AI的头24小时体验",
+    "summary_zh": "作者分享了在Mac上首次使用集成AI功能的Siri的24小时体验。新版Siri在理解复杂指令、跨应用操作和任务自动化方面有显著提升，但仍存在响应延迟和偶尔理解偏差。整体而言，AI加持的Siri让Mac的交互更智能，但距离完美助手还有距离。",
+    "category": "product"
+  },
+  {
+    "id": "fef29908818ac0f0ed05d21216ae8cae",
+    "title_en": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
+    "published_at": "2026-06-13T14:00:00.000Z",
+    "fetched_at": "2026-06-13T19:09:14.185Z",
+    "title_zh": "Never Post创始人谈创作过程与稳定供电的价值",
+    "summary_zh": "Never Post创始人Mike Rugnetta在访谈中探讨了创意工作的本质，并强调了稳定可靠的电力供应对于数字创作的重要性。他分享了在内容创作中如何平衡灵感与效率，以及基础设施保障对维持创作连续性的关键作用。",
+    "category": "industry"
+  },
+  {
     "id": "9b106dc66a19d3b617d29ce109c99090",
     "title_en": "My yard is dying, so I made an app for that",
     "source": "The Verge",
@@ -251,6 +317,116 @@
     "title_zh": "PeopleSoft 零日漏洞影响数百家组织，窃取数 GB 数据",
     "summary_zh": "Oracle 旗下 PeopleSoft 系统被发现存在严重零日漏洞，已被攻击者利用，从数百家组织窃取了数 GB 敏感数据。该漏洞影响广泛，涉及政府、金融和大型企业。文章分析了漏洞原理、攻击手法以及紧急修复建议，提醒相关机构立即升级补丁。",
     "category": "research"
+  },
+  {
+    "id": "134be1c7a17f670c0e62689afbc90c16",
+    "title_en": "Photo doesn't show Austin Metcalf's dad with judge, DA involved in Karmelo Anthony trial",
+    "source": "Snopes.com",
+    "url": "https://www.snopes.com//fact-check/austin-metcalf-dad-judge-karmelo-anthony-trial/",
+    "published_at": "2026-06-12T19:04:00Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "辟谣：照片并非显示奥斯汀·梅特卡夫的父亲与卡梅隆·安东尼案法官及检察官同框",
+    "summary_zh": "经核实，网络上流传的一张照片被错误标注，实际并非显示奥斯汀·梅特卡夫的父亲与涉及卡梅隆·安东尼案的法官及检察官在一起。该虚假信息在社交媒体广泛传播，提醒公众在涉及敏感案件时应谨慎核实信息来源，避免被误导。",
+    "category": "industry"
+  },
+  {
+    "id": "e238e4e8fc8285cb41007a3bf8a5aa7c",
+    "title_en": "Anthropic Vertical Software Rollout Threatens Enterprise AI Builders",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-vertical-software-rollout-threatens-enterprise-ai-builders/",
+    "published_at": "2026-06-12T19:03:25Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "Anthropic垂直软件布局威胁企业AI构建者",
+    "summary_zh": "Anthropic正加速推出垂直软件产品，直接面向企业客户提供AI解决方案。此举可能绕过传统企业AI构建者，重塑行业格局。分析认为，这标志着AI公司从底层模型提供商向应用层渗透，对依赖模型API进行二次开发的企业构成直接竞争压力。",
+    "category": "industry"
+  },
+  {
+    "id": "c58696de2ac93279e3f1bc82e7ef772f",
+    "title_en": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
+    "published_at": "2026-06-12T19:01:51Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "众议院共和党高层家族投资或从SpaceX IPO中获益",
+    "summary_zh": "据报道，美国众议院一位共和党高层领导人的家族投资公司已提前布局SpaceX股份，若该公司进行IPO，将获得可观收益。此事引发外界对政商利益关联的质疑，尤其是在SpaceX获得大量政府合同的背景下。",
+    "category": "industry"
+  },
+  {
+    "id": "40b5d874fc809bdb0021b6960ee87433",
+    "title_en": "Russia, Land of the Unpredictable Past",
+    "source": "Foreign Policy",
+    "url": "http://foreignpolicy.com/2026/06/12/russia-putin-censorship-law-drug-propaganda-art-music-literature/",
+    "published_at": "2026-06-12T19:00:14Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "俄罗斯：不可预测的过往之地",
+    "summary_zh": "本文探讨俄罗斯历史与现实的复杂性，分析其不可预测的政治走向如何影响国际关系。从苏联解体到当前地缘冲突，俄罗斯的决策逻辑常令外界难以捉摸，这种不确定性正深刻重塑全球安全格局。",
+    "category": "industry"
+  },
+  {
+    "id": "7b82c29a6bdceae8f04886b88f2da4c7",
+    "title_en": "College Grads vs. AI; Lodi Vineyards Pivot to New Crops; Fresno Students Head to Clarinet ‘Olympics’",
+    "source": "KQED",
+    "url": "https://www.kqed.org/news/12086436/college-grads-vs-ai-lodi-vineyards-pivot-to-new-crops-fresno-students-head-to-clarinet-olympics",
+    "published_at": "2026-06-12T19:00:00Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "大学毕业生与AI竞争；洛迪葡萄园转种新作物；弗雷斯诺学生进军单簧管‘奥运会’",
+    "summary_zh": "本期综合报道涵盖三大话题：AI技术对大学毕业生就业市场的冲击；加州洛迪地区葡萄园因气候与市场变化转向种植其他作物；以及弗雷斯诺学生备战单簧管国际赛事。展现了科技、农业与教育领域的多元动态。",
+    "category": "industry"
+  },
+  {
+    "id": "11e9e862fe648abf74570a64a2c26528",
+    "title_en": "Every Steven Spielberg Sci-Fi Movie, Ranked From Worst to Best",
+    "source": "TheWrap",
+    "url": "https://www.thewrap.com/creative-content/movies/steven-spielberg-sci-fi-movies-ranked/",
+    "published_at": "2026-06-12T19:00:00Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "史蒂文·斯皮尔伯格科幻电影全排名：从最差到最佳",
+    "summary_zh": "本文对史蒂文·斯皮尔伯格执导的所有科幻电影进行排名，从《人工智能》到《少数派报告》等经典作品逐一评析。文章探讨了导演如何通过科幻题材探讨人性、技术与伦理等深刻主题，为影迷提供了一份观影指南。",
+    "category": "industry"
+  },
+  {
+    "id": "5c34458ebfd9848c62c4030f3b3adf88",
+    "title_en": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+    "source": "Internet",
+    "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+    "published_at": "2026-06-12T18:59:32Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "谷歌起诉中国短信诈骗团伙：涉嫌利用Gemini AI进行钓鱼攻击",
+    "summary_zh": "谷歌正式起诉一个中国短信诈骗网络，指控其利用谷歌Gemini AI模型生成钓鱼信息，实施大规模诈骗。这是科技巨头首次针对AI被滥用于网络犯罪采取法律行动，凸显AI安全治理的紧迫性。",
+    "category": "llm"
+  },
+  {
+    "id": "a7de9be0bfa2d9ad6644f59f9643ca09",
+    "title_en": "What in the World?",
+    "source": "Foreign Policy",
+    "url": "http://foreignpolicy.com/2026/06/12/foreign-policy-news-quiz-peru-earthquake-estonia-xi-taco-world-cup/",
+    "published_at": "2026-06-12T18:59:29Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "这世界怎么了？",
+    "summary_zh": "本文以全球视角审视当前国际热点事件，从地缘冲突到气候变化，从科技革命到社会动荡，试图解析世界秩序面临的深层挑战。文章呼吁读者在信息爆炸时代保持批判性思考，理解复杂世界的多元面向。",
+    "category": "industry"
+  },
+  {
+    "id": "49cda756666873d62a7b772de538b692",
+    "title_en": "’Bamcare scams boomed under Biden, putrid pols normalize violence and other commentary",
+    "source": "New York Post",
+    "url": "https://nypost.com/2026/06/12/opinion/bamcare-scams-boomed-under-biden-putrid-pols-normalize-violence-and-other-commentary/",
+    "published_at": "2026-06-12T18:57:50Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "拜登时期‘医保诈骗’激增；政客暴力言论常态化等评论",
+    "summary_zh": "本文汇集多篇评论：批评拜登政府期间医保诈骗案件大幅增长；谴责政客将暴力言论正常化的危险趋势；以及对社会其他乱象的剖析。文章立场鲜明，反映了美国国内政治与社会议题的激烈争论。",
+    "category": "industry"
+  },
+  {
+    "id": "fafda2a43c93e86a2ab11f93d0642ccd",
+    "title_en": "France’s Mistral in funding talks at about €20 billion valuation",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/funding/frances-mistral-in-funding-talks-at-about-20-billion-valuation/articleshow/131692427.cms",
+    "published_at": "2026-06-12T18:53:39Z",
+    "fetched_at": "2026-06-13T19:09:14.806Z",
+    "title_zh": "法国Mistral AI融资谈判：估值约200亿欧元",
+    "summary_zh": "法国AI初创公司Mistral AI正在进行新一轮融资谈判，估值有望达到约200亿欧元。作为欧洲AI领域的明星企业，Mistral凭借开源大模型技术迅速崛起，此次融资将进一步巩固其在全球AI竞赛中的地位。",
+    "category": "industry"
   },
   {
     "id": "2f442b1362c19b4db6e2d1771115098f",
@@ -5322,181 +5498,5 @@
     "title_zh": "苹果用Siri相机功能解决AA制分账难题",
     "summary_zh": "苹果推出Siri in Camera新功能，用户只需用相机拍摄账单，Siri即可自动识别并计算每人应付金额，支持多种分账方式。这一AI视觉识别功能将日常琐事化繁为简，体现了苹果AI落地的实用主义思路。",
     "category": "product"
-  },
-  {
-    "id": "83336280a33f72c879228f9400efad11",
-    "title_en": "Apple’s New Siri AI Is Ready to Get Personal",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
-    "published_at": "2026-06-08T18:17:44.000Z",
-    "fetched_at": "2026-06-08T20:01:55.201Z",
-    "title_zh": "苹果新Siri AI将更懂你的个人需求",
-    "summary_zh": "苹果正在开发新一代Siri AI，能够更深入地理解用户个人偏好和上下文信息。新Siri将具备更强的自然语言处理能力，可跨应用执行复杂任务，同时严格遵循隐私保护原则。这一升级标志着苹果在AI助手领域的重大战略布局。",
-    "category": "product"
-  },
-  {
-    "id": "76336b6b965bc7836b7f14309be07e74",
-    "title_en": "Apple’s long-awaited AI Siri overhaul is finally here",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-    "published_at": "2026-06-08T17:56:21.000Z",
-    "fetched_at": "2026-06-08T20:01:54.970Z",
-    "title_zh": "苹果Siri AI大改版终于到来",
-    "summary_zh": "苹果对Siri进行了期待已久的AI全面改造，引入大语言模型技术，使其具备更自然的对话能力、上下文理解以及多步骤任务执行。新版Siri不再只是语音助手，而是成为苹果生态的AI中枢。",
-    "category": "product"
-  },
-  {
-    "id": "31b41768866e291f5dd4b343b5a5ead7",
-    "title_en": "Apple is redesigning Screen Time and overhauling child controls",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026",
-    "published_at": "2026-06-08T17:55:30.000Z",
-    "fetched_at": "2026-06-08T20:01:55.050Z",
-    "title_zh": "苹果重新设计屏幕使用时间并全面升级儿童管控功能",
-    "summary_zh": "苹果宣布对屏幕使用时间功能进行重大改版，并全面强化儿童保护控制。新设计提供更精细的使用限制、家长远程管理及隐私保护机制，旨在应对日益增长的青少年数字健康担忧。",
-    "category": "product"
-  },
-  {
-    "id": "d78d511bcce6621052827f6e57a35f46",
-    "title_en": "Amazon is launching AI-generated custom merch",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-    "published_at": "2026-06-08T17:52:51.000Z",
-    "fetched_at": "2026-06-08T20:01:55.050Z",
-    "title_zh": "亚马逊推出AI生成定制商品服务",
-    "summary_zh": "亚马逊上线AI驱动的定制商品生成功能，用户可通过文本描述或图像输入，由AI自动设计并生产T恤、马克杯等个性化商品。此举将AI创意落地为电商新玩法，降低定制门槛。",
-    "category": "product"
-  },
-  {
-    "id": "d36cc0e57d78a2f4e3ca2895264b8b0e",
-    "title_en": "Apple announces iPadOS 27",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/942546/apple-ipados-27-wwdc-2026",
-    "published_at": "2026-06-08T17:51:04.000Z",
-    "fetched_at": "2026-06-08T20:01:55.050Z",
-    "title_zh": "苹果发布iPadOS 27系统更新",
-    "summary_zh": "苹果正式发布iPadOS 27，带来多任务处理优化、Apple Pencil新功能及AI增强的笔记应用。新系统进一步释放iPad生产力潜力，并强化与Mac、iPhone的生态协同。",
-    "category": "product"
-  },
-  {
-    "id": "6b8a892e270feb8f1eb9be581a51b503",
-    "title_en": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-    "published_at": "2026-06-08T17:44:28.000Z",
-    "fetched_at": "2026-06-08T20:01:55.201Z",
-    "title_zh": "英国斥资十亿美元打造AI超算，欲摆脱对美国技术依赖",
-    "summary_zh": "英国政府宣布投资数十亿美元建设国家级AI超级计算机，旨在减少对美国科技巨头的依赖。该项目将支持本土AI研究和应用开发，提升英国在全球AI竞赛中的竞争力。此举被视为英国脱欧后科技自主战略的关键一步。",
-    "category": "industry"
-  },
-  {
-    "id": "d83456ffca102e61a938eba86d00a571",
-    "title_en": "Apple announces Siri AI and its next generation of Apple Intelligence",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-    "published_at": "2026-06-08T17:34:24.000Z",
-    "fetched_at": "2026-06-08T20:01:55.050Z",
-    "title_zh": "苹果宣布Siri AI及下一代Apple Intelligence",
-    "summary_zh": "苹果重磅发布Siri AI与新一代Apple Intelligence，整合大语言模型与端侧推理，实现更自然的对话、跨应用操作及个性化建议。这标志着苹果在AI领域的战略升级，与OpenAI等对手展开正面竞争。",
-    "category": "llm"
-  },
-  {
-    "id": "a2e4d3ee3f7d421673d1a1be2929ed20",
-    "title_en": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
-    "published_at": "2026-06-08T17:31:11.000Z",
-    "fetched_at": "2026-06-08T20:01:55.201Z",
-    "title_zh": "Meta在WIRED报道后从智能眼镜应用中删除面部识别功能",
-    "summary_zh": "在WIRED曝光其隐私问题后，Meta迅速从其智能眼镜配套应用中移除了面部识别功能。该功能此前可自动识别并标记照片中的人物，引发严重隐私担忧。此举表明科技公司在AI功能与用户隐私之间面临越来越大的监管和舆论压力。",
-    "category": "product"
-  },
-  {
-    "id": "efda2e452f15219f329f52c9c4655d77",
-    "title_en": "Amazon now lets you design custom merch using AI",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-    "published_at": "2026-06-08T15:49:12.000Z",
-    "fetched_at": "2026-06-08T20:01:54.970Z",
-    "title_zh": "亚马逊推出AI定制周边设计服务",
-    "summary_zh": "亚马逊上线AI定制周边功能，用户只需输入文字描述，AI即可生成T恤、马克杯等商品的专属设计图案。该服务降低了创意门槛，让普通用户也能轻松设计个性化商品，并直接通过亚马逊平台生产销售。",
-    "category": "product"
-  },
-  {
-    "id": "260047d96e7e6e8e6da4ffa31260af40",
-    "title_en": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
-    "published_at": "2026-06-08T15:34:59.000Z",
-    "fetched_at": "2026-06-08T20:01:54.971Z",
-    "title_zh": "WWDC 2026前瞻：Siri大改版、Apple Intelligence与iOS 27成焦点",
-    "summary_zh": "WWDC 2026即将开幕，最受期待的更新包括Siri的AI化重塑、全新Apple Intelligence平台以及iOS 27系统。苹果正加速将AI融入全产品线，从语音助手到系统级智能，本次大会将是苹果AI战略的关键转折点。",
-    "category": "product"
-  },
-  {
-    "id": "96092e9f98473103bf240ff1828c73e4",
-    "title_en": "Eero’s Pro 6E routers are down to their cheapest price yet in 2026",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/945656/eero-pro-6e-mesh-wifi-garmin-fenix-asus-oled-gaming-deal-sale",
-    "published_at": "2026-06-08T15:25:04.000Z",
-    "fetched_at": "2026-06-08T15:30:40.886Z",
-    "title_zh": "Eero Pro 6E路由器降至2026年最低价",
-    "summary_zh": "亚马逊旗下Eero品牌的Pro 6E路由器迎来2026年迄今最低价格。这款支持Wi-Fi 6E的三频Mesh系统，覆盖面积达6000平方英尺，可连接超150台设备。此次促销为预算有限但追求高速稳定家庭网络的用户提供了绝佳入手时机。",
-    "category": "product"
-  },
-  {
-    "id": "70371b982b864c1b7982155354fe19cd",
-    "title_en": "Watch Duty Is Adding Flood Alerts to Its Wildfire App",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/watch-duty-is-adding-flood-alerts-to-its-wildfire-app/",
-    "published_at": "2026-06-08T15:00:00.000Z",
-    "fetched_at": "2026-06-08T15:30:41.100Z",
-    "title_zh": "Watch Duty野火预警应用新增洪水警报功能",
-    "summary_zh": "知名野火追踪应用Watch Duty宣布集成洪水预警功能，为用户提供更全面的自然灾害防护。新功能基于实时气象数据和地理定位，可在洪水来临前发出警报并提供安全路线建议。此举扩展了该应用在应急管理领域的实用性。",
-    "category": "product"
-  },
-  {
-    "id": "b2d8045adc0a0d084a54d7ec69cb96fe",
-    "title_en": "Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
-    "published_at": "2026-06-08T14:31:06.000Z",
-    "fetched_at": "2026-06-08T15:30:40.887Z",
-    "title_zh": "黑客利用Meta AI聊天机器人劫持超2万个Instagram账号",
-    "summary_zh": "安全研究人员发现，黑客通过伪装成Meta官方AI客服的钓鱼页面，诱导用户授权恶意应用，已成功劫持超过2万个Instagram账号。攻击者利用用户对AI聊天机器人的信任，窃取登录凭证和双重验证码，导致账号被用于发布垃圾信息或勒索。",
-    "category": "industry"
-  },
-  {
-    "id": "f834b1fd8d8904dcbd5717dfc16239ea",
-    "title_en": "Mainframe modernization is about trust, not migration",
-    "source": "TechRadar",
-    "url": "https://www.techradar.com/pro/mainframe-modernization-is-about-trust-not-migration",
-    "published_at": "2026-06-08T14:27:05Z",
-    "fetched_at": "2026-06-09T14:28:01.172Z",
-    "title_zh": "大型机现代化：关键在于信任，而非迁移",
-    "summary_zh": "文章指出，大型机现代化不应仅仅被视为技术迁移问题，其核心在于建立和维护信任。许多企业因担心迁移过程中的数据安全、业务连续性和合规风险而犹豫不决。真正的现代化策略应优先考虑如何通过增量改进、混合架构和增强的治理来巩固信任，而非盲目追求彻底替换。",
-    "category": "industry"
-  },
-  {
-    "id": "ce4da31a8f84763ac5de595fd5f0a0d0",
-    "title_en": "Bill Gates and his continuing education",
-    "source": "Wnd.com",
-    "url": "https://www.wnd.com/2026/06/bill-gates-his-continuing-education/",
-    "published_at": "2026-06-08T14:17:36Z",
-    "fetched_at": "2026-06-09T14:28:01.173Z",
-    "title_zh": "比尔·盖茨的持续学习之旅",
-    "summary_zh": "本文探讨了比尔·盖茨在离开微软日常管理后，如何通过广泛阅读、与各领域专家交流以及参与慈善项目来持续学习。盖茨认为，保持好奇心和学习能力是应对快速变化世界的关键。他的学习范围涵盖气候变化、全球健康、人工智能等前沿议题，展现了终身学习者的典范。",
-    "category": "industry"
-  },
-  {
-    "id": "bd513d4dc61c84759025de38f67fbe9f",
-    "title_en": "Where does the Trump administration really stand on AI?",
-    "source": "The Week Magazine",
-    "url": "https://theweek.com/politics/where-does-trump-really-stand-ai",
-    "published_at": "2026-06-08T14:17:22Z",
-    "fetched_at": "2026-06-09T14:28:01.173Z",
-    "title_zh": "特朗普政府对 AI 的真实立场是什么？",
-    "summary_zh": "文章分析了特朗普政府在人工智能政策上的矛盾与模糊之处。一方面，政府强调 AI 对国家安全和经济竞争力的重要性，并放松部分监管以促进创新；另一方面，缺乏明确的联邦战略和资金支持，导致业界对其长期承诺存疑。文章呼吁更清晰、连贯的 AI 政策框架。",
-    "category": "industry"
   }
 ]

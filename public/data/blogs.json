@@ -1,5 +1,104 @@
 [
   {
+    "id": "b4569ff05b00997837bac069aed29104",
+    "title_en": "内核实时补丁已开启AL2023 - Amazon Linux 2023",
+    "source": "docs.aws.amazon.com",
+    "url": "https://docs.aws.amazon.com/zh_cn/linux/al2023/ug/live-patching.html",
+    "published_at": "2026-06-13T19:10:16.429Z",
+    "fetched_at": "2026-06-13T19:10:16.429Z",
+    "title_zh": "内核实时补丁已开启AL2023 - Amazon Linux 2023",
+    "summary_zh": "本文介绍了Amazon Linux 2023（AL2023）中内核实时补丁（Kernel Live Patching）功能的启用与配置。实时补丁允许在不重启系统的情况下应用关键安全修复，显著提升生产环境的可用性。文章详细说明了如何启用该功能、管理补丁生命周期、验证补丁状态以及回滚操作。同时对比了与标准内核更新方式的优劣，并提供了针对常见内核漏洞（如CVE-2023-xxxx）的实时补丁应用示例，适合AWS运维人员参考。",
+    "topic": "security"
+  },
+  {
+    "id": "b2b08b0d4cea8aeb1ffe0e09461a93ed",
+    "title_en": "Linux页缓存覆写漏洞深度剖析：Copy Fail的根因、利用与检测 - 云栈社区",
+    "source": "yunpan.plus",
+    "url": "https://yunpan.plus/t/24810-1-1",
+    "published_at": "2026-06-13T19:10:16.428Z",
+    "fetched_at": "2026-06-13T19:10:16.428Z",
+    "title_zh": "Linux页缓存覆写漏洞深度剖析：Copy Fail的根因、利用与检测 - 云栈社区",
+    "summary_zh": "本文深度剖析了Linux内核页缓存（Page Cache）覆写漏洞，聚焦于Copy Fail场景下的根因分析。文章从内存管理机制出发，解释了页缓存与文件系统交互时因竞态条件或错误处理不当导致的数据覆写问题。详细介绍了漏洞的利用方法（如提权、信息泄露）以及检测手段（基于内核日志、内存取证、eBPF监控）。提供了针对性的内核补丁分析和加固建议，适合内核开发者和安全研究员阅读。",
+    "topic": "security"
+  },
+  {
+    "id": "892a782bb815ed37501622ad3f84621f",
+    "title_en": "Linux 内核提权风暴：从 Copy Fail 到 Dirty Frag 再到 Fragnesia——零拷贝页缓存污染漏洞家族的终极解剖-程序员茄子",
+    "source": "chenxutan.com",
+    "url": "https://chenxutan.com/d/2743.html",
+    "published_at": "2026-06-13T19:10:16.428Z",
+    "fetched_at": "2026-06-13T19:10:16.428Z",
+    "title_zh": "Linux内核提权风暴：从Copy Fail到Dirty Frag再到Fragnesia——零拷贝页缓存污染漏洞家族的终极解剖-程序员茄子",
+    "summary_zh": "本文对Linux内核中一系列零拷贝页缓存污染漏洞（Copy Fail、Dirty Frag、Fragnesia）进行了系统性解剖。文章追溯了漏洞家族的演进脉络，从最初的页缓存写入失败导致的数据不一致，到碎片化污染引发的提权攻击，再到更隐蔽的Fragnesia漏洞。深入分析了每个漏洞的内核代码根因、利用原语（如任意地址读写、权限提升）以及实际攻击场景。提供了基于内核补丁、KASLR、CFI等防御机制的缓解方案，是内核安全领域的深度技术文章。",
+    "topic": "security"
+  },
+  {
+    "id": "e6ff2c01e0051630acce199ee0449435",
+    "title_en": "KEV 2026 — CISA Known Exploited Vulnerabilities",
+    "source": "kev.5sn.com",
+    "url": "https://kev.5sn.com/2026/",
+    "published_at": "2026-06-13T19:10:14.068Z",
+    "fetched_at": "2026-06-13T19:10:14.068Z",
+    "title_zh": "KEV 2026 — CISA已知被利用漏洞目录",
+    "summary_zh": "本文介绍了CISA（美国网络安全与基础设施安全局）发布的2026年已知被利用漏洞（KEV）目录。该目录收录了已被黑客在真实攻击中利用的CVE漏洞，涵盖操作系统、网络设备、应用软件等。文章详细解读了新增漏洞的严重等级、影响范围、攻击向量及修复建议，并强调了KEV目录在安全运维中的优先级指导作用——企业应优先修补目录中的漏洞以降低被攻击风险。",
+    "topic": "security"
+  },
+  {
+    "id": "646a730d47989cced97d87fdc733a104",
+    "title_en": "在Linux 系统上Docker 容器的性能影响 - Toradex",
+    "source": "toradex.com",
+    "url": "https://www.toradex.com/blog/zai-linux-xi-tong-shang-docker-rong-qi-de-xing-neng-ying-xiang?srsltid=AfmBOopGoZTz8MbJ0hbp1eE4jOopiKh25DU8FYWeTxArRbl4fjd6Z4l5",
+    "published_at": "2026-06-13T19:10:14.067Z",
+    "fetched_at": "2026-06-13T19:10:14.067Z",
+    "title_zh": "在Linux系统上Docker容器的性能影响 - Toradex",
+    "summary_zh": "本文深入分析了在Linux系统上运行Docker容器对性能的影响，涵盖CPU、内存、网络和磁盘I/O等关键维度。通过基准测试对比了原生进程与容器化部署的性能差异，探讨了cgroups、命名空间、OverlayFS等底层机制带来的开销。文章还提供了针对不同工作负载（如高并发Web服务、数据库、实时计算）的优化建议，包括调整内核参数、使用host网络模式、选择合适的存储驱动等，为生产环境容器化部署提供了量化参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "a1deb01d8707c902a0bde4b2c986579b",
+    "title_en": "2026大模型排行榜：实测10+主流大模型选型指南 - 淘宝教育",
+    "source": "daxue.taobao.com",
+    "url": "https://daxue.taobao.com/information/detail.jhtml?id=1375&",
+    "published_at": "2026-06-13T19:10:10.607Z",
+    "fetched_at": "2026-06-13T19:10:10.607Z",
+    "title_zh": "2026大模型排行榜：实测10+主流大模型选型指南 - 淘宝教育",
+    "summary_zh": "本文基于淘宝教育平台的实测数据，对2026年10余款主流大模型进行了横向评测与排名。评测维度涵盖代码生成、逻辑推理、多轮对话、中文理解、数学计算及行业场景适配性等关键指标。文章不仅给出了量化评分，还针对不同应用场景（如教育辅导、内容创作、数据分析）提供了选型建议，帮助开发者和企业根据实际需求（成本、响应速度、准确率）做出最优决策。",
+    "topic": "ai"
+  },
+  {
+    "id": "a53820c2424f1375eaf7f5acb0f37f04",
+    "title_en": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型 - YouTube",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=lAy9RKQSi2U",
+    "published_at": "2026-06-13T19:10:10.607Z",
+    "fetched_at": "2026-06-13T19:10:10.607Z",
+    "title_zh": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型 - YouTube",
+    "summary_zh": "本文对2026年科技行业的关键趋势进行了前瞻性分析，聚焦AI、自动驾驶、机器人和世界模型四大领域。内容涵盖：大模型向多模态和具身智能演进，自动驾驶L4级商业化落地加速，人形机器人在工业和服务场景的突破，以及世界模型在仿真和决策中的潜力。文章结合技术进展与产业动态，探讨了算力瓶颈、数据隐私、安全法规等挑战，为技术决策者提供了战略参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "391b6a3eb5f07d7800aa5a07c741f54c",
+    "title_en": "【2026最新版】保姆级AI Agent智能应用从0到1定制开发教程！通俗 ...",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=LenB-tCVrp8",
+    "published_at": "2026-06-13T19:10:10.607Z",
+    "fetched_at": "2026-06-13T19:10:10.607Z",
+    "title_zh": "【2026最新版】保姆级AI Agent智能应用从0到1定制开发教程！通俗 ...",
+    "summary_zh": "本文是一篇面向初学者的AI Agent定制开发实战教程。从零开始，详细讲解了智能体的核心概念（如感知、规划、记忆、工具调用），并逐步演示了如何基于主流框架（如LangChain、AutoGPT）构建一个完整的Agent应用。内容涵盖环境搭建、Prompt设计、外部API集成、错误处理与性能优化等关键环节，提供了可复用的代码示例和最佳实践，适合希望快速上手Agent开发的工程师。",
+    "topic": "ai"
+  },
+  {
+    "id": "c2bb922832ad1d2be7819a18cfbb4d48",
+    "title_en": "最新！2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2658619",
+    "published_at": "2026-06-13T19:10:10.606Z",
+    "fetched_at": "2026-06-13T19:10:10.606Z",
+    "title_zh": "最新！2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发",
+    "summary_zh": "本文全面梳理了2026年3月全球大模型领域的最新格局。核心看点包括：国产大模型在多项基准测试中登顶，展现出强大的竞争力；上下文窗口长度突破百万级，为长文档理解和复杂推理任务提供了可能；智能体（Agent）技术迎来爆发式增长，从单一对话向自主规划、工具调用和多任务执行演进。文章深入分析了各主流模型的技术架构、训练数据规模、推理效率及生态布局，为AI从业者提供了选型参考和趋势洞察。",
+    "topic": "ai"
+  },
+  {
     "id": "1996c6b738d2867803c8b5e16108401e",
     "title_en": "使用eBPF Linux 安全模块实时修补Linux 内核中的安全漏洞",
     "source": "blog.cloudflare.com",
@@ -2098,105 +2197,6 @@
     "fetched_at": "2026-06-11T20:11:46.864Z",
     "title_zh": "Docker容器的优化和性能调优技巧",
     "summary_zh": "本文深入探讨了Docker容器在生产环境中的性能优化技巧，涵盖镜像精简、资源限制（CPU/内存）、存储驱动选择、网络模式调优、容器编排策略等关键方面。通过具体配置参数与基准测试数据，展示了如何降低容器开销、提升启动速度与运行效率。适合Docker使用者与运维人员参考实践。",
-    "topic": "ops"
-  },
-  {
-    "id": "fa174e3d905524ff1b041d4022b4f656",
-    "title_en": "在Linux 系统上Docker 容器的性能影响 - Toradex",
-    "source": "toradex.com",
-    "url": "https://www.toradex.com/blog/zai-linux-xi-tong-shang-docker-rong-qi-de-xing-neng-ying-xiang?srsltid=AfmBOor99Oz3O9dPFXuztKxDmJGyVWVsJLtl9QCaO8Nu2zIw0x-5a-nB",
-    "published_at": "2026-06-11T20:11:46.864Z",
-    "fetched_at": "2026-06-11T20:11:46.864Z",
-    "title_zh": "在Linux系统上Docker容器的性能影响",
-    "summary_zh": "本文由Toradex出品，系统分析了Docker容器在Linux系统上的性能开销，涵盖CPU、内存、网络、磁盘I/O等维度的基准测试结果。对比了容器与原生进程的性能差异，探讨了不同存储驱动、网络模式对性能的影响，并给出了针对嵌入式与边缘计算场景的优化建议。适合对容器性能敏感的开发与运维人员阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "18d5f5cc6f47a1e0b6b9d19dfc33d433",
-    "title_en": "Docker 性能调优 - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1977051410257433402",
-    "published_at": "2026-06-11T20:11:46.864Z",
-    "fetched_at": "2026-06-11T20:11:46.864Z",
-    "title_zh": "Docker性能调优",
-    "summary_zh": "本文从知乎专栏精选，系统介绍了Docker性能调优的实用方法，包括镜像层优化、容器资源限制、日志管理、网络性能调优、存储驱动选择等核心技巧。通过具体配置示例与性能对比，帮助开发者减少容器资源浪费、提升应用响应速度。适合正在优化Docker部署性能的开发者与运维人员参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "06bc7707e9607e27872b4db215b1b16d",
-    "title_en": "Linux操作系统加固 - 阿里云文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/document_detail/49809.html",
-    "published_at": "2026-06-11T20:11:46.864Z",
-    "fetched_at": "2026-06-11T20:11:46.864Z",
-    "title_zh": "Linux操作系统加固",
-    "summary_zh": "本文由阿里云文档提供，系统介绍了Linux操作系统的安全加固方法，涵盖账户与密码策略、SSH安全配置、防火墙规则、SELinux/AppArmor启用、内核参数优化、文件权限管理、日志审计等核心安全措施。针对常见攻击面提供了具体的加固步骤与配置示例，帮助运维人员提升服务器的安全防护能力，降低被入侵风险。",
-    "topic": "security"
-  },
-  {
-    "id": "3e2f19e88f7a06c4b428ea91975f62ad",
-    "title_en": "K8s集群运维管理最佳实践 - 阿里云文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/edas/use-cases/best-practices-for-kubernetes-cluster-o-and-m",
-    "published_at": "2026-06-11T20:11:46.863Z",
-    "fetched_at": "2026-06-11T20:11:46.863Z",
-    "title_zh": "K8s集群运维管理最佳实践",
-    "summary_zh": "本文基于阿里云官方文档，总结了Kubernetes集群运维管理的核心最佳实践，涵盖集群部署规划、节点管理、资源配额、命名空间隔离、监控告警、日志收集、备份恢复等关键环节。针对生产环境常见问题提供了具体配置建议与操作步骤，帮助运维团队提升集群的稳定性、安全性与可维护性，是K8s运维人员的实用参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "807ae30e17b3ac77d026327f7bfa3041",
-    "title_en": "【2025必学】AI Agent开发全攻略：从理论到实践 - 智能体开发者社区",
-    "source": "adg.csdn.net",
-    "url": "https://adg.csdn.net/69524cce5b9f5f31781b6f0b.html",
-    "published_at": "2026-06-11T20:11:43.103Z",
-    "fetched_at": "2026-06-11T20:11:43.103Z",
-    "title_zh": "【2025必学】AI Agent开发全攻略：从理论到实践",
-    "summary_zh": "本文系统梳理了AI Agent从理论到工程落地的完整路径，涵盖Agent架构设计、工具调用、记忆管理、规划与反思等核心模块。结合智能体开发者社区的最佳实践，深入解析了如何构建具备自主决策与任务分解能力的Agent系统，并提供了可复用的代码示例与调试技巧。适合希望快速掌握Agent开发全栈技能的AI工程师阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "aee75ffe6b34b1fd084e6ba37277c972",
-    "title_en": "从\"工具\"到\"同事\"：AI Agent 自主决策能力的工程化实践 - 稀土掘金",
-    "source": "juejin.cn",
-    "url": "https://juejin.cn/post/7632249669431607350",
-    "published_at": "2026-06-11T20:11:43.103Z",
-    "fetched_at": "2026-06-11T20:11:43.103Z",
-    "title_zh": "从工具到同事：AI Agent自主决策能力的工程化实践",
-    "summary_zh": "本文探讨了AI Agent从被动工具向主动协作者演进的关键技术路径，重点分析了自主决策能力的工程化实现，包括基于LLM的推理循环、环境感知与反馈机制、多步骤任务规划与执行。结合稀土掘金社区的实战案例，分享了在复杂业务场景中部署Agent的架构设计、性能优化与稳定性保障经验，为构建高可靠AI Agent系统提供了实用参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "ab44692da05b2d4a4e37b0a487dd4d88",
-    "title_en": "炼石成丹：大语言模型微调实战系列（二）模型微调篇 - AWS",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-two/",
-    "published_at": "2026-06-11T20:11:43.103Z",
-    "fetched_at": "2026-06-11T20:11:43.103Z",
-    "title_zh": "炼石成丹：大语言模型微调实战系列（二）模型微调篇",
-    "summary_zh": "本文是AWS官方出品的LLM微调实战系列第二篇，聚焦模型微调的核心技术细节。内容涵盖LoRA、QLoRA等参数高效微调方法的原理与实现，数据准备与预处理策略，训练超参数调优，以及模型评估与部署的最佳实践。通过具体案例演示了如何针对特定领域任务进行高效微调，平衡性能与成本，适合有基础NLP经验的开发者深入学习。",
-    "topic": "ai"
-  },
-  {
-    "id": "973a1ff09d914232887be3684d28bb80",
-    "title_en": "GitHub - liguodongiot/llm-action: 本项目旨在分享大模型相关技术原理 ...",
-    "source": "github.com",
-    "url": "https://github.com/liguodongiot/llm-action",
-    "published_at": "2026-06-11T20:11:43.103Z",
-    "fetched_at": "2026-06-11T20:11:43.103Z",
-    "title_zh": "GitHub - liguodongiot/llm-action: 大模型技术原理与实战项目",
-    "summary_zh": "该项目系统整理了LLM从原理到工程实现的完整知识体系，涵盖Transformer架构、预训练、微调、RLHF、模型压缩、推理优化等核心主题。通过丰富的代码示例与实验笔记，帮助开发者深入理解大模型的工作机制与调优方法。项目持续更新，是学习大模型技术的优质开源资源，适合AI研究人员与工程师参考实践。",
-    "topic": "ai"
-  },
-  {
-    "id": "90c3d75e1e9f34bee490f04bb949443c",
-    "title_en": "[Linux操作系统]Linux服务器维护技巧，提升服务器稳定性和效率的实用指南|linux服务器维护教程,linux 服务器维护技巧,Linux操作系统,云主机博士",
-    "source": "yunzhujiboshi.com",
-    "url": "https://www.yunzhujiboshi.com/2025/12/1309318.html",
-    "published_at": "2026-06-11T20:11:43.103Z",
-    "fetched_at": "2026-06-11T20:11:43.103Z",
-    "title_zh": "Linux服务器维护技巧：提升稳定性与效率的实用指南",
-    "summary_zh": "本文总结了Linux服务器日常维护的关键技巧，涵盖系统监控、日志管理、磁盘清理、进程优化、安全加固等核心运维场景。通过具体命令与配置示例，指导运维人员如何快速定位性能瓶颈、预防常见故障，并提升服务器的整体稳定性与运行效率。适合Linux系统管理员及运维工程师作为日常操作参考。",
     "topic": "ops"
   }
 ]
