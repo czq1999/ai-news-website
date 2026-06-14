@@ -1,5 +1,38 @@
 [
   {
+    "id": "b6b9bc8af9eb7d05d81a641aeaae57c9",
+    "title_en": "7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster",
+    "source": "Wired",
+    "url": "https://www.wired.com/gallery/best-coffee-makers/",
+    "published_at": "2026-06-14T09:01:00.000Z",
+    "fetched_at": "2026-06-14T09:19:13.898Z",
+    "title_zh": "2026年最佳咖啡机推荐：Ratio、Fellow、Moccamaster等7款上榜",
+    "summary_zh": "权威科技媒体Wired发布了2026年度最佳咖啡机选购指南，精选了包括Ratio、Fellow、Moccamaster在内的7款顶级产品。评测涵盖滴滤式、意式浓缩及全自动机型，从冲泡品质、设计美学、耐用性及性价比等维度进行综合评分，为咖啡爱好者提供了专业且实用的购买参考。",
+    "category": "product"
+  },
+  {
+    "id": "e54bb5b1412d966a6328283183eebb57",
+    "title_en": "Škoda’s New EV Will Likely Be Its Most Expensive Yet",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/",
+    "published_at": "2026-06-14T09:00:00.000Z",
+    "fetched_at": "2026-06-14T09:19:13.898Z",
+    "title_zh": "斯柯达全新电动车型或成品牌史上最贵",
+    "summary_zh": "斯柯达即将推出的全新纯电动车型预计将成为该品牌有史以来售价最高的车型。新车基于大众集团高端电动平台打造，定位高于现有Enyaq系列，旨在进军高端电动SUV市场。此举标志着斯柯达品牌向上突破的野心，同时也面临来自特斯拉及中国品牌的激烈竞争。",
+    "category": "product"
+  },
+  {
+    "id": "889f9697b8f68f419176c1aa4676992b",
+    "title_en": "As Anthropic suspends access to new models, India debates its AI future",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "published_at": "2026-06-14T03:00:00.000Z",
+    "fetched_at": "2026-06-14T09:19:13.452Z",
+    "title_zh": "Anthropic暂停新模型访问，印度热议AI未来走向",
+    "summary_zh": "Anthropic突然暂停其新AI模型的访问权限，引发印度科技界对本国AI发展战略的广泛讨论。此举凸显了全球AI监管与自主可控之间的紧张关系，印度业界正反思如何在依赖外部技术与推动本土创新之间取得平衡。",
+    "category": "industry"
+  },
+  {
     "id": "860368e694631f776003e304f4012fba",
     "title_en": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
     "source": "TechCrunch AI",
@@ -242,6 +275,61 @@
     "category": "industry"
   },
   {
+    "id": "017e0344cc9f27783a9c9c18ad7b597e",
+    "title_en": "Photos of key moments in SpaceX history, from the scrappy startup days to milestone rocket launches",
+    "source": "Business Insider",
+    "url": "https://www.businessinsider.com/spacex-history-photos#article",
+    "published_at": "2026-06-13T09:15:01Z",
+    "fetched_at": "2026-06-14T09:19:14.247Z",
+    "title_zh": "SpaceX历史关键瞬间图集：从初创草根到里程碑式火箭发射",
+    "summary_zh": "一组珍贵照片回顾了SpaceX从早期简陋创业阶段到如今实现多次里程碑式火箭发射的辉煌历程。画面记录了首次成功回收火箭、载人龙飞船发射以及星舰测试等关键节点，展现了这家私营航天公司如何凭借创新与冒险精神，彻底改变全球航天产业格局。",
+    "category": "industry"
+  },
+  {
+    "id": "cbb8267471baef168d5c66a777dbe836",
+    "title_en": "Anthropic Shuts Down Newest AI Model After U.S. Letter",
+    "source": "Politicalwire.com",
+    "url": "https://politicalwire.com/2026/06/13/anthropic-shuts-down-newest-ai-model-after-u-s-letter/",
+    "published_at": "2026-06-13T09:14:10Z",
+    "fetched_at": "2026-06-14T09:19:14.247Z",
+    "title_zh": "Anthropic应美国政府要求，紧急关闭最新AI模型",
+    "summary_zh": "人工智能公司Anthropic在收到美国政府信函后，迅速关闭了其最新发布的AI模型。官方未透露具体原因，但外界猜测可能与模型能力超出安全阈值或涉及敏感领域有关。此举引发了对AI监管与国家安全之间平衡的讨论，也凸显了前沿AI模型部署面临的合规风险。",
+    "category": "industry"
+  },
+  {
+    "id": "b3c4c0e485be0bfd659161b6329ce48a",
+    "title_en": "State attorneys general launch investigation into OpenAI data practices",
+    "source": "4sysops.com",
+    "url": "https://4sysops.com/archives/state-attorneys-general-launch-investigation-into-openai-data-practices/",
+    "published_at": "2026-06-13T09:09:28Z",
+    "fetched_at": "2026-06-14T09:19:14.247Z",
+    "title_zh": "美国多州总检察长联合调查OpenAI数据实践",
+    "summary_zh": "美国多个州的总检察长联合发起对OpenAI数据收集与使用实践的调查，重点关注其训练AI模型时是否违反隐私法规。调查涉及数据来源的合法性、用户信息的使用范围以及模型输出的潜在偏见。此举标志着监管机构对AI行业数据治理的审查进一步升级，可能影响未来AI训练数据的合规标准。",
+    "category": "industry"
+  },
+  {
+    "id": "64a6e68a23d37478a4d0e063174e9829",
+    "title_en": "Prediction: The Second Half of 2026 Will Be a Game-Changing Moment for Nvidia",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/655bb32ea7cc57d1",
+    "published_at": "2026-06-13T09:02:41Z",
+    "fetched_at": "2026-06-14T09:19:14.248Z",
+    "title_zh": "预测：2026年下半年将成为英伟达的变革性时刻",
+    "summary_zh": "行业分析预测，英伟达将在2026年下半年迎来关键转折点。随着新一代GPU架构及AI芯片的迭代，其数据中心业务和自动驾驶芯片有望实现爆发式增长。届时，AI算力需求将进一步推动英伟达市值与市场份额的飞跃，重塑半导体行业格局。",
+    "category": "industry"
+  },
+  {
+    "id": "d05c7af381691f712bf04ee9f5dbcfe9",
+    "title_en": " Mbappé’s new celebration: flute if he scores v Senegal? ",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/mbappes-new-celebration-flute-if-he-scores-v-senegal-43003272",
+    "published_at": "2026-06-13T09:02:00Z",
+    "fetched_at": "2026-06-14T09:19:14.248Z",
+    "title_zh": "姆巴佩新庆祝动作：若对阵塞内加尔进球将吹笛？",
+    "summary_zh": "法国球星姆巴佩计划在即将对阵塞内加尔的比赛中，若进球则采用全新的“吹笛”庆祝动作。此举引发球迷热议，或为致敬音乐或文化符号。该话题迅速登上社交媒体热搜，成为体育与娱乐跨界焦点。",
+    "category": "product"
+  },
+  {
     "id": "3b69ff53ed5a14942db222dd2e32a708",
     "title_en": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
     "source": "Wired",
@@ -250,6 +338,50 @@
     "fetched_at": "2026-06-13T13:27:18.894Z",
     "title_zh": "法院裁定谷歌需为AI概览生成的虚假陈述承担责任",
     "summary_zh": "一家法院作出里程碑式裁决，认定谷歌需为其AI搜索概览（AI Overviews）生成的虚假或误导性信息承担法律责任。该案涉及AI系统错误输出导致用户受损，法院认为谷歌作为内容发布者不能以AI自动生成为由免责。此判决可能重塑AI生成内容的法律责任框架，对科技行业产生深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "bfae7c24309c72d41da29e45fbcb9143",
+    "title_en": "Microsoft Edge tests AI-powered troubleshooting to diagnose browser issues",
+    "source": "4sysops.com",
+    "url": "https://4sysops.com/archives/microsoft-edge-tests-ai-powered-troubleshooting-to-diagnose-browser-issues/",
+    "published_at": "2026-06-13T08:58:21Z",
+    "fetched_at": "2026-06-14T09:19:14.248Z",
+    "title_zh": "微软Edge浏览器测试AI故障诊断功能，自动排查浏览器问题",
+    "summary_zh": "微软正在为Edge浏览器测试一项基于AI的智能故障诊断工具。该功能可自动检测浏览器卡顿、崩溃或扩展冲突等问题，并提供修复建议。此举旨在提升用户体验，减少手动排查时间，标志着浏览器运维向AI化迈进。",
+    "category": "product"
+  },
+  {
+    "id": "f91112c47be6975a3113617e5ebecf43",
+    "title_en": "World Bank warns 2020s could become a 'lost decade' for many developing economies",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/economy/world-bank-warns-2020s-could-become-a-lost-decade-for-many-developing-economies/article71097041.ece",
+    "published_at": "2026-06-13T08:53:23Z",
+    "fetched_at": "2026-06-14T09:19:14.248Z",
+    "title_zh": "世界银行警告：2020年代或成许多发展中经济体的“失去的十年”",
+    "summary_zh": "世界银行发布报告指出，受债务危机、气候变化及地缘冲突影响，许多发展中国家在2020年代可能面临经济增长停滞，陷入“失去的十年”。报告呼吁国际社会加大援助与改革力度，避免长期发展倒退。",
+    "category": "industry"
+  },
+  {
+    "id": "95646283c3eb5864ad3fcdfd455fd647",
+    "title_en": "RBI plans simpler cross-border payment approvals to boost MSMEs, exporters: EY report",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-plans-simpler-cross-border-payment-approvals-to-boost-msmes-exporters-ey-report/articleshow/131700773.cms",
+    "published_at": "2026-06-13T08:52:10Z",
+    "fetched_at": "2026-06-14T09:19:14.248Z",
+    "title_zh": "印度央行拟简化跨境支付审批，助力中小微企业与出口商——安永报告",
+    "summary_zh": "据安永报告，印度储备银行计划推出更简化的跨境支付审批流程，以降低中小微企业和出口商的交易成本与时间。此举旨在提升印度在全球贸易中的竞争力，并推动数字支付生态的国际化发展。",
+    "category": "industry"
+  },
+  {
+    "id": "e42167d70248d3142885776e03eeebf8",
+    "title_en": "RBI plans simpler cross-border payment approvals to boost MSMEs, exporters: EY report",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-plans-simpler-cross-border-payment-approvals-to-boost-msmes-exporters-ey-report/article71097016.ece",
+    "published_at": "2026-06-13T08:43:21Z",
+    "fetched_at": "2026-06-14T09:19:14.248Z",
+    "title_zh": "印度央行拟简化跨境支付审批，助力中小微企业与出口商——安永报告",
+    "summary_zh": "安永报告指出，印度储备银行正规划简化跨境支付审批流程，重点支持中小微企业和出口商。新政策有望缩短结算周期、降低手续费，并增强印度在全球供应链中的金融效率，进一步促进数字卢比跨境应用。",
     "category": "industry"
   },
   {
@@ -5365,138 +5497,6 @@
     "fetched_at": "2026-06-09T02:10:10.085Z",
     "title_zh": "苹果押注更便宜的AI方案以吸引小型开发者",
     "summary_zh": "苹果计划推出成本更低的AI服务方案，旨在降低小型开发者的使用门槛。通过提供更实惠的AI工具和API，苹果希望吸引更多开发者在其生态系统中构建创新应用，从而丰富其AI应用生态。",
-    "category": "product"
-  },
-  {
-    "id": "1da62ec24682494d9f98d6fb26499eb0",
-    "title_en": "44 things coming to your Apple devices that you might have missed",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
-    "published_at": "2026-06-08T20:26:52.000Z",
-    "fetched_at": "2026-06-09T02:10:10.195Z",
-    "title_zh": "苹果设备即将迎来的44项你可能错过的更新",
-    "summary_zh": "文章汇总了苹果即将在iOS、iPadOS、macOS等系统中推出的44项更新，涵盖从细微的界面调整到重要的功能增强。这些更新虽未在发布会上重点介绍，但将显著提升用户体验，值得用户关注。",
-    "category": "product"
-  },
-  {
-    "id": "824c36a41aabcc937f053373331bf28d",
-    "title_en": "Everything Apple Announced at WWDC 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/",
-    "published_at": "2026-06-08T20:00:10.000Z",
-    "fetched_at": "2026-06-09T02:10:10.333Z",
-    "title_zh": "WWDC 2026：苹果发布全系新品一览",
-    "summary_zh": "苹果在WWDC 2026上发布了包括硬件、软件及AI服务在内的多项重大更新。从操作系统升级到新设备亮相，苹果正加速将AI能力融入生态，进一步巩固其在消费科技领域的领先地位，开发者与用户均迎来全新体验。",
-    "category": "product"
-  },
-  {
-    "id": "e5e65c36258847be6d4dc8dc23363b8f",
-    "title_en": "Apple renames Siri as ‘Siri AI’ with new push into artificial intelligence",
-    "source": "NBC News",
-    "url": "https://www.nbcnews.com/tech/tech-news/apple-renames-siri-siri-ai-new-push-artificial-intelligence-rcna349048",
-    "published_at": "2026-06-08T19:56:37Z",
-    "fetched_at": "2026-06-09T19:56:57.771Z",
-    "title_zh": "苹果将Siri更名为“Siri AI”，全面进军人工智能领域",
-    "summary_zh": "苹果正式将语音助手Siri更名为“Siri AI”，标志着其AI战略的重大升级。新版Siri AI深度融合大语言模型，支持更复杂的对话、多步骤任务执行以及跨应用操作。此次更名配合苹果在AI领域的系列投资，包括自研大模型和云端AI基础设施，意图在AI赛道追赶竞争对手。",
-    "category": "product"
-  },
-  {
-    "id": "2e3a1fffbe0b1be31bdc113d1ebaf12b",
-    "title_en": "Media Agency Mediaplus Group Signs 10K-SF Lease at 432 Park Avenue South",
-    "source": "Commercial Observer",
-    "url": "http://commercialobserver.com/2026/06/mediaplus-group-lease-432-park-avenue-south/",
-    "published_at": "2026-06-08T19:55:12Z",
-    "fetched_at": "2026-06-09T19:56:57.771Z",
-    "title_zh": "媒体集团Mediaplus签约租下公园大道南432号1万平方英尺办公空间",
-    "summary_zh": "媒体代理集团Mediaplus在纽约曼哈顿公园大道南432号签署了一份1万平方英尺的长期租约。该地段为商业核心区，此次扩张反映了Mediaplus业务增长及对线下办公空间的持续需求。交易细节未披露，但业内人士认为此举显示广告行业对实体办公的信心回升。",
-    "category": "industry"
-  },
-  {
-    "id": "ee6032ea57fcc74e7bf976aad2532e98",
-    "title_en": "Apple, Google team on AI as Apple Intelligence awaits China approval",
-    "source": "Nikkei.com",
-    "url": "https://asia.nikkei.com/business/technology/apple-google-team-on-ai-as-apple-intelligence-awaits-china-approval",
-    "published_at": "2026-06-08T19:53:19Z",
-    "fetched_at": "2026-06-09T19:56:57.771Z",
-    "title_zh": "苹果与谷歌联手推进AI，苹果智能在中国等待审批",
-    "summary_zh": "苹果正与谷歌合作，将后者的AI模型整合到苹果设备中，以加速其AI功能落地。与此同时，苹果自研的“Apple Intelligence”服务仍在等待中国监管部门的批准。合作可能涉及谷歌Gemini模型为Siri等提供支持，此举被视为苹果在AI领域追赶竞争对手的关键策略。",
-    "category": "industry"
-  },
-  {
-    "id": "35621e75fae7e7ec9ec6decb638f2ae0",
-    "title_en": "Palmeiras drop Nino, and Flu could form a dream defence with Thiago Silva",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/palmeiras-drop-nino-and-flu-could-form-a-dream-defence-with-thiago-silva-42982740",
-    "published_at": "2026-06-08T19:53:00Z",
-    "fetched_at": "2026-06-09T19:56:57.771Z",
-    "title_zh": "帕尔梅拉斯放弃尼诺，弗鲁米嫩塞或与蒂亚戈·席尔瓦组成梦幻防线",
-    "summary_zh": "巴甲俱乐部帕尔梅拉斯决定放弃引进后卫尼诺，而弗鲁米嫩塞则有望签下切尔西老将蒂亚戈·席尔瓦，打造一条梦幻防线。席尔瓦若回归巴甲，将极大提升球队防守实力，并带来丰富的欧战经验。这笔潜在交易引发球迷热议，被视为本赛季巴甲最重磅的转会传闻之一。",
-    "category": "industry"
-  },
-  {
-    "id": "1f192af2d1c3d78873dce9169be354a3",
-    "title_en": "15 great new Apple Intelligence features to try (beyond Siri AI)",
-    "source": "Cult of Mac",
-    "url": "https://www.cultofmac.com/news/new-apple-intelligence-features",
-    "published_at": "2026-06-08T19:52:37Z",
-    "fetched_at": "2026-06-09T19:56:57.771Z",
-    "title_zh": "15个值得尝试的苹果智能新功能（Siri AI之外）",
-    "summary_zh": "苹果在Siri AI之外，为iOS系统引入了15项全新Apple Intelligence功能。这些功能涵盖照片编辑、邮件智能回复、通知摘要、专注模式优化等，旨在提升用户日常使用效率。文章详细介绍了每项功能的操作方式与适用场景，帮助用户快速上手。",
-    "category": "product"
-  },
-  {
-    "id": "9a5bb2e5add95685e6f19260d47b33f6",
-    "title_en": "Pentagon adds Alibaba, Baidu, BYD, and Unitree to its Chinese military companies list",
-    "source": "The Next Web",
-    "url": "https://thenextweb.com/news/pentagon-1260h-alibaba-baidu-byd-unitree-chinese-military/",
-    "published_at": "2026-06-08T19:51:14Z",
-    "fetched_at": "2026-06-09T19:56:57.771Z",
-    "title_zh": "五角大楼将阿里巴巴、百度、比亚迪和宇树科技列入中国军方关联企业名单",
-    "summary_zh": "美国五角大楼更新了与中国军方有关联的企业名单，新增阿里巴巴、百度、比亚迪和宇树科技等多家知名科技公司。此举可能影响这些企业的国际业务与合作，引发市场关注。名单旨在识别并限制被认为支持中国军事现代化的实体。",
-    "category": "industry"
-  },
-  {
-    "id": "4ad77209179024298bfeb2dc8532ae1d",
-    "title_en": "iOS 27: Here’s all the new Apple Music features",
-    "source": "9to5Mac",
-    "url": "https://9to5mac.com/2026/06/08/ios-27-heres-all-the-new-apple-music-features/",
-    "published_at": "2026-06-08T19:50:36Z",
-    "fetched_at": "2026-06-09T19:56:57.771Z",
-    "title_zh": "iOS 27来了：Apple Music全新功能一览",
-    "summary_zh": "苹果在iOS 27中为Apple Music带来多项更新，包括更智能的播放列表推荐、改进的歌词显示、空间音频优化以及全新的社交分享功能。用户界面也进行了微调，使音乐发现和播放体验更加流畅。这些更新旨在提升订阅用户的整体满意度。",
-    "category": "product"
-  },
-  {
-    "id": "8a0ca7518c1d0db89a1b51e6970a80e7",
-    "title_en": "Apple goes all in with AI: Apple Intelligence, Siri AI try to catch up with rivals",
-    "source": "Afterdawn.com",
-    "url": "https://www.afterdawn.com/news/article.cfm/2026/06/08/apple-goes-all-in-with-ai-apple-intelligence-siri-ai",
-    "published_at": "2026-06-08T19:48:54Z",
-    "fetched_at": "2026-06-09T19:56:57.772Z",
-    "title_zh": "苹果全面押注AI：Apple Intelligence与Siri AI奋力追赶对手",
-    "summary_zh": "苹果正全力推进AI战略，通过Apple Intelligence和升级版Siri AI缩小与竞争对手的差距。新功能包括更自然的对话交互、跨应用智能操作以及个性化建议。尽管起步较晚，苹果凭借生态整合优势，试图在AI领域占据一席之地。",
-    "category": "llm"
-  },
-  {
-    "id": "ab34e90b65863fea1ba50093db68b3e8",
-    "title_en": "Huge Apple CarPlay update revealed: Siri AI, improved maps, audio player and more",
-    "source": "AutoExpress",
-    "url": "https://www.autoexpress.co.uk/news/369757/huge-apple-carplay-update-revealed-siri-ai-improved-maps-audio-player-and-more",
-    "published_at": "2026-06-08T19:48:43Z",
-    "fetched_at": "2026-06-09T19:56:57.772Z",
-    "title_zh": "苹果CarPlay大更新曝光：Siri AI、地图优化及全新音频播放器",
-    "summary_zh": "苹果即将推出CarPlay重大更新，集成Siri AI语音助手，支持更自然的驾驶指令。地图功能得到增强，提供更精准的导航与实时路况。音频播放器界面重新设计，支持多应用无缝切换。此次更新旨在提升车载智能体验，与汽车厂商深度合作。",
-    "category": "product"
-  },
-  {
-    "id": "b0247c320ba12eaf6fd3809b043f3255",
-    "title_en": "Apple drops support for a long list of iPads and Apple Watches with latest OS updates",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
-    "published_at": "2026-06-08T19:45:00.000Z",
-    "fetched_at": "2026-06-08T20:01:55.050Z",
-    "title_zh": "苹果最新系统更新：多款旧款iPad和Apple Watch被淘汰",
-    "summary_zh": "苹果在发布最新OS更新时，宣布停止对多款旧款iPad和Apple Watch的支持。这意味着这些设备将无法获得后续系统更新和安全补丁，用户需升级硬件才能体验新功能。此举旨在推动用户向新设备迁移。",
     "category": "product"
   }
 ]
