@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-06-15",
+      "summary_zh": "今日GitHub热门项目涵盖IPTV频道、开源编程学习、测试框架、Rust Web平台、客服系统、AI安全扫描、云原生管理、浏览器测试、网站克隆及自主机器人教材，技术栈多元实用。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description_en": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars_total": 121235,
+          "stars_today": 1528,
+          "description_zh": "来自世界各地的公开IPTV频道集合"
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+          "language": "Python",
+          "stars_total": 5417,
+          "stars_today": 964,
+          "description_zh": "AI 智能体技能的安全扫描器。检测漏洞、恶意模式和安全隐患。"
+        },
+        {
+          "rank": 3,
+          "name": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "language": "Ruby",
+          "stars_total": 31281,
+          "stars_today": 400,
+          "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud 等的替代方案。🔥💬"
+        },
+        {
+          "rank": 4,
+          "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "description_en": "Introduction to Autonomous Robots",
+          "language": "TeX",
+          "stars_total": 2768,
+          "stars_today": 293,
+          "description_zh": "《自主机器人导论》"
+        },
+        {
+          "rank": 5,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description_en": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars_total": 14423,
+          "stars_today": 291,
+          "description_zh": "面向多个生成式 AI 提供商的简单统一接口"
+        },
+        {
+          "rank": 6,
+          "name": "GorvGoyl/Clone-Wars",
+          "url": "https://github.com/GorvGoyl/Clone-Wars",
+          "description_en": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+          "language": "",
+          "stars_total": 35527,
+          "stars_today": 269,
+          "description_zh": "100 多个流行网站（如 Airbnb、Amazon、Instagram、Netflix、Tiktok、Spotify、Whatsapp、Youtube 等）的开源克隆项目。查看源代码、演示链接、技术栈和 GitHub 星标。"
+        },
+        {
+          "rank": 7,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 29955,
+          "stars_today": 244,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 8,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description_en": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+          "language": "Python",
+          "stars_total": 2209,
+          "stars_today": 197,
+          "description_zh": "Music Assistant 是一款免费开源的媒体库管理器，可连接您的流媒体服务和各种智能音箱。服务器是其核心，必须运行在始终在线的设备上，如 Raspberry Pi、NAS 或 Intel NUC 等。"
+        },
+        {
+          "rank": 9,
+          "name": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "description_en": "Rust-based platform for the Web",
+          "language": "Rust",
+          "stars_total": 33797,
+          "stars_today": 163,
+          "description_zh": "基于 Rust 的 Web 平台"
+        },
+        {
+          "rank": 10,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "stars_total": 447275,
+          "stars_today": 146,
+          "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
+        },
+        {
+          "rank": 11,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description_en": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars_total": 16974,
+          "stars_today": 70,
+          "description_zh": "免费电视频道的 M3U 播放列表"
+        },
+        {
+          "rank": 12,
+          "name": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "description_en": "Fast, easy and reliable testing for anything that runs in a browser.",
+          "language": "TypeScript",
+          "stars_total": 49974,
+          "stars_today": 39,
+          "description_zh": "快速、简单且可靠的测试工具，适用于任何在浏览器中运行的内容。"
+        },
+        {
+          "rank": 13,
+          "name": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "description_en": "JavaScript API for Chrome and Firefox",
+          "language": "TypeScript",
+          "stars_total": 94664,
+          "stars_today": 29,
+          "description_zh": "用于 Chrome 和 Firefox 的 JavaScript API"
+        },
+        {
+          "rank": 14,
+          "name": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "description_en": "Meshery, the cloud native manager",
+          "language": "TypeScript",
+          "stars_total": 10424,
+          "stars_today": 20,
+          "description_zh": "Meshery，云原生管理器"
+        },
+        {
+          "rank": 15,
+          "name": "pytest-dev/pytest",
+          "url": "https://github.com/pytest-dev/pytest",
+          "description_en": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+          "language": "Python",
+          "stars_total": 14063,
+          "stars_today": 14,
+          "description_zh": "pytest 框架让编写小型测试变得简单，同时也能扩展以支持复杂的功能测试"
+        }
+      ]
+    },
+    {
       "date": "2026-06-14",
       "summary_zh": "今日GitHub热门项目涵盖IPTV频道合集、开源编程学习平台、高效测试框架、Rust网页工具、客服系统、AI安全扫描器、云原生管理及热门网站克隆合集，聚焦开源与实用技术。",
       "projects": [
@@ -4801,92 +4957,6 @@
           "stars_total": 1056,
           "stars_today": 89,
           "description_zh": "面向所有人的本地AI——LLM推理、聊天界面、语音、智能体、工作流、RAG和图像生成。无需云端，无需订阅。"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-16",
-      "summary_zh": "今日GitHub热门项目聚焦全能型JavaScript工具链、开源AI视频生成、本地化多语言TTS、WiFi信号空间感知及代码知识图谱，展现高效开发与AI民主化趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "tinyhumansai/openhuman",
-          "url": "https://github.com/tinyhumansai/openhuman",
-          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-          "language": "Rust",
-          "stars_total": 10484,
-          "stars_today": 1601,
-          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
-        },
-        {
-          "rank": 2,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 193789,
-          "stars_today": 1281,
-          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论"
-        },
-        {
-          "rank": 3,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 58161,
-          "stars_today": 990,
-          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
-        },
-        {
-          "rank": 4,
-          "name": "supertone-inc/supertonic",
-          "url": "https://github.com/supertone-inc/supertonic",
-          "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-          "language": "Swift",
-          "stars_total": 6684,
-          "stars_today": 745,
-          "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过ONNX原生运行。"
-        },
-        {
-          "rank": 5,
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-          "language": "Python",
-          "stars_total": 23007,
-          "stars_today": 669,
-          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作"
-        },
-        {
-          "rank": 6,
-          "name": "oven-sh/bun",
-          "url": "https://github.com/oven-sh/bun",
-          "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-          "language": "Rust",
-          "stars_total": 91057,
-          "stars_today": 414,
-          "description_zh": "极速的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
-        },
-        {
-          "rank": 7,
-          "name": "colbymchenry/codegraph",
-          "url": "https://github.com/colbymchenry/codegraph",
-          "description_en": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-          "language": "TypeScript",
-          "stars_total": 2355,
-          "stars_today": 397,
-          "description_zh": "为Claude Code预索引的代码知识图谱——更少的令牌、更少的工具调用、100%本地运行"
-        },
-        {
-          "rank": 8,
-          "name": "Anil-matcha/Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "description_en": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-          "language": "JavaScript",
-          "stars_total": 14292,
-          "stars_today": 393,
-          "description_zh": "AI视频平台的开源替代方案——免费AI图像与视频生成工作室，支持200+模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，采用MIT许可证。"
         }
       ]
     }
