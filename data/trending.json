@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-15",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具、开源替代方案与学习资源，涵盖IPTV频道、特斯拉数据记录、多平台AI代理、云原生管理、客服系统、算法教程及面试学习计划。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理工具、开源数据采集、特斯拉自托管日志、云原生管理及编程学习资源，涵盖多语言算法教程与全栈开发课程。",
       "projects": [
         {
           "rank": 1,
@@ -10,109 +10,109 @@
           "url": "https://github.com/iptv-org/iptv",
           "description_en": "Collection of publicly available IPTV channels from all over the world",
           "language": "TypeScript",
-          "stars_total": 122384,
-          "stars_today": 1528,
+          "stars_total": 122628,
+          "stars_today": 2650,
           "description_zh": "来自世界各地的公开IPTV频道集合"
         },
         {
           "rank": 2,
-          "name": "Panniantong/Agent-Reach",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-          "language": "Python",
-          "stars_total": 29334,
-          "stars_today": 1045,
-          "description_zh": "为您的AI代理赋予观察整个互联网的能力。通过一个命令行界面，无需API费用即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书。"
-        },
-        {
-          "rank": 3,
           "name": "NVIDIA/SkillSpector",
           "url": "https://github.com/NVIDIA/SkillSpector",
           "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
           "language": "Python",
-          "stars_total": 5900,
-          "stars_today": 964,
+          "stars_total": 6113,
+          "stars_today": 1079,
           "description_zh": "AI 智能体技能的安全扫描器。检测漏洞、恶意模式和安全隐患。"
         },
         {
+          "rank": 3,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 29794,
+          "stars_today": 1045,
+          "description_zh": "为您的AI代理赋予观察整个互联网的能力。通过一个命令行界面，无需API费用即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书。"
+        },
+        {
           "rank": 4,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 32698,
-          "stars_today": 538,
-          "description_zh": "学习它。构建它。为他人交付它。"
-        },
-        {
-          "rank": 5,
-          "name": "jwasham/coding-interview-university",
-          "url": "https://github.com/jwasham/coding-interview-university",
-          "description_en": "A complete computer science study plan to become a software engineer.",
-          "language": "",
-          "stars_total": 352047,
-          "stars_today": 516,
-          "description_zh": "一份完整的计算机科学学习计划，助你成为软件工程师。"
-        },
-        {
-          "rank": 6,
-          "name": "chatwoot/chatwoot",
-          "url": "https://github.com/chatwoot/chatwoot",
-          "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-          "language": "Ruby",
-          "stars_total": 31454,
-          "stars_today": 400,
-          "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud 等的替代方案。🔥💬"
-        },
-        {
-          "rank": 7,
-          "name": "itsfatduck/optimizerDuck",
-          "url": "https://github.com/itsfatduck/optimizerDuck",
-          "description_en": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
-          "language": "C#",
-          "stars_total": 3483,
-          "stars_today": 321,
-          "description_zh": "一款免费、开源的Windows优化工具，旨在提升性能、保护隐私并追求简洁。"
-        },
-        {
-          "rank": 8,
-          "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-          "description_en": "Introduction to Autonomous Robots",
-          "language": "TeX",
-          "stars_total": 2939,
-          "stars_today": 293,
-          "description_zh": "《自主机器人导论》"
-        },
-        {
-          "rank": 9,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 30096,
-          "stars_today": 244,
-          "description_zh": "Kronos：金融市场语言的基础模型"
-        },
-        {
-          "rank": 10,
-          "name": "music-assistant/server",
-          "url": "https://github.com/music-assistant/server",
-          "description_en": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-          "language": "Python",
-          "stars_total": 2312,
-          "stars_today": 197,
-          "description_zh": "Music Assistant 是一款免费开源的媒体库管理器，可连接您的流媒体服务和各种智能音箱。服务器是其核心，必须运行在始终在线的设备上，如 Raspberry Pi、NAS 或 Intel NUC 等。"
-        },
-        {
-          "rank": 11,
           "name": "freeCodeCamp/freeCodeCamp",
           "url": "https://github.com/freeCodeCamp/freeCodeCamp",
           "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
           "language": "TypeScript",
-          "stars_total": 447603,
-          "stars_today": 146,
+          "stars_total": 447740,
+          "stars_today": 738,
           "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 32900,
+          "stars_today": 538,
+          "description_zh": "学习它。构建它。为他人交付它。"
+        },
+        {
+          "rank": 6,
+          "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "description_en": "Introduction to Autonomous Robots",
+          "language": "TeX",
+          "stars_total": 3012,
+          "stars_today": 488,
+          "description_zh": "《自主机器人导论》"
+        },
+        {
+          "rank": 7,
+          "name": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "language": "Ruby",
+          "stars_total": 31561,
+          "stars_today": 431,
+          "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud 等的替代方案。🔥💬"
+        },
+        {
+          "rank": 8,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 30176,
+          "stars_today": 395,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 9,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description_en": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars_total": 17190,
+          "stars_today": 361,
+          "description_zh": "免费电视频道的 M3U 播放列表"
+        },
+        {
+          "rank": 10,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description_en": "A complete computer science study plan to become a software engineer.",
+          "language": "",
+          "stars_total": 352168,
+          "stars_today": 352,
+          "description_zh": "一份完整的计算机科学学习计划，助你成为软件工程师。"
+        },
+        {
+          "rank": 11,
+          "name": "itsfatduck/optimizerDuck",
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "description_en": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+          "language": "C#",
+          "stars_total": 3578,
+          "stars_today": 321,
+          "description_zh": "一款免费、开源的Windows优化工具，旨在提升性能、保护隐私并追求简洁。"
         },
         {
           "rank": 12,
@@ -120,69 +120,69 @@
           "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
           "description_en": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
           "language": "Dockerfile",
-          "stars_total": 20566,
-          "stars_today": 126,
+          "stars_total": 20783,
+          "stars_today": 256,
           "description_zh": "自托管指南。全面了解如何自行（在本地及私有网络服务器上）或为你的组织托管和管理软件应用。涵盖云、LLM、WireGuard、自动化、Home Assistant和网络等内容。"
         },
         {
           "rank": 13,
-          "name": "Raphire/Win11Debloat",
-          "url": "https://github.com/Raphire/Win11Debloat",
-          "description_en": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-          "language": "PowerShell",
-          "stars_total": 47713,
-          "stars_today": 114,
-          "description_zh": "一个简单、轻量的PowerShell脚本，允许你移除预装应用、禁用遥测，并执行其他各种更改，以精简和自定义你的Windows体验。Win11Debloat同时适用于Windows 10和Windows 11。"
-        },
-        {
-          "rank": 14,
-          "name": "Free-TV/IPTV",
-          "url": "https://github.com/Free-TV/IPTV",
-          "description_en": "M3U Playlist for free TV channels",
-          "language": "Python",
-          "stars_total": 17123,
-          "stars_today": 70,
-          "description_zh": "免费电视频道的 M3U 播放列表"
-        },
-        {
-          "rank": 15,
-          "name": "trycua/cua",
-          "url": "https://github.com/trycua/cua",
-          "description_en": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-          "language": "HTML",
-          "stars_total": 18005,
-          "stars_today": 57,
-          "description_zh": "用于计算机使用代理的开源基础设施。提供沙箱、SDK和基准测试，用于训练和评估能够控制完整桌面（macOS、Linux、Windows）的AI代理。"
-        },
-        {
-          "rank": 16,
-          "name": "teslamate-org/teslamate",
-          "url": "https://github.com/teslamate-org/teslamate",
-          "description_en": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-          "language": "Elixir",
-          "stars_total": 8136,
-          "stars_today": 35,
-          "description_zh": "一个为您的特斯拉🚘自托管的数据记录器 [主要维护者=@JakobLichterfeld]"
-        },
-        {
-          "rank": 17,
-          "name": "krahets/hello-algo",
-          "url": "https://github.com/krahets/hello-algo",
-          "description_en": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-          "language": "Java",
-          "stars_total": 126733,
-          "stars_today": 34,
-          "description_zh": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
-        },
-        {
-          "rank": 18,
           "name": "meshery/meshery",
           "url": "https://github.com/meshery/meshery",
           "description_en": "Meshery, the cloud native manager",
           "language": "TypeScript",
-          "stars_total": 10510,
-          "stars_today": 20,
+          "stars_total": 10575,
+          "stars_today": 227,
           "description_zh": "Meshery，云原生管理器"
+        },
+        {
+          "rank": 14,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description_en": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+          "language": "Python",
+          "stars_total": 2347,
+          "stars_today": 226,
+          "description_zh": "Music Assistant 是一款免费开源的媒体库管理器，可连接您的流媒体服务和各种智能音箱。服务器是其核心，必须运行在始终在线的设备上，如 Raspberry Pi、NAS 或 Intel NUC 等。"
+        },
+        {
+          "rank": 15,
+          "name": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "description_en": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+          "language": "PowerShell",
+          "stars_total": 47860,
+          "stars_today": 114,
+          "description_zh": "一个简单、轻量的PowerShell脚本，允许你移除预装应用、禁用遥测，并执行其他各种更改，以精简和自定义你的Windows体验。Win11Debloat同时适用于Windows 10和Windows 11。"
+        },
+        {
+          "rank": 16,
+          "name": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "description_en": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+          "language": "Java",
+          "stars_total": 126827,
+          "stars_today": 95,
+          "description_zh": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+        },
+        {
+          "rank": 17,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description_en": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "language": "HTML",
+          "stars_total": 18074,
+          "stars_today": 57,
+          "description_zh": "用于计算机使用代理的开源基础设施。提供沙箱、SDK和基准测试，用于训练和评估能够控制完整桌面（macOS、Linux、Windows）的AI代理。"
+        },
+        {
+          "rank": 18,
+          "name": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "description_en": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+          "language": "Elixir",
+          "stars_total": 8185,
+          "stars_today": 35,
+          "description_zh": "一个为您的特斯拉🚘自托管的数据记录器 [主要维护者=@JakobLichterfeld]"
         }
       ]
     },
