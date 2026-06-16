@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-16",
-      "summary_zh": "今日GitHub热门项目涵盖编程学习、Rust工具、特斯拉数据记录、IPTV、浏览器测试、云原生管理、音乐管理、安卓去冗余及多语言语音生成，技术领域广泛。",
+      "summary_zh": "今日GitHub热门项目涵盖编程学习、Rust工具、特斯拉数据记录、IPTV、浏览器测试、云原生管理、音乐管理及安卓去冗余，技术多样实用。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/iptv-org/iptv",
           "description_en": "Collection of publicly available IPTV channels from all over the world",
           "language": "TypeScript",
-          "stars_total": 123792,
+          "stars_total": 123926,
           "stars_today": 1196,
           "description_zh": "来自世界各地的公开IPTV频道集合"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/freeCodeCamp/freeCodeCamp",
           "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
           "language": "TypeScript",
-          "stars_total": 448374,
+          "stars_total": 448481,
           "stars_today": 640,
           "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/OpenBMB/VoxCPM",
           "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
           "language": "Python",
-          "stars_total": 30027,
+          "stars_total": 30088,
           "stars_today": 413,
           "description_zh": "VoxCPM2：无需分词器的多语言语音生成、创意语音设计及逼真克隆的TTS系统"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/n0-computer/iroh",
           "description_en": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
           "language": "Rust",
-          "stars_total": 9149,
+          "stars_total": 9219,
           "stars_today": 326,
           "description_zh": "IP地址会失效，改用拨号键。基于Rust的模块化网络协议栈"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/meshery/meshery",
           "description_en": "Meshery, the cloud native manager",
           "language": "TypeScript",
-          "stars_total": 10787,
+          "stars_total": 10817,
           "stars_today": 229,
           "description_zh": "Meshery，云原生管理器"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/teslamate-org/teslamate",
           "description_en": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
           "language": "Elixir",
-          "stars_total": 8374,
+          "stars_total": 8385,
           "stars_today": 214,
           "description_zh": "为您的特斯拉打造的自托管数据记录器 🚘 [主要维护者=@JakobLichterfeld]"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/alibaba/zvec",
           "description_en": "A lightweight, lightning-fast, in-process vector database",
           "language": "C++",
-          "stars_total": 10344,
+          "stars_total": 10396,
           "stars_today": 188,
           "description_zh": "轻量级、超高速的进程内向量数据库"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/rmyndharis/OpenWA",
           "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
           "language": "TypeScript",
-          "stars_total": 8944,
+          "stars_total": 9024,
           "stars_today": 185,
           "description_zh": "免费、开源、自托管的WhatsApp API网关"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/music-assistant/server",
           "description_en": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
           "language": "Python",
-          "stars_total": 2510,
+          "stars_total": 2537,
           "stars_today": 157,
           "description_zh": "Music Assistant 是一个免费、开源的媒体库管理器，可连接您的流媒体服务和各种智能音箱。服务器是其跳动的心脏和核心，必须运行在始终在线的设备上，如树莓派、NAS或Intel NUC等。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
           "description_en": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
           "language": "Rust",
-          "stars_total": 7165,
+          "stars_total": 7233,
           "stars_today": 146,
           "description_zh": "使用Rust编写的跨平台GUI工具，通过ADB对未Root的Android设备进行去臃肿化，提升隐私、安全性和电池续航"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/puppeteer/puppeteer",
           "description_en": "JavaScript API for Chrome and Firefox",
           "language": "TypeScript",
-          "stars_total": 94827,
+          "stars_total": 94850,
           "stars_today": 80,
           "description_zh": "Chrome和Firefox的JavaScript API"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/swc-project/swc",
           "description_en": "Rust-based platform for the Web",
           "language": "Rust",
-          "stars_total": 33924,
+          "stars_total": 33946,
           "stars_today": 21,
           "description_zh": "基于Rust的Web平台"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/cypress-io/cypress",
           "description_en": "Fast, easy and reliable testing for anything that runs in a browser.",
           "language": "TypeScript",
-          "stars_total": 50128,
+          "stars_total": 50168,
           "stars_today": 11,
           "description_zh": "快速、简单且可靠的浏览器端测试工具"
         }
