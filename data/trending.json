@@ -1,6 +1,192 @@
 {
   "days": [
     {
+      "date": "2026-06-16",
+      "summary_zh": "今日GitHub热门项目聚焦三大主题：开源IPTV频道合集、特斯拉自托管数据记录工具，以及多平台AI代理工具（零API费用覆盖Twitter/Reddit等）。此外，算法教程、云原生管理、开源客服系统等项目也备受关注。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description_en": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars_total": 123012,
+          "stars_today": 2657,
+          "description_zh": "来自世界各地的公开IPTV频道集合"
+        },
+        {
+          "rank": 2,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 30448,
+          "stars_today": 1100,
+          "description_zh": "为您的AI代理赋予观察整个互联网的能力。通过一个命令行界面，零API费用，读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书。"
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+          "language": "Python",
+          "stars_total": 6453,
+          "stars_today": 1079,
+          "description_zh": "AI代理技能的安全扫描器。检测漏洞、恶意模式和安全隐患。"
+        },
+        {
+          "rank": 4,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "stars_total": 447960,
+          "stars_today": 736,
+          "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 33163,
+          "stars_today": 562,
+          "description_zh": "学习它。构建它。将其交付给他人。"
+        },
+        {
+          "rank": 6,
+          "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "description_en": "Introduction to Autonomous Robots",
+          "language": "TeX",
+          "stars_total": 3091,
+          "stars_today": 489,
+          "description_zh": "自主机器人导论"
+        },
+        {
+          "rank": 7,
+          "name": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "language": "Ruby",
+          "stars_total": 31730,
+          "stars_today": 431,
+          "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud等的替代方案。🔥💬"
+        },
+        {
+          "rank": 8,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 30317,
+          "stars_today": 396,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description_en": "A complete computer science study plan to become a software engineer.",
+          "language": "",
+          "stars_total": 352360,
+          "stars_today": 364,
+          "description_zh": "成为一名软件工程师的完整计算机科学学习计划。"
+        },
+        {
+          "rank": 10,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description_en": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars_total": 17323,
+          "stars_today": 361,
+          "description_zh": "免费电视频道的M3U播放列表"
+        },
+        {
+          "rank": 11,
+          "name": "itsfatduck/optimizerDuck",
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "description_en": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+          "language": "C#",
+          "stars_total": 3739,
+          "stars_today": 340,
+          "description_zh": "免费、开源的Windows优化工具，专注于性能、隐私和简洁性。"
+        },
+        {
+          "rank": 12,
+          "name": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "description_en": "Meshery, the cloud native manager",
+          "language": "TypeScript",
+          "stars_total": 10655,
+          "stars_today": 228,
+          "description_zh": "Meshery，云原生管理器"
+        },
+        {
+          "rank": 13,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description_en": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+          "language": "Python",
+          "stars_total": 2398,
+          "stars_today": 225,
+          "description_zh": "Music Assistant 是一个免费、开源的媒体库管理器，可连接您的流媒体服务和各种智能音箱。服务器是其跳动的心脏和核心，必须运行在始终在线的设备上，如树莓派、NAS或Intel NUC等。"
+        },
+        {
+          "rank": 14,
+          "name": "mikeroyal/Self-Hosting-Guide",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "description_en": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+          "language": "Dockerfile",
+          "stars_total": 21090,
+          "stars_today": 188,
+          "description_zh": "自托管指南。全面了解如何自行或为您的组织在本地（本地及私有网络服务器）托管和管理软件应用程序。涵盖云、LLMs、WireGuard、自动化、Home Assistant和网络。"
+        },
+        {
+          "rank": 15,
+          "name": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "description_en": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+          "language": "PowerShell",
+          "stars_total": 48066,
+          "stars_today": 112,
+          "description_zh": "一个简单、轻量级的PowerShell脚本，允许您删除预装应用、禁用遥测，并进行各种其他更改，以精简和自定义您的Windows体验。Win11Debloat 同时适用于 Windows 10 和 Windows 11。"
+        },
+        {
+          "rank": 16,
+          "name": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "description_en": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+          "language": "Java",
+          "stars_total": 126990,
+          "stars_today": 71,
+          "description_zh": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+        },
+        {
+          "rank": 17,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description_en": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "language": "HTML",
+          "stars_total": 18192,
+          "stars_today": 70,
+          "description_zh": "计算机使用代理的开源基础设施。用于训练和评估能够控制完整桌面（macOS、Linux、Windows）的AI代理的沙箱、SDK和基准测试。"
+        },
+        {
+          "rank": 18,
+          "name": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "description_en": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+          "language": "Elixir",
+          "stars_total": 8266,
+          "stars_today": 33,
+          "description_zh": "为您的特斯拉打造的自托管数据记录器 🚘 [主要维护者=@JakobLichterfeld]"
+        }
+      ]
+    },
+    {
       "date": "2026-06-15",
       "summary_zh": "今日GitHub热门项目聚焦三大主题：开源IPTV频道合集、特斯拉自托管数据记录仪、多平台AI代理工具，以及算法学习、云原生管理、开源客服系统等实用资源。",
       "projects": [
@@ -4801,192 +4987,6 @@
           "stars_total": 110935,
           "stars_today": 283,
           "description_zh": "使用C/C++进行LLM推理"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-17",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体与开发工具：涵盖个人AI助手、开源视频生成、智能体技能注册、生产级Agent教程，以及超快JS运行时Bun和开源调度平台。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "tinyhumansai/openhuman",
-          "url": "https://github.com/tinyhumansai/openhuman",
-          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-          "language": "Rust",
-          "stars_total": 12671,
-          "stars_today": 1694,
-          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
-        },
-        {
-          "rank": 2,
-          "name": "tech-leads-club/agent-skills",
-          "url": "https://github.com/tech-leads-club/agent-skills",
-          "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-          "language": "TypeScript",
-          "stars_total": 3411,
-          "stars_today": 923,
-          "description_zh": "面向专业AI编码智能体的安全、经过验证的技能注册表。可绝对放心地扩展Antigravity、Claude Code、Cursor、Copilot等工具。"
-        },
-        {
-          "rank": 3,
-          "name": "oven-sh/bun",
-          "url": "https://github.com/oven-sh/bun",
-          "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-          "language": "Rust",
-          "stars_total": 91658,
-          "stars_today": 908,
-          "description_zh": "极快的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
-        },
-        {
-          "rank": 4,
-          "name": "colbymchenry/codegraph",
-          "url": "https://github.com/colbymchenry/codegraph",
-          "description_en": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-          "language": "TypeScript",
-          "stars_total": 3175,
-          "stars_today": 860,
-          "description_zh": "为Claude Code预索引的代码知识图谱——更少的令牌、更少的工具调用、100%本地化"
-        },
-        {
-          "rank": 5,
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-          "language": "Python",
-          "stars_total": 23720,
-          "stars_today": 764,
-          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作。"
-        },
-        {
-          "rank": 6,
-          "name": "Anil-matcha/Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "description_en": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-          "language": "JavaScript",
-          "stars_total": 14949,
-          "stars_today": 704,
-          "description_zh": "AI视频平台的开源替代方案——免费AI图像与视频生成工作室，支持200+模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，MIT许可。"
-        },
-        {
-          "rank": 7,
-          "name": "calcom/cal.diy",
-          "url": "https://github.com/calcom/cal.diy",
-          "description_en": "Scheduling infrastructure for absolutely everyone.",
-          "language": "TypeScript",
-          "stars_total": 43163,
-          "stars_today": 425,
-          "description_zh": "面向所有人的日程安排基础设施。"
-        },
-        {
-          "rank": 8,
-          "name": "BigBodyCobain/Shadowbroker",
-          "url": "https://github.com/BigBodyCobain/Shadowbroker",
-          "description_en": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-          "language": "Python",
-          "stars_total": 6942,
-          "stars_today": 405,
-          "description_zh": "全球舞台的开源情报。在统一界面中追踪一切，从富豪的企业/私人飞机、间谍卫星到地震事件。接入AI智能体，让其解析数据并发现此前未见的相关性。知识对所有人开放，但很少公开聚合——直到现在。"
-        },
-        {
-          "rank": 9,
-          "name": "HKUDS/CLI-Anything",
-          "url": "https://github.com/HKUDS/CLI-Anything",
-          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-          "language": "Python",
-          "stars_total": 35463,
-          "stars_today": 306,
-          "description_zh": "\"CLI-Anything：让所有软件成为智能体原生应用\" -- CLI-Hub：https://clianything.cc/"
-        },
-        {
-          "rank": 10,
-          "name": "dograh-hq/dograh",
-          "url": "https://github.com/dograh-hq/dograh",
-          "description_en": "Open Source Voice Agent Platform",
-          "language": "Python",
-          "stars_total": 1533,
-          "stars_today": 236,
-          "description_zh": "开源语音智能体平台"
-        },
-        {
-          "rank": 11,
-          "name": "NirDiamant/agents-towards-production",
-          "url": "https://github.com/NirDiamant/agents-towards-production",
-          "description_en": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-          "language": "Jupyter Notebook",
-          "stars_total": 19833,
-          "stars_today": 225,
-          "description_zh": "构建生产级GenAI智能体的端到端、代码优先教程。从原型到企业部署。"
-        },
-        {
-          "rank": 12,
-          "name": "knadh/listmonk",
-          "url": "https://github.com/knadh/listmonk",
-          "description_en": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-          "language": "Go",
-          "stars_total": 20486,
-          "stars_today": 222,
-          "description_zh": "高性能、自托管的新闻通讯和邮件列表管理器，配备现代化仪表盘。单一二进制应用。"
-        },
-        {
-          "rank": 13,
-          "name": "KeygraphHQ/shannon",
-          "url": "https://github.com/KeygraphHQ/shannon",
-          "description_en": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-          "language": "TypeScript",
-          "stars_total": 42610,
-          "stars_today": 213,
-          "description_zh": "Shannon Lite是一款面向Web应用和API的自主式白盒AI渗透测试工具。它分析你的源代码，识别攻击向量，并执行真实漏洞利用，在漏洞进入生产环境之前证明其存在。"
-        },
-        {
-          "rank": 14,
-          "name": "TryGhost/Ghost",
-          "url": "https://github.com/TryGhost/Ghost",
-          "description_en": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-          "language": "JavaScript",
-          "stars_total": 53198,
-          "stars_today": 209,
-          "description_zh": "面向现代出版、会员制、订阅和新闻通讯的独立技术。"
-        },
-        {
-          "rank": 15,
-          "name": "medusajs/medusa",
-          "url": "https://github.com/medusajs/medusa",
-          "description_en": "The world's most flexible commerce platform.",
-          "language": "TypeScript",
-          "stars_total": 33374,
-          "stars_today": 200,
-          "description_zh": "全球最灵活的电商平台。"
-        },
-        {
-          "rank": 16,
-          "name": "microsoft/ai-agents-for-beginners",
-          "url": "https://github.com/microsoft/ai-agents-for-beginners",
-          "description_en": "12 Lessons to Get Started Building AI Agents",
-          "language": "Jupyter Notebook",
-          "stars_total": 62379,
-          "stars_today": 180,
-          "description_zh": "12节课程，助你入门构建AI智能体"
-        },
-        {
-          "rank": 17,
-          "name": "plausible/analytics",
-          "url": "https://github.com/plausible/analytics",
-          "description_en": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-          "language": "Elixir",
-          "stars_total": 25282,
-          "stars_today": 128,
-          "description_zh": "开源、隐私优先的网站分析。轻量、无Cookie的Google Analytics替代方案。可自托管或使用云服务。"
-        },
-        {
-          "rank": 18,
-          "name": "Light-Heart-Labs/DreamServer",
-          "url": "https://github.com/Light-Heart-Labs/DreamServer",
-          "description_en": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
-          "language": "Python",
-          "stars_total": 1056,
-          "stars_today": 89,
-          "description_zh": "面向所有人的本地AI——LLM推理、聊天界面、语音、智能体、工作流、RAG和图像生成。无需云端，无需订阅。"
         }
       ]
     }

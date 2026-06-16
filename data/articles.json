@@ -1,5 +1,82 @@
 [
   {
+    "id": "9c5ced909a87ea5f6261bfabfbfdd061",
+    "title_en": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+    "published_at": "2026-06-16T00:53:46.000Z",
+    "fetched_at": "2026-06-16T02:50:36.771Z",
+    "title_zh": "Anthropic与白宫就Claude Fable 5问题仍存分歧",
+    "summary_zh": "人工智能公司Anthropic与白宫在关于其Claude模型（代号Fable 5）的安全性和监管问题上持续存在分歧。争议焦点可能涉及模型能力、潜在风险及政府监管边界。这反映了AI行业与政策制定者在快速发展技术治理上的紧张关系。",
+    "category": "industry"
+  },
+  {
+    "id": "e36735f8d584e718368f0f3a93416f63",
+    "title_en": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "published_at": "2026-06-15T23:51:44.000Z",
+    "fetched_at": "2026-06-16T02:50:36.257Z",
+    "title_zh": "皮查伊在斯坦福毕业典礼遭嘘声与退场抗议，因谷歌与以色列及ICE合作",
+    "summary_zh": "谷歌CEO桑达尔·皮查伊在斯坦福大学毕业典礼上发表演讲时，遭遇台下学生嘘声和集体退场抗议。抗议者不满谷歌与以色列政府及美国移民和海关执法局（ICE）的合同关系，认为其违背了科技伦理。事件凸显科技巨头在政治敏感问题上面临的公众压力。",
+    "category": "industry"
+  },
+  {
+    "id": "e3e8057ef54400a84a11951b1771eb41",
+    "title_en": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "published_at": "2026-06-15T21:50:21.000Z",
+    "fetched_at": "2026-06-16T02:50:36.258Z",
+    "title_zh": "美国政府禁用Anthropic模型并非因为AI越狱漏洞",
+    "summary_zh": "美国政府机构禁用Anthropic的AI模型，外界普遍猜测与模型被破解（越狱）有关。但分析指出，真正原因并非技术漏洞，而是出于对模型输出内容合规性及数据安全的担忧。这反映了政府采用AI时更关注治理与信任问题。",
+    "category": "industry"
+  },
+  {
+    "id": "1f6269845c2e0705406c46c8fc526257",
+    "title_en": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+    "published_at": "2026-06-15T21:33:46.000Z",
+    "fetched_at": "2026-06-16T02:50:36.772Z",
+    "title_zh": "Meta CTO承认公司AI重组“糟糕透顶”",
+    "summary_zh": "Meta首席技术官Andrew Bosworth公开承认，公司近期的人工智能部门重组过程“糟糕透顶”，引发了内部混乱和效率问题。这一罕见的自我批评揭示了Meta在AI战略转型中面临的挑战，以及大型科技公司内部变革的复杂性。",
+    "category": "industry"
+  },
+  {
+    "id": "6e38437152ee033380c44adc329c9071",
+    "title_en": "Facebook’s new AI Mode search gets its info from public posts",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+    "published_at": "2026-06-15T21:15:08.000Z",
+    "fetched_at": "2026-06-16T02:50:36.407Z",
+    "title_zh": "Facebook新AI搜索模式从公开帖子中获取信息",
+    "summary_zh": "Facebook推出全新AI搜索功能，该模式直接从平台上的公开帖子中提取信息，为用户提供更实时、社交化的搜索结果。此举旨在提升内容发现效率，但也引发了对隐私和数据使用的讨论。",
+    "category": "product"
+  },
+  {
+    "id": "8842c6f99adcbc85814252edb1e0b84c",
+    "title_en": "Xbox is closing down Hellblade creator Ninja Theory",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+    "published_at": "2026-06-15T21:13:35.000Z",
+    "fetched_at": "2026-06-16T02:50:36.407Z",
+    "title_zh": "Xbox宣布关闭《地狱之刃》开发商Ninja Theory",
+    "summary_zh": "微软旗下Xbox游戏部门宣布关闭知名工作室Ninja Theory，该工作室曾开发《地狱之刃》等口碑佳作。此举是微软游戏业务重组的一部分，旨在聚焦核心项目，但也引发了对行业裁员和创意工作室生存环境的担忧。",
+    "category": "industry"
+  },
+  {
+    "id": "ca12151c4d8f1696779e50f1409bd9e4",
+    "title_en": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-best-fans-2026/",
+    "published_at": "2026-06-15T20:46:39.000Z",
+    "fetched_at": "2026-06-16T02:50:36.772Z",
+    "title_zh": "2026年升温前必买：15款最佳风扇推荐",
+    "summary_zh": "随着气温回升，本文精选了15款2026年最佳风扇，涵盖塔扇、落地扇、台扇等多种类型，满足不同降温需求。从静音性能到智能控制，为消费者提供全面购买指南，帮助在炎热季节到来前做好舒适准备。",
+    "category": "product"
+  },
+  {
     "id": "bec5df0633ba4cb4cad443acaf09574f",
     "title_en": "Fox wants to take over your TV — and the tech inside it",
     "source": "The Verge",
@@ -426,6 +503,116 @@
     "fetched_at": "2026-06-15T11:46:47.514Z",
     "title_zh": "AI裁员潮正演变为一颗定时炸弹",
     "summary_zh": "随着AI技术加速替代传统岗位，科技行业裁员潮愈演愈烈，引发员工焦虑与行业动荡。专家警告，若缺乏合理的社会保障与再培训机制，大规模失业可能激化社会矛盾，成为潜在危机。",
+    "category": "industry"
+  },
+  {
+    "id": "0d97eff9cec9513cca6269103613a054",
+    "title_en": "Courts cracking down on error-strewn AI-assisted legal briefs",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/36e64ae772543536",
+    "published_at": "2026-06-15T02:48:56Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "法院严厉打击AI辅助法律文件中充斥的错误",
+    "summary_zh": "近期多国法院开始严查AI辅助生成的法律文书，因其中频繁出现虚假引用、逻辑错误等严重问题。法官警告律师必须对提交内容负责，不能依赖AI工具。此举凸显AI在法律领域应用的合规风险，推动行业制定更严格的使用规范与审核机制。",
+    "category": "industry"
+  },
+  {
+    "id": "f04d8d995e8b29e111a23a0b0a543968",
+    "title_en": "What to know about the G7 summit Trump is attending in France",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/what-to-know-about-the-g7-summit-trump-is-attending-in-france/articleshow/131731618.cms",
+    "published_at": "2026-06-15T02:46:55Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "特朗普出席法国G7峰会：你需要了解的关键信息",
+    "summary_zh": "特朗普将参加在法国举行的G7峰会，重点讨论全球经济、贸易摩擦、气候变化及地缘安全等议题。此次峰会因特朗普重返国际舞台而备受关注，各方期待其政策立场对多边合作的影响。会议成果可能重塑西方主要经济体间的协调机制。",
+    "category": "industry"
+  },
+  {
+    "id": "05dc56886c6ff6d1efd796885f45ac8b",
+    "title_en": "​ CONMEBOL and a nightmare start to the 2026 World Cup",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/conmebol-and-a-nightmare-start-to-the-2026-world-cup-43009857",
+    "published_at": "2026-06-15T02:46:00Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "南美足联与2026世界杯的噩梦开局",
+    "summary_zh": "文章分析南美足联在2026年世界杯预选赛初期遭遇的困境，包括赛程混乱、球队表现不佳及管理问题。随着世界杯扩军至48队，南美区竞争格局变化，传统强队面临新挑战，可能影响该地区在世界杯正赛中的整体表现。",
+    "category": "industry"
+  },
+  {
+    "id": "c3e4311218ad8ec71a9d9b90f6dd4e31",
+    "title_en": "Agentic workflows: A Computer Weekly Downtime Upload podcast",
+    "source": "ComputerWeekly.com",
+    "url": "https://www.computerweekly.com/podcast/Agentic-workflows-A-Computer-Weekly-Downtime-Upload-podcast",
+    "published_at": "2026-06-15T02:45:00Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "智能体工作流：Computer Weekly播客深度解析",
+    "summary_zh": "本期Computer Weekly播客聚焦智能体工作流（Agentic Workflows）技术，探讨AI代理如何自主执行复杂任务、协调多步骤流程。专家分析其在企业自动化、客户服务等领域的应用前景，并讨论当前技术瓶颈与安全挑战，为IT决策者提供战略参考。",
+    "category": "research"
+  },
+  {
+    "id": "149a6e16fed171133ff2192dc7c06ba1",
+    "title_en": "Galo face challenge of winning back the Massa after the Cup break",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/galo-face-challenge-of-winning-back-the-massa-after-the-cup-break-43009849",
+    "published_at": "2026-06-15T02:44:00Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "杯赛休整后，加洛面临赢回马萨的挑战",
+    "summary_zh": "巴西足球俱乐部加洛在杯赛间歇期后面临艰巨任务：重新赢得球迷“马萨”的支持。球队需在后续比赛中拿出稳定表现，解决战术与士气问题。文章分析俱乐部管理层、教练组及球员如何协同努力，以扭转近期颓势并重建球迷信任。",
+    "category": "industry"
+  },
+  {
+    "id": "791f4cc7f5f84056a707f0014eaefe50",
+    "title_en": "Nikkei Soars Past 69,000 for First Time as U.S.-Iran Deal Lifts Markets",
+    "source": "Newsonjapan.com",
+    "url": "https://newsonjapan.com/article/149658.php",
+    "published_at": "2026-06-15T02:43:33Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "日经指数首次突破69000点，美伊协议提振市场",
+    "summary_zh": "受美国与伊朗达成历史性协议消息刺激，日经225指数飙升首次突破69000点大关。市场对中东地缘风险缓解及能源供应稳定预期乐观，投资者情绪高涨。分析人士指出，该协议可能推动全球股市进一步上涨，但需关注后续执行细节。",
+    "category": "industry"
+  },
+  {
+    "id": "cbd5484b101f1aa8f81ac3e5f8f3bf21",
+    "title_en": "India-France adopt Innovation Roadmap 2030, unveil 13 outcomes during PM Modi’s visit",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/india-france-adopt-innovation-roadmap-2030-unveil-13-outcomes-during-pm-modis-visit/article71103298.ece",
+    "published_at": "2026-06-15T02:34:53Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "印法通过2030创新路线图，莫迪访法达成13项成果",
+    "summary_zh": "印度总理莫迪访问法国期间，两国正式通过《2030年创新路线图》，并宣布13项合作成果，涵盖人工智能、太空、清洁能源、数字技术等领域。此举标志着印法战略伙伴关系深化，旨在共同应对全球挑战并推动科技与产业创新。",
+    "category": "industry"
+  },
+  {
+    "id": "21ca5bc7a3ed290bd0d5dd4dd1b5bfe9",
+    "title_en": "Courts cracking down on error-strewn AI-assisted legal briefs",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/article/courts-cracking-down-on-error-strewn-ai-assisted-legal-briefs/",
+    "published_at": "2026-06-15T02:30:10Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "法院严厉打击AI辅助法律文件中充斥的错误",
+    "summary_zh": "全球多地法院对AI生成的法律文书展开严格审查，因频繁出现虚假引用、事实错误等问题。法官强调律师需对提交内容负全责，不能依赖AI。此趋势促使法律行业重新评估AI工具的使用边界，并推动建立更严谨的审核与责任机制。",
+    "category": "industry"
+  },
+  {
+    "id": "b348d2771adf8866171142e0d8f6be1a",
+    "title_en": "Fieldays innovation must prove its on‑farm value amid rising costs – Dr Jacqueline Rowarth",
+    "source": "New Zealand Herald",
+    "url": "https://www.nzherald.co.nz/the-country/news/fieldays-innovation-must-prove-its-onfarm-value-amid-rising-costs-dr-jacqueline-rowarth/6VOTVUQJXBHJZE5PJNTC6NME4Q/",
+    "published_at": "2026-06-15T02:15:00Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "Fieldays创新需证明其农场价值：成本上升背景下的挑战",
+    "summary_zh": "农业专家Jacqueline Rowarth博士指出，在农业生产成本持续攀升的背景下，Fieldays展出的农业创新技术必须切实证明其能够提升农场经济效益。文章呼吁创新者关注实际应用场景，避免华而不实的技术，确保投资回报率以赢得农民信任。",
+    "category": "industry"
+  },
+  {
+    "id": "a0ebf525fb29ce2e41cffff750650f96",
+    "title_en": "16 stocks including RIL, TCS, Tata Motors, Meesho, Hexaware and JSW Energy in focus",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/markets/16-stocks-including-ril-tcs-tata-motors-meesho-hexaware-and-jsw-energy-in-focus/article71103270.ece",
+    "published_at": "2026-06-15T02:14:57Z",
+    "fetched_at": "2026-06-16T02:50:37.441Z",
+    "title_zh": "16只股票受关注：RIL、TCS、塔塔汽车、Meesho、Hexaware及JSW能源等",
+    "summary_zh": "市场聚焦16只关键股票，包括信实工业（RIL）、塔塔咨询（TCS）、塔塔汽车、电商Meesho、IT公司Hexaware及JSW能源等。这些公司涵盖能源、科技、汽车、电商等领域，投资者密切关注其业绩、战略动向及行业趋势，以捕捉潜在投资机会。",
     "category": "industry"
   },
   {
@@ -5310,193 +5497,6 @@
     "fetched_at": "2026-06-10T02:34:15.033Z",
     "title_zh": "谷歌在AI订阅价格战中发出警告信号",
     "summary_zh": "谷歌近期调整其AI订阅服务定价策略，此举被视为对竞争对手的明确警告。随着AI领域竞争加剧，各大科技公司纷纷通过价格战争夺用户。谷歌的新定价可能引发行业连锁反应，影响AI服务的市场格局和用户选择。分析人士指出，价格战虽有利于消费者短期获益，但长期可能压缩企业研发投入，影响AI技术持续创新。",
-    "category": "industry"
-  },
-  {
-    "id": "97e73bfc89ed13aa5f8929c049259ef8",
-    "title_en": "I tried Siri AI, and so far it actually works",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-    "published_at": "2026-06-09T23:43:00.000Z",
-    "fetched_at": "2026-06-10T02:34:15.197Z",
-    "title_zh": "我试用了Siri AI，目前来看确实有效",
-    "summary_zh": "记者亲测新版Siri AI功能，发现其在理解复杂指令和提供准确回复方面有显著提升。新Siri能更好地处理多轮对话和上下文关联，减少了误操作。尽管仍存在局限性，但改进后的体验让用户对苹果AI战略重拾信心。此次升级可能推动更多用户尝试语音助手，并加剧与谷歌、亚马逊的AI竞争。",
-    "category": "product"
-  },
-  {
-    "id": "3274417231c45aaac368a0b3e8a8b726",
-    "title_en": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "published_at": "2026-06-09T23:17:51.000Z",
-    "fetched_at": "2026-06-10T02:34:15.033Z",
-    "title_zh": "Justin Ernest如何在没有传统风投基金的情况下向热门初创公司投资近5亿美元",
-    "summary_zh": "投资人Justin Ernest通过非传统方式向多家热门AI初创公司投入近5亿美元，打破了传统风投模式。他利用个人网络和直接交易策略，绕过传统基金结构，实现了高效投资。这一案例展示了AI投资领域的新趋势，即个人投资者通过灵活方式参与高增长项目，可能改变未来科技融资的生态。",
-    "category": "industry"
-  },
-  {
-    "id": "8d79098736aa26ef7dd1df791500c385",
-    "title_en": "Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/",
-    "published_at": "2026-06-09T22:05:40.000Z",
-    "fetched_at": "2026-06-10T02:34:15.551Z",
-    "title_zh": "地中海大白鲨已存在数百万年，但目击事件极为罕见",
-    "summary_zh": "科学研究确认大白鲨在地中海已存在数百万年，但目击记录却极其稀少。这一矛盾现象引发对鲨鱼种群数量和分布模式的重新评估。研究利用遗传学和化石证据揭示其历史，并指出人类活动可能影响其可见性。",
-    "category": "research"
-  },
-  {
-    "id": "2cc5c5c974976ab000a92e34ecc39136",
-    "title_en": "Congress just gave DHS another $70 billion",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
-    "published_at": "2026-06-09T21:34:46.000Z",
-    "fetched_at": "2026-06-10T02:34:15.197Z",
-    "title_zh": "国会再向国土安全部拨款700亿美元",
-    "summary_zh": "美国国会批准向国土安全部追加700亿美元预算，部分资金将用于AI相关安全项目。这笔拨款旨在加强网络安全、边境监控及反恐能力，其中AI技术被列为关键投资方向。此举反映了政府对AI在国家安全领域应用的重视，但也引发了对隐私和资金使用效率的讨论。科技公司可能因此获得更多政府合同。",
-    "category": "industry"
-  },
-  {
-    "id": "5b8444b174c02474ac82f18cafc3756a",
-    "title_en": "The App Store is going to add subscription bundles soon",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
-    "published_at": "2026-06-09T21:30:48.000Z",
-    "fetched_at": "2026-06-10T02:34:15.197Z",
-    "title_zh": "App Store即将推出订阅捆绑服务",
-    "summary_zh": "苹果App Store计划引入订阅捆绑功能，允许用户以优惠价格同时订阅多个应用。这一变化将简化用户管理订阅的流程，并为开发者提供新的收入模式。捆绑销售可能提升用户留存率，但也可能加剧小型开发者的竞争压力。此举是苹果在服务收入增长放缓背景下的新尝试，旨在增强平台生态粘性。",
-    "category": "product"
-  },
-  {
-    "id": "698f0bae87f9d4edc1eafa2fcbec062d",
-    "title_en": "GM Wants Your Electric Car to Power Your House—and Your Neighborhood",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood/",
-    "published_at": "2026-06-09T21:00:15.000Z",
-    "fetched_at": "2026-06-10T02:34:15.551Z",
-    "title_zh": "通用汽车：你的电动车将能为家庭和社区供电",
-    "summary_zh": "通用汽车推出车网互动（V2G）技术，使电动车不仅能给家庭供电，还能反向输送到电网支持社区。该技术旨在将电动车作为移动储能单元，提升电网弹性并降低用户电费。通用计划在2026年前实现全系车型支持。",
-    "category": "product"
-  },
-  {
-    "id": "421eda7b681b3b3ad39aedebf6770505",
-    "title_en": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-    "published_at": "2026-06-09T21:00:00.000Z",
-    "fetched_at": "2026-06-10T02:34:15.197Z",
-    "title_zh": "通用汽车认为电动汽车可通过车网互联技术抵消AI的能源消耗",
-    "summary_zh": "通用汽车提出利用电动汽车的车辆到电网（V2G）技术，将闲置电池容量回馈电网，以平衡AI数据中心的高能耗。该方案认为电动车可作为分布式储能单元，在AI算力需求激增时提供备用电力。此举不仅有助于缓解能源压力，还能为车主创造收益。但V2G技术的大规模部署仍需解决电池损耗和电网兼容性问题。",
-    "category": "industry"
-  },
-  {
-    "id": "4807ec3bf9038720dac032d8dd05933d",
-    "title_en": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-    "published_at": "2026-06-09T20:56:52.000Z",
-    "fetched_at": "2026-06-10T02:34:15.353Z",
-    "title_zh": "与研究员激烈竞争后，微软修复了其披露的零日漏洞",
-    "summary_zh": "微软在与一名安全研究员的公开争执后，修复了其披露的一个零日漏洞。该漏洞此前被研究员发现并公开，微软最初反应迟缓，引发社区批评。最终微软在压力下发布补丁，但事件暴露了科技巨头与独立研究者之间的紧张关系。此案凸显了漏洞披露流程中的沟通问题，以及及时修复对用户安全的重要性。",
-    "category": "industry"
-  },
-  {
-    "id": "17e7dcc7cd2b4179b346bbd697e73b64",
-    "title_en": "Hey, Siri, here’s what I actually want from AI",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-    "published_at": "2026-06-09T20:50:17.000Z",
-    "fetched_at": "2026-06-10T02:34:15.034Z",
-    "title_zh": "嘿，Siri，这才是AI真正该做的事",
-    "summary_zh": "用户对Siri等语音助手的AI功能提出更高期待，希望其能更智能地理解上下文、主动提供建议并简化复杂任务。当前AI助手在自然语言处理和个性化服务方面仍有不足，未来需提升推理能力和多模态交互。文章呼吁AI开发聚焦实用场景，而非仅追求炫技，真正解决用户日常痛点。",
-    "category": "product"
-  },
-  {
-    "id": "81dc71b969e2419cc22def7d8ea7da9e",
-    "title_en": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-    "published_at": "2026-06-09T20:37:49.000Z",
-    "fetched_at": "2026-06-10T02:34:15.034Z",
-    "title_zh": "Anthropic的Fable 5可一键生成古怪有趣的电子游戏",
-    "summary_zh": "Anthropic推出Fable 5模型，用户只需点击按钮即可生成风格独特的电子游戏。该模型利用AI技术自动创建游戏逻辑、角色和场景，降低了游戏开发门槛。尽管生成内容仍显古怪，但展示了AI在创意娱乐领域的潜力。未来此类工具可能改变独立游戏开发模式，让非专业人士也能快速制作互动体验。",
-    "category": "product"
-  },
-  {
-    "id": "8a5852c59879b06452b8e8384321b3a0",
-    "title_en": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-    "published_at": "2026-06-09T20:24:25.000Z",
-    "fetched_at": "2026-06-10T02:34:15.197Z",
-    "title_zh": "微软AI负责人批评Anthropic将Claude描述为有意识",
-    "summary_zh": "微软AI部门负责人公开指责Anthropic在宣传其Claude模型时暗示其具有意识，认为这种表述误导公众并损害行业信誉。他指出当前AI系统远未达到真正意识水平，过度拟人化可能引发不切实际的期望和伦理争议。这场争论凸显了AI公司在营销中如何平衡技术能力与公众认知的挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "dcee345de3462890cdc8b20ea6dfc12f",
-    "title_en": "Faculty Bulldog Days celebrates teaching and learning at Yale",
-    "source": "Yale.edu",
-    "url": "https://poorvucenter.yale.edu/posts/2026-06-09-faculty-bulldog-days-celebrates-teaching-and-learning-at-yale",
-    "published_at": "2026-06-09T20:11:29Z",
-    "fetched_at": "2026-06-10T20:12:43.742Z",
-    "title_zh": "耶鲁大学举办“教职工斗牛犬日”庆祝教学与学习",
-    "summary_zh": "耶鲁大学年度活动“教职工斗牛犬日”如期举行，旨在表彰卓越教学和促进学术交流。活动包括开放课堂、教学研讨会和学生成果展示，强调师生互动与创新教学方法。该活动不仅增强了校园社区凝聚力，也展示了耶鲁在高等教育领域的教学改革成果。",
-    "category": "industry"
-  },
-  {
-    "id": "08d67cd2b324a7e5f3fa083c6176363c",
-    "title_en": "Huawei just dropped a major AI chip surprise — but Nvidia should really be paying attention to the other big news from its rival",
-    "source": "TechRadar",
-    "url": "https://www.techradar.com/pro/huawei-just-dropped-a-major-ai-chip-surprise-but-nvidia-should-be-paying-attention-to-the-other-news",
-    "published_at": "2026-06-09T20:10:00Z",
-    "fetched_at": "2026-06-10T20:12:43.742Z",
-    "title_zh": "华为突然发布重磅AI芯片，但英伟达更应关注其竞争对手的另一大新闻",
-    "summary_zh": "华为意外推出新款AI芯片，性能显著提升，引发行业震动。然而分析指出，英伟达真正需要警惕的是华为竞争对手（如国内其他芯片厂商）在架构和生态上的突破。文章认为，华为此举不仅加剧了中美AI芯片竞争，也预示着全球算力格局的深刻变化。",
-    "category": "industry"
-  },
-  {
-    "id": "a46665a96b78886040ce81b0417cacbc",
-    "title_en": "As SpaceX, OpenAI and Anthropic plan blockbuster launches, will it make AI giants more accountable?",
-    "source": "The Conversation Africa",
-    "url": "https://theconversation.com/as-spacex-openai-and-anthropic-plan-blockbuster-launches-will-it-make-ai-giants-more-accountable-284665",
-    "published_at": "2026-06-09T20:08:39Z",
-    "fetched_at": "2026-06-10T20:12:43.742Z",
-    "title_zh": "SpaceX、OpenAI和Anthropic计划重磅发布，AI巨头会因此更负责任吗？",
-    "summary_zh": "随着SpaceX、OpenAI和Anthropic等公司筹备重大发布，公众对AI巨头责任感的讨论升温。文章探讨了这些企业如何通过透明度、安全协议和伦理准则来回应监管压力。尽管技术突破令人期待，但行业自律与外部监督的平衡仍是确保AI造福社会的关键。",
-    "category": "industry"
-  },
-  {
-    "id": "ebae80f0e469cf23587594ec75ba59b9",
-    "title_en": "Anthropic Releases Claude Fable 5 – A Mythos Class Model",
-    "source": "Next Big Future",
-    "url": "https://www.nextbigfuture.com/2026/06/anthropic-releases-claude-fable-5-a-mythos-class-model.html",
-    "published_at": "2026-06-09T20:08:24Z",
-    "fetched_at": "2026-06-10T20:12:43.742Z",
-    "title_zh": "Anthropic发布Claude Fable 5——神话级模型",
-    "summary_zh": "Anthropic推出Claude Fable 5，被定位为“神话级”AI模型，在推理、创意写作和复杂任务处理上实现重大突破。该模型采用全新架构，在多项基准测试中超越前代，尤其擅长叙事生成和逻辑推演。此举进一步巩固了Anthropic在高端AI模型领域的领先地位。",
-    "category": "llm"
-  },
-  {
-    "id": "ad778a0a9e1d02a8e026f5eccaf4fb87",
-    "title_en": "School board candidate forced to delete campaign photo after followers spot glaring 'mistake'",
-    "source": "Dailymail.com",
-    "url": "https://www.dailymail.com/news/article-15885953/School-board-candidate-AI-mistake-campaign-photo.html",
-    "published_at": "2026-06-09T20:07:15Z",
-    "fetched_at": "2026-06-10T20:12:43.742Z",
-    "title_zh": "学区委员候选人因照片中明显错误被迫删除竞选照",
-    "summary_zh": "一名学区委员候选人在社交媒体发布的竞选照片被网友发现存在严重错误（如背景中的不当内容或文字错误），引发舆论批评后被迫删除。该事件凸显了数字时代公众人物对细节审查的重要性，以及社交媒体对竞选活动的放大效应。",
-    "category": "industry"
-  },
-  {
-    "id": "35deaea07a4912fe96d674fdcea8b58f",
-    "title_en": "Tata Consultancy slows hiring as AI reshapes outsourcing industry",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/tata-consultancy-slows-hiring-ai-outsourcing/",
-    "published_at": "2026-06-09T20:05:49Z",
-    "fetched_at": "2026-06-10T20:12:43.743Z",
-    "title_zh": "塔塔咨询放缓招聘，AI重塑外包行业格局",
-    "summary_zh": "印度IT巨头塔塔咨询服务公司（TCS）因AI技术对外包行业的冲击，宣布放缓招聘节奏。AI驱动的自动化工具正在替代传统人工服务，导致企业对低技能岗位需求下降。这一趋势反映了全球IT服务行业正经历深刻转型，企业需加速技能升级以应对AI带来的就业结构变化。",
     "category": "industry"
   }
 ]
