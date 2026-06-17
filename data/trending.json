@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-06-17",
+      "summary_zh": "今日GitHub热门项目涵盖开源编程学习、Rust高性能工具、特斯拉数据记录、IPTV频道、浏览器自动化、云原生管理、测试框架、音乐管理、安卓去冗余及多语言语音生成，聚焦效率与创新。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description_en": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars_total": 124216,
+          "stars_today": 1197,
+          "description_zh": "来自全球的公开 IPTV 频道集合"
+        },
+        {
+          "rank": 2,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "stars_total": 448632,
+          "stars_today": 633,
+          "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
+        },
+        {
+          "rank": 3,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "language": "Python",
+          "stars_total": 30175,
+          "stars_today": 408,
+          "description_zh": "VoxCPM2：无分词器的多语言语音生成、创意语音设计和逼真克隆的 TTS 模型"
+        },
+        {
+          "rank": 4,
+          "name": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "description_en": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+          "language": "Rust",
+          "stars_total": 9323,
+          "stars_today": 334,
+          "description_zh": "IP 地址会失效，改用拨号键。用 Rust 编写的模块化网络栈。"
+        },
+        {
+          "rank": 5,
+          "name": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "description_en": "Meshery, the cloud native manager",
+          "language": "TypeScript",
+          "stars_total": 10867,
+          "stars_today": 228,
+          "description_zh": "Meshery，云原生管理器"
+        },
+        {
+          "rank": 6,
+          "name": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "description_en": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+          "language": "Elixir",
+          "stars_total": 8424,
+          "stars_today": 215,
+          "description_zh": "一个自托管的特斯拉数据记录器 🚘 [主要维护者=@JakobLichterfeld]"
+        },
+        {
+          "rank": 7,
+          "name": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "language": "TypeScript",
+          "stars_total": 9119,
+          "stars_today": 185,
+          "description_zh": "免费、开源、自托管的 WhatsApp API 网关"
+        },
+        {
+          "rank": 8,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description_en": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+          "language": "Python",
+          "stars_total": 2580,
+          "stars_today": 157,
+          "description_zh": "Music Assistant 是一个免费、开源的媒体库管理器，可连接您的流媒体服务和各种智能音箱。服务器是 Music Assistant 的核心，必须运行在始终在线的设备上，如树莓派、NAS 或 Intel NUC 等。"
+        },
+        {
+          "rank": 9,
+          "name": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "description_en": "A lightweight, lightning-fast, in-process vector database",
+          "language": "C++",
+          "stars_total": 10516,
+          "stars_today": 156,
+          "description_zh": "一个轻量级、超快速的进程内向量数据库"
+        },
+        {
+          "rank": 10,
+          "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "description_en": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+          "language": "Rust",
+          "stars_total": 7350,
+          "stars_today": 146,
+          "description_zh": "使用 Rust 编写的跨平台 GUI，通过 ADB 对非 root 安卓设备进行去臃肿操作。提升设备的隐私性、安全性和电池续航。"
+        },
+        {
+          "rank": 11,
+          "name": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "description_en": "JavaScript API for Chrome and Firefox",
+          "language": "TypeScript",
+          "stars_total": 94914,
+          "stars_today": 56,
+          "description_zh": "用于 Chrome 和 Firefox 的 JavaScript API"
+        },
+        {
+          "rank": 12,
+          "name": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "description_en": "Rust-based platform for the Web",
+          "language": "Rust",
+          "stars_total": 33983,
+          "stars_today": 20,
+          "description_zh": "基于 Rust 的 Web 平台"
+        },
+        {
+          "rank": 13,
+          "name": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "description_en": "Fast, easy and reliable testing for anything that runs in a browser.",
+          "language": "TypeScript",
+          "stars_total": 50235,
+          "stars_today": 13,
+          "description_zh": "快速、简单且可靠的浏览器端测试工具。"
+        }
+      ]
+    },
+    {
       "date": "2026-06-16",
       "summary_zh": "今日GitHub热门项目涵盖编程学习、Rust工具、特斯拉数据记录、IPTV、浏览器测试、云原生管理、音乐管理及安卓去冗余，技术多样实用。",
       "projects": [
@@ -4781,162 +4917,6 @@
           "stars_total": 34197,
           "stars_today": 65,
           "description_zh": "免费开源的企业资源规划（ERP）系统。"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-18",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体、隐私工具与开源情报，涵盖个人超级智能、学术研究技能、设备端TTS及WiFi空间感知等前沿技术。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "tinyhumansai/openhuman",
-          "url": "https://github.com/tinyhumansai/openhuman",
-          "description_en": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-          "language": "Rust",
-          "stars_total": 16663,
-          "stars_today": 3945,
-          "description_zh": "你的个人AI超级智能。私密、简单且极其强大。"
-        },
-        {
-          "rank": 2,
-          "name": "CloakHQ/CloakBrowser",
-          "url": "https://github.com/CloakHQ/CloakBrowser",
-          "description_en": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-          "language": "Python",
-          "stars_total": 14993,
-          "stars_today": 1391,
-          "description_zh": "隐身Chromium浏览器，能通过所有机器人检测测试。可作为Playwright的即插即用替代方案，并带有源码级指纹补丁。30/30测试全部通过。"
-        },
-        {
-          "rank": 3,
-          "name": "Imbad0202/academic-research-skills",
-          "url": "https://github.com/Imbad0202/academic-research-skills",
-          "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-          "language": "Python",
-          "stars_total": 11354,
-          "stars_today": 1302,
-          "description_zh": "面向Claude Code的学术研究技能：研究→写作→审阅→修订→定稿"
-        },
-        {
-          "rank": 4,
-          "name": "tech-leads-club/agent-skills",
-          "url": "https://github.com/tech-leads-club/agent-skills",
-          "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-          "language": "TypeScript",
-          "stars_total": 3958,
-          "stars_today": 1244,
-          "description_zh": "面向专业AI编程智能体的安全、已验证技能注册中心。可绝对放心地扩展Antigravity、Claude Code、Cursor、Copilot等工具。"
-        },
-        {
-          "rank": 5,
-          "name": "HKUDS/CLI-Anything",
-          "url": "https://github.com/HKUDS/CLI-Anything",
-          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-          "language": "Python",
-          "stars_total": 36505,
-          "stars_today": 1047,
-          "description_zh": "\"CLI-Anything：让所有软件原生支持智能体\"——CLI-Hub：https://clianything.cc/"
-        },
-        {
-          "rank": 6,
-          "name": "microsoft/ai-agents-for-beginners",
-          "url": "https://github.com/microsoft/ai-agents-for-beginners",
-          "description_en": "12 Lessons to Get Started Building AI Agents",
-          "language": "Jupyter Notebook",
-          "stars_total": 63334,
-          "stars_today": 1013,
-          "description_zh": "12节课程，带你入门构建AI智能体"
-        },
-        {
-          "rank": 7,
-          "name": "BigBodyCobain/Shadowbroker",
-          "url": "https://github.com/BigBodyCobain/Shadowbroker",
-          "description_en": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-          "language": "Python",
-          "stars_total": 7634,
-          "stars_today": 768,
-          "description_zh": "面向全球舞台的开源情报。在统一界面中追踪一切：从富豪的企业/私人飞机、间谍卫星到地震事件。接入AI智能体即可解析数据，发现前所未见的关联。知识人人可得，但此前鲜有公开聚合——直到现在。"
-        },
-        {
-          "rank": 8,
-          "name": "supertone-inc/supertonic",
-          "url": "https://github.com/supertone-inc/supertonic",
-          "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-          "language": "Swift",
-          "stars_total": 8235,
-          "stars_today": 755,
-          "description_zh": "闪电般快速、设备端运行、多语言文本转语音——通过ONNX原生运行。"
-        },
-        {
-          "rank": 9,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 59779,
-          "stars_today": 704,
-          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
-        },
-        {
-          "rank": 10,
-          "name": "plausible/analytics",
-          "url": "https://github.com/plausible/analytics",
-          "description_en": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-          "language": "Elixir",
-          "stars_total": 25869,
-          "stars_today": 637,
-          "description_zh": "开源、隐私优先的网站分析工具。轻量级、无Cookie的Google Analytics替代方案。支持自托管或云服务。"
-        },
-        {
-          "rank": 11,
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-          "language": "Python",
-          "stars_total": 24314,
-          "stars_today": 610,
-          "description_zh": "一套即用型智能体技能，适用于研究、科学、工程、分析、金融和写作。"
-        },
-        {
-          "rank": 12,
-          "name": "NVlabs/Sana",
-          "url": "https://github.com/NVlabs/Sana",
-          "description_en": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
-          "language": "Python",
-          "stars_total": 6436,
-          "stars_today": 376,
-          "description_zh": "SANA：基于线性扩散Transformer的高效高分辨率图像合成"
-        },
-        {
-          "rank": 13,
-          "name": "humanlayer/12-factor-agents",
-          "url": "https://github.com/humanlayer/12-factor-agents",
-          "description_en": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-          "language": "TypeScript",
-          "stars_total": 20445,
-          "stars_today": 359,
-          "description_zh": "构建真正优秀、可供生产客户使用的LLM驱动软件，需要遵循哪些原则？"
-        },
-        {
-          "rank": 14,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-          "language": "Python",
-          "stars_total": 36990,
-          "stars_today": 290,
-          "description_zh": "LLM驱动的A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖。"
-        },
-        {
-          "rank": 15,
-          "name": "ggml-org/llama.cpp",
-          "url": "https://github.com/ggml-org/llama.cpp",
-          "description_en": "LLM inference in C/C++",
-          "language": "C++",
-          "stars_total": 110935,
-          "stars_today": 283,
-          "description_zh": "使用C/C++进行LLM推理"
         }
       ]
     }
