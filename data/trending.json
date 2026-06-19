@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-19",
-      "summary_zh": "今日GitHub热门项目聚焦AI与开发工具：Google时间序列模型、Rust网络栈、免费编程课程、智能体工程框架、代码知识图谱、向量数据库及文本结构化提取。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理框架、时序预测模型与开源项目管理工具，涵盖谷歌TimesFM、Rust网络栈、免费编程课程及高性能代码索引等创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/DeusData/codebase-memory-mcp",
           "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
           "language": "C",
-          "stars_total": 7141,
+          "stars_total": 7434,
           "stars_today": 2322,
           "description_zh": "高性能代码智能MCP服务器。将代码库索引为持久化知识图谱——平均仓库处理时间毫秒级。支持158种语言，查询亚毫秒级响应，减少99%的令牌消耗。单一静态二进制文件，零依赖。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 232499,
+          "stars_total": 232835,
           "stars_today": 1429,
           "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/Kilo-Org/kilocode",
           "description_en": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
           "language": "TypeScript",
-          "stars_total": 22216,
+          "stars_total": 22532,
           "stars_today": 1345,
           "description_zh": "Kilo 是一站式智能体工程平台。借助最受欢迎的开源编码智能体，更快地构建、交付和迭代。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/google-research/timesfm",
           "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
           "language": "Python",
-          "stars_total": 23278,
+          "stars_total": 23733,
           "stars_today": 844,
           "description_zh": "TimesFM（时间序列基础模型）是由谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/makeplane/plane",
           "description_en": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
           "language": "TypeScript",
-          "stars_total": 51863,
+          "stars_total": 51986,
           "stars_today": 613,
           "description_zh": "🔥🔥🔥 开源的 Jira、Linear、Monday 和 ClickUp 替代品。Plane 是一个现代化的项目管理平台，用于管理任务、冲刺、文档和问题分类。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/freeCodeCamp/freeCodeCamp",
           "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
           "language": "TypeScript",
-          "stars_total": 449571,
+          "stars_total": 449715,
           "stars_today": 417,
           "description_zh": "freeCodeCamp.org 的开源代码库和课程体系。免费学习数学、编程和计算机科学。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/n0-computer/iroh",
           "description_en": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
           "language": "Rust",
-          "stars_total": 10026,
+          "stars_total": 10119,
           "stars_today": 369,
           "description_zh": "IP地址会失效，改用拨号键。用Rust构建的模块化网络协议栈。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/alibaba/zvec",
           "description_en": "A lightweight, lightning-fast, in-process vector database",
           "language": "C++",
-          "stars_total": 11257,
+          "stars_total": 11416,
           "stars_today": 259,
           "description_zh": "轻量级、闪电般快速的进程内向量数据库。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
           "description_en": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
           "language": "Rust",
-          "stars_total": 7936,
+          "stars_total": 8017,
           "stars_today": 244,
           "description_zh": "使用 Rust 编写的跨平台 GUI 工具，通过 ADB 对非 root 安卓设备进行去臃肿化。提升设备的隐私性、安全性和电池续航。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/zai-org/GLM-5",
           "description_en": "GLM-5: From Vibe Coding to Agentic Engineering",
           "language": "",
-          "stars_total": 4166,
+          "stars_total": 4320,
           "stars_today": 202,
           "description_zh": "GLM-5：从氛围编码到智能体工程"
         },
@@ -110,67 +110,57 @@
           "url": "https://github.com/withastro/flue",
           "description_en": "The sandbox agent framework.",
           "language": "TypeScript",
-          "stars_total": 5533,
+          "stars_total": 5612,
           "stars_today": 162,
           "description_zh": "沙盒智能体框架。"
         },
         {
           "rank": 12,
-          "name": "yifanfeng97/Hyper-Extract",
-          "url": "https://github.com/yifanfeng97/Hyper-Extract",
-          "description_en": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
-          "language": "Python",
-          "stars_total": 1819,
-          "stars_today": 124,
-          "description_zh": "利用大语言模型将非结构化文本转化为结构化知识。支持图、超图及时空提取——一条命令即可完成。"
-        },
-        {
-          "rank": 13,
           "name": "Lightricks/LTX-2",
           "url": "https://github.com/Lightricks/LTX-2",
           "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
           "language": "Python",
-          "stars_total": 7511,
+          "stars_total": 7557,
           "stars_today": 51,
           "description_zh": "LTX-2 音频-视频生成模型的官方 Python 推理和 LoRA 训练器包。"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "LibreTranslate/LibreTranslate",
           "url": "https://github.com/LibreTranslate/LibreTranslate",
           "description_en": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
           "language": "Python",
-          "stars_total": 15002,
+          "stars_total": 15092,
           "stars_today": 51,
           "description_zh": "免费开源机器翻译 API。支持自托管、离线运行且易于部署。"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "owainlewis/awesome-artificial-intelligence",
           "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
           "description_en": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
           "language": "",
-          "stars_total": 14431,
+          "stars_total": 14552,
           "stars_today": 40,
           "description_zh": "精心整理的人工智能（AI）课程、书籍、视频讲座和论文列表。"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Kong/insomnia",
           "url": "https://github.com/Kong/insomnia",
           "description_en": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
           "language": "TypeScript",
-          "stars_total": 38705,
+          "stars_total": 38780,
           "stars_today": 18,
           "description_zh": "开源的跨平台 API 客户端，支持 GraphQL、REST、WebSockets、SSE 和 gRPC。提供云端、本地和 Git 存储方式。"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "dotnet/aspnetcore",
           "url": "https://github.com/dotnet/aspnetcore",
           "description_en": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
           "language": "C#",
-          "stars_total": 38100,
+          "stars_total": 38128,
           "stars_today": 14,
           "description_zh": "ASP.NET Core 是一个跨平台的 .NET 框架，用于在 Windows、Mac 或 Linux 上构建现代化的云端 Web 应用程序。"
         }
