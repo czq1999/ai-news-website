@@ -1,5 +1,115 @@
 [
   {
+    "id": "a7f022f85e2d02c25c4a90928bf4c9db",
+    "title_en": "一文带你看清运维技术体系 - Gist",
+    "source": "gist.github.com",
+    "url": "https://gist.github.com/4b4b7066a6e9915c05411b60d53f2ff3",
+    "published_at": "2026-06-20T13:29:50.969Z",
+    "fetched_at": "2026-06-20T13:29:50.969Z",
+    "title_zh": "一文带你看清运维技术体系",
+    "summary_zh": "本文以思维导图或知识图谱的形式，系统梳理了现代运维技术体系的完整架构，涵盖基础设施管理（服务器、网络、存储）、监控告警（Prometheus、Grafana、ELK）、自动化部署（Ansible、Terraform、CI/CD）、容器编排（Kubernetes、Docker）、以及稳定性保障（SRE、混沌工程、容量规划）等核心领域。文章旨在帮助运维工程师建立全局视野，理解各技术栈之间的关系与选型依据，是入门或梳理知识体系的优质参考资料。",
+    "topic": "ops"
+  },
+  {
+    "id": "348242881f8742faa33c053d2267ccf8",
+    "title_en": "Docker性能优化：让容器跑得更快 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2595679",
+    "published_at": "2026-06-20T13:29:48.520Z",
+    "fetched_at": "2026-06-20T13:29:48.520Z",
+    "title_zh": "Docker性能优化：让容器跑得更快",
+    "summary_zh": "本文由腾讯云出品，聚焦于Docker容器的性能优化实践。内容涵盖镜像层缓存利用、容器资源限制（CPU、内存、磁盘IO）的合理配置、网络模式选择（如host vs bridge）、存储驱动对比（overlay2 vs devicemapper）以及减少容器启动时间的技巧。文章还讨论了如何通过多阶段构建减小镜像体积，以及使用性能监控工具定位瓶颈。对于容器化应用的开发者与运维人员，这是一份实用的性能调优指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "43653e09c0d6bed44b0e02ee0a95f355",
+    "title_en": "安全强化 | Red Hat Enterprise Linux | 9 | Red Hat Documentation",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/9/html-single/security_hardening/index",
+    "published_at": "2026-06-20T13:29:48.520Z",
+    "fetched_at": "2026-06-20T13:29:48.520Z",
+    "title_zh": "Red Hat Enterprise Linux 9 安全强化指南",
+    "summary_zh": "本文是Red Hat官方文档，详细介绍了RHEL 9的安全强化措施，包括系统级安全策略配置（如SELinux强制模式、firewalld规则）、账户与认证安全（如PAM模块、密码策略）、内核参数加固（如禁用不必要的内核模块、启用地址空间布局随机化）、以及审计与日志配置（如auditd规则）。文档提供了具体的命令行操作和配置文件示例，适用于需要满足合规要求或提升系统安全性的运维和安全工程师。",
+    "topic": "security"
+  },
+  {
+    "id": "4053011eb843a8289cac9fac1224bf16",
+    "title_en": "Linux性能提升秘籍：25个系统调优技巧 - W3Cschool",
+    "source": "w3cschool.cn",
+    "url": "https://www.w3cschool.cn/hycig/hycig-wzdf3zfy.html",
+    "published_at": "2026-06-20T13:29:48.519Z",
+    "fetched_at": "2026-06-20T13:29:48.519Z",
+    "title_zh": "Linux性能提升秘籍：25个系统调优技巧",
+    "summary_zh": "本文系统总结了25个实用的Linux系统调优技巧，涵盖CPU调度、内存管理、磁盘I/O、网络参数和内核参数优化等核心领域。每个技巧都配有具体的命令示例和参数说明，例如调整swappiness、优化TCP拥塞控制算法、使用ionice管理磁盘优先级等。文章注重可操作性，适合运维工程师和系统管理员在日常工作中直接参考，帮助在不升级硬件的前提下显著提升服务器性能与响应速度。",
+    "topic": "ops"
+  },
+  {
+    "id": "dcab03e090a8b7fbfb25cc9a75383c99",
+    "title_en": "Kubernetes 运维模型 - AWS",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/modern-apps/recommendation-guide/kubernetes/",
+    "published_at": "2026-06-20T13:29:48.519Z",
+    "fetched_at": "2026-06-20T13:29:48.519Z",
+    "title_zh": "Kubernetes 运维模型",
+    "summary_zh": "本文由AWS官方发布，深入探讨了Kubernetes在生产环境中的运维模型，包括集群生命周期管理、节点自动扩缩容、监控与日志集成、安全策略实施以及成本优化等关键方面。文章结合AWS EKS的最佳实践，介绍了如何通过基础设施即代码（IaC）、GitOps工作流和自动化运维工具来降低K8s集群的运维复杂度。适合正在或计划将Kubernetes用于生产环境的运维团队，提供了从架构设计到日常运维的完整参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "87be9ba762a977322dbd3a519274a621",
+    "title_en": "AWorld 框架快速入门：环境搭建到第一个AI助理实例｜多智能体｜AI Agent教程｜智能体开发_哔哩哔哩_bilibili",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV17HWCzhEAo/",
+    "published_at": "2026-06-20T13:29:45.717Z",
+    "fetched_at": "2026-06-20T13:29:45.717Z",
+    "title_zh": "AWorld 框架快速入门：从环境搭建到第一个AI助理实例｜多智能体｜AI Agent教程",
+    "summary_zh": "本教程手把手指导开发者从零开始搭建AWorld多智能体框架，涵盖环境配置、核心概念（如智能体、环境、任务调度）以及如何创建第一个AI助理实例。内容聚焦于多智能体系统的实际开发流程，包括智能体间的通信机制、任务分配策略和状态管理。适合希望快速上手多智能体开发的AI工程师，教程提供了完整的代码示例和调试技巧，帮助理解如何将理论框架应用于实际场景。",
+    "topic": "ai"
+  },
+  {
+    "id": "404fbe2e393f9b74a7455ce335bfe886",
+    "title_en": "作为人工智能工程师的一年经验：AI Agent 最佳实践 - Reddit",
+    "source": "reddit.com",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1lpj771/ai_agent_best_practices_from_one_year_as_ai/?tl=zh-hans",
+    "published_at": "2026-06-20T13:29:45.717Z",
+    "fetched_at": "2026-06-20T13:29:45.717Z",
+    "title_zh": "人工智能工程师的一年经验总结：AI Agent 最佳实践",
+    "summary_zh": "一位资深AI工程师分享了过去一年在构建和部署AI Agent过程中的实战经验与教训。内容涵盖Agent的架构设计（如ReAct模式、工具调用）、记忆管理、错误处理与重试策略、与外部API的集成优化，以及在生产环境中监控Agent行为的方法。文章强调从原型到稳定服务的工程化挑战，包括延迟优化、成本控制和可解释性。对于正在开发Agent应用的团队，这是一份极具参考价值的避坑指南和最佳实践清单。",
+    "topic": "ai"
+  },
+  {
+    "id": "ae222a18ca6e7be8fafecbe32ba6e075",
+    "title_en": "谷歌Gemini 2.5全线爆发，勇战「濒死恐慌」，却被丝血宝可梦吓到当场宕机-36氪",
+    "source": "36kr.com",
+    "url": "https://www.36kr.com/p/3341464175819009",
+    "published_at": "2026-06-20T13:29:45.716Z",
+    "fetched_at": "2026-06-20T13:29:45.716Z",
+    "title_zh": "谷歌Gemini 2.5全面升级，直面「濒死恐慌」挑战，却被残血宝可梦吓到当场宕机",
+    "summary_zh": "本文报道了谷歌最新发布的Gemini 2.5模型在多项基准测试中的表现，尤其关注其在处理复杂、模糊甚至带有情感色彩的输入时的能力。文章通过一个有趣的案例——模型在面对一个“残血”宝可梦图像时出现逻辑混乱甚至“宕机”反应，揭示了当前大模型在视觉理解、常识推理和鲁棒性方面的局限性。对于AI从业者而言，这是一个关于模型边界测试和对抗性样本设计的生动案例，提示我们在实际部署中需关注模型在非典型输入下的行为稳定性。",
+    "topic": "ai"
+  },
+  {
+    "id": "9675cae6ec0be3df4b378a1b28ed8c3c",
+    "title_en": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程- 知乎",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1993642974563812198",
+    "published_at": "2026-06-20T13:29:45.716Z",
+    "fetched_at": "2026-06-20T13:29:45.716Z",
+    "title_zh": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程",
+    "summary_zh": "这是一套面向2026年技术趋势的系列教程，系统性地覆盖了AI核心领域：从基础的大模型原理、训练与推理优化，到智能体（Agent）的架构设计与多智能体协作，再到LLMOps（大模型运维）的工程实践，包括模型部署、监控、版本管理和成本控制。教程强调从理论到落地的完整链路，适合希望系统构建AI工程化能力的开发者。内容兼具前瞻性和实操性，是规划未来技术栈的优质参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "960a2b55f8ab13a23d30304b7e5540da",
+    "title_en": "人工智能- 大模型榜单周报（2026/01/31） - KAI智 - SegmentFault 思否",
+    "source": "segmentfault.com",
+    "url": "https://segmentfault.com/a/1190000047584551",
+    "published_at": "2026-06-20T13:29:45.716Z",
+    "fetched_at": "2026-06-20T13:29:45.717Z",
+    "title_zh": "大模型榜单周报（2026/01/31）",
+    "summary_zh": "本文汇总了截至2026年1月31日国内外主流大模型在各类权威榜单（如MMLU、HumanEval、GSM8K、C-Eval等）上的最新排名与性能变化。报告不仅列出了模型名称、参数量、推理成本等关键指标，还分析了近期模型在数学推理、代码生成、多语言理解等细分领域的突破与短板。对于AI研究员和工程师而言，这是一份快速掌握行业动态、评估模型选型与对比基准的实用周报，有助于在技术决策中保持信息同步。",
+    "topic": "ai"
+  },
+  {
     "id": "7cc1753b0adb8e4f8f3e9e8c8c0de68c",
     "title_en": "确保Android 长期安全的制造商指南",
     "source": "source.android.com",
@@ -2088,115 +2198,5 @@
     "title_zh": "2026年10大Agent框架深度横评| AI Agent Framework选型指南",
     "summary_zh": "本文以视频形式对2026年十大主流AI Agent框架进行了深度横向评测，涵盖LangGraph、AutoGen、CrewAI、Dify等。评测维度包括框架的易用性、扩展性、多Agent通信机制、工具集成能力、生产部署支持等。文章通过实际案例展示了各框架在复杂任务编排、错误恢复、性能开销等方面的表现。对于技术决策者，本文提供了量化的对比数据和场景化推荐，有助于在项目初期做出合理的框架选型。",
     "topic": "ai"
-  },
-  {
-    "id": "245d766b7d147a7000e18ed5830dadef",
-    "title_en": "AI Agent 开发实战：从零构建一个完整的自主 Agent（含 Python 全栈实现） | AI Master",
-    "source": "ai-master.cc",
-    "url": "https://www.ai-master.cc/article/agent-026",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "AI Agent 开发实战：从零构建一个完整的自主 Agent（含 Python 全栈实现）",
-    "summary_zh": "本文是一篇AI Agent开发实战教程，从零开始构建一个完整的自主Agent，包含Python全栈实现。内容涵盖Agent的核心组件设计：感知模块、推理引擎、工具调用、记忆系统和执行反馈。文章提供了完整的代码示例，包括LLM调用封装、工具注册机制、任务规划算法以及错误处理策略。对于希望掌握Agent开发全流程的工程师，本文提供了可直接复用的代码模板和架构设计思路，适合作为入门到进阶的实践指南。",
-    "topic": "ai"
-  },
-  {
-    "id": "76a7d1a67e0ec4ceaa91710317f8ae13",
-    "title_en": "从 0 到 1 搭建 Agent 产品的全链路地图 | 人人都是产品经理",
-    "source": "woshipm.com",
-    "url": "https://www.woshipm.com/ai/6413419.html",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "从 0 到 1 搭建 Agent 产品的全链路地图",
-    "summary_zh": "本文从产品经理视角系统梳理了从零搭建Agent产品的全链路流程，包括需求分析、架构设计、模型选型、Prompt工程、工具集成、测试评估、部署运维等关键环节。文章结合实战案例，重点讨论了Agent在任务规划、记忆管理、安全控制等方面的产品化挑战及解决方案。对于AI产品经理和技术负责人，本文提供了完整的Agent产品化路线图，帮助理解从技术原型到商业产品的转化路径和关键决策点。",
-    "topic": "ai"
-  },
-  {
-    "id": "d622e758e53d411b98264af912aeae59",
-    "title_en": "AI Agent 完全指南：2026 年核心概念、主流框架、开发实践与选型建议",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/qiniushanghai/p/19664826",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "AI Agent 完全指南：2026 年核心概念、主流框架、开发实践与选型建议",
-    "summary_zh": "本文是一份2026年AI Agent的综合性指南，涵盖核心概念（如工具调用、记忆、规划、多Agent协作）、主流框架对比（LangChain、AutoGen、CrewAI等）、开发实践（Prompt设计、错误处理、状态管理）以及选型建议。文章基于实际项目经验，分析了不同框架在复杂任务、实时交互、可扩展性等方面的表现，并给出了针对不同业务场景的推荐方案。对于AI开发者，本文提供了从理论到实践的完整知识体系。",
-    "topic": "ai"
-  },
-  {
-    "id": "79143ee64a65fccafacdcd6956a2ee8d",
-    "title_en": "2026年AI Agent智能体开发实战：从架构设计到生产部署的完整指南_2026年5月 ai agent框架 最新 开发教程 开源项目-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/huang9604/article/details/161566647",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "2026年AI Agent智能体开发实战：从架构设计到生产部署的完整指南",
-    "summary_zh": "本文是一份从架构设计到生产部署的AI Agent开发完整指南，涵盖Agent系统架构（感知-规划-执行-反馈循环）、主流框架选型（LangGraph、AutoGen等）、开发最佳实践（工具调用、记忆管理、安全控制）以及生产部署方案（容器化、监控、日志、弹性伸缩）。文章结合开源项目案例，提供了可落地的代码示例和配置模板。对于希望将Agent从原型推向生产的工程师，本文提供了端到端的工程化指导。",
-    "topic": "ai"
-  },
-  {
-    "id": "e37ca3a42c2142335bea9c6d254f48b3",
-    "title_en": "微调典型问题_盘古NLP大模型微调训练实践_模型训练实践_最佳实践_盘古大模型 PanguLargeModels-华为云",
-    "source": "support.huaweicloud.com",
-    "url": "https://support.huaweicloud.com/bestpractice-pangulm/pangulm_04_0137.html",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "微调典型问题_盘古NLP大模型微调训练实践",
-    "summary_zh": "本文是华为云盘古大模型微调训练的实践指南，聚焦于微调过程中的典型问题及解决方案。内容涵盖数据准备（数据清洗、标注、增强）、参数配置（学习率、批次大小、优化器选择）、训练监控（损失曲线、过拟合判断）以及常见错误排查（显存溢出、梯度爆炸、收敛失败）。文章基于实际项目经验，提供了针对不同任务类型的微调策略和调参建议。对于使用盘古大模型进行企业级微调的工程师，本文具有直接的操作指导价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "8c6f40fa78ef907abd573cbde837e4f1",
-    "title_en": "AI大模型微调企业项目实战课(完结)-云社区-华为云",
-    "source": "bbs.huaweicloud.com",
-    "url": "https://bbs.huaweicloud.com/blogs/477270",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "AI大模型微调企业项目实战课(完结)",
-    "summary_zh": "本文是华为云社区发布的AI大模型微调企业项目实战课程总结，涵盖从数据准备、模型选择、微调策略到部署上线的完整流程。课程重点讲解了LoRA、QLoRA等高效微调方法，以及如何解决企业场景中的数据稀缺、领域适配、推理延迟等实际问题。文章提供了多个行业案例（如金融、医疗、客服）的微调实践，并给出了性能评估和成本优化的建议。对于企业AI团队，本文提供了可复用的微调项目方法论。",
-    "topic": "ai"
-  },
-  {
-    "id": "5468e2eec924cf4d97d033b874b14081",
-    "title_en": "[Linux操作系统]Linux服务器维护技巧，提升服务器稳定性和安全性的关键策略|linux服务器维护教程,linux 服务器维护技巧,Linux操作系统,云主机博士",
-    "source": "yunzhujiboshi.com",
-    "url": "https://www.yunzhujiboshi.com/2026/06/1666410.html",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "Linux操作系统Linux服务器维护技巧，提升服务器稳定性和安全性的关键策略",
-    "summary_zh": "本文系统总结了Linux服务器维护的核心技巧，聚焦于提升服务器稳定性和安全性的关键策略。内容涵盖系统监控（CPU、内存、磁盘、网络）、日志管理（journalctl、logrotate）、安全加固（SSH配置、防火墙、SELinux）、内核参数调优（sysctl）、定时任务管理以及备份恢复方案。文章提供了实用的命令示例和配置模板，适合运维人员日常参考。对于保障生产环境稳定运行，这些技巧具有直接的操作指导价值。",
-    "topic": "ops"
-  },
-  {
-    "id": "a9bf1ed1a1182dc3856c63ba1a96b7a1",
-    "title_en": "Linux 运维高阶命令实战指南：5 大核心场景，线上故障一键排查-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/2601_95758040/article/details/161319673",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "Linux 运维高阶命令实战指南：5 大核心场景，线上故障一键排查",
-    "summary_zh": "本文是一份Linux运维高阶命令实战指南，聚焦于5大核心场景下的线上故障排查：CPU飙升、内存泄漏、磁盘IO瓶颈、网络异常和进程异常。文章详细介绍了每个场景的诊断思路和关键命令（如top、strace、perf、iostat、tcpdump、lsof等），并提供了组合命令和脚本示例实现一键排查。对于运维工程师，本文提供了快速定位和解决线上问题的实用方法论，能够显著提升故障响应效率。",
-    "topic": "ops"
-  },
-  {
-    "id": "9548ee0dedfdfb11cc804ad3b5b6eb57",
-    "title_en": "2026年Linux服务器运维实战，从新手命令到自动化部署 - 极客如何",
-    "source": "howtogu.com",
-    "url": "https://www.howtogu.com/software-urgent/2026nlinuxfwqywszcxsmldzdhbs/",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "2026年Linux服务器运维实战：从新手命令到自动化部署",
-    "summary_zh": "本文面向2026年的Linux运维场景，系统性地梳理了从基础命令操作到自动化部署的全链路技能树。内容涵盖系统初始化、用户与权限管理、网络配置、日志审计、Shell脚本编写，以及基于Ansible、SaltStack等工具的自动化运维实践。文章强调实战导向，提供了大量可复用的配置模板与故障排查思路，适合希望从入门走向进阶的运维工程师。通过本文，读者可以掌握现代Linux服务器的高效管理方法，并理解自动化部署在降低人为失误、提升交付效率方面的核心价值。",
-    "topic": "ops"
-  },
-  {
-    "id": "8f19acb28c8910eac63efc38d92842f5",
-    "title_en": "GitHub - mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
-    "source": "github.com",
-    "url": "https://github.com/mingongge/BestSRE",
-    "published_at": "2026-06-18T02:44:39.418Z",
-    "fetched_at": "2026-06-18T02:44:39.418Z",
-    "title_zh": "GitHub - mingongge/BestSRE：Linux运维工程师打怪升级进阶成神之路",
-    "summary_zh": "该项目是一个开源的SRE（站点可靠性工程）学习路线图，旨在帮助Linux运维工程师系统性地提升技能。仓库整理了从基础Linux命令、网络协议、Shell编程，到高级的容器编排（Kubernetes）、监控体系（Prometheus、Grafana）、CI/CD流水线以及云原生架构的完整知识图谱。每个阶段都配有推荐的学习资源、实战项目和面试题，强调理论与实践结合。对于希望从传统运维转型为SRE或DevOps工程师的技术人员，这是一份极具参考价值的成长指南。",
-    "topic": "ops"
   }
 ]
