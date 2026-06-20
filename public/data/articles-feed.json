@@ -1,5 +1,49 @@
 [
   {
+    "id": "e4500944fe85545d19e76f3885150cb3",
+    "title_en": "The Atlantic created a searchable database of the music used to train AI",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "published_at": "2026-06-20T18:46:48.000Z",
+    "fetched_at": "2026-06-20T19:10:41.433Z",
+    "title_zh": "《大西洋月刊》创建可搜索数据库，公开用于训练AI的音乐作品",
+    "summary_zh": "《大西洋月刊》发布了一个可搜索数据库，详细列出了被用于训练AI模型的音乐作品。此举旨在提高AI训练数据使用的透明度，引发关于版权和艺术家权益的广泛讨论，为公众和研究者提供了前所未有的视角。",
+    "category": "research"
+  },
+  {
+    "id": "01fac59fe63826ba5ea79bab986dabd5",
+    "title_en": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "published_at": "2026-06-20T16:39:57.000Z",
+    "fetched_at": "2026-06-20T19:10:41.379Z",
+    "title_zh": "诺贝尔奖得主John Jumper离开DeepMind，加入竞争对手Anthropic",
+    "summary_zh": "AlphaFold核心人物、诺贝尔化学奖得主John Jumper宣布从DeepMind离职，转投AI初创公司Anthropic。此举被视为AI人才争夺战升级的标志，Jumper的加盟将极大增强Anthropic在蛋白质结构预测等前沿领域的研发实力，对行业格局产生深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "227f14e6e63d348cceeb2fa7d7c9d492",
+    "title_en": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+    "published_at": "2026-06-20T15:20:00.000Z",
+    "fetched_at": "2026-06-20T19:10:41.434Z",
+    "title_zh": "音乐人兼YouTuber Hainbach谈《旷野之息》与瑞士军刀式创作工具",
+    "summary_zh": "知名音乐人Hainbach分享了他对《塞尔达传说：旷野之息》的创作灵感，并探讨了“瑞士军刀”式多功能工具在音乐制作中的应用。他强调了跨领域创意融合的重要性，为内容创作者提供了独特视角。",
+    "category": "product"
+  },
+  {
+    "id": "8bd4233f5f863e4919c77a6ef54f078a",
+    "title_en": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+    "published_at": "2026-06-20T14:00:00.000Z",
+    "fetched_at": "2026-06-20T19:10:41.434Z",
+    "title_zh": "《钻石之手》是一款未完成却令人上瘾的怪异骰子RPG游戏",
+    "summary_zh": "独立游戏《Moves of the Diamond Hand》以其未完成的状态和独特的骰子机制吸引了玩家。尽管内容不完整，但其古怪的设定和策略性玩法仍带来难以抗拒的吸引力，展现了独立游戏的创新精神。",
+    "category": "product"
+  },
+  {
     "id": "2b77f1da656bdd0f841984e5f1e0da64",
     "title_en": "Toy Story has the right take on tech",
     "source": "The Verge",
@@ -110,6 +154,72 @@
     "category": "industry"
   },
   {
+    "id": "9fa0aad025b4e77922e50d05692855a4",
+    "title_en": "Nobel Prize winner John Jumper quits Google DeepMind after nearly a decade; set to join Anthropic",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nobel-prize-winner-john-jumper-quits-google-deepmind-after-nearly-a-decade-set-to-join-anthropic/articleshow/131866136.cms",
+    "published_at": "2026-06-19T19:07:22Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "诺贝尔奖得主John Jumper离开谷歌DeepMind，近十年后加入Anthropic",
+    "summary_zh": "诺贝尔化学奖得主、AlphaFold核心开发者John Jumper宣布从谷歌DeepMind离职，并加入AI初创公司Anthropic。Jumper的加盟被视为Anthropic在AI基础研究领域的重要布局，可能加速其在蛋白质结构预测等前沿方向的突破。",
+    "category": "industry"
+  },
+  {
+    "id": "331f7a494363328e5868e962c4b89064",
+    "title_en": "A Sydney startup built an AI porn giant. It could be generating child abuse material",
+    "source": "ABC News (AU)",
+    "url": "https://www.abc.net.au/news/2026-06-20/ai-porn-website-our-dream-potential-child-sex-abuse-material/106791410",
+    "published_at": "2026-06-19T19:05:47Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "悉尼初创公司打造AI色情帝国，或涉及生成儿童虐待内容",
+    "summary_zh": "一家悉尼初创公司被曝利用AI技术大规模生成色情内容，调查发现其平台可能涉及儿童虐待材料的生成与传播。该事件引发对AI内容安全监管的强烈关注，呼吁加强法律约束和技术审查，防止AI被滥用于非法领域。",
+    "category": "industry"
+  },
+  {
+    "id": "bd8cf8969347e934807fda0395b773ed",
+    "title_en": "Ctrl-Alt-Speech: Close Your Apps And Think Of England",
+    "source": "Techdirt",
+    "url": "http://www.techdirt.com/2026/06/19/ctrl-alt-speech-close-your-apps-and-think-of-england/",
+    "published_at": "2026-06-19T19:05:00Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "Ctrl-Alt-Speech：关闭应用，想想英格兰",
+    "summary_zh": "本文探讨了AI语音技术对言论自由和隐私的影响，以英国为例分析监管困境。作者指出，在AI生成内容日益泛滥的背景下，用户需警惕应用权限滥用，并呼吁建立更透明的AI使用规范，平衡技术创新与公民权利。",
+    "category": "industry"
+  },
+  {
+    "id": "7d3689f6aa812da7f9eb702980f0f072",
+    "title_en": "Intel CEO Lip-Bu Tan Spills The Beans on Elon Musk’s Problem Solving & Reveals Potentially Major Chip Supply Chain Shortage",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/intel-ceo-lip-bu-tan-spills-the-beans-on-elon-musks-problem-solving-reveals-potentially-major-chip-supply-chain-shortage/",
+    "published_at": "2026-06-19T18:59:19Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "英特尔CEO陈立武透露马斯克解决问题的方式，并警示芯片供应链可能严重短缺",
+    "summary_zh": "英特尔CEO陈立武在访谈中分享了埃隆·马斯克独特的工程问题解决方法，同时警告全球芯片供应链可能面临重大短缺风险。他指出，AI需求激增导致产能紧张，未来数月芯片供应或成瓶颈，影响科技行业整体发展。",
+    "category": "industry"
+  },
+  {
+    "id": "be98ca7ce9461b70b493ae486dcfe836",
+    "title_en": "Zombie director Yeon Sang-ho says AI wants to 'fold' us into one",
+    "source": "ABC News (AU)",
+    "url": "https://www.abc.net.au/news/2026-06-20/yeon-sang-ho-colony-the-interview/106813376",
+    "published_at": "2026-06-19T18:47:47Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "《釜山行》导演延尚昊称AI试图将我们‘折叠’成一体",
+    "summary_zh": "韩国著名导演延尚昊在采访中表达对AI的担忧，认为AI技术正在消解个体独特性，试图将人类‘折叠’成同质化的整体。他呼吁创作者警惕AI对艺术多样性的侵蚀，并强调人类情感与创造力在AI时代的不可替代性。",
+    "category": "industry"
+  },
+  {
+    "id": "d8b98cb0ee9988cd032c6d4a1246378f",
+    "title_en": "Remote workers more likely to get laid off than replaced by AI — and also face more mental distress, data shows",
+    "source": "New York Post",
+    "url": "https://nypost.com/2026/06/19/us-news/remote-workers-more-likely-to-get-laid-off-than-replaced-by-ai-with-isolation-leaving-them-vulnerable-to-mental-distress-data-shows/",
+    "published_at": "2026-06-19T18:44:26Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "数据表明：远程工作者更易被裁员而非被AI取代，且面临更大心理压力",
+    "summary_zh": "最新数据显示，远程工作者被裁员的风险高于被AI取代的风险，同时他们承受的心理压力也更大。研究指出，远程办公的孤立感和职业不安全感加剧了心理健康问题，企业需在灵活办公与员工福祉之间寻找平衡。",
+    "category": "industry"
+  },
+  {
     "id": "33c8c894d4dac4564470eb1622c705d0",
     "title_en": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
     "source": "The Verge",
@@ -119,6 +229,50 @@
     "title_zh": "NASA选定埃里克·施密特的火箭公司执行2028年火星任务",
     "summary_zh": "NASA正式选择由前谷歌CEO埃里克·施密特创立的火箭公司，承担2028年火星探测任务。这是私营航天企业首次获得深空探测合同，标志着商业航天进入新阶段，也凸显了施密特在太空领域的野心。",
     "category": "industry"
+  },
+  {
+    "id": "57092b9f529da76bf042300e5319805d",
+    "title_en": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/funding/architect-labs-raises-24-million-to-take-on-broadcom-marvell-custom-chip-business/articleshow/131865563.cms",
+    "published_at": "2026-06-19T18:37:15Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "Architect Labs融资2400万美元，挑战博通和Marvell的定制芯片业务",
+    "summary_zh": "芯片设计初创公司Architect Labs获得2400万美元融资，专注于为AI和云计算提供定制芯片解决方案，直接与博通、Marvell竞争。该公司计划利用资金加速产品研发，并瞄准数据中心和边缘计算市场，推动芯片定制化趋势。",
+    "category": "industry"
+  },
+  {
+    "id": "ecd9524be8f0c9288159e429e5427288",
+    "title_en": "Stock Market Forecast For Next Six Months: Why More Gains May Lie Ahead",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/af80aa2df5fd0cac",
+    "published_at": "2026-06-19T18:30:52Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "未来六个月股市预测：更多涨幅可能在前",
+    "summary_zh": "市场分析预测未来六个月股市可能继续上涨，受AI技术驱动和宏观经济改善支撑。尽管存在通胀和地缘政治风险，但科技股尤其是AI相关板块表现强劲，投资者对增长前景保持乐观，建议关注AI基础设施和芯片领域。",
+    "category": "industry"
+  },
+  {
+    "id": "89c02d84fdca4ed967bfbfd28fa84063",
+    "title_en": "Soaring AI Costs Push Enterprise Buyers to Cheaper Chinese Models",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/soaring-ai-costs-push-enterprise-buyers-to-cheaper-chinese-models/",
+    "published_at": "2026-06-19T18:25:23Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "AI成本飙升促使企业买家转向更便宜的中国模型",
+    "summary_zh": "随着西方AI模型使用成本持续上涨，越来越多的企业开始寻求性价比更高的替代方案，中国AI模型因此受到青睐。中国企业提供的开源或低价模型在性能上逐步追赶，吸引全球买家，推动AI市场格局变化。",
+    "category": "industry"
+  },
+  {
+    "id": "ca35caff0c93fe4ce837f4dd7ec9c2a2",
+    "title_en": "BRN, U of T and University of the West Indies fund research on climate resilience, health and AI",
+    "source": "Canadacaribbeaninstitute.org",
+    "url": "https://canadacaribbeaninstitute.org/2026/06/19/brn-u-of-t-and-university-of-the-west-indies-fund-research-on-climate-resilience-health-and-ai/",
+    "published_at": "2026-06-19T18:14:16Z",
+    "fetched_at": "2026-06-20T19:10:42.152Z",
+    "title_zh": "BRN、多伦多大学与西印度群岛大学联合资助气候韧性、健康与AI研究",
+    "summary_zh": "BRN、多伦多大学及西印度群岛大学宣布共同资助一项跨学科研究项目，聚焦气候韧性、公共健康与人工智能三大领域。该项目旨在利用AI技术应对气候变化对健康的影响，并加强加勒比地区的科研合作。资金将支持数据驱动的气候模型、疾病预测及适应性策略开发，推动区域可持续发展。",
+    "category": "research"
   },
   {
     "id": "38d73143caf9f5c1b0d1d9ad0d15d320",
@@ -5343,160 +5497,6 @@
     "fetched_at": "2026-06-16T10:55:00.260Z",
     "title_zh": "核灾难风险空前严峻，但我们有能力改变现状",
     "summary_zh": "文章指出，当前全球核灾难的风险已达到历史最高水平，地缘政治紧张局势加剧了这一威胁。然而，作者认为通过多边外交、军控谈判和技术创新，人类仍有能力扭转这一危险趋势，避免核浩劫的发生。",
-    "category": "industry"
-  },
-  {
-    "id": "47c6b2cd3ad805a86dcac7b16a0a5310",
-    "title_en": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
-    "published_at": "2026-06-15T10:30:00.000Z",
-    "fetched_at": "2026-06-15T11:46:47.853Z",
-    "title_zh": "苹果如何让旧款iPhone运行更快、寿命更长",
-    "summary_zh": "苹果通过优化iOS系统、改进电池管理和限制后台活动，显著提升了旧款iPhone的性能和续航。新策略不仅延长了设备使用寿命，还减少了用户更换新机的频率，体现了苹果在可持续发展和用户体验上的新思路。",
-    "category": "product"
-  },
-  {
-    "id": "9df359938ac5d2ceafba4e82cb0b216d",
-    "title_en": "1 in 4 World Cup Matches Could Be Played in Dangerous Temperatures",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/2026-fifa-world-cup-dangerous-temperatures-heat/",
-    "published_at": "2026-06-15T10:00:00.000Z",
-    "fetched_at": "2026-06-15T11:46:47.853Z",
-    "title_zh": "四分之一世界杯比赛可能在危险高温下进行",
-    "summary_zh": "研究显示，由于气候变化，未来世界杯赛事中约四分之一的比赛可能面临危险高温条件。极端高温不仅影响球员表现和健康，还对观众安全构成威胁。国际足联和主办方需重新评估赛程安排和冷却措施。",
-    "category": "research"
-  },
-  {
-    "id": "4e6c50fd8482dcae1efa9da67dbd5882",
-    "title_en": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With ‘MAGA Propaganda’",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
-    "published_at": "2026-06-15T10:00:00.000Z",
-    "fetched_at": "2026-06-15T11:46:47.854Z",
-    "title_zh": "加密货币骗局瞄准同性恋OnlyFans明星，其X账号被“MAGA宣传”淹没",
-    "summary_zh": "一名同性恋OnlyFans创作者成为加密货币骗局的目标，随后其X（原Twitter）账号被大量“MAGA（让美国再次伟大）宣传”内容淹没。事件揭示了社交媒体平台在打击诈骗和内容审核方面的漏洞，以及政治宣传如何被用作攻击工具。",
-    "category": "industry"
-  },
-  {
-    "id": "f6f35c10a4f7dcd49a6e6415c93670d7",
-    "title_en": "The US Government Is Letting a Key Data Center Regulation Expire",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
-    "published_at": "2026-06-15T09:30:00.000Z",
-    "fetched_at": "2026-06-15T11:46:47.854Z",
-    "title_zh": "美国政府将让关键数据中心监管规定失效",
-    "summary_zh": "美国政府决定不续签一项关键的数据中心监管规定，该规定旨在确保数据中心的安全和能效标准。此举可能削弱对数据中心的监管力度，增加网络安全风险和能源消耗。业界担忧这将影响数字基础设施的可靠性。",
-    "category": "industry"
-  },
-  {
-    "id": "8ba25dc08f2da00d3037d0cc20a7df6e",
-    "title_en": "The UK Places a Sweeping Ban on Social Media for Kids Under 16",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/uk-social-media-under-16-ban/",
-    "published_at": "2026-06-15T09:01:53.000Z",
-    "fetched_at": "2026-06-15T11:46:47.854Z",
-    "title_zh": "英国全面禁止16岁以下儿童使用社交媒体",
-    "summary_zh": "英国政府通过一项全面禁令，禁止16岁以下儿童使用社交媒体平台。该政策旨在保护未成年人免受网络欺凌、有害内容和隐私泄露的影响。科技公司面临严格合规要求，违反者将面临巨额罚款。此举引发关于言论自由和监管边界的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "c65975b634848e4c30ce797af73d3629",
-    "title_en": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
-    "published_at": "2026-06-15T09:00:00.000Z",
-    "fetched_at": "2026-06-15T11:46:47.854Z",
-    "title_zh": "Meta与五角大楼供应商合作，为其智能眼镜原型开发面部识别功能",
-    "summary_zh": "Meta被曝与一家五角大楼供应商合作，为其智能眼镜原型开发面部识别技术。这一合作引发隐私担忧，因为面部识别在公共场合的滥用可能侵犯个人权利。Meta强调该技术仅用于原型测试，但批评者认为此举可能开启危险先例。",
-    "category": "product"
-  },
-  {
-    "id": "3849a470eb82f6dd3c103162727900ce",
-    "title_en": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-    "published_at": "2026-06-15T09:00:00.000Z",
-    "fetched_at": "2026-06-15T11:46:47.962Z",
-    "title_zh": "新型固态空调承诺清凉未来，但科学家持怀疑态度",
-    "summary_zh": "固态空调技术号称无需传统制冷剂，能效更高且更环保，但科学家对其实际性能和成本效益表示怀疑。尽管多家初创公司推出原型产品，但大规模商用仍面临技术瓶颈。该技术若成功，可能颠覆传统空调行业。",
-    "category": "research"
-  },
-  {
-    "id": "3ba46c4478e27bc19fd6c8de18494f95",
-    "title_en": "Under-16 social media ban announced by UK government",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
-    "published_at": "2026-06-15T08:19:09.000Z",
-    "fetched_at": "2026-06-15T11:46:47.588Z",
-    "title_zh": "英国政府宣布禁止16岁以下青少年使用社交媒体",
-    "summary_zh": "英国政府出台新规，全面禁止16岁以下青少年使用社交媒体平台，旨在保护未成年人免受网络欺凌、隐私泄露及成瘾风险。此举引发科技公司与自由倡导者的激烈争论。",
-    "category": "industry"
-  },
-  {
-    "id": "1632fa40e26ba00215a704889e616858",
-    "title_en": "The AI layoff wave is becoming a powder keg",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-    "published_at": "2026-06-15T07:25:41.000Z",
-    "fetched_at": "2026-06-15T11:46:47.514Z",
-    "title_zh": "AI裁员潮正演变为一颗定时炸弹",
-    "summary_zh": "随着AI技术加速替代传统岗位，科技行业裁员潮愈演愈烈，引发员工焦虑与行业动荡。专家警告，若缺乏合理的社会保障与再培训机制，大规模失业可能激化社会矛盾，成为潜在危机。",
-    "category": "industry"
-  },
-  {
-    "id": "0d97eff9cec9513cca6269103613a054",
-    "title_en": "Courts cracking down on error-strewn AI-assisted legal briefs",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/36e64ae772543536",
-    "published_at": "2026-06-15T02:48:56Z",
-    "fetched_at": "2026-06-16T02:50:37.441Z",
-    "title_zh": "法院严厉打击AI辅助法律文件中充斥的错误",
-    "summary_zh": "近期多国法院开始严查AI辅助生成的法律文书，因其中频繁出现虚假引用、逻辑错误等严重问题。法官警告律师必须对提交内容负责，不能依赖AI工具。此举凸显AI在法律领域应用的合规风险，推动行业制定更严格的使用规范与审核机制。",
-    "category": "industry"
-  },
-  {
-    "id": "f04d8d995e8b29e111a23a0b0a543968",
-    "title_en": "What to know about the G7 summit Trump is attending in France",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/what-to-know-about-the-g7-summit-trump-is-attending-in-france/articleshow/131731618.cms",
-    "published_at": "2026-06-15T02:46:55Z",
-    "fetched_at": "2026-06-16T02:50:37.441Z",
-    "title_zh": "特朗普出席法国G7峰会：你需要了解的关键信息",
-    "summary_zh": "特朗普将参加在法国举行的G7峰会，重点讨论全球经济、贸易摩擦、气候变化及地缘安全等议题。此次峰会因特朗普重返国际舞台而备受关注，各方期待其政策立场对多边合作的影响。会议成果可能重塑西方主要经济体间的协调机制。",
-    "category": "industry"
-  },
-  {
-    "id": "05dc56886c6ff6d1efd796885f45ac8b",
-    "title_en": "​ CONMEBOL and a nightmare start to the 2026 World Cup",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/conmebol-and-a-nightmare-start-to-the-2026-world-cup-43009857",
-    "published_at": "2026-06-15T02:46:00Z",
-    "fetched_at": "2026-06-16T02:50:37.441Z",
-    "title_zh": "南美足联与2026世界杯的噩梦开局",
-    "summary_zh": "文章分析南美足联在2026年世界杯预选赛初期遭遇的困境，包括赛程混乱、球队表现不佳及管理问题。随着世界杯扩军至48队，南美区竞争格局变化，传统强队面临新挑战，可能影响该地区在世界杯正赛中的整体表现。",
-    "category": "industry"
-  },
-  {
-    "id": "c3e4311218ad8ec71a9d9b90f6dd4e31",
-    "title_en": "Agentic workflows: A Computer Weekly Downtime Upload podcast",
-    "source": "ComputerWeekly.com",
-    "url": "https://www.computerweekly.com/podcast/Agentic-workflows-A-Computer-Weekly-Downtime-Upload-podcast",
-    "published_at": "2026-06-15T02:45:00Z",
-    "fetched_at": "2026-06-16T02:50:37.441Z",
-    "title_zh": "智能体工作流：Computer Weekly播客深度解析",
-    "summary_zh": "本期Computer Weekly播客聚焦智能体工作流（Agentic Workflows）技术，探讨AI代理如何自主执行复杂任务、协调多步骤流程。专家分析其在企业自动化、客户服务等领域的应用前景，并讨论当前技术瓶颈与安全挑战，为IT决策者提供战略参考。",
-    "category": "research"
-  },
-  {
-    "id": "149a6e16fed171133ff2192dc7c06ba1",
-    "title_en": "Galo face challenge of winning back the Massa after the Cup break",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/galo-face-challenge-of-winning-back-the-massa-after-the-cup-break-43009849",
-    "published_at": "2026-06-15T02:44:00Z",
-    "fetched_at": "2026-06-16T02:50:37.441Z",
-    "title_zh": "杯赛休整后，加洛面临赢回马萨的挑战",
-    "summary_zh": "巴西足球俱乐部加洛在杯赛间歇期后面临艰巨任务：重新赢得球迷“马萨”的支持。球队需在后续比赛中拿出稳定表现，解决战术与士气问题。文章分析俱乐部管理层、教练组及球员如何协同努力，以扭转近期颓势并重建球迷信任。",
     "category": "industry"
   }
 ]
