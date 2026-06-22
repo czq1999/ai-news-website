@@ -2,157 +2,157 @@
   "days": [
     {
       "date": "2026-06-22",
-      "summary_zh": "今日GitHub热门项目聚焦AI视频制作与智能代理工具，涵盖开源视频生产系统、AI语音工作室、网络安全技能框架及设计协作平台，展现AI驱动创作与自动化趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI视频制作、智能代理与安全框架，涵盖开源视频生产系统、AI语音工作室、网络安全技能库及设计协作工具，凸显AI工具链整合与自动化趋势。",
       "projects": [
         {
           "rank": 1,
-          "name": "palmier-io/palmier-pro",
-          "url": "https://github.com/palmier-io/palmier-pro",
-          "description_en": "macOS video editor built for AI",
-          "language": "Swift",
-          "stars_total": 6526,
-          "stars_today": 1834,
-          "description_zh": "为AI打造的macOS视频编辑器"
-        },
-        {
-          "rank": 2,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 140868,
-          "stars_today": 1443,
-          "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
-        },
-        {
-          "rank": 3,
-          "name": "penpot/penpot",
-          "url": "https://github.com/penpot/penpot",
-          "description_en": "Penpot: The open-source design tool for design and code collaboration",
-          "language": "Clojure",
-          "stars_total": 52609,
-          "stars_today": 1135,
-          "description_zh": "Penpot：面向设计与代码协作的开源设计工具"
-        },
-        {
-          "rank": 4,
-          "name": "DeusData/codebase-memory-mcp",
-          "url": "https://github.com/DeusData/codebase-memory-mcp",
-          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-          "language": "C",
-          "stars_total": 10969,
-          "stars_today": 1032,
-          "description_zh": "高性能代码智能MCP服务器。将代码库索引为持久化知识图谱——平均仓库处理时间毫秒级。支持158种语言，查询亚毫秒级响应，减少99%的令牌。单个静态二进制文件，零依赖。"
-        },
-        {
-          "rank": 5,
           "name": "calesthio/OpenMontage",
           "url": "https://github.com/calesthio/OpenMontage",
           "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
           "language": "Python",
-          "stars_total": 10391,
-          "stars_today": 987,
+          "stars_total": 11143,
+          "stars_today": 2935,
           "description_zh": "全球首个开源、智能体驱动的视频制作系统。包含12条流水线、52个工具、500多项智能体技能。将你的AI编程助手转变为完整的视频制作工作室。"
         },
         {
-          "rank": 6,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
-          "language": "TypeScript",
-          "stars_total": 31791,
-          "stars_today": 614,
-          "description_zh": "开源AI语音工作室。克隆、听写、创作。"
+          "rank": 2,
+          "name": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description_en": "macOS video editor built for AI",
+          "language": "Swift",
+          "stars_total": 6909,
+          "stars_today": 2462,
+          "description_zh": "为AI打造的macOS视频编辑器"
         },
         {
-          "rank": 7,
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars_total": 141267,
+          "stars_today": 2051,
+          "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
+        },
+        {
+          "rank": 4,
           "name": "ZhuLinsen/daily_stock_analysis",
           "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
           "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
           "language": "Python",
-          "stars_total": 45397,
-          "stars_today": 568,
+          "stars_total": 45639,
+          "stars_today": 1560,
           "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
         },
         {
-          "rank": 8,
-          "name": "tursodatabase/turso",
-          "url": "https://github.com/tursodatabase/turso",
-          "description_en": "Turso is an in-process SQL database, compatible with SQLite.",
-          "language": "Rust",
-          "stars_total": 21072,
-          "stars_today": 548,
-          "description_zh": "Turso是一个进程内SQL数据库，兼容SQLite。"
+          "rank": 5,
+          "name": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+          "language": "C",
+          "stars_total": 11196,
+          "stars_today": 1186,
+          "description_zh": "高性能代码智能MCP服务器。将代码库索引为持久化知识图谱——平均仓库处理时间毫秒级。支持158种语言，查询亚毫秒级响应，减少99%的令牌。单个静态二进制文件，零依赖。"
         },
         {
-          "rank": 9,
-          "name": "firecrawl/firecrawl",
-          "url": "https://github.com/firecrawl/firecrawl",
-          "description_en": "The API to search, scrape, and interact with the web at scale. 🔥",
-          "language": "TypeScript",
-          "stars_total": 136604,
-          "stars_today": 513,
-          "description_zh": "大规模搜索、抓取和与网页交互的API。🔥"
-        },
-        {
-          "rank": 10,
-          "name": "garrytan/gstack",
-          "url": "https://github.com/garrytan/gstack",
-          "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-          "language": "TypeScript",
-          "stars_total": 112650,
-          "stars_today": 454,
-          "description_zh": "使用Garry Tan的精确Claude Code配置：23个定制化工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA"
-        },
-        {
-          "rank": 11,
-          "name": "lyogavin/airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "description_en": "AirLLM 70B inference with single 4GB GPU",
-          "language": "Jupyter Notebook",
-          "stars_total": 20866,
-          "stars_today": 453,
-          "description_zh": "AirLLM 70B推理，仅需单张4GB GPU"
-        },
-        {
-          "rank": 12,
-          "name": "bytedance/deer-flow",
-          "url": "https://github.com/bytedance/deer-flow",
-          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-          "language": "Python",
-          "stars_total": 72944,
-          "stars_today": 442,
-          "description_zh": "一个开源的长周期SuperAgent框架，能够进行研究、编码和创作。借助沙箱、记忆、工具、技能、子智能体和消息网关，处理从几分钟到几小时不等的各类任务。"
-        },
-        {
-          "rank": 13,
-          "name": "Stirling-Tools/Stirling-PDF",
-          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-          "description_en": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-          "language": "Java",
-          "stars_total": 82358,
-          "stars_today": 394,
-          "description_zh": "GitHub上排名第一的PDF应用程序，可让您在任何设备上随时随地编辑PDF"
-        },
-        {
-          "rank": 14,
-          "name": "heygen-com/hyperframes",
-          "url": "https://github.com/heygen-com/hyperframes",
-          "description_en": "Write HTML. Render video. Built for agents.",
-          "language": "TypeScript",
-          "stars_total": 29623,
-          "stars_today": 369,
-          "description_zh": "编写HTML。渲染视频。专为智能体构建。"
-        },
-        {
-          "rank": 15,
+          "rank": 6,
           "name": "mukul975/Anthropic-Cybersecurity-Skills",
           "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
           "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
           "language": "Python",
-          "stars_total": 18170,
-          "stars_today": 361,
+          "stars_total": 18378,
+          "stars_today": 957,
           "description_zh": "为AI智能体准备的754项结构化网络安全技能·映射至5个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND和NIST AI RMF·遵循agentskills.io标准·兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20多个平台·覆盖26个安全领域·Apache 2.0许可"
+        },
+        {
+          "rank": 7,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars_total": 73073,
+          "stars_today": 736,
+          "description_zh": "一个开源的长周期SuperAgent框架，能够进行研究、编码和创作。借助沙箱、记忆、工具、技能、子智能体和消息网关，处理从几分钟到几小时不等的各类任务。"
+        },
+        {
+          "rank": 8,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description_en": "The API to search, scrape, and interact with the web at scale. 🔥",
+          "language": "TypeScript",
+          "stars_total": 136894,
+          "stars_today": 736,
+          "description_zh": "大规模搜索、抓取和与网页交互的API。🔥"
+        },
+        {
+          "rank": 9,
+          "name": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "description_en": "Penpot: The open-source design tool for design and code collaboration",
+          "language": "Clojure",
+          "stars_total": 52706,
+          "stars_today": 730,
+          "description_zh": "Penpot：面向设计与代码协作的开源设计工具"
+        },
+        {
+          "rank": 10,
+          "name": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "description_en": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+          "language": "TypeScript",
+          "stars_total": 82624,
+          "stars_today": 691,
+          "description_zh": "GitHub上排名第一的PDF应用程序，可让您在任何设备上随时随地编辑PDF"
+        },
+        {
+          "rank": 11,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "language": "TypeScript",
+          "stars_total": 112866,
+          "stars_today": 649,
+          "description_zh": "使用Garry Tan的精确Claude Code配置：23个定制化工具，充当CEO、设计师、工程经理、发布经理、文档工程师和QA"
+        },
+        {
+          "rank": 12,
+          "name": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "description_en": "Turso is an in-process SQL database, compatible with SQLite.",
+          "language": "Rust",
+          "stars_total": 21183,
+          "stars_today": 538,
+          "description_zh": "Turso是一个进程内SQL数据库，兼容SQLite。"
+        },
+        {
+          "rank": 13,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars_total": 31985,
+          "stars_today": 508,
+          "description_zh": "开源AI语音工作室。克隆、听写、创作。"
+        },
+        {
+          "rank": 14,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description_en": "AirLLM 70B inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars_total": 20945,
+          "stars_today": 453,
+          "description_zh": "AirLLM 70B推理，仅需单张4GB GPU"
+        },
+        {
+          "rank": 15,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description_en": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars_total": 29798,
+          "stars_today": 369,
+          "description_zh": "编写HTML。渲染视频。专为智能体构建。"
         },
         {
           "rank": 16,
@@ -160,7 +160,7 @@
           "url": "https://github.com/JCodesMore/ai-website-cloner-template",
           "description_en": "Clone any website with one command using AI coding agents",
           "language": "TypeScript",
-          "stars_total": 17388,
+          "stars_total": 17542,
           "stars_today": 63,
           "description_zh": "使用AI编码代理，一条命令克隆任何网站"
         }
