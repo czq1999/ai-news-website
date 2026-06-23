@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-06-23",
+      "summary_zh": "今日GitHub热门项目聚焦AI视频制作、智能代理与安全工具，涵盖开源视频生产系统、AI语音工作室、网络安全技能框架及设计协作平台等创新。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "language": "Python",
+          "stars_total": 12367,
+          "stars_today": 2938,
+          "description_zh": "全球首个开源智能视频制作系统。包含12条流水线、52个工具、500+智能体技能。将你的AI编程助手转变为完整的视频制作工作室。"
+        },
+        {
+          "rank": 2,
+          "name": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description_en": "macOS video editor built for AI",
+          "language": "Swift",
+          "stars_total": 7490,
+          "stars_today": 2463,
+          "description_zh": "为AI打造的macOS视频编辑器"
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars_total": 141831,
+          "stars_today": 2051,
+          "description_zh": "面向真正工程师的技能集。直接来自我的.claude目录。"
+        },
+        {
+          "rank": 4,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "language": "Python",
+          "stars_total": 45923,
+          "stars_today": 1557,
+          "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
+        },
+        {
+          "rank": 5,
+          "name": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+          "language": "C",
+          "stars_total": 11693,
+          "stars_today": 1185,
+          "description_zh": "高性能代码智能MCP服务器。将代码库索引为持久化知识图谱——平均仓库处理时间毫秒级。支持158种语言，亚毫秒级查询，减少99%的令牌消耗。单一静态二进制文件，零依赖。"
+        },
+        {
+          "rank": 6,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "language": "Python",
+          "stars_total": 18781,
+          "stars_today": 956,
+          "description_zh": "817项面向AI智能体的结构化网络安全技能·映射至6大框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF及MITRE F3（反欺诈）·符合agentskills.io标准·兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20+平台·覆盖29个安全领域·Apache 2.0许可"
+        },
+        {
+          "rank": 7,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars_total": 73323,
+          "stars_today": 738,
+          "description_zh": "开源长周期超级智能体框架，可进行调研、编码和创作。借助沙箱、记忆、工具、技能、子智能体和消息网关，处理从几分钟到数小时的不同级别任务。"
+        },
+        {
+          "rank": 8,
+          "name": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "description_en": "Penpot: The open-source design tool for design and code collaboration",
+          "language": "Clojure",
+          "stars_total": 52910,
+          "stars_today": 728,
+          "description_zh": "Penpot：面向设计与代码协作的开源设计工具"
+        },
+        {
+          "rank": 9,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description_en": "The API to search, scrape, and interact with the web at scale. 🔥",
+          "language": "TypeScript",
+          "stars_total": 137392,
+          "stars_today": 615,
+          "description_zh": "用于大规模搜索、抓取和与网页交互的API。🔥"
+        },
+        {
+          "rank": 10,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "language": "TypeScript",
+          "stars_total": 113219,
+          "stars_today": 573,
+          "description_zh": "使用Garry Tan的精确Claude Code配置：23个定制化工具，分别扮演CEO、设计师、工程经理、发布经理、文档工程师和QA角色"
+        },
+        {
+          "rank": 11,
+          "name": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "description_en": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+          "language": "TypeScript",
+          "stars_total": 83023,
+          "stars_today": 547,
+          "description_zh": "GitHub上排名第一的PDF应用，让你在任何设备上随时随地编辑PDF"
+        },
+        {
+          "rank": 12,
+          "name": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "description_en": "Turso is an in-process SQL database, compatible with SQLite.",
+          "language": "Rust",
+          "stars_total": 21525,
+          "stars_today": 540,
+          "description_zh": "Turso是一款进程内SQL数据库，兼容SQLite。"
+        },
+        {
+          "rank": 13,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars_total": 32338,
+          "stars_today": 529,
+          "description_zh": "开源AI语音工作室。克隆、听写、创作。"
+        },
+        {
+          "rank": 14,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description_en": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars_total": 30071,
+          "stars_today": 395,
+          "description_zh": "编写HTML，渲染视频。专为智能体构建。"
+        },
+        {
+          "rank": 15,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description_en": "AirLLM 70B inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars_total": 21083,
+          "stars_today": 193,
+          "description_zh": "AirLLM：单块4GB GPU上运行70B参数模型推理"
+        },
+        {
+          "rank": 16,
+          "name": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description_en": "Clone any website with one command using AI coding agents",
+          "language": "TypeScript",
+          "stars_total": 17823,
+          "stars_today": 100,
+          "description_zh": "使用AI编程代理，一条命令即可克隆任何网站"
+        }
+      ]
+    },
+    {
       "date": "2026-06-22",
       "summary_zh": "今日GitHub热门项目聚焦AI视频制作与智能代理工具，涵盖开源视频生产系统、AI语音工作室、网络安全技能框架及设计协作平台，突出AI驱动的创作与自动化能力。",
       "projects": [
@@ -4801,172 +4967,6 @@
           "stars_total": 39645,
           "stars_today": 32,
           "description_zh": "💖🧸 自托管、你拥有的Grok伴侣，一个容纳虚拟灵魂的容器，将赛博生命带入现实世界，旨在达到Neuro-sama的高度。支持实时语音聊天、Minecraft及Factorio游戏。兼容Web/macOS/Windows。"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-24",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程工具生态：知识图谱可视化代码、Claude插件与代理平台、金融领域基础模型，以及开源免费使用Claude Code的解决方案。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Lum1104/Understand-Anything",
-          "url": "https://github.com/Lum1104/Understand-Anything",
-          "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-          "language": "TypeScript",
-          "stars_total": 25092,
-          "stars_today": 3987,
-          "description_zh": "以教学为目的的图谱，而非仅追求视觉震撼。将任意代码转化为可交互的知识图谱，支持探索、搜索与提问。兼容 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等工具。"
-        },
-        {
-          "rank": 2,
-          "name": "colbymchenry/codegraph",
-          "url": "https://github.com/colbymchenry/codegraph",
-          "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-          "language": "TypeScript",
-          "stars_total": 21660,
-          "stars_today": 2993,
-          "description_zh": "为 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent 提供的预索引代码知识图谱——更少的 Token、更少的工具调用、100% 本地运行。"
-        },
-        {
-          "rank": 3,
-          "name": "multica-ai/andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "language": "",
-          "stars_total": 151737,
-          "stars_today": 2555,
-          "description_zh": "基于 Andrej Karpathy 对 LLM 编码陷阱的观察，通过单个 CLAUDE.md 文件改进 Claude Code 行为。"
-        },
-        {
-          "rank": 4,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 15486,
-          "stars_today": 1836,
-          "description_zh": "学习它。构建它。交付给他人。"
-        },
-        {
-          "rank": 5,
-          "name": "anthropics/claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-          "language": "Python",
-          "stars_total": 27159,
-          "stars_today": 1179,
-          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
-        },
-        {
-          "rank": 6,
-          "name": "mukul975/Anthropic-Cybersecurity-Skills",
-          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-          "description_en": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-          "language": "Python",
-          "stars_total": 8128,
-          "stars_today": 934,
-          "description_zh": "754 项面向 AI 智能体的结构化网络安全技能 · 映射至 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · 采用 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 覆盖 26 个安全领域 · Apache 2.0 许可。"
-        },
-        {
-          "rank": 7,
-          "name": "manaflow-ai/cmux",
-          "url": "https://github.com/manaflow-ai/cmux",
-          "description_en": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-          "language": "Swift",
-          "stars_total": 18912,
-          "stars_today": 634,
-          "description_zh": "基于 Ghostty 的 macOS 终端，为 AI 编码智能体提供垂直标签页和通知功能。"
-        },
-        {
-          "rank": 8,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 504163,
-          "stars_today": 590,
-          "description_zh": "通过从零开始重建你喜爱的技术来掌握编程。"
-        },
-        {
-          "rank": 9,
-          "name": "multica-ai/multica",
-          "url": "https://github.com/multica-ai/multica",
-          "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-          "language": "TypeScript",
-          "stars_total": 32377,
-          "stars_today": 584,
-          "description_zh": "开源托管智能体平台。将编码智能体转变为真正的团队成员——分配任务、跟踪进度、复合技能。"
-        },
-        {
-          "rank": 10,
-          "name": "Alishahryar1/free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "description_en": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
-          "language": "Python",
-          "stars_total": 29036,
-          "stars_today": 557,
-          "description_zh": "在终端、VSCode 扩展或 Discord 中免费使用 claude-code（类似 OpenClaw，支持语音）。"
-        },
-        {
-          "rank": 11,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 13804,
-          "stars_today": 486,
-          "description_zh": "面向知识工作者的开源插件库，主要用于在 Claude Cowork 中使用。"
-        },
-        {
-          "rank": 12,
-          "name": "earendil-works/pi",
-          "url": "https://github.com/earendil-works/pi",
-          "description_en": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-          "language": "TypeScript",
-          "stars_total": 53818,
-          "stars_today": 444,
-          "description_zh": "AI 智能体工具包：编码智能体 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM Pods。"
-        },
-        {
-          "rank": 13,
-          "name": "blakeblackshear/frigate",
-          "url": "https://github.com/blakeblackshear/frigate",
-          "description_en": "NVR with realtime local object detection for IP cameras",
-          "language": "TypeScript",
-          "stars_total": 32771,
-          "stars_today": 226,
-          "description_zh": "为 IP 摄像头提供实时本地物体检测的网络录像机（NVR）。"
-        },
-        {
-          "rank": 14,
-          "name": "dotnet/skills",
-          "url": "https://github.com/dotnet/skills",
-          "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
-          "language": "C#",
-          "stars_total": 2914,
-          "stars_today": 181,
-          "description_zh": "用于辅助 AI 编码智能体处理 .NET 和 C# 的技能库。"
-        },
-        {
-          "rank": 15,
-          "name": "666ghj/MiroFish",
-          "url": "https://github.com/666ghj/MiroFish",
-          "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-          "language": "Python",
-          "stars_total": 62055,
-          "stars_today": 179,
-          "description_zh": "简洁通用的群体智能引擎，预测万物。A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
-        },
-        {
-          "rank": 16,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 25748,
-          "stars_today": 96,
-          "description_zh": "Kronos：金融市场语言的基础模型。"
         }
       ]
     }

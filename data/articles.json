@@ -1,5 +1,82 @@
 [
   {
+    "id": "1a7c61e4e79608e7ac1a4793fd7753a8",
+    "title_en": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "published_at": "2026-06-23T01:27:55.000Z",
+    "fetched_at": "2026-06-23T02:25:54.199Z",
+    "title_zh": "2026年科技巨头裁员清单：AI成为裁员主因",
+    "summary_zh": "2026年，多家科技巨头以AI技术替代人力为由进行大规模裁员。本文汇总了主要公司的裁员动态，揭示AI对就业市场的冲击。分析指出，企业利用AI优化效率的同时，也引发了关于员工权益和行业转型的广泛讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "8175bda2f4db233fd0f4514c34244a32",
+    "title_en": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "published_at": "2026-06-23T00:11:31.000Z",
+    "fetched_at": "2026-06-23T02:25:54.199Z",
+    "title_zh": "OpenAI启动新计划：助力发现并修复开源软件漏洞",
+    "summary_zh": "OpenAI宣布一项新举措，旨在利用AI技术帮助开源社区发现和修补安全漏洞。该计划将提供工具和资源，提升开源项目的安全性。此举被视为AI在网络安全领域的重要应用，有望降低开源软件被攻击的风险。",
+    "category": "product"
+  },
+  {
+    "id": "9a78d8672dc2ec204b1a1fd593125c3a",
+    "title_en": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "published_at": "2026-06-22T23:24:32.000Z",
+    "fetched_at": "2026-06-23T02:25:54.398Z",
+    "title_zh": "英伟达：AI数据中心设计运行温度更高，但用水量大幅减少",
+    "summary_zh": "英伟达公布其新型AI数据中心设计，通过提高运行温度来显著降低冷却用水量。该方案在保证算力性能的同时，实现了更环保的运营。此举响应了全球对数据中心能耗和可持续性的关注，可能引领行业新标准。",
+    "category": "product"
+  },
+  {
+    "id": "4ef33f0e8b9dff822db6844d1515e1a7",
+    "title_en": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
+    "published_at": "2026-06-22T22:15:10.000Z",
+    "fetched_at": "2026-06-23T02:25:54.600Z",
+    "title_zh": "太空中神秘重复无线电信号的来源已被确定",
+    "summary_zh": "天文学家终于锁定了一类被称为快速射电暴的神秘重复信号的具体来源。通过多波段观测和定位分析，研究团队确认该信号来自一个特定的星系环境。这一发现为理解宇宙极端物理现象提供了关键线索，有望揭开快速射电暴的起源之谜。",
+    "category": "research"
+  },
+  {
+    "id": "adcecccab85c9186375660fbc712d875",
+    "title_en": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+    "published_at": "2026-06-22T21:08:09.000Z",
+    "fetched_at": "2026-06-23T02:25:54.600Z",
+    "title_zh": "Meta因内部数据泄露暂停员工追踪项目",
+    "summary_zh": "在发生内部数据泄露事件后，Meta公司宣布暂停其员工追踪计划。该计划原本旨在监控员工的工作效率和活动，但数据泄露引发了严重的隐私担忧。此举表明科技巨头在平衡内部管理与员工隐私方面面临严峻挑战，也凸显了数据安全的重要性。",
+    "category": "industry"
+  },
+  {
+    "id": "cd23a1d1ac334022c75b178f87b5f406",
+    "title_en": "Valve describes just how brutal RAM negotiations are in 2026",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+    "published_at": "2026-06-22T21:07:14.000Z",
+    "fetched_at": "2026-06-23T02:25:54.398Z",
+    "title_zh": "Valve透露2026年内存谈判异常艰难",
+    "summary_zh": "Valve公司公开表示，2026年内存（RAM）采购谈判面临前所未有的挑战。受全球供应链波动和AI需求激增影响，内存价格和供应量极不稳定。这直接影响了游戏硬件和Steam Deck等产品的成本与产能规划。",
+    "category": "industry"
+  },
+  {
+    "id": "97da985f3d67c9c3935748cea52135e6",
+    "title_en": "The AI world is getting ‘loopy’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "published_at": "2026-06-22T20:53:11.000Z",
+    "fetched_at": "2026-06-23T02:25:54.199Z",
+    "title_zh": "AI世界正变得“疯狂”",
+    "summary_zh": "文章探讨了AI领域近期出现的各种“疯狂”现象，包括模型失控、生成内容不可预测以及行业竞争白热化。作者认为，这种“疯狂”背后是技术快速迭代与监管滞后的矛盾，提醒业界需警惕潜在风险，同时拥抱创新。",
+    "category": "llm"
+  },
+  {
     "id": "1b1bcca3d93efb014a6324e8afc9bf82",
     "title_en": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
     "source": "Wired",
@@ -449,6 +526,116 @@
     "title_zh": "Squarespace 六月促销：全场20%折扣",
     "summary_zh": "Squarespace 在六月推出20%折扣促销码，适用于所有网站搭建和托管套餐。新用户可在注册时输入优惠码享受首年或首月折扣。该平台以拖拽式建站工具和精美模板著称，此次促销旨在吸引个人创作者和小型企业用户，降低建站门槛。",
     "category": "product"
+  },
+  {
+    "id": "08e8e1005f4a48db7792af85c7378271",
+    "title_en": "Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/e80190feb2b7d102",
+    "published_at": "2026-06-22T02:19:08Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "苹果供应商领益智造拟赴港IPO募资11亿美元，用于AI与机器人研发",
+    "summary_zh": "苹果核心供应商领益智造计划通过香港IPO募集约11亿美元资金。公司表示，这笔资金将主要用于人工智能和机器人技术的研发投入，以提升智能制造能力并拓展新业务。此举反映了消费电子供应链企业向高科技领域转型的迫切需求。",
+    "category": "industry"
+  },
+  {
+    "id": "92893f39b966fc7cf68e3e9d011bb4ac",
+    "title_en": "Huawei expands Vietnam footprint through energy, AI, and 5G partnerships",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260622VL200/huawei-5g-industrial-infrastructure-digital-transformation.html",
+    "published_at": "2026-06-22T02:05:37Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "华为通过能源、AI和5G合作扩大在越南的业务版图",
+    "summary_zh": "华为正加速在越南的布局，通过与当地企业在能源、人工智能和5G网络领域建立合作伙伴关系，拓展其业务范围。此举旨在抓住东南亚数字化转型的机遇，同时应对全球供应链调整带来的挑战。华为计划为越南提供更智能的ICT基础设施解决方案。",
+    "category": "industry"
+  },
+  {
+    "id": "418205b0c07f42dce6382c1560379b73",
+    "title_en": "Optro Accelerates Global Growth with Singapore Hub, Delivering Agentic GRC to APAC Enterprises",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/optro-accelerates-global-growth-with-singapore-hub-delivering-agentic-grc-to-apac-enterprises-302805743.html",
+    "published_at": "2026-06-22T02:00:00Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "Optro在新加坡设立枢纽加速全球增长，为亚太企业提供智能GRC服务",
+    "summary_zh": "治理、风险与合规（GRC）解决方案提供商Optro宣布在新加坡设立全球枢纽，以加速其在亚太地区的扩张。该公司将推出基于AI代理的“Agentic GRC”平台，帮助企业自动化合规流程、风险监控和治理报告。此举旨在满足亚太企业日益增长的智能化合规管理需求。",
+    "category": "product"
+  },
+  {
+    "id": "7fa4fe1f0ff42a718eddc932076d4045",
+    "title_en": "Optro Accelerates Global Growth with Singapore Hub, Delivering Agentic GRC to APAC Enterprises",
+    "source": "PR Newswire UK",
+    "url": "https://www.prnewswire.co.uk/news-releases/optro-accelerates-global-growth-with-singapore-hub-delivering-agentic-grc-to-apac-enterprises-302805748.html",
+    "published_at": "2026-06-22T02:00:00Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "Optro在新加坡设立枢纽加速全球增长，为亚太企业提供智能GRC服务",
+    "summary_zh": "治理、风险与合规（GRC）解决方案提供商Optro宣布在新加坡设立全球枢纽，以加速其在亚太地区的扩张。该公司将推出基于AI代理的“Agentic GRC”平台，帮助企业自动化合规流程、风险监控和治理报告。此举旨在满足亚太企业日益增长的智能化合规管理需求。",
+    "category": "product"
+  },
+  {
+    "id": "48b30fc868495eef3dad92b96ff6f575",
+    "title_en": "Byju's Aakash endgame; Startup deal street wakes up",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/byjus-aakash-endgame-startup-deal-street-wakes-up/articleshow/131899694.cms",
+    "published_at": "2026-06-22T01:54:23Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "Byju's旗下Aakash结局未定；印度创业交易市场复苏",
+    "summary_zh": "印度教育科技巨头Byju's旗下的线下辅导品牌Aakash Institute的未来走向仍不明朗，面临出售或重组的可能。与此同时，印度创业公司的投融资活动开始回暖，多笔交易正在推进。市场观察人士认为，这标志着经历长期寒冬后，印度创业生态正在逐步复苏。",
+    "category": "industry"
+  },
+  {
+    "id": "69e4ca0762b71172642f23faeeb16b46",
+    "title_en": "Check out the youth players Eduardo Domínguez uses most at Galo",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/check-out-the-youth-players-eduardo-dominguez-uses-most-at-galo-43040642",
+    "published_at": "2026-06-22T01:43:00Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "爱德华多·多明格斯在加洛最常使用的年轻球员一览",
+    "summary_zh": "本文盘点了爱德华多·多明格斯在加洛队中最常启用的年轻球员。这些新星在教练的战术体系中扮演关键角色，展现了球队青训成果与未来潜力。对于关注巴西足球青训和战术布局的球迷而言，这份名单揭示了球队的用人偏好与长期规划。",
+    "category": "industry"
+  },
+  {
+    "id": "8747abfafa2e0f77006f00950f495b27",
+    "title_en": "WiseTech shares crash 12% as founder scandal deepens",
+    "source": "Motley Fool Australia",
+    "url": "https://www.fool.com.au/2026/06/22/wisetech-shares-crash-12-as-founder-scandal-deepens/",
+    "published_at": "2026-06-22T01:40:32Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "创始人丑闻持续发酵，WiseTech股价暴跌12%",
+    "summary_zh": "因创始人丑闻不断升级，物流科技公司WiseTech股价单日暴跌12%。市场对管理层信任危机反应剧烈，投资者担忧事件可能影响公司运营与战略方向。此次暴跌凸显科技公司治理风险对股价的冲击，后续发展值得密切关注。",
+    "category": "industry"
+  },
+  {
+    "id": "fa2509c9e457a953611bd5567e62dc2f",
+    "title_en": " Santos' most-used substitutes this season",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/santos-most-used-substitutes-this-season-43040636",
+    "published_at": "2026-06-22T01:35:00Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "桑托斯本赛季最常使用的替补球员盘点",
+    "summary_zh": "本文分析了桑托斯队本赛季最常被换上的替补球员。这些球员在关键时刻登场，为球队提供战术变化与体能支持。通过数据统计，揭示了教练的换人偏好与替补席深度，对理解球队赛季表现和轮换策略具有参考价值。",
+    "category": "industry"
+  },
+  {
+    "id": "7fbaff75a3ac4dff3b8fbdd98e1b29ad",
+    "title_en": "Michael Burry sees a $3 trillion problem with SpaceX",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/a418304b3595d0c8",
+    "published_at": "2026-06-22T01:33:34Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "迈克尔·伯里警告：SpaceX面临3万亿美元隐患",
+    "summary_zh": "知名投资者迈克尔·伯里指出，SpaceX可能面临高达3万亿美元的潜在问题。这一惊人数字引发市场对太空探索公司估值与风险的重新审视。伯里的警告聚焦于行业泡沫与长期可持续性，为科技投资领域敲响警钟。",
+    "category": "industry"
+  },
+  {
+    "id": "04a5aba9f1c0cfc83191f81e7c45fd2b",
+    "title_en": "Still without a first choice, Vasco seek agreement on Renato replacement",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/still-without-a-first-choice-vasco-seek-agreement-on-renato-replacement-43040624",
+    "published_at": "2026-06-22T01:27:00Z",
+    "fetched_at": "2026-06-23T02:25:54.920Z",
+    "title_zh": "瓦斯科仍未确定首发人选，寻求与雷纳托替代者达成协议",
+    "summary_zh": "瓦斯科队目前尚未确定首发阵容，正积极寻求与雷纳托的替代者达成协议。球队在转会市场上加紧运作，以填补关键位置空缺。这一动态反映了俱乐部在赛季中的调整策略，对球迷和关注巴西足球转会市场的人士具有参考意义。",
+    "category": "industry"
   },
   {
     "id": "070eb4f2170b390545aa68edf60fefe3",
@@ -5311,192 +5498,5 @@
     "title_zh": "2026年最佳扫地机器人推荐：Shark与Eufy谁更胜一筹",
     "summary_zh": "评测机构发布了2026年度最佳扫地机器人榜单，Shark和Eufy两大品牌的多款机型上榜。文章详细对比了它们的吸力、导航能力、避障性能以及自清洁基站功能。随着AI算法和激光雷达技术的普及，新一代扫地机器人已能更智能地规划清扫路径，真正实现“解放双手”。",
     "category": "product"
-  },
-  {
-    "id": "93b641ef884a2018c3b30f0c31d9b21d",
-    "title_en": "Nothing&#8217;s Ear (a), our favorite budget earbuds, are cheaper than ever ahead of Prime Day",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale",
-    "published_at": "2026-06-16T16:10:27.000Z",
-    "fetched_at": "2026-06-16T16:25:38.769Z",
-    "title_zh": "Nothing Ear (a)耳机Prime Day前降价，性价比再创新高",
-    "summary_zh": "Nothing Ear (a)无线耳机在Prime Day前夕迎来历史低价，这款备受好评的入门级降噪耳机以透明设计和出色音质著称。降价后其性价比更加突出，适合预算有限但追求品质的用户。Prime Day期间预计还将有更多优惠。",
-    "category": "product"
-  },
-  {
-    "id": "283b1da654b7a23d691022836795dd48",
-    "title_en": "SpaceX is public: Everything you need to know post-IPO",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "published_at": "2026-06-16T15:53:12.000Z",
-    "fetched_at": "2026-06-16T16:25:38.703Z",
-    "title_zh": "SpaceX上市：IPO后你需要知道的一切",
-    "summary_zh": "SpaceX正式上市，成为全球关注的焦点。本文全面解析其IPO后的市场表现、估值变化及未来战略。作为商业航天领域的领头羊，SpaceX的上市不仅标志着私人航天公司的里程碑，也对整个太空经济产生深远影响。投资者需关注其星链业务、火星计划及政府合同等核心增长点。",
-    "category": "industry"
-  },
-  {
-    "id": "f4be2232834f1c8c51a0c976a99ab9a2",
-    "title_en": "We now know how DJI’s dual camera Osmo Pocket 4P compares to Insta360’s",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/950591/dji-osmo-pocket-4p-dual-gimbal-camera-baby-steadicam-4k-tracking",
-    "published_at": "2026-06-16T15:25:26.000Z",
-    "fetched_at": "2026-06-16T16:25:38.769Z",
-    "title_zh": "大疆Osmo Pocket 4P双摄与Insta360对比评测出炉",
-    "summary_zh": "大疆最新Osmo Pocket 4P手持云台相机采用双摄像头设计，本文将其与Insta360同类产品进行详细对比。评测涵盖画质、防抖、便携性和创意功能等方面。Osmo Pocket 4P在低光拍摄和稳定性上表现优异，而Insta360则在全景和后期编辑上更具优势。",
-    "category": "product"
-  },
-  {
-    "id": "c28eb18caefc86243d685837d2458ede",
-    "title_en": "Around the World, These Building Solutions Keep Things Local",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/building-solutions-around-the-world/",
-    "published_at": "2026-06-16T15:25:06.000Z",
-    "fetched_at": "2026-06-16T16:25:38.917Z",
-    "title_zh": "全球各地：这些建筑方案如何坚持本地化",
-    "summary_zh": "本文探讨了全球多个地区采用本地材料、传统工艺和社区参与的建筑解决方案，以应对全球化带来的同质化问题。这些项目不仅降低了碳足迹，还保留了文化特色，为可持续建筑提供了新思路，强调“在地性”在当代设计中的价值。",
-    "category": "product"
-  },
-  {
-    "id": "ceaabfaef43648fde999b9eb6e0c0810",
-    "title_en": "Verizon Simplicity, Verizon Shine, and Verizon Dollars: What You Need to Know",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/verizon-simplicity-plan/",
-    "published_at": "2026-06-16T15:06:22.000Z",
-    "fetched_at": "2026-06-16T16:25:38.917Z",
-    "title_zh": "Verizon Simplicity、Shine和Dollars计划：你需要知道的一切",
-    "summary_zh": "Verizon推出三款全新套餐：Simplicity主打简洁低价，Shine面向年轻用户提供数据优惠，Dollars则结合返现奖励。这些计划旨在吸引不同细分市场，简化资费结构并提升用户忠诚度。文章详细解析了各套餐的资费、权益及适用人群。",
-    "category": "product"
-  },
-  {
-    "id": "5d2fd9a6e9501cb8fe1b480704e6d508",
-    "title_en": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-    "published_at": "2026-06-16T15:05:03.000Z",
-    "fetched_at": "2026-06-16T16:25:38.704Z",
-    "title_zh": "美国司法部指控xAI未经许可使用燃气轮机，事关国家、经济和能源安全",
-    "summary_zh": "美国司法部对xAI提出指控，称其未经许可安装并使用燃气轮机，认为此举威胁国家安全、经济稳定和能源供应。该案件凸显了AI算力基础设施与能源监管之间的冲突，可能对xAI的数据中心运营及扩张计划造成重大影响，引发业界对AI能耗与合规性的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "5adde6755bcbe7d412c46a3513e52431",
-    "title_en": "In Praise of a Dumb House",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/in-praise-of-a-dumb-house/",
-    "published_at": "2026-06-16T15:03:35.000Z",
-    "fetched_at": "2026-06-16T16:25:38.917Z",
-    "title_zh": "赞美“笨房子”：不智能反而更好",
-    "summary_zh": "作者反思智能家居的过度复杂化，倡导回归简单、低技术的“笨房子”理念。通过减少联网设备和自动化依赖，人们能获得更宁静、低维护的生活空间。文章认为，在追求智能的同时，不应忽视居住的舒适与人性化本质。",
-    "category": "product"
-  },
-  {
-    "id": "8d5ffa284cd76a737be3351024fd0577",
-    "title_en": "The Cybercab is the lightest, most efficient Tesla ever made",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa",
-    "published_at": "2026-06-16T15:02:39.000Z",
-    "fetched_at": "2026-06-16T16:25:38.769Z",
-    "title_zh": "特斯拉Cybercab：史上最轻、最高效的特斯拉",
-    "summary_zh": "特斯拉发布Cybercab自动驾驶出租车，宣称其为史上最轻、能效最高的车型。该车采用全新平台和轻量化材料，旨在最大化续航和运营效率。Cybercab的推出标志着特斯拉在共享出行和自动驾驶领域的战略布局进入新阶段。",
-    "category": "product"
-  },
-  {
-    "id": "5d2d310252518e767568fc178806cbd7",
-    "title_en": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "published_at": "2026-06-16T15:00:00.000Z",
-    "fetched_at": "2026-06-16T16:25:38.704Z",
-    "title_zh": "Plaud软件业务年经常性收入突破1亿美元，AI记事本出货量超200万",
-    "summary_zh": "AI记事本公司Plaud宣布其软件业务年经常性收入（ARR）突破1亿美元，同时AI记事本设备累计出货量超过200万台。这一里程碑表明AI硬件与软件结合的模式正获得市场认可，Plaud在智能语音记录和转录领域的领先地位进一步巩固。",
-    "category": "product"
-  },
-  {
-    "id": "07d5b3225c78d9ff4788c38472de8acd",
-    "title_en": "Pour one out for Roku City",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/streaming/950644/fox-roku-acquisition-lachlan-murdoch-fox-news-consolidation",
-    "published_at": "2026-06-16T14:55:20.000Z",
-    "fetched_at": "2026-06-16T16:25:38.769Z",
-    "title_zh": "告别Roku City：经典屏保即将成为历史",
-    "summary_zh": "Roku宣布将移除其标志性的Roku City屏保动画，引发用户怀旧。这款充满细节的像素风城市景观曾是无数用户的童年记忆。Roku表示将推出全新动态屏保，但具体细节尚未公布。这一变化标志着流媒体设备界面设计的又一次迭代。",
-    "category": "product"
-  },
-  {
-    "id": "6492fc4fb8e28c8f2967272fb4adc912",
-    "title_en": "10 Designers Share the Trends Defining Dwellings of Tomorrow",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/10-designers-share-the-trends-defining-the-homes-of-tomorrow/",
-    "published_at": "2026-06-16T14:52:34.000Z",
-    "fetched_at": "2026-06-16T16:25:38.917Z",
-    "title_zh": "10位设计师分享定义未来住宅的设计趋势",
-    "summary_zh": "十位顶尖设计师共同展望未来住宅趋势，包括模块化空间、生物材料应用、智能与自然融合、以及适应气候变化的弹性设计。这些趋势强调可持续性、灵活性和居住者健康，预示了未来十年住宅设计的主要方向。",
-    "category": "product"
-  },
-  {
-    "id": "3506cdff21ffce3eaf8d0a0e654bbc7e",
-    "title_en": "US single-family housing starts hit eight-month low; import prices rise above expectations",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/real-estate/articles/us-single-family-housing-starts-130631825.html",
-    "published_at": "2026-06-16T14:50:29Z",
-    "fetched_at": "2026-06-17T14:52:28.650Z",
-    "title_zh": "美国独栋住宅开工量创八个月新低，进口价格涨幅超预期",
-    "summary_zh": "最新经济数据显示，美国独栋住宅开工量降至八个月最低点，反映高利率和建筑成本对房地产市场的压制。同时，进口价格涨幅超出预期，可能加剧通胀压力。这一组合数据令市场担忧经济放缓与物价上涨并存的滞胀风险。分析师预计美联储将维持谨慎政策，短期内降息可能性降低。",
-    "category": "industry"
-  },
-  {
-    "id": "218841061d50ae443a66251b0e6748a7",
-    "title_en": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "published_at": "2026-06-16T14:50:09.000Z",
-    "fetched_at": "2026-06-16T16:25:38.704Z",
-    "title_zh": "Robinhood裁员10%声明：将责任推给AI并非明智之举",
-    "summary_zh": "Robinhood宣布裁员10%，但其将裁员归咎于AI的说法遭到质疑。分析指出，公司业绩下滑和战略调整才是主因，AI自动化只是借口。这一事件提醒科技公司，在裁员沟通中应更透明，避免滥用技术叙事掩盖真实经营问题。",
-    "category": "industry"
-  },
-  {
-    "id": "dee75c01f704b5abe413d0057d7aebc2",
-    "title_en": "SpaceX  Launches Start of Acquisition Spree with Cursor After Historic IPO",
-    "source": "24/7 Wall St.",
-    "url": "https://247wallst.com/investing/2026/06/16/spacex-launches-start-of-acquisition-spree-with-cursor-after-historic-ipo/",
-    "published_at": "2026-06-16T14:46:50Z",
-    "fetched_at": "2026-06-17T14:52:28.650Z",
-    "title_zh": "SpaceX在历史性IPO后启动收购狂潮，首站瞄准Cursor",
-    "summary_zh": "SpaceX在完成历史性首次公开募股（IPO）后，迅速启动大规模收购战略，首个目标锁定AI编程工具Cursor。此举标志着SpaceX正从航天巨头向多元化科技集团转型，意图通过整合前沿AI技术巩固其市场地位。分析人士认为，这一收购策略将加速SpaceX在软件和人工智能领域的布局，但高额收购成本也带来财务风险。",
-    "category": "industry"
-  },
-  {
-    "id": "89768b4aa49619677ec769e8550b5165",
-    "title_en": "JP Morgan, Freehill Capital Partners Form Industrial Acquisition Joint Venture",
-    "source": "Commercial Observer",
-    "url": "http://commercialobserver.com/2026/06/jp-morgan-freehill-capital-partners-industrial-joint-venture/",
-    "published_at": "2026-06-16T14:43:54Z",
-    "fetched_at": "2026-06-17T14:52:28.650Z",
-    "title_zh": "摩根大通与Freehill Capital Partners成立工业收购合资企业",
-    "summary_zh": "摩根大通与Freehill Capital Partners联合宣布成立一家专注于工业领域的收购合资企业。该合资企业旨在利用双方在资本运作和产业洞察方面的优势，寻找并整合具有增长潜力的工业资产。此举反映了金融巨头对实体经济复苏的押注，以及通过并购推动工业升级的战略意图。",
-    "category": "industry"
-  },
-  {
-    "id": "4a34cc938723503644b8071b17e10981",
-    "title_en": "Robinhood layoffs 2026: company cuts 10% of workforce",
-    "source": "Quartz India",
-    "url": "https://qz.com/robinhood-layoffs-workforce-reduction-061626",
-    "published_at": "2026-06-16T14:43:14Z",
-    "fetched_at": "2026-06-17T14:52:28.650Z",
-    "title_zh": "Robinhood 2026年裁员：公司裁减10%员工",
-    "summary_zh": "知名交易平台Robinhood宣布在2026年裁员10%，以应对市场变化和成本压力。此次裁员涉及多个部门，是公司重组计划的一部分。Robinhood表示将聚焦核心业务并优化运营效率，但此举引发市场对其增长前景的担忧。此前Robinhood曾因加密货币热潮而快速扩张，如今面临用户活跃度下降的挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "a2b521a33256d799d73c6f71d27a6a84",
-    "title_en": "Serena Williams And Husband’s Troubling Ties To Donald Trump! (They Support Him)",
-    "source": "Mediatakeout.com",
-    "url": "https://mediatakeout.com/serena-williams-and-husbands-troubling-ties-to-donald-trump-they-support-him/",
-    "published_at": "2026-06-16T14:42:16Z",
-    "fetched_at": "2026-06-17T14:52:28.650Z",
-    "title_zh": "塞雷娜·威廉姆斯夫妇与特朗普的争议性关联曝光",
-    "summary_zh": "网球巨星塞雷娜·威廉姆斯及其丈夫被曝与唐纳德·特朗普存在令人不安的关联，报道称他们支持特朗普。这一消息在体育和政界引发轩然大波，粉丝和公众对威廉姆斯夫妇的政治立场表示质疑。目前双方均未对此作出正式回应，但事件已对威廉姆斯的公众形象造成一定冲击。",
-    "category": "industry"
   }
 ]
