@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-25",
-      "summary_zh": "今日GitHub热门项目聚焦AI视频制作、智能股票分析、容器工具及AI代理应用，涵盖开源视频生产系统、多市场股票分析、Mac容器工具、简历评估代理及网站克隆等创新技术。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理应用：开源视频制作系统、股票智能分析、简历评估、网站克隆、容器工具及设计规范，展现AI代理在创意、金融、开发等领域的全面渗透。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/calesthio/OpenMontage",
           "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
           "language": "Python",
-          "stars_total": 19678,
+          "stars_total": 20796,
           "stars_today": 3719,
           "description_zh": "全球首个开源智能视频制作系统。包含12条流水线、52种工具、500+智能体技能。将你的AI编程助手转变为完整的视频制作工作室。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/apple/container",
           "description_en": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
           "language": "Swift",
-          "stars_total": 42317,
+          "stars_total": 42694,
           "stars_today": 1838,
           "description_zh": "一款在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。采用Swift编写，针对Apple芯片进行了优化。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
           "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
           "language": "Python",
-          "stars_total": 48634,
+          "stars_total": 49135,
           "stars_today": 1468,
           "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 202140,
+          "stars_total": 202500,
           "stars_today": 1178,
           "description_zh": "与你一同成长的智能体。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/JCodesMore/ai-website-cloner-template",
           "description_en": "Clone any website with one command using AI coding agents",
           "language": "TypeScript",
-          "stars_total": 19402,
+          "stars_total": 19751,
           "stars_today": 692,
           "description_zh": "使用AI编程代理，通过一条命令克隆任何网站。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/google-labs-code/design.md",
           "description_en": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
           "language": "TypeScript",
-          "stars_total": 17430,
+          "stars_total": 17792,
           "stars_today": 619,
           "description_zh": "一种用于向编码代理描述视觉标识的格式规范。DESIGN.md为代理提供了对设计系统的持久化、结构化理解。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/stablyai/orca",
           "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
           "language": "TypeScript",
-          "stars_total": 6857,
+          "stars_total": 7094,
           "stars_today": 331,
           "description_zh": "Orca是用于管理并行智能体集群的ADE（智能体开发环境）。使用你自己的订阅运行任何编码智能体。支持桌面端和移动端。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/revfactory/harness",
           "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
           "language": "HTML",
-          "stars_total": 7771,
+          "stars_total": 7883,
           "stars_today": 277,
           "description_zh": "一种元技能，用于设计特定领域的智能体团队、定义专业智能体并生成它们所使用的技能。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/interviewstreet/hiring-agent",
           "description_en": "AI agent to evaluate and score resumes.",
           "language": "Python",
-          "stars_total": 2257,
+          "stars_total": 2529,
           "stars_today": 203,
           "description_zh": "用于评估和筛选简历的AI智能体。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/kunchenguid/no-mistakes",
           "description_en": "git push no-mistakes",
           "language": "Go",
-          "stars_total": 2220,
+          "stars_total": 2573,
           "stars_today": 110,
           "description_zh": "git push 零失误"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/flutter/flutter",
           "description_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
           "language": "Dart",
-          "stars_total": 177370,
+          "stars_total": 177519,
           "stars_today": 73,
           "description_zh": "Flutter让构建适用于移动端及更多平台的精美应用变得简单而快速。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/Flowseal/zapret-discord-youtube",
           "description_en": "",
           "language": "Batchfile",
-          "stars_total": 30032,
+          "stars_total": 30063,
           "stars_today": 61,
           "description_zh": ""
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/andreknieriem/headunit-revived",
           "description_en": "Headunit App for displaying Android Auto",
           "language": "Kotlin",
-          "stars_total": 1436,
+          "stars_total": 1488,
           "stars_today": 41,
           "description_zh": "用于显示Android Auto的车载主机应用。"
         }
