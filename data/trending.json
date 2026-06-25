@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-25",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理应用：开源视频制作系统、股票智能分析、简历评估、网站克隆、容器工具及设计规范，展现AI代理在创意、金融、开发等领域的全面渗透。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理与自动化：设计规范标准化、视频制作系统化、价值投资研究框架、网站克隆、容器工具及网络安全技能库，展现AI从开发到生产的全栈赋能趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,39 +10,39 @@
           "url": "https://github.com/calesthio/OpenMontage",
           "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
           "language": "Python",
-          "stars_total": 20796,
-          "stars_today": 3719,
+          "stars_total": 21453,
+          "stars_today": 3553,
           "description_zh": "全球首个开源智能视频制作系统。包含12条流水线、52种工具、500+智能体技能。将你的AI编程助手转变为完整的视频制作工作室。"
         },
         {
           "rank": 2,
+          "name": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description_en": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "language": "TypeScript",
+          "stars_total": 18311,
+          "stars_today": 1407,
+          "description_zh": "一种用于向编码代理描述视觉标识的格式规范。DESIGN.md为代理提供了对设计系统的持久化、结构化理解。"
+        },
+        {
+          "rank": 3,
           "name": "apple/container",
           "url": "https://github.com/apple/container",
           "description_en": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
           "language": "Swift",
-          "stars_total": 42694,
-          "stars_today": 1838,
+          "stars_total": 42898,
+          "stars_today": 1366,
           "description_zh": "一款在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。采用Swift编写，针对Apple芯片进行了优化。"
         },
         {
-          "rank": 3,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 49135,
-          "stars_today": 1468,
-          "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
-        },
-        {
           "rank": 4,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
           "language": "Python",
-          "stars_total": 202500,
-          "stars_today": 1178,
-          "description_zh": "与你一同成长的智能体。"
+          "stars_total": 20909,
+          "stars_today": 1031,
+          "description_zh": "817项面向AI智能体的结构化网络安全技能 · 映射至6个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF及MITRE F3（反欺诈）· 遵循agentskills.io标准 · 兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20+平台 · 覆盖29个安全领域 · Apache 2.0许可"
         },
         {
           "rank": 5,
@@ -50,89 +50,109 @@
           "url": "https://github.com/JCodesMore/ai-website-cloner-template",
           "description_en": "Clone any website with one command using AI coding agents",
           "language": "TypeScript",
-          "stars_total": 19751,
-          "stars_today": 692,
+          "stars_total": 20017,
+          "stars_today": 1021,
           "description_zh": "使用AI编程代理，通过一条命令克隆任何网站。"
         },
         {
           "rank": 6,
-          "name": "google-labs-code/design.md",
-          "url": "https://github.com/google-labs-code/design.md",
-          "description_en": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
           "language": "TypeScript",
-          "stars_total": 17792,
-          "stars_today": 619,
-          "description_zh": "一种用于向编码代理描述视觉标识的格式规范。DESIGN.md为代理提供了对设计系统的持久化、结构化理解。"
+          "stars_total": 115436,
+          "stars_today": 922,
+          "description_zh": "使用Garry Tan的精确Claude Code配置：23个定制化工具，分别担任CEO、设计师、工程经理、发布经理、文档工程师和QA角色。"
         },
         {
           "rank": 7,
-          "name": "stablyai/orca",
-          "url": "https://github.com/stablyai/orca",
-          "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-          "language": "TypeScript",
-          "stars_total": 7094,
-          "stars_today": 331,
-          "description_zh": "Orca是用于管理并行智能体集群的ADE（智能体开发环境）。使用你自己的订阅运行任何编码智能体。支持桌面端和移动端。"
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description_en": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "language": "HTML",
+          "stars_total": 60221,
+          "stars_today": 670,
+          "description_zh": "从vibe编码到智能体工程——实践让Claude更完美"
         },
         {
           "rank": 8,
-          "name": "revfactory/harness",
-          "url": "https://github.com/revfactory/harness",
-          "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-          "language": "HTML",
-          "stars_total": 7883,
-          "stars_today": 277,
-          "description_zh": "一种元技能，用于设计特定领域的智能体团队、定义专业智能体并生成它们所使用的技能。"
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description_en": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "language": "Python",
+          "stars_total": 69197,
+          "stars_today": 524,
+          "description_zh": "将PDF和Office文档等复杂文件转换为适合LLM的Markdown/JSON格式，用于您的智能体工作流。"
         },
         {
           "rank": 9,
-          "name": "interviewstreet/hiring-agent",
-          "url": "https://github.com/interviewstreet/hiring-agent",
-          "description_en": "AI agent to evaluate and score resumes.",
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
           "language": "Python",
-          "stars_total": 2529,
-          "stars_today": 203,
-          "description_zh": "用于评估和筛选简历的AI智能体。"
+          "stars_total": 52610,
+          "stars_today": 347,
+          "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B站视频 | 评论爬虫、微博帖子 | 评论爬虫、百度贴吧帖子 | 百度贴吧评论回复爬虫 | 知乎问答文章 | 评论爬虫"
         },
         {
           "rank": 10,
-          "name": "kunchenguid/no-mistakes",
-          "url": "https://github.com/kunchenguid/no-mistakes",
-          "description_en": "git push no-mistakes",
-          "language": "Go",
-          "stars_total": 2573,
-          "stars_today": 110,
-          "description_zh": "git push 零失误"
+          "name": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "language": "TypeScript",
+          "stars_total": 19639,
+          "stars_today": 280,
+          "description_zh": "JavaScript页面内GUI智能体。通过自然语言控制网页界面。"
         },
         {
           "rank": 11,
-          "name": "flutter/flutter",
-          "url": "https://github.com/flutter/flutter",
-          "description_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "language": "Dart",
-          "stars_total": 177519,
-          "stars_today": 73,
-          "description_zh": "Flutter让构建适用于移动端及更多平台的精美应用变得简单而快速。"
+          "name": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "description_en": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+          "language": "Go",
+          "stars_total": 34540,
+          "stars_today": 202,
+          "description_zh": "CasaOS - 一个简单、易用、优雅的开源个人云系统。"
         },
         {
           "rank": 12,
-          "name": "Flowseal/zapret-discord-youtube",
-          "url": "https://github.com/Flowseal/zapret-discord-youtube",
-          "description_en": "",
-          "language": "Batchfile",
-          "stars_total": 30063,
-          "stars_today": 61,
-          "description_zh": ""
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description_en": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "language": "Python",
+          "stars_total": 1610,
+          "stars_today": 201,
+          "description_zh": "AI时代的伯克希尔：基于Claude Code的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
         },
         {
           "rank": 13,
-          "name": "andreknieriem/headunit-revived",
-          "url": "https://github.com/andreknieriem/headunit-revived",
-          "description_en": "Headunit App for displaying Android Auto",
-          "language": "Kotlin",
-          "stars_total": 1488,
-          "stars_today": 41,
-          "description_zh": "用于显示Android Auto的车载主机应用。"
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description_en": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars_total": 18095,
+          "stars_today": 141,
+          "description_zh": "免费电视频道的M3U播放列表"
+        },
+        {
+          "rank": 14,
+          "name": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "description_en": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+          "language": "TypeScript",
+          "stars_total": 6259,
+          "stars_today": 112,
+          "description_zh": "一款自托管的旅行/行程规划工具，支持实时协作、交互式地图、PWA支持、单点登录、预算管理、行李清单等功能。"
+        },
+        {
+          "rank": 15,
+          "name": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "description_en": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "language": "Python",
+          "stars_total": 1033,
+          "stars_today": 15,
+          "description_zh": "AWS官方支持的MCP服务器、技能和插件，帮助AI智能体在AWS上构建应用。"
         }
       ]
     },
