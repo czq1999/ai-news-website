@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-27",
-      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI设计规范、自动驾驶、文档解析及价值投资框架，涵盖开发者工具与实用应用。",
+      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI设计规范、自动驾驶、数据可视化及价值投资框架，涵盖开发者工具与实用应用。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/google-labs-code/design.md",
           "description_en": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
           "language": "TypeScript",
-          "stars_total": 21323,
+          "stars_total": 21734,
           "stars_today": 2407,
           "description_zh": "一种用于向编码代理描述视觉标识的格式规范。DESIGN.md为代理提供了对设计系统的持久化、结构化理解。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/calesthio/OpenMontage",
           "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
           "language": "Python",
-          "stars_total": 23691,
+          "stars_total": 24169,
           "stars_today": 1754,
           "description_zh": "全球首个开源的智能体视频制作系统。12条流水线、52个工具、500多项智能体技能。将您的AI编码助手转变为完整的视频制作工作室。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/xbtlin/ai-berkshire",
           "description_en": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
           "language": "Python",
-          "stars_total": 3159,
+          "stars_total": 3350,
           "stars_today": 1274,
           "description_zh": "AI时代的伯克希尔：基于Claude Code的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/Panniantong/Agent-Reach",
           "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
           "language": "Python",
-          "stars_total": 42408,
+          "stars_total": 42798,
           "stars_today": 1194,
           "description_zh": "为您的AI代理赋予观察整个互联网的能力。通过一个命令行界面，无需API费用，即可读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/JCodesMore/ai-website-cloner-template",
           "description_en": "Clone any website with one command using AI coding agents",
           "language": "TypeScript",
-          "stars_total": 21397,
+          "stars_total": 21581,
           "stars_today": 1088,
           "description_zh": "使用AI编码代理，通过一条命令克隆任何网站"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/mauriceboe/TREK",
           "description_en": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
           "language": "TypeScript",
-          "stars_total": 7690,
+          "stars_total": 7862,
           "stars_today": 1060,
           "description_zh": "一款自托管的旅行/行程规划器，支持实时协作、交互式地图、PWA支持、单点登录、预算管理、行李清单等功能。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/opendatalab/MinerU",
           "description_en": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
           "language": "Python",
-          "stars_total": 70459,
+          "stars_total": 70712,
           "stars_today": 960,
           "description_zh": "将PDF、Office文档等复杂文档转换为LLM就绪的markdown/JSON格式，助力您的智能体工作流。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/garrytan/gstack",
           "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
           "language": "TypeScript",
-          "stars_total": 116663,
+          "stars_total": 116811,
           "stars_today": 950,
           "description_zh": "使用Garry Tan的精确Claude Code配置：23个定制化工具，分别担任CEO、设计师、工程经理、发布经理、文档工程师和QA角色"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/NanmiCoder/MediaCrawler",
           "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
           "language": "Python",
-          "stars_total": 53385,
+          "stars_total": 53521,
           "stars_today": 673,
           "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B站视频 | 评论爬虫、微博帖子 | 评论爬虫、百度贴吧帖子 | 百度贴吧评论回复爬虫 | 知乎问答文章 | 评论爬虫"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/IceWhaleTech/CasaOS",
           "description_en": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
           "language": "Go",
-          "stars_total": 35403,
+          "stars_total": 35525,
           "stars_today": 619,
           "description_zh": "CasaOS - 一个简单、易用、优雅的开源个人云系统。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/simplex-chat/simplex-chat",
           "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
           "language": "Haskell",
-          "stars_total": 12647,
+          "stars_total": 12959,
           "stars_today": 432,
           "description_zh": "SimpleX - 首个无需任何用户标识即可运行的通讯网络 - 设计上100%保护隐私！支持iOS、Android和桌面应用📱！"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/kunchenguid/no-mistakes",
           "description_en": "git push no-mistakes",
           "language": "Go",
-          "stars_total": 3453,
+          "stars_total": 3600,
           "stars_today": 398,
           "description_zh": "git push no-mistakes"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/aws/agent-toolkit-for-aws",
           "description_en": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
           "language": "Python",
-          "stars_total": 1367,
+          "stars_total": 1416,
           "stars_today": 243,
           "description_zh": "AWS官方支持的MCP服务器、技能和插件，帮助AI代理在AWS上构建应用"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
           "description_en": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
           "language": "",
-          "stars_total": 9268,
+          "stars_total": 9357,
           "stars_today": 160,
           "description_zh": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/ripienaar/free-for-dev",
           "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
           "language": "HTML",
-          "stars_total": 123759,
+          "stars_total": 123882,
           "stars_today": 90,
           "description_zh": "面向DevOps和基础设施开发者的免费SaaS、PaaS和IaaS服务列表"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/commaai/openpilot",
           "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
           "language": "Python",
-          "stars_total": 61805,
+          "stars_total": 61888,
           "stars_today": 80,
           "description_zh": "openpilot是一个机器人操作系统。目前，它升级了300多款支持车型的驾驶辅助系统。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/grafana/grafana",
           "description_en": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
           "language": "TypeScript",
-          "stars_total": 74926,
+          "stars_total": 75016,
           "stars_today": 32,
           "description_zh": "开放且可组合的可观测性与数据可视化平台。可视化来自Prometheus、Loki、Elasticsearch、InfluxDB、Postgres等多种来源的指标、日志和链路追踪。"
         }
