@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-28",
-      "summary_zh": "今日GitHub热门项目聚焦隐私通讯（SimpleX无标识网络）、AI价值投资框架、开源驾驶辅助系统、个人云系统、开发者免费资源、设计规范、Windows效率工具、AI生成PPT及网站克隆工具。",
+      "summary_zh": "今日GitHub热门项目聚焦隐私通讯（SimpleX无标识网络）、AI投资研究框架、开源驾驶辅助系统、个人云系统、开发者免费资源、AI设计规范、Windows效率工具、AI生成PPT及网站克隆工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/google-labs-code/design.md",
           "description_en": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
           "language": "TypeScript",
-          "stars_total": 22385,
+          "stars_total": 22573,
           "stars_today": 1541,
           "description_zh": "一种用于向编码代理描述视觉标识的格式规范。DESIGN.md 为代理提供对设计系统的持久、结构化理解。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/simplex-chat/simplex-chat",
           "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
           "language": "Haskell",
-          "stars_total": 13905,
+          "stars_total": 14178,
           "stars_today": 1469,
           "description_zh": "SimpleX - 首个无需任何用户标识符即可运行的通讯网络 - 100% 隐私设计！支持 iOS、Android 和桌面应用 📱！"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/topoteretes/cognee",
           "description_en": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
           "language": "Python",
-          "stars_total": 24045,
+          "stars_total": 24269,
           "stars_today": 780,
           "description_zh": "Cognee 是面向代理的开源 AI 记忆平台。通过自托管的知识图谱引擎，为你的 AI 代理提供跨会话的持久长期记忆。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/JCodesMore/ai-website-cloner-template",
           "description_en": "Clone any website with one command using AI coding agents",
           "language": "TypeScript",
-          "stars_total": 22166,
+          "stars_total": 22386,
           "stars_today": 750,
           "description_zh": "使用 AI 编码代理，通过一条命令克隆任何网站。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/xbtlin/ai-berkshire",
           "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
           "language": "Python",
-          "stars_total": 4223,
+          "stars_total": 4708,
           "stars_today": 685,
           "description_zh": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。融合巴菲特、芒格、段永平、李录四位大师方法论，支持多 Agent 并行研究。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/garrytan/gstack",
           "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
           "language": "TypeScript",
-          "stars_total": 117286,
+          "stars_total": 117454,
           "stars_today": 674,
           "description_zh": "使用 Garry Tan 的精确 Claude Code 配置：23 个定制化工具，分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA 角色。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/hugohe3/ppt-master",
           "description_en": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
           "language": "Python",
-          "stars_total": 33133,
+          "stars_total": 33394,
           "stars_today": 589,
           "description_zh": "AI 从任何文档生成真实、可编辑的 PowerPoint — 原生形状与动画、语音旁白形式的演讲者备注，并可选择遵循自己的 .pptx 模板，而非幻灯片图片 · 作者：Hugo He"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/IceWhaleTech/CasaOS",
           "description_en": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
           "language": "Go",
-          "stars_total": 35813,
+          "stars_total": 35913,
           "stars_today": 502,
           "description_zh": "CasaOS - 一个简单、易用、优雅的开源个人云系统。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/ripienaar/free-for-dev",
           "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
           "language": "HTML",
-          "stars_total": 124199,
+          "stars_total": 124296,
           "stars_today": 459,
           "description_zh": "一份包含 SaaS、PaaS 和 IaaS 免费套餐的列表，对 DevOps 和基础设施开发者有用。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/NanmiCoder/MediaCrawler",
           "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
           "language": "Python",
-          "stars_total": 53797,
+          "stars_total": 53903,
           "stars_today": 394,
           "description_zh": "小红书笔记与评论爬虫、抖音视频与评论爬虫、快手视频与评论爬虫、B 站视频与评论爬虫、微博帖子与评论爬虫、百度贴吧帖子与评论回复爬虫、知乎问答文章与评论爬虫。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/anomalyco/opencode",
           "description_en": "The open source coding agent.",
           "language": "TypeScript",
-          "stars_total": 179798,
+          "stars_total": 179965,
           "stars_today": 392,
           "description_zh": "开源编码代理。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/commaai/openpilot",
           "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
           "language": "Python",
-          "stars_total": 62086,
+          "stars_total": 62158,
           "stars_today": 322,
           "description_zh": "openpilot 是一个机器人操作系统。目前，它可升级 300 多款支持车型的驾驶辅助系统。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/Anil-matcha/Open-Generative-AI",
           "description_en": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
           "language": "JavaScript",
-          "stars_total": 21414,
+          "stars_total": 21528,
           "stars_today": 255,
           "description_zh": "无限制的开源 AI 视频平台替代方案 — 免费 AI 图像与视频生成工作室，包含 200+ 模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，采用 MIT 许可证。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/every-app/open-seo",
           "description_en": "Open source alternative to Semrush and Ahrefs",
           "language": "TypeScript",
-          "stars_total": 3443,
+          "stars_total": 3567,
           "stars_today": 239,
           "description_zh": "Semrush 和 Ahrefs 的开源替代方案。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/Fission-AI/OpenSpec",
           "description_en": "Spec-driven development (SDD) for AI coding assistants.",
           "language": "TypeScript",
-          "stars_total": 57159,
+          "stars_total": 57286,
           "stars_today": 177,
           "description_zh": "面向 AI 编码助手的规范驱动开发（SDD）。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/luongnv89/claude-howto",
           "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
           "language": "Python",
-          "stars_total": 38652,
+          "stars_total": 38739,
           "stars_today": 141,
           "description_zh": "一份可视化、示例驱动的 Claude Code 指南 — 从基础概念到高级代理，包含可复制粘贴的模板，立即可用。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 13740,
+          "stars_total": 13877,
           "stars_today": 92,
           "description_zh": "\"Vibe-Trading：你的个人交易代理\""
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/microsoft/PowerToys",
           "description_en": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
           "language": "C",
-          "stars_total": 135722,
+          "stars_total": 135781,
           "stars_today": 57,
           "description_zh": "Microsoft PowerToys 是一套在 Windows 上提升生产力和自定义能力的实用工具集合。"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/keycloak/keycloak",
           "description_en": "Open Source Identity and Access Management For Modern Applications and Services",
           "language": "Java",
-          "stars_total": 35293,
+          "stars_total": 35369,
           "stars_today": 20,
           "description_zh": "面向现代应用和服务的开源身份与访问管理。"
         },
@@ -200,7 +200,7 @@
           "url": "https://github.com/dbt-labs/dbt-core",
           "description_en": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
           "language": "Rust",
-          "stars_total": 13235,
+          "stars_total": 13274,
           "stars_today": 18,
           "description_zh": "dbt 使数据分析师和工程师能够使用软件工程师构建应用程序的相同实践来转换数据。"
         }
