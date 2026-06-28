@@ -1,5 +1,49 @@
 [
   {
+    "id": "c1bb4d1fd40aa1c72d1245858373ef43",
+    "title_en": "China claims the world&#8217;s fastest supercomputer",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+    "published_at": "2026-06-28T17:20:59.000Z",
+    "fetched_at": "2026-06-28T19:03:36.035Z",
+    "title_zh": "中国宣称拥有全球最快超级计算机",
+    "summary_zh": "中国宣布其超级计算机在最新榜单中夺得速度第一，标志着在高性能计算领域的重大突破。该超算采用国产芯片，峰值性能远超国际竞争对手，进一步巩固了中国在科技竞赛中的地位，并可能对气候模拟、药物研发等领域产生深远影响。",
+    "category": "research"
+  },
+  {
+    "id": "8753bb7c3a5e4ddfebddc2e7ea2f7ad8",
+    "title_en": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
+    "published_at": "2026-06-28T16:30:00.000Z",
+    "fetched_at": "2026-06-28T19:03:36.035Z",
+    "title_zh": "《魔方》：吉姆·汉森鲜为人知的早期《黑镜》式杰作",
+    "summary_zh": "本文回顾了吉姆·汉森执导的电视电影《魔方》，称其为一部被遗忘的科技寓言。该片通过一个神秘立方体探讨技术控制与人性，其黑暗讽刺风格与后来的《黑镜》异曲同工，展现了汉森超越木偶戏的先锋创作力。",
+    "category": "industry"
+  },
+  {
+    "id": "07bc3fdb89fb6f24115149e7387af3fd",
+    "title_en": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "published_at": "2026-06-28T15:00:00.000Z",
+    "fetched_at": "2026-06-28T19:03:35.872Z",
+    "title_zh": "华尔街为何认为美国存储巨头美光将成为下一个英伟达",
+    "summary_zh": "华尔街分析师看好美光科技，认为其有望成为下一个英伟达。随着AI对高带宽内存（HBM）需求激增，美光作为少数能生产HBM的厂商，正迎来业绩爆发。其股价已大幅上涨，市场预期其在AI存储芯片领域的领先地位将带来持续增长。",
+    "category": "industry"
+  },
+  {
+    "id": "6e7f4c864b7c5f7eb119128087c353e0",
+    "title_en": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "published_at": "2026-06-28T14:12:06.000Z",
+    "fetched_at": "2026-06-28T19:03:36.035Z",
+    "title_zh": "检察官在帕利塞兹火灾审判中使用ChatGPT日志作为证据",
+    "summary_zh": "在一起涉及帕利塞兹火灾的案件中，检察官首次将ChatGPT对话日志作为法庭证据。该日志显示被告曾向AI询问纵火方法，成为关键指控依据。此案引发关于AI对话隐私及法律证据效力的广泛讨论。",
+    "category": "industry"
+  },
+  {
     "id": "320913baeaec1935d3454d6f72f15116",
     "title_en": "What to Do in Houston If You're Here for Business (2026)",
     "source": "Wired",
@@ -121,6 +165,39 @@
     "category": "industry"
   },
   {
+    "id": "9d619f68606a9b8d5c5226a45df2cb58",
+    "title_en": "Information technology sector reaches record 39% of S&P 500 market cap",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/it-sector-record-sp500-market-cap/",
+    "published_at": "2026-06-27T18:57:26Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "信息技术板块占标普500市值比例创历史新高，达39%",
+    "summary_zh": "信息技术板块在标普500指数中的市值占比达到创纪录的39%，反映出科技行业对整体市场的巨大影响力。AI、云计算和半导体公司的强劲表现推动了这一增长。分析师警告高集中度可能带来风险，但长期看好科技驱动的经济转型趋势。",
+    "category": "industry"
+  },
+  {
+    "id": "70a2087d1afa22cefbbef25acd65fcb5",
+    "title_en": "Ford Rehired And Promoted Over 350 Experienced Engineers To Fix Issues Caused By AI And Automation",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/f1bc12e1cef6bd6f",
+    "published_at": "2026-06-27T18:43:49Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "福特重新雇佣并晋升350多名资深工程师，以解决AI和自动化引发的问题",
+    "summary_zh": "福特汽车公司重新雇佣并晋升了超过350名经验丰富的工程师，旨在解决因过度依赖AI和自动化导致的生产和质量问题。此前自动化流程引发了一系列制造缺陷。此举表明传统制造业在拥抱AI的同时，仍需保留人类专家的判断和经验。",
+    "category": "industry"
+  },
+  {
+    "id": "988f1df2512df4b3c3542c008f576175",
+    "title_en": "Liberal education in the U.S., the AI challenge and the pope",
+    "source": "Wnd.com",
+    "url": "https://www.wnd.com/2026/06/liberal-education-u-s-ai-challenge-pope/",
+    "published_at": "2026-06-27T18:41:54Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "美国通识教育、AI挑战与教皇的视角",
+    "summary_zh": "文章探讨了美国通识教育体系在AI时代面临的挑战，并引用教皇方济各的观点，强调人文价值与技术发展的平衡。AI的普及可能削弱批判性思维和伦理教育，教育界需重新思考课程设计。教皇呼吁在技术进步中保持对人的尊严和道德责任的关注。",
+    "category": "industry"
+  },
+  {
     "id": "299a59cd3d9083bc121fe275c34b0837",
     "title_en": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
     "source": "The Verge",
@@ -132,6 +209,61 @@
     "category": "llm"
   },
   {
+    "id": "5d2410a4a9afff5adfefcc652b7f4ea1",
+    "title_en": "World’s largest particle smasher halts for upgrade to boost hunt for dark matter",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/article/worlds-largest-particle-smasher-halts-for-upgrade-to-boost-hunt-for-dark-matter/",
+    "published_at": "2026-06-27T18:25:10Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "世界最大粒子对撞机停机升级，助力暗物质搜寻",
+    "summary_zh": "全球最大的粒子加速器——大型强子对撞机（LHC）已暂停运行，进入新一轮升级改造阶段。此次升级旨在提升其碰撞能量与探测精度，以更深入地探索暗物质、希格斯玻色子等前沿物理问题。科学家期待升级后的对撞机能带来突破性发现，进一步揭示宇宙的基本构成。",
+    "category": "research"
+  },
+  {
+    "id": "4675cd712c5b9d0c6cf7973e5e451092",
+    "title_en": "LA Schools Chief Resigns Amid FBI Probe Into Failed K-12 AI Chatbot Company",
+    "source": "Slashdot.org",
+    "url": "https://slashdot.org/submission/17348552/la-schools-chief-resigns-amid-fbi-probe-into-failed-k-12-ai-chatbot-company",
+    "published_at": "2026-06-27T18:20:44Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "洛杉矶学区总监因FBI调查K-12 AI聊天机器人公司失败案辞职",
+    "summary_zh": "洛杉矶联合学区总监在联邦调查局（FBI）对一家失败的K-12人工智能聊天机器人公司展开调查后宣布辞职。该学区此前投入巨资引入AI教育工具，但项目最终失败，引发公众对教育科技采购与监管的质疑。此事件凸显了AI在教育领域应用的风险与挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "3643b8345f4350f41c4897586bd2031b",
+    "title_en": "Artificial intelligence and how ‘dumb’ it really is",
+    "source": "Wnd.com",
+    "url": "https://www.wnd.com/2026/06/artificial-intelligence-how-dumb-it-really-is/",
+    "published_at": "2026-06-27T18:12:30Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "人工智能究竟有多“笨”？",
+    "summary_zh": "本文探讨了当前人工智能技术的局限性，指出尽管AI在某些任务上表现出色，但其本质上仍缺乏真正的理解与常识推理能力。作者认为，AI的“智能”更多是基于大量数据的模式匹配，而非人类意义上的思考。文章呼吁公众理性看待AI的能力与边界。",
+    "category": "llm"
+  },
+  {
+    "id": "c77bf86c3e80ebdd7e431933b50da500",
+    "title_en": "Why a selloff in gold and silver is dragging bitcoin down",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
+    "published_at": "2026-06-27T18:11:04Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "黄金白银抛售为何拖累比特币下跌",
+    "summary_zh": "近期黄金和白银市场出现大规模抛售，这一趋势也波及了加密货币市场，导致比特币价格承压下跌。分析指出，投资者风险偏好下降、流动性收紧以及宏观经济不确定性是共同诱因。比特币与贵金属的联动性增强，反映出其作为风险资产而非避险工具的特性。",
+    "category": "industry"
+  },
+  {
+    "id": "32e7b806b83d6980c67878080a2e91b0",
+    "title_en": "America’s continuing reliance on critical Chinese materials",
+    "source": "Wnd.com",
+    "url": "https://www.wnd.com/2026/06/americas-continuing-reliance-critical-chinese-materials/",
+    "published_at": "2026-06-27T18:08:19Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "美国持续依赖中国关键材料",
+    "summary_zh": "尽管美国试图减少对中国供应链的依赖，但在稀土、锂、钴等关键材料领域，美国仍高度依赖中国进口。这些材料对国防、新能源和电子产品制造至关重要。文章分析了美国在关键材料上的战略困境，以及未来可能的替代方案与政策调整。",
+    "category": "industry"
+  },
+  {
     "id": "ec13da36e2c2b19f659ceb5a26b7cfc2",
     "title_en": "62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)",
     "source": "Wired",
@@ -141,6 +273,28 @@
     "title_zh": "2026年Prime Day周末最后62个超值优惠：最高45%折扣",
     "summary_zh": "亚马逊Prime Day大促周末进入尾声，仍有62个精选商品提供最高45%的折扣。涵盖电子产品、家居用品等品类。这是2026年Prime Day的最后抢购机会，消费者需抓紧时间享受优惠。",
     "category": "product"
+  },
+  {
+    "id": "7cf81de54bc9e89b9681ae038d773ad1",
+    "title_en": "Where Will Nvidia Stock Be in 2030?",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/78c3de65f7939239",
+    "published_at": "2026-06-27T17:58:10Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "英伟达股票2030年将走向何方？",
+    "summary_zh": "本文展望了英伟达（Nvidia）股票到2030年的潜在走势。作为AI芯片领域的绝对领导者，英伟达受益于人工智能、数据中心和自动驾驶等长期趋势。但竞争加剧、地缘政治风险以及估值压力也是不可忽视的因素。文章分析了多种情景下英伟达的未来前景。",
+    "category": "industry"
+  },
+  {
+    "id": "ddcc7474948fcadb94fb19dd9bb856fd",
+    "title_en": "Margaret Atwood Details Her First & Only Encounter With AI & Shares Her Assessment: “It’s Garbage In, Garbage Out” — Babell Literary Festival",
+    "source": "Deadline",
+    "url": "http://deadline.com/2026/06/margaret-atwood-ai-claude-babell-literary-festival-1236969046/",
+    "published_at": "2026-06-27T17:34:22Z",
+    "fetched_at": "2026-06-28T19:03:37.244Z",
+    "title_zh": "玛格丽特·阿特伍德详述与AI的唯一一次交锋：不过是“垃圾进，垃圾出”",
+    "summary_zh": "著名作家玛格丽特·阿特伍德在巴贝尔文学节上分享了她与人工智能的唯一一次接触经历。她尝试使用AI生成文本，但结果令她失望，认为AI缺乏真正的创造力，只是机械地处理输入数据。她强调“垃圾进，垃圾出”，并警告不要高估AI的文学能力。",
+    "category": "llm"
   },
   {
     "id": "ad25f033b736134aeb3ded35f5b6dac1",
@@ -5344,159 +5498,5 @@
     "title_zh": "已有3人接受脑部植入癌症检测装置",
     "summary_zh": "三名患者成功植入新型脑部装置，可实时监测并检测早期癌症信号。该技术通过分析脑组织中的生物标志物，有望实现癌症的超早期诊断。研究团队表示，初步结果令人振奋，但大规模应用仍需更多临床试验验证。",
     "category": "research"
-  },
-  {
-    "id": "d5cec09b649e1025fe82f9a4c581b052",
-    "title_en": "Elephant alert! AI warning systems aim to avoid deadly clashes",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-    "published_at": "2026-06-23T09:00:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.887Z",
-    "title_zh": "大象警报！AI预警系统旨在避免致命冲突",
-    "summary_zh": "研究人员开发AI预警系统，通过分析大象活动模式和人类活动数据，实时预测并避免人象冲突。该系统已在非洲多地试点，成功减少大象袭击事件。技术结合物联网和机器学习，为野生动物保护提供创新解决方案。",
-    "category": "research"
-  },
-  {
-    "id": "3941bac6e1e75a84d4003e67b55b0c94",
-    "title_en": "The $400 million machine powering the future of chipmaking",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "published_at": "2026-06-23T09:00:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.887Z",
-    "title_zh": "价值4亿美元的机器：芯片制造的未来动力",
-    "summary_zh": "一台耗资4亿美元的新型光刻机成为芯片制造领域的关键设备，其采用极紫外光技术，可生产更小、更高效的芯片。该机器由ASML研发，预计将推动半导体行业进入3纳米及以下制程时代，对AI、云计算等领域产生深远影响。",
-    "category": "research"
-  },
-  {
-    "id": "c4bb010d2e8c7838b82adeaa74d3b302",
-    "title_en": "Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-prime-day-apple-deals-2026/",
-    "published_at": "2026-06-23T08:57:27.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "Prime Day苹果产品优惠：iPad、iPhone保护壳、MagSafe配件等",
-    "summary_zh": "亚马逊Prime Day推出大量苹果配件优惠，包括iPad和iPhone保护壳、MagSafe充电器、AirPods保护套等。折扣力度可观，部分产品低至五折。对于苹果用户而言，这是补充官方配件或升级旧设备的理想时机。",
-    "category": "product"
-  },
-  {
-    "id": "7a8ea9d2e05901fe0df2516afeb94410",
-    "title_en": "Mitsotakis at the the Athens Conservatoire on the Hellenic Cadastre (video)",
-    "source": "Protothema.gr",
-    "url": "https://en.protothema.gr/2026/06/23/mitsotakis-at-the-the-athens-conservatoire-on-the-hellenic-cadastre-video/",
-    "published_at": "2026-06-23T08:48:58Z",
-    "fetched_at": "2026-06-24T08:53:53.519Z",
-    "title_zh": "米佐塔基斯在雅典音乐学院就希腊地籍系统发表演讲",
-    "summary_zh": "希腊总理米佐塔基斯在雅典音乐学院发表演讲，重点介绍希腊地籍系统（Hellenic Cadastre）的数字化进展与改革成果。演讲涉及土地登记现代化、透明度提升及对经济发展的推动作用，并配有现场视频记录。",
-    "category": "industry"
-  },
-  {
-    "id": "b3182af185bfdb63bbd07dfb52f0a052",
-    "title_en": "Prime Day Mushroom Coffee Deals: Start Here (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-prime-day-mushroom-coffee-deals-june-2026/",
-    "published_at": "2026-06-23T08:47:05.000Z",
-    "fetched_at": "2026-06-23T08:59:25.430Z",
-    "title_zh": "Prime Day蘑菇咖啡优惠指南（2026）",
-    "summary_zh": "2026年亚马逊Prime Day期间，蘑菇咖啡成为热门品类。本文汇总了最佳折扣，涵盖多种功能性蘑菇咖啡产品，如狮鬃菇、灵芝等。这些产品声称能提升专注力、增强免疫力，适合健康生活爱好者。",
-    "category": "product"
-  },
-  {
-    "id": "05a4010b192ce6a48a9c1458b6494e1f",
-    "title_en": "Google takes the hit in AI's talent war",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/0b1dbb208dfcac24",
-    "published_at": "2026-06-23T08:44:40Z",
-    "fetched_at": "2026-06-24T08:53:53.519Z",
-    "title_zh": "谷歌在AI人才争夺战中受挫",
-    "summary_zh": "AI人才争夺战愈演愈烈，谷歌成为主要“受害者”。随着初创公司和其他科技巨头以高薪和股权激烈挖角，谷歌面临核心AI研究人员与工程师的流失压力。这场人才危机可能影响其在大模型领域的领先地位，迫使谷歌调整薪酬策略并加速内部人才培养。",
-    "category": "industry"
-  },
-  {
-    "id": "1df0df93a4151f66cb5fa4470350df36",
-    "title_en": "JPMorgan upgrades IBM to Overweight, raises price target to $291",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/jpmorgan-upgrades-ibm-overweight-price-target/",
-    "published_at": "2026-06-23T08:44:00Z",
-    "fetched_at": "2026-06-24T08:53:53.519Z",
-    "title_zh": "摩根大通上调IBM评级至“增持”，目标价升至291美元",
-    "summary_zh": "摩根大通将IBM股票评级从“中性”上调至“增持”，并将目标价从先前水平提高至291美元。分析师看好IBM在混合云与AI领域的战略布局，认为其咨询业务和软件订阅增长将推动盈利改善。此举提振了市场对传统科技巨头转型的信心。",
-    "category": "industry"
-  },
-  {
-    "id": "8a534b6ec2c6bbdcef06eb6cc6cdee22",
-    "title_en": "NVIDIA MCX713114TC-GEA SmartNIC Firmware 28.49.1014",
-    "source": "Softpedia.com",
-    "url": "https://drivers.softpedia.com/get/NETWORK-CARD/Nvidia/NVIDIA-MCX713114TC-GEA-SmartNIC-Firmware-28-49-1014.shtml",
-    "published_at": "2026-06-23T08:40:01Z",
-    "fetched_at": "2026-06-24T08:53:53.519Z",
-    "title_zh": "NVIDIA MCX713114TC-GEA智能网卡固件更新至28.49.1014版",
-    "summary_zh": "NVIDIA发布MCX713114TC-GEA SmartNIC固件版本28.49.1014，主要修复安全漏洞并优化数据中心网络性能。该更新提升了RDMA和虚拟化支持稳定性，适用于高性能计算与AI集群部署。建议用户通过官方管理工具及时升级以保障系统安全。",
-    "category": "product"
-  },
-  {
-    "id": "244f5fb06c7350a97ff018c9f7a72474",
-    "title_en": "AI and skills development emerge as key productivity drivers for Greek businesses",
-    "source": "Naftemporiki.gr",
-    "url": "https://www.naftemporiki.gr/english/2127905/ai-and-skills-development-emerge-as-key-productivity-drivers-for-greek-businesses/",
-    "published_at": "2026-06-23T08:38:49Z",
-    "fetched_at": "2026-06-24T08:53:53.519Z",
-    "title_zh": "AI与技能培训成为希腊企业提升生产力的关键驱动力",
-    "summary_zh": "调查显示，希腊企业正将AI工具与员工技能培训视为提高生产效率的核心手段。制造业、服务业率先引入自动化流程与数据分析系统，同时政府推动数字技能认证计划。专家指出，AI与人力资本协同发展是中小企业应对劳动力短缺的有效路径。",
-    "category": "industry"
-  },
-  {
-    "id": "78c3d90911beef2f01d58e2b35507605",
-    "title_en": "The 6 Best Prime Day TV Deals Plus Streaming Devices (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-prime-day-tv-deals-june-2026/",
-    "published_at": "2026-06-23T08:38:40.000Z",
-    "fetched_at": "2026-06-23T08:59:25.430Z",
-    "title_zh": "2026年Prime Day最佳电视及流媒体设备优惠TOP6",
-    "summary_zh": "2026年Prime Day电视和流媒体设备优惠盘点，精选6款最佳产品，涵盖4K、OLED电视及Fire TV Stick等。价格降幅显著，部分型号折扣达40%。购买建议关注HDR支持、刷新率等关键参数。",
-    "category": "product"
-  },
-  {
-    "id": "c228d5eb06c23b18eb072402e0d95e28",
-    "title_en": "Pension complaint? Here are 5 ways PFRDA's new AI-powered platform can help you",
-    "source": "India Today",
-    "url": "https://www.indiatoday.in/business/personal-finance/story/pension-complaint-here-are-5-ways-pfrdas-new-ai-powered-platform-can-help-you-2932347-2026-06-23",
-    "published_at": "2026-06-23T08:38:24Z",
-    "fetched_at": "2026-06-24T08:53:53.519Z",
-    "title_zh": "养老金投诉难？PFRDA新AI平台提供5种解决方案",
-    "summary_zh": "印度养老金监管与发展局（PFRDA）推出AI驱动投诉处理平台，通过自然语言处理自动分类诉求、智能分配工单、实时追踪进度、生成分析报告并提供自助查询功能。该平台将投诉平均处理时间缩短70%，显著提升老年人服务体验。",
-    "category": "product"
-  },
-  {
-    "id": "f801d922fa1904199ad42c867bae08a3",
-    "title_en": " Portugal, England, Croatia and Colombia at Copa today",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/portugal-england-croatia-and-colombia-at-copa-today-43045935",
-    "published_at": "2026-06-23T08:36:00Z",
-    "fetched_at": "2026-06-24T08:53:53.519Z",
-    "title_zh": "葡萄牙、英格兰、克罗地亚及哥伦比亚今日出战美洲杯",
-    "summary_zh": "今日美洲杯赛事迎来多场焦点战，葡萄牙、英格兰、克罗地亚与哥伦比亚四支强队将分别亮相。各队核心球员状态良好，战术部署备受关注。比赛结果将直接影响小组出线形势，球迷可通过官方平台观看直播。",
-    "category": "product"
-  },
-  {
-    "id": "8427f024440897a0d1177d32fb12b8c6",
-    "title_en": "Enteric Disease Testing Market Worth USD 5.86 Billion by 2035 | SNS Insider",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/06/23/3315757/0/en/Enteric-Disease-Testing-Market-Worth-USD-5-86-Billion-by-2035-SNS-Insider.html",
-    "published_at": "2026-06-23T08:35:00Z",
-    "fetched_at": "2026-06-24T08:53:53.519Z",
-    "title_zh": "肠道疾病检测市场预计2035年达58.6亿美元 | SNS Insider",
-    "summary_zh": "据SNS Insider报告，全球肠道疾病检测市场预计2035年规模达58.6亿美元，年复合增长率约7.2%。增长动力包括炎症性肠病发病率上升、内镜技术革新及AI辅助诊断普及。北美和亚太地区将成为主要增长区域，分子诊断与即时检测设备需求旺盛。",
-    "category": "industry"
-  },
-  {
-    "id": "0047303b4bd43ce02023db386fe17bb2",
-    "title_en": "The Best Amazon Prime Day Deals Under $30 in 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30/",
-    "published_at": "2026-06-23T08:34:09.000Z",
-    "fetched_at": "2026-06-23T08:59:25.430Z",
-    "title_zh": "2026年Prime Day最值得买的30美元以下好物",
-    "summary_zh": "2026年Prime Day精选30美元以下超值商品，涵盖智能家居配件、充电器、耳机等实用小物。所有推荐均经过性价比和实用性评估，适合预算有限的消费者。部分商品折扣超过50%。",
-    "category": "product"
   }
 ]
