@@ -1,6 +1,212 @@
 {
   "days": [
     {
+      "date": "2026-06-28",
+      "summary_zh": "今日GitHub热门项目聚焦隐私通讯（SimpleX无标识网络）、AI价值投资框架、开源驾驶辅助系统、个人云系统、开发者免费资源、设计规范、Windows效率工具、AI生成PPT及网站克隆工具。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description_en": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "language": "TypeScript",
+          "stars_total": 22385,
+          "stars_today": 1541,
+          "description_zh": "一种用于向编码代理描述视觉标识的格式规范。DESIGN.md 为代理提供对设计系统的持久、结构化理解。"
+        },
+        {
+          "rank": 2,
+          "name": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+          "language": "Haskell",
+          "stars_total": 13905,
+          "stars_today": 1469,
+          "description_zh": "SimpleX - 首个无需任何用户标识符即可运行的通讯网络 - 100% 隐私设计！支持 iOS、Android 和桌面应用 📱！"
+        },
+        {
+          "rank": 3,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description_en": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+          "language": "Python",
+          "stars_total": 24045,
+          "stars_today": 780,
+          "description_zh": "Cognee 是面向代理的开源 AI 记忆平台。通过自托管的知识图谱引擎，为你的 AI 代理提供跨会话的持久长期记忆。"
+        },
+        {
+          "rank": 4,
+          "name": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description_en": "Clone any website with one command using AI coding agents",
+          "language": "TypeScript",
+          "stars_total": 22166,
+          "stars_today": 750,
+          "description_zh": "使用 AI 编码代理，通过一条命令克隆任何网站。"
+        },
+        {
+          "rank": 5,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "language": "Python",
+          "stars_total": 4223,
+          "stars_today": 685,
+          "description_zh": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。融合巴菲特、芒格、段永平、李录四位大师方法论，支持多 Agent 并行研究。"
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "language": "TypeScript",
+          "stars_total": 117286,
+          "stars_today": 674,
+          "description_zh": "使用 Garry Tan 的精确 Claude Code 配置：23 个定制化工具，分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA 角色。"
+        },
+        {
+          "rank": 7,
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description_en": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+          "language": "Python",
+          "stars_total": 33133,
+          "stars_today": 589,
+          "description_zh": "AI 从任何文档生成真实、可编辑的 PowerPoint — 原生形状与动画、语音旁白形式的演讲者备注，并可选择遵循自己的 .pptx 模板，而非幻灯片图片 · 作者：Hugo He"
+        },
+        {
+          "rank": 8,
+          "name": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "description_en": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+          "language": "Go",
+          "stars_total": 35813,
+          "stars_today": 502,
+          "description_zh": "CasaOS - 一个简单、易用、优雅的开源个人云系统。"
+        },
+        {
+          "rank": 9,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars_total": 124199,
+          "stars_today": 459,
+          "description_zh": "一份包含 SaaS、PaaS 和 IaaS 免费套餐的列表，对 DevOps 和基础设施开发者有用。"
+        },
+        {
+          "rank": 10,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars_total": 53797,
+          "stars_today": 394,
+          "description_zh": "小红书笔记与评论爬虫、抖音视频与评论爬虫、快手视频与评论爬虫、B 站视频与评论爬虫、微博帖子与评论爬虫、百度贴吧帖子与评论回复爬虫、知乎问答文章与评论爬虫。"
+        },
+        {
+          "rank": 11,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description_en": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars_total": 179798,
+          "stars_today": 392,
+          "description_zh": "开源编码代理。"
+        },
+        {
+          "rank": 12,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+          "language": "Python",
+          "stars_total": 62086,
+          "stars_today": 322,
+          "description_zh": "openpilot 是一个机器人操作系统。目前，它可升级 300 多款支持车型的驾驶辅助系统。"
+        },
+        {
+          "rank": 13,
+          "name": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description_en": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "language": "JavaScript",
+          "stars_total": 21414,
+          "stars_today": 255,
+          "description_zh": "无限制的开源 AI 视频平台替代方案 — 免费 AI 图像与视频生成工作室，包含 200+ 模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤。可自托管，采用 MIT 许可证。"
+        },
+        {
+          "rank": 14,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description_en": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars_total": 3443,
+          "stars_today": 239,
+          "description_zh": "Semrush 和 Ahrefs 的开源替代方案。"
+        },
+        {
+          "rank": 15,
+          "name": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description_en": "Spec-driven development (SDD) for AI coding assistants.",
+          "language": "TypeScript",
+          "stars_total": 57159,
+          "stars_today": 177,
+          "description_zh": "面向 AI 编码助手的规范驱动开发（SDD）。"
+        },
+        {
+          "rank": 16,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "language": "Python",
+          "stars_total": 38652,
+          "stars_today": 141,
+          "description_zh": "一份可视化、示例驱动的 Claude Code 指南 — 从基础概念到高级代理，包含可复制粘贴的模板，立即可用。"
+        },
+        {
+          "rank": 17,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars_total": 13740,
+          "stars_today": 92,
+          "description_zh": "\"Vibe-Trading：你的个人交易代理\""
+        },
+        {
+          "rank": 18,
+          "name": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description_en": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+          "language": "C",
+          "stars_total": 135722,
+          "stars_today": 57,
+          "description_zh": "Microsoft PowerToys 是一套在 Windows 上提升生产力和自定义能力的实用工具集合。"
+        },
+        {
+          "rank": 19,
+          "name": "keycloak/keycloak",
+          "url": "https://github.com/keycloak/keycloak",
+          "description_en": "Open Source Identity and Access Management For Modern Applications and Services",
+          "language": "Java",
+          "stars_total": 35293,
+          "stars_today": 20,
+          "description_zh": "面向现代应用和服务的开源身份与访问管理。"
+        },
+        {
+          "rank": 20,
+          "name": "dbt-labs/dbt-core",
+          "url": "https://github.com/dbt-labs/dbt-core",
+          "description_en": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+          "language": "Rust",
+          "stars_total": 13235,
+          "stars_today": 18,
+          "description_zh": "dbt 使数据分析师和工程师能够使用软件工程师构建应用程序的相同实践来转换数据。"
+        }
+      ]
+    },
+    {
       "date": "2026-06-27",
       "summary_zh": "今日GitHub热门项目聚焦隐私通讯（SimpleX无ID网络）、AI投资研究框架、开源驾驶辅助系统、个人云系统及开发者免费资源，涵盖AI克隆、设计规范与效率工具。",
       "projects": [
@@ -4811,182 +5017,6 @@
           "stars_total": 4190,
           "stars_today": 80,
           "description_zh": "一种元技能，用于设计特定领域的智能体团队、定义专业智能体，并生成它们所使用的技能。"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-29",
-      "summary_zh": "今日GitHub热门项目聚焦AI视频生成、文档转换、智能编程工具及英语学习，涵盖短视频制作、Markdown转换、Claude代码助手等实用工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "harry0703/MoneyPrinterTurbo",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-          "language": "Python",
-          "stars_total": 69379,
-          "stars_today": 3563,
-          "description_zh": "利用AI大模型，一键生成高清短视频"
-        },
-        {
-          "rank": 2,
-          "name": "Leonxlnx/taste-skill",
-          "url": "https://github.com/Leonxlnx/taste-skill",
-          "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-          "language": "Shell",
-          "stars_total": 27956,
-          "stars_today": 2066,
-          "description_zh": "Taste-Skill - 赋予AI良好品味，防止AI生成无聊、千篇一律的劣质内容"
-        },
-        {
-          "rank": 3,
-          "name": "microsoft/markitdown",
-          "url": "https://github.com/microsoft/markitdown",
-          "description_en": "Python tool for converting files and office documents to Markdown.",
-          "language": "Python",
-          "stars_total": 129611,
-          "stars_today": 1876,
-          "description_zh": "Python工具，用于将文件和办公文档转换为Markdown格式"
-        },
-        {
-          "rank": 4,
-          "name": "byoungd/English-level-up-tips",
-          "url": "https://github.com/byoungd/English-level-up-tips",
-          "description_en": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-          "language": "",
-          "stars_total": 49600,
-          "stars_today": 1564,
-          "description_zh": "一份可能让你受益匪浅的英语进阶指南 🎉"
-        },
-        {
-          "rank": 5,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 198455,
-          "stars_today": 1413,
-          "description_zh": "智能体工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发能力"
-        },
-        {
-          "rank": 6,
-          "name": "DigitalPlatDev/FreeDomain",
-          "url": "https://github.com/DigitalPlatDev/FreeDomain",
-          "description_en": "DigitalPlat FreeDomain: Free Domain For Everyone",
-          "language": "HTML",
-          "stars_total": 171641,
-          "stars_today": 1317,
-          "description_zh": "DigitalPlat FreeDomain：为每个人提供免费域名"
-        },
-        {
-          "rank": 7,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 507246,
-          "stars_today": 867,
-          "description_zh": "通过从零重建你喜爱的技术来掌握编程"
-        },
-        {
-          "rank": 8,
-          "name": "run-llama/liteparse",
-          "url": "https://github.com/run-llama/liteparse",
-          "description_en": "A fast, helpful, and open-source document parser",
-          "language": "Rust",
-          "stars_total": 7142,
-          "stars_today": 680,
-          "description_zh": "一款快速、实用且开源的文档解析器"
-        },
-        {
-          "rank": 9,
-          "name": "hardikpandya/stop-slop",
-          "url": "https://github.com/hardikpandya/stop-slop",
-          "description_en": "A skill file for removing AI tells from prose",
-          "language": "",
-          "stars_total": 6899,
-          "stars_today": 618,
-          "description_zh": "用于从散文中去除AI痕迹的技能文件"
-        },
-        {
-          "rank": 10,
-          "name": "twentyhq/twenty",
-          "url": "https://github.com/twentyhq/twenty",
-          "description_en": "The open alternative to Salesforce, designed for AI.",
-          "language": "TypeScript",
-          "stars_total": 48322,
-          "stars_today": 575,
-          "description_zh": "专为AI设计的开源Salesforce替代方案"
-        },
-        {
-          "rank": 11,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "Python",
-          "stars_total": 127798,
-          "stars_today": 460,
-          "description_zh": "Claude Code是一款驻留在终端中的智能编码工具，它能理解你的代码库，通过自然语言指令执行日常任务、解释复杂代码、处理Git工作流，从而帮助你更快地编写代码"
-        },
-        {
-          "rank": 12,
-          "name": "EveryInc/compound-engineering-plugin",
-          "url": "https://github.com/EveryInc/compound-engineering-plugin",
-          "description_en": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-          "language": "TypeScript",
-          "stars_total": 18077,
-          "stars_today": 354,
-          "description_zh": "Compound Engineering官方插件，支持Claude Code、Codex、Cursor等工具"
-        },
-        {
-          "rank": 13,
-          "name": "galilai-group/stable-worldmodel",
-          "url": "https://github.com/galilai-group/stable-worldmodel",
-          "description_en": "A platform for reproducible world model research and evaluation",
-          "language": "Python",
-          "stars_total": 1199,
-          "stars_today": 346,
-          "description_zh": "一个用于可复现世界模型研究与评估的平台"
-        },
-        {
-          "rank": 14,
-          "name": "Crosstalk-Solutions/project-nomad",
-          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-          "language": "TypeScript",
-          "stars_total": 26871,
-          "stars_today": 294,
-          "description_zh": "Project N.O.M.A.D，一款自包含的离线生存计算机，内置关键工具、知识和AI，让你随时随地保持信息灵通并具备应对能力"
-        },
-        {
-          "rank": 15,
-          "name": "DataTalksClub/data-engineering-zoomcamp",
-          "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
-          "description_en": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
-          "language": "Jupyter Notebook",
-          "stars_total": 41506,
-          "stars_today": 180,
-          "description_zh": "数据工程训练营是一门为期9周的免费课程，教授如何构建生产级数据管道。下一期将于2026年1月开始。点击下方👇🏼加入课程"
-        },
-        {
-          "rank": 16,
-          "name": "cursor/plugins",
-          "url": "https://github.com/cursor/plugins",
-          "description_en": "Cursor plugin specification and official plugins",
-          "language": "TypeScript",
-          "stars_total": 1256,
-          "stars_today": 129,
-          "description_zh": "Cursor插件规范及官方插件"
-        },
-        {
-          "rank": 17,
-          "name": "Biohub/esm",
-          "url": "https://github.com/Biohub/esm",
-          "description_en": "",
-          "language": "Jupyter Notebook",
-          "stars_total": 2548,
-          "stars_today": 64,
-          "description_zh": "进化尺度模型"
         }
       ]
     }
