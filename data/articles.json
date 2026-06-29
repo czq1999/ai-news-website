@@ -1,5 +1,38 @@
 [
   {
+    "id": "4cd6d8f79d5e6b0be68fd203a25cd133",
+    "title_en": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "published_at": "2026-06-28T21:42:51.000Z",
+    "fetched_at": "2026-06-29T02:36:55.750Z",
+    "title_zh": "中国Z.ai声称其网络安全能力可媲美Mythos",
+    "summary_zh": "中国AI安全公司Z.ai宣称其AI驱动的网络安全解决方案已达到与知名安全平台Mythos相当的水平。该公司强调其技术在大规模威胁检测和响应速度上的优势，旨在争夺全球网络安全市场份额，尤其是在地缘政治紧张背景下，中国AI安全企业的崛起备受关注。",
+    "category": "product"
+  },
+  {
+    "id": "863beb6b5eb1e3302857636b01246122",
+    "title_en": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "published_at": "2026-06-28T20:27:36.000Z",
+    "fetched_at": "2026-06-29T02:36:55.750Z",
+    "title_zh": "Suno推出Spark孵化器计划，为AI音乐创作吸引独立艺术家",
+    "summary_zh": "AI音乐生成平台Suno启动Spark孵化器计划，旨在吸引独立艺术家参与其AI模型训练。该计划为艺术家提供资源和技术支持，但同时也引发关于AI对原创音乐创作生态影响的讨论，包括版权归属和艺术价值等核心问题。",
+    "category": "product"
+  },
+  {
+    "id": "8cbc54e7084f10cac5bf733001744aa4",
+    "title_en": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "published_at": "2026-06-28T19:05:39.000Z",
+    "fetched_at": "2026-06-29T02:36:55.593Z",
+    "title_zh": "福特重聘“白发工程师”，AI未能达到预期",
+    "summary_zh": "福特汽车在尝试用AI替代资深工程师后，发现AI在解决复杂工程问题上表现不佳，因此重新聘请了经验丰富的“白发工程师”。这一举措凸显了当前AI技术在高度专业化和经验依赖的领域中的局限性，也反映了企业在AI落地过程中面临的现实挑战。",
+    "category": "industry"
+  },
+  {
     "id": "c1bb4d1fd40aa1c72d1245858373ef43",
     "title_en": "China claims the world&#8217;s fastest supercomputer",
     "source": "The Verge",
@@ -141,6 +174,105 @@
     "title_zh": "TMD无钥匙自行车锁：280美元解决60美元的问题",
     "summary_zh": "TMD推出了一款售价280美元的无钥匙自行车锁，采用蓝牙和指纹解锁，但被批评为过度设计。传统钥匙锁仅需60美元，且更可靠。该产品定位高端市场，但性价比存疑，引发科技爱好者对智能锁实用性的讨论。",
     "category": "product"
+  },
+  {
+    "id": "d2fce9cb2d3c0f5a1428bcd5b4081aed",
+    "title_en": "Adult film stars Johnny Sins to appear in Samay Raina's India's Got Latent Season 2? Here's the truth behind viral videos",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/adult-film-stars-johnny-sins-to-appear-in-samay-rainas-indias-got-latent-season-2-heres-the-truth-behind-viral-videos/articleshow/132044651.cms",
+    "published_at": "2026-06-28T02:30:53Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "成人影星Johnny Sins将参加Samay Raina节目？病毒视频真相揭秘",
+    "summary_zh": "近日网传成人影星Johnny Sins将参与印度喜剧节目《India's Got Latent》第二季，引发热议。经核实，相关视频系AI换脸或剪辑伪造。该事件再次凸显了AI生成内容在社交媒体上制造虚假信息的风险，提醒公众需谨慎辨别。",
+    "category": "industry"
+  },
+  {
+    "id": "e8dc5ec255faca3a0138def183b050eb",
+    "title_en": "Amazon quietly raises price tag on the AI boom",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/3d0ff1df1b7743c6",
+    "published_at": "2026-06-28T02:06:11Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "亚马逊悄然提高AI服务价格，为AI热潮买单",
+    "summary_zh": "亚马逊云服务（AWS）近期悄然上调了多项AI相关服务的价格，包括模型调用、训练算力等。此举被视为亚马逊在AI基础设施投入激增背景下的成本转嫁。企业用户需重新评估AI项目预算，而这一趋势可能引发其他云厂商跟进。",
+    "category": "industry"
+  },
+  {
+    "id": "d85f2470222bad6c0921de4a963b41fd",
+    "title_en": "\"UK-India Free Trade Agreement will be India's most comprehensive agreement so far\": Piyush Goyal at UK-India Week 2026",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/uk-india-free-trade-agreement-will-be-indias-most-comprehensive-agreement-so-far-piyush-goyal-at-uk-india-week-2026/article71156880.ece",
+    "published_at": "2026-06-28T02:00:20Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "印英自贸协定将成印度最全面协议：印度部长在UK-India Week表态",
+    "summary_zh": "印度商工部长Piyush Goyal在UK-India Week 2026上表示，即将签署的印英自由贸易协定将是印度迄今最全面的贸易协议。该协定涵盖商品、服务、投资等多个领域，有望为印度科技、制药等行业打开英国市场，同时促进双边AI与数字贸易合作。",
+    "category": "industry"
+  },
+  {
+    "id": "bd9a087ef0fcb45ea74677c0cdf56ad5",
+    "title_en": " Controversial! The millimetre offside that denied Colombia victory",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/controversial-the-millimetre-offside-that-denied-colombia-victory-43067157",
+    "published_at": "2026-06-28T01:41:00Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "争议！毫米级越位判罚扼杀哥伦比亚胜利",
+    "summary_zh": "一场足球比赛中，哥伦比亚队因一次毫米级的越位判罚被取消进球，最终未能获胜。该判罚引发巨大争议，VAR技术的精确性再次成为焦点。球迷和专家就科技介入是否过度影响比赛公平性展开激烈辩论。",
+    "category": "industry"
+  },
+  {
+    "id": "36be7c11e3e938f114667f757647e9c7",
+    "title_en": "Colombia rue offside, but send warning: they can go far",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/colombia-rue-offside-but-send-warning-they-can-go-far-43067125",
+    "published_at": "2026-06-28T01:34:00Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "哥伦比亚虽因越位遗憾，但发出警告：他们能走得更远",
+    "summary_zh": "哥伦比亚队在比赛中因越位判罚错失良机，但球队整体表现强劲，展现出巨大潜力。分析认为，尽管开局不利，哥伦比亚队仍具备在后续赛事中走得更远的实力，其战术调整和球员状态值得关注。",
+    "category": "industry"
+  },
+  {
+    "id": "df414ec4f64a469e4cb987c0fd5879b4",
+    "title_en": "Australia boosts shark-spotting drone coverage at Sydney beaches",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/article/australia-boosts-shark-spotting-drone-coverage-at-sydney-beaches/",
+    "published_at": "2026-06-28T00:55:11Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "澳大利亚扩大悉尼海滩鲨鱼监测无人机覆盖范围",
+    "summary_zh": "澳大利亚政府宣布将增加悉尼海滩的鲨鱼监测无人机部署，以提升游泳者安全。该无人机系统利用AI视觉技术实时识别鲨鱼并发出警报，覆盖范围扩大后能更有效预防鲨鱼袭击事件，保障公众安全。",
+    "category": "product"
+  },
+  {
+    "id": "a70a552fd85f42ebd2cd00c23004d043",
+    "title_en": " Rested them all? Argentina XI named to face Jordan",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/rested-them-all-argentina-xi-named-to-face-jordan-43067063",
+    "published_at": "2026-06-28T00:55:00Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "全员轮换？阿根廷队公布对阵约旦首发阵容",
+    "summary_zh": "阿根廷队在对阵约旦的比赛中可能进行大规模轮换，首发阵容名单已公布。此举旨在为关键球员提供休息，同时考察替补队员状态。分析认为，轮换策略可能影响比赛节奏，但阿根廷队整体实力仍占优。",
+    "category": "industry"
+  },
+  {
+    "id": "f02128ee8e231f70670f18751020abfe",
+    "title_en": "Ford Scrambled to Rehire Engineers After Sabotaging Itself With AI",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/6a3f89e7003443fc",
+    "published_at": "2026-06-28T00:47:49Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "福特因AI自毁后紧急召回工程师",
+    "summary_zh": "福特公司因不当使用AI工具导致内部系统混乱，被迫紧急召回已离职的工程师进行修复。事件暴露了企业在AI应用中的管理漏洞，提醒业界在追求自动化时需谨慎评估风险，避免技术反噬。",
+    "category": "industry"
+  },
+  {
+    "id": "4f659401a028e1b653f58e243f1e501f",
+    "title_en": "SME growth requires more than capital",
+    "source": "Vanguard",
+    "url": "https://www.vanguardngr.com/2026/06/sme-growth-requires-more-than-capital/",
+    "published_at": "2026-06-28T00:36:18Z",
+    "fetched_at": "2026-06-29T02:36:57.147Z",
+    "title_zh": "中小企业增长不仅需要资金",
+    "summary_zh": "研究表明，中小企业（SME）的持续增长不仅依赖资本投入，更需要技术创新、人才管理和市场策略等多维度支持。AI工具可帮助SME优化运营效率，但数字化转型需结合企业实际需求，避免盲目跟风。",
+    "category": "industry"
   },
   {
     "id": "34d002fc6120bbd9784ba623d6987942",
@@ -5366,137 +5498,5 @@
     "title_zh": "2026年最佳数字日历墙：Skylight、Everblog、Apolosign推荐",
     "summary_zh": "本文评测了2026年最佳数字日历墙产品，包括Skylight、Everblog和Apolosign。这些设备将传统日历数字化，支持同步日程、显示天气和照片，适合家庭或办公室使用。对比了屏幕尺寸、易用性和智能家居集成能力，帮助用户选择最适合的款式。",
     "category": "product"
-  },
-  {
-    "id": "fd8e63aa9fbe035ccf17c69492ea8eef",
-    "title_en": "These are the best smart home deals this Prime Day",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/953017/best-smart-home-deals-robot-vacuums-locks-doorbell",
-    "published_at": "2026-06-23T11:00:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.666Z",
-    "title_zh": "Prime Day智能家居最佳优惠推荐",
-    "summary_zh": "Prime Day期间智能家居产品迎来大促，包括智能音箱、安防摄像头、智能灯泡等品类均有深度折扣。文章精选了最值得入手的智能家居设备，帮助用户以低价打造全屋智能体验。建议关注亚马逊Echo、Ring等热门品牌的限时特价。",
-    "category": "product"
-  },
-  {
-    "id": "038d098336efae90395e587e21b6beb8",
-    "title_en": "Elon Musk and the plot to hijack America’s broadband",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/953944/bead-broadband-funding-trump-musk-bezos",
-    "published_at": "2026-06-23T11:00:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.666Z",
-    "title_zh": "埃隆·马斯克与劫持美国宽带网络的阴谋",
-    "summary_zh": "本文揭露埃隆·马斯克及其旗下星链项目如何试图影响美国宽带政策与市场格局。通过低价卫星互联网服务，星链可能颠覆传统电信运营商，但同时也引发监管与公平竞争争议。该事件折射出科技巨头对基础设施控制权的激烈争夺。",
-    "category": "industry"
-  },
-  {
-    "id": "c5b48de6a93a64d60cef2f188d73ae42",
-    "title_en": "The New ‘Odyssey’ Movie Is Sparking a Right-Wing Backlash. This Female Scholar Knows It Well",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-new-odyssey-movie-is-sparking-a-right-wing-backlash-this-female-scholar-knows-it-well/",
-    "published_at": "2026-06-23T11:00:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "新片《奥德赛》引发右翼抵制，这位女学者深有体会",
-    "summary_zh": "电影《奥德赛》因主题内容引发右翼群体强烈抵制，一位女性学者对此现象发表见解。她指出，该片触及了文化争议点，类似情况在历史上多次出现。文章探讨了艺术表达与社会舆论的冲突，以及女性在学术和公共讨论中面临的挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "bbdce1baec029edbfe27de5ebc501638",
-    "title_en": "HP OmniBook Ultra 14 Review: The Best Windows Laptop",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/hp-omnibook-ultra-14/",
-    "published_at": "2026-06-23T10:31:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "HP OmniBook Ultra 14评测：最佳Windows笔记本",
-    "summary_zh": "HP OmniBook Ultra 14获评最佳Windows笔记本电脑。该机型搭载最新处理器，拥有出色的性能和续航表现，轻薄设计便于携带。屏幕素质优秀，键盘手感舒适，适合商务和创意工作者。评测认为其在综合体验上超越了同类竞品，是Windows用户的优选。",
-    "category": "product"
-  },
-  {
-    "id": "40a821aea8cd5e5dcb4ca0b52573cefd",
-    "title_en": "FCC Commissioner Anna Gomez Will Fight for Press Freedom—Until Trump Fires Her",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-anna-gomez-fcc/",
-    "published_at": "2026-06-23T10:30:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "FCC委员安娜·戈麦斯将捍卫新闻自由——直到特朗普解雇她",
-    "summary_zh": "FCC委员安娜·戈麦斯誓言在任期内全力捍卫新闻自由，但面临被特朗普解雇的风险。她强调独立监管机构对保护媒体多元性的关键作用，并批评政治干预可能破坏言论自由。此举凸显美国媒体监管领域的政治博弈。",
-    "category": "industry"
-  },
-  {
-    "id": "f0e98dc2057377aeab0e2a5550987e20",
-    "title_en": "Federal Workers Can’t Get the White House’s App Off Their Phones",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/story/government-workers-cant-get-the-white-houses-app-off-their-phones/",
-    "published_at": "2026-06-23T10:00:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "联邦工作人员无法从手机上删除白宫应用",
-    "summary_zh": "白宫推出的官方应用被强制安装在联邦工作人员手机上，且无法卸载。此举引发隐私和安全担忧，员工抱怨该应用过度收集数据并影响设备性能。事件暴露政府数字管理中的权力边界问题。",
-    "category": "product"
-  },
-  {
-    "id": "35c4cc4cd0feba807ba6146e5c2aa7da",
-    "title_en": "Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/amazon-prime-day-fitness-deals-2026/",
-    "published_at": "2026-06-23T09:32:14.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "2026年Prime Day最佳健身科技优惠：最高省250美元",
-    "summary_zh": "亚马逊Prime Day大促中，健身科技产品迎来大幅折扣，包括智能手表、跑步机、健身追踪器等，最高优惠达250美元。本文精选了最值得入手的健身设备，帮助消费者在促销季理性选购。",
-    "category": "product"
-  },
-  {
-    "id": "0ee8b600b061de80c8048e9eb8eb87ab",
-    "title_en": "Prime Day Knocked $1,150 Off Our Top Pool-Cleaning Robot (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-prime-day-beatbot-deals-june-2026/",
-    "published_at": "2026-06-23T09:30:04.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "Prime Day将我们首选的泳池清洁机器人降价1150美元（2026）",
-    "summary_zh": "亚马逊Prime Day期间，顶级泳池清洁机器人直降1150美元，创历史新低。该机器人具备智能路径规划和高效过滤功能，大幅减少人工维护成本。促销力度空前，是入手智能家居清洁设备的好时机。",
-    "category": "product"
-  },
-  {
-    "id": "d10bb27f9540f639df5591054909f1f7",
-    "title_en": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-prime-day-headphone-deals-2026/",
-    "published_at": "2026-06-23T09:24:53.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "我找到了2026年亚马逊Prime Day最佳耳机优惠",
-    "summary_zh": "作者亲自筛选了2026年Prime Day期间最值得购买的耳机优惠，涵盖降噪耳机、运动耳机和真无线耳机等品类。推荐产品兼顾音质、续航和性价比，帮助消费者避开促销陷阱，买到真正划算的音频设备。",
-    "category": "product"
-  },
-  {
-    "id": "e4526127e189296ad145d8f06a5f1da4",
-    "title_en": "Best Prime Day Smart Bird Feeder Deals (2026) Up to $150 Off",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-prime-day-smart-bird-feeder-deals-2026/",
-    "published_at": "2026-06-23T09:21:08.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "2026年Prime Day最佳智能鸟喂食器优惠：最高省150美元",
-    "summary_zh": "亚马逊Prime Day大促中，智能鸟喂食器迎来最高150美元折扣。这些设备配备AI识别功能，可自动识别鸟类种类并推送通知，深受观鸟爱好者欢迎。促销涵盖多个品牌，是升级庭院智能设备的绝佳机会。",
-    "category": "product"
-  },
-  {
-    "id": "0a77b489e65b06e858ac9284da0c1ef8",
-    "title_en": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/prime-day-vacuum-deals-2026/",
-    "published_at": "2026-06-23T09:04:38.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "2026年Prime Day最佳吸尘器优惠：Shark、Dyson、Bissell最高42%折扣",
-    "summary_zh": "亚马逊Prime Day期间，Shark、Dyson、Bissell等主流品牌吸尘器最高降价42%。涵盖无线手持、扫地机器人和立式吸尘器等多种类型，适合不同家庭需求。本文汇总了最值得关注的折扣信息，助力消费者高效选购。",
-    "category": "product"
-  },
-  {
-    "id": "7bebc51b3e5eebf8e883001138df12ad",
-    "title_en": "3 People Have Gotten Cancer-Detecting Implants in Their Brains",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/three-people-have-gotten-cancer-detecting-brain-implants/",
-    "published_at": "2026-06-23T09:00:00.000Z",
-    "fetched_at": "2026-06-23T14:28:58.812Z",
-    "title_zh": "已有3人接受脑部植入癌症检测装置",
-    "summary_zh": "三名患者成功植入新型脑部装置，可实时监测并检测早期癌症信号。该技术通过分析脑组织中的生物标志物，有望实现癌症的超早期诊断。研究团队表示，初步结果令人振奋，但大规模应用仍需更多临床试验验证。",
-    "category": "research"
   }
 ]

@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-06-29",
+      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI投资研究、自动驾驶、GPU计算及文档处理，涵盖Simplex无标识网络、价值投资框架、开源驾驶系统等创新工具。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+          "language": "C",
+          "stars_total": 19883,
+          "stars_today": 2190,
+          "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——平均仓库处理时间毫秒级。支持158种语言，亚毫秒查询，减少99%的令牌。单个静态二进制文件，零依赖。"
+        },
+        {
+          "rank": 2,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "language": "Python",
+          "stars_total": 5487,
+          "stars_today": 1445,
+          "description_zh": "AI时代的伯克希尔：基于Claude Code / Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
+        },
+        {
+          "rank": 3,
+          "name": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+          "language": "Haskell",
+          "stars_total": 15175,
+          "stars_today": 1180,
+          "description_zh": "SimpleX——首个无需任何用户标识符运行的通讯网络，设计上100%私密！支持iOS、Android和桌面应用📱！"
+        },
+        {
+          "rank": 4,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars_total": 125403,
+          "stars_today": 495,
+          "description_zh": "一份包含SaaS、PaaS和IaaS产品的列表，这些产品提供对DevOps和基础设施开发者有用的免费套餐"
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars_total": 14409,
+          "stars_today": 492,
+          "description_zh": "\"Vibe-Trading：您的个人交易智能体\""
+        },
+        {
+          "rank": 6,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description_en": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "language": "Python",
+          "stars_total": 71690,
+          "stars_today": 380,
+          "description_zh": "将PDF和Office文档等复杂文档转换为LLM就绪的markdown/JSON格式，用于您的智能体工作流程。"
+        },
+        {
+          "rank": 7,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars_total": 8273,
+          "stars_today": 372,
+          "description_zh": "一个前馈式3D基础模型，用于从流式数据重建场景"
+        },
+        {
+          "rank": 8,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description_en": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+          "language": "Swift",
+          "stars_total": 3799,
+          "stars_today": 365,
+          "description_zh": "FluidVoice - 最快的macOS离线听写应用 - 语音转文字完全本地化。一颗⭐能让我们走得更远:))"
+        },
+        {
+          "rank": 9,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+          "language": "Python",
+          "stars_total": 62441,
+          "stars_today": 266,
+          "description_zh": "openpilot是一个机器人操作系统。目前，它升级了300多款支持车型的驾驶辅助系统。"
+        },
+        {
+          "rank": 10,
+          "name": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "description_en": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+          "language": "",
+          "stars_total": 84548,
+          "stars_today": 250,
+          "description_zh": "使用可视化图表和简单术语解释复杂系统。帮助您准备系统设计面试。"
+        },
+        {
+          "rank": 11,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description_en": "Edit videos with coding agents",
+          "language": "Python",
+          "stars_total": 11153,
+          "stars_today": 196,
+          "description_zh": "使用编码智能体编辑视频"
+        },
+        {
+          "rank": 12,
+          "name": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "description_en": "NumPy & SciPy for GPU",
+          "language": "Python",
+          "stars_total": 11553,
+          "stars_today": 174,
+          "description_zh": "适用于GPU的NumPy和SciPy"
+        },
+        {
+          "rank": 13,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description_en": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars_total": 26798,
+          "stars_today": 122,
+          "description_zh": "开源AI黑客工具，用于发现并修复您应用的漏洞。"
+        }
+      ]
+    },
+    {
       "date": "2026-06-28",
       "summary_zh": "GitHub 今日热门项目聚焦隐私通讯、AI投资研究、自动驾驶、GPU计算及文档处理，涵盖Simplex无ID网络、价值投资框架、开源驾驶系统与本地语音识别等前沿技术。",
       "projects": [
@@ -4751,202 +4887,6 @@
           "stars_total": 19669,
           "stars_today": 20,
           "description_zh": "docs.github.com 的开源仓库。"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-30",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具链：文件转Markdown、一键短视频生成、终端智能编码助手、多智能体协作框架，以及离线生存AI系统，展现AI从开发到创作的全面渗透。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "harry0703/MoneyPrinterTurbo",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-          "language": "Python",
-          "stars_total": 71721,
-          "stars_today": 2775,
-          "description_zh": "利用AI大模型，一键生成高清短视频。"
-        },
-        {
-          "rank": 2,
-          "name": "microsoft/markitdown",
-          "url": "https://github.com/microsoft/markitdown",
-          "description_en": "Python tool for converting files and office documents to Markdown.",
-          "language": "Python",
-          "stars_total": 131869,
-          "stars_today": 2473,
-          "description_zh": "用于将文件和办公文档转换为Markdown的Python工具。"
-        },
-        {
-          "rank": 3,
-          "name": "run-llama/liteparse",
-          "url": "https://github.com/run-llama/liteparse",
-          "description_en": "A fast, helpful, and open-source document parser",
-          "language": "Rust",
-          "stars_total": 7813,
-          "stars_today": 929,
-          "description_zh": "一个快速、实用且开源的文档解析器。"
-        },
-        {
-          "rank": 4,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 199157,
-          "stars_today": 918,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
-        },
-        {
-          "rank": 5,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 507962,
-          "stars_today": 814,
-          "description_zh": "通过从零重建你喜爱的技术来掌握编程。"
-        },
-        {
-          "rank": 6,
-          "name": "OpenBMB/VoxCPM",
-          "url": "https://github.com/OpenBMB/VoxCPM",
-          "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-          "language": "Python",
-          "stars_total": 22692,
-          "stars_today": 658,
-          "description_zh": "VoxCPM2：用于多语言语音生成、创意声音设计及逼真克隆的无分词器文本转语音系统。"
-        },
-        {
-          "rank": 7,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 68721,
-          "stars_today": 656,
-          "description_zh": "π RuView将普通的WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
-        },
-        {
-          "rank": 8,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "Python",
-          "stars_total": 128321,
-          "stars_today": 595,
-          "description_zh": "Claude Code是一个驻留在终端中的智能编码工具，它能理解你的代码库，通过自然语言指令执行日常任务、解释复杂代码、处理Git工作流，从而帮助你更快地编写代码。"
-        },
-        {
-          "rank": 9,
-          "name": "Crosstalk-Solutions/project-nomad",
-          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-          "language": "TypeScript",
-          "stars_total": 27264,
-          "stars_today": 473,
-          "description_zh": "N.O.M.A.D项目，是一款自包含的离线生存计算机，内置关键工具、知识库和AI，确保您随时随地获得信息并保持自主能力。"
-        },
-        {
-          "rank": 10,
-          "name": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description_en": "Public repository for Agent Skills",
-          "language": "Python",
-          "stars_total": 144013,
-          "stars_today": 471,
-          "description_zh": "智能体技能的公开仓库。"
-        },
-        {
-          "rank": 11,
-          "name": "EveryInc/compound-engineering-plugin",
-          "url": "https://github.com/EveryInc/compound-engineering-plugin",
-          "description_en": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-          "language": "TypeScript",
-          "stars_total": 18368,
-          "stars_today": 348,
-          "description_zh": "适用于Claude Code、Codex、Cursor等工具的官方复合工程插件。"
-        },
-        {
-          "rank": 12,
-          "name": "galilai-group/stable-worldmodel",
-          "url": "https://github.com/galilai-group/stable-worldmodel",
-          "description_en": "A platform for reproducible world model research and evaluation",
-          "language": "Python",
-          "stars_total": 1422,
-          "stars_today": 319,
-          "description_zh": "一个用于可复现世界模型研究与评估的平台。"
-        },
-        {
-          "rank": 13,
-          "name": "FareedKhan-dev/train-llm-from-scratch",
-          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-          "description_en": "A straightforward method for training your LLM, from downloading data to generating text.",
-          "language": "Jupyter Notebook",
-          "stars_total": 2134,
-          "stars_today": 316,
-          "description_zh": "从下载数据到生成文本，训练您自己的大语言模型的直接方法。"
-        },
-        {
-          "rank": 14,
-          "name": "DataTalksClub/data-engineering-zoomcamp",
-          "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
-          "description_en": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
-          "language": "Jupyter Notebook",
-          "stars_total": 41745,
-          "stars_today": 277,
-          "description_zh": "数据工程训练营是一个为期9周的免费课程，教授如何构建生产级数据管道。下一期将于2026年1月开课。点击下方链接加入课程👇🏼"
-        },
-        {
-          "rank": 15,
-          "name": "cursor/plugins",
-          "url": "https://github.com/cursor/plugins",
-          "description_en": "Cursor plugin specification and official plugins",
-          "language": "TypeScript",
-          "stars_total": 1420,
-          "stars_today": 206,
-          "description_zh": "Cursor插件规范及官方插件。"
-        },
-        {
-          "rank": 16,
-          "name": "chen08209/FlClash",
-          "url": "https://github.com/chen08209/FlClash",
-          "description_en": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-          "language": "Dart",
-          "stars_total": 40332,
-          "stars_today": 190,
-          "description_zh": "基于ClashMeta的多平台代理客户端，简单易用，开源无广告。"
-        },
-        {
-          "rank": 17,
-          "name": "dreammis/social-auto-upload",
-          "url": "https://github.com/dreammis/social-auto-upload",
-          "description_en": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
-          "language": "Python",
-          "stars_total": 11731,
-          "stars_today": 106,
-          "description_zh": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili"
-        },
-        {
-          "rank": 18,
-          "name": "OpenMOSS/MOSS-TTS",
-          "url": "https://github.com/OpenMOSS/MOSS-TTS",
-          "description_en": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
-          "language": "Python",
-          "stars_total": 2581,
-          "stars_today": 88,
-          "description_zh": "MOSS‑TTS系列是由MOSI.AI和OpenMOSS团队开发的开源语音和声音生成模型家族。它专为高保真、高表现力和复杂真实场景设计，涵盖稳定长文本语音、多说话人对话、语音/角色设计、环境音效及实时流式TTS。"
-        },
-        {
-          "rank": 19,
-          "name": "revfactory/harness",
-          "url": "https://github.com/revfactory/harness",
-          "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-          "language": "HTML",
-          "stars_total": 4190,
-          "stars_today": 80,
-          "description_zh": "一种元技能，用于设计特定领域的智能体团队、定义专业智能体，并生成它们所使用的技能。"
         }
       ]
     }
