@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-29",
-      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI投资研究、自动驾驶、GPU计算及文档处理，涵盖Simplex无标识网络、价值投资框架、开源驾驶系统等创新工具。",
+      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI投资框架、自动驾驶、GPU计算及文档处理，涵盖Simplex无标识网络、价值研究多智能体、开源驾驶系统等创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/DeusData/codebase-memory-mcp",
           "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
           "language": "C",
-          "stars_total": 19883,
+          "stars_total": 20662,
           "stars_today": 2190,
           "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——平均仓库处理时间毫秒级。支持158种语言，亚毫秒查询，减少99%的令牌。单个静态二进制文件，零依赖。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/xbtlin/ai-berkshire",
           "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
           "language": "Python",
-          "stars_total": 5487,
+          "stars_total": 6210,
           "stars_today": 1445,
           "description_zh": "AI时代的伯克希尔：基于Claude Code / Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/simplex-chat/simplex-chat",
           "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
           "language": "Haskell",
-          "stars_total": 15175,
+          "stars_total": 15826,
           "stars_today": 1180,
           "description_zh": "SimpleX——首个无需任何用户标识符运行的通讯网络，设计上100%私密！支持iOS、Android和桌面应用📱！"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/ripienaar/free-for-dev",
           "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
           "language": "HTML",
-          "stars_total": 125403,
+          "stars_total": 126274,
           "stars_today": 495,
           "description_zh": "一份包含SaaS、PaaS和IaaS产品的列表，这些产品提供对DevOps和基础设施开发者有用的免费套餐"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 14409,
+          "stars_total": 14748,
           "stars_today": 492,
           "description_zh": "\"Vibe-Trading：您的个人交易智能体\""
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/opendatalab/MinerU",
           "description_en": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
           "language": "Python",
-          "stars_total": 71690,
+          "stars_total": 72112,
           "stars_today": 380,
           "description_zh": "将PDF和Office文档等复杂文档转换为LLM就绪的markdown/JSON格式，用于您的智能体工作流程。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/Robbyant/lingbot-map",
           "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
           "language": "Python",
-          "stars_total": 8273,
+          "stars_total": 8474,
           "stars_today": 372,
           "description_zh": "一个前馈式3D基础模型，用于从流式数据重建场景"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/altic-dev/FluidVoice",
           "description_en": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
           "language": "Swift",
-          "stars_total": 3799,
+          "stars_total": 4037,
           "stars_today": 365,
           "description_zh": "FluidVoice - 最快的macOS离线听写应用 - 语音转文字完全本地化。一颗⭐能让我们走得更远:))"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/commaai/openpilot",
           "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
           "language": "Python",
-          "stars_total": 62441,
+          "stars_total": 62632,
           "stars_today": 266,
           "description_zh": "openpilot是一个机器人操作系统。目前，它升级了300多款支持车型的驾驶辅助系统。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/ByteByteGoHq/system-design-101",
           "description_en": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
           "language": "",
-          "stars_total": 84548,
+          "stars_total": 84894,
           "stars_today": 250,
           "description_zh": "使用可视化图表和简单术语解释复杂系统。帮助您准备系统设计面试。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 11153,
+          "stars_total": 11542,
           "stars_today": 196,
           "description_zh": "使用编码智能体编辑视频"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/cupy/cupy",
           "description_en": "NumPy & SciPy for GPU",
           "language": "Python",
-          "stars_total": 11553,
+          "stars_total": 11660,
           "stars_today": 174,
           "description_zh": "适用于GPU的NumPy和SciPy"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/usestrix/strix",
           "description_en": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars_total": 26798,
+          "stars_total": 27093,
           "stars_today": 122,
           "description_zh": "开源AI黑客工具，用于发现并修复您应用的漏洞。"
         }
