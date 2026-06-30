@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-06-30",
+      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI代理、GPU加速、语音识别、用户画像、自动驾驶、开发者免费资源、身份认证、价值投资框架及视频编辑，展现AI与隐私技术的多元创新。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars_total": 126778,
+          "stars_today": 1935,
+          "description_zh": "面向DevOps和基础设施开发者的免费SaaS、PaaS和IaaS服务列表"
+        },
+        {
+          "rank": 2,
+          "name": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+          "language": "Haskell",
+          "stars_total": 16685,
+          "stars_today": 1607,
+          "description_zh": "SimpleX - 首个无需任何用户标识符即可运行的通讯网络，设计上100%保护隐私！支持iOS、Android和桌面应用📱！"
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 119040,
+          "stars_today": 1425,
+          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区达人，从趣味注入者到现实检验者。每个代理都是具有个性、流程和可交付成果的领域专家。"
+        },
+        {
+          "rank": 4,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "language": "Python",
+          "stars_total": 6724,
+          "stars_today": 1386,
+          "description_zh": "AI时代的伯克希尔：基于Claude Code / Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description_en": "Edit videos with coding agents",
+          "language": "Python",
+          "stars_total": 11989,
+          "stars_today": 967,
+          "description_zh": "使用编码代理编辑视频"
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars_total": 15147,
+          "stars_today": 839,
+          "description_zh": "\"Vibe-Trading：您的个人交易代理\""
+        },
+        {
+          "rank": 7,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description_en": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+          "language": "Swift",
+          "stars_total": 4430,
+          "stars_today": 830,
+          "description_zh": "FluidVoice - 最快的macOS离线听写应用，完全本地的语音转文字功能。一个⭐就能给我们巨大动力：））"
+        },
+        {
+          "rank": 8,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+          "language": "Python",
+          "stars_total": 62790,
+          "stars_today": 458,
+          "description_zh": "openpilot是一个机器人操作系统。目前，它可升级300多款支持车型的驾驶辅助系统。"
+        },
+        {
+          "rank": 9,
+          "name": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "description_en": "NumPy & SciPy for GPU",
+          "language": "Python",
+          "stars_total": 11857,
+          "stars_today": 352,
+          "description_zh": "面向GPU的NumPy与SciPy替代库"
+        },
+        {
+          "rank": 10,
+          "name": "0xNyk/council-of-high-intelligence",
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "description_en": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+          "language": "Shell",
+          "stars_total": 1951,
+          "stars_today": 331,
+          "description_zh": "18个AI角色跨多个LLM提供商审议您最艰难的决策。亚里士多德、费曼、卡尼曼、托瓦兹等——结构化多轮审议，真正的模型多样性。一条命令：/council"
+        },
+        {
+          "rank": 11,
+          "name": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "description_en": "Desktop app to manage markdown knowledge bases",
+          "language": "TypeScript",
+          "stars_total": 17551,
+          "stars_today": 280,
+          "description_zh": "管理Markdown知识库的桌面应用"
+        },
+        {
+          "rank": 12,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars_total": 34428,
+          "stars_today": 224,
+          "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案"
+        },
+        {
+          "rank": 13,
+          "name": "veracrypt/VeraCrypt",
+          "url": "https://github.com/veracrypt/VeraCrypt",
+          "description_en": "Disk encryption with strong security based on TrueCrypt",
+          "language": "C",
+          "stars_total": 10506,
+          "stars_today": 186,
+          "description_zh": "基于TrueCrypt的强安全性磁盘加密工具"
+        },
+        {
+          "rank": 14,
+          "name": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "description_en": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+          "language": "TypeScript",
+          "stars_total": 12711,
+          "stars_today": 158,
+          "description_zh": "🧑‍🚀 基于OIDC和OAuth 2.1构建的SaaS与AI应用认证授权基础设施，支持多租户、单点登录和基于角色的访问控制。"
+        },
+        {
+          "rank": 15,
+          "name": "Unclecheng-li/VulnClaw",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "description_en": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+          "language": "Python",
+          "stars_total": 1189,
+          "stars_today": 129,
+          "description_zh": "基于AI Agent + MCP工具链 + 渗透技能编排，配合大语言模型，自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
+        }
+      ]
+    },
+    {
       "date": "2026-06-29",
       "summary_zh": "今日GitHub热门项目聚焦隐私通信、AI代理、GPU加速、语音识别、用户信息搜集、自动驾驶、开发者免费资源、身份认证、价值投资框架及视频编辑，涵盖隐私、AI与开发工具。",
       "projects": [
@@ -4751,162 +4907,6 @@
           "stars_total": 17787,
           "stars_today": 82,
           "description_zh": "《算法交易机器学习》第二版的代码。"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-31",
-      "summary_zh": "今日GitHub热门项目聚焦AI视频生成、文档转换、智能爬虫及语音克隆，涵盖多模态内容创作与开发者工具链创新。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "microsoft/markitdown",
-          "url": "https://github.com/microsoft/markitdown",
-          "description_en": "Python tool for converting files and office documents to Markdown.",
-          "language": "Python",
-          "stars_total": 134506,
-          "stars_today": 2759,
-          "description_zh": "用于将文件和办公文档转换为Markdown的Python工具。"
-        },
-        {
-          "rank": 2,
-          "name": "harry0703/MoneyPrinterTurbo",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-          "language": "Python",
-          "stars_total": 73843,
-          "stars_today": 1937,
-          "description_zh": "利用AI大模型，一键生成高清短视频。"
-        },
-        {
-          "rank": 3,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 509194,
-          "stars_today": 1112,
-          "description_zh": "通过从头重建你喜爱的技术来掌握编程。"
-        },
-        {
-          "rank": 4,
-          "name": "D4Vinci/Scrapling",
-          "url": "https://github.com/D4Vinci/Scrapling",
-          "description_en": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-          "language": "Python",
-          "stars_total": 56437,
-          "stars_today": 639,
-          "description_zh": "🕷️ 一个自适应网络爬虫框架，可处理从单次请求到全规模爬取的所有任务！"
-        },
-        {
-          "rank": 5,
-          "name": "OpenBMB/VoxCPM",
-          "url": "https://github.com/OpenBMB/VoxCPM",
-          "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-          "language": "Python",
-          "stars_total": 23352,
-          "stars_today": 639,
-          "description_zh": "VoxCPM2：用于多语言语音生成、创意语音设计和逼真克隆的无分词器文本转语音系统。"
-        },
-        {
-          "rank": 6,
-          "name": "FareedKhan-dev/train-llm-from-scratch",
-          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-          "description_en": "A straightforward method for training your LLM, from downloading data to generating text.",
-          "language": "Jupyter Notebook",
-          "stars_total": 2819,
-          "stars_today": 627,
-          "description_zh": "从下载数据到生成文本，训练你的大语言模型的直接方法。"
-        },
-        {
-          "rank": 7,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "Python",
-          "stars_total": 128798,
-          "stars_today": 490,
-          "description_zh": "Claude Code是一个驻留在终端中的智能编码工具，它能理解你的代码库，通过执行日常任务、解释复杂代码和处理Git工作流来帮助你更快地编码——全部通过自然语言指令完成。"
-        },
-        {
-          "rank": 8,
-          "name": "Crosstalk-Solutions/project-nomad",
-          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-          "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-          "language": "TypeScript",
-          "stars_total": 27628,
-          "stars_today": 372,
-          "description_zh": "Project N.O.M.A.D，一个自包含的离线生存计算机，内置关键工具、知识和AI，让你随时随地保持信息灵通并充满力量。"
-        },
-        {
-          "rank": 9,
-          "name": "nesquena/hermes-webui",
-          "url": "https://github.com/nesquena/hermes-webui",
-          "description_en": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-          "language": "Python",
-          "stars_total": 9818,
-          "stars_today": 320,
-          "description_zh": "Hermes WebUI：在网页或手机上使用Hermes Agent的最佳方式！"
-        },
-        {
-          "rank": 10,
-          "name": "revfactory/harness",
-          "url": "https://github.com/revfactory/harness",
-          "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-          "language": "HTML",
-          "stars_total": 4531,
-          "stars_today": 318,
-          "description_zh": "一种元技能，用于设计领域特定的智能体团队、定义专业智能体并生成它们所使用的技能。"
-        },
-        {
-          "rank": 11,
-          "name": "EveryInc/compound-engineering-plugin",
-          "url": "https://github.com/EveryInc/compound-engineering-plugin",
-          "description_en": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-          "language": "TypeScript",
-          "stars_total": 18643,
-          "stars_today": 243,
-          "description_zh": "适用于Claude Code、Codex、Cursor等工具的官方Compound Engineering插件。"
-        },
-        {
-          "rank": 12,
-          "name": "supermemoryai/supermemory",
-          "url": "https://github.com/supermemoryai/supermemory",
-          "description_en": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-          "language": "TypeScript",
-          "stars_total": 23212,
-          "stars_today": 236,
-          "description_zh": "一个极快、可扩展的记忆引擎和应用。面向AI时代的记忆API。"
-        },
-        {
-          "rank": 13,
-          "name": "emmabostian/developer-portfolios",
-          "url": "https://github.com/emmabostian/developer-portfolios",
-          "description_en": "A list of developer portfolios for your inspiration",
-          "language": "Python",
-          "stars_total": 23283,
-          "stars_today": 67,
-          "description_zh": "一份供你参考的开发者作品集列表。"
-        },
-        {
-          "rank": 14,
-          "name": "nicobailon/pi-subagents",
-          "url": "https://github.com/nicobailon/pi-subagents",
-          "description_en": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
-          "language": "TypeScript",
-          "stars_total": 1797,
-          "stars_today": 59,
-          "description_zh": "Pi扩展，用于支持截断、工件和会话共享的异步子智能体委派。"
-        },
-        {
-          "rank": 15,
-          "name": "github/docs",
-          "url": "https://github.com/github/docs",
-          "description_en": "The open-source repo for docs.github.com",
-          "language": "TypeScript",
-          "stars_total": 19669,
-          "stars_today": 20,
-          "description_zh": "docs.github.com 的开源仓库。"
         }
       ]
     }
