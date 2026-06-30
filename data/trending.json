@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-06-30",
-      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI代理、GPU加速、语音识别、用户画像、自动驾驶、开发者免费资源、身份认证、价值投资框架及视频编辑，展现AI与隐私技术的多元创新。",
+      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI代理、GPU计算与价值投资框架，涵盖无标识网络、多智能体协作及本地语音转文字工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/ripienaar/free-for-dev",
           "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
           "language": "HTML",
-          "stars_total": 126778,
+          "stars_total": 127019,
           "stars_today": 1935,
           "description_zh": "面向DevOps和基础设施开发者的免费SaaS、PaaS和IaaS服务列表"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/simplex-chat/simplex-chat",
           "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
           "language": "Haskell",
-          "stars_total": 16685,
+          "stars_total": 17085,
           "stars_today": 1607,
           "description_zh": "SimpleX - 首个无需任何用户标识符即可运行的通讯网络，设计上100%保护隐私！支持iOS、Android和桌面应用📱！"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 119040,
+          "stars_total": 119654,
           "stars_today": 1425,
           "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区达人，从趣味注入者到现实检验者。每个代理都是具有个性、流程和可交付成果的领域专家。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/xbtlin/ai-berkshire",
           "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
           "language": "Python",
-          "stars_total": 6724,
+          "stars_total": 7101,
           "stars_today": 1386,
           "description_zh": "AI时代的伯克希尔：基于Claude Code / Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 11989,
+          "stars_total": 12215,
           "stars_today": 967,
           "description_zh": "使用编码代理编辑视频"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 15147,
+          "stars_total": 15415,
           "stars_today": 839,
           "description_zh": "\"Vibe-Trading：您的个人交易代理\""
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/altic-dev/FluidVoice",
           "description_en": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
           "language": "Swift",
-          "stars_total": 4430,
+          "stars_total": 4623,
           "stars_today": 830,
           "description_zh": "FluidVoice - 最快的macOS离线听写应用，完全本地的语音转文字功能。一个⭐就能给我们巨大动力：））"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/commaai/openpilot",
           "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
           "language": "Python",
-          "stars_total": 62790,
+          "stars_total": 62865,
           "stars_today": 458,
           "description_zh": "openpilot是一个机器人操作系统。目前，它可升级300多款支持车型的驾驶辅助系统。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/cupy/cupy",
           "description_en": "NumPy & SciPy for GPU",
           "language": "Python",
-          "stars_total": 11857,
+          "stars_total": 11936,
           "stars_today": 352,
           "description_zh": "面向GPU的NumPy与SciPy替代库"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/0xNyk/council-of-high-intelligence",
           "description_en": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
           "language": "Shell",
-          "stars_total": 1951,
+          "stars_total": 2198,
           "stars_today": 331,
           "description_zh": "18个AI角色跨多个LLM提供商审议您最艰难的决策。亚里士多德、费曼、卡尼曼、托瓦兹等——结构化多轮审议，真正的模型多样性。一条命令：/council"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/refactoringhq/tolaria",
           "description_en": "Desktop app to manage markdown knowledge bases",
           "language": "TypeScript",
-          "stars_total": 17551,
+          "stars_total": 17733,
           "stars_today": 280,
           "description_zh": "管理Markdown知识库的桌面应用"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/soxoj/maigret",
           "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
           "language": "Python",
-          "stars_total": 34428,
+          "stars_total": 34627,
           "stars_today": 224,
           "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/veracrypt/VeraCrypt",
           "description_en": "Disk encryption with strong security based on TrueCrypt",
           "language": "C",
-          "stars_total": 10506,
+          "stars_total": 10580,
           "stars_today": 186,
           "description_zh": "基于TrueCrypt的强安全性磁盘加密工具"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/logto-io/logto",
           "description_en": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
           "language": "TypeScript",
-          "stars_total": 12711,
+          "stars_total": 12921,
           "stars_today": 158,
           "description_zh": "🧑‍🚀 基于OIDC和OAuth 2.1构建的SaaS与AI应用认证授权基础设施，支持多租户、单点登录和基于角色的访问控制。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/Unclecheng-li/VulnClaw",
           "description_en": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
           "language": "Python",
-          "stars_total": 1189,
+          "stars_total": 1324,
           "stars_today": 129,
           "description_zh": "基于AI Agent + MCP工具链 + 渗透技能编排，配合大语言模型，自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
         }
