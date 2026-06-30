@@ -2,17 +2,17 @@
   "days": [
     {
       "date": "2026-06-30",
-      "summary_zh": "今日GitHub热门项目聚焦隐私通讯、AI代理、GPU计算与价值投资框架，涵盖无标识网络、多智能体协作及本地语音转文字工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI安全测试、多智能体协作、本地语音转文字、免费AI网关、视频编辑代理、价值投资框架及计算机视觉工具，开源与效率提升成亮点。",
       "projects": [
         {
           "rank": 1,
-          "name": "ripienaar/free-for-dev",
-          "url": "https://github.com/ripienaar/free-for-dev",
-          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-          "language": "HTML",
-          "stars_total": 127019,
-          "stars_today": 1935,
-          "description_zh": "面向DevOps和基础设施开发者的免费SaaS、PaaS和IaaS服务列表"
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 120156,
+          "stars_today": 1793,
+          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区达人，从趣味注入者到现实检验者。每个代理都是具有个性、流程和可交付成果的领域专家。"
         },
         {
           "rank": 2,
@@ -20,139 +20,159 @@
           "url": "https://github.com/simplex-chat/simplex-chat",
           "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
           "language": "Haskell",
-          "stars_total": 17085,
-          "stars_today": 1607,
+          "stars_total": 17225,
+          "stars_today": 1229,
           "description_zh": "SimpleX - 首个无需任何用户标识符即可运行的通讯网络，设计上100%保护隐私！支持iOS、Android和桌面应用📱！"
         },
         {
           "rank": 3,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 119654,
-          "stars_today": 1425,
-          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区达人，从趣味注入者到现实检验者。每个代理都是具有个性、流程和可交付成果的领域专家。"
-        },
-        {
-          "rank": 4,
           "name": "xbtlin/ai-berkshire",
           "url": "https://github.com/xbtlin/ai-berkshire",
           "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
           "language": "Python",
-          "stars_total": 7101,
-          "stars_today": 1386,
+          "stars_total": 7319,
+          "stars_today": 966,
           "description_zh": "AI时代的伯克希尔：基于Claude Code / Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
         },
         {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 242126,
+          "stars_today": 884,
+          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
+        },
+        {
           "rank": 5,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars_total": 127161,
+          "stars_today": 740,
+          "description_zh": "面向DevOps和基础设施开发者的免费SaaS、PaaS和IaaS服务列表"
+        },
+        {
+          "rank": 6,
           "name": "browser-use/video-use",
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 12215,
-          "stars_today": 967,
+          "stars_total": 12353,
+          "stars_today": 722,
           "description_zh": "使用编码代理编辑视频"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "HKUDS/Vibe-Trading",
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 15415,
-          "stars_today": 839,
+          "stars_total": 15564,
+          "stars_today": 719,
           "description_zh": "\"Vibe-Trading：您的个人交易代理\""
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description_en": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+          "language": "TypeScript",
+          "stars_total": 8178,
+          "stars_today": 617,
+          "description_zh": "永不停歇的编码。免费AI网关：一个端点，160+提供商（50+免费），连接Claude Code、Codex、Cursor、Cline和Copilot到免费的Claude/GPT/Gemini。RTK+Caveman堆叠压缩节省15-95%令牌，智能自动回退，MCP/A2A，多模态API，桌面端/PWA。"
+        },
+        {
+          "rank": 9,
           "name": "altic-dev/FluidVoice",
           "url": "https://github.com/altic-dev/FluidVoice",
           "description_en": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
           "language": "Swift",
-          "stars_total": 4623,
-          "stars_today": 830,
+          "stars_total": 4729,
+          "stars_today": 586,
           "description_zh": "FluidVoice - 最快的macOS离线听写应用，完全本地的语音转文字功能。一个⭐就能给我们巨大动力：））"
         },
         {
-          "rank": 8,
-          "name": "commaai/openpilot",
-          "url": "https://github.com/commaai/openpilot",
-          "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-          "language": "Python",
-          "stars_total": 62865,
-          "stars_today": 458,
-          "description_zh": "openpilot是一个机器人操作系统。目前，它可升级300多款支持车型的驾驶辅助系统。"
-        },
-        {
-          "rank": 9,
-          "name": "cupy/cupy",
-          "url": "https://github.com/cupy/cupy",
-          "description_en": "NumPy & SciPy for GPU",
-          "language": "Python",
-          "stars_total": 11936,
-          "stars_today": 352,
-          "description_zh": "面向GPU的NumPy与SciPy替代库"
-        },
-        {
           "rank": 10,
-          "name": "0xNyk/council-of-high-intelligence",
-          "url": "https://github.com/0xNyk/council-of-high-intelligence",
-          "description_en": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-          "language": "Shell",
-          "stars_total": 2198,
-          "stars_today": 331,
-          "description_zh": "18个AI角色跨多个LLM提供商审议您最艰难的决策。亚里士多德、费曼、卡尼曼、托瓦兹等——结构化多轮审议，真正的模型多样性。一条命令：/council"
+          "name": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description_en": "agent multiplexer that lives in your terminal.",
+          "language": "Rust",
+          "stars_total": 8769,
+          "stars_today": 467,
+          "description_zh": "驻留在终端中的代理多路复用器。"
         },
         {
           "rank": 11,
-          "name": "refactoringhq/tolaria",
-          "url": "https://github.com/refactoringhq/tolaria",
-          "description_en": "Desktop app to manage markdown knowledge bases",
-          "language": "TypeScript",
-          "stars_total": 17733,
-          "stars_today": 280,
-          "description_zh": "管理Markdown知识库的桌面应用"
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars_total": 8700,
+          "stars_today": 465,
+          "description_zh": "一种前馈式3D基础模型，用于从流数据中重建场景。"
         },
         {
           "rank": 12,
-          "name": "soxoj/maigret",
-          "url": "https://github.com/soxoj/maigret",
-          "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "name": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "description_en": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
           "language": "Python",
-          "stars_total": 34627,
-          "stars_today": 224,
-          "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案"
+          "stars_total": 3874,
+          "stars_today": 433,
+          "description_zh": "命令行工具和技能集，可将任何编码助手转变为在Google Cloud上创建、评估和部署AI代理的专家。"
         },
         {
           "rank": 13,
-          "name": "veracrypt/VeraCrypt",
-          "url": "https://github.com/veracrypt/VeraCrypt",
-          "description_en": "Disk encryption with strong security based on TrueCrypt",
-          "language": "C",
-          "stars_total": 10580,
-          "stars_today": 186,
-          "description_zh": "基于TrueCrypt的强安全性磁盘加密工具"
+          "name": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "description_en": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars_total": 1481,
+          "stars_today": 426,
+          "description_zh": "一个完全可定制且支持代理的开源设计系统。"
         },
         {
           "rank": 14,
-          "name": "logto-io/logto",
-          "url": "https://github.com/logto-io/logto",
-          "description_en": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-          "language": "TypeScript",
-          "stars_total": 12921,
-          "stars_today": 158,
-          "description_zh": "🧑‍🚀 基于OIDC和OAuth 2.1构建的SaaS与AI应用认证授权基础设施，支持多租户、单点登录和基于角色的访问控制。"
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars_total": 27683,
+          "stars_today": 395,
+          "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序漏洞。"
         },
         {
           "rank": 15,
-          "name": "Unclecheng-li/VulnClaw",
-          "url": "https://github.com/Unclecheng-li/VulnClaw",
-          "description_en": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description_en": "We write your reusable computer vision tools. 💜",
           "language": "Python",
-          "stars_total": 1324,
-          "stars_today": 129,
-          "description_zh": "基于AI Agent + MCP工具链 + 渗透技能编排，配合大语言模型，自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
+          "stars_total": 45753,
+          "stars_today": 336,
+          "description_zh": "我们编写可复用的计算机视觉工具。💜"
+        },
+        {
+          "rank": 16,
+          "name": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description_en": "12 Weeks, 24 Lessons, AI for All!",
+          "language": "Jupyter Notebook",
+          "stars_total": 48956,
+          "stars_today": 180,
+          "description_zh": "12周，24课，面向所有人的AI！"
+        },
+        {
+          "rank": 17,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description_en": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars_total": 6025,
+          "stars_today": 18,
+          "description_zh": "常见用户密码分析器（CUPP）"
         }
       ]
     },
