@@ -1,6 +1,202 @@
 {
   "days": [
     {
+      "date": "2026-07-01",
+      "summary_zh": "今日GitHub热门项目涵盖AI渗透测试、健身数据集、多智能体协作、本地语音识别、免费AI网关及价值投资框架等，聚焦开发者工具与AI应用创新。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 121066,
+          "stars_today": 1791,
+          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区达人，从创意注入者到现实核查员。每个代理都是具有个性、流程和可交付成果的专项专家。"
+        },
+        {
+          "rank": 2,
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description_en": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+          "language": "HTML",
+          "stars_total": 6855,
+          "stars_today": 1343,
+          "description_zh": "包含433个健身动作的全面数据集。每个条目包括名称、类别、目标肌群、器械、指导说明、缩略图和动画视频。"
+        },
+        {
+          "rank": 3,
+          "name": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+          "language": "Haskell",
+          "stars_total": 17364,
+          "stars_today": 1235,
+          "description_zh": "SimpleX——首个无需任何用户标识符运行的通信网络，100%隐私设计！支持iOS、Android和桌面应用📱！"
+        },
+        {
+          "rank": 4,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "language": "Python",
+          "stars_total": 7575,
+          "stars_today": 969,
+          "description_zh": "AI时代的伯克希尔：基于Claude Code / Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 242607,
+          "stars_today": 890,
+          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 6,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars_total": 127354,
+          "stars_today": 742,
+          "description_zh": "面向DevOps和基础设施开发者的免费SaaS、PaaS和IaaS服务列表"
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description_en": "Edit videos with coding agents",
+          "language": "Python",
+          "stars_total": 12657,
+          "stars_today": 721,
+          "description_zh": "使用编码代理编辑视频"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars_total": 15841,
+          "stars_today": 721,
+          "description_zh": "“Vibe-Trading：您的个人交易代理”"
+        },
+        {
+          "rank": 9,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+          "language": "Swift",
+          "stars_total": 4955,
+          "stars_today": 588,
+          "description_zh": "最快且唯一的macOS听写应用，支持设备端语音转文字和自定义训练的AI增强模型——本地Wispr Flow替代方案。一颗⭐对我们意义重大：）Windows、iOS和Linux版本即将推出。"
+        },
+        {
+          "rank": 10,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars_total": 28202,
+          "stars_today": 515,
+          "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序的漏洞。"
+        },
+        {
+          "rank": 11,
+          "name": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description_en": "agent multiplexer that lives in your terminal.",
+          "language": "Rust",
+          "stars_total": 9056,
+          "stars_today": 486,
+          "description_zh": "驻留在终端中的代理多路复用器。"
+        },
+        {
+          "rank": 12,
+          "name": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "description_en": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+          "language": "Python",
+          "stars_total": 4244,
+          "stars_today": 445,
+          "description_zh": "将任何编码助手转变为在Google Cloud上创建、评估和部署AI代理专家的CLI和技能集。"
+        },
+        {
+          "rank": 13,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description_en": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+          "language": "TypeScript",
+          "stars_total": 8619,
+          "stars_today": 387,
+          "description_zh": "永不停歇的编码。免费AI网关：一个端点，231+个提供商（50+免费），连接Claude Code、Codex、Cursor、Cline和Copilot到免费的Claude/GPT/Gemini。RTK+Caveman堆叠压缩节省15-95%令牌，智能自动回退，MCP/A2A，多模态API，桌面端/PWA。"
+        },
+        {
+          "rank": 14,
+          "name": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "description_en": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars_total": 1837,
+          "stars_today": 364,
+          "description_zh": "一个完全可定制且支持代理的开源设计系统"
+        },
+        {
+          "rank": 15,
+          "name": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description_en": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+          "language": "TypeScript",
+          "stars_total": 1565,
+          "stars_today": 351,
+          "description_zh": "Instatic是一个现代化的自托管可视化CMS——1分钟即可运行"
+        },
+        {
+          "rank": 16,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description_en": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars_total": 45940,
+          "stars_today": 309,
+          "description_zh": "我们编写可复用的计算机视觉工具。💜"
+        },
+        {
+          "rank": 17,
+          "name": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description_en": "12 Weeks, 24 Lessons, AI for All!",
+          "language": "Jupyter Notebook",
+          "stars_total": 49446,
+          "stars_today": 252,
+          "description_zh": "12周，24课，面向所有人的AI课程！"
+        },
+        {
+          "rank": 18,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars_total": 8894,
+          "stars_today": 189,
+          "description_zh": "一个用于从流式数据重建场景的前馈3D基础模型"
+        },
+        {
+          "rank": 19,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description_en": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars_total": 6115,
+          "stars_today": 32,
+          "description_zh": "常见用户密码分析工具（CUPP）"
+        }
+      ]
+    },
+    {
       "date": "2026-06-30",
       "summary_zh": "今日GitHub热门项目聚焦AI安全、健身数据集、语音听写、视频编辑及价值投资框架，涵盖开发工具与实用资源。",
       "projects": [
@@ -4771,182 +4967,6 @@
           "stars_total": 6343,
           "stars_today": 31,
           "description_zh": "生产级智能RAG课程"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-01",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具链：文件转Markdown、短视频一键生成、多智能体金融交易框架，以及自适应爬虫与记忆引擎，展现AI开发与自动化新趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "harry0703/MoneyPrinterTurbo",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-          "language": "Python",
-          "stars_total": 76727,
-          "stars_today": 3325,
-          "description_zh": "利用 AI 大模型，一键生成高清短视频。"
-        },
-        {
-          "rank": 2,
-          "name": "microsoft/markitdown",
-          "url": "https://github.com/microsoft/markitdown",
-          "description_en": "Python tool for converting files and office documents to Markdown.",
-          "language": "Python",
-          "stars_total": 138068,
-          "stars_today": 3086,
-          "description_zh": "用于将文件和办公文档转换为 Markdown 的 Python 工具。"
-        },
-        {
-          "rank": 3,
-          "name": "D4Vinci/Scrapling",
-          "url": "https://github.com/D4Vinci/Scrapling",
-          "description_en": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-          "language": "Python",
-          "stars_total": 57905,
-          "stars_today": 1475,
-          "description_zh": "🕷️ 一个自适应的网页抓取框架，可处理从单个请求到全规模爬取的所有任务！"
-        },
-        {
-          "rank": 4,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 510309,
-          "stars_today": 1194,
-          "description_zh": "通过从头重建你喜爱的技术来掌握编程。"
-        },
-        {
-          "rank": 5,
-          "name": "nesquena/hermes-webui",
-          "url": "https://github.com/nesquena/hermes-webui",
-          "description_en": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-          "language": "Python",
-          "stars_total": 11113,
-          "stars_today": 984,
-          "description_zh": "Hermes WebUI：从网页或手机上使用 Hermes Agent 的最佳方式！"
-        },
-        {
-          "rank": 6,
-          "name": "OpenBMB/VoxCPM",
-          "url": "https://github.com/OpenBMB/VoxCPM",
-          "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-          "language": "Python",
-          "stars_total": 24165,
-          "stars_today": 880,
-          "description_zh": "VoxCPM2：用于多语言语音生成、创意语音设计和逼真克隆的无分词器 TTS 模型。"
-        },
-        {
-          "rank": 7,
-          "name": "FareedKhan-dev/train-llm-from-scratch",
-          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-          "description_en": "A straightforward method for training your LLM, from downloading data to generating text.",
-          "language": "Jupyter Notebook",
-          "stars_total": 3657,
-          "stars_today": 860,
-          "description_zh": "从下载数据到生成文本，训练你的 LLM 的直截了当的方法。"
-        },
-        {
-          "rank": 8,
-          "name": "supermemoryai/supermemory",
-          "url": "https://github.com/supermemoryai/supermemory",
-          "description_en": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-          "language": "TypeScript",
-          "stars_total": 23898,
-          "stars_today": 660,
-          "description_zh": "极快、可扩展的记忆引擎和应用程序。面向 AI 时代的记忆 API。"
-        },
-        {
-          "rank": 9,
-          "name": "pbakaus/impeccable",
-          "url": "https://github.com/pbakaus/impeccable",
-          "description_en": "The design language that makes your AI harness better at design.",
-          "language": "JavaScript",
-          "stars_total": 32602,
-          "stars_today": 612,
-          "description_zh": "让你的 AI 工具在设计方面表现更出色的设计语言。"
-        },
-        {
-          "rank": 10,
-          "name": "revfactory/harness",
-          "url": "https://github.com/revfactory/harness",
-          "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-          "language": "HTML",
-          "stars_total": 5093,
-          "stars_today": 527,
-          "description_zh": "一种元技能，用于设计特定领域的智能体团队、定义专业智能体并生成它们所使用的技能。"
-        },
-        {
-          "rank": 11,
-          "name": "EveryInc/compound-engineering-plugin",
-          "url": "https://github.com/EveryInc/compound-engineering-plugin",
-          "description_en": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-          "language": "TypeScript",
-          "stars_total": 19064,
-          "stars_today": 428,
-          "description_zh": "适用于 Claude Code、Codex、Cursor 等工具的官方 Compound Engineering 插件。"
-        },
-        {
-          "rank": 12,
-          "name": "can1357/oh-my-pi",
-          "url": "https://github.com/can1357/oh-my-pi",
-          "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-          "language": "TypeScript",
-          "stars_total": 9416,
-          "stars_today": 333,
-          "description_zh": "⌥ 面向终端的 AI 编码智能体——基于哈希锚定的编辑、优化的工具框架、LSP、Python、浏览器、子智能体等。"
-        },
-        {
-          "rank": 13,
-          "name": "TauricResearch/TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-          "language": "Python",
-          "stars_total": 81693,
-          "stars_today": 284,
-          "description_zh": "TradingAgents：多智能体 LLM 金融交易框架。"
-        },
-        {
-          "rank": 14,
-          "name": "p-e-w/heretic",
-          "url": "https://github.com/p-e-w/heretic",
-          "description_en": "Fully automatic censorship removal for language models",
-          "language": "Python",
-          "stars_total": 22999,
-          "stars_today": 241,
-          "description_zh": "针对语言模型的完全自动化的审查移除工具。"
-        },
-        {
-          "rank": 15,
-          "name": "godotengine/godot",
-          "url": "https://github.com/godotengine/godot",
-          "description_en": "Godot Engine – Multi-platform 2D and 3D game engine",
-          "language": "C++",
-          "stars_total": 111599,
-          "stars_today": 121,
-          "description_zh": "Godot 引擎 – 多平台 2D 和 3D 游戏引擎。"
-        },
-        {
-          "rank": 16,
-          "name": "dmtrKovalenko/fff",
-          "url": "https://github.com/dmtrKovalenko/fff",
-          "description_en": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-          "language": "Rust",
-          "stars_total": 7130,
-          "stars_today": 121,
-          "description_zh": "面向 AI 智能体、Neovim、Rust、C 和 NodeJS 的最快、最准确的文件搜索工具包。"
-        },
-        {
-          "rank": 17,
-          "name": "stefan-jansen/machine-learning-for-trading",
-          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-          "description_en": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-          "language": "Jupyter Notebook",
-          "stars_total": 17787,
-          "stars_today": 82,
-          "description_zh": "《算法交易机器学习》第二版的代码。"
         }
       ]
     }
