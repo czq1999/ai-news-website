@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-01",
-      "summary_zh": "今日GitHub热门项目涵盖AI渗透测试、健身数据集、多智能体协作、本地语音识别、免费AI网关及价值投资框架等，聚焦开发者工具与AI应用创新。",
+      "summary_zh": "今日GitHub热门项目聚焦AI安全、开发工具与健身数据集，涵盖渗透测试、语音转文字、视频编辑及价值投资框架，突出开源与效率提升。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 121066,
+          "stars_total": 121660,
           "stars_today": 1791,
           "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区达人，从创意注入者到现实核查员。每个代理都是具有个性、流程和可交付成果的专项专家。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/hasaneyldrm/exercises-dataset",
           "description_en": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
           "language": "HTML",
-          "stars_total": 6855,
+          "stars_total": 7748,
           "stars_today": 1343,
           "description_zh": "包含433个健身动作的全面数据集。每个条目包括名称、类别、目标肌群、器械、指导说明、缩略图和动画视频。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/simplex-chat/simplex-chat",
           "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
           "language": "Haskell",
-          "stars_total": 17364,
+          "stars_total": 17486,
           "stars_today": 1235,
           "description_zh": "SimpleX——首个无需任何用户标识符运行的通信网络，100%隐私设计！支持iOS、Android和桌面应用📱！"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/xbtlin/ai-berkshire",
           "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
           "language": "Python",
-          "stars_total": 7575,
+          "stars_total": 7922,
           "stars_today": 969,
           "description_zh": "AI时代的伯克希尔：基于Claude Code / Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 242607,
+          "stars_total": 243025,
           "stars_today": 890,
           "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/ripienaar/free-for-dev",
           "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
           "language": "HTML",
-          "stars_total": 127354,
+          "stars_total": 127485,
           "stars_today": 742,
           "description_zh": "面向DevOps和基础设施开发者的免费SaaS、PaaS和IaaS服务列表"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 12657,
+          "stars_total": 12906,
           "stars_today": 721,
           "description_zh": "使用编码代理编辑视频"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 15841,
+          "stars_total": 16074,
           "stars_today": 721,
           "description_zh": "“Vibe-Trading：您的个人交易代理”"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/altic-dev/FluidVoice",
           "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
           "language": "Swift",
-          "stars_total": 4955,
+          "stars_total": 5185,
           "stars_today": 588,
           "description_zh": "最快且唯一的macOS听写应用，支持设备端语音转文字和自定义训练的AI增强模型——本地Wispr Flow替代方案。一颗⭐对我们意义重大：）Windows、iOS和Linux版本即将推出。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/usestrix/strix",
           "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars_total": 28202,
+          "stars_total": 28513,
           "stars_today": 515,
           "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序的漏洞。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/ogulcancelik/herdr",
           "description_en": "agent multiplexer that lives in your terminal.",
           "language": "Rust",
-          "stars_total": 9056,
+          "stars_total": 9238,
           "stars_today": 486,
           "description_zh": "驻留在终端中的代理多路复用器。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/google/agents-cli",
           "description_en": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
           "language": "Python",
-          "stars_total": 4244,
+          "stars_total": 4448,
           "stars_today": 445,
           "description_zh": "将任何编码助手转变为在Google Cloud上创建、评估和部署AI代理专家的CLI和技能集。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/diegosouzapw/OmniRoute",
           "description_en": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
           "language": "TypeScript",
-          "stars_total": 8619,
+          "stars_total": 8979,
           "stars_today": 387,
           "description_zh": "永不停歇的编码。免费AI网关：一个端点，231+个提供商（50+免费），连接Claude Code、Codex、Cursor、Cline和Copilot到免费的Claude/GPT/Gemini。RTK+Caveman堆叠压缩节省15-95%令牌，智能自动回退，MCP/A2A，多模态API，桌面端/PWA。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/facebook/astryx",
           "description_en": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "stars_total": 1837,
+          "stars_total": 2047,
           "stars_today": 364,
           "description_zh": "一个完全可定制且支持代理的开源设计系统"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/CoreBunch/Instatic",
           "description_en": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
           "language": "TypeScript",
-          "stars_total": 1565,
+          "stars_total": 1722,
           "stars_today": 351,
           "description_zh": "Instatic是一个现代化的自托管可视化CMS——1分钟即可运行"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/roboflow/supervision",
           "description_en": "We write your reusable computer vision tools. 💜",
           "language": "Python",
-          "stars_total": 45940,
+          "stars_total": 46068,
           "stars_today": 309,
           "description_zh": "我们编写可复用的计算机视觉工具。💜"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/microsoft/AI-For-Beginners",
           "description_en": "12 Weeks, 24 Lessons, AI for All!",
           "language": "Jupyter Notebook",
-          "stars_total": 49446,
+          "stars_total": 49812,
           "stars_today": 252,
           "description_zh": "12周，24课，面向所有人的AI课程！"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/Robbyant/lingbot-map",
           "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
           "language": "Python",
-          "stars_total": 8894,
+          "stars_total": 9058,
           "stars_today": 189,
           "description_zh": "一个用于从流式数据重建场景的前馈3D基础模型"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/Mebus/cupp",
           "description_en": "Common User Passwords Profiler (CUPP)",
           "language": "Python",
-          "stars_total": 6115,
+          "stars_total": 6175,
           "stars_today": 32,
           "description_zh": "常见用户密码分析工具（CUPP）"
         }
