@@ -2,77 +2,77 @@
   "days": [
     {
       "date": "2026-07-02",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理工具、安全渗透测试、交易智能体、健身数据集、设计系统、API网关、PDF处理、认证基础设施及密码分析，涵盖开发、安全与数据应用。",
+      "summary_zh": "今日GitHub热门项目聚焦AI安全测试、极简代码、多智能体协作、健身数据集、求职系统及Chrome开发工具，展现AI工具实用化与效率优化趋势。",
       "projects": [
         {
           "rank": 1,
-          "name": "hasaneyldrm/exercises-dataset",
-          "url": "https://github.com/hasaneyldrm/exercises-dataset",
-          "description_en": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-          "language": "HTML",
-          "stars_total": 8767,
-          "stars_today": 2470,
-          "description_zh": "包含433个健身动作的全面数据集。每个条目包括名称、类别、目标肌群、器材、说明、缩略图和动画视频。"
-        },
-        {
-          "rank": 2,
           "name": "msitarzewski/agency-agents",
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 124567,
-          "stars_today": 2114,
+          "stars_total": 125042,
+          "stars_today": 2925,
           "description_zh": "一个触手可及的完整AI代理机构——从前端魔法师到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是拥有个性、流程和可验证成果的领域专家。"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "usestrix/strix",
           "url": "https://github.com/usestrix/strix",
           "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars_total": 30433,
-          "stars_today": 1211,
+          "stars_total": 31000,
+          "stars_today": 2167,
           "description_zh": "开源AI渗透测试工具，用于发现并修复应用漏洞。"
         },
         {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 244045,
+          "stars_today": 1047,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
           "rank": 4,
-          "name": "microsoft/AI-For-Beginners",
-          "url": "https://github.com/microsoft/AI-For-Beginners",
-          "description_en": "12 Weeks, 24 Lessons, AI for All!",
-          "language": "Jupyter Notebook",
-          "stars_total": 50858,
-          "stars_today": 1096,
-          "description_zh": "12周，24节课，面向所有人的AI课程！"
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description_en": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+          "language": "HTML",
+          "stars_total": 8947,
+          "stars_today": 942,
+          "description_zh": "包含433个健身动作的全面数据集。每个条目包括名称、类别、目标肌群、器材、说明、缩略图和动画视频。"
         },
         {
           "rank": 5,
-          "name": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "description_en": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-          "language": "TypeScript",
-          "stars_total": 9920,
-          "stars_today": 1010,
-          "description_zh": "永不停歇的编码。免费AI网关：一个端点，231+个提供商（50+免费），连接Claude Code、Codex、Cursor、Cline和Copilot到免费的Claude/GPT/Gemini。RTK+Caveman堆叠压缩节省15-95%令牌，智能自动回退，MCP/A2A，多模态API，桌面端/PWA。"
-        },
-        {
-          "rank": 6,
-          "name": "facebook/astryx",
-          "url": "https://github.com/facebook/astryx",
-          "description_en": "An open source design system that's fully customizable and agent ready",
-          "language": "TypeScript",
-          "stars_total": 3050,
-          "stars_today": 708,
-          "description_zh": "一个完全可定制且支持AI代理的开源设计系统。"
-        },
-        {
-          "rank": 7,
           "name": "HKUDS/Vibe-Trading",
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 16981,
-          "stars_today": 694,
+          "stars_total": 17150,
+          "stars_today": 918,
           "description_zh": "“Vibe-Trading：你的个人交易代理”"
+        },
+        {
+          "rank": 6,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "language": "JavaScript",
+          "stars_total": 79736,
+          "stars_today": 866,
+          "description_zh": "🪨 用少量词汇完成更多任务——Claude Code技能，通过穴居人式对话减少65%的令牌消耗"
+        },
+        {
+          "rank": 7,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 224914,
+          "stars_today": 721,
+          "description_zh": "智能体性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
         },
         {
           "rank": 8,
@@ -80,129 +80,99 @@
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 13427,
-          "stars_today": 693,
+          "stars_total": 13563,
+          "stars_today": 550,
           "description_zh": "使用编码代理编辑视频。"
         },
         {
           "rank": 9,
-          "name": "ogulcancelik/herdr",
-          "url": "https://github.com/ogulcancelik/herdr",
-          "description_en": "agent multiplexer that lives in your terminal.",
-          "language": "Rust",
-          "stars_total": 9847,
-          "stars_today": 609,
-          "description_zh": "驻留在终端中的代理多路复用器。"
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "language": "JavaScript",
+          "stars_total": 57394,
+          "stars_today": 322,
+          "description_zh": "基于Claude Code构建的AI驱动求职系统。包含14种技能模式、Go仪表盘、PDF生成和批量处理功能。"
         },
         {
           "rank": 10,
-          "name": "altic-dev/FluidVoice",
-          "url": "https://github.com/altic-dev/FluidVoice",
-          "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming soon.",
-          "language": "Swift",
-          "stars_total": 5674,
-          "stars_today": 572,
-          "description_zh": "最快且唯一的macOS听写应用，支持设备端语音转文字和自定义训练的AI增强模型——本地Wispr Flow替代方案。一颗⭐对我们意义重大：）Windows、iOS和Linux即将推出。"
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 44948,
+          "stars_today": 92,
+          "description_zh": "面向编程智能体的Chrome开发者工具"
         },
         {
           "rank": 11,
-          "name": "CoreBunch/Instatic",
-          "url": "https://github.com/CoreBunch/Instatic",
-          "description_en": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-          "language": "TypeScript",
-          "stars_total": 2148,
-          "stars_today": 508,
-          "description_zh": "Instatic是一个现代化的自托管可视化CMS——一分钟内即可运行。"
+          "name": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "description_en": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+          "language": "Python",
+          "stars_total": 150444,
+          "stars_today": 74,
+          "description_zh": "Langflow是构建和部署AI驱动智能体及工作流的强大工具。"
         },
         {
           "rank": 12,
-          "name": "allenai/olmocr",
-          "url": "https://github.com/allenai/olmocr",
-          "description_en": "Toolkit for linearizing PDFs for LLM datasets/training",
-          "language": "Python",
-          "stars_total": 18451,
-          "stars_today": 334,
-          "description_zh": "用于将PDF线性化以构建LLM数据集/训练的工具包。"
+          "name": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
+          "language": "JavaScript",
+          "stars_total": 22340,
+          "stars_today": 72,
+          "description_zh": "通过Claude Code使用Codex进行代码审查或任务委派。"
         },
         {
           "rank": 13,
-          "name": "Mebus/cupp",
-          "url": "https://github.com/Mebus/cupp",
-          "description_en": "Common User Passwords Profiler (CUPP)",
+          "name": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "description_en": "Specification and documentation for Agent Skills",
           "language": "Python",
-          "stars_total": 6287,
-          "stars_today": 184,
-          "description_zh": "常见用户密码分析器（CUPP）"
+          "stars_total": 21435,
+          "stars_today": 47,
+          "description_zh": "智能体技能的规范与文档"
         },
         {
           "rank": 14,
-          "name": "0xNyk/council-of-high-intelligence",
-          "url": "https://github.com/0xNyk/council-of-high-intelligence",
-          "description_en": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-          "language": "Shell",
-          "stars_total": 2836,
-          "stars_today": 161,
-          "description_zh": "18个AI角色跨多个LLM提供商为你权衡最艰难的决策。亚里士多德、费曼、卡尼曼、托瓦兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars_total": 101086,
+          "stars_today": 45,
+          "description_zh": "基于Python的张量与动态神经网络，具备强大的GPU加速能力"
         },
         {
           "rank": 15,
-          "name": "refactoringhq/tolaria",
-          "url": "https://github.com/refactoringhq/tolaria",
-          "description_en": "Desktop app to manage markdown knowledge bases",
-          "language": "TypeScript",
-          "stars_total": 18137,
-          "stars_today": 150,
-          "description_zh": "用于管理Markdown知识库的桌面应用。"
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description_en": "Machine Learning Systems",
+          "language": "Python",
+          "stars_total": 25206,
+          "stars_today": 33,
+          "description_zh": "机器学习系统"
         },
         {
           "rank": 16,
-          "name": "Unclecheng-li/VulnClaw",
-          "url": "https://github.com/Unclecheng-li/VulnClaw",
-          "description_en": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-          "language": "Python",
-          "stars_total": 1691,
-          "stars_today": 132,
-          "description_zh": "基于AI Agent + MCP工具链 + 渗透Skill编排，配合大语言模型，自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
+          "name": "ryanmcdermott/clean-code-javascript",
+          "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+          "description_en": "Clean Code concepts adapted for JavaScript",
+          "language": "JavaScript",
+          "stars_total": 94483,
+          "stars_today": 11,
+          "description_zh": "适用于JavaScript的整洁代码概念"
         },
         {
           "rank": 17,
-          "name": "yikart/AiToEarn",
-          "url": "https://github.com/yikart/AiToEarn",
-          "description_en": "Let's use AI to Earn!",
+          "name": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "description_en": "Action for checking out a repo",
           "language": "TypeScript",
-          "stars_total": 22792,
-          "stars_today": 116,
-          "description_zh": "让我们用AI来赚钱！"
-        },
-        {
-          "rank": 18,
-          "name": "logto-io/logto",
-          "url": "https://github.com/logto-io/logto",
-          "description_en": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-          "language": "TypeScript",
-          "stars_total": 13427,
-          "stars_today": 113,
-          "description_zh": "🧑‍🚀 面向SaaS和AI应用的身份验证与授权基础设施，基于OIDC和OAuth 2.1构建，支持多租户、SSO和RBAC。"
-        },
-        {
-          "rank": 19,
-          "name": "TencentCloud/CubeSandbox",
-          "url": "https://github.com/TencentCloud/CubeSandbox",
-          "description_en": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-          "language": "Rust",
-          "stars_total": 6953,
-          "stars_today": 79,
-          "description_zh": "为AI代理打造的即时、并发、安全且轻量的沙箱。"
-        },
-        {
-          "rank": 20,
-          "name": "togatoga/karukan",
-          "url": "https://github.com/togatoga/karukan",
-          "description_en": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-          "language": "Rust",
-          "stars_total": 623,
-          "stars_today": 42,
-          "description_zh": "Linux和macOS的日语输入法系统，基于神经网络的假名汉字转换引擎。"
+          "stars_total": 8099,
+          "stars_today": 5,
+          "description_zh": "用于检出仓库的GitHub Action"
         }
       ]
     },
