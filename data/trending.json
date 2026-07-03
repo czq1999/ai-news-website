@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-03",
-      "summary_zh": "今日GitHub热门项目聚焦AI安全测试、极简代码技巧、多智能体协作、健身数据集、AI求职系统及Chrome开发工具，展现AI工具链与实用开发资源的多元化趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI安全测试、极简代码、多智能体协作、健身数据集、AI求职系统及Chrome开发工具，展现AI工具链与实用数据集的多元创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 125568,
+          "stars_total": 125996,
           "stars_today": 3032,
           "description_zh": "触手可及的完整AI代理机构——从前端巫师到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是拥有个性、流程和可交付成果的专家。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/usestrix/strix",
           "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars_total": 32349,
+          "stars_total": 33214,
           "stars_today": 2137,
           "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序漏洞。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 17371,
+          "stars_total": 17574,
           "stars_today": 939,
           "description_zh": "\"氛围交易：你的个人交易智能体\""
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/hasaneyldrm/exercises-dataset",
           "description_en": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
           "language": "HTML",
-          "stars_total": 9296,
+          "stars_total": 9605,
           "stars_today": 938,
           "description_zh": "包含433项健身动作的全面数据集。每项记录包括名称、类别、目标肌群、器材、动作说明、缩略图及动画视频。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/JuliusBrussee/caveman",
           "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
           "language": "JavaScript",
-          "stars_total": 81066,
+          "stars_total": 81977,
           "stars_today": 926,
           "description_zh": "🪨 少用词，多办事——Claude Code技能，通过像原始人一样说话削减65%的令牌消耗。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 244488,
+          "stars_total": 244949,
           "stars_today": 897,
           "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 13837,
+          "stars_total": 14069,
           "stars_today": 554,
           "description_zh": "使用编码智能体编辑视频"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 225220,
+          "stars_total": 225410,
           "stars_today": 486,
           "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发能力。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/santifer/career-ops",
           "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
           "language": "JavaScript",
-          "stars_total": 57879,
+          "stars_total": 58211,
           "stars_today": 372,
           "description_zh": "基于Claude Code的AI驱动求职系统。14种技能模式、Go语言仪表盘、PDF生成、批量处理。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/openai/codex-plugin-cc",
           "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
           "language": "JavaScript",
-          "stars_total": 22658,
+          "stars_total": 22849,
           "stars_today": 352,
           "description_zh": "通过Claude Code使用Codex进行代码审查或任务委派。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/langflow-ai/langflow",
           "description_en": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
           "language": "Python",
-          "stars_total": 150765,
+          "stars_total": 150980,
           "stars_today": 117,
           "description_zh": "Langflow是构建和部署AI驱动智能体与工作流的强大工具。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 45108,
+          "stars_total": 45268,
           "stars_today": 104,
           "description_zh": "面向编码智能体的Chrome开发者工具"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/agentskills/agentskills",
           "description_en": "Specification and documentation for Agent Skills",
           "language": "Python",
-          "stars_total": 21634,
+          "stars_total": 21760,
           "stars_today": 86,
           "description_zh": "智能体技能的规范与文档"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/harvard-edge/cs249r_book",
           "description_en": "Machine Learning Systems",
           "language": "Python",
-          "stars_total": 25617,
+          "stars_total": 25857,
           "stars_today": 68,
           "description_zh": "机器学习系统"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/pytorch/pytorch",
           "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
           "language": "Python",
-          "stars_total": 101242,
+          "stars_total": 101324,
           "stars_today": 65,
           "description_zh": "基于Python的张量与动态神经网络，具备强大的GPU加速能力"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/ryanmcdermott/clean-code-javascript",
           "description_en": "Clean Code concepts adapted for JavaScript",
           "language": "JavaScript",
-          "stars_total": 94577,
+          "stars_total": 94649,
           "stars_today": 27,
           "description_zh": "适用于JavaScript的整洁代码概念"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/actions/checkout",
           "description_en": "Action for checking out a repo",
           "language": "TypeScript",
-          "stars_total": 8168,
+          "stars_total": 8204,
           "stars_today": 26,
           "description_zh": "用于检出仓库的GitHub Action"
         }
