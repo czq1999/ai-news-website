@@ -2,17 +2,17 @@
   "days": [
     {
       "date": "2026-07-03",
-      "summary_zh": "今日GitHub热门项目聚焦AI安全测试、极简代码、多智能体协作、健身数据集、AI求职系统及Chrome开发工具，展现AI工具链与实用数据集的多元创新。",
+      "summary_zh": "今日GitHub热门项目聚焦AI安全测试、代码审查优化、极简Token技巧、搜索引擎、自动化运维、设计系统及机器学习系统等方向。",
       "projects": [
         {
           "rank": 1,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 125996,
-          "stars_today": 3032,
-          "description_zh": "触手可及的完整AI代理机构——从前端巫师到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是拥有个性、流程和可交付成果的专家。"
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "language": "JavaScript",
+          "stars_total": 82468,
+          "stars_today": 2851,
+          "description_zh": "🪨 少用词，多办事——Claude Code技能，通过像原始人一样说话削减65%的令牌消耗。"
         },
         {
           "rank": 2,
@@ -20,149 +20,149 @@
           "url": "https://github.com/usestrix/strix",
           "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars_total": 33214,
-          "stars_today": 2137,
+          "stars_total": 33759,
+          "stars_today": 2804,
           "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序漏洞。"
         },
         {
           "rank": 3,
-          "name": "HKUDS/Vibe-Trading",
-          "url": "https://github.com/HKUDS/Vibe-Trading",
-          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
-          "language": "Python",
-          "stars_total": 17574,
-          "stars_today": 939,
-          "description_zh": "\"氛围交易：你的个人交易智能体\""
-        },
-        {
-          "rank": 4,
-          "name": "hasaneyldrm/exercises-dataset",
-          "url": "https://github.com/hasaneyldrm/exercises-dataset",
-          "description_en": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-          "language": "HTML",
-          "stars_total": 9605,
-          "stars_today": 938,
-          "description_zh": "包含433项健身动作的全面数据集。每项记录包括名称、类别、目标肌群、器材、动作说明、缩略图及动画视频。"
-        },
-        {
-          "rank": 5,
-          "name": "JuliusBrussee/caveman",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-          "language": "JavaScript",
-          "stars_total": 81977,
-          "stars_today": 926,
-          "description_zh": "🪨 少用词，多办事——Claude Code技能，通过像原始人一样说话削减65%的令牌消耗。"
-        },
-        {
-          "rank": 6,
           "name": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 244949,
-          "stars_today": 897,
+          "stars_total": 245191,
+          "stars_today": 1205,
           "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
         },
         {
-          "rank": 7,
-          "name": "browser-use/video-use",
-          "url": "https://github.com/browser-use/video-use",
-          "description_en": "Edit videos with coding agents",
-          "language": "Python",
-          "stars_total": 14069,
-          "stars_today": 554,
-          "description_zh": "使用编码智能体编辑视频"
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 126209,
+          "stars_today": 1202,
+          "description_zh": "触手可及的完整AI代理机构——从前端巫师到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是拥有个性、流程和可交付成果的专家。"
         },
         {
-          "rank": 8,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 225410,
-          "stars_today": 486,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发能力。"
-        },
-        {
-          "rank": 9,
-          "name": "santifer/career-ops",
-          "url": "https://github.com/santifer/career-ops",
-          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-          "language": "JavaScript",
-          "stars_total": 58211,
-          "stars_today": 372,
-          "description_zh": "基于Claude Code的AI驱动求职系统。14种技能模式、Go语言仪表盘、PDF生成、批量处理。"
-        },
-        {
-          "rank": 10,
-          "name": "openai/codex-plugin-cc",
-          "url": "https://github.com/openai/codex-plugin-cc",
-          "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
-          "language": "JavaScript",
-          "stars_total": 22849,
-          "stars_today": 352,
-          "description_zh": "通过Claude Code使用Codex进行代码审查或任务委派。"
-        },
-        {
-          "rank": 11,
-          "name": "langflow-ai/langflow",
-          "url": "https://github.com/langflow-ai/langflow",
-          "description_en": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-          "language": "Python",
-          "stars_total": 150980,
-          "stars_today": 117,
-          "description_zh": "Langflow是构建和部署AI驱动智能体与工作流的强大工具。"
-        },
-        {
-          "rank": 12,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
+          "rank": 5,
+          "name": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "description_en": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "stars_total": 45268,
-          "stars_today": 104,
-          "description_zh": "面向编码智能体的Chrome开发者工具"
+          "stars_total": 4165,
+          "stars_today": 1108,
+          "description_zh": "一个完全可定制且支持智能代理的开源设计系统"
         },
         {
-          "rank": 13,
-          "name": "agentskills/agentskills",
-          "url": "https://github.com/agentskills/agentskills",
-          "description_en": "Specification and documentation for Agent Skills",
+          "rank": 6,
+          "name": "safishamsi/graphify",
+          "url": "https://github.com/safishamsi/graphify",
+          "description_en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
           "language": "Python",
-          "stars_total": 21760,
-          "stars_today": 86,
-          "description_zh": "智能体技能的规范与文档"
+          "stars_total": 76657,
+          "stars_today": 937,
+          "description_zh": "AI编码助手技能（支持Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码文件夹、SQL模式、R脚本、Shell脚本、文档、论文、图片或视频转化为可查询的知识图谱。应用代码+数据库模式+基础设施整合于一个图谱中"
         },
         {
-          "rank": 14,
+          "rank": 7,
           "name": "harvard-edge/cs249r_book",
           "url": "https://github.com/harvard-edge/cs249r_book",
           "description_en": "Machine Learning Systems",
           "language": "Python",
-          "stars_total": 25857,
-          "stars_today": 68,
+          "stars_total": 25980,
+          "stars_today": 792,
           "description_zh": "机器学习系统"
         },
         {
-          "rank": 15,
+          "rank": 8,
+          "name": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
+          "language": "JavaScript",
+          "stars_total": 22952,
+          "stars_today": 629,
+          "description_zh": "通过Claude Code使用Codex进行代码审查或任务委派。"
+        },
+        {
+          "rank": 9,
+          "name": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description_en": "agent multiplexer that lives in your terminal.",
+          "language": "Rust",
+          "stars_total": 10434,
+          "stars_today": 571,
+          "description_zh": "驻留在终端中的智能代理多路复用器"
+        },
+        {
+          "rank": 10,
+          "name": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "description_en": "Specification and documentation for Agent Skills",
+          "language": "Python",
+          "stars_total": 21846,
+          "stars_today": 405,
+          "description_zh": "智能体技能的规范与文档"
+        },
+        {
+          "rank": 11,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 45350,
+          "stars_today": 404,
+          "description_zh": "面向编码智能体的Chrome开发者工具"
+        },
+        {
+          "rank": 12,
+          "name": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "description_en": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+          "language": "Rust",
+          "stars_total": 7060,
+          "stars_today": 314,
+          "description_zh": "为AI代理提供即时、并发、安全且轻量的沙箱环境"
+        },
+        {
+          "rank": 13,
           "name": "pytorch/pytorch",
           "url": "https://github.com/pytorch/pytorch",
           "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
           "language": "Python",
-          "stars_total": 101324,
-          "stars_today": 65,
+          "stars_total": 101359,
+          "stars_today": 290,
           "description_zh": "基于Python的张量与动态神经网络，具备强大的GPU加速能力"
         },
         {
+          "rank": 14,
+          "name": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "description_en": "A beautiful, powerful, self-hosted rom manager and player.",
+          "language": "Python",
+          "stars_total": 9597,
+          "stars_today": 236,
+          "description_zh": "一个美观、强大、自托管的ROM管理器和播放器"
+        },
+        {
+          "rank": 15,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "Python",
+          "stars_total": 135668,
+          "stars_today": 202,
+          "description_zh": "Claude Code是一款驻留在终端中的智能编码工具，它能理解您的代码库，通过自然语言命令执行日常任务、解释复杂代码和处理Git工作流，帮助您更快地编码"
+        },
+        {
           "rank": 16,
-          "name": "ryanmcdermott/clean-code-javascript",
-          "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-          "description_en": "Clean Code concepts adapted for JavaScript",
-          "language": "JavaScript",
-          "stars_total": 94649,
-          "stars_today": 27,
-          "description_zh": "适用于JavaScript的整洁代码概念"
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars_total": 105272,
+          "stars_today": 145,
+          "description_zh": "Postgres开发平台。Supabase为您提供专用的Postgres数据库，用于构建Web、移动和AI应用程序"
         },
         {
           "rank": 17,
@@ -170,9 +170,39 @@
           "url": "https://github.com/actions/checkout",
           "description_en": "Action for checking out a repo",
           "language": "TypeScript",
-          "stars_total": 8204,
-          "stars_today": 26,
+          "stars_total": 8226,
+          "stars_today": 129,
           "description_zh": "用于检出仓库的GitHub Action"
+        },
+        {
+          "rank": 18,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description_en": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars_total": 77246,
+          "stars_today": 77,
+          "description_zh": "免费开源的分布式RESTful搜索引擎"
+        },
+        {
+          "rank": 19,
+          "name": "apache/maven",
+          "url": "https://github.com/apache/maven",
+          "description_en": "Apache Maven core",
+          "language": "Java",
+          "stars_total": 5192,
+          "stars_today": 53,
+          "description_zh": "Apache Maven核心"
+        },
+        {
+          "rank": 20,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description_en": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+          "language": "Python",
+          "stars_total": 69105,
+          "stars_today": 50,
+          "description_zh": "Ansible是一个极其简单的IT自动化平台，让您的应用程序和系统更易于部署和维护。通过接近自然语言的方式，使用SSH，无需在远程系统上安装代理，即可自动化从代码部署到网络配置再到云管理的所有内容。https://docs.ansible.com"
         }
       ]
     },
