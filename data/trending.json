@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-07-03",
+      "summary_zh": "今日GitHub热门项目聚焦AI安全测试、极简代码技巧、多智能体协作、健身数据集、AI求职系统及Chrome开发工具，展现AI工具链与实用开发资源的多元化趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 125568,
+          "stars_today": 3032,
+          "description_zh": "触手可及的完整AI代理机构——从前端巫师到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是拥有个性、流程和可交付成果的专家。"
+        },
+        {
+          "rank": 2,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars_total": 32349,
+          "stars_today": 2137,
+          "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序漏洞。"
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars_total": 17371,
+          "stars_today": 939,
+          "description_zh": "\"氛围交易：你的个人交易智能体\""
+        },
+        {
+          "rank": 4,
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description_en": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+          "language": "HTML",
+          "stars_total": 9296,
+          "stars_today": 938,
+          "description_zh": "包含433项健身动作的全面数据集。每项记录包括名称、类别、目标肌群、器材、动作说明、缩略图及动画视频。"
+        },
+        {
+          "rank": 5,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "language": "JavaScript",
+          "stars_total": 81066,
+          "stars_today": 926,
+          "description_zh": "🪨 少用词，多办事——Claude Code技能，通过像原始人一样说话削减65%的令牌消耗。"
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 244488,
+          "stars_today": 897,
+          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description_en": "Edit videos with coding agents",
+          "language": "Python",
+          "stars_total": 13837,
+          "stars_today": 554,
+          "description_zh": "使用编码智能体编辑视频"
+        },
+        {
+          "rank": 8,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 225220,
+          "stars_today": 486,
+          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发能力。"
+        },
+        {
+          "rank": 9,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "language": "JavaScript",
+          "stars_total": 57879,
+          "stars_today": 372,
+          "description_zh": "基于Claude Code的AI驱动求职系统。14种技能模式、Go语言仪表盘、PDF生成、批量处理。"
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
+          "language": "JavaScript",
+          "stars_total": 22658,
+          "stars_today": 352,
+          "description_zh": "通过Claude Code使用Codex进行代码审查或任务委派。"
+        },
+        {
+          "rank": 11,
+          "name": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "description_en": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+          "language": "Python",
+          "stars_total": 150765,
+          "stars_today": 117,
+          "description_zh": "Langflow是构建和部署AI驱动智能体与工作流的强大工具。"
+        },
+        {
+          "rank": 12,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 45108,
+          "stars_today": 104,
+          "description_zh": "面向编码智能体的Chrome开发者工具"
+        },
+        {
+          "rank": 13,
+          "name": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "description_en": "Specification and documentation for Agent Skills",
+          "language": "Python",
+          "stars_total": 21634,
+          "stars_today": 86,
+          "description_zh": "智能体技能的规范与文档"
+        },
+        {
+          "rank": 14,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description_en": "Machine Learning Systems",
+          "language": "Python",
+          "stars_total": 25617,
+          "stars_today": 68,
+          "description_zh": "机器学习系统"
+        },
+        {
+          "rank": 15,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars_total": 101242,
+          "stars_today": 65,
+          "description_zh": "基于Python的张量与动态神经网络，具备强大的GPU加速能力"
+        },
+        {
+          "rank": 16,
+          "name": "ryanmcdermott/clean-code-javascript",
+          "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+          "description_en": "Clean Code concepts adapted for JavaScript",
+          "language": "JavaScript",
+          "stars_total": 94577,
+          "stars_today": 27,
+          "description_zh": "适用于JavaScript的整洁代码概念"
+        },
+        {
+          "rank": 17,
+          "name": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "description_en": "Action for checking out a repo",
+          "language": "TypeScript",
+          "stars_total": 8168,
+          "stars_today": 26,
+          "description_zh": "用于检出仓库的GitHub Action"
+        }
+      ]
+    },
+    {
       "date": "2026-07-02",
       "summary_zh": "今日GitHub热门项目聚焦AI安全测试、极简编码、智能体框架、健身数据集及Chrome DevTools工具，涵盖开发效率与实用创新。",
       "projects": [
@@ -4891,152 +5067,6 @@
           "stars_total": 79761,
           "stars_today": 105,
           "description_zh": "将任何PDF或图像文档转换为AI可用的结构化数据。一个强大、轻量级的OCR工具包，弥合图像/PDF与LLM之间的差距。支持100多种语言。"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "summary_zh": "今日GitHub热门项目聚焦AI效率工具与安全：Headroom压缩LLM输入节省60-95%令牌，Trivy扫描容器与代码漏洞，Hermes智能体生态扩展，以及文档转换与网页抓取工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "chopratejas/headroom",
-          "url": "https://github.com/chopratejas/headroom",
-          "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-          "language": "Python",
-          "stars_total": 9342,
-          "stars_today": 3528,
-          "description_zh": "在工具输出、日志、文件和RAG分块到达LLM之前进行压缩。减少60-95%的令牌，答案不变。提供库、代理、MCP服务器。"
-        },
-        {
-          "rank": 2,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 205518,
-          "stars_today": 2147,
-          "description_zh": "代理工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
-        },
-        {
-          "rank": 3,
-          "name": "microsoft/markitdown",
-          "url": "https://github.com/microsoft/markitdown",
-          "description_en": "Python tool for converting files and office documents to Markdown.",
-          "language": "Python",
-          "stars_total": 142711,
-          "stars_today": 2006,
-          "description_zh": "用于将文件和办公文档转换为Markdown的Python工具。"
-        },
-        {
-          "rank": 4,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 178897,
-          "stars_today": 1736,
-          "description_zh": "与你一同成长的智能代理。"
-        },
-        {
-          "rank": 5,
-          "name": "D4Vinci/Scrapling",
-          "url": "https://github.com/D4Vinci/Scrapling",
-          "description_en": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-          "language": "Python",
-          "stars_total": 60098,
-          "stars_today": 1078,
-          "description_zh": "🕷️ 一个自适应网页抓取框架，可处理从单个请求到大规模爬取的一切任务！"
-        },
-        {
-          "rank": 6,
-          "name": "nesquena/hermes-webui",
-          "url": "https://github.com/nesquena/hermes-webui",
-          "description_en": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-          "language": "Python",
-          "stars_total": 13046,
-          "stars_today": 734,
-          "description_zh": "Hermes WebUI：从网页或手机使用Hermes Agent的最佳方式！"
-        },
-        {
-          "rank": 7,
-          "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-          "description_en": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-          "language": "Python",
-          "stars_total": 8886,
-          "stars_today": 702,
-          "description_zh": "与任意LLM进行免提语音交互、支持语音打断和Live2D形象，跨平台本地运行。"
-        },
-        {
-          "rank": 8,
-          "name": "supermemoryai/supermemory",
-          "url": "https://github.com/supermemoryai/supermemory",
-          "description_en": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-          "language": "TypeScript",
-          "stars_total": 25107,
-          "stars_today": 601,
-          "description_zh": "极速、可扩展的记忆引擎与应用。面向AI时代的记忆API。"
-        },
-        {
-          "rank": 9,
-          "name": "opendataloader-project/opendataloader-pdf",
-          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-          "description_en": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-          "language": "Java",
-          "stars_total": 23197,
-          "stars_today": 573,
-          "description_zh": "面向AI就绪数据的PDF解析器。自动化PDF无障碍处理。开源。"
-        },
-        {
-          "rank": 10,
-          "name": "jwasham/coding-interview-university",
-          "url": "https://github.com/jwasham/coding-interview-university",
-          "description_en": "A complete computer science study plan to become a software engineer.",
-          "language": "",
-          "stars_total": 348945,
-          "stars_today": 459,
-          "description_zh": "一份完整的计算机科学学习计划，助你成为软件工程师。"
-        },
-        {
-          "rank": 11,
-          "name": "HKUDS/Vibe-Trading",
-          "url": "https://github.com/HKUDS/Vibe-Trading",
-          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
-          "language": "Python",
-          "stars_total": 9820,
-          "stars_today": 221,
-          "description_zh": "\"Vibe-Trading：你的个人交易代理\""
-        },
-        {
-          "rank": 12,
-          "name": "lyogavin/airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "description_en": "AirLLM 70B inference with single 4GB GPU",
-          "language": "Jupyter Notebook",
-          "stars_total": 18810,
-          "stars_today": 208,
-          "description_zh": "AirLLM 70B推理，仅需单张4GB GPU。"
-        },
-        {
-          "rank": 13,
-          "name": "odoo/odoo",
-          "url": "https://github.com/odoo/odoo",
-          "description_en": "Odoo. Open Source Apps To Grow Your Business.",
-          "language": "Python",
-          "stars_total": 51888,
-          "stars_today": 29,
-          "description_zh": "Odoo。助力业务增长的开源应用。"
-        },
-        {
-          "rank": 14,
-          "name": "aquasecurity/trivy",
-          "url": "https://github.com/aquasecurity/trivy",
-          "description_en": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-          "language": "Go",
-          "stars_total": 35355,
-          "stars_today": 26,
-          "description_zh": "在容器、Kubernetes、代码仓库、云环境等中查找漏洞、错误配置、密钥和SBOM。"
         }
       ]
     }
