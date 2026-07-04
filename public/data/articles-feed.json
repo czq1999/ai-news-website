@@ -1,5 +1,16 @@
 [
   {
+    "id": "1ea0c04a4a991b771ed2c3f4c86cfa7c",
+    "title_en": "The only AI glossary you’ll need this year",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "published_at": "2026-07-03T21:20:00.000Z",
+    "fetched_at": "2026-07-04T02:00:10.844Z",
+    "title_zh": "今年你唯一需要的AI术语表",
+    "summary_zh": "TechCrunch发布了一份年度AI术语表，涵盖从大语言模型到生成式AI的核心概念。无论你是新手还是专家，这份指南都能帮你快速理解行业黑话，避免被复杂术语困扰。适合所有关注AI发展的读者收藏。",
+    "category": "industry"
+  },
+  {
     "id": "ab1409c32f6478f02c44e7c66579d111",
     "title_en": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
     "source": "TechCrunch AI",
@@ -272,6 +283,116 @@
     "fetched_at": "2026-07-03T08:49:51.811Z",
     "title_zh": "欧盟政客调查飞马间谍软件，结果自己手机也被入侵",
     "summary_zh": "欧盟政客在调查飞马间谍软件期间，竟发现该软件已感染其中一人的手机。飞马软件由NSO集团开发，可远程监控目标设备。此事件暴露了间谍软件对政府高层的严重威胁，也凸显了数字监控的普遍性和危险性，引发对隐私安全的进一步担忧。",
+    "category": "industry"
+  },
+  {
+    "id": "0697689c09671a2dfb754f9eccdae42b",
+    "title_en": "Green light for Greenlight: Pembina, partners go ahead with gas plant for data centre",
+    "source": "Brandon Sun",
+    "url": "http://www.brandonsun.com/business/2026/07/02/green-light-for-greenlight-pembina-partners-go-ahead-with-gas-plant-for-data-centre",
+    "published_at": "2026-07-03T01:58:36Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "Pembina等公司获批建设数据中心天然气发电厂",
+    "summary_zh": "Pembina及其合作伙伴获得批准，将建设一座专为数据中心供电的天然气发电厂。该项目旨在满足AI和云计算带来的巨大能源需求，同时平衡碳排放目标。天然气被视为过渡性能源，但环保组织批评此举可能延缓可再生能源转型。数据中心能源问题正成为行业焦点。",
+    "category": "industry"
+  },
+  {
+    "id": "629867bcc10d99618c8f78f3bee67788",
+    "title_en": "Jodie Foster Thinks ‘F1’ Was Made With AI: “Wasn’t It?”",
+    "source": "Deadline",
+    "url": "http://deadline.com/2026/07/jodie-foster-thinks-f1-was-made-with-ai-wasnt-it-1236973717/",
+    "published_at": "2026-07-03T01:57:11Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "朱迪·福斯特认为《F1》电影由AI制作：“难道不是吗？”",
+    "summary_zh": "著名演员朱迪·福斯特在采访中表示，她认为新片《F1》可能使用了AI技术制作，并反问“难道不是吗？”。尽管电影制作方未确认，但这一言论引发了对AI在影视创作中应用的广泛讨论。福斯特的评论反映了行业内外对AI取代人类创意工作的担忧。",
+    "category": "industry"
+  },
+  {
+    "id": "7f642f830e9814d20a59f9acac240aae",
+    "title_en": "Google AI: Nigerian singles now date the modern way",
+    "source": "Vanguard",
+    "url": "https://www.vanguardngr.com/2026/07/google-ai-nigerian-singles-now-date-the-modern-way/",
+    "published_at": "2026-07-03T01:46:00Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "谷歌AI助力尼日利亚单身人士开启现代约会方式",
+    "summary_zh": "谷歌在尼日利亚推出AI驱动的约会辅助工具，帮助单身人士优化个人资料、生成聊天开场白并分析匹配度。该工具利用自然语言处理技术，旨在提升约会成功率。此举反映了AI在社交领域的渗透，但也引发了对隐私和算法偏见的讨论。",
+    "category": "product"
+  },
+  {
+    "id": "4bc24f1d2ae3093e1d2222b022803a15",
+    "title_en": "Zuckerberg Says Meta's AI Agent Progress Has Been Slower Than Expected",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/58447d5d34733070",
+    "published_at": "2026-07-03T01:46:00Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "扎克伯格承认Meta AI代理进展慢于预期",
+    "summary_zh": "Meta CEO马克·扎克伯格表示，公司AI代理的开发进度未达预期，尤其在复杂任务处理和用户交互流畅性方面存在挑战。尽管Meta已投入大量资源，但AI代理仍难以实现真正的自主决策。这一表态反映了当前AI代理技术面临的普遍瓶颈，包括推理能力和可靠性问题。",
+    "category": "industry"
+  },
+  {
+    "id": "0f3e71c985d778d4c2bd96cb3d9064a1",
+    "title_en": "AI is 'not smart' so what's next in artificial intelligence?",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+    "published_at": "2026-07-03T01:42:40Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "AI‘并不聪明’：人工智能下一步将走向何方？",
+    "summary_zh": "BBC发文指出当前AI系统缺乏真正的智能，仅擅长模式匹配而非理解。文章探讨了AI发展的下一阶段，包括神经符号系统、具身智能和因果推理等方向。专家认为，突破现有瓶颈需要从大数据驱动转向更接近人类认知的架构，但实现通用人工智能仍遥遥无期。",
+    "category": "research"
+  },
+  {
+    "id": "ef20dd455c0e9657c005ad30979d02b2",
+    "title_en": "Tesla sales jump 25% in second quarter, but shares have worst day in a year",
+    "source": "The Straits Times",
+    "url": "https://www.straitstimes.com/business/companies-markets/tesla-sales-jump-25-in-second-quarter-but-shares-have-worst-day-in-a-year",
+    "published_at": "2026-07-03T01:39:38Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "特斯拉Q2销量增长25%但股价创年内最大单日跌幅",
+    "summary_zh": "特斯拉公布第二季度销量同比增长25%，超出市场预期，但股价却遭遇年内最糟糕单日表现。投资者担忧其利润率下滑、竞争加剧以及自动驾驶技术商业化进展缓慢。尽管交付量增长，特斯拉仍面临来自比亚迪等对手的激烈竞争，以及全球电动汽车需求放缓的压力。",
+    "category": "industry"
+  },
+  {
+    "id": "b296f49215caf3370627cb265c9dc910",
+    "title_en": "Zuckerberg Tells Meta Employees AI Agents Are Advancing Slower Than Expected",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/facebook-meta/2026/zuckerberg-tells-meta-employees-ai-agents-are-advancing-slower-than-expected/",
+    "published_at": "2026-07-03T01:32:02Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "扎克伯格对Meta员工表示：AI智能体进展慢于预期",
+    "summary_zh": "Meta CEO扎克伯格在内部会议上坦言，公司AI智能体（AI Agent）的发展速度未达预期。尽管Meta在AI领域投入巨大，但技术成熟度和应用落地仍面临挑战。这一表态反映了当前AI行业从模型研发到实际部署的普遍瓶颈，也暗示Meta可能调整其AI战略节奏。",
+    "category": "industry"
+  },
+  {
+    "id": "0ec7b9b7baeb164fd4171f2c37aace86",
+    "title_en": "Elon Musk's X accused of keeping graphic footage of Bondi church massacre online - as eSafety commissioner takes aim at big tech companies",
+    "source": "Dailymail.com",
+    "url": "https://www.dailymail.com/news/article-15949705/elon-musk-X-bondi-massacre-footage-esafety-antisemitism.html",
+    "published_at": "2026-07-03T01:16:22Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "马斯克的X平台被指控未删除邦迪教堂屠杀事件暴力画面，eSafety专员瞄准大型科技公司",
+    "summary_zh": "澳大利亚eSafety专员指控X平台（原Twitter）未能及时移除邦迪教堂大规模刺伤事件的暴力视频，引发对社交媒体内容审核机制的争议。此举将矛头指向大型科技公司，凸显AI时代平台在暴力内容自动检测与人工审核之间的平衡难题，可能推动更严格的监管政策。",
+    "category": "industry"
+  },
+  {
+    "id": "4ce8a0be04d3aa399752c992d9ae7938",
+    "title_en": "Email Marketing with AI for Over Fifties | Beginner System",
+    "source": "Overfiftiesaiacademy.com",
+    "url": "https://www.overfiftiesaiacademy.com/blog/email-marketing-with-ai-a-simple-beginner-system-for-over-fifties",
+    "published_at": "2026-07-03T01:14:50Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "面向50岁以上人群的AI邮件营销：初学者系统",
+    "summary_zh": "该产品为50岁以上用户提供AI驱动的邮件营销入门系统，简化操作流程，帮助非技术背景用户利用人工智能工具提升营销效率。针对银发经济趋势，降低AI应用门槛，让中老年创业者或小企业主也能轻松开展精准邮件营销。",
+    "category": "product"
+  },
+  {
+    "id": "0949578582d7f9e8c51b037efd042856",
+    "title_en": " Madness! After a wild finish, Spain learn their last-16 foes",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/madness-after-a-wild-finish-spain-learn-their-last-16-foes-43089595",
+    "published_at": "2026-07-03T01:12:00Z",
+    "fetched_at": "2026-07-04T02:00:19.157Z",
+    "title_zh": "疯狂！经历戏剧性收官后，西班牙队确定16强对手",
+    "summary_zh": "本文报道西班牙国家队在小组赛末轮惊险出线后，最终确定的淘汰赛16强对手。内容聚焦足球赛事结果，与AI技术无直接关联，属于体育新闻范畴。",
     "category": "industry"
   },
   {
@@ -5376,127 +5497,6 @@
     "fetched_at": "2026-06-27T02:15:01.288Z",
     "title_zh": "特朗普政府发布Anthropic Mythos，超100家美国企业和机构将使用",
     "summary_zh": "特朗普政府正式发布Anthropic的Mythos模型，并宣布已有超过100家美国企业和政府机构采用该技术。此举标志着AI在公共与商业领域的应用进一步扩大，也引发了对AI安全与监管的新讨论。Mythos作为Anthropic的核心产品，其广泛部署可能重塑行业格局。",
-    "category": "industry"
-  },
-  {
-    "id": "59859df9563eeb792f249320e2f6039e",
-    "title_en": "Anthropic&#8217;s Mythos 5 is back",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-    "published_at": "2026-06-27T00:33:44.000Z",
-    "fetched_at": "2026-06-27T02:15:01.351Z",
-    "title_zh": "Anthropic的Mythos 5回归",
-    "summary_zh": "Anthropic宣布其最新大语言模型Mythos 5重新上线。此前该模型因技术调整短暂下架，此次回归带来了性能优化和更强的安全性。作为AI领域的明星产品，Mythos 5的更新再次引发业界对模型能力与伦理边界的关注。",
-    "category": "llm"
-  },
-  {
-    "id": "70fe6fb548511dd07f012a483dd7ab39",
-    "title_en": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-    "published_at": "2026-06-27T00:26:14.000Z",
-    "fetched_at": "2026-06-27T02:15:01.459Z",
-    "title_zh": "特朗普政府批准Anthropic向美国特定组织发布“神话”模型",
-    "summary_zh": "特朗普政府批准AI公司Anthropic向美国特定组织发布其最新AI模型“Mythos”。该模型具备更强的推理能力，但出于安全考虑仅限部分机构使用。此举被视为美国在AI监管与竞争力之间寻求平衡的尝试，也引发了对AI技术扩散控制的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "f0aff52f674109745040723ef006b5fd",
-    "title_en": "Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/",
-    "published_at": "2026-06-26T23:15:28.000Z",
-    "fetched_at": "2026-06-27T02:15:01.460Z",
-    "title_zh": "环球影业跳过网红试映《奥德赛》，影评人欢呼",
-    "summary_zh": "环球影业决定不邀请网红参加新片《奥德赛》的提前试映，转而专注于传统影评人。这一反常规做法让影评人感到欣慰，认为专业评价将重新获得重视。此前网红试映常导致剧透泛滥和评价失真。此举或预示好莱坞营销策略的转变。",
-    "category": "industry"
-  },
-  {
-    "id": "11e64a9070a57795a2effeae8606ef6a",
-    "title_en": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
-    "published_at": "2026-06-26T22:51:28.000Z",
-    "fetched_at": "2026-06-27T02:15:01.351Z",
-    "title_zh": "我最爱的Govee智能灯在Prime Day降至历史最低价",
-    "summary_zh": "亚马逊Prime Day大促中，Govee多款智能灯饰产品价格创历史新低。这些灯具支持语音控制、色彩调节和场景联动，是智能家居爱好者的热门选择。此次促销力度空前，适合入手升级家庭照明体验。",
-    "category": "product"
-  },
-  {
-    "id": "23d6d576ab99fd47be44e3c0c6939499",
-    "title_en": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
-    "published_at": "2026-06-26T22:09:46.000Z",
-    "fetched_at": "2026-06-27T02:15:01.351Z",
-    "title_zh": "连续四天36小时报道Prime Day后，我只买了这一件东西",
-    "summary_zh": "一位科技编辑在连续四天、总计36小时追踪亚马逊Prime Day促销后，最终只为自己选购了一件商品。文章分享了他从海量折扣中精挑细选的心得，强调理性消费和真正值得入手的产品。",
-    "category": "product"
-  },
-  {
-    "id": "3f08062e455e29e01fefcf666bdb2d1a",
-    "title_en": "Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
-    "published_at": "2026-06-26T21:25:22.000Z",
-    "fetched_at": "2026-06-27T02:15:01.351Z",
-    "title_zh": "Prime Day百元以下最值得买的小玩意：非必需但超想要",
-    "summary_zh": "亚马逊Prime Day期间，多款百元以下的科技小物迎来好价。这些产品虽非生活必需品，但凭借创意设计和实用功能让人难以抗拒。文章精选了最受欢迎的几款，涵盖智能家居、音频设备等品类。",
-    "category": "product"
-  },
-  {
-    "id": "9dfd4c5bfa59d31835a32336762f191d",
-    "title_en": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
-    "published_at": "2026-06-26T21:02:54.000Z",
-    "fetched_at": "2026-06-27T02:15:01.460Z",
-    "title_zh": "中国用户如何屡次突破Anthropic的地理限制",
-    "summary_zh": "尽管Anthropic设置了严格的地理位置限制，中国用户仍通过多种方法成功访问其AI服务。方法包括使用VPN、代理服务器以及修改API请求头等。Anthropic不断升级检测手段，但用户总能找到新对策。这场猫鼠游戏凸显了AI服务全球化的挑战。",
-    "category": "product"
-  },
-  {
-    "id": "cdbfce9e78086e38c9691161fdb53b8b",
-    "title_en": "Samsung’s Excellent OLED Monitors Are Up to 36 Percent Off for Prime Day",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/",
-    "published_at": "2026-06-26T21:02:31.000Z",
-    "fetched_at": "2026-06-27T02:15:01.460Z",
-    "title_zh": "三星OLED显示器Prime Day大促，最高降幅36%",
-    "summary_zh": "三星多款高端OLED显示器在Prime Day期间推出大幅折扣，最高优惠达36%。这些显示器以出色的色彩表现和对比度著称，适合游戏和专业创作。促销涵盖多种尺寸和型号，是升级显示设备的绝佳时机。消费者需注意活动时间和库存情况。",
-    "category": "product"
-  },
-  {
-    "id": "598aa9f29c321865c0e345bd3e40f3b6",
-    "title_en": "Best Ninja Prime Day Deals (2026) Slushi, Creami, Crispi, Cafe Luxe",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ninja-creami-slushi-prime-day-deals-2026/",
-    "published_at": "2026-06-26T20:55:48.000Z",
-    "fetched_at": "2026-06-27T02:15:01.460Z",
-    "title_zh": "2026年Prime Day Ninja厨房电器最佳优惠汇总",
-    "summary_zh": "2026年Prime Day期间，Ninja品牌厨房电器推出多项优惠，涵盖Slushi冰沙机、Creami冰淇淋机、Crispi空气炸锅和Cafe Luxe咖啡机等热门产品。这些设备以多功能和创新设计著称，折扣力度可观。本文汇总了最值得购买的优惠信息，帮助消费者做出明智选择。",
-    "category": "product"
-  },
-  {
-    "id": "a4adf4a4e25011085b6e2a9fef3a7ede",
-    "title_en": "These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-    "published_at": "2026-06-26T19:42:52.000Z",
-    "fetched_at": "2026-06-27T02:15:01.351Z",
-    "title_zh": "苹果涨价前，MacBook最佳优惠大盘点",
-    "summary_zh": "苹果即将上调MacBook售价，但Prime Day期间仍有大量折扣可享。文章汇总了当前最值得入手的MacBook型号及价格，提醒消费者抓住涨价前的最后窗口期。对于计划升级设备的用户，这是不容错过的时机。",
-    "category": "product"
-  },
-  {
-    "id": "cfbb815cf10a29cd422125433fb9cdb4",
-    "title_en": "Cardinals confront a ‘wounded world’ at opening of synodal consistory",
-    "source": "Ewtnnews.com",
-    "url": "https://www.ewtnnews.com/vatican/cardinals-confront-a-wounded-world-at-opening-of-synodal-consistory",
-    "published_at": "2026-06-26T19:05:00Z",
-    "fetched_at": "2026-06-27T19:05:03.948Z",
-    "title_zh": "枢机主教会议开幕：直面“受伤的世界”",
-    "summary_zh": "在枢机主教会议开幕之际，与会者呼吁正视一个“受伤的世界”。会议聚焦于教会如何应对全球性挑战，包括战争、贫困和环境危机，强调团结与和解的重要性。此次会议被视为教会内部反思与改革的关键一步。",
     "category": "industry"
   }
 ]
