@@ -2,187 +2,227 @@
   "days": [
     {
       "date": "2026-07-05",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与安全领域，涵盖代码审查、渗透测试、会议助手及系统提示词泄露，突出本地化、高效化与隐私保护趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI工具与安全：本地化会议助手、代码审查代理、系统提示泄露、AI品味提升、渗透测试工具，以及游戏ROM管理器等开源项目。",
       "projects": [
         {
           "rank": 1,
-          "name": "usestrix/strix",
-          "url": "https://github.com/usestrix/strix",
-          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-          "language": "Python",
-          "stars_total": 36418,
-          "stars_today": 1904,
-          "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序的漏洞。"
-        },
-        {
-          "rank": 2,
-          "name": "JuliusBrussee/caveman",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-          "language": "JavaScript",
-          "stars_total": 84294,
-          "stars_today": 1089,
-          "description_zh": "🪨 当少量词汇就能完成任务时，何必使用大量词汇——Claude Code技能，通过像穴居人一样说话削减65%的令牌消耗。"
-        },
-        {
-          "rank": 3,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 156919,
-          "stars_today": 973,
-          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
-        },
-        {
-          "rank": 4,
-          "name": "alibaba/page-agent",
-          "url": "https://github.com/alibaba/page-agent",
-          "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-          "language": "TypeScript",
-          "stars_total": 23386,
-          "stars_today": 742,
-          "description_zh": "JavaScript页面内GUI代理。用自然语言控制网页界面。"
-        },
-        {
-          "rank": 5,
           "name": "openai/codex-plugin-cc",
           "url": "https://github.com/openai/codex-plugin-cc",
           "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
           "language": "JavaScript",
-          "stars_total": 24934,
-          "stars_today": 718,
+          "stars_total": 25136,
+          "stars_today": 1519,
           "description_zh": "使用Claude Code中的Codex来审查代码或委派任务。"
         },
         {
-          "rank": 6,
+          "rank": 2,
           "name": "Zackriya-Solutions/meetily",
           "url": "https://github.com/Zackriya-Solutions/meetily",
           "description_en": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
           "language": "Rust",
-          "stars_total": 15645,
-          "stars_today": 718,
+          "stars_total": 15946,
+          "stars_today": 1409,
           "description_zh": "隐私优先的AI会议助手，基于Rust构建，提供快4倍的Parakeet/Whisper实时转录、说话人分离和Ollama摘要功能。100%本地处理，无需云端。Meetily（Meetly Ai - https://meetily.ai）是macOS和Windows上排名第一的自托管开源AI会议笔记工具。"
         },
         {
-          "rank": 7,
-          "name": "ogulcancelik/herdr",
-          "url": "https://github.com/ogulcancelik/herdr",
-          "description_en": "agent multiplexer that lives in your terminal.",
-          "language": "Rust",
-          "stars_total": 11640,
-          "stars_today": 707,
-          "description_zh": "驻留在终端中的代理多路复用器。"
+          "rank": 3,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars_total": 36629,
+          "stars_today": 1121,
+          "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序的漏洞。"
         },
         {
-          "rank": 8,
+          "rank": 4,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "language": "JavaScript",
+          "stars_total": 84495,
+          "stars_today": 1043,
+          "description_zh": "🪨 当少量词汇就能完成任务时，何必使用大量词汇——Claude Code技能，通过像穴居人一样说话削减65%的令牌消耗。"
+        },
+        {
+          "rank": 5,
           "name": "asgeirtj/system_prompts_leaks",
           "url": "https://github.com/asgeirtj/system_prompts_leaks",
           "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
           "language": "JavaScript",
-          "stars_total": 49210,
-          "stars_today": 471,
+          "stars_total": 49431,
+          "stars_today": 981,
           "description_zh": "提取自Anthropic - Claude Fable 5、Opus 4.8、Claude Code、Claude Design；OpenAI - ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex；Google - Gemini 3.5 Flash、3.1 Pro、Antigravity；xAI - Grok、Cursor、Copilot、VS Code、Perplexity等模型的系统提示。定期更新。"
         },
         {
+          "rank": 6,
+          "name": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "description_en": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars_total": 5644,
+          "stars_today": 903,
+          "description_zh": "一个完全可定制且为智能体做好准备的开源设计系统。"
+        },
+        {
+          "rank": 7,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars_total": 56947,
+          "stars_today": 850,
+          "description_zh": "Taste-Skill - 为你的AI赋予良好品味，防止AI生成无聊、千篇一律的劣质内容。"
+        },
+        {
+          "rank": 8,
+          "name": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "language": "TypeScript",
+          "stars_total": 23524,
+          "stars_today": 801,
+          "description_zh": "JavaScript页面内GUI代理。用自然语言控制网页界面。"
+        },
+        {
           "rank": 9,
-          "name": "harvard-edge/cs249r_book",
-          "url": "https://github.com/harvard-edge/cs249r_book",
-          "description_en": "Machine Learning Systems",
-          "language": "Python",
-          "stars_total": 26659,
-          "stars_today": 443,
-          "description_zh": "机器学习系统"
+          "name": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description_en": "agent multiplexer that lives in your terminal.",
+          "language": "Rust",
+          "stars_total": 11767,
+          "stars_today": 650,
+          "description_zh": "驻留在终端中的代理多路复用器。"
         },
         {
           "rank": 10,
-          "name": "rommapp/romm",
-          "url": "https://github.com/rommapp/romm",
-          "description_en": "A beautiful, powerful, self-hosted rom manager and player.",
-          "language": "Python",
-          "stars_total": 10312,
-          "stars_today": 398,
-          "description_zh": "一款美观、强大、自托管的ROM管理器和播放器。"
-        },
-        {
-          "rank": 11,
-          "name": "agentskills/agentskills",
-          "url": "https://github.com/agentskills/agentskills",
-          "description_en": "Specification and documentation for Agent Skills",
-          "language": "Python",
-          "stars_total": 22423,
-          "stars_today": 351,
-          "description_zh": "代理技能的规范与文档"
-        },
-        {
-          "rank": 12,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 45883,
-          "stars_today": 304,
-          "description_zh": "面向编码代理的Chrome开发者工具"
-        },
-        {
-          "rank": 13,
           "name": "immich-app/immich",
           "url": "https://github.com/immich-app/immich",
           "description_en": "High performance self-hosted photo and video management solution.",
           "language": "TypeScript",
-          "stars_total": 105775,
-          "stars_today": 201,
+          "stars_total": 105855,
+          "stars_today": 475,
           "description_zh": "高性能自托管的照片和视频管理解决方案。"
         },
         {
-          "rank": 14,
-          "name": "chthollyphile/folia-major",
-          "url": "https://github.com/chthollyphile/folia-major",
-          "description_en": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
-          "language": "TypeScript",
-          "stars_total": 1041,
-          "stars_today": 175,
-          "description_zh": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
-        },
-        {
-          "rank": 15,
-          "name": "alirezarezvani/claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "description_en": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-          "language": "Python",
-          "stars_total": 20261,
-          "stars_today": 136,
-          "description_zh": "337个Claude Code技能与代理技能及插件（30+代理、70+自定义命令、330+技能、可定制参考、脚本），适用于Claude Code、Codex、Gemini CLI、Cursor及其他8种编码代理——涵盖工程、营销、产品、合规、C级顾问、研究、业务运营、商业与财务以及日常生产力技能。"
-        },
-        {
-          "rank": 16,
+          "rank": 11,
           "name": "CoplayDev/unity-mcp",
           "url": "https://github.com/CoplayDev/unity-mcp",
           "description_en": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
           "language": "C#",
-          "stars_total": 11733,
-          "stars_today": 69,
+          "stars_total": 11801,
+          "stars_today": 415,
           "description_zh": "Unity MCP充当AI助手与Unity编辑器之间的桥梁。为您的LLM提供管理资源、控制场景、编辑脚本以及在Unity中自动化任务的工具。"
         },
         {
-          "rank": 17,
-          "name": "crynta/terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "description_en": "Lightweight (7MB) Terminal-first AI-native dev workspace",
-          "language": "TypeScript",
-          "stars_total": 8138,
-          "stars_today": 62,
-          "description_zh": "轻量级（7MB）终端优先的AI原生开发工作空间"
+          "rank": 12,
+          "name": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "description_en": "A beautiful, powerful, self-hosted rom manager and player.",
+          "language": "Python",
+          "stars_total": 10369,
+          "stars_today": 411,
+          "description_zh": "一款美观、强大、自托管的ROM管理器和播放器。"
         },
         {
-          "rank": 18,
+          "rank": 13,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description_en": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+          "language": "Python",
+          "stars_total": 20337,
+          "stars_today": 394,
+          "description_zh": "337个Claude Code技能与代理技能及插件（30+代理、70+自定义命令、330+技能、可定制参考、脚本），适用于Claude Code、Codex、Gemini CLI、Cursor及其他8种编码代理——涵盖工程、营销、产品、合规、C级顾问、研究、业务运营、商业与财务以及日常生产力技能。"
+        },
+        {
+          "rank": 14,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "Python",
+          "stars_total": 136153,
+          "stars_today": 357,
+          "description_zh": "Claude Code是一款驻留在终端中的智能编码工具，它能理解你的代码库，通过执行日常任务、解释复杂代码和处理git工作流来帮助你更快编码——全程通过自然语言指令操作。"
+        },
+        {
+          "rank": 15,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description_en": "Machine Learning Systems",
+          "language": "Python",
+          "stars_total": 26724,
+          "stars_today": 333,
+          "description_zh": "机器学习系统"
+        },
+        {
+          "rank": 16,
           "name": "dotnet/skills",
           "url": "https://github.com/dotnet/skills",
           "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
           "language": "C#",
-          "stars_total": 3881,
-          "stars_today": 59,
+          "stars_total": 3929,
+          "stars_today": 247,
           "description_zh": "用于帮助AI编码代理掌握.NET和C#技能的仓库"
+        },
+        {
+          "rank": 17,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description_en": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+          "language": "Python",
+          "stars_total": 48122,
+          "stars_today": 133,
+          "description_zh": "精心收集的最优秀资源合集，专为最强大的智能体——Claude Code（来自Anthropic PBC无敌团队、无可争议的编程伴侣冠军）打造。精彩展示顶级技能、双面智能体、炫酷状态栏、一流开发者工具，还有插件。"
+        },
+        {
+          "rank": 18,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 76534,
+          "stars_today": 133,
+          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+        },
+        {
+          "rank": 19,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "language": "JavaScript",
+          "stars_total": 36195,
+          "stars_today": 126,
+          "description_zh": "面向Claude Code和AI智能体的营销技能。涵盖CRO、文案写作、SEO、分析和增长工程。"
+        },
+        {
+          "rank": 20,
+          "name": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "description_en": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+          "language": "Swift",
+          "stars_total": 15968,
+          "stars_today": 98,
+          "description_zh": "无需登录即可显示OpenAI Codex和Claude Code的使用统计信息。"
+        },
+        {
+          "rank": 21,
+          "name": "OthmanAdi/planning-with-files",
+          "url": "https://github.com/OthmanAdi/planning-with-files",
+          "description_en": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+          "language": "Python",
+          "stars_total": 24561,
+          "stars_today": 61,
+          "description_zh": "基于持久化文件的规划方案，适用于AI编码智能体和长期运行的智能体任务。防崩溃的Markdown计划，能抵御上下文丢失和/clear命令，外加确定性完成门控和多智能体共享磁盘状态。Manus风格。兼容Claude Code、Codex CLI、Cursor、Kiro、OpenCode及60多个智能体（基于SKILL.md标准）。"
+        },
+        {
+          "rank": 22,
+          "name": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "description_en": "Gas Town - multi-agent workspace manager",
+          "language": "Go",
+          "stars_total": 16256,
+          "stars_today": 48,
+          "description_zh": "Gas Town - 多智能体工作空间管理器。"
         }
       ]
     },
