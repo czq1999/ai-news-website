@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-05",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与安全：代码审查、Token优化、GUI代理、渗透测试、本地会议助手及系统提示词泄露，涵盖效率提升与隐私保护。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与安全领域，涵盖代码审查、渗透测试、会议助手及系统提示词泄露，突出本地化、高效化与隐私保护趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/usestrix/strix",
           "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars_total": 36109,
+          "stars_total": 36418,
           "stars_today": 1904,
           "description_zh": "开源AI渗透测试工具，用于发现并修复应用程序的漏洞。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/JuliusBrussee/caveman",
           "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
           "language": "JavaScript",
-          "stars_total": 84018,
+          "stars_total": 84294,
           "stars_today": 1089,
           "description_zh": "🪨 当少量词汇就能完成任务时，何必使用大量词汇——Claude Code技能，通过像穴居人一样说话削减65%的令牌消耗。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 156603,
+          "stars_total": 156919,
           "stars_today": 973,
           "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/alibaba/page-agent",
           "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
           "language": "TypeScript",
-          "stars_total": 23144,
+          "stars_total": 23386,
           "stars_today": 742,
           "description_zh": "JavaScript页面内GUI代理。用自然语言控制网页界面。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/openai/codex-plugin-cc",
           "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
           "language": "JavaScript",
-          "stars_total": 24509,
+          "stars_total": 24934,
           "stars_today": 718,
           "description_zh": "使用Claude Code中的Codex来审查代码或委派任务。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/Zackriya-Solutions/meetily",
           "description_en": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
           "language": "Rust",
-          "stars_total": 15328,
+          "stars_total": 15645,
           "stars_today": 718,
           "description_zh": "隐私优先的AI会议助手，基于Rust构建，提供快4倍的Parakeet/Whisper实时转录、说话人分离和Ollama摘要功能。100%本地处理，无需云端。Meetily（Meetly Ai - https://meetily.ai）是macOS和Windows上排名第一的自托管开源AI会议笔记工具。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/ogulcancelik/herdr",
           "description_en": "agent multiplexer that lives in your terminal.",
           "language": "Rust",
-          "stars_total": 11481,
+          "stars_total": 11640,
           "stars_today": 707,
           "description_zh": "驻留在终端中的代理多路复用器。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/asgeirtj/system_prompts_leaks",
           "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
           "language": "JavaScript",
-          "stars_total": 48966,
+          "stars_total": 49210,
           "stars_today": 471,
           "description_zh": "提取自Anthropic - Claude Fable 5、Opus 4.8、Claude Code、Claude Design；OpenAI - ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex；Google - Gemini 3.5 Flash、3.1 Pro、Antigravity；xAI - Grok、Cursor、Copilot、VS Code、Perplexity等模型的系统提示。定期更新。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/harvard-edge/cs249r_book",
           "description_en": "Machine Learning Systems",
           "language": "Python",
-          "stars_total": 26586,
+          "stars_total": 26659,
           "stars_today": 443,
           "description_zh": "机器学习系统"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/rommapp/romm",
           "description_en": "A beautiful, powerful, self-hosted rom manager and player.",
           "language": "Python",
-          "stars_total": 10220,
+          "stars_total": 10312,
           "stars_today": 398,
           "description_zh": "一款美观、强大、自托管的ROM管理器和播放器。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/agentskills/agentskills",
           "description_en": "Specification and documentation for Agent Skills",
           "language": "Python",
-          "stars_total": 22355,
+          "stars_total": 22423,
           "stars_today": 351,
           "description_zh": "代理技能的规范与文档"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 45790,
+          "stars_total": 45883,
           "stars_today": 304,
           "description_zh": "面向编码代理的Chrome开发者工具"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/immich-app/immich",
           "description_en": "High performance self-hosted photo and video management solution.",
           "language": "TypeScript",
-          "stars_total": 105650,
+          "stars_total": 105775,
           "stars_today": 201,
           "description_zh": "高性能自托管的照片和视频管理解决方案。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/chthollyphile/folia-major",
           "description_en": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
           "language": "TypeScript",
-          "stars_total": 993,
+          "stars_total": 1041,
           "stars_today": 175,
           "description_zh": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/alirezarezvani/claude-skills",
           "description_en": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
           "language": "Python",
-          "stars_total": 20177,
+          "stars_total": 20261,
           "stars_today": 136,
           "description_zh": "337个Claude Code技能与代理技能及插件（30+代理、70+自定义命令、330+技能、可定制参考、脚本），适用于Claude Code、Codex、Gemini CLI、Cursor及其他8种编码代理——涵盖工程、营销、产品、合规、C级顾问、研究、业务运营、商业与财务以及日常生产力技能。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/CoplayDev/unity-mcp",
           "description_en": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
           "language": "C#",
-          "stars_total": 11618,
+          "stars_total": 11733,
           "stars_today": 69,
           "description_zh": "Unity MCP充当AI助手与Unity编辑器之间的桥梁。为您的LLM提供管理资源、控制场景、编辑脚本以及在Unity中自动化任务的工具。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/crynta/terax-ai",
           "description_en": "Lightweight (7MB) Terminal-first AI-native dev workspace",
           "language": "TypeScript",
-          "stars_total": 8068,
+          "stars_total": 8138,
           "stars_today": 62,
           "description_zh": "轻量级（7MB）终端优先的AI原生开发工作空间"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/dotnet/skills",
           "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
           "language": "C#",
-          "stars_total": 3816,
+          "stars_total": 3881,
           "stars_today": 59,
           "description_zh": "用于帮助AI编码代理掌握.NET和C#技能的仓库"
         }
