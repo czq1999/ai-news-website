@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-06",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具与安全：本地化会议助手、代码审查代理、系统提示泄露、AI品味优化、渗透测试工具及自托管ROM管理器，涵盖开发、安全与娱乐领域。",
+      "summary_zh": "今日GitHub热门项目聚焦AI工具与安全：本地化会议助手、代码审查代理、系统提示泄露、AI品味优化、渗透测试工具及自托管ROM管理器，突出隐私优先与开源趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/openai/codex-plugin-cc",
           "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
           "language": "JavaScript",
-          "stars_total": 25536,
+          "stars_total": 25934,
           "stars_today": 1532,
           "description_zh": "通过Claude Code使用Codex来审查代码或委派任务。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/Zackriya-Solutions/meetily",
           "description_en": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
           "language": "Rust",
-          "stars_total": 17179,
+          "stars_total": 18134,
           "stars_today": 1409,
           "description_zh": "隐私优先的AI会议助手，基于Rust构建，提供4倍速Parakeet/Whisper实时转录、说话人分离和Ollama摘要功能。100%本地处理，无需云端。Meetily（Meetly Ai - https://meetily.ai）是macOS和Windows上排名第一的自托管开源AI会议笔记工具。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/usestrix/strix",
           "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars_total": 37187,
+          "stars_total": 37601,
           "stars_today": 1114,
           "description_zh": "开源AI渗透测试工具，用于发现并修复应用中的漏洞。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/JuliusBrussee/caveman",
           "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
           "language": "JavaScript",
-          "stars_total": 84919,
+          "stars_total": 85320,
           "stars_today": 1052,
           "description_zh": "🪨 当少用token就能搞定，何必多用——Claude Code技能，通过像穴居人一样说话减少65%的token消耗。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/asgeirtj/system_prompts_leaks",
           "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
           "language": "JavaScript",
-          "stars_total": 50060,
+          "stars_total": 50608,
           "stars_today": 981,
           "description_zh": "提取自Anthropic（Claude Fable 5、Opus 4.8、Claude Code、Claude Design）、OpenAI（ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex）、Google（Gemini 3.5 Flash、3.1 Pro、Antigravity）、xAI（Grok、Cursor、Copilot、VS Code、Perplexity）等模型的系统提示词。定期更新。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description_en": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
           "language": "JavaScript",
-          "stars_total": 57601,
+          "stars_total": 58190,
           "stars_today": 863,
           "description_zh": "Taste-Skill - 为你的AI赋予良好品味，防止AI生成无聊、老套的垃圾内容。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/alibaba/page-agent",
           "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
           "language": "TypeScript",
-          "stars_total": 23963,
+          "stars_total": 24350,
           "stars_today": 805,
           "description_zh": "JavaScript页面内GUI代理。通过自然语言控制网页界面。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/ogulcancelik/herdr",
           "description_en": "agent multiplexer that lives in your terminal.",
           "language": "Rust",
-          "stars_total": 12121,
+          "stars_total": 12423,
           "stars_today": 651,
           "description_zh": "驻留在终端中的代理多路复用器。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/facebook/astryx",
           "description_en": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "stars_total": 5936,
+          "stars_total": 6206,
           "stars_today": 522,
           "description_zh": "一个完全可定制且为代理就绪的开源设计系统。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/immich-app/immich",
           "description_en": "High performance self-hosted photo and video management solution.",
           "language": "TypeScript",
-          "stars_total": 106140,
+          "stars_total": 106369,
           "stars_today": 470,
           "description_zh": "高性能自托管的照片和视频管理解决方案。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/CoplayDev/unity-mcp",
           "description_en": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
           "language": "C#",
-          "stars_total": 11956,
+          "stars_total": 12114,
           "stars_today": 414,
           "description_zh": "Unity MCP充当AI助手与Unity编辑器之间的桥梁。为你的大语言模型提供管理资源、控制场景、编辑脚本以及在Unity中自动化任务的工具。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/rommapp/romm",
           "description_en": "A beautiful, powerful, self-hosted rom manager and player.",
           "language": "Python",
-          "stars_total": 10567,
+          "stars_total": 10712,
           "stars_today": 410,
           "description_zh": "一款美观、强大、自托管的ROM管理器和模拟器。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/alirezarezvani/claude-skills",
           "description_en": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
           "language": "Python",
-          "stars_total": 20615,
+          "stars_total": 20861,
           "stars_today": 392,
           "description_zh": "337个Claude Code技能、代理技能和插件（30+代理、70+自定义命令、330+技能、可定制引用和脚本），适用于Claude Code、Codex、Gemini CLI、Cursor及其他8种编码代理——涵盖工程、营销、产品、合规、C级顾问、研究、业务运营、商业与金融以及日常生产力技能。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/harvard-edge/cs249r_book",
           "description_en": "Machine Learning Systems",
           "language": "Python",
-          "stars_total": 26866,
+          "stars_total": 27016,
           "stars_today": 329,
           "description_zh": "机器学习系统"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/dotnet/skills",
           "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
           "language": "C#",
-          "stars_total": 4053,
+          "stars_total": 4143,
           "stars_today": 246,
           "description_zh": "用于帮助AI编码代理处理.NET和C#的技能仓库。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 76742,
+          "stars_total": 76908,
           "stars_today": 161,
           "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/anthropics/claude-code",
           "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "Python",
-          "stars_total": 136321,
+          "stars_total": 136455,
           "stars_today": 156,
           "description_zh": "Claude Code是一款驻留在终端中的代理式编码工具，它能理解你的代码库，通过执行日常任务、解释复杂代码和处理Git工作流来帮助你更快编码——全部通过自然语言命令完成。"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/steipete/CodexBar",
           "description_en": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
           "language": "Swift",
-          "stars_total": 16264,
+          "stars_total": 16497,
           "stars_today": 153,
           "description_zh": "无需登录即可显示OpenAI Codex和Claude Code的使用统计。"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/hesreallyhim/awesome-claude-code",
           "description_en": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
           "language": "Python",
-          "stars_total": 48403,
+          "stars_total": 48631,
           "stars_today": 148,
           "description_zh": "精心收集的顶级资源合集，专为最强大的代理——Claude Code（Anthropic PBC团队打造的无可争议的编码伴侣）而设。展示一流技能、双面代理、炫酷状态行、顶级开发者工具，以及插件。"
         },
@@ -200,27 +200,17 @@
           "url": "https://github.com/coreyhaines31/marketingskills",
           "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
           "language": "JavaScript",
-          "stars_total": 36472,
+          "stars_total": 36728,
           "stars_today": 145,
           "description_zh": "适用于Claude Code和AI代理的营销技能。涵盖转化率优化、文案写作、SEO、分析和增长工程。"
         },
         {
           "rank": 21,
-          "name": "OthmanAdi/planning-with-files",
-          "url": "https://github.com/OthmanAdi/planning-with-files",
-          "description_en": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-          "language": "Python",
-          "stars_total": 24738,
-          "stars_today": 66,
-          "description_zh": "基于持久化文件的AI编码代理和长期代理任务规划方案。防崩溃的Markdown计划，可抵御上下文丢失和/clear命令，外加确定性完成门控和多代理共享磁盘状态。Manus风格。通过SKILL.md标准兼容Claude Code、Codex CLI、Cursor、Kiro、OpenCode及60多种代理。"
-        },
-        {
-          "rank": 22,
           "name": "gastownhall/gastown",
           "url": "https://github.com/gastownhall/gastown",
           "description_en": "Gas Town - multi-agent workspace manager",
           "language": "Go",
-          "stars_total": 16398,
+          "stars_total": 16505,
           "stars_today": 51,
           "description_zh": "Gas Town - 多代理工作区管理器"
         }
