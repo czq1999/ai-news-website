@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-08",
-      "summary_zh": "今日GitHub热门项目聚焦AI求职助手、本地化会议工具、WiFi信号感知、提示词泄露、沙箱安全及办公自动化，涵盖开发效率与隐私保护。",
+      "summary_zh": "今日GitHub热门项目聚焦AI求职助手、本地化会议转录、WiFi信号感知、Agent技能库及系统提示词泄露，涵盖隐私优先、开源高效等亮点。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/MadsLorentzen/ai-job-search",
           "description_en": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
           "language": "TypeScript",
-          "stars_total": 11089,
+          "stars_total": 12493,
           "stars_today": 2514,
           "description_zh": "基于Claude Code构建的AI驱动求职应用框架。克隆后填写个人资料，让Claude评估职位、定制简历、撰写求职信并准备面试。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/Zackriya-Solutions/meetily",
           "description_en": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
           "language": "Rust",
-          "stars_total": 20791,
+          "stars_total": 21171,
           "stars_today": 1777,
           "description_zh": "隐私优先的AI会议助手，采用Rust构建，支持比Parakeet/Whisper快4倍的实时转录、说话人识别和Ollama摘要。100%本地处理，无需云端。Meetily是macOS和Windows上排名第一的自托管开源AI会议记录工具。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/asgeirtj/system_prompts_leaks",
           "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
           "language": "JavaScript",
-          "stars_total": 53049,
+          "stars_total": 53418,
           "stars_today": 1691,
           "description_zh": "提取自Anthropic（Claude Fable 5、Opus 4.8、Claude Code、Claude Design）、OpenAI（ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex）、Google（Gemini 3.5 Flash、3.1 Pro、Antigravity）、xAI（Grok、Cursor、Copilot、VS Code、Perplexity等）的系统提示词。定期更新。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 72199,
+          "stars_total": 72564,
           "stars_today": 1317,
           "description_zh": "面向AI编码智能体的生产级工程技能。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 78532,
+          "stars_total": 78735,
           "stars_today": 1129,
           "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/bradautomates/claude-video",
           "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
           "language": "Python",
-          "stars_total": 5201,
+          "stars_total": 5526,
           "stars_today": 965,
           "description_zh": "赋予Claude观看任意视频的能力。/watch命令可下载视频、提取帧、转录音频，并将所有内容交给Claude处理。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/iOfficeAI/OfficeCLI",
           "description_en": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
           "language": "C#",
-          "stars_total": 10058,
+          "stars_total": 10651,
           "stars_today": 893,
           "description_zh": "OfficeCLI是首个且最佳的专为AI智能体设计的Office套件，用于读取、编辑和自动化Word、Excel和PowerPoint文件。免费、开源、单一二进制文件，无需安装Office。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/TencentCloud/CubeSandbox",
           "description_en": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
           "language": "Rust",
-          "stars_total": 8485,
+          "stars_total": 8638,
           "stars_today": 664,
           "description_zh": "为AI智能体打造的即时、并发、安全且轻量的沙箱环境。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/kyutai-labs/pocket-tts",
           "description_en": "A TTS that fits in your CPU (and pocket)",
           "language": "Python",
-          "stars_total": 6201,
+          "stars_total": 6404,
           "stars_today": 531,
           "description_zh": "一款能在CPU（和口袋）中运行的文本转语音工具。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/steipete/CodexBar",
           "description_en": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
           "language": "Swift",
-          "stars_total": 17049,
+          "stars_total": 17139,
           "stars_today": 376,
           "description_zh": "无需登录即可显示OpenAI Codex和Claude Code的使用统计。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/hesreallyhim/awesome-claude-code",
           "description_en": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
           "language": "Python",
-          "stars_total": 49145,
+          "stars_total": 49390,
           "stars_today": 144,
           "description_zh": "精心挑选的顶级资源合集，献给最出色的智能体——Claude Code，来自Anthropic PBC无敌团队的编码伴侣冠军。精选展示一流技能、多面手智能体、炫酷状态栏、顶级开发者工具，以及插件。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/AhmadIbrahiim/Website-downloader",
           "description_en": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
           "language": "HTML",
-          "stars_total": 4039,
+          "stars_total": 4298,
           "stars_today": 140,
           "description_zh": "💡 使用Node.js下载任意网站的完整源代码（包括所有资源文件：JavaScript、样式表、图片）。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/dotnet/skills",
           "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
           "language": "C#",
-          "stars_total": 4316,
+          "stars_total": 4379,
           "stars_today": 64,
           "description_zh": "用于辅助AI编码智能体处理.NET和C#的技能仓库。"
         }
