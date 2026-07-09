@@ -1,5 +1,137 @@
 [
   {
+    "id": "fd5048db06f93bb667a6eb0805fce600",
+    "title_en": "系统三智能运维实践之四——EOPS分布式自动化运维平台 - 腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.com.cn",
+    "url": "https://cloud.tencent.com.cn/developer/news/70693",
+    "published_at": "2026-07-09T19:24:16.061Z",
+    "fetched_at": "2026-07-09T19:24:16.061Z",
+    "title_zh": "系统三智能运维实践之四——EOPS分布式自动化运维平台",
+    "summary_zh": "本文由腾讯云开发者社区发布，是“系统三智能运维实践”系列的第四篇，重点介绍了EOPS分布式自动化运维平台的设计与实现。文章从传统运维的痛点出发，阐述了EOPS如何通过分布式任务调度、自动化脚本执行、配置管理及告警联动实现运维效率提升。作者详细讲解了平台的核心架构，包括Agent-Controller模式、任务编排引擎、日志采集与实时分析模块，并分享了在腾讯云大规模集群中的落地案例。文章还讨论了平台的高可用设计、安全审计机制以及未来向AIOps演进的规划。适合运维平台开发者与SRE团队。",
+    "topic": "ops"
+  },
+  {
+    "id": "cf41d95c206b5010bc471b06069cdf2f",
+    "title_en": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？-A5数据",
+    "source": "a5idc.com",
+    "url": "https://www.a5idc.com/article/22500.html",
+    "published_at": "2026-07-09T19:24:14.320Z",
+    "fetched_at": "2026-07-09T19:24:14.320Z",
+    "title_zh": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？",
+    "summary_zh": "本文针对香港服务器环境，详细介绍了Docker容器在存储与网络性能上的优化策略。存储方面，作者推荐使用OverlayFS2驱动、调整存储驱动参数、启用写时复制优化，并建议将数据卷挂载至高性能SSD。网络方面，文章对比了bridge、host与macvlan模式的适用场景，并给出了调整MTU、启用TCP BBR拥塞控制、使用Calico或Flannel进行网络隔离的实践方案。此外，作者还分享了通过cgroup限制资源使用、优化镜像层数以减少I/O开销的经验。适合在海外节点部署容器化服务的运维工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "90c2ac4592e2cc8bb0e4541730373770",
+    "title_en": "Ubuntu Server 安全加固指南 - 官方博客",
+    "source": "idc.net",
+    "url": "https://idc.net/help/442443/",
+    "published_at": "2026-07-09T19:24:14.320Z",
+    "fetched_at": "2026-07-09T19:24:14.320Z",
+    "title_zh": "Ubuntu Server 安全加固指南",
+    "summary_zh": "本文是官方博客发布的Ubuntu Server安全加固实践指南。文章从系统安装阶段的安全基线设置开始，涵盖了SSH密钥认证与端口修改、防火墙规则配置（UFW）、自动安全更新启用、SELinux/AppArmor强制访问控制、日志审计（auditd）以及入侵检测工具（如Fail2ban）的部署。作者还针对常见服务（如Nginx、MySQL）给出了最小权限原则下的配置建议，并介绍了如何使用Lynis进行安全扫描与合规检查。适合需要提升Ubuntu服务器安全等级的运维与安全工程师。",
+    "topic": "security"
+  },
+  {
+    "id": "f0fdaac37b5757fcd1b3e3c24c109571",
+    "title_en": "操作系统加固概述 - Docs | openEuler",
+    "source": "docs.openeuler.org",
+    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
+    "published_at": "2026-07-09T19:24:14.320Z",
+    "fetched_at": "2026-07-09T19:24:14.320Z",
+    "title_zh": "操作系统加固概述",
+    "summary_zh": "本文来自openEuler官方文档，系统介绍了操作系统安全加固的总体框架与实施要点。内容涵盖账户与认证管理（如密码策略、sudo权限控制）、文件系统权限（如umask、ACL）、内核参数安全调优（如禁用IP转发、启用SYN Cookie）、服务最小化原则（关闭不必要的端口与服务）以及日志与监控配置。文章还特别强调了在openEuler环境下使用安全增强工具（如seccomp、cgroup v2）进行容器安全加固的方法。适合基于openEuler构建安全基础设施的系统管理员与安全架构师。",
+    "topic": "security"
+  },
+  {
+    "id": "337fb129858469146441df3cac79eaf7",
+    "title_en": "<Linux性能调优指南>主要思路流程 - 阿里云开发者社区",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/234597",
+    "published_at": "2026-07-09T19:24:14.319Z",
+    "fetched_at": "2026-07-09T19:24:14.319Z",
+    "title_zh": "Linux性能调优指南主要思路流程",
+    "summary_zh": "本文来自阿里云开发者社区，系统梳理了Linux性能调优的核心思路与操作流程。文章从性能分析的金字塔模型出发，依次介绍了CPU、内存、磁盘I/O、网络及进程调度等子系统的调优方法。作者重点讲解了使用perf、strace、iostat、sar等工具进行瓶颈定位的技巧，并给出了针对高并发Web服务与数据库场景的调优案例。此外，文章还涵盖了内核参数调整（如sysctl）、cgroup资源限制以及NUMA亲和性设置等高级话题。适合需要系统性提升Linux服务器性能的运维与开发人员。",
+    "topic": "ops"
+  },
+  {
+    "id": "1f19d651288cc78c4e1dfede2b5ecc12",
+    "title_en": "Linux性能调优指南.pdf - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/ningyu1/e-books/blob/master/doc/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97.pdf",
+    "published_at": "2026-07-09T19:24:14.319Z",
+    "fetched_at": "2026-07-09T19:24:14.319Z",
+    "title_zh": "Linux性能调优指南（PDF文档）",
+    "summary_zh": "本文是一份托管于GitHub的PDF文档，内容涵盖Linux性能调优的完整知识体系。文档从基础性能指标（如CPU使用率、内存占用、磁盘吞吐量）入手，逐步深入到内核参数优化、文件系统调优、网络协议栈调整等高级主题。作者还提供了针对不同工作负载（如数据库、Web服务器、容器化应用）的调优策略与配置示例。文档结构清晰，包含大量命令行示例与性能分析工具的使用说明，适合作为Linux运维工程师的案头参考手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "ab44692da05b2d4a4e37b0a487dd4d88",
+    "title_en": "炼石成丹：大语言模型微调实战系列（二）模型微调篇 - AWS",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-two/",
+    "published_at": "2026-07-09T19:24:12.358Z",
+    "fetched_at": "2026-07-09T19:24:12.358Z",
+    "title_zh": "炼石成丹：大语言模型微调实战系列（二）模型微调篇",
+    "summary_zh": "本文是AWS官方博客推出的LLM微调系列第二篇，聚焦于模型微调的具体实施步骤。文章详细介绍了使用Amazon SageMaker进行LoRA与QLoRA微调的完整流程，包括数据准备、超参数调优、分布式训练配置及模型评估。作者特别强调了显存优化技巧（如梯度检查点、混合精度训练）以及如何避免灾难性遗忘。同时，文章提供了在AWS环境下部署微调后模型的实践指南，并对比了全参数微调与参数高效微调在效果与成本上的权衡。适合有AWS使用经验并希望落地LLM微调的技术团队。",
+    "topic": "ai"
+  },
+  {
+    "id": "9d7f3c3cf5a96921dda0f2ee66aa4f67",
+    "title_en": "大模型微调完全指南：从显存炸裂到优雅落地-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2676561",
+    "published_at": "2026-07-09T19:24:12.358Z",
+    "fetched_at": "2026-07-09T19:24:12.358Z",
+    "title_zh": "大模型微调完全指南：从显存炸裂到优雅落地",
+    "summary_zh": "本文由腾讯云开发者社区发布，是一份面向大模型微调全过程的实战指南。文章从显存瓶颈分析入手，详细讲解了梯度累积、ZeRO优化、Flash Attention等显存节省技术，并对比了LoRA、Adapter、Prefix Tuning等参数高效微调方法的优劣。作者还分享了在腾讯云GPU实例上进行多卡训练的经验，包括数据并行与模型并行的选择、通信开销优化以及训练稳定性监控。最后，文章给出了从微调完成到模型服务化部署的完整链路，帮助读者实现从实验到生产的平滑过渡。",
+    "topic": "ai"
+  },
+  {
+    "id": "2b114453254f835a7e98f58420b06f4f",
+    "title_en": "Meta、OpenAI和SpaceXAI接连推出新AI模型 | 大紀元",
+    "source": "epochtimes.com",
+    "url": "https://www.epochtimes.com/gb/26/7/9/n14806545.htm",
+    "published_at": "2026-07-09T19:24:12.357Z",
+    "fetched_at": "2026-07-09T19:24:12.357Z",
+    "title_zh": "Meta、OpenAI与SpaceXAI相继发布新一代AI模型",
+    "summary_zh": "本文汇总了Meta、OpenAI及SpaceXAI近期推出的最新AI模型动态。Meta发布了Llama系列的新版本，聚焦于开源生态与多模态能力；OpenAI则推出了GPT-4o的升级版，进一步优化了推理效率与上下文窗口；SpaceXAI首次公开其自研大模型，主打太空任务中的实时决策与边缘计算场景。文章对比了三家模型在参数规模、训练数据、部署成本上的差异，并分析了各自的技术路线与行业影响。对于关注前沿模型演进与竞争格局的AI从业者，提供了有价值的横向参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "80e833fe9c3e6b2948068564c338e174",
+    "title_en": "MiniMax冲向2.7万亿参数：开源大模型又到了拼基本功的时候|模态|上下文|agent|大语言模型|minimax_网易订阅",
+    "source": "163.com",
+    "url": "https://www.163.com/dy/article/L1DMNKQV05317SYF.html",
+    "published_at": "2026-07-09T19:24:12.357Z",
+    "fetched_at": "2026-07-09T19:24:12.357Z",
+    "title_zh": "MiniMax冲向2.7万亿参数：开源大模型又到了拼基本功的时候",
+    "summary_zh": "本文深入分析了MiniMax开源大模型参数规模突破2.7万亿的技术细节与挑战。文章指出，在模型规模急剧膨胀的背景下，训练稳定性、显存管理、分布式通信效率成为核心瓶颈。作者从MoE架构设计、长上下文支持、Agent能力集成等角度，探讨了MiniMax如何在保持推理速度的同时提升模型容量。同时，文章对比了当前主流开源模型（如Llama 3、Qwen2）在参数效率与任务表现上的差异，强调“拼基本功”意味着更精细的数据配比、更优的并行策略与更稳健的收敛算法。适合关注大模型工程化与开源生态的读者。",
+    "topic": "ai"
+  },
+  {
+    "id": "5d76b7b5c2e6273343f2b8ab1efdf541",
+    "title_en": "如何从零开始实现一个AI Agent 框架（理论+实践） - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2631821",
+    "published_at": "2026-07-09T19:24:12.357Z",
+    "fetched_at": "2026-07-09T19:24:12.357Z",
+    "title_zh": "如何从零开始实现一个AI Agent框架（理论+实践）",
+    "summary_zh": "本文由腾讯云开发者社区发布，系统讲解了从零构建AI Agent框架的全流程。内容涵盖Agent的核心组件：感知模块、规划模块、记忆模块与行动模块，并基于LangChain与ReAct模式给出了具体代码实现。文章重点讨论了工具调用（Tool Use）、多步推理（Multi-step Reasoning）与错误恢复机制的设计，同时提供了在腾讯云Serverless环境下的部署示例。对于希望深入理解Agent内部机制并具备动手实践能力的开发者，本文兼具理论深度与工程落地价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "807ae30e17b3ac77d026327f7bfa3041",
+    "title_en": "【2025必学】AI Agent开发全攻略：从理论到实践 - 智能体开发者社区",
+    "source": "adg.csdn.net",
+    "url": "https://adg.csdn.net/69524cce5b9f5f31781b6f0b.html",
+    "published_at": "2026-07-09T19:24:12.357Z",
+    "fetched_at": "2026-07-09T19:24:12.357Z",
+    "title_zh": "2025必学：AI Agent开发全攻略——从理论到实践",
+    "summary_zh": "本文来自智能体开发者社区，是一份面向2025年的AI Agent开发实战指南。文章从Agent的基本概念出发，逐步深入到多Agent协作、记忆持久化、动态工具注册等高级主题。作者结合AutoGPT与CrewAI等框架，展示了如何设计一个可扩展的Agent系统，并针对任务分解、上下文管理、API调用优化等常见问题给出了解决方案。此外，文章还讨论了Agent在RAG与自动化工作流中的集成方式，以及如何通过提示工程提升Agent的决策质量。适合希望系统掌握Agent开发技能的AI工程师。",
+    "topic": "ai"
+  },
+  {
     "id": "1670e331ddd038ad869dcda2475abaa2",
     "title_en": "面向安全修复生命周期的内核软件供应链安全治理研究 - 湖大计算机学院",
     "source": "csee.hnu.edu.cn",
@@ -2066,137 +2198,5 @@
     "title_zh": "AI Agent开发全攻略：从理论到实践的完整指南与行业解决方案",
     "summary_zh": "本文提供了一份从理论到实践的 AI Agent 开发完整指南，覆盖 Agent 架构设计、提示工程、工具调用、记忆管理、多 Agent 协作等关键技术。同时，结合金融、客服、自动化等行业的真实案例，给出了具体的解决方案与最佳实践。文章还讨论了当前 Agent 开发中的挑战（如幻觉、长上下文处理）及应对策略，是 AI 工程师构建生产级 Agent 应用的实用参考。",
     "topic": "ai"
-  },
-  {
-    "id": "5af32145e1a29d6ddb5b89887a25b4bd",
-    "title_en": "Anthropic最新研究炸了：Claude说话前，脑子里可能先亮起了这些概念|文章|智能体|推理|实验|解释性|anthropic_网易科技",
-    "source": "163.com",
-    "url": "https://www.163.com/tech/article/L17UH5LF00097U7T.html",
-    "published_at": "2026-07-07T19:43:44.602Z",
-    "fetched_at": "2026-07-07T19:43:44.602Z",
-    "title_zh": "Anthropic最新研究：Claude说话前，脑中可能已激活这些概念",
-    "summary_zh": "Anthropic 的最新研究通过“解释性”方法深入分析了 Claude 大语言模型的内部表征。研究发现，模型在生成回复前，其神经网络中会预先激活一系列与语义相关的概念（如“智能体”、“推理”等），这些概念类似于人类思维前的“潜意识”活动。该工作揭示了 LLM 内部信息流动的机制，为理解模型的可解释性和推理过程提供了新视角，对 AI 安全与对齐研究具有重要参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "1dad5e45a0b33c1e1e26fd3f944af788",
-    "title_en": "刚刚，Claude 的「潜意识」曝光了|claude|实验|推理|神经网络_手机网易网",
-    "source": "m.163.com",
-    "url": "https://m.163.com/dy/article/L17NA0TK0511CSAO.html",
-    "published_at": "2026-07-07T19:43:44.602Z",
-    "fetched_at": "2026-07-07T19:43:44.602Z",
-    "title_zh": "刚刚，Claude的“潜意识”曝光了",
-    "summary_zh": "本文报道了 Anthropic 对 Claude 神经网络内部活动的最新实验发现。研究人员通过特定推理任务，观察到模型在输出答案前，其内部神经元会提前“点亮”与任务相关的概念表征，类似于人类的潜意识处理。这一发现为解释 LLM 的推理过程提供了实证，并可能推动更透明的 AI 系统设计。对于关注模型可解释性和 AI 安全的技术人员，这是一项值得深入研究的突破。",
-    "topic": "ai"
-  },
-  {
-    "id": "76f257cf2a8a989c3327b9bb607b92f4",
-    "title_en": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA | 大模型之家",
-    "source": "damoai.com.cn",
-    "url": "http://damoai.com.cn/archives/15848",
-    "published_at": "2026-07-07T19:43:44.602Z",
-    "fetched_at": "2026-07-07T19:43:44.602Z",
-    "title_zh": "百度文心发布 PaddleOCR-VL-1.6：准确率突破96.33%，刷新文档解析SOTA",
-    "summary_zh": "百度文心团队发布了 PaddleOCR-VL-1.6 版本，在文档解析任务上取得了 96.33% 的准确率，刷新了行业最佳水平。该模型基于视觉-语言架构，优化了复杂版面、多语言和手写文字的识别能力。文章详细介绍了模型在训练数据、网络结构及后处理上的改进，为 OCR 和文档智能领域的开发者提供了实用的技术参考，尤其适用于金融、医疗等需要高精度文档解析的场景。",
-    "topic": "ai"
-  },
-  {
-    "id": "1122a2e19335129fd576073c1cf90e2f",
-    "title_en": "Anthropic切开Claude大脑，AI自发长出类人「意识器官」-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3885224712352005",
-    "published_at": "2026-07-07T19:43:44.602Z",
-    "fetched_at": "2026-07-07T19:43:44.602Z",
-    "title_zh": "Anthropic切开Claude大脑，AI自发长出类人“意识器官”",
-    "summary_zh": "Anthropic 的研究团队通过逆向工程手段，揭示了 Claude 大模型内部自发形成了类似人类大脑中负责特定功能的“意识器官”。这些神经元集群在推理、规划等任务中表现出高度专一性，且其组织方式与生物神经网络的模块化特征相似。该发现不仅挑战了当前对 AI 内部机制的理解，也为构建更可控、可解释的 AI 系统提供了新思路。对于 AI 安全与认知科学研究者，这是一项具有里程碑意义的成果。",
-    "topic": "ai"
-  },
-  {
-    "id": "da49618af0b50e0ac7408b613c904a78",
-    "title_en": "刚刚，Anthropic发现Claude“长出”意识，谷歌DeepMind科学家点赞-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3884914366705922",
-    "published_at": "2026-07-07T19:43:44.602Z",
-    "fetched_at": "2026-07-07T19:43:44.602Z",
-    "title_zh": "刚刚，Anthropic发现Claude“长出”意识，谷歌DeepMind科学家点赞",
-    "summary_zh": "Anthropic 的最新研究显示，Claude 模型在训练过程中自发涌现出类似意识的内部结构，引发了学术界广泛关注。谷歌 DeepMind 科学家对此表示认可，认为该发现有助于理解 AI 的认知边界。文章深入分析了实验设计、神经元激活模式以及“意识”表征的判定标准，为 AI 可解释性研究提供了关键实证。对于从事 AI 对齐、神经网络分析的技术人员，这是一篇不可错过的前沿报道。",
-    "topic": "ai"
-  },
-  {
-    "id": "b9e7e28079f69731b8a14c6534956db3",
-    "title_en": "从可观测性到AIOps 自动化的演进之路",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/topics/automation/observability-to-aiops-automation",
-    "published_at": "2026-07-07T14:10:22.025Z",
-    "fetched_at": "2026-07-07T14:10:22.025Z",
-    "title_zh": "从可观测性到AIOps 自动化的演进之路",
-    "summary_zh": "本文探讨了从传统可观测性（Metrics、Logs、Traces）到AIOps智能运维的演进路径，重点分析了如何利用机器学习模型对海量运维数据进行异常检测、根因定位与自动化故障修复。技术层面涵盖了时序预测、聚类分析、因果推断等算法在告警降噪、容量规划、变更风险评估中的应用。结合Red Hat的实践案例，展示了AIOps在降低MTTR、提升系统可靠性方面的实际价值，适合运维架构师与SRE团队参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "f557155239c23526c284cd474378919f",
-    "title_en": "智能运维实践-阿里云",
-    "source": "aliyun.com",
-    "url": "https://www.aliyun.com/sswb/1510911.html",
-    "published_at": "2026-07-07T14:10:22.025Z",
-    "fetched_at": "2026-07-07T14:10:22.025Z",
-    "title_zh": "智能运维实践-阿里云",
-    "summary_zh": "本文分享了阿里云在智能运维（AIOps）领域的实践经验，涵盖异常检测、根因分析、故障预测、自动化修复等核心能力。技术细节包括基于时间序列的指标异常检测算法、多维日志关联分析、知识图谱驱动的故障定位，以及基于强化学习的资源调度优化。通过实际案例展示了AIOps在大型分布式系统中的降噪效果与效率提升，提供了从数据采集、模型训练到告警闭环的完整实践路径，适合运维开发与SRE团队深入研读。",
-    "topic": "ops"
-  },
-  {
-    "id": "7cbf9d7c2c27b4901fb993f75c5e1e1d",
-    "title_en": "如何跟踪发现Linux内核补丁（patch） 原创 - CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/Rong_Toa/article/details/109693210",
-    "published_at": "2026-07-07T14:10:22.024Z",
-    "fetched_at": "2026-07-07T14:10:22.024Z",
-    "title_zh": "如何跟踪发现Linux内核补丁（patch） 原创 - CSDN博客",
-    "summary_zh": "本文详细介绍了跟踪Linux内核补丁的多种方法，包括订阅LKML邮件列表、使用git log与git format-patch获取提交历史、通过patchwork平台管理补丁、利用内核官方bugzilla跟踪修复进展。还讲解了如何通过stable内核分支的邮件通知及时获取安全补丁，以及使用checkpatch.pl脚本进行补丁合规性检查。内容实用性强，适合内核开发者、系统管理员及安全研究人员掌握补丁追踪与回溯技巧。",
-    "topic": "security"
-  },
-  {
-    "id": "872f389c46c5d9b2d31da3e4632a4c92",
-    "title_en": "Known Exploited Vulnerabilities Catalog | CISA",
-    "source": "cisa.gov",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-    "published_at": "2026-07-07T14:10:19.136Z",
-    "fetched_at": "2026-07-07T14:10:19.136Z",
-    "title_zh": "已知被利用漏洞目录 | CISA",
-    "summary_zh": "CISA发布的已知被利用漏洞目录（KEV）是安全团队必须关注的关键情报源，收录了已被攻击者积极利用的CVE漏洞，涵盖厂商、产品、漏洞类型及修复建议。本文详细解读了KEV目录的更新机制、使用场景及与CVSS评分的差异，强调其基于实际威胁的优先级排序价值。安全运维人员可据此快速定位需要紧急修复的高危漏洞，优化补丁管理流程，降低被攻击面。",
-    "topic": "security"
-  },
-  {
-    "id": "d33eb4567bcdff8a0adf6bc47d4bfd97",
-    "title_en": "Kubernetes 迁移战略与最佳实践 - IBM",
-    "source": "ibm.com",
-    "url": "https://www.ibm.com/cn-zh/think/insights/kubernetes-migration",
-    "published_at": "2026-07-07T14:10:19.135Z",
-    "fetched_at": "2026-07-07T14:10:19.135Z",
-    "title_zh": "Kubernetes迁移战略与最佳实践",
-    "summary_zh": "本文由IBM发布，系统阐述了将传统应用迁移至Kubernetes平台的战略规划与实施路径。内容涵盖迁移前的应用评估（12-Factor App适配性）、容器化改造策略、有状态应用的数据持久化方案、以及网络与安全策略设计。文章重点介绍了“提升-转移”与“重构”两种模式的适用场景，并分享了灰度发布、流量管理及回滚机制的最佳实践。适合正在规划或执行K8s迁移的技术团队。",
-    "topic": "ops"
-  },
-  {
-    "id": "ed0595afdb77b889390348aab214a1e4",
-    "title_en": "云原生实践总结 - SRE运维进阶之路",
-    "source": "clay-wangzhi.com",
-    "url": "https://clay-wangzhi.com/cloudnative/",
-    "published_at": "2026-07-07T14:10:19.135Z",
-    "fetched_at": "2026-07-07T14:10:19.135Z",
-    "title_zh": "云原生实践总结：SRE运维进阶之路",
-    "summary_zh": "本文总结了作者在云原生环境下的SRE运维实践经验，涵盖可观测性体系建设、故障自愈与容量规划等核心主题。重点介绍了Prometheus+Grafana的监控告警优化、ELK日志分析管道的性能调优、以及基于Kubernetes的HPA与VPA弹性伸缩策略。文章还分享了混沌工程在线上环境的应用案例，以及如何通过SLO驱动运维改进。适合有一定K8s基础、希望提升运维效率的SRE工程师。",
-    "topic": "ops"
-  },
-  {
-    "id": "604b82cbddf294dfc5eff29f5a0c9775",
-    "title_en": "Docker 原理新手指南：一文看懂Docker 是什么?",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/topics/containers/what-is-docker",
-    "published_at": "2026-07-07T14:10:19.135Z",
-    "fetched_at": "2026-07-07T14:10:19.135Z",
-    "title_zh": "Docker原理新手指南：一文看懂Docker是什么？",
-    "summary_zh": "本文以通俗易懂的方式解释了Docker的核心原理，包括镜像分层构建、容器与虚拟机的区别、以及Namespace与Cgroups在资源隔离与限制中的作用。文章通过实际命令演示了从Dockerfile编写到容器运行的全流程，并介绍了Docker网络模式（bridge/host/overlay）与数据卷挂载的底层机制。适合刚接触容器技术、希望理解其工作原理的开发者。",
-    "topic": "ops"
   }
 ]
