@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-07-09",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理技能与工具，涵盖生产级工程技能、WiFi空间感知、长期记忆、多平台研究、Office自动化及系统提示泄露等，凸显AI代理生态的快速扩展与实用化。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description_en": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "language": "C#",
+          "stars_total": 11955,
+          "stars_today": 1717,
+          "description_zh": "OfficeCLI是首个也是最好的专为AI代理读取、编辑和自动化Word、Excel及PowerPoint文件而构建的Office套件。免费、开源、单二进制文件，无需安装Office。"
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 74215,
+          "stars_today": 1297,
+          "description_zh": "为AI编码代理提供的生产级工程技能。"
+        },
+        {
+          "rank": 3,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "language": "JavaScript",
+          "stars_total": 54247,
+          "stars_today": 1218,
+          "description_zh": "提取自Anthropic（Claude Fable 5、Opus 4.8、Claude Code、Claude Design）、OpenAI（ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex）、Google（Gemini 3.5 Flash、3.1 Pro、Antigravity）、xAI（Grok、Cursor、Copilot、VS Code、Perplexity）等平台的系统提示词。定期更新。"
+        },
+        {
+          "rank": 4,
+          "name": "Diolinux/PhotoGIMP",
+          "url": "https://github.com/Diolinux/PhotoGIMP",
+          "description_en": "A Patch for GIMP 3+ for Photoshop Users",
+          "language": "CSS",
+          "stars_total": 15055,
+          "stars_today": 1125,
+          "description_zh": "为Photoshop用户提供的GIMP 3+补丁。"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 249874,
+          "stars_today": 1116,
+          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 6,
+          "name": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "language": "Python",
+          "stars_total": 6088,
+          "stars_today": 951,
+          "description_zh": "赋予Claude观看任何视频的能力。/watch 下载视频、提取帧、转录文本，并将所有内容交给Claude处理。"
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 79166,
+          "stars_today": 799,
+          "description_zh": "π RuView 将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+        },
+        {
+          "rank": 8,
+          "name": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "description_en": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+          "language": "Rust",
+          "stars_total": 8954,
+          "stars_today": 564,
+          "description_zh": "为AI代理提供的即时、并发、安全且轻量的沙箱环境。"
+        },
+        {
+          "rank": 9,
+          "name": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "description_en": "A lightweight, lightning-fast, in-process vector database",
+          "language": "C++",
+          "stars_total": 14434,
+          "stars_today": 395,
+          "description_zh": "一个轻量级、极速的进程内向量数据库。"
+        },
+        {
+          "rank": 10,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 50781,
+          "stars_today": 352,
+          "description_zh": "AI代理技能，可研究Reddit、X、YouTube、HN、Polymarket及网络上的任何话题，并综合生成有依据的摘要。"
+        },
+        {
+          "rank": 11,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description_en": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+          "language": "TypeScript",
+          "stars_total": 7685,
+          "stars_today": 318,
+          "description_zh": "腾讯云数据库Agent Memory通过四层渐进式流水线为AI代理提供完全本地的长期记忆，零外部API依赖。"
+        },
+        {
+          "rank": 12,
+          "name": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "description_en": "Automatic quad remeshing tool",
+          "language": "C++",
+          "stars_total": 2032,
+          "stars_today": 296,
+          "description_zh": "自动四边形网格重构工具。"
+        },
+        {
+          "rank": 13,
+          "name": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "description_en": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+          "language": "TypeScript",
+          "stars_total": 46582,
+          "stars_today": 46,
+          "description_zh": "面向Node.js和TypeScript的下一代ORM | 支持PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB和CockroachDB"
+        },
+        {
+          "rank": 14,
+          "name": "argoproj/argo-cd",
+          "url": "https://github.com/argoproj/argo-cd",
+          "description_en": "Declarative Continuous Deployment for Kubernetes",
+          "language": "Go",
+          "stars_total": 23440,
+          "stars_today": 29,
+          "description_zh": "Kubernetes的声明式持续部署工具。"
+        },
+        {
+          "rank": 15,
+          "name": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description_en": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+          "language": "TypeScript",
+          "stars_total": 6392,
+          "stars_today": 28,
+          "description_zh": "这是为Claude提供的MCP服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力。"
+        }
+      ]
+    },
+    {
       "date": "2026-07-08",
       "summary_zh": "今日GitHub热门项目聚焦AI代理技能与工具链，涵盖生产级工程技能、WiFi信号空间感知、长期记忆数据库、多平台研究摘要、Office自动化、系统提示泄露及轻量级向量数据库等前沿技术。",
       "projects": [
@@ -4971,172 +5127,6 @@
           "stars_total": 758,
           "stars_today": 47,
           "description_zh": "为所有智能体提供统一大脑"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理、计算机视觉与本地模型工具，涵盖多源信息摘要、向量索引、知识库管理及教材资源，开源生态活跃。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "mvanhorn/last30days-skill",
-          "url": "https://github.com/mvanhorn/last30days-skill",
-          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-          "language": "Python",
-          "stars_total": 36991,
-          "stars_today": 3177,
-          "description_zh": "AI代理技能，可跨Reddit、X、YouTube、HN、Polymarket及网络研究任意主题，然后综合生成有依据的摘要"
-        },
-        {
-          "rank": 2,
-          "name": "RyanCodrai/turbovec",
-          "url": "https://github.com/RyanCodrai/turbovec",
-          "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
-          "language": "Python",
-          "stars_total": 10038,
-          "stars_today": 1800,
-          "description_zh": "基于TurboQuant构建的向量索引，使用Rust编写并附带Python绑定"
-        },
-        {
-          "rank": 3,
-          "name": "santifer/career-ops",
-          "url": "https://github.com/santifer/career-ops",
-          "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-          "language": "JavaScript",
-          "stars_total": 51458,
-          "stars_today": 1114,
-          "description_zh": "基于Claude Code构建的AI驱动求职系统。包含14种技能模式、Go语言仪表盘、PDF生成及批量处理功能"
-        },
-        {
-          "rank": 4,
-          "name": "refactoringhq/tolaria",
-          "url": "https://github.com/refactoringhq/tolaria",
-          "description_en": "Desktop app to manage markdown knowledge bases",
-          "language": "TypeScript",
-          "stars_total": 14234,
-          "stars_today": 821,
-          "description_zh": "用于管理Markdown知识库的桌面应用"
-        },
-        {
-          "rank": 5,
-          "name": "phuryn/pm-skills",
-          "url": "https://github.com/phuryn/pm-skills",
-          "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-          "language": "",
-          "stars_total": 13345,
-          "stars_today": 808,
-          "description_zh": "PM技能市场：100多种代理技能、命令和插件——覆盖从发现到战略、执行、发布和增长的完整流程"
-        },
-        {
-          "rank": 6,
-          "name": "roboflow/supervision",
-          "url": "https://github.com/roboflow/supervision",
-          "description_en": "We write your reusable computer vision tools. 💜",
-          "language": "Python",
-          "stars_total": 42895,
-          "stars_today": 735,
-          "description_zh": "我们编写可复用的计算机视觉工具。💜"
-        },
-        {
-          "rank": 7,
-          "name": "Andyyyy64/whichllm",
-          "url": "https://github.com/Andyyyy64/whichllm",
-          "description_en": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-          "language": "Python",
-          "stars_total": 4000,
-          "stars_today": 631,
-          "description_zh": "找到在你的硬件上真正能运行且性能最佳的本地LLM。基于真实且关注时效性的基准排名，而非参数数量。一条命令，即刻运行"
-        },
-        {
-          "rank": 8,
-          "name": "TapXWorld/ChinaTextbook",
-          "url": "https://github.com/TapXWorld/ChinaTextbook",
-          "description_en": "所有小初高、大学PDF教材。",
-          "language": "Roff",
-          "stars_total": 73434,
-          "stars_today": 517,
-          "description_zh": "所有小初高、大学PDF教材。"
-        },
-        {
-          "rank": 9,
-          "name": "aaif-goose/goose",
-          "url": "https://github.com/aaif-goose/goose",
-          "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-          "language": "Rust",
-          "stars_total": 48428,
-          "stars_today": 490,
-          "description_zh": "一个开源、可扩展的AI代理，超越代码建议——可安装、执行、编辑和测试，支持任意LLM"
-        },
-        {
-          "rank": 10,
-          "name": "yikart/AiToEarn",
-          "url": "https://github.com/yikart/AiToEarn",
-          "description_en": "Let's use AI to Earn!",
-          "language": "TypeScript",
-          "stars_total": 19851,
-          "stars_today": 423,
-          "description_zh": "用AI来赚钱！"
-        },
-        {
-          "rank": 11,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "Shell",
-          "stars_total": 49721,
-          "stars_today": 348,
-          "description_zh": "面向AI编程代理的生产级工程技能。"
-        },
-        {
-          "rank": 12,
-          "name": "openai/plugins",
-          "url": "https://github.com/openai/plugins",
-          "description_en": "OpenAI Plugins",
-          "language": "JavaScript",
-          "stars_total": 2555,
-          "stars_today": 284,
-          "description_zh": "OpenAI插件"
-        },
-        {
-          "rank": 13,
-          "name": "opencv/opencv",
-          "url": "https://github.com/opencv/opencv",
-          "description_en": "Open Source Computer Vision Library",
-          "language": "C++",
-          "stars_total": 88560,
-          "stars_today": 169,
-          "description_zh": "开源计算机视觉库"
-        },
-        {
-          "rank": 14,
-          "name": "maziyarpanahi/openmed",
-          "url": "https://github.com/maziyarpanahi/openmed",
-          "description_en": "open-source healthcare ai",
-          "language": "Python",
-          "stars_total": 1758,
-          "stars_today": 165,
-          "description_zh": "开源医疗人工智能"
-        },
-        {
-          "rank": 15,
-          "name": "francescopace/espectre",
-          "url": "https://github.com/francescopace/espectre",
-          "description_en": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
-          "language": "Python",
-          "stars_total": 8141,
-          "stars_today": 112,
-          "description_zh": "🛜 ESPectre 👻 - 基于Wi-Fi频谱分析（CSI）的运动检测系统，集成Home Assistant。"
-        },
-        {
-          "rank": 16,
-          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-          "description_en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-          "language": "",
-          "stars_total": 139104,
-          "stars_today": 66,
-          "description_zh": "完整收录 Augment Code、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia 及 v0（以及其他开源）的系统提示词、内部工具与AI模型"
         }
       ]
     }
