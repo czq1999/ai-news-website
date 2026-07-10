@@ -1,5 +1,148 @@
 [
   {
+    "id": "fed6eed8c4055d10bdbe6fcde069c122",
+    "title_en": "Windows操作系统安全加固 - 阿里云帮助文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/document_detail/49781.html",
+    "published_at": "2026-07-10T09:20:19.013Z",
+    "fetched_at": "2026-07-10T09:20:19.013Z",
+    "title_zh": "Windows操作系统安全加固",
+    "summary_zh": "本文是阿里云提供的Windows操作系统安全加固指南，详细介绍了账户策略、审计策略、安全选项、防火墙规则、服务管理以及补丁管理等关键安全配置。文章从攻击面缩减和权限最小化原则出发，提供了具体的配置步骤和最佳实践。对于Windows服务器管理员，本文是一份实用的安全基线参考，有助于提升系统防御能力。",
+    "topic": "security"
+  },
+  {
+    "id": "0b7d37b35b110db05efdd80fa69f1284",
+    "title_en": "2026 上半年高危 CVE 漏洞全景速览：1-4 月 TOP 20，你的系统中了几个？-腾讯云开发者社区-腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2683702",
+    "published_at": "2026-07-10T09:20:19.013Z",
+    "fetched_at": "2026-07-10T09:20:19.013Z",
+    "title_zh": "2026上半年高危CVE漏洞全景速览：1-4月TOP 20，你的系统中了几个？",
+    "summary_zh": "本文汇总了2026年1月至4月期间最危险的20个CVE漏洞，涵盖操作系统、Web服务器、数据库和中间件等关键组件。文章对每个漏洞的CVSS评分、影响范围、攻击向量和修复状态进行了简要分析，并提供了应急响应建议。对于安全运维人员，本文是一份及时的漏洞预警和排查清单，有助于优先修复高风险漏洞。",
+    "topic": "security"
+  },
+  {
+    "id": "e3f48dfa01149891c9393b06eeeb5eb3",
+    "title_en": "CVE-2026-27654深度解析：NGINX WebDAV高危漏洞原理与修复方案-云社区-华为云",
+    "source": "bbs.huaweicloud.com",
+    "url": "https://bbs.huaweicloud.com/blogs/478691",
+    "published_at": "2026-07-10T09:20:19.013Z",
+    "fetched_at": "2026-07-10T09:20:19.013Z",
+    "title_zh": "CVE-2026-27654深度解析：NGINX WebDAV高危漏洞原理与修复方案",
+    "summary_zh": "本文深入分析了CVE-2026-27654漏洞，该漏洞存在于NGINX的WebDAV模块中，可导致远程代码执行。文章从漏洞原理、触发条件和攻击路径入手，详细解释了为何该漏洞被评为高危，并提供了具体的修复方案，包括升级版本、配置缓解措施和临时规避策略。对于使用NGINX并启用WebDAV的运维人员，本文是必须阅读的安全公告。",
+    "topic": "security"
+  },
+  {
+    "id": "11b87f28506f40e97b3d1d2bdf5eb47b",
+    "title_en": "Docker容器的优化和性能调优技巧",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/1404694",
+    "published_at": "2026-07-10T09:20:19.012Z",
+    "fetched_at": "2026-07-10T09:20:19.012Z",
+    "title_zh": "Docker容器的优化和性能调优技巧",
+    "summary_zh": "本文系统总结了Docker容器在生产环境中的优化和性能调优技巧，涵盖镜像瘦身、资源限制（CPU/内存）、网络配置、存储驱动选择以及日志管理等方面。文章通过具体案例和配置示例，展示了如何减少容器启动时间、降低资源消耗并提升整体性能。对于运维和开发人员，本文提供了可直接落地的优化方案。",
+    "topic": "ops"
+  },
+  {
+    "id": "24cd09157663d56706ee0d1769f5b01a",
+    "title_en": "AI Agent 生产级框架搭建与核心实现指南 | 极客日志",
+    "source": "zeeklog.com",
+    "url": "https://zeeklog.com/2026nian-ai-agentshi-zhan-cong-wan-ju-dao-sheng-chan-li-de-luo-di-shou-ce-fu-yuan-ma-11",
+    "published_at": "2026-07-10T09:20:16.163Z",
+    "fetched_at": "2026-07-10T09:20:16.163Z",
+    "title_zh": "AI Agent生产级框架搭建与核心实现指南",
+    "summary_zh": "本文是一份面向生产环境的AI Agent框架搭建指南，涵盖了从架构设计、任务编排、工具集成到部署监控的全流程。文章重点讨论了如何解决Agent在实际运行中的稳定性、可扩展性和安全性问题，并提供了核心代码示例和最佳实践。对于希望将AI Agent落地到真实业务场景的工程师，本文具有很高的实用价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "bfc1110ae5af84fe505a7078eeaa664e",
+    "title_en": "美团LongCat-2.0发布：1.6T参数国产算力集群训练万亿模型 | AIToolly",
+    "source": "aitoolly.com",
+    "url": "https://aitoolly.com/zh/ai-news/article/2026-07-10-longcat-20",
+    "published_at": "2026-07-10T09:20:16.162Z",
+    "fetched_at": "2026-07-10T09:20:16.162Z",
+    "title_zh": "美团LongCat-2.0发布：基于1.6T参数国产算力集群训练万亿模型",
+    "summary_zh": "本文介绍了美团最新发布的LongCat-2.0大模型，该模型拥有1.6万亿参数，并完全基于国产算力集群进行训练。文章深入探讨了在国产硬件环境下训练超大规模模型的技术挑战与优化策略，包括分布式训练框架、内存管理和通信效率等关键问题。对于关注国产AI基础设施和超大规模模型训练的读者，本文提供了宝贵的实践经验和技术细节。",
+    "topic": "ai"
+  },
+  {
+    "id": "824a1ef9ea8459f18ea820e4b03cdbb6",
+    "title_en": "GPT-5.6 Sol、Terra、Luna 同日上線，OpenAI 再推 AI 代理 ChatGPT Work 搶攻企業市場 - INSIDE",
+    "source": "inside.com.tw",
+    "url": "https://www.inside.com.tw/article/41785-openai-gpt-5-6-sol-terra-luna-chatgpt-work",
+    "published_at": "2026-07-10T09:20:16.162Z",
+    "fetched_at": "2026-07-10T09:20:16.162Z",
+    "title_zh": "GPT-5.6 Sol、Terra、Luna同日上线，OpenAI再推AI代理ChatGPT Work抢占企业市场",
+    "summary_zh": "本文报道了OpenAI同日发布GPT-5.6系列三个子模型（Sol、Terra、Luna）以及面向企业市场的AI代理产品ChatGPT Work。文章分析了不同子模型在性能、成本和适用场景上的差异化定位，并重点介绍了ChatGPT Work如何通过一句话指令完成复杂项目任务，从而提升企业生产力。对于企业AI应用决策者，本文提供了选型参考和落地建议。",
+    "topic": "ai"
+  },
+  {
+    "id": "91887ec1294f71be6e753a734220db74",
+    "title_en": "OpenAI发布GPT-5.6系列模型：性能全面超越Claude，价格最低仅为竞品十六分之一_新浪财经_新浪网",
+    "source": "finance.sina.com.cn",
+    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihhenp8467072.shtml",
+    "published_at": "2026-07-10T09:20:16.162Z",
+    "fetched_at": "2026-07-10T09:20:16.162Z",
+    "title_zh": "OpenAI发布GPT-5.6系列模型：性能全面超越Claude，价格最低仅为竞品十六分之一",
+    "summary_zh": "本文详细对比了OpenAI GPT-5.6系列模型与Claude等竞品的性能与成本。文章指出，GPT-5.6在多项基准测试中全面领先，同时其最低价格仅为竞品的十六分之一，大幅降低了AI应用的门槛。文中还分析了OpenAI的定价策略和技术优化如何实现性能与成本的双重优势，为开发者和企业选择模型提供了重要参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "2a01d52735b8e8761b3b81ac98d13af4",
+    "title_en": "OpenAI一口氣發布GPT-5.6與ChatGPT Work　一句話就能交辦整個專案 | ETtoday AI科技 | ETtoday新聞雲",
+    "source": "ai.ettoday.net",
+    "url": "https://ai.ettoday.net/news/3198528",
+    "published_at": "2026-07-10T09:20:16.162Z",
+    "fetched_at": "2026-07-10T09:20:16.162Z",
+    "title_zh": "OpenAI一口气发布GPT-5.6与ChatGPT Work，一句话就能交办整个项目",
+    "summary_zh": "本文报道了OpenAI同时发布GPT-5.6模型和ChatGPT Work企业级AI代理产品。ChatGPT Work的核心亮点在于用户只需一句话即可启动并管理整个项目，这背后依赖GPT-5.6强大的任务理解和分解能力。文章探讨了这种“一句话项目交办”模式对工作流程的变革潜力，以及AI代理在企业场景中的实际应用价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "4fd67781bfee929d42652d1b519b712f",
+    "title_en": "一夜之间，GPT-5.6 来了，Codex 没了，Claude 急了-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/3888978912393733",
+    "published_at": "2026-07-10T09:20:16.162Z",
+    "fetched_at": "2026-07-10T09:20:16.162Z",
+    "title_zh": "一夜之间，GPT-5.6来了，Codex没了，Claude急了",
+    "summary_zh": "本文以行业视角分析了OpenAI发布GPT-5.6并整合Codex后对AI竞争格局的影响。文章指出，GPT-5.6的全面开放和Codex的并入不仅提升了模型能力，还直接冲击了以代码生成为核心卖点的竞品（如Claude）。文中还讨论了OpenAI此举背后的战略意图，以及开发者社区对Codex独立产品消失的反应。",
+    "topic": "ai"
+  },
+  {
+    "id": "483fe0b3f2feb2147d8234dd75882847",
+    "title_en": "小扎深夜亮王牌，Meta烧出白菜价模型，掀翻Grok 4.5-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/3889024774486788",
+    "published_at": "2026-07-10T09:20:16.162Z",
+    "fetched_at": "2026-07-10T09:20:16.162Z",
+    "title_zh": "小扎深夜亮王牌，Meta烧出白菜价模型，掀翻Grok 4.5",
+    "summary_zh": "本文报道了Meta最新发布的低成本大模型，该模型在性能上对标甚至超越Grok 4.5，但训练和推理成本极低。文章深入分析了Meta通过模型架构优化、数据效率和训练策略创新实现“白菜价”的技术路径，并探讨了这种低成本模型对AI行业竞争格局的潜在影响。对于关注模型效率和成本控制的读者，本文提供了重要参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "2c7d095d76ecd434e29b904436bee366",
+    "title_en": "完整教程：多智能体框架调研：10个主流AI Agent 框架 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/yangykaifa/p/19593416",
+    "published_at": "2026-07-10T09:20:16.162Z",
+    "fetched_at": "2026-07-10T09:20:16.162Z",
+    "title_zh": "完整教程：多智能体框架调研：10个主流AI Agent框架",
+    "summary_zh": "本文是一篇技术调研文章，系统梳理了当前主流的10个AI Agent框架，包括LangChain、AutoGPT、CrewAI等。文章从框架架构、核心特性、适用场景和社区活跃度等维度进行了对比分析，并提供了选型建议。对于正在构建多智能体系统的开发者，本文是一份实用的技术参考，有助于快速了解各框架的优劣并做出合理选择。",
+    "topic": "ai"
+  },
+  {
+    "id": "cbb63e2d60a07fb6dce45d9299878af9",
+    "title_en": "GPT-5.6全量放送，Codex正式并入ChatGPT-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/3889069642742403",
+    "published_at": "2026-07-10T09:20:16.161Z",
+    "fetched_at": "2026-07-10T09:20:16.161Z",
+    "title_zh": "GPT-5.6全面开放，Codex正式并入ChatGPT",
+    "summary_zh": "本文报道了OpenAI最新发布的GPT-5.6模型，该模型在性能上实现了全面升级，并首次将Codex代码生成能力深度整合进ChatGPT。文章详细分析了GPT-5.6在自然语言理解、多轮对话和代码生成方面的技术突破，以及Codex并入后对开发者工作流的潜在影响。对于AI从业者而言，这意味着更高效的代码辅助和更强大的模型能力，值得关注其在实际应用中的表现。",
+    "topic": "ai"
+  },
+  {
     "id": "7cbf9d7c2c27b4901fb993f75c5e1e1d",
     "title_en": "如何跟踪发现Linux内核补丁（patch） 原创 - CSDN博客",
     "source": "blog.csdn.net",
@@ -2055,148 +2198,5 @@
     "title_zh": "K8s集群运维实战：高效部署与故障排查技巧",
     "summary_zh": "本文分享Kubernetes集群运维的实战经验，重点介绍高效部署策略和常见故障排查方法。涵盖Pod调度优化、网络问题诊断、存储卷管理、日志收集等场景，并提供kubectl调试命令和监控告警配置技巧。适合一线K8s运维工程师快速提升实战能力。",
     "topic": "ops"
-  },
-  {
-    "id": "ddf743cb1f7edebac67f5af80f87024d",
-    "title_en": "Kubernetes 最佳实践：综合指南-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.cn",
-    "url": "https://cloud.tencent.cn/developer/article/2401676?policyId=1003",
-    "published_at": "2026-07-08T01:50:44.043Z",
-    "fetched_at": "2026-07-08T01:50:44.043Z",
-    "title_zh": "Kubernetes 最佳实践：综合指南",
-    "summary_zh": "本文系统梳理了Kubernetes在生产环境中的核心最佳实践，涵盖集群架构设计、资源配额管理、Pod安全策略、网络策略配置及日志监控等关键环节。针对常见痛点如资源争抢、服务发现延迟、配置管理混乱等问题，提供了具体的优化方案与配置示例。适合K8s运维人员与平台工程师参考，帮助提升集群稳定性与资源利用率。",
-    "topic": "ops"
-  },
-  {
-    "id": "266de8134f82128e7ec49e2900dc0cbe",
-    "title_en": "AI Agent入门教程：大模型智能体开发指南(含代码) - ModelEngine社区",
-    "source": "modelengine.csdn.net",
-    "url": "https://modelengine.csdn.net/690b1f695511483559e279bd.html",
-    "published_at": "2026-07-08T01:50:40.848Z",
-    "fetched_at": "2026-07-08T01:50:40.848Z",
-    "title_zh": "AI Agent入门教程：大模型智能体开发指南(含代码)",
-    "summary_zh": "本文提供AI Agent开发的完整入门教程，涵盖智能体架构设计、工具调用、记忆管理、任务规划等核心模块。包含可运行的代码示例，演示如何基于大模型构建具备自主决策能力的Agent系统。适合希望快速上手AI Agent开发的工程师和研究人员。",
-    "topic": "ai"
-  },
-  {
-    "id": "c201ddb974b1ad4aef07c0ad0783aaf3",
-    "title_en": "微调LLMs：概述、方法和最佳实践（附天工Skywork-13B微调）",
-    "source": "docs.feishu.cn",
-    "url": "https://docs.feishu.cn/article/wiki/TNUAw3AMtiToCnkVgL5cVR8anyh",
-    "published_at": "2026-07-08T01:50:40.848Z",
-    "fetched_at": "2026-07-08T01:50:40.848Z",
-    "title_zh": "微调LLMs：概述、方法和最佳实践（附天工Skywork-13B微调）",
-    "summary_zh": "本文系统介绍大模型微调的核心方法，包括全参数微调、LoRA、QLoRA等参数高效微调技术。以天工Skywork-13B模型为例，详细讲解数据准备、训练配置、超参数调优和评估流程。提供实用的最佳实践建议，帮助开发者避免常见陷阱，提升微调效果。",
-    "topic": "ai"
-  },
-  {
-    "id": "f3a70a0d4c50539151fbdccc90e3983a",
-    "title_en": "大模型微调实践避坑指南 - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1929489422182777819",
-    "published_at": "2026-07-08T01:50:40.848Z",
-    "fetched_at": "2026-07-08T01:50:40.848Z",
-    "title_zh": "大模型微调实践避坑指南",
-    "summary_zh": "本文总结大模型微调过程中常见的陷阱和解决方案，涵盖数据质量、过拟合、灾难性遗忘、训练不稳定等核心问题。提供实用的调试技巧和优化策略，包括学习率调度、梯度裁剪、混合精度训练等。适合已有一定微调经验、希望提升模型性能的AI工程师阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "71a52326b8258783ec9b8291e82ed140",
-    "title_en": "如何高效微调大模型？技术原理与最佳实践揭秘！-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.cn",
-    "url": "https://cloud.tencent.cn/developer/article/2336872",
-    "published_at": "2026-07-08T01:50:40.848Z",
-    "fetched_at": "2026-07-08T01:50:40.848Z",
-    "title_zh": "如何高效微调大模型？技术原理与最佳实践揭秘！",
-    "summary_zh": "本文深入解析大模型微调的技术原理，包括Transformer架构的梯度传播、参数更新机制和损失函数设计。对比全量微调、LoRA、Adapter等方法的优缺点，并给出数据增强、学习率策略、多卡训练等最佳实践。帮助开发者在有限资源下高效完成模型定制。",
-    "topic": "ai"
-  },
-  {
-    "id": "ead69da2833a02f38d4e48642f653c23",
-    "title_en": "大模型微调入门",
-    "source": "wuduoyi.com",
-    "url": "https://wuduoyi.com/llm-finetune/start.html",
-    "published_at": "2026-07-08T01:50:40.848Z",
-    "fetched_at": "2026-07-08T01:50:40.848Z",
-    "title_zh": "大模型微调入门",
-    "summary_zh": "本文面向初学者，介绍大模型微调的基本概念、常用工具和典型流程。涵盖数据集准备、模型加载、训练脚本编写、评估指标等关键步骤。使用通俗易懂的语言解释LoRA、Prompt Tuning等参数高效微调方法，并给出简单的代码示例，帮助读者快速上手微调实践。",
-    "topic": "ai"
-  },
-  {
-    "id": "b62f1ab839ae9c27c93f8ddc3f05bff6",
-    "title_en": "2026年开始，大模型后训练将会是怎样？ - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1992031479526627117",
-    "published_at": "2026-07-08T01:50:40.847Z",
-    "fetched_at": "2026-07-08T01:50:40.847Z",
-    "title_zh": "2026年开始，大模型后训练将会是怎样？",
-    "summary_zh": "本文展望2026年大模型后训练（Post-training）的技术趋势，探讨RLHF、DPO、在线强化学习等方法的演进方向。分析后训练在提升模型对齐、推理能力和指令遵循方面的关键作用，并讨论数据效率、奖励模型设计、多轮对话优化等核心挑战。适合关注LLM训练流程优化的AI从业者阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "61ae15ec2ddcfcbafe033f1e06d37f6f",
-    "title_en": "腾讯混元Hy3正式上线：坚持实用主义路线，Agent任务解决率跃升_腾讯新闻",
-    "source": "news.qq.com",
-    "url": "https://news.qq.com/rain/a/20260706A067TS00",
-    "published_at": "2026-07-08T01:50:40.847Z",
-    "fetched_at": "2026-07-08T01:50:40.847Z",
-    "title_zh": "腾讯混元Hy3正式上线：坚持实用主义路线，Agent任务解决率跃升",
-    "summary_zh": "腾讯混元Hy3大模型正式发布，强调实用主义设计理念，在Agent任务解决率上取得显著提升。本文介绍Hy3在工具调用、多步推理、任务规划等方面的技术改进，以及如何通过模型架构优化和训练策略实现更高效的智能体协作。对于研究AI Agent落地和模型选型的开发者具有参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "a1deb01d8707c902a0bde4b2c986579b",
-    "title_en": "2026大模型排行榜：实测10+主流大模型选型指南",
-    "source": "daxue.taobao.com",
-    "url": "https://daxue.taobao.com/information/detail.jhtml?id=1375&",
-    "published_at": "2026-07-08T01:50:40.847Z",
-    "fetched_at": "2026-07-08T01:50:40.847Z",
-    "title_zh": "2026大模型排行榜：实测10+主流大模型选型指南",
-    "summary_zh": "本文基于实际评测数据，对2026年10余款主流大模型进行横向对比，涵盖通用能力、代码生成、数学推理、多语言支持等维度。提供详细的选型建议，帮助开发者和企业在不同场景下选择最合适的模型。包含性能基准、成本分析和部署难度评估，是实用的模型选型参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "3b22b1be8eeb2a0761b39eda85589829",
-    "title_en": "2026 AI未來展望｜大型語言模型與AGI - YouTube",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=MQcLtd6Wyek",
-    "published_at": "2026-07-08T01:50:40.847Z",
-    "fetched_at": "2026-07-08T01:50:40.847Z",
-    "title_zh": "2026 AI未来展望｜大型语言模型与AGI",
-    "summary_zh": "本视频内容探讨2026年AI发展前景，聚焦大型语言模型向通用人工智能（AGI）演进的路径。分析当前LLM在推理、记忆、多模态融合等方面的瓶颈，以及未来可能的技术突破方向，如世界模型、持续学习、自主智能体等。适合对AI前沿趋势和AGI研究感兴趣的从业者观看。",
-    "topic": "ai"
-  },
-  {
-    "id": "a1fc5e7bf1e293becd282da343bd8073",
-    "title_en": "2026年AI大爆发：7大模型混战，DeepSeek杀疯了 - AtomGit开源社区",
-    "source": "gitcode.csdn.net",
-    "url": "https://gitcode.csdn.net/69b621000a2f6a37c5978948.html",
-    "published_at": "2026-07-08T01:50:40.847Z",
-    "fetched_at": "2026-07-08T01:50:40.847Z",
-    "title_zh": "2026年AI大爆发：7大模型混战，DeepSeek杀疯了",
-    "summary_zh": "本文回顾2026年AI领域7大主流模型的竞争格局，重点分析DeepSeek系列模型在性能、成本和开源生态上的突出表现。对比各模型在推理、编码、多轮对话等任务上的实测结果，并讨论开源社区对模型迭代的推动作用。为开发者提供模型选型和部署决策的参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "d520b22848d25e4f8bca9cb864fbae17",
-    "title_en": "内核热补丁概述-Alibaba Cloud Linux(Alinux) - 阿里云帮助文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/alinux/user-guide/kernel-live-patching/",
-    "published_at": "2026-07-07T19:43:54.184Z",
-    "fetched_at": "2026-07-07T19:43:54.184Z",
-    "title_zh": "内核热补丁概述 - Alibaba Cloud Linux (Alinux)",
-    "summary_zh": "阿里云官方文档详细介绍了Alibaba Cloud Linux的内核热补丁机制，允许在不重启系统的情况下修复内核安全漏洞或稳定性问题。文档涵盖热补丁的工作原理（基于kpatch框架）、补丁制作流程、加载/卸载操作、以及与其他内核模块的兼容性说明。重点包括热补丁的生命周期管理、回滚策略及性能影响评估。对于追求高可用性的生产环境，该技术可显著减少因内核升级导致的停机窗口。",
-    "topic": "ops"
-  },
-  {
-    "id": "8e57fbf8d6807f12473aa4e6fc5e8e64",
-    "title_en": "安全缺陷",
-    "source": "docs.kernel.org",
-    "url": "https://docs.kernel.org/translations/zh_TW/admin-guide/security-bugs.html",
-    "published_at": "2026-07-07T19:43:54.184Z",
-    "fetched_at": "2026-07-07T19:43:54.184Z",
-    "title_zh": "安全缺陷",
-    "summary_zh": "Linux内核官方文档中关于安全缺陷（Security Bugs）的说明，定义了内核安全漏洞的分类、报告流程及修复策略。文档详细介绍了不同类型的安全缺陷（如内存越界、整数溢出、竞争条件）及其潜在影响，并指导开发者如何正确提交补丁。同时包含内核安全团队对CVE分配、embargo期管理、以及稳定内核分支的backport规则。是内核开发者及安全研究员理解Linux安全响应机制的核心参考。",
-    "topic": "security"
   }
 ]
