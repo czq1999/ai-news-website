@@ -1,5 +1,93 @@
 [
   {
+    "id": "d520b22848d25e4f8bca9cb864fbae17",
+    "title_en": "内核热补丁概述-Alibaba Cloud Linux(Alinux) - 阿里云帮助文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/alinux/user-guide/kernel-live-patching/",
+    "published_at": "2026-07-10T14:01:58.738Z",
+    "fetched_at": "2026-07-10T14:01:58.738Z",
+    "title_zh": "内核热补丁概述 - Alibaba Cloud Linux (Alinux)",
+    "summary_zh": "本文介绍了Alibaba Cloud Linux内核热补丁技术的原理与实现，包括如何在不重启系统的情况下动态修复内核安全漏洞与稳定性问题。详细说明了热补丁的生成、加载与回滚机制，以及基于kpatch与livepatch的技术选型对比。对于需要保障关键业务连续性的运维人员，提供了在Alinux环境下部署热补丁的完整操作指南与注意事项。",
+    "topic": "security"
+  },
+  {
+    "id": "8e57fbf8d6807f12473aa4e6fc5e8e64",
+    "title_en": "安全缺陷",
+    "source": "docs.kernel.org",
+    "url": "https://docs.kernel.org/translations/zh_TW/admin-guide/security-bugs.html",
+    "published_at": "2026-07-10T14:01:58.738Z",
+    "fetched_at": "2026-07-10T14:01:58.738Z",
+    "title_zh": "安全缺陷",
+    "summary_zh": "本文是Linux内核官方文档中关于安全缺陷（Security Bugs）的权威说明，涵盖内核安全漏洞的分类、报告流程、修复策略以及CVE分配机制。重点解读了内核社区对内存安全、权限提升、信息泄露等常见缺陷的处置原则，以及如何通过内核配置与编译选项增强系统安全性。适合内核开发者与系统安全研究员作为参考手册。",
+    "topic": "security"
+  },
+  {
+    "id": "38272a5b4ddd230b1ef50ae3c16ebfb3",
+    "title_en": "清华大学出版社--图书详情",
+    "source": "tup.tsinghua.edu.cn",
+    "url": "http://www.tup.tsinghua.edu.cn/bookscenter/book_11433501.html",
+    "published_at": "2026-07-10T14:01:58.738Z",
+    "fetched_at": "2026-07-10T14:01:58.738Z",
+    "title_zh": "清华大学出版社--图书详情",
+    "summary_zh": "该页面为清华大学出版社某本技术图书的详情介绍，内容可能涵盖计算机科学、人工智能或工程领域的专业知识。由于缺乏具体书名与摘要信息，无法提供更详细的技术解读。建议直接访问页面获取图书目录、作者背景及适用读者群体等详细信息。",
+    "topic": "other"
+  },
+  {
+    "id": "872f389c46c5d9b2d31da3e4632a4c92",
+    "title_en": "Known Exploited Vulnerabilities Catalog | CISA",
+    "source": "cisa.gov",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+    "published_at": "2026-07-10T14:01:57.167Z",
+    "fetched_at": "2026-07-10T14:01:57.167Z",
+    "title_zh": "已知被利用漏洞目录 | CISA",
+    "summary_zh": "CISA（美国网络安全与基础设施安全局）维护的已知被利用漏洞目录（KEV），收录了已被攻击者积极利用的CVE漏洞信息。本文详细解读该目录的更新机制、漏洞优先级排序标准，以及如何将其融入企业漏洞管理流程。对于安全运维团队，KEV是制定紧急补丁策略、缩小攻击面的关键情报源，建议定期同步并自动化响应。",
+    "topic": "security"
+  },
+  {
+    "id": "ddf743cb1f7edebac67f5af80f87024d",
+    "title_en": "Kubernetes 最佳实践：综合指南-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.cn",
+    "url": "https://cloud.tencent.cn/developer/article/2401676?policyId=1003",
+    "published_at": "2026-07-10T14:01:57.166Z",
+    "fetched_at": "2026-07-10T14:01:57.166Z",
+    "title_zh": "Kubernetes 最佳实践：综合指南",
+    "summary_zh": "本文是腾讯云开发者社区推出的Kubernetes综合实践指南，涵盖集群架构设计、资源配额管理、Pod安全策略、网络策略配置以及监控告警体系搭建等核心主题。重点介绍了如何通过声明式配置实现高可用部署，以及利用HPA与VPA进行弹性伸缩的最佳实践。对于正在或计划将生产环境迁移至K8s的运维与开发团队，提供了可直接落地的配置示例与优化建议。",
+    "topic": "ops"
+  },
+  {
+    "id": "c201ddb974b1ad4aef07c0ad0783aaf3",
+    "title_en": "微调LLMs：概述、方法和最佳实践（附天工Skywork-13B微调）",
+    "source": "docs.feishu.cn",
+    "url": "https://docs.feishu.cn/article/wiki/TNUAw3AMtiToCnkVgL5cVR8anyh",
+    "published_at": "2026-07-10T14:01:55.365Z",
+    "fetched_at": "2026-07-10T14:01:55.365Z",
+    "title_zh": "微调LLMs：概述、方法和最佳实践（附天工Skywork-13B微调）",
+    "summary_zh": "本文系统梳理了大型语言模型微调的核心方法，包括全参数微调、LoRA、QLoRA等参数高效微调技术，并对比了不同策略在显存占用、训练速度与下游任务效果上的差异。以天工Skywork-13B为例，详细展示了从数据准备、超参数调优到模型评估的完整流程，并总结了避免灾难性遗忘与过拟合的最佳实践。适合希望快速上手LLM微调的工程师与研究者。",
+    "topic": "ai"
+  },
+  {
+    "id": "61ae15ec2ddcfcbafe033f1e06d37f6f",
+    "title_en": "腾讯混元Hy3正式上线：坚持实用主义路线，Agent任务解决率跃升_腾讯新闻",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20260706A067TS00",
+    "published_at": "2026-07-10T14:01:55.364Z",
+    "fetched_at": "2026-07-10T14:01:55.364Z",
+    "title_zh": "腾讯混元Hy3正式上线：坚持实用主义路线，Agent任务解决率跃升",
+    "summary_zh": "腾讯混元大模型最新版本Hy3正式发布，聚焦实用主义，在Agent任务解决率上实现显著提升。本文深入解析Hy3在任务规划、工具调用与多步推理方面的技术优化，包括强化学习与指令微调的协同策略，以及如何通过更高效的模型架构降低推理成本。对于关注LLM落地与Agent开发的从业者，提供了可借鉴的工程实践与性能对比数据。",
+    "topic": "ai"
+  },
+  {
+    "id": "1122a2e19335129fd576073c1cf90e2f",
+    "title_en": "Anthropic切开Claude大脑，AI自发长出类人「意识器官」-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/3885224712352005",
+    "published_at": "2026-07-10T14:01:55.364Z",
+    "fetched_at": "2026-07-10T14:01:55.364Z",
+    "title_zh": "Anthropic切开Claude大脑，AI自发长出类人「意识器官」",
+    "summary_zh": "Anthropic通过可解释性研究，揭示了Claude模型内部自发形成的类似人类大脑功能区的“意识器官”结构。本文详细介绍了他们如何利用稀疏自编码器与激活分析技术，定位到负责特定认知任务（如推理、规划）的神经元集群，并探讨了这些发现对模型安全与对齐研究的深远意义。对于AI安全与可解释性领域的研究者，提供了前沿的实验方法与洞察。",
+    "topic": "ai"
+  },
+  {
     "id": "fed6eed8c4055d10bdbe6fcde069c122",
     "title_en": "Windows操作系统安全加固 - 阿里云帮助文档",
     "source": "help.aliyun.com",
@@ -2109,94 +2197,6 @@
     "fetched_at": "2026-07-08T01:50:44.044Z",
     "title_zh": "Docker资源限制完全指南：防止容器内存泄漏拖垮服务器",
     "summary_zh": "本文详细介绍了Docker容器资源限制的完整配置方法，重点针对内存泄漏场景下的防护策略。涵盖--memory、--memory-swap、--oom-kill-disable等参数的原理与使用场景，并结合实际案例演示如何通过cgroup监控与告警机制提前发现异常。适合运维人员与后端开发者掌握容器资源隔离的底层逻辑，避免单容器故障影响整个宿主机。",
-    "topic": "ops"
-  },
-  {
-    "id": "43653e09c0d6bed44b0e02ee0a95f355",
-    "title_en": "安全强化 | Red Hat Enterprise Linux | 9 | Red Hat Documentation",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/9/html-single/security_hardening/index",
-    "published_at": "2026-07-08T01:50:44.044Z",
-    "fetched_at": "2026-07-08T01:50:44.044Z",
-    "title_zh": "安全强化 | Red Hat Enterprise Linux 9",
-    "summary_zh": "本文为Red Hat Enterprise Linux 9官方安全强化文档，系统介绍了系统级安全配置的最佳实践，包括SELinux策略细化、内核参数调优、OpenSCAP合规扫描、加密策略配置及身份管理强化等。针对CVE漏洞防护与合规审计需求，提供了可落地的配置步骤与验证方法。适合企业级Linux运维与安全工程师参考。",
-    "topic": "security"
-  },
-  {
-    "id": "766326cca1b9b4ca422d3b5a6e297b6a",
-    "title_en": "(Untitled)",
-    "source": "documentation.suse.com",
-    "url": "https://documentation.suse.com/zh-cn/sles/15-SP4/pdf/book-security_zh_cn.pdf",
-    "published_at": "2026-07-08T01:50:44.044Z",
-    "fetched_at": "2026-07-08T01:50:44.044Z",
-    "title_zh": "SUSE Linux 安全配置指南",
-    "summary_zh": "本文来自SUSE官方文档，涵盖SUSE Linux Enterprise Server的安全配置要点，包括防火墙规则设置、用户权限管理、内核安全参数调整、AppArmor策略配置及系统更新策略。针对常见攻击面如SSH暴力破解、本地提权等提供了加固方案。适合使用SUSE发行版的企业运维人员参考，以提升系统整体安全基线。",
-    "topic": "security"
-  },
-  {
-    "id": "6080baac732e39b81eab87906fbe0868",
-    "title_en": "CVE-2026-34621：Adobe Reader零日漏洞深度分析——恶意PDF即可远程执行代码 - XTCer",
-    "source": "xtcer.cn",
-    "url": "https://xtcer.cn/posts/8e11266b-4891-4f7f-9c67-cfc9ba5b6d2a",
-    "published_at": "2026-07-08T01:50:44.044Z",
-    "fetched_at": "2026-07-08T01:50:44.044Z",
-    "title_zh": "CVE-2026-34621：Adobe Reader零日漏洞深度分析——恶意PDF即可远程执行代码",
-    "summary_zh": "本文深度分析了CVE-2026-34621这一Adobe Reader零日漏洞，该漏洞允许攻击者通过构造恶意PDF文件实现远程代码执行。文章从漏洞触发点、内存破坏机制、利用链构造及绕过缓解措施等角度进行技术拆解，并提供了临时缓解方案与检测规则。适合安全研究员与应急响应团队了解漏洞原理与防御策略。",
-    "topic": "security"
-  },
-  {
-    "id": "1f4dfcab4b75cf813c3e236b6b7853b3",
-    "title_en": "Linux性能调优指南 - Scribd",
-    "source": "scribd.com",
-    "url": "https://www.scribd.com/document/955065137/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97",
-    "published_at": "2026-07-08T01:50:44.043Z",
-    "fetched_at": "2026-07-08T01:50:44.043Z",
-    "title_zh": "Linux性能调优指南",
-    "summary_zh": "本文提供全面的Linux系统性能调优指南，涵盖CPU、内存、磁盘I/O、网络等子系统的优化策略。介绍性能监控工具（如perf、top、iostat）的使用方法，以及内核参数调优、进程调度、文件系统选择等实战技巧。适合系统管理员和DevOps工程师参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "3e2f19e88f7a06c4b428ea91975f62ad",
-    "title_en": "K8s集群运维管理最佳实践 - 阿里云帮助文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/edas/use-cases/best-practices-for-kubernetes-cluster-o-and-m",
-    "published_at": "2026-07-08T01:50:44.043Z",
-    "fetched_at": "2026-07-08T01:50:44.043Z",
-    "title_zh": "K8s集群运维管理最佳实践",
-    "summary_zh": "本文总结阿里云Kubernetes集群运维管理的最佳实践，涵盖集群规划、节点管理、资源配额、安全策略、日志监控等核心领域。提供自动扩缩容、滚动更新、故障恢复等场景的配置建议，并讨论多集群管理和成本优化方案。适合K8s运维工程师和平台架构师阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "c2e2ad066adbffd91c415b824f55b417",
-    "title_en": "最佳实践 | Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/docs/setup/best-practices/",
-    "published_at": "2026-07-08T01:50:44.043Z",
-    "fetched_at": "2026-07-08T01:50:44.043Z",
-    "title_zh": "最佳实践 | Kubernetes",
-    "summary_zh": "本文来自Kubernetes官方文档，汇总了K8s集群部署、应用管理、安全加固、网络策略等方面的最佳实践。涵盖Pod资源限制、命名空间隔离、RBAC权限控制、ConfigMap使用等关键配置建议。适合所有K8s用户作为运维和开发的参考手册。",
-    "topic": "ops"
-  },
-  {
-    "id": "8e255991b65abc095f29c2485ead40a7",
-    "title_en": "如何部署运维K8s？我们整理了3 份Gartner 报告，得到这些 ...",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/623130227",
-    "published_at": "2026-07-08T01:50:44.043Z",
-    "fetched_at": "2026-07-08T01:50:44.043Z",
-    "title_zh": "如何部署运维K8s？我们整理了3份Gartner报告，得到这些...",
-    "summary_zh": "本文基于3份Gartner报告，提炼Kubernetes部署与运维的核心要点，涵盖集群架构设计、多云管理、安全合规、成本控制等关键议题。分析企业级K8s平台选型因素，并提供自动化运维和故障排查的实用建议。适合正在规划或优化K8s基础设施的技术管理者。",
-    "topic": "ops"
-  },
-  {
-    "id": "1af6e0158354acf0006daf295939270a",
-    "title_en": "K8s集群运维实战：高效部署与故障排查技巧",
-    "source": "dtstack.com",
-    "url": "https://www.dtstack.com/bbs/article/55578",
-    "published_at": "2026-07-08T01:50:44.043Z",
-    "fetched_at": "2026-07-08T01:50:44.043Z",
-    "title_zh": "K8s集群运维实战：高效部署与故障排查技巧",
-    "summary_zh": "本文分享Kubernetes集群运维的实战经验，重点介绍高效部署策略和常见故障排查方法。涵盖Pod调度优化、网络问题诊断、存储卷管理、日志收集等场景，并提供kubectl调试命令和监控告警配置技巧。适合一线K8s运维工程师快速提升实战能力。",
     "topic": "ops"
   }
 ]
