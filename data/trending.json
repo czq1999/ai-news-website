@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-10",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链：MCP服务器赋能Claude终端操控，多款Agent技能框架涌现，Bun与TypeScript持续领跑JS生态，C++库如Abseil、Catch2、Asio活跃。",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链与C++生态，涵盖MCP服务器、高性能JS运行时、测试框架及YAML解析库。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 164089,
+          "stars_total": 164423,
           "stars_today": 1728,
           "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/iOfficeAI/OfficeCLI",
           "description_en": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
           "language": "C#",
-          "stars_total": 14144,
+          "stars_total": 14308,
           "stars_today": 1210,
           "description_zh": "OfficeCLI是首个也是最好的专为AI代理读取、编辑和自动化Word、Excel及PowerPoint文件而设计的Office套件。免费、开源、单一二进制文件，无需安装Office。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 76515,
+          "stars_total": 76699,
           "stars_today": 1114,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -40,159 +40,159 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 251509,
+          "stars_total": 251674,
           "stars_today": 1096,
           "description_zh": "一个有效的代理技能框架和软件开发方法论。"
         },
         {
           "rank": 5,
-          "name": "TencentCloud/TencentDB-Agent-Memory",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "description_en": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-          "language": "TypeScript",
-          "stars_total": 8101,
-          "stars_today": 581,
-          "description_zh": "腾讯云数据库代理内存通过四级渐进式流水线为AI代理提供完全本地化的长期记忆，零外部API依赖。"
-        },
-        {
-          "rank": 6,
           "name": "wonderwhy-er/DesktopCommanderMCP",
           "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
           "description_en": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
           "language": "TypeScript",
-          "stars_total": 6889,
+          "stars_total": 7126,
           "stars_today": 349,
           "description_zh": "这是为Claude提供的MCP服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力。"
         },
         {
-          "rank": 7,
-          "name": "vercel/next.js",
-          "url": "https://github.com/vercel/next.js",
-          "description_en": "The React Framework",
-          "language": "JavaScript",
-          "stars_total": 140556,
-          "stars_today": 176,
-          "description_zh": "React框架"
-        },
-        {
-          "rank": 8,
-          "name": "hashicorp/terraform",
-          "url": "https://github.com/hashicorp/terraform",
-          "description_en": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-          "language": "Go",
-          "stars_total": 49063,
-          "stars_today": 168,
-          "description_zh": "Terraform使您能够安全且可预测地创建、更改和改进基础设施。它是一个源代码可用的工具，将API编码为声明式配置文件，可在团队成员之间共享，被视为代码进行编辑、审查和版本控制。"
-        },
-        {
-          "rank": 9,
-          "name": "microsoft/TypeScript",
-          "url": "https://github.com/microsoft/TypeScript",
-          "description_en": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-          "language": "TypeScript",
-          "stars_total": 109697,
-          "stars_today": 166,
-          "description_zh": "TypeScript是JavaScript的超集，可编译为干净的JavaScript输出。"
-        },
-        {
-          "rank": 10,
-          "name": "davila7/claude-code-templates",
-          "url": "https://github.com/davila7/claude-code-templates",
-          "description_en": "CLI tool for configuring and monitoring Claude Code",
-          "language": "Python",
-          "stars_total": 28666,
-          "stars_today": 104,
-          "description_zh": "用于配置和监控Claude Code的CLI工具"
-        },
-        {
-          "rank": 11,
-          "name": "google-labs-code/stitch-skills",
-          "url": "https://github.com/google-labs-code/stitch-skills",
-          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-          "language": "TypeScript",
-          "stars_total": 6590,
-          "stars_today": 101,
-          "description_zh": "一个旨在与Stitch MCP服务器配合使用的代理技能库。每个技能遵循代理技能开放标准，兼容Antigravity、Gemini CLI、Claude Code、Cursor等编码代理。"
-        },
-        {
-          "rank": 12,
-          "name": "chriskohlhoff/asio",
-          "url": "https://github.com/chriskohlhoff/asio",
-          "description_en": "Asio C++ Library",
-          "language": "C++",
-          "stars_total": 6040,
-          "stars_today": 87,
-          "description_zh": "Asio C++库"
-        },
-        {
-          "rank": 13,
-          "name": "zeux/meshoptimizer",
-          "url": "https://github.com/zeux/meshoptimizer",
-          "description_en": "Mesh optimization library that makes meshes smaller and faster to render",
-          "language": "C++",
-          "stars_total": 7978,
-          "stars_today": 86,
-          "description_zh": "网格优化库，使网格更小且渲染更快"
-        },
-        {
-          "rank": 14,
+          "rank": 6,
           "name": "oven-sh/bun",
           "url": "https://github.com/oven-sh/bun",
           "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
           "language": "Rust",
-          "stars_total": 93950,
-          "stars_today": 82,
+          "stars_total": 94116,
+          "stars_today": 307,
           "description_zh": "极快的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
         },
         {
-          "rank": 15,
-          "name": "catchorg/Catch2",
-          "url": "https://github.com/catchorg/Catch2",
-          "description_en": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-          "language": "C++",
-          "stars_total": 20573,
-          "stars_today": 69,
-          "description_zh": "一个现代的、C++原生的测试框架，用于单元测试、TDD和BDD——使用C++14、C++17及更高版本（C++11支持在v2.x分支，C++03在Catch1.x分支）"
-        },
-        {
-          "rank": 16,
-          "name": "grpc/grpc",
-          "url": "https://github.com/grpc/grpc",
-          "description_en": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-          "language": "C++",
-          "stars_total": 45081,
-          "stars_today": 68,
-          "description_zh": "基于C++的gRPC（C++、Python、Ruby、Objective-C、PHP、C#）"
-        },
-        {
-          "rank": 17,
+          "rank": 7,
           "name": "tailscale/tailscale",
           "url": "https://github.com/tailscale/tailscale",
           "description_en": "The easiest, most secure way to use WireGuard and 2FA.",
           "language": "Go",
-          "stars_total": 33486,
-          "stars_today": 66,
+          "stars_total": 33566,
+          "stars_today": 183,
           "description_zh": "使用WireGuard和双因素认证最简单、最安全的方式。"
         },
         {
-          "rank": 18,
-          "name": "jbeder/yaml-cpp",
-          "url": "https://github.com/jbeder/yaml-cpp",
-          "description_en": "A YAML parser and emitter in C++",
-          "language": "C++",
-          "stars_total": 6053,
-          "stars_today": 65,
-          "description_zh": "一个用C++编写的YAML解析器和发射器"
+          "rank": 8,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description_en": "The React Framework",
+          "language": "JavaScript",
+          "stars_total": 140631,
+          "stars_today": 176,
+          "description_zh": "React框架"
         },
         {
-          "rank": 19,
+          "rank": 9,
+          "name": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "description_en": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+          "language": "Go",
+          "stars_total": 49116,
+          "stars_today": 168,
+          "description_zh": "Terraform使您能够安全且可预测地创建、更改和改进基础设施。它是一个源代码可用的工具，将API编码为声明式配置文件，可在团队成员之间共享，被视为代码进行编辑、审查和版本控制。"
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "description_en": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+          "language": "TypeScript",
+          "stars_total": 109735,
+          "stars_today": 166,
+          "description_zh": "TypeScript是JavaScript的超集，可编译为干净的JavaScript输出。"
+        },
+        {
+          "rank": 11,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description_en": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+          "language": "TypeScript",
+          "stars_total": 8165,
+          "stars_today": 134,
+          "description_zh": "腾讯云数据库代理内存通过四级渐进式流水线为AI代理提供完全本地化的长期记忆，零外部API依赖。"
+        },
+        {
+          "rank": 12,
           "name": "abseil/abseil-cpp",
           "url": "https://github.com/abseil/abseil-cpp",
           "description_en": "Abseil Common Libraries (C++)",
           "language": "C++",
-          "stars_total": 17478,
-          "stars_today": 3,
+          "stars_total": 17497,
+          "stars_today": 106,
           "description_zh": "Abseil通用库（C++）"
+        },
+        {
+          "rank": 13,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description_en": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars_total": 28723,
+          "stars_today": 104,
+          "description_zh": "用于配置和监控Claude Code的CLI工具"
+        },
+        {
+          "rank": 14,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars_total": 6659,
+          "stars_today": 101,
+          "description_zh": "一个旨在与Stitch MCP服务器配合使用的代理技能库。每个技能遵循代理技能开放标准，兼容Antigravity、Gemini CLI、Claude Code、Cursor等编码代理。"
+        },
+        {
+          "rank": 15,
+          "name": "chriskohlhoff/asio",
+          "url": "https://github.com/chriskohlhoff/asio",
+          "description_en": "Asio C++ Library",
+          "language": "C++",
+          "stars_total": 6056,
+          "stars_today": 87,
+          "description_zh": "Asio C++库"
+        },
+        {
+          "rank": 16,
+          "name": "zeux/meshoptimizer",
+          "url": "https://github.com/zeux/meshoptimizer",
+          "description_en": "Mesh optimization library that makes meshes smaller and faster to render",
+          "language": "C++",
+          "stars_total": 7999,
+          "stars_today": 86,
+          "description_zh": "网格优化库，使网格更小且渲染更快"
+        },
+        {
+          "rank": 17,
+          "name": "catchorg/Catch2",
+          "url": "https://github.com/catchorg/Catch2",
+          "description_en": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+          "language": "C++",
+          "stars_total": 20593,
+          "stars_today": 69,
+          "description_zh": "一个现代的、C++原生的测试框架，用于单元测试、TDD和BDD——使用C++14、C++17及更高版本（C++11支持在v2.x分支，C++03在Catch1.x分支）"
+        },
+        {
+          "rank": 18,
+          "name": "grpc/grpc",
+          "url": "https://github.com/grpc/grpc",
+          "description_en": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+          "language": "C++",
+          "stars_total": 45109,
+          "stars_today": 68,
+          "description_zh": "基于C++的gRPC（C++、Python、Ruby、Objective-C、PHP、C#）"
+        },
+        {
+          "rank": 19,
+          "name": "jbeder/yaml-cpp",
+          "url": "https://github.com/jbeder/yaml-cpp",
+          "description_en": "A YAML parser and emitter in C++",
+          "language": "C++",
+          "stars_total": 6069,
+          "stars_today": 65,
+          "description_zh": "一个用C++编写的YAML解析器和发射器"
         }
       ]
     },
