@@ -1,6 +1,202 @@
 {
   "days": [
     {
+      "date": "2026-07-11",
+      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链与C++生态，涵盖Claude终端控制、Bun超快JS运行时、TypeScript及C++测试/解析库。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars_total": 164681,
+          "stars_today": 1712,
+          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
+        },
+        {
+          "rank": 2,
+          "name": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description_en": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "language": "C#",
+          "stars_total": 14453,
+          "stars_today": 1224,
+          "description_zh": "OfficeCLI是首个也是最好的专为AI代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建的Office套件。免费、开源、单一二进制文件，无需安装Office"
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 76840,
+          "stars_today": 1116,
+          "description_zh": "面向AI编码代理的生产级工程技能"
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 251804,
+          "stars_today": 1013,
+          "description_zh": "一个有效的代理技能框架和软件开发方法论"
+        },
+        {
+          "rank": 5,
+          "name": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description_en": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+          "language": "TypeScript",
+          "stars_total": 7320,
+          "stars_today": 328,
+          "description_zh": "这是Claude的MCP服务器，提供终端控制、文件系统搜索和差异文件编辑功能"
+        },
+        {
+          "rank": 6,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Rust",
+          "stars_total": 94251,
+          "stars_today": 209,
+          "description_zh": "极快的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
+        },
+        {
+          "rank": 7,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description_en": "The React Framework",
+          "language": "JavaScript",
+          "stars_total": 140715,
+          "stars_today": 191,
+          "description_zh": "React框架"
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "description_en": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+          "language": "TypeScript",
+          "stars_total": 109781,
+          "stars_today": 177,
+          "description_zh": "TypeScript是JavaScript的超集，可编译为干净的JavaScript输出"
+        },
+        {
+          "rank": 9,
+          "name": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "description_en": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+          "language": "Go",
+          "stars_total": 49172,
+          "stars_today": 172,
+          "description_zh": "Terraform使您能够安全且可预测地创建、更改和改进基础设施。它是一个源代码可用的工具，将API编码为声明式配置文件，可在团队成员之间共享，视为代码进行编辑、审查和版本控制"
+        },
+        {
+          "rank": 10,
+          "name": "tailscale/tailscale",
+          "url": "https://github.com/tailscale/tailscale",
+          "description_en": "The easiest, most secure way to use WireGuard and 2FA.",
+          "language": "Go",
+          "stars_total": 33661,
+          "stars_today": 143,
+          "description_zh": "使用WireGuard和双因素认证最简单、最安全的方式"
+        },
+        {
+          "rank": 11,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description_en": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+          "language": "TypeScript",
+          "stars_total": 8249,
+          "stars_today": 123,
+          "description_zh": "腾讯云数据库代理内存通过四层渐进式流水线为AI代理提供完全本地的长期记忆，零外部API依赖"
+        },
+        {
+          "rank": 12,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description_en": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars_total": 28775,
+          "stars_today": 118,
+          "description_zh": "用于配置和监控Claude Code的CLI工具"
+        },
+        {
+          "rank": 13,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars_total": 6753,
+          "stars_today": 117,
+          "description_zh": "一套代理技能库，专为与Stitch MCP服务器配合使用而设计。每个技能遵循代理技能开放标准，兼容Antigravity、Gemini CLI、Claude Code、Cursor等编码代理"
+        },
+        {
+          "rank": 14,
+          "name": "chriskohlhoff/asio",
+          "url": "https://github.com/chriskohlhoff/asio",
+          "description_en": "Asio C++ Library",
+          "language": "C++",
+          "stars_total": 6073,
+          "stars_today": 92,
+          "description_zh": "Asio C++库"
+        },
+        {
+          "rank": 15,
+          "name": "zeux/meshoptimizer",
+          "url": "https://github.com/zeux/meshoptimizer",
+          "description_en": "Mesh optimization library that makes meshes smaller and faster to render",
+          "language": "C++",
+          "stars_total": 8026,
+          "stars_today": 91,
+          "description_zh": "网格优化库，使网格更小且渲染更快"
+        },
+        {
+          "rank": 16,
+          "name": "abseil/abseil-cpp",
+          "url": "https://github.com/abseil/abseil-cpp",
+          "description_en": "Abseil Common Libraries (C++)",
+          "language": "C++",
+          "stars_total": 17523,
+          "stars_today": 89,
+          "description_zh": "Abseil通用库（C++）"
+        },
+        {
+          "rank": 17,
+          "name": "grpc/grpc",
+          "url": "https://github.com/grpc/grpc",
+          "description_en": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+          "language": "C++",
+          "stars_total": 45139,
+          "stars_today": 78,
+          "description_zh": "基于C++的gRPC（C++、Python、Ruby、Objective-C、PHP、C#）"
+        },
+        {
+          "rank": 18,
+          "name": "catchorg/Catch2",
+          "url": "https://github.com/catchorg/Catch2",
+          "description_en": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+          "language": "C++",
+          "stars_total": 20616,
+          "stars_today": 76,
+          "description_zh": "一个现代的、C++原生的测试框架，用于单元测试、TDD和BDD——支持C++14、C++17及更高版本（C++11支持在v2.x分支，C++03在Catch1.x分支）"
+        },
+        {
+          "rank": 19,
+          "name": "jbeder/yaml-cpp",
+          "url": "https://github.com/jbeder/yaml-cpp",
+          "description_en": "A YAML parser and emitter in C++",
+          "language": "C++",
+          "stars_total": 6082,
+          "stars_today": 69,
+          "description_zh": "一个用C++编写的YAML解析器和发射器"
+        }
+      ]
+    },
+    {
       "date": "2026-07-10",
       "summary_zh": "今日GitHub热门项目聚焦AI编程工具链与C++生态，涵盖MCP服务器、高性能JS运行时、测试框架及YAML解析库。",
       "projects": [
@@ -4951,202 +5147,6 @@
           "stars_total": 1731,
           "stars_today": 6,
           "description_zh": "Music Assistant 是一款免费开源的媒体库管理器，可连接您的流媒体服务和各种智能音箱。服务器是其核心引擎，必须运行在始终在线的设备上，如树莓派、NAS 或英特尔 NUC 等。"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理技能安全与开发工具，涵盖容器管理、安全扫描、知识库及开源医疗AI，凸显代理生态与效率提升趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "Shell",
-          "stars_total": 54399,
-          "stars_today": 3275,
-          "description_zh": "面向AI编程代理的生产级工程技能。"
-        },
-        {
-          "rank": 2,
-          "name": "apple/container",
-          "url": "https://github.com/apple/container",
-          "description_en": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-          "language": "Swift",
-          "stars_total": 31981,
-          "stars_today": 2419,
-          "description_zh": "一款在Mac上使用轻量级虚拟机创建和运行Linux容器的工具。它用Swift编写，并针对Apple芯片进行了优化。"
-        },
-        {
-          "rank": 3,
-          "name": "phuryn/pm-skills",
-          "url": "https://github.com/phuryn/pm-skills",
-          "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-          "language": "",
-          "stars_total": 16117,
-          "stars_today": 1944,
-          "description_zh": "PM技能市场：100多种代理技能、命令和插件——涵盖从发现到策略、执行、发布和增长的全流程。"
-        },
-        {
-          "rank": 4,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 111416,
-          "stars_today": 1434,
-          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是具有个性、流程和可交付成果的领域专家。"
-        },
-        {
-          "rank": 5,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 224689,
-          "stars_today": 1323,
-          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 6,
-          "name": "soxoj/maigret",
-          "url": "https://github.com/soxoj/maigret",
-          "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-          "language": "Python",
-          "stars_total": 32527,
-          "stars_today": 665,
-          "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案。"
-        },
-        {
-          "rank": 7,
-          "name": "refactoringhq/tolaria",
-          "url": "https://github.com/refactoringhq/tolaria",
-          "description_en": "Desktop app to manage markdown knowledge bases",
-          "language": "TypeScript",
-          "stars_total": 15342,
-          "stars_today": 604,
-          "description_zh": "用于管理Markdown知识库的桌面应用程序。"
-        },
-        {
-          "rank": 8,
-          "name": "masterking32/MasterDnsVPN",
-          "url": "https://github.com/masterking32/MasterDnsVPN",
-          "description_en": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-          "language": "Go",
-          "stars_total": 5626,
-          "stars_today": 510,
-          "description_zh": "用于绕过审查的高级DNS隧道VPN，在DNSTT和SlipStream基础上优化，具备低开销ARQ、解析器负载均衡、高丢包稳定性与速度。"
-        },
-        {
-          "rank": 9,
-          "name": "maziyarpanahi/openmed",
-          "url": "https://github.com/maziyarpanahi/openmed",
-          "description_en": "open-source healthcare ai",
-          "language": "Python",
-          "stars_total": 2683,
-          "stars_today": 427,
-          "description_zh": "开源医疗保健人工智能。"
-        },
-        {
-          "rank": 10,
-          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-          "description_en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-          "language": "",
-          "stars_total": 139826,
-          "stars_today": 369,
-          "description_zh": "完整的Augment Code、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia和v0（以及其他开源）的系统提示词、内部工具和AI模型。"
-        },
-        {
-          "rank": 11,
-          "name": "TapXWorld/ChinaTextbook",
-          "url": "https://github.com/TapXWorld/ChinaTextbook",
-          "description_en": "所有小初高、大学PDF教材。",
-          "language": "Roff",
-          "stars_total": 73904,
-          "stars_today": 345,
-          "description_zh": "所有小初高、大学PDF教材。"
-        },
-        {
-          "rank": 12,
-          "name": "NVIDIA/SkillSpector",
-          "url": "https://github.com/NVIDIA/SkillSpector",
-          "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-          "language": "Python",
-          "stars_total": 2536,
-          "stars_today": 308,
-          "description_zh": "AI代理技能安全扫描器。检测漏洞、恶意模式和安全风险。"
-        },
-        {
-          "rank": 13,
-          "name": "bannedbook/fanqiang",
-          "url": "https://github.com/bannedbook/fanqiang",
-          "description_en": "翻墙-科学上网",
-          "language": "Kotlin",
-          "stars_total": 46708,
-          "stars_today": 243,
-          "description_zh": "翻墙-科学上网"
-        },
-        {
-          "rank": 14,
-          "name": "chatwoot/chatwoot",
-          "url": "https://github.com/chatwoot/chatwoot",
-          "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-          "language": "Ruby",
-          "stars_total": 30283,
-          "stars_today": 191,
-          "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud等的替代方案。🔥💬"
-        },
-        {
-          "rank": 15,
-          "name": "hexo-ai/sia",
-          "url": "https://github.com/hexo-ai/sia",
-          "description_en": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
-          "language": "Python",
-          "stars_total": 1198,
-          "stars_today": 177,
-          "description_zh": "SIA是一个自我改进的AI框架，用于自主提升任何AI系统（模型/代理）在基准任务上的性能。"
-        },
-        {
-          "rank": 16,
-          "name": "kenn-io/agentsview",
-          "url": "https://github.com/kenn-io/agentsview",
-          "description_en": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-          "language": "Go",
-          "stars_total": 1566,
-          "stars_today": 98,
-          "description_zh": "面向编码代理的本地优先会话智能与分析工具，支持Claude Code、Codex及20多种其他代理。同时：比ccusage快100倍的替代方案！"
-        },
-        {
-          "rank": 17,
-          "name": "alchaincyf/zhangxuefeng-skill",
-          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-          "description_en": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-          "language": "",
-          "stars_total": 7918,
-          "stars_today": 94,
-          "description_zh": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
-        },
-        {
-          "rank": 18,
-          "name": "restic/restic",
-          "url": "https://github.com/restic/restic",
-          "description_en": "Fast, secure, efficient backup program",
-          "language": "Go",
-          "stars_total": 34114,
-          "stars_today": 33,
-          "description_zh": "快速、安全、高效的备份程序"
-        },
-        {
-          "rank": 19,
-          "name": "mattermost/mattermost",
-          "url": "https://github.com/mattermost/mattermost",
-          "description_en": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-          "language": "TypeScript",
-          "stars_total": 37252,
-          "stars_today": 26,
-          "description_zh": "Mattermost是一个开源平台，用于在整个软件开发生命周期中进行安全协作。"
         }
       ]
     }

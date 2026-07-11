@@ -1,5 +1,126 @@
 [
   {
+    "id": "8e49381bd45de8f2421a0d18f56a137d",
+    "title_en": "清华大学出版社--图书详情",
+    "source": "tup.tsinghua.edu.cn",
+    "url": "https://www.tup.tsinghua.edu.cn/booksCenter/book_10156901.html",
+    "published_at": "2026-07-11T01:49:15.581Z",
+    "fetched_at": "2026-07-11T01:49:15.581Z",
+    "title_zh": "清华大学出版社--图书详情",
+    "summary_zh": "该页面为清华大学出版社的某本技术图书详情页，内容通常包括书籍简介、目录、作者信息及购买链接。由于缺乏具体技术主题，无法提供针对性的技术摘要。建议直接访问页面获取图书的详细技术内容。",
+    "topic": "other"
+  },
+  {
+    "id": "c6dd8601a3f15509d5e7ce83f04e323e",
+    "title_en": "从低权限 Key 到 AI Gateway 接管：LiteLLM 漏洞链完整剖析-腾讯云开发者社区-腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2696177",
+    "published_at": "2026-07-11T01:49:14.160Z",
+    "fetched_at": "2026-07-11T01:49:14.160Z",
+    "title_zh": "从低权限 Key 到 AI Gateway 接管：LiteLLM 漏洞链完整剖析",
+    "summary_zh": "本文详细剖析了LiteLLM AI Gateway中的一个高危漏洞链，攻击者可通过低权限API Key逐步提权，最终完全接管网关控制权。文章从漏洞发现、利用链构造到修复方案进行了完整的技术复盘，涉及权限验证绕过、配置注入、敏感信息泄露等多个安全层面。对于使用LiteLLM或其他AI Gateway产品的团队，本文提供了关键的安全加固建议，包括最小权限原则、输入校验强化和审计日志完善。",
+    "topic": "security"
+  },
+  {
+    "id": "80fe30769372d68d10c49b4158582082",
+    "title_en": "Docker 容器性能优化思路 - 官方博客",
+    "source": "idc.net",
+    "url": "https://idc.net/help/442419/",
+    "published_at": "2026-07-11T01:49:14.159Z",
+    "fetched_at": "2026-07-11T01:49:14.159Z",
+    "title_zh": "Docker 容器性能优化思路",
+    "summary_zh": "本文系统总结了Docker容器性能优化的关键思路与实践方法。从资源限制（CPU、内存、磁盘I/O）的合理配置入手，分析了容器运行时开销的来源，包括网络模式选择、存储驱动优化、镜像层缓存利用等。文章还探讨了如何通过调整内核参数、使用cgroups v2以及优化容器编排策略来提升整体性能。对于运维和开发工程师，本文提供了可操作的性能调优清单，帮助在容器化环境中最大化资源利用率。",
+    "topic": "ops"
+  },
+  {
+    "id": "e5768edf5fb219264f3565e9d95393b6",
+    "title_en": "Docker资源限制完全指南：防止容器内存泄漏拖垮服务器 · Easton Blog",
+    "source": "eastondev.com",
+    "url": "https://eastondev.com/blog/zh/posts/dev/20251218-docker-resource-limits-guide/",
+    "published_at": "2026-07-11T01:49:14.159Z",
+    "fetched_at": "2026-07-11T01:49:14.159Z",
+    "title_zh": "Docker资源限制完全指南：防止容器内存泄漏拖垮服务器",
+    "summary_zh": "本文是一份全面的Docker资源限制指南，重点解决因容器内存泄漏导致宿主机不稳定的问题。详细介绍了如何使用Docker的--memory、--cpus等参数精确控制容器资源使用，并深入讲解了cgroups底层机制。文章还提供了监控容器内存使用、设置Swap限制、使用OOM优先级等高级技巧，以及如何结合Docker Compose和Kubernetes进行资源配额管理。对于运维人员，本文是保障容器化服务稳定性的必备参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "71a52326b8258783ec9b8291e82ed140",
+    "title_en": "如何高效微调大模型？技术原理与最佳实践揭秘！-腾讯云开发者社区-腾讯云",
+    "source": "cloud.tencent.cn",
+    "url": "https://cloud.tencent.cn/developer/article/2336872",
+    "published_at": "2026-07-11T01:49:11.950Z",
+    "fetched_at": "2026-07-11T01:49:11.950Z",
+    "title_zh": "如何高效微调大模型？技术原理与最佳实践揭秘！",
+    "summary_zh": "本文深入探讨了大模型微调的核心技术原理与工程实践。从迁移学习的基础出发，详细讲解了全参数微调、LoRA、Adapter等高效微调方法的数学原理与适用场景。文章还分享了数据准备、超参数调优、分布式训练以及模型评估的最佳实践，并对比了不同微调策略在显存占用、训练速度和下游任务效果上的表现。对于希望将通用大模型适配到特定业务场景的算法工程师，本文提供了系统性的技术指导。",
+    "topic": "ai"
+  },
+  {
+    "id": "8c6f40fa78ef907abd573cbde837e4f1",
+    "title_en": "AI大模型微调企业项目实战课(完结)-云社区-华为云",
+    "source": "bbs.huaweicloud.com",
+    "url": "https://bbs.huaweicloud.com/blogs/477270",
+    "published_at": "2026-07-11T01:49:11.950Z",
+    "fetched_at": "2026-07-11T01:49:11.950Z",
+    "title_zh": "AI大模型微调企业项目实战课(完结)",
+    "summary_zh": "这是一套面向企业级应用的大模型微调实战课程，内容涵盖从数据准备、模型选择到部署上线的完整流程。课程重点讲解了如何针对特定业务场景（如客服、代码生成）进行高效的模型微调，包括LoRA、QLoRA等参数高效微调技术的实战应用。同时涉及了分布式训练、模型量化、推理优化等工程化要点。对于希望将大模型落地到企业生产环境的开发者，本课程提供了从理论到实践的全面指导。",
+    "topic": "ai"
+  },
+  {
+    "id": "7d0c0d447e490372232b94381de4bf21",
+    "title_en": "OpenAI新语音模型实现同时听说，实时翻译更自然 | 赢政天下",
+    "source": "winzheng.com",
+    "url": "https://www.winzheng.com/article/openai-voice-model-simultaneous-speech",
+    "published_at": "2026-07-11T01:49:11.949Z",
+    "fetched_at": "2026-07-11T01:49:11.949Z",
+    "title_zh": "OpenAI新语音模型实现同时听说，实时翻译更自然",
+    "summary_zh": "本文介绍了OpenAI最新发布的语音模型，该模型突破了传统语音交互的延迟瓶颈，实现了真正的“同时听说”能力。技术核心在于端到端的神经网络架构，能够并行处理音频输入与输出，显著降低实时翻译中的等待时间。文章深入分析了模型在语音识别、自然语言理解与语音合成三个环节的协同优化策略，并对比了传统级联方案与端到端方案在延迟和自然度上的差异。对于从事语音交互、实时翻译系统开发的工程师，本文提供了关键的技术洞察和性能评估数据，有助于理解下一代语音AI的演进方向。",
+    "topic": "ai"
+  },
+  {
+    "id": "150ed4f8b546367932a3bfe75cf149b8",
+    "title_en": "datawhalechina/hello-agents",
+    "source": "github.com",
+    "url": "https://github.com/datawhalechina/hello-agents/",
+    "published_at": "2026-07-11T01:49:11.949Z",
+    "fetched_at": "2026-07-11T01:49:11.949Z",
+    "title_zh": "datawhalechina/hello-agents",
+    "summary_zh": "这是一个面向AI Agent初学者的开源教程项目，由DataWhale社区维护。项目从零开始，系统讲解Agent的核心概念、架构设计与实现原理，涵盖工具调用、记忆管理、规划推理等关键模块。教程以实战为导向，提供可运行的代码示例，帮助开发者快速上手构建自己的Agent框架。对于希望深入理解AI Agent内部机制、掌握从理论到实践的完整路径的开发者，该项目是一个高质量的学习资源。",
+    "topic": "ai"
+  },
+  {
+    "id": "02c79f734bc288b1f75366528034096f",
+    "title_en": "深入浅出LangChain AI Agent智能体开发教程（一）",
+    "source": "juejin.cn",
+    "url": "https://juejin.cn/post/7526993716071202851",
+    "published_at": "2026-07-11T01:49:11.949Z",
+    "fetched_at": "2026-07-11T01:49:11.949Z",
+    "title_zh": "深入浅出LangChain AI Agent智能体开发教程（一）",
+    "summary_zh": "本教程系列旨在帮助开发者从零掌握基于LangChain的AI Agent开发。第一篇重点介绍了LangChain框架的核心组件，包括LLM封装、Prompt模板、Chain和Agent的概念。通过一个简单的问答Agent示例，展示了如何利用LangChain快速搭建具备工具调用能力的智能体。文章还讨论了Agent的决策流程、记忆机制以及如何集成外部API。对于希望利用LangChain构建生产级Agent应用的开发者，本文提供了清晰的技术路线和最佳实践。",
+    "topic": "ai"
+  },
+  {
+    "id": "8b195823e46bbdd3dd4b47d9077937ba",
+    "title_en": "【AI Agent】从零写一个agent框架，打造最强开放agent编辑框架，拳打dify，脚踩coze_人工智能_OpenCV图像识别-龙虾开发者社区",
+    "source": "devpress.csdn.net",
+    "url": "https://devpress.csdn.net/xclaw/6a0543270a2f6a37c5aa187b.html",
+    "published_at": "2026-07-11T01:49:11.949Z",
+    "fetched_at": "2026-07-11T01:49:11.949Z",
+    "title_zh": "从零写一个agent框架，打造最强开放agent编辑框架，拳打dify，脚踩coze",
+    "summary_zh": "本文作者分享了从零构建一个开源AI Agent编辑框架的实战经验。框架设计强调高度可扩展性和灵活性，支持可视化编排、多模型接入、自定义工具链等特性。文章详细对比了与Dify、Coze等主流平台的架构差异，并提出了在性能、插件生态和部署便捷性上的优化方案。对于有志于自研Agent平台或深入理解Agent框架底层实现的开发者，本文提供了宝贵的架构设计思路和代码实现参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "d19297d571c2214edc34b3cc704635e2",
+    "title_en": "docs/chapter7/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84Agent%E6%A1%86%E6%9E%B6.md at 8b9692aa738ac5ffdd3b30dcbd7d6bf33c198320 · datawhalechina/hello-agents",
+    "source": "github.com",
+    "url": "https://github.com/datawhalechina/hello-agents/blob/8b9692aa738ac5ffdd3b30dcbd7d6bf33c198320/docs/chapter7/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84Agent%E6%A1%86%E6%9E%B6.md",
+    "published_at": "2026-07-11T01:49:11.949Z",
+    "fetched_at": "2026-07-11T01:49:11.949Z",
+    "title_zh": "第七章：构建你的Agent框架",
+    "summary_zh": "本文是《hello-agents》教程的第七章，专注于指导读者从零构建一个完整的Agent框架。内容涵盖Agent的核心循环设计、工具注册与调用机制、记忆模块的实现以及多轮对话的状态管理。通过逐步拆解框架的各个组件，读者可以理解Agent如何感知环境、做出决策并执行动作。文章提供了清晰的代码结构和设计模式，适合希望深入Agent底层开发、提升框架设计能力的工程师。",
+    "topic": "ai"
+  },
+  {
     "id": "25bb526d8c29356ebb32f165c93a0d64",
     "title_en": "CVE-2026-31431 Copy Fail：Linux 本地提權漏洞深度分析 | SPY's blog",
     "source": "pinkyspy.com",
@@ -2077,126 +2198,5 @@
     "title_zh": "10个终极Docker容器资源优化技巧：提升性能的完整指南",
     "summary_zh": "深入讲解Docker容器资源优化的10个核心技巧，包括CPU/内存限制、存储驱动选择、镜像层缓存、网络模式调优、日志管理、健康检查配置等。每个技巧均附有性能对比数据，帮助开发运维人员最大化容器化应用的运行效率。",
     "topic": "ops"
-  },
-  {
-    "id": "1150407474f5c6315c5788ae4333c8a9",
-    "title_en": "性能调优指南",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
-    "published_at": "2026-07-08T08:10:00.978Z",
-    "fetched_at": "2026-07-08T08:10:00.978Z",
-    "title_zh": "性能调优指南",
-    "summary_zh": "Red Hat官方文档，系统介绍Linux性能调优方法论，包括CPU、内存、磁盘I/O、网络子系统的监控与分析工具使用，以及内核参数调优策略。提供从瓶颈识别到优化落地的完整工作流，适合系统管理员和SRE参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "6df802a125aba8e56c2e75a6bf4e1fc6",
-    "title_en": "序· Linux性能调优指南 - lihz",
-    "source": "lihz1990.gitbooks.io",
-    "url": "https://lihz1990.gitbooks.io/transoflptg/content/",
-    "published_at": "2026-07-08T08:10:00.978Z",
-    "fetched_at": "2026-07-08T08:10:00.978Z",
-    "title_zh": "序· Linux性能调优指南",
-    "summary_zh": "本书开篇介绍Linux性能调优的整体框架与核心原则，强调从应用层到内核层的分层优化思路。涵盖性能基准建立、常见瓶颈类型、调优工具链选型等内容，为后续深入章节奠定理论基础，适合系统化学习性能优化。",
-    "topic": "ops"
-  },
-  {
-    "id": "ba6a362b22eafb8579c00215d9bbc5b0",
-    "title_en": "告别瞎调！大模型API调用 & Fine-Tuning 企业级最佳实践全指南_zhang_shiwei的技术博客_51CTO博客",
-    "source": "blog.51cto.com",
-    "url": "https://blog.51cto.com/u_15641375/14626621",
-    "published_at": "2026-07-08T08:09:58.268Z",
-    "fetched_at": "2026-07-08T08:09:58.268Z",
-    "title_zh": "告别瞎调！大模型API调用与Fine-Tuning企业级最佳实践全指南",
-    "summary_zh": "本文提供了一份企业级的大模型API调用与微调（Fine-Tuning）最佳实践指南。内容涵盖API调用的性能优化策略，包括请求批处理、缓存机制、并发控制与错误重试；以及微调的技术细节，如数据准备、超参数调优、LoRA/QLoRA等参数高效微调方法的选择。文章还讨论了模型评估指标、过拟合预防、以及微调后的模型部署与监控。对于企业AI团队而言，本文提供了从成本控制到模型效果优化的完整技术方案，具有极高的工程实践价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "ca273bf91dad2863f018f93e363215e5",
-    "title_en": "模型调优方法介绍_盘古NLP大模型调优实践_模型调优实践_最佳实践_盘古大模型 PanguLargeModels-华为云",
-    "source": "support.huaweicloud.com",
-    "url": "https://support.huaweicloud.com/bestpractice-pangulm/pangulm_04_0146.html",
-    "published_at": "2026-07-08T08:09:58.268Z",
-    "fetched_at": "2026-07-08T08:09:58.268Z",
-    "title_zh": "模型调优方法介绍——华为云盘古NLP大模型调优实践",
-    "summary_zh": "本文是华为云盘古NLP大模型的调优实践指南，系统介绍了模型调优的多种方法。内容涵盖全参数微调、参数高效微调（如Adapter、Prefix Tuning、LoRA）以及基于提示的调优技术。重点讨论了不同调优方法在计算资源、数据量和效果上的权衡，并给出了针对不同业务场景的选型建议。文章还详细介绍了盘古大模型的调优工具链，包括数据预处理、训练监控、模型评估和部署流程。对于使用华为云盘古模型的开发者，本文提供了从理论到实践的完整调优指导。",
-    "topic": "ai"
-  },
-  {
-    "id": "77094443857e9f5a219e5301b64e5bce",
-    "title_en": "运维工程师私藏：Linux常用软件安装与运维的30个实用技巧-CSDN博客",
-    "source": "fmill.blog.csdn.net",
-    "url": "https://fmill.blog.csdn.net/article/details/161898557",
-    "published_at": "2026-07-08T08:09:58.268Z",
-    "fetched_at": "2026-07-08T08:09:58.268Z",
-    "title_zh": "运维工程师私藏：Linux常用软件安装与运维的30个实用技巧",
-    "summary_zh": "本文总结了运维工程师在Linux环境下常用的30个实用技巧，涵盖软件安装、系统配置、性能调优和故障排查等方面。技术重点包括：使用包管理器（apt/yum/dnf）的高级用法、源码编译安装的优化参数、系统服务管理（systemd）的最佳实践、日志分析技巧（journalctl、logrotate）、以及网络诊断工具（tcpdump、ss、iperf）的实战应用。文章还讨论了安全加固措施，如SSH配置优化、防火墙规则设置和SELinux策略调整。对于Linux运维人员，这是一份即学即用的技术手册。",
-    "topic": "ops"
-  },
-  {
-    "id": "4ac51464c1f19fc447fbf1f4ee861bea",
-    "title_en": "Linux 运维常用手册 - 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/zhoutuo/p/18782411",
-    "published_at": "2026-07-08T08:09:58.268Z",
-    "fetched_at": "2026-07-08T08:09:58.268Z",
-    "title_zh": "Linux 运维常用手册",
-    "summary_zh": "本文汇集了Linux运维中的常用命令、配置示例和故障排查技巧，涵盖文件管理、进程控制、网络诊断、日志分析等核心场景。适合运维工程师作为日常参考手册，快速定位问题并执行标准操作流程，提升工作效率。",
-    "topic": "ops"
-  },
-  {
-    "id": "3f7de4b7b7346aa672e55e0c19c17638",
-    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
-    "source": "edu.aliyun.com",
-    "url": "https://edu.aliyun.com/course/314200/",
-    "published_at": "2026-07-08T08:09:58.268Z",
-    "fetched_at": "2026-07-08T08:09:58.268Z",
-    "title_zh": "Linux服务器运维基本操作",
-    "summary_zh": "阿里云认证课程，系统讲解Linux服务器运维的基础操作，包括用户管理、权限设置、服务启停、磁盘管理、网络配置等。内容贴近实际生产环境，适合初学者快速掌握服务器日常维护的核心技能。",
-    "topic": "ops"
-  },
-  {
-    "id": "5b639b6295d53c2a6dbd05fa5f409fd6",
-    "title_en": "2026 年 Linux 服务器加固指南",
-    "source": "mecanik.dev",
-    "url": "https://mecanik.dev/zh-cn/posts/linux-server-hardening-guide-2026/",
-    "published_at": "2026-07-08T08:09:58.268Z",
-    "fetched_at": "2026-07-08T08:09:58.268Z",
-    "title_zh": "2026 年 Linux 服务器加固指南",
-    "summary_zh": "面向未来的Linux服务器安全加固实践，涵盖内核参数优化、SSH强化、防火墙策略、入侵检测、日志审计及自动化合规检查。强调从攻击面缩减到纵深防御的完整思路，适用于高安全要求的生产环境部署。",
-    "topic": "security"
-  },
-  {
-    "id": "5ff640172ddc3a8a0df762c995684d2b",
-    "title_en": "12项世界第一！国产基模一战封神，11亿参数逆袭70亿大魔王 - 今日头条",
-    "source": "toutiao.com",
-    "url": "https://www.toutiao.com/article/7659667577912558116/",
-    "published_at": "2026-07-08T08:09:58.267Z",
-    "fetched_at": "2026-07-08T08:09:58.267Z",
-    "title_zh": "国产基模一战封神：12项世界第一，11亿参数逆袭70亿大模型",
-    "summary_zh": "本文报道了一款国产基础模型在多项权威基准测试中取得12项世界第一的突破性成果，尤其引人注目的是其仅用11亿参数便在多个任务上超越了70亿参数级别的大模型。文章详细分析了该模型在架构设计上的创新，包括高效的注意力机制、参数共享策略以及训练数据配比优化等关键技术。探讨了这种“小模型大能力”现象对工业界部署的意义，即在降低推理成本和硬件门槛的同时保持高性能。对于关注模型效率、边缘部署及国产AI技术进展的从业者，本文提供了重要的技术参考和趋势洞察。",
-    "topic": "ai"
-  },
-  {
-    "id": "21933e4d533a647ee860c57859debd52",
-    "title_en": "Meta 发布首款自研图像生成模型 Muse Image，免费登陆 Instagram 与 WhatsApp",
-    "source": "80aj.com",
-    "url": "https://www.80aj.com/2026/07/08/meta-muse-image-model/",
-    "published_at": "2026-07-08T08:09:58.267Z",
-    "fetched_at": "2026-07-08T08:09:58.267Z",
-    "title_zh": "Meta发布首款自研图像生成模型Muse Image，免费登陆Instagram与WhatsApp",
-    "summary_zh": "Meta正式发布其首款自研图像生成模型Muse Image，并免费集成至Instagram和WhatsApp平台。本文从技术角度剖析了Muse Image的模型架构，重点介绍了其基于扩散Transformer的高效生成机制，以及如何在保持图像质量的同时实现实时推理。文章还探讨了该模型在广告创意生成场景中的应用，包括文本到图像的精准对齐、风格迁移和背景替换等功能。对于从事图像生成、多模态AI及社交平台内容创作的开发者，Muse Image的开源策略和API接口设计提供了新的技术选型思路。",
-    "topic": "ai"
-  },
-  {
-    "id": "082afdddecd204430c5fd1a0ddf1b434",
-    "title_en": "Meta AI大战再落一子：新图像模型Muse全面接入Instagram、WhatsApp，广告商也能用-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3886278469726465",
-    "published_at": "2026-07-08T08:09:58.267Z",
-    "fetched_at": "2026-07-08T08:09:58.267Z",
-    "title_zh": "Meta AI再落一子：新图像模型Muse全面接入Instagram、WhatsApp，广告商也能用",
-    "summary_zh": "Meta的Muse图像生成模型已全面接入Instagram和WhatsApp，并向广告商开放使用。本文深入分析了Muse模型的技术细节，包括其基于潜在扩散模型的架构优化、多模态条件控制机制以及针对移动端推理的量化压缩技术。重点讨论了该模型在广告创意自动化中的应用，如何通过文本提示生成高质量产品图像、背景替换和风格迁移。文章还比较了Muse与Stable Diffusion、DALL-E等竞品在生成质量、推理速度和可控性上的差异。对于AI应用开发者和广告技术从业者，本文提供了实用的模型选型和集成建议。",
-    "topic": "ai"
   }
 ]
