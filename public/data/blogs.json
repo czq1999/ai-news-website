@@ -1,5 +1,137 @@
 [
   {
+    "id": "4508e179a8d78a4e11ec17ba7b3f7298",
+    "title_en": "天翼云服务器上的自动化运维工具与实践策略探索-天翼云开发者社区 - 天翼云",
+    "source": "ctyun.cn",
+    "url": "https://www.ctyun.cn/developer/article/633221638541381",
+    "published_at": "2026-07-11T07:41:42.711Z",
+    "fetched_at": "2026-07-11T07:41:42.711Z",
+    "title_zh": "天翼云服务器上的自动化运维工具与实践策略探索",
+    "summary_zh": "本文探讨了在天翼云环境下实施自动化运维的工具选型与实践策略。内容涵盖Ansible、Terraform等基础设施即代码工具的应用，以及结合云API实现资源自动编排、监控告警和故障自愈的流程设计。文章还分享了批量运维、配置管理和版本控制的实战经验，为云平台运维团队提供了从手动操作向自动化转型的参考路径。",
+    "topic": "ops"
+  },
+  {
+    "id": "db7ee005e0a2bbb181921217865c691b",
+    "title_en": "Dockerfile优化实战：5个技巧让镜像体积缩小80% · 比邻",
+    "source": "eastondev.com",
+    "url": "https://eastondev.com/blog/zh/posts/dev/20251217-dockerfile-optimization/",
+    "published_at": "2026-07-11T07:41:41.203Z",
+    "fetched_at": "2026-07-11T07:41:41.203Z",
+    "title_zh": "Dockerfile优化实战：5个技巧让镜像体积缩小80%",
+    "summary_zh": "本文分享了5个实用的Dockerfile优化技巧，旨在大幅缩减镜像体积。核心方法包括：多阶段构建分离编译与运行环境、合理使用.dockerignore减少上下文、合并RUN指令减少层数、选择更小的基础镜像（如Alpine）、以及清理不必要的缓存和临时文件。每个技巧都附有前后对比示例，对于追求CI/CD效率和部署速度的DevOps工程师极具实践价值。",
+    "topic": "ops"
+  },
+  {
+    "id": "06bc7707e9607e27872b4db215b1b16d",
+    "title_en": "Linux操作系统加固 - 阿里云帮助文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/document_detail/49809.html",
+    "published_at": "2026-07-11T07:41:41.203Z",
+    "fetched_at": "2026-07-11T07:41:41.203Z",
+    "title_zh": "Linux操作系统加固",
+    "summary_zh": "本文是阿里云官方提供的Linux操作系统安全加固指南，涵盖账户安全、权限控制、内核参数优化、服务最小化及日志审计等关键领域。具体措施包括禁用root远程登录、配置sudo权限、设置密码策略、关闭不必要的端口和服务、以及启用SELinux或AppArmor。适合云服务器管理员参考，以提升系统抵御常见攻击的能力。",
+    "topic": "security"
+  },
+  {
+    "id": "fcbed777b124f72cf8ad1c8af2b6fd38",
+    "title_en": "[PDF] Red Hat Enterprise Linux 7 性能调优指南",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/pdf/performance_tuning_guide/Red_Hat_Enterprise_Linux-7-Performance_Tuning_Guide-zh-CN.pdf",
+    "published_at": "2026-07-11T07:41:41.201Z",
+    "fetched_at": "2026-07-11T07:41:41.201Z",
+    "title_zh": "Red Hat Enterprise Linux 7 性能调优指南",
+    "summary_zh": "本文是Red Hat官方发布的RHEL 7性能调优指南，系统介绍了从内核参数、CPU调度、内存管理到存储和网络子系统的调优方法论。内容涵盖tuned服务、cgroups资源隔离、磁盘I/O调度器选择、以及网络缓冲区优化等关键技术点。对于需要深度优化Linux生产环境性能的系统管理员，本文提供了权威且可落地的调优策略。",
+    "topic": "ops"
+  },
+  {
+    "id": "678a11337e39fe22cf8aa525b4c2ff5b",
+    "title_en": "Linux系统性能调优：CPU、内存、磁盘I/O等资源的优化策略 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2566253",
+    "published_at": "2026-07-11T07:41:41.201Z",
+    "fetched_at": "2026-07-11T07:41:41.201Z",
+    "title_zh": "Linux系统性能调优：CPU、内存、磁盘I/O等资源的优化策略",
+    "summary_zh": "本文系统梳理了Linux系统性能调优的核心策略，聚焦CPU、内存和磁盘I/O三大资源维度。内容涵盖CPU绑定与频率调整、内存回收与Swap优化、以及磁盘I/O调度算法与RAID配置。文章结合腾讯云实际运维经验，提供了具体的参数调整建议和监控工具使用技巧，适合云环境下的系统管理员和SRE工程师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "6df802a125aba8e56c2e75a6bf4e1fc6",
+    "title_en": "序· Linux性能调优指南 - lihz",
+    "source": "lihz1990.gitbooks.io",
+    "url": "https://lihz1990.gitbooks.io/transoflptg/content/",
+    "published_at": "2026-07-11T07:41:41.201Z",
+    "fetched_at": "2026-07-11T07:41:41.201Z",
+    "title_zh": "序· Linux性能调优指南",
+    "summary_zh": "本文作为Linux性能调优指南的开篇，概述了性能调优的整体方法论和核心原则。内容从性能基准建立、瓶颈识别、工具选择到优化验证，构建了完整的调优闭环。重点介绍了perf、strace、iostat等关键工具的使用场景，并强调了“先测量后优化”的工程理念。适合希望系统学习Linux性能调优的工程师作为入门指引。",
+    "topic": "ops"
+  },
+  {
+    "id": "1150407474f5c6315c5788ae4333c8a9",
+    "title_en": "性能调优指南",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
+    "published_at": "2026-07-11T07:41:41.201Z",
+    "fetched_at": "2026-07-11T07:41:41.201Z",
+    "title_zh": "性能调优指南",
+    "summary_zh": "本文是Red Hat官方提供的通用性能调优指南，涵盖操作系统、应用程序及硬件层面的调优策略。内容涉及内核参数调整、资源限制配置、性能监控工具使用以及常见性能问题的诊断流程。指南以实践为导向，提供了针对不同工作负载（如数据库、Web服务器）的调优建议，是系统管理员进行性能优化的权威参考文档。",
+    "topic": "ops"
+  },
+  {
+    "id": "77094443857e9f5a219e5301b64e5bce",
+    "title_en": "运维工程师私藏：Linux常用软件安装与运维的30个实用技巧-CSDN博客",
+    "source": "fmill.blog.csdn.net",
+    "url": "https://fmill.blog.csdn.net/article/details/161898557",
+    "published_at": "2026-07-11T07:41:39.285Z",
+    "fetched_at": "2026-07-11T07:41:39.285Z",
+    "title_zh": "运维工程师私藏：Linux常用软件安装与运维的30个实用技巧",
+    "summary_zh": "本文汇总了Linux运维中30个高频实用技巧，涵盖常用软件的安装配置、系统监控、日志分析、网络排查及自动化脚本编写。内容贴近实战，例如通过一行命令快速定位高CPU进程、使用systemd优化服务管理、以及磁盘I/O瓶颈的快速诊断方法。适合一线运维工程师作为日常参考手册，提升问题排查与系统管理效率。",
+    "topic": "ops"
+  },
+  {
+    "id": "4ac51464c1f19fc447fbf1f4ee861bea",
+    "title_en": "Linux 运维常用手册 - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/zhoutuo/p/18782411",
+    "published_at": "2026-07-11T07:41:39.285Z",
+    "fetched_at": "2026-07-11T07:41:39.285Z",
+    "title_zh": "Linux 运维常用手册",
+    "summary_zh": "本文是一份系统化的Linux运维常用手册，覆盖了从基础命令到高级运维场景的完整知识体系。内容包括用户权限管理、磁盘分区与LVM、网络配置与防火墙、进程与服务管理、以及常见故障处理流程。手册以实用为导向，提供了大量可直接复用的命令示例和配置模板，适合运维新手系统学习及老手快速查阅。",
+    "topic": "ops"
+  },
+  {
+    "id": "3f7de4b7b7346aa672e55e0c19c17638",
+    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
+    "source": "edu.aliyun.com",
+    "url": "https://edu.aliyun.com/course/314200/",
+    "published_at": "2026-07-11T07:41:39.285Z",
+    "fetched_at": "2026-07-11T07:41:39.285Z",
+    "title_zh": "Linux服务器运维基本操作",
+    "summary_zh": "本文是阿里云认证体系下的Linux服务器运维入门指南，系统讲解了服务器初始化、远程连接、用户管理、文件权限、软件包管理及日志查看等核心操作。内容结合云服务器实际场景，强调了安全组配置和密钥对管理等安全实践。适合刚接触Linux运维的开发者或云平台用户，帮助快速掌握服务器日常管理必备技能。",
+    "topic": "ops"
+  },
+  {
+    "id": "36be0d7afe75ad1858fd0f61775c75d6",
+    "title_en": "GPT-5.6开放，跑分之外的隐忧：Anthropic反超、微软去OpenAI化-财经-金融界",
+    "source": "finance.jrj.com.cn",
+    "url": "https://finance.jrj.com.cn/2026/07/11080057767808.shtml",
+    "published_at": "2026-07-11T07:41:39.284Z",
+    "fetched_at": "2026-07-11T07:41:39.284Z",
+    "title_zh": "GPT-5.6开放，跑分之外的隐忧：Anthropic反超、微软去OpenAI化",
+    "summary_zh": "本文深入分析了GPT-5.6发布后业界格局的变化。除了基准测试分数，文章重点探讨了两个关键趋势：Anthropic在特定任务上的反超，以及微软加速推进“去OpenAI化”战略。对于AI从业者，本文提供了关于模型竞争态势和生态依赖风险的深度洞察，有助于理解大模型领域的商业与技术博弈。",
+    "topic": "ai"
+  },
+  {
+    "id": "87e2c66b11c9bf71835b56dfe251185b",
+    "title_en": "腾讯发布全模态模型Ex-Omni：语音对话直接生成3D面部动画 · 读懂AI时代",
+    "source": "readaitime.com",
+    "url": "https://www.readaitime.com/news/2026-07-04/cyacnd57",
+    "published_at": "2026-07-11T07:41:39.284Z",
+    "fetched_at": "2026-07-11T07:41:39.284Z",
+    "title_zh": "腾讯发布全模态模型Ex-Omni：语音对话直接生成3D面部动画",
+    "summary_zh": "本文介绍了腾讯发布的全模态模型Ex-Omni，该模型实现了从语音对话到3D面部动画的端到端生成。技术亮点在于其统一的多模态架构，能够同步处理语音、文本和视觉信息，并实时驱动数字人面部表情。对于从事多模态AI、数字人及交互式应用开发的工程师，本文提供了模型设计思路和潜在应用场景的参考。",
+    "topic": "ai"
+  },
+  {
     "id": "8e49381bd45de8f2421a0d18f56a137d",
     "title_en": "清华大学出版社--图书详情",
     "source": "tup.tsinghua.edu.cn",
@@ -2066,137 +2198,5 @@
     "title_zh": "CVE-2026-21440详解：AdonisJS Bodyparser中的路径遍历漏洞到RCE - FreeBuf网络安全行业门户",
     "summary_zh": "本文详细分析了CVE-2026-21440漏洞，该漏洞存在于AdonisJS框架的Bodyparser中间件中，攻击者可通过精心构造的请求利用路径遍历漏洞，最终实现远程代码执行（RCE）。文章从漏洞原理出发，逐步拆解了攻击链：从绕过文件路径校验到写入恶意文件，再到触发执行。同时提供了受影响版本范围与临时缓解措施（如禁用不必要的bodyparser功能）。适合Node.js开发者与安全研究员深入理解框架层面的安全风险。",
     "topic": "security"
-  },
-  {
-    "id": "5c0a0b1a4f018ffd79035efc1ca2d12f",
-    "title_en": "CPython CVE-2026-7774 漏洞分析：tarfile.datafilter 路徑穿越繞過防禦指南 – 駿捷科技",
-    "source": "dreamjtech.com",
-    "url": "https://www.dreamjtech.com/27915/",
-    "published_at": "2026-07-08T08:10:00.980Z",
-    "fetched_at": "2026-07-08T08:10:00.980Z",
-    "title_zh": "CPython CVE-2026-7774 漏洞分析：tarfile.datafilter 路徑穿越繞過防禦指南 – 駿捷科技",
-    "summary_zh": "本文深入分析了CPython标准库tarfile模块中的CVE-2026-7774漏洞，该漏洞允许攻击者通过绕过datafilter的路径穿越防御机制，在解压tar包时写入任意文件。文章从源码层面剖析了datafilter的过滤逻辑缺陷，展示了如何利用符号链接与特殊路径构造实现绕过，并提供了修复后的代码对比。建议开发者升级至修复版本，并在解压不可信tar文件时启用额外的沙箱机制。",
-    "topic": "security"
-  },
-  {
-    "id": "56a2fbd96d5f3bef0fa8097c6ba77197",
-    "title_en": "CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE - 信息安全知识库",
-    "source": "gm7.org",
-    "url": "https://www.gm7.org/archives/97513",
-    "published_at": "2026-07-08T08:10:00.980Z",
-    "fetched_at": "2026-07-08T08:10:00.980Z",
-    "title_zh": "CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE - 信息安全知识库",
-    "summary_zh": "本文深度剖析了CVE-2026-41940漏洞，该漏洞影响超过7000万cPanel/WHM实例，攻击者可通过CRLF注入绕过认证，最终实现匿名远程代码执行。文章详细还原了攻击链：利用HTTP请求头中的CRLF注入篡改会话Cookie，进而获取管理员权限并执行任意命令。提供了受影响版本范围、漏洞检测脚本以及临时缓解措施（如启用WAF规则）。适合Web安全研究员与cPanel管理员紧急响应参考。",
-    "topic": "security"
-  },
-  {
-    "id": "62bee051d19decda991487f1b6c3a0e1",
-    "title_en": "Linux系统性能调优实战指南 - OSCHINA - 中文开源技术交流社区",
-    "source": "my.oschina.net",
-    "url": "https://my.oschina.net/emacs_7988436/blog/19665913",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "Linux系统性能调优实战指南",
-    "summary_zh": "中文开源社区整理的实战手册，结合真实案例讲解Linux性能调优技术，包括CPU绑定、内存回收、磁盘调度、网络队列优化等。提供可复用的调优脚本和配置模板，帮助读者快速解决生产环境性能问题。",
-    "topic": "ops"
-  },
-  {
-    "id": "fe8f6a01f2ac94249b08caadadb80727",
-    "title_en": "Linux 系统性能优化全面指南：从监控到调优 - 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/ydswin/p/18074371",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "Linux 系统性能优化全面指南：从监控到调优",
-    "summary_zh": "全面覆盖Linux性能优化的监控、分析与调优全流程，详细讲解top、perf、strace、sar等工具的使用技巧，以及内核参数、文件系统、网络栈的调优方法。理论与实践结合，适合运维和开发人员提升系统性能。",
-    "topic": "ops"
-  },
-  {
-    "id": "e46ff43d0024d90853b66e0d20e5c453",
-    "title_en": "性能调优指南 | Red Hat Enterprise Linux | 7 | Red Hat Documentation",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/Red_Hat_Enterprise_Linux/7/html-single/performance_tuning_guide/index",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "性能调优指南 | Red Hat Enterprise Linux 7",
-    "summary_zh": "Red Hat官方针对RHEL 7的性能调优文档，涵盖TuneD、sysctl、磁盘调度、网络优化等关键技术。提供针对不同工作负载（如数据库、Web服务器）的调优建议，是运维人员优化RHEL 7系统性能的权威参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "b7d728941be8f264a99ce8d814279a45",
-    "title_en": "第 2 章 使用 TuneD 优化系统性能 | Monitoring and managing system status and performance | Red Hat Enterprise Linux | 10 | Red Hat Documentation",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/10/html/monitoring_and_managing_system_status_and_performance/optimizing-system-performance-with-tuned",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "第 2 章 使用 TuneD 优化系统性能",
-    "summary_zh": "Red Hat Enterprise Linux 10官方文档，深入讲解TuneD性能优化工具的使用，包括预置调优profile的选型、自定义profile创建、动态调优策略等。适用于需要自动化、场景化性能调优的生产环境。",
-    "topic": "ops"
-  },
-  {
-    "id": "b35cac2ffa4d1a9a302b2f2adb74f54c",
-    "title_en": "05. 最佳实践 - 运维管理 - 《Kubernetes中文指南/实践手册(201801)》 - 书栈网 · BookStack",
-    "source": "bookstack.cn",
-    "url": "https://www.bookstack.cn/read/kubernetes-handbook/practice-operation.md",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "最佳实践 - 运维管理 - Kubernetes中文指南",
-    "summary_zh": "Kubernetes运维管理最佳实践，涵盖集群部署、资源配额、命名空间管理、日志收集、监控告警、备份恢复等核心运维场景。提供可落地的配置示例和操作步骤，帮助运维团队构建稳定高效的K8s生产环境。",
-    "topic": "ops"
-  },
-  {
-    "id": "2b6043e10babacdf5c56ae14868421cf",
-    "title_en": "20 个 Kubernetes 运维技巧：支撑生产级集群稳定运行的实践清单-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/Ring7852/article/details/156205308",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "20 个 Kubernetes 运维技巧：支撑生产级集群稳定运行的实践清单",
-    "summary_zh": "总结20个Kubernetes生产运维实战技巧，涵盖Pod调度优化、资源限制配置、节点故障处理、网络策略、RBAC权限管理、日志与监控等。每个技巧均附有具体命令和配置示例，直接解决集群运维中的常见痛点。",
-    "topic": "ops"
-  },
-  {
-    "id": "703b99bcb29439fe91a610d5b0a76eb4",
-    "title_en": "生产环境 | Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/docs/setup/production-environment/",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "生产环境 | Kubernetes",
-    "summary_zh": "Kubernetes官方生产环境指南，系统阐述构建生产级集群的架构设计、高可用部署、安全加固、资源规划与运维管理要点。涵盖多节点部署、etcd集群、负载均衡、证书管理等关键环节，是K8s生产化落地的权威参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "78444ed1f08b6c3f0c61673143c0b7ed",
-    "title_en": "K8s运维封神指南：避开90%的坑-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2695437",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "K8s运维封神指南：避开90%的坑",
-    "summary_zh": "腾讯云开发者社区出品，总结Kubernetes运维中常见的90%陷阱与解决方案，包括集群版本升级、网络插件选型、存储配置、资源泄露、证书过期等。以实战经验为基础，帮助运维人员提前规避风险，保障集群稳定。",
-    "topic": "ops"
-  },
-  {
-    "id": "bc12b7d972098abe9914ae7be2cb30e9",
-    "title_en": "大规模集群的注意事项 | Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/docs/setup/best-practices/cluster-large/",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "大规模集群的注意事项 | Kubernetes",
-    "summary_zh": "Kubernetes官方文档，针对大规模集群（数千节点）的运维挑战，详细讲解控制平面扩展、etcd性能优化、API Server限流、节点管理、网络规模限制等关键技术。提供容量规划与架构设计建议，适用于超大规模K8s集群的运维团队。",
-    "topic": "ops"
-  },
-  {
-    "id": "c70817f0e85f981f27239d9617adea7d",
-    "title_en": "10个终极Docker容器资源优化技巧：提升性能的完整指南-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/gitblog_00678/article/details/150640542",
-    "published_at": "2026-07-08T08:10:00.979Z",
-    "fetched_at": "2026-07-08T08:10:00.979Z",
-    "title_zh": "10个终极Docker容器资源优化技巧：提升性能的完整指南",
-    "summary_zh": "深入讲解Docker容器资源优化的10个核心技巧，包括CPU/内存限制、存储驱动选择、镜像层缓存、网络模式调优、日志管理、健康检查配置等。每个技巧均附有性能对比数据，帮助开发运维人员最大化容器化应用的运行效率。",
-    "topic": "ops"
   }
 ]
