@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-12",
-      "summary_zh": "今日GitHub热门项目聚焦AI安全与自动化：包括危险命令防护、终端控制MCP服务器、个人交易Agent、工作流编排、AI应用集合、Claude食谱、开源智能家居、离线生存电脑及背景编码Agent。",
+      "summary_zh": "今日GitHub热门项目聚焦AI安全、智能体与自动化：包含危险命令防护、终端控制MCP、个人交易Agent、工作流编排、百款AI应用、Claude实战教程、开源智能家居、离线生存电脑及背景编码系统。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 20084,
+          "stars_total": 20372,
           "stars_today": 776,
           "description_zh": "“Vibe-Trading：您的个人交易代理”"
         },
@@ -20,39 +20,39 @@
           "url": "https://github.com/k1tbyte/Wand-Enhancer",
           "description_en": "Advanced UX and interoperability extension for Wand (WeMod) app",
           "language": "C#",
-          "stars_total": 6575,
-          "stars_today": 661,
+          "stars_total": 6805,
+          "stars_today": 603,
           "description_zh": "Wand（WeMod）应用的高级用户体验与互操作性扩展"
         },
         {
           "rank": 3,
-          "name": "Shubhamsaboo/awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-          "language": "Python",
-          "stars_total": 118236,
-          "stars_today": 549,
-          "description_zh": "100多个AI代理与RAG应用，真正可运行——克隆、定制、发布。"
-        },
-        {
-          "rank": 4,
           "name": "malisper/pgrust",
           "url": "https://github.com/malisper/pgrust",
           "description_en": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
           "language": "Rust",
-          "stars_total": 2271,
+          "stars_total": 2380,
           "stars_today": 518,
           "description_zh": "用Rust重写的Postgres，现已通过100%的Postgres回归测试"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "anthropics/claude-cookbooks",
           "url": "https://github.com/anthropics/claude-cookbooks",
           "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
           "language": "Jupyter Notebook",
-          "stars_total": 48152,
+          "stars_total": 48279,
           "stars_today": 464,
           "description_zh": "一系列展示使用Claude的有趣且有效方式的笔记本/食谱集合"
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars_total": 118402,
+          "stars_today": 450,
+          "description_zh": "100多个AI代理与RAG应用，真正可运行——克隆、定制、发布。"
         },
         {
           "rank": 6,
@@ -60,29 +60,29 @@
           "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
           "description_en": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
           "language": "Rust",
-          "stars_total": 2366,
+          "stars_total": 2662,
           "stars_today": 444,
           "description_zh": "破坏性命令防护工具（dcg）用于阻止代理执行危险的git和shell命令。"
         },
         {
           "rank": 7,
-          "name": "par274/sharpemu",
-          "url": "https://github.com/par274/sharpemu",
-          "description_en": "An experimental PlayStation 5 emulator project.",
-          "language": "C#",
-          "stars_total": 998,
-          "stars_today": 436,
-          "description_zh": "一个实验性的PlayStation 5模拟器项目。"
-        },
-        {
-          "rank": 8,
           "name": "home-assistant/core",
           "url": "https://github.com/home-assistant/core",
           "description_en": "🏡 Open source home automation that puts local control and privacy first.",
           "language": "Python",
-          "stars_total": 88857,
+          "stars_total": 88965,
           "stars_today": 404,
           "description_zh": "🏡 将本地控制和隐私放在首位的开源家庭自动化系统"
+        },
+        {
+          "rank": 8,
+          "name": "par274/sharpemu",
+          "url": "https://github.com/par274/sharpemu",
+          "description_en": "An experimental PlayStation 5 emulator project.",
+          "language": "C#",
+          "stars_total": 1141,
+          "stars_today": 349,
+          "description_zh": "一个实验性的PlayStation 5模拟器项目。"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/davila7/claude-code-templates",
           "description_en": "CLI tool for configuring and monitoring Claude Code",
           "language": "Python",
-          "stars_total": 29146,
+          "stars_total": 29187,
           "stars_today": 274,
           "description_zh": "用于配置和监控Claude Code的命令行工具"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 3952,
+          "stars_total": 4124,
           "stars_today": 210,
           "description_zh": "为Claude Code、Cursor和Codex提供的反AI低质量设计技能。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
           "description_en": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
           "language": "TypeScript",
-          "stars_total": 7873,
+          "stars_total": 7933,
           "stars_today": 207,
           "description_zh": "这是为Claude提供的MCP服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/chen08209/FlClash",
           "description_en": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
           "language": "Dart",
-          "stars_total": 45117,
+          "stars_total": 45184,
           "stars_today": 151,
           "description_zh": "基于ClashMeta的多平台代理客户端，简单易用，开源无广告。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/Crosstalk-Solutions/project-nomad",
           "description_en": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
           "language": "TypeScript",
-          "stars_total": 33611,
+          "stars_total": 33711,
           "stars_today": 122,
           "description_zh": "Project N.O.M.A.D，一款自包含的离线生存计算机，内置关键工具、知识和AI，让您随时随地保持信息灵通且具备行动力。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/virattt/ai-hedge-fund",
           "description_en": "An AI Hedge Fund Team",
           "language": "Python",
-          "stars_total": 61230,
+          "stars_total": 61335,
           "stars_today": 109,
           "description_zh": "一个AI对冲基金团队"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 13637,
+          "stars_total": 13696,
           "stars_today": 79,
           "description_zh": ""
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/PrefectHQ/prefect",
           "description_en": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
           "language": "Python",
-          "stars_total": 23013,
+          "stars_total": 23086,
           "stars_today": 55,
           "description_zh": "Prefect是一个工作流编排框架，用于在Python中构建弹性数据管道。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/ColeMurray/background-agents",
           "description_en": "An open-source background agents coding system",
           "language": "TypeScript",
-          "stars_total": 2155,
+          "stars_total": 2207,
           "stars_today": 9,
           "description_zh": "一个开源的背景代理编码系统"
         }
