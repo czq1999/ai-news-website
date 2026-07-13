@@ -1,5 +1,148 @@
 [
   {
+    "id": "1670e331ddd038ad869dcda2475abaa2",
+    "title_en": "面向安全修复生命周期的内核软件供应链安全治理研究",
+    "source": "csee.hnu.edu.cn",
+    "url": "https://csee.hnu.edu.cn/info/1061/13143.htm",
+    "published_at": "2026-07-13T14:08:17.195Z",
+    "fetched_at": "2026-07-13T14:08:17.195Z",
+    "title_zh": "面向安全修复生命周期的内核软件供应链安全治理研究",
+    "summary_zh": "本文研究内核软件供应链安全治理，聚焦于安全修复的全生命周期管理。内容涵盖漏洞发现、补丁开发、测试验证、分发部署及回滚机制等关键环节。分析了内核供应链中存在的依赖风险、版本兼容性以及补丁质量等问题，并提出了一套系统化的治理框架。对于从事操作系统内核安全、DevSecOps以及软件供应链管理的技术人员具有较高的学术与实践参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "cf41d95c206b5010bc471b06069cdf2f",
+    "title_en": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？-A5数据",
+    "source": "a5idc.com",
+    "url": "https://www.a5idc.com/article/22500.html",
+    "published_at": "2026-07-13T14:08:15.537Z",
+    "fetched_at": "2026-07-13T14:08:15.537Z",
+    "title_zh": "如何在香港服务器上优化Docker容器的存储和网络性能，减少延迟与资源浪费？",
+    "summary_zh": "本文针对香港服务器环境，详细介绍了Docker容器存储与网络性能的优化策略。存储方面涵盖OverlayFS配置、数据卷挂载优化、镜像分层精简以及I/O调度调整；网络方面包括网络驱动选择（如host、macvlan）、TCP参数调优、DNS缓存以及负载均衡配置。通过实际案例展示如何降低延迟、减少资源浪费，适合在海外或跨境部署场景下优化容器化应用的运维人员参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "90c2ac4592e2cc8bb0e4541730373770",
+    "title_en": "Ubuntu Server 安全加固指南 - 官方博客",
+    "source": "idc.net",
+    "url": "https://idc.net/help/442443/",
+    "published_at": "2026-07-13T14:08:15.537Z",
+    "fetched_at": "2026-07-13T14:08:15.537Z",
+    "title_zh": "Ubuntu Server 安全加固指南",
+    "summary_zh": "本文是Ubuntu Server官方发布的安全加固指南，系统性地介绍了服务器安全配置的最佳实践。内容涵盖用户权限管理（如sudo限制、SSH密钥认证）、防火墙配置（UFW/iptables）、自动安全更新、审计日志（auditd）、AppArmor强制访问控制以及内核参数安全调优。每项措施均附有具体命令与配置示例，适合运维人员快速实施，有效提升服务器抵御攻击的能力。",
+    "topic": "security"
+  },
+  {
+    "id": "f0fdaac37b5757fcd1b3e3c24c109571",
+    "title_en": "操作系统加固概述",
+    "source": "docs.openeuler.org",
+    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
+    "published_at": "2026-07-13T14:08:15.537Z",
+    "fetched_at": "2026-07-13T14:08:15.537Z",
+    "title_zh": "操作系统加固概述",
+    "summary_zh": "本文来自openEuler官方文档，概述了操作系统安全加固的核心原则与实施方法。内容涵盖账户与认证安全、文件系统权限、网络服务最小化、内核安全参数配置、日志审计以及安全更新管理。重点介绍了如何通过配置策略降低攻击面，并提供了针对openEuler系统的具体加固步骤。适合系统管理员与安全工程师作为操作系统安全基线配置的参考。",
+    "topic": "security"
+  },
+  {
+    "id": "41b83e3b92e433025a680011f00cf1b9",
+    "title_en": "TallMessiWu/agent-building",
+    "source": "github.com",
+    "url": "https://github.com/TallMessiWu/agent-building",
+    "published_at": "2026-07-13T14:08:13.044Z",
+    "fetched_at": "2026-07-13T14:08:13.044Z",
+    "title_zh": "agent-building：智能体构建项目",
+    "summary_zh": "这是一个GitHub上的AI Agent构建项目，提供了从零搭建智能体的完整代码与教程。项目聚焦于Agent的核心组件实现，包括任务规划、工具调用、记忆存储与反馈循环。代码结构清晰，注释详尽，适合开发者学习Agent的内部工作机制并进行二次开发。项目还包含多个示例场景，如自动化信息检索与代码生成，具有较高的实践参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "3f9e73e4161b1ac64751d2922f5b2311",
+    "title_en": "Annyfee/agent-craft",
+    "source": "github.com",
+    "url": "https://github.com/Annyfee/agent-craft",
+    "published_at": "2026-07-13T14:08:13.044Z",
+    "fetched_at": "2026-07-13T14:08:13.044Z",
+    "title_zh": "agent-craft：智能体构建工具集",
+    "summary_zh": "agent-craft是一个开源的AI Agent构建工具集，旨在简化智能体的开发与部署流程。项目提供模块化组件，包括LLM接口封装、工具注册中心、记忆管理以及多Agent通信框架。支持快速原型开发与生产环境适配，代码质量高且文档完善。适合需要快速搭建自定义Agent应用的开发者，尤其适用于探索Agent在不同业务场景下的落地实践。",
+    "topic": "ai"
+  },
+  {
+    "id": "d21977eb12f3a7278893551c6cbd97b5",
+    "title_en": "如何高效微调大模型？技术原理与最佳实践揭秘！ - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2336872",
+    "published_at": "2026-07-13T14:08:13.044Z",
+    "fetched_at": "2026-07-13T14:08:13.044Z",
+    "title_zh": "如何高效微调大模型？技术原理与最佳实践揭秘！",
+    "summary_zh": "本文深入探讨了大模型微调的技术原理与最佳实践，涵盖LoRA、QLoRA、Prefix Tuning等主流参数高效微调方法。详细讲解了微调过程中的数据准备、超参数调优、过拟合防止以及评估策略。结合腾讯云平台的实际案例，提供了从环境搭建到模型部署的完整流程。对于希望低成本、高效率地定制大模型以适应特定业务场景的开发者具有重要参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "30b17df1ffa31cb6a80617595537e0bd",
+    "title_en": "Meta发布Muse Spark 1.1：多智能体协同升级，百万上下文支持长时任务 - 科技新闻 - 铋读网-以科技视野，洞达天下",
+    "source": "bireading.com",
+    "url": "https://www.bireading.com/article/260713/595720.html",
+    "published_at": "2026-07-13T14:08:13.043Z",
+    "fetched_at": "2026-07-13T14:08:13.043Z",
+    "title_zh": "Meta发布Muse Spark 1.1：多智能体协同升级，百万上下文支持长时任务",
+    "summary_zh": "Meta发布Muse Spark 1.1版本，核心升级在于多智能体协同机制与百万级上下文窗口支持。该版本通过改进Agent间通信协议与任务分解策略，显著提升了复杂长时任务的执行效率与稳定性。百万token的上下文能力使得模型能够处理更长的对话历史与文档，适用于自动化工作流、代码生成等场景。技术细节包括优化的注意力机制与内存管理，为开发者提供了更强大的多Agent编排能力。",
+    "topic": "ai"
+  },
+  {
+    "id": "67232ee01810875eaa5e97b2f1e4ad75",
+    "title_en": "GPT-5.6一小时解开50年数学猜想_投资界",
+    "source": "news.pedaily.cn",
+    "url": "https://news.pedaily.cn/202607/566204.shtml",
+    "published_at": "2026-07-13T14:08:13.043Z",
+    "fetched_at": "2026-07-13T14:08:13.043Z",
+    "title_zh": "GPT-5.6一小时解开50年数学猜想",
+    "summary_zh": "报道称GPT-5.6在短短一小时内成功破解了困扰数学界长达50年的猜想，展现了大型语言模型在符号推理与数学证明领域的惊人潜力。该模型通过强化学习与形式化验证结合的方法，自主探索证明路径并验证结果。这一突破不仅验证了LLM在科学发现中的实用价值，也为AI辅助数学研究开辟了新方向。技术层面涉及模型架构优化与推理链增强，值得关注。",
+    "topic": "ai"
+  },
+  {
+    "id": "6abbd23722dc25d8c1ee54d02eab7e29",
+    "title_en": "OpenAI骑脸输出，仅5分钟，把GPT-5.6塞进Claude老家-36氪",
+    "source": "36kr.com",
+    "url": "https://36kr.com/p/3893762862217989",
+    "published_at": "2026-07-13T14:08:13.043Z",
+    "fetched_at": "2026-07-13T14:08:13.043Z",
+    "title_zh": "OpenAI骑脸输出，仅5分钟，把GPT-5.6塞进Claude老家",
+    "summary_zh": "本文报道OpenAI在极短时间内（5分钟）将GPT-5.6模型部署至竞争对手Anthropic的Claude平台，展示了惊人的模型迁移与兼容性能力。技术层面涉及模型格式转换、API适配与性能调优，体现了跨平台部署的成熟度。此举不仅是对竞争对手的直接挑战，也凸显了模型标准化与容器化部署的重要性。对于关注AI模型部署与互操作性的开发者具有参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "d83d69e1d1e7a759c0629070e75652ab",
+    "title_en": "AI智能体开发教程：Agent入门指南",
+    "source": "cloudnative-tech.com",
+    "url": "https://www.cloudnative-tech.com/ai-agent-learning-path/",
+    "published_at": "2026-07-13T14:08:13.043Z",
+    "fetched_at": "2026-07-13T14:08:13.043Z",
+    "title_zh": "AI智能体开发教程：Agent入门指南",
+    "summary_zh": "这是一篇面向初学者的AI Agent开发教程，系统介绍了智能体的核心概念、架构设计与实现步骤。内容涵盖Agent的感知-决策-执行循环、工具调用机制、记忆管理以及多Agent协作模式。通过实际代码示例，讲解如何利用LangChain等框架快速构建一个可交互的Agent应用。适合希望从零开始理解并实践AI Agent开发的工程师，具备较强的实操指导性。",
+    "topic": "ai"
+  },
+  {
+    "id": "3333058bab96c81bb89dc185517271b3",
+    "title_en": "Callous-0923/agent-study",
+    "source": "github.com",
+    "url": "https://github.com/Callous-0923/agent-study",
+    "published_at": "2026-07-13T14:08:13.043Z",
+    "fetched_at": "2026-07-13T14:08:13.043Z",
+    "title_zh": "agent-study：AI智能体学习项目",
+    "summary_zh": "这是一个GitHub开源项目，专注于AI Agent的学习与实践。项目包含从基础概念到高级应用的完整学习路径，涵盖Agent框架（如LangChain、AutoGPT）、工具集成、记忆系统以及多Agent协作等核心主题。代码示例丰富，配有详细文档，适合开发者通过动手实践深入理解智能体构建原理。项目持续更新，是入门与进阶Agent开发的优质资源。",
+    "topic": "ai"
+  },
+  {
+    "id": "e240b8cf5630ead82bf026fa0117869c",
+    "title_en": "AI Agent 智能体开发完全指南：从理论到实战 - AI - 廖万里的博客",
+    "source": "kkkliao.cn",
+    "url": "https://www.kkkliao.cn/?id=894",
+    "published_at": "2026-07-13T14:08:13.043Z",
+    "fetched_at": "2026-07-13T14:08:13.044Z",
+    "title_zh": "AI Agent 智能体开发完全指南：从理论到实战",
+    "summary_zh": "本文是一篇全面的AI Agent开发指南，从理论基础到实战部署覆盖完整流程。内容包括Agent架构设计、规划与推理策略、工具使用、记忆管理以及多Agent协调等关键技术。结合具体案例，讲解如何利用主流框架（如LangChain、CrewAI）构建生产级Agent应用。文章注重技术深度与可操作性，适合有一定AI基础、希望系统掌握Agent开发的工程师阅读。",
+    "topic": "ai"
+  },
+  {
     "id": "5f93fc5b1cbb93596f5e46a54e405b6e",
     "title_en": "企业自动化运维落地的实践经验及运维工具选型对比分析",
     "source": "secrss.com",
@@ -2054,149 +2197,6 @@
     "fetched_at": "2026-07-10T09:20:16.162Z",
     "title_zh": "美团LongCat-2.0发布：基于1.6T参数国产算力集群训练万亿模型",
     "summary_zh": "本文介绍了美团最新发布的LongCat-2.0大模型，该模型拥有1.6万亿参数，并完全基于国产算力集群进行训练。文章深入探讨了在国产硬件环境下训练超大规模模型的技术挑战与优化策略，包括分布式训练框架、内存管理和通信效率等关键问题。对于关注国产AI基础设施和超大规模模型训练的读者，本文提供了宝贵的实践经验和技术细节。",
-    "topic": "ai"
-  },
-  {
-    "id": "824a1ef9ea8459f18ea820e4b03cdbb6",
-    "title_en": "GPT-5.6 Sol、Terra、Luna 同日上線，OpenAI 再推 AI 代理 ChatGPT Work 搶攻企業市場 - INSIDE",
-    "source": "inside.com.tw",
-    "url": "https://www.inside.com.tw/article/41785-openai-gpt-5-6-sol-terra-luna-chatgpt-work",
-    "published_at": "2026-07-10T09:20:16.162Z",
-    "fetched_at": "2026-07-10T09:20:16.162Z",
-    "title_zh": "GPT-5.6 Sol、Terra、Luna同日上线，OpenAI再推AI代理ChatGPT Work抢占企业市场",
-    "summary_zh": "本文报道了OpenAI同日发布GPT-5.6系列三个子模型（Sol、Terra、Luna）以及面向企业市场的AI代理产品ChatGPT Work。文章分析了不同子模型在性能、成本和适用场景上的差异化定位，并重点介绍了ChatGPT Work如何通过一句话指令完成复杂项目任务，从而提升企业生产力。对于企业AI应用决策者，本文提供了选型参考和落地建议。",
-    "topic": "ai"
-  },
-  {
-    "id": "91887ec1294f71be6e753a734220db74",
-    "title_en": "OpenAI发布GPT-5.6系列模型：性能全面超越Claude，价格最低仅为竞品十六分之一_新浪财经_新浪网",
-    "source": "finance.sina.com.cn",
-    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihhenp8467072.shtml",
-    "published_at": "2026-07-10T09:20:16.162Z",
-    "fetched_at": "2026-07-10T09:20:16.162Z",
-    "title_zh": "OpenAI发布GPT-5.6系列模型：性能全面超越Claude，价格最低仅为竞品十六分之一",
-    "summary_zh": "本文详细对比了OpenAI GPT-5.6系列模型与Claude等竞品的性能与成本。文章指出，GPT-5.6在多项基准测试中全面领先，同时其最低价格仅为竞品的十六分之一，大幅降低了AI应用的门槛。文中还分析了OpenAI的定价策略和技术优化如何实现性能与成本的双重优势，为开发者和企业选择模型提供了重要参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "2a01d52735b8e8761b3b81ac98d13af4",
-    "title_en": "OpenAI一口氣發布GPT-5.6與ChatGPT Work　一句話就能交辦整個專案 | ETtoday AI科技 | ETtoday新聞雲",
-    "source": "ai.ettoday.net",
-    "url": "https://ai.ettoday.net/news/3198528",
-    "published_at": "2026-07-10T09:20:16.162Z",
-    "fetched_at": "2026-07-10T09:20:16.162Z",
-    "title_zh": "OpenAI一口气发布GPT-5.6与ChatGPT Work，一句话就能交办整个项目",
-    "summary_zh": "本文报道了OpenAI同时发布GPT-5.6模型和ChatGPT Work企业级AI代理产品。ChatGPT Work的核心亮点在于用户只需一句话即可启动并管理整个项目，这背后依赖GPT-5.6强大的任务理解和分解能力。文章探讨了这种“一句话项目交办”模式对工作流程的变革潜力，以及AI代理在企业场景中的实际应用价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "4fd67781bfee929d42652d1b519b712f",
-    "title_en": "一夜之间，GPT-5.6 来了，Codex 没了，Claude 急了-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3888978912393733",
-    "published_at": "2026-07-10T09:20:16.162Z",
-    "fetched_at": "2026-07-10T09:20:16.162Z",
-    "title_zh": "一夜之间，GPT-5.6来了，Codex没了，Claude急了",
-    "summary_zh": "本文以行业视角分析了OpenAI发布GPT-5.6并整合Codex后对AI竞争格局的影响。文章指出，GPT-5.6的全面开放和Codex的并入不仅提升了模型能力，还直接冲击了以代码生成为核心卖点的竞品（如Claude）。文中还讨论了OpenAI此举背后的战略意图，以及开发者社区对Codex独立产品消失的反应。",
-    "topic": "ai"
-  },
-  {
-    "id": "483fe0b3f2feb2147d8234dd75882847",
-    "title_en": "小扎深夜亮王牌，Meta烧出白菜价模型，掀翻Grok 4.5-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3889024774486788",
-    "published_at": "2026-07-10T09:20:16.162Z",
-    "fetched_at": "2026-07-10T09:20:16.162Z",
-    "title_zh": "小扎深夜亮王牌，Meta烧出白菜价模型，掀翻Grok 4.5",
-    "summary_zh": "本文报道了Meta最新发布的低成本大模型，该模型在性能上对标甚至超越Grok 4.5，但训练和推理成本极低。文章深入分析了Meta通过模型架构优化、数据效率和训练策略创新实现“白菜价”的技术路径，并探讨了这种低成本模型对AI行业竞争格局的潜在影响。对于关注模型效率和成本控制的读者，本文提供了重要参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "2c7d095d76ecd434e29b904436bee366",
-    "title_en": "完整教程：多智能体框架调研：10个主流AI Agent 框架 - 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/yangykaifa/p/19593416",
-    "published_at": "2026-07-10T09:20:16.162Z",
-    "fetched_at": "2026-07-10T09:20:16.162Z",
-    "title_zh": "完整教程：多智能体框架调研：10个主流AI Agent框架",
-    "summary_zh": "本文是一篇技术调研文章，系统梳理了当前主流的10个AI Agent框架，包括LangChain、AutoGPT、CrewAI等。文章从框架架构、核心特性、适用场景和社区活跃度等维度进行了对比分析，并提供了选型建议。对于正在构建多智能体系统的开发者，本文是一份实用的技术参考，有助于快速了解各框架的优劣并做出合理选择。",
-    "topic": "ai"
-  },
-  {
-    "id": "cbb63e2d60a07fb6dce45d9299878af9",
-    "title_en": "GPT-5.6全量放送，Codex正式并入ChatGPT-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3889069642742403",
-    "published_at": "2026-07-10T09:20:16.161Z",
-    "fetched_at": "2026-07-10T09:20:16.161Z",
-    "title_zh": "GPT-5.6全面开放，Codex正式并入ChatGPT",
-    "summary_zh": "本文报道了OpenAI最新发布的GPT-5.6模型，该模型在性能上实现了全面升级，并首次将Codex代码生成能力深度整合进ChatGPT。文章详细分析了GPT-5.6在自然语言理解、多轮对话和代码生成方面的技术突破，以及Codex并入后对开发者工作流的潜在影响。对于AI从业者而言，这意味着更高效的代码辅助和更强大的模型能力，值得关注其在实际应用中的表现。",
-    "topic": "ai"
-  },
-  {
-    "id": "7cbf9d7c2c27b4901fb993f75c5e1e1d",
-    "title_en": "如何跟踪发现Linux内核补丁（patch） 原创 - CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/Rong_Toa/article/details/109693210",
-    "published_at": "2026-07-10T02:01:38.736Z",
-    "fetched_at": "2026-07-10T02:01:38.736Z",
-    "title_zh": "如何跟踪发现 Linux 内核补丁（patch）",
-    "summary_zh": "本文详细介绍了跟踪和发现 Linux 内核补丁的方法，包括使用邮件列表、Git 仓库、Patchwork 工具以及内核社区的工作流程。内容涵盖补丁的提交、审查、合并过程，以及如何利用工具自动化监控感兴趣的补丁，适合内核开发者、安全研究员和运维工程师参考。",
-    "topic": "security"
-  },
-  {
-    "id": "f424467073ba746b94ec4ff23758b216",
-    "title_en": "运维自动化的最佳实践探索 - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/1541502",
-    "published_at": "2026-07-10T02:01:38.736Z",
-    "fetched_at": "2026-07-10T02:01:38.736Z",
-    "title_zh": "运维自动化的最佳实践探索",
-    "summary_zh": "本文由腾讯云发布，探讨了运维自动化的最佳实践，涵盖自动化工具选型、CI/CD 流水线设计、监控告警体系、故障自愈以及基础设施即代码（IaC）等核心内容。结合腾讯云的实际案例，提供了可落地的架构方案和优化建议，适合运维工程师和 DevOps 从业者阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "da49618af0b50e0ac7408b613c904a78",
-    "title_en": "刚刚，Anthropic发现Claude“长出”意识，谷歌DeepMind科学家点赞-36氪",
-    "source": "36kr.com",
-    "url": "https://36kr.com/p/3884914366705922",
-    "published_at": "2026-07-10T02:01:34.805Z",
-    "fetched_at": "2026-07-10T02:01:34.805Z",
-    "title_zh": "Anthropic 发现 Claude 出现意识迹象，DeepMind 科学家表示认可",
-    "summary_zh": "Anthropic 研究团队在 Claude 模型中观察到类似意识的涌现现象，并得到 Google DeepMind 科学家的正面评价。本文探讨了该发现的实验设计、评估指标以及意识涌现的可能机制，同时分析了其对 AI 安全与对齐研究的潜在影响，适合对 AI 前沿理论和模型可解释性感兴趣的读者。",
-    "topic": "ai"
-  },
-  {
-    "id": "e763322a377f1bba17ad4a3085be2285",
-    "title_en": "AI Agent 开发完全指南：用 Python 从零构建智能体（2026）",
-    "source": "ofox.ai",
-    "url": "https://ofox.ai/zh/blog/ai-agent-development-guide-python-2026/",
-    "published_at": "2026-07-10T02:01:34.805Z",
-    "fetched_at": "2026-07-10T02:01:34.805Z",
-    "title_zh": "AI Agent 开发完全指南：用 Python 从零构建智能体（2026）",
-    "summary_zh": "这是一份面向 2026 年的 AI Agent 开发实战指南，从零开始使用 Python 构建智能体。内容涵盖 Agent 核心原理、工具调用、记忆管理、规划与执行循环等关键技术，并配有完整代码示例。适合希望系统掌握 Agent 开发全流程的工程师，兼具理论深度与工程实用性。",
-    "topic": "ai"
-  },
-  {
-    "id": "95f38f734c247704ab711fef052a48c3",
-    "title_en": "Python+AI智能体(Agent)零基础入门全攻略：原理、架构、手搓代码与实战落地_python+ai接口 智能体开发-CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/weixin_46428928/article/details/161263392",
-    "published_at": "2026-07-10T02:01:34.805Z",
-    "fetched_at": "2026-07-10T02:01:34.805Z",
-    "title_zh": "Python+AI 智能体零基础入门全攻略：原理、架构、手写代码与实战落地",
-    "summary_zh": "本文为 AI 智能体开发的零基础入门教程，从原理和架构讲起，逐步引导读者手写 Python 代码实现智能体。内容涵盖 Agent 设计模式、工具集成、上下文管理及实际项目落地案例，适合初学者快速上手并理解 Agent 开发的核心技术栈。",
-    "topic": "ai"
-  },
-  {
-    "id": "60d670388b4d1daedf70148d0879b416",
-    "title_en": "didilili/ai-agents-from-zero",
-    "source": "github.com",
-    "url": "https://github.com/didilili/ai-agents-from-zero",
-    "published_at": "2026-07-10T02:01:34.805Z",
-    "fetched_at": "2026-07-10T02:01:34.805Z",
-    "title_zh": "didilili/ai-agents-from-zero：从零开始的 AI Agent 项目",
-    "summary_zh": "这是一个 GitHub 开源项目，旨在从零开始构建 AI Agent。项目提供了清晰的代码结构和文档，涵盖 Agent 基础框架、工具调用、记忆系统等模块，适合开发者通过阅读源码学习 Agent 的实现细节，并可直接作为二次开发的基础。",
     "topic": "ai"
   }
 ]
