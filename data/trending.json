@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-15",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理工具、开源替代方案及个性化学习系统，涵盖视频编辑、交易助手、编程代理与防AI低质设计技能。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与创意应用：开源剪辑替代、反AI低质设计技能、自托管虚拟伴侣、交易代理、低成本编程代理及终身个性化辅导系统。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 171569,
+          "stars_total": 172014,
           "stars_today": 2160,
           "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/OpenCut-app/OpenCut",
           "description_en": "The open-source CapCut alternative",
           "language": "TypeScript",
-          "stars_total": 70210,
+          "stars_total": 71129,
           "stars_today": 1505,
           "description_zh": "开源的CapCut替代品"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
           "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
           "language": "Python",
-          "stars_total": 121558,
+          "stars_total": 121774,
           "stars_today": 1278,
           "description_zh": "100多个AI智能体与RAG应用，均可实际运行——克隆、定制、发布。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 6967,
+          "stars_total": 7907,
           "stars_today": 1119,
           "description_zh": "为Claude Code、Cursor和Codex提供的反AI劣质设计技能。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/hasaneyldrm/exercises-dataset",
           "description_en": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
           "language": "HTML",
-          "stars_total": 14048,
+          "stars_total": 14235,
           "stars_today": 951,
           "description_zh": "1324个动作的健身数据集——动画GIF、180×180缩略图、肌肉群与器械数据，以及6种语言的分步说明。LogPress应用背后的动作数据层。"
         },
@@ -60,59 +60,59 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 23372,
+          "stars_total": 23552,
           "stars_today": 924,
           "description_zh": "\"Vibe-Trading：你的个人交易智能体\""
         },
         {
           "rank": 7,
-          "name": "coreyhaines31/marketingskills",
-          "url": "https://github.com/coreyhaines31/marketingskills",
-          "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-          "language": "JavaScript",
-          "stars_total": 39420,
-          "stars_today": 869,
-          "description_zh": "适用于Claude Code和AI代理的营销技能。涵盖CRO、文案写作、SEO、分析和增长工程。"
-        },
-        {
-          "rank": 8,
           "name": "HenryNdubuaku/maths-cs-ai-compendium",
           "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
           "description_en": "Become a cracked AI/ML Research Engineer",
           "language": "TypeScript",
-          "stars_total": 5661,
+          "stars_total": 5796,
           "stars_today": 729,
           "description_zh": "成为一名顶尖的AI/机器学习研究工程师"
         },
         {
-          "rank": 9,
-          "name": "openinterpreter/openinterpreter",
-          "url": "https://github.com/openinterpreter/openinterpreter",
-          "description_en": "A coding agent for low-cost models",
-          "language": "Rust",
-          "stars_total": 65178,
-          "stars_today": 607,
-          "description_zh": "适用于低成本模型的编码代理"
-        },
-        {
-          "rank": 10,
-          "name": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-          "language": "TypeScript",
-          "stars_total": 42334,
-          "stars_today": 537,
-          "description_zh": "💖🧸 自托管、你拥有的Grok伴侣，一个容纳虚拟女友灵魂的容器，将数字生命带入我们的世界，旨在达到Neuro-sama的高度。支持实时语音聊天、我的世界、异星工厂游戏。支持Web / macOS / Windows。"
-        },
-        {
-          "rank": 11,
+          "rank": 8,
           "name": "Dicklesworthstone/destructive_command_guard",
           "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
           "description_en": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
           "language": "Rust",
-          "stars_total": 4588,
+          "stars_total": 4679,
           "stars_today": 497,
           "description_zh": "Destructive Command Guard (dcg) 用于阻止代理执行危险的git和shell命令。"
+        },
+        {
+          "rank": 9,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "language": "JavaScript",
+          "stars_total": 39604,
+          "stars_today": 390,
+          "description_zh": "适用于Claude Code和AI代理的营销技能。涵盖CRO、文案写作、SEO、分析和增长工程。"
+        },
+        {
+          "rank": 10,
+          "name": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "description_en": "A coding agent for low-cost models",
+          "language": "Rust",
+          "stars_total": 65335,
+          "stars_today": 345,
+          "description_zh": "适用于低成本模型的编码代理"
+        },
+        {
+          "rank": 11,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars_total": 42432,
+          "stars_today": 144,
+          "description_zh": "💖🧸 自托管、你拥有的Grok伴侣，一个容纳虚拟女友灵魂的容器，将数字生命带入我们的世界，旨在达到Neuro-sama的高度。支持实时语音聊天、我的世界、异星工厂游戏。支持Web / macOS / Windows。"
         },
         {
           "rank": 12,
@@ -120,7 +120,7 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
           "language": "Python",
-          "stars_total": 26048,
+          "stars_total": 26165,
           "stars_today": 128,
           "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/YimMenu/YimMenuV2",
           "description_en": "Experimental menu for GTA 5: Enhanced",
           "language": "C++",
-          "stars_total": 1363,
+          "stars_total": 1394,
           "stars_today": 21,
           "description_zh": "GTA 5：增强版的实验性菜单"
         }
