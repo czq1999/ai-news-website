@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-15",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理应用、安全防护、开源设计工具及健身数据集，涵盖LLM应用、交易代理、Windows优化等实用工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI应用开发（智能体、RAG、交易）、开源视频编辑器替代CapCut、Windows系统优化脚本及健身数据集，展现AI与实用工具创新趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/OpenCut-app/OpenCut",
           "description_en": "The open-source CapCut alternative",
           "language": "TypeScript",
-          "stars_total": 69230,
+          "stars_total": 69628,
           "stars_today": 4276,
           "description_zh": "开源的CapCut替代品"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/Graphify-Labs/graphify",
           "description_en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
           "language": "Python",
-          "stars_total": 86410,
+          "stars_total": 86913,
           "stars_today": 1851,
           "description_zh": "AI编程助手技能（支持Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码文件夹、SQL模式、R脚本、Shell脚本、文档、论文、图片或视频转化为可查询的知识图谱。应用代码+数据库模式+基础设施整合于一张图中。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 170279,
+          "stars_total": 171070,
           "stars_today": 1679,
           "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/HKUDS/Vibe-Trading",
           "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
           "language": "Python",
-          "stars_total": 22876,
+          "stars_total": 23171,
           "stars_today": 1256,
           "description_zh": "\"Vibe-Trading：你的个人交易智能体\""
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
           "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
           "language": "Python",
-          "stars_total": 120824,
+          "stars_total": 121290,
           "stars_today": 1106,
           "description_zh": "100多个AI智能体与RAG应用，均可实际运行——克隆、定制、发布。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 6167,
+          "stars_total": 6448,
           "stars_today": 1015,
           "description_zh": "为Claude Code、Cursor和Codex提供的反AI劣质设计技能。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/hasaneyldrm/exercises-dataset",
           "description_en": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
           "language": "HTML",
-          "stars_total": 13539,
+          "stars_total": 13848,
           "stars_today": 851,
           "description_zh": "1324个动作的健身数据集——动画GIF、180×180缩略图、肌肉群与器械数据，以及6种语言的分步说明。LogPress应用背后的动作数据层。"
         },
@@ -80,77 +80,67 @@
           "url": "https://github.com/Raphire/Win11Debloat",
           "description_en": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
           "language": "PowerShell",
-          "stars_total": 51711,
+          "stars_total": 51995,
           "stars_today": 783,
           "description_zh": "一个简单轻量的PowerShell脚本，可移除预装应用、禁用遥测，并执行其他多项更改以精简和自定义你的Windows体验。Win11Debloat同时适用于Windows 10和Windows 11。"
         },
         {
           "rank": 9,
-          "name": "Dicklesworthstone/destructive_command_guard",
-          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-          "description_en": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-          "language": "Rust",
-          "stars_total": 4420,
-          "stars_today": 473,
-          "description_zh": "破坏性命令防护（dcg）用于阻止智能体执行危险的git和shell命令。"
-        },
-        {
-          "rank": 10,
           "name": "penpot/penpot",
           "url": "https://github.com/penpot/penpot",
           "description_en": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
           "language": "Clojure",
-          "stars_total": 56165,
+          "stars_total": 56335,
           "stars_today": 395,
           "description_zh": "Penpot：面向需要可扩展协作的产品团队的开源设计平台。"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "par274/sharpemu",
           "url": "https://github.com/par274/sharpemu",
           "description_en": "An experimental PlayStation 5 emulator project.",
           "language": "C#",
-          "stars_total": 2140,
+          "stars_total": 2303,
           "stars_today": 332,
           "description_zh": "一个实验性的PlayStation 5模拟器项目。"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "chenyme/grok2api",
           "url": "https://github.com/chenyme/grok2api",
           "description_en": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
           "language": "Go",
-          "stars_total": 5858,
+          "stars_total": 5955,
           "stars_today": 186,
           "description_zh": "面向Grok Build、Grok Web与Grok Console的多账号API网关"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "HenryNdubuaku/maths-cs-ai-compendium",
           "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
           "description_en": "Become a cracked AI/ML Research Engineer",
           "language": "TypeScript",
-          "stars_total": 5257,
+          "stars_total": 5493,
           "stars_today": 112,
           "description_zh": "成为一名顶尖的AI/机器学习研究工程师"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "virattt/ai-hedge-fund",
           "url": "https://github.com/virattt/ai-hedge-fund",
           "description_en": "An AI Hedge Fund Team",
           "language": "Python",
-          "stars_total": 61888,
+          "stars_total": 62026,
           "stars_today": 109,
           "description_zh": "一个AI对冲基金团队"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "AIEraDev/Clypra",
           "url": "https://github.com/AIEraDev/Clypra",
           "description_en": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
           "language": "TypeScript",
-          "stars_total": 2628,
+          "stars_total": 2762,
           "stars_today": 85,
           "description_zh": "一个使用Tauri、React和TypeScript构建的现代视频编辑器。专注于实现高级Capcut功能的免费能力。"
         }
