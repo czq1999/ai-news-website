@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-07-16",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理工具、开源替代方案及个性化学习，涵盖视频编辑、交易助手、防AI低质设计等，强调实用性与自主托管。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars_total": 172349,
+          "stars_today": 2130,
+          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
+        },
+        {
+          "rank": 2,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description_en": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars_total": 71868,
+          "stars_today": 1664,
+          "description_zh": "开源的CapCut替代品"
+        },
+        {
+          "rank": 3,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars_total": 8615,
+          "stars_today": 1277,
+          "description_zh": "为Claude Code、Cursor和Codex提供的反AI低质量设计技能"
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars_total": 121942,
+          "stars_today": 1236,
+          "description_zh": "100多个你可以真正运行的AI代理和RAG应用——克隆、定制、发布。"
+        },
+        {
+          "rank": 5,
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description_en": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+          "language": "HTML",
+          "stars_total": 14408,
+          "stars_today": 949,
+          "description_zh": "包含1,324个健身动作的数据集——动画GIF、180×180缩略图、肌肉群与器械数据，以及6种语言的分步说明。LogPress应用背后的动作数据层。"
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars_total": 23735,
+          "stars_today": 915,
+          "description_zh": "\"Vibe-Trading：你的个人交易代理\""
+        },
+        {
+          "rank": 7,
+          "name": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "description_en": "Become a cracked AI/ML Research Engineer",
+          "language": "TypeScript",
+          "stars_total": 5928,
+          "stars_today": 725,
+          "description_zh": "成为顶尖的AI/机器学习研究工程师"
+        },
+        {
+          "rank": 8,
+          "name": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "description_en": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+          "language": "Rust",
+          "stars_total": 4784,
+          "stars_today": 471,
+          "description_zh": "Destructive Command Guard (dcg) 用于阻止代理执行危险的git和shell命令。"
+        },
+        {
+          "rank": 9,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "language": "JavaScript",
+          "stars_total": 39779,
+          "stars_today": 340,
+          "description_zh": "面向Claude Code和AI代理的营销技能。涵盖CRO、文案写作、SEO、分析和增长工程。"
+        },
+        {
+          "rank": 10,
+          "name": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "description_en": "A coding agent for low-cost models",
+          "language": "Rust",
+          "stars_total": 65508,
+          "stars_today": 299,
+          "description_zh": "面向低成本模型的编码代理"
+        },
+        {
+          "rank": 11,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars_total": 26294,
+          "stars_today": 172,
+          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+        },
+        {
+          "rank": 12,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars_total": 42524,
+          "stars_today": 110,
+          "description_zh": "💖🧸 自托管、你拥有的Grok伴侣，一个容纳虚拟灵魂的容器，将数字生命带入我们的世界，旨在达到Neuro-sama的高度。支持实时语音聊天、Minecraft、Factorio游戏。支持Web/macOS/Windows。"
+        },
+        {
+          "rank": 13,
+          "name": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "description_en": "Experimental menu for GTA 5: Enhanced",
+          "language": "C++",
+          "stars_total": 1428,
+          "stars_today": 38,
+          "description_zh": "《GTA 5：增强版》的实验性菜单"
+        }
+      ]
+    },
+    {
       "date": "2026-07-15",
       "summary_zh": "今日GitHub热门项目聚焦AI开发工具与创意应用：开源剪辑替代、反AI低质设计技能、自托管虚拟伴侣、交易代理、低成本编程代理及终身个性化辅导系统。",
       "projects": [
@@ -5011,142 +5147,6 @@
           "stars_total": 45542,
           "stars_today": 15,
           "description_zh": "面向关键任务操作的安全通信操作系统™"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-16",
-      "summary_zh": "今日GitHub热门项目涵盖编程学习、Rust工具、特斯拉数据记录、IPTV、浏览器测试、云原生管理、音乐管理及安卓去冗余，技术多样实用。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "iptv-org/iptv",
-          "url": "https://github.com/iptv-org/iptv",
-          "description_en": "Collection of publicly available IPTV channels from all over the world",
-          "language": "TypeScript",
-          "stars_total": 123926,
-          "stars_today": 1196,
-          "description_zh": "来自世界各地的公开IPTV频道集合"
-        },
-        {
-          "rank": 2,
-          "name": "freeCodeCamp/freeCodeCamp",
-          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-          "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-          "language": "TypeScript",
-          "stars_total": 448481,
-          "stars_today": 640,
-          "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
-        },
-        {
-          "rank": 3,
-          "name": "OpenBMB/VoxCPM",
-          "url": "https://github.com/OpenBMB/VoxCPM",
-          "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-          "language": "Python",
-          "stars_total": 30088,
-          "stars_today": 413,
-          "description_zh": "VoxCPM2：无需分词器的多语言语音生成、创意语音设计及逼真克隆的TTS系统"
-        },
-        {
-          "rank": 4,
-          "name": "n0-computer/iroh",
-          "url": "https://github.com/n0-computer/iroh",
-          "description_en": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-          "language": "Rust",
-          "stars_total": 9219,
-          "stars_today": 326,
-          "description_zh": "IP地址会失效，改用拨号键。基于Rust的模块化网络协议栈"
-        },
-        {
-          "rank": 5,
-          "name": "meshery/meshery",
-          "url": "https://github.com/meshery/meshery",
-          "description_en": "Meshery, the cloud native manager",
-          "language": "TypeScript",
-          "stars_total": 10817,
-          "stars_today": 229,
-          "description_zh": "Meshery，云原生管理器"
-        },
-        {
-          "rank": 6,
-          "name": "teslamate-org/teslamate",
-          "url": "https://github.com/teslamate-org/teslamate",
-          "description_en": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-          "language": "Elixir",
-          "stars_total": 8385,
-          "stars_today": 214,
-          "description_zh": "为您的特斯拉打造的自托管数据记录器 🚘 [主要维护者=@JakobLichterfeld]"
-        },
-        {
-          "rank": 7,
-          "name": "alibaba/zvec",
-          "url": "https://github.com/alibaba/zvec",
-          "description_en": "A lightweight, lightning-fast, in-process vector database",
-          "language": "C++",
-          "stars_total": 10396,
-          "stars_today": 188,
-          "description_zh": "轻量级、超高速的进程内向量数据库"
-        },
-        {
-          "rank": 8,
-          "name": "rmyndharis/OpenWA",
-          "url": "https://github.com/rmyndharis/OpenWA",
-          "description_en": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-          "language": "TypeScript",
-          "stars_total": 9024,
-          "stars_today": 185,
-          "description_zh": "免费、开源、自托管的WhatsApp API网关"
-        },
-        {
-          "rank": 9,
-          "name": "music-assistant/server",
-          "url": "https://github.com/music-assistant/server",
-          "description_en": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-          "language": "Python",
-          "stars_total": 2537,
-          "stars_today": 157,
-          "description_zh": "Music Assistant 是一个免费、开源的媒体库管理器，可连接您的流媒体服务和各种智能音箱。服务器是其跳动的心脏和核心，必须运行在始终在线的设备上，如树莓派、NAS或Intel NUC等。"
-        },
-        {
-          "rank": 10,
-          "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-          "description_en": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-          "language": "Rust",
-          "stars_total": 7233,
-          "stars_today": 146,
-          "description_zh": "使用Rust编写的跨平台GUI工具，通过ADB对未Root的Android设备进行去臃肿化，提升隐私、安全性和电池续航"
-        },
-        {
-          "rank": 11,
-          "name": "puppeteer/puppeteer",
-          "url": "https://github.com/puppeteer/puppeteer",
-          "description_en": "JavaScript API for Chrome and Firefox",
-          "language": "TypeScript",
-          "stars_total": 94850,
-          "stars_today": 80,
-          "description_zh": "Chrome和Firefox的JavaScript API"
-        },
-        {
-          "rank": 12,
-          "name": "swc-project/swc",
-          "url": "https://github.com/swc-project/swc",
-          "description_en": "Rust-based platform for the Web",
-          "language": "Rust",
-          "stars_total": 33946,
-          "stars_today": 21,
-          "description_zh": "基于Rust的Web平台"
-        },
-        {
-          "rank": 13,
-          "name": "cypress-io/cypress",
-          "url": "https://github.com/cypress-io/cypress",
-          "description_en": "Fast, easy and reliable testing for anything that runs in a browser.",
-          "language": "TypeScript",
-          "stars_total": 50168,
-          "stars_today": 11,
-          "description_zh": "快速、简单且可靠的浏览器端测试工具"
         }
       ]
     }
