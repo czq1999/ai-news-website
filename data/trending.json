@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-16",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与生活应用：开源剪辑替代品、反AI低质设计技能、自托管AI伴侣、交易代理、编程助手及个性化辅导系统，展现AI工具多元化趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦三大主题：中国独立开发者生态、AI标准化与反AI低质内容工具，以及开源替代方案（如CapCut替代品OpenCut），凸显开发者社区对自主创新与质量控制的追求。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
           "language": "Shell",
-          "stars_total": 173017,
+          "stars_total": 173592,
           "stars_today": 2130,
           "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
         },
@@ -20,79 +20,79 @@
           "url": "https://github.com/OpenCut-app/OpenCut",
           "description_en": "The open-source CapCut alternative",
           "language": "TypeScript",
-          "stars_total": 72882,
+          "stars_total": 73545,
           "stars_today": 1664,
           "description_zh": "开源的CapCut替代品"
         },
         {
           "rank": 3,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description_en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+          "language": "Python",
+          "stars_total": 88398,
+          "stars_today": 1623,
+          "description_zh": "AI编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码文件夹、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频转换为可查询的知识图谱。应用代码+数据库模式+基础设施整合在一个图中"
+        },
+        {
+          "rank": 4,
           "name": "Nutlope/hallmark",
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 9552,
+          "stars_total": 10199,
           "stars_today": 1277,
           "description_zh": "为Claude Code、Cursor和Codex提供的反AI低质量设计技能"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Shubhamsaboo/awesome-llm-apps",
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
           "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
           "language": "Python",
-          "stars_total": 122232,
+          "stars_total": 122457,
           "stars_today": 1236,
           "description_zh": "100多个你可以真正运行的AI代理和RAG应用——克隆、定制、发布。"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "hasaneyldrm/exercises-dataset",
           "url": "https://github.com/hasaneyldrm/exercises-dataset",
           "description_en": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
           "language": "HTML",
-          "stars_total": 14594,
+          "stars_total": 14739,
           "stars_today": 949,
           "description_zh": "包含1,324个健身动作的数据集——动画GIF、180×180缩略图、肌肉群与器械数据，以及6种语言的分步说明。LogPress应用背后的动作数据层。"
         },
         {
-          "rank": 6,
-          "name": "HKUDS/Vibe-Trading",
-          "url": "https://github.com/HKUDS/Vibe-Trading",
-          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
-          "language": "Python",
-          "stars_total": 23976,
-          "stars_today": 915,
-          "description_zh": "\"Vibe-Trading：你的个人交易代理\""
-        },
-        {
           "rank": 7,
-          "name": "HenryNdubuaku/maths-cs-ai-compendium",
-          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-          "description_en": "Become a cracked AI/ML Research Engineer",
-          "language": "TypeScript",
-          "stars_total": 6098,
-          "stars_today": 725,
-          "description_zh": "成为顶尖的AI/机器学习研究工程师"
+          "name": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "description_en": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+          "language": "Python",
+          "stars_total": 56480,
+          "stars_today": 688,
+          "description_zh": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
         },
         {
           "rank": 8,
-          "name": "Dicklesworthstone/destructive_command_guard",
-          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-          "description_en": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-          "language": "Rust",
-          "stars_total": 4893,
-          "stars_today": 471,
-          "description_zh": "Destructive Command Guard (dcg) 用于阻止代理执行危险的git和shell命令。"
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description_en": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars_total": 525879,
+          "stars_today": 464,
+          "description_zh": "通过从头重新创建你喜爱的技术来掌握编程"
         },
         {
           "rank": 9,
-          "name": "coreyhaines31/marketingskills",
-          "url": "https://github.com/coreyhaines31/marketingskills",
-          "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-          "language": "JavaScript",
-          "stars_total": 39988,
-          "stars_today": 340,
-          "description_zh": "面向Claude Code和AI代理的营销技能。涵盖CRO、文案写作、SEO、分析和增长工程。"
+          "name": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "description_en": "Bonsai Demo",
+          "language": "Shell",
+          "stars_total": 1385,
+          "stars_today": 323,
+          "description_zh": "Bonsai 演示"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/openinterpreter/openinterpreter",
           "description_en": "A coding agent for low-cost models",
           "language": "Rust",
-          "stars_total": 65678,
+          "stars_total": 65800,
           "stars_today": 299,
           "description_zh": "面向低成本模型的编码代理"
         },
@@ -110,39 +110,79 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
           "language": "Python",
-          "stars_total": 26534,
+          "stars_total": 26678,
           "stars_today": 172,
           "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
         },
         {
           "rank": 12,
-          "name": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "name": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "description_en": "Skills for Design Engineers",
           "language": "TypeScript",
-          "stars_total": 42666,
-          "stars_today": 110,
-          "description_zh": "💖🧸 自托管、你拥有的Grok伴侣，一个容纳虚拟灵魂的容器，将数字生命带入我们的世界，旨在达到Neuro-sama的高度。支持实时语音聊天、Minecraft、Factorio游戏。支持Web/macOS/Windows。"
+          "stars_total": 3952,
+          "stars_today": 141,
+          "description_zh": "设计工程师的技能"
         },
         {
           "rank": 13,
-          "name": "injaneity/pi-computer-use",
-          "url": "https://github.com/injaneity/pi-computer-use",
-          "description_en": "Let Pi control your apps on MacOS & Windows",
-          "language": "TypeScript",
-          "stars_total": 1333,
-          "stars_today": 103,
-          "description_zh": "让Pi控制你在MacOS和Windows上的应用程序"
+          "name": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "description_en": "🎓 Path to a free self-taught education in Computer Science!",
+          "language": "HTML",
+          "stars_total": 206265,
+          "stars_today": 125,
+          "description_zh": "🎓 通往免费自学计算机科学教育的道路！"
         },
         {
           "rank": 14,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description_en": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+          "language": "Python",
+          "stars_total": 35633,
+          "stars_today": 58,
+          "description_zh": "🦔 PostHog 是一个用于构建成功产品的一体化开发者平台。我们提供产品分析、网站分析、会话回放、错误追踪、功能开关、实验、调查、数据仓库、CDP以及AI产品助手，帮助调试代码、更快发布功能，并将所有使用数据和客户数据集中在一个栈中"
+        },
+        {
+          "rank": 15,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description_en": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+          "language": "TypeScript",
+          "stars_total": 79955,
+          "stars_today": 51,
+          "description_zh": "🤯 LobeHub 是你的首席代理操作员，通过雇佣、调度和报告你的整个AI团队，将你的代理组织成7×24小时运营"
+        },
+        {
+          "rank": 16,
           "name": "YimMenu/YimMenuV2",
           "url": "https://github.com/YimMenu/YimMenuV2",
           "description_en": "Experimental menu for GTA 5: Enhanced",
           "language": "C++",
-          "stars_total": 1466,
+          "stars_total": 1483,
           "stars_today": 38,
           "description_zh": "《GTA 5：增强版》的实验性菜单"
+        },
+        {
+          "rank": 17,
+          "name": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "description_en": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+          "language": "Python",
+          "stars_total": 753,
+          "stars_today": 34,
+          "description_zh": "Apache Ossie，一项行业范围的规范工作，旨在标准化跨分析、AI和BI平台交换语义元数据的方式，为语义数据提供供应商中立、单一的真实来源"
+        },
+        {
+          "rank": 18,
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars_total": 9530,
+          "stars_today": 8,
+          "description_zh": "用于将GitHub Copilot Agent集成到应用和服务中的多平台SDK"
         }
       ]
     },
