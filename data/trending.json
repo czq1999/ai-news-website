@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-07-17",
+      "summary_zh": "今日GitHub趋势聚焦三大方向：AI标准化工具（Apache Ossie语义元数据规范）、反AI同质化设计（hallmark）、以及开源替代方案（OpenCut剪映替代）。同时涌现大量AI代理与RAG应用（awesome-llm-apps）及产品分析平台（PostHog）。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description_en": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars_total": 74049,
+          "stars_today": 3537,
+          "description_zh": "开源的CapCut替代品"
+        },
+        {
+          "rank": 2,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars_total": 10955,
+          "stars_today": 3372,
+          "description_zh": "为Claude Code、Cursor和Codex提供的反AI低质量设计技能。"
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars_total": 174309,
+          "stars_today": 2060,
+          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
+        },
+        {
+          "rank": 4,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description_en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+          "language": "Python",
+          "stars_total": 89116,
+          "stars_today": 1107,
+          "description_zh": "AI编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何包含代码、SQL模式、R脚本、Shell脚本、文档、论文、图片或视频的文件夹转化为可查询的知识图谱。应用代码+数据库模式+基础设施整合于一个图谱中。"
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars_total": 122921,
+          "stars_today": 923,
+          "description_zh": "100多个你可以实际运行的AI代理与RAG应用——克隆、定制、发布。"
+        },
+        {
+          "rank": 6,
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description_en": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+          "language": "HTML",
+          "stars_total": 15053,
+          "stars_today": 710,
+          "description_zh": "包含1,324个健身动作的数据集——动画GIF、180×180缩略图、肌肉群与设备数据，以及6种语言的分步说明。这是LogPress应用背后的动作数据层。"
+        },
+        {
+          "rank": 7,
+          "name": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "description_en": "A coding agent for open models like Kimi K3",
+          "language": "Rust",
+          "stars_total": 65990,
+          "stars_today": 661,
+          "description_zh": "面向Kimi K3等开放模型的编码代理"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars_total": 26884,
+          "stars_today": 656,
+          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+        },
+        {
+          "rank": 9,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description_en": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars_total": 526342,
+          "stars_today": 435,
+          "description_zh": "通过从头重新创建你喜爱的技术来掌握编程。"
+        },
+        {
+          "rank": 10,
+          "name": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "description_en": "Bonsai Demo",
+          "language": "Shell",
+          "stars_total": 1525,
+          "stars_today": 196,
+          "description_zh": "Bonsai演示"
+        },
+        {
+          "rank": 11,
+          "name": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "description_en": "Skills for Design Engineers",
+          "language": "TypeScript",
+          "stars_total": 4287,
+          "stars_today": 178,
+          "description_zh": "面向设计工程师的技能"
+        },
+        {
+          "rank": 12,
+          "name": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "description_en": "Experimental menu for GTA 5: Enhanced",
+          "language": "C++",
+          "stars_total": 1506,
+          "stars_today": 128,
+          "description_zh": "GTA 5：增强版的实验性菜单"
+        },
+        {
+          "rank": 13,
+          "name": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "description_en": "🎓 Path to a free self-taught education in Computer Science!",
+          "language": "HTML",
+          "stars_total": 206537,
+          "stars_today": 107,
+          "description_zh": "🎓 通往免费自学计算机科学教育之路！"
+        },
+        {
+          "rank": 14,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "language": "Python",
+          "stars_total": 35855,
+          "stars_today": 77,
+          "description_zh": "🦔 PostHog是构建自主产品的领先平台。我们的开发者工具——AI可观测性、分析、会话回放、功能标志、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和修复问题所需的所有上下文。通过Slack、Web、桌面或MCP进行全方位控制。"
+        },
+        {
+          "rank": 15,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description_en": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+          "language": "TypeScript",
+          "stars_total": 80176,
+          "stars_today": 71,
+          "description_zh": "🤯 LobeHub是你的首席代理运营官，通过雇佣、调度和汇报整个AI团队，将你的代理组织成7×24小时运作。"
+        },
+        {
+          "rank": 16,
+          "name": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "description_en": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+          "language": "Python",
+          "stars_total": 915,
+          "stars_today": 60,
+          "description_zh": "Apache Ossie，一项行业范围的规范工作，旨在标准化我们在分析、AI和BI平台之间交换语义元数据的方式，为语义数据提供供应商中立、单一的真实来源。"
+        },
+        {
+          "rank": 17,
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars_total": 9648,
+          "stars_today": 13,
+          "description_zh": "用于将GitHub Copilot代理集成到应用和服务中的多平台SDK"
+        }
+      ]
+    },
+    {
       "date": "2026-07-16",
       "summary_zh": "今日GitHub热门项目聚焦AI标准化、反AI同质化设计、开源视频编辑替代品、全栈开发者工具及健身数据集，涵盖语义元数据交换、智能体平台与低代码模型应用。",
       "projects": [
@@ -4981,212 +5157,6 @@
           "stars_total": 38624,
           "stars_today": 13,
           "description_zh": "面向 GraphQL、REST、WebSockets、SSE 和 gRPC 的开源跨平台 API 客户端。支持云存储、本地存储和 Git 存储。"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-17",
-      "summary_zh": "今日GitHub热门项目聚焦AI代码智能、开源协作与网络创新，涵盖知识图谱索引、多平台数据抓取、时序预测及设计工具等前沿技术。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 133303,
-          "stars_today": 1570,
-          "description_zh": "面向真正工程师的技能。直接来自我的.claude目录。"
-        },
-        {
-          "rank": 2,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 230901,
-          "stars_today": 1205,
-          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 3,
-          "name": "Panniantong/Agent-Reach",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-          "language": "Python",
-          "stars_total": 33035,
-          "stars_today": 1154,
-          "description_zh": "为你的AI智能体赋予观察整个互联网的双眼。读取并搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个命令行工具，零API费用。"
-        },
-        {
-          "rank": 4,
-          "name": "freeCodeCamp/freeCodeCamp",
-          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-          "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-          "language": "TypeScript",
-          "stars_total": 449086,
-          "stars_today": 764,
-          "description_zh": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。"
-        },
-        {
-          "rank": 5,
-          "name": "DeusData/codebase-memory-mcp",
-          "url": "https://github.com/DeusData/codebase-memory-mcp",
-          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-          "language": "C",
-          "stars_total": 4976,
-          "stars_today": 718,
-          "description_zh": "高性能代码智能MCP服务器。将代码库索引到持久化知识图谱中——平均仓库毫秒级处理。支持158种语言，亚毫秒级查询，减少99%的令牌。单个静态二进制文件，零依赖。"
-        },
-        {
-          "rank": 6,
-          "name": "google-research/timesfm",
-          "url": "https://github.com/google-research/timesfm",
-          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-          "language": "Python",
-          "stars_total": 21781,
-          "stars_today": 712,
-          "description_zh": "TimesFM（时间序列基础模型）是谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。"
-        },
-        {
-          "rank": 7,
-          "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-          "description_en": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-          "language": "Rust",
-          "stars_total": 7605,
-          "stars_today": 465,
-          "description_zh": "使用 Rust 编写的跨平台 GUI，通过 ADB 对非 root 安卓设备进行去臃肿操作。提升设备的隐私性、安全性和电池续航。"
-        },
-        {
-          "rank": 8,
-          "name": "n0-computer/iroh",
-          "url": "https://github.com/n0-computer/iroh",
-          "description_en": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-          "language": "Rust",
-          "stars_total": 9588,
-          "stars_today": 422,
-          "description_zh": "IP 地址会失效，改用拨号键。用 Rust 编写的模块化网络栈。"
-        },
-        {
-          "rank": 9,
-          "name": "chatwoot/chatwoot",
-          "url": "https://github.com/chatwoot/chatwoot",
-          "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-          "language": "Ruby",
-          "stars_total": 32313,
-          "stars_today": 400,
-          "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud等产品的替代方案。🔥💬"
-        },
-        {
-          "rank": 10,
-          "name": "meshery/meshery",
-          "url": "https://github.com/meshery/meshery",
-          "description_en": "Meshery, the cloud native manager",
-          "language": "TypeScript",
-          "stars_total": 10987,
-          "stars_today": 199,
-          "description_zh": "Meshery，云原生管理器"
-        },
-        {
-          "rank": 11,
-          "name": "bytedance/UI-TARS-desktop",
-          "url": "https://github.com/bytedance/UI-TARS-desktop",
-          "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-          "language": "TypeScript",
-          "stars_total": 36669,
-          "stars_today": 148,
-          "description_zh": "开源多模态AI智能体栈：连接前沿AI模型与智能体基础设施"
-        },
-        {
-          "rank": 12,
-          "name": "krahets/hello-algo",
-          "url": "https://github.com/krahets/hello-algo",
-          "description_en": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-          "language": "Java",
-          "stars_total": 127418,
-          "stars_today": 109,
-          "description_zh": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
-        },
-        {
-          "rank": 13,
-          "name": "penpot/penpot",
-          "url": "https://github.com/penpot/penpot",
-          "description_en": "Penpot: The open-source design tool for design and code collaboration",
-          "language": "Clojure",
-          "stars_total": 50014,
-          "stars_today": 94,
-          "description_zh": "Penpot：面向设计与代码协作的开源设计工具"
-        },
-        {
-          "rank": 14,
-          "name": "nautechsystems/nautilus_trader",
-          "url": "https://github.com/nautechsystems/nautilus_trader",
-          "description_en": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-          "language": "Rust",
-          "stars_total": 23745,
-          "stars_today": 86,
-          "description_zh": "生产级Rust原生交易引擎，采用确定性事件驱动架构"
-        },
-        {
-          "rank": 15,
-          "name": "calesthio/OpenMontage",
-          "url": "https://github.com/calesthio/OpenMontage",
-          "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-          "language": "Python",
-          "stars_total": 5184,
-          "stars_today": 71,
-          "description_zh": "全球首个开源智能体视频制作系统。12条流水线、52个工具、500+智能体技能。将你的AI编程助手转变为完整的视频制作工作室。"
-        },
-        {
-          "rank": 16,
-          "name": "makeplane/plane",
-          "url": "https://github.com/makeplane/plane",
-          "description_en": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-          "language": "TypeScript",
-          "stars_total": 51184,
-          "stars_today": 68,
-          "description_zh": "🔥🔥🔥 开源Jira、Linear、Monday和ClickUp替代品。Plane是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
-        },
-        {
-          "rank": 17,
-          "name": "yairm210/Unciv",
-          "url": "https://github.com/yairm210/Unciv",
-          "description_en": "Open-source Android/Desktop remake of Civ V",
-          "language": "Kotlin",
-          "stars_total": 10622,
-          "stars_today": 41,
-          "description_zh": "开源安卓/桌面版《文明V》重制版"
-        },
-        {
-          "rank": 18,
-          "name": "continuedev/continue",
-          "url": "https://github.com/continuedev/continue",
-          "description_en": "open-source coding agent",
-          "language": "TypeScript",
-          "stars_total": 33851,
-          "stars_today": 38,
-          "description_zh": "开源编码智能体"
-        },
-        {
-          "rank": 19,
-          "name": "alexzhang13/rlm",
-          "url": "https://github.com/alexzhang13/rlm",
-          "description_en": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
-          "language": "Python",
-          "stars_total": 4878,
-          "stars_today": 37,
-          "description_zh": "面向递归语言模型（RLM）的通用即插即用推理库，支持多种沙箱环境。"
-        },
-        {
-          "rank": 20,
-          "name": "RocketChat/Rocket.Chat",
-          "url": "https://github.com/RocketChat/Rocket.Chat",
-          "description_en": "The Secure CommsOS™ for mission-critical operations",
-          "language": "TypeScript",
-          "stars_total": 45542,
-          "stars_today": 15,
-          "description_zh": "面向关键任务操作的安全通信操作系统™"
         }
       ]
     }
