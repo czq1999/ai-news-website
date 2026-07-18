@@ -1,6 +1,152 @@
 {
   "days": [
     {
+      "date": "2026-07-18",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链，涵盖自建技术、全栈可观测平台、AI反低质设计、代码智能图谱及开源文档签署方案。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars_total": 12053,
+          "stars_today": 1485,
+          "description_zh": "为 Claude Code、Cursor 和 Codex 提供的反 AI 垃圾设计技能。"
+        },
+        {
+          "rank": 2,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description_en": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars_total": 74890,
+          "stars_today": 1074,
+          "description_zh": "开源的 CapCut 替代品"
+        },
+        {
+          "rank": 3,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description_en": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars_total": 527394,
+          "stars_today": 1068,
+          "description_zh": "通过从头重建你喜爱的技术来掌握编程。"
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars_total": 27369,
+          "stars_today": 531,
+          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+        },
+        {
+          "rank": 5,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "language": "Python",
+          "stars_total": 36201,
+          "stars_today": 438,
+          "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发者工具——AI 可观测性、分析、会话回放、功能开关、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和修复缺陷所需的所有上下文。通过 Slack、网页、桌面或 MCP 进行全方位操控。"
+        },
+        {
+          "rank": 6,
+          "name": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "description_en": "A coding agent for open models like Kimi K3",
+          "language": "Rust",
+          "stars_total": 66383,
+          "stars_today": 431,
+          "description_zh": "适用于 Kimi K3 等开放模型的编码代理"
+        },
+        {
+          "rank": 7,
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Python",
+          "stars_total": 13321,
+          "stars_today": 280,
+          "description_zh": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并带有 Python 绑定"
+        },
+        {
+          "rank": 8,
+          "name": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "description_en": "Bonsai Demo",
+          "language": "Shell",
+          "stars_total": 1716,
+          "stars_today": 278,
+          "description_zh": "Bonsai 演示"
+        },
+        {
+          "rank": 9,
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars_total": 9800,
+          "stars_today": 233,
+          "description_zh": "用于将 GitHub Copilot Agent 集成到应用和服务中的多平台 SDK"
+        },
+        {
+          "rank": 10,
+          "name": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "description_en": "Become a cracked AI/ML Research Engineer",
+          "language": "TypeScript",
+          "stars_total": 6632,
+          "stars_today": 200,
+          "description_zh": "成为顶尖的 AI/ML 研究工程师"
+        },
+        {
+          "rank": 11,
+          "name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description_en": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "language": "Ruby",
+          "stars_total": 17854,
+          "stars_today": 91,
+          "description_zh": "开源的 DocuSign 替代品。创建、填写和签署数字文档 ✍️"
+        },
+        {
+          "rank": 12,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "language": "Python",
+          "stars_total": 19765,
+          "stars_today": 74,
+          "description_zh": "面向 MCP 和 CLI 的本地优先代码智能图。构建代码库的持久映射，使 AI 编码工具只读取必要内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
+        },
+        {
+          "rank": 13,
+          "name": "anthropics/cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "description_en": "",
+          "language": "TypeScript",
+          "stars_total": 1589,
+          "stars_today": 45,
+          "description_zh": ""
+        },
+        {
+          "rank": 14,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description_en": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars_total": 71541,
+          "stars_today": 11,
+          "description_zh": "Protocol Buffers - Google 的数据交换格式"
+        }
+      ]
+    },
+    {
       "date": "2026-07-17",
       "summary_zh": "今日GitHub热门项目聚焦AI开发工具链，涵盖自建技术、全栈产品分析、反AI同质化设计、代码审查优化及开源文档签署等方向。",
       "projects": [
@@ -4951,182 +5097,6 @@
           "stars_total": 27550,
           "stars_today": 155,
           "description_zh": "一站式生成式AI研究更新、面试资源、笔记本等内容的资源库！"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "summary_zh": "今日GitHub热门项目聚焦AI与开发工具：时间序列预测模型、智能体工程框架、代码学习平台、高性能向量数据库及知识图谱提取工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "DeusData/codebase-memory-mcp",
-          "url": "https://github.com/DeusData/codebase-memory-mcp",
-          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-          "language": "C",
-          "stars_total": 6858,
-          "stars_today": 2308,
-          "description_zh": "高性能代码智能MCP服务器。将代码库索引为持久化知识图谱——平均毫秒级处理仓库。支持158种语言，亚毫秒级查询，减少99%的令牌。单个静态二进制文件，零依赖。"
-        },
-        {
-          "rank": 2,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 232291,
-          "stars_today": 1435,
-          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 3,
-          "name": "Kilo-Org/kilocode",
-          "url": "https://github.com/Kilo-Org/kilocode",
-          "description_en": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-          "language": "TypeScript",
-          "stars_total": 21949,
-          "stars_today": 1339,
-          "description_zh": "Kilo 是一体化智能体工程平台。借助最流行的开源编码智能体，更快地构建、交付和迭代。"
-        },
-        {
-          "rank": 4,
-          "name": "google-research/timesfm",
-          "url": "https://github.com/google-research/timesfm",
-          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-          "language": "Python",
-          "stars_total": 22924,
-          "stars_today": 858,
-          "description_zh": "TimesFM（时间序列基础模型）是谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。"
-        },
-        {
-          "rank": 5,
-          "name": "makeplane/plane",
-          "url": "https://github.com/makeplane/plane",
-          "description_en": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-          "language": "TypeScript",
-          "stars_total": 51763,
-          "stars_today": 610,
-          "description_zh": "🔥🔥🔥 开源替代Jira、Linear、Monday和ClickUp。Plane是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
-        },
-        {
-          "rank": 6,
-          "name": "freeCodeCamp/freeCodeCamp",
-          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-          "description_en": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-          "language": "TypeScript",
-          "stars_total": 449496,
-          "stars_today": 417,
-          "description_zh": "freeCodeCamp.org的开源代码库和课程。免费学习数学、编程和计算机科学。"
-        },
-        {
-          "rank": 7,
-          "name": "n0-computer/iroh",
-          "url": "https://github.com/n0-computer/iroh",
-          "description_en": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-          "language": "Rust",
-          "stars_total": 9965,
-          "stars_today": 369,
-          "description_zh": "IP地址会失效，改用拨号键。用Rust构建的模块化网络栈。"
-        },
-        {
-          "rank": 8,
-          "name": "alibaba/zvec",
-          "url": "https://github.com/alibaba/zvec",
-          "description_en": "A lightweight, lightning-fast, in-process vector database",
-          "language": "C++",
-          "stars_total": 11174,
-          "stars_today": 344,
-          "description_zh": "一个轻量级、极速的进程内向量数据库"
-        },
-        {
-          "rank": 9,
-          "name": "zai-org/GLM-5",
-          "url": "https://github.com/zai-org/GLM-5",
-          "description_en": "GLM-5: From Vibe Coding to Agentic Engineering",
-          "language": "",
-          "stars_total": 4045,
-          "stars_today": 286,
-          "description_zh": "GLM-5：从氛围编码到智能体工程"
-        },
-        {
-          "rank": 10,
-          "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-          "description_en": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-          "language": "Rust",
-          "stars_total": 7876,
-          "stars_today": 247,
-          "description_zh": "使用Rust编写的跨平台GUI工具，通过ADB对非root安卓设备进行去臃肿处理。提升设备隐私、安全性和电池续航。"
-        },
-        {
-          "rank": 11,
-          "name": "withastro/flue",
-          "url": "https://github.com/withastro/flue",
-          "description_en": "The sandbox agent framework.",
-          "language": "TypeScript",
-          "stars_total": 5448,
-          "stars_today": 164,
-          "description_zh": "沙盒智能体框架。"
-        },
-        {
-          "rank": 12,
-          "name": "yifanfeng97/Hyper-Extract",
-          "url": "https://github.com/yifanfeng97/Hyper-Extract",
-          "description_en": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
-          "language": "Python",
-          "stars_total": 1687,
-          "stars_today": 124,
-          "description_zh": "利用大语言模型将非结构化文本转化为结构化知识。支持图、超图及时空提取——一条命令即可完成。"
-        },
-        {
-          "rank": 13,
-          "name": "LibreTranslate/LibreTranslate",
-          "url": "https://github.com/LibreTranslate/LibreTranslate",
-          "description_en": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
-          "language": "Python",
-          "stars_total": 14914,
-          "stars_today": 83,
-          "description_zh": "免费且开源的机器翻译 API。支持自托管、离线运行且易于部署。"
-        },
-        {
-          "rank": 14,
-          "name": "Lightricks/LTX-2",
-          "url": "https://github.com/Lightricks/LTX-2",
-          "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-          "language": "Python",
-          "stars_total": 7461,
-          "stars_today": 47,
-          "description_zh": "LTX-2 音频-视频生成模型的官方 Python 推理和 LoRA 训练包。"
-        },
-        {
-          "rank": 15,
-          "name": "owainlewis/awesome-artificial-intelligence",
-          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-          "description_en": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-          "language": "",
-          "stars_total": 14319,
-          "stars_today": 33,
-          "description_zh": "一份精心整理的人工智能（AI）课程、书籍、视频讲座和论文列表。"
-        },
-        {
-          "rank": 16,
-          "name": "dotnet/aspnetcore",
-          "url": "https://github.com/dotnet/aspnetcore",
-          "description_en": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-          "language": "C#",
-          "stars_total": 38085,
-          "stars_today": 22,
-          "description_zh": "ASP.NET Core 是一个跨平台的 .NET 框架，用于在 Windows、Mac 或 Linux 上构建现代化的云端 Web 应用程序。"
-        },
-        {
-          "rank": 17,
-          "name": "Kong/insomnia",
-          "url": "https://github.com/Kong/insomnia",
-          "description_en": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-          "language": "TypeScript",
-          "stars_total": 38624,
-          "stars_today": 13,
-          "description_zh": "面向 GraphQL、REST、WebSockets、SSE 和 gRPC 的开源跨平台 API 客户端。支持云存储、本地存储和 Git 存储。"
         }
       ]
     }
