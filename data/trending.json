@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-19",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：本地优先的代码智能图、异构LLM推理框架、AI语音工作室、无API密钥的MCP搜索工具，以及Copilot SDK和PostHog等平台，强调本地化、开源和开发者效率提升。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：本地优先的代码智能图、异构LLM推理框架、AI语音克隆工作室、无API密钥的MCP搜索爬虫，以及Copilot SDK和PostHog自驱产品分析平台。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/codecrafters-io/build-your-own-x",
           "description_en": "Master programming by recreating your favorite technologies from scratch.",
           "language": "Markdown",
-          "stars_total": 528636,
+          "stars_total": 528823,
           "stars_today": 761,
           "description_zh": "通过从零开始重建你喜爱的技术来掌握编程。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/jamiepine/voicebox",
           "description_en": "The open-source AI voice studio. Clone, dictate, create.",
           "language": "TypeScript",
-          "stars_total": 43030,
+          "stars_total": 43204,
           "stars_today": 629,
           "description_zh": "开源AI语音工作室。克隆、听写、创作。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/KnockOutEZ/wigolo",
           "description_en": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
           "language": "TypeScript",
-          "stars_total": 1554,
+          "stars_total": 1719,
           "stars_today": 605,
           "description_zh": "AI编码代理的首选网络——基于MCP的本地优先搜索、抓取、爬取与研究。无需API密钥，无需云服务，每次查询零成本。公测中。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/tirth8205/code-review-graph",
           "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
           "language": "Python",
-          "stars_total": 20559,
+          "stars_total": 20970,
           "stars_today": 551,
           "description_zh": "面向MCP和CLI的本地优先代码智能图谱。构建代码库的持久化映射，使AI编码工具仅读取关键内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 39381,
+          "stars_total": 39561,
           "stars_today": 507,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/PostHog/posthog",
           "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
           "language": "Python",
-          "stars_total": 36782,
+          "stars_total": 36876,
           "stars_today": 424,
           "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发者工具——AI可观测性、分析、会话回放、功能标志、实验、错误追踪、日志等——捕获代理诊断问题、发现机会和修复缺陷所需的所有上下文。可通过Slack、网页、桌面或MCP进行全方位操控。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/MoonshotAI/kimi-cli",
           "description_en": "Kimi Code CLI is your next CLI agent.",
           "language": "Python",
-          "stars_total": 9684,
+          "stars_total": 9816,
           "stars_today": 418,
           "description_zh": "Kimi Code CLI 是你的下一代CLI代理。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/lyogavin/airllm",
           "description_en": "AirLLM 70B inference with single 4GB GPU",
           "language": "Jupyter Notebook",
-          "stars_total": 23517,
+          "stars_total": 23583,
           "stars_today": 374,
           "description_zh": "AirLLM 70B推理，仅需单张4GB GPU"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/kvcache-ai/ktransformers",
           "description_en": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
           "language": "Python",
-          "stars_total": 18165,
+          "stars_total": 18282,
           "stars_today": 328,
           "description_zh": "一个用于体验异构LLM推理/微调优化的灵活框架"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/1jehuang/jcode",
           "description_en": "Coding Agent Harness",
           "language": "Rust",
-          "stars_total": 8684,
+          "stars_total": 8798,
           "stars_today": 199,
           "description_zh": "编码Agent工具集"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/trycua/cua",
           "description_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
           "language": "HTML",
-          "stars_total": 20161,
+          "stars_total": 20199,
           "stars_today": 136,
           "description_zh": "通过开源驱动、跨操作系统集群以及用于训练、评估和数据生成的基准测试，规模化计算机使用2.0。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/PKUFlyingPig/cs-self-learning",
           "description_en": "计算机自学指南",
           "language": "HTML",
-          "stars_total": 74062,
+          "stars_total": 74128,
           "stars_today": 128,
           "description_zh": "计算机自学指南"
         },
@@ -130,19 +130,19 @@
           "url": "https://github.com/Flowseal/zapret-discord-youtube",
           "description_en": "",
           "language": "Batchfile",
-          "stars_total": 30967,
+          "stars_total": 31007,
           "stars_today": 117,
           "description_zh": ""
         },
         {
           "rank": 14,
-          "name": "github/copilot-sdk",
-          "url": "https://github.com/github/copilot-sdk",
-          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-          "language": "Java",
-          "stars_total": 9887,
-          "stars_today": 111,
-          "description_zh": "用于将GitHub Copilot Agent集成到应用和服务中的多平台SDK"
+          "name": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "description_en": "The new Windows Terminal and the original Windows console host, all in the same place!",
+          "language": "C++",
+          "stars_total": 104120,
+          "stars_today": 103,
+          "description_zh": "全新的Windows终端和原版Windows控制台主机，齐聚一堂！"
         },
         {
           "rank": 15,
@@ -150,7 +150,7 @@
           "url": "https://github.com/Canner/WrenAI",
           "description_en": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
           "language": "Python",
-          "stars_total": 16057,
+          "stars_total": 16135,
           "stars_today": 96,
           "description_zh": "面向AI代理的GenBI（生成式商业智能），一个开源的、受控的文本到SQL工具，通过开放的上下文层将自然语言问题转化为可信的仪表盘、图表和SQL，支持BigQuery、Snowflake、PostgreSQL、ClickHouse、Amazon Redshift、Databricks等20多种数据源。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/AstrBotDevs/AstrBot",
           "description_en": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
           "language": "Python",
-          "stars_total": 36595,
+          "stars_total": 36657,
           "stars_today": 62,
           "description_zh": "集成众多即时通讯平台、LLM、插件和AI功能的AI Agent助手与开发框架，可作为OpenClaw的替代方案。✨"
         },
@@ -170,19 +170,19 @@
           "url": "https://github.com/andrewrabert/jellium-desktop",
           "description_en": "An unofficial desktop client for Jellyfin",
           "language": "Rust",
-          "stars_total": 1208,
-          "stars_today": 55,
+          "stars_total": 1256,
+          "stars_today": 54,
           "description_zh": "Jellyfin的非官方桌面客户端"
         },
         {
           "rank": 18,
-          "name": "microsoft/terminal",
-          "url": "https://github.com/microsoft/terminal",
-          "description_en": "The new Windows Terminal and the original Windows console host, all in the same place!",
-          "language": "C++",
-          "stars_total": 104032,
-          "stars_today": 13,
-          "description_zh": "全新的Windows终端和原版Windows控制台主机，齐聚一堂！"
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars_total": 9922,
+          "stars_today": 46,
+          "description_zh": "用于将GitHub Copilot Agent集成到应用和服务中的多平台SDK"
         }
       ]
     },
