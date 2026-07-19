@@ -1,6 +1,122 @@
 {
   "days": [
     {
+      "date": "2026-07-19",
+      "summary_zh": "今日GitHub热门项目聚焦AI三维重建、语义元数据标准化、开发者工具全栈化、本地优先代码智能图、低资源大模型推理及从零构建技术实践。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description_en": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars_total": 528296,
+          "stars_today": 1126,
+          "description_zh": "通过从零开始重建你喜爱的技术来掌握编程。"
+        },
+        {
+          "rank": 2,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars_total": 12973,
+          "stars_today": 831,
+          "description_zh": "一种前馈式3D基础模型，用于从流式数据中重建场景"
+        },
+        {
+          "rank": 3,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "language": "Python",
+          "stars_total": 20188,
+          "stars_today": 355,
+          "description_zh": "面向MCP和CLI的本地优先代码智能图谱。构建代码库的持久化映射，使AI编码工具仅读取关键内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
+        },
+        {
+          "rank": 4,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "language": "Python",
+          "stars_total": 36604,
+          "stars_today": 338,
+          "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发者工具——AI可观测性、分析、会话回放、功能标志、实验、错误追踪、日志等——捕获代理诊断问题、发现机会和修复缺陷所需的所有上下文。可通过Slack、网页、桌面或MCP进行全方位操控。"
+        },
+        {
+          "rank": 5,
+          "name": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "description_en": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+          "language": "TypeScript",
+          "stars_total": 1255,
+          "stars_today": 203,
+          "description_zh": "AI编码代理的首选网络——基于MCP的本地优先搜索、抓取、爬取与研究。无需API密钥，无需云服务，每次查询零成本。公测中。"
+        },
+        {
+          "rank": 6,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 39116,
+          "stars_today": 191,
+          "description_zh": "学习它。构建它。为他人交付它。"
+        },
+        {
+          "rank": 7,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description_en": "AirLLM 70B inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars_total": 23341,
+          "stars_today": 161,
+          "description_zh": "AirLLM 70B推理，仅需单张4GB GPU"
+        },
+        {
+          "rank": 8,
+          "name": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "description_en": "Skills for Design Engineers",
+          "language": "TypeScript",
+          "stars_total": 5040,
+          "stars_today": 123,
+          "description_zh": "面向设计工程师的技能"
+        },
+        {
+          "rank": 9,
+          "name": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "description_en": "LIBERATED AI CHAT",
+          "language": "TypeScript",
+          "stars_total": 9517,
+          "stars_today": 69,
+          "description_zh": "解放的AI聊天"
+        },
+        {
+          "rank": 10,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description_en": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars_total": 9503,
+          "stars_today": 65,
+          "description_zh": "Kimi Code CLI 是你的下一代CLI代理。"
+        },
+        {
+          "rank": 11,
+          "name": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "description_en": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+          "language": "Python",
+          "stars_total": 1281,
+          "stars_today": 47,
+          "description_zh": "Apache Ossie，一项行业范围的规范工作，旨在标准化跨分析、AI和BI平台交换语义元数据的方式，为语义数据提供供应商中立的单一事实来源"
+        }
+      ]
+    },
+    {
       "date": "2026-07-18",
       "summary_zh": "今日GitHub热门项目聚焦AI三维重建、语义元数据标准化、全栈开发工具链、本地优先代码智能图及自建技术实践，涵盖基础模型、平台工程与开源创新。",
       "projects": [
@@ -4911,162 +5027,6 @@
           "stars_total": 7362,
           "stars_today": 108,
           "description_zh": "编码智能体工具集"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "summary_zh": "今日GitHub热门项目聚焦AI代码智能与视频创作：代码库毫秒级知识图谱、时序预测模型、AI视频编辑器、智能体框架及令牌压缩工具，展现从编码到工程化的全栈AI生态。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "chopratejas/headroom",
-          "url": "https://github.com/chopratejas/headroom",
-          "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-          "language": "Python",
-          "stars_total": 38025,
-          "stars_today": 3938,
-          "description_zh": "在工具输出、日志、文件和RAG分块到达LLM之前进行压缩。减少60-95%的令牌，答案不变。提供库、代理、MCP服务器"
-        },
-        {
-          "rank": 2,
-          "name": "google-research/timesfm",
-          "url": "https://github.com/google-research/timesfm",
-          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-          "language": "Python",
-          "stars_total": 24004,
-          "stars_today": 1516,
-          "description_zh": "TimesFM（时间序列基础模型）是由谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。"
-        },
-        {
-          "rank": 3,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 233203,
-          "stars_today": 1113,
-          "description_zh": "一套行之有效的智能体技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 4,
-          "name": "DeusData/codebase-memory-mcp",
-          "url": "https://github.com/DeusData/codebase-memory-mcp",
-          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-          "language": "C",
-          "stars_total": 8003,
-          "stars_today": 1055,
-          "description_zh": "高性能代码智能MCP服务器。将代码库索引为持久化知识图谱——平均仓库处理时间毫秒级。支持158种语言，查询亚毫秒级响应，减少99%的令牌消耗。单一静态二进制文件，零依赖。"
-        },
-        {
-          "rank": 5,
-          "name": "palmier-io/palmier-pro",
-          "url": "https://github.com/palmier-io/palmier-pro",
-          "description_en": "macOS video editor built for AI",
-          "language": "Swift",
-          "stars_total": 1701,
-          "stars_today": 749,
-          "description_zh": "专为AI打造的macOS视频编辑器"
-        },
-        {
-          "rank": 6,
-          "name": "zai-org/GLM-5",
-          "url": "https://github.com/zai-org/GLM-5",
-          "description_en": "GLM-5: From Vibe Coding to Agentic Engineering",
-          "language": "",
-          "stars_total": 4488,
-          "stars_today": 478,
-          "description_zh": "GLM-5：从氛围编码到智能体工程"
-        },
-        {
-          "rank": 7,
-          "name": "penpot/penpot",
-          "url": "https://github.com/penpot/penpot",
-          "description_en": "Penpot: The open-source design tool for design and code collaboration",
-          "language": "Clojure",
-          "stars_total": 50503,
-          "stars_today": 318,
-          "description_zh": "Penpot：面向设计与代码协作的开源设计工具"
-        },
-        {
-          "rank": 8,
-          "name": "n0-computer/iroh",
-          "url": "https://github.com/n0-computer/iroh",
-          "description_en": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-          "language": "Rust",
-          "stars_total": 10215,
-          "stars_today": 307,
-          "description_zh": "IP地址会失效，改用拨号键。用Rust构建的模块化网络协议栈。"
-        },
-        {
-          "rank": 9,
-          "name": "withastro/flue",
-          "url": "https://github.com/withastro/flue",
-          "description_en": "The sandbox agent framework.",
-          "language": "TypeScript",
-          "stars_total": 5780,
-          "stars_today": 305,
-          "description_zh": "沙盒智能体框架。"
-        },
-        {
-          "rank": 10,
-          "name": "koala73/worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-          "language": "TypeScript",
-          "stars_total": 57097,
-          "stars_today": 300,
-          "description_zh": "实时全球情报仪表盘。在统一态势感知界面中，集成AI驱动的新闻聚合、地缘政治监控与基础设施追踪"
-        },
-        {
-          "rank": 11,
-          "name": "Kong/insomnia",
-          "url": "https://github.com/Kong/insomnia",
-          "description_en": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-          "language": "TypeScript",
-          "stars_total": 38908,
-          "stars_today": 291,
-          "description_zh": "开源的跨平台 API 客户端，支持 GraphQL、REST、WebSockets、SSE 和 gRPC。提供云端、本地和 Git 存储方式。"
-        },
-        {
-          "rank": 12,
-          "name": "calesthio/OpenMontage",
-          "url": "https://github.com/calesthio/OpenMontage",
-          "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-          "language": "Python",
-          "stars_total": 6151,
-          "stars_today": 236,
-          "description_zh": "全球首个开源智能体视频制作系统。12条流水线、52种工具、500+智能体技能。将您的AI编程助手转变为完整的视频制作工作室"
-        },
-        {
-          "rank": 13,
-          "name": "BuilderIO/agent-native",
-          "url": "https://github.com/BuilderIO/agent-native",
-          "description_en": "A framework for building agent-native applications.",
-          "language": "TypeScript",
-          "stars_total": 961,
-          "stars_today": 210,
-          "description_zh": "用于构建智能体原生应用的框架"
-        },
-        {
-          "rank": 14,
-          "name": "Lightricks/LTX-2",
-          "url": "https://github.com/Lightricks/LTX-2",
-          "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-          "language": "Python",
-          "stars_total": 7640,
-          "stars_today": 196,
-          "description_zh": "LTX-2 音频-视频生成模型的官方 Python 推理和 LoRA 训练器包。"
-        },
-        {
-          "rank": 15,
-          "name": "aishwaryanr/awesome-generative-ai-guide",
-          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-          "description_en": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-          "language": "HTML",
-          "stars_total": 27550,
-          "stars_today": 155,
-          "description_zh": "一站式生成式AI研究更新、面试资源、笔记本等内容的资源库！"
         }
       ]
     }
