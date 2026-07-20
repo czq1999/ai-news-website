@@ -2,57 +2,57 @@
   "days": [
     {
       "date": "2026-07-20",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：代码智能图谱、多模型网关、AI代理框架、语音克隆及SEO开源替代品，强调本地优先、上下文优化与多模态支持。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：代码智能图优化上下文、多模型API网关、AI代理框架、语音克隆工作室及开源SEO工具，强调本地优先与效率提升。",
       "projects": [
         {
           "rank": 1,
-          "name": "oblien/openship",
-          "url": "https://github.com/oblien/openship",
-          "description_en": "Self-hosted deployment platform",
-          "language": "TypeScript",
-          "stars_total": 4095,
-          "stars_today": 1719,
-          "description_zh": "自托管部署平台"
-        },
-        {
-          "rank": 2,
-          "name": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-          "language": "TypeScript",
-          "stars_total": 20872,
-          "stars_today": 1343,
-          "description_zh": "永不停止编码。免费MIT AI网关：一个端点，268+提供商（50+免费），500+模型——Claude、GPT、Gemini、Kimi K3、GLM、DeepSeek。兼容Claude Code、Codex、Cursor、Cline和Copilot。支持配额感知自动回退、RTK+Caveman压缩节省15-95%令牌、MCP/A2A、多模态、桌面/PWA。由500+贡献者构建。"
-        },
-        {
-          "rank": 3,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 134433,
-          "stars_today": 949,
-          "description_zh": "一个完整的AI机构触手可及——从前端魔法师到Reddit社区忍者，从奇思妙想注入者到现实检验者。每个智能体都是拥有个性、流程和可交付成果的领域专家。"
-        },
-        {
-          "rank": 4,
-          "name": "Robbyant/lingbot-map",
-          "url": "https://github.com/Robbyant/lingbot-map",
-          "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-          "language": "Python",
-          "stars_total": 13966,
-          "stars_today": 865,
-          "description_zh": "一个前馈式3D基础模型，用于从流式数据重建场景"
-        },
-        {
-          "rank": 5,
           "name": "tirth8205/code-review-graph",
           "url": "https://github.com/tirth8205/code-review-graph",
           "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
           "language": "Python",
-          "stars_total": 22477,
-          "stars_today": 663,
+          "stars_total": 22869,
+          "stars_today": 1876,
           "description_zh": "面向MCP和CLI的本地优先代码智能图谱。构建代码库的持久化映射，使AI编码工具仅读取关键内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
+        },
+        {
+          "rank": 2,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description_en": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars_total": 4554,
+          "stars_today": 1719,
+          "description_zh": "自托管部署平台"
+        },
+        {
+          "rank": 3,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+          "language": "TypeScript",
+          "stars_total": 21420,
+          "stars_today": 1300,
+          "description_zh": "永不停止编码。免费MIT AI网关：一个端点，268+提供商（50+免费），500+模型——Claude、GPT、Gemini、Kimi K3、GLM、DeepSeek。兼容Claude Code、Codex、Cursor、Cline和Copilot。支持配额感知自动回退、RTK+Caveman压缩节省15-95%令牌、MCP/A2A、多模态、桌面/PWA。由500+贡献者构建。"
+        },
+        {
+          "rank": 4,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description_en": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars_total": 5706,
+          "stars_today": 983,
+          "description_zh": "Semrush和Ahrefs的开源替代品"
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 40422,
+          "stars_today": 846,
+          "description_zh": "学习它。构建它。交付给他人。"
         },
         {
           "rank": 6,
@@ -60,139 +60,139 @@
           "url": "https://github.com/jamiepine/voicebox",
           "description_en": "The open-source AI voice studio. Clone, dictate, create.",
           "language": "TypeScript",
-          "stars_total": 43879,
-          "stars_today": 610,
+          "stars_total": 44047,
+          "stars_today": 839,
           "description_zh": "开源AI语音工作室。克隆、听写、创作。"
         },
         {
           "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 134597,
+          "stars_today": 744,
+          "description_zh": "一个完整的AI机构触手可及——从前端魔法师到Reddit社区忍者，从奇思妙想注入者到现实检验者。每个智能体都是拥有个性、流程和可交付成果的领域专家。"
+        },
+        {
+          "rank": 8,
           "name": "KnockOutEZ/wigolo",
           "url": "https://github.com/KnockOutEZ/wigolo",
           "description_en": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
           "language": "TypeScript",
-          "stars_total": 2268,
-          "stars_today": 595,
+          "stars_total": 2423,
+          "stars_today": 695,
           "description_zh": "你的AI编码代理的首选网络——基于MCP的本地优先搜索、抓取、爬取与研究。无需API密钥，无需云端，每次查询零成本。公开测试版。"
         },
         {
-          "rank": 8,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 40235,
-          "stars_today": 501,
-          "description_zh": "学习它。构建它。交付给他人。"
-        },
-        {
           "rank": 9,
-          "name": "microsoft/Ontology-Playground",
-          "url": "https://github.com/microsoft/Ontology-Playground",
-          "description_en": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
-          "language": "TypeScript",
-          "stars_total": 1568,
-          "stars_today": 487,
-          "description_zh": "免费开源Web应用，用于学习本体论和Microsoft Fabric IQ。浏览预构建本体目录，可视化设计本体，导出为RDF/XML，并分享交互式图表。零后端，完全静态。"
-        },
-        {
-          "rank": 10,
-          "name": "tokio-rs/topcoat",
-          "url": "https://github.com/tokio-rs/topcoat",
-          "description_en": "A batteries-included framework for building web apps",
-          "language": "Rust",
-          "stars_total": 1322,
-          "stars_today": 439,
-          "description_zh": "一个功能完备的Web应用开发框架"
-        },
-        {
-          "rank": 11,
-          "name": "MoonshotAI/kimi-cli",
-          "url": "https://github.com/MoonshotAI/kimi-cli",
-          "description_en": "Kimi Code CLI is your next CLI agent.",
-          "language": "Python",
-          "stars_total": 10103,
-          "stars_today": 410,
-          "description_zh": "Kimi Code CLI是你下一个CLI代理。"
-        },
-        {
-          "rank": 12,
-          "name": "handy-computer/transcribe.cpp",
-          "url": "https://github.com/handy-computer/transcribe.cpp",
-          "description_en": "ggml speech-to-text inference for 16+ model families",
-          "language": "C++",
-          "stars_total": 1071,
-          "stars_today": 401,
-          "description_zh": "支持16+模型系列的ggml语音转文本推理"
-        },
-        {
-          "rank": 13,
-          "name": "kvcache-ai/ktransformers",
-          "url": "https://github.com/kvcache-ai/ktransformers",
-          "description_en": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-          "language": "Python",
-          "stars_total": 18633,
-          "stars_today": 360,
-          "description_zh": "一个用于体验异构LLM推理/微调优化的灵活框架"
-        },
-        {
-          "rank": 14,
-          "name": "topoteretes/cognee",
-          "url": "https://github.com/topoteretes/cognee",
-          "description_en": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-          "language": "Python",
-          "stars_total": 28609,
-          "stars_today": 303,
-          "description_zh": "Cognee是面向智能体的开源AI记忆平台。通过自托管的知识图谱引擎，为你的AI智能体提供跨会话的持久长期记忆。"
-        },
-        {
-          "rank": 15,
-          "name": "moonshine-ai/moonshine",
-          "url": "https://github.com/moonshine-ai/moonshine",
-          "description_en": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
-          "language": "C++",
-          "stars_total": 9498,
-          "stars_today": 264,
-          "description_zh": "超低延迟的语音转文本、意图识别和文本转语音，用于构建语音智能体和界面"
-        },
-        {
-          "rank": 16,
           "name": "1jehuang/jcode",
           "url": "https://github.com/1jehuang/jcode",
           "description_en": "The most intelligent agent harness for code",
           "language": "Rust",
-          "stars_total": 9303,
-          "stars_today": 235,
+          "stars_total": 9487,
+          "stars_today": 612,
           "description_zh": "编码代理工具集"
         },
         {
-          "rank": 17,
-          "name": "every-app/open-seo",
-          "url": "https://github.com/every-app/open-seo",
-          "description_en": "Open source alternative to Semrush and Ahrefs",
-          "language": "TypeScript",
-          "stars_total": 5477,
-          "stars_today": 222,
-          "description_zh": "Semrush和Ahrefs的开源替代品"
+          "rank": 10,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars_total": 14110,
+          "stars_today": 554,
+          "description_zh": "一个前馈式3D基础模型，用于从流式数据重建场景"
         },
         {
-          "rank": 18,
-          "name": "iptv-org/iptv",
-          "url": "https://github.com/iptv-org/iptv",
-          "description_en": "Collection of publicly available IPTV channels from all over the world",
+          "rank": 11,
+          "name": "microsoft/Ontology-Playground",
+          "url": "https://github.com/microsoft/Ontology-Playground",
+          "description_en": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
           "language": "TypeScript",
-          "stars_total": 133588,
-          "stars_today": 144,
-          "description_zh": "来自全球的公开IPTV频道集合"
+          "stars_total": 1665,
+          "stars_today": 487,
+          "description_zh": "免费开源Web应用，用于学习本体论和Microsoft Fabric IQ。浏览预构建本体目录，可视化设计本体，导出为RDF/XML，并分享交互式图表。零后端，完全静态。"
         },
         {
-          "rank": 19,
+          "rank": 12,
+          "name": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description_en": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+          "language": "Python",
+          "stars_total": 18698,
+          "stars_today": 448,
+          "description_zh": "一个用于体验异构LLM推理/微调优化的灵活框架"
+        },
+        {
+          "rank": 13,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description_en": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars_total": 10178,
+          "stars_today": 405,
+          "description_zh": "Kimi Code CLI是你下一个CLI代理。"
+        },
+        {
+          "rank": 14,
+          "name": "handy-computer/transcribe.cpp",
+          "url": "https://github.com/handy-computer/transcribe.cpp",
+          "description_en": "ggml speech-to-text inference for 16+ model families",
+          "language": "C++",
+          "stars_total": 1175,
+          "stars_today": 401,
+          "description_zh": "支持16+模型系列的ggml语音转文本推理"
+        },
+        {
+          "rank": 15,
+          "name": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "description_en": "A batteries-included framework for building web apps",
+          "language": "Rust",
+          "stars_total": 1433,
+          "stars_today": 374,
+          "description_zh": "一个功能完备的Web应用开发框架"
+        },
+        {
+          "rank": 16,
           "name": "AstrBotDevs/AstrBot",
           "url": "https://github.com/AstrBotDevs/AstrBot",
           "description_en": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
           "language": "Python",
-          "stars_total": 36930,
-          "stars_today": 83,
+          "stars_total": 37022,
+          "stars_today": 330,
           "description_zh": "集成众多即时通讯平台、LLM、插件和AI功能的AI代理助手及开发框架，可作为你的openclaw替代方案。✨"
+        },
+        {
+          "rank": 17,
+          "name": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "description_en": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+          "language": "C++",
+          "stars_total": 9702,
+          "stars_today": 264,
+          "description_zh": "超低延迟的语音转文本、意图识别和文本转语音，用于构建语音智能体和界面"
+        },
+        {
+          "rank": 18,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description_en": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+          "language": "Python",
+          "stars_total": 28705,
+          "stars_today": 249,
+          "description_zh": "Cognee是面向智能体的开源AI记忆平台。通过自托管的知识图谱引擎，为你的AI智能体提供跨会话的持久长期记忆。"
+        },
+        {
+          "rank": 19,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description_en": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars_total": 133696,
+          "stars_today": 144,
+          "description_zh": "来自全球的公开IPTV频道集合"
         },
         {
           "rank": 20,
@@ -200,7 +200,7 @@
           "url": "https://github.com/PrefectHQ/fastmcp",
           "description_en": "🚀 The fast, Pythonic way to build MCP servers and clients.",
           "language": "Python",
-          "stars_total": 26392,
+          "stars_total": 26478,
           "stars_today": 77,
           "description_zh": "🚀 快速、Pythonic的MCP服务器和客户端构建方式。"
         }
