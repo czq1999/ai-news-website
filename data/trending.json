@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-22",
-      "summary_zh": "今日GitHub热门项目聚焦AI赋能：实时全球监控、WiFi空间感知、金融模型、语音克隆，以及安全传输、架构可视化等工具，展现AI与实用技术的深度融合。",
+      "summary_zh": "今日GitHub热门项目聚焦AI监控、无线感知、代码优化、安全传输、架构可视化、语音克隆及金融模型，涵盖开源工具与经典代码。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/koala73/worldmonitor",
           "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
           "language": "TypeScript",
-          "stars_total": 67651,
+          "stars_total": 68447,
           "stars_today": 4131,
           "description_zh": "实时全球情报仪表盘。基于AI的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/ayghri/i-have-adhd",
           "description_en": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
           "language": "Python",
-          "stars_total": 7713,
+          "stars_total": 8023,
           "stars_today": 1682,
           "description_zh": "为你的编码智能体设计的技能，防止它埋没答案。适配多动症患者的输出方式。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/diegosouzapw/OmniRoute",
           "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
           "language": "TypeScript",
-          "stars_total": 24437,
+          "stars_total": 24917,
           "stars_today": 1648,
           "description_zh": "永不停歇的编码。免费MIT许可AI网关：一个端点，268+提供商（50+免费），500+模型——Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。兼容Claude Code、Codex、Cursor、OpenCode、Cline和Copilot。支持配额感知自动回退、RTK+Caveman压缩节省15-95%令牌、MCP/A2A、桌面端/PWA。由500+贡献者构建。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/oblien/openship",
           "description_en": "Self-hosted deployment platform",
           "language": "TypeScript",
-          "stars_total": 6879,
+          "stars_total": 7130,
           "stars_today": 1304,
           "description_zh": "自托管的部署平台。"
         },
@@ -50,49 +50,49 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 83077,
-          "stars_today": 1114,
+          "stars_total": 83510,
+          "stars_today": 875,
           "description_zh": "π RuView 将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
         {
           "rank": 6,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 41873,
-          "stars_today": 1007,
-          "description_zh": "学习它。构建它。为他人交付。"
-        },
-        {
-          "rank": 7,
           "name": "tirth8205/code-review-graph",
           "url": "https://github.com/tirth8205/code-review-graph",
           "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
           "language": "Python",
-          "stars_total": 25089,
+          "stars_total": 25214,
           "stars_today": 872,
           "description_zh": "面向MCP和CLI的本地优先代码智能图谱。构建代码库的持久化映射，使AI编码工具仅读取关键内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "chrislgarry/Apollo-11",
           "url": "https://github.com/chrislgarry/Apollo-11",
           "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
           "language": "Assembly",
-          "stars_total": 70338,
+          "stars_total": 70501,
           "stars_today": 766,
           "description_zh": "阿波罗11号指令舱和登月舱的原始制导计算机（AGC）源代码。"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "schollz/croc",
           "url": "https://github.com/schollz/croc",
           "description_en": "Easily and securely send things from one computer to another 🐊 📦",
           "language": "Go",
-          "stars_total": 37215,
+          "stars_total": 37427,
           "stars_today": 737,
           "description_zh": "轻松安全地在两台计算机之间传输文件 🐊 📦"
+        },
+        {
+          "rank": 9,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 42095,
+          "stars_today": 688,
+          "description_zh": "学习它。构建它。为他人交付。"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/jamiepine/voicebox",
           "description_en": "The open-source AI voice studio. Clone, dictate, create.",
           "language": "TypeScript",
-          "stars_total": 45435,
+          "stars_total": 45611,
           "stars_today": 565,
           "description_zh": "开源AI语音工作室。克隆、听写、创作。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/DioxusLabs/dioxus",
           "description_en": "Fullstack app framework for web, desktop, and mobile.",
           "language": "Rust",
-          "stars_total": 37887,
+          "stars_total": 37947,
           "stars_today": 411,
           "description_zh": "适用于Web、桌面和移动端的全栈应用框架。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/dottxt-ai/outlines",
           "description_en": "Structured Outputs",
           "language": "Python",
-          "stars_total": 15010,
+          "stars_total": 15063,
           "stars_today": 362,
           "description_zh": "结构化输出。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/hyprwm/Hyprland",
           "description_en": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
           "language": "C++",
-          "stars_total": 37194,
+          "stars_total": 37249,
           "stars_today": 353,
           "description_zh": "Hyprland是一个独立、高度可定制、动态平铺的Wayland合成器，且不牺牲外观。"
         },
@@ -140,59 +140,59 @@
           "url": "https://github.com/agegr/pi-web",
           "description_en": "Web UI for the pi coding agent",
           "language": "TypeScript",
-          "stars_total": 1945,
+          "stars_total": 2035,
           "stars_today": 314,
           "description_zh": "pi编码智能体的Web用户界面。"
         },
         {
           "rank": 15,
-          "name": "ComposioHQ/awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-          "language": "Python",
-          "stars_total": 68531,
-          "stars_today": 155,
-          "description_zh": "精选的Claude技能、资源和工具列表，用于定制Claude AI工作流。"
-        },
-        {
-          "rank": 16,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 32451,
-          "stars_today": 134,
-          "description_zh": "Kronos：金融市场语言的基础模型。"
-        },
-        {
-          "rank": 17,
-          "name": "Pumpkin-MC/Pumpkin",
-          "url": "https://github.com/Pumpkin-MC/Pumpkin",
-          "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
-          "language": "Rust",
-          "stars_total": 8146,
-          "stars_today": 96,
-          "description_zh": "赋能每个人托管快速高效的Minecraft服务器。"
-        },
-        {
-          "rank": 18,
-          "name": "dreamhunter2333/cloudflare_temp_email",
-          "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
-          "description_en": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-          "language": "TypeScript",
-          "stars_total": 10702,
-          "stars_today": 60,
-          "description_zh": "CloudFlare免费临时域名邮箱，支持收发、附件、IMAP、SMTP、TelegramBot。"
-        },
-        {
-          "rank": 19,
           "name": "likec4/likec4",
           "url": "https://github.com/likec4/likec4",
           "description_en": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
           "language": "TypeScript",
-          "stars_total": 4103,
-          "stars_today": 58,
+          "stars_total": 4196,
+          "stars_today": 172,
           "description_zh": "通过代码生成始终实时且动态的图表，可视化、协作并演进软件架构。"
+        },
+        {
+          "rank": 16,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars_total": 68669,
+          "stars_today": 155,
+          "description_zh": "精选的Claude技能、资源和工具列表，用于定制Claude AI工作流。"
+        },
+        {
+          "rank": 17,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 32537,
+          "stars_today": 134,
+          "description_zh": "Kronos：金融市场语言的基础模型。"
+        },
+        {
+          "rank": 18,
+          "name": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
+          "language": "Rust",
+          "stars_total": 8299,
+          "stars_today": 96,
+          "description_zh": "赋能每个人托管快速高效的Minecraft服务器。"
+        },
+        {
+          "rank": 19,
+          "name": "dreamhunter2333/cloudflare_temp_email",
+          "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+          "description_en": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+          "language": "TypeScript",
+          "stars_total": 10764,
+          "stars_today": 60,
+          "description_zh": "CloudFlare免费临时域名邮箱，支持收发、附件、IMAP、SMTP、TelegramBot。"
         }
       ]
     },
