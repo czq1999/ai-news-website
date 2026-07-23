@@ -1,6 +1,202 @@
 {
   "days": [
     {
+      "date": "2026-07-23",
+      "summary_zh": "今日GitHub热门项目聚焦AI监控、无线感知、代码优化、安全传输、架构可视化、语音克隆及金融模型，展现AI与实用工具融合趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars_total": 69096,
+          "stars_today": 4139,
+          "description_zh": "实时全球情报仪表盘。基于AI的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面。"
+        },
+        {
+          "rank": 2,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description_en": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars_total": 8337,
+          "stars_today": 1699,
+          "description_zh": "为你的编程代理设计的技能，防止它埋没答案。适合ADHD患者的输出方式。"
+        },
+        {
+          "rank": 3,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "language": "TypeScript",
+          "stars_total": 25382,
+          "stars_today": 1651,
+          "description_zh": "永不停歇的编码。免费MIT AI网关：一个端点，268+提供商（50+免费），500+模型——Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。兼容Claude Code、Codex、Cursor、OpenCode、Cline和Copilot。支持配额感知自动回退、RTK+Caveman压缩节省15-95%令牌、MCP/A2A、桌面/PWA。由500+贡献者构建。"
+        },
+        {
+          "rank": 4,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description_en": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars_total": 7332,
+          "stars_today": 1302,
+          "description_zh": "自托管部署平台。"
+        },
+        {
+          "rank": 5,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "language": "Python",
+          "stars_total": 25342,
+          "stars_today": 882,
+          "description_zh": "用于MCP和CLI的本地优先代码智能图。构建代码库的持久映射，使AI编码工具只读取关键内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
+        },
+        {
+          "rank": 6,
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars_total": 70633,
+          "stars_today": 768,
+          "description_zh": "阿波罗11号指令舱和登月舱的原始制导计算机（AGC）源代码。"
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 83873,
+          "stars_today": 741,
+          "description_zh": "π RuView 将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——无需任何视频像素。"
+        },
+        {
+          "rank": 8,
+          "name": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "description_en": "Easily and securely send things from one computer to another 🐊 📦",
+          "language": "Go",
+          "stars_total": 37639,
+          "stars_today": 739,
+          "description_zh": "轻松安全地在两台电脑之间传输文件 🐊 📦"
+        },
+        {
+          "rank": 9,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 42286,
+          "stars_today": 652,
+          "description_zh": "学习它。构建它。为他人发布它。"
+        },
+        {
+          "rank": 10,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars_total": 45801,
+          "stars_today": 557,
+          "description_zh": "开源AI语音工作室。克隆、听写、创作。"
+        },
+        {
+          "rank": 11,
+          "name": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "description_en": "Fullstack app framework for web, desktop, and mobile.",
+          "language": "Rust",
+          "stars_total": 38027,
+          "stars_today": 420,
+          "description_zh": "用于Web、桌面和移动端的全栈应用框架。"
+        },
+        {
+          "rank": 12,
+          "name": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "description_en": "Structured Outputs",
+          "language": "Python",
+          "stars_total": 15111,
+          "stars_today": 364,
+          "description_zh": "结构化输出。"
+        },
+        {
+          "rank": 13,
+          "name": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "description_en": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+          "language": "C++",
+          "stars_total": 37301,
+          "stars_today": 356,
+          "description_zh": "Hyprland是一个独立、高度可定制、动态平铺的Wayland合成器，且不牺牲外观。"
+        },
+        {
+          "rank": 14,
+          "name": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "description_en": "Web UI for the pi coding agent",
+          "language": "TypeScript",
+          "stars_total": 2089,
+          "stars_today": 314,
+          "description_zh": "pi编程代理的Web用户界面。"
+        },
+        {
+          "rank": 15,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars_total": 68808,
+          "stars_today": 163,
+          "description_zh": "精选的Claude技能、资源和工具列表，用于定制Claude AI工作流。"
+        },
+        {
+          "rank": 16,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 32620,
+          "stars_today": 137,
+          "description_zh": "Kronos：金融市场语言的基础模型。"
+        },
+        {
+          "rank": 17,
+          "name": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
+          "language": "Rust",
+          "stars_total": 8441,
+          "stars_today": 108,
+          "description_zh": "赋能每个人托管快速高效的Minecraft服务器。"
+        },
+        {
+          "rank": 18,
+          "name": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "description_en": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+          "language": "TypeScript",
+          "stars_total": 4297,
+          "stars_today": 80,
+          "description_zh": "通过代码中始终实时且动态的图表，可视化、协作并演进软件架构。"
+        },
+        {
+          "rank": 19,
+          "name": "dreamhunter2333/cloudflare_temp_email",
+          "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+          "description_en": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+          "language": "TypeScript",
+          "stars_total": 10814,
+          "stars_today": 68,
+          "description_zh": "CloudFlare免费临时域名邮箱，支持收发、附件、IMAP、SMTP、TelegramBot。"
+        }
+      ]
+    },
+    {
       "date": "2026-07-22",
       "summary_zh": "今日GitHub热门项目聚焦AI监控、无线感知、代码优化、安全传输、架构可视化、语音克隆及金融模型，涵盖开源工具与经典代码。",
       "projects": [
@@ -5031,172 +5227,6 @@
           "stars_total": 177248,
           "stars_today": 44,
           "description_zh": "Flutter让为移动端及更多平台构建精美应用变得简单而快速。"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-23",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理与自动化：视频制作、股票分析、网络安全、CEO工具、长周期任务代理、全球监控及视频编辑，展现AI代理在各领域的深度应用。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "calesthio/OpenMontage",
-          "url": "https://github.com/calesthio/OpenMontage",
-          "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-          "language": "Python",
-          "stars_total": 15199,
-          "stars_today": 3590,
-          "description_zh": "全球首个开源智能视频制作系统。包含12条流水线、52个工具、500+智能体技能。将你的AI编程助手转变为完整的视频制作工作室。"
-        },
-        {
-          "rank": 2,
-          "name": "palmier-io/palmier-pro",
-          "url": "https://github.com/palmier-io/palmier-pro",
-          "description_en": "macOS video editor built for AI",
-          "language": "Swift",
-          "stars_total": 8337,
-          "stars_today": 1631,
-          "description_zh": "为AI打造的macOS视频编辑器"
-        },
-        {
-          "rank": 3,
-          "name": "DeusData/codebase-memory-mcp",
-          "url": "https://github.com/DeusData/codebase-memory-mcp",
-          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-          "language": "C",
-          "stars_total": 12690,
-          "stars_today": 1299,
-          "description_zh": "高性能代码智能MCP服务器。将代码库索引为持久化知识图谱——平均仓库处理时间毫秒级。支持158种语言，亚毫秒级查询，减少99%的令牌消耗。单一静态二进制文件，零依赖。"
-        },
-        {
-          "rank": 4,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 46915,
-          "stars_today": 1121,
-          "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
-        },
-        {
-          "rank": 5,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
-          "language": "TypeScript",
-          "stars_total": 33041,
-          "stars_today": 1042,
-          "description_zh": "开源AI语音工作室。克隆、听写、创作。"
-        },
-        {
-          "rank": 6,
-          "name": "mukul975/Anthropic-Cybersecurity-Skills",
-          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-          "language": "Python",
-          "stars_total": 19522,
-          "stars_today": 1040,
-          "description_zh": "817项面向AI智能体的结构化网络安全技能·映射至6大框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF及MITRE F3（反欺诈）·符合agentskills.io标准·兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20+平台·覆盖29个安全领域·Apache 2.0许可"
-        },
-        {
-          "rank": 7,
-          "name": "garrytan/gstack",
-          "url": "https://github.com/garrytan/gstack",
-          "description_en": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-          "language": "TypeScript",
-          "stars_total": 113948,
-          "stars_today": 1012,
-          "description_zh": "使用Garry Tan的精确Claude Code配置：23个定制化工具，分别扮演CEO、设计师、工程经理、发布经理、文档工程师和QA角色"
-        },
-        {
-          "rank": 8,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 200796,
-          "stars_today": 933,
-          "description_zh": "与你一同成长的智能体"
-        },
-        {
-          "rank": 9,
-          "name": "JCodesMore/ai-website-cloner-template",
-          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-          "description_en": "Clone any website with one command using AI coding agents",
-          "language": "TypeScript",
-          "stars_total": 18439,
-          "stars_today": 827,
-          "description_zh": "使用AI编程代理，一条命令即可克隆任何网站"
-        },
-        {
-          "rank": 10,
-          "name": "bytedance/deer-flow",
-          "url": "https://github.com/bytedance/deer-flow",
-          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-          "language": "Python",
-          "stars_total": 73831,
-          "stars_today": 741,
-          "description_zh": "开源长周期超级智能体框架，可进行调研、编码和创作。借助沙箱、记忆、工具、技能、子智能体和消息网关，处理从几分钟到数小时的不同级别任务。"
-        },
-        {
-          "rank": 11,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 220392,
-          "stars_today": 582,
-          "description_zh": "智能体工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持"
-        },
-        {
-          "rank": 12,
-          "name": "shanraisshan/claude-code-best-practice",
-          "url": "https://github.com/shanraisshan/claude-code-best-practice",
-          "description_en": "from vibe coding to agentic engineering - practice makes claude perfect",
-          "language": "HTML",
-          "stars_total": 59312,
-          "stars_today": 329,
-          "description_zh": "从随性编码到智能体工程——实践让Claude更完美"
-        },
-        {
-          "rank": 13,
-          "name": "koala73/worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-          "language": "TypeScript",
-          "stars_total": 58966,
-          "stars_today": 279,
-          "description_zh": "实时全球情报仪表盘。基于AI的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面"
-        },
-        {
-          "rank": 14,
-          "name": "byoungd/English-level-up-tips",
-          "url": "https://github.com/byoungd/English-level-up-tips",
-          "description_en": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-          "language": "",
-          "stars_total": 54471,
-          "stars_today": 151,
-          "description_zh": "一份可能让你受益匪浅的英语进阶指南🎉。人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语"
-        },
-        {
-          "rank": 15,
-          "name": "revfactory/harness",
-          "url": "https://github.com/revfactory/harness",
-          "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-          "language": "HTML",
-          "stars_total": 7396,
-          "stars_today": 123,
-          "description_zh": "一种元技能，用于设计特定领域的智能体团队、定义专业智能体并生成它们所使用的技能"
-        },
-        {
-          "rank": 16,
-          "name": "anthropics/claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-          "language": "Python",
-          "stars_total": 30786,
-          "stars_today": 66,
-          "description_zh": "Anthropic官方管理的优质Claude Code插件目录"
         }
       ]
     }
