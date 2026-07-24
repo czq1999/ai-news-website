@@ -2,97 +2,97 @@
   "days": [
     {
       "date": "2026-07-24",
-      "summary_zh": "今日GitHub热门项目聚焦AI协作生态：智能体浏览器、多模型网关、金融大模型及实时情报监控，同时涵盖Minecraft服务器优化与阿波罗11号原始代码。",
+      "summary_zh": "今日GitHub热门项目聚焦AI协作、实时监控、隐私工具与高效开发，涵盖蜂巢思维平台、全球情报仪表盘、Claude技能库、Minecraft服务器、金融模型、语法检查、架构可视化、AI浏览器、终端文件管理器及WiFi空间感知技术。",
       "projects": [
         {
           "rank": 1,
-          "name": "koala73/worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-          "language": "TypeScript",
-          "stars_total": 72325,
-          "stars_today": 3175,
-          "description_zh": "实时全球情报仪表盘。基于AI的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面"
-        },
-        {
-          "rank": 2,
           "name": "block/buzz",
           "url": "https://github.com/block/buzz",
           "description_en": "A hive mind communication platform",
           "language": "Rust",
-          "stars_total": 7869,
-          "stars_today": 2162,
+          "stars_total": 8609,
+          "stars_today": 3274,
           "description_zh": "一个蜂群思维通信平台"
         },
         {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 185997,
+          "stars_today": 2224,
+          "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+        },
+        {
           "rank": 3,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars_total": 72780,
+          "stars_today": 2194,
+          "description_zh": "实时全球情报仪表盘。基于AI的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面"
+        },
+        {
+          "rank": 4,
           "name": "diegosouzapw/OmniRoute",
           "url": "https://github.com/diegosouzapw/OmniRoute",
           "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
           "language": "TypeScript",
-          "stars_total": 27780,
-          "stars_today": 1929,
+          "stars_total": 28150,
+          "stars_today": 1843,
           "description_zh": "永不停歇的编码。免费MIT AI网关：一个端点，290+提供商（90+免费），500+模型——Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。兼容Claude Code、Codex、Cursor、OpenCode、Cline和Copilot。配额感知自动回退，RTK+Caveman压缩节省15-95%令牌，MCP/A2A，桌面/PWA。由500+贡献者构建"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "ruvnet/RuView",
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 85467,
-          "stars_today": 1708,
+          "stars_total": 85648,
+          "stars_today": 1021,
           "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素"
         },
         {
-          "rank": 5,
-          "name": "ComposioHQ/awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-          "language": "Python",
-          "stars_total": 69659,
-          "stars_today": 636,
-          "description_zh": "精心整理的Claude技能、资源和工具列表，用于定制Claude AI工作流"
+          "rank": 6,
+          "name": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description_en": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "language": "JavaScript",
+          "stars_total": 2165,
+          "stars_today": 884,
+          "description_zh": "最适合您和您的AI代理并行工作的浏览器"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Automattic/harper",
           "url": "https://github.com/Automattic/harper",
           "description_en": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
           "language": "Rust",
-          "stars_total": 12583,
-          "stars_today": 624,
+          "stars_total": 12743,
+          "stars_today": 877,
           "description_zh": "离线、隐私优先的语法检查器。快速、开源、基于Rust"
         },
         {
-          "rank": 7,
-          "name": "chrislgarry/Apollo-11",
-          "url": "https://github.com/chrislgarry/Apollo-11",
-          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-          "language": "Assembly",
-          "stars_total": 71213,
-          "stars_today": 592,
-          "description_zh": "阿波罗11号指令舱和登月舱的原始制导计算机（AGC）源代码"
-        },
-        {
           "rank": 8,
-          "name": "Pumpkin-MC/Pumpkin",
-          "url": "https://github.com/Pumpkin-MC/Pumpkin",
-          "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
-          "language": "Rust",
-          "stars_total": 9072,
-          "stars_today": 565,
-          "description_zh": "赋能每个人托管快速高效的Minecraft服务器"
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars_total": 69797,
+          "stars_today": 662,
+          "description_zh": "精心整理的Claude技能、资源和工具列表，用于定制Claude AI工作流"
         },
         {
           "rank": 9,
-          "name": "likec4/likec4",
-          "url": "https://github.com/likec4/likec4",
-          "description_en": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-          "language": "TypeScript",
-          "stars_total": 4819,
-          "stars_today": 472,
-          "description_zh": "通过代码中始终实时且生动的图表，可视化、协作并演进软件架构"
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description_en": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars_total": 44868,
+          "stars_today": 654,
+          "description_zh": "《动手学大模型Dive into LLMs》系列编程实践教程"
         },
         {
           "rank": 10,
@@ -100,59 +100,69 @@
           "url": "https://github.com/shiyu-coder/Kronos",
           "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
           "language": "Python",
-          "stars_total": 33247,
-          "stars_today": 401,
+          "stars_total": 33352,
+          "stars_today": 506,
           "description_zh": "Kronos：金融市场语言的基础模型"
         },
         {
           "rank": 11,
-          "name": "agegr/pi-web",
-          "url": "https://github.com/agegr/pi-web",
-          "description_en": "Web UI for the pi coding agent",
-          "language": "TypeScript",
-          "stars_total": 2503,
-          "stars_today": 315,
-          "description_zh": "pi编码代理的Web用户界面"
+          "name": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
+          "language": "Rust",
+          "stars_total": 9170,
+          "stars_today": 472,
+          "description_zh": "赋能每个人托管快速高效的Minecraft服务器"
         },
         {
           "rank": 12,
-          "name": "citrolabs/ego-lite",
-          "url": "https://github.com/citrolabs/ego-lite",
-          "description_en": "The best browser for both you and your AI agents work in parallel.",
-          "language": "JavaScript",
-          "stars_total": 1980,
-          "stars_today": 247,
-          "description_zh": "最适合您和您的AI代理并行工作的浏览器"
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars_total": 71284,
+          "stars_today": 409,
+          "description_zh": "阿波罗11号指令舱和登月舱的原始制导计算机（AGC）源代码"
         },
         {
           "rank": 13,
-          "name": "earthtojake/text-to-cad",
-          "url": "https://github.com/earthtojake/text-to-cad",
-          "description_en": "A collection of agent skills for CAD, robotics and hardware design",
-          "language": "JavaScript",
-          "stars_total": 10212,
-          "stars_today": 230,
-          "description_zh": "面向CAD、机器人和硬件设计的代理技能集合"
+          "name": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "description_en": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+          "language": "TypeScript",
+          "stars_total": 4888,
+          "stars_today": 339,
+          "description_zh": "通过代码中始终实时且生动的图表，可视化、协作并演进软件架构"
         },
         {
           "rank": 14,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "name": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "description_en": "Pretty fancy and modern terminal file manager",
           "language": "Go",
-          "stars_total": 11935,
-          "stars_today": 180,
-          "description_zh": "开源免费——在阿里巴巴规模下经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置微调规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic"
+          "stars_total": 19179,
+          "stars_today": 312,
+          "description_zh": "一款非常时尚现代的终端文件管理器"
         },
         {
           "rank": 15,
-          "name": "jellyfin/jellyfin",
-          "url": "https://github.com/jellyfin/jellyfin",
-          "description_en": "The Free Software Media System - Server Backend & API",
-          "language": "C#",
-          "stars_total": 54840,
-          "stars_today": 66,
-          "description_zh": "自由软件媒体系统——服务器后端与API"
+          "name": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description_en": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+          "language": "TypeScript",
+          "stars_total": 4073,
+          "stars_today": 179,
+          "description_zh": "Webflow、Framer 和 WordPress 的开源替代品。智能自托管可视化 CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一应俱全。"
+        },
+        {
+          "rank": 16,
+          "name": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "description_en": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+          "language": "Java",
+          "stars_total": 26163,
+          "stars_today": 173,
+          "description_zh": "🔥🔥🔥 AI驱动的数据库工具和SQL客户端，最热门的GUI客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse等。"
         }
       ]
     },
