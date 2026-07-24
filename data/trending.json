@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-07-24",
+      "summary_zh": "今日GitHub热门项目聚焦AI协作生态：蜂巢思维平台、全球情报监控、金融大模型、AI浏览器、统一AI网关及Claude技能库，展现多智能体协同与开源创新趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars_total": 71697,
+          "stars_today": 3175,
+          "description_zh": "实时全球情报仪表盘。基于AI的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面"
+        },
+        {
+          "rank": 2,
+          "name": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "description_en": "A hive mind communication platform",
+          "language": "Rust",
+          "stars_total": 7026,
+          "stars_today": 2162,
+          "description_zh": "一个蜂群思维通信平台"
+        },
+        {
+          "rank": 3,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "language": "TypeScript",
+          "stars_total": 27277,
+          "stars_today": 1929,
+          "description_zh": "永不停歇的编码。免费MIT AI网关：一个端点，290+提供商（90+免费），500+模型——Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。兼容Claude Code、Codex、Cursor、OpenCode、Cline和Copilot。配额感知自动回退，RTK+Caveman压缩节省15-95%令牌，MCP/A2A，桌面/PWA。由500+贡献者构建"
+        },
+        {
+          "rank": 4,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 85242,
+          "stars_today": 1708,
+          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素"
+        },
+        {
+          "rank": 5,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars_total": 69460,
+          "stars_today": 636,
+          "description_zh": "精心整理的Claude技能、资源和工具列表，用于定制Claude AI工作流"
+        },
+        {
+          "rank": 6,
+          "name": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "description_en": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+          "language": "Rust",
+          "stars_total": 12354,
+          "stars_today": 624,
+          "description_zh": "离线、隐私优先的语法检查器。快速、开源、基于Rust"
+        },
+        {
+          "rank": 7,
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars_total": 71126,
+          "stars_today": 592,
+          "description_zh": "阿波罗11号指令舱和登月舱的原始制导计算机（AGC）源代码"
+        },
+        {
+          "rank": 8,
+          "name": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
+          "language": "Rust",
+          "stars_total": 8946,
+          "stars_today": 565,
+          "description_zh": "赋能每个人托管快速高效的Minecraft服务器"
+        },
+        {
+          "rank": 9,
+          "name": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "description_en": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+          "language": "TypeScript",
+          "stars_total": 4710,
+          "stars_today": 472,
+          "description_zh": "通过代码中始终实时且生动的图表，可视化、协作并演进软件架构"
+        },
+        {
+          "rank": 10,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 33088,
+          "stars_today": 401,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 11,
+          "name": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "description_en": "Web UI for the pi coding agent",
+          "language": "TypeScript",
+          "stars_total": 2382,
+          "stars_today": 315,
+          "description_zh": "pi编码代理的Web用户界面"
+        },
+        {
+          "rank": 12,
+          "name": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description_en": "The best browser for both you and your AI agents work in parallel.",
+          "language": "JavaScript",
+          "stars_total": 1699,
+          "stars_today": 247,
+          "description_zh": "最适合您和您的AI代理并行工作的浏览器"
+        },
+        {
+          "rank": 13,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description_en": "A collection of agent skills for CAD, robotics and hardware design",
+          "language": "JavaScript",
+          "stars_total": 10019,
+          "stars_today": 230,
+          "description_zh": "面向CAD、机器人和硬件设计的代理技能集合"
+        },
+        {
+          "rank": 14,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 11592,
+          "stars_today": 180,
+          "description_zh": "开源免费——在阿里巴巴规模下经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置微调规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic"
+        },
+        {
+          "rank": 15,
+          "name": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "description_en": "The Free Software Media System - Server Backend & API",
+          "language": "C#",
+          "stars_total": 54747,
+          "stars_today": 66,
+          "description_zh": "自由软件媒体系统——服务器后端与API"
+        }
+      ]
+    },
+    {
       "date": "2026-07-23",
       "summary_zh": "今日GitHub热门项目聚焦AI协作生态：蜂巢思维平台、实时全球情报仪表盘、金融大模型、AI浏览器、多模型网关及Claude技能工具，展现AI与多领域深度融合趋势。",
       "projects": [
@@ -5061,142 +5217,6 @@
           "stars_total": 1099,
           "stars_today": 15,
           "description_zh": "AWS官方支持的MCP服务器、技能和插件，帮助AI智能体在AWS上构建应用。"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-24",
-      "summary_zh": "今日GitHub热门项目聚焦AI视频制作、智能股票分析、容器工具及AI代理应用，涵盖开源视频生产系统、多市场股票分析、Mac容器工具、简历评估AI、网站克隆、代理团队设计等前沿技术。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "calesthio/OpenMontage",
-          "url": "https://github.com/calesthio/OpenMontage",
-          "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-          "language": "Python",
-          "stars_total": 18867,
-          "stars_today": 3703,
-          "description_zh": "全球首个开源智能视频制作系统。包含12条流水线、52个工具和500+智能体技能，可将AI编程助手转变为完整的视频制作工作室。"
-        },
-        {
-          "rank": 2,
-          "name": "apple/container",
-          "url": "https://github.com/apple/container",
-          "description_en": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-          "language": "Swift",
-          "stars_total": 41939,
-          "stars_today": 1746,
-          "description_zh": "一款在Mac上使用轻量级虚拟机创建和运行Linux容器的工具，采用Swift编写，并针对Apple芯片进行了优化。"
-        },
-        {
-          "rank": 3,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 48333,
-          "stars_today": 1461,
-          "description_zh": "LLM驱动的多市场股票智能分析系统：支持多源行情、实时新闻、决策看板与自动推送，可零成本定时运行。"
-        },
-        {
-          "rank": 4,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 201903,
-          "stars_today": 1174,
-          "description_zh": "与你一同成长的智能体。"
-        },
-        {
-          "rank": 5,
-          "name": "JCodesMore/ai-website-cloner-template",
-          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-          "description_en": "Clone any website with one command using AI coding agents",
-          "language": "TypeScript",
-          "stars_total": 19186,
-          "stars_today": 693,
-          "description_zh": "使用AI编程代理，一条命令即可克隆任何网站。"
-        },
-        {
-          "rank": 6,
-          "name": "google-labs-code/design.md",
-          "url": "https://github.com/google-labs-code/design.md",
-          "description_en": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-          "language": "TypeScript",
-          "stars_total": 17143,
-          "stars_today": 504,
-          "description_zh": "一种用于向编码代理描述视觉标识的格式规范。DESIGN.md为代理提供对设计系统的持久、结构化理解。"
-        },
-        {
-          "rank": 7,
-          "name": "stablyai/orca",
-          "url": "https://github.com/stablyai/orca",
-          "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-          "language": "TypeScript",
-          "stars_total": 6662,
-          "stars_today": 387,
-          "description_zh": "Orca是用于管理并行代理集群的ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动端使用。"
-        },
-        {
-          "rank": 8,
-          "name": "revfactory/harness",
-          "url": "https://github.com/revfactory/harness",
-          "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-          "language": "HTML",
-          "stars_total": 7678,
-          "stars_today": 274,
-          "description_zh": "一种元技能，用于设计特定领域的智能体团队、定义专业智能体并生成其使用的技能。"
-        },
-        {
-          "rank": 9,
-          "name": "kunchenguid/no-mistakes",
-          "url": "https://github.com/kunchenguid/no-mistakes",
-          "description_en": "git push no-mistakes",
-          "language": "Go",
-          "stars_total": 1922,
-          "stars_today": 182,
-          "description_zh": "git push no-mistakes"
-        },
-        {
-          "rank": 10,
-          "name": "interviewstreet/hiring-agent",
-          "url": "https://github.com/interviewstreet/hiring-agent",
-          "description_en": "AI agent to evaluate and score resumes.",
-          "language": "Python",
-          "stars_total": 2052,
-          "stars_today": 152,
-          "description_zh": "用于评估和评分简历的AI代理。"
-        },
-        {
-          "rank": 11,
-          "name": "Flowseal/zapret-discord-youtube",
-          "url": "https://github.com/Flowseal/zapret-discord-youtube",
-          "description_en": "",
-          "language": "Batchfile",
-          "stars_total": 30012,
-          "stars_today": 103,
-          "description_zh": ""
-        },
-        {
-          "rank": 12,
-          "name": "andreknieriem/headunit-revived",
-          "url": "https://github.com/andreknieriem/headunit-revived",
-          "description_en": "Headunit App for displaying Android Auto",
-          "language": "Kotlin",
-          "stars_total": 1390,
-          "stars_today": 62,
-          "description_zh": "用于显示Android Auto的车载主机应用。"
-        },
-        {
-          "rank": 13,
-          "name": "flutter/flutter",
-          "url": "https://github.com/flutter/flutter",
-          "description_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "language": "Dart",
-          "stars_total": 177248,
-          "stars_today": 44,
-          "description_zh": "Flutter让为移动端及更多平台构建精美应用变得简单而快速。"
         }
       ]
     }

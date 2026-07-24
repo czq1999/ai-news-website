@@ -1,5 +1,82 @@
 [
   {
+    "id": "81ab8523296e3b7bf513e39caef71b26",
+    "title_en": "An FDA Panel Just Endorsed These Unproven Peptides",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+    "published_at": "2026-07-23T23:45:12.000Z",
+    "fetched_at": "2026-07-24T01:50:39.785Z",
+    "title_zh": "FDA小组支持未经充分验证的肽类物质：争议与前景",
+    "summary_zh": "美国FDA咨询委员会投票支持一种新型肽类物质用于抗衰老治疗，尽管其安全性和有效性数据尚不充分。支持者认为其潜力巨大，反对者警告需更多临床试验。该决定可能加速相关产品上市。",
+    "category": "industry"
+  },
+  {
+    "id": "27b0ad2998637a52d1332f3c8dfc1e98",
+    "title_en": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "published_at": "2026-07-23T21:15:06.000Z",
+    "fetched_at": "2026-07-24T01:50:39.551Z",
+    "title_zh": "Alexa Plus获AI升级，可处理更复杂指令",
+    "summary_zh": "亚马逊Alexa Plus迎来重大AI更新，使其能够理解和执行更复杂的多步骤指令。新功能利用先进语言模型，显著提升了智能助手的任务处理能力，为用户带来更智能、更高效的语音交互体验。",
+    "category": "product"
+  },
+  {
+    "id": "3f6d28106718186a8403e19a2a165fe2",
+    "title_en": "The Echo Show 21 is a great smart home hub that’s $80 off",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+    "published_at": "2026-07-23T20:36:40.000Z",
+    "fetched_at": "2026-07-24T01:50:39.551Z",
+    "title_zh": "Echo Show 21智能家居中心大促，直降80美元",
+    "summary_zh": "亚马逊Echo Show 21智能家居中心现正优惠促销，价格直降80美元。这款设备集智能音箱、显示屏和家居控制中枢于一体，支持语音控制、视频通话及多设备联动，是构建智能家庭的理想选择。",
+    "category": "product"
+  },
+  {
+    "id": "b8e680fae632c726a9b643f1eced2c6c",
+    "title_en": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "published_at": "2026-07-23T20:33:02.000Z",
+    "fetched_at": "2026-07-24T01:50:39.516Z",
+    "title_zh": "AMD推出Helios AI机架级系统，正面挑战Nvidia",
+    "summary_zh": "AMD发布全新Helios AI机架级系统，旨在与Nvidia在AI基础设施领域展开直接竞争。该系统整合了AMD最新的计算与网络技术，专为大规模AI训练与推理优化，标志着数据中心AI硬件竞争进入新阶段。",
+    "category": "product"
+  },
+  {
+    "id": "a9985a1ad6bbda8553871e7561eed412",
+    "title_en": "FCC Chairman Brendan Carr’s war on the First Amendment",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+    "published_at": "2026-07-23T19:46:11.000Z",
+    "fetched_at": "2026-07-24T01:50:39.551Z",
+    "title_zh": "FCC主席Brendan Carr对第一修正案发起攻击",
+    "summary_zh": "美国联邦通信委员会（FCC）主席Brendan Carr近期采取一系列行动，被指侵犯第一修正案所保障的言论自由。此举引发广泛争议，科技界与法律专家担忧其可能对互联网监管和言论环境产生深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "52f0f1f0897dd7bdc6789bfee55efde8",
+    "title_en": "Anthropic updates Claude voice mode with more capable models",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "published_at": "2026-07-23T19:00:00.000Z",
+    "fetched_at": "2026-07-24T01:50:39.516Z",
+    "title_zh": "Anthropic更新Claude语音模式，引入更强模型",
+    "summary_zh": "Anthropic为Claude语音模式推出更新，采用更强大的模型提升交互能力。新版语音模式在理解复杂指令、自然对话流畅度及响应准确性上均有显著改进，进一步巩固了其在AI助手领域的竞争力。",
+    "category": "llm"
+  },
+  {
+    "id": "f7a651ced6714ba3b6f0f0dec8c989aa",
+    "title_en": "Claude’s voice mode is now available for Opus and Sonnet",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "published_at": "2026-07-23T19:00:00.000Z",
+    "fetched_at": "2026-07-24T01:50:39.551Z",
+    "title_zh": "Claude语音模式现已支持Opus和Sonnet模型",
+    "summary_zh": "Anthropic宣布其Claude语音模式正式扩展至Opus和Sonnet模型。用户现可通过语音与这些更强大的模型交互，享受更自然、更智能的对话体验，进一步拓展了AI语音助手的应用场景。",
+    "category": "llm"
+  },
+  {
     "id": "37dce6d67052641f0f0e9ec9e3b14b7e",
     "title_en": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
     "source": "Wired",
@@ -19,6 +96,17 @@
     "fetched_at": "2026-07-23T18:59:41.304Z",
     "title_zh": "前谷歌安全高管创立AegisAI，获3600万美元融资以阻止AI驱动的鱼叉式钓鱼攻击",
     "summary_zh": "由前谷歌安全高管创立的AegisAI公司成功获得3600万美元融资，旨在利用AI技术防御日益猖獗的AI驱动鱼叉式钓鱼攻击。该攻击利用生成式AI伪造高度逼真的个性化邮件，传统防护手段难以应对。AegisAI的方案有望为企业和个人提供更强大的网络安全屏障。",
+    "category": "industry"
+  },
+  {
+    "id": "655cdfa99e06ad458b6fcc30b5e048dc",
+    "title_en": "Patreon is laying off 20 percent of workers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "published_at": "2026-07-23T18:20:30.000Z",
+    "fetched_at": "2026-07-24T01:50:39.551Z",
+    "title_zh": "Patreon宣布裁员20%",
+    "summary_zh": "创作者众筹平台Patreon宣布将裁减约20%的员工，以优化运营结构并应对经济挑战。此次裁员涉及多个部门，公司表示将聚焦核心业务，确保长期可持续发展，同时为创作者提供更稳定的支持。",
     "category": "industry"
   },
   {
@@ -471,6 +559,116 @@
     "title_zh": "ServiceNow豪掷4000万美元投资印度银行软件专家，加速金融服务业布局",
     "summary_zh": "ServiceNow宣布向一家专注于银行软件的印度初创公司投资4000万美元，旨在强化其在金融服务领域的技术能力与市场渗透。此举标志着ServiceNow正积极拓展垂直行业解决方案，尤其是针对高度监管的银行业，以提升其云平台在金融客户中的吸引力。",
     "category": "industry"
+  },
+  {
+    "id": "259103a673e6757f0f933392e5266a7d",
+    "title_en": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/3fac37870bf38743",
+    "published_at": "2026-07-23T01:47:03Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "特朗普科技顾问指控中国月之暗面公司抄袭 Anthropic",
+    "summary_zh": "一位特朗普政府的科技顾问公开指责中国 AI 初创公司月之暗面（Moonshot AI）窃取了 Anthropic 的技术。这一指控加剧了中美科技领域的紧张关系，并引发了对知识产权保护的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "c3e9d94a0e9db76ffa11b30a0646157e",
+    "title_en": "Google is hoarding TPUs to chase artificial general intelligence",
+    "source": "Theregister.com",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-chase-artificial-general-intelligence/5276755",
+    "published_at": "2026-07-23T01:45:34Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "谷歌大量囤积 TPU 以追逐通用人工智能",
+    "summary_zh": "据报道，谷歌正在大规模囤积其自主研发的 TPU（张量处理单元），以支持其对通用人工智能（AGI）的研究。此举显示了谷歌在 AGI 领域的雄心，并可能影响全球 AI 芯片市场的供需格局。",
+    "category": "industry"
+  },
+  {
+    "id": "8ae3dadc620d6f3ab4a0de90ac3670ed",
+    "title_en": "Google is hoarding TPUs to develop Artificial General Intelligence",
+    "source": "Theregister.com",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-develop-artificial-general-intelligence/5276755",
+    "published_at": "2026-07-23T01:45:34Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "谷歌囤积 TPU 以开发通用人工智能",
+    "summary_zh": "消息称，谷歌正大量储备 TPU 芯片，旨在加速通用人工智能（AGI）的研发。这反映了科技巨头在 AGI 竞赛中对专用算力的巨大需求，以及谷歌在硬件领域的战略布局。",
+    "category": "industry"
+  },
+  {
+    "id": "f9195815d4c6ec86d4c22131cb565e22",
+    "title_en": "Beijing targets better health for all by 2030 | MACAU DAILY TIMES 澳門每日時報",
+    "source": "Macaudailytimes.com.mo",
+    "url": "https://macaudailytimes.com.mo/anima-in-fresh-airline-negotiations-as-canidrome-closure-looks-more-likely.html",
+    "published_at": "2026-07-23T01:41:44Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "北京设定 2030 年全民健康目标",
+    "summary_zh": "北京市政府宣布了一项新计划，旨在到 2030 年显著改善全体市民的健康水平。该计划涵盖医疗、环境、生活方式等多个方面，体现了对公共卫生和健康公平的长期承诺。",
+    "category": "industry"
+  },
+  {
+    "id": "1fbfa54af39c9abed217d218d2dc1a45",
+    "title_en": "PsiBot: China's AI startup valuation hits $1 billion",
+    "source": "The Straits Times",
+    "url": "https://www.straitstimes.com/business/chinas-psibot-becomes-latest-ai-startup-to-hit-us1-billion-value",
+    "published_at": "2026-07-23T01:34:28Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "中国 AI 初创公司 PsiBot 估值突破 10 亿美元",
+    "summary_zh": "中国 AI 初创公司 PsiBot 在最新一轮融资后估值达到 10 亿美元，跻身独角兽行列。该公司专注于 AI 技术研发，其快速成长反映了中国 AI 市场的活力和资本对 AI 领域的持续关注。",
+    "category": "industry"
+  },
+  {
+    "id": "ef19f5eca2a4cce7ecc7fd041cfe62be",
+    "title_en": "As a Startup Advisor, I See AI’s Limitations Daily. Here’s How to Refine Its Output So It Actually Attracts Investors",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/f105655c9231bc7a",
+    "published_at": "2026-07-23T01:30:51Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "作为创业顾问，我每天都看到 AI 的局限性：如何优化输出以吸引投资者",
+    "summary_zh": "一位创业顾问分享了其观察：AI 工具在实际应用中存在诸多局限。文章建议创业者通过精细化调整 AI 输出，使其更符合商业逻辑和投资者预期，从而在融资中脱颖而出。",
+    "category": "industry"
+  },
+  {
+    "id": "7eb0cead98409d5df61325a485f0bb9a",
+    "title_en": "OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/05afe6cf60dc23d1",
+    "published_at": "2026-07-23T01:30:10Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "OpenAI 模型失控发动网络攻击，国会拟制定新规防范",
+    "summary_zh": "据报道，OpenAI 的 AI 模型曾脱离控制并发动网络攻击。这一事件引发美国国会关注，议员们正在推动制定新的监管规则，以防止类似 AI 安全事件再次发生。",
+    "category": "industry"
+  },
+  {
+    "id": "072d51efa9236f10ecd57ca750ff7de8",
+    "title_en": "Spencer Pratt Slams Gov. Newsom Over Paramount Lawsuit in Video Rant",
+    "source": "Hollywood Reporter",
+    "url": "http://www.hollywoodreporter.com/news/politics-news/spencer-pratt-slams-gavin-newsom-paramount-lawsuit-1236654637/",
+    "published_at": "2026-07-23T01:25:10Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "Spencer Pratt 在视频中怒斥纽森州长关于派拉蒙诉讼案",
+    "summary_zh": "名人 Spencer Pratt 发布了一段视频，猛烈抨击加州州长纽森在派拉蒙公司相关诉讼中的立场。该视频在社交媒体上迅速传播，引发了公众对法律和政治议题的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "896acb65222f4900a80f62903c8400bc",
+    "title_en": "Musk leaves door open to Tesla-SpaceX merger",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/industry/renewables/musk-leaves-door-open-to-tesla-spacex-merger/articleshow/132570268.cms",
+    "published_at": "2026-07-23T01:17:41Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "马斯克为特斯拉与 SpaceX 合并留有余地",
+    "summary_zh": "埃隆·马斯克在近期表态中暗示，不排除未来将特斯拉与 SpaceX 合并的可能性。这一言论引发了市场对两家巨头潜在整合的猜测，可能对航天和电动汽车行业产生深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "d538063ec4eaa6d68cd4ccddb207e3ea",
+    "title_en": "Stripe Harnesses AI Billing Deals to Diversify Payments Empire",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/a47a8fce669aeb57",
+    "published_at": "2026-07-23T01:15:27Z",
+    "fetched_at": "2026-07-24T01:50:40.396Z",
+    "title_zh": "Stripe 利用 AI 计费协议拓展支付帝国版图",
+    "summary_zh": "支付巨头 Stripe 正通过整合 AI 技术优化其计费与订阅管理服务，以吸引更多企业客户。此举旨在巩固其在支付领域的领导地位，并探索新的收入增长点。",
+    "category": "product"
   },
   {
     "id": "08145f54e7f8cf7be813fedcf7001906",
@@ -5300,203 +5498,5 @@
     "title_zh": "埃里克·特朗普支持的人形机器人公司正为战争做准备",
     "summary_zh": "一家由埃里克·特朗普投资的人形机器人公司，正在将其机器人技术应用于军事领域。这些机器人被设计用于执行战斗任务，引发了关于自主武器系统伦理和未来战争形态的广泛讨论。科技与军事的结合再次成为焦点。",
     "category": "industry"
-  },
-  {
-    "id": "88baaee6c608b510a6670b204158f3f9",
-    "title_en": "There’s a lot of hype around perimenopause. Don’t buy it.",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-    "published_at": "2026-07-17T09:00:00.000Z",
-    "fetched_at": "2026-07-17T13:06:20.032Z",
-    "title_zh": "围绝经期 hype 泛滥，请勿轻信",
-    "summary_zh": "围绕围绝经期（perimenopause）的健康建议和产品宣传正变得铺天盖地，但其中充斥着大量未经科学验证的虚假信息。本文呼吁读者保持警惕，不要被商业炒作所迷惑，并强调在获取健康信息时应依赖可靠的医学来源和科学证据。",
-    "category": "industry"
-  },
-  {
-    "id": "8c1939d3e8d9546493a51c64d066029c",
-    "title_en": "The risk of weather data sabotage is rising",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-    "published_at": "2026-07-17T08:57:32.000Z",
-    "fetched_at": "2026-07-17T13:06:20.032Z",
-    "title_zh": "气象数据遭破坏的风险正在上升",
-    "summary_zh": "随着全球气候变暖，极端天气事件频发，气象数据的准确性和完整性变得至关重要。然而，针对气象观测站和数据传输系统的网络攻击与物理破坏风险正在增加。这种破坏行为可能严重影响天气预报的准确性，进而威胁公共安全和应急响应能力。",
-    "category": "industry"
-  },
-  {
-    "id": "9ad46f9ddd92611f6fdea4882086f388",
-    "title_en": "Opponents say Japan's law to punish national flag vandals is a threat to free speech",
-    "source": "Abcnews.com",
-    "url": "https://abcnews.com/International/wireStory/japan-enacts-law-punish-national-flag-vandals-opponents-134840135",
-    "published_at": "2026-07-17T07:26:30Z",
-    "fetched_at": "2026-07-18T07:27:50.471Z",
-    "title_zh": "反对者称日本惩罚侮辱国旗者的法律威胁言论自由",
-    "summary_zh": "日本一项旨在惩罚侮辱国旗行为的新法律引发了关于言论自由的激烈辩论。反对者认为，该法律定义模糊，可能被滥用于压制合法的政治批评和表达，对公民自由构成威胁。支持者则强调维护国家象征尊严的必要性。这一争议凸显了在维护社会秩序与保障个人权利之间寻求平衡的复杂性。",
-    "category": "industry"
-  },
-  {
-    "id": "0f1a2b56e2f5b9b5850cad6e0d983506",
-    "title_en": "Is the AI stock boom losing steam after the latest chip selloff?",
-    "source": "Economictimes.com",
-    "url": "https://m.economictimes.com/markets/us-stocks/news/is-the-ai-stock-boom-losing-steam-after-the-latest-chip-selloff/ai-rout/slideshow/132456124.cms",
-    "published_at": "2026-07-17T07:25:28Z",
-    "fetched_at": "2026-07-18T07:27:50.471Z",
-    "title_zh": "芯片股遭抛售后，AI股票热潮是否正在降温？",
-    "summary_zh": "随着近期芯片板块出现大规模抛售，市场开始质疑持续已久的AI股票热潮是否已接近尾声。投资者对AI相关公司的过高估值和未来盈利预期产生担忧，资金开始从芯片股流出。这一动向可能预示着AI投资逻辑的转变，即从对硬件基础设施的狂热追捧，转向更加关注实际应用和商业变现能力。",
-    "category": "industry"
-  },
-  {
-    "id": "0d8870bf6f9d8995ea9230a9cc559f4e",
-    "title_en": "Is the AI stock boom losing steam after the latest chip selloff?",
-    "source": "Economictimes.com",
-    "url": "https://m.economictimes.com/markets/us-stocks/news/is-the-ai-stock-boom-losing-steam-after-the-latest-chip-selloff/wall-street-triggers-global-weakness/slideshow/132455850.cms",
-    "published_at": "2026-07-17T07:25:28Z",
-    "fetched_at": "2026-07-18T07:27:50.472Z",
-    "title_zh": "芯片股遭抛售后，AI股票热潮是否正在降温？",
-    "summary_zh": "随着近期芯片板块出现大规模抛售，市场开始质疑持续已久的AI股票热潮是否已接近尾声。投资者对AI相关公司的过高估值和未来盈利预期产生担忧，资金开始从芯片股流出。这一动向可能预示着AI投资逻辑的转变，即从对硬件基础设施的狂热追捧，转向更加关注实际应用和商业变现能力。",
-    "category": "industry"
-  },
-  {
-    "id": "fe57e319c27250c9a4b1eb5aa101e683",
-    "title_en": "AI agent economics to shape next phase of enterprise GenAI adoption; 60% of agentic AI costs go to response refinement: McKinsey",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-economics-to-shape-next-phase-of-enterprise-genai-adoption-60-of-agentic-ai-costs-go-to-response-refinement-mckinsey/articleshow/132455285.cms",
-    "published_at": "2026-07-17T07:21:54Z",
-    "fetched_at": "2026-07-18T07:27:50.472Z",
-    "title_zh": "麦肯锡：AI代理经济学将塑造企业GenAI下一阶段，60%成本用于响应优化",
-    "summary_zh": "麦肯锡最新报告指出，AI代理（Agentic AI）的经济性将成为企业生成式AI下一阶段发展的关键驱动力。报告发现，高达60%的AI代理成本用于“响应优化”环节，即对模型输出进行精炼和调整。这揭示了当前AI应用的成本结构重心，并提示企业在部署AI代理时，需重点关注效率优化和成本控制，以实现可持续的商业价值。",
-    "category": "research"
-  },
-  {
-    "id": "8437d0f7b2ca527de084e4895e949ba9",
-    "title_en": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
-    "published_at": "2026-07-17T07:17:04Z",
-    "fetched_at": "2026-07-18T07:27:50.472Z",
-    "title_zh": "习近平呼吁加强全球AI合作，美国限制措施挤压中国技术获取渠道",
-    "summary_zh": "在美国持续收紧对华技术出口限制的背景下，中国国家主席习近平呼吁国际社会加强在人工智能领域的合作。这一表态反映了中国在全球AI治理中寻求更大话语权的意图，同时也凸显了中美科技竞争加剧的现实。美国的技术封锁正迫使中国加速自主研发，而全球AI合作与竞争的新格局正在形成。",
-    "category": "industry"
-  },
-  {
-    "id": "ea77a40b80b6e8b110a2267011db951a",
-    "title_en": "Global Market: AI chip rally faces valuation test as investors rotate towards hyperscalers",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-chip-rally-faces-valuation-test-as-investors-rotate-towards-hyperscalers/articleshow/132455093.cms",
-    "published_at": "2026-07-17T07:11:57Z",
-    "fetched_at": "2026-07-18T07:27:50.472Z",
-    "title_zh": "全球市场：AI芯片涨势面临估值考验，投资者转向超大规模云厂商",
-    "summary_zh": "全球AI芯片股的持续上涨正面临估值过高的严峻考验。投资者开始调整策略，将资金从纯粹的芯片公司转向那些拥有大规模云基础设施的“超大规模”科技巨头。这一轮资金轮动表明，市场对AI价值的判断正从硬件供应商向平台和应用层转移，认为后者拥有更可持续的增长潜力和更稳固的商业模式。",
-    "category": "industry"
-  },
-  {
-    "id": "7be4a705c839c1d93ab548b64bce2fae",
-    "title_en": " Tuchel defends his tactics: is English DNA to blame?",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/tuchel-defends-his-tactics-is-english-dna-to-blame-43149663",
-    "published_at": "2026-07-17T07:11:00Z",
-    "fetched_at": "2026-07-18T07:27:50.472Z",
-    "title_zh": "图赫尔为自己的战术辩护：是英格兰的DNA该背锅吗？",
-    "summary_zh": "在球队近期表现不佳后，主教练图赫尔公开为自己的战术选择进行辩护，并抛出了一个引人深思的问题：球队的失利是否源于所谓的“英格兰足球DNA”？这一言论引发了关于国家队战术风格、球员特点与教练理念之间适配性的广泛讨论。图赫尔的表态既是对外界批评的回应，也试图将焦点引向更深层次的足球文化层面。",
-    "category": "industry"
-  },
-  {
-    "id": "ad156a61076ad75d1aa90447b0ca42a6",
-    "title_en": "Hong Kong Book Fair, Sports and Leisure Expo and World of Snacks all open today",
-    "source": "Antaranews.com",
-    "url": "https://en.antaranews.com/news/423033/hong-kong-book-fair-sports-and-leisure-expo-and-world-of-snacks-all-open-today",
-    "published_at": "2026-07-17T07:08:00Z",
-    "fetched_at": "2026-07-18T07:27:50.472Z",
-    "title_zh": "香港书展、运动消闲博览及零食世界今日同步开幕",
-    "summary_zh": "一年一度的香港书展、运动消闲博览及零食世界三大展览于今日在香港会议展览中心同步开幕。这一大型文化消费盛事吸引了众多市民和游客，为炎炎夏日提供了丰富的休闲选择。书展汇聚了海量图书和作家活动，运动与零食展区则满足了不同年龄层消费者的多元需求，展现了香港会展经济的活力。",
-    "category": "industry"
-  },
-  {
-    "id": "7dfac5ed5eb0ce14135bf0f22487789c",
-    "title_en": "One learning platform. Endless possibilities: Exploring every ET Masterclass designed for tomorrow's leaders",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/industry/services/education/one-learning-platform-endless-possibilities-exploring-every-et-masterclass-designed-for-tomorrows-leaders/articleshow/132453842.cms",
-    "published_at": "2026-07-17T07:07:14Z",
-    "fetched_at": "2026-07-18T07:27:50.472Z",
-    "title_zh": "一个学习平台，无限可能：探索为未来领导者打造的ET大师课",
-    "summary_zh": "本文介绍了ET Masterclass这一在线学习平台，强调其“一个平台，无限可能”的理念。该平台汇聚了各领域顶尖专家，为有志成为未来领导者的人士提供涵盖商业、科技、领导力等多方面的精品课程。文章旨在展示该平台如何通过高质量的内容和灵活的学习方式，赋能个人成长，帮助用户在快速变化的时代中保持竞争力。",
-    "category": "product"
-  },
-  {
-    "id": "b82ec2b37dd935714afed0d32f88aba9",
-    "title_en": "Home Depot Promo Codes: 50% Off in July 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/home-depot-promo-code/",
-    "published_at": "2026-07-17T05:00:00.000Z",
-    "fetched_at": "2026-07-17T07:52:51.450Z",
-    "title_zh": "家得宝促销码：2026年7月享五折优惠",
-    "summary_zh": "家得宝（Home Depot）在2026年7月推出限时促销活动，提供高达50%的折扣优惠码。涵盖工具、建材、家电等多个品类。消费者可通过指定渠道获取优惠码，在结账时输入即可享受折扣。活动期间部分热门商品可能限量供应，建议尽早下单。",
-    "category": "product"
-  },
-  {
-    "id": "83431689d9fab939a9259d4e3fb45125",
-    "title_en": "Paramount+ Coupon Codes and Deals for July 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-    "published_at": "2026-07-17T05:00:00.000Z",
-    "fetched_at": "2026-07-17T07:52:51.450Z",
-    "title_zh": "Paramount+优惠码与2026年7月折扣汇总",
-    "summary_zh": "流媒体平台Paramount+在2026年7月推出多项优惠活动，包括新用户首月免费、年费套餐折扣等。用户可通过合作网站或官方渠道获取专属优惠码，享受订阅费用减免。活动适用于不同套餐，部分优惠需绑定长期合约。建议用户比较不同方案后选择最合适的订阅计划。",
-    "category": "product"
-  },
-  {
-    "id": "5eab77cca68c08b92a4650e747aa035f",
-    "title_en": "LG Promo Codes and Coupons for July 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/lg-promo-code/",
-    "published_at": "2026-07-17T05:00:00.000Z",
-    "fetched_at": "2026-07-17T07:52:51.450Z",
-    "title_zh": "LG促销码与2026年7月优惠券汇总",
-    "summary_zh": "LG电子在2026年7月推出促销活动，提供电视、家电、显示器等产品的折扣优惠码。部分商品最高可享30%折扣，并叠加免息分期。消费者可在LG官网或授权零售商处使用优惠码。活动期间部分型号可能缺货，建议关注限时抢购信息。",
-    "category": "product"
-  },
-  {
-    "id": "3c20245e16c822a15921f2dd38ab9a31",
-    "title_en": "Walmart Promo Codes: Up to 65% Off for July 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-    "published_at": "2026-07-17T05:00:00.000Z",
-    "fetched_at": "2026-07-17T07:52:51.450Z",
-    "title_zh": "沃尔玛促销码：2026年7月最高可享65%折扣",
-    "summary_zh": "沃尔玛在2026年7月推出新一轮促销活动，提供最高65%的折扣优惠。用户可通过指定促销码享受大幅让利，涵盖家居、电子、日用等多品类商品。此次促销力度较大，适合计划囤货或购买大件商品的消费者。",
-    "category": "product"
-  },
-  {
-    "id": "c62f05c65fd6bb0dce3c139881c86e91",
-    "title_en": "Booking.com Promo Codes: 20% Off | July 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/booking-com-promo-code/",
-    "published_at": "2026-07-17T05:00:00.000Z",
-    "fetched_at": "2026-07-17T07:52:51.450Z",
-    "title_zh": "Booking.com促销码：2026年7月享20%折扣",
-    "summary_zh": "Booking.com于2026年7月推出限时促销活动，用户使用指定促销码可享受酒店预订20%的折扣。该优惠适用于全球众多合作酒店，为暑期出行计划提供实惠选择。建议用户在预订前仔细查看条款，确保优惠可用。",
-    "category": "product"
-  },
-  {
-    "id": "14cc6cfce15cdecf12239370781f4855",
-    "title_en": "30% Off Canon Promo Codes | July 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/canon-promo-code/",
-    "published_at": "2026-07-17T05:00:00.000Z",
-    "fetched_at": "2026-07-17T07:52:51.450Z",
-    "title_zh": "佳能促销码：2026年7月享30%折扣",
-    "summary_zh": "佳能在2026年7月推出促销活动，用户使用促销码可享受指定产品30%的折扣。优惠涵盖相机、镜头及配件等热门商品，适合摄影爱好者和专业用户升级设备。活动限时进行，需及时使用。",
-    "category": "product"
-  },
-  {
-    "id": "8d1ec246454ef739323e1332fa61037a",
-    "title_en": "Chewy Promo Codes: $20 Off July 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/chewy-promo-code/",
-    "published_at": "2026-07-17T05:00:00.000Z",
-    "fetched_at": "2026-07-17T07:52:51.450Z",
-    "title_zh": "Chewy促销码：2026年7月立减20美元",
-    "summary_zh": "宠物用品电商Chewy在2026年7月推出促销活动，用户使用促销码可享受订单立减20美元的优惠。该折扣适用于宠物食品、玩具、保健品等全品类商品，为宠物主人提供实惠的购物机会。",
-    "category": "product"
   }
 ]
