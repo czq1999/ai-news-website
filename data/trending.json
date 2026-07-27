@@ -2,177 +2,147 @@
   "days": [
     {
       "date": "2026-07-27",
-      "summary_zh": "今日GitHub热门项目聚焦AI驱动工具与开源创新，涵盖蓝牙Mesh聊天、AI浏览器自动化、视觉CMS、终端文件管理器及金融大模型等前沿技术。",
+      "summary_zh": "今日GitHub热门项目涵盖蓝牙Mesh聊天、VPN客户端、AI伴侣、终端文件管理器、多平台爬虫、设计语言、金融模型、代码审查工具及自动化服务器，展现AI与工具创新融合趋势。",
       "projects": [
         {
           "rank": 1,
-          "name": "block/buzz",
-          "url": "https://github.com/block/buzz",
-          "description_en": "A hive mind communication platform",
-          "language": "Rust",
-          "stars_total": 13965,
-          "stars_today": 1710,
-          "description_zh": "一个群体智能通信平台"
-        },
-        {
-          "rank": 2,
           "name": "permissionlesstech/bitchat",
           "url": "https://github.com/permissionlesstech/bitchat",
           "description_en": "bluetooth mesh chat, IRC vibes",
           "language": "Swift",
-          "stars_total": 31272,
-          "stars_today": 1166,
+          "stars_total": 31689,
+          "stars_today": 2344,
           "description_zh": "蓝牙网状网络聊天，IRC风格"
         },
         {
-          "rank": 3,
-          "name": "citrolabs/ego-lite",
-          "url": "https://github.com/citrolabs/ego-lite",
-          "description_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-          "language": "JavaScript",
-          "stars_total": 5204,
-          "stars_today": 900,
-          "description_zh": "AI代理运行网页自动化最快的浏览器，专为与AI代理（如Codex或Claude Code）共享登录浏览器状态而构建，不会打扰您。零成本，零配置。"
-        },
-        {
-          "rank": 4,
-          "name": "CoreBunch/Instatic",
-          "url": "https://github.com/CoreBunch/Instatic",
-          "description_en": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-          "language": "TypeScript",
-          "stars_total": 5962,
-          "stars_today": 888,
-          "description_zh": "Webflow、Framer和WordPress的开源替代品。智能自托管可视化CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一应俱全。"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "name": "alibaba/open-code-review",
           "url": "https://github.com/alibaba/open-code-review",
           "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "stars_total": 14282,
-          "stars_today": 832,
+          "stars_total": 14463,
+          "stars_today": 980,
           "description_zh": "开源且免费——在阿里巴巴规模下经过实战检验。混合架构代码审查工具：确定性流水线 + LLM代理，精确的行级评论，内置微调规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。"
         },
         {
-          "rank": 6,
+          "rank": 3,
           "name": "pbakaus/impeccable",
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design language that makes your AI harness better at design.",
           "language": "JavaScript",
-          "stars_total": 51012,
-          "stars_today": 413,
+          "stars_total": 51206,
+          "stars_today": 849,
           "description_zh": "让你的AI在设计中更出色的设计语言。"
         },
         {
-          "rank": 7,
-          "name": "OtterMind/Chat2DB",
-          "url": "https://github.com/OtterMind/Chat2DB",
-          "description_en": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-          "language": "Java",
-          "stars_total": 27353,
-          "stars_today": 398,
-          "description_zh": "🔥🔥🔥 AI驱动的数据库工具和SQL客户端，最热门的GUI客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse等。"
-        },
-        {
-          "rank": 8,
-          "name": "anthropics/claude-cookbooks",
-          "url": "https://github.com/anthropics/claude-cookbooks",
-          "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-          "language": "Jupyter Notebook",
-          "stars_total": 50420,
-          "stars_today": 379,
-          "description_zh": "一系列笔记本/食谱，展示使用Claude的一些有趣且有效的方法。"
-        },
-        {
-          "rank": 9,
-          "name": "Pumpkin-MC/Pumpkin",
-          "url": "https://github.com/Pumpkin-MC/Pumpkin",
-          "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
-          "language": "Rust",
-          "stars_total": 10147,
-          "stars_today": 338,
-          "description_zh": "让每个人都能托管快速高效的Minecraft服务器。"
-        },
-        {
-          "rank": 10,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 34342,
-          "stars_today": 321,
-          "description_zh": "Kronos：金融市场语言的基础模型"
-        },
-        {
-          "rank": 11,
-          "name": "permissionlesstech/bitchat-android",
-          "url": "https://github.com/permissionlesstech/bitchat-android",
-          "description_en": "bluetooth mesh chat, IRC vibes",
-          "language": "Kotlin",
-          "stars_total": 6884,
-          "stars_today": 260,
-          "description_zh": "蓝牙网状网络聊天，IRC风格"
-        },
-        {
-          "rank": 12,
-          "name": "andrewyng/aisuite",
-          "url": "https://github.com/andrewyng/aisuite",
-          "description_en": "Simple, unified interface to multiple Generative AI providers",
-          "language": "Python",
-          "stars_total": 15490,
-          "stars_today": 187,
-          "description_zh": "多个生成式AI提供商的简单统一接口"
-        },
-        {
-          "rank": 13,
-          "name": "pingdotgg/t3code",
-          "url": "https://github.com/pingdotgg/t3code",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 15186,
-          "stars_today": 149,
-          "description_zh": ""
-        },
-        {
-          "rank": 14,
+          "rank": 4,
           "name": "yorukot/superfile",
           "url": "https://github.com/yorukot/superfile",
           "description_en": "Pretty fancy and modern terminal file manager",
           "language": "Go",
-          "stars_total": 20477,
-          "stars_today": 131,
+          "stars_total": 20622,
+          "stars_today": 600,
           "description_zh": "漂亮且现代的终端文件管理器"
         },
         {
-          "rank": 15,
-          "name": "nodejs/node",
-          "url": "https://github.com/nodejs/node",
-          "description_en": "Node.js JavaScript runtime ✨🐢🚀✨",
-          "language": "JavaScript",
-          "stars_total": 118542,
-          "stars_today": 36,
-          "description_zh": "Node.js JavaScript运行时 ✨🐢🚀✨"
+          "rank": 5,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars_total": 43777,
+          "stars_today": 554,
+          "description_zh": "💖🧸 自托管、你拥有的 Grok 伴侣，一个装载 waifu 灵魂的容器，将数字生命带入我们的世界，旨在达到 Neuro-sama 的高度。支持实时语音聊天、Minecraft、Factorio 游戏。支持 Web / macOS / Windows。"
         },
         {
-          "rank": 16,
+          "rank": 6,
           "name": "amnezia-vpn/amnezia-client",
           "url": "https://github.com/amnezia-vpn/amnezia-client",
           "description_en": "Amnezia VPN Client (Desktop+Mobile)",
           "language": "C++",
-          "stars_total": 13514,
-          "stars_today": 35,
+          "stars_total": 13614,
+          "stars_today": 515,
           "description_zh": "Amnezia VPN客户端（桌面+移动端）"
         },
         {
-          "rank": 17,
+          "rank": 7,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 34422,
+          "stars_today": 442,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 8,
+          "name": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "language": "Python",
+          "stars_total": 10747,
+          "stars_today": 412,
+          "description_zh": "赋予 Claude 观看任何视频的能力。/watch 命令可下载视频、提取帧、转录文本，并将所有内容交给 Claude 处理。"
+        },
+        {
+          "rank": 9,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars_total": 57995,
+          "stars_today": 349,
+          "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+        },
+        {
+          "rank": 10,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 53975,
+          "stars_today": 221,
+          "description_zh": "AI 代理技能，可研究 Reddit、X、YouTube、HN、Polymarket 及网络上的任何话题，然后综合生成一份有依据的摘要。"
+        },
+        {
+          "rank": 11,
           "name": "jenkinsci/jenkins",
           "url": "https://github.com/jenkinsci/jenkins",
           "description_en": "Jenkins automation server",
           "language": "Java",
-          "stars_total": 25786,
-          "stars_today": 18,
+          "stars_total": 25818,
+          "stars_today": 179,
           "description_zh": "Jenkins自动化服务器"
+        },
+        {
+          "rank": 12,
+          "name": "ocornut/imgui",
+          "url": "https://github.com/ocornut/imgui",
+          "description_en": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+          "language": "C++",
+          "stars_total": 75133,
+          "stars_today": 64,
+          "description_zh": "Dear ImGui：无臃肿的 C++ 图形用户界面，依赖极少。"
+        },
+        {
+          "rank": 13,
+          "name": "apache/cassandra",
+          "url": "https://github.com/apache/cassandra",
+          "description_en": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+          "language": "Java",
+          "stars_total": 9902,
+          "stars_today": 7,
+          "description_zh": "开源事务型分布式数据库。在商用硬件或云基础设施上实现线性扩展和经过验证的容错性，且不影响性能。"
+        },
+        {
+          "rank": 14,
+          "name": "vudovn/ag-kit",
+          "url": "https://github.com/vudovn/ag-kit",
+          "description_en": "",
+          "language": "TypeScript",
+          "stars_total": 7872,
+          "stars_today": 5,
+          "description_zh": ""
         }
       ]
     },
