@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-07-27",
-      "summary_zh": "今日GitHub热门项目聚焦AI驱动工具与开源创新：AI浏览器代理、数据库管理、终端文件管理器、视觉CMS及金融模型，展现开发者生态的多元活力。",
+      "summary_zh": "今日GitHub热门项目聚焦AI驱动工具与开源创新，涵盖蓝牙Mesh聊天、AI浏览器自动化、视觉CMS、终端文件管理器及金融大模型等前沿技术。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/block/buzz",
           "description_en": "A hive mind communication platform",
           "language": "Rust",
-          "stars_total": 13363,
+          "stars_total": 13965,
           "stars_today": 1710,
           "description_zh": "一个群体智能通信平台"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/permissionlesstech/bitchat",
           "description_en": "bluetooth mesh chat, IRC vibes",
           "language": "Swift",
-          "stars_total": 30444,
+          "stars_total": 31272,
           "stars_today": 1166,
           "description_zh": "蓝牙网状网络聊天，IRC风格"
         },
@@ -28,9 +28,9 @@
           "rank": 3,
           "name": "citrolabs/ego-lite",
           "url": "https://github.com/citrolabs/ego-lite",
-          "description_en": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "description_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
           "language": "JavaScript",
-          "stars_total": 4623,
+          "stars_total": 5204,
           "stars_today": 900,
           "description_zh": "AI代理运行网页自动化最快的浏览器，专为与AI代理（如Codex或Claude Code）共享登录浏览器状态而构建，不会打扰您。零成本，零配置。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/CoreBunch/Instatic",
           "description_en": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
           "language": "TypeScript",
-          "stars_total": 5703,
+          "stars_total": 5962,
           "stars_today": 888,
           "description_zh": "Webflow、Framer和WordPress的开源替代品。智能自托管可视化CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一应俱全。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/alibaba/open-code-review",
           "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "stars_total": 13890,
+          "stars_total": 14282,
           "stars_today": 832,
           "description_zh": "开源且免费——在阿里巴巴规模下经过实战检验。混合架构代码审查工具：确定性流水线 + LLM代理，精确的行级评论，内置微调规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design language that makes your AI harness better at design.",
           "language": "JavaScript",
-          "stars_total": 50719,
+          "stars_total": 51012,
           "stars_today": 413,
           "description_zh": "让你的AI在设计中更出色的设计语言。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/OtterMind/Chat2DB",
           "description_en": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
           "language": "Java",
-          "stars_total": 27149,
+          "stars_total": 27353,
           "stars_today": 398,
           "description_zh": "🔥🔥🔥 AI驱动的数据库工具和SQL客户端，最热门的GUI客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse等。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/anthropics/claude-cookbooks",
           "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
           "language": "Jupyter Notebook",
-          "stars_total": 50246,
+          "stars_total": 50420,
           "stars_today": 379,
           "description_zh": "一系列笔记本/食谱，展示使用Claude的一些有趣且有效的方法。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/Pumpkin-MC/Pumpkin",
           "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
           "language": "Rust",
-          "stars_total": 10024,
+          "stars_total": 10147,
           "stars_today": 338,
           "description_zh": "让每个人都能托管快速高效的Minecraft服务器。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/shiyu-coder/Kronos",
           "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
           "language": "Python",
-          "stars_total": 34188,
+          "stars_total": 34342,
           "stars_today": 321,
           "description_zh": "Kronos：金融市场语言的基础模型"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/permissionlesstech/bitchat-android",
           "description_en": "bluetooth mesh chat, IRC vibes",
           "language": "Kotlin",
-          "stars_total": 6728,
+          "stars_total": 6884,
           "stars_today": 260,
           "description_zh": "蓝牙网状网络聊天，IRC风格"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/andrewyng/aisuite",
           "description_en": "Simple, unified interface to multiple Generative AI providers",
           "language": "Python",
-          "stars_total": 15412,
+          "stars_total": 15490,
           "stars_today": 187,
           "description_zh": "多个生成式AI提供商的简单统一接口"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 15070,
+          "stars_total": 15186,
           "stars_today": 149,
           "description_zh": ""
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/yorukot/superfile",
           "description_en": "Pretty fancy and modern terminal file manager",
           "language": "Go",
-          "stars_total": 20267,
+          "stars_total": 20477,
           "stars_today": 131,
           "description_zh": "漂亮且现代的终端文件管理器"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/nodejs/node",
           "description_en": "Node.js JavaScript runtime ✨🐢🚀✨",
           "language": "JavaScript",
-          "stars_total": 118481,
+          "stars_total": 118542,
           "stars_today": 36,
           "description_zh": "Node.js JavaScript运行时 ✨🐢🚀✨"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/amnezia-vpn/amnezia-client",
           "description_en": "Amnezia VPN Client (Desktop+Mobile)",
           "language": "C++",
-          "stars_total": 13340,
+          "stars_total": 13514,
           "stars_today": 35,
           "description_zh": "Amnezia VPN客户端（桌面+移动端）"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/jenkinsci/jenkins",
           "description_en": "Jenkins automation server",
           "language": "Java",
-          "stars_total": 25713,
+          "stars_total": 25786,
           "stars_today": 18,
           "description_zh": "Jenkins自动化服务器"
         }
