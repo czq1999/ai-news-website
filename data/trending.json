@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-07-29",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：Jenkins自动化、多AI平台统一接口、本地语音代理、A股量化引擎及3D建筑协作，展现从开发到金融的多元技术趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "language": "Python",
+          "stars_total": 12127,
+          "stars_today": 988,
+          "description_zh": "让Claude能够观看任何视频。/watch 下载、提取帧、转录，并将所有内容交给Claude处理。"
+        },
+        {
+          "rank": 2,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars_total": 44792,
+          "stars_today": 797,
+          "description_zh": "💖🧸 自托管、你拥有的Grok伴侣，一个容纳waifu灵魂的容器，将数字生命带入我们的世界，旨在达到Neuro-sama的高度。支持实时语音聊天、Minecraft、Factorio游戏。支持Web / macOS / Windows。"
+        },
+        {
+          "rank": 3,
+          "name": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "description_en": "Pretty fancy and modern terminal file manager",
+          "language": "Go",
+          "stars_total": 21498,
+          "stars_today": 662,
+          "description_zh": "漂亮且现代的终端文件管理器"
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 234841,
+          "stars_today": 636,
+          "description_zh": "代理工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全与研究优先的开发支持。"
+        },
+        {
+          "rank": 5,
+          "name": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "description_en": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+          "language": "TypeScript",
+          "stars_total": 3422,
+          "stars_today": 607,
+          "description_zh": "一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。可在网页浏览器、桌面端、移动端以及Jupyter笔记本中运行。"
+        },
+        {
+          "rank": 6,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "language": "Python",
+          "stars_total": 11459,
+          "stars_today": 423,
+          "description_zh": "将任何技术书籍PDF转化为Claude Code技能——随时学习、参考并在工作中使用。"
+        },
+        {
+          "rank": 7,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description_en": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars_total": 18753,
+          "stars_today": 341,
+          "description_zh": "创建并分享3D建筑项目。"
+        },
+        {
+          "rank": 8,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description_en": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+          "language": "Python",
+          "stars_total": 9642,
+          "stars_today": 309,
+          "description_zh": "精心整理的量化交易资源列表，包含库、包、策略、书籍、博客、教程等。"
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description_en": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars_total": 7284,
+          "stars_today": 227,
+          "description_zh": "使用开源模型构建本地语音代理"
+        },
+        {
+          "rank": 10,
+          "name": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "description_en": "Jenkins automation server",
+          "language": "Java",
+          "stars_total": 26079,
+          "stars_today": 180,
+          "description_zh": "Jenkins自动化服务器"
+        },
+        {
+          "rank": 11,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description_en": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars_total": 15695,
+          "stars_today": 62,
+          "description_zh": "面向多个生成式AI提供商的简单统一接口"
+        },
+        {
+          "rank": 12,
+          "name": "hello245m/free-stockdb",
+          "url": "https://github.com/hello245m/free-stockdb",
+          "description_en": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+          "language": "HTML",
+          "stars_total": 1309,
+          "stars_today": 50,
+          "description_zh": "面向A股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。"
+        },
+        {
+          "rank": 13,
+          "name": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "description_en": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+          "language": "Python",
+          "stars_total": 5220,
+          "stars_today": 46,
+          "description_zh": "AI代理治理工具包——为自主AI代理提供策略执行、零信任身份、执行沙箱和可靠性工程。覆盖OWASP Agentic Top 10全部10项。"
+        }
+      ]
+    },
+    {
       "date": "2026-07-28",
       "summary_zh": "今日GitHub趋势聚焦AI代理治理、开源语音交互、3D建筑创作及量化交易工具，Jenkins持续领跑自动化运维，多模态AI与地理空间平台成亮点。",
       "projects": [
@@ -4991,142 +5127,6 @@
           "stars_total": 12556,
           "stars_today": 77,
           "description_zh": "🧑‍🚀 基于OIDC和OAuth 2.1构建的SaaS和AI应用认证与授权基础设施，支持多租户、单点登录和基于角色的访问控制。"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-28",
-      "summary_zh": "GitHub 今日热门项目聚焦隐私通讯、AI投资研究、自动驾驶、GPU计算及文档处理，涵盖Simplex无ID网络、价值投资框架、开源驾驶系统与本地语音识别等前沿技术。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "DeusData/codebase-memory-mcp",
-          "url": "https://github.com/DeusData/codebase-memory-mcp",
-          "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-          "language": "C",
-          "stars_total": 19259,
-          "stars_today": 2162,
-          "description_zh": "高性能代码智能MCP服务器。将代码库索引为持久化知识图谱——平均仓库处理时间毫秒级。支持158种语言，亚毫秒级查询，减少99%的令牌消耗。单一静态二进制文件，零依赖。"
-        },
-        {
-          "rank": 2,
-          "name": "xbtlin/ai-berkshire",
-          "url": "https://github.com/xbtlin/ai-berkshire",
-          "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-          "language": "Python",
-          "stars_total": 5189,
-          "stars_today": 1456,
-          "description_zh": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。融合巴菲特、芒格、段永平、李录四位大师方法论，支持多 Agent 并行研究。"
-        },
-        {
-          "rank": 3,
-          "name": "simplex-chat/simplex-chat",
-          "url": "https://github.com/simplex-chat/simplex-chat",
-          "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-          "language": "Haskell",
-          "stars_total": 14766,
-          "stars_today": 1183,
-          "description_zh": "SimpleX - 首个无需任何用户标识符即可运行的通讯网络 - 100% 隐私设计！支持 iOS、Android 和桌面应用 📱！"
-        },
-        {
-          "rank": 4,
-          "name": "altic-dev/FluidVoice",
-          "url": "https://github.com/altic-dev/FluidVoice",
-          "description_en": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
-          "language": "Swift",
-          "stars_total": 3536,
-          "stars_today": 491,
-          "description_zh": "FluidVoice - 最快的macOS离线听写应用 - 完全本地的语音转文字。一颗星能帮我们走很远 :))"
-        },
-        {
-          "rank": 5,
-          "name": "HKUDS/Vibe-Trading",
-          "url": "https://github.com/HKUDS/Vibe-Trading",
-          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
-          "language": "Python",
-          "stars_total": 14201,
-          "stars_today": 490,
-          "description_zh": "\"Vibe-Trading：你的个人交易代理\""
-        },
-        {
-          "rank": 6,
-          "name": "ripienaar/free-for-dev",
-          "url": "https://github.com/ripienaar/free-for-dev",
-          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-          "language": "HTML",
-          "stars_total": 124934,
-          "stars_today": 472,
-          "description_zh": "一份包含 SaaS、PaaS 和 IaaS 免费套餐的列表，对 DevOps 和基础设施开发者有用。"
-        },
-        {
-          "rank": 7,
-          "name": "opendatalab/MinerU",
-          "url": "https://github.com/opendatalab/MinerU",
-          "description_en": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-          "language": "Python",
-          "stars_total": 71431,
-          "stars_today": 426,
-          "description_zh": "将PDF和Office文档等复杂文档转换为适合LLM的markdown/JSON格式，用于您的智能体工作流。"
-        },
-        {
-          "rank": 8,
-          "name": "Robbyant/lingbot-map",
-          "url": "https://github.com/Robbyant/lingbot-map",
-          "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-          "language": "Python",
-          "stars_total": 8134,
-          "stars_today": 372,
-          "description_zh": "一种前馈式3D基础模型，用于从流式数据中重建场景"
-        },
-        {
-          "rank": 9,
-          "name": "browser-use/video-use",
-          "url": "https://github.com/browser-use/video-use",
-          "description_en": "Edit videos with coding agents",
-          "language": "Python",
-          "stars_total": 10876,
-          "stars_today": 324,
-          "description_zh": "使用编码代理编辑视频"
-        },
-        {
-          "rank": 10,
-          "name": "commaai/openpilot",
-          "url": "https://github.com/commaai/openpilot",
-          "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-          "language": "Python",
-          "stars_total": 62317,
-          "stars_today": 265,
-          "description_zh": "openpilot 是一个机器人操作系统。目前，它可升级 300 多款支持车型的驾驶辅助系统。"
-        },
-        {
-          "rank": 11,
-          "name": "cupy/cupy",
-          "url": "https://github.com/cupy/cupy",
-          "description_en": "NumPy & SciPy for GPU",
-          "language": "Python",
-          "stars_total": 11445,
-          "stars_today": 172,
-          "description_zh": "适用于GPU的NumPy和SciPy"
-        },
-        {
-          "rank": 12,
-          "name": "ByteByteGoHq/system-design-101",
-          "url": "https://github.com/ByteByteGoHq/system-design-101",
-          "description_en": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-          "language": "",
-          "stars_total": 84313,
-          "stars_today": 132,
-          "description_zh": "通过视觉和简单术语解释复杂系统。帮助您准备系统设计面试。"
-        },
-        {
-          "rank": 13,
-          "name": "usestrix/strix",
-          "url": "https://github.com/usestrix/strix",
-          "description_en": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-          "language": "Python",
-          "stars_total": 26592,
-          "stars_today": 88,
-          "description_zh": "开源AI黑客工具，用于发现并修复您应用的漏洞。"
         }
       ]
     }
