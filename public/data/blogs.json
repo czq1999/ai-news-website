@@ -1,5 +1,60 @@
 [
   {
+    "id": "68bfab13c03487fa21ec339a64cda33a",
+    "title_en": "一种Linux安全漏洞修复补丁自动识别方法",
+    "source": "crad.ict.ac.cn",
+    "url": "https://crad.ict.ac.cn/fileJSJYJYFZ/journal/article/jsjyjyfz/HTML/2022-01-197.shtml",
+    "published_at": "2026-07-30T19:11:55.566Z",
+    "fetched_at": "2026-07-30T19:11:55.566Z",
+    "title_zh": "一种Linux安全漏洞修复补丁自动识别方法",
+    "summary_zh": "本文提出一种自动化识别Linux安全漏洞修复补丁的方法，旨在解决大规模系统中补丁管理效率低、人工排查耗时的问题。方法基于CVE编号与内核源码变更的关联分析，利用版本差异对比和特征匹配算法，自动定位受影响的内核模块及对应补丁。实验表明该方法能显著提升补丁识别准确率，降低漏报与误报风险，适用于企业级安全运维场景，为自动化漏洞修复提供了可行的技术路径。",
+    "topic": "security"
+  },
+  {
+    "id": "5ec94b7a0fbced2c3f39445c4e5646d5",
+    "title_en": "DevOps和自动化运维实践 — 运维开发修炼之路",
+    "source": "my-linux-devops.readthedocs.io",
+    "url": "https://my-linux-devops.readthedocs.io/en/latest/DevOps/index.html",
+    "published_at": "2026-07-30T19:11:55.566Z",
+    "fetched_at": "2026-07-30T19:11:55.566Z",
+    "title_zh": "DevOps和自动化运维实践 — 运维开发修炼之路",
+    "summary_zh": "本文系统梳理了DevOps理念与自动化运维的落地实践，涵盖持续集成/持续部署（CI/CD）流水线搭建、基础设施即代码（IaC）工具链（如Terraform、Ansible）的应用、监控告警体系设计以及日志集中管理方案。作者从运维开发视角出发，结合实际案例讲解如何通过自动化脚本减少重复劳动、提升部署效率与系统稳定性。适合希望转型DevOps或优化现有运维流程的工程师阅读。",
+    "topic": "ops"
+  },
+  {
+    "id": "0fe6c483d63e72eb1bae22cdba9ad095",
+    "title_en": "基于自动化运维工具SaltStack、Ansible、Puppet等运维...",
+    "source": "landui.com",
+    "url": "https://www.landui.com/help/ishow-10975",
+    "published_at": "2026-07-30T19:11:55.566Z",
+    "fetched_at": "2026-07-30T19:11:55.566Z",
+    "title_zh": "基于自动化运维工具SaltStack、Ansible、Puppet等运维...",
+    "summary_zh": "本文对比分析了SaltStack、Ansible、Puppet等主流自动化运维工具的核心特性、架构差异及适用场景。从配置管理、远程执行、状态同步等维度出发，结合实际部署案例，评估各工具在批量服务器管理、应用部署、配置一致性保障等方面的表现。文章还探讨了如何根据团队规模、技术栈和运维需求选择合适的工具，并给出最佳实践建议，为运维工程师选型与落地自动化运维体系提供参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "200733a153d79d19aa95012775056ec9",
+    "title_en": "Kubernetes 常见运维技巧 - 知乎",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/437982537",
+    "published_at": "2026-07-30T19:11:54.160Z",
+    "fetched_at": "2026-07-30T19:11:54.160Z",
+    "title_zh": "Kubernetes 常见运维技巧",
+    "summary_zh": "本文总结了Kubernetes集群日常运维中的高频技巧，包括Pod故障排查、节点资源管理、持久化存储配置、网络策略调试以及RBAC权限控制等实用场景。作者结合生产环境经验，深入解析kubectl常用命令的高级用法、如何通过日志与事件快速定位问题，以及利用Helm进行应用版本管理。内容注重可操作性，适合已具备K8s基础、希望提升运维效率的工程师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "0cdd9387f4c3ed9dd31d7c598d9a0db8",
+    "title_en": "Linux运维入门教程（☆建议收藏☆）_linux运维教程...",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/younger_china/article/details/125736117",
+    "published_at": "2026-07-30T19:11:52.109Z",
+    "fetched_at": "2026-07-30T19:11:52.109Z",
+    "title_zh": "Linux运维入门教程（☆建议收藏☆）",
+    "summary_zh": "本文是一份面向初学者的Linux运维入门指南，涵盖系统安装、常用命令、文件权限管理、用户与组管理、进程监控、网络配置等核心基础操作。教程以实践为导向，通过具体示例演示如何快速上手日常运维任务，如使用systemctl管理服务、配置防火墙规则、查看系统日志等。适合希望系统掌握Linux运维基础技能的读者，内容结构清晰，便于按需查阅与反复练习。",
+    "topic": "ops"
+  },
+  {
     "id": "c1c45031d36c300470b148ea4ab460c3",
     "title_en": "46个常用的运维工具，全掌握马上逆袭？ - 知乎",
     "source": "zhuanlan.zhihu.com",
@@ -2143,60 +2198,5 @@
     "title_zh": "全球大模型一览表（2026年6月）_人工智能 - DeepSeek技术社区",
     "summary_zh": "本文以表格形式系统整理了2026年6月全球主要大模型的关键参数，包括模型规模、上下文长度、训练数据、开源状态及核心能力等。文章覆盖了国内外主流厂商的代表作，并附有简要的选型建议，适合作为技术团队进行模型调研与对比的快速参考手册，具有极高的实用价值。",
     "topic": "ai"
-  },
-  {
-    "id": "ec6cc7e1e9f678b743c94cbd12a3803b",
-    "title_en": "大模型榜单周报（2026/02/15） - KAI智习",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/xjk15082/p/19619738",
-    "published_at": "2026-07-30T01:29:21.294Z",
-    "fetched_at": "2026-07-30T01:29:21.294Z",
-    "title_zh": "大模型榜单周报（2026/02/15） - KAI智习",
-    "summary_zh": "本文为2026年2月15日发布的大模型性能周报，汇总了当周各大基准测试的最新排名与分数变化。文章不仅列出了榜单，还分析了排名波动背后的技术原因，如新版本发布、微调策略调整等。对于需要持续跟踪模型性能动态的AI工程师与研究者，这是一份及时且具有深度的技术简报。",
-    "topic": "ai"
-  },
-  {
-    "id": "c832a9fb8d92d123916da42082862235",
-    "title_en": "AI 大模型周报2026年1月 a",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=XO5BtHUuCpk",
-    "published_at": "2026-07-30T01:29:21.294Z",
-    "fetched_at": "2026-07-30T01:29:21.294Z",
-    "title_zh": "AI 大模型周报2026年1月 a",
-    "summary_zh": "本文是2026年1月的AI大模型领域周报，汇总了当月的重大发布、技术突破与行业动态。内容涵盖新模型发布、开源进展、训练方法创新以及应用落地案例。文章以简洁的摘要形式呈现，适合忙碌的技术从业者快速获取领域最新进展，保持对技术前沿的敏感度。",
-    "topic": "ai"
-  },
-  {
-    "id": "a4aa18ed9ecc62ea315a9de033a87451",
-    "title_en": "2026年2月AI模型大爆发：7大模型同月发布的史上最激烈竞争",
-    "source": "jangwook.net",
-    "url": "https://jangwook.net/zh/blog/zh/ai-model-rush-february-2026/",
-    "published_at": "2026-07-30T01:29:21.294Z",
-    "fetched_at": "2026-07-30T01:29:21.294Z",
-    "title_zh": "2026年2月AI模型大爆发：7大模型同月发布的史上最激烈竞争",
-    "summary_zh": "本文回顾了2026年2月AI模型领域的激烈竞争，当月共有7款重量级大模型密集发布。文章逐一分析了各模型的核心技术特点、性能表现与定位差异，并探讨了这种竞争格局对行业生态的影响。对于关注模型选型与技术趋势的读者，本文提供了全面的对比分析与深度洞察。",
-    "topic": "ai"
-  },
-  {
-    "id": "c298c5f27448828d181cfa3581e89546",
-    "title_en": "Linux内核史诗级本地提权漏洞全网深度复现、原理完整分析(CVE-2026-31431) | ZONE.CI 全球网",
-    "source": "zone.ci",
-    "url": "https://zone.ci/secarticles/wx/529369.html",
-    "published_at": "2026-07-29T18:59:33.424Z",
-    "fetched_at": "2026-07-29T18:59:33.424Z",
-    "title_zh": "Linux 内核史诗级本地提权漏洞深度复现与原理分析（CVE-2026-31431）",
-    "summary_zh": "本文对 CVE-2026-31431 这一 Linux 内核本地提权漏洞进行了完整的复现与原理剖析。漏洞源于内核内存管理子系统中的 use-after-free 缺陷，攻击者可通过精心构造的 eBPF 程序触发竞态条件，实现任意内核内存读写。文章详细描述了漏洞触发路径、利用原语构造（如修改 cred 结构体提权）以及绕过 KASLR 的方法，并提供了基于 QEMU 的调试环境搭建步骤。同时给出了临时缓解措施（禁用 unprivileged eBPF）与长期修复建议，适合内核安全研究人员与系统管理员深入理解。",
-    "topic": "security"
-  },
-  {
-    "id": "0234c1a4e61e1ac2c627534002f5b3be",
-    "title_en": "用开源利器打造企业级自动化运维平台：十年老兵的实战经验 | TrueSight",
-    "source": "tsight.io",
-    "url": "https://tsight.io/articles/7453671",
-    "published_at": "2026-07-29T18:59:33.424Z",
-    "fetched_at": "2026-07-29T18:59:33.424Z",
-    "title_zh": "用开源利器打造企业级自动化运维平台：十年老兵实战经验",
-    "summary_zh": "本文基于作者十年运维经验，分享了如何利用 Ansible、Prometheus、Grafana 与 ELK Stack 等开源工具构建企业级自动化运维平台。内容涵盖：基于 Ansible Playbook 的标准化配置管理与批量部署、Prometheus + Alertmanager 的告警体系设计、Grafana 仪表盘的多维度监控可视化，以及通过 Filebeat + Logstash 实现日志集中分析。文章还讨论了高可用架构下的工具链集成（如 Consul 服务发现与 Rancher 容器编排），并给出了从传统运维向 DevOps 转型的实践建议，适合运维团队参考。",
-    "topic": "ops"
   }
 ]
