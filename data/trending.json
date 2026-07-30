@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-07-30",
+      "summary_zh": "今日GitHub热门项目聚焦AI语音助手、地理信息平台与开源工具，涵盖实时语音交互、资产管理和深度伪造技术，展现云原生与本地化部署趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "language": "Python",
+          "stars_total": 12779,
+          "stars_today": 1421,
+          "description_zh": "将任何技术书籍PDF转化为Claude Code技能——随时可学习、参考并在工作中使用。"
+        },
+        {
+          "rank": 2,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description_en": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars_total": 19584,
+          "stars_today": 1022,
+          "description_zh": "创建并分享3D建筑项目。"
+        },
+        {
+          "rank": 3,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description_en": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+          "language": "Python",
+          "stars_total": 10401,
+          "stars_today": 945,
+          "description_zh": "精选的系统化交易资源列表，包括库、包、策略、书籍、博客和教程。"
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 235588,
+          "stars_today": 857,
+          "description_zh": "代理工具性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全性和研究优先的开发支持。"
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description_en": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars_total": 7875,
+          "stars_today": 827,
+          "description_zh": "使用开源模型构建本地语音代理"
+        },
+        {
+          "rank": 6,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars_total": 45389,
+          "stars_today": 682,
+          "description_zh": "💖🧸 自托管、你拥有的Grok伴侣，一个容纳waifu灵魂的容器，将数字生命带入我们的世界，旨在达到Neuro-sama的高度。支持实时语音聊天、我的世界、异星工厂游戏。支持Web / macOS / Windows。"
+        },
+        {
+          "rank": 7,
+          "name": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "description_en": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+          "language": "TypeScript",
+          "stars_total": 4060,
+          "stars_today": 671,
+          "description_zh": "一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。可在网页浏览器、桌面端、移动端以及Jupyter笔记本中运行。"
+        },
+        {
+          "rank": 8,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description_en": "The most RAM efficient harness",
+          "language": "Rust",
+          "stars_total": 13474,
+          "stars_today": 640,
+          "description_zh": "内存效率最高的工具框架"
+        },
+        {
+          "rank": 9,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 263302,
+          "stars_today": 616,
+          "description_zh": "一套行之有效的代理技能框架与软件开发方法论"
+        },
+        {
+          "rank": 10,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 16020,
+          "stars_today": 359,
+          "description_zh": "开源且免费——经阿里巴巴大规模验证。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置精细调优规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。"
+        },
+        {
+          "rank": 11,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description_en": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars_total": 51303,
+          "stars_today": 336,
+          "description_zh": "开源前沿语音AI"
+        },
+        {
+          "rank": 12,
+          "name": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "description_en": "Deepfakes Software For All",
+          "language": "Python",
+          "stars_total": 56291,
+          "stars_today": 166,
+          "description_zh": "面向所有人的Deepfakes软件"
+        },
+        {
+          "rank": 13,
+          "name": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "description_en": "A free open source IT asset/license management system",
+          "language": "PHP",
+          "stars_total": 14449,
+          "stars_today": 164,
+          "description_zh": "一个免费开源的IT资产/许可证管理系统"
+        },
+        {
+          "rank": 14,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars_total": 59088,
+          "stars_today": 154,
+          "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B站视频 | 评论爬虫、微博帖子 | 评论爬虫、百度贴吧帖子 | 百度贴吧评论回复爬虫 | 知乎问答文章 | 评论爬虫"
+        },
+        {
+          "rank": 15,
+          "name": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "description_en": "The open-source alternative to Claude Cowork (powered by opencode)",
+          "language": "TypeScript",
+          "stars_total": 17929,
+          "stars_today": 97,
+          "description_zh": "Claude Cowork的开源替代方案（基于opencode）"
+        },
+        {
+          "rank": 16,
+          "name": "MoonshotAI/FlashKDA",
+          "url": "https://github.com/MoonshotAI/FlashKDA",
+          "description_en": "FlashKDA: high-performance Kimi Delta Attention kernels",
+          "language": "Cuda",
+          "stars_total": 988,
+          "stars_today": 91,
+          "description_zh": "FlashKDA：高性能Kimi Delta注意力机制内核"
+        },
+        {
+          "rank": 17,
+          "name": "maderix/ANE",
+          "url": "https://github.com/maderix/ANE",
+          "description_en": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+          "language": "Objective-C",
+          "stars_total": 7148,
+          "stars_today": 22,
+          "description_zh": "通过逆向工程私有API在苹果神经网络引擎上训练神经网络"
+        }
+      ]
+    },
+    {
       "date": "2026-07-29",
       "summary_zh": "今日GitHub热门项目聚焦AI代理、地理信息与开源工具，涵盖语音交互、资产管理和深度伪造技术，展现云原生与本地化部署并重的趋势。",
       "projects": [
@@ -5011,162 +5187,6 @@
           "stars_total": 6073,
           "stars_today": 61,
           "description_zh": "常见用户密码分析器（CUPP）"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-29",
-      "summary_zh": "今日GitHub热门项目聚焦隐私通信、AI代理、GPU加速、语音识别、用户信息搜集、自动驾驶、开发者免费资源、身份认证、价值投资框架及视频编辑，涵盖隐私、AI与开发工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "ripienaar/free-for-dev",
-          "url": "https://github.com/ripienaar/free-for-dev",
-          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-          "language": "HTML",
-          "stars_total": 126629,
-          "stars_today": 1971,
-          "description_zh": "一份包含SaaS、PaaS和IaaS产品的列表，这些产品提供对DevOps和基础设施开发者有用的免费套餐"
-        },
-        {
-          "rank": 2,
-          "name": "simplex-chat/simplex-chat",
-          "url": "https://github.com/simplex-chat/simplex-chat",
-          "description_en": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-          "language": "Haskell",
-          "stars_total": 16397,
-          "stars_today": 1611,
-          "description_zh": "SimpleX——首个无需任何用户标识符运行的通讯网络，设计上100%私密！支持iOS、Android和桌面应用📱！"
-        },
-        {
-          "rank": 3,
-          "name": "xbtlin/ai-berkshire",
-          "url": "https://github.com/xbtlin/ai-berkshire",
-          "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-          "language": "Python",
-          "stars_total": 6527,
-          "stars_today": 1397,
-          "description_zh": "AI时代的伯克希尔：基于Claude Code / Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。"
-        },
-        {
-          "rank": 4,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 118717,
-          "stars_today": 1221,
-          "description_zh": "一个完整的AI代理机构触手可及——从前端魔法师到Reddit社区忍者，从奇思妙想注入者到现实检验者。每个代理都是具有个性、流程和经过验证的交付成果的专家。"
-        },
-        {
-          "rank": 5,
-          "name": "browser-use/video-use",
-          "url": "https://github.com/browser-use/video-use",
-          "description_en": "Edit videos with coding agents",
-          "language": "Python",
-          "stars_total": 11824,
-          "stars_today": 976,
-          "description_zh": "使用编码智能体编辑视频"
-        },
-        {
-          "rank": 6,
-          "name": "HKUDS/Vibe-Trading",
-          "url": "https://github.com/HKUDS/Vibe-Trading",
-          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
-          "language": "Python",
-          "stars_total": 14995,
-          "stars_today": 840,
-          "description_zh": "\"Vibe-Trading：您的个人交易智能体\""
-        },
-        {
-          "rank": 7,
-          "name": "altic-dev/FluidVoice",
-          "url": "https://github.com/altic-dev/FluidVoice",
-          "description_en": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
-          "language": "Swift",
-          "stars_total": 4282,
-          "stars_today": 836,
-          "description_zh": "FluidVoice - 最快的macOS离线听写应用 - 语音转文字完全本地化。一颗⭐能让我们走得更远:))"
-        },
-        {
-          "rank": 8,
-          "name": "commaai/openpilot",
-          "url": "https://github.com/commaai/openpilot",
-          "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-          "language": "Python",
-          "stars_total": 62729,
-          "stars_today": 465,
-          "description_zh": "openpilot是一个机器人操作系统。目前，它升级了300多款支持车型的驾驶辅助系统。"
-        },
-        {
-          "rank": 9,
-          "name": "cupy/cupy",
-          "url": "https://github.com/cupy/cupy",
-          "description_en": "NumPy & SciPy for GPU",
-          "language": "Python",
-          "stars_total": 11788,
-          "stars_today": 352,
-          "description_zh": "适用于GPU的NumPy和SciPy"
-        },
-        {
-          "rank": 10,
-          "name": "0xNyk/council-of-high-intelligence",
-          "url": "https://github.com/0xNyk/council-of-high-intelligence",
-          "description_en": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-          "language": "Shell",
-          "stars_total": 1785,
-          "stars_today": 323,
-          "description_zh": "18个AI角色跨越多个LLM提供商，为你权衡最艰难的决策。亚里士多德、费曼、卡尼曼、托瓦兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
-        },
-        {
-          "rank": 11,
-          "name": "refactoringhq/tolaria",
-          "url": "https://github.com/refactoringhq/tolaria",
-          "description_en": "Desktop app to manage markdown knowledge bases",
-          "language": "TypeScript",
-          "stars_total": 17448,
-          "stars_today": 249,
-          "description_zh": "用于管理Markdown知识库的桌面应用"
-        },
-        {
-          "rank": 12,
-          "name": "soxoj/maigret",
-          "url": "https://github.com/soxoj/maigret",
-          "description_en": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-          "language": "Python",
-          "stars_total": 34289,
-          "stars_today": 191,
-          "description_zh": "🕵️‍♂️ 通过用户名从3000多个网站收集个人档案"
-        },
-        {
-          "rank": 13,
-          "name": "veracrypt/VeraCrypt",
-          "url": "https://github.com/veracrypt/VeraCrypt",
-          "description_en": "Disk encryption with strong security based on TrueCrypt",
-          "language": "C",
-          "stars_total": 10436,
-          "stars_today": 187,
-          "description_zh": "基于TrueCrypt的磁盘加密，具有强大的安全性"
-        },
-        {
-          "rank": 14,
-          "name": "Unclecheng-li/VulnClaw",
-          "url": "https://github.com/Unclecheng-li/VulnClaw",
-          "description_en": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-          "language": "Python",
-          "stars_total": 1092,
-          "stars_today": 105,
-          "description_zh": "基于AI Agent + MCP工具链 + 渗透技能编排，配合大语言模型，自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
-        },
-        {
-          "rank": 15,
-          "name": "logto-io/logto",
-          "url": "https://github.com/logto-io/logto",
-          "description_en": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-          "language": "TypeScript",
-          "stars_total": 12556,
-          "stars_today": 77,
-          "description_zh": "🧑‍🚀 基于OIDC和OAuth 2.1构建的SaaS和AI应用认证与授权基础设施，支持多租户、单点登录和基于角色的访问控制。"
         }
       ]
     }
