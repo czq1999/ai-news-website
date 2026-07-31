@@ -1,5 +1,126 @@
 [
   {
+    "id": "846d9c03c3664f8cd8acd77c48c6c420",
+    "title_en": "Android 操作系统的安全补丁机制 / c13n",
+    "source": "c13n.club",
+    "url": "https://c13n.club/blog/2025-12-06",
+    "published_at": "2026-07-31T13:42:52.179Z",
+    "fetched_at": "2026-07-31T13:42:52.179Z",
+    "title_zh": "Android 操作系统的安全补丁机制 / c13n",
+    "summary_zh": "本文深入剖析了Android操作系统的安全补丁机制。文章详细介绍了Android安全公告（ASB）的发布流程、月度安全补丁级别的构成，以及补丁从AOSP到设备厂商再到终端用户的完整分发链路。作者重点分析了Project Treble和Mainline模块化架构对补丁更新效率的改进，并探讨了碎片化问题对安全补丁覆盖率的实际影响及应对策略，为理解移动生态安全维护的复杂性和技术演进提供了清晰的视角。",
+    "topic": "security"
+  },
+  {
+    "id": "cc4ff4f3bbf59c10c5d6f0213a0080ce",
+    "title_en": "【漏洞分析】CVE-2017-6178：从补丁对比到Exploit-安全KER - 安全资讯平台",
+    "source": "anquanke.com",
+    "url": "https://www.anquanke.com/post/id/86203",
+    "published_at": "2026-07-31T13:42:52.179Z",
+    "fetched_at": "2026-07-31T13:42:52.179Z",
+    "title_zh": "【漏洞分析】CVE-2017-6178：从补丁对比到Exploit-安全KER",
+    "summary_zh": "本文以CVE-2017-6178为例，完整演示了从补丁对比分析到Exploit构造的漏洞研究全过程。文章首先通过对比漏洞修复前后的代码差异，精准定位了触发漏洞的根本原因，并深入分析了漏洞的利用原语与触发条件。随后，作者详细讲解了如何基于补丁信息逆向推导出稳定的利用方法，包括内存布局操控、提权路径选择等关键技术细节。本文为安全研究人员提供了一套可复用的漏洞分析与利用开发方法论。",
+    "topic": "security"
+  },
+  {
+    "id": "5655134c0dd7af0aebf50d2941bac36d",
+    "title_en": "一种面向开源软件漏洞的补丁查找与解析方法",
+    "source": "shcas.net",
+    "url": "https://www.shcas.net/cn/article/pdf/preview/10.3969/j.issn.1000x.386x.2025.04.001.pdf",
+    "published_at": "2026-07-31T13:42:52.179Z",
+    "fetched_at": "2026-07-31T13:42:52.179Z",
+    "title_zh": "一种面向开源软件漏洞的补丁查找与解析方法",
+    "summary_zh": "本文提出了一种面向开源软件漏洞的补丁查找与解析方法，旨在解决漏洞情报与代码修复之间的关联难题。文章详细介绍了如何利用版本控制元数据、代码相似度分析以及NLP技术，从海量开源仓库中自动定位与特定CVE漏洞相关的提交（commit），并解析补丁的语义信息，提取受影响函数与修复模式。该方法可有效提升漏洞影响评估与自动化修复的准确率，为软件供应链安全分析提供了新的技术思路。",
+    "topic": "security"
+  },
+  {
+    "id": "5ab1e6215877e4d4b80ec97f52c6911e",
+    "title_en": "10｜自动化的运维管理：探究Kubernetes工作机制的...",
+    "source": "time.geekbang.org",
+    "url": "https://time.geekbang.org/column/article/529800",
+    "published_at": "2026-07-31T13:42:50.085Z",
+    "fetched_at": "2026-07-31T13:42:50.085Z",
+    "title_zh": "10｜自动化的运维管理：探究Kubernetes工作机制的奥秘",
+    "summary_zh": "本文深入探究Kubernetes实现自动化运维管理的核心工作机制。文章从声明式API、控制器循环、调谐模式等基础概念出发，剖析了Deployment、Service、HPA等核心资源对象如何协同工作，实现应用的自动化部署、弹性伸缩与自愈。作者通过生动的示例和底层原理讲解，揭示了kube-apiserver、etcd、kubelet等核心组件在自动化运维中的角色与交互流程，帮助读者从原理层面理解K8s强大自动化能力的来源，提升排障与架构设计能力。",
+    "topic": "ops"
+  },
+  {
+    "id": "1960ac4549839b8cc6a757b461f5419d",
+    "title_en": "操作系统安全加固 - 安恒数字人才创研院 - ...",
+    "source": "linkedbyx.com",
+    "url": "https://www.linkedbyx.com/course/316",
+    "published_at": "2026-07-31T13:42:50.085Z",
+    "fetched_at": "2026-07-31T13:42:50.085Z",
+    "title_zh": "操作系统安全加固 - 安恒数字人才创研院",
+    "summary_zh": "本文系统介绍了操作系统安全加固的核心原则与具体实践方法。内容覆盖账户与口令策略、文件系统权限管理、服务最小化配置、内核参数安全优化、日志审计与入侵检测等多个关键层面。文章结合等保2.0等合规要求，详细讲解了针对Linux和Windows系统的常见加固操作步骤与验证方法，并强调了安全加固在整体防御体系中的基础性作用。适合系统管理员与安全运维人员作为操作指南参考。",
+    "topic": "security"
+  },
+  {
+    "id": "3e2f19e88f7a06c4b428ea91975f62ad",
+    "title_en": "K8s集群运维管理最佳实践-企业级分布式应用服务...",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/edas/use-cases/best-practices-for-kubernetes-cluster-o-and-m",
+    "published_at": "2026-07-31T13:42:50.084Z",
+    "fetched_at": "2026-07-31T13:42:50.084Z",
+    "title_zh": "K8s集群运维管理最佳实践-企业级分布式应用服务",
+    "summary_zh": "本文聚焦于企业级Kubernetes集群的运维管理最佳实践，内容涵盖集群的规划部署、资源配额管理、安全策略配置、监控告警体系构建以及日志收集分析等核心运维环节。文章结合阿里云企业级分布式应用服务（EDAS）的实战经验，详细介绍了如何实现集群的高可用架构设计、自动化扩缩容策略以及多环境隔离方案，并针对大规模集群常见的性能瓶颈与故障场景给出了排查与优化建议，是K8s运维工程师的实用参考指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "8e255991b65abc095f29c2485ead40a7",
+    "title_en": "如何部署运维 K8s？我们整理了 3 份 Gartner 报告，...",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/623130227",
+    "published_at": "2026-07-31T13:42:50.084Z",
+    "fetched_at": "2026-07-31T13:42:50.084Z",
+    "title_zh": "如何部署运维 K8s？我们整理了 3 份 Gartner 报告，给出关键结论",
+    "summary_zh": "本文基于三份Gartner权威报告，提炼出关于Kubernetes部署与运维的关键结论与趋势洞察。文章对比分析了自建、托管和SaaS化等不同K8s部署模式的优劣，并针对生产环境中的运维挑战，如多集群管理、成本优化、平台工程化等，给出了策略性建议。内容旨在帮助技术管理者理解K8s生态的演进方向，并结合企业自身情况制定合理的平台战略，避免常见的技术选型与运维陷阱。",
+    "topic": "ops"
+  },
+  {
+    "id": "e5a791bee62ab069e7b1b1e62ce9455f",
+    "title_en": "从0到1构建 Kubernetes中间件运维平台：标准化、可...",
+    "source": "tech.dewu.com",
+    "url": "https://tech.dewu.com/article?id=164",
+    "published_at": "2026-07-31T13:42:50.084Z",
+    "fetched_at": "2026-07-31T13:42:50.085Z",
+    "title_zh": "从0到1构建 Kubernetes中间件运维平台：标准化、可观测与自动化",
+    "summary_zh": "本文分享了从零开始构建Kubernetes中间件运维平台的完整实践路径。文章重点阐述了如何通过标准化定义中间件部署规范、实现多集群统一管理，并构建涵盖指标、日志、链路追踪的立体化可观测体系。同时，作者详细介绍了如何利用Operator和自动化流水线实现中间件生命周期管理、弹性伸缩与故障自愈，显著提升运维效率。文中结合得物技术团队的实战案例，提供了平台架构设计、技术选型及落地过程中的宝贵经验。",
+    "topic": "ops"
+  },
+  {
+    "id": "9688694bdffeec6dbde563e82981d7e0",
+    "title_en": "AI Agent开发全攻略：从架构设计到商业落地实战指南",
+    "source": "betteryeah.com",
+    "url": "https://www.betteryeah.com/blog/complete-guide-to-ai-agent-development",
+    "published_at": "2026-07-31T13:42:48.691Z",
+    "fetched_at": "2026-07-31T13:42:48.691Z",
+    "title_zh": "AI Agent开发全攻略：从架构设计到商业落地实战指南",
+    "summary_zh": "本文系统性地阐述了AI Agent从架构设计到商业落地的完整路径。内容涵盖Agent的核心架构组件（如规划、记忆、工具调用）、主流框架选型对比、多Agent协作模式设计，以及在实际业务场景中的部署与优化策略。文章重点剖析了Agent在复杂任务中的稳定性、可观测性与成本控制等关键工程问题，并提供了从原型验证到规模化生产的实战经验，对技术决策者和AI工程师具有较高的参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "77139da3e1c219dcee95bcd567be1c97",
+    "title_en": "炼石成丹：大语言模型微调实战系列（一）数据准...",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-one/",
+    "published_at": "2026-07-31T13:42:48.691Z",
+    "fetched_at": "2026-07-31T13:42:48.691Z",
+    "title_zh": "炼石成丹：大语言模型微调实战系列（一）数据准备篇",
+    "summary_zh": "作为大语言模型微调实战系列的开篇，本文聚焦于微调流程中最基础也最关键的数据准备环节。文章详细讲解了数据采集、清洗、去重、格式转换及质量评估的完整方法论，并针对不同微调任务（如指令跟随、对话生成）给出了数据构建的具体建议。同时，作者分享了在AWS平台上进行大规模数据处理与存储的实践经验，包括使用SageMaker等工具提升数据流水线效率，为后续微调实验打下坚实基础。",
+    "topic": "ai"
+  },
+  {
+    "id": "9c59361058ece8a5cfc3be7f073765dc",
+    "title_en": "万字全景解读大模型微调技术：方法、实践与未来...",
+    "source": "woshipm.com",
+    "url": "https://www.woshipm.com/ai/6256219.html",
+    "published_at": "2026-07-31T13:42:48.691Z",
+    "fetched_at": "2026-07-31T13:42:48.691Z",
+    "title_zh": "万字全景解读大模型微调技术：方法、实践与未来趋势",
+    "summary_zh": "本文以万字篇幅全景式解读大模型微调技术，从基础概念出发，系统梳理了全参数微调、LoRA、QLoRA、P-Tuning等主流方法的原理、优缺点及适用场景。文章深入探讨了微调过程中的关键实践问题，如超参数调优、灾难性遗忘缓解、多任务学习策略等，并结合实际案例分析了不同方法在效果、成本与效率上的权衡。最后，作者展望了微调技术未来的发展方向，包括与RAG、Agent等技术的融合趋势，为读者提供了全面的技术视野。",
+    "topic": "ai"
+  },
+  {
     "id": "1d8e1a97fe94684ed78376d923964ce9",
     "title_en": "【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析 | 星图实验室",
     "source": "sandbox.qianxin.com",
@@ -2077,126 +2198,5 @@
     "title_zh": "操作系统安全与加固技术教程",
     "summary_zh": "本文是一份全面的操作系统安全与加固技术教程，覆盖Windows和Linux两大平台。内容从系统账户管理、文件权限设置、服务与进程安全、内核参数调优，到日志审计与入侵检测。文章重点讲解了Linux下的SELinux/AppArmor配置、SSH安全加固、以及系统完整性检查（AIDE）。对于Windows系统，则介绍了UAC、BitLocker及事件日志策略。适合系统管理员和安全运维人员作为日常加固工作的技术手册。",
     "topic": "security"
-  },
-  {
-    "id": "c51d0b362a6f86da993cdff9bec05b16",
-    "title_en": "操作系统安全加固| PDF",
-    "source": "scribd.com",
-    "url": "https://www.scribd.com/presentation/829640715/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "操作系统安全加固 | PDF",
-    "summary_zh": "本文以PDF文档形式系统总结了操作系统安全加固的核心要点，涵盖账户管理、文件系统权限、网络服务最小化、内核安全参数优化以及日志审计配置。内容兼顾Windows Server与主流Linux发行版（如CentOS、Ubuntu），提供了具体的命令行操作和配置文件修改示例。文章还讨论了补丁管理策略和基线合规检查工具（如OpenSCAP）的使用。对于需要快速建立系统安全基线或通过等保测评的团队，是一份实用的参考文档。",
-    "topic": "security"
-  },
-  {
-    "id": "b1650ca8852bb6464594110e30ddec5a",
-    "title_en": "安全加固指南（系统，数据库，中间件） 原创",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/weixin_42109829/article/details/126944546",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "安全加固指南（系统，数据库，中间件）原创",
-    "summary_zh": "本文是一份原创的安全加固指南，覆盖操作系统、数据库及中间件三大层面。系统层面包括Linux内核参数调优、SSH加固、SELinux策略；数据库层面针对MySQL、Redis等常见组件，讲解了权限最小化、连接加密、审计日志开启等操作；中间件层面则涉及Nginx、Tomcat的安全配置与漏洞修复。文章提供了具体的配置示例和脚本，适合运维和安全工程师在等保合规或日常安全运维中直接参考使用。",
-    "topic": "security"
-  },
-  {
-    "id": "d87372c6267f99bb21e42b59d278fb9a",
-    "title_en": "Linux系统安全加固-阿里云",
-    "source": "aliyun.com",
-    "url": "https://www.aliyun.com/sswb/251672.html",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "Linux系统安全加固-阿里云",
-    "summary_zh": "本文由阿里云出品，针对Linux系统提供了云端环境下的安全加固最佳实践。内容涵盖账户与认证安全（SSH密钥登录、密码策略）、系统服务最小化、防火墙配置（iptables/firewalld）、内核参数优化（防SYN攻击、IP转发控制）、以及文件完整性监控。文章还结合阿里云安全产品（如云安全中心、安骑士）介绍了自动化基线检查和漏洞修复方案。对于部署在云上的Linux服务器，本文提供了高可操作性的安全加固指导。",
-    "topic": "security"
-  },
-  {
-    "id": "6de498a85a274f97d225bedd5db6b004",
-    "title_en": "2026 年上半年全球常规被利用漏洞全景分析",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/2043112087396816838",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "2026 年上半年全球常规被利用漏洞全景分析",
-    "summary_zh": "本文对2026年上半年全球范围内被广泛利用的漏洞进行了全景式分析。内容基于CVE数据库、威胁情报源及安全厂商报告，梳理了最常被利用的漏洞TOP榜单，涵盖操作系统、Web应用、数据库及中间件等类别。文章深入分析了漏洞的利用方式、受影响版本、攻击趋势以及修复进展，并提供了针对性的缓解措施和补丁优先级建议。对于安全团队制定漏洞管理策略和应急响应计划具有重要的参考价值。",
-    "topic": "security"
-  },
-  {
-    "id": "d21b380b83339ea20367562bf52c025b",
-    "title_en": "2026年CVE數量恐破6.6萬個，FIRST國際資安應變組織提四項應對建議",
-    "source": "ithome.com.tw",
-    "url": "https://www.ithome.com.tw/news/176652",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "2026年CVE数量恐破6.6万个，FIRST国际资安应变组织提四项应对建议",
-    "summary_zh": "本文预测2026年CVE数量将突破6.6万个，反映出漏洞披露的指数级增长趋势。FIRST组织提出四项关键建议：包括自动化漏洞优先级排序、加强跨组织威胁情报共享、采用通用安全评分框架以及提升补丁管理效率。对于安全团队而言，核心挑战在于如何从海量CVE中精准识别高危漏洞并优先修复，建议结合CVSS评分、实际利用情况和资产暴露面进行风险排序。",
-    "topic": "security"
-  },
-  {
-    "id": "a39e0b3df2e0a0cd10fa926ea1c3fc39",
-    "title_en": "漏洞数据库 - AI 增强中文 CVE 平台 与情报 | 神龙漏洞库",
-    "source": "cve.imfht.com",
-    "url": "https://cve.imfht.com",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "漏洞数据库 - AI增强中文CVE平台与情报 | 神龙漏洞库",
-    "summary_zh": "神龙漏洞库是一个面向中文安全社区的人工智能增强型CVE平台，提供漏洞情报聚合、智能检索和关联分析能力。平台利用NLP技术对英文CVE描述进行中文语义理解与翻译，并自动提取受影响产品、版本范围、利用条件等关键字段。对于安全运维人员，该平台可辅助快速定位与自身资产相关的漏洞，减少人工筛选成本，提升应急响应效率。",
-    "topic": "security"
-  },
-  {
-    "id": "e07ae4e92acf7288634bb6ccde855904",
-    "title_en": "May 2026 CVE Landscape",
-    "source": "recordedfuture.com",
-    "url": "https://www.recordedfuture.com/blog/may-2026-cve-landscape",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "2026年5月CVE全景分析",
-    "summary_zh": "本文基于Recorded Future的威胁情报数据，对2026年5月的CVE态势进行全景扫描，涵盖新增漏洞数量、严重等级分布、受影响厂商及产品类型等关键指标。重点分析了本月活跃利用的漏洞及其在野攻击趋势，为安全团队提供优先级排序依据。建议结合威胁情报源，将CVE与ATT&CK框架映射，以评估实际业务风险并制定针对性的缓解措施。",
-    "topic": "security"
-  },
-  {
-    "id": "0b7d37b35b110db05efdd80fa69f1284",
-    "title_en": "2026 上半年高危 CVE 漏洞全景速览：1-4 月 TOP 20，你的系统中了几个？-腾讯云开发者社区-腾讯云",
-    "source": "developer.cloud.tencent.com",
-    "url": "https://developer.cloud.tencent.com/article/2683702",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "2026上半年高危CVE漏洞全景速览：1-4月TOP 20，你的系统中了几个？-腾讯云开发者社区-腾讯云",
-    "summary_zh": "本文汇总了2026年1至4月期间最危险的20个CVE漏洞，涵盖远程代码执行、权限提升、认证绕过等类型，涉及主流操作系统、Web服务器、数据库及云原生组件。每个漏洞均附有CVSS评分、影响版本和修复建议。对于运维和安全人员，建议立即对照资产清单排查受影响组件，优先修复已出现在野利用或PoC公开的高危漏洞，并建立持续监控机制。",
-    "topic": "security"
-  },
-  {
-    "id": "1150407474f5c6315c5788ae4333c8a9",
-    "title_en": "性能调优指南",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
-    "published_at": "2026-07-30T01:29:24.035Z",
-    "fetched_at": "2026-07-30T01:29:24.035Z",
-    "title_zh": "性能调优指南",
-    "summary_zh": "本文是Red Hat官方出品的Linux性能调优指南，系统性地介绍了从硬件到软件层的性能分析方法论。内容涵盖CPU调度策略、内存管理（NUMA绑定、Swap调优）、磁盘I/O（调度器选择、RAID配置）以及网络协议栈（TCP缓冲区、网卡多队列）的优化参数。重点讲解了如何利用perf、sar、tuned等工具进行性能基准测试与瓶颈定位，并给出了针对数据库、Web服务器等典型负载的调优案例。指南还提供了内核参数（sysctl）和cgroup资源控制的配置建议，是系统管理员进行性能工程化的权威参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "1f19d651288cc78c4e1dfede2b5ecc12",
-    "title_en": "Linux性能调优指南.pdf",
-    "source": "github.com",
-    "url": "https://github.com/ningyu1/e-books/blob/master/doc/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97.pdf",
-    "published_at": "2026-07-30T01:29:24.035Z",
-    "fetched_at": "2026-07-30T01:29:24.035Z",
-    "title_zh": "Linux性能调优指南.pdf",
-    "summary_zh": "这是一份系统化的Linux性能调优PDF文档，涵盖了从内核参数到应用层配置的完整优化框架。文档详细解析了CPU运行队列、上下文切换、内存回收机制（kswapd）、磁盘I/O调度算法（CFQ/Deadline/NOOP）以及网络软中断处理等底层原理。针对高并发场景，给出了包括epoll事件驱动、零拷贝技术、连接池优化等在内的实用建议。同时提供了基于perf和火焰图的性能分析方法，以及针对Nginx、Redis等常见服务的调优参数模板。内容兼具理论深度与操作指导，适合运维工程师和系统架构师参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "66b1f0db9d30c576cc457c7c75755fab",
-    "title_en": "Linux 性能调优工具：从原理到实践的全面指南",
-    "source": "linuxcool.com",
-    "url": "https://www.linuxcool.com/lxndygjcylds",
-    "published_at": "2026-07-30T01:29:24.035Z",
-    "fetched_at": "2026-07-30T01:29:24.035Z",
-    "title_zh": "Linux 性能调优工具：从原理到实践的全面指南",
-    "summary_zh": "本文全面介绍了Linux性能调优工具链，从原理到实践帮助读者掌握系统性能分析方法。内容覆盖了CPU性能分析工具（perf、mpstat）、内存监控工具（free、vmstat、slabtop）、磁盘I/O工具（iostat、iotop、blktrace）以及网络诊断工具（netstat、ss、tcpdump）的使用方法与输出解读。重点讲解了如何结合多种工具进行关联分析，例如通过perf record生成火焰图定位热点函数，利用strace追踪系统调用耗时。文章还提供了针对高负载场景的调优案例，如调整内核参数缓解TCP TIME_WAIT堆积，是一份实用的性能工程手册。",
-    "topic": "ops"
   }
 ]
