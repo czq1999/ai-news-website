@@ -1,5 +1,71 @@
 [
   {
+    "id": "1e04ceaacae046664444611fa0d850ae",
+    "title_en": "2026 年高危漏洞 TOP10 盘点与修复实战指南 - ...",
+    "source": "gm7.org",
+    "url": "https://www.gm7.org/archives/79173",
+    "published_at": "2026-07-31T19:10:17.719Z",
+    "fetched_at": "2026-07-31T19:10:17.719Z",
+    "title_zh": "2026 年高危漏洞 TOP10 盘点与修复实战指南",
+    "summary_zh": "本文前瞻性盘点2026年度十大高危漏洞，涵盖远程代码执行、权限提升、供应链攻击等类型，并深入分析每个漏洞的技术原理、影响范围及利用链。针对每类漏洞，文章提供详细的检测方法、临时缓解措施与永久修复方案，包括补丁管理、WAF规则、代码审计及运行时防护等。内容强调实战性，结合真实攻击案例，帮助安全团队建立漏洞优先级评估与快速响应机制，提升整体安全防护能力。",
+    "topic": "security"
+  },
+  {
+    "id": "13bbf78d32b3b46f16bedd98c129cbad",
+    "title_en": "漏洞數暴增263%，NIST縮減CVE分析範圍轉向風險優先 ...",
+    "source": "ithome.com.tw",
+    "url": "https://www.ithome.com.tw/news/175144",
+    "published_at": "2026-07-31T19:10:17.719Z",
+    "fetched_at": "2026-07-31T19:10:17.719Z",
+    "title_zh": "漏洞数暴增263%，NIST缩减CVE分析范围转向风险优先",
+    "summary_zh": "本文报道NIST因CVE漏洞数量同比暴增263%而调整策略，缩减对每个漏洞的深度分析范围，转向基于风险优先级的分类方法。文章详细解读NIST新框架的运作机制，包括如何利用CVSS评分、实际利用证据及资产重要性进行自动化筛选，并讨论这一变化对安全团队漏洞管理流程的影响。同时提供企业在漏洞洪流中建立风险导向的响应策略建议，以提升有限安全资源的利用效率。",
+    "topic": "security"
+  },
+  {
+    "id": "2eaa6e258124ea5fa0a1637ba27ca6f7",
+    "title_en": "CISA Adds One Known Exploited Vulnerability to Catalog | CISA",
+    "source": "cisa.gov",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/07/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+    "published_at": "2026-07-31T19:10:17.719Z",
+    "fetched_at": "2026-07-31T19:10:17.719Z",
+    "title_zh": "CISA将新增一个已知被利用漏洞加入目录 | CISA",
+    "summary_zh": "CISA（美国网络安全与基础设施安全局）根据已知被利用漏洞目录（KEV）机制，新增一个已被实际利用的漏洞。该目录是联邦机构漏洞修复的强制性依据，本次更新意味着相关漏洞已出现真实攻击活动，风险等级极高。文章分析该漏洞的技术细节、受影响产品及攻击场景，并给出紧急修复建议与临时缓解措施，强调组织应优先处理KEV目录中的漏洞，以降低被入侵风险。",
+    "topic": "security"
+  },
+  {
+    "id": "4c35348e68b7b5515abc88018768825c",
+    "title_en": "关于linux系统调优这一篇文章就够了-阿里云开发者...",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/946231",
+    "published_at": "2026-07-31T19:10:17.717Z",
+    "fetched_at": "2026-07-31T19:10:17.717Z",
+    "title_zh": "关于linux系统调优这一篇文章就够了-阿里云开发者",
+    "summary_zh": "本文是Linux系统调优的综合性实战指南，从内核参数、文件系统、内存管理、CPU调度到网络协议栈，系统梳理了影响系统性能的关键因素。文章提供大量可直接应用的sysctl配置、ulimit设置及磁盘I/O优化策略，并针对高并发Web服务、数据库等典型场景给出调优案例。作者结合阿里云生产环境经验，深入浅出地解释调优原理，帮助读者快速定位瓶颈并实施有效优化。",
+    "topic": "ops"
+  },
+  {
+    "id": "1150407474f5c6315c5788ae4333c8a9",
+    "title_en": "性能调优指南 | Red Hat Enterprise Linux | 7 | Red Hat ...",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
+    "published_at": "2026-07-31T19:10:17.716Z",
+    "fetched_at": "2026-07-31T19:10:17.716Z",
+    "title_zh": "性能调优指南 | Red Hat Enterprise Linux | 7 | Red Hat",
+    "summary_zh": "本指南是Red Hat Enterprise Linux 7系统性能调优的权威参考，涵盖CPU、内存、存储、网络及内核参数等关键子系统的优化方法。内容涉及tuned调优工具的使用、cgroup资源限制、磁盘I/O调度器选择、网络队列与中断绑定等实战技巧，并针对高吞吐、低延迟等不同工作负载给出具体配置示例。适合系统管理员与SRE在生产环境中进行性能瓶颈分析与系统级优化。",
+    "topic": "ops"
+  },
+  {
+    "id": "3585b5a3c3bff58b54ba091d9d9624f7",
+    "title_en": "大模型微调的方法选择与参数配置-人工智能平台 ...",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/pai/user-guide/llm-fine-tuning-experience",
+    "published_at": "2026-07-31T19:10:15.953Z",
+    "fetched_at": "2026-07-31T19:10:15.953Z",
+    "title_zh": "大模型微调的方法选择与参数配置-人工智能平台",
+    "summary_zh": "本文深入探讨大模型微调的核心方法论，系统对比全参数微调、LoRA、QLoRA及P-Tuning等主流技术的适用场景与优劣。重点解析关键超参数（学习率、批次大小、epoch数、LoRA秩等）对模型性能与收敛速度的影响，并给出基于任务类型与资源约束的配置建议。文章还涵盖数据预处理、过拟合防范及评估策略，为工程实践提供可操作的调参路径，帮助读者在有限算力下高效完成领域适配。",
+    "topic": "ai"
+  },
+  {
     "id": "846d9c03c3664f8cd8acd77c48c6c420",
     "title_en": "Android 操作系统的安全补丁机制 / c13n",
     "source": "c13n.club",
@@ -2131,72 +2197,6 @@
     "fetched_at": "2026-07-30T01:29:24.037Z",
     "title_zh": "高危漏洞 - 阿里云漏洞库",
     "summary_zh": "阿里云漏洞库（AVD）集中收录了经阿里云安全团队验证的高危漏洞信息，覆盖云原生、中间件、数据库及常见应用框架。每个漏洞条目包含详细的技术描述、影响范围、利用条件及官方修复方案。对于使用阿里云服务的用户，该库可直接关联到云安全中心进行资产影响分析，并支持一键生成应急响应工单，是云上安全运营的重要参考源。",
-    "topic": "security"
-  },
-  {
-    "id": "33c5a2fdef594a033e1e140446714186",
-    "title_en": "CVE 漏洞列表",
-    "source": "devco.re",
-    "url": "https://devco.re/research/cve",
-    "published_at": "2026-07-30T01:29:24.037Z",
-    "fetched_at": "2026-07-30T01:29:24.037Z",
-    "title_zh": "CVE漏洞列表",
-    "summary_zh": "本文由DEVCORE整理，提供了一个结构化的CVE漏洞列表，涵盖从操作系统到应用层的各类安全缺陷。列表强调漏洞的实际可利用性与影响范围，而非仅依赖CVSS评分。对于渗透测试人员和红队成员，该列表可作为漏洞验证和利用链构建的参考。建议结合自身测试环境，优先关注已公开PoC且影响面广的漏洞，以提升安全评估的实战价值。",
-    "topic": "security"
-  },
-  {
-    "id": "9f321d9510a77757eee8b013cffb091a",
-    "title_en": "Docker硬件配置要求与优化方案全解析（2025版）",
-    "source": "comate.baidu.com",
-    "url": "https://comate.baidu.com/zh/page/mji7aw3hr9v",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "Docker硬件配置要求与优化方案全解析（2025版）",
-    "summary_zh": "本文全面解析了2025年Docker运行所需的硬件配置要求及优化方案。内容涵盖CPU、内存、磁盘I/O及网络带宽的基准建议，针对不同负载场景（如开发环境、CI/CD、生产容器）给出了差异化的配置推荐。文章重点介绍了存储驱动选择（overlay2 vs. devicemapper）、资源限制（cgroups）调优、以及日志驱动对性能的影响。此外，还提供了在裸金属和云环境下的性能压测数据与调优案例，是Docker运维人员的实用参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "604b82cbddf294dfc5eff29f5a0c9775",
-    "title_en": "Docker 原理新手指南：一文看懂Docker 是什么?",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/topics/containers/what-is-docker",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "Docker 原理新手指南：一文看懂Docker 是什么?",
-    "summary_zh": "本文以新手视角系统讲解了Docker的核心原理，包括镜像分层构建、容器运行时隔离（Namespace与Cgroups）、以及Docker引擎的架构（客户端-守护进程模式）。文章通过对比传统虚拟化技术，解释了Docker为何更轻量、启动更快。同时介绍了Dockerfile的编写要点、常用命令以及镜像仓库的使用。对于刚接触容器技术的开发者，本文提供了清晰的概念梳理和入门指引，帮助快速建立对Docker的整体认知。",
-    "topic": "ops"
-  },
-  {
-    "id": "2feeda82d4e38430ea24d02a22d4748d",
-    "title_en": "第十章应用程序安全加固",
-    "source": "c4pr1c3.github.io",
-    "url": "https://c4pr1c3.github.io/cuc-ns/chap0x10/main.html",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "应用程序安全加固",
-    "summary_zh": "本文聚焦于应用程序层面的安全加固技术，涵盖输入验证、输出编码、身份认证与会话管理、访问控制、加密存储以及错误处理等关键领域。文章详细介绍了OWASP Top 10常见漏洞的防御策略，如SQL注入、XSS、CSRF的防护编码实践。此外，还讨论了安全开发生命周期（SDL）中的代码审计、依赖库漏洞扫描以及运行时应用自我保护（RASP）技术。对于开发和安全工程师而言，这是一份实用的应用安全加固指南。",
-    "topic": "security"
-  },
-  {
-    "id": "d45c9afaa8d731258ab9cb88066b5b1c",
-    "title_en": "网络安全标准实践指南- —Windows 7 操作系统安全加固指引",
-    "source": "tc260.org.cn",
-    "url": "https://www.tc260.org.cn/upload/2022-04-11/1649670389812008244.pdf",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "网络安全标准实践指南 - Windows 7 操作系统安全加固指引",
-    "summary_zh": "本文依据网络安全标准实践指南，针对Windows 7操作系统提供了详细的安全加固指引。内容涵盖账户策略强化（密码复杂度、锁定阈值）、审计策略配置、服务与端口最小化、防火墙规则设置、以及补丁管理。文章还特别强调了针对已停止支持的Windows 7系统，如何通过组策略和第三方工具进行风险缓解。对于仍在使用Windows 7的遗留系统环境，本文提供了合规且可操作的安全加固方案。",
-    "topic": "security"
-  },
-  {
-    "id": "df5f09c32bca8cb89532f4a48dd61186",
-    "title_en": "操作系统安全与加固技术教程",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/708114505",
-    "published_at": "2026-07-30T01:29:24.036Z",
-    "fetched_at": "2026-07-30T01:29:24.036Z",
-    "title_zh": "操作系统安全与加固技术教程",
-    "summary_zh": "本文是一份全面的操作系统安全与加固技术教程，覆盖Windows和Linux两大平台。内容从系统账户管理、文件权限设置、服务与进程安全、内核参数调优，到日志审计与入侵检测。文章重点讲解了Linux下的SELinux/AppArmor配置、SSH安全加固、以及系统完整性检查（AIDE）。对于Windows系统，则介绍了UAC、BitLocker及事件日志策略。适合系统管理员和安全运维人员作为日常加固工作的技术手册。",
     "topic": "security"
   }
 ]
