@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-01",
-      "summary_zh": "今日GitHub热门涵盖AI安全工具链、开源协作替代方案、系统化交易资源、微软AI教程、Copilot SDK及项目管理工具，聚焦AI赋能开发与安全研究。",
+      "summary_zh": "今日GitHub热门涵盖AI安全工具链、开源协作替代品、系统化交易资源、微软AI入门课程及Copilot SDK等，聚焦AI赋能开发与安全研究。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/microsoft/AI-For-Beginners",
           "description_en": "12 Weeks, 24 Lessons, AI for All!",
           "language": "Jupyter Notebook",
-          "stars_total": 55356,
+          "stars_total": 55575,
           "stars_today": 1592,
           "description_zh": "12 周，24 课，人人可学的 AI！"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/different-ai/openwork",
           "description_en": "The open-source alternative to Claude Cowork (powered by opencode)",
           "language": "TypeScript",
-          "stars_total": 19534,
+          "stars_total": 19701,
           "stars_today": 806,
           "description_zh": "Claude Cowork 的开源替代品（由 opencode 驱动）"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
           "description_en": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
           "language": "Python",
-          "stars_total": 11776,
+          "stars_total": 11912,
           "stars_today": 763,
           "description_zh": "精选的系统化交易库、包、策略、书籍、博客、教程列表。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_total": 56245,
+          "stars_total": 56401,
           "stars_today": 658,
           "description_zh": "AI 代理技能，可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合生成有依据的摘要"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/1jehuang/jcode",
           "description_en": "The most RAM efficient harness",
           "language": "Rust",
-          "stars_total": 14635,
+          "stars_total": 14742,
           "stars_today": 527,
           "description_zh": "最高效的 RAM 利用框架"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/zhaoxuya520/reverse-skill",
           "description_en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
           "language": "PowerShell",
-          "stars_total": 10775,
+          "stars_total": 11126,
           "stars_today": 335,
           "description_zh": "逆向工程/授权渗透测试/安全研究技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/agavra/tuicr",
           "description_en": "a code review TUI with vim keybindings",
           "language": "Rust",
-          "stars_total": 2164,
+          "stars_total": 2208,
           "stars_today": 335,
           "description_zh": "一个支持 vim 键绑定的代码审查 TUI"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/usekaneo/kaneo",
           "description_en": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
           "language": "TypeScript",
-          "stars_total": 5116,
+          "stars_total": 5311,
           "stars_today": 194,
           "description_zh": "🎯 你需要的一切，没有多余的。开源项目管理，为你服务，而非与你对抗。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/deepfakes/faceswap",
           "description_en": "Deepfakes Software For All",
           "language": "Python",
-          "stars_total": 57001,
+          "stars_total": 57118,
           "stars_today": 93,
           "description_zh": "适用于所有人的 Deepfakes 软件"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
           "description_en": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
           "language": "C++",
-          "stars_total": 5029,
+          "stars_total": 5163,
           "stars_today": 83,
           "description_zh": "一款硬件黑客工具，配备基于 Web 的 CLI，支持所有协议"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/chatwoot/chatwoot",
           "description_en": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
           "language": "Ruby",
-          "stars_total": 35136,
+          "stars_total": 35233,
           "stars_today": 35,
           "description_zh": "开源实时聊天、邮件支持、全渠道客服平台。Intercom、Zendesk、Salesforce Service Cloud 等的替代品。🔥💬"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/github/copilot-sdk",
           "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
           "language": "Java",
-          "stars_total": 10143,
+          "stars_total": 10175,
           "stars_today": 7,
           "description_zh": "用于将 GitHub Copilot Agent 集成到应用和服务中的多平台 SDK"
         }
