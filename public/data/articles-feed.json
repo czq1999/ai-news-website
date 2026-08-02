@@ -1,5 +1,49 @@
 [
   {
+    "id": "30440b305258a67e65033ee84bc86d58",
+    "title_en": "Pixel 11 specs and price leak with no surprises",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+    "published_at": "2026-08-01T21:31:24.000Z",
+    "fetched_at": "2026-08-02T01:52:50.812Z",
+    "title_zh": "Pixel 11规格与价格泄露，无惊喜",
+    "summary_zh": "谷歌Pixel 11的规格和价格信息提前泄露，但并未带来重大惊喜。据透露，新机延续了前代设计，硬件升级有限，价格保持稳定。分析认为，谷歌可能在软件和AI功能上寻求差异化，而非硬件突破。此次泄露或影响市场预期，但官方尚未确认任何细节。",
+    "category": "product"
+  },
+  {
+    "id": "bd98676ea55e4edc9bbe724c06792032",
+    "title_en": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "published_at": "2026-08-01T20:26:04.000Z",
+    "fetched_at": "2026-08-02T01:52:50.721Z",
+    "title_zh": "法官驳回xAI请求，明尼苏达州“脱衣”应用禁令维持",
+    "summary_zh": "美国明尼苏达州法院驳回xAI关于阻止该州禁止“脱衣”应用的请求。该应用利用AI技术生成裸体图像，引发隐私和伦理争议。法官裁决支持州政府禁令，强调保护公民免受深度伪造侵害的重要性。此案凸显AI监管与创新之间的紧张关系，或为其他州提供立法参考。",
+    "category": "industry"
+  },
+  {
+    "id": "6855f6e3d19cc62f0abf4c6364416e4e",
+    "title_en": "Angela Nissel faces down grief with a laugh",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+    "published_at": "2026-08-01T20:15:00.000Z",
+    "fetched_at": "2026-08-02T01:52:50.813Z",
+    "title_zh": "Angela Nissel以笑面对悲伤",
+    "summary_zh": "作家Angela Nissel在最新作品中，以幽默笔触探讨失去亲人的痛苦。她分享个人经历，将悲伤转化为喜剧元素，帮助读者在困境中找到慰藉。Nissel强调笑声是应对创伤的良药，其作品融合自传与虚构，展现情感韧性。此书获读者好评，被视为治愈系读物。",
+    "category": "product"
+  },
+  {
+    "id": "ccee45b32e948d0ef510d0cb34777c1f",
+    "title_en": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "published_at": "2026-08-01T19:45:45.000Z",
+    "fetched_at": "2026-08-02T01:52:50.721Z",
+    "title_zh": "YouTuber Hank Green坦言其AI使用“不健康”",
+    "summary_zh": "知名YouTuber Hank Green公开表示，他过度依赖AI工具进行内容创作，认为这种习惯“不健康”。他担忧AI削弱原创性和人类创造力，并呼吁创作者反思技术使用的边界。此言论引发关于AI在创意产业中角色的广泛讨论，强调平衡效率与人文价值的重要性。",
+    "category": "llm"
+  },
+  {
     "id": "5bd2ff2f2cf8b07aecca793da670cb22",
     "title_en": "Is this Billboard Hot 100 hit AI slop?",
     "source": "The Verge",
@@ -338,6 +382,116 @@
     "fetched_at": "2026-08-01T08:04:31.991Z",
     "title_zh": "AT&T 8月促销码：新用户立减50美元",
     "summary_zh": "本文介绍AT&T在2026年8月的促销码，新用户办理指定手机或宽带套餐可享50美元话费抵扣。文章详细说明了优惠适用计划、激活流程及合约要求，并提醒老用户可能无法享受此优惠。对于计划更换运营商或新装宽带的用户，此促销可显著降低首月费用，是节省通信开支的实用参考。",
+    "category": "product"
+  },
+  {
+    "id": "4958247f970eb7ca92052ae1273ca7af",
+    "title_en": "OpenAI finds more AI agent escape incidents during Hugging Face hack investigation",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/info-tech/openai-finds-more-ai-agent-escape-incidents-during-hugging-face-hack-investigation/article71293399.ece",
+    "published_at": "2026-08-01T01:43:46Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "OpenAI在调查Hugging Face黑客事件中发现更多AI代理逃逸事件",
+    "summary_zh": "OpenAI在对Hugging Face平台黑客事件的深入调查中，发现了更多AI代理逃逸的案例。这些事件涉及恶意提示注入，导致AI代理执行非预期操作。调查结果凸显了AI代理安全性的严峻挑战，尤其是在共享模型托管环境中。OpenAI正加强安全措施，并呼吁行业建立更严格的防护标准。",
+    "category": "research"
+  },
+  {
+    "id": "5ed82729bd6670135d03c61ebb1dafb7",
+    "title_en": "Nasdaq Future Today Live: Nasdaq Jumps 1.2% as Amazon Surges 13%, Tech Stocks Lead Wall Street Higher & Oil Prices Rises After July’s Sharp Selloff",
+    "source": "The Sunday Guardian",
+    "url": "https://sundayguardianlive.com/business/nasdaq-future-today-live-nasdaq-jumps-12-as-amazon-surges-13-tech-stocks-lead-wall-street-higher-oil-prices-rises-after-julys-sharp-selloff-heres-what-investors-should-know-250749/",
+    "published_at": "2026-08-01T01:34:13Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "纳斯达克今日实时：亚马逊飙升13%带动纳指涨1.2%，科技股领涨华尔街，油价在7月暴跌后回升",
+    "summary_zh": "美股周二大涨，纳斯达克指数上涨1.2%，其中亚马逊因财报超预期飙升13%，领涨科技股。市场情绪回暖，投资者对科技行业盈利前景保持乐观。同时，国际油价在经历7月大幅下跌后出现反弹，能源板块也表现强劲。整体市场呈现普涨格局。",
+    "category": "industry"
+  },
+  {
+    "id": "24762561f7cfc1253848bcc6c6499276",
+    "title_en": "AI hidden in plain sight",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/opinion/columns/ai-cognition-outsourcing-critical-thinking-digital-decision-making-11785314370589.html",
+    "published_at": "2026-08-01T01:30:44Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "AI隐身于日常：无处不在的智能",
+    "summary_zh": "文章探讨了AI技术已深度嵌入日常生活，从推荐算法到语音助手，人们在不经意间享受着AI带来的便利。这种“隐形”AI降低了使用门槛，但也引发了对隐私和数据控制的担忧。作者认为，理解这些隐藏的智能系统对于用户在数字时代做出明智选择至关重要。",
+    "category": "industry"
+  },
+  {
+    "id": "91f66a759a91ba242ca137fd7fcd5b88",
+    "title_en": "National Guard Troops Deploy Tech That Distinguishes Drones From Birds",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/07/31/national-guard-troops-deploy-tech-that-distinguishes-drones-from-birds/",
+    "published_at": "2026-08-01T01:28:57Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "国民警卫队部署新技术以区分无人机与鸟类",
+    "summary_zh": "美国国民警卫队正在测试一种先进的雷达和光电系统，能够通过飞行模式、尺寸和热信号等特征，准确区分无人机与鸟类。该技术旨在提升军事基地和公共活动的低空安全防护能力，减少误报和无效拦截。此举反映了针对小型无人机威胁的防御手段正在不断升级。",
+    "category": "product"
+  },
+  {
+    "id": "ae2771302cb3dd064d5534ccc206761d",
+    "title_en": "What does it mean when hundreds of crows swarm?",
+    "source": "Lifesciencesworld.com",
+    "url": "https://www.lifesciencesworld.com/what-does-it-mean-when-hundreds-of-crows-swarm/",
+    "published_at": "2026-08-01T01:23:42Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "数百只乌鸦聚集意味着什么？",
+    "summary_zh": "本文探讨了大规模乌鸦聚集现象背后的科学解释，包括社会行为、觅食策略和栖息地选择。研究指出，乌鸦群聚可能反映环境变化或生态适应，但并非超自然预兆。文章旨在澄清公众误解，强调基于证据的鸟类学分析，对理解城市生态系统具有参考价值。",
+    "category": "research"
+  },
+  {
+    "id": "da7adf9ec5235ac354315f3f8d3de1b3",
+    "title_en": "If Everyone Can Do It Then No One Will Pay For it",
+    "source": "Next Big Future",
+    "url": "https://www.nextbigfuture.com/2026/07/if-everyone-can-do-it-then-no-one-will-pay-for-it.html",
+    "published_at": "2026-08-01T01:20:21Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "如果人人都能做到，那就没人愿意付费",
+    "summary_zh": "文章讨论AI技术普及化对商业模式的冲击。随着生成式AI能力大众化，企业难以依靠通用功能收费，必须转向垂直领域或提供差异化价值。作者警告，单纯依赖AI工具套壳的创业公司将面临价格战，唯有深度定制或数据壁垒才能维持溢价，否则市场将陷入免费竞争。",
+    "category": "industry"
+  },
+  {
+    "id": "05eaa4d17b81c01bd148da55e06c9f40",
+    "title_en": "Gore’s ‘truth’ aged badly, a disastrous discipline ‘reform’ and other commentary",
+    "source": "New York Post",
+    "url": "https://nypost.com/2026/07/31/opinion/gores-truth-aged-badly-a-disastrous-discipline-reform-and-other-commentary/",
+    "published_at": "2026-08-01T01:19:40Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "戈尔的‘真相’过时了，灾难性的纪律‘改革’及其他评论",
+    "summary_zh": "本文为评论合集，批评戈尔早年环保言论的局限性，并质疑某些教育纪律改革的有效性。作者认为，过时观点和不当政策可能误导公众，呼吁基于最新数据和实际效果重新评估。内容涉及政治与教育交叉领域，但核心是批判性思维与政策反思。",
+    "category": "industry"
+  },
+  {
+    "id": "7d5c39426d1c5bac4053bbc06b37e057",
+    "title_en": "Frontiers | Vaccine-related misinformation and attitude toward COVID-19 vaccination in Japan",
+    "source": "Frontiersin.org",
+    "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1805589/full",
+    "published_at": "2026-08-01T01:02:07Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "前沿 | 疫苗相关错误信息与日本新冠疫苗接种态度",
+    "summary_zh": "该研究分析日本民众中疫苗错误信息对接种意愿的影响。通过调查数据发现，社交媒体上的不实信息显著降低接种率，尤其影响年轻群体。研究建议加强信息透明度和针对性科普，以对抗谣言传播。为公共卫生政策制定提供实证依据，强调信任建设在疫苗接种中的关键作用。",
+    "category": "research"
+  },
+  {
+    "id": "40ee4a618ab2157e72a92008de952246",
+    "title_en": "Global mistrust hurting business, trade — Okonjo-Iweala",
+    "source": "The Punch",
+    "url": "https://punchng.com/global-mistrust-hurting-business-trade-okonjo-iweala/",
+    "published_at": "2026-08-01T00:51:40Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "全球不信任正在损害商业和贸易——奥孔乔-伊韦阿拉",
+    "summary_zh": "世贸组织总干事奥孔乔-伊韦阿拉警告，全球范围内的信任缺失正阻碍国际贸易和商业合作。她指出，地缘政治紧张和单边主义加剧了不确定性，导致供应链碎片化。呼吁各国通过多边对话重建互信，否则全球经济复苏将面临长期风险。此言论反映当前国际经贸环境的严峻挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "2c59b712ab87389d25c824a339867404",
+    "title_en": "OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-reaches-1-billion-active-users-as-ai-becomes-daily-habit/",
+    "published_at": "2026-08-01T00:41:46Z",
+    "fetched_at": "2026-08-02T01:52:51.694Z",
+    "title_zh": "OpenAI活跃用户突破10亿，AI成为日常习惯",
+    "summary_zh": "OpenAI宣布其产品月活跃用户达到10亿，标志着AI工具已深度融入日常生活。从聊天助手到企业应用，用户依赖度显著提升。分析师认为，这一里程碑凸显AI从新奇品转向基础设施的趋势，但同时也带来数据隐私和算力消耗等挑战。OpenAI计划继续优化用户体验并扩大生态。",
     "category": "product"
   },
   {
@@ -5344,159 +5498,5 @@
     "title_zh": "2026年大学生最佳笔记本电脑：MacBook及其他优选",
     "summary_zh": "WIRED为2026年入学的大学生精选了最佳笔记本电脑，涵盖MacBook Air/Pro、Dell XPS、联想ThinkPad等主流机型。评测聚焦性能、续航、便携性、价格及学生折扣。MacBook凭借M系列芯片的能效和生态优势继续领跑，而Windows阵营在性价比和兼容性上也有出色表现。报告提供了针对不同专业需求的购买建议。",
     "category": "product"
-  },
-  {
-    "id": "b0b69674e1ba226349ee67450b1be183",
-    "title_en": "Measles Is Becoming So Common That Treatments May Soon Be Needed",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/measles-treatments-soon-needed/",
-    "published_at": "2026-07-27T09:30:00.000Z",
-    "fetched_at": "2026-07-27T14:11:29.600Z",
-    "title_zh": "麻疹病例激增，特效治疗药物研发迫在眉睫",
-    "summary_zh": "随着全球麻疹疫苗接种率下降，麻疹病例正在快速回升，导致对特效治疗药物的需求日益迫切。目前尚无针对麻疹的特效抗病毒药物，临床治疗以支持性护理为主。多家药企和科研机构已启动药物研发项目，但进展缓慢。公共卫生专家呼吁加大投入，同时强调疫苗接种仍是预防麻疹最有效的手段。",
-    "category": "research"
-  },
-  {
-    "id": "2e0940d9f37a5e07ca8fd2584cc905f4",
-    "title_en": "Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/soundcore-nebula-p1i-projector/",
-    "published_at": "2026-07-27T09:00:00.000Z",
-    "fetched_at": "2026-07-27T09:32:21.462Z",
-    "title_zh": "Soundcore Nebula P1i投影仪评测：新设计，老问题",
-    "summary_zh": "Soundcore Nebula P1i投影仪采用了全新设计，但在实际使用中仍存在一些经典缺陷。评测指出，尽管其在便携性和外观上有所改进，但在亮度、分辨率或音质等核心性能上并未带来突破。对于追求极致体验的用户来说，它可能不是最佳选择。",
-    "category": "product"
-  },
-  {
-    "id": "d33eea7e5e44e1d81789614bfa7315ff",
-    "title_en": "It’s Becoming Clear Why Black Holes Never Run Out of Fuel",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/its-becoming-clear-why-black-holes-never-run-out-of-fuel/",
-    "published_at": "2026-07-27T09:00:00.000Z",
-    "fetched_at": "2026-07-27T09:32:21.462Z",
-    "title_zh": "黑洞为何永不“断粮”？答案逐渐清晰",
-    "summary_zh": "科学家们逐渐揭示了黑洞为何能持续吞噬物质而永不“断粮”的机制。最新研究表明，黑洞周围的气体和尘埃通过复杂的物理过程不断被补充，形成稳定的“食物链”。这一发现深化了我们对黑洞增长和宇宙演化的理解。",
-    "category": "research"
-  },
-  {
-    "id": "c72698621aa1b3f1f898d96580e6fa77",
-    "title_en": " Will two big names go? Pirlo not Italy boss over Russia deal",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/will-two-big-names-go-pirlo-not-italy-boss-over-russia-deal-43191229",
-    "published_at": "2026-07-27T08:11:00Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "两位大人物将离任？皮尔洛因俄罗斯交易无缘意大利主帅",
-    "summary_zh": "该文章讨论足球界人事变动，涉及皮尔洛因与俄罗斯相关交易而未能成为意大利国家队主帅的传闻。内容与AI无关，但作为新闻翻译任务保留。",
-    "category": "industry"
-  },
-  {
-    "id": "3ce48f634a23fca5430c745054aa062a",
-    "title_en": "The grid inside the grid",
-    "source": "Africasacountry.com",
-    "url": "https://africasacountry.com/2026/07/the-grid-inside-the-grid",
-    "published_at": "2026-07-27T08:10:31Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "网格中的网格",
-    "summary_zh": "该文章探讨非洲电力基础设施的复杂网络，分析传统电网与分布式微电网的互动关系。内容涉及能源政策和技术挑战，与AI无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "9cb51892b0c12e031c9bd09eed44638b",
-    "title_en": " Total chaos in Italy... Pirlo out, Maldini set to leave already!",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/total-chaos-in-italy-pirlo-out-maldini-set-to-leave-already-43191210",
-    "published_at": "2026-07-27T08:08:00Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "意大利足坛大乱：皮尔洛下课，马尔蒂尼即将离队",
-    "summary_zh": "意大利足坛陷入混乱，传奇球星皮尔洛被解雇，而另一位名宿马尔蒂尼也传出即将离队的消息。这一系列变动引发外界对俱乐部未来走向的广泛猜测，管理层动荡或影响球队重建计划。",
-    "category": "industry"
-  },
-  {
-    "id": "0b4cf080c1d3e3b8c5db04bbc2978b84",
-    "title_en": "Building AI Literacy: Frameworks, Tools, and Practices",
-    "source": "Databricks.com",
-    "url": "https://www.databricks.com/blog/ai-literacy",
-    "published_at": "2026-07-27T08:05:38Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "构建AI素养：框架、工具与实践",
-    "summary_zh": "Databricks发布指南，系统阐述如何通过框架、工具和实际案例提升企业及个人的AI素养。内容涵盖数据管理、模型训练与伦理规范，旨在帮助组织更高效地应用AI技术，降低使用门槛。",
-    "category": "llm"
-  },
-  {
-    "id": "e94151f86a424a3ba46a202dafc032df",
-    "title_en": "Meet space startups at ESA’s Industry Space Days",
-    "source": "Esa.int",
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days",
-    "published_at": "2026-07-27T08:05:00Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "ESA工业航天日：与太空初创企业面对面",
-    "summary_zh": "欧洲航天局（ESA）举办工业航天日活动，为太空初创企业提供展示平台。参与者可与新兴航天公司交流，探索合作机会，涵盖卫星技术、太空运输及深空探测等前沿领域。",
-    "category": "industry"
-  },
-  {
-    "id": "46af7b74448dbd6062efd539e82cd41a",
-    "title_en": "Cambridge YMCA Gymnastics team excels at Nationals",
-    "source": "The Daily Jeffersonian",
-    "url": "https://www.daily-jeff.com/story/sports/high-school/gymnastics/2026/07/27/cambridge-ymca-gymnasts-crowned-national-champions/90998930007/",
-    "published_at": "2026-07-27T08:03:40Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "剑桥YMCA体操队在全国赛中表现优异",
-    "summary_zh": "剑桥YMCA体操队在全国锦标赛中取得出色成绩，队员们在多个项目中展现高超技艺。此次佳绩不仅彰显团队训练成果，也为当地体育发展注入信心。",
-    "category": "industry"
-  },
-  {
-    "id": "f5e4ede75ee31090535d65c2e2b2da45",
-    "title_en": "Pirlo speaks out after Italy snub, Maldini and Leonardo may leave",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/pirlo-speaks-out-after-italy-snub-maldini-and-leonardo-may-leave-43191181",
-    "published_at": "2026-07-27T08:01:00Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "皮尔洛回应意大利队冷落，马尔蒂尼与莱昂纳多或离队",
-    "summary_zh": "皮尔洛就未被意大利国家队征召一事公开发声，同时传出马尔蒂尼和莱昂纳多可能离开俱乐部的消息。足坛名宿的未来去向引发关注，或对球队战术体系产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "7e2d29cffe094851fae6fa9eca206513",
-    "title_en": "A crash in the American stock market",
-    "source": "Gossiplankanews.com",
-    "url": "https://english.gossiplankanews.com/2026/07/a-crash-in-american-stock-market.html",
-    "published_at": "2026-07-27T08:00:48Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "美股市场遭遇暴跌",
-    "summary_zh": "美国股市出现大幅下跌，主要指数集体重挫。市场恐慌情绪蔓延，投资者对经济前景担忧加剧。分析人士指出，多重因素叠加导致此次崩盘，包括通胀压力与地缘政治风险。",
-    "category": "industry"
-  },
-  {
-    "id": "744a1bc0960662b14b7cfc04406d70e1",
-    "title_en": "Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense",
-    "source": "War on the Rocks",
-    "url": "https://warontherocks.com/cogs-of-war/taiwans-tech-hurdles-threaten-military-capability-and-potential-coalition-defense/",
-    "published_at": "2026-07-27T08:00:25Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "台湾技术瓶颈威胁军事能力与潜在联盟防御",
-    "summary_zh": "分析指出，台湾在半导体等关键技术领域的短板可能削弱其军事防御能力，并影响未来与盟友的协同作战。技术自主性不足成为地区安全格局中的关键变量。",
-    "category": "industry"
-  },
-  {
-    "id": "c48fc0938ae7fda7d5179604ab3e888e",
-    "title_en": "The Best Enterprise AI Knows Its Limits",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/opinion/2026/the-best-enterprise-ai-knows-its-limits/",
-    "published_at": "2026-07-27T08:00:18Z",
-    "fetched_at": "2026-07-28T08:14:53.117Z",
-    "title_zh": "最佳企业AI懂得自身局限",
-    "summary_zh": "文章探讨企业级AI应用的核心原则：优秀的AI系统需明确自身能力边界，避免过度承诺。通过合理设定预期与风险控制，企业才能实现AI技术的可持续价值。",
-    "category": "llm"
-  },
-  {
-    "id": "1c0fe384ceb59eed31f41358a624a8e8",
-    "title_en": "India's HCLTech plans US$4.4B AI data center",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260727PR201/india-data-center-expansion-infrastructure-partnership.html",
-    "published_at": "2026-07-27T01:26:23Z",
-    "fetched_at": "2026-07-28T01:44:10.019Z",
-    "title_zh": "印度HCLTech计划投资44亿美元建设AI数据中心",
-    "summary_zh": "印度IT服务巨头HCLTech宣布了一项44亿美元的投资计划，用于建设大型AI数据中心。此举旨在满足全球对AI算力日益增长的需求，并巩固其在数字化转型服务领域的地位。该数据中心将采用先进的GPU集群和液冷技术，为企业和政府客户提供高性能AI训练与推理服务，反映了印度在全球AI基础设施竞赛中的雄心。",
-    "category": "industry"
   }
 ]
