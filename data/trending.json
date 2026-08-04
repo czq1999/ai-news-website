@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-08-04",
+      "summary_zh": "今日GitHub热点聚焦AI推理优化与安全工具，涵盖单卡运行大模型、逆向渗透技能路由、PDF智能解析及金融领域基础模型，同时微软推出AI入门教程与系统设计指南。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description_en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "language": "PowerShell",
+          "stars_total": 15842,
+          "stars_today": 2446,
+          "description_zh": "逆向工程/授权渗透测试/安全研究技能路由包 - AI自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码AI客户端"
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description_en": "12 Weeks, 24 Lessons, AI for All!",
+          "language": "Jupyter Notebook",
+          "stars_total": 60775,
+          "stars_today": 1902,
+          "description_zh": "12周，24课，人人可学AI！"
+        },
+        {
+          "rank": 3,
+          "name": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+          "language": "Rust",
+          "stars_total": 8311,
+          "stars_today": 1699,
+          "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描版与文本版PDF，以实现智能路由决策。"
+        },
+        {
+          "rank": 4,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description_en": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "language": "TypeScript",
+          "stars_total": 12131,
+          "stars_today": 1090,
+          "description_zh": "腾讯云数据库Agent Memory是面向AI代理的团队级记忆中枢——将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM维基、代码图谱），并在各代理和框架间进行治理、共享和配备。"
+        },
+        {
+          "rank": 5,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description_en": "AirLLM 70B inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars_total": 27161,
+          "stars_today": 1085,
+          "description_zh": "AirLLM 70B推理，仅需单个4GB GPU"
+        },
+        {
+          "rank": 6,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 65742,
+          "stars_today": 1057,
+          "description_zh": "为你的AI代理赋予观察整个互联网的眼睛。读取并搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个命令行工具，零API费用。"
+        },
+        {
+          "rank": 7,
+          "name": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "description_en": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+          "language": "Go",
+          "stars_total": 29957,
+          "stars_today": 883,
+          "description_zh": "面向终端的DeepSeek原生AI编程代理。围绕前缀缓存稳定性设计——让它持续运行。"
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description_en": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars_total": 115575,
+          "stars_today": 775,
+          "description_zh": "21课，开始使用生成式AI构建应用"
+        },
+        {
+          "rank": 9,
+          "name": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "description_en": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+          "language": "TypeScript",
+          "stars_total": 6876,
+          "stars_today": 665,
+          "description_zh": "🎯 你需要的一切，没有多余的。开源项目管理，为你服务，而非与你作对。"
+        },
+        {
+          "rank": 10,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars_total": 48693,
+          "stars_today": 412,
+          "description_zh": "开源AI语音工作室。克隆、听写、创作。"
+        },
+        {
+          "rank": 11,
+          "name": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "description_en": "Invidious is an alternative front-end to YouTube",
+          "language": "Crystal",
+          "stars_total": 22277,
+          "stars_today": 402,
+          "description_zh": "Invidious是YouTube的替代前端"
+        },
+        {
+          "rank": 12,
+          "name": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "description_en": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+          "language": "C",
+          "stars_total": 20369,
+          "stars_today": 384,
+          "description_zh": "DeepSeek 4 Flash和PRO的本地推理引擎，支持Metal、CUDA和ROCm"
+        },
+        {
+          "rank": 13,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description_en": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
+          "language": "Python",
+          "stars_total": 44052,
+          "stars_today": 278,
+          "description_zh": "从终端、应用、IDE或手机免费使用Claude Code、Codex和Pi，类似OpenClaw（支持语音）"
+        },
+        {
+          "rank": 14,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description_en": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "language": "Python",
+          "stars_total": 360546,
+          "stars_today": 237,
+          "description_zh": "学习如何设计大规模系统。为系统设计面试做准备。包含Anki闪卡。"
+        },
+        {
+          "rank": 15,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 35828,
+          "stars_today": 200,
+          "description_zh": "Kronos：面向金融市场语言的基础模型"
+        },
+        {
+          "rank": 16,
+          "name": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "description_en": "A framework for building realtime voice AI agents 🤖🎙️📹",
+          "language": "Python",
+          "stars_total": 12000,
+          "stars_today": 148,
+          "description_zh": "用于构建实时语音AI代理的框架 🤖🎙️📹"
+        }
+      ]
+    },
+    {
       "date": "2026-08-03",
       "summary_zh": "今日GitHub热门项目聚焦AI应用与安全：AirLLM实现单卡4GB运行70B模型，DeepSeek推理引擎与终端代理提升效率，微软AI教程助力学习，另有PDF解析、金融模型及系统设计资源。",
       "projects": [
@@ -4791,192 +4957,6 @@
           "stars_total": 16320,
           "stars_today": 48,
           "description_zh": "Gas Town - 多智能体工作空间管理器。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-04",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具与安全：代码审查、GUI代理、渗透测试、会议转录及系统提示词泄露，涵盖机器学习书籍与游戏管理。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "usestrix/strix",
-          "url": "https://github.com/usestrix/strix",
-          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-          "language": "Python",
-          "stars_total": 35846,
-          "stars_today": 1910,
-          "description_zh": "开源AI渗透测试工具，用于发现并修复应用漏洞。"
-        },
-        {
-          "rank": 2,
-          "name": "JuliusBrussee/caveman",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-          "language": "JavaScript",
-          "stars_total": 83769,
-          "stars_today": 1089,
-          "description_zh": "🪨 少用词多办事——Claude Code技能，通过原始人式对话削减65%的令牌消耗。"
-        },
-        {
-          "rank": 3,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 156405,
-          "stars_today": 1013,
-          "description_zh": "面向真正工程师的技能。直接来自我的 .claude 目录。"
-        },
-        {
-          "rank": 4,
-          "name": "Zackriya-Solutions/meetily",
-          "url": "https://github.com/Zackriya-Solutions/meetily",
-          "description_en": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-          "language": "Rust",
-          "stars_total": 14968,
-          "stars_today": 865,
-          "description_zh": "隐私优先的 AI 会议助手，基于 Rust 构建，提供 4 倍速 Parakeet/Whisper 实时转录、说话人分离和 Ollama 摘要功能。100% 本地处理，无需云端。Meetily（Meetly Ai - https://meetily.ai）是 macOS 和 Windows 上排名第一的自托管开源 AI 会议笔记工具。"
-        },
-        {
-          "rank": 5,
-          "name": "alibaba/page-agent",
-          "url": "https://github.com/alibaba/page-agent",
-          "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-          "language": "TypeScript",
-          "stars_total": 22965,
-          "stars_today": 726,
-          "description_zh": "JavaScript 页面内 GUI 代理。用自然语言控制网页界面。"
-        },
-        {
-          "rank": 6,
-          "name": "openai/codex-plugin-cc",
-          "url": "https://github.com/openai/codex-plugin-cc",
-          "description_en": "Use Codex from Claude Code to review code or delegate tasks.",
-          "language": "JavaScript",
-          "stars_total": 24117,
-          "stars_today": 716,
-          "description_zh": "通过Claude Code使用Codex进行代码审查或任务委派。"
-        },
-        {
-          "rank": 7,
-          "name": "ogulcancelik/herdr",
-          "url": "https://github.com/ogulcancelik/herdr",
-          "description_en": "agent multiplexer that lives in your terminal.",
-          "language": "Rust",
-          "stars_total": 11296,
-          "stars_today": 706,
-          "description_zh": "驻留在终端中的代理多路复用器。"
-        },
-        {
-          "rank": 8,
-          "name": "harvard-edge/cs249r_book",
-          "url": "https://github.com/harvard-edge/cs249r_book",
-          "description_en": "Machine Learning Systems",
-          "language": "Python",
-          "stars_total": 26491,
-          "stars_today": 446,
-          "description_zh": "机器学习系统"
-        },
-        {
-          "rank": 9,
-          "name": "asgeirtj/system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-          "language": "JavaScript",
-          "stars_total": 48697,
-          "stars_today": 432,
-          "description_zh": "提取自 Anthropic（Claude Fable 5、Opus 4.8、Claude Code、Claude Design）、OpenAI（ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex）、Google（Gemini 3.5 Flash、3.1 Pro、Antigravity）、xAI（Grok、Cursor、Copilot、VS Code、Perplexity 等）的系统提示词。定期更新。"
-        },
-        {
-          "rank": 10,
-          "name": "rommapp/romm",
-          "url": "https://github.com/rommapp/romm",
-          "description_en": "A beautiful, powerful, self-hosted rom manager and player.",
-          "language": "Python",
-          "stars_total": 10108,
-          "stars_today": 400,
-          "description_zh": "一款美观、强大、自托管的ROM管理器和播放器。"
-        },
-        {
-          "rank": 11,
-          "name": "agentskills/agentskills",
-          "url": "https://github.com/agentskills/agentskills",
-          "description_en": "Specification and documentation for Agent Skills",
-          "language": "Python",
-          "stars_total": 22251,
-          "stars_today": 351,
-          "description_zh": "Agent技能的规范与文档"
-        },
-        {
-          "rank": 12,
-          "name": "chthollyphile/folia-major",
-          "url": "https://github.com/chthollyphile/folia-major",
-          "description_en": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
-          "language": "TypeScript",
-          "stars_total": 967,
-          "stars_today": 319,
-          "description_zh": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
-        },
-        {
-          "rank": 13,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 45724,
-          "stars_today": 303,
-          "description_zh": "面向编码代理的Chrome开发者工具。"
-        },
-        {
-          "rank": 14,
-          "name": "immich-app/immich",
-          "url": "https://github.com/immich-app/immich",
-          "description_en": "High performance self-hosted photo and video management solution.",
-          "language": "TypeScript",
-          "stars_total": 105525,
-          "stars_today": 198,
-          "description_zh": "高性能自托管的照片和视频管理解决方案。"
-        },
-        {
-          "rank": 15,
-          "name": "alirezarezvani/claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "description_en": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-          "language": "Python",
-          "stars_total": 20062,
-          "stars_today": 197,
-          "description_zh": "337 个 Claude Code 技能与代理技能及插件（30+ 代理、70+ 自定义命令、330+ 技能、可自定义引用、脚本），适用于 Claude Code、Codex、Gemini CLI、Cursor 及其他 8 种编码代理——涵盖工程、营销、产品、合规、C 级顾问、研究、业务运营、商业与财务以及日常生产力技能。"
-        },
-        {
-          "rank": 16,
-          "name": "CoplayDev/unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "description_en": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-          "language": "C#",
-          "stars_total": 11508,
-          "stars_today": 68,
-          "description_zh": "Unity MCP 充当 AI 助手与 Unity 编辑器之间的桥梁。为您的 LLM 提供管理资源、控制场景、编辑脚本以及在 Unity 中自动化任务的工具。"
-        },
-        {
-          "rank": 17,
-          "name": "dotnet/skills",
-          "url": "https://github.com/dotnet/skills",
-          "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
-          "language": "C#",
-          "stars_total": 3758,
-          "stars_today": 57,
-          "description_zh": "用于帮助 AI 编码代理掌握 .NET 和 C# 的技能仓库。"
-        },
-        {
-          "rank": 18,
-          "name": "crynta/terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "description_en": "Lightweight (7MB) Terminal-first AI-native dev workspace",
-          "language": "TypeScript",
-          "stars_total": 7997,
-          "stars_today": 44,
-          "description_zh": "轻量级（7MB）终端优先的 AI 原生开发工作空间。"
         }
       ]
     }
