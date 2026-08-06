@@ -2,137 +2,137 @@
   "days": [
     {
       "date": "2026-08-06",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理与开发工具，涵盖计算机视觉、PDF处理、系统设计学习及Next.js框架，突出智能代理协作与工程效率提升。",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多项目强化Agent记忆共享、技能封装与代码图谱，同时涵盖认证工具、Java库及中文教材资源。",
       "projects": [
         {
           "rank": 1,
-          "name": "TencentCloud/TencentDB-Agent-Memory",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "description_en": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-          "language": "TypeScript",
-          "stars_total": 15453,
-          "stars_today": 1892,
-          "description_zh": "腾讯云数据库代理记忆是一个面向AI代理的团队级记忆中心——将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM维基、代码图谱），这些资产在代理和框架之间被治理、共享和装备。"
-        },
-        {
-          "rank": 2,
-          "name": "firecrawl/pdf-inspector",
-          "url": "https://github.com/firecrawl/pdf-inspector",
-          "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-          "language": "Rust",
-          "stars_total": 11823,
-          "stars_today": 1582,
-          "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描版与文本版PDF，以实现智能路由决策。"
-        },
-        {
-          "rank": 3,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 267599,
-          "stars_today": 931,
-          "description_zh": "一个行之有效的代理技能框架和软件开发方法论。"
-        },
-        {
-          "rank": 4,
           "name": "cloudflare/computer",
           "url": "https://github.com/cloudflare/computer",
           "description_en": "Give your agent a computer 👾",
           "language": "TypeScript",
-          "stars_total": 3949,
-          "stars_today": 891,
+          "stars_total": 4420,
+          "stars_today": 2690,
           "description_zh": "给你的代理一台电脑 👾"
         },
         {
-          "rank": 5,
-          "name": "lyogavin/airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "description_en": "AirLLM 70B inference with single 4GB GPU",
-          "language": "Jupyter Notebook",
-          "stars_total": 29318,
-          "stars_today": 833,
-          "description_zh": "AirLLM 70B推理，仅需单个4GB GPU"
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 206153,
+          "stars_today": 1695,
+          "description_zh": "真实工程师的技能。直接来自我的.agents目录。"
         },
         {
-          "rank": 6,
+          "rank": 3,
+          "name": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+          "language": "Rust",
+          "stars_total": 12055,
+          "stars_today": 1194,
+          "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描版与文本版PDF，以实现智能路由决策。"
+        },
+        {
+          "rank": 4,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description_en": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "language": "TypeScript",
+          "stars_total": 15829,
+          "stars_today": 1053,
+          "description_zh": "腾讯云数据库代理记忆是一个面向AI代理的团队级记忆中心——将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM维基、代码图谱），这些资产在代理和框架之间被治理、共享和装备。"
+        },
+        {
+          "rank": 5,
           "name": "esengine/DeepSeek-Reasonix",
           "url": "https://github.com/esengine/DeepSeek-Reasonix",
           "description_en": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
           "language": "Go",
-          "stars_total": 31950,
-          "stars_today": 747,
+          "stars_total": 32123,
+          "stars_today": 894,
           "description_zh": "面向终端的DeepSeek原生AI编码代理。围绕前缀缓存稳定性设计——让它持续运行。"
         },
         {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 267807,
+          "stars_today": 858,
+          "description_zh": "一个行之有效的代理技能框架和软件开发方法论。"
+        },
+        {
           "rank": 7,
-          "name": "tailwindlabs/tailwindcss",
-          "url": "https://github.com/tailwindlabs/tailwindcss",
-          "description_en": "A utility-first CSS framework for rapid UI development.",
-          "language": "TypeScript",
-          "stars_total": 96982,
-          "stars_today": 408,
-          "description_zh": "用于快速UI开发的实用优先CSS框架。"
-        },
-        {
-          "rank": 8,
-          "name": "uber/ADR",
-          "url": "https://github.com/uber/ADR",
-          "description_en": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-          "language": "Python",
-          "stars_total": 1141,
-          "stars_today": 354,
-          "description_zh": "ADR通过可观测性、安全基准测试和威胁检测来保护企业AI代理。已在优步部署。"
-        },
-        {
-          "rank": 9,
           "name": "huangruiteng/loopx",
           "url": "https://github.com/huangruiteng/loopx",
           "description_en": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
           "language": "Python",
-          "stars_total": 2463,
-          "stars_today": 326,
+          "stars_total": 2639,
+          "stars_today": 854,
           "description_zh": "面向长期运行的AI代理团队的轻量级循环工程状态内核。与Codex、Claude Code及其他编码代理的代理循环无关，具备持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证交接。"
         },
         {
-          "rank": 10,
-          "name": "donnemartin/system-design-primer",
-          "url": "https://github.com/donnemartin/system-design-primer",
-          "description_en": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-          "language": "Python",
-          "stars_total": 361797,
-          "stars_today": 303,
-          "description_zh": "学习如何设计大规模系统。为系统设计面试做准备。包含Anki闪卡。"
-        },
-        {
-          "rank": 11,
+          "rank": 8,
           "name": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 82192,
-          "stars_today": 226,
+          "stars_total": 82388,
+          "stars_today": 588,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
         {
-          "rank": 12,
-          "name": "roboflow/supervision",
-          "url": "https://github.com/roboflow/supervision",
-          "description_en": "We write your reusable computer vision tools. 💜",
+          "rank": 9,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
           "language": "Python",
-          "stars_total": 49072,
-          "stars_today": 146,
-          "description_zh": "我们编写您可复用的计算机视觉工具。💜"
+          "stars_total": 28847,
+          "stars_today": 232,
+          "description_zh": "面向MCP和CLI的本地优先代码智能图。构建代码库的持久映射，使AI编码工具只读取重要内容，在代码审查和大型仓库工作流中实现了基准化的上下文缩减。"
+        },
+        {
+          "rank": 10,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description_en": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars_total": 76957,
+          "stars_today": 157,
+          "description_zh": "所有小学、初中、高中、大学PDF教材。"
+        },
+        {
+          "rank": 11,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description_en": "The authentication glue you need.",
+          "language": "Python",
+          "stars_total": 22863,
+          "stars_today": 123,
+          "description_zh": "你需要的认证粘合剂。"
+        },
+        {
+          "rank": 12,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description_en": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+          "language": "Python",
+          "stars_total": 185875,
+          "stars_today": 28,
+          "description_zh": "AutoGPT是让人人都能使用和构建的AI愿景。我们的使命是提供工具，让你专注于重要的事情。"
         },
         {
           "rank": 13,
-          "name": "vercel/next.js",
-          "url": "https://github.com/vercel/next.js",
-          "description_en": "The React Framework",
-          "language": "JavaScript",
-          "stars_total": 141616,
-          "stars_today": 68,
-          "description_zh": "React框架"
+          "name": "google/guava",
+          "url": "https://github.com/google/guava",
+          "description_en": "Google core libraries for Java",
+          "language": "Java",
+          "stars_total": 51563,
+          "stars_today": 9,
+          "description_zh": "Google Java核心库"
         }
       ]
     },
