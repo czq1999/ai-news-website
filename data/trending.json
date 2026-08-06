@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-06",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：云端计算环境、团队级记忆中枢、终端编码代理及技能框架成主流，同时涵盖系统设计、PDF解析与计算机视觉工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理与开发工具，涵盖计算机视觉、PDF处理、系统设计学习及Next.js框架，突出智能代理协作与工程效率提升。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
           "description_en": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
           "language": "TypeScript",
-          "stars_total": 15105,
+          "stars_total": 15453,
           "stars_today": 1892,
           "description_zh": "腾讯云数据库代理记忆是一个面向AI代理的团队级记忆中心——将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM维基、代码图谱），这些资产在代理和框架之间被治理、共享和装备。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/firecrawl/pdf-inspector",
           "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
           "language": "Rust",
-          "stars_total": 11498,
+          "stars_total": 11823,
           "stars_today": 1582,
           "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描版与文本版PDF，以实现智能路由决策。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 267326,
+          "stars_total": 267599,
           "stars_today": 931,
           "description_zh": "一个行之有效的代理技能框架和软件开发方法论。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/cloudflare/computer",
           "description_en": "Give your agent a computer 👾",
           "language": "TypeScript",
-          "stars_total": 3059,
+          "stars_total": 3949,
           "stars_today": 891,
           "description_zh": "给你的代理一台电脑 👾"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/lyogavin/airllm",
           "description_en": "AirLLM 70B inference with single 4GB GPU",
           "language": "Jupyter Notebook",
-          "stars_total": 29112,
+          "stars_total": 29318,
           "stars_today": 833,
           "description_zh": "AirLLM 70B推理，仅需单个4GB GPU"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/esengine/DeepSeek-Reasonix",
           "description_en": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
           "language": "Go",
-          "stars_total": 31663,
+          "stars_total": 31950,
           "stars_today": 747,
           "description_zh": "面向终端的DeepSeek原生AI编码代理。围绕前缀缓存稳定性设计——让它持续运行。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/tailwindlabs/tailwindcss",
           "description_en": "A utility-first CSS framework for rapid UI development.",
           "language": "TypeScript",
-          "stars_total": 96870,
+          "stars_total": 96982,
           "stars_today": 408,
           "description_zh": "用于快速UI开发的实用优先CSS框架。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/uber/ADR",
           "description_en": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
           "language": "Python",
-          "stars_total": 1059,
+          "stars_total": 1141,
           "stars_today": 354,
           "description_zh": "ADR通过可观测性、安全基准测试和威胁检测来保护企业AI代理。已在优步部署。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/huangruiteng/loopx",
           "description_en": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
           "language": "Python",
-          "stars_total": 2165,
+          "stars_total": 2463,
           "stars_today": 326,
           "description_zh": "面向长期运行的AI代理团队的轻量级循环工程状态内核。与Codex、Claude Code及其他编码代理的代理循环无关，具备持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证交接。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/donnemartin/system-design-primer",
           "description_en": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
           "language": "Python",
-          "stars_total": 361567,
+          "stars_total": 361797,
           "stars_today": 303,
           "description_zh": "学习如何设计大规模系统。为系统设计面试做准备。包含Anki闪卡。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 82005,
+          "stars_total": 82192,
           "stars_today": 226,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/roboflow/supervision",
           "description_en": "We write your reusable computer vision tools. 💜",
           "language": "Python",
-          "stars_total": 48935,
+          "stars_total": 49072,
           "stars_today": 146,
           "description_zh": "我们编写您可复用的计算机视觉工具。💜"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/vercel/next.js",
           "description_en": "The React Framework",
           "language": "JavaScript",
-          "stars_total": 141561,
+          "stars_total": 141616,
           "stars_today": 68,
           "description_zh": "React框架"
         }
