@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-08-07",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多项目强化代理记忆与技能复用，涵盖团队级记忆中枢、工程技能库及代码图谱，同时涌现认证集成与轻量级循环引擎等基础设施。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "description_en": "Give your agent a computer 👾",
+          "language": "TypeScript",
+          "stars_total": 4853,
+          "stars_today": 2802,
+          "description_zh": "给你的智能体一台电脑👾"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 207175,
+          "stars_today": 1873,
+          "description_zh": "面向真正工程师的技能。直接来自我的.agents目录。"
+        },
+        {
+          "rank": 3,
+          "name": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+          "language": "Rust",
+          "stars_total": 12503,
+          "stars_today": 1190,
+          "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描版与文本版PDF，以实现智能路由决策。"
+        },
+        {
+          "rank": 4,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description_en": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "language": "TypeScript",
+          "stars_total": 16477,
+          "stars_today": 1057,
+          "description_zh": "腾讯云数据库智能体记忆是一个面向AI智能体的团队级记忆中枢——将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM维基、代码图谱），这些资产可在多个智能体和框架之间进行治理、共享和配备。"
+        },
+        {
+          "rank": 5,
+          "name": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "description_en": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+          "language": "Go",
+          "stars_total": 32472,
+          "stars_today": 888,
+          "description_zh": "面向终端的DeepSeek原生AI编码智能体。围绕前缀缓存稳定性设计——让它持续运行。"
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 268127,
+          "stars_today": 858,
+          "description_zh": "一个行之有效的智能体技能框架和软件开发方法论。"
+        },
+        {
+          "rank": 7,
+          "name": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "description_en": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+          "language": "Python",
+          "stars_total": 2906,
+          "stars_today": 847,
+          "description_zh": "面向长期运行的AI智能体团队的轻量级循环工程状态内核。与Codex、Claude Code及其他编码智能体保持智能体循环无关，具备持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证交接。"
+        },
+        {
+          "rank": 8,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 82985,
+          "stars_today": 593,
+          "description_zh": "面向AI编码智能体的生产级工程技能。"
+        },
+        {
+          "rank": 9,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "language": "Python",
+          "stars_total": 29055,
+          "stars_today": 237,
+          "description_zh": "面向MCP和CLI的本地优先代码智能图谱。构建代码库的持久映射，使AI编码工具只读取重要内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
+        },
+        {
+          "rank": 10,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description_en": "The authentication glue you need.",
+          "language": "Python",
+          "stars_total": 23146,
+          "stars_today": 138,
+          "description_zh": "你需要的认证粘合剂。"
+        },
+        {
+          "rank": 11,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description_en": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars_total": 77155,
+          "stars_today": 134,
+          "description_zh": "所有小初高、大学PDF教材。"
+        },
+        {
+          "rank": 12,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description_en": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+          "language": "Python",
+          "stars_total": 186034,
+          "stars_today": 37,
+          "description_zh": "AutoGPT是让人人都能使用和构建的AI的愿景。我们的使命是提供工具，让你专注于重要的事情。"
+        },
+        {
+          "rank": 13,
+          "name": "google/guava",
+          "url": "https://github.com/google/guava",
+          "description_en": "Google core libraries for Java",
+          "language": "Java",
+          "stars_total": 51645,
+          "stars_today": 13,
+          "description_zh": "Google Java核心库"
+        }
+      ]
+    },
+    {
       "date": "2026-08-06",
       "summary_zh": "今日GitHub热门项目聚焦AI代理生态，涵盖记忆管理、技能库、代码图谱及认证工具，同时包含Java库、教材资源和AutoGPT等多元主题。",
       "projects": [
@@ -4731,132 +4867,6 @@
           "stars_total": 6339,
           "stars_today": 20,
           "description_zh": "这是Claude的MCP服务器，为其提供终端控制、文件系统搜索和差异文件编辑能力。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-07",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具链：本地化会议助手、AI编码代理技能、WiFi信号感知、系统提示泄露、安全沙箱及Office自动化，突出隐私优先与开源趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Zackriya-Solutions/meetily",
-          "url": "https://github.com/Zackriya-Solutions/meetily",
-          "description_en": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-          "language": "Rust",
-          "stars_total": 20495,
-          "stars_today": 1781,
-          "description_zh": "隐私优先的AI会议助手，基于Rust构建，支持4倍速Parakeet/Whisper实时转录、说话人分离和Ollama摘要。100%本地处理，无需云端。Meetily（Meetly Ai - https://meetily.ai）是macOS和Windows上排名第一的自托管开源AI会议笔记工具。"
-        },
-        {
-          "rank": 2,
-          "name": "asgeirtj/system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-          "language": "JavaScript",
-          "stars_total": 52786,
-          "stars_today": 1704,
-          "description_zh": "从Anthropic（Claude Fable 5、Opus 4.8、Claude Code、Claude Design）、OpenAI（ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex）、Google（Gemini 3.5 Flash、3.1 Pro、Antigravity）、xAI（Grok、Cursor、Copilot、VS Code、Perplexity）等平台提取的系统提示词，定期更新。"
-        },
-        {
-          "rank": 3,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 71950,
-          "stars_today": 1311,
-          "description_zh": "面向AI编码智能体的生产级工程技能。"
-        },
-        {
-          "rank": 4,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 78382,
-          "stars_today": 1122,
-          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
-        },
-        {
-          "rank": 5,
-          "name": "bradautomates/claude-video",
-          "url": "https://github.com/bradautomates/claude-video",
-          "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-          "language": "Python",
-          "stars_total": 5032,
-          "stars_today": 953,
-          "description_zh": "赋予Claude观看任何视频的能力。/watch命令可下载视频、提取帧、转录，并将所有内容交给Claude处理。"
-        },
-        {
-          "rank": 6,
-          "name": "iOfficeAI/OfficeCLI",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "description_en": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-          "language": "C#",
-          "stars_total": 9725,
-          "stars_today": 802,
-          "description_zh": "OfficeCLI是首个且最佳的专为AI代理打造的Office套件，用于读取、编辑和自动化Word、Excel及PowerPoint文件。免费、开源、单一二进制文件，无需安装Office。"
-        },
-        {
-          "rank": 7,
-          "name": "TencentCloud/CubeSandbox",
-          "url": "https://github.com/TencentCloud/CubeSandbox",
-          "description_en": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-          "language": "Rust",
-          "stars_total": 8376,
-          "stars_today": 665,
-          "description_zh": "为AI代理打造的即时、并发、安全且轻量的沙箱环境。"
-        },
-        {
-          "rank": 8,
-          "name": "kyutai-labs/pocket-tts",
-          "url": "https://github.com/kyutai-labs/pocket-tts",
-          "description_en": "A TTS that fits in your CPU (and pocket)",
-          "language": "Python",
-          "stars_total": 6013,
-          "stars_today": 510,
-          "description_zh": "一款适配CPU（且能装进口袋）的文本转语音工具。"
-        },
-        {
-          "rank": 9,
-          "name": "steipete/CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "description_en": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-          "language": "Swift",
-          "stars_total": 16990,
-          "stars_today": 377,
-          "description_zh": "无需登录即可显示OpenAI Codex和Claude Code的使用统计信息。"
-        },
-        {
-          "rank": 10,
-          "name": "hesreallyhim/awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "description_en": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-          "language": "Python",
-          "stars_total": 48997,
-          "stars_today": 227,
-          "description_zh": "精心挑选的顶级资源合集，专为最强大的代理Claude Code打造——来自Anthropic PBC无敌团队的编码伴侣冠军。精彩展示顶尖技能、双面代理、炫酷状态行、一流开发者工具，当然还有插件。"
-        },
-        {
-          "rank": 11,
-          "name": "AhmadIbrahiim/Website-downloader",
-          "url": "https://github.com/AhmadIbrahiim/Website-downloader",
-          "description_en": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
-          "language": "HTML",
-          "stars_total": 3868,
-          "stars_today": 173,
-          "description_zh": "💡 使用Node.js下载任何网站的完整源代码（包括所有资源：JavaScript、样式表、图片）。"
-        },
-        {
-          "rank": 12,
-          "name": "dotnet/skills",
-          "url": "https://github.com/dotnet/skills",
-          "description_en": "Repository for skills to assist AI coding agents with .NET and C#",
-          "language": "C#",
-          "stars_total": 4261,
-          "stars_today": 82,
-          "description_zh": "用于帮助AI编码代理掌握.NET和C#的技能库。"
         }
       ]
     }
