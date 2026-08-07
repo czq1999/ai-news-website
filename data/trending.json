@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-07",
-      "summary_zh": "今日GitHub热门聚焦AI编程代理与智能体技能框架，涵盖自主编码、群智能预测及认证安全工具，凸显开发者工具链智能化趋势。",
+      "summary_zh": "今日GitHub热门聚焦AI编程代理与智能体技能框架，涵盖自主编码、群体智能引擎、认证集成及开发者工具链，强调工程化落地与自动化效率提升。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "stars_total": 5187,
+          "stars_total": 6013,
           "stars_today": 2271,
           "description_zh": "一个用于编码工作流和长时间运行自主任务的自改进RLM代理。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 208142,
+          "stars_total": 208557,
           "stars_today": 2180,
           "description_zh": "面向真正工程师的技能。直接来自我的.agents目录。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 83454,
+          "stars_total": 83718,
           "stars_today": 1131,
           "description_zh": "面向AI编码智能体的生产级工程技能。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/cloudflare/computer",
           "description_en": "Give your agent a computer 👾",
           "language": "TypeScript",
-          "stars_total": 5238,
+          "stars_total": 5423,
           "stars_today": 894,
           "description_zh": "给你的智能体一台电脑👾"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 268496,
+          "stars_total": 268651,
           "stars_today": 794,
           "description_zh": "一个行之有效的智能体技能框架和软件开发方法论。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/denoland/celld",
           "description_en": "self-hosted, distributed Durable Objects",
           "language": "Rust",
-          "stars_total": 1955,
+          "stars_total": 2097,
           "stars_today": 546,
           "description_zh": "自托管的分布式持久对象"
         },
@@ -70,29 +70,29 @@
           "url": "https://github.com/goauthentik/authentik",
           "description_en": "The authentication glue you need.",
           "language": "Python",
-          "stars_total": 23361,
+          "stars_total": 23479,
           "stars_today": 544,
           "description_zh": "你需要的认证粘合剂。"
         },
         {
           "rank": 8,
-          "name": "pranshuparmar/witr",
-          "url": "https://github.com/pranshuparmar/witr",
-          "description_en": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-          "language": "Go",
-          "stars_total": 19369,
-          "stars_today": 427,
-          "description_zh": "为什么它在运行？将任何进程、端口、容器或文件追溯回其启动源——CLI + TUI。"
-        },
-        {
-          "rank": 9,
           "name": "Significant-Gravitas/AutoGPT",
           "url": "https://github.com/Significant-Gravitas/AutoGPT",
           "description_en": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
           "language": "Python",
-          "stars_total": 186201,
+          "stars_total": 186260,
           "stars_today": 363,
           "description_zh": "AutoGPT是让人人都能使用和构建的AI的愿景。我们的使命是提供工具，让你专注于重要的事情。"
+        },
+        {
+          "rank": 9,
+          "name": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description_en": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+          "language": "Go",
+          "stars_total": 19585,
+          "stars_today": 308,
+          "description_zh": "为什么它在运行？将任何进程、端口、容器或文件追溯回其启动源——CLI + TUI。"
         },
         {
           "rank": 10,
@@ -100,29 +100,29 @@
           "url": "https://github.com/google/skills",
           "description_en": "Agent Skills for Google products and technologies",
           "language": "Python",
-          "stars_total": 15993,
+          "stars_total": 16138,
           "stars_today": 305,
           "description_zh": "面向Google产品和技术的Agent技能"
         },
         {
           "rank": 11,
-          "name": "jdx/mise",
-          "url": "https://github.com/jdx/mise",
-          "description_en": "dev tools, env vars, task runner",
-          "language": "Rust",
-          "stars_total": 31967,
-          "stars_today": 258,
-          "description_zh": "开发工具、环境变量、任务运行器"
-        },
-        {
-          "rank": 12,
           "name": "google/guava",
           "url": "https://github.com/google/guava",
           "description_en": "Google core libraries for Java",
           "language": "Java",
-          "stars_total": 51709,
+          "stars_total": 51730,
           "stars_today": 156,
           "description_zh": "Google Java核心库"
+        },
+        {
+          "rank": 12,
+          "name": "jdx/mise",
+          "url": "https://github.com/jdx/mise",
+          "description_en": "dev tools, env vars, task runner",
+          "language": "Rust",
+          "stars_total": 32020,
+          "stars_today": 130,
+          "description_zh": "开发工具、环境变量、任务运行器"
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/666ghj/MiroFish",
           "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
           "language": "Python",
-          "stars_total": 70275,
+          "stars_total": 70407,
           "stars_today": 126,
           "description_zh": "一个简单通用的群体智能引擎，可预测万物。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/semantica-agi/semantica",
           "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
           "language": "Python",
-          "stars_total": 2177,
+          "stars_total": 2265,
           "stars_today": 118,
           "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/unclebob/swarm-forge",
           "description_en": "A simple tool for coordinating several AI agents.",
           "language": "Clojure",
-          "stars_total": 1709,
+          "stars_total": 1778,
           "stars_today": 85,
           "description_zh": "一个用于协调多个AI代理的简单工具。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/K2SOsint/Legendary_OSINT",
           "description_en": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
           "language": "",
-          "stars_total": 1159,
+          "stars_total": 1296,
           "stars_today": 64,
           "description_zh": "面向（欺诈）调查人员、CTI分析师、KYC、AML等领域的OSINT工具和资源列表。"
         },
@@ -170,8 +170,8 @@
           "url": "https://github.com/chenyme/grok2api",
           "description_en": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
           "language": "Go",
-          "stars_total": 7079,
-          "stars_today": 43,
+          "stars_total": 7114,
+          "stars_today": 62,
           "description_zh": "用于Grok Build、Grok Web和Grok Console的多账户API网关"
         }
       ]
