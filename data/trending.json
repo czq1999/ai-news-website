@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-08",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多个项目强化编码代理技能与自主任务能力，同时涵盖教育教材、金融交易框架、身份认证及独立浏览器等多元技术方向。",
+      "summary_zh": "今日GitHub热门聚焦AI编程代理与技能库，多项目推动自主编码自动化；同时涵盖金融交易多智能体、教育教材资源、认证系统及独立浏览器等多元技术亮点。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "stars_total": 7621,
-          "stars_today": 2293,
+          "stars_total": 8366,
+          "stars_today": 2483,
           "description_zh": "一个用于编码工作流和长时间运行自主任务的自我改进RLM代理。"
         },
         {
@@ -20,8 +20,8 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 209458,
-          "stars_today": 2152,
+          "stars_total": 209784,
+          "stars_today": 1354,
           "description_zh": "真正工程师的技能。直接来自我的.agents目录。"
         },
         {
@@ -30,8 +30,8 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 84208,
-          "stars_today": 1131,
+          "stars_total": 84386,
+          "stars_today": 778,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
         {
@@ -40,89 +40,89 @@
           "url": "https://github.com/TapXWorld/ChinaTextbook",
           "description_en": "所有小初高、大学PDF教材。",
           "language": "Roff",
-          "stars_total": 77693,
+          "stars_total": 77813,
           "stars_today": 591,
           "description_zh": "所有小学、初中、高中及大学的PDF教材。"
         },
         {
           "rank": 5,
-          "name": "goauthentik/authentik",
-          "url": "https://github.com/goauthentik/authentik",
-          "description_en": "The authentication glue you need.",
-          "language": "Python",
-          "stars_total": 23823,
-          "stars_today": 530,
-          "description_zh": "你需要的认证粘合剂。"
-        },
-        {
-          "rank": 6,
-          "name": "denoland/celld",
-          "url": "https://github.com/denoland/celld",
-          "description_en": "self-hosted, distributed Durable Objects",
-          "language": "Rust",
-          "stars_total": 2382,
-          "stars_today": 516,
-          "description_zh": "自托管的分布式持久对象。"
-        },
-        {
-          "rank": 7,
           "name": "google/skills",
           "url": "https://github.com/google/skills",
           "description_en": "Agent Skills for Google products and technologies",
           "language": "Python",
-          "stars_total": 16465,
-          "stars_today": 327,
+          "stars_total": 16597,
+          "stars_today": 481,
           "description_zh": "面向Google产品和技术的代理技能。"
         },
         {
-          "rank": 8,
-          "name": "google/guava",
-          "url": "https://github.com/google/guava",
-          "description_en": "Google core libraries for Java",
-          "language": "Java",
-          "stars_total": 51799,
-          "stars_today": 152,
-          "description_zh": "Google Java核心库。"
+          "rank": 6,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description_en": "The authentication glue you need.",
+          "language": "Python",
+          "stars_total": 23901,
+          "stars_today": 467,
+          "description_zh": "你需要的认证粘合剂。"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "name": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "description_en": "self-hosted, distributed Durable Objects",
+          "language": "Rust",
+          "stars_total": 2472,
+          "stars_today": 432,
+          "description_zh": "自托管的分布式持久对象。"
+        },
+        {
+          "rank": 8,
           "name": "bannedbook/fanqiang",
           "url": "https://github.com/bannedbook/fanqiang",
           "description_en": "翻墙-科学上网",
           "language": "Kotlin",
-          "stars_total": 49695,
-          "stars_today": 140,
+          "stars_total": 49828,
+          "stars_today": 161,
           "description_zh": "翻墙-科学上网"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "TauricResearch/TradingAgents",
           "url": "https://github.com/TauricResearch/TradingAgents",
           "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
           "language": "Python",
-          "stars_total": 96147,
+          "stars_total": 96322,
           "stars_today": 126,
           "description_zh": "TradingAgents：多智能体LLM金融交易框架"
         },
         {
-          "rank": 11,
-          "name": "litu54/DevOps-Interview-Guide",
-          "url": "https://github.com/litu54/DevOps-Interview-Guide",
-          "description_en": "DevOps Interview Guide",
-          "language": "",
-          "stars_total": 584,
-          "stars_today": 59,
-          "description_zh": "DevOps面试指南"
+          "rank": 10,
+          "name": "google/guava",
+          "url": "https://github.com/google/guava",
+          "description_en": "Google core libraries for Java",
+          "language": "Java",
+          "stars_total": 51828,
+          "stars_today": 93,
+          "description_zh": "Google Java核心库。"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "LadybirdBrowser/ladybird",
           "url": "https://github.com/LadybirdBrowser/ladybird",
           "description_en": "Truly independent web browser",
           "language": "C++",
-          "stars_total": 64860,
-          "stars_today": 42,
+          "stars_total": 64925,
+          "stars_today": 79,
           "description_zh": "真正独立的网络浏览器"
+        },
+        {
+          "rank": 12,
+          "name": "litu54/DevOps-Interview-Guide",
+          "url": "https://github.com/litu54/DevOps-Interview-Guide",
+          "description_en": "DevOps Interview Guide",
+          "language": "",
+          "stars_total": 659,
+          "stars_today": 59,
+          "description_zh": "DevOps面试指南"
         }
       ]
     },
