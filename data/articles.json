@@ -1,5 +1,82 @@
 [
   {
+    "id": "d9d5c88a7fc271f9b6264f0963eeddb9",
+    "title_en": "OpenAI says it slowed Astra model development over security concerns",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "published_at": "2026-08-07T22:48:24.000Z",
+    "fetched_at": "2026-08-08T00:55:46.729Z",
+    "title_zh": "OpenAI称因安全顾虑放缓Astra模型开发",
+    "summary_zh": "OpenAI表示，出于对安全问题的担忧，已放慢其Astra多模态AI模型的开发进度。此举反映了公司在追求技术前沿的同时，对潜在风险的审慎态度。Astra模型旨在实现更自然的实时交互，但OpenAI强调需确保其安全可靠后再推向市场，以避免可能引发的伦理和滥用问题。",
+    "category": "llm"
+  },
+  {
+    "id": "7171ba64d97e33a64a40b39c93d74824",
+    "title_en": "The gaming site sponsored by Walmart lays off its editorial staff",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+    "published_at": "2026-08-07T22:05:08.000Z",
+    "fetched_at": "2026-08-08T00:55:46.859Z",
+    "title_zh": "沃尔玛赞助的游戏网站裁撤编辑团队",
+    "summary_zh": "由沃尔玛赞助的游戏网站宣布裁撤其全部编辑人员，转向更多依赖AI生成内容或外包模式。这一决定引发行业对内容质量与新闻独立性的担忧。该网站曾是游戏新闻的重要来源，此次裁员可能预示着媒体行业在成本压力下，对人工编辑岗位的进一步削减。",
+    "category": "industry"
+  },
+  {
+    "id": "4d1764cb4a3d7e606e2b9e7316316c48",
+    "title_en": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "published_at": "2026-08-07T21:30:11.000Z",
+    "fetched_at": "2026-08-08T00:55:46.729Z",
+    "title_zh": "Rippling数月烧掉数百万美元于AI后，自建员工ROI工具",
+    "summary_zh": "人力资源软件公司Rippling在数月内于AI项目上投入巨资后，开发了一款内部工具来衡量AI投资的员工回报率（ROI）。该工具旨在评估AI工具对员工生产力的实际影响，帮助公司优化AI支出，避免盲目投资。此举反映了企业在AI热潮中日益增长的务实与成本控制需求。",
+    "category": "industry"
+  },
+  {
+    "id": "78db5548d2742eb583290f90e7c0a99e",
+    "title_en": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "published_at": "2026-08-07T20:01:51.000Z",
+    "fetched_at": "2026-08-08T00:55:46.859Z",
+    "title_zh": "Fenix Flexin不再否认使用AI制作《Rubberz》",
+    "summary_zh": "说唱歌手Fenix Flexin不再否认其新歌《Rubberz》使用了AI技术。此前他因被指用AI生成音乐而引发争议，如今态度转变，承认AI在创作中的参与。这一事件凸显了AI在音乐创作领域的渗透，以及艺术家对AI工具接受度的变化，也引发关于原创性和版权的讨论。",
+    "category": "product"
+  },
+  {
+    "id": "73ddfbd0f80f813647bbace9b62479e6",
+    "title_en": "Watching Roku’s AI channel is like eating from a trough",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "published_at": "2026-08-07T18:59:46.000Z",
+    "fetched_at": "2026-08-08T00:55:46.859Z",
+    "title_zh": "观看Roku的AI频道如同在食槽边进食",
+    "summary_zh": "评论指出，Roku推出的AI生成内容频道体验糟糕，内容质量低劣，如同在食槽边进食，缺乏营养和品味。该频道自动生成大量低质视频，虽满足部分猎奇需求，但整体观感粗糙，引发对AI内容泛滥和平台审核机制的质疑，也反映了AI内容生产面临的品质挑战。",
+    "category": "product"
+  },
+  {
+    "id": "8f6cc3ec48da40507ffb9d34329e0671",
+    "title_en": "The Chinese Philosopher Americans Can’t Stop Fighting About",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
+    "published_at": "2026-08-07T18:54:04.000Z",
+    "fetched_at": "2026-08-08T00:55:47.649Z",
+    "title_zh": "美国人争论不休的中国哲学家",
+    "summary_zh": "文章探讨了一位中国哲学家的思想在美国引发的持续争论。其观点被不同阵营引用，用于支持各自的政治和文化立场，成为美国思想界的热点。文章分析了这一现象背后的文化误读与意识形态冲突，并指出其思想在当代语境下的复杂解读。",
+    "category": "research"
+  },
+  {
+    "id": "65308bcbb462c7371cc4e803e49e3aae",
+    "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "published_at": "2026-08-07T18:40:34.000Z",
+    "fetched_at": "2026-08-08T00:55:46.859Z",
+    "title_zh": "OpenAI因新模型“过于强大”而紧急刹车",
+    "summary_zh": "OpenAI宣布暂停发布一款新AI模型，理由是担心其能力过于强大，可能带来不可控风险。该模型据称在推理和自主行动方面有显著突破，但OpenAI选择谨慎行事，先进行更全面的安全评估。此举引发业界对AI能力边界和监管必要性的热议，也体现了领先AI公司的责任考量。",
+    "category": "llm"
+  },
+  {
     "id": "fbbe91e309cfbb92dde86dd7d2fdff48",
     "title_en": "The only instant cameras worth your money",
     "source": "The Verge",
@@ -482,6 +559,116 @@
     "title_zh": "中国最强大的AI模型之一也已突破限制",
     "summary_zh": "中国一款顶尖AI模型被曝已突破官方限制，引发对AI治理和模型可控性的担忧。该事件与全球AI监管趋势形成对比，凸显技术开放与安全约束之间的张力，也促使业界重新审视模型部署的边界。",
     "category": "llm"
+  },
+  {
+    "id": "990ceb6585611004c396e5b40319f352",
+    "title_en": "Official statement: AFA backs Infantino's leadership",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/official-statement-afa-backs-infantinos-leadership-43240823",
+    "published_at": "2026-08-07T00:53:00Z",
+    "fetched_at": "2026-08-08T00:55:48.716Z",
+    "title_zh": "官方声明：AFA支持因凡蒂诺的领导",
+    "summary_zh": "非洲足球联合会（AFA）发布官方声明，公开支持国际足联主席因凡蒂诺的领导。此举被视为对因凡蒂诺治理方针的认可，可能影响国际足联未来的政策方向，尤其是在非洲足球发展项目上的合作与投资。",
+    "category": "industry"
+  },
+  {
+    "id": "75a5deae75ac31c75efc3677fbb9aea1",
+    "title_en": "Trump imposes 15% tariff on key chip material to counter China",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo",
+    "published_at": "2026-08-07T00:44:12Z",
+    "fetched_at": "2026-08-08T00:55:48.716Z",
+    "title_zh": "特朗普对关键芯片材料征收15%关税以应对中国",
+    "summary_zh": "美国政府宣布对用于芯片制造的关键材料征收15%的关税，此举旨在减少对中国供应链的依赖并保护国内半导体产业。该政策可能推高芯片生产成本，影响全球科技产业链，并加剧中美在科技领域的贸易紧张关系。",
+    "category": "industry"
+  },
+  {
+    "id": "7c0b32b72aac88e288fd5efd1f725c8f",
+    "title_en": "New Orleans will use AI to answer 911 calls instead of a human",
+    "source": "Shreveport Times",
+    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "published_at": "2026-08-07T00:37:30Z",
+    "fetched_at": "2026-08-08T00:55:48.716Z",
+    "title_zh": "新奥尔良将用AI代替人工接听911电话",
+    "summary_zh": "新奥尔良市计划引入AI系统来应答911紧急电话，以提高响应效率并缓解人力压力。该系统将首先处理非紧急呼叫，但引发了对准确性和隐私的担忧。此举是AI在公共安全领域应用的一个新案例，也凸显了技术替代人工的伦理挑战。",
+    "category": "product"
+  },
+  {
+    "id": "e130d00e16dc3a9d74163d9255806982",
+    "title_en": "Responsible governance must guide AI-driven advertising – FG",
+    "source": "The Punch",
+    "url": "https://punchng.com/responsible-governance-must-guide-ai-driven-advertising-fg/",
+    "published_at": "2026-08-07T00:36:19Z",
+    "fetched_at": "2026-08-08T00:55:48.717Z",
+    "title_zh": "尼日利亚联邦政府：负责任治理必须引导AI驱动的广告业",
+    "summary_zh": "尼日利亚联邦政府强调，在AI驱动的广告业发展中，必须实施负责任的治理框架。政府官员指出，需要制定法规以确保广告内容的透明度和公平性，防止算法偏见，并保护消费者权益，同时鼓励行业创新。",
+    "category": "industry"
+  },
+  {
+    "id": "d3c3c58db0186f3ecaab0264e0f7fa0c",
+    "title_en": "Regulatory burden biggest challenge facing bookmakers — iLOT MD",
+    "source": "The Punch",
+    "url": "https://punchng.com/?p=2209292",
+    "published_at": "2026-08-07T00:36:19Z",
+    "fetched_at": "2026-08-08T00:55:48.717Z",
+    "title_zh": "iLOT总经理：监管负担是博彩公司面临的最大挑战",
+    "summary_zh": "iLOT公司总经理表示，监管负担是当前博彩行业面临的最大挑战。他指出，复杂的法规和合规要求增加了运营成本，限制了业务扩展。呼吁政府简化监管流程，以促进行业健康发展，同时确保负责任的博彩实践。",
+    "category": "industry"
+  },
+  {
+    "id": "6f41fed91a068cdc38f735804259e1fb",
+    "title_en": "New Mexico court orders Meta to pay $567M to address platforms' harms to young people",
+    "source": "CBC News",
+    "url": "https://www.cbc.ca/news/world/meta-new-mexico-court-payment-9.7299090",
+    "published_at": "2026-08-07T00:30:50Z",
+    "fetched_at": "2026-08-08T00:55:48.717Z",
+    "title_zh": "新墨西哥州法院责令Meta支付5.67亿美元以应对平台对青少年的伤害",
+    "summary_zh": "新墨西哥州法院裁定Meta需支付5.67亿美元，用于资助青少年心理健康项目，以回应其平台对年轻用户造成的负面影响。该判决是社交媒体责任诉讼的重大案例，可能促使其他州采取类似行动，并推动平台加强青少年保护措施。",
+    "category": "industry"
+  },
+  {
+    "id": "23bd2a033d458c4629dd6fae372feb16",
+    "title_en": "The RealReal’s AI Overhaul Helps Drive 22% GMV Growth",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/ff4497ad3c079eff",
+    "published_at": "2026-08-07T00:29:45Z",
+    "fetched_at": "2026-08-08T00:55:48.717Z",
+    "title_zh": "The RealReal的AI改造推动GMV增长22%",
+    "summary_zh": "二手奢侈品平台The RealReal通过实施AI驱动的商品推荐和定价系统，显著提升了用户体验和运营效率，带动其商品交易总额（GMV）增长22%。这一成功案例展示了AI在电商领域的实际商业价值，并可能激励更多零售商采用类似技术。",
+    "category": "product"
+  },
+  {
+    "id": "04af1adceee0ebafc685a5a46aa3ae90",
+    "title_en": "New Mexico judge orders Meta to pay $567 million into a child mental health fund | CNN Business",
+    "source": "CNN",
+    "url": "https://www.cnn.com/2026/08/06/business/meta-new-mexico-child-health",
+    "published_at": "2026-08-07T00:23:36Z",
+    "fetched_at": "2026-08-08T00:55:48.717Z",
+    "title_zh": "新墨西哥州法官责令Meta支付5.67亿美元用于儿童心理健康基金",
+    "summary_zh": "新墨西哥州法官裁定Meta必须支付5.67亿美元，存入一个儿童心理健康基金，以弥补其社交媒体平台对青少年心理健康的损害。此判决强调了科技公司在保护未成年用户方面的法律责任，并可能成为未来类似诉讼的参考先例。",
+    "category": "industry"
+  },
+  {
+    "id": "f55dcce6bf77f2df4d6ea77d88af6e45",
+    "title_en": "What Star Trek got wrong about AI (so far)",
+    "source": "Uxdesign.cc",
+    "url": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c",
+    "published_at": "2026-08-07T00:20:56Z",
+    "fetched_at": "2026-08-08T00:55:48.717Z",
+    "title_zh": "《星际迷航》对AI的预测（到目前为止）错在哪里？",
+    "summary_zh": "文章探讨了《星际迷航》系列中对人工智能的描绘与现实AI发展的差异。尽管该剧预见了语音助手和自动化的某些方面，但它高估了AI的自主性和情感能力，同时低估了伦理和社会挑战。文章反思了科幻作品对公众AI认知的影响。",
+    "category": "research"
+  },
+  {
+    "id": "dd98eeff8cfba5e119f590ace529b435",
+    "title_en": "Court orders Meta to pay $567M to address kids' mental health online",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/US/wireStory/court-orders-instagram-facebooks-meta-pay-567m-address-135441473",
+    "published_at": "2026-08-07T00:14:06Z",
+    "fetched_at": "2026-08-08T00:55:48.717Z",
+    "title_zh": "法院责令Meta支付5.67亿美元以应对青少年网络心理健康问题",
+    "summary_zh": "一家法院裁定Meta需支付5.67亿美元，用于解决其平台对青少年心理健康造成的负面影响。这笔资金将用于心理健康服务和相关研究。该裁决是社交媒体监管的一个重要里程碑，凸显了平台在保护年轻用户方面的责任。",
+    "category": "industry"
   },
   {
     "id": "9154bbe38876b15b7af93559cfd3a17c",
@@ -5311,192 +5498,5 @@
     "title_zh": "YouTuber Hank Green坦言其AI使用“不健康”",
     "summary_zh": "知名YouTuber Hank Green公开表示，他过度依赖AI工具进行内容创作，认为这种习惯“不健康”。他担忧AI削弱原创性和人类创造力，并呼吁创作者反思技术使用的边界。此言论引发关于AI在创意产业中角色的广泛讨论，强调平衡效率与人文价值的重要性。",
     "category": "llm"
-  },
-  {
-    "id": "c783dd54ab1958022e5a218c30fffd06",
-    "title_en": "India's youth driving advances in AI, space & deep tech: PM Narendra Modi",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/india/indias-youth-driving-advances-in-ai-space-deep-tech-pm-narendra-modi/articleshow/132795798.cms",
-    "published_at": "2026-08-01T18:45:54Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "印度总理莫迪：印度青年推动AI、太空和深科技发展",
-    "summary_zh": "印度总理纳伦德拉·莫迪表示，印度青年正在成为AI、太空探索和深科技领域进步的主要驱动力。他强调政府将加大对青年创新和创业的支持，以巩固印度在全球科技舞台上的地位。这一表态反映了印度对科技自立的重视。",
-    "category": "industry"
-  },
-  {
-    "id": "265003d1292a56cb8adbd280c08bda3c",
-    "title_en": "OpenAI Next Major Model Astra Solves Major Math Problems",
-    "source": "Next Big Future",
-    "url": "https://www.nextbigfuture.com/2026/08/openai-next-major-model-astra-solves-major-math-problems.html",
-    "published_at": "2026-08-01T18:41:23Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "OpenAI下一代大模型Astra攻克重大数学难题",
-    "summary_zh": "据Next Big Future报道，OpenAI的下一代大模型Astra在解决重大数学难题方面取得突破。该模型展示了强大的推理和问题解决能力，可能对数学研究产生深远影响。这一进展也预示着AI在科学发现领域的潜力，引发广泛关注。",
-    "category": "llm"
-  },
-  {
-    "id": "f39aeb78c1a54e93d901a5b3cf9be337",
-    "title_en": "Dublin Port, Twitter, Australia Social Media, More: Saturday Afternoon ResearchBuzz, August 1, 2026",
-    "source": "Researchbuzz.me",
-    "url": "https://researchbuzz.me/2026/08/01/dublin-port-twitter-australia-social-media-more-saturday-afternoon-researchbuzz-august-1-2026/",
-    "published_at": "2026-08-01T18:35:27Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "都柏林港、推特、澳大利亚社交媒体等：2026年8月1日周六下午研究速览",
-    "summary_zh": "本期研究速览汇集了多个领域的网络资源更新，涵盖都柏林港的数字化档案、推特平台的新功能或趋势、以及澳大利亚社交媒体的最新动态。内容旨在为研究人员和爱好者提供便捷的链接汇总，帮助快速获取相关领域的原始资料和深度信息，是追踪网络信息变化的实用指南。",
-    "category": "industry"
-  },
-  {
-    "id": "30f6394f6117c9d40139fe89bb3b3217",
-    "title_en": "PM Modi launches South India's first chip plant",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/india/pm-modi-launches-south-indias-first-chip-plant/articleshow/132795523.cms",
-    "published_at": "2026-08-01T18:27:40Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "莫迪总理启动印度南部首家芯片工厂",
-    "summary_zh": "印度总理莫迪正式启动了位于南部的该国首家芯片制造工厂，标志着印度在半导体自主化道路上迈出关键一步。此举旨在减少对进口芯片的依赖，并吸引全球科技投资。该工厂的建立预计将促进当地就业，并推动印度成为全球电子制造中心，对印度科技产业具有里程碑意义。",
-    "category": "industry"
-  },
-  {
-    "id": "08e5f031fb7c1f56fce2ea6e05d174d7",
-    "title_en": "Adventures of Superman: Book of El #11 Preview: Giant Problems",
-    "source": "Bleeding Cool News",
-    "url": "https://bleedingcool.com/comics/adventures-of-superman-book-of-el-11-preview-giant-problems/",
-    "published_at": "2026-08-01T18:27:10Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "《超人历险记：艾尔之书》第11期预览：巨人危机",
-    "summary_zh": "漫画《超人历险记：艾尔之书》第11期发布预览，本期标题为“巨人危机”。剧情似乎围绕超人面临一个或多个巨人般的威胁展开，可能涉及新的反派或超自然力量。预览画面展示了紧张的动作场面和超人面临的严峻挑战，粉丝们可以期待一场力量与智慧的较量，以及超人如何化解这场巨大的危机。",
-    "category": "product"
-  },
-  {
-    "id": "a7e91e930e04e9f285ee837770502737",
-    "title_en": "Confirmed XIs: Colo Colo aim to tighten grip on top spot at Sausalito",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/confirmed-xis-colo-colo-aim-to-tighten-grip-on-top-spot-at-sausalito-43216581",
-    "published_at": "2026-08-01T18:26:00Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "确认首发：科洛科洛队力争在绍萨利托巩固榜首位置",
-    "summary_zh": "智利足球劲旅科洛科洛队公布了本场比赛的首发阵容，球队目标是在客场绍萨利托球场全取三分，以巩固其在联赛积分榜上的领先地位。主教练排出了最强阵容，意图通过积极进攻掌控比赛节奏。对手主场作战势必顽强抵抗，这场榜首争夺战备受球迷关注，结果将直接影响联赛冠军的走势。",
-    "category": "product"
-  },
-  {
-    "id": "5bd2ff2f2cf8b07aecca793da670cb22",
-    "title_en": "Is this Billboard Hot 100 hit AI slop?",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-    "published_at": "2026-08-01T18:20:00.000Z",
-    "fetched_at": "2026-08-01T18:55:10.180Z",
-    "title_zh": "这首Billboard Hot 100热单是AI垃圾吗？",
-    "summary_zh": "一首登上Billboard Hot 100榜单的歌曲被质疑由AI生成，引发音乐产业对AI创作界限的激烈讨论。听众和评论家争论AI音乐是否应被视为艺术，以及其对原创性和版权的冲击。该事件凸显AI在创意产业中的渗透与争议。",
-    "category": "industry"
-  },
-  {
-    "id": "6b11a2991f88ecab3fd11059933c780d",
-    "title_en": "Goldman Sachs says the most capital-hungry investment cycle in history has arrived",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/goldman-sachs-capital-hungry-investment-cycle/",
-    "published_at": "2026-08-01T18:05:43Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "高盛：史上最耗资本的投资周期已经到来",
-    "summary_zh": "高盛发布报告指出，全球正进入一个前所未有的资本密集型投资周期，主要驱动力来自人工智能基础设施、能源转型及制造业回流等领域的巨额投入。该行认为，这一趋势将持续多年，对全球资本流动、利率水平和企业资产负债表产生深远影响。投资者需适应新环境，关注那些能够吸引并有效利用大量资本的企业和行业。",
-    "category": "industry"
-  },
-  {
-    "id": "0d4577fda316136154945bf301e51792",
-    "title_en": "This week’s drops: lots of purple, third kits and new Messi and CR7 gear",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/this-weeks-drops-lots-of-purple-third-kits-and-new-messi-and-cr7-gear-43216468",
-    "published_at": "2026-08-01T17:53:00Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "本周球衣发布：紫色风暴、第三球衣及梅西C罗新装备",
-    "summary_zh": "本周足球装备市场迎来多款新品发布，多家俱乐部推出了以紫色为主色调的特别版球衣，同时各队第三球衣也陆续亮相。最受瞩目的当属梅西和C罗的新款个人专属装备，设计融合了个人品牌元素与最新科技。这些新品不仅满足了球迷的收藏需求，也体现了足球装备在设计创新和商业运作上的持续活力。",
-    "category": "product"
-  },
-  {
-    "id": "ddc1adad2d5d712d67cefbb96853748b",
-    "title_en": " It worked before! Will a giant be unbeatable with grandad signings?",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/it-worked-before-will-a-giant-be-unbeatable-with-grandad-signings-43216451",
-    "published_at": "2026-08-01T17:48:00Z",
-    "fetched_at": "2026-08-02T18:56:03.459Z",
-    "title_zh": "昔日奏效！豪门签下老将能否再度无敌？",
-    "summary_zh": "文章探讨了足球俱乐部通过引进经验丰富的老将来增强实力的策略，并回顾了历史上类似操作成功的案例。作者分析认为，老将带来的领导力、大赛经验和即战力，在特定战术体系下仍能发挥巨大作用。然而，现代足球节奏更快，身体对抗更强，单纯依赖老将存在风险。文章引发思考：在当今足坛，这种“复古”建队思路是否还能复制昔日的辉煌？",
-    "category": "product"
-  },
-  {
-    "id": "e9ef63ba10d028f19aec508918c90841",
-    "title_en": "Sam Altman is still making the case for parenting via ChatGPT",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "published_at": "2026-08-01T17:07:34.000Z",
-    "fetched_at": "2026-08-01T18:55:10.001Z",
-    "title_zh": "萨姆·奥尔特曼仍在为“用ChatGPT育儿”辩护",
-    "summary_zh": "OpenAI CEO萨姆·奥尔特曼再次为使用ChatGPT辅助育儿进行辩护，引发科技与教育界热议。他认为AI能提供个性化学习支持，但批评者担忧过度依赖AI会影响儿童情感发展和亲子关系。奥尔特曼强调AI是工具而非替代品，呼吁理性看待AI在教育中的角色。",
-    "category": "llm"
-  },
-  {
-    "id": "ead1e4e220b139fd6ef1e92274bb374f",
-    "title_en": "Spider-Man: Brand New Day leak racks up millions of views",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-    "published_at": "2026-08-01T17:00:12.000Z",
-    "fetched_at": "2026-08-01T18:55:10.180Z",
-    "title_zh": "《蜘蛛侠：崭新的一天》泄露视频浏览量破百万",
-    "summary_zh": "漫威新片《蜘蛛侠：崭新的一天》的泄露片段在社交媒体上疯狂传播，累计浏览量已超数百万。泄露内容引发粉丝狂热讨论，同时也让片方陷入版权与保密危机。业内人士担忧泄露事件可能影响电影宣传策略和票房表现。",
-    "category": "industry"
-  },
-  {
-    "id": "f1ff6b58ea03759e54f5594d8153dc81",
-    "title_en": "This $9 key physically locks your most addictive apps",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-    "published_at": "2026-08-01T15:58:17.000Z",
-    "fetched_at": "2026-08-01T18:55:10.002Z",
-    "title_zh": "这款9美元的钥匙能物理锁定你最上瘾的App",
-    "summary_zh": "一款售价9美元的物理钥匙设备走红，通过物理方式锁定手机上的成瘾应用，帮助用户戒除数字依赖。该设备需插入手机才能解锁特定App，以物理隔离方式强制用户减少屏幕时间，引发关于数字健康与自我控制的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "8622f91f0b0110fdab664a61c5329a4e",
-    "title_en": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-    "published_at": "2026-08-01T15:23:35.000Z",
-    "fetched_at": "2026-08-01T18:55:10.180Z",
-    "title_zh": "特朗普将水系统黑客归咎于蒂姆·沃尔兹，尽管真凶可能是伊朗",
-    "summary_zh": "美国前总统特朗普在社交媒体上指责明尼苏达州州长蒂姆·沃尔兹应对水系统黑客攻击负责，但安全专家指出攻击源头更可能来自伊朗。这一言论引发政治与网络安全交叉领域的争议，凸显关键基础设施安全面临的国际威胁。",
-    "category": "industry"
-  },
-  {
-    "id": "4ac2b0d0919abc4dd4e2c0bba7749fab",
-    "title_en": "The Verge’s 2026 back-to-school shopping guide",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-    "published_at": "2026-08-01T14:00:00.000Z",
-    "fetched_at": "2026-08-01T18:55:10.180Z",
-    "title_zh": "The Verge 2026年返校季购物指南",
-    "summary_zh": "The Verge发布2026年返校季购物指南，涵盖笔记本电脑、平板、耳机等学生必备科技产品。指南基于实际测试，推荐高性价比与高性能设备，并针对不同预算和学习需求提供选购建议，帮助学生在新学年高效学习与娱乐。",
-    "category": "product"
-  },
-  {
-    "id": "f8e154cc07d5499b46cd9221c773117f",
-    "title_en": "You could be taking way better photos on your phone",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
-    "published_at": "2026-08-01T13:30:00.000Z",
-    "fetched_at": "2026-08-01T18:55:10.180Z",
-    "title_zh": "你的手机拍照还能更出色",
-    "summary_zh": "摄影专家分享提升手机摄影技巧的实用建议，从构图、光线到后期编辑，帮助用户充分利用智能手机的相机功能。文章指出，通过简单调整设置和掌握基本技巧，普通用户也能拍出专业级照片，无需昂贵设备。",
-    "category": "product"
-  },
-  {
-    "id": "29bc4e5fd721cd84ad08b7f0b18f80a4",
-    "title_en": "The Mermaid Mask is a perfect vacation murder mystery",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
-    "published_at": "2026-08-01T13:00:00.000Z",
-    "fetched_at": "2026-08-01T18:55:10.180Z",
-    "title_zh": "《美人鱼面具》是一部完美的度假谋杀悬疑剧",
-    "summary_zh": "新剧《美人鱼面具》被评论家誉为度假时必看的谋杀悬疑佳作。该剧融合了海岛风光、复杂人物关系和层层反转的剧情，为观众提供沉浸式解谜体验。评论称其节奏紧凑、悬念迭起，是近期悬疑类型中的亮点。",
-    "category": "product"
   }
 ]

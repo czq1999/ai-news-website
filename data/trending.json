@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-08-08",
+      "summary_zh": "今日GitHub热门聚焦AI编程智能体，多个项目提供工程级技能框架与自主代理方案，同时涵盖认证集成、群体智能引擎及开发工具链优化。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "language": "TypeScript",
+          "stars_total": 6537,
+          "stars_today": 2293,
+          "description_zh": "一个用于编码工作流和长时间运行自主任务的自我改进RLM代理。"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 208820,
+          "stars_today": 2152,
+          "description_zh": "真正工程师的技能。直接来自我的.agents目录。"
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 83903,
+          "stars_today": 1131,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 4,
+          "name": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "description_en": "Give your agent a computer 👾",
+          "language": "TypeScript",
+          "stars_total": 5718,
+          "stars_today": 872,
+          "description_zh": "给你的代理一台电脑 👾"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 268747,
+          "stars_today": 782,
+          "description_zh": "一个有效的代理技能框架和软件开发方法论。"
+        },
+        {
+          "rank": 6,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description_en": "The authentication glue you need.",
+          "language": "Python",
+          "stars_total": 23598,
+          "stars_today": 530,
+          "description_zh": "你需要的认证粘合剂。"
+        },
+        {
+          "rank": 7,
+          "name": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "description_en": "self-hosted, distributed Durable Objects",
+          "language": "Rust",
+          "stars_total": 2207,
+          "stars_today": 516,
+          "description_zh": "自托管的分布式持久对象。"
+        },
+        {
+          "rank": 8,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description_en": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+          "language": "Python",
+          "stars_total": 186322,
+          "stars_today": 355,
+          "description_zh": "AutoGPT是让人人都能使用和构建的AI愿景。我们的使命是提供工具，让你专注于重要的事情。"
+        },
+        {
+          "rank": 9,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description_en": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars_total": 16252,
+          "stars_today": 327,
+          "description_zh": "面向Google产品和技术的代理技能。"
+        },
+        {
+          "rank": 10,
+          "name": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description_en": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+          "language": "Go",
+          "stars_total": 19749,
+          "stars_today": 234,
+          "description_zh": "为什么它在运行？追踪任何进程、端口、容器或文件到其启动源头——CLI + TUI。"
+        },
+        {
+          "rank": 11,
+          "name": "google/guava",
+          "url": "https://github.com/google/guava",
+          "description_en": "Google core libraries for Java",
+          "language": "Java",
+          "stars_total": 51763,
+          "stars_today": 152,
+          "description_zh": "Google Java核心库。"
+        },
+        {
+          "rank": 12,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars_total": 70508,
+          "stars_today": 141,
+          "description_zh": "一个简单通用的群体智能引擎，可预测万物。"
+        },
+        {
+          "rank": 13,
+          "name": "jdx/mise",
+          "url": "https://github.com/jdx/mise",
+          "description_en": "dev tools, env vars, task runner",
+          "language": "Rust",
+          "stars_total": 32069,
+          "stars_today": 135,
+          "description_zh": "开发工具、环境变量、任务运行器。"
+        },
+        {
+          "rank": 14,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars_total": 2347,
+          "stars_today": 122,
+          "description_zh": "面向上下文和可问责AI系统的图原生基础设施。"
+        },
+        {
+          "rank": 15,
+          "name": "K2SOsint/Legendary_OSINT",
+          "url": "https://github.com/K2SOsint/Legendary_OSINT",
+          "description_en": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+          "language": "",
+          "stars_total": 1428,
+          "stars_today": 109,
+          "description_zh": "面向（欺诈）调查人员、CTI分析师、KYC、AML等的OSINT工具和资源列表。"
+        },
+        {
+          "rank": 16,
+          "name": "unclebob/swarm-forge",
+          "url": "https://github.com/unclebob/swarm-forge",
+          "description_en": "A simple tool for coordinating several AI agents.",
+          "language": "Clojure",
+          "stars_total": 1831,
+          "stars_today": 81,
+          "description_zh": "一个用于协调多个AI代理的简单工具。"
+        },
+        {
+          "rank": 17,
+          "name": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "description_en": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+          "language": "Go",
+          "stars_total": 7141,
+          "stars_today": 55,
+          "description_zh": "用于Grok Build、Grok Web和Grok Console的多账户API网关。"
+        }
+      ]
+    },
+    {
       "date": "2026-08-07",
       "summary_zh": "今日GitHub热门聚焦AI编程代理与智能体技能框架，涵盖自主编码、群体智能引擎、认证集成及开发者工具链，强调工程化落地与自动化效率提升。",
       "projects": [
@@ -4751,162 +4927,6 @@
           "stars_total": 6546,
           "stars_today": 185,
           "description_zh": "这是为Claude提供的MCP服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-08",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理技能与工具链，涵盖生产级工程技能、WiFi信号空间感知、长期记忆数据库、多平台研究摘要、Office自动化、系统提示泄露及轻量级向量数据库等前沿技术。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "Diolinux/PhotoGIMP",
-          "url": "https://github.com/Diolinux/PhotoGIMP",
-          "description_en": "A Patch for GIMP 3+ for Photoshop Users",
-          "language": "CSS",
-          "stars_total": 14921,
-          "stars_today": 2031,
-          "description_zh": "为Photoshop用户提供的GIMP 3+补丁"
-        },
-        {
-          "rank": 2,
-          "name": "iOfficeAI/OfficeCLI",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "description_en": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-          "language": "C#",
-          "stars_total": 11527,
-          "stars_today": 1712,
-          "description_zh": "OfficeCLI是首个且最佳的专为AI智能体设计的Office套件，用于读取、编辑和自动化Word、Excel和PowerPoint文件。免费、开源、单一二进制文件，无需安装Office。"
-        },
-        {
-          "rank": 3,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 73610,
-          "stars_today": 1322,
-          "description_zh": "面向AI编码智能体的生产级工程技能。"
-        },
-        {
-          "rank": 4,
-          "name": "asgeirtj/system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-          "language": "JavaScript",
-          "stars_total": 53973,
-          "stars_today": 1226,
-          "description_zh": "提取自Anthropic（Claude Fable 5、Opus 4.8、Claude Code、Claude Design）、OpenAI（ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex）、Google（Gemini 3.5 Flash、3.1 Pro、Antigravity）、xAI（Grok、Cursor、Copilot、VS Code、Perplexity等）的系统提示词。定期更新。"
-        },
-        {
-          "rank": 5,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 249685,
-          "stars_today": 999,
-          "description_zh": "一套行之有效的代理技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 6,
-          "name": "bradautomates/claude-video",
-          "url": "https://github.com/bradautomates/claude-video",
-          "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-          "language": "Python",
-          "stars_total": 5918,
-          "stars_today": 948,
-          "description_zh": "赋予Claude观看任意视频的能力。/watch命令可下载视频、提取帧、转录音频，并将所有内容交给Claude处理。"
-        },
-        {
-          "rank": 7,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 79016,
-          "stars_today": 793,
-          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
-        },
-        {
-          "rank": 8,
-          "name": "TencentCloud/CubeSandbox",
-          "url": "https://github.com/TencentCloud/CubeSandbox",
-          "description_en": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-          "language": "Rust",
-          "stars_total": 8852,
-          "stars_today": 555,
-          "description_zh": "为AI智能体打造的即时、并发、安全且轻量的沙箱环境。"
-        },
-        {
-          "rank": 9,
-          "name": "mvanhorn/last30days-skill",
-          "url": "https://github.com/mvanhorn/last30days-skill",
-          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-          "language": "Python",
-          "stars_total": 50635,
-          "stars_today": 373,
-          "description_zh": "AI代理技能，可研究Reddit、X、YouTube、HN、Polymarket及网络上的任何主题，然后综合生成有依据的摘要。"
-        },
-        {
-          "rank": 10,
-          "name": "alibaba/zvec",
-          "url": "https://github.com/alibaba/zvec",
-          "description_en": "A lightweight, lightning-fast, in-process vector database",
-          "language": "C++",
-          "stars_total": 14325,
-          "stars_today": 370,
-          "description_zh": "一个轻量级、超快速的进程内向量数据库"
-        },
-        {
-          "rank": 11,
-          "name": "TencentCloud/TencentDB-Agent-Memory",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "description_en": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-          "language": "TypeScript",
-          "stars_total": 7542,
-          "stars_today": 351,
-          "description_zh": "腾讯云数据库代理内存通过四级渐进式流水线为AI代理提供完全本地化的长期记忆，零外部API依赖。"
-        },
-        {
-          "rank": 12,
-          "name": "huxingyi/autoremesher",
-          "url": "https://github.com/huxingyi/autoremesher",
-          "description_en": "Automatic quad remeshing tool",
-          "language": "C++",
-          "stars_total": 1929,
-          "stars_today": 292,
-          "description_zh": "自动四边形网格重建工具"
-        },
-        {
-          "rank": 13,
-          "name": "prisma/prisma",
-          "url": "https://github.com/prisma/prisma",
-          "description_en": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-          "language": "TypeScript",
-          "stars_total": 46490,
-          "stars_today": 30,
-          "description_zh": "适用于Node.js和TypeScript的下一代ORM | 支持PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB和CockroachDB"
-        },
-        {
-          "rank": 14,
-          "name": "argoproj/argo-cd",
-          "url": "https://github.com/argoproj/argo-cd",
-          "description_en": "Declarative Continuous Deployment for Kubernetes",
-          "language": "Go",
-          "stars_total": 23405,
-          "stars_today": 20,
-          "description_zh": "Kubernetes的声明式持续部署工具"
-        },
-        {
-          "rank": 15,
-          "name": "wonderwhy-er/DesktopCommanderMCP",
-          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-          "description_en": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-          "language": "TypeScript",
-          "stars_total": 6339,
-          "stars_today": 20,
-          "description_zh": "这是Claude的MCP服务器，为其提供终端控制、文件系统搜索和差异文件编辑能力。"
         }
       ]
     }
