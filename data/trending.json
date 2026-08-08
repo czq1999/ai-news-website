@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-08",
-      "summary_zh": "今日GitHub热门聚焦AI编程智能体，多个项目提供工程级技能框架与自主代理方案，同时涵盖认证集成、群体智能引擎及开发工具链优化。",
+      "summary_zh": "今日GitHub热门聚焦AI编程代理与智能体技能框架，涵盖自主编码、群智引擎、认证集成及开发者工具，凸显AI自动化与工程化趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "stars_total": 6537,
+          "stars_total": 7043,
           "stars_today": 2293,
           "description_zh": "一个用于编码工作流和长时间运行自主任务的自我改进RLM代理。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 208820,
+          "stars_total": 209113,
           "stars_today": 2152,
           "description_zh": "真正工程师的技能。直接来自我的.agents目录。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 83903,
+          "stars_total": 84053,
           "stars_today": 1131,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/cloudflare/computer",
           "description_en": "Give your agent a computer 👾",
           "language": "TypeScript",
-          "stars_total": 5718,
+          "stars_total": 5991,
           "stars_today": 872,
           "description_zh": "给你的代理一台电脑 👾"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 268747,
+          "stars_total": 268887,
           "stars_today": 782,
           "description_zh": "一个有效的代理技能框架和软件开发方法论。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/goauthentik/authentik",
           "description_en": "The authentication glue you need.",
           "language": "Python",
-          "stars_total": 23598,
+          "stars_total": 23698,
           "stars_today": 530,
           "description_zh": "你需要的认证粘合剂。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/denoland/celld",
           "description_en": "self-hosted, distributed Durable Objects",
           "language": "Rust",
-          "stars_total": 2207,
+          "stars_total": 2298,
           "stars_today": 516,
           "description_zh": "自托管的分布式持久对象。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/Significant-Gravitas/AutoGPT",
           "description_en": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
           "language": "Python",
-          "stars_total": 186322,
+          "stars_total": 186378,
           "stars_today": 355,
           "description_zh": "AutoGPT是让人人都能使用和构建的AI愿景。我们的使命是提供工具，让你专注于重要的事情。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/google/skills",
           "description_en": "Agent Skills for Google products and technologies",
           "language": "Python",
-          "stars_total": 16252,
+          "stars_total": 16360,
           "stars_today": 327,
           "description_zh": "面向Google产品和技术的代理技能。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/pranshuparmar/witr",
           "description_en": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
           "language": "Go",
-          "stars_total": 19749,
+          "stars_total": 19893,
           "stars_today": 234,
           "description_zh": "为什么它在运行？追踪任何进程、端口、容器或文件到其启动源头——CLI + TUI。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/google/guava",
           "description_en": "Google core libraries for Java",
           "language": "Java",
-          "stars_total": 51763,
+          "stars_total": 51782,
           "stars_today": 152,
           "description_zh": "Google Java核心库。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/666ghj/MiroFish",
           "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
           "language": "Python",
-          "stars_total": 70508,
+          "stars_total": 70614,
           "stars_today": 141,
           "description_zh": "一个简单通用的群体智能引擎，可预测万物。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/jdx/mise",
           "description_en": "dev tools, env vars, task runner",
           "language": "Rust",
-          "stars_total": 32069,
+          "stars_total": 32112,
           "stars_today": 135,
           "description_zh": "开发工具、环境变量、任务运行器。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/semantica-agi/semantica",
           "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
           "language": "Python",
-          "stars_total": 2347,
+          "stars_total": 2418,
           "stars_today": 122,
           "description_zh": "面向上下文和可问责AI系统的图原生基础设施。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/K2SOsint/Legendary_OSINT",
           "description_en": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
           "language": "",
-          "stars_total": 1428,
+          "stars_total": 1543,
           "stars_today": 109,
           "description_zh": "面向（欺诈）调查人员、CTI分析师、KYC、AML等的OSINT工具和资源列表。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/unclebob/swarm-forge",
           "description_en": "A simple tool for coordinating several AI agents.",
           "language": "Clojure",
-          "stars_total": 1831,
+          "stars_total": 1889,
           "stars_today": 81,
           "description_zh": "一个用于协调多个AI代理的简单工具。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/chenyme/grok2api",
           "description_en": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
           "language": "Go",
-          "stars_total": 7141,
+          "stars_total": 7168,
           "stars_today": 55,
           "description_zh": "用于Grok Build、Grok Web和Grok Console的多账户API网关。"
         }
