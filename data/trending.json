@@ -1,6 +1,132 @@
 {
   "days": [
     {
+      "date": "2026-08-09",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多项目专注编程代理技能优化与自主任务执行，同时涵盖金融交易多智能体框架、教育教材资源、认证安全工具及独立浏览器开发。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "language": "TypeScript",
+          "stars_total": 8956,
+          "stars_today": 2483,
+          "description_zh": "一个用于编码工作流和长时间运行自主任务的自我改进型RLM代理。"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 210020,
+          "stars_today": 1359,
+          "description_zh": "面向真实工程师的技能。直接来自我的.agents目录。"
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 84569,
+          "stars_today": 779,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 4,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description_en": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars_total": 16737,
+          "stars_today": 481,
+          "description_zh": "面向Google产品和技术的代理技能。"
+        },
+        {
+          "rank": 5,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description_en": "The authentication glue you need.",
+          "language": "Python",
+          "stars_total": 23976,
+          "stars_today": 467,
+          "description_zh": "你需要的认证粘合剂。"
+        },
+        {
+          "rank": 6,
+          "name": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "description_en": "self-hosted, distributed Durable Objects",
+          "language": "Rust",
+          "stars_total": 2572,
+          "stars_today": 432,
+          "description_zh": "自托管的分布式持久对象。"
+        },
+        {
+          "rank": 7,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 96477,
+          "stars_today": 153,
+          "description_zh": "TradingAgents：多智能体LLM金融交易框架。"
+        },
+        {
+          "rank": 8,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description_en": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars_total": 77934,
+          "stars_today": 118,
+          "description_zh": "所有小初高、大学PDF教材。"
+        },
+        {
+          "rank": 9,
+          "name": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "description_en": "翻墙-科学上网",
+          "language": "Kotlin",
+          "stars_total": 49882,
+          "stars_today": 101,
+          "description_zh": "翻墙-科学上网。"
+        },
+        {
+          "rank": 10,
+          "name": "google/guava",
+          "url": "https://github.com/google/guava",
+          "description_en": "Google core libraries for Java",
+          "language": "Java",
+          "stars_total": 51851,
+          "stars_today": 93,
+          "description_zh": "Google Java核心库。"
+        },
+        {
+          "rank": 11,
+          "name": "litu54/DevOps-Interview-Guide",
+          "url": "https://github.com/litu54/DevOps-Interview-Guide",
+          "description_en": "DevOps Interview Guide",
+          "language": "",
+          "stars_total": 706,
+          "stars_today": 68,
+          "description_zh": "DevOps面试指南。"
+        },
+        {
+          "rank": 12,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description_en": "Truly independent web browser",
+          "language": "C++",
+          "stars_total": 64988,
+          "stars_today": 48,
+          "description_zh": "真正独立的网页浏览器。"
+        }
+      ]
+    },
+    {
       "date": "2026-08-08",
       "summary_zh": "今日GitHub热门聚焦AI编程代理与技能库，多项目推动自主编码自动化；同时涵盖金融交易多智能体、教育教材资源、认证系统及独立浏览器等多元技术亮点。",
       "projects": [
@@ -4721,162 +4847,6 @@
           "stars_total": 6069,
           "stars_today": 65,
           "description_zh": "一个用C++编写的YAML解析器和发射器"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具生态：AI求职框架、办公自动化、渗透测试、UI设计生成及Claude增强工具，同时涵盖Unturned游戏源码与Linux安全指南。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "MadsLorentzen/ai-job-search",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "description_en": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-          "language": "TypeScript",
-          "stars_total": 18370,
-          "stars_today": 3728,
-          "description_zh": "基于Claude Code构建的AI驱动求职应用框架。克隆它，填写你的个人资料，让Claude评估职位、定制简历、撰写求职信，并为你准备面试。"
-        },
-        {
-          "rank": 2,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 75719,
-          "stars_today": 2582,
-          "description_zh": "为AI编码代理提供的生产级工程技能。"
-        },
-        {
-          "rank": 3,
-          "name": "iOfficeAI/OfficeCLI",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "description_en": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-          "language": "C#",
-          "stars_total": 13247,
-          "stars_today": 1923,
-          "description_zh": "OfficeCLI是首个也是最好的专为AI代理读取、编辑和自动化Word、Excel及PowerPoint文件而构建的Office套件。免费、开源、单二进制文件，无需安装Office。"
-        },
-        {
-          "rank": 4,
-          "name": "VoltAgent/awesome-design-md",
-          "url": "https://github.com/VoltAgent/awesome-design-md",
-          "description_en": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-          "language": "",
-          "stars_total": 99446,
-          "stars_today": 1233,
-          "description_zh": "收集了知名品牌设计系统的DESIGN.md文件分析。将其放入你的项目，让编码代理生成匹配的用户界面。"
-        },
-        {
-          "rank": 5,
-          "name": "asgeirtj/system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-          "language": "JavaScript",
-          "stars_total": 55006,
-          "stars_today": 1135,
-          "description_zh": "提取自Anthropic（Claude Fable 5、Opus 4.8、Claude Code、Claude Design）、OpenAI（ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex）、Google（Gemini 3.5 Flash、3.1 Pro、Antigravity）、xAI（Grok、Cursor、Copilot、VS Code、Perplexity）等平台的系统提示词。定期更新。"
-        },
-        {
-          "rank": 6,
-          "name": "bradautomates/claude-video",
-          "url": "https://github.com/bradautomates/claude-video",
-          "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-          "language": "Python",
-          "stars_total": 6575,
-          "stars_today": 727,
-          "description_zh": "赋予Claude观看任何视频的能力。/watch 下载视频、提取帧、转录文本，并将所有内容交给Claude处理。"
-        },
-        {
-          "rank": 7,
-          "name": "vxcontrol/pentagi",
-          "url": "https://github.com/vxcontrol/pentagi",
-          "description_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-          "language": "Go",
-          "stars_total": 19274,
-          "stars_today": 543,
-          "description_zh": "完全自主的AI代理系统，能够执行复杂的渗透测试任务。"
-        },
-        {
-          "rank": 8,
-          "name": "SmartlyDressedGames/U3-SDK",
-          "url": "https://github.com/SmartlyDressedGames/U3-SDK",
-          "description_en": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-          "language": "C#",
-          "stars_total": 1937,
-          "stars_today": 541,
-          "description_zh": "Unturned的源代码，一款免费的开放世界僵尸生存沙盒游戏。"
-        },
-        {
-          "rank": 9,
-          "name": "huxingyi/autoremesher",
-          "url": "https://github.com/huxingyi/autoremesher",
-          "description_en": "Automatic quad remeshing tool",
-          "language": "C++",
-          "stars_total": 2298,
-          "stars_today": 405,
-          "description_zh": "自动四边形网格重构工具。"
-        },
-        {
-          "rank": 10,
-          "name": "prisma/prisma",
-          "url": "https://github.com/prisma/prisma",
-          "description_en": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-          "language": "TypeScript",
-          "stars_total": 46850,
-          "stars_today": 373,
-          "description_zh": "面向Node.js和TypeScript的下一代ORM | 支持PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB和CockroachDB"
-        },
-        {
-          "rank": 11,
-          "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-          "description_en": "An evolving how-to guide for securing a Linux server.",
-          "language": "",
-          "stars_total": 28993,
-          "stars_today": 306,
-          "description_zh": "一份不断更新的Linux服务器安全指南。"
-        },
-        {
-          "rank": 12,
-          "name": "kyutai-labs/pocket-tts",
-          "url": "https://github.com/kyutai-labs/pocket-tts",
-          "description_en": "A TTS that fits in your CPU (and pocket)",
-          "language": "Python",
-          "stars_total": 6895,
-          "stars_today": 273,
-          "description_zh": "一款适合你的CPU（和口袋）的文本转语音工具。"
-        },
-        {
-          "rank": 13,
-          "name": "unclecode/crawl4ai",
-          "url": "https://github.com/unclecode/crawl4ai",
-          "description_en": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-          "language": "Python",
-          "stars_total": 71747,
-          "stars_today": 195,
-          "description_zh": "🚀🤖 Crawl4AI：开源、对LLM友好的网络爬虫与抓取工具。别害羞，加入这里：https://discord.gg/jP8KfhDhyN"
-        },
-        {
-          "rank": 14,
-          "name": "anthropics/claude-cookbooks",
-          "url": "https://github.com/anthropics/claude-cookbooks",
-          "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-          "language": "Jupyter Notebook",
-          "stars_total": 47058,
-          "stars_today": 194,
-          "description_zh": "一系列笔记本/食谱，展示使用Claude的一些有趣且有效的方法。"
-        },
-        {
-          "rank": 15,
-          "name": "wonderwhy-er/DesktopCommanderMCP",
-          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-          "description_en": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-          "language": "TypeScript",
-          "stars_total": 6546,
-          "stars_today": 185,
-          "description_zh": "这是为Claude提供的MCP服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力。"
         }
       ]
     }
