@@ -1,5 +1,60 @@
 [
   {
+    "id": "599239f91c833f6bc862b75b1541a9cb",
+    "title_en": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+    "published_at": "2026-08-09T17:20:30.000Z",
+    "fetched_at": "2026-08-09T18:25:33.527Z",
+    "title_zh": "扎克伯格的游艇虽近，但他人救起搁浅船只",
+    "summary_zh": "一则海上救援事件引发关注：尽管扎克伯格的豪华游艇就在附近，但最终由另一艘船只成功救助了搁浅的船。事件被网友调侃，凸显科技富豪与普通民众之间的现实距离，也引发对财富与责任关系的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "626fb4a322d37a7378d5fdf2386400fb",
+    "title_en": "49ers coach says his Tesla was on Autopilot when he crashed",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+    "published_at": "2026-08-09T15:56:49.000Z",
+    "fetched_at": "2026-08-09T18:25:33.527Z",
+    "title_zh": "49人队教练称车祸时特斯拉处于自动驾驶状态",
+    "summary_zh": "旧金山49人队教练遭遇车祸，声称事故发生时车辆启用了特斯拉Autopilot功能。此事再次引发对自动驾驶系统安全性的质疑，尤其是对驾驶员注意力监管的有效性。特斯拉尚未回应，监管机构或介入调查。",
+    "category": "product"
+  },
+  {
+    "id": "1e7f7c10ceed19eb5b91aa2a1acb1720",
+    "title_en": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "published_at": "2026-08-09T15:00:00.000Z",
+    "fetched_at": "2026-08-09T18:25:33.348Z",
+    "title_zh": "历史学家吉尔·莱波尔：硅谷误读科幻小说，正在削弱民主",
+    "summary_zh": "哈佛历史学家吉尔·莱波尔批评硅谷对科幻小说的误读，认为科技领袖将反乌托邦叙事当作蓝图而非警示，导致技术发展忽视社会伦理与民主价值。她呼吁科技界正视历史教训，避免技术权力集中侵蚀公共治理。",
+    "category": "industry"
+  },
+  {
+    "id": "e8a0666b970f31e2a0a7310aab167b3a",
+    "title_en": "The AI safety test is becoming a safety risk",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "published_at": "2026-08-09T14:30:00.000Z",
+    "fetched_at": "2026-08-09T18:25:33.348Z",
+    "title_zh": "AI安全测试正成为新的安全风险",
+    "summary_zh": "随着AI安全测试日益复杂，测试本身可能引入新的漏洞或误导性结论。专家指出，过度依赖基准测试可能掩盖真实风险，甚至被恶意利用。业界呼吁建立更透明、动态的评估体系，避免安全测试沦为形式主义。",
+    "category": "research"
+  },
+  {
+    "id": "61dd046342e07e680e884398eb6a2686",
+    "title_en": "Dropbox is a PC builder’s best friend",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+    "published_at": "2026-08-09T13:00:00.000Z",
+    "fetched_at": "2026-08-09T18:25:33.527Z",
+    "title_zh": "Dropbox成为PC装机者的最佳伙伴",
+    "summary_zh": "Dropbox凭借其跨平台同步、版本历史和协作功能，成为PC DIY爱好者的实用工具。文章探讨了其在系统迁移、驱动备份和项目文件管理中的独特价值，强调云存储在现代装机流程中的不可或缺性。",
+    "category": "product"
+  },
+  {
     "id": "acf86426dbc37c6e996eea0c0e96dd7d",
     "title_en": "AI detectors are creating a new era of distrust",
     "source": "The Verge",
@@ -119,6 +174,116 @@
     "title_zh": "OpenAI收购演示文稿初创公司NextSlide",
     "summary_zh": "OpenAI宣布收购演示文稿初创公司NextSlide，以增强其在企业办公和内容生成领域的能力。NextSlide专注于利用AI自动创建专业演示文稿，此次收购将帮助OpenAI拓展产品线，并可能将相关技术整合到ChatGPT等现有工具中，进一步巩固其在AI应用市场的竞争力。",
     "category": "product"
+  },
+  {
+    "id": "d8a6db7336c676ba39a9a689e18b65ff",
+    "title_en": "OpenAI to pause some work on AI model Astra due to security concerns",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/2eb82cec3334d8ed",
+    "published_at": "2026-08-08T18:23:25Z",
+    "fetched_at": "2026-08-09T18:25:34.651Z",
+    "title_zh": "因安全担忧，OpenAI暂停AI模型Astra的部分工作",
+    "summary_zh": "OpenAI因安全顾虑，决定暂停其AI模型Astra的部分研发工作。此举凸显了AI安全在模型开发中的重要性，尤其是在多模态和实时交互领域。暂停或为重新评估风险，确保技术符合伦理与安全标准，可能影响项目进度。",
+    "category": "research"
+  },
+  {
+    "id": "708a6009e5993d31c2e8fcaeecda18ea",
+    "title_en": " São Paulo and Grêmio named to bounce back in the Brasileirão",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/sao-paulo-and-gremio-named-to-bounce-back-in-the-brasileirao-43248605",
+    "published_at": "2026-08-08T18:15:00Z",
+    "fetched_at": "2026-08-09T18:25:34.651Z",
+    "title_zh": "圣保罗和格雷米奥被看好将在巴西甲级联赛中反弹",
+    "summary_zh": "体育新闻：巴西甲级联赛中，圣保罗和格雷米奥两支球队被预测将迎来状态回升。分析认为，凭借阵容调整和战术优化，两队有望在接下来的比赛中扭转颓势，提升排名。此消息对球迷和博彩市场具有一定参考价值。",
+    "category": "industry"
+  },
+  {
+    "id": "1c79c5a171f698492cf9a01de19ed1e6",
+    "title_en": "2,000+ Robots Abroad. 60+ Nations on Board. EXEED AiMOGA Going Farther, Growing Faster",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/08/08/3341465/0/en/2-000-robots-abroad-60-nations-on-board-exeed-aimoga-going-farther-growing-faster.html",
+    "published_at": "2026-08-08T18:13:00Z",
+    "fetched_at": "2026-08-09T18:25:34.651Z",
+    "title_zh": "EXEED AiMOGA海外机器人超2000台，覆盖60多国，加速全球扩张",
+    "summary_zh": "EXEED AiMOGA宣布其机器人产品已出口至全球60多个国家，海外部署量超过2000台。公司表示，凭借技术创新和本地化策略，正加速国际化进程，未来将进一步拓展市场，巩固其在智能机器人领域的领先地位。",
+    "category": "industry"
+  },
+  {
+    "id": "5f7f475d1503a375cce14daa570ac257",
+    "title_en": "Life’s toughest tests are ‘out of syllabus’, Modi tells IIT Delhi graduates",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/india/lifes-toughest-tests-are-out-of-syllabus-modi-tells-iit-delhi-graduates/articleshow/133057928.cms",
+    "published_at": "2026-08-08T18:12:30Z",
+    "fetched_at": "2026-08-09T18:25:34.651Z",
+    "title_zh": "莫迪在IIT德里毕业典礼上表示：人生最难的考验‘超纲’",
+    "summary_zh": "印度总理莫迪在IIT德里毕业典礼上演讲，鼓励毕业生面对人生中无法预料的挑战，强调课堂知识之外的韧性、适应力和终身学习的重要性。他提醒学生，真正的考验往往超出课本，需以智慧和勇气应对。",
+    "category": "industry"
+  },
+  {
+    "id": "7c29cf6745010f3255c38b30370ce01f",
+    "title_en": "Cyberattacks drive companies to hire specialised security talent in AI, cloud & threat intelligence",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/cyberattacks-drive-companies-to-hire-specialised-security-talent-in-ai-cloud-threat-intelligence/articleshow/133057878.cms",
+    "published_at": "2026-08-08T18:11:36Z",
+    "fetched_at": "2026-08-09T18:25:34.651Z",
+    "title_zh": "网络攻击频发，企业争聘AI、云和威胁情报领域安全专家",
+    "summary_zh": "随着网络攻击日益频繁和复杂，企业正加大力度招聘具备AI、云计算和威胁情报专业技能的网络安全人才。市场对高级安全专家的需求激增，反映出企业在数字化转型中强化防御能力的迫切性，也推动相关领域薪资上涨。",
+    "category": "industry"
+  },
+  {
+    "id": "8b8c97a516727bf32e67d96df3454fc5",
+    "title_en": "Manulife Financial Q2 Earnings Call Highlights",
+    "source": "MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/manulife-financial-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+    "published_at": "2026-08-08T18:03:53Z",
+    "fetched_at": "2026-08-09T18:25:34.652Z",
+    "title_zh": "宏利金融Q2财报电话会议要点",
+    "summary_zh": "宏利金融公布第二季度财报，电话会议中管理层讨论了业绩增长、投资策略及市场展望。重点包括保费收入提升、资产管理规模扩大，以及对宏观经济风险的应对措施。公司对未来盈利持谨慎乐观态度，并强调成本控制。",
+    "category": "industry"
+  },
+  {
+    "id": "2632f61a62bf24a12b76aaffc2ce1bfe",
+    "title_en": "MetLife Q2 Earnings Call Highlights",
+    "source": "MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/metlife-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+    "published_at": "2026-08-08T18:03:53Z",
+    "fetched_at": "2026-08-09T18:25:34.652Z",
+    "title_zh": "大都会人寿Q2财报电话会议要点",
+    "summary_zh": "大都会人寿在第二季度财报电话会议中，披露了保费和投资收益情况，并谈及利率环境对业务的影响。管理层强调数字化转型和客户服务优化，同时上调全年业绩指引，显示出对保险市场复苏的信心。",
+    "category": "industry"
+  },
+  {
+    "id": "9be0ab09edd0d1505c3ebdefa0aa7db6",
+    "title_en": "McKesson Q1 Earnings Call Highlights",
+    "source": "MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/mckesson-q1-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+    "published_at": "2026-08-08T18:03:51Z",
+    "fetched_at": "2026-08-09T18:25:34.652Z",
+    "title_zh": "麦克森Q1财报电话会议要点",
+    "summary_zh": "麦克森公司发布第一季度财报，电话会议聚焦药品分销和医疗技术业务增长。管理层提到处方量增加和供应链效率提升，并上调全年盈利预期。同时，公司正加大在数字健康和自动化领域的投资，以应对行业变革。",
+    "category": "industry"
+  },
+  {
+    "id": "3700cdbd5e3782b1e7bec2c872d35e09",
+    "title_en": "AI Gone Rogue: The 5 Scariest Hacks and Smartest Defenses From Black Hat 2026",
+    "source": "PCMag.com",
+    "url": "https://uk.pcmag.com/security/166626/ai-gone-rogue-the-5-scariest-hacks-and-smartest-defenses-from-black-hat-2026",
+    "published_at": "2026-08-08T18:00:00Z",
+    "fetched_at": "2026-08-09T18:25:34.652Z",
+    "title_zh": "AI失控：Black Hat 2026上最可怕的五大黑客攻击与最佳防御",
+    "summary_zh": "Black Hat 2026大会聚焦AI安全，展示了五起令人震惊的AI滥用案例，包括对抗性攻击、数据投毒和模型逃逸。专家提出多项防御策略，如增强模型鲁棒性、实时监控和联邦学习，以应对日益复杂的AI安全威胁。",
+    "category": "research"
+  },
+  {
+    "id": "2c19da438d733610ba3db63f91b711cc",
+    "title_en": "Why the Real AI Revolution Isn't Artificial",
+    "source": "Slashdot.org",
+    "url": "https://slashdot.org/submission/17349694/why-the-real-ai-revolution-isnt-artificial",
+    "published_at": "2026-08-08T17:55:57Z",
+    "fetched_at": "2026-08-09T18:25:34.652Z",
+    "title_zh": "为什么真正的AI革命不是‘人工’的",
+    "summary_zh": "文章探讨AI革命本质，认为其核心在于增强人类智能而非替代。真正的变革来自人机协作，通过AI辅助决策、创造力和效率提升，而非单纯追求自动化。作者强调，以人为本的AI设计才是未来发展的关键。",
+    "category": "llm"
   },
   {
     "id": "7a2536fc12ba4896a1d4342faff98f2e",
@@ -5333,170 +5498,5 @@
     "title_zh": "《蜘蛛侠》和《奥德赛》在破纪录周末后分拆IMAX银幕",
     "summary_zh": "《蜘蛛侠》和《奥德赛》在创纪录的周末票房后，决定分拆IMAX放映时段，以满足观众需求。此举反映两部大片的市场热度，但也引发排片争议。影院需平衡资源，确保双方都能获得最佳放映效果。",
     "category": "industry"
-  },
-  {
-    "id": "7ac6440ba7e276320a13548d15e311f0",
-    "title_en": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
-    "published_at": "2026-08-03T14:16:13.000Z",
-    "fetched_at": "2026-08-03T14:17:00.361Z",
-    "title_zh": "三星2TB 9100 Pro固态硬盘定价相对合理",
-    "summary_zh": "三星新款9100 Pro系列固态硬盘的2TB版本定价较为合理，引发市场关注。该产品采用PCIe 5.0接口，提供高速读写性能，适合高端游戏和专业创作场景。在存储产品价格波动背景下，三星此举或旨在提升市场竞争力，满足用户对高性能与大容量存储的需求。",
-    "category": "product"
-  },
-  {
-    "id": "4d10154a02cf0b7cc1823705e74530e4",
-    "title_en": "Chime Financial Stock Climbs Ahead of Earnings After AI Job Cuts and Profit Progress",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/chime-financial-stock-rises-workforce-reduction-product-expansion-1873457",
-    "published_at": "2026-08-03T13:48:21Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "Chime金融股价在财报前上涨，得益于AI裁员与利润改善",
-    "summary_zh": "数字银行Chime Financial的股价在财报发布前上涨，主要受其通过AI技术优化运营并裁减部分岗位、从而改善盈利能力的消息提振。市场对该公司利用AI提升效率并走向盈利的进展持乐观态度。此次股价上涨反映了投资者对金融科技公司通过AI降本增效策略的认可。",
-    "category": "industry"
-  },
-  {
-    "id": "60f3ed294e9ed9dadd01cb9aea4fa69b",
-    "title_en": "The UK is building a fighter jet with Japan and Italy – an aviation expert explains why it could be a defence gamechanger",
-    "source": "The Conversation Africa",
-    "url": "https://theconversation.com/the-uk-is-building-a-fighter-jet-with-japan-and-italy-an-aviation-expert-explains-why-it-could-be-a-defence-gamechanger-285751",
-    "published_at": "2026-08-03T13:46:03Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "英国与日本、意大利联合研制战斗机——航空专家解析其为何可能改变防务格局",
-    "summary_zh": "英国、日本和意大利三国合作推进下一代战斗机项目，航空专家分析称，这一合作将整合三国技术优势，可能成为防务领域的游戏规则改变者。文章探讨了该项目对国际军事平衡、技术共享和供应链的影响，并指出其面临的挑战，如成本分摊和技术整合难题。",
-    "category": "industry"
-  },
-  {
-    "id": "11a82d003c249238bf24ce8fdc13cca4",
-    "title_en": "What Makes Natural Resource Partners (NRP) a Strong Investment Bet?",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/makes-natural-partners-nrp-strong-134434620.html",
-    "published_at": "2026-08-03T13:44:34Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "自然资源合作伙伴公司（NRP）为何是稳健的投资选择？",
-    "summary_zh": "文章分析了自然资源合作伙伴公司（NRP）的投资价值，指出其多元化的资源组合、稳定的现金流和良好的股息记录使其成为防御性投资标的。尽管面临大宗商品价格波动风险，但公司管理层通过长期合同和成本控制展现了韧性。对于寻求稳定收益的投资者而言，NRP提供了具有吸引力的风险回报比。",
-    "category": "industry"
-  },
-  {
-    "id": "fb447b8334193860b583affa46bd5115",
-    "title_en": "Sarvam eyes next raise; Ather trims losses",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/sarvam-eyes-next-raise-ather-trims-losses/articleshow/132833225.cms",
-    "published_at": "2026-08-03T13:44:34Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "Sarvam筹备新一轮融资；Ather亏损收窄",
-    "summary_zh": "印度AI初创公司Sarvam正筹备新一轮融资，以扩大其语言模型业务；同时，电动两轮车制造商Ather Energy公布财报显示亏损收窄，盈利能力改善。这两则消息反映了印度科技初创生态的活跃度，AI领域持续吸引资本，而电动车行业则在成本控制和市场扩张中逐步走向健康。",
-    "category": "industry"
-  },
-  {
-    "id": "81311f55d92960a6aa69716a8043d0ab",
-    "title_en": "678 Billion Reasons to Invest in Microsoft Stock",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/f57cb7d8fd69f6d5",
-    "published_at": "2026-08-03T13:44:14Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "6780亿美元的理由：为何投资微软股票",
-    "summary_zh": "微软市值突破6780亿美元，分析师指出其云计算、AI及企业软件业务的强劲增长是核心驱动力。Azure云服务持续扩张，叠加OpenAI合作带来的AI商业化潜力，使微软在科技巨头中保持领先。尽管面临监管和竞争压力，长期投资者仍看好其多元化收入结构和创新管线。",
-    "category": "industry"
-  },
-  {
-    "id": "82809bac3cad2f422dd6c4ba8dadc926",
-    "title_en": "Some Ohioans are expressing concerns after a poster created with artificial intelligence won the Ohio State Fair's poster contest. Let's come up with something better [Awkward]",
-    "source": "Fark.com",
-    "url": "https://www.fark.com/comments/14151294/Some-Ohioans-are-expressing-concerns-after-a-poster-created-with-artificial-intelligence-won-Ohio-State-Fairs-poster-contest-Lets-come-up-with-something-better",
-    "published_at": "2026-08-03T13:40:42Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "俄亥俄州博览会AI海报获奖引争议，网友呼吁更佳方案",
-    "summary_zh": "俄亥俄州博览会海报大赛中，一幅由AI生成的作品获奖，引发部分民众不满。批评者认为AI创作缺乏原创性和人类情感，质疑比赛公平性。主办方尚未回应，但事件凸显AI在创意领域的伦理与规则争议，网友调侃“不如想个更好的点子”。",
-    "category": "product"
-  },
-  {
-    "id": "253a8ec467f530070418db0cb11376cf",
-    "title_en": "Dow Opens Higher as Trump Calls Off \"Massive\" Iran Attack to Pursue Talks, Sending Oil Prices Sharply Down",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/us-stocks-rise-trump-calls-off-iran-strike-1873449",
-    "published_at": "2026-08-03T13:34:15Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "特朗普取消对伊朗大规模打击并寻求谈判，油价大跌，道指高开",
-    "summary_zh": "特朗普宣布取消对伊朗的军事打击计划，转而寻求外交谈判，国际油价应声大幅下跌。市场对中东局势缓和反应积极，道琼斯指数开盘走高。能源板块承压，但投资者对地缘风险缓解表示乐观，全球股市情绪回暖。",
-    "category": "industry"
-  },
-  {
-    "id": "a8c63e6f13eb53b0b14e5b97f9cf4b28",
-    "title_en": " Bizarre free-agent twist: tenth-tier side deny Sancho rumours",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/bizarre-free-agent-twist-tenth-tier-side-deny-sancho-rumours-43223801",
-    "published_at": "2026-08-03T13:33:00Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "自由转会奇闻：第十级别球队否认桑乔传闻",
-    "summary_zh": "一则关于英格兰第十级别联赛球队有意签下球星桑乔的传闻被该队官方否认。俱乐部声明称消息纯属虚构，引发球迷热议。尽管桑乔近期状态低迷，但加盟业余球队的可能性极低，此事更多被视为网络恶搞或媒体炒作。",
-    "category": "industry"
-  },
-  {
-    "id": "491572ae315173940b06f22825526e96",
-    "title_en": "Accounts Receivable Automation Market to Reach $14.26 Billion by 2035 as AI-Driven Finance Automation Accelerates Global Digital Transformation | Research by SNS Insider",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/08/03/3337609/0/en/Accounts-Receivable-Automation-Market-to-Reach-14-26-Billion-by-2035-as-AI-Driven-Finance-Automation-Accelerates-Global-Digital-Transformation-Research-by-SNS-Insider.html",
-    "published_at": "2026-08-03T13:30:00Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "AI驱动财务自动化加速，应收账款自动化市场2035年将达142.6亿美元",
-    "summary_zh": "SNS Insider研究显示，全球应收账款自动化市场预计到2035年规模达142.6亿美元，年复合增长率显著。AI和机器学习技术正重塑财务流程，提升效率并降低错误率。数字化转型需求旺盛，企业加速采用智能解决方案，推动市场快速扩张。",
-    "category": "industry"
-  },
-  {
-    "id": "1309ca2fb980e91192319d17bbd56331",
-    "title_en": "What content creators need to know about Germany's new AI rules",
-    "source": "The Local Germany",
-    "url": "https://www.thelocal.de/20260803/what-content-creators-need-to-know-about-germanys-new-ai-rules",
-    "published_at": "2026-08-03T13:25:41Z",
-    "fetched_at": "2026-08-04T13:48:44.151Z",
-    "title_zh": "内容创作者需了解的德国新AI法规要点",
-    "summary_zh": "德国出台新AI法规，对内容创作者提出明确要求：AI生成内容需标注来源，禁止深度伪造误导公众，并确保训练数据合规。违规者可能面临高额罚款。创作者需调整工作流程，加强透明度，以符合欧盟AI法案框架下的德国实施细则。",
-    "category": "llm"
-  },
-  {
-    "id": "3941b556aa84166f731e0f1ad26d7c0c",
-    "title_en": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
-    "published_at": "2026-08-03T13:12:03.000Z",
-    "fetched_at": "2026-08-03T14:17:00.361Z",
-    "title_zh": "联想Googlebook泄露：笔记本与二合一平板曝光",
-    "summary_zh": "联想即将推出的Googlebook系列产品信息遭泄露，包括一款传统笔记本和一款二合一可拆卸平板。这些设备预计搭载ChromeOS，主打轻便与云端协同，面向教育及日常办公市场。此举显示联想正深化与谷歌合作，丰富Chromebook产品线，以应对日益增长的远程办公与学习需求。",
-    "category": "product"
-  },
-  {
-    "id": "1429b0303e69928f06c859eb540bbce1",
-    "title_en": "Big Walk is like co-op Breath of the Wild",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/973166/big-walk-review",
-    "published_at": "2026-08-03T13:00:00.000Z",
-    "fetched_at": "2026-08-03T14:17:00.361Z",
-    "title_zh": "《Big Walk》被评类似合作版《塞尔达传说：旷野之息》",
-    "summary_zh": "新游戏《Big Walk》因其开放世界探索与多人合作玩法，被媒体比作“合作版《塞尔达传说：旷野之息》”。游戏强调玩家间的协作解谜与自由冒险，结合精美画风，有望吸引喜爱探索与社交互动的玩家群体。该作或将在独立游戏市场掀起热潮。",
-    "category": "product"
-  },
-  {
-    "id": "d5575f19314f97e22df9ff7d522cfd5a",
-    "title_en": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-    "published_at": "2026-08-03T12:08:00.000Z",
-    "fetched_at": "2026-08-03T14:17:00.592Z",
-    "title_zh": "下载专栏：奖励黑客行为解析，以及疑似伊朗网络攻击事件",
-    "summary_zh": "本期《下载》专栏聚焦两大热点：一是深入解析AI领域的“奖励黑客”现象，探讨模型如何利用训练目标漏洞获取高分而非真正完成任务，引发对AI安全与对齐的担忧；二是报道了疑似由伊朗发起的网络攻击活动，分析了其目标、手法及潜在影响，提醒各界加强网络安全防范。",
-    "category": "research"
-  },
-  {
-    "id": "0ca2ef9c9eea60cba3630092e8a7239d",
-    "title_en": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-    "published_at": "2026-08-03T11:30:00.000Z",
-    "fetched_at": "2026-08-03T14:17:00.483Z",
-    "title_zh": "最佳机器人割草机（2026）：三年测试后的推荐",
-    "summary_zh": "经过三年测试，我们评选出2026年最佳机器人割草机。这些设备在割草效率、边界识别、电池续航和智能控制方面表现出色。推荐产品包括适合小型草坪的入门款和具备多区域管理的高端型号。购买时需考虑草坪面积、地形复杂度和预算。",
-    "category": "product"
   }
 ]
