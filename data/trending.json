@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-09",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多项目专注编程代理技能优化与自主任务执行，同时涵盖金融交易多智能体框架、教育教材资源、认证安全工具及独立浏览器开发。",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多项目专注编程代理技能与自改进工作流，同时涵盖金融交易多智能体框架、教育教材资源、开源认证工具及独立浏览器等多元领域。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "stars_total": 8956,
+          "stars_total": 9388,
           "stars_today": 2483,
           "description_zh": "一个用于编码工作流和长时间运行自主任务的自我改进型RLM代理。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 210020,
+          "stars_total": 210296,
           "stars_today": 1359,
           "description_zh": "面向真实工程师的技能。直接来自我的.agents目录。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 84569,
+          "stars_total": 84712,
           "stars_today": 779,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/google/skills",
           "description_en": "Agent Skills for Google products and technologies",
           "language": "Python",
-          "stars_total": 16737,
+          "stars_total": 16862,
           "stars_today": 481,
           "description_zh": "面向Google产品和技术的代理技能。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/goauthentik/authentik",
           "description_en": "The authentication glue you need.",
           "language": "Python",
-          "stars_total": 23976,
+          "stars_total": 24034,
           "stars_today": 467,
           "description_zh": "你需要的认证粘合剂。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/denoland/celld",
           "description_en": "self-hosted, distributed Durable Objects",
           "language": "Rust",
-          "stars_total": 2572,
+          "stars_total": 2680,
           "stars_today": 432,
           "description_zh": "自托管的分布式持久对象。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/TauricResearch/TradingAgents",
           "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
           "language": "Python",
-          "stars_total": 96477,
+          "stars_total": 96638,
           "stars_today": 153,
           "description_zh": "TradingAgents：多智能体LLM金融交易框架。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/TapXWorld/ChinaTextbook",
           "description_en": "所有小初高、大学PDF教材。",
           "language": "Roff",
-          "stars_total": 77934,
+          "stars_total": 78054,
           "stars_today": 118,
           "description_zh": "所有小初高、大学PDF教材。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/bannedbook/fanqiang",
           "description_en": "翻墙-科学上网",
           "language": "Kotlin",
-          "stars_total": 49882,
+          "stars_total": 50033,
           "stars_today": 101,
           "description_zh": "翻墙-科学上网。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/google/guava",
           "description_en": "Google core libraries for Java",
           "language": "Java",
-          "stars_total": 51851,
+          "stars_total": 51871,
           "stars_today": 93,
           "description_zh": "Google Java核心库。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/litu54/DevOps-Interview-Guide",
           "description_en": "DevOps Interview Guide",
           "language": "",
-          "stars_total": 706,
+          "stars_total": 755,
           "stars_today": 68,
           "description_zh": "DevOps面试指南。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/LadybirdBrowser/ladybird",
           "description_en": "Truly independent web browser",
           "language": "C++",
-          "stars_total": 64988,
+          "stars_total": 65058,
           "stars_today": 48,
           "description_zh": "真正独立的网页浏览器。"
         }
