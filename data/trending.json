@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-10",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：多款编码代理、知识图谱RAG、股票分析系统及认证工具，展现AI驱动开发与自动化运维趋势。",
+      "summary_zh": "今日GitHub热门聚焦AI代理与基础设施：多项目专注智能体管理、编码技能优化及自主任务执行，同时涵盖爬虫工具、独立浏览器及WiFi感知创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "stars_total": 11959,
-          "stars_today": 2356,
+          "stars_total": 12549,
+          "stars_today": 2655,
           "description_zh": "一个用于编码工作流和长期自主任务的自改进RLM代理。"
         },
         {
@@ -20,69 +20,69 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 141136,
-          "stars_today": 858,
+          "stars_total": 141408,
+          "stars_today": 1352,
           "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是具有个性、流程和经过验证的交付成果的领域专家。"
         },
         {
           "rank": 3,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 85342,
-          "stars_today": 680,
-          "description_zh": "面向AI编码代理的生产级工程技能。"
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars_total": 3704,
+          "stars_today": 967,
+          "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
         },
         {
           "rank": 4,
-          "name": "google/skills",
-          "url": "https://github.com/google/skills",
-          "description_en": "Agent Skills for Google products and technologies",
-          "language": "Python",
-          "stars_total": 17398,
-          "stars_today": 528,
-          "description_zh": "面向Google产品与技术的Agent技能。"
-        },
-        {
-          "rank": 5,
           "name": "Comfy-Org/ComfyUI",
           "url": "https://github.com/Comfy-Org/ComfyUI",
           "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
           "language": "Python",
-          "stars_total": 125817,
-          "stars_today": 365,
+          "stars_total": 126017,
+          "stars_today": 921,
           "description_zh": "最强大且模块化的扩散模型GUI、API和后端，采用图/节点界面。"
         },
         {
+          "rank": 5,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description_en": "The context API to search, scrape, and interact with the web at scale. 🔥",
+          "language": "TypeScript",
+          "stars_total": 164623,
+          "stars_today": 815,
+          "description_zh": "用于大规模搜索、抓取和与网页交互的上下文API。🔥"
+        },
+        {
           "rank": 6,
-          "name": "goauthentik/authentik",
-          "url": "https://github.com/goauthentik/authentik",
-          "description_en": "The authentication glue you need.",
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
           "language": "Python",
-          "stars_total": 24388,
-          "stars_today": 310,
-          "description_zh": "你需要的身份验证粘合剂。"
+          "stars_total": 3365,
+          "stars_today": 682,
+          "description_zh": "适用于单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
         },
         {
           "rank": 7,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 61482,
-          "stars_today": 306,
-          "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 85498,
+          "stars_today": 659,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
         },
         {
           "rank": 8,
-          "name": "pranshuparmar/witr",
-          "url": "https://github.com/pranshuparmar/witr",
-          "description_en": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-          "language": "Go",
-          "stars_total": 20963,
-          "stars_today": 210,
-          "description_zh": "为什么它在运行？将任何进程、端口、容器或文件追溯到其启动源头——提供CLI和TUI界面。"
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 96975,
+          "stars_today": 598,
+          "description_zh": "TradingAgents：多智能体LLM金融交易框架"
         },
         {
           "rank": 9,
@@ -90,39 +90,79 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 17778,
-          "stars_today": 163,
+          "stars_total": 17858,
+          "stars_today": 388,
           "description_zh": ""
         },
         {
           "rank": 10,
-          "name": "vitali87/code-graph-rag",
-          "url": "https://github.com/vitali87/code-graph-rag",
-          "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-          "language": "Python",
-          "stars_total": 3221,
-          "stars_today": 96,
-          "description_zh": "适用于单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
-        },
-        {
-          "rank": 11,
           "name": "google-deepmind/weathernext",
           "url": "https://github.com/google-deepmind/weathernext",
           "description_en": "",
           "language": "Python",
-          "stars_total": 7177,
-          "stars_today": 86,
+          "stars_total": 7244,
+          "stars_today": 327,
           "description_zh": ""
         },
         {
-          "rank": 12,
-          "name": "harveyai/harvey-labs",
-          "url": "https://github.com/harveyai/harvey-labs",
-          "description_en": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+          "rank": 11,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
           "language": "Python",
-          "stars_total": 907,
-          "stars_today": 47,
-          "description_zh": "一个为评估和提升代理在法律工作支持方面的能力而构建的基准测试。"
+          "stars_total": 60752,
+          "stars_today": 215,
+          "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B站视频 | 评论爬虫、微博帖子 | 评论爬虫、百度贴吧帖子 | 百度贴吧评论回复爬虫 | 知乎问答文章 | 评论爬虫"
+        },
+        {
+          "rank": 12,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description_en": "Truly independent web browser",
+          "language": "C++",
+          "stars_total": 65151,
+          "stars_today": 190,
+          "description_zh": "真正独立的网页浏览器"
+        },
+        {
+          "rank": 13,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description_en": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars_total": 76187,
+          "stars_today": 167,
+          "description_zh": "每个人在工作中管理智能体的开源应用"
+        },
+        {
+          "rank": 14,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 89180,
+          "stars_today": 156,
+          "description_zh": "π RuView 将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+        },
+        {
+          "rank": 15,
+          "name": "danielmiessler/LifeOS",
+          "url": "https://github.com/danielmiessler/LifeOS",
+          "description_en": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+          "language": "TypeScript",
+          "stars_total": 17661,
+          "stars_today": 143,
+          "description_zh": "⛰️ 一个通用的爬山式AI框架，帮助你在生活与工作中从当前状态迈向理想状态。"
+        },
+        {
+          "rank": 16,
+          "name": "opa334/Dopamine",
+          "url": "https://github.com/opa334/Dopamine",
+          "description_en": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+          "language": "C",
+          "stars_total": 5913,
+          "stars_today": 95,
+          "description_zh": "Dopamine 是适用于 iOS 15 至 26(.0.1) 的半不拴绳越狱工具"
         }
       ]
     },
