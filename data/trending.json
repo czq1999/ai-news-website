@@ -1,6 +1,132 @@
 {
   "days": [
     {
+      "date": "2026-08-10",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：编程自动化、代码知识图谱、多智能体协作系统成主流，同时涵盖系统追踪、股票分析、认证安全及ComfyUI图像生成工具。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "language": "TypeScript",
+          "stars_total": 11106,
+          "stars_today": 2356,
+          "description_zh": "一个用于编码工作流和长期自主任务的自改进RLM代理。"
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 140687,
+          "stars_today": 858,
+          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是具有个性、流程和经过验证的交付成果的领域专家。"
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 85141,
+          "stars_today": 680,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 4,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description_en": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars_total": 17229,
+          "stars_today": 528,
+          "description_zh": "面向Google产品与技术的Agent技能。"
+        },
+        {
+          "rank": 5,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars_total": 125526,
+          "stars_today": 365,
+          "description_zh": "最强大且模块化的扩散模型GUI、API和后端，采用图/节点界面。"
+        },
+        {
+          "rank": 6,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description_en": "The authentication glue you need.",
+          "language": "Python",
+          "stars_total": 24274,
+          "stars_today": 310,
+          "description_zh": "你需要的身份验证粘合剂。"
+        },
+        {
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "language": "Python",
+          "stars_total": 61194,
+          "stars_today": 306,
+          "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
+        },
+        {
+          "rank": 8,
+          "name": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description_en": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+          "language": "Go",
+          "stars_total": 20667,
+          "stars_today": 210,
+          "description_zh": "为什么它在运行？将任何进程、端口、容器或文件追溯到其启动源头——提供CLI和TUI界面。"
+        },
+        {
+          "rank": 9,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description_en": "",
+          "language": "TypeScript",
+          "stars_total": 17660,
+          "stars_today": 163,
+          "description_zh": ""
+        },
+        {
+          "rank": 10,
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+          "language": "Python",
+          "stars_total": 2987,
+          "stars_today": 96,
+          "description_zh": "适用于单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
+        },
+        {
+          "rank": 11,
+          "name": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 7089,
+          "stars_today": 86,
+          "description_zh": ""
+        },
+        {
+          "rank": 12,
+          "name": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "description_en": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+          "language": "Python",
+          "stars_total": 827,
+          "stars_today": 47,
+          "description_zh": "一个为评估和提升代理在法律工作支持方面的能力而构建的基准测试。"
+        }
+      ]
+    },
+    {
       "date": "2026-08-09",
       "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：编码代理、知识图谱RAG、多智能体协作系统，以及股票分析、认证工具等实用开发，突出AI驱动开发与自动化运维趋势。",
       "projects": [
@@ -4651,202 +4777,6 @@
           "stars_total": 8442,
           "stars_today": 8,
           "description_zh": "用于签出仓库的 Action"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-10",
-      "summary_zh": "今日GitHub热门项目聚焦AI编程工具链与C++生态，涵盖MCP服务器、高性能JS运行时、测试框架及YAML解析库。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 164423,
-          "stars_today": 1728,
-          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
-        },
-        {
-          "rank": 2,
-          "name": "iOfficeAI/OfficeCLI",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "description_en": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-          "language": "C#",
-          "stars_total": 14308,
-          "stars_today": 1210,
-          "description_zh": "OfficeCLI是首个也是最好的专为AI代理读取、编辑和自动化Word、Excel及PowerPoint文件而设计的Office套件。免费、开源、单一二进制文件，无需安装Office。"
-        },
-        {
-          "rank": 3,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 76699,
-          "stars_today": 1114,
-          "description_zh": "面向AI编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 4,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 251674,
-          "stars_today": 1096,
-          "description_zh": "一个有效的代理技能框架和软件开发方法论。"
-        },
-        {
-          "rank": 5,
-          "name": "wonderwhy-er/DesktopCommanderMCP",
-          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-          "description_en": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-          "language": "TypeScript",
-          "stars_total": 7126,
-          "stars_today": 349,
-          "description_zh": "这是为Claude提供的MCP服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力。"
-        },
-        {
-          "rank": 6,
-          "name": "oven-sh/bun",
-          "url": "https://github.com/oven-sh/bun",
-          "description_en": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-          "language": "Rust",
-          "stars_total": 94116,
-          "stars_today": 307,
-          "description_zh": "极快的JavaScript运行时、打包器、测试运行器和包管理器——集于一身"
-        },
-        {
-          "rank": 7,
-          "name": "tailscale/tailscale",
-          "url": "https://github.com/tailscale/tailscale",
-          "description_en": "The easiest, most secure way to use WireGuard and 2FA.",
-          "language": "Go",
-          "stars_total": 33566,
-          "stars_today": 183,
-          "description_zh": "使用WireGuard和双因素认证最简单、最安全的方式。"
-        },
-        {
-          "rank": 8,
-          "name": "vercel/next.js",
-          "url": "https://github.com/vercel/next.js",
-          "description_en": "The React Framework",
-          "language": "JavaScript",
-          "stars_total": 140631,
-          "stars_today": 176,
-          "description_zh": "React框架"
-        },
-        {
-          "rank": 9,
-          "name": "hashicorp/terraform",
-          "url": "https://github.com/hashicorp/terraform",
-          "description_en": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-          "language": "Go",
-          "stars_total": 49116,
-          "stars_today": 168,
-          "description_zh": "Terraform使您能够安全且可预测地创建、更改和改进基础设施。它是一个源代码可用的工具，将API编码为声明式配置文件，可在团队成员之间共享，被视为代码进行编辑、审查和版本控制。"
-        },
-        {
-          "rank": 10,
-          "name": "microsoft/TypeScript",
-          "url": "https://github.com/microsoft/TypeScript",
-          "description_en": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-          "language": "TypeScript",
-          "stars_total": 109735,
-          "stars_today": 166,
-          "description_zh": "TypeScript是JavaScript的超集，可编译为干净的JavaScript输出。"
-        },
-        {
-          "rank": 11,
-          "name": "TencentCloud/TencentDB-Agent-Memory",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "description_en": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-          "language": "TypeScript",
-          "stars_total": 8165,
-          "stars_today": 134,
-          "description_zh": "腾讯云数据库代理内存通过四级渐进式流水线为AI代理提供完全本地化的长期记忆，零外部API依赖。"
-        },
-        {
-          "rank": 12,
-          "name": "abseil/abseil-cpp",
-          "url": "https://github.com/abseil/abseil-cpp",
-          "description_en": "Abseil Common Libraries (C++)",
-          "language": "C++",
-          "stars_total": 17497,
-          "stars_today": 106,
-          "description_zh": "Abseil通用库（C++）"
-        },
-        {
-          "rank": 13,
-          "name": "davila7/claude-code-templates",
-          "url": "https://github.com/davila7/claude-code-templates",
-          "description_en": "CLI tool for configuring and monitoring Claude Code",
-          "language": "Python",
-          "stars_total": 28723,
-          "stars_today": 104,
-          "description_zh": "用于配置和监控Claude Code的CLI工具"
-        },
-        {
-          "rank": 14,
-          "name": "google-labs-code/stitch-skills",
-          "url": "https://github.com/google-labs-code/stitch-skills",
-          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-          "language": "TypeScript",
-          "stars_total": 6659,
-          "stars_today": 101,
-          "description_zh": "一个旨在与Stitch MCP服务器配合使用的代理技能库。每个技能遵循代理技能开放标准，兼容Antigravity、Gemini CLI、Claude Code、Cursor等编码代理。"
-        },
-        {
-          "rank": 15,
-          "name": "chriskohlhoff/asio",
-          "url": "https://github.com/chriskohlhoff/asio",
-          "description_en": "Asio C++ Library",
-          "language": "C++",
-          "stars_total": 6056,
-          "stars_today": 87,
-          "description_zh": "Asio C++库"
-        },
-        {
-          "rank": 16,
-          "name": "zeux/meshoptimizer",
-          "url": "https://github.com/zeux/meshoptimizer",
-          "description_en": "Mesh optimization library that makes meshes smaller and faster to render",
-          "language": "C++",
-          "stars_total": 7999,
-          "stars_today": 86,
-          "description_zh": "网格优化库，使网格更小且渲染更快"
-        },
-        {
-          "rank": 17,
-          "name": "catchorg/Catch2",
-          "url": "https://github.com/catchorg/Catch2",
-          "description_en": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-          "language": "C++",
-          "stars_total": 20593,
-          "stars_today": 69,
-          "description_zh": "一个现代的、C++原生的测试框架，用于单元测试、TDD和BDD——使用C++14、C++17及更高版本（C++11支持在v2.x分支，C++03在Catch1.x分支）"
-        },
-        {
-          "rank": 18,
-          "name": "grpc/grpc",
-          "url": "https://github.com/grpc/grpc",
-          "description_en": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-          "language": "C++",
-          "stars_total": 45109,
-          "stars_today": 68,
-          "description_zh": "基于C++的gRPC（C++、Python、Ruby、Objective-C、PHP、C#）"
-        },
-        {
-          "rank": 19,
-          "name": "jbeder/yaml-cpp",
-          "url": "https://github.com/jbeder/yaml-cpp",
-          "description_en": "A YAML parser and emitter in C++",
-          "language": "C++",
-          "stars_total": 6069,
-          "stars_today": 65,
-          "description_zh": "一个用C++编写的YAML解析器和发射器"
         }
       ]
     }
