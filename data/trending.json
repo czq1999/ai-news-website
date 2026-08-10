@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-10",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态：编程自动化、代码知识图谱、多智能体协作系统成主流，同时涵盖系统追踪、股票分析、认证安全及ComfyUI图像生成工具。",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：多款编码代理、知识图谱RAG、股票分析系统及认证工具，展现AI驱动开发与自动化运维趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "stars_total": 11106,
+          "stars_total": 11959,
           "stars_today": 2356,
           "description_zh": "一个用于编码工作流和长期自主任务的自改进RLM代理。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 140687,
+          "stars_total": 141136,
           "stars_today": 858,
           "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是具有个性、流程和经过验证的交付成果的领域专家。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 85141,
+          "stars_total": 85342,
           "stars_today": 680,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/google/skills",
           "description_en": "Agent Skills for Google products and technologies",
           "language": "Python",
-          "stars_total": 17229,
+          "stars_total": 17398,
           "stars_today": 528,
           "description_zh": "面向Google产品与技术的Agent技能。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/Comfy-Org/ComfyUI",
           "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
           "language": "Python",
-          "stars_total": 125526,
+          "stars_total": 125817,
           "stars_today": 365,
           "description_zh": "最强大且模块化的扩散模型GUI、API和后端，采用图/节点界面。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/goauthentik/authentik",
           "description_en": "The authentication glue you need.",
           "language": "Python",
-          "stars_total": 24274,
+          "stars_total": 24388,
           "stars_today": 310,
           "description_zh": "你需要的身份验证粘合剂。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
           "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
           "language": "Python",
-          "stars_total": 61194,
+          "stars_total": 61482,
           "stars_today": 306,
           "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/pranshuparmar/witr",
           "description_en": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
           "language": "Go",
-          "stars_total": 20667,
+          "stars_total": 20963,
           "stars_today": 210,
           "description_zh": "为什么它在运行？将任何进程、端口、容器或文件追溯到其启动源头——提供CLI和TUI界面。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 17660,
+          "stars_total": 17778,
           "stars_today": 163,
           "description_zh": ""
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/vitali87/code-graph-rag",
           "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
           "language": "Python",
-          "stars_total": 2987,
+          "stars_total": 3221,
           "stars_today": 96,
           "description_zh": "适用于单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/google-deepmind/weathernext",
           "description_en": "",
           "language": "Python",
-          "stars_total": 7089,
+          "stars_total": 7177,
           "stars_today": 86,
           "description_zh": ""
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/harveyai/harvey-labs",
           "description_en": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
           "language": "Python",
-          "stars_total": 827,
+          "stars_total": 907,
           "stars_today": 47,
           "description_zh": "一个为评估和提升代理在法律工作支持方面的能力而构建的基准测试。"
         }
