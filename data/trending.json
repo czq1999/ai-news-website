@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-11",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态，涵盖图数据库基础设施、多角色协作代理、爬虫工具及自进化编码智能体，同时涌现WiFi感知与独立浏览器等创新项目。",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多智能体协作框架、图数据库RAG、编程技能增强，以及股票分析、个性化教育等垂直应用，还有Node版本管理和数学动画工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "stars_total": 13383,
-          "stars_today": 2642,
+          "stars_total": 13671,
+          "stars_today": 1148,
           "description_zh": "一个用于编码工作流和长时间自主任务的自我改进RLM代理。"
         },
         {
@@ -20,8 +20,8 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 142046,
-          "stars_today": 1349,
+          "stars_total": 142364,
+          "stars_today": 971,
           "description_zh": "触手可及的完整AI代理机构——从前端奇才到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是具有个性、流程和成熟交付成果的领域专家。"
         },
         {
@@ -30,139 +30,149 @@
           "url": "https://github.com/semantica-agi/semantica",
           "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
           "language": "Python",
-          "stars_total": 4380,
-          "stars_today": 970,
+          "stars_total": 4572,
+          "stars_today": 884,
           "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
         },
         {
           "rank": 4,
-          "name": "Comfy-Org/ComfyUI",
-          "url": "https://github.com/Comfy-Org/ComfyUI",
-          "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-          "language": "Python",
-          "stars_total": 126517,
-          "stars_today": 922,
-          "description_zh": "最强大且模块化的扩散模型GUI、API和后端，采用图/节点界面。"
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+          "language": "TypeScript",
+          "stars_total": 42199,
+          "stars_today": 881,
+          "description_zh": "Orca 是用于管理并行代理集群的 ADE（代理开发环境）。使用您自己的订阅运行任何编码代理。支持桌面端、移动端和 VPS。"
         },
         {
           "rank": 5,
-          "name": "firecrawl/firecrawl",
-          "url": "https://github.com/firecrawl/firecrawl",
-          "description_en": "The context API to search, scrape, and interact with the web at scale. 🔥",
-          "language": "TypeScript",
-          "stars_total": 165337,
-          "stars_today": 835,
-          "description_zh": "用于大规模搜索、抓取和交互网页的上下文API。🔥"
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars_total": 34363,
+          "stars_today": 829,
+          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
         },
         {
           "rank": 6,
-          "name": "vitali87/code-graph-rag",
-          "url": "https://github.com/vitali87/code-graph-rag",
-          "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-          "language": "Python",
-          "stars_total": 3618,
-          "stars_today": 682,
-          "description_zh": "你的单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
-        },
-        {
-          "rank": 7,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 85906,
-          "stars_today": 659,
-          "description_zh": "面向AI编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 8,
-          "name": "pingdotgg/t3code",
-          "url": "https://github.com/pingdotgg/t3code",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 18106,
-          "stars_today": 389,
-          "description_zh": ""
-        },
-        {
-          "rank": 9,
-          "name": "google-deepmind/weathernext",
-          "url": "https://github.com/google-deepmind/weathernext",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 7412,
-          "stars_today": 325,
-          "description_zh": ""
-        },
-        {
-          "rank": 10,
-          "name": "danielmiessler/LifeOS",
-          "url": "https://github.com/danielmiessler/LifeOS",
-          "description_en": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-          "language": "TypeScript",
-          "stars_total": 18093,
-          "stars_today": 315,
-          "description_zh": "⛰️一个通用的爬山式AI工具，帮助你在生活与工作中从当前状态迈向理想状态。"
-        },
-        {
-          "rank": 11,
-          "name": "NanmiCoder/MediaCrawler",
-          "url": "https://github.com/NanmiCoder/MediaCrawler",
-          "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-          "language": "Python",
-          "stars_total": 61397,
-          "stars_today": 259,
-          "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B站视频 | 评论爬虫、微博帖子 | 评论爬虫、百度贴吧帖子 | 百度贴吧评论回复爬虫 | 知乎问答文章 | 评论爬虫"
-        },
-        {
-          "rank": 12,
           "name": "paperclipai/paperclip",
           "url": "https://github.com/paperclipai/paperclip",
           "description_en": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "stars_total": 76727,
-          "stars_today": 198,
+          "stars_total": 76922,
+          "stars_today": 743,
           "description_zh": "每个人在工作中管理代理的开源应用"
         },
         {
-          "rank": 13,
-          "name": "TauricResearch/TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
           "language": "Python",
-          "stars_total": 97390,
-          "stars_today": 177,
-          "description_zh": "TradingAgents：多智能体LLM金融交易框架"
+          "stars_total": 61915,
+          "stars_today": 731,
+          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
+        },
+        {
+          "rank": 8,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 86041,
+          "stars_today": 571,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars_total": 167831,
+          "stars_today": 468,
+          "description_zh": "Agent 技能的公共仓库"
+        },
+        {
+          "rank": 10,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description_en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "language": "Python",
+          "stars_total": 47009,
+          "stars_today": 436,
+          "description_zh": "全球首个开源的代理式视频制作系统。包含 12 条制作流水线、100 多个工具、700 多个代理技能和制作知识文件。将您的 AI 编码助手转变为完整的视频制作工作室。"
+        },
+        {
+          "rank": 11,
+          "name": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac",
+          "description_en": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+          "language": "Swift",
+          "stars_total": 110197,
+          "stars_today": 414,
+          "description_zh": " 本项目致力于收集高质量的 macOS 软件，并按不同类别进行系统整理，方便搜索和使用。"
+        },
+        {
+          "rank": 12,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description_en": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars_total": 278168,
+          "stars_today": 394,
+          "description_zh": "基于项目的教程精选列表"
+        },
+        {
+          "rank": 13,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description_en": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars_total": 89964,
+          "stars_today": 381,
+          "description_zh": "用于制作数学讲解视频的动画引擎"
         },
         {
           "rank": 14,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 89469,
-          "stars_today": 154,
-          "description_zh": "π RuView将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+          "language": "Python",
+          "stars_total": 3696,
+          "stars_today": 339,
+          "description_zh": "你的单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
         },
         {
           "rank": 15,
-          "name": "opa334/Dopamine",
-          "url": "https://github.com/opa334/Dopamine",
-          "description_en": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-          "language": "C",
-          "stars_total": 6104,
-          "stars_today": 111,
-          "description_zh": "Dopamine是适用于iOS 15至26(.0.1)的半未绑定越狱工具。"
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "language": "Python",
+          "stars_total": 163603,
+          "stars_today": 69,
+          "description_zh": "🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，支持推理和训练。"
         },
         {
           "rank": 16,
-          "name": "LadybirdBrowser/ladybird",
-          "url": "https://github.com/LadybirdBrowser/ladybird",
-          "description_en": "Truly independent web browser",
-          "language": "C++",
-          "stars_total": 65320,
-          "stars_today": 56,
-          "description_zh": "真正独立的网页浏览器"
+          "name": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "description_en": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+          "language": "Python",
+          "stars_total": 985,
+          "stars_today": 24,
+          "description_zh": "一个用于评估和提升代理在法律工作支持方面能力的基准测试。"
+        },
+        {
+          "rank": 17,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars_total": 94417,
+          "stars_today": 18,
+          "description_zh": "Node 版本管理器 - 符合 POSIX 规范的 bash 脚本，用于管理多个活动的 node.js 版本"
         }
       ]
     },
