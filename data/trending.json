@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-12",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多智能体协作框架、图数据库RAG、代码工程技能库，以及LLM股票分析、数学动画引擎等工具，展现AI从开发到应用的全面落地。",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：多智能体协作框架、图数据库RAG、代码工程技能库，以及股票分析、个性化教育等垂直应用，还有Node版本管理和数学动画工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "stars_total": 14110,
+          "stars_total": 14447,
           "stars_today": 1138,
           "description_zh": "一个用于编码工作流和长时间运行的自主任务的自我改进RLM代理。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 143242,
+          "stars_total": 143837,
           "stars_today": 958,
           "description_zh": "一个完整的AI代理机构触手可及——从前端魔法师到Reddit社区忍者，从奇思妙想注入者到现实检验者。每个代理都是具有个性、流程和经过验证的交付成果的专家。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/semantica-agi/semantica",
           "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
           "language": "Python",
-          "stars_total": 4894,
+          "stars_total": 5186,
           "stars_today": 893,
           "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/stablyai/orca",
           "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
           "language": "TypeScript",
-          "stars_total": 42791,
+          "stars_total": 43124,
           "stars_today": 875,
           "description_zh": "Orca是用于管理并行代理集群的ADE。使用您自己的订阅运行任何编码代理。支持桌面端、移动端和VPS。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
           "language": "Python",
-          "stars_total": 34723,
+          "stars_total": 34949,
           "stars_today": 812,
           "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description_en": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "stars_total": 77170,
+          "stars_total": 77333,
           "stars_today": 748,
           "description_zh": "每个人在工作中管理代理所使用的开源应用"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 86223,
+          "stars_total": 86355,
           "stars_today": 578,
           "description_zh": "面向AI编码代理的生产级工程技能。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/anthropics/skills",
           "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 168132,
+          "stars_total": 168326,
           "stars_today": 485,
           "description_zh": "Agent技能的公共仓库"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/calesthio/OpenMontage",
           "description_en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
           "language": "Python",
-          "stars_total": 47345,
+          "stars_total": 47553,
           "stars_today": 458,
           "description_zh": "全球首个开源的代理式视频制作系统。包含12条制作流水线、100多个工具、700多个代理技能和制作知识文件。将您的AI编码助手变成完整的视频制作工作室。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/practical-tutorials/project-based-learning",
           "description_en": "Curated list of project-based tutorials",
           "language": "Python",
-          "stars_total": 278448,
+          "stars_total": 278631,
           "stars_today": 401,
           "description_zh": "基于项目的教程精选列表"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/vitali87/code-graph-rag",
           "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
           "language": "Python",
-          "stars_total": 3819,
+          "stars_total": 3927,
           "stars_today": 341,
           "description_zh": "适用于单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解和编辑多语言代码库。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/jaywcjlove/awesome-mac",
           "description_en": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
           "language": "Swift",
-          "stars_total": 110475,
+          "stars_total": 110636,
           "stars_today": 298,
           "description_zh": " 本项目致力于收集高质量的macOS软件，并按不同类别进行系统整理，方便搜索和使用。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
           "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
           "language": "Python",
-          "stars_total": 62135,
+          "stars_total": 62354,
           "stars_today": 243,
           "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/3b1b/manim",
           "description_en": "Animation engine for explanatory math videos",
           "language": "Python",
-          "stars_total": 90178,
+          "stars_total": 90358,
           "stars_today": 197,
           "description_zh": "用于制作数学讲解视频的动画引擎"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/huggingface/transformers",
           "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
           "language": "Python",
-          "stars_total": 163808,
+          "stars_total": 163907,
           "stars_today": 80,
           "description_zh": "🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，支持推理和训练。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/harveyai/harvey-labs",
           "description_en": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
           "language": "Python",
-          "stars_total": 1082,
+          "stars_total": 1126,
           "stars_today": 28,
           "description_zh": "一个为评估和改进支持法律工作的代理能力而构建的基准测试。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/nvm-sh/nvm",
           "description_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
           "language": "Shell",
-          "stars_total": 94491,
+          "stars_total": 94527,
           "stars_today": 22,
           "description_zh": "Node版本管理器——符合POSIX标准的bash脚本，用于管理多个活跃的node.js版本"
         }
