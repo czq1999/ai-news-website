@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-13",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：多智能体协作平台、RAG引擎、金融大模型、爬虫工具及PPT生成器等，涵盖企业办公、数据采集与内容创作，展现AI工具多元化落地趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理生态：多代理协作平台、专业领域代理（金融、设计）、RAG引擎及爬虫工具，同时涵盖团队协作工作区和PPT智能生成，展现AI工具多元化应用趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
           "language": "HTML",
-          "stars_total": 10466,
+          "stars_total": 11809,
           "stars_today": 2855,
           "description_zh": "为Claude Code设计的29种编辑图表类型。自包含的HTML+SVG。无阴影，无Mermaid风格冗余。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 144574,
+          "stars_total": 144814,
           "stars_today": 1873,
           "description_zh": "触手可及的完整AI代理机构——从前端魔法师到Reddit社区忍者，从趣味注入者到现实核查员。每个代理都是具有个性、流程和成熟交付成果的领域专家。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/stablyai/orca",
           "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
           "language": "TypeScript",
-          "stars_total": 43897,
+          "stars_total": 44284,
           "stars_today": 1235,
           "description_zh": "Orca是用于管理并行代理集群的ADE（代理开发环境）。使用您自己的订阅运行任何编码代理。支持桌面端、移动端和VPS。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/semantica-agi/semantica",
           "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
           "language": "Python",
-          "stars_total": 5723,
+          "stars_total": 5938,
           "stars_today": 845,
           "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description_en": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "stars_total": 77741,
+          "stars_total": 77890,
           "stars_today": 571,
           "description_zh": "每个人在工作中管理代理所使用的开源应用"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/hugohe3/ppt-master",
           "description_en": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
           "language": "Python",
-          "stars_total": 45587,
+          "stars_total": 46055,
           "stars_today": 476,
           "description_zh": "AI将文档或主题转化为真正的原生PowerPoint演示文稿——包含原生形状、过渡和动画，按需生成数据支持的图表和表格，从演讲者备注生成音频旁白，并支持您自己的.pptx模板。·作者：Hugo He"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/NVIDIA-NeMo/Switchyard",
           "description_en": "",
           "language": "Rust",
-          "stars_total": 828,
+          "stars_total": 953,
           "stars_today": 421,
           "description_zh": ""
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/cactus-compute/needle",
           "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
           "language": "Python",
-          "stars_total": 4231,
+          "stars_total": 4470,
           "stars_today": 315,
           "description_zh": "适用于微型设备的14MB基础模型；手机、可穿戴设备、智能家居和机器人。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/shiyu-coder/Kronos",
           "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
           "language": "Python",
-          "stars_total": 36943,
+          "stars_total": 37015,
           "stars_today": 266,
           "description_zh": "Kronos：金融市场语言的基础模型"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/macro-inc/macro",
           "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
           "language": "Rust",
-          "stars_total": 1823,
+          "stars_total": 2169,
           "stars_today": 227,
           "description_zh": "Macro是面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、通话和CRM——通过共享AI记忆以@链接整合在一起。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/NanmiCoder/MediaCrawler",
           "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
           "language": "Python",
-          "stars_total": 61975,
+          "stars_total": 62159,
           "stars_today": 215,
           "description_zh": "小红书笔记|评论爬虫、抖音视频|评论爬虫、快手视频|评论爬虫、B站视频|评论爬虫、微博帖子|评论爬虫、百度贴吧帖子|百度贴吧评论回复爬虫|知乎问答文章|评论爬虫"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/localsend/localsend",
           "description_en": "An open-source cross-platform alternative to AirDrop",
           "language": "Dart",
-          "stars_total": 87815,
+          "stars_total": 88013,
           "stars_today": 213,
           "description_zh": "AirDrop的开源跨平台替代方案"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/infiniflow/ragflow",
           "description_en": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
           "language": "Go",
-          "stars_total": 87552,
+          "stars_total": 87703,
           "stars_today": 139,
           "description_zh": "RAGFlow是领先的开源检索增强生成（RAG）引擎，将前沿RAG与代理能力融合，为LLM创建卓越的上下文层"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
           "description_en": "人人都能用英语",
           "language": "TypeScript",
-          "stars_total": 36078,
+          "stars_total": 36286,
           "stars_today": 86,
           "description_zh": "人人都能用英语"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/smicallef/spiderfoot",
           "description_en": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
           "language": "Python",
-          "stars_total": 20350,
+          "stars_total": 20427,
           "stars_today": 74,
           "description_zh": "SpiderFoot自动化OSINT，用于威胁情报和攻击面测绘。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/Lightricks/LTX-2",
           "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
           "language": "Python",
-          "stars_total": 8713,
+          "stars_total": 8779,
           "stars_today": 65,
           "description_zh": "LTX-2音频-视频生成模型的官方Python推理和LoRA训练器包。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/embabel/embabel-agent",
           "description_en": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
           "language": "Kotlin",
-          "stars_total": 4226,
+          "stars_total": 4262,
           "stars_today": 40,
           "description_zh": "面向JVM的代理框架。发音为Em-BAY-bel /ɛmˈbeɪbəl/"
         }
