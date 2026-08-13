@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-13",
-      "summary_zh": "今日GitHub热门涵盖AI基础设施、终端模型、macOS听写应用及OSINT工具，聚焦轻量化部署、智能体协作与安全分析，展现多元技术趋势。",
+      "summary_zh": "今日GitHub热门涵盖AI基础设施、模型优化与安全工具：从图形化图表设计、图原生AI系统到14MB微型模型，以及本地语音识别、统一工作区和OSINT威胁情报等多元创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,169 +10,169 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
           "language": "HTML",
-          "stars_total": 12834,
-          "stars_today": 2855,
+          "stars_total": 13822,
+          "stars_today": 4504,
           "description_zh": "为Claude Code设计的29种编辑图表类型。自包含的HTML+SVG。无阴影，无Mermaid风格冗余。"
         },
         {
           "rank": 2,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 144989,
-          "stars_today": 1873,
-          "description_zh": "触手可及的完整AI代理机构——从前端魔法师到Reddit社区忍者，从趣味注入者到现实核查员。每个代理都是具有个性、流程和成熟交付成果的领域专家。"
-        },
-        {
-          "rank": 3,
-          "name": "semantica-agi/semantica",
-          "url": "https://github.com/semantica-agi/semantica",
-          "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-          "language": "Python",
-          "stars_total": 6109,
-          "stars_today": 845,
-          "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
-        },
-        {
-          "rank": 4,
-          "name": "unslothai/unsloth",
-          "url": "https://github.com/unslothai/unsloth",
-          "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-          "language": "Python",
-          "stars_total": 70810,
-          "stars_today": 592,
-          "description_zh": "用于运行和训练 LLM 及扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。"
-        },
-        {
-          "rank": 5,
-          "name": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description_en": "Public repository for Agent Skills",
-          "language": "Python",
-          "stars_total": 168748,
-          "stars_today": 569,
-          "description_zh": "Agent Skills 的公共仓库"
-        },
-        {
-          "rank": 6,
-          "name": "3b1b/manim",
-          "url": "https://github.com/3b1b/manim",
-          "description_en": "Animation engine for explanatory math videos",
-          "language": "Python",
-          "stars_total": 90669,
-          "stars_today": 506,
-          "description_zh": "用于数学讲解视频的动画引擎"
-        },
-        {
-          "rank": 7,
-          "name": "NVIDIA-NeMo/Switchyard",
-          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-          "description_en": "",
-          "language": "Rust",
-          "stars_total": 1021,
-          "stars_today": 421,
-          "description_zh": ""
-        },
-        {
-          "rank": 8,
-          "name": "cactus-compute/needle",
-          "url": "https://github.com/cactus-compute/needle",
-          "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-          "language": "Python",
-          "stars_total": 4654,
-          "stars_today": 315,
-          "description_zh": "适用于微型设备的14MB基础模型；手机、可穿戴设备、智能家居和机器人。"
-        },
-        {
-          "rank": 9,
-          "name": "holaboss-ai/holaOS",
-          "url": "https://github.com/holaboss-ai/holaOS",
-          "description_en": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-          "language": "TypeScript",
-          "stars_total": 6185,
-          "stars_today": 258,
-          "description_zh": "开源的一体化 AI 智能体工作空间。运行任何智能体——Claude Code、Codex——跨工具（100+ 集成和 MCP）、应用、浏览器和文件，并共享记忆。内置模型或自带密钥（BYOK）。"
-        },
-        {
-          "rank": 10,
-          "name": "kepano/obsidian-skills",
-          "url": "https://github.com/kepano/obsidian-skills",
-          "description_en": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
-          "language": "",
-          "stars_total": 45334,
-          "stars_today": 252,
-          "description_zh": "Obsidian 的 Agent 技能。教你的智能体使用 Obsidian CLI 和开放格式，包括 Markdown、Bases、JSON Canvas。"
-        },
-        {
-          "rank": 11,
           "name": "macro-inc/macro",
           "url": "https://github.com/macro-inc/macro",
           "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
           "language": "Rust",
-          "stars_total": 2406,
-          "stars_today": 227,
+          "stars_total": 2518,
+          "stars_today": 1180,
           "description_zh": "Macro是面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、通话和CRM——通过共享AI记忆以@链接整合在一起。"
         },
         {
-          "rank": 12,
-          "name": "megadose/holehe",
-          "url": "https://github.com/megadose/holehe",
-          "description_en": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+          "rank": 3,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
           "language": "Python",
-          "stars_total": 12194,
-          "stars_today": 166,
-          "description_zh": "holehe 允许你检查邮箱是否在 Twitter、Instagram 等不同网站被使用，并通过忘记密码功能检索网站上的相关信息。"
+          "stars_total": 4828,
+          "stars_today": 768,
+          "description_zh": "适用于微型设备的14MB基础模型；手机、可穿戴设备、智能家居和机器人。"
         },
         {
-          "rank": 13,
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 145114,
+          "stars_today": 762,
+          "description_zh": "触手可及的完整AI代理机构——从前端魔法师到Reddit社区忍者，从趣味注入者到现实核查员。每个代理都是具有个性、流程和成熟交付成果的领域专家。"
+        },
+        {
+          "rank": 5,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars_total": 6434,
+          "stars_today": 727,
+          "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
+        },
+        {
+          "rank": 6,
           "name": "infiniflow/ragflow",
           "url": "https://github.com/infiniflow/ragflow",
           "description_en": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
           "language": "Go",
-          "stars_total": 87836,
-          "stars_today": 139,
+          "stars_total": 87942,
+          "stars_today": 473,
           "description_zh": "RAGFlow是领先的开源检索增强生成（RAG）引擎，将前沿RAG与代理能力融合，为LLM创建卓越的上下文层"
         },
         {
-          "rank": 14,
-          "name": "altic-dev/FluidVoice",
-          "url": "https://github.com/altic-dev/FluidVoice",
-          "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-          "language": "Swift",
-          "stars_total": 9677,
-          "stars_today": 83,
-          "description_zh": "最快的 macOS 听写应用，也是唯一一款支持设备端语音转文字和自定义训练 AI 增强模型的应用。本地 Wispr Flow 的替代品。⭐ 帮助很大 :) Windows 和 iOS 候补名单已开放。Linux 即将推出。"
+          "rank": 7,
+          "name": "kepano/obsidian-skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "description_en": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+          "language": "",
+          "stars_total": 45579,
+          "stars_today": 411,
+          "description_zh": "Obsidian 的 Agent 技能。教你的智能体使用 Obsidian CLI 和开放格式，包括 Markdown、Bases、JSON Canvas。"
         },
         {
-          "rank": 15,
+          "rank": 8,
+          "name": "NVIDIA-NeMo/Switchyard",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "description_en": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+          "language": "Rust",
+          "stars_total": 1145,
+          "stars_today": 408,
+          "description_zh": "Switchyard 允许 LLM 应用在模型和提供商之间路由流量，同时保持对 OpenAI 和 Anthropic API 的原生兼容性——实现灵活的模型选择、基准测试以及成本/性能优化。"
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars_total": 168913,
+          "stars_today": 383,
+          "description_zh": "Agent Skills 的公共仓库"
+        },
+        {
+          "rank": 10,
+          "name": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "description_en": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+          "language": "TypeScript",
+          "stars_total": 6445,
+          "stars_today": 380,
+          "description_zh": "开源的一体化 AI 智能体工作空间。运行任何智能体——Claude Code、Codex——跨工具（100+ 集成和 MCP）、应用、浏览器和文件，并共享记忆。内置模型或自带密钥（BYOK）。"
+        },
+        {
+          "rank": 11,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "language": "Python",
+          "stars_total": 70961,
+          "stars_today": 354,
+          "description_zh": "用于运行和训练 LLM 及扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。"
+        },
+        {
+          "rank": 12,
           "name": "smicallef/spiderfoot",
           "url": "https://github.com/smicallef/spiderfoot",
           "description_en": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
           "language": "Python",
-          "stars_total": 20503,
-          "stars_today": 74,
+          "stars_total": 20590,
+          "stars_today": 278,
           "description_zh": "SpiderFoot自动化OSINT，用于威胁情报和攻击面测绘。"
         },
         {
-          "rank": 16,
+          "rank": 13,
           "name": "lightningpixel/modly",
           "url": "https://github.com/lightningpixel/modly",
           "description_en": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
           "language": "TypeScript",
-          "stars_total": 5160,
-          "stars_today": 70,
+          "stars_total": 5308,
+          "stars_today": 221,
           "description_zh": "使用本地 AI 从图像生成 3D 模型的桌面应用——完全在你的 GPU 上运行"
         },
         {
-          "rank": 17,
+          "rank": 14,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description_en": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars_total": 90775,
+          "stars_today": 204,
+          "description_zh": "用于数学讲解视频的动画引擎"
+        },
+        {
+          "rank": 15,
           "name": "Lightricks/LTX-2",
           "url": "https://github.com/Lightricks/LTX-2",
           "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
           "language": "Python",
-          "stars_total": 8816,
-          "stars_today": 65,
+          "stars_total": 8873,
+          "stars_today": 201,
           "description_zh": "LTX-2音频-视频生成模型的官方Python推理和LoRA训练器包。"
+        },
+        {
+          "rank": 16,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description_en": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+          "language": "Python",
+          "stars_total": 12330,
+          "stars_today": 166,
+          "description_zh": "holehe 允许你检查邮箱是否在 Twitter、Instagram 等不同网站被使用，并通过忘记密码功能检索网站上的相关信息。"
+        },
+        {
+          "rank": 17,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+          "language": "Swift",
+          "stars_total": 9784,
+          "stars_today": 83,
+          "description_zh": "最快的 macOS 听写应用，也是唯一一款支持设备端语音转文字和自定义训练 AI 增强模型的应用。本地 Wispr Flow 的替代品。⭐ 帮助很大 :) Windows 和 iOS 候补名单已开放。Linux 即将推出。"
         }
       ]
     },
