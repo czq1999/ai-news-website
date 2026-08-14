@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-14",
-      "summary_zh": "今日GitHub热门涵盖AI基础设施、端侧模型、开源工具等，聚焦模型路由优化、本地部署、OSINT安全及团队协作，展现AI应用多元化趋势。",
+      "summary_zh": "今日GitHub热门涵盖AI基础设施、本地模型部署、macOS语音输入、OSINT安全工具等，聚焦轻量级模型、智能体工作流与团队协作效率提升。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
           "language": "HTML",
-          "stars_total": 14576,
+          "stars_total": 15572,
           "stars_today": 4475,
           "description_zh": "为Claude Code设计的29种编辑图表类型。自包含HTML+SVG。无阴影，无Mermaid风格冗余。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/macro-inc/macro",
           "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
           "language": "Rust",
-          "stars_total": 2606,
+          "stars_total": 2742,
           "stars_today": 1239,
           "description_zh": "Macro是面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、通话和CRM——通过共享AI记忆以@链接整合在一起。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 145190,
+          "stars_total": 145329,
           "stars_today": 778,
           "description_zh": "一个完整的AI代理机构触手可及——从前端魔法师到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是具有个性、流程和经过验证的交付物的专业专家。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/cactus-compute/needle",
           "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
           "language": "Python",
-          "stars_total": 4960,
+          "stars_total": 5143,
           "stars_today": 769,
           "description_zh": "适用于微型设备的14MB基础模型；适用于手机、可穿戴设备、智能家居和机器人。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/semantica-agi/semantica",
           "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
           "language": "Python",
-          "stars_total": 6679,
+          "stars_total": 7018,
           "stars_today": 713,
           "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/infiniflow/ragflow",
           "description_en": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
           "language": "Go",
-          "stars_total": 88020,
+          "stars_total": 88168,
           "stars_today": 465,
           "description_zh": "RAGFlow是领先的开源检索增强生成（RAG）引擎，将尖端RAG与Agent能力融合，为LLM创建卓越的上下文层"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/NVIDIA-NeMo/Switchyard",
           "description_en": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
           "language": "Rust",
-          "stars_total": 1219,
+          "stars_total": 1322,
           "stars_today": 408,
           "description_zh": "Switchyard让LLM应用在模型和提供商之间路由流量，同时保持原生OpenAI和Anthropic API兼容性——实现灵活的模型选择、基准测试和成本/性能优化。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/unslothai/unsloth",
           "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
           "language": "Python",
-          "stars_total": 71063,
+          "stars_total": 71201,
           "stars_today": 328,
           "description_zh": "本地UI，用于运行和训练LLM及扩散模型，包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/anthropics/skills",
           "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 169031,
+          "stars_total": 169227,
           "stars_today": 312,
           "description_zh": "Agent技能公共仓库"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/kepano/obsidian-skills",
           "description_en": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
           "language": "",
-          "stars_total": 45759,
+          "stars_total": 46022,
           "stars_today": 292,
           "description_zh": "适用于Obsidian的Agent技能。教您的代理使用Obsidian CLI和开放格式，包括Markdown、Bases、JSON Canvas。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/smicallef/spiderfoot",
           "description_en": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
           "language": "Python",
-          "stars_total": 20677,
+          "stars_total": 20729,
           "stars_today": 283,
           "description_zh": "SpiderFoot自动化OSINT，用于威胁情报和映射您的攻击面。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/holaboss-ai/holaOS",
           "description_en": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
           "language": "TypeScript",
-          "stars_total": 6604,
+          "stars_total": 6815,
           "stars_today": 241,
           "description_zh": "开源的一体化AI代理工作空间。运行任何代理——Claude Code、Codex——跨您的工具（100+集成+MCP）、应用、浏览器和文件，并具有共享内存。内置模型或自带密钥（BYOK）。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/Lightricks/LTX-2",
           "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
           "language": "Python",
-          "stars_total": 8916,
+          "stars_total": 8977,
           "stars_today": 205,
           "description_zh": "LTX-2音频-视频生成模型的官方Python推理和LoRA训练器包。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/megadose/holehe",
           "description_en": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
           "language": "Python",
-          "stars_total": 12426,
+          "stars_total": 12524,
           "stars_today": 195,
           "description_zh": "holehe允许您检查邮箱是否在Twitter、Instagram等不同网站上使用，并会通过忘记密码功能检索网站上的信息。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/3b1b/manim",
           "description_en": "Animation engine for explanatory math videos",
           "language": "Python",
-          "stars_total": 90867,
+          "stars_total": 90994,
           "stars_today": 176,
           "description_zh": "用于数学讲解视频的动画引擎"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/lightningpixel/modly",
           "description_en": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
           "language": "TypeScript",
-          "stars_total": 5419,
+          "stars_total": 5598,
           "stars_today": 118,
           "description_zh": "使用本地AI从图像生成3D模型的桌面应用——完全在您的GPU上运行"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/altic-dev/FluidVoice",
           "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
           "language": "Swift",
-          "stars_total": 9857,
+          "stars_total": 9976,
           "stars_today": 76,
           "description_zh": "最快且唯一的macOS听写应用，具备设备端语音转文字和自定义训练的AI增强模型。本地Wispr Flow替代方案。⭐帮助很大 :) Windows和iOS等待名单已开放。Linux即将推出。"
         }
