@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-08-14",
+      "summary_zh": "今日GitHub热门涵盖AI基础设施、端侧模型、开源工具等，聚焦模型路由优化、本地部署、OSINT安全及团队协作，展现AI应用多元化趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "language": "HTML",
+          "stars_total": 14576,
+          "stars_today": 4475,
+          "description_zh": "为Claude Code设计的29种编辑图表类型。自包含HTML+SVG。无阴影，无Mermaid风格冗余。"
+        },
+        {
+          "rank": 2,
+          "name": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "language": "Rust",
+          "stars_total": 2606,
+          "stars_today": 1239,
+          "description_zh": "Macro是面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、通话和CRM——通过共享AI记忆以@链接整合在一起。"
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars_total": 145190,
+          "stars_today": 778,
+          "description_zh": "一个完整的AI代理机构触手可及——从前端魔法师到Reddit社区忍者，从趣味注入者到现实检验者。每个代理都是具有个性、流程和经过验证的交付物的专业专家。"
+        },
+        {
+          "rank": 4,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars_total": 4960,
+          "stars_today": 769,
+          "description_zh": "适用于微型设备的14MB基础模型；适用于手机、可穿戴设备、智能家居和机器人。"
+        },
+        {
+          "rank": 5,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars_total": 6679,
+          "stars_today": 713,
+          "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
+        },
+        {
+          "rank": 6,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description_en": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+          "language": "Go",
+          "stars_total": 88020,
+          "stars_today": 465,
+          "description_zh": "RAGFlow是领先的开源检索增强生成（RAG）引擎，将尖端RAG与Agent能力融合，为LLM创建卓越的上下文层"
+        },
+        {
+          "rank": 7,
+          "name": "NVIDIA-NeMo/Switchyard",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "description_en": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+          "language": "Rust",
+          "stars_total": 1219,
+          "stars_today": 408,
+          "description_zh": "Switchyard让LLM应用在模型和提供商之间路由流量，同时保持原生OpenAI和Anthropic API兼容性——实现灵活的模型选择、基准测试和成本/性能优化。"
+        },
+        {
+          "rank": 8,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "language": "Python",
+          "stars_total": 71063,
+          "stars_today": 328,
+          "description_zh": "本地UI，用于运行和训练LLM及扩散模型，包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。"
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars_total": 169031,
+          "stars_today": 312,
+          "description_zh": "Agent技能公共仓库"
+        },
+        {
+          "rank": 10,
+          "name": "kepano/obsidian-skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "description_en": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+          "language": "",
+          "stars_total": 45759,
+          "stars_today": 292,
+          "description_zh": "适用于Obsidian的Agent技能。教您的代理使用Obsidian CLI和开放格式，包括Markdown、Bases、JSON Canvas。"
+        },
+        {
+          "rank": 11,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description_en": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars_total": 20677,
+          "stars_today": 283,
+          "description_zh": "SpiderFoot自动化OSINT，用于威胁情报和映射您的攻击面。"
+        },
+        {
+          "rank": 12,
+          "name": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "description_en": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+          "language": "TypeScript",
+          "stars_total": 6604,
+          "stars_today": 241,
+          "description_zh": "开源的一体化AI代理工作空间。运行任何代理——Claude Code、Codex——跨您的工具（100+集成+MCP）、应用、浏览器和文件，并具有共享内存。内置模型或自带密钥（BYOK）。"
+        },
+        {
+          "rank": 13,
+          "name": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+          "language": "Python",
+          "stars_total": 8916,
+          "stars_today": 205,
+          "description_zh": "LTX-2音频-视频生成模型的官方Python推理和LoRA训练器包。"
+        },
+        {
+          "rank": 14,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description_en": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+          "language": "Python",
+          "stars_total": 12426,
+          "stars_today": 195,
+          "description_zh": "holehe允许您检查邮箱是否在Twitter、Instagram等不同网站上使用，并会通过忘记密码功能检索网站上的信息。"
+        },
+        {
+          "rank": 15,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description_en": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars_total": 90867,
+          "stars_today": 176,
+          "description_zh": "用于数学讲解视频的动画引擎"
+        },
+        {
+          "rank": 16,
+          "name": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "description_en": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+          "language": "TypeScript",
+          "stars_total": 5419,
+          "stars_today": 118,
+          "description_zh": "使用本地AI从图像生成3D模型的桌面应用——完全在您的GPU上运行"
+        },
+        {
+          "rank": 17,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+          "language": "Swift",
+          "stars_total": 9857,
+          "stars_today": 76,
+          "description_zh": "最快且唯一的macOS听写应用，具备设备端语音转文字和自定义训练的AI增强模型。本地Wispr Flow替代方案。⭐帮助很大 :) Windows和iOS等待名单已开放。Linux即将推出。"
+        }
+      ]
+    },
+    {
       "date": "2026-08-13",
       "summary_zh": "今日GitHub热门涵盖AI基础设施、模型优化与安全工具：从图形化图表设计、图原生AI系统到14MB微型模型，以及本地语音识别、统一工作区和OSINT威胁情报等多元创新。",
       "projects": [
@@ -4671,162 +4847,6 @@
           "stars_total": 1394,
           "stars_today": 21,
           "description_zh": "GTA 5：增强版的实验性菜单"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-14",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理应用、反AI设计、开源视频编辑、健身数据集及Windows系统优化工具，涵盖开发效率与实用场景。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "OpenCut-app/OpenCut",
-          "url": "https://github.com/OpenCut-app/OpenCut",
-          "description_en": "The open-source CapCut alternative",
-          "language": "TypeScript",
-          "stars_total": 68972,
-          "stars_today": 4349,
-          "description_zh": "开源的CapCut替代品"
-        },
-        {
-          "rank": 2,
-          "name": "Graphify-Labs/graphify",
-          "url": "https://github.com/Graphify-Labs/graphify",
-          "description_en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-          "language": "Python",
-          "stars_total": 86077,
-          "stars_today": 1858,
-          "description_zh": "AI编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码文件夹、SQL模式、R脚本、Shell脚本、文档、论文、图片或视频转换为可查询的知识图谱。应用代码+数据库模式+基础设施整合在一个图谱中。"
-        },
-        {
-          "rank": 3,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 169987,
-          "stars_today": 1559,
-          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
-        },
-        {
-          "rank": 4,
-          "name": "HKUDS/Vibe-Trading",
-          "url": "https://github.com/HKUDS/Vibe-Trading",
-          "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
-          "language": "Python",
-          "stars_total": 22710,
-          "stars_today": 1265,
-          "description_zh": "“Vibe-Trading：你的个人交易代理”"
-        },
-        {
-          "rank": 5,
-          "name": "Shubhamsaboo/awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-          "language": "Python",
-          "stars_total": 120606,
-          "stars_today": 1104,
-          "description_zh": "100多个你可以实际运行的AI Agent和RAG应用——克隆、定制、发布。"
-        },
-        {
-          "rank": 6,
-          "name": "Nutlope/hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "language": "CSS",
-          "stars_total": 5987,
-          "stars_today": 1010,
-          "description_zh": "为Claude Code、Cursor和Codex设计的反AI低质量设计技能。"
-        },
-        {
-          "rank": 7,
-          "name": "hasaneyldrm/exercises-dataset",
-          "url": "https://github.com/hasaneyldrm/exercises-dataset",
-          "description_en": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-          "language": "HTML",
-          "stars_total": 13305,
-          "stars_today": 864,
-          "description_zh": "包含1,324个动作的健身数据集——动画GIF、180×180缩略图、肌肉群与设备数据，以及6种语言的分步说明。这是LogPress应用背后的动作数据层。"
-        },
-        {
-          "rank": 8,
-          "name": "Raphire/Win11Debloat",
-          "url": "https://github.com/Raphire/Win11Debloat",
-          "description_en": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-          "language": "PowerShell",
-          "stars_total": 51479,
-          "stars_today": 779,
-          "description_zh": "一个简单、轻量的PowerShell脚本，允许你删除预装应用、禁用遥测，并执行各种其他更改，以精简和自定义你的Windows体验。Win11Debloat同时适用于Windows 10和Windows 11。"
-        },
-        {
-          "rank": 9,
-          "name": "Dicklesworthstone/destructive_command_guard",
-          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-          "description_en": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-          "language": "Rust",
-          "stars_total": 4287,
-          "stars_today": 481,
-          "description_zh": "Destructive Command Guard (dcg) 用于阻止代理执行危险的 git 和 shell 命令。"
-        },
-        {
-          "rank": 10,
-          "name": "par274/sharpemu",
-          "url": "https://github.com/par274/sharpemu",
-          "description_en": "An experimental PlayStation 5 emulator project.",
-          "language": "C#",
-          "stars_total": 2011,
-          "stars_today": 428,
-          "description_zh": "一个实验性的PlayStation 5模拟器项目。"
-        },
-        {
-          "rank": 11,
-          "name": "penpot/penpot",
-          "url": "https://github.com/penpot/penpot",
-          "description_en": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
-          "language": "Clojure",
-          "stars_total": 56060,
-          "stars_today": 264,
-          "description_zh": "Penpot：面向需要可扩展协作的产品团队的开源设计平台。"
-        },
-        {
-          "rank": 12,
-          "name": "chenyme/grok2api",
-          "url": "https://github.com/chenyme/grok2api",
-          "description_en": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
-          "language": "Go",
-          "stars_total": 5818,
-          "stars_today": 179,
-          "description_zh": "面向Grok Build、Grok Web与Grok Console的多账号API网关"
-        },
-        {
-          "rank": 13,
-          "name": "virattt/ai-hedge-fund",
-          "url": "https://github.com/virattt/ai-hedge-fund",
-          "description_en": "An AI Hedge Fund Team",
-          "language": "Python",
-          "stars_total": 61798,
-          "stars_today": 156,
-          "description_zh": "一个AI对冲基金团队"
-        },
-        {
-          "rank": 14,
-          "name": "HenryNdubuaku/maths-cs-ai-compendium",
-          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-          "description_en": "Become a cracked AI/ML Research Engineer",
-          "language": "TypeScript",
-          "stars_total": 5112,
-          "stars_today": 69,
-          "description_zh": "成为顶尖的AI/ML研究工程师"
-        },
-        {
-          "rank": 15,
-          "name": "AIEraDev/Clypra",
-          "url": "https://github.com/AIEraDev/Clypra",
-          "description_en": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
-          "language": "TypeScript",
-          "stars_total": 2559,
-          "stars_today": 66,
-          "description_zh": "一个使用Tauri、React和TypeScript构建的现代视频编辑器。专注于构建剪映高级功能的免费替代能力。"
         }
       ]
     }
