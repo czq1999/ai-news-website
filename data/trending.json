@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-15",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理工作流、开源情报与本地化部署：涵盖浏览器自动化、OSINT侦察、RAG引擎、3D生成及低资源设备模型，凸显AI工具链整合与隐私安全趋势。",
+      "summary_zh": "今日GitHub热门涵盖AI模型轻量化与训练优化、开源API集合、Cursor插件规范、图表设计工具及邮箱检测等，聚焦开发者效率与边缘计算创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,19 +10,19 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
           "language": "HTML",
-          "stars_total": 17561,
+          "stars_total": 17972,
           "stars_today": 3646,
           "description_zh": "为Claude Code设计的29种编辑级图表类型。自包含HTML+SVG。无阴影，无Mermaid风格冗余。"
         },
         {
           "rank": 2,
-          "name": "semantica-agi/semantica",
-          "url": "https://github.com/semantica-agi/semantica",
-          "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description_en": "A collective list of free APIs",
           "language": "Python",
-          "stars_total": 7613,
-          "stars_today": 1181,
-          "description_zh": "面向上下文和可问责AI系统的图原生基础设施。"
+          "stars_total": 459311,
+          "stars_today": 2476,
+          "description_zh": "免费API的集体列表"
         },
         {
           "rank": 3,
@@ -30,147 +30,107 @@
           "url": "https://github.com/github/spec-kit",
           "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
           "language": "Python",
-          "stars_total": 128641,
+          "stars_total": 128844,
           "stars_today": 1160,
           "description_zh": "💫 帮助你开始规范驱动开发的工具包"
         },
         {
           "rank": 4,
-          "name": "holaboss-ai/holaOS",
-          "url": "https://github.com/holaboss-ai/holaOS",
-          "description_en": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-          "language": "TypeScript",
-          "stars_total": 7397,
-          "stars_today": 769,
-          "description_zh": "开源的一体化AI代理工作空间。运行任何代理——Claude Code、Codex——跨你的工具（100+集成和MCP）、应用、浏览器和文件，并具有共享内存。内置模型或自带密钥（BYOK）。"
-        },
-        {
-          "rank": 5,
           "name": "cactus-compute/needle",
           "url": "https://github.com/cactus-compute/needle",
           "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
           "language": "Python",
-          "stars_total": 5710,
+          "stars_total": 5839,
           "stars_today": 662,
           "description_zh": "适用于手机、可穿戴设备、智能家居和机器人的14MB基础模型。"
         },
         {
-          "rank": 6,
-          "name": "lightningpixel/modly",
-          "url": "https://github.com/lightningpixel/modly",
-          "description_en": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+          "rank": 5,
+          "name": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "description_en": "Meta-Framework of Spatiotemporal Composability",
           "language": "TypeScript",
-          "stars_total": 6026,
-          "stars_today": 579,
-          "description_zh": "桌面应用，使用本地AI从图像或提示生成3D模型——完全在你的GPU上运行。"
+          "stars_total": 3709,
+          "stars_today": 616,
+          "description_zh": "时空组合性的元框架"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "unslothai/unsloth",
           "url": "https://github.com/unslothai/unsloth",
           "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
           "language": "Python",
-          "stars_total": 71593,
+          "stars_total": 71700,
           "stars_today": 501,
           "description_zh": "本地UI，用于运行和训练LLM及扩散模型，包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。"
         },
         {
-          "rank": 8,
-          "name": "infiniflow/ragflow",
-          "url": "https://github.com/infiniflow/ragflow",
-          "description_en": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-          "language": "Go",
-          "stars_total": 88447,
-          "stars_today": 473,
-          "description_zh": "RAGFlow是一个领先的开源检索增强生成（RAG）引擎，将前沿RAG与代理能力融合，为LLM创建卓越的上下文层。"
-        },
-        {
-          "rank": 9,
-          "name": "macro-inc/macro",
-          "url": "https://github.com/macro-inc/macro",
-          "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-          "language": "Rust",
-          "stars_total": 3096,
-          "stars_today": 436,
-          "description_zh": "Macro是一个面向团队的统一工作空间：邮件、聊天、文档、任务、代理、通话和CRM——通过共享AI记忆以@链接整合在一起。"
-        },
-        {
-          "rank": 10,
+          "rank": 7,
           "name": "megadose/holehe",
           "url": "https://github.com/megadose/holehe",
           "description_en": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
           "language": "Python",
-          "stars_total": 12911,
+          "stars_total": 12991,
           "stars_today": 427,
           "description_zh": "holehe允许你检查邮箱是否在Twitter、Instagram等不同网站上被使用，并通过忘记密码功能获取相关网站的信息。"
         },
         {
-          "rank": 11,
-          "name": "smicallef/spiderfoot",
-          "url": "https://github.com/smicallef/spiderfoot",
-          "description_en": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "rank": 8,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+          "language": "Swift",
+          "stars_total": 10160,
+          "stars_today": 311,
+          "description_zh": "最快且唯一的macOS听写应用，具有设备端STT和自定义训练的AI增强模型。本地Wispr Flow替代品。⭐帮助很大 :) Windows和iOS候补名单开放。Linux即将推出。"
+        },
+        {
+          "rank": 9,
+          "name": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "description_en": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
           "language": "Python",
-          "stars_total": 21002,
-          "stars_today": 293,
-          "description_zh": "SpiderFoot自动化OSINT，用于威胁情报和攻击面映射。"
+          "stars_total": 1434,
+          "stars_today": 303,
+          "description_zh": "从一个YAML文件微调LLM。分层流式训练在4 GB笔记本电脑GPU上训练8B模型。"
         },
         {
-          "rank": 12,
-          "name": "OpenCut-app/OpenCut",
-          "url": "https://github.com/OpenCut-app/OpenCut",
-          "description_en": "The open-source CapCut alternative",
-          "language": "TypeScript",
-          "stars_total": 83270,
-          "stars_today": 255,
-          "description_zh": "开源的CapCut替代品"
-        },
-        {
-          "rank": 13,
-          "name": "deepseek-ai/awesome-deepseek-agent",
-          "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-          "description_en": "",
-          "language": "",
-          "stars_total": 5787,
-          "stars_today": 222,
-          "description_zh": ""
-        },
-        {
-          "rank": 14,
+          "rank": 10,
           "name": "citrolabs/ego-lite",
           "url": "https://github.com/citrolabs/ego-lite",
           "description_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
           "language": "JavaScript",
-          "stars_total": 10480,
+          "stars_total": 10618,
           "stars_today": 165,
           "description_zh": "面向AI代理的最快浏览器自动化运行环境，专为将你的登录浏览器状态共享给AI代理（如Codex或Claude Code）而构建，不打扰你。零成本，零配置。"
         },
         {
-          "rank": 15,
-          "name": "rustdesk/rustdesk",
-          "url": "https://github.com/rustdesk/rustdesk",
-          "description_en": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-          "language": "Rust",
-          "stars_total": 120709,
-          "stars_today": 143,
-          "description_zh": "一款开源远程桌面应用，专为自托管设计，作为TeamViewer的替代方案。"
-        },
-        {
-          "rank": 16,
+          "rank": 11,
           "name": "ToolJet/ToolJet",
           "url": "https://github.com/ToolJet/ToolJet",
           "description_en": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
           "language": "JavaScript",
-          "stars_total": 39175,
+          "stars_total": 39302,
           "stars_today": 132,
           "description_zh": "ToolJet是ToolJet AI的开源基础——企业应用生成平台，用于构建内部工具、仪表板、业务应用、工作流和AI代理 🚀"
         },
         {
-          "rank": 17,
+          "rank": 12,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 47150,
+          "stars_today": 100,
+          "description_zh": "\"CLI-Anything：让所有软件成为代理原生\" -- CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 13,
           "name": "cursor/plugins",
           "url": "https://github.com/cursor/plugins",
           "description_en": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "stars_total": 2843,
+          "stars_total": 2866,
           "stars_today": 41,
           "description_zh": "Cursor插件规范及官方插件"
         }
