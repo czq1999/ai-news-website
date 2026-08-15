@@ -1,5 +1,49 @@
 [
   {
+    "id": "5e7312ad9c6e8e7c1cdc4eed42064d40",
+    "title_en": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+    "published_at": "2026-08-14T21:43:17.000Z",
+    "fetched_at": "2026-08-15T00:41:32.098Z",
+    "title_zh": "纽约市议员推动在麦迪逊广场花园“禁止人脸扫描”",
+    "summary_zh": "纽约市立法者正推动一项名为“禁止扫描”的法案，旨在禁止麦迪逊广场花园等场馆使用人脸识别技术。此举源于该场馆此前因使用人脸扫描驱逐律师等争议事件，引发公众对隐私和公民权利的担忧。法案若通过，将限制企业在大型公共场所未经同意收集生物识别数据，对AI安防应用构成重大监管信号。",
+    "category": "industry"
+  },
+  {
+    "id": "db0c5f3ba4c19ff43c2d819bdb7afe63",
+    "title_en": "The Best Movies to Stream This Month (August 2026)",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+    "published_at": "2026-08-14T21:18:21.000Z",
+    "fetched_at": "2026-08-15T00:41:32.098Z",
+    "title_zh": "本月最佳流媒体电影推荐（2026年8月）",
+    "summary_zh": "本文盘点了2026年8月各大流媒体平台（如Netflix、Hulu、Disney+等）上线的最佳电影，涵盖科幻、剧情、喜剧等多种类型，为观众提供观影指南。编辑精选了口碑与热度兼具的作品，并附上简要影评和观看建议，帮助用户高效选择周末观影内容，是流媒体时代的内容消费参考。",
+    "category": "product"
+  },
+  {
+    "id": "4dca7df0c839bdd69ce42c84e8d4d745",
+    "title_en": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+    "published_at": "2026-08-14T20:59:03.000Z",
+    "fetched_at": "2026-08-15T00:41:32.098Z",
+    "title_zh": "下一位超级网红：来自中国的四英尺高机器人",
+    "summary_zh": "一款来自中国的四英尺高机器人正成为社交媒体新宠，凭借可爱的外形和互动能力吸引大量粉丝，被视为下一代网红。该机器人融合了AI对话、情感表达和动作控制技术，不仅用于娱乐，还探索品牌代言和直播带货等商业场景，标志着人形机器人从工业走向消费级内容创作的转型。",
+    "category": "product"
+  },
+  {
+    "id": "e928bbb8653dc4b2a4d52304df0efbb6",
+    "title_en": "Samsung has new Galaxy headphones in the works",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+    "published_at": "2026-08-14T19:18:45.000Z",
+    "fetched_at": "2026-08-15T00:41:31.747Z",
+    "title_zh": "三星正在研发新款Galaxy耳机",
+    "summary_zh": "据The Verge报道，三星正在开发新一代Galaxy耳机产品。虽然具体细节尚未公布，但预计将延续其无线耳机系列，可能带来音质、降噪或续航方面的升级。此举显示三星持续加码音频设备市场，与苹果AirPods等竞品展开竞争。新品发布时间和规格有待官方确认。",
+    "category": "product"
+  },
+  {
     "id": "bb16dce7d9aac0c6df59e65538bf5cca",
     "title_en": "A RAMageddon guide to back-to-school laptop shopping",
     "source": "The Verge",
@@ -9,6 +53,17 @@
     "title_zh": "RAMageddon指南：开学季笔记本电脑选购攻略",
     "summary_zh": "面对内存价格飙升的“RAMageddon”，开学季选购笔记本需更精明。本文提供实用指南，建议根据专业需求选择内存容量，优先考虑可升级机型，并权衡性能与预算。同时提醒关注处理器、存储与屏幕等综合配置，避免为不必要的规格买单。",
     "category": "product"
+  },
+  {
+    "id": "6b226f4784edf6e9c007e9002877329d",
+    "title_en": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "published_at": "2026-08-14T18:32:14.000Z",
+    "fetched_at": "2026-08-15T00:41:31.951Z",
+    "title_zh": "可完全控制Mac的漏洞正被积极利用",
+    "summary_zh": "Ars Technica报道，一个允许攻击者完全控制Mac系统的安全漏洞正遭到活跃利用。该漏洞影响苹果设备，攻击者可借此获取系统最高权限，执行任意代码。目前尚无完整修复方案，用户应尽快更新系统并警惕可疑链接或文件。安全研究人员正紧急追踪攻击范围。",
+    "category": "research"
   },
   {
     "id": "7fb6333b647bdf6d05538844bf747fb3",
@@ -42,6 +97,17 @@
     "title_zh": "谷歌最佳新相机功能仅限Pixel 11系列独占",
     "summary_zh": "谷歌最新相机功能将仅搭载于Pixel 11系列，令旧款机型用户失望。该功能利用新一代影像芯片与算法，实现更出色的低光拍摄与计算摄影效果。谷歌此举意在推动硬件升级，但可能引发用户对软件功能碎片化的不满。",
     "category": "product"
+  },
+  {
+    "id": "2ae0277a6fe23c237a60b82494bec4fa",
+    "title_en": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "published_at": "2026-08-14T17:03:54.000Z",
+    "fetched_at": "2026-08-15T00:41:31.951Z",
+    "title_zh": "PBS电视台因云存储供应商失联恐丢失50TB数据",
+    "summary_zh": "一家PBS电视台面临数据丢失危机，其云存储供应商突然失联，导致约50TB的珍贵节目资料可能无法访问。该事件凸显了依赖单一云服务商的风险，尤其是中小型机构。电视台正寻求法律和技术途径恢复数据，并提醒行业重视数据备份和供应商尽职调查。",
+    "category": "industry"
   },
   {
     "id": "fcca288b1b0615961cc0b1bacb20de07",
@@ -482,6 +548,116 @@
     "title_zh": "特朗普宣布对多数无人机及所有飞机零部件征收100%关税",
     "summary_zh": "美国政府宣布对进口的多数无人机和所有飞机零部件征收100%的惩罚性关税。这一政策旨在推动国内制造业回流，但可能对依赖全球供应链的科技和航空产业造成冲击。分析人士指出，此举将显著提高相关产品的成本，并可能引发贸易伙伴的报复性措施，对全球科技产业链产生深远影响。",
     "category": "industry"
+  },
+  {
+    "id": "f053d0f5ca48eeaf36d836816eea53a8",
+    "title_en": "Insurance software provider Accelerant to be taken private for $4.4B",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/08/13/insurance-software-provider-accelerant-taken-private-4-4b/",
+    "published_at": "2026-08-14T00:40:32Z",
+    "fetched_at": "2026-08-15T00:41:32.791Z",
+    "title_zh": "保险软件供应商Accelerant将以44亿美元被私有化收购",
+    "summary_zh": "保险科技软件供应商Accelerant宣布达成协议，将以44亿美元估值被私募股权财团私有化收购。该公司为保险承保商提供数据分析和风险管理平台，近年增长迅速。私有化后或将加速技术投资和业务重组，摆脱公开市场压力。此交易反映保险科技领域并购活跃，资本看好AI驱动的保险基础设施。",
+    "category": "industry"
+  },
+  {
+    "id": "e4de43b5f3aab58a78728ea8c8dae2f2",
+    "title_en": "Top FPIs ride out storm, outrun Nifty & Sensex in Q1",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/top-fpis-ride-out-stormoutrun-nifty-sensex-in-q1/articleshow/133226731.cms",
+    "published_at": "2026-08-14T00:39:01Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "顶级外资机构投资者在风暴中逆势跑赢Nifty与Sensex指数",
+    "summary_zh": "2026年第一季度，尽管市场波动剧烈，顶级外国投资组合投资者（FPIs）通过精准选股和防御性配置，成功跑赢印度基准指数Nifty和Sensex。分析显示，这些机构重仓IT、金融和消费板块，并利用衍生品对冲风险。该表现凸显外资在印度市场的策略优势，也为本土投资者提供了参考。",
+    "category": "industry"
+  },
+  {
+    "id": "c1ed25f11c52667d8d25c6ddbf7b9988",
+    "title_en": "BGMI-maker Krafton eyes AI over gaming as investments touch $900 million in India",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/krafton-india-bgmi-krafton-investments-indian-startups-venture-capital-ai-consumer-internet-vc-funds-11786540250124.html",
+    "published_at": "2026-08-14T00:33:55Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "BGMI开发商Krafton在印投资达9亿美元，重心从游戏转向AI",
+    "summary_zh": "韩国游戏公司Krafton（《绝地求生》手游BGMI开发商）在印度的累计投资已增至9亿美元，但战略重心正从游戏业务转向人工智能领域。公司已投资多家印度AI初创，涵盖内容生成、语音技术和企业解决方案。Krafton表示看好印度AI人才和市场潜力，计划进一步扩大布局，显示游戏巨头正积极转型为科技投资集团。",
+    "category": "industry"
+  },
+  {
+    "id": "ec5f0c7785ed86560637b2435b632d56",
+    "title_en": "Xenco Medical introduces XenVision at SIGGRAPH 2026",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/article/xenco-medical-introduces-xenvision-at-siggraph-2026/",
+    "published_at": "2026-08-14T00:30:22Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "Xenco Medical在SIGGRAPH 2026大会上发布XenVision",
+    "summary_zh": "医疗科技公司Xenco Medical在SIGGRAPH 2026大会上推出全新产品XenVision，该技术结合先进视觉计算与医学影像处理，旨在提升手术规划和诊断精度。XenVision利用AI增强现实和3D可视化，帮助医生更直观地理解患者解剖结构。此次发布标志着医疗与计算机图形学的深度融合，有望推动精准医疗发展。",
+    "category": "product"
+  },
+  {
+    "id": "1503e38ee7c500e1b10dfa4b09899df6",
+    "title_en": "In Santana de Parnaíba, São Paulo beat Santos in Paulistão F",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/in-santana-de-parnaiba-sao-paulo-beat-santos-in-paulistao-f-43273834",
+    "published_at": "2026-08-14T00:30:00Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "圣保罗州锦标赛：桑塔纳-德帕尔纳伊巴队击败桑托斯队",
+    "summary_zh": "在巴西圣保罗州足球锦标赛（Paulistão）的一场比赛中，来自桑塔纳-德帕尔纳伊巴的球队战胜了传统劲旅桑托斯队。这场比赛结果出乎意料，引发球迷热议。文章报道了比赛关键进球和战术亮点，并分析了弱队爆冷的原因，包括主场优势和对手轮换阵容。此结果对小组排名产生重要影响。",
+    "category": "industry"
+  },
+  {
+    "id": "8b19a08895d1e026b3c1c85ab4f4a5ae",
+    "title_en": "Alberta's government to study ability of province's water supply to support population, economic growth",
+    "source": "CBC News",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-water-security-study-9.7306756",
+    "published_at": "2026-08-14T00:22:38Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "阿尔伯塔省政府将研究本省水资源对人口与经济增长的支撑能力",
+    "summary_zh": "阿尔伯塔省政府宣布启动一项研究，评估本省水资源能否支撑未来人口增长和经济发展。该研究将分析水资源储量、使用需求及可持续性，为政策制定提供依据。此举旨在平衡资源开发与环境保护，确保长期供水安全。",
+    "category": "industry"
+  },
+  {
+    "id": "470c49411fb4fccd19a339f0ce749315",
+    "title_en": "Al boom mints new winners you've never heard of",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/c4093cd783d133b4",
+    "published_at": "2026-08-14T00:20:49Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "AI热潮催生一批你从未听过的新赢家",
+    "summary_zh": "随着人工智能热潮持续升温，一批此前默默无闻的公司迅速崛起，成为行业新贵。这些企业专注于AI基础设施、数据服务或垂直应用，虽不为人熟知，却已获得巨额投资和市场关注。它们正在重塑AI产业链格局，挑战传统科技巨头的主导地位。",
+    "category": "industry"
+  },
+  {
+    "id": "391c409beaa3dd69745d25dca62e26ce",
+    "title_en": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
+    "published_at": "2026-08-14T00:09:11Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "从苹果到福特：中国科技为何让全球企业越来越难以忽视",
+    "summary_zh": "中国科技企业在人工智能、电动汽车和供应链领域的技术创新日益强大，从苹果到福特等全球巨头都开始依赖或合作。中国科技不再只是低成本制造，而是成为关键技术和解决方案的提供者。这一趋势正在改变全球科技产业格局，促使跨国企业重新评估其战略。",
+    "category": "industry"
+  },
+  {
+    "id": "dad181e3e37144c58f101b51aba92a12",
+    "title_en": "Ex-JAMB registrar tasks Kwara varsities on solutions to socio-economic challenges",
+    "source": "The Punch",
+    "url": "https://punchng.com/ex-jamb-registrar-tasks-kwara-varsities-on-solutions-to-socio-economic-challenges/",
+    "published_at": "2026-08-14T00:05:13Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "前JAMB注册主任要求夸拉州大学提供社会经济挑战解决方案",
+    "summary_zh": "前联合招生与入学注册委员会（JAMB）注册主任呼吁夸拉州各大学积极研究并解决当地社会经济问题。他强调高校应发挥智力优势，与政府和企业合作，提出切实可行的方案，推动区域发展和民生改善。此举旨在加强大学与社会需求的联系。",
+    "category": "research"
+  },
+  {
+    "id": "cac80678706bc5710180953d212da953",
+    "title_en": " Neymar makes the difference, Santos rally to lead Macará",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/neymar-makes-the-difference-santos-rally-to-lead-macara-43273792",
+    "published_at": "2026-08-14T00:03:00Z",
+    "fetched_at": "2026-08-15T00:41:32.792Z",
+    "title_zh": "内马尔关键表现，桑托斯逆转领先马卡拉",
+    "summary_zh": "在足球比赛中，内马尔发挥关键作用，帮助桑托斯队实现逆转，暂时领先马卡拉队。他的出色表现成为比赛转折点，展现了个人技术和领导力。这场胜利对桑托斯在赛事中的排名和士气有积极影响。",
+    "category": "product"
   },
   {
     "id": "b29ef0aecc177f3ccb3c0776c346b4a5",
@@ -5321,182 +5497,6 @@
     "fetched_at": "2026-08-08T18:23:14.900Z",
     "title_zh": "亚马逊数据中心或成美国最严重污染源",
     "summary_zh": "据The Verge报道，亚马逊一处数据中心可能配备美国污染最严重的发电厂。该设施依赖化石燃料发电，排放强度极高，引发环保担忧。随着AI算力需求激增，科技巨头的数据中心能耗和碳排放问题日益严峻，此举或加剧公众对大型科技公司环境责任的质疑。",
-    "category": "industry"
-  },
-  {
-    "id": "7345f243dd9688df8660862aa3c734a1",
-    "title_en": "Buc-ee’s dodges John Oliver to sue another small business",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-    "published_at": "2026-08-08T15:47:30.000Z",
-    "fetched_at": "2026-08-08T18:23:14.900Z",
-    "title_zh": "Buc-ee's避开John Oliver，转而起诉另一家小企业",
-    "summary_zh": "美国连锁便利店Buc-ee's在避免与喜剧演员John Oliver的法律纠纷后，转而起诉另一家小企业。该公司以积极维护商标权著称，此次诉讼针对一家名称相似的小型商家，引发关于大企业滥用知识产权打压小企业的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "3f769e0953eb36fbee0b5d3ccfa00602",
-    "title_en": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-    "published_at": "2026-08-08T15:00:00.000Z",
-    "fetched_at": "2026-08-08T18:23:14.900Z",
-    "title_zh": "音乐人兼企业家Tom Vek打造数字音乐播放器，但拒绝被称复古",
-    "summary_zh": "音乐人兼企业家Tom Vek正在开发一款新型数字音乐播放器，强调其现代设计而非复古风格。该设备旨在提供更纯粹的音乐体验，避开智能手机的干扰。Vek表示，产品将结合现代技术，满足对专注聆听有需求的用户，但拒绝将其归类为怀旧产品。",
-    "category": "product"
-  },
-  {
-    "id": "e239ee8290c938922fb6cc979b53cc34",
-    "title_en": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
-    "published_at": "2026-08-08T14:03:58.000Z",
-    "fetched_at": "2026-08-08T18:23:15.585Z",
-    "title_zh": "人口普查提案拟停止统计无证移民，并忽略种族与性取向",
-    "summary_zh": "美国一项新的人口普查提案引发争议，该提案计划不再统计无证移民，并取消关于种族和性取向的问题。批评者认为，此举将导致数据失真，影响资源分配和政策制定，尤其对少数族裔和LGBTQ+群体不利。支持者则称可简化流程并节省成本。该提案正面临公众审查。",
-    "category": "industry"
-  },
-  {
-    "id": "55be1ff8617a0b2d05543e4796531360",
-    "title_en": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
-    "published_at": "2026-08-08T13:00:00.000Z",
-    "fetched_at": "2026-08-08T18:23:15.585Z",
-    "title_zh": "史上最清晰太阳图像揭示隐藏现象",
-    "summary_zh": "科学家利用先进望远镜拍摄到迄今最清晰的太阳表面图像，揭示了此前未被观测到的精细结构，如等离子体流动和微小磁活动。这些发现有助于深入理解太阳活动及其对地球空间天气的影响。该图像为太阳物理研究提供了宝贵数据，或将推动对恒星行为的全新认识。",
-    "category": "research"
-  },
-  {
-    "id": "41fd37f64437332a85a8b5ac8e78a0bb",
-    "title_en": "He-Man and the Masters of the Universe #6 Preview: Skeletor Grows",
-    "source": "Bleeding Cool News",
-    "url": "https://bleedingcool.com/comics/he-man-and-the-masters-of-the-universe-6-preview-skeletor-grows/",
-    "published_at": "2026-08-08T12:26:10Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "《宇宙的巨人希曼》第 6 期预览：骷髅王成长记",
-    "summary_zh": "《宇宙的巨人希曼》漫画第 6 期预览发布，本期聚焦反派骷髅王的成长故事。剧情将深入探索骷髅王的背景与动机，展现其力量与野心的演变。漫画延续了经典动画的风格，同时加入新的叙事元素，为老粉丝和新读者带来新鲜体验。",
-    "category": "industry"
-  },
-  {
-    "id": "93fbc0e280714d439006e44fd5ed2748",
-    "title_en": "A Tome of Forbidden Technologies",
-    "source": "Ecosophia.net",
-    "url": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
-    "published_at": "2026-08-08T12:19:10Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "禁忌技术之书",
-    "summary_zh": "本文探讨了历史上被视为禁忌或危险的技术领域，分析其背后的社会、伦理和哲学原因。作者通过回顾这些被压制的技术案例，反思人类对创新的恐惧与限制，并提出在当代 AI 快速发展的背景下，如何平衡技术进步与风险管控的思考。",
-    "category": "research"
-  },
-  {
-    "id": "d2105c59e9cc7206374297812b45d38e",
-    "title_en": "iPhone 17 Prices Could Rise as Soon as Monday, New Rumor Claims Ahead of Chip Shortage Fallout",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/apple-iphone-17-price-increase-chip-shortage-1873778",
-    "published_at": "2026-08-08T12:09:15Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "新传闻：iPhone 17 价格或于周一上涨，芯片短缺影响显现",
-    "summary_zh": "据最新传闻，iPhone 17 系列价格可能最早于周一上调，原因是全球芯片短缺导致供应链成本上升。分析师预计，苹果可能将成本转嫁给消费者，影响高端机型售价。此举或引发市场对智能手机行业整体涨价的担忧，消费者需关注官方动态。",
-    "category": "industry"
-  },
-  {
-    "id": "2dcf538e40fc5f81cb721e41f2d00fde",
-    "title_en": "Energy Vault Announces Strategic Agreement to Deploy 1.25 GW of Integrated Power Infrastructure for Hyperscaler AI Data Center with Leading Power Generation EPC Deploying Caterpillar Gensets",
-    "source": "Onlinenews9.in",
-    "url": "https://onlinenews9.in/business/energy-vault-announces-strategic-agreement-to-deploy-1-25-gw-of-integrated-power-infrastructure-for-hyperscaler-ai-data-center-with-leading-power-generation-epc-deploying-caterpillar-gensets/",
-    "published_at": "2026-08-08T12:01:37Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "Energy Vault 签署战略协议，为超大规模 AI 数据中心部署 1.25 GW 综合电力基础设施",
-    "summary_zh": "Energy Vault 宣布与领先电力工程公司达成战略合作，为超大规模 AI 数据中心部署 1.25 吉瓦的综合电力基础设施，采用 Caterpillar 发电机组。该项目旨在解决 AI 算力扩张带来的巨大能源需求，结合储能与发电技术，确保数据中心稳定供电。此举标志着 AI 基础设施与能源产业的深度融合。",
-    "category": "industry"
-  },
-  {
-    "id": "c6b1b66f89436be4102940fea0c02d5f",
-    "title_en": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
-    "published_at": "2026-08-08T12:00:01Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "电梯巨头奥的斯欲在波动市场中成为防御性投资标的，但需先证明自身价值",
-    "summary_zh": "电梯制造商奥的斯希望在市场波动中定位为防御性股票，凭借其稳定的现金流和全球维护业务吸引投资者。然而，分析师指出，公司需在增长潜力和数字化转型方面展现更多成果，以说服市场其估值合理。奥的斯正面临建筑行业周期性和竞争加剧的挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "194009efac9bfe97d6835afa6cd8768b",
-    "title_en": "Is this $450 laptop from an unknown brand too good to be true?",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-    "published_at": "2026-08-08T12:00:00.000Z",
-    "fetched_at": "2026-08-08T12:27:33.946Z",
-    "title_zh": "这款450美元的无名品牌笔记本电脑，真的靠谱吗？",
-    "summary_zh": "一款售价仅450美元、来自不知名品牌的笔记本电脑引发关注。其配置看似诱人，但消费者需警惕潜在的质量、售后及安全隐患。在低价诱惑下，建议仔细核查品牌信誉、用户评价及硬件规格，避免因贪图便宜而遭遇性能缩水或数据风险。",
-    "category": "product"
-  },
-  {
-    "id": "5194bf84fbb4fdf954b366c38ad4fc59",
-    "title_en": "My favorite feel-good show is back",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-    "published_at": "2026-08-08T12:00:00.000Z",
-    "fetched_at": "2026-08-08T12:27:33.946Z",
-    "title_zh": "我最爱的治愈系剧集回归了",
-    "summary_zh": "备受观众喜爱的治愈系剧集宣布回归，带来熟悉的温暖与感动。该剧以其轻松愉快的氛围和积极向上的故事线著称，成为许多观众放松心情的首选。新一季预计延续原有风格，并加入新元素，满足老粉丝期待的同时吸引新观众。",
-    "category": "product"
-  },
-  {
-    "id": "ad9ea598862e3cfde814f824f61e1c1e",
-    "title_en": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
-    "published_at": "2026-08-08T12:00:00.000Z",
-    "fetched_at": "2026-08-08T12:27:34.253Z",
-    "title_zh": "SpaceX火箭在月球留下的撞击坑首批图像公布",
-    "summary_zh": "科学家公布了SpaceX火箭残骸撞击月球后留下的双坑图像，这是首次观测到此类撞击。2022年3月，一枚废弃的猎鹰9号火箭上级按预期撞击月球背面，形成两个重叠的陨石坑。图像由月球勘测轨道飞行器拍摄，有助于研究月球地质和撞击过程。该事件也引发关于太空垃圾管理的讨论，但科学家认为此次撞击提供了难得的科学数据。",
-    "category": "research"
-  },
-  {
-    "id": "f6b0693ee070450b811bc4d7b3e30988",
-    "title_en": "Peace is a turning point in terms of changing the economic and investment environment in our country. The Prime Minister attends the official opening of the Firebird AI factory",
-    "source": "Globalsecurity.org",
-    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260808-armenia-pm02.htm",
-    "published_at": "2026-08-08T12:00:00Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "总理出席 Firebird AI 工厂开幕，称和平是改变国家经济与投资环境的转折点",
-    "summary_zh": "总理在 Firebird AI 工厂开幕仪式上表示，和平是实现国家经济与投资环境转变的关键转折点。该 AI 工厂的建立旨在推动本土人工智能产业发展，吸引外资并促进技术升级。政府强调将利用和平红利，打造有利于创新和商业增长的环境，为未来经济多元化奠定基础。",
-    "category": "industry"
-  },
-  {
-    "id": "e773b827c3b131bd74a5c0250d299991",
-    "title_en": "Drew Brees became an NFL Hall of Famer with his brain as much as his arm",
-    "source": "SB Nation",
-    "url": "https://www.sbnation.com/nfl/1123970/drew-brees-nfl-hall-of-fame-best-moments-career-retrospective",
-    "published_at": "2026-08-08T12:00:00Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "德鲁·布里斯入选 NFL 名人堂：靠的不只是手臂，更是头脑",
-    "summary_zh": "前 NFL 四分卫德鲁·布里斯凭借其卓越的战术理解和场上决策能力入选名人堂，而不仅仅是出色的传球技术。文章回顾了他的职业生涯，强调其阅读防守、调整战术的智慧，以及领导力如何影响比赛。布里斯证明了顶级运动员的成功离不开智力和策略。",
-    "category": "industry"
-  },
-  {
-    "id": "915a355cdeda505e3e407e3389599b59",
-    "title_en": "Rent a boyfriend: Hyderabad police commissioner cautions women over dating scam",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/rent-a-boyfriend-hyderabad-police-commissioner-cautions-women-over-dating-scam/articleshow/133051947.cms",
-    "published_at": "2026-08-08T11:56:23Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "海得拉巴警方提醒女性警惕“租男友”约会骗局",
-    "summary_zh": "印度海得拉巴警察局长就“租男友”服务发出警告，提醒女性防范此类约会骗局。不法分子利用社交平台提供虚假陪伴服务，诱导受害者转账或泄露个人信息。警方呼吁公众提高警惕，避免陷入情感和财务陷阱，并建议遇到可疑情况及时报案。",
-    "category": "industry"
-  },
-  {
-    "id": "f879f5586bb9e58d38f069b33bf02e5b",
-    "title_en": " Breaking: Ferran Torres chooses to join PSG",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/breaking-ferran-torres-chooses-to-join-psg-43247030",
-    "published_at": "2026-08-08T11:54:00Z",
-    "fetched_at": "2026-08-09T12:30:20.277Z",
-    "title_zh": "突发：费兰·托雷斯选择加盟巴黎圣日耳曼",
-    "summary_zh": "据可靠消息，西班牙前锋费兰·托雷斯已决定加盟巴黎圣日耳曼。这一转会传闻引发足坛关注，托雷斯的加盟将增强 PSG 的进攻线。目前转会细节尚未完全公布，但预计将涉及高额转会费。球迷和媒体正等待官方确认。",
     "category": "industry"
   }
 ]
