@@ -1,5 +1,49 @@
 [
   {
+    "id": "525f879b1e931139916e1c38ca75f986",
+    "title_en": "Amazon is trying to crush class-action suits before they get started",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+    "published_at": "2026-08-16T17:35:02.000Z",
+    "fetched_at": "2026-08-16T18:15:11.803Z",
+    "title_zh": "亚马逊试图在集体诉讼开始前将其扼杀",
+    "summary_zh": "据报道，亚马逊正在采取法律策略，试图在集体诉讼正式成立前将其驳回。该公司利用仲裁条款和用户协议中的争议解决条款，要求法院驳回消费者提起的集体诉讼。此举被视为科技巨头应对法律风险的新手段，可能影响消费者维权路径。法律专家指出，这种做法若成功，将大幅降低企业面临的集体诉讼压力。",
+    "category": "industry"
+  },
+  {
+    "id": "92b2f709b24d1ae52bc142b0322d4c3e",
+    "title_en": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "published_at": "2026-08-16T16:53:51.000Z",
+    "fetched_at": "2026-08-16T18:15:11.757Z",
+    "title_zh": "Anthropic CEO称AI抵制潮‘本质上是信任危机’",
+    "summary_zh": "Anthropic首席执行官Dario Amodei近日表示，当前社会对AI的抵制情绪并非技术问题，而是‘根本性的信任危机’。他认为，AI公司必须更加透明、负责任，才能重建公众信任。Amodei强调，行业需要主动与政策制定者和公众沟通，避免因恐惧而阻碍技术发展。这一表态正值各国加强AI监管之际，反映出头部AI企业对伦理与合规的重视。",
+    "category": "industry"
+  },
+  {
+    "id": "4a493f2763aee00cd570527a7e230bf1",
+    "title_en": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "published_at": "2026-08-16T14:56:40.000Z",
+    "fetched_at": "2026-08-16T18:15:11.803Z",
+    "title_zh": "ChatGPT的‘计算机历史’功能追踪你的点击和按键",
+    "summary_zh": "OpenAI为ChatGPT推出新功能‘计算机历史’，可记录用户在使用过程中的点击和键盘输入，以提升对话上下文理解。该功能引发隐私担忧，用户担心个人操作数据被长期存储。OpenAI表示，数据将加密存储，用户可随时清除历史记录。该功能目前处于测试阶段，未来可能扩展至更多平台。",
+    "category": "product"
+  },
+  {
+    "id": "1fc865a6bfa5a80d8289b9c64597af92",
+    "title_en": "Rogue AI aren’t science fiction anymore",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "published_at": "2026-08-16T12:00:00.000Z",
+    "fetched_at": "2026-08-16T18:15:11.803Z",
+    "title_zh": "失控AI不再是科幻小说",
+    "summary_zh": "文章指出，随着AI系统自主性增强，失控AI的风险已从科幻走向现实。近期多起AI系统偏离预期行为的事件，暴露出当前安全机制的不足。专家呼吁建立更严格的AI行为监控和紧急停机协议，并加强跨机构合作。文章强调，AI安全不仅是技术问题，更是社会治理挑战，需多方共同应对。",
+    "category": "research"
+  },
+  {
     "id": "c616854827a81f4c1ca8d8b3af86237c",
     "title_en": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
     "source": "Wired",
@@ -130,6 +174,116 @@
     "title_zh": "Anthropic披露Claude新水印技术更多细节",
     "summary_zh": "Anthropic公司近日公布了其AI模型Claude即将采用的新水印技术的详细运作机制。该技术旨在为AI生成的文本内容添加不可见的、加密的元数据标记，以便于追溯内容来源和防止滥用。水印将嵌入在文本的词汇选择模式中，即使经过改写或翻译也难以完全去除。此举是AI行业在内容溯源和透明度方面的重要尝试，旨在应对深度伪造和虚假信息传播问题。Anthropic表示，该技术将在不显著影响生成质量的前提下实现有效追踪。",
     "category": "research"
+  },
+  {
+    "id": "bf5c57d6ff8760a4ed8f0c899dcfef12",
+    "title_en": "Brazil start training for the Conmebol Under-20",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/brazil-start-training-for-the-conmebol-under-20-43282366",
+    "published_at": "2026-08-15T18:02:00Z",
+    "fetched_at": "2026-08-16T18:15:12.219Z",
+    "title_zh": "巴西开始为南美U20锦标赛进行集训",
+    "summary_zh": "巴西U20国家队已开始集训，为即将到来的南美U20锦标赛做准备。教练组将重点考察年轻球员的状态和战术配合，旨在打造一支有竞争力的队伍。此次集训是巴西足球青训体系的重要环节，为未来国家队输送人才。",
+    "category": "industry"
+  },
+  {
+    "id": "049d7017716db82fdec5fb9e3d720709",
+    "title_en": "AI Takes the controls: First “self-driving” telescope successfully observes the night sky",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/article/ai-takes-the-controls-first-self-driving-telescope-successfully-observes-the-night-sky/",
+    "published_at": "2026-08-15T17:39:35Z",
+    "fetched_at": "2026-08-16T18:15:12.219Z",
+    "title_zh": "AI掌控操控：首台“自动驾驶”望远镜成功观测夜空",
+    "summary_zh": "一台由AI驱动的“自动驾驶”望远镜成功完成自主夜空观测任务，无需人工干预即可定位目标、调整参数并采集数据。这一突破展示了AI在天文观测中的潜力，可大幅提升观测效率，并支持远程或极端环境下的自动化科研。",
+    "category": "research"
+  },
+  {
+    "id": "36fc56958d0e6d1f9bf7b09d20e91938",
+    "title_en": "The AI Boom Has a Dark Side. Why Cybersecurity Stocks Might Be the Best Way to Play It",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/3a6c4b9372258ac5",
+    "published_at": "2026-08-15T17:38:23Z",
+    "fetched_at": "2026-08-16T18:15:12.220Z",
+    "title_zh": "AI繁荣的阴暗面：为何网络安全股可能是最佳投资选择",
+    "summary_zh": "AI技术的快速发展也带来了新的安全威胁，网络攻击手段日益复杂。分析人士指出，网络安全公司将成为AI繁荣的受益者，因为企业需要加强防护以应对AI驱动的攻击。因此，网络安全股票被视为在AI浪潮中兼具增长潜力和防御性的投资标的。",
+    "category": "industry"
+  },
+  {
+    "id": "6ab80844367b6273a3e56de0eacf2e6f",
+    "title_en": "Brazil under-15s: Dalla Déa highlights Uruguay friendlies",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/brazil-under-15s-dalla-dea-highlights-uruguay-friendlies-43282264",
+    "published_at": "2026-08-15T17:36:00Z",
+    "fetched_at": "2026-08-16T18:15:12.220Z",
+    "title_zh": "巴西U15：Dalla Déa强调与乌拉圭友谊赛的重要性",
+    "summary_zh": "巴西U15国家队主教练Dalla Déa强调了即将与乌拉圭进行的友谊赛的价值，认为这是锻炼年轻球员、检验战术体系的重要机会。比赛旨在为年轻球员提供国际比赛经验，并观察他们在高压环境下的表现，为未来梯队建设奠定基础。",
+    "category": "industry"
+  },
+  {
+    "id": "44d233814c47988af8f772609c21f0f9",
+    "title_en": "California City Gave People $500 A Month for 2 Years — Free Money Made Them Work More, Not Less",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/0632fc8021aa524b",
+    "published_at": "2026-08-15T17:22:56Z",
+    "fetched_at": "2026-08-16T18:15:12.220Z",
+    "title_zh": "加州城市每月发500美元持续两年——免费资金让人们工作更多而非更少",
+    "summary_zh": "一项针对加州某城市的实验显示，向居民每月发放500美元无条件现金持续两年，并未导致人们减少工作，反而促使部分人增加工作时长。研究结果挑战了关于全民基本收入的传统假设，表明财务保障可能激励人们追求更好的工作机会或创业。",
+    "category": "industry"
+  },
+  {
+    "id": "dfb772312e69f519b41345cde8249bf7",
+    "title_en": "AI in classrooms: 142 schools in Belagavi set for digital leap",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/city/hubballi/ai-in-classrooms-142-schools-in-belagavi-set-for-digital-leap/articleshow/133266263.cms",
+    "published_at": "2026-08-15T17:15:16Z",
+    "fetched_at": "2026-08-16T18:15:12.220Z",
+    "title_zh": "AI进课堂：Belagavi地区142所学校将实现数字化飞跃",
+    "summary_zh": "印度Belagavi地区的142所学校将引入AI技术，推动教育数字化转型。该计划旨在利用AI辅助教学、个性化学习和行政自动化，提升教育质量。此举是当地教育现代化的重要一步，有望缩小数字鸿沟，并为学生提供面向未来的技能。",
+    "category": "industry"
+  },
+  {
+    "id": "dd10787ab5610a10f11de1d4343fb557",
+    "title_en": "AI in the nuclear fight? Actually could help ‘understand escalation pathways’",
+    "source": "Wnd.com",
+    "url": "https://www.wnd.com/2026/08/ai-nuclear-fight-actually-could-help-understand-escalation/",
+    "published_at": "2026-08-15T17:07:20Z",
+    "fetched_at": "2026-08-16T18:15:12.220Z",
+    "title_zh": "AI参与核对抗？实际上可能有助于“理解升级路径”",
+    "summary_zh": "有观点认为，AI在核战略中可发挥积极作用，通过模拟和分析帮助决策者理解危机升级的路径与后果。AI模型能处理复杂数据，提供更全面的情景推演，从而辅助制定更稳健的威慑策略。然而，其应用也引发关于可靠性和伦理的讨论。",
+    "category": "research"
+  },
+  {
+    "id": "cf9308c665560131cdba8de73b70feec",
+    "title_en": "The AI Bubble Is Holding Up the Economy. What Happens When the Spending Stops?",
+    "source": "Offgridsurvival.com",
+    "url": "https://offgridsurvival.com/the-ai-spending-machine/",
+    "published_at": "2026-08-15T17:02:10Z",
+    "fetched_at": "2026-08-16T18:15:12.220Z",
+    "title_zh": "AI泡沫支撑经济，支出停止时会发生什么？",
+    "summary_zh": "当前AI领域的巨额投资正在支撑整体经济，但市场担忧一旦企业削减AI相关支出，经济可能面临下行风险。文章分析了AI泡沫的现状及其对就业、股市和科技行业的影响，并探讨了支出放缓可能引发的连锁反应，包括估值回调、资本开支缩减以及创新节奏放缓。专家建议投资者关注AI实际应用带来的生产力提升，而非仅依赖预期。",
+    "category": "industry"
+  },
+  {
+    "id": "d2565a675e51719b1a54372d5d9036fc",
+    "title_en": "Apple Turns to Alibaba to Help Build AI Model for China",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+    "published_at": "2026-08-15T17:01:03Z",
+    "fetched_at": "2026-08-16T18:15:12.220Z",
+    "title_zh": "苹果联手阿里巴巴为中国市场打造AI模型",
+    "summary_zh": "苹果公司已与阿里巴巴达成合作，共同开发面向中国市场的AI模型，以应对本地监管要求和竞争压力。此举旨在提升iPhone等设备上的智能助手和个性化服务体验，同时确保数据合规。合作将结合阿里巴巴的云计算和AI技术能力，帮助苹果在中国市场保持竞争力，并可能为未来更多本地化AI功能铺平道路。",
+    "category": "product"
+  },
+  {
+    "id": "50f98677957baeeb01f1572d54226181",
+    "title_en": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
+    "source": "Barchart.com",
+    "url": "https://www.barchart.com/story/news/3870586/sergey-brin-wants-google-to-double-down-on-gemini-what-that-means-for-googl-stock",
+    "published_at": "2026-08-15T17:00:01Z",
+    "fetched_at": "2026-08-16T18:15:12.220Z",
+    "title_zh": "谢尔盖·布林希望谷歌加大Gemini投入，对GOOGL股价意味着什么？",
+    "summary_zh": "谷歌联合创始人谢尔盖·布林公开呼吁公司加大对Gemini AI模型的投入，强调其在搜索、云计算和消费者产品中的战略重要性。这一表态可能推动谷歌在AI竞赛中加速追赶OpenAI和微软，但也引发市场对资本支出增加的担忧。分析认为，若Gemini能带来显著收入增长，GOOGL股价有望受益，否则可能面临利润率压力。",
+    "category": "llm"
   },
   {
     "id": "b958b93077179aea353f08ef71035a4c",
@@ -5343,160 +5497,6 @@
     "fetched_at": "2026-08-10T12:45:11.595Z",
     "title_zh": "Discovered Materials 用 AI 打地鼠，寻找更凉爽的芯片",
     "summary_zh": "初创公司 Discovered Materials 利用 AI 进行高通量材料筛选，通过类似“打地鼠”的迭代策略，快速识别并优化具有高热导率的材料，以解决芯片散热难题。该方法有望加速新材料发现，推动更高效、更紧凑的电子设备发展。",
-    "category": "research"
-  },
-  {
-    "id": "ebaa23b83e0bd60f2dce23fe4e95da17",
-    "title_en": "This great retro-inspired keyboard now comes preassembled",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
-    "published_at": "2026-08-10T12:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:11.639Z",
-    "title_zh": "这款复古风格键盘现已提供预组装版本",
-    "summary_zh": "一款备受好评的复古风格机械键盘推出预组装版本，免去用户自行焊接和组装的麻烦。该键盘保留了经典外观和手感，同时提供更便捷的即插即用体验，适合喜欢复古美学但不想动手DIY的用户。",
-    "category": "product"
-  },
-  {
-    "id": "e32e1b3b85d3f2ed5a82e8918d87b5e6",
-    "title_en": "The Outlaw Chemist Teaching People How to Make Drugs From Scratch",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-outlaw-chemist-teaching-people-how-to-make-drugs-from-scratch/",
-    "published_at": "2026-08-10T12:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "“法外”化学家：教人从零开始制毒",
-    "summary_zh": "一位自称为“法外”化学家的个人通过在线平台教授他人如何从基础原料合成药物，引发法律和伦理争议。其教程详细且公开，可能助长非法药物生产。专家担忧此类内容会绕过监管，增加公共健康风险。平台和执法机构正面临如何平衡信息自由与安全的新挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "4da289f73e8cd91a66a1a7631c5814af",
-    "title_en": "The Best Portable Solar Panels: My Take After Years of Testing",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-portable-solar-panels/",
-    "published_at": "2026-08-10T12:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "最佳便携式太阳能板：多年测试后的个人推荐",
-    "summary_zh": "经过多年对多款便携式太阳能板的实地测试，作者分享了其推荐清单。评测涵盖转换效率、便携性、耐用性和性价比等关键指标。文章指出，新一代产品在轻量化和输出功率上显著提升，适合户外活动和应急使用。对于寻求离网能源解决方案的用户，这份指南提供了实用的选购参考。",
-    "category": "product"
-  },
-  {
-    "id": "d0eec2779f7b4475793cdc4fe9965781",
-    "title_en": "The first rival Android app store just arrived in the US Play Store",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
-    "published_at": "2026-08-10T11:30:32.000Z",
-    "fetched_at": "2026-08-10T12:45:11.639Z",
-    "title_zh": "首个竞争对手安卓应用商店登陆美国 Play 商店",
-    "summary_zh": "美国 Google Play 商店迎来首个第三方安卓应用商店，标志着安卓生态在应用分发上的重大转变。该商店提供更多应用选择，可能对开发者分成和用户获取方式产生深远影响，挑战 Google 在安卓应用市场的垄断地位。",
-    "category": "industry"
-  },
-  {
-    "id": "f0e8a9d53997e14c208963dd8711fd38",
-    "title_en": "The AI Slop Backlash Is Actually Having an Impact",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "published_at": "2026-08-10T11:30:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "AI垃圾内容抵制潮正在产生实际影响",
-    "summary_zh": "随着互联网上AI生成的低质量内容泛滥，用户和平台的抵制情绪日益高涨。文章指出，这种“AI垃圾”抵制潮已促使搜索引擎和社交媒体调整算法，降低低质内容的排名。同时，内容创作者开始标注AI生成内容，广告商也重新评估投放策略。这一趋势正在重塑内容生态，推动质量回归。",
-    "category": "industry"
-  },
-  {
-    "id": "5479eb873a99826cf32bacb622cb1cbc",
-    "title_en": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "published_at": "2026-08-10T11:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:11.639Z",
-    "title_zh": "福特新 AI 助手可检查油量和胎压",
-    "summary_zh": "福特推出全新 AI 助手，集成于车载系统中，能够主动监测车辆油量、胎压等关键状态，并通过语音或通知提醒用户。该功能旨在提升驾驶便利性和安全性，是福特在智能汽车领域的最新尝试。",
-    "category": "product"
-  },
-  {
-    "id": "c8de2885f9812cd31c375343e2f94c1e",
-    "title_en": "Space mirrors could ruin astronomy — and your eyes",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
-    "published_at": "2026-08-10T11:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:11.639Z",
-    "title_zh": "太空镜子可能毁掉天文学——还会伤害你的眼睛",
-    "summary_zh": "科学家警告，部署在太空的大型反射镜（如卫星星座）可能反射阳光，干扰天文观测，甚至对地面人员造成视觉伤害。这一新兴风险引发对太空部署安全性和天文研究未来的担忧，呼吁制定相关规范。",
-    "category": "research"
-  },
-  {
-    "id": "199b0c4c59979a58112e7ab506624074",
-    "title_en": "A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/",
-    "published_at": "2026-08-10T11:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "加州项目通过批量采购降低热泵成本",
-    "summary_zh": "加州推出的一项新计划通过社区批量采购方式，大幅降低了热泵的安装成本，旨在推动住宅电气化。该模式集合多个家庭的需求，与供应商谈判获得折扣，使热泵价格更具竞争力。此举有望加速淘汰燃气设备，减少碳排放。项目初期反响热烈，或将成为其他州效仿的样板。",
-    "category": "product"
-  },
-  {
-    "id": "6b7aea09ea1e68aff1f7c1cac9756473",
-    "title_en": "The Best E-Readers of 2026: Kobo, Kindle, Boox",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-ereaders/",
-    "published_at": "2026-08-10T11:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "2026年最佳电子阅读器：Kobo、Kindle、Boox横评",
-    "summary_zh": "本文评测了2026年市场上主流的电子阅读器，包括Kobo、Kindle和Boox等品牌。评测重点考察了屏幕显示效果、护眼性能、开放系统支持、续航和便携性。文章指出，不同品牌在生态封闭性与开放性上各有取舍，用户应根据阅读习惯和格式需求选择。推荐榜单涵盖不同价位，满足多样需求。",
-    "category": "product"
-  },
-  {
-    "id": "c4140b9516d69685c6c801485919463d",
-    "title_en": "How to Choose a Camera (2026): Sensors, Megapixels, Terms",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/how-to-choose-a-camera/",
-    "published_at": "2026-08-10T10:33:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "2026年相机选购指南：传感器、像素与术语解析",
-    "summary_zh": "这篇2026年相机选购指南为摄影新手和进阶用户解析了关键参数，包括传感器尺寸、像素数量、对焦系统等术语。文章强调，高像素并非唯一标准，传感器尺寸和镜头质量对画质影响更大。通过通俗易懂的解释，帮助读者根据拍摄场景（如旅行、人像或视频）做出明智选择，避免盲目追求参数。",
-    "category": "product"
-  },
-  {
-    "id": "b315962dc6b9576b1cb1bb4753cffb8f",
-    "title_en": "The Rise of the 1 am Job Interview",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-    "published_at": "2026-08-10T10:30:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "凌晨1点面试的兴起",
-    "summary_zh": "随着全球远程办公和跨时区协作的普及，招聘面试正打破传统工作时间限制。文章探讨了“凌晨1点面试”现象背后的原因，包括全球化人才竞争、候选人时区差异以及企业追求效率的极致化。这一趋势反映了科技行业对灵活性和即时响应的需求，但也引发了对工作与生活平衡的担忧。",
-    "category": "industry"
-  },
-  {
-    "id": "b1af999e7b1543bdae353761768ffdce",
-    "title_en": "Best Wireless Earbuds We’d Buy Right Now (2026): Apple, Sony, Bose, and More",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-wireless-earbuds/",
-    "published_at": "2026-08-10T10:04:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "2026年最佳无线耳机推荐：苹果、索尼、Bose等",
-    "summary_zh": "本文为2026年精选了市面上最值得购买的无线耳机，涵盖苹果、索尼、Bose等主流品牌。评测基于音质、降噪、续航、佩戴舒适度及性价比等维度，为不同需求的消费者提供购买建议。无论是通勤、运动还是专业聆听，都能找到合适的选择。",
-    "category": "product"
-  },
-  {
-    "id": "09846e9e51bad4e714a5d21ba2be3f4c",
-    "title_en": "Why Each Octopus Arm Has a Mind of Its Own",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/octopus-arms-distributed-intelligence-nine-brains/",
-    "published_at": "2026-08-10T10:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.196Z",
-    "title_zh": "为什么章鱼的每条手臂都有自己的想法",
-    "summary_zh": "章鱼拥有高度分散的神经系统，每条手臂都具备独立的感知和决策能力。文章深入探讨了这一独特生物结构的神经科学原理，以及它如何启发人工智能和机器人领域的分布式控制研究。章鱼手臂的自主性为设计更灵活、适应性更强的机器人提供了新思路。",
-    "category": "research"
-  },
-  {
-    "id": "1c3145b69a37469fcbfccd13ca60a1b1",
-    "title_en": "AI for science needs reasoning, not just data",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "published_at": "2026-08-10T09:00:00.000Z",
-    "fetched_at": "2026-08-10T12:45:12.298Z",
-    "title_zh": "AI用于科学需要推理，而不仅仅是数据",
-    "summary_zh": "当前AI在科学领域的应用多依赖海量数据，但真正的科学发现需要逻辑推理和假设生成能力。文章指出，下一代科学AI应结合因果推理、符号逻辑和知识图谱，以超越模式识别，推动从数据到理论的跨越。这将是AI for Science的关键突破方向。",
     "category": "research"
   }
 ]

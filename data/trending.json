@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-16",
-      "summary_zh": "今日GitHub热门项目涵盖AI训练与推理、开源视频剪辑替代、Linux系统、API集合、低代码平台及微型设备模型，展现AI与开发工具多元化创新趋势。",
+      "summary_zh": "今日GitHub热门项目聚焦AI模型训练与本地运行、开源视频剪辑替代方案、免费API集合、企业应用构建平台，以及面向微型设备的轻量级基础模型，展现多元技术生态。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/public-apis/public-apis",
           "description_en": "A collective list of free APIs",
           "language": "Python",
-          "stars_total": 460840,
-          "stars_today": 2260,
+          "stars_total": 461349,
+          "stars_today": 1583,
           "description_zh": "免费API的集合列表"
         },
         {
@@ -20,39 +20,39 @@
           "url": "https://github.com/cordiverse/cordis",
           "description_en": "Meta-Framework of Spatiotemporal Composability",
           "language": "TypeScript",
-          "stars_total": 4423,
-          "stars_today": 599,
+          "stars_total": 4609,
+          "stars_today": 719,
           "description_zh": "时空组合性的元框架"
         },
         {
           "rank": 3,
-          "name": "cactus-compute/needle",
-          "url": "https://github.com/cactus-compute/needle",
-          "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-          "language": "Python",
-          "stars_total": 6279,
-          "stars_today": 547,
-          "description_zh": "适用于微型设备（手机、可穿戴设备、智能家居和机器人）的14MB基础模型。"
-        },
-        {
-          "rank": 4,
-          "name": "ToolJet/ToolJet",
-          "url": "https://github.com/ToolJet/ToolJet",
-          "description_en": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-          "language": "JavaScript",
-          "stars_total": 39739,
-          "stars_today": 544,
-          "description_zh": "ToolJet是ToolJet AI的开源基础——用于构建内部工具、仪表板、业务应用、工作流和AI代理的企业应用生成平台🚀"
-        },
-        {
-          "rank": 5,
           "name": "unslothai/unsloth",
           "url": "https://github.com/unslothai/unsloth",
           "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
           "language": "Python",
-          "stars_total": 72259,
-          "stars_today": 434,
+          "stars_total": 72424,
+          "stars_today": 580,
           "description_zh": "本地UI，用于运行和训练LLM及扩散模型，包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。"
+        },
+        {
+          "rank": 4,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars_total": 6445,
+          "stars_today": 447,
+          "description_zh": "适用于微型设备（手机、可穿戴设备、智能家居和机器人）的14MB基础模型。"
+        },
+        {
+          "rank": 5,
+          "name": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "description_en": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+          "language": "JavaScript",
+          "stars_total": 39881,
+          "stars_today": 446,
+          "description_zh": "ToolJet是ToolJet AI的开源基础——用于构建内部工具、仪表板、业务应用、工作流和AI代理的企业应用生成平台🚀"
         },
         {
           "rank": 6,
@@ -60,7 +60,7 @@
           "url": "https://github.com/basecamp/omarchy",
           "description_en": "Beautiful, Modern & Opinionated Linux",
           "language": "Shell",
-          "stars_total": 25083,
+          "stars_total": 25257,
           "stars_today": 225,
           "description_zh": "美观、现代且固执己见的Linux"
         },
@@ -70,19 +70,9 @@
           "url": "https://github.com/OpenCut-app/OpenCut",
           "description_en": "The open-source CapCut alternative",
           "language": "TypeScript",
-          "stars_total": 83524,
+          "stars_total": 83719,
           "stars_today": 134,
           "description_zh": "开源的CapCut替代品"
-        },
-        {
-          "rank": 8,
-          "name": "akitaonrails/ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "language": "Rust",
-          "stars_total": 1539,
-          "stars_today": 41,
-          "description_zh": "为代理编码CLI提供长期记忆的解决方案，并促进不同代理供应商之间的交接"
         }
       ]
     },
