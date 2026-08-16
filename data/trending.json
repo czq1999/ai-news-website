@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-08-16",
+      "summary_zh": "今日GitHub热门涵盖AI模型轻量化、本地训练与部署、API聚合、开发工具及隐私检测等方向，聚焦效率提升与边缘计算创新。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description_en": "A collective list of free APIs",
+          "language": "Python",
+          "stars_total": 460169,
+          "stars_today": 2260,
+          "description_zh": "免费API的集合列表"
+        },
+        {
+          "rank": 2,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "language": "HTML",
+          "stars_total": 18613,
+          "stars_today": 1607,
+          "description_zh": "适用于Claude Code的29种编辑图表类型。自包含HTML+SVG。无阴影，无Mermaid风格。"
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars_total": 129197,
+          "stars_today": 892,
+          "description_zh": "💫 帮助您开始规范驱动开发的工具包"
+        },
+        {
+          "rank": 4,
+          "name": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "description_en": "Meta-Framework of Spatiotemporal Composability",
+          "language": "TypeScript",
+          "stars_total": 4070,
+          "stars_today": 599,
+          "description_zh": "时空组合性的元框架"
+        },
+        {
+          "rank": 5,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars_total": 6065,
+          "stars_today": 547,
+          "description_zh": "适用于微型设备（手机、可穿戴设备、智能家居和机器人）的14MB基础模型。"
+        },
+        {
+          "rank": 6,
+          "name": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "language": "JavaScript",
+          "stars_total": 10960,
+          "stars_today": 545,
+          "description_zh": "面向AI代理运行浏览器自动化的最快浏览器，专为与您的AI代理（如Codex或Claude Code）共享登录浏览器状态而设计，不会打扰您。零成本，零配置。"
+        },
+        {
+          "rank": 7,
+          "name": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "description_en": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+          "language": "JavaScript",
+          "stars_total": 39537,
+          "stars_today": 544,
+          "description_zh": "ToolJet是ToolJet AI的开源基础——用于构建内部工具、仪表板、业务应用、工作流和AI代理的企业应用生成平台🚀"
+        },
+        {
+          "rank": 8,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "language": "Python",
+          "stars_total": 72048,
+          "stars_today": 434,
+          "description_zh": "本地UI，用于运行和训练LLM及扩散模型，包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。"
+        },
+        {
+          "rank": 9,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description_en": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+          "language": "Python",
+          "stars_total": 13116,
+          "stars_today": 382,
+          "description_zh": "holehe允许您检查邮箱是否在Twitter、Instagram等不同网站上被使用，并通过忘记密码功能检索网站上的信息。"
+        },
+        {
+          "rank": 10,
+          "name": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "description_en": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+          "language": "Python",
+          "stars_total": 1660,
+          "stars_today": 297,
+          "description_zh": "通过一个YAML文件微调LLM。分层流式训练可在4GB笔记本GPU上训练8B模型。"
+        },
+        {
+          "rank": 11,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description_en": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars_total": 2950,
+          "stars_today": 149,
+          "description_zh": "Cursor插件规范及官方插件"
+        },
+        {
+          "rank": 12,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 47352,
+          "stars_today": 118,
+          "description_zh": "\"CLI-Anything：让所有软件成为代理原生\" -- CLI-Hub: https://clianything.cc/"
+        },
+        {
+          "rank": 13,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+          "language": "Swift",
+          "stars_total": 10327,
+          "stars_today": 104,
+          "description_zh": "最快且唯一的macOS听写应用，支持设备端STT和定制训练的AI增强模型。本地Wispr Flow替代品。在X上私信我们获取彩蛋😉 - https://x.com/fluidvoiceapp"
+        }
+      ]
+    },
+    {
       "date": "2026-08-15",
       "summary_zh": "今日GitHub热门涵盖AI模型轻量化部署、低资源微调、本地语音识别、API聚合及开发者工具，聚焦效率提升与边缘计算创新。",
       "projects": [
@@ -4671,182 +4807,6 @@
           "stars_total": 71524,
           "stars_today": 18,
           "description_zh": "Protocol Buffers - 谷歌的数据交换格式"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "summary_zh": "今日GitHub热门项目聚焦AI标准化、反AI同质化设计、开源视频编辑替代品、全栈开发者工具及健身数据集，涵盖语义元数据交换、智能体平台与低代码模型应用。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "OpenCut-app/OpenCut",
-          "url": "https://github.com/OpenCut-app/OpenCut",
-          "description_en": "The open-source CapCut alternative",
-          "language": "TypeScript",
-          "stars_total": 73794,
-          "stars_today": 3290,
-          "description_zh": "开源的CapCut替代品"
-        },
-        {
-          "rank": 2,
-          "name": "Nutlope/hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "language": "CSS",
-          "stars_total": 10556,
-          "stars_today": 3181,
-          "description_zh": "为Claude Code、Cursor和Codex提供的反AI低质量设计技能"
-        },
-        {
-          "rank": 3,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .claude directory.",
-          "language": "Shell",
-          "stars_total": 173982,
-          "stars_today": 2073,
-          "description_zh": "真正工程师的技能。直接来自我的.claude目录。"
-        },
-        {
-          "rank": 4,
-          "name": "Graphify-Labs/graphify",
-          "url": "https://github.com/Graphify-Labs/graphify",
-          "description_en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-          "language": "Python",
-          "stars_total": 88757,
-          "stars_today": 1138,
-          "description_zh": "AI编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码文件夹、SQL模式、R脚本、Shell脚本、文档、论文、图像或视频转换为可查询的知识图谱。应用代码+数据库模式+基础设施整合在一个图中"
-        },
-        {
-          "rank": 5,
-          "name": "Shubhamsaboo/awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-          "language": "Python",
-          "stars_total": 122694,
-          "stars_today": 935,
-          "description_zh": "100多个你可以真正运行的AI代理和RAG应用——克隆、定制、发布。"
-        },
-        {
-          "rank": 6,
-          "name": "hasaneyldrm/exercises-dataset",
-          "url": "https://github.com/hasaneyldrm/exercises-dataset",
-          "description_en": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-          "language": "HTML",
-          "stars_total": 14905,
-          "stars_today": 697,
-          "description_zh": "包含1,324个健身动作的数据集——动画GIF、180×180缩略图、肌肉群与器械数据，以及6种语言的分步说明。LogPress应用背后的动作数据层。"
-        },
-        {
-          "rank": 7,
-          "name": "HKUDS/DeepTutor",
-          "url": "https://github.com/HKUDS/DeepTutor",
-          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-          "language": "Python",
-          "stars_total": 26780,
-          "stars_today": 647,
-          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
-        },
-        {
-          "rank": 8,
-          "name": "openinterpreter/openinterpreter",
-          "url": "https://github.com/openinterpreter/openinterpreter",
-          "description_en": "A coding agent for low-cost models",
-          "language": "Rust",
-          "stars_total": 65910,
-          "stars_today": 633,
-          "description_zh": "面向低成本模型的编码代理"
-        },
-        {
-          "rank": 9,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 526145,
-          "stars_today": 549,
-          "description_zh": "通过从头重新创建你喜爱的技术来掌握编程"
-        },
-        {
-          "rank": 10,
-          "name": "PrismML-Eng/Bonsai-demo",
-          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-          "description_en": "Bonsai Demo",
-          "language": "Shell",
-          "stars_total": 1468,
-          "stars_today": 323,
-          "description_zh": "Bonsai 演示"
-        },
-        {
-          "rank": 11,
-          "name": "PostHog/posthog",
-          "url": "https://github.com/PostHog/posthog",
-          "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-          "language": "Python",
-          "stars_total": 35759,
-          "stars_today": 146,
-          "description_zh": "🦔 PostHog 是一个用于构建成功产品的一体化开发者平台。我们提供产品分析、网站分析、会话回放、错误追踪、功能开关、实验、调查、数据仓库、CDP以及AI产品助手，帮助调试代码、更快发布功能，并将所有使用数据和客户数据集中在一个栈中"
-        },
-        {
-          "rank": 12,
-          "name": "ibelick/ui-skills",
-          "url": "https://github.com/ibelick/ui-skills",
-          "description_en": "Skills for Design Engineers",
-          "language": "TypeScript",
-          "stars_total": 4127,
-          "stars_today": 141,
-          "description_zh": "设计工程师的技能"
-        },
-        {
-          "rank": 13,
-          "name": "ossu/computer-science",
-          "url": "https://github.com/ossu/computer-science",
-          "description_en": "🎓 Path to a free self-taught education in Computer Science!",
-          "language": "HTML",
-          "stars_total": 206399,
-          "stars_today": 125,
-          "description_zh": "🎓 通往免费自学计算机科学教育的道路！"
-        },
-        {
-          "rank": 14,
-          "name": "YimMenu/YimMenuV2",
-          "url": "https://github.com/YimMenu/YimMenuV2",
-          "description_en": "Experimental menu for GTA 5: Enhanced",
-          "language": "C++",
-          "stars_total": 1491,
-          "stars_today": 122,
-          "description_zh": "《GTA 5：增强版》的实验性菜单"
-        },
-        {
-          "rank": 15,
-          "name": "apache/ossie",
-          "url": "https://github.com/apache/ossie",
-          "description_en": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-          "language": "Python",
-          "stars_total": 843,
-          "stars_today": 81,
-          "description_zh": "Apache Ossie，一项行业范围的规范工作，旨在标准化跨分析、AI和BI平台交换语义元数据的方式，为语义数据提供供应商中立、单一的真实来源"
-        },
-        {
-          "rank": 16,
-          "name": "github/copilot-sdk",
-          "url": "https://github.com/github/copilot-sdk",
-          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-          "language": "Java",
-          "stars_total": 9605,
-          "stars_today": 62,
-          "description_zh": "用于将GitHub Copilot Agent集成到应用和服务中的多平台SDK"
-        },
-        {
-          "rank": 17,
-          "name": "lobehub/lobehub",
-          "url": "https://github.com/lobehub/lobehub",
-          "description_en": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-          "language": "TypeScript",
-          "stars_total": 80073,
-          "stars_today": 51,
-          "description_zh": "🤯 LobeHub 是你的首席代理操作员，通过雇佣、调度和报告你的整个AI团队，将你的代理组织成7×24小时运营"
         }
       ]
     }
