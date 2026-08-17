@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-17",
-      "summary_zh": "今日GitHub热点聚焦AI与开源工具：本地训练推理框架、14MB微型模型、开源视频剪辑替代品，以及低代码平台和免费API合集，展现AI普及化与开发者生态活力。",
+      "summary_zh": "今日GitHub热门涵盖AI训练推理、开源视频剪辑、API集合、低代码平台及微型设备模型，聚焦效率提升与边缘计算创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/public-apis/public-apis",
           "description_en": "A collective list of free APIs",
           "language": "Python",
-          "stars_total": 461746,
+          "stars_total": 462262,
           "stars_today": 1588,
           "description_zh": "免费API的集合列表"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/cordiverse/cordis",
           "description_en": "Meta-Framework of Spatiotemporal Composability",
           "language": "TypeScript",
-          "stars_total": 4716,
+          "stars_total": 5105,
           "stars_today": 720,
           "description_zh": "时空组合性的元框架"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/unslothai/unsloth",
           "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
           "language": "Python",
-          "stars_total": 72572,
+          "stars_total": 72815,
           "stars_today": 572,
           "description_zh": "用于运行和训练LLM及扩散模型的本地UI，支持Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/ToolJet/ToolJet",
           "description_en": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
           "language": "JavaScript",
-          "stars_total": 40025,
+          "stars_total": 40222,
           "stars_today": 452,
           "description_zh": "ToolJet是ToolJet AI的开源基础——用于构建内部工具、仪表盘、业务应用、工作流和AI代理的企业应用生成平台 🚀"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/cactus-compute/needle",
           "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
           "language": "Python",
-          "stars_total": 6563,
+          "stars_total": 6793,
           "stars_today": 443,
           "description_zh": "适用于微型设备（手机、可穿戴设备、智能家居和机器人）的14MB基础模型。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/basecamp/omarchy",
           "description_en": "Beautiful, Modern & Opinionated Linux",
           "language": "Shell",
-          "stars_total": 25375,
+          "stars_total": 25603,
           "stars_today": 270,
           "description_zh": "美观、现代且具有主见的Linux发行版"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/OpenCut-app/OpenCut",
           "description_en": "The open-source CapCut alternative",
           "language": "TypeScript",
-          "stars_total": 83887,
+          "stars_total": 84119,
           "stars_today": 150,
           "description_zh": "开源的CapCut替代品"
         }
