@@ -2,77 +2,107 @@
   "days": [
     {
       "date": "2026-08-17",
-      "summary_zh": "今日GitHub热门涵盖AI训练推理、开源视频剪辑、API集合、低代码平台及微型设备模型，聚焦效率提升与边缘计算创新。",
+      "summary_zh": "今日GitHub热门项目聚焦AI赋能：一键生成短视频、开源渗透测试、网络安全技能库，以及AI求职助手；同时涵盖高性能交易引擎、本地照片管理和下载工具，展现AI与开发工具的深度融合。",
       "projects": [
         {
           "rank": 1,
-          "name": "public-apis/public-apis",
-          "url": "https://github.com/public-apis/public-apis",
-          "description_en": "A collective list of free APIs",
-          "language": "Python",
-          "stars_total": 462262,
-          "stars_today": 1588,
-          "description_zh": "免费API的集合列表"
-        },
-        {
-          "rank": 2,
           "name": "cordiverse/cordis",
           "url": "https://github.com/cordiverse/cordis",
           "description_en": "Meta-Framework of Spatiotemporal Composability",
           "language": "TypeScript",
-          "stars_total": 5105,
-          "stars_today": 720,
+          "stars_total": 5373,
+          "stars_today": 959,
           "description_zh": "时空组合性的元框架"
         },
         {
-          "rank": 3,
-          "name": "unslothai/unsloth",
-          "url": "https://github.com/unslothai/unsloth",
-          "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "rank": 2,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars_total": 72815,
-          "stars_today": 572,
-          "description_zh": "用于运行和训练LLM及扩散模型的本地UI，支持Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。"
+          "stars_total": 53630,
+          "stars_today": 856,
+          "description_zh": "开源 AI 渗透测试工具，用于发现并修复应用中的漏洞。"
+        },
+        {
+          "rank": 3,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "language": "Python",
+          "stars_total": 105282,
+          "stars_today": 494,
+          "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
         },
         {
           "rank": 4,
-          "name": "ToolJet/ToolJet",
-          "url": "https://github.com/ToolJet/ToolJet",
-          "description_en": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-          "language": "JavaScript",
-          "stars_total": 40222,
-          "stars_today": 452,
-          "description_zh": "ToolJet是ToolJet AI的开源基础——用于构建内部工具、仪表盘、业务应用、工作流和AI代理的企业应用生成平台 🚀"
+          "name": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "description_en": "A full-featured download manager.",
+          "language": "TypeScript",
+          "stars_total": 52831,
+          "stars_today": 295,
+          "description_zh": "一款功能全面的下载管理器。"
         },
         {
           "rank": 5,
-          "name": "cactus-compute/needle",
-          "url": "https://github.com/cactus-compute/needle",
-          "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-          "language": "Python",
-          "stars_total": 6793,
-          "stars_today": 443,
-          "description_zh": "适用于微型设备（手机、可穿戴设备、智能家居和机器人）的14MB基础模型。"
+          "name": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "description_en": "Hundreds of models & providers. One command to find what runs on your hardware.",
+          "language": "Rust",
+          "stars_total": 32014,
+          "stars_today": 187,
+          "description_zh": "数百种模型和提供商。一条命令即可找到适合你硬件的模型。"
         },
         {
           "rank": 6,
-          "name": "basecamp/omarchy",
-          "url": "https://github.com/basecamp/omarchy",
-          "description_en": "Beautiful, Modern & Opinionated Linux",
-          "language": "Shell",
-          "stars_total": 25603,
-          "stars_today": 270,
-          "description_zh": "美观、现代且具有主见的Linux发行版"
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "language": "Python",
+          "stars_total": 28104,
+          "stars_today": 156,
+          "description_zh": "为 AI 代理提供的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（反欺诈）· 采用 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20 多个平台 · 覆盖 29 个安全领域 · Apache 2.0 许可"
         },
         {
           "rank": 7,
-          "name": "OpenCut-app/OpenCut",
-          "url": "https://github.com/OpenCut-app/OpenCut",
-          "description_en": "The open-source CapCut alternative",
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description_en": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+          "language": "JavaScript",
+          "stars_total": 64216,
+          "stars_today": 147,
+          "description_zh": "开源 AI 求职工具：扫描招聘门户，使用 A-F 评分标准将职位列表评估为 1.0-5.0 分，定制你的简历，跟踪申请进度——可在你的 AI 编码 CLI（Claude Code、Codex、OpenCode、Antigravity 等）中本地运行。"
+        },
+        {
+          "rank": 8,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description_en": "High performance self-hosted photo and video management solution.",
           "language": "TypeScript",
-          "stars_total": 84119,
-          "stars_today": 150,
-          "description_zh": "开源的CapCut替代品"
+          "stars_total": 110850,
+          "stars_today": 140,
+          "description_zh": "高性能自托管照片和视频管理解决方案。"
+        },
+        {
+          "rank": 9,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description_en": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+          "language": "Rust",
+          "stars_total": 25678,
+          "stars_today": 115,
+          "description_zh": "生产级 Rust 原生交易引擎，采用确定性事件驱动架构。"
+        },
+        {
+          "rank": 10,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "language": "Python",
+          "stars_total": 18844,
+          "stars_today": 60,
+          "description_zh": "适用于 Apple Silicon 的 LLM 推理服务器，支持连续批处理和 SSD 缓存——可通过 macOS 菜单栏管理。"
         }
       ]
     },
