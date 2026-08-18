@@ -1,6 +1,122 @@
 {
   "days": [
     {
+      "date": "2026-08-18",
+      "summary_zh": "今日GitHub热门项目聚焦AI赋能：一键生成短视频、智能渗透测试、AI求职助手、长时记忆方案，以及高性能自托管照片管理工具，展现AI与开发工具的深度融合趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "language": "Python",
+          "stars_total": 106010,
+          "stars_today": 1189,
+          "description_zh": "利用AI大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
+        },
+        {
+          "rank": 2,
+          "name": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "description_en": "Meta-Framework of Spatiotemporal Composability",
+          "language": "TypeScript",
+          "stars_total": 5580,
+          "stars_today": 957,
+          "description_zh": "时空可组合性的元框架。"
+        },
+        {
+          "rank": 3,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars_total": 54164,
+          "stars_today": 598,
+          "description_zh": "开源AI渗透测试工具，用于发现并修复应用中的漏洞。"
+        },
+        {
+          "rank": 4,
+          "name": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "description_en": "A full-featured download manager.",
+          "language": "TypeScript",
+          "stars_total": 53073,
+          "stars_today": 344,
+          "description_zh": "功能全面的下载管理器。"
+        },
+        {
+          "rank": 5,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description_en": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+          "language": "JavaScript",
+          "stars_total": 64637,
+          "stars_today": 218,
+          "description_zh": "开源AI求职工具：扫描招聘门户，用A-F结构化评分标准将职位评为1.0-5.0分，定制简历，跟踪申请进度——可在本地AI编码CLI（Claude Code、Codex、OpenCode、Antigravity等）中运行。"
+        },
+        {
+          "rank": 6,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "language": "Rust",
+          "stars_total": 2050,
+          "stars_today": 207,
+          "description_zh": "为AI编码CLI提供长期记忆的解决方案，并促进不同AI供应商之间的交接。"
+        },
+        {
+          "rank": 7,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "language": "Python",
+          "stars_total": 28422,
+          "stars_today": 198,
+          "description_zh": "为AI代理提供817项结构化网络安全技能，映射至6个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF和MITRE F3（反欺诈），遵循agentskills.io标准，兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20多个平台，覆盖29个安全领域，Apache 2.0许可。"
+        },
+        {
+          "rank": 8,
+          "name": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "description_en": "Hundreds of models & providers. One command to find what runs on your hardware.",
+          "language": "Rust",
+          "stars_total": 32264,
+          "stars_today": 198,
+          "description_zh": "数百种模型和提供商，一条命令即可找到适合你硬件的模型。"
+        },
+        {
+          "rank": 9,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description_en": "High performance self-hosted photo and video management solution.",
+          "language": "TypeScript",
+          "stars_total": 111152,
+          "stars_today": 175,
+          "description_zh": "高性能自托管照片和视频管理解决方案。"
+        },
+        {
+          "rank": 10,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description_en": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+          "language": "Rust",
+          "stars_total": 25911,
+          "stars_today": 120,
+          "description_zh": "生产级Rust原生交易引擎，采用确定性事件驱动架构。"
+        },
+        {
+          "rank": 11,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "language": "Python",
+          "stars_total": 18986,
+          "stars_today": 78,
+          "description_zh": "支持连续批处理和SSD缓存的LLM推理服务器，专为Apple Silicon优化，可通过macOS菜单栏管理。"
+        }
+      ]
+    },
+    {
       "date": "2026-08-17",
       "summary_zh": "今日GitHub热门项目聚焦AI应用：短视频生成、渗透测试、交易引擎、网络安全技能库、模型适配、求职助手及自托管照片管理，展现AI与开发工具深度融合趋势。",
       "projects": [
@@ -4601,122 +4717,6 @@
           "stars_total": 9922,
           "stars_today": 46,
           "description_zh": "用于将GitHub Copilot Agent集成到应用和服务中的多平台SDK"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "summary_zh": "今日GitHub热门项目聚焦AI三维重建、语义元数据标准化、全栈开发工具链、本地优先代码智能图及自建技术实践，涵盖基础模型、平台工程与开源创新。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 528102,
-          "stars_today": 1131,
-          "description_zh": "通过从头重建你喜爱的技术来掌握编程。"
-        },
-        {
-          "rank": 2,
-          "name": "Robbyant/lingbot-map",
-          "url": "https://github.com/Robbyant/lingbot-map",
-          "description_en": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-          "language": "Python",
-          "stars_total": 12729,
-          "stars_today": 827,
-          "description_zh": "一种前馈式3D基础模型，用于从流式数据中重建场景"
-        },
-        {
-          "rank": 3,
-          "name": "tirth8205/code-review-graph",
-          "url": "https://github.com/tirth8205/code-review-graph",
-          "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-          "language": "Python",
-          "stars_total": 20084,
-          "stars_today": 356,
-          "description_zh": "面向 MCP 和 CLI 的本地优先代码智能图。构建代码库的持久映射，使 AI 编码工具只读取必要内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
-        },
-        {
-          "rank": 4,
-          "name": "PostHog/posthog",
-          "url": "https://github.com/PostHog/posthog",
-          "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-          "language": "Python",
-          "stars_total": 36494,
-          "stars_today": 337,
-          "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发者工具——AI 可观测性、分析、会话回放、功能开关、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和修复缺陷所需的所有上下文。通过 Slack、网页、桌面或 MCP 进行全方位操控。"
-        },
-        {
-          "rank": 5,
-          "name": "ibelick/ui-skills",
-          "url": "https://github.com/ibelick/ui-skills",
-          "description_en": "Skills for Design Engineers",
-          "language": "TypeScript",
-          "stars_total": 4881,
-          "stars_today": 242,
-          "description_zh": "面向设计工程师的技能"
-        },
-        {
-          "rank": 6,
-          "name": "lyogavin/airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "description_en": "AirLLM 70B inference with single 4GB GPU",
-          "language": "Jupyter Notebook",
-          "stars_total": 23256,
-          "stars_today": 242,
-          "description_zh": "AirLLM 70B推理，仅需单张4GB GPU"
-        },
-        {
-          "rank": 7,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 39015,
-          "stars_today": 240,
-          "description_zh": "学习它。构建它。为他人交付它。"
-        },
-        {
-          "rank": 8,
-          "name": "KnockOutEZ/wigolo",
-          "url": "https://github.com/KnockOutEZ/wigolo",
-          "description_en": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-          "language": "TypeScript",
-          "stars_total": 1123,
-          "stars_today": 192,
-          "description_zh": "你的AI编码代理的首选网络——基于MCP的本地优先搜索、抓取、爬取与研究。无需API密钥，无需云端，每次查询$0。公开测试版。"
-        },
-        {
-          "rank": 9,
-          "name": "elder-plinius/G0DM0D3",
-          "url": "https://github.com/elder-plinius/G0DM0D3",
-          "description_en": "LIBERATED AI CHAT",
-          "language": "TypeScript",
-          "stars_total": 9450,
-          "stars_today": 63,
-          "description_zh": "解放的AI聊天"
-        },
-        {
-          "rank": 10,
-          "name": "apache/ossie",
-          "url": "https://github.com/apache/ossie",
-          "description_en": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-          "language": "Python",
-          "stars_total": 1231,
-          "stars_today": 48,
-          "description_zh": "Apache Ossie，一项行业范围的规范工作，旨在标准化跨分析、AI和BI平台交换语义元数据的方式，为语义数据提供供应商中立、单一的真实来源"
-        },
-        {
-          "rank": 11,
-          "name": "MoonshotAI/kimi-cli",
-          "url": "https://github.com/MoonshotAI/kimi-cli",
-          "description_en": "Kimi Code CLI is your next CLI agent.",
-          "language": "Python",
-          "stars_total": 9389,
-          "stars_today": 48,
-          "description_zh": "Kimi Code CLI 是你的下一代CLI代理。"
         }
       ]
     }
