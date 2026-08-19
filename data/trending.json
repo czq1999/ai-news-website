@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-08-19",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：短视频自动生成、多智能体协作、长期记忆与上下文数据库，以及网络安全技能库，展现AI工具链的全面进化。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "language": "Python",
+          "stars_total": 108526,
+          "stars_today": 2304,
+          "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description_en": "A collective list of free APIs",
+          "language": "Python",
+          "stars_total": 464553,
+          "stars_today": 1005,
+          "description_zh": "免费 API 的集体列表"
+        },
+        {
+          "rank": 3,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "language": "Python",
+          "stars_total": 29188,
+          "stars_today": 730,
+          "description_zh": "817 项面向 AI 代理的结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（反欺诈）· agentskills.io 标准 · 适用于 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20 多个平台 · 29 个安全领域 · Apache 2.0"
+        },
+        {
+          "rank": 4,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "language": "Rust",
+          "stars_total": 2721,
+          "stars_today": 648,
+          "description_zh": "为代理编码 CLI 提供长期记忆的解决方案，并促进不同代理供应商之间的交接"
+        },
+        {
+          "rank": 5,
+          "name": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "description_en": "A full-featured download manager.",
+          "language": "TypeScript",
+          "stars_total": 53657,
+          "stars_today": 609,
+          "description_zh": "一款功能齐全的下载管理器。"
+        },
+        {
+          "rank": 6,
+          "name": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description_en": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars_total": 39107,
+          "stars_today": 543,
+          "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+        },
+        {
+          "rank": 7,
+          "name": "genlayerlabs/genlayer-project-boilerplate",
+          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+          "description_en": "",
+          "language": "TypeScript",
+          "stars_total": 15938,
+          "stars_today": 535,
+          "description_zh": ""
+        },
+        {
+          "rank": 8,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "language": "Python",
+          "stars_total": 19394,
+          "stars_today": 370,
+          "description_zh": "适用于 Apple Silicon 的 LLM 推理服务器，支持连续批处理和 SSD 缓存——可通过 macOS 菜单栏管理"
+        },
+        {
+          "rank": 9,
+          "name": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "description_en": "Beautiful, Modern & Opinionated Linux",
+          "language": "Shell",
+          "stars_total": 26422,
+          "stars_today": 356,
+          "description_zh": "美观、现代且个性化的 Linux"
+        },
+        {
+          "rank": 10,
+          "name": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "description_en": "local multi-agent harness",
+          "language": "TypeScript",
+          "stars_total": 2030,
+          "stars_today": 306,
+          "description_zh": "本地多智能体框架"
+        },
+        {
+          "rank": 11,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description_en": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "language": "Python",
+          "stars_total": 29374,
+          "stars_today": 213,
+          "description_zh": "面向 AI 代理的自进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
+        },
+        {
+          "rank": 12,
+          "name": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "description_en": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+          "language": "PLSQL",
+          "stars_total": 24299,
+          "stars_today": 192,
+          "description_zh": "开源、低成本的 10.5 GHz PLFM 相控阵雷达系统"
+        },
+        {
+          "rank": 13,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description_en": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars_total": 84776,
+          "stars_today": 192,
+          "description_zh": "开源的 CapCut 替代品"
+        }
+      ]
+    },
+    {
       "date": "2026-08-18",
       "summary_zh": "今日GitHub热门项目聚焦AI视频生成、智能体记忆与安全、开源API及工具，涵盖短视频自动化、多智能体协作、网络安全技能库及下载管理器等。",
       "projects": [
@@ -4551,192 +4687,6 @@
           "stars_total": 26478,
           "stars_today": 77,
           "description_zh": "🚀 快速、Pythonic的MCP服务器和客户端构建方式。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-19",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：本地优先的代码智能图、异构LLM推理框架、AI语音克隆工作室、无API密钥的MCP搜索爬虫，以及Copilot SDK和PostHog自驱产品分析平台。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "codecrafters-io/build-your-own-x",
-          "url": "https://github.com/codecrafters-io/build-your-own-x",
-          "description_en": "Master programming by recreating your favorite technologies from scratch.",
-          "language": "Markdown",
-          "stars_total": 528823,
-          "stars_today": 761,
-          "description_zh": "通过从零开始重建你喜爱的技术来掌握编程。"
-        },
-        {
-          "rank": 2,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
-          "language": "TypeScript",
-          "stars_total": 43204,
-          "stars_today": 629,
-          "description_zh": "开源AI语音工作室。克隆、听写、创作。"
-        },
-        {
-          "rank": 3,
-          "name": "KnockOutEZ/wigolo",
-          "url": "https://github.com/KnockOutEZ/wigolo",
-          "description_en": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-          "language": "TypeScript",
-          "stars_total": 1719,
-          "stars_today": 605,
-          "description_zh": "AI编码代理的首选网络——基于MCP的本地优先搜索、抓取、爬取与研究。无需API密钥，无需云服务，每次查询零成本。公测中。"
-        },
-        {
-          "rank": 4,
-          "name": "tirth8205/code-review-graph",
-          "url": "https://github.com/tirth8205/code-review-graph",
-          "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-          "language": "Python",
-          "stars_total": 20970,
-          "stars_today": 551,
-          "description_zh": "面向MCP和CLI的本地优先代码智能图谱。构建代码库的持久化映射，使AI编码工具仅读取关键内容，在代码审查和大型仓库工作流中实现基准化的上下文缩减。"
-        },
-        {
-          "rank": 5,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 39561,
-          "stars_today": 507,
-          "description_zh": "学习它。构建它。为他人交付它。"
-        },
-        {
-          "rank": 6,
-          "name": "PostHog/posthog",
-          "url": "https://github.com/PostHog/posthog",
-          "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-          "language": "Python",
-          "stars_total": 36876,
-          "stars_today": 424,
-          "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发者工具——AI可观测性、分析、会话回放、功能标志、实验、错误追踪、日志等——捕获代理诊断问题、发现机会和修复缺陷所需的所有上下文。可通过Slack、网页、桌面或MCP进行全方位操控。"
-        },
-        {
-          "rank": 7,
-          "name": "MoonshotAI/kimi-cli",
-          "url": "https://github.com/MoonshotAI/kimi-cli",
-          "description_en": "Kimi Code CLI is your next CLI agent.",
-          "language": "Python",
-          "stars_total": 9816,
-          "stars_today": 418,
-          "description_zh": "Kimi Code CLI 是你的下一代CLI代理。"
-        },
-        {
-          "rank": 8,
-          "name": "lyogavin/airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "description_en": "AirLLM 70B inference with single 4GB GPU",
-          "language": "Jupyter Notebook",
-          "stars_total": 23583,
-          "stars_today": 374,
-          "description_zh": "AirLLM 70B推理，仅需单张4GB GPU"
-        },
-        {
-          "rank": 9,
-          "name": "kvcache-ai/ktransformers",
-          "url": "https://github.com/kvcache-ai/ktransformers",
-          "description_en": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-          "language": "Python",
-          "stars_total": 18282,
-          "stars_today": 328,
-          "description_zh": "一个用于体验异构LLM推理/微调优化的灵活框架"
-        },
-        {
-          "rank": 10,
-          "name": "1jehuang/jcode",
-          "url": "https://github.com/1jehuang/jcode",
-          "description_en": "Coding Agent Harness",
-          "language": "Rust",
-          "stars_total": 8798,
-          "stars_today": 199,
-          "description_zh": "编码Agent工具集"
-        },
-        {
-          "rank": 11,
-          "name": "trycua/cua",
-          "url": "https://github.com/trycua/cua",
-          "description_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-          "language": "HTML",
-          "stars_total": 20199,
-          "stars_today": 136,
-          "description_zh": "通过开源驱动、跨操作系统集群以及用于训练、评估和数据生成的基准测试，规模化计算机使用2.0。"
-        },
-        {
-          "rank": 12,
-          "name": "PKUFlyingPig/cs-self-learning",
-          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
-          "description_en": "计算机自学指南",
-          "language": "HTML",
-          "stars_total": 74128,
-          "stars_today": 128,
-          "description_zh": "计算机自学指南"
-        },
-        {
-          "rank": 13,
-          "name": "Flowseal/zapret-discord-youtube",
-          "url": "https://github.com/Flowseal/zapret-discord-youtube",
-          "description_en": "",
-          "language": "Batchfile",
-          "stars_total": 31007,
-          "stars_today": 117,
-          "description_zh": "绕过 Discord 和 YouTube 限制的工具"
-        },
-        {
-          "rank": 14,
-          "name": "microsoft/terminal",
-          "url": "https://github.com/microsoft/terminal",
-          "description_en": "The new Windows Terminal and the original Windows console host, all in the same place!",
-          "language": "C++",
-          "stars_total": 104120,
-          "stars_today": 103,
-          "description_zh": "全新的Windows终端和原版Windows控制台主机，齐聚一堂！"
-        },
-        {
-          "rank": 15,
-          "name": "Canner/WrenAI",
-          "url": "https://github.com/Canner/WrenAI",
-          "description_en": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
-          "language": "Python",
-          "stars_total": 16135,
-          "stars_today": 96,
-          "description_zh": "面向AI代理的GenBI（生成式商业智能），一个开源的、受控的文本到SQL工具，通过开放的上下文层将自然语言问题转化为可信的仪表盘、图表和SQL，支持BigQuery、Snowflake、PostgreSQL、ClickHouse、Amazon Redshift、Databricks等20多种数据源。"
-        },
-        {
-          "rank": 16,
-          "name": "AstrBotDevs/AstrBot",
-          "url": "https://github.com/AstrBotDevs/AstrBot",
-          "description_en": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-          "language": "Python",
-          "stars_total": 36657,
-          "stars_today": 62,
-          "description_zh": "集成众多即时通讯平台、LLM、插件和AI功能的AI Agent助手与开发框架，可作为OpenClaw的替代方案。✨"
-        },
-        {
-          "rank": 17,
-          "name": "andrewrabert/jellium-desktop",
-          "url": "https://github.com/andrewrabert/jellium-desktop",
-          "description_en": "An unofficial desktop client for Jellyfin",
-          "language": "Rust",
-          "stars_total": 1256,
-          "stars_today": 54,
-          "description_zh": "Jellyfin的非官方桌面客户端"
-        },
-        {
-          "rank": 18,
-          "name": "github/copilot-sdk",
-          "url": "https://github.com/github/copilot-sdk",
-          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-          "language": "Java",
-          "stars_total": 9922,
-          "stars_today": 46,
-          "description_zh": "用于将GitHub Copilot Agent集成到应用和服务中的多平台SDK"
         }
       ]
     }
