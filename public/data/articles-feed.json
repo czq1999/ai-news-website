@@ -1,5 +1,203 @@
 [
   {
+    "id": "a0a53adc209d946d9519e2a7fed40fe0",
+    "title_en": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "published_at": "2026-08-20T18:20:35.000Z",
+    "fetched_at": "2026-08-20T18:23:59.532Z",
+    "title_zh": "Linkdaze智能日历：专为管理家庭事务而生，而非仅追踪日程",
+    "summary_zh": "Linkdaze推出了一款智能日历应用，其核心定位是家庭管理，而非简单的日程追踪。该应用整合了家庭成员的日程、家务分配、购物清单等功能，旨在成为家庭运营的中枢。通过AI辅助，它能智能建议并优化家庭事务安排，提升家庭协作效率，为智能家居生活带来新的管理维度。",
+    "category": "product"
+  },
+  {
+    "id": "338cbe449a78aa4aa4abbd2f8ddbc669",
+    "title_en": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+    "published_at": "2026-08-20T17:42:34.000Z",
+    "fetched_at": "2026-08-20T18:23:59.638Z",
+    "title_zh": "澳大利亚称Roblox未能解决儿童诱拐问题",
+    "summary_zh": "澳大利亚监管机构指出，游戏平台Roblox在解决儿童诱拐问题上没有取得实质性进展。此前，该平台被曝存在未成年人遭遇不当接触和诱骗的风险。监管机构批评Roblox的安全措施不足，要求其立即采取更有效的行动保护儿童用户，否则将面临进一步的法律和监管压力。",
+    "category": "industry"
+  },
+  {
+    "id": "c70a9fce9703ebe93ed1f6f8f2b8dbc2",
+    "title_en": "FCC officially decides gigabit speeds are too good for you",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+    "published_at": "2026-08-20T17:38:30.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "FCC正式裁定：千兆网速对你来说太快了",
+    "summary_zh": "美国联邦通信委员会（FCC）做出了一项引发争议的裁定，将千兆宽带不再视为“先进电信能力”的基准。这一决定被批评为降低服务标准，可能影响对高速互联网的监管和普及要求。消费者团体认为此举忽视了用户对更高网速的需求，而FCC则称这是基于技术发展的重新评估。",
+    "category": "industry"
+  },
+  {
+    "id": "a103b4efa3e5ca2f35f3b4829d47197d",
+    "title_en": "Grok keeps sending gibberish responses to users",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "published_at": "2026-08-20T17:32:16.000Z",
+    "fetched_at": "2026-08-20T18:23:59.532Z",
+    "title_zh": "Grok持续向用户发送乱码回复",
+    "summary_zh": "xAI的Grok聊天机器人近期出现严重故障，持续向用户发送无意义的乱码回复。该问题影响广泛，用户反馈在多个平台上遇到此情况。目前xAI尚未给出明确解释或修复时间表，这引发了用户对模型稳定性和可靠性的担忧，也凸显了大型语言模型在生产环境中的潜在风险。",
+    "category": "llm"
+  },
+  {
+    "id": "db87c5826d8a30777a1752f8ed535f0e",
+    "title_en": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "published_at": "2026-08-20T17:18:58.000Z",
+    "fetched_at": "2026-08-20T18:23:59.532Z",
+    "title_zh": "研究：ChatGPT发布后，三分之一新网页疑似AI生成",
+    "summary_zh": "一项新研究发现，自ChatGPT发布以来，新发布的网页中有三分之一显示出AI创作的痕迹。该研究通过分析文本特征和模式，识别出大量可能由AI生成的内容。这一现象引发了对互联网内容质量、信息真实性和版权问题的广泛讨论，也凸显了AI对网络生态的深远影响。",
+    "category": "research"
+  },
+  {
+    "id": "084fe06ad851767fd96a36534a138b9f",
+    "title_en": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+    "published_at": "2026-08-20T17:16:02.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "Framework回应BIOS更新导致部分旧笔记本变砖问题",
+    "summary_zh": "Framework公司承认其发布的BIOS更新导致部分旧款笔记本电脑无法启动（变砖）。公司表示正在积极处理该问题，并承诺为受影响用户提供修复方案。此次事件引发了用户对固件更新质量的关注，Framework强调将加强测试流程，并建议用户在问题解决前暂停更新。",
+    "category": "product"
+  },
+  {
+    "id": "0bf28b39f3253dc2af0494973f9d45a6",
+    "title_en": "Ramp launches its own AI model router, called Router",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "published_at": "2026-08-20T16:46:00.000Z",
+    "fetched_at": "2026-08-20T18:23:59.532Z",
+    "title_zh": "Ramp推出自研AI模型路由器，名为Router",
+    "summary_zh": "金融科技公司Ramp发布了自己的AI模型路由器，命名为“Router”。该工具旨在智能调度和优化不同AI模型的调用，根据任务类型和成本效益自动选择最合适的模型。此举旨在提升AI应用的效率和性能，同时降低运营成本，展示了企业级AI基础设施的竞争新方向。",
+    "category": "product"
+  },
+  {
+    "id": "19da7c3b6f0c7650eee6d3a5cedb2dd8",
+    "title_en": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "published_at": "2026-08-20T16:07:26.000Z",
+    "fetched_at": "2026-08-20T18:23:59.532Z",
+    "title_zh": "Meta向美国用户推出Pocket应用，支持“氛围编程”与游戏分享",
+    "summary_zh": "Meta宣布将其“Pocket”应用推向美国市场。该应用主打“氛围编程”（vibe-coding），允许用户通过自然语言或简单操作创建和分享小游戏。此举旨在降低游戏开发门槛，吸引更多创意用户，并构建一个基于AI的轻量级游戏创作和分享社区，是Meta在社交与AI结合领域的新尝试。",
+    "category": "product"
+  },
+  {
+    "id": "bedfefa021c449f7f0f8530f5c6a2aa9",
+    "title_en": "Inertia Enterprises finds a way to make its fusion fuel fast",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "published_at": "2026-08-20T16:00:00.000Z",
+    "fetched_at": "2026-08-20T18:23:59.532Z",
+    "title_zh": "Inertia Enterprises实现聚变燃料快速制备",
+    "summary_zh": "Inertia Enterprises宣布在聚变燃料制备技术上取得突破，实现了更快速的燃料生产。该技术有望解决聚变能商业化中燃料供应速度和成本的关键瓶颈。虽然具体细节未完全披露，但这一进展被视为向实用聚变能源迈出的重要一步，可能对未来清洁能源格局产生深远影响。",
+    "category": "research"
+  },
+  {
+    "id": "c7fbc3b1617c466d5b7848fc46c25ec2",
+    "title_en": "It’s Greg Brockman’s OpenAI now",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "published_at": "2026-08-20T15:45:55.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "OpenAI进入Greg Brockman时代",
+    "summary_zh": "随着Sam Altman的离职，OpenAI的领导权正式移交至联合创始人Greg Brockman手中。这一变动标志着公司进入新的发展阶段。Brockman将面临带领OpenAI继续推进AI技术前沿、平衡商业利益与安全使命的挑战。业界密切关注其领导下的战略方向和组织文化变革。",
+    "category": "industry"
+  },
+  {
+    "id": "a9f02e5007514298e068265f4cd4b295",
+    "title_en": "Debates over AI consciousness are a trap",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "published_at": "2026-08-20T15:42:39.000Z",
+    "fetched_at": "2026-08-20T18:23:59.906Z",
+    "title_zh": "关于AI意识的争论是一个陷阱",
+    "summary_zh": "MIT Tech Review评论指出，围绕AI是否具有意识的激烈辩论实际上是一个认知陷阱。文章认为，过度关注意识问题会分散我们对AI实际风险和伦理问题的注意力，如偏见、隐私和自动化决策的问责。与其争论机器是否‘感觉’，不如聚焦于如何设计可控、透明且符合人类价值观的AI系统，这才是更紧迫的议题。",
+    "category": "research"
+  },
+  {
+    "id": "dc5b4ff3e4257fa99f50cd105eeec09b",
+    "title_en": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+    "published_at": "2026-08-20T15:30:34.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "这款应用让Pixel 11的HiLight功能真正实用",
+    "summary_zh": "一款第三方应用成功将Pixel 11的HiLight功能变得更具实用性。HiLight原本是谷歌在Pixel 11上推出的照片增强功能，但被指效果有限。该应用通过优化算法和提供更多自定义选项，显著提升了HiLight在低光环境下的照片处理效果，让用户能更灵活地利用这一功能，获得更好的拍摄体验。",
+    "category": "product"
+  },
+  {
+    "id": "391af6bf22f7d7389f34808e03f35a41",
+    "title_en": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
+    "published_at": "2026-08-20T15:08:38.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "LG 65英寸B6 OLED电视降价300美元，创历史新低",
+    "summary_zh": "LG将其65英寸B6系列OLED电视的价格下调了300美元，目前售价已低于此前的历史最低价。这款电视以其出色的画质和深邃的黑色表现受到好评。此次降价为消费者提供了绝佳的购买时机，也反映出高端电视市场竞争的加剧，尤其是在OLED和Mini-LED技术之间的较量。",
+    "category": "product"
+  },
+  {
+    "id": "c8e443d1d80e48ea3158894b332616b4",
+    "title_en": "Amazon&#8217;s drone deliveries are landing in pools and ponds",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
+    "published_at": "2026-08-20T14:59:21.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "亚马逊无人机送货频繁坠入泳池和池塘",
+    "summary_zh": "亚马逊的Prime Air无人机送货服务在测试和运营中频繁出现事故，多架无人机坠入用户的泳池或池塘。这些事件引发了公众对无人机送货安全性的质疑。亚马逊表示正在收集数据并改进导航和降落系统，以减少此类事故，但尚未公布具体的解决方案和时间表。",
+    "category": "industry"
+  },
+  {
+    "id": "5b84dea370b4a0ce8a6a184fc4a7d3c3",
+    "title_en": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+    "published_at": "2026-08-20T14:09:31.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "特斯拉Robotaxi在奥斯汀实现完全无人监督运行，Cybercab发布在即",
+    "summary_zh": "特斯拉的Robotaxi服务在奥斯汀被观察到已开始完全无人监督运行，这标志着其自动驾驶技术迈出关键一步。此举发生在Cybercab车型正式发布之前，显示出特斯拉对自身FSD系统的信心。然而，完全无人驾驶的安全性和监管合规性仍是公众和监管机构关注的焦点。",
+    "category": "industry"
+  },
+  {
+    "id": "48d6291280cf0d042139f5c2add12ba4",
+    "title_en": "Here’s what data Comcast says its motion-detecting routers collect",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+    "published_at": "2026-08-20T14:00:22.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "康卡斯特披露其运动检测路由器收集的数据详情",
+    "summary_zh": "康卡斯特（Comcast）公开了其新型运动检测路由器所收集的数据类型。该路由器利用Wi-Fi信号感知家中人员活动，收集的数据包括设备连接状态、活动时间等，但不包括具体影像。康卡斯特强调数据用于提升网络性能和智能家居功能，但隐私倡导者仍担忧此类数据可能被滥用。",
+    "category": "product"
+  },
+  {
+    "id": "2c7878ded2ba5aaf4a8d6f80185d3fd3",
+    "title_en": "FromSoftware can do anything",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
+    "published_at": "2026-08-20T14:00:00.000Z",
+    "fetched_at": "2026-08-20T18:23:59.639Z",
+    "title_zh": "FromSoftware无所不能",
+    "summary_zh": "《艾尔登法环》开发商FromSoftware凭借其独特的游戏设计理念和精湛的制作工艺，持续在游戏界树立标杆。文章探讨了该公司为何能在竞争激烈的市场中脱颖而出，其作品不仅销量惊人，更在玩家心中占据特殊地位，展现了日本游戏开发商在全球范围内的强大影响力。",
+    "category": "industry"
+  },
+  {
+    "id": "26230f5d97b29cfcca9727f6d9d83481",
+    "title_en": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "published_at": "2026-08-20T13:00:35.000Z",
+    "fetched_at": "2026-08-20T18:23:59.748Z",
+    "title_zh": "Grok在恶意指令加密时泄露用户数据",
+    "summary_zh": "安全研究人员发现，xAI的Grok聊天机器人在处理加密的恶意指令时存在严重漏洞，能够被诱导泄露用户数据。该攻击利用了模型对加密内容的解析缺陷，绕过安全对齐机制。此发现凸显了大语言模型在对抗复杂攻击时的脆弱性，对AI安全领域构成新挑战。",
+    "category": "research"
+  },
+  {
     "id": "060c95586f8deec3fe6c69e2aabc7311",
     "title_en": "Meta AI’s new Mac app wants you to talk to your apps",
     "source": "TechCrunch AI",
@@ -9,6 +207,17 @@
     "title_zh": "Meta AI 新 Mac 应用：让你与应用程序对话",
     "summary_zh": "Meta AI 推出全新 Mac 应用，核心功能是让用户通过自然语言与各类应用程序进行交互。该应用旨在打破传统图形界面的限制，用户可直接下达指令，由 AI 代理理解并操作应用，完成复杂任务。此举标志着 AI 助手从被动问答向主动执行的角色转变，有望提升 Mac 用户的工作效率，并预示着人机交互模式的新变革。",
     "category": "product"
+  },
+  {
+    "id": "b3c8332dcb78281b6b39854452410994",
+    "title_en": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "published_at": "2026-08-20T12:10:00.000Z",
+    "fetched_at": "2026-08-20T18:23:59.906Z",
+    "title_zh": "下载：多重危机支持网络与氢能淘金热",
+    "summary_zh": "本期MIT Tech Review的‘下载’栏目聚焦两大主题：一是面对气候变化、疫情等多重危机，社区如何建立互助支持网络以增强韧性；二是全球兴起的‘氢能淘金热’，各国和企业争相投资绿色氢能项目。文章探讨了这些趋势背后的技术挑战、经济可行性以及它们对未来能源格局和社会组织形式的潜在影响。",
+    "category": "research"
   },
   {
     "id": "9d65e75269c68fac08ad7c59a5bb1d83",
@@ -141,6 +350,17 @@
     "title_zh": "氢能的下一件大事可能在地下",
     "summary_zh": "MIT技术评论报道，天然氢（又称白氢）正成为清洁能源领域的新热点。科学家发现，地壳深处通过水与含铁岩石反应可自然产生氢气，且储量可能远超预期。多家初创公司已开始勘探和开采天然氢，其成本远低于电解水制氢。然而，商业化仍面临地质勘探不确定性、开采技术和运输基础设施等挑战。若成功，天然氢有望成为实现碳中和的关键能源。",
     "category": "research"
+  },
+  {
+    "id": "88dd5ab6ecf5a2e1c5e005ad3bc5a910",
+    "title_en": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+    "published_at": "2026-08-20T10:00:00.000Z",
+    "fetched_at": "2026-08-20T18:23:59.844Z",
+    "title_zh": "洛杉矶青少年‘舞会后派对’之王如何将高中狂欢变现",
+    "summary_zh": "Wired报道，洛杉矶一群青少年通过组织名为‘After-Prom’的高中舞会后派对，成功将这一社交活动转化为一门暴利生意。他们利用社交媒体营销、稀缺性策略和现场体验升级，向同学收取高额门票，并吸引品牌赞助。这一现象揭示了Z世代创业精神与校园社交文化的深度融合，也引发了对青少年商业活动监管的讨论。",
+    "category": "industry"
   },
   {
     "id": "0aca5fd67ca077fec1a67ff39302b839",
@@ -440,6 +660,17 @@
     "category": "research"
   },
   {
+    "id": "3bda6d52465cfd76ebb9f6fc5a6933e1",
+    "title_en": "Opening the Door to Medical and  Scientific Discoveries That Can  Save Millions of American Lives",
+    "source": "Globalresearch.ca",
+    "url": "https://www.globalresearch.ca/medical-%e2%80%a8scientific-discoveries-%e2%80%a8save-millions-american-lives/5936929",
+    "published_at": "2026-08-19T18:17:57Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "打开通往医学与科学发现的大门，拯救数百万美国人的生命",
+    "summary_zh": "文章呼吁政策制定者放宽对医学和科学研究的限制，特别是在AI辅助药物研发和基因编辑领域。作者认为，过度的监管阻碍了创新，导致潜在的治疗方法无法及时问世。通过简化审批流程和增加联邦资金支持，可以加速科学突破，从而挽救数百万美国人的生命，并巩固美国在全球生物科技领域的领导地位。",
+    "category": "research"
+  },
+  {
     "id": "18b18b3851292855a2aecd1f36835bfe",
     "title_en": "Watch Valve set up the Steam Frame in its own leaked videos",
     "source": "The Verge",
@@ -449,6 +680,105 @@
     "title_zh": "泄露视频显示Valve如何搭建Steam Frame",
     "summary_zh": "Valve自家泄露的视频展示了Steam Frame的搭建过程。这款设备被视为Steam Deck的扩展或新形态硬件。视频揭示了其模块化设计和组装细节，引发玩家对Valve未来硬件战略的猜测。官方尚未正式回应。",
     "category": "product"
+  },
+  {
+    "id": "3e23736900a06c9691d8ddb6d82886f6",
+    "title_en": "Report calls for deterrence mechanisms, government participation in AI-biology security",
+    "source": "Nextgov",
+    "url": "https://www.nextgov.com/artificial-intelligence/2026/08/report-calls-deterrence-mechanisms-government-participation-ai-biology-security/415517/",
+    "published_at": "2026-08-19T18:15:00Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "报告呼吁建立威慑机制并让政府参与AI生物学安全治理",
+    "summary_zh": "一份新报告指出，AI与生物技术的融合带来了前所未有的安全风险，包括可能被滥用于制造生物武器。报告建议建立有效的威慑机制，并呼吁政府直接参与AI生物学安全的监管和治理。具体措施包括对高风险DNA合成订单进行筛查、建立国际监督框架，以及投资开发检测生物威胁的AI工具。",
+    "category": "research"
+  },
+  {
+    "id": "3a09b6978fc45a8fee3336c4b45017d5",
+    "title_en": "Not Yet AI Curing Cancer But Validating Gains Can Be Made",
+    "source": "Next Big Future",
+    "url": "https://www.nextbigfuture.com/2026/08/not-yet-ai-curing-cancer-but-validating-gains-can-be-made.html",
+    "published_at": "2026-08-19T18:14:38Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "AI尚未治愈癌症，但验证性进展值得肯定",
+    "summary_zh": "文章指出，虽然AI目前还无法直接‘治愈’癌症，但在药物发现、医学影像分析和个性化治疗方案设计等方面取得了可验证的进展。例如，AI能加速识别潜在药物靶点，提高病理切片诊断的准确率。作者强调，应理性看待AI在医疗领域的阶段性成果，避免过度炒作，同时肯定其在提升研发效率和诊疗水平上的实际价值。",
+    "category": "research"
+  },
+  {
+    "id": "ee6b55daa10cdc579305b43990bfdccd",
+    "title_en": " Confirmed XIs: Atleti make their big debut against Málaga",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/confirmed-xis-atleti-make-their-big-debut-against-malaga-43302987",
+    "published_at": "2026-08-19T18:13:00Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "确认首发：马竞大轮换迎战马拉加",
+    "summary_zh": "马德里竞技官方公布了本场对阵马拉加的首发阵容，球队进行了大规模轮换，多名主力轮休，年轻球员和替补获得首发机会。这被视为球队在密集赛程下的战略调整，旨在为后续关键战役保留体能。尽管阵容变化大，但马竞仍被看好能在主场拿下对手，晋级下一轮。",
+    "category": "industry"
+  },
+  {
+    "id": "8cb5cf35bfed7000809fd3f42fb87973",
+    "title_en": "FOMC minutes highlight AI-driven inflation risks, reducing rate cut odds",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/fomc-minutes-highlight-ai-driven-inflation-risks-reducing-rate-cut-odds/",
+    "published_at": "2026-08-19T18:09:59Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "FOMC会议纪要凸显AI驱动的通胀风险，降息概率降低",
+    "summary_zh": "美联储最新公布的FOMC会议纪要显示，政策制定者认为AI技术的快速普及可能通过增加企业投资和生产力，间接推高通胀压力。这一担忧导致市场对短期内降息的预期进一步降低。纪要强调，尽管AI长期利好经济，但短期内可能加剧供需失衡，美联储将保持谨慎，继续观察数据以决定下一步货币政策。",
+    "category": "industry"
+  },
+  {
+    "id": "174e43c182b0afa631d29ab361f6571a",
+    "title_en": "Healthcare AI Must Earn Trust Before Adoption",
+    "source": "Cisco.com",
+    "url": "https://blogs.cisco.com/industries/healthcare-ai-must-earn-trust-before-adoption",
+    "published_at": "2026-08-19T18:09:49Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "医疗AI需先赢得信任方能获得采纳",
+    "summary_zh": "思科最新报告指出，医疗行业AI应用面临信任危机，患者和医生对AI诊断的可靠性存疑。报告强调，AI系统需在透明度、数据隐私和临床验证方面建立严格标准，才能被广泛采用。专家建议，医疗AI应优先用于辅助决策而非替代人类判断，并通过持续监测和反馈机制提升可信度。",
+    "category": "industry"
+  },
+  {
+    "id": "65a0ff7aff3fec7ad2e3f45f5413dd85",
+    "title_en": "2 Reasons to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/5fbde2301282f694",
+    "published_at": "2026-08-19T18:08:09Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "巴菲特钟爱的AI股票：两大理由值得买入并长期持有",
+    "summary_zh": "文章分析巴菲特投资组合中的人工智能相关股票，提出两大长期持有理由：一是AI技术驱动的持续增长潜力，二是公司稳健的商业模式和现金流。尽管市场波动，但该股票在AI应用落地中占据核心地位，适合价值投资者长期布局。",
+    "category": "industry"
+  },
+  {
+    "id": "c5db2cb9274667d86dd721f629514504",
+    "title_en": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    "source": "Internet",
+    "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+    "published_at": "2026-08-19T18:06:44Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "OpenAI暂停前沿强化学习训练，加强不安全AI行为防御",
+    "summary_zh": "OpenAI宣布暂停前沿模型的强化学习训练，以强化对不安全AI行为的防御机制。此举旨在防止模型在训练过程中产生有害或不可控行为，同时优化安全对齐技术。OpenAI表示，将重新评估训练流程，确保AI系统在复杂环境中保持安全性和可控性。",
+    "category": "research"
+  },
+  {
+    "id": "98a6ed08e962d208200b66ce4ada42e5",
+    "title_en": "Indian startup Murf AI aims to compete with OpenAI in crowded voice arena",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/indian-startup-murf-ai-aims-to-compete-with-openai-in-crowded-voice-arena-126081901405_1.html",
+    "published_at": "2026-08-19T18:02:34Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "印度初创Murf AI进军拥挤语音赛道，挑战OpenAI",
+    "summary_zh": "印度初创公司Murf AI宣布进入语音AI市场，与OpenAI等巨头竞争。该公司专注于语音合成和克隆技术，提供多语言、多场景的语音解决方案。Murf AI计划通过差异化定价和本地化服务抢占市场份额，并强调其在印度市场的语言优势。",
+    "category": "product"
+  },
+  {
+    "id": "10fa31b8a862d724b461fe1b51c6540b",
+    "title_en": "World Labs CEO Says US Must Set Good Example on AI",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/world-labs-ceo-says-us-must-set-good-example-on-ai/",
+    "published_at": "2026-08-19T18:02:09Z",
+    "fetched_at": "2026-08-20T18:24:00.493Z",
+    "title_zh": "World Labs CEO：美国应在AI领域树立良好典范",
+    "summary_zh": "World Labs首席执行官呼吁美国在AI发展方面发挥领导作用，制定明确的伦理和监管框架。他认为，美国的技术创新和价值观应成为全球AI治理的标杆，同时强调国际合作的重要性，以避免AI技术被滥用并确保其造福全人类。",
+    "category": "industry"
   },
   {
     "id": "9f3379f45b8c0a29161403c3ead311a0",
@@ -5168,335 +5498,5 @@
     "title_zh": "克隆技术或用于拯救物种，也可能制造人类“器官袋”",
     "summary_zh": "克隆技术的伦理边界再次引发热议。一方面，科学家利用克隆拯救濒危物种，恢复种群多样性；另一方面，有研究提出利用克隆技术培育人类胚胎作为“器官袋”，为移植医学提供无限器官来源。专家警告，后者涉及严重伦理问题，需全球立法严格监管，防止技术滥用。",
     "category": "research"
-  },
-  {
-    "id": "883069031f7577dd70d89d311286dc4e",
-    "title_en": "Help build a monument to that ‘sad little bitch’ Elon Musk",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
-    "published_at": "2026-08-14T08:40:13.000Z",
-    "fetched_at": "2026-08-14T12:42:33.134Z",
-    "title_zh": "网友众筹为马斯克建“悲伤小贱人”纪念碑",
-    "summary_zh": "一项网络众筹活动发起，计划为特斯拉CEO埃隆·马斯克建造一座“悲伤小贱人”纪念碑，以讽刺其近期言行。该活动迅速引发热议，支持者众多，但具体选址和建造计划尚未公布。此举反映了公众对马斯克争议性言论的戏谑与批评态度。",
-    "category": "industry"
-  },
-  {
-    "id": "ddd6b2f0ea5a7c1b4ede9ac33a8c9a08",
-    "title_en": "SanDisk lays out multiyear NAND roadmap and AI storage targets at investor day",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260814VL219/sandisk-roadmap-nand-2026-technology.html",
-    "published_at": "2026-08-14T06:12:00Z",
-    "fetched_at": "2026-08-15T06:21:21.794Z",
-    "title_zh": "SanDisk在投资者日公布多年NAND路线图及AI存储目标",
-    "summary_zh": "SanDisk在投资者日活动中公布了其多年NAND闪存技术路线图，并设定了针对AI工作负载的存储目标。随着AI训练和推理对高带宽、低延迟存储的需求激增，SanDisk计划推出更高密度、更高效的NAND产品。此举旨在巩固其在存储市场的地位，并满足数据中心对AI存储解决方案的快速增长需求。",
-    "category": "industry"
-  },
-  {
-    "id": "9168d51841f19c85ad491b976872c5e5",
-    "title_en": "️ LaLiga returns, Ferran heads to Paris... Friday’s back pages",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/laliga-returns-ferran-heads-to-paris-fridays-back-pages-43274336",
-    "published_at": "2026-08-14T06:10:00Z",
-    "fetched_at": "2026-08-15T06:21:21.794Z",
-    "title_zh": "西甲回归，费兰前往巴黎……周五报纸头版",
-    "summary_zh": "这是一条体育新闻摘要，涉及西甲联赛回归以及球员费兰转会巴黎的传闻。内容主要来自英国和欧洲报纸的头版报道，聚焦足球转会市场和联赛动态。对于关注欧洲足球的读者，这些消息提供了最新的转会线索和赛事前瞻，但并非AI相关新闻。",
-    "category": "industry"
-  },
-  {
-    "id": "85a5831a9cf5d47156d48c1857871378",
-    "title_en": "AI Data Center Buildout in Rural U.S. Raises Water, Zoning and Regulatory Questions",
-    "source": "Naturalnews.com",
-    "url": "https://www.naturalnews.com/2026-08-14-data-center-buildout-water-zoning-regulatory-questions.html",
-    "published_at": "2026-08-14T06:00:00Z",
-    "fetched_at": "2026-08-15T06:21:21.794Z",
-    "title_zh": "美国农村AI数据中心建设引发水资源、分区和监管问题",
-    "summary_zh": "随着AI数据中心在美国农村地区大规模建设，当地面临水资源消耗、土地分区和监管挑战。这些设施需要大量电力和水用于冷却，引发环保担忧。社区和地方政府正在重新评估法规，以平衡经济发展与环境保护。文章探讨了AI基础设施扩张对农村地区的实际影响，以及政策调整的必要性。",
-    "category": "industry"
-  },
-  {
-    "id": "9c9aa0a18e6691b0d861c5b664fa39a2",
-    "title_en": "Jefferies’ Chris Wood spots a hidden risk in Big Tech’s $165 billion AI capex race",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-chris-wood-spots-a-hidden-risk-in-big-techs-165-billion-ai-capex-race/articleshow/133230392.cms",
-    "published_at": "2026-08-14T05:58:59Z",
-    "fetched_at": "2026-08-15T06:21:21.794Z",
-    "title_zh": "杰富瑞分析师Chris Wood发现大型科技公司1650亿美元AI资本支出竞赛中的隐藏风险",
-    "summary_zh": "杰富瑞策略师Chris Wood指出，大型科技公司高达1650亿美元的AI资本支出竞赛存在隐藏风险。他警告，过度投资可能导致回报率下降和资产泡沫，尤其是在AI商业化不及预期的情况下。这一观点引发市场对科技股估值的担忧，投资者需关注AI投资回报周期和潜在的市场调整风险。",
-    "category": "industry"
-  },
-  {
-    "id": "b99009bdadb13b5030150bb7ddbefc11",
-    "title_en": "This Bengaluru startup is training dogs and AI to sniff out cancer early",
-    "source": "The Next Web",
-    "url": "https://thenextweb.com/news/dognosis-cancer-sniffing-dogs-ai",
-    "published_at": "2026-08-14T05:56:00Z",
-    "fetched_at": "2026-08-15T06:21:21.795Z",
-    "title_zh": "这家班加罗尔初创公司训练狗和AI早期嗅出癌症",
-    "summary_zh": "班加罗尔一家初创公司结合犬类嗅觉和AI技术，开发早期癌症检测方法。狗能嗅出癌症相关挥发性有机化合物，AI则分析气味模式，提高诊断准确性。该创新有望提供低成本、非侵入性的筛查方案，尤其适用于资源有限地区。项目处于早期阶段，但展示了生物与AI融合在医疗领域的潜力。",
-    "category": "research"
-  },
-  {
-    "id": "7296b45038d3e0cd319b5948df834c46",
-    "title_en": "MPI posts record 2Q26 revenue, profit as probe card capacity stays fully loaded",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260814PD200/mpi-capacity-revenue-profit-test-interface.html",
-    "published_at": "2026-08-14T05:55:00Z",
-    "fetched_at": "2026-08-15T06:21:21.795Z",
-    "title_zh": "MPI公布创纪录的2Q26营收和利润，探针卡产能持续满载",
-    "summary_zh": "半导体测试公司MPI发布2026年第二季度财报，营收和利润创历史新高，主要得益于探针卡产能持续满载。随着AI芯片和先进封装需求增长，探针卡市场供不应求。MPI的强劲业绩反映了半导体测试设备行业的景气度，也表明AI硬件产业链上游的产能紧张状况仍在持续。",
-    "category": "industry"
-  },
-  {
-    "id": "a019428f689aa332dda67889cb59e55c",
-    "title_en": " When to hold your fantasy draft? Three options, new for 26/27 ⚠️",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/when-to-hold-your-fantasy-draft-three-options-new-for-2627-43274276",
-    "published_at": "2026-08-14T05:53:00Z",
-    "fetched_at": "2026-08-15T06:21:21.795Z",
-    "title_zh": "何时进行梦幻选秀？三个选项，26/27赛季新变化⚠️",
-    "summary_zh": "这是一条关于梦幻体育（Fantasy Sports）的新闻，讨论26/27赛季选秀时间的选择。文章提供三个选项，可能涉及季前赛、常规赛开始前等不同时间点，并强调新赛季规则变化。对于梦幻体育玩家，选秀时机影响球员评估和策略，但内容与AI技术无关。",
-    "category": "industry"
-  },
-  {
-    "id": "45b6516ec1cb092b79d22ad734c8a1ba",
-    "title_en": "HCLTech, NetApp expand partnership to deliver hybrid cloud storage-as-a-service for enterprise AI",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-netapp-expand-partnership-to-deliver-hybrid-cloud-storage-as-a-service-for-enterprise-ai/articleshow/133230235.cms",
-    "published_at": "2026-08-14T05:47:30Z",
-    "fetched_at": "2026-08-15T06:21:21.795Z",
-    "title_zh": "HCLTech与NetApp扩大合作，为企业AI提供混合云存储即服务",
-    "summary_zh": "HCLTech和NetApp宣布扩大合作伙伴关系，共同推出面向企业AI的混合云存储即服务（STaaS）。该服务旨在简化数据管理，支持AI工作负载的高性能存储需求，并降低企业IT成本。合作将结合HCLTech的系统集成能力与NetApp的存储技术，帮助企业加速AI部署，应对数据爆炸和存储复杂性挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "057b3e7691ad490f7759d589f0356855",
-    "title_en": "Santos FC come from behind to beat Macará in Sudamericana opener",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/santos-fc-come-from-behind-to-beat-macara-in-sudamericana-opener-43274258",
-    "published_at": "2026-08-14T05:40:00Z",
-    "fetched_at": "2026-08-15T06:21:21.795Z",
-    "title_zh": "桑托斯FC逆转击败马卡拉，赢得南美杯揭幕战",
-    "summary_zh": "桑托斯足球俱乐部在南美杯揭幕战中上演逆转，最终战胜对手马卡拉。比赛过程跌宕起伏，桑托斯在先失球的情况下连入数球，取得开门红。这场胜利为球队在小组赛中奠定良好基础，也展示了球队的韧性和进攻实力。内容为体育赛事报道，与AI无关。",
-    "category": "industry"
-  },
-  {
-    "id": "5535ff679d816e1a26bc038d18af77af",
-    "title_en": "MP Board timetable 2027 out: Class 10th, 12th exams to be held in Feb-Mar",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/education/news/mp-board-timetable-2027-out-class-10th-12th-exams-to-be-held-in-feb-mar-nc-126081400651_1.html",
-    "published_at": "2026-08-14T05:38:39Z",
-    "fetched_at": "2026-08-15T06:21:21.795Z",
-    "title_zh": "MP Board 2027年时间表公布：10年级和12年级考试将于2月至3月举行",
-    "summary_zh": "印度中央邦教育委员会（MP Board）公布了2027年10年级和12年级的考试时间表，考试将在2月至3月期间举行。这一安排为考生提供了明确的备考时间线，学校和学生可据此调整复习计划。时间表的提前发布有助于减少不确定性，但内容为教育新闻，与AI技术无关。",
-    "category": "industry"
-  },
-  {
-    "id": "8eb98de03a7ae258eb67a081e3aea5db",
-    "title_en": "Columbia Promo Codes: 15% Off | August 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/columbia-promo-code/",
-    "published_at": "2026-08-14T05:00:00.000Z",
-    "fetched_at": "2026-08-14T07:10:06.045Z",
-    "title_zh": "哥伦比亚促销代码：2026年8月享15%折扣",
-    "summary_zh": "据Wired报道，哥伦比亚（Columbia）品牌在2026年8月推出促销活动，消费者使用专属促销代码可享受15%的折扣优惠。该优惠适用于该品牌的户外服饰及装备，为夏季户外运动爱好者提供了实惠的购物机会。此次促销是品牌夏季营销活动的一部分，旨在吸引更多消费者购买其产品。",
-    "category": "product"
-  },
-  {
-    "id": "8461157e34571a0a68727e8c61b5a7bc",
-    "title_en": "Layla Sleep Coupon: Save Up to $600 in August 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/layla-sleep-coupon/",
-    "published_at": "2026-08-14T05:00:00.000Z",
-    "fetched_at": "2026-08-14T07:10:06.045Z",
-    "title_zh": "Layla Sleep优惠券：2026年8月最高可省600美元",
-    "summary_zh": "床垫品牌Layla Sleep在2026年8月推出大幅优惠活动，消费者使用优惠券最高可节省600美元。该优惠主要针对其高端床垫及睡眠产品，旨在提升夏季销售业绩。对于计划更换床垫或改善睡眠质量的消费者而言，这是一个不容错过的省钱机会。",
-    "category": "product"
-  },
-  {
-    "id": "65b01abd10e1a9e1fe80f7b1bf4d37c6",
-    "title_en": "Office Depot Coupons: Save With Promo Codes in August 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/office-depot-promo-codes/",
-    "published_at": "2026-08-14T05:00:00.000Z",
-    "fetched_at": "2026-08-14T07:10:06.045Z",
-    "title_zh": "Office Depot优惠券：2026年8月使用促销码省钱",
-    "summary_zh": "办公用品零售商Office Depot在2026年8月推出系列促销活动，消费者使用促销代码可在购买办公设备、文具等商品时享受折扣。此举旨在吸引企业及个人消费者，尤其是在返校季前夕，为有采购需求的用户提供实惠。具体优惠力度因商品而异。",
-    "category": "product"
-  },
-  {
-    "id": "01862ea607f8671a40ffa3d03c3013b5",
-    "title_en": "HelloFresh Promo Codes: 55% Off for August 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/hellofresh-coupon/",
-    "published_at": "2026-08-14T05:00:00.000Z",
-    "fetched_at": "2026-08-14T07:10:06.045Z",
-    "title_zh": "HelloFresh促销代码：2026年8月享55%折扣",
-    "summary_zh": "餐食配送服务商HelloFresh在2026年8月推出重磅促销，新用户使用促销代码可享受首单55%的折扣。该优惠旨在降低用户尝试门槛，吸引更多家庭体验其便捷的食材配送服务。此举是其在竞争激烈的餐食配送市场中扩大用户基础的重要策略。",
-    "category": "product"
-  },
-  {
-    "id": "ed58f8a3e93863ace1c88896521f70cb",
-    "title_en": "Pura Promo Codes: $20 Off August 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/pura-promo-code/",
-    "published_at": "2026-08-14T05:00:00.000Z",
-    "fetched_at": "2026-08-14T07:10:06.045Z",
-    "title_zh": "Pura促销代码：2026年8月立减20美元",
-    "summary_zh": "智能家居香氛品牌Pura在2026年8月推出促销活动，消费者使用促销代码可享受20美元的折扣。该优惠适用于其智能香薰机及香氛产品，旨在吸引新用户并促进产品销量。对于关注智能家居生活品质的消费者来说，这是一个不错的购买时机。",
-    "category": "product"
-  },
-  {
-    "id": "6a33a4983709c885a9bb40032d7957cd",
-    "title_en": "Babbel Promo Code: Up to 65% Off in August 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/babbel-promo-code/",
-    "published_at": "2026-08-14T05:00:00.000Z",
-    "fetched_at": "2026-08-14T07:10:06.045Z",
-    "title_zh": "Babbel促销代码：2026年8月最高享65%折扣",
-    "summary_zh": "语言学习平台Babbel在2026年8月推出限时促销，用户使用促销代码订阅课程最高可享受65%的折扣。该优惠旨在吸引更多语言学习者，降低学习成本。此举是Babbel在竞争激烈的在线教育市场中提升用户付费转化率的常见营销手段。",
-    "category": "product"
-  },
-  {
-    "id": "abb6f91ccf80a17bf181f2fe8f895589",
-    "title_en": "Acer Promo Codes: 40% Off",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/acer-promo-code/",
-    "published_at": "2026-08-14T05:00:00.000Z",
-    "fetched_at": "2026-08-14T07:10:06.045Z",
-    "title_zh": "宏碁促销代码：享40%折扣",
-    "summary_zh": "电脑品牌宏碁（Acer）推出促销活动，消费者使用促销代码购买指定产品可享受高达40%的折扣。该优惠覆盖笔记本、台式机等产品线，旨在提升销量并清理库存。对于近期有电脑购买需求的消费者而言，这是一个值得关注的优惠信息。",
-    "category": "product"
-  },
-  {
-    "id": "10552dcf62ab92fca081da923fd19cd6",
-    "title_en": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-    "published_at": "2026-08-14T01:06:15.000Z",
-    "fetched_at": "2026-08-14T01:08:08.957Z",
-    "title_zh": "特朗普宣布对多数无人机及所有飞机零部件征收100%关税",
-    "summary_zh": "美国政府宣布对进口的多数无人机和所有飞机零部件征收100%的惩罚性关税。这一政策旨在推动国内制造业回流，但可能对依赖全球供应链的科技和航空产业造成冲击。分析人士指出，此举将显著提高相关产品的成本，并可能引发贸易伙伴的报复性措施，对全球科技产业链产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "f053d0f5ca48eeaf36d836816eea53a8",
-    "title_en": "Insurance software provider Accelerant to be taken private for $4.4B",
-    "source": "SiliconANGLE News",
-    "url": "https://siliconangle.com/2026/08/13/insurance-software-provider-accelerant-taken-private-4-4b/",
-    "published_at": "2026-08-14T00:40:32Z",
-    "fetched_at": "2026-08-15T00:41:32.791Z",
-    "title_zh": "保险软件供应商Accelerant将以44亿美元被私有化收购",
-    "summary_zh": "保险科技软件供应商Accelerant宣布达成协议，将以44亿美元估值被私募股权财团私有化收购。该公司为保险承保商提供数据分析和风险管理平台，近年增长迅速。私有化后或将加速技术投资和业务重组，摆脱公开市场压力。此交易反映保险科技领域并购活跃，资本看好AI驱动的保险基础设施。",
-    "category": "industry"
-  },
-  {
-    "id": "e4de43b5f3aab58a78728ea8c8dae2f2",
-    "title_en": "Top FPIs ride out storm, outrun Nifty & Sensex in Q1",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/top-fpis-ride-out-stormoutrun-nifty-sensex-in-q1/articleshow/133226731.cms",
-    "published_at": "2026-08-14T00:39:01Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "顶级外资机构投资者在风暴中逆势跑赢Nifty与Sensex指数",
-    "summary_zh": "2026年第一季度，尽管市场波动剧烈，顶级外国投资组合投资者（FPIs）通过精准选股和防御性配置，成功跑赢印度基准指数Nifty和Sensex。分析显示，这些机构重仓IT、金融和消费板块，并利用衍生品对冲风险。该表现凸显外资在印度市场的策略优势，也为本土投资者提供了参考。",
-    "category": "industry"
-  },
-  {
-    "id": "c1ed25f11c52667d8d25c6ddbf7b9988",
-    "title_en": "BGMI-maker Krafton eyes AI over gaming as investments touch $900 million in India",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/companies/krafton-india-bgmi-krafton-investments-indian-startups-venture-capital-ai-consumer-internet-vc-funds-11786540250124.html",
-    "published_at": "2026-08-14T00:33:55Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "BGMI开发商Krafton在印投资达9亿美元，重心从游戏转向AI",
-    "summary_zh": "韩国游戏公司Krafton（《绝地求生》手游BGMI开发商）在印度的累计投资已增至9亿美元，但战略重心正从游戏业务转向人工智能领域。公司已投资多家印度AI初创，涵盖内容生成、语音技术和企业解决方案。Krafton表示看好印度AI人才和市场潜力，计划进一步扩大布局，显示游戏巨头正积极转型为科技投资集团。",
-    "category": "industry"
-  },
-  {
-    "id": "ec5f0c7785ed86560637b2435b632d56",
-    "title_en": "Xenco Medical introduces XenVision at SIGGRAPH 2026",
-    "source": "Digital Journal",
-    "url": "https://www.digitaljournal.com/article/xenco-medical-introduces-xenvision-at-siggraph-2026/",
-    "published_at": "2026-08-14T00:30:22Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "Xenco Medical在SIGGRAPH 2026大会上发布XenVision",
-    "summary_zh": "医疗科技公司Xenco Medical在SIGGRAPH 2026大会上推出全新产品XenVision，该技术结合先进视觉计算与医学影像处理，旨在提升手术规划和诊断精度。XenVision利用AI增强现实和3D可视化，帮助医生更直观地理解患者解剖结构。此次发布标志着医疗与计算机图形学的深度融合，有望推动精准医疗发展。",
-    "category": "product"
-  },
-  {
-    "id": "1503e38ee7c500e1b10dfa4b09899df6",
-    "title_en": "In Santana de Parnaíba, São Paulo beat Santos in Paulistão F",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/in-santana-de-parnaiba-sao-paulo-beat-santos-in-paulistao-f-43273834",
-    "published_at": "2026-08-14T00:30:00Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "圣保罗州锦标赛：桑塔纳-德帕尔纳伊巴队击败桑托斯队",
-    "summary_zh": "在巴西圣保罗州足球锦标赛（Paulistão）的一场比赛中，来自桑塔纳-德帕尔纳伊巴的球队战胜了传统劲旅桑托斯队。这场比赛结果出乎意料，引发球迷热议。文章报道了比赛关键进球和战术亮点，并分析了弱队爆冷的原因，包括主场优势和对手轮换阵容。此结果对小组排名产生重要影响。",
-    "category": "industry"
-  },
-  {
-    "id": "8b19a08895d1e026b3c1c85ab4f4a5ae",
-    "title_en": "Alberta's government to study ability of province's water supply to support population, economic growth",
-    "source": "CBC News",
-    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-water-security-study-9.7306756",
-    "published_at": "2026-08-14T00:22:38Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "阿尔伯塔省政府将研究本省水资源对人口与经济增长的支撑能力",
-    "summary_zh": "阿尔伯塔省政府宣布启动一项研究，评估本省水资源能否支撑未来人口增长和经济发展。该研究将分析水资源储量、使用需求及可持续性，为政策制定提供依据。此举旨在平衡资源开发与环境保护，确保长期供水安全。",
-    "category": "industry"
-  },
-  {
-    "id": "470c49411fb4fccd19a339f0ce749315",
-    "title_en": "Al boom mints new winners you've never heard of",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/c4093cd783d133b4",
-    "published_at": "2026-08-14T00:20:49Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "AI热潮催生一批你从未听过的新赢家",
-    "summary_zh": "随着人工智能热潮持续升温，一批此前默默无闻的公司迅速崛起，成为行业新贵。这些企业专注于AI基础设施、数据服务或垂直应用，虽不为人熟知，却已获得巨额投资和市场关注。它们正在重塑AI产业链格局，挑战传统科技巨头的主导地位。",
-    "category": "industry"
-  },
-  {
-    "id": "391c409beaa3dd69745d25dca62e26ce",
-    "title_en": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
-    "published_at": "2026-08-14T00:09:11Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "从苹果到福特：中国科技为何让全球企业越来越难以忽视",
-    "summary_zh": "中国科技企业在人工智能、电动汽车和供应链领域的技术创新日益强大，从苹果到福特等全球巨头都开始依赖或合作。中国科技不再只是低成本制造，而是成为关键技术和解决方案的提供者。这一趋势正在改变全球科技产业格局，促使跨国企业重新评估其战略。",
-    "category": "industry"
-  },
-  {
-    "id": "dad181e3e37144c58f101b51aba92a12",
-    "title_en": "Ex-JAMB registrar tasks Kwara varsities on solutions to socio-economic challenges",
-    "source": "The Punch",
-    "url": "https://punchng.com/ex-jamb-registrar-tasks-kwara-varsities-on-solutions-to-socio-economic-challenges/",
-    "published_at": "2026-08-14T00:05:13Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "前JAMB注册主任要求夸拉州大学提供社会经济挑战解决方案",
-    "summary_zh": "前联合招生与入学注册委员会（JAMB）注册主任呼吁夸拉州各大学积极研究并解决当地社会经济问题。他强调高校应发挥智力优势，与政府和企业合作，提出切实可行的方案，推动区域发展和民生改善。此举旨在加强大学与社会需求的联系。",
-    "category": "research"
-  },
-  {
-    "id": "cac80678706bc5710180953d212da953",
-    "title_en": " Neymar makes the difference, Santos rally to lead Macará",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/neymar-makes-the-difference-santos-rally-to-lead-macara-43273792",
-    "published_at": "2026-08-14T00:03:00Z",
-    "fetched_at": "2026-08-15T00:41:32.792Z",
-    "title_zh": "内马尔关键表现，桑托斯逆转领先马卡拉",
-    "summary_zh": "在足球比赛中，内马尔发挥关键作用，帮助桑托斯队实现逆转，暂时领先马卡拉队。他的出色表现成为比赛转折点，展现了个人技术和领导力。这场胜利对桑托斯在赛事中的排名和士气有积极影响。",
-    "category": "product"
-  },
-  {
-    "id": "b29ef0aecc177f3ccb3c0776c346b4a5",
-    "title_en": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
-    "published_at": "2026-08-13T23:13:24.000Z",
-    "fetched_at": "2026-08-14T01:08:08.957Z",
-    "title_zh": "苹果与Epic再起争执：App Store外购买抽成比例成焦点",
-    "summary_zh": "苹果与Epic Games的法律纠纷再度升级，双方就苹果是否应对外部支付渠道的购买行为抽取佣金及抽成比例展开激烈辩论。Epic认为苹果的抽成政策违反法院禁令，而苹果则辩称其服务费合理。此案的最终裁决可能重塑应用商店的商业模式，对全球开发者生态产生重大影响。",
-    "category": "industry"
   }
 ]
