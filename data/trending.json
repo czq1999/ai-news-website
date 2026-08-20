@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-20",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态：短视频自动生成、多智能体协作框架、网络安全技能库、交易引擎及本地照片管理工具，凸显AI工具链实用化与自主托管趋势。",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：短视频自动生成、多代理协作框架、网络安全技能库及交易引擎等，同时涵盖自托管相册与本地推理优化，展现AI工具链多元化发展。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/harry0703/MoneyPrinterTurbo",
           "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
           "language": "Python",
-          "stars_total": 110641,
+          "stars_total": 111570,
           "stars_today": 2221,
           "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 223793,
+          "stars_total": 224262,
           "stars_today": 1894,
           "description_zh": "面向真实工程师的技能集，直接来自我的 .agents 目录。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/amadeusprotocol/node",
           "description_en": "",
           "language": "Rust",
-          "stars_total": 4541,
+          "stars_total": 4774,
           "stars_today": 1397,
           "description_zh": ""
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/volcengine/OpenViking",
           "description_en": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
           "language": "Python",
-          "stars_total": 30178,
+          "stars_total": 30493,
           "stars_today": 804,
           "description_zh": "面向 AI 代理的自进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/chaitanyagiri/munder-difflin",
           "description_en": "local multi-agent harness",
           "language": "TypeScript",
-          "stars_total": 2687,
+          "stars_total": 2822,
           "stars_today": 795,
           "description_zh": "本地多代理协调框架"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
           "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
           "language": "Python",
-          "stars_total": 29837,
+          "stars_total": 30032,
           "stars_today": 766,
           "description_zh": "817 个面向 AI 代理的结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（反欺诈）· 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 覆盖 29 个安全领域 · Apache 2.0 许可"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 274265,
+          "stars_total": 274450,
           "stars_today": 557,
           "description_zh": "一套行之有效的代理技能框架和软件开发方法论。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/jundot/omlx",
           "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
           "language": "Python",
-          "stars_total": 19834,
+          "stars_total": 19914,
           "stars_today": 472,
           "description_zh": "为 Apple Silicon 设计的 LLM 推理服务器，支持连续批处理和 SSD 缓存——可通过 macOS 菜单栏管理"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 16224,
+          "stars_total": 16253,
           "stars_today": 430,
           "description_zh": ""
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/santifer/career-ops",
           "description_en": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
           "language": "JavaScript",
-          "stars_total": 65788,
+          "stars_total": 65994,
           "stars_today": 198,
           "description_zh": "开源 AI 求职工具：扫描招聘门户，用结构化的 A-F 评分标准评估职位并给出 1.0-5.0 分，定制简历，跟踪申请进度——可在本地 AI 编码 CLI（Claude Code、Codex、OpenCode、Antigravity 等）中运行"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/immich-app/immich",
           "description_en": "High performance self-hosted photo and video management solution.",
           "language": "TypeScript",
-          "stars_total": 111872,
+          "stars_total": 112002,
           "stars_today": 128,
           "description_zh": "高性能自托管照片和视频管理解决方案。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/nautechsystems/nautilus_trader",
           "description_en": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
           "language": "Rust",
-          "stars_total": 26443,
+          "stars_total": 26545,
           "stars_today": 80,
           "description_zh": "生产级 Rust 原生交易引擎，采用确定性事件驱动架构"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/marceloprates/prettymaps",
           "description_en": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
           "language": "Python",
-          "stars_total": 13113,
+          "stars_total": 13306,
           "stars_today": 63,
           "description_zh": "从 OpenStreetMap 数据绘制精美地图！基于 osmnx + matplotlib + shapely 构建"
         }
