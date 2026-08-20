@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-20",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态：短视频自动生成、多代理协作框架、网络安全技能库及交易引擎等，同时涵盖自托管相册与本地推理优化，展现AI工具链多元化发展。",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：模块化开发框架、代理技能体系、本地优先工具链，以及AI驱动的短视频生成与求职自动化，凸显高效开发与智能自动化趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/harry0703/MoneyPrinterTurbo",
           "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
           "language": "Python",
-          "stars_total": 111570,
-          "stars_today": 2221,
+          "stars_total": 112363,
+          "stars_today": 2774,
           "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
         },
         {
@@ -20,19 +20,19 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 224262,
+          "stars_total": 224904,
           "stars_today": 1894,
           "description_zh": "面向真实工程师的技能集，直接来自我的 .agents 目录。"
         },
         {
           "rank": 3,
-          "name": "amadeusprotocol/node",
-          "url": "https://github.com/amadeusprotocol/node",
-          "description_en": "",
+          "name": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "description_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
           "language": "Rust",
-          "stars_total": 4774,
-          "stars_today": 1397,
-          "description_zh": ""
+          "stars_total": 11102,
+          "stars_today": 1225,
+          "description_zh": "⚡️一款用 Rust 🦀 编写的原生、本地优先的 Logitech Options+ 替代品——通过 HID++ 重新映射按键、DPI 和 SmartShift。无账户，无遥测。"
         },
         {
           "rank": 4,
@@ -40,29 +40,29 @@
           "url": "https://github.com/volcengine/OpenViking",
           "description_en": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
           "language": "Python",
-          "stars_total": 30493,
-          "stars_today": 804,
+          "stars_total": 30765,
+          "stars_today": 955,
           "description_zh": "面向 AI 代理的自进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
         },
         {
           "rank": 5,
-          "name": "chaitanyagiri/munder-difflin",
-          "url": "https://github.com/chaitanyagiri/munder-difflin",
-          "description_en": "local multi-agent harness",
-          "language": "TypeScript",
-          "stars_total": 2822,
-          "stars_today": 795,
-          "description_zh": "本地多代理协调框架"
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description_en": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Rust",
+          "stars_total": 15769,
+          "stars_today": 736,
+          "description_zh": "一个基于 TurboQuant 构建的向量索引，用 Rust 编写并带有 Python 绑定"
         },
         {
           "rank": 6,
-          "name": "mukul975/Anthropic-Cybersecurity-Skills",
-          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-          "language": "Python",
-          "stars_total": 30032,
-          "stars_today": 766,
-          "description_zh": "817 个面向 AI 代理的结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（反欺诈）· 遵循 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20+ 平台 · 覆盖 29 个安全领域 · Apache 2.0 许可"
+          "name": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "description_en": "Visualize your year in travel using your Google Location History (Timeline) data",
+          "language": "Kotlin",
+          "stars_total": 972,
+          "stars_today": 575,
+          "description_zh": "使用你的 Google 位置历史（时间线）数据可视化你的年度旅行"
         },
         {
           "rank": 7,
@@ -70,69 +70,109 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 274450,
+          "stars_total": 274652,
           "stars_today": 557,
           "description_zh": "一套行之有效的代理技能框架和软件开发方法论。"
         },
         {
           "rank": 8,
-          "name": "jundot/omlx",
-          "url": "https://github.com/jundot/omlx",
-          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-          "language": "Python",
-          "stars_total": 19914,
-          "stars_today": 472,
-          "description_zh": "为 Apple Silicon 设计的 LLM 推理服务器，支持连续批处理和 SSD 缓存——可通过 macOS 菜单栏管理"
+          "name": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "description_en": "local multi-agent harness",
+          "language": "TypeScript",
+          "stars_total": 2954,
+          "stars_today": 517,
+          "description_zh": "本地多代理协调框架"
         },
         {
           "rank": 9,
-          "name": "genlayerlabs/genlayer-project-boilerplate",
-          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
-          "description_en": "",
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description_en": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "stars_total": 16253,
-          "stars_today": 430,
-          "description_zh": ""
+          "stars_total": 3870,
+          "stars_today": 473,
+          "description_zh": "Cursor 插件规范及官方插件"
         },
         {
           "rank": 10,
+          "name": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "description_en": "The Modular Platform (includes MAX & Mojo)",
+          "language": "Mojo",
+          "stars_total": 27518,
+          "stars_today": 340,
+          "description_zh": "模块化平台（包含 MAX 和 Mojo）"
+        },
+        {
+          "rank": 11,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "language": "Rust",
+          "stars_total": 3383,
+          "stars_today": 335,
+          "description_zh": "为代理编码 CLI 提供长期记忆的解决方案，并促进不同代理供应商之间的交接"
+        },
+        {
+          "rank": 12,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "language": "Go",
+          "stars_total": 99368,
+          "stars_today": 286,
+          "description_zh": "🪨 为什么用很多 token 而少 token 也能搞定——一个 Claude Code 技能，通过像穴居人一样说话削减 65% 的 token"
+        },
+        {
+          "rank": 13,
           "name": "santifer/career-ops",
           "url": "https://github.com/santifer/career-ops",
           "description_en": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
           "language": "JavaScript",
-          "stars_total": 65994,
+          "stars_total": 66228,
           "stars_today": 198,
           "description_zh": "开源 AI 求职工具：扫描招聘门户，用结构化的 A-F 评分标准评估职位并给出 1.0-5.0 分，定制简历，跟踪申请进度——可在本地 AI 编码 CLI（Claude Code、Codex、OpenCode、Antigravity 等）中运行"
         },
         {
-          "rank": 11,
-          "name": "immich-app/immich",
-          "url": "https://github.com/immich-app/immich",
-          "description_en": "High performance self-hosted photo and video management solution.",
+          "rank": 14,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description_en": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
           "language": "TypeScript",
-          "stars_total": 112002,
-          "stars_today": 128,
-          "description_zh": "高性能自托管照片和视频管理解决方案。"
+          "stars_total": 56222,
+          "stars_today": 54,
+          "description_zh": "🔥🔥🔥 开源的 Jira、Linear、Monday 和 ClickUp 替代品。Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
         },
         {
-          "rank": 12,
-          "name": "nautechsystems/nautilus_trader",
-          "url": "https://github.com/nautechsystems/nautilus_trader",
-          "description_en": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-          "language": "Rust",
-          "stars_total": 26545,
-          "stars_today": 80,
-          "description_zh": "生产级 Rust 原生交易引擎，采用确定性事件驱动架构"
-        },
-        {
-          "rank": 13,
-          "name": "marceloprates/prettymaps",
-          "url": "https://github.com/marceloprates/prettymaps",
-          "description_en": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+          "rank": 15,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
           "language": "Python",
-          "stars_total": 13306,
-          "stars_today": 63,
-          "description_zh": "从 OpenStreetMap 数据绘制精美地图！基于 osmnx + matplotlib + shapely 构建"
+          "stars_total": 37824,
+          "stars_today": 41,
+          "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发者工具——AI 可观测性、分析、会话回放、功能开关、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和修复缺陷所需的所有上下文。可通过 Slack、Web、桌面或 MCP 进行全方位操控。"
+        },
+        {
+          "rank": 16,
+          "name": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "description_en": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+          "language": "Python",
+          "stars_total": 4765,
+          "stars_today": 28,
+          "description_zh": "一个全栈 AI 红队平台，通过代理扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估来保护 AI 生态系统。"
+        },
+        {
+          "rank": 17,
+          "name": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description_en": "Agent Substrate: the core system",
+          "language": "Go",
+          "stars_total": 1285,
+          "stars_today": 26,
+          "description_zh": "Agent Substrate：核心系统"
         }
       ]
     },
