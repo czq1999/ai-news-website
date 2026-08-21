@@ -1,5 +1,60 @@
 [
   {
+    "id": "1c3bc6342d3f8ae15a505d48d9323c12",
+    "title_en": "Kubernetes 实战课程 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/ForceInjection/kubernetes-hands-on-course",
+    "published_at": "2026-08-21T18:23:39.147Z",
+    "fetched_at": "2026-08-21T18:23:39.147Z",
+    "title_zh": "Kubernetes 实战课程 - GitHub",
+    "summary_zh": "该GitHub仓库提供了一套完整的Kubernetes实战课程，覆盖从集群搭建、Pod调度、服务发现到Ingress、存储与安全配置等核心主题。课程以动手实验为导向，包含大量YAML示例和常见故障排查案例，帮助运维与开发人员快速掌握生产级集群管理技能。内容还涉及Helm包管理、监控告警（Prometheus+Grafana）以及CI/CD集成，适合希望系统提升云原生能力的工程师。",
+    "topic": "ops"
+  },
+  {
+    "id": "b3323bf93e443c29d373aa9a0900d1b0",
+    "title_en": "Docker性能优化：让容器跑得更快 - 腾讯云开发者社区",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2595679",
+    "published_at": "2026-08-21T18:23:39.147Z",
+    "fetched_at": "2026-08-21T18:23:39.147Z",
+    "title_zh": "Docker性能优化：让容器跑得更快 - 腾讯云开发者社区",
+    "summary_zh": "本文聚焦Docker容器性能调优，从镜像构建、运行时配置到宿主机资源管理多个层面展开。作者分享了减少镜像体积（多阶段构建、精简基础镜像）、优化存储驱动（Overlay2 vs. VFS）、合理设置CPU/内存限制以及网络模式选择等实用技巧。同时，文章通过基准测试数据对比不同优化策略的效果，并给出针对高并发场景的调优建议，帮助开发者显著降低容器启动延迟和资源开销。",
+    "topic": "ops"
+  },
+  {
+    "id": "391b6a3eb5f07d7800aa5a07c741f54c",
+    "title_en": "【2026最新版】保姆级AI Agent智能应用从0到1定制开发教程！通俗易懂 ...",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=LenB-tCVrp8",
+    "published_at": "2026-08-21T18:23:38.049Z",
+    "fetched_at": "2026-08-21T18:23:38.049Z",
+    "title_zh": "【2026最新版】保姆级AI Agent智能应用从0到1定制开发教程！通俗易懂 ...",
+    "summary_zh": "本教程面向零基础开发者，系统讲解AI Agent从需求分析、架构设计到代码实现的全流程。内容涵盖Agent核心组件（规划、记忆、工具调用）、主流框架（如LangChain、AutoGen）的对比与选型，以及如何通过Prompt工程和外部API集成增强Agent能力。教程以实际项目为例，逐步演示调试与部署技巧，并讨论常见陷阱与性能优化策略，是快速上手企业级Agent开发的实用指南。",
+    "topic": "ai"
+  },
+  {
+    "id": "9c59361058ece8a5cfc3be7f073765dc",
+    "title_en": "万字全景解读大模型微调技术：方法、实践与未来趋势",
+    "source": "woshipm.com",
+    "url": "https://www.woshipm.com/ai/6256219.html",
+    "published_at": "2026-08-21T18:23:38.049Z",
+    "fetched_at": "2026-08-21T18:23:38.049Z",
+    "title_zh": "万字全景解读大模型微调技术：方法、实践与未来趋势",
+    "summary_zh": "本文深入剖析大模型微调的核心技术栈，从全参数微调、LoRA、QLoRA到Prefix-Tuning等参数高效方法，逐一解析其原理、适用场景与优缺点。作者结合真实项目经验，详细说明数据准备、超参数调优、评估指标及避免灾难性遗忘的策略，并对比微调与RAG、Prompt Engineering的边界。最后展望了模型对齐、持续学习等未来方向，为AI工程师提供系统性的技术参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "a1deb01d8707c902a0bde4b2c986579b",
+    "title_en": "🚨2026大模型排行榜：实测10+主流大模型选型指南",
+    "source": "daxue.taobao.com",
+    "url": "https://daxue.taobao.com/information/detail.jhtml?id=1375&",
+    "published_at": "2026-08-21T18:23:38.047Z",
+    "fetched_at": "2026-08-21T18:23:38.048Z",
+    "title_zh": "🚨2026大模型排行榜：实测10+主流大模型选型指南",
+    "summary_zh": "本文基于2026年最新实测数据，对10余款主流大模型进行多维度性能评测，涵盖推理能力、代码生成、多模态理解、上下文长度及响应速度等关键指标。文章不仅提供客观的量化对比，还结合典型业务场景（如客服、内容创作、代码辅助）给出选型建议，帮助开发者根据成本、延迟和效果需求做出合理决策。适合正在规划AI应用架构或需要升级模型的技术负责人阅读。",
+    "topic": "ai"
+  },
+  {
     "id": "bb3d9e9256dac1b83dd33df28d3a3a9d",
     "title_en": "CVE: Common Vulnerabilities and Exposures",
     "source": "cve.org",
@@ -2142,61 +2197,6 @@
     "fetched_at": "2026-08-20T00:42:15.873Z",
     "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南",
     "summary_zh": "本文是腾讯云开发者社区分享的Kubernetes运维实战避坑指南，聚焦于生产环境中常见的疑难杂症与陷阱。内容涉及Pod调度失败、资源配额管理、存储卷挂载异常、网络策略配置错误、以及版本升级兼容性问题等。通过具体案例剖析根因，并给出可操作的解决方案和预防措施。旨在帮助运维人员提升故障排查效率，构建更健壮的云原生基础设施。",
-    "topic": "ops"
-  },
-  {
-    "id": "6248fe25b3339f4892f79643bc001884",
-    "title_en": "Kubernetes 集群状态监控与故障排除：SRE 最佳实践 | TrueSight",
-    "source": "tsight.io",
-    "url": "https://tsight.io/articles/4018624",
-    "published_at": "2026-08-20T00:42:15.873Z",
-    "fetched_at": "2026-08-20T00:42:15.873Z",
-    "title_zh": "Kubernetes 集群状态监控与故障排除：SRE 最佳实践",
-    "summary_zh": "本文面向SRE和平台工程师，系统阐述Kubernetes集群的监控体系设计与故障排除方法论。内容涵盖核心指标采集（如CPU、内存、网络、磁盘IO）、应用层监控（如黄金信号）、以及控制平面组件健康检查。介绍了Prometheus、Grafana等主流开源工具的配置与告警规则设计，并提供了从Pod异常到节点故障的排查路径与常用命令。强调通过可观测性驱动运维决策，实现快速定位与恢复。",
-    "topic": "ops"
-  },
-  {
-    "id": "7fc502b820e42752d7ad3fe87cd24aa6",
-    "title_en": "Kubernetes Secret 良好实践 | Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/docs/concepts/security/secrets-good-practices/",
-    "published_at": "2026-08-20T00:42:15.873Z",
-    "fetched_at": "2026-08-20T00:42:15.873Z",
-    "title_zh": "Kubernetes Secret 良好实践",
-    "summary_zh": "本文是Kubernetes官方文档关于Secret管理的权威指南，重点阐述如何安全地创建、使用和更新敏感信息。内容涵盖Secret的多种类型（如Opaque、kubernetes.io/dockerconfigjson）、通过环境变量或卷挂载注入的方式、以及RBAC权限控制。特别强调避免在镜像或配置文件中明文存储凭据，并推荐使用外部密钥管理服务（如KMS）进行加密。是保障集群应用安全性的必读参考资料。",
-    "topic": "security"
-  },
-  {
-    "id": "0d5de489c6b478e473b123c58356d549",
-    "title_en": "云原生运维也能很稳：Kubernetes 运维避坑指南-云社区-华为云",
-    "source": "bbs.huaweicloud.com",
-    "url": "https://bbs.huaweicloud.com/blogs/457973",
-    "published_at": "2026-08-20T00:42:15.873Z",
-    "fetched_at": "2026-08-20T00:42:15.873Z",
-    "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南",
-    "summary_zh": "华为云社区发布的Kubernetes运维避坑指南，与腾讯云版本内容互补，侧重于华为云环境下的实践。文章深入分析了集群升级、节点池管理、容器网络模型（如VPC-CNI）以及存储卷生命周期管理中的常见问题。通过真实故障案例，讲解了如何利用华为云监控服务和日志服务进行根因分析。为在华为云上运行生产级Kubernetes集群的团队提供了宝贵的实战经验。",
-    "topic": "ops"
-  },
-  {
-    "id": "177cb11031a637134d4261a017928df4",
-    "title_en": "Docker 容器镜像分析与优化方法-腾讯云开发者社区-腾讯云",
-    "source": "developer.cloud.tencent.com",
-    "url": "https://developer.cloud.tencent.com/article/2712474",
-    "published_at": "2026-08-20T00:42:15.873Z",
-    "fetched_at": "2026-08-20T00:42:15.873Z",
-    "title_zh": "Docker 容器镜像分析与优化方法",
-    "summary_zh": "本文系统性地介绍了Docker容器镜像的组成原理与优化方法论。内容涵盖镜像分层机制、构建上下文优化、多阶段构建、以及基础镜像选择策略。通过实际案例演示如何分析镜像体积构成（如使用dive工具），并针对性地减少冗余层、合并RUN指令、清理缓存文件。旨在帮助开发者构建更小、更安全、构建速度更快的镜像，提升CI/CD流水线效率与部署性能。",
-    "topic": "ops"
-  },
-  {
-    "id": "d503883804f1f2773c4f6c0b5e36fe1a",
-    "title_en": "容器镜像构建优化-阿里云开发者社区",
-    "source": "developer.aliyun.com",
-    "url": "https://developer.aliyun.com/article/1702461",
-    "published_at": "2026-08-20T00:42:15.873Z",
-    "fetched_at": "2026-08-20T00:42:15.873Z",
-    "title_zh": "容器镜像构建优化",
-    "summary_zh": "阿里云开发者社区分享的容器镜像构建优化实践，聚焦于提升构建速度与降低镜像复杂度。文章重点介绍了利用BuildKit特性（如并发执行、缓存挂载）、合理规划Dockerfile指令顺序、以及使用阿里云容器镜像服务ACR的加速能力。同时探讨了多架构镜像构建（如AMD64/ARM64）的解决方案。适合在云上构建大规模容器应用的团队参考，以显著缩短应用交付周期。",
     "topic": "ops"
   }
 ]
