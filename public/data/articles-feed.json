@@ -1,5 +1,115 @@
 [
   {
+    "id": "bfff045049daa4c99737e63cd4263a92",
+    "title_en": "The Unlikely Place at the Center of China’s AI Boom",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "published_at": "2026-08-21T23:25:32.000Z",
+    "fetched_at": "2026-08-22T00:40:59.961Z",
+    "title_zh": "中国AI热潮的中心：一个意想不到的地方",
+    "summary_zh": "报道揭示中国AI产业爆发式增长的核心并非北上广深，而是贵州等内陆地区，凭借廉价电力和凉爽气候吸引了大量数据中心和AI训练设施。地方政府提供税收优惠和土地支持，推动“东数西算”工程。这一趋势重塑了中国AI地理版图，但也引发对能源消耗和区域平衡的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "c014a4686f5548839aff2625b60b6674",
+    "title_en": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+    "published_at": "2026-08-21T23:10:00.000Z",
+    "fetched_at": "2026-08-22T00:40:59.961Z",
+    "title_zh": "特斯拉门把手设计导致史上最大规模召回",
+    "summary_zh": "特斯拉因隐藏式门把手在碰撞后可能无法弹出，宣布召回超过200万辆汽车，成为其史上最大规模召回。该设计在紧急情况下阻碍救援，引发安全担忧。特斯拉将通过软件更新修复，但用户和监管机构质疑硬件缺陷能否靠软件解决。此次召回也凸显了极简设计的安全代价。",
+    "category": "industry"
+  },
+  {
+    "id": "e3b1251fb1e9021299a100a63227c5da",
+    "title_en": "Anthropic’s Opus 4.6 is a smut-machine",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "published_at": "2026-08-21T23:07:25.000Z",
+    "fetched_at": "2026-08-22T00:40:59.607Z",
+    "title_zh": "Anthropic Opus 4.6 成“涩涩”生成机器",
+    "summary_zh": "Anthropic 最新发布的 Opus 4.6 模型因其在生成露骨内容方面的“卓越”能力而引发热议。该模型在绕过安全限制、生成情色文本方面表现出色，被戏称为“涩涩机器”。这一现象引发了对 AI 安全边界、内容审核机制以及模型能力滥用风险的广泛讨论，也凸显了前沿模型在意图对齐上的新挑战。",
+    "category": "llm"
+  },
+  {
+    "id": "7c508c04787d9a7ce1750e51e26f2311",
+    "title_en": "Nvidia partners with data center developer Cloverleaf",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "published_at": "2026-08-21T22:37:38.000Z",
+    "fetched_at": "2026-08-22T00:40:59.607Z",
+    "title_zh": "英伟达与数据中心开发商 Cloverleaf 达成合作",
+    "summary_zh": "英伟达宣布与数据中心开发商 Cloverleaf 建立合作伙伴关系，旨在加速 AI 基础设施的部署。此次合作将整合英伟达的 GPU 计算平台与 Cloverleaf 的数据中心设计与运营能力，以满足日益增长的 AI 算力需求。此举是英伟达在 AI 硬件生态链上持续布局的最新动作，旨在巩固其在 AI 训练和推理市场的领导地位。",
+    "category": "industry"
+  },
+  {
+    "id": "f5658bcba840e9ba105e93177738854e",
+    "title_en": "HoverAir’s transforming modular drone has already been halted in the US",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+    "published_at": "2026-08-21T22:14:11.000Z",
+    "fetched_at": "2026-08-22T00:40:59.708Z",
+    "title_zh": "HoverAir 模块化变形无人机在美遭禁售",
+    "summary_zh": "HoverAir 推出的模块化变形无人机因其创新设计备受关注，但该产品在美国市场已被紧急叫停。监管机构或出于安全、合规等原因要求其停止销售。这一事件为消费级无人机行业敲响警钟，提醒厂商在追求功能创新的同时，必须严格遵守当地航空和安全法规，否则将面临市场准入的严峻挑战。",
+    "category": "product"
+  },
+  {
+    "id": "ac66a802341f85ceecad4aa414cc4783",
+    "title_en": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+    "published_at": "2026-08-21T22:13:34.000Z",
+    "fetched_at": "2026-08-22T00:40:59.708Z",
+    "title_zh": "TikTok 支付 4 亿美元和解美司法部儿童隐私诉讼",
+    "summary_zh": "TikTok 同意支付 4 亿美元，以解决美国司法部对其涉嫌违反儿童隐私保护法的诉讼。该诉讼指控 TikTok 在未经父母同意的情况下收集和使用未成年人的个人信息。此次和解金额巨大，凸显了科技巨头在青少年数据保护方面面临的严格监管压力，也为其他社交平台敲响了合规警钟。",
+    "category": "industry"
+  },
+  {
+    "id": "1cd4198d78c973adcc320149d6a48142",
+    "title_en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "published_at": "2026-08-21T21:25:50.000Z",
+    "fetched_at": "2026-08-22T00:40:59.708Z",
+    "title_zh": "超百万人点击 LinkedIn 的 AI 生成内容按钮",
+    "summary_zh": "LinkedIn 推出的 AI 辅助创作功能（被戏称为“AI 垃圾按钮”）已吸引超过 100 万用户使用。该功能旨在帮助用户快速生成帖子，但也引发了关于平台内容质量下降和同质化的担忧。尽管争议不断，这一数据表明职场社交平台用户对 AI 辅助创作工具存在巨大需求，也预示着 AI 将深度融入内容生产流程。",
+    "category": "product"
+  },
+  {
+    "id": "35da957c40ae0c74499088f4c6b147b5",
+    "title_en": "Apple is laying off staffers working on the Vision Pro and Siri",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+    "published_at": "2026-08-21T19:44:55.000Z",
+    "fetched_at": "2026-08-22T00:40:59.708Z",
+    "title_zh": "苹果裁员波及 Vision Pro 与 Siri 团队",
+    "summary_zh": "苹果公司正在进行新一轮裁员，涉及 Vision Pro 头显和 Siri 语音助手团队。此举可能暗示苹果在 AR/VR 和 AI 助手领域的战略调整或项目优先级变化。裁员消息引发市场对苹果创新步伐的担忧，尤其是在 AI 竞争日益激烈的背景下，苹果如何平衡硬件创新与软件服务成为关注焦点。",
+    "category": "industry"
+  },
+  {
+    "id": "d1d57c136b665b27afccffab703acce6",
+    "title_en": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "published_at": "2026-08-21T19:43:39.000Z",
+    "fetched_at": "2026-08-22T00:40:59.607Z",
+    "title_zh": "英伟达展示：AI 的“缰绳”比模型本身更重要",
+    "summary_zh": "英伟达在近期展示中强调，随着 AI 模型能力趋同，如何有效控制、引导和部署模型的“缰绳”（即工具链、框架和编排系统）正成为真正的核心竞争力。这一观点暗示，未来的 AI 竞争焦点将从模型参数转向工程化能力，包括模型路由、安全护栏和高效推理等，为整个行业的技术发展提供了新视角。",
+    "category": "industry"
+  },
+  {
+    "id": "65fa32743da12425ea00a2cd3e1a0d09",
+    "title_en": "$100 Best Buy gift cards will be $60 at stores Saturday",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
+    "published_at": "2026-08-21T18:00:00.000Z",
+    "fetched_at": "2026-08-22T00:40:59.708Z",
+    "title_zh": "百思买周末促销：100 美元礼品卡仅售 60 美元",
+    "summary_zh": "百思买（Best Buy）宣布将在周六举行限时促销活动，原价 100 美元的礼品卡将以 60 美元的价格出售。这一大幅折扣旨在吸引消费者进店或在线购物，并可能带动其他商品的销售。对于消费者而言，这是一个难得的优惠机会，但需注意促销活动的具体条款和库存限制。",
+    "category": "product"
+  },
+  {
     "id": "12adee49b3537d2b62e08ad41f4f85dd",
     "title_en": "Walmart is finally adding Apple Pay and Google Pay",
     "source": "The Verge",
@@ -451,6 +561,105 @@
     "category": "product"
   },
   {
+    "id": "d3d5bd77b944f6ff06c3e2cf8079d544",
+    "title_en": "Are These Top Stocks The Next AI Productivity Beneficiaries?",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/b9a186b62d165995",
+    "published_at": "2026-08-21T00:39:03Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "这些顶级股票会是下一批AI生产力受益者吗？",
+    "summary_zh": "随着AI技术加速渗透各行业，投资者关注哪些公司能成为AI生产力提升的下一波受益者。文章分析了几家可能因采用AI而提高效率、降低成本并推动营收增长的顶级企业，探讨其投资潜力。市场对AI赋能企业的估值持续升温，但需谨慎评估实际落地效果。",
+    "category": "industry"
+  },
+  {
+    "id": "2e58acac8795586de86b246bee4d7189",
+    "title_en": "Broadcom reportedly seeking up to $100B in debt financing for AI chip deal",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/08/20/broadcom-reportedly-seeking-up-to-100b-in-debt-financing-for-ai-chip-deal/",
+    "published_at": "2026-08-21T00:36:48Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "博通据悉寻求高达1000亿美元债务融资，用于AI芯片交易",
+    "summary_zh": "据知情人士透露，博通正考虑通过债务融资筹集高达1000亿美元，以支持其AI芯片相关的大型交易。此举可能涉及收购或大规模投资，旨在扩大其在AI半导体市场的份额。若成行，将成为科技行业史上最大规模融资之一，凸显AI芯片领域的激烈竞争和资本密集程度。",
+    "category": "industry"
+  },
+  {
+    "id": "9a5bce650f4c010e7a5051851ef88172",
+    "title_en": "Texas energy regulators set mid-December deadline for data center and crypto-mining project reviews",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/texas-regulators-december-deadline-data-center-crypto-mining/",
+    "published_at": "2026-08-21T00:34:52Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "德州能源监管机构设定12月中旬截止日期，审查数据中心和加密挖矿项目",
+    "summary_zh": "德克萨斯州能源监管机构宣布，将在12月中旬前完成对数据中心和加密货币挖矿项目的审查。此举旨在平衡高耗能项目与电网稳定性，确保能源供应安全。随着AI和加密货币需求激增，德州成为数据中心热门选址，但能源压力引发监管关注，新规可能影响未来项目审批。",
+    "category": "industry"
+  },
+  {
+    "id": "d2707f872ff5598163ac3fa42d6a070b",
+    "title_en": "IT firms rethink employee pyramids as automation reshapes economics",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/it-firms-rethink-employee-pyramids-as-automation-reshapes-economics-11787218985480.html",
+    "published_at": "2026-08-21T00:30:57Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "IT公司重新思考员工金字塔结构，自动化重塑经济模式",
+    "summary_zh": "随着自动化和AI技术普及，IT企业正重新评估传统的人力金字塔结构。许多公司减少初级岗位，转向更扁平化组织，利用AI提升效率并降低人力成本。这一转变对就业市场产生深远影响，员工需提升技能以适应新需求，企业则需平衡技术投资与人才发展。",
+    "category": "industry"
+  },
+  {
+    "id": "1d37e6c94194628f452471e6c67d109c",
+    "title_en": "The Vatican's AI Battle",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/programmes/p0p4yzl0",
+    "published_at": "2026-08-21T00:30:00Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "梵蒂冈的AI之战",
+    "summary_zh": "梵蒂冈正积极介入AI伦理讨论，推动制定全球AI治理准则。教皇方济各多次呼吁AI发展应以人类福祉为中心，反对算法歧视和科技垄断。梵蒂冈通过举办会议和发布文件，试图在AI伦理领域发挥道德引领作用，与科技巨头和各国政府展开对话，影响力日益增强。",
+    "category": "research"
+  },
+  {
+    "id": "35b6abe57eafa7d9c715deaae55de257",
+    "title_en": "You're Invited to Cornell Tech Artificial Intelligence In Health Care Community Conversation At Roosevelt Island NY Public Library Saturday August 22",
+    "source": "Rooseveltislander.com",
+    "url": "https://rooseveltislander.com/2026/08/20/youre-invited-to-cornell-tech-artificial-intelligence-in-health-care-community-conversation-at-roosevelt-island-ny-public-library-saturday-august-22/",
+    "published_at": "2026-08-21T00:28:49Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "诚邀参加：康奈尔科技AI医疗社区对话，8月22日周六罗斯福岛纽约公共图书馆",
+    "summary_zh": "康奈尔科技学院将于8月22日周六在罗斯福岛纽约公共图书馆举办AI医疗社区对话活动，邀请公众参与讨论人工智能在医疗健康领域的应用与挑战。活动旨在促进社区对AI医疗的认知，探讨伦理、隐私和公平性问题，并收集公众意见以指导未来研究方向。",
+    "category": "research"
+  },
+  {
+    "id": "1a81a35e523d6cb30cf07c2e5edbe43c",
+    "title_en": "tin-man-py added to PyPI",
+    "source": "Pypi.org",
+    "url": "https://pypi.org/project/tin-man-py/",
+    "published_at": "2026-08-21T00:28:06Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "tin-man-py已添加到PyPI",
+    "summary_zh": "开源Python包tin-man-py已正式发布至PyPI，供开发者下载使用。该包可能提供特定功能模块，具体用途尚待社区探索。作为PyPI新成员，它有望吸引开发者关注，促进Python生态的丰富。开发者可通过pip安装并集成到项目中，具体文档和示例预计将陆续更新。",
+    "category": "product"
+  },
+  {
+    "id": "5ac20ffa2295d4b91351192f5024586b",
+    "title_en": "Nigeria needs stronger support to attract arbitration business – NICArb",
+    "source": "The Punch",
+    "url": "https://punchng.com/nigeria-needs-stronger-support-to-attract-arbitration-business-nicarb/",
+    "published_at": "2026-08-21T00:22:50Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "尼日利亚需更强支持以吸引仲裁业务——NICArb",
+    "summary_zh": "尼日利亚特许仲裁员协会（NICArb）表示，该国需要更完善的法律框架和政策支持，以吸引更多国际仲裁业务。随着非洲商业纠纷增多，尼日利亚希望成为区域仲裁中心，但面临基础设施和人才短缺等挑战。加强仲裁能力有助于提升其商业环境和国际竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "ae365e0131af00a808c62c014c3c66e4",
+    "title_en": "21-Year-Old Reveals Himself as Author of Widely Reported Fake Election Polls",
+    "source": "Mediaite",
+    "url": "https://www.mediaite.com/media/news/21-year-old-reveals-himself-as-author-of-widely-reported-fake-election-polls/",
+    "published_at": "2026-08-21T00:21:08Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "21岁青年自曝为广泛报道的虚假选举民调作者",
+    "summary_zh": "一名21岁青年承认自己是近期广泛传播的虚假选举民调的幕后作者。这些伪造数据被多家媒体引用，误导公众对选举动态的认知。事件引发对民调真实性和社交媒体信息传播的质疑，凸显AI生成内容在虚假信息中的潜在滥用，呼吁加强核查机制。",
+    "category": "industry"
+  },
+  {
     "id": "961d9c5c3c3f32f136dfaabe27fb6760",
     "title_en": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "source": "TechCrunch AI",
@@ -459,6 +668,17 @@
     "fetched_at": "2026-08-21T00:43:51.556Z",
     "title_zh": "AI数据初创公司Micro1在AI训练热潮中达到5亿美元总运行率",
     "summary_zh": "AI数据初创公司Micro1宣布其总运行率已突破5亿美元，这一里程碑得益于全球AI训练需求的爆发式增长。该公司专注于为大型语言模型提供高质量训练数据，其快速增长反映了AI基础设施市场的火热程度。业内分析认为，数据服务已成为AI产业链中利润丰厚的环节，Micro1的成功或吸引更多资本涌入该领域。",
+    "category": "industry"
+  },
+  {
+    "id": "233b6b4970a52b4934105d72e27541d9",
+    "title_en": "The new kingmakers: Crypto, AI and betting firms drive record spending in 2026 US midterms",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/world/the-new-kingmakers-crypto-ai-and-betting-firms-drive-record-spending-in-2026-us-midterms/article71371995.ece",
+    "published_at": "2026-08-21T00:10:36Z",
+    "fetched_at": "2026-08-22T00:41:00.337Z",
+    "title_zh": "新造王者：加密货币、AI和博彩公司推动2026年美国中期选举创纪录支出",
+    "summary_zh": "加密货币、AI和博彩行业正成为2026年美国中期选举的主要金主，推动政治支出创历史新高。这些新兴行业通过政治捐款影响政策制定，尤其是在监管和税收方面。分析人士担忧，巨额资金可能扭曲民主进程，但也反映了科技与政治日益紧密的交织关系。",
     "category": "industry"
   },
   {
@@ -5278,225 +5498,5 @@
     "title_zh": "AI参与核对抗？实际上可能有助于“理解升级路径”",
     "summary_zh": "有观点认为，AI在核战略中可发挥积极作用，通过模拟和分析帮助决策者理解危机升级的路径与后果。AI模型能处理复杂数据，提供更全面的情景推演，从而辅助制定更稳健的威慑策略。然而，其应用也引发关于可靠性和伦理的讨论。",
     "category": "research"
-  },
-  {
-    "id": "cf9308c665560131cdba8de73b70feec",
-    "title_en": "The AI Bubble Is Holding Up the Economy. What Happens When the Spending Stops?",
-    "source": "Offgridsurvival.com",
-    "url": "https://offgridsurvival.com/the-ai-spending-machine/",
-    "published_at": "2026-08-15T17:02:10Z",
-    "fetched_at": "2026-08-16T18:15:12.220Z",
-    "title_zh": "AI泡沫支撑经济，支出停止时会发生什么？",
-    "summary_zh": "当前AI领域的巨额投资正在支撑整体经济，但市场担忧一旦企业削减AI相关支出，经济可能面临下行风险。文章分析了AI泡沫的现状及其对就业、股市和科技行业的影响，并探讨了支出放缓可能引发的连锁反应，包括估值回调、资本开支缩减以及创新节奏放缓。专家建议投资者关注AI实际应用带来的生产力提升，而非仅依赖预期。",
-    "category": "industry"
-  },
-  {
-    "id": "d2565a675e51719b1a54372d5d9036fc",
-    "title_en": "Apple Turns to Alibaba to Help Build AI Model for China",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
-    "published_at": "2026-08-15T17:01:03Z",
-    "fetched_at": "2026-08-16T18:15:12.220Z",
-    "title_zh": "苹果联手阿里巴巴为中国市场打造AI模型",
-    "summary_zh": "苹果公司已与阿里巴巴达成合作，共同开发面向中国市场的AI模型，以应对本地监管要求和竞争压力。此举旨在提升iPhone等设备上的智能助手和个性化服务体验，同时确保数据合规。合作将结合阿里巴巴的云计算和AI技术能力，帮助苹果在中国市场保持竞争力，并可能为未来更多本地化AI功能铺平道路。",
-    "category": "product"
-  },
-  {
-    "id": "50f98677957baeeb01f1572d54226181",
-    "title_en": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
-    "source": "Barchart.com",
-    "url": "https://www.barchart.com/story/news/3870586/sergey-brin-wants-google-to-double-down-on-gemini-what-that-means-for-googl-stock",
-    "published_at": "2026-08-15T17:00:01Z",
-    "fetched_at": "2026-08-16T18:15:12.220Z",
-    "title_zh": "谢尔盖·布林希望谷歌加大Gemini投入，对GOOGL股价意味着什么？",
-    "summary_zh": "谷歌联合创始人谢尔盖·布林公开呼吁公司加大对Gemini AI模型的投入，强调其在搜索、云计算和消费者产品中的战略重要性。这一表态可能推动谷歌在AI竞赛中加速追赶OpenAI和微软，但也引发市场对资本支出增加的担忧。分析认为，若Gemini能带来显著收入增长，GOOGL股价有望受益，否则可能面临利润率压力。",
-    "category": "llm"
-  },
-  {
-    "id": "b958b93077179aea353f08ef71035a4c",
-    "title_en": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
-    "published_at": "2026-08-15T17:00:00.000Z",
-    "fetched_at": "2026-08-15T18:14:52.068Z",
-    "title_zh": "别忽视Elektron的平价电子音乐设备",
-    "summary_zh": "Elektron以高端合成器和鼓机闻名，但其入门级产品线常被忽视。这些平价设备保留了旗舰型号的核心音色引擎和直观工作流，价格却大幅降低，非常适合预算有限的音乐制作人和现场演出者。文章强调，Elektron的平价系列是进入电子音乐制作领域的绝佳选择，性价比远超同类竞品，值得认真考虑。",
-    "category": "product"
-  },
-  {
-    "id": "27ac3051c3cc2c0d897012887a7d8102",
-    "title_en": "SpaceX officially closes its Cursor acquisition",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "published_at": "2026-08-15T16:30:00.000Z",
-    "fetched_at": "2026-08-15T18:14:51.959Z",
-    "title_zh": "SpaceX正式完成对Cursor的收购",
-    "summary_zh": "SpaceX宣布已完成对AI编程工具Cursor的收购，交易细节未披露。此举标志着SpaceX在软件工程和AI辅助开发领域的战略布局，旨在提升内部火箭设计与制造流程的自动化水平。Cursor团队将并入SpaceX的软件部门，继续为外部客户提供服务。业内认为，此次收购将加速AI在航天工程中的应用，但也引发了对技术人才流向的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "37a40f39fa972489d4455bd2ef33018e",
-    "title_en": "How to tell if your AI platforms’ accounts have been hacked",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "published_at": "2026-08-15T16:10:00.000Z",
-    "fetched_at": "2026-08-17T18:24:15.270Z",
-    "title_zh": "如何判断你的AI平台账户是否被黑客入侵",
-    "summary_zh": "随着AI平台（如ChatGPT、Copilot）的普及，账户安全问题日益凸显。本文提供了一系列实用指南，帮助用户识别AI账户可能被入侵的迹象，包括异常对话记录、未知的API调用、账户设置被篡改等，并建议启用多因素认证和定期审查账户活动，以保障数据安全。",
-    "category": "product"
-  },
-  {
-    "id": "7e76da256b55b3f10482b764ef1b233e",
-    "title_en": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
-    "published_at": "2026-08-15T15:00:00.000Z",
-    "fetched_at": "2026-08-15T18:14:52.069Z",
-    "title_zh": "播客《Switched on Pop》主持人偏爱新鲜蔬菜与吉他效果器",
-    "summary_zh": "《Switched on Pop》播客主持人Nate Sloan和Charlie Harding在访谈中分享了他们的个人爱好：对新鲜蔬菜的执着和对吉他效果器的痴迷。两人讨论了如何从日常声音中获取音乐灵感，以及效果器如何塑造现代流行音乐的音色。这一轻松话题揭示了音乐学者与乐手身份的交融，为听众提供了理解流行音乐制作的新视角。",
-    "category": "product"
-  },
-  {
-    "id": "399f70eed0fd8a334fed405e52a1a74d",
-    "title_en": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
-    "published_at": "2026-08-15T14:58:27.000Z",
-    "fetched_at": "2026-08-15T18:14:52.069Z",
-    "title_zh": "D23大会：《星球大战：阿索卡》第二季及新作《Starfighter》曝光",
-    "summary_zh": "在迪士尼D23大会上，《星球大战：阿索卡》第二季发布全新预告，确认更多剧情走向。同时，官方宣布全新动画或真人项目《Starfighter》，聚焦战斗机飞行员的故事。大会还展示了相关概念艺术和幕后花絮，引发粉丝热议。这些内容标志着星战宇宙在流媒体平台的持续扩展，未来将有更多角色和故事线登场。",
-    "category": "product"
-  },
-  {
-    "id": "60f1a86a3a009f8a28c2e035259d0572",
-    "title_en": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
-    "published_at": "2026-08-15T14:20:33.000Z",
-    "fetched_at": "2026-08-15T18:14:52.069Z",
-    "title_zh": "迪士尼D23 2026大会：星战、漫威等全部重磅消息汇总",
-    "summary_zh": "迪士尼D23 2026大会公布了大量影视项目信息。漫威方面确认了新版X战警阵容，包括Inde Navarrette和Adam Driver的加盟；星战方面则揭晓了《阿索卡》第二季和《Starfighter》等新作。此外，大会还涵盖了皮克斯、迪士尼动画及真人电影的未来计划。此次发布会为未来两年的迪士尼内容版图定下基调，流媒体与院线双线并进。",
-    "category": "product"
-  },
-  {
-    "id": "cdb9e4e15e7bd1da2da358ec0502568e",
-    "title_en": "I finally found a magnetic phone grip I never want to remove",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
-    "published_at": "2026-08-15T14:10:16.000Z",
-    "fetched_at": "2026-08-15T18:14:52.069Z",
-    "title_zh": "我终于找到了一款不想摘下的磁吸手机指环扣",
-    "summary_zh": "作者分享了一款磁吸手机指环扣的使用体验，称其设计巧妙、吸力强劲且不影响无线充电。该指环扣采用优质材料，手感舒适，可单手操作，且外观简洁。与市面上其他产品相比，它解决了易脱落和干扰信号的问题。作者认为这款配件是手机握持体验的终极解决方案，强烈推荐给追求便利与美观的用户。",
-    "category": "product"
-  },
-  {
-    "id": "4ec69dc29a69cf3622e31ea578aba154",
-    "title_en": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-    "published_at": "2026-08-15T14:03:14.000Z",
-    "fetched_at": "2026-08-15T18:14:52.069Z",
-    "title_zh": "漫威公布新版X战警演员阵容：Inde Navarrette与Adam Driver领衔",
-    "summary_zh": "漫威在D23大会上正式公布新版《X战警》电影演员阵容，Inde Navarrette和Adam Driver确认加盟，但具体角色尚未透露。这一消息结束了长期以来的选角猜测。新阵容标志着X战警正式融入漫威电影宇宙，预计将开启全新故事线。粉丝对选角反应热烈，期待漫威对经典角色的现代化重塑。",
-    "category": "product"
-  },
-  {
-    "id": "75621d574a3920b03e15f370c4c6c1a2",
-    "title_en": "Xteink’s tiny e-readers are getting access to free books through Libby",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
-    "published_at": "2026-08-15T13:00:00.000Z",
-    "fetched_at": "2026-08-15T18:14:52.069Z",
-    "title_zh": "Xteink微型电子书阅读器将接入Libby免费借阅服务",
-    "summary_zh": "Xteink宣布其系列微型电子书阅读器将支持Libby应用，用户可通过公共图书馆免费借阅电子书和有声书。这一更新将大幅提升设备的内容获取能力，尤其适合便携阅读场景。Libby的集成意味着用户无需额外购买书籍，即可访问海量资源。Xteink表示该功能将通过固件更新推送，进一步巩固其作为轻量级阅读设备的市场定位。",
-    "category": "product"
-  },
-  {
-    "id": "9ccefac167b7f51265c6519242db6b4e",
-    "title_en": "The Atlassian 'velvet vixen' who 'has all the secrets': How Amy Glancey became Mike Cannon-Brookes' closest confidante as his marriage faltered and a rift grew with co-founder Scott Farquhar",
-    "source": "Dailymail.com",
-    "url": "https://www.dailymail.com/news/article-16048937/atlassian-amy-glancey-mike-cannon-brookes-chief-staff-annie-cannon-brookes-scott-farquhar-rift-lines.html",
-    "published_at": "2026-08-15T12:16:28Z",
-    "fetched_at": "2026-08-16T12:19:28.095Z",
-    "title_zh": "Atlassian“天鹅绒狐狸”揭秘：Amy Glancey如何成为Mike Cannon-Brookes最信任的人",
-    "summary_zh": "本文深入报道了Atlassian联合创始人Mike Cannon-Brookes与其亲密助手Amy Glancey的关系。据报道，在Cannon-Brookes婚姻破裂及与联合创始人Scott Farquhar关系紧张期间，Glancey成为其核心顾问。文章揭示了公司高层权力动态和个人关系对商业决策的潜在影响，引发对科技公司治理的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "d2c9d971f7292ee55d75c6b9098d8931",
-    "title_en": "83% of Chinese believe AI benefits outweigh drawbacks, only 39% of Americans agree",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/china-us-ai-perception-gap/",
-    "published_at": "2026-08-15T12:08:17Z",
-    "fetched_at": "2026-08-16T12:19:28.095Z",
-    "title_zh": "调查：83%中国人认为AI利大于弊，而美国人仅39%",
-    "summary_zh": "最新调查显示，中国民众对AI持高度积极态度，83%认为AI的益处超过弊端，而美国这一比例仅为39%。这一差异反映了不同社会对技术创新的接受度和信任度。中国在AI应用和产业政策上的积极推动，以及民众对科技进步的乐观预期，是形成这一鲜明对比的重要原因。",
-    "category": "industry"
-  },
-  {
-    "id": "7f55543e8087f03383c2979b48a9e5b8",
-    "title_en": "Alphabet vs. Oracle: Which Is the Better AI Stock to Own for the Next 5 Years?",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/1c79bca59dcc53cd",
-    "published_at": "2026-08-15T12:07:52Z",
-    "fetched_at": "2026-08-16T12:19:28.095Z",
-    "title_zh": "Alphabet vs. Oracle：未来5年哪只AI股票更值得持有？",
-    "summary_zh": "本文对比分析了Alphabet和Oracle作为AI投资标的的潜力。Alphabet凭借其搜索、云和DeepMind等AI技术优势，增长潜力巨大；Oracle则通过云基础设施和数据库服务在AI时代寻求转型。文章从财务表现、市场地位和AI战略等角度进行剖析，为投资者提供未来五年投资决策的参考依据。",
-    "category": "industry"
-  },
-  {
-    "id": "a80108014087a4d6ca9ec3795c71b0ef",
-    "title_en": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-    "published_at": "2026-08-15T12:00:01Z",
-    "fetched_at": "2026-08-16T12:19:28.095Z",
-    "title_zh": "我实测了特斯拉FSD和Rivian Autonomy+“免手”驾驶系统，对比结果如下",
-    "summary_zh": "作者亲身体验了特斯拉FSD和Rivian Autonomy+两套“免手”驾驶辅助系统，并进行了详细对比。评测涵盖城市道路、高速公路等场景，比较了系统的接管频率、驾驶平顺性和安全性。结果显示两者各有优劣，特斯拉更激进，Rivian更保守，为消费者选择智能驾驶技术提供了直观参考。",
-    "category": "product"
-  },
-  {
-    "id": "ba0f0e9a8afaa0b05f9e31ec118d273f",
-    "title_en": "We’re reaching peak camera with the Sony A7R VI",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
-    "published_at": "2026-08-15T12:00:00.000Z",
-    "fetched_at": "2026-08-15T12:18:41.732Z",
-    "title_zh": "索尼A7R VI发布，相机技术或已触及天花板",
-    "summary_zh": "索尼最新旗舰相机A7R VI发布，其超高像素与先进对焦系统引发热议。有观点认为，在硬件参数竞赛中，相机技术已接近物理极限，未来创新将更多转向计算摄影与软件优化。该产品定位专业摄影师与高端爱好者，市场反应积极，但价格与性能的平衡仍是用户关注焦点。",
-    "category": "product"
-  },
-  {
-    "id": "40b23670fcf1acd2ab63acb911b7bf63",
-    "title_en": "The surprise must-see movie of the summer",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
-    "published_at": "2026-08-15T12:00:00.000Z",
-    "fetched_at": "2026-08-15T12:18:41.733Z",
-    "title_zh": "今夏意外爆款电影，你绝对不能错过",
-    "summary_zh": "一部此前未被看好的电影成为今夏最大黑马，凭借独特叙事与口碑发酵，票房与讨论度持续攀升。影评人认为其成功在于打破传统类型片框架，引发观众强烈情感共鸣。该现象也反映出观众对创新内容的渴求，为行业内容创作提供了新思路。",
-    "category": "industry"
-  },
-  {
-    "id": "e6cb078b385d24e8acfa9c055421991e",
-    "title_en": "This Week in Science: AI Agents Come to an Agreement, Gemstones on Mars, And More!",
-    "source": "ScienceAlert",
-    "url": "https://www.sciencealert.com/this-week-in-science-ai-agents-come-to-an-agreement-gemstones-on-mars-and-more",
-    "published_at": "2026-08-15T12:00:00Z",
-    "fetched_at": "2026-08-16T12:19:28.095Z",
-    "title_zh": "本周科学要闻：AI智能体达成共识、火星发现宝石等",
-    "summary_zh": "本周科学领域亮点纷呈：AI智能体在复杂任务中首次实现自主协商与共识达成，标志着多智能体协作迈出关键一步；火星探测器发现疑似宝石矿物，为火星地质历史提供新线索。此外，还有多项生物医学与宇宙探索成果公布，展现了跨学科研究的蓬勃活力。",
-    "category": "research"
-  },
-  {
-    "id": "e995125c1a5ae43df92f60f875592e75",
-    "title_en": "apple ai health coach",
-    "source": "Xenixnew.com",
-    "url": "https://xenixnew.com/apple-ai-health-coach/",
-    "published_at": "2026-08-15T11:40:53Z",
-    "fetched_at": "2026-08-16T12:19:28.095Z",
-    "title_zh": "苹果AI健康教练功能曝光",
-    "summary_zh": "据爆料，苹果正在开发一款由AI驱动的健康教练服务，将深度整合Apple Watch与健康应用数据。该功能可提供个性化运动、饮食与睡眠建议，并利用大模型进行自然语言交互。预计将在明年随iOS更新亮相，进一步巩固苹果在数字健康领域的布局。",
-    "category": "product"
   }
 ]
