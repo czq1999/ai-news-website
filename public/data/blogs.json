@@ -1,5 +1,115 @@
 [
   {
+    "id": "75e025c7003a5639e28f7ad581971ea5",
+    "title_en": "确保Android 长期安全的制造商指南",
+    "source": "source.android.com",
+    "url": "https://source.android.com/docs/automotive/security/mfg_guide?hl",
+    "published_at": "2026-08-22T06:23:13.464Z",
+    "fetched_at": "2026-08-22T06:23:13.464Z",
+    "title_zh": "确保Android长期安全的制造商指南",
+    "summary_zh": "本文是Android安全团队面向设备制造商发布的官方指南，系统阐述了保障设备全生命周期安全的关键要求与最佳实践。内容涵盖安全启动链、系统分区完整性保护、内核安全加固、漏洞管理与安全更新机制等多个层面。文章重点强调了从硬件根信任到软件更新验证的完整安全架构设计，并提供了针对不同Android版本的具体实施建议。对于设备制造商、系统集成商及安全工程师而言，是构建符合Google安全标准设备的重要参考文档。",
+    "topic": "security"
+  },
+  {
+    "id": "a8f56cc3d071e1e09c15f232e14658bd",
+    "title_en": "从零入门linux内核安全：脏牛提权漏洞分析与补丁 ...",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/439091715",
+    "published_at": "2026-08-22T06:23:13.464Z",
+    "fetched_at": "2026-08-22T06:23:13.464Z",
+    "title_zh": "从零入门linux内核安全：脏牛提权漏洞分析与补丁 ...",
+    "summary_zh": "本文以经典的Dirty COW（CVE-2016-5195）漏洞为例，从零开始讲解Linux内核安全分析的基本方法。文章详细剖析了漏洞产生的根本原因——内核COW机制中的竞态条件，并逐步演示了漏洞利用的关键步骤与原理。随后，作者深入分析了官方补丁的修复逻辑，对比了补丁前后的代码差异，帮助读者理解内核开发者的修复思路。文章还总结了类似内核漏洞的挖掘与分析方法，为安全研究人员提供了实用的入门路径。",
+    "topic": "security"
+  },
+  {
+    "id": "a4e557b2862fc792d1ea70d1c3e305ef",
+    "title_en": "补丁分析",
+    "source": "anquanke.com",
+    "url": "https://www.anquanke.com/tag/%E8%A1%A5%E4%B8%81%E5%88%86%E6%9E%90",
+    "published_at": "2026-08-22T06:23:13.464Z",
+    "fetched_at": "2026-08-22T06:23:13.464Z",
+    "title_zh": "补丁分析",
+    "summary_zh": "本文聚焦于安全补丁分析的方法论与实践技巧，面向安全研究员和漏洞分析人员。内容涵盖补丁获取途径、补丁diff分析流程、漏洞触发条件推断以及利用可行性评估等核心环节。文章通过具体案例展示了如何从补丁代码变更中逆向还原漏洞细节，并利用补丁信息快速定位受影响版本与攻击面。此外，还讨论了自动化补丁分析工具的使用与局限性，为提升漏洞应急响应效率提供了系统性指导。",
+    "topic": "security"
+  },
+  {
+    "id": "8e57fbf8d6807f12473aa4e6fc5e8e64",
+    "title_en": "安全缺陷",
+    "source": "docs.kernel.org",
+    "url": "https://docs.kernel.org/translations/zh_TW/admin-guide/security-bugs.html",
+    "published_at": "2026-08-22T06:23:13.464Z",
+    "fetched_at": "2026-08-22T06:23:13.464Z",
+    "title_zh": "安全缺陷",
+    "summary_zh": "本文是Linux内核官方文档中关于安全缺陷（Security Bugs）处理的权威说明，定义了内核安全漏洞的报告、响应与修复流程。文章明确了安全缺陷的分类标准、严重性评估方法以及开发者应遵循的披露策略。重点介绍了内核安全团队的工作机制、漏洞修复补丁的提交流程，以及如何通过安全邮件列表进行负责任地披露。对于内核开发者、安全研究人员以及企业安全团队理解官方漏洞处理机制具有重要参考意义。",
+    "topic": "security"
+  },
+  {
+    "id": "2d8eadb9c6654ca4df668cff02ce7eb9",
+    "title_en": "基于自适应热补丁的Android内核漏洞生态修复方案|",
+    "source": "inforsec.org",
+    "url": "https://www.inforsec.org/wp/?p",
+    "published_at": "2026-08-22T06:23:13.464Z",
+    "fetched_at": "2026-08-22T06:23:13.464Z",
+    "title_zh": "基于自适应热补丁的Android内核漏洞生态修复方案",
+    "summary_zh": "本文提出了一种创新的Android内核漏洞生态修复方案，旨在解决碎片化Android设备内核漏洞修复滞后的问题。方案核心是自适应热补丁技术，能够在无需重启的情况下动态修复内核漏洞，并针对不同设备内核版本自动适配补丁。文章详细阐述了热补丁的生成、分发、加载与回滚机制，以及如何与现有OTA更新体系结合。该方案显著缩短了漏洞修复窗口期，降低了大规模设备被攻击的风险，为Android生态安全治理提供了新思路。",
+    "topic": "security"
+  },
+  {
+    "id": "7cbf9d7c2c27b4901fb993f75c5e1e1d",
+    "title_en": "如何跟踪发现Linux内核补丁（patch） 原创",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/Rong_Toa/article/details/109693210",
+    "published_at": "2026-08-22T06:23:13.464Z",
+    "fetched_at": "2026-08-22T06:23:13.464Z",
+    "title_zh": "如何跟踪发现Linux内核补丁（patch） 原创",
+    "summary_zh": "本文面向内核开发者和安全运维人员，详细介绍了跟踪与发现Linux内核补丁的多种有效途径。内容涵盖内核邮件列表（LKML）、git仓库提交日志、稳定版内核发布说明、CVE追踪网站以及第三方安全公告等渠道的使用方法。作者分享了如何利用git log、git blame等工具高效检索特定补丁，并介绍了通过订阅邮件列表和配置自动化监控来及时获取新补丁的技巧。文章实用性强，能帮助读者建立完善的内核补丁跟踪体系。",
+    "topic": "ops"
+  },
+  {
+    "id": "25993cd969b51e303ed3d79745d3cccf",
+    "title_en": "针对Intel处理器芯片存在的Meltdown和Spectre安全漏洞 - 华为云",
+    "source": "support.huaweicloud.com",
+    "url": "https://support.huaweicloud.com/ecs_faq/ecs_faq_0714.html",
+    "published_at": "2026-08-22T06:23:13.464Z",
+    "fetched_at": "2026-08-22T06:23:13.464Z",
+    "title_zh": "针对Intel处理器芯片存在的Meltdown和Spectre安全漏洞 - 华为云",
+    "summary_zh": "本文详细介绍了Intel处理器中著名的Meltdown和Spectre侧信道漏洞的原理、影响范围及修复方案。文章深入浅出地解释了漏洞利用CPU乱序执行和推测执行机制窃取敏感数据的原理，并对比了两类漏洞的差异。针对华为云平台，文章提供了系统的检测方法、内核补丁升级步骤、微码更新建议以及虚拟化层面的缓解措施。内容兼顾原理深度与操作指导，对云服务商和企业IT管理员防范此类硬件漏洞具有重要参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "0ed160bfec1211bfbe5d32251173202c",
+    "title_en": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2551743",
+    "published_at": "2026-08-22T06:23:12.407Z",
+    "fetched_at": "2026-08-22T06:23:12.407Z",
+    "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
+    "summary_zh": "本文总结了Kubernetes生产环境运维中的常见陷阱与应对策略，涵盖集群高可用架构设计、资源配额管理、Pod调度策略优化、存储与网络插件选型等关键议题。作者基于腾讯云大规模集群运维经验，深入剖析了节点故障、资源泄漏、版本升级等典型问题的根因与解决方案，并提供了实用的监控告警与日志采集最佳实践。内容务实，针对性强，能有效帮助运维团队提升K8s集群的稳定性与可观测性，减少线上事故。",
+    "topic": "ops"
+  },
+  {
+    "id": "3f7de4b7b7346aa672e55e0c19c17638",
+    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
+    "source": "edu.aliyun.com",
+    "url": "https://edu.aliyun.com/course/314200/",
+    "published_at": "2026-08-22T06:23:11.249Z",
+    "fetched_at": "2026-08-22T06:23:11.249Z",
+    "title_zh": "Linux服务器运维基本操作 - 阿里云认证",
+    "summary_zh": "本文面向Linux运维初学者，系统梳理了服务器日常管理中的核心操作，包括用户与权限管理、文件系统操作、进程与服务管理、网络配置及日志分析等。内容以阿里云认证体系为背景，强调实操性，通过具体命令示例帮助读者快速上手。文章还涵盖了系统安全加固的基础措施，如SSH配置优化、防火墙规则设置等，为后续深入学习和认证考试打下坚实基础。适合希望系统掌握Linux运维基础技能的工程师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "e7981fdce44e9ff83f43972723a59d38",
+    "title_en": "详解Linux运维工程师必备技能 - 张戈博客",
+    "source": "zhang.ge",
+    "url": "https://zhang.ge/128.html",
+    "published_at": "2026-08-22T06:23:11.249Z",
+    "fetched_at": "2026-08-22T06:23:11.249Z",
+    "title_zh": "详解Linux运维工程师必备技能 - 张戈博客",
+    "summary_zh": "文章全面剖析了Linux运维工程师所需的核心技能矩阵，从基础命令、Shell脚本编程，到网络服务配置、数据库管理，再到自动化运维工具如Ansible、SaltStack的应用。作者结合多年实战经验，重点强调了故障排查思路与性能调优方法，并分享了高效学习路径与职业发展建议。内容深入浅出，既有理论框架又有实践案例，对初中级运维人员提升综合能力具有较高参考价值，也适合作为团队技能培训的参考资料。",
+    "topic": "ops"
+  },
+  {
     "id": "86a5779eb1fa1accf3bccc00785f77fb",
     "title_en": "Kubernetes 集群运维与管理 - Jimmy Song",
     "source": "jimmysong.io",
@@ -2088,115 +2198,5 @@
     "title_zh": "从零搭建一个自动化运维体系",
     "summary_zh": "本文系统性地介绍了从零开始构建自动化运维体系的完整路径，覆盖了基础设施即代码（IaC）、配置管理、持续集成/持续部署（CI/CD）、监控告警和日志分析等关键环节。作者结合自身实践经验，详细阐述了每个阶段的技术选型原则、实施步骤以及常见陷阱，并强调了自动化运维并非单纯工具堆砌，而是需要流程、文化和工具的有机结合。文章内容深入浅出，适合运维工程师和技术管理者作为搭建自动化体系的参考指南。",
     "topic": "ops"
-  },
-  {
-    "id": "e6d391c2e999ba9ef6c986cde7db1df4",
-    "title_en": "企业应用级自动化运维建设思路 · IT迷途小书童",
-    "source": "yan-jian.com",
-    "url": "https://yan-jian.com/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E7%BA%A7%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%E5%BB%BA%E8%AE%BE%E6%80%9D%E8%B7%AF.html",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "企业应用级自动化运维建设思路",
-    "summary_zh": "本文从企业应用视角出发，探讨了自动化运维建设的整体思路与架构设计。文章重点分析了应用发布、环境管理、配置变更、容量规划等场景下的自动化需求，并提出了以应用为中心、分层解耦的运维自动化模型。作者还分享了在大型企业中推动自动化落地时关于组织协同、流程标准化和工具链整合的实践经验。内容具有较强的前瞻性和系统性，适合企业IT运维负责人和架构师阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "cfc6d2e349dad767aab00532d05d13ee",
-    "title_en": "自动化运维的工具有哪些？-腾讯云开发者社区",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/techpedia/2362/18000",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "自动化运维的工具有哪些？",
-    "summary_zh": "本文系统梳理了当前主流的自动化运维工具，涵盖配置管理（如Ansible、Puppet、Chef）、持续集成/持续部署（如Jenkins、GitLab CI）、监控告警（如Prometheus、Zabbix）、日志管理（如ELK）以及容器编排（如Kubernetes）等类别。文章不仅对比了各工具的功能特性、适用场景和优缺点，还提供了基于不同规模团队和业务需求的技术选型建议。对于正在规划自动化运维工具链的工程师和管理者，这是一份实用的参考清单。",
-    "topic": "ops"
-  },
-  {
-    "id": "1caeb5426910f1b7f30dd2b0ca038ddb",
-    "title_en": "自动化运维系统_自动化运维管理系统-华为云",
-    "source": "huaweicloud.com",
-    "url": "https://www.huaweicloud.com/theme/462039-1-Z",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "自动化运维系统_自动化运维管理系统",
-    "summary_zh": "本文介绍了华为云提供的自动化运维系统及管理解决方案，重点阐述了其核心功能，包括资源编排、批量作业执行、脚本管理、补丁管理以及合规性检查等。文章详细说明了如何通过统一的运维管理平台，实现多云和混合云环境下的集中化、自动化运维，从而提升运维效率并降低人为操作风险。内容结合华为云产品特性，对于使用或评估华为云服务的运维团队具有直接的指导意义。",
-    "topic": "ops"
-  },
-  {
-    "id": "5f93fc5b1cbb93596f5e46a54e405b6e",
-    "title_en": "企业自动化运维落地的实践经验及运维工具选型对...",
-    "source": "secrss.com",
-    "url": "https://www.secrss.com/articles/4129",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "企业自动化运维落地的实践经验及运维工具选型对...",
-    "summary_zh": "本文聚焦于企业自动化运维落地过程中的实践经验，重点探讨了运维工具选型的关键考量因素，如易用性、可扩展性、社区活跃度、与现有技术栈的兼容性以及长期维护成本。作者结合多个实际项目案例，分析了选型不当可能导致的落地失败风险，并提出了分阶段推进、试点先行、逐步推广的实施策略。文章内容务实，对于正在或计划推进自动化运维的企业团队具有很高的参考价值。",
-    "topic": "ops"
-  },
-  {
-    "id": "9bef4434627819bf22a658e18a171551",
-    "title_en": "21个运维必知领域之「自动化运维」_软件工程_闫...",
-    "source": "infoq.cn",
-    "url": "https://www.infoq.cn/article/b6xtjk6cm2cb6xlmhhrp",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "21个运维必知领域之「自动化运维」",
-    "summary_zh": "本文作为“21个运维必知领域”系列的一部分，深入剖析了自动化运维的核心概念、价值与实施路径。文章从自动化运维的定义出发，梳理了其发展历程和当前主流技术栈，并详细介绍了从脚本自动化到平台化、智能化的演进路线。作者还分享了在自动化运维实践中关于标准化、流程化、工具化以及度量反馈的宝贵经验。内容系统全面，适合运维从业者系统性地学习和理解自动化运维。",
-    "topic": "ops"
-  },
-  {
-    "id": "f43884abcc3a3b19aeda0f8938309db7",
-    "title_en": "自动化运维体系如何入手-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2303912",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "自动化运维体系如何入手",
-    "summary_zh": "本文针对“自动化运维体系如何入手”这一常见困惑，提供了清晰的起步指南。文章首先建议从梳理现有运维流程和痛点开始，然后逐步引入脚本自动化、配置管理工具，再扩展到CI/CD和监控告警的联动。作者强调了“先标准化、后自动化”的原则，并给出了具体的实施步骤和阶段性目标。内容实用性强，对于运维新手或希望系统化推进自动化的团队，是一份很好的入门路线图。",
-    "topic": "ops"
-  },
-  {
-    "id": "82bd39d005dd91b5a09f6cf2d7714288",
-    "title_en": "Linux FUSE page cache 本地提权 CVE-2026-31694 深度分析 - 0xfisher - 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/32bin/p/22258592",
-    "published_at": "2026-08-20T00:42:15.874Z",
-    "fetched_at": "2026-08-20T00:42:15.874Z",
-    "title_zh": "Linux FUSE page cache 本地提权 CVE-2026-31694 深度分析 - 0xfisher - 博客园",
-    "summary_zh": "本文对Linux FUSE文件系统page cache机制中存在的本地提权漏洞CVE-2026-31694进行了深度技术剖析。作者从漏洞产生的根本原因出发，详细分析了FUSE在page cache管理中的逻辑缺陷，以及攻击者如何利用该缺陷实现权限提升。文章不仅复现了漏洞利用的关键步骤，还探讨了内核补丁的修复思路，为安全研究人员和系统管理员理解此类内核级漏洞提供了深入的技术视角。",
-    "topic": "security"
-  },
-  {
-    "id": "3d73bb60773736c67b267c254fd64323",
-    "title_en": "从低权限 Key 到 AI Gateway 接管：LiteLLM 漏洞链完整剖析-腾讯云开发者社区-腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2696177",
-    "published_at": "2026-08-20T00:42:15.874Z",
-    "fetched_at": "2026-08-20T00:42:15.874Z",
-    "title_zh": "从低权限 Key 到 AI Gateway 接管：LiteLLM 漏洞链完整剖析-腾讯云开发者社区-腾讯云",
-    "summary_zh": "本文深入剖析了LiteLLM（一个流行的AI Gateway/代理）中存在的漏洞链，展示了攻击者如何从一个低权限的API Key逐步利用多个安全缺陷，最终实现对整个AI Gateway的接管。文章详细拆解了漏洞链的每一个环节，包括权限验证绕过、API密钥泄露、以及管理接口的未授权访问等，并提供了相应的检测与修复建议。对于部署了LiteLLM或类似AI基础设施的团队而言，这是一份极具价值的安全风险分析。",
-    "topic": "security"
-  },
-  {
-    "id": "f8822868afea13f374bffb44a00eea31",
-    "title_en": "解密失败，消息却继续走：Tomcat CVE-2026-34486 复现与流量分析 | CN-SEC 中文网",
-    "source": "cn-sec.com",
-    "url": "http://cn-sec.com/archives/5386783.html",
-    "published_at": "2026-08-20T00:42:15.874Z",
-    "fetched_at": "2026-08-20T00:42:15.874Z",
-    "title_zh": "解密失败，消息却继续走：Tomcat CVE-2026-34486 复现与流量分析 | CN-SEC 中文网",
-    "summary_zh": "本文针对Apache Tomcat的CVE-2026-34486漏洞进行了复现与流量分析。该漏洞的核心在于，当TLS/SSL解密失败时，Tomcat的错误处理逻辑存在缺陷，导致未加密或解密失败的数据包仍可能被后续处理，从而绕过安全控制。作者通过搭建环境复现漏洞，并利用Wireshark等工具对流量进行抓包分析，直观展示了攻击者如何利用此漏洞进行数据注入或信息泄露，为安全运维人员提供了清晰的检测与防护思路。",
-    "topic": "security"
-  },
-  {
-    "id": "0a0d454146d54097bdca0d3d6498add8",
-    "title_en": "CVE-2026-9181：Esri ArcGIS Server 路径遍历漏洞分析 | imjdl blog",
-    "source": "rustlang.rs",
-    "url": "https://rustlang.rs/posts/blog_cve_2026_9181_arcgis_cn/",
-    "published_at": "2026-08-20T00:42:15.874Z",
-    "fetched_at": "2026-08-20T00:42:15.874Z",
-    "title_zh": "CVE-2026-9181：Esri ArcGIS Server 路径遍历漏洞分析 | imjdl blog",
-    "summary_zh": "本文对Esri ArcGIS Server中存在的CVE-2026-9181路径遍历漏洞进行了详细分析。文章首先介绍了漏洞的成因，即服务器在处理特定URL请求时未能有效过滤用户输入，导致攻击者可以通过构造特殊路径访问服务器上的任意文件。随后，作者展示了漏洞的复现过程，并评估了其潜在影响，包括读取敏感配置文件、源代码泄露等。最后，文章给出了官方补丁及临时缓解措施，对GIS系统管理员具有重要的参考价值。",
-    "topic": "security"
   }
 ]
