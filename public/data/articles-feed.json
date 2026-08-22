@@ -1,5 +1,82 @@
 [
   {
+    "id": "5e050820a4e7df12ac9877cdf8e99be3",
+    "title_en": "Doodle generative compositions in your browser with Musical Spirograph",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+    "published_at": "2026-08-22T17:00:00.000Z",
+    "fetched_at": "2026-08-22T18:15:35.542Z",
+    "title_zh": "在浏览器中用Musical Spirograph绘制生成式涂鸦作品",
+    "summary_zh": "一款名为Musical Spirograph的在线工具，将数学几何与音乐节奏结合，让用户在浏览器中实时生成动态涂鸦。用户可通过调整参数和选择音轨，创作出随音乐变化的视觉图案。该工具无需安装，界面直观，适合创意爱好者探索生成艺术与声音的交互可能性，展示了Web技术在创意表达中的新应用。",
+    "category": "product"
+  },
+  {
+    "id": "8c67e76b4b62df937f7516490bf6e9f7",
+    "title_en": "OpenAI says California should strengthen its AI safety bill",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "published_at": "2026-08-22T16:30:34.000Z",
+    "fetched_at": "2026-08-22T18:15:35.422Z",
+    "title_zh": "OpenAI表示加州应加强其AI安全法案",
+    "summary_zh": "OpenAI公开表态，支持加州加强其AI安全法案，认为此举有助于防范前沿AI模型可能带来的风险。该公司在致立法者的信函中提出具体建议，包括为前沿模型设立更严格的安全标准、建立可验证的合规机制，并呼吁行业共同参与。此举被视为科技巨头在AI监管议题上立场的重要转变，可能影响其他州乃至联邦层面的AI立法进程。",
+    "category": "industry"
+  },
+  {
+    "id": "2ba2d8a8e983cd9a81f3f0f2b59d661b",
+    "title_en": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "published_at": "2026-08-22T16:00:00.000Z",
+    "fetched_at": "2026-08-22T18:15:35.423Z",
+    "title_zh": "前沿AI实验室仍不愿透露如何控制失控模型",
+    "summary_zh": "多家前沿AI实验室在回应监管质询时，均未明确说明在模型失控情况下的具体遏制方案。专家指出，缺乏可操作的应急预案和透明度，可能使AI安全承诺流于形式。随着模型能力快速提升，业界呼吁实验室公开更多关于红队测试、安全隔离和紧急关停机制的技术细节，以便建立可信的行业安全基准。",
+    "category": "research"
+  },
+  {
+    "id": "61851d0e4abbbf60c3458ed0b14d67ac",
+    "title_en": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+    "published_at": "2026-08-22T15:00:00.000Z",
+    "fetched_at": "2026-08-22T18:15:35.542Z",
+    "title_zh": "W. Kamau Bell拥有最实用的“最不可或缺工具”",
+    "summary_zh": "喜剧演员兼主持人W. Kamau Bell在访谈中分享了他认为最实用的科技工具，强调其日常高效性与可靠性。他并未选择高端设备，而是推荐了一款看似普通却极大提升工作流程的产品，并解释了为何在众多炫酷科技中，实用性和稳定性才是关键。这一观点引发了对科技消费主义的反思。",
+    "category": "product"
+  },
+  {
+    "id": "573c5961dd88431aab985ee9639c573e",
+    "title_en": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+    "published_at": "2026-08-22T13:41:01.000Z",
+    "fetched_at": "2026-08-22T18:15:35.542Z",
+    "title_zh": "亚马逊将Echo、Fire TV和Kindle产品价格上调最高60%",
+    "summary_zh": "亚马逊宣布对旗下Echo、Fire TV及Kindle系列产品进行大幅提价，部分型号涨幅高达60%。公司未明确说明原因，但分析认为与全球供应链成本上升及组件短缺有关。此次调价可能影响亚马逊在智能家居和电子阅读器市场的竞争力，消费者或将转向更便宜的替代品牌。",
+    "category": "industry"
+  },
+  {
+    "id": "9a8065f0fb41ff5b01eb4481bec9fe43",
+    "title_en": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+    "published_at": "2026-08-22T13:00:00.000Z",
+    "fetched_at": "2026-08-22T18:15:35.542Z",
+    "title_zh": "16GB内存的普通笔记本胜过8GB的高配本，这款520美元HP OmniBook就是证明",
+    "summary_zh": "评测指出，在当今多任务和浏览器重负载场景下，16GB内存比处理器性能更能决定日常体验。一款售价520美元的HP OmniBook凭借16GB内存，在真实使用中表现优于许多价格更高但仅配8GB内存的机型。文章建议消费者优先考虑内存容量，而非单纯追求品牌或外观。",
+    "category": "product"
+  },
+  {
+    "id": "3ee4434f150377620bb28498bd952bfa",
+    "title_en": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+    "source": "Wired",
+    "url": "https://www.wired.com/review/saily-ultra-esim/",
+    "published_at": "2026-08-22T13:00:00.000Z",
+    "fetched_at": "2026-08-22T18:15:35.843Z",
+    "title_zh": "Saily Ultra eSIM高级套餐评测：福利满满",
+    "summary_zh": "Wired对Saily Ultra eSIM高级套餐进行了详细评测。该套餐提供全球数据漫游、无限流量和多项增值服务，如VPN和数字身份保护。评测认为，虽然价格偏高，但对于频繁国际旅行的用户而言，其便利性和全面的功能组合物超所值，是市场上最具竞争力的高端eSIM选项之一。",
+    "category": "product"
+  },
+  {
     "id": "f11860d53fccf024557d92e39ac3d414",
     "title_en": "Two great new repairable gadgets",
     "source": "The Verge",
@@ -165,6 +242,83 @@
     "category": "industry"
   },
   {
+    "id": "29dca21218835009223de73adc8d6fbd",
+    "title_en": "Other Barks & Bites for Friday, August 21: US Inventor Lacks Standing for Patent Language Challenge; D.C. Circuit Upholds CMS’ Single-Source Drug Interpretation; and Ninth Circuit Deepens Split on Attorney’s Fees Under Lanham Act",
+    "source": "IPWatchdog.com",
+    "url": "https://ipwatchdog.com/2026/08/21/bites-barks-dc-circuit-upholds-cms-single-source-drug-interpretation-ninth-circuit-deepens-spli/",
+    "published_at": "2026-08-21T18:15:25Z",
+    "fetched_at": "2026-08-22T18:15:36.658Z",
+    "title_zh": "周五其他法律动态：美国发明人缺乏专利语言挑战资格；DC巡回法院维持CMS单一来源药物解释；第九巡回法院在兰哈姆法案律师费问题上分歧加深",
+    "summary_zh": "本周五知识产权法律动态汇总：美国联邦巡回上诉法院裁定，一位发明人因缺乏诉讼资格，无法对专利语言提出挑战；DC巡回法院维持了CMS关于单一来源药物的解释；同时，第九巡回法院在兰哈姆法案下律师费裁决标准上出现更深的分歧。这些案例对专利和商标实践具有重要参考意义。",
+    "category": "industry"
+  },
+  {
+    "id": "bad4bf21d97e062e4ef8d3d9d0f39523",
+    "title_en": "Another Photo Contest Falls Victim to a Controversy of its Own Making",
+    "source": "PetaPixel",
+    "url": "https://petapixel.com/2026/08/21/another-photo-contest-falls-victim-to-a-controversy-of-its-own-making/",
+    "published_at": "2026-08-21T18:15:09Z",
+    "fetched_at": "2026-08-22T18:15:36.658Z",
+    "title_zh": "又一摄影比赛因自身争议落败",
+    "summary_zh": "近日，一场摄影比赛因评审标准不透明、获奖作品涉嫌抄袭等问题引发广泛争议，最终主办方不得不取消部分奖项并重新评审。这一事件再次暴露了摄影行业在AI生成图像泛滥背景下，对原创性和真实性的界定困境。业内人士呼吁建立更严格的审核机制和伦理准则，以维护摄影艺术的公信力。",
+    "category": "industry"
+  },
+  {
+    "id": "168f2c91364f3c24d23f4aad382abcc1",
+    "title_en": " He's back with a bang! Cristiano Ronaldo reaches 977th career goal",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/hes-back-with-a-bang-cristiano-ronaldo-reaches-977th-career-goal-43315286",
+    "published_at": "2026-08-21T18:05:00Z",
+    "fetched_at": "2026-08-22T18:15:36.659Z",
+    "title_zh": "王者归来！C罗达成职业生涯第977球里程碑",
+    "summary_zh": "在最新一场比赛中，克里斯蒂亚诺·罗纳尔多再次展现惊人状态，攻入个人职业生涯第977粒进球，帮助球队取得关键胜利。这位葡萄牙巨星虽已年近40，但竞技状态依然火热，持续刷新足坛纪录。他的表现再次证明，年龄只是数字，真正的传奇永不落幕。",
+    "category": "product"
+  },
+  {
+    "id": "721c1826865febc7fab31cbadd4ac241",
+    "title_en": "Michaels launches omnichannel custom framing experience with Architectural Digest",
+    "source": "DigitalCommerce360",
+    "url": "https://www.digitalcommerce360.com/2026/08/21/michaels-omnichannel-custom-framing-architectural-digest/",
+    "published_at": "2026-08-21T18:04:27Z",
+    "fetched_at": "2026-08-22T18:15:36.659Z",
+    "title_zh": "Michaels携手Architectural Digest推出全渠道定制装裱服务",
+    "summary_zh": "美国工艺品零售商Michaels宣布与知名设计杂志Architectural Digest合作，推出全新的全渠道定制装裱体验。顾客可通过线上平台选择设计风格，并在实体店获得专业指导，实现线上线下无缝衔接。此举旨在提升客户体验，强化品牌在高端家居装饰市场的竞争力，也反映了零售业数字化转型的深入趋势。",
+    "category": "product"
+  },
+  {
+    "id": "b28b5253f649b1f544e4ebaea39de63f",
+    "title_en": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+    "published_at": "2026-08-21T18:03:24Z",
+    "fetched_at": "2026-08-22T18:15:36.659Z",
+    "title_zh": "共和党警告数据中心威胁俄亥俄州参议院席位，赫斯特德为能源政策辩护",
+    "summary_zh": "随着AI产业爆发式增长，数据中心电力需求激增，引发美国多州能源政策争议。俄亥俄州副州长赫斯特德面对共和党内部批评，坚称现行能源政策能平衡经济发展与电网稳定。他提出将扩大天然气和核能使用，同时鼓励可再生能源投资，以保障数据中心建设不损害选民利益。这场辩论凸显了AI基础设施与政治博弈的复杂交织。",
+    "category": "industry"
+  },
+  {
+    "id": "f5f4fb71b6a9d171525e88e8e9157470",
+    "title_en": "Coffee Break: Notes on the Surveillance State, AI, and Scientific Communication",
+    "source": "Nakedcapitalism.com",
+    "url": "https://www.nakedcapitalism.com/2026/08/the-surveillance-state-grows-while-ai-metastasizes-but-scientific-communication-remains-possible.html",
+    "published_at": "2026-08-21T18:00:54Z",
+    "fetched_at": "2026-08-22T18:15:36.659Z",
+    "title_zh": "咖啡时间：关于监控国家、AI与科学传播的思考",
+    "summary_zh": "本文深入探讨了当前监控技术、人工智能发展对科学传播生态的影响。作者指出，AI生成内容的泛滥正在模糊真实与虚假的界限，而科研机构在利用AI工具时也面临数据隐私和伦理挑战。文章呼吁科学界建立更透明的传播机制，同时警惕技术滥用带来的社会风险，为AI时代的科学交流提供了反思性视角。",
+    "category": "research"
+  },
+  {
+    "id": "46d36ae78d9cdf0ad622eab64b4b2b2c",
+    "title_en": "Why AI might kill the second-hand bookshop",
+    "source": "TheJournal.ie",
+    "url": "https://www.thejournal.ie/ai-companies-destroying-books-7137781-Aug2026/",
+    "published_at": "2026-08-21T18:00:18Z",
+    "fetched_at": "2026-08-22T18:15:36.659Z",
+    "title_zh": "AI为何可能终结二手书店",
+    "summary_zh": "随着AI推荐算法和电子书普及，二手书店正面临前所未有的生存危机。AI能精准匹配读者需求，提供海量数字资源，而实体二手书店的稀缺性和淘书乐趣逐渐被边缘化。文章分析认为，尽管AI提升了获取知识的效率，但也可能削弱文化多样性和社区交流。二手书店需转型为文化空间，才能在AI时代找到新定位。",
+    "category": "industry"
+  },
+  {
     "id": "65fa32743da12425ea00a2cd3e1a0d09",
     "title_en": "$100 Best Buy gift cards will be $60 at stores Saturday",
     "source": "The Verge",
@@ -173,6 +327,39 @@
     "fetched_at": "2026-08-22T00:40:59.708Z",
     "title_zh": "百思买周末促销：100 美元礼品卡仅售 60 美元",
     "summary_zh": "百思买（Best Buy）宣布将在周六举行限时促销活动，原价 100 美元的礼品卡将以 60 美元的价格出售。这一大幅折扣旨在吸引消费者进店或在线购物，并可能带动其他商品的销售。对于消费者而言，这是一个难得的优惠机会，但需注意促销活动的具体条款和库存限制。",
+    "category": "product"
+  },
+  {
+    "id": "b132b536ec0cd954dd3babbce9d67ec6",
+    "title_en": " Confirmed line-ups: Betis and La Real face off to kick off their campaign",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/confirmed-line-ups-betis-and-la-real-face-off-to-kick-off-their-campaign-43315203",
+    "published_at": "2026-08-21T17:55:00Z",
+    "fetched_at": "2026-08-22T18:15:36.659Z",
+    "title_zh": "确认首发：贝蒂斯与皇家社会揭幕战对阵出炉",
+    "summary_zh": "西甲新赛季揭幕战即将打响，皇家贝蒂斯与皇家社会均公布了首发阵容。两队均派出最强主力，力求开门红。贝蒂斯新援有望首秀，而皇家社会则延续上赛季核心框架。这场对决被视为西甲中上游球队的激烈碰撞，双方战术风格鲜明，预计将上演一场攻防大战，为球迷奉献精彩开局。",
+    "category": "product"
+  },
+  {
+    "id": "41f4165cea3e7744708e69a524566e9c",
+    "title_en": "In Limeira, under-17s face Independente in the Paulista",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/in-limeira-under-17s-face-independente-in-the-paulista-43315184",
+    "published_at": "2026-08-21T17:52:00Z",
+    "fetched_at": "2026-08-22T18:15:36.659Z",
+    "title_zh": "利梅拉U17队迎战独立队，争夺保利斯塔冠军",
+    "summary_zh": "巴西圣保罗州保利斯塔锦标赛U17组别迎来关键对决，利梅拉青年队主场迎战独立队。两队均以青训著称，此役关乎小组出线形势。利梅拉近期状态出色，进攻端火力十足；独立队则防守稳健，擅长反击。青年球员们将全力展现天赋，争夺晋级资格，比赛备受当地球迷关注。",
+    "category": "product"
+  },
+  {
+    "id": "39f86d3c9e65a9407760c7ed925de94a",
+    "title_en": " Confirmed XIs: Arsenal begin their title defence",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/confirmed-xis-arsenal-begin-their-title-defence-43315186",
+    "published_at": "2026-08-21T17:52:00Z",
+    "fetched_at": "2026-08-22T18:15:36.659Z",
+    "title_zh": "确认首发：阿森纳开启卫冕征程",
+    "summary_zh": "英超新赛季揭幕，阿森纳公布首发阵容，正式开启卫冕之旅。主帅阿尔特塔排出强阵，核心球员悉数登场，新援也获得首发机会。枪手在季前赛表现出色，目标直指连续夺冠。对手同样实力不俗，但阿森纳主场作战气势如虹，球迷期待球队以胜利开启新赛季，延续上赛季的辉煌。",
     "category": "product"
   },
   {
@@ -5310,193 +5497,6 @@
     "fetched_at": "2026-08-16T12:19:27.630Z",
     "title_zh": "三星Galaxy Z Fold8和Fold8 Ultra评测：正确的形态",
     "summary_zh": "三星新款折叠屏手机Galaxy Z Fold8和Fold8 Ultra在铰链设计、屏幕耐用性和性能上均有提升，外屏比例更合理，内屏折痕减轻。评测认为其折叠形态已趋于成熟，适合追求大屏体验的用户，但价格依然高昂，电池续航有待优化。",
-    "category": "product"
-  },
-  {
-    "id": "9c34d23c31fe725e5a4998416dba8687",
-    "title_en": "Astronomers Discover the Existence of a Black Hole Star",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
-    "published_at": "2026-08-16T11:00:00.000Z",
-    "fetched_at": "2026-08-16T12:19:27.630Z",
-    "title_zh": "天文学家发现黑洞恒星的存在",
-    "summary_zh": "天文学家通过观测发现了一种新型天体——黑洞恒星，其核心为黑洞，外层被恒星物质包裹。这一发现挑战了传统恒星演化理论，可能解释早期宇宙中超大质量黑洞的形成。研究团队利用望远镜数据模拟，成果已发表于权威期刊。",
-    "category": "research"
-  },
-  {
-    "id": "d8ee4203579cd4eec0da9de511b82494",
-    "title_en": "Project Hail Mary Writer Andy Weir Has Already Abandoned One Book Idea",
-    "source": "/FILM",
-    "url": "https://www.slashfilm.com/2236723/project-hail-mary-andy-weir-abandoned-book-idea/",
-    "published_at": "2026-08-16T11:00:00Z",
-    "fetched_at": "2026-08-17T12:23:26.990Z",
-    "title_zh": "《挽救计划》作者安迪·威尔已放弃一个书籍创意",
-    "summary_zh": "知名科幻作家安迪·威尔（《火星救援》《挽救计划》作者）透露，他已经放弃了一个书籍创意。尽管未透露具体细节，但威尔表示该想法未能达到他的标准。粉丝们期待他的下一部作品，威尔以其严谨的科学设定和幽默叙事著称，新作动向备受关注。",
-    "category": "product"
-  },
-  {
-    "id": "d44f7d0357afac7c552dc9cdceedec47",
-    "title_en": "Jim Cramer Backs NVIDIA (NVDA) Compute Bonds",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/c974c0fa7d9250a7",
-    "published_at": "2026-08-16T10:33:43Z",
-    "fetched_at": "2026-08-17T12:23:26.990Z",
-    "title_zh": "吉姆·克莱默支持英伟达（NVDA）计算债券",
-    "summary_zh": "美国财经名嘴吉姆·克莱默公开表示支持英伟达（NVDA）发行的计算债券。这种债券允许投资者以固定收益方式参与AI算力投资，克莱默认为这是分享英伟达增长潜力的创新途径。此举反映市场对AI基础设施投资需求旺盛，计算债券或成为科技融资新趋势。",
-    "category": "industry"
-  },
-  {
-    "id": "403ef038b7111c77e02cc9fa4cdc4ee9",
-    "title_en": "It’s Never Too Early to Start Planning for the Next Two Solar Eclipses",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/",
-    "published_at": "2026-08-16T10:30:00.000Z",
-    "fetched_at": "2026-08-16T12:19:27.630Z",
-    "title_zh": "为未来两次日食提前规划永远不会太早",
-    "summary_zh": "天文爱好者应提前规划未来两次日食观测：2026年8月的日全食和2027年8月的日全食，分别可见于欧洲和北非地区。专家建议提前预订观测地点、准备专业滤镜，并关注天气预测。日食观测是难得的科学体验，早做准备可确保最佳视角。",
-    "category": "research"
-  },
-  {
-    "id": "e1b44c528638145db15c8fa35cf6f290",
-    "title_en": "Someone Finally Fixed Installing Apps on a Mac",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
-    "published_at": "2026-08-16T10:30:00.000Z",
-    "fetched_at": "2026-08-16T12:19:27.630Z",
-    "title_zh": "终于有人解决了Mac安装应用的难题",
-    "summary_zh": "长期以来，Mac用户安装应用需经历拖拽、权限设置等繁琐步骤。本文介绍了一项新方案，旨在简化这一过程，提升用户体验。该方案可能通过新的安装机制或工具，让应用安装更直观、更安全，减少用户操作负担，标志着Mac应用生态的一次重要改进。",
-    "category": "product"
-  },
-  {
-    "id": "84cb03ff76f24ab695f179300b80cda5",
-    "title_en": "TerraMow V1000 Review: Show Your Lawn Some Love",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/terramow-v1000/",
-    "published_at": "2026-08-16T10:30:00.000Z",
-    "fetched_at": "2026-08-16T12:19:27.630Z",
-    "title_zh": "TerraMow V1000评测：让您的草坪焕发新生",
-    "summary_zh": "TerraMow V1000是一款智能割草机器人，评测显示其具备精准导航、高效切割和自动充电等功能。它通过APP远程控制，能适应复杂地形，显著节省用户时间和精力。尽管价格较高，但对于追求草坪完美的用户而言，它提供了便捷、智能的解决方案，是庭院维护的得力助手。",
-    "category": "product"
-  },
-  {
-    "id": "c7c5b3b32f4cfb73f4857655004b9b1a",
-    "title_en": "AI and bureaucratic productivity",
-    "source": "Upenn.edu",
-    "url": "https://languagelog.ldc.upenn.edu/nll/?p=74020",
-    "published_at": "2026-08-16T10:23:47Z",
-    "fetched_at": "2026-08-17T12:23:26.990Z",
-    "title_zh": "AI与官僚效率",
-    "summary_zh": "宾夕法尼亚大学研究探讨AI如何提升官僚机构效率。文章分析AI在行政流程自动化、数据处理和决策支持中的应用潜力，指出其可减少冗余、加速审批并降低错误率。但同时也讨论实施挑战，如数据隐私、算法偏见和人员适应问题，强调需谨慎部署以实现真正增效。",
-    "category": "research"
-  },
-  {
-    "id": "ba1595b00e593c9770aa5adc7c0cfaa6",
-    "title_en": "Inside the Experimental Traps Scientists Set for Ghostly Neutrinos",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/",
-    "published_at": "2026-08-16T10:00:00.000Z",
-    "fetched_at": "2026-08-16T12:19:27.631Z",
-    "title_zh": "探秘科学家为捕捉幽灵中微子设置的实验陷阱",
-    "summary_zh": "中微子被称为“幽灵粒子”，极难探测。本文深入介绍了科学家为捕捉这些粒子而设计的精密实验装置，包括大型地下探测器、闪烁体等。这些实验旨在解答宇宙基本问题，如物质起源。尽管挑战巨大，但每一次探测都可能带来物理学重大突破，推动人类对宇宙的理解。",
-    "category": "research"
-  },
-  {
-    "id": "c53bf31c140403b374bfec9ad1bea0f3",
-    "title_en": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
-    "published_at": "2026-08-16T09:33:00.000Z",
-    "fetched_at": "2026-08-16T12:19:27.631Z",
-    "title_zh": "2026年最佳猫咪饮水机：Petlibro、Petkit、Oneisall等品牌推荐",
-    "summary_zh": "为猫咪提供充足饮水至关重要。本文评测了2026年多款热门猫咪饮水机，涵盖Petlibro、Petkit、Oneisall等品牌。评测关注过滤效果、静音设计、容量及清洁便利性。推荐产品旨在鼓励猫咪多喝水，预防泌尿系统疾病，为宠物主人提供可靠的选择参考。",
-    "category": "product"
-  },
-  {
-    "id": "5a682215cb26b5e7392516f8844033b5",
-    "title_en": "Analysis: The big AI worry may not be that it betrays us, but that it does what it's told",
-    "source": "TheJournal.ie",
-    "url": "https://www.thejournal.ie/readme/artificial-intelligence-4-7130489-Aug2026/",
-    "published_at": "2026-08-16T06:30:41Z",
-    "fetched_at": "2026-08-17T06:34:11.444Z",
-    "title_zh": "分析：AI 最大的担忧或许不是背叛我们，而是过于服从指令",
-    "summary_zh": "本文提出了一种对 AI 风险的另类视角，认为相比科幻般的“AI 反叛”，更现实的担忧在于 AI 系统会不加批判地执行人类指令，即使这些指令存在偏见、错误或有害。这种“过度服从”可能导致错误决策被放大，或使系统在缺乏明确目标时产生不可预测的行为。文章呼吁关注 AI 对齐问题中关于指令遵循的细微差别，而非仅聚焦于极端风险。",
-    "category": "research"
-  },
-  {
-    "id": "d7e4a1c9299ab5268ad1b7713cff7858",
-    "title_en": "️ Today’s back pages: €70m for Rodri, boos for Enzo",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/todays-back-pages-70m-for-rodri-boos-for-enzo-43284885",
-    "published_at": "2026-08-16T06:24:00Z",
-    "fetched_at": "2026-08-17T06:34:11.444Z",
-    "title_zh": "今日体育版：罗德里 7000 万欧元转会，恩佐遭嘘声",
-    "summary_zh": "今日体育新闻聚焦两大热点：曼城以 7000 万欧元签下罗德里，创下俱乐部转会费纪录；而在另一场比赛中，切尔西球员恩佐·费尔南德斯遭到现场球迷的嘘声。这些事件成为足球界讨论的焦点，涉及巨额投资、球员表现与球迷期望之间的复杂关系。",
-    "category": "industry"
-  },
-  {
-    "id": "519b4bebad2cbb7cd2c4cecf3344497d",
-    "title_en": "Amber to start making Oppo, OnePlus, Realme phones in March 2027 quarter",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/companies/amber-to-start-making-oppo-oneplus-realme-phones-in-march-2027-quarter/article71352164.ece",
-    "published_at": "2026-08-16T06:23:26Z",
-    "fetched_at": "2026-08-17T06:34:11.444Z",
-    "title_zh": "Amber 将于 2027 年 3 月季度开始生产 Oppo、OnePlus 和 Realme 手机",
-    "summary_zh": "代工厂商 Amber 宣布，计划在 2027 年 3 月季度开始为 Oppo、OnePlus 和 Realme 品牌生产智能手机。此举是 Amber 扩大其制造业务的重要一步，旨在通过承接更多国际品牌订单来提升产能利用率。该合作将有助于 Amber 巩固其在全球电子制造服务领域的地位，并可能对相关品牌的供应链布局产生影响。",
-    "category": "industry"
-  },
-  {
-    "id": "d64c12e625b923e337fff1b92c7ad419",
-    "title_en": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms",
-    "published_at": "2026-08-16T06:19:57Z",
-    "fetched_at": "2026-08-17T06:34:11.444Z",
-    "title_zh": "Anthropic CEO Dario Amodei 反驳 AI 监管将集中权力的说法",
-    "summary_zh": "Anthropic 首席执行官 Dario Amodei 公开反对一种观点，即严格的 AI 监管会加剧权力集中，使大型科技公司受益。他认为，合理的监管框架能够为 AI 发展提供明确规则，促进竞争与创新，而非扼杀小企业。Amodei 强调，监管的目标应是确保安全与公平，同时避免过度限制，以平衡技术进步与社会责任。",
-    "category": "industry"
-  },
-  {
-    "id": "dd9922a0b0c3d0b36c70a896601bba26",
-    "title_en": "Amber to start manufacturing Oppo, OnePlus, Realme phones from Q4FY27",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/companies/news/amber-to-start-manufacturing-oppo-oneplus-realme-phones-from-q4fy27-126081600160_1.html",
-    "published_at": "2026-08-16T06:19:41Z",
-    "fetched_at": "2026-08-17T06:34:11.444Z",
-    "title_zh": "Amber 将从 2027 财年第四季度开始为 Oppo、OnePlus 和 Realme 制造手机",
-    "summary_zh": "Amber 公司确认，其将于 2027 财年第四季度（即 2027 年 1 月至 3 月）启动对 Oppo、OnePlus 和 Realme 三个品牌的智能手机制造业务。这一时间表明确了 Amber 的产能扩张计划，并预示着其与这些中国手机品牌的合作进入实质性阶段。此举有望提升 Amber 在印度等市场的制造影响力，并优化客户的供应链效率。",
-    "category": "industry"
-  },
-  {
-    "id": "4417768fdaf423b42b8af03d9bcce627",
-    "title_en": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots",
-    "source": "The Conversation Africa",
-    "url": "https://theconversation.com/we-asked-chatgpt-claude-and-perplexity-for-financial-advice-what-we-got-was-practical-but-with-big-blind-spots-288948",
-    "published_at": "2026-08-16T06:19:03Z",
-    "fetched_at": "2026-08-17T06:34:11.444Z",
-    "title_zh": "我们向 ChatGPT、Claude 和 Perplexity 咨询财务建议：结果实用，但存在重大盲区",
-    "summary_zh": "一项测试显示，ChatGPT、Claude 和 Perplexity 等 AI 聊天机器人能够提供实用的财务建议，涵盖预算、储蓄和投资基础。然而，这些建议存在显著盲区，例如无法理解复杂的税务法规、个人风险承受能力评估不足，以及可能忽略特定市场条件。专家提醒，AI 可作为信息参考，但不应替代专业财务顾问的个性化指导。",
-    "category": "research"
-  },
-  {
-    "id": "67cab9cbb64f0339a9b19ade0d332907",
-    "title_en": "This signing fits perfectly! Can he lead his club to glory after 7 years?",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/this-signing-fits-perfectly-can-he-lead-his-club-to-glory-after-7-years-43284871",
-    "published_at": "2026-08-16T06:14:00Z",
-    "fetched_at": "2026-08-17T06:34:11.444Z",
-    "title_zh": "这笔签约完美契合！他能否在 7 年后带领俱乐部走向辉煌？",
-    "summary_zh": "体育评论聚焦于一笔被认为与俱乐部战术体系高度契合的球员签约。分析指出，该球员的技术特点有望填补球队关键位置的空缺，但能否在长期内兑现潜力并带领球队取得重大荣誉，仍存在不确定性。文章回顾了球员过去七年的职业轨迹，并探讨了其在新环境中的适应前景与领导力挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "37b675f0c959bf200cb0c50819cee65d",
-    "title_en": "Photoroom AI photo editor review: A one-click wonder for making product shots unmissable on your ecommerce store",
-    "source": "TechRadar",
-    "url": "https://www.techradar.com/pro/software-services/photoroom-ai-photo-editor-review",
-    "published_at": "2026-08-16T06:10:00Z",
-    "fetched_at": "2026-08-17T06:34:11.444Z",
-    "title_zh": "Photoroom AI 照片编辑器评测：一键让电商产品图脱颖而出",
-    "summary_zh": "TechRadar 对 Photoroom 的 AI 照片编辑器进行了评测，认为其是一款“一键式”工具，能显著提升电商产品图片的视觉吸引力。该工具利用 AI 自动完成背景移除、光影调整和场景生成等任务，帮助卖家快速制作专业级产品图。评测称赞其易用性和效果，但也指出高级功能可能需要付费订阅，适合追求效率的电商卖家。",
     "category": "product"
   }
 ]

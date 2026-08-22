@@ -2,47 +2,47 @@
   "days": [
     {
       "date": "2026-08-22",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链，涵盖短视频生成、智能求职助手、TypeScript更新及Rust硬件控制，同时包含数据可视化和产品分析平台，展现AI与开发者效率工具的深度融合趋势。",
+      "summary_zh": "今日GitHub热门聚焦AI编程助手与自动化工具，如Codex、Claude Code等终端智能体，以及工作流平台n8n，同时涵盖开源项目管理、硬件配置和订阅聚合服务。",
       "projects": [
         {
           "rank": 1,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description_en": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars_total": 112834,
+          "stars_today": 4159,
+          "description_zh": "轻量级编码代理，可在终端中运行"
+        },
+        {
+          "rank": 2,
           "name": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 230782,
+          "stars_total": 231522,
           "stars_today": 2684,
           "description_zh": "面向真实工程师的技能。直接来自我的.agents目录。"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "AprilNEA/OpenLogi",
           "url": "https://github.com/AprilNEA/OpenLogi",
           "description_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
           "language": "Rust",
-          "stars_total": 13404,
+          "stars_total": 13664,
           "stars_today": 959,
           "description_zh": "⚡️一个用Rust编写的原生、本地优先的Logitech Options+替代品🦀——通过HID++重映射按钮、DPI和SmartShift。无账户，无遥测。"
         },
         {
-          "rank": 3,
-          "name": "harry0703/MoneyPrinterTurbo",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-          "language": "Python",
-          "stars_total": 114382,
-          "stars_today": 903,
-          "description_zh": "利用AI大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
-        },
-        {
           "rank": 4,
-          "name": "santifer/career-ops",
-          "url": "https://github.com/santifer/career-ops",
-          "description_en": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-          "language": "JavaScript",
-          "stars_total": 67711,
-          "stars_today": 604,
-          "description_zh": "开源AI求职工具：扫描求职门户，用结构化的A-F评分标准将职位列表评估为1.0-5.0分，定制你的简历，跟踪申请——在你的AI编码CLI（Claude Code、Codex、OpenCode、Antigravity等）中本地运行。"
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars_total": 133788,
+          "stars_today": 915,
+          "description_zh": "面向 DevOps 和基础设施开发者的免费 SaaS、PaaS 和 IaaS 服务列表。"
         },
         {
           "rank": 5,
@@ -50,7 +50,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 275891,
+          "stars_total": 276059,
           "stars_today": 592,
           "description_zh": "一个有效的代理技能框架和软件开发方法论。"
         },
@@ -60,119 +60,119 @@
           "url": "https://github.com/mahlernim/google-timeline-visualizer",
           "description_en": "Visualize your year in travel using your Google Location History (Timeline) data",
           "language": "Kotlin",
-          "stars_total": 2438,
+          "stars_total": 2520,
           "stars_today": 441,
           "description_zh": "使用你的Google位置历史（时间线）数据可视化你的年度旅行。"
         },
         {
           "rank": 7,
-          "name": "modular/modular",
-          "url": "https://github.com/modular/modular",
-          "description_en": "The Modular Platform (includes MAX & Mojo)",
-          "language": "Mojo",
-          "stars_total": 28770,
-          "stars_today": 395,
-          "description_zh": "Modular平台（包含MAX和Mojo）。"
-        },
-        {
-          "rank": 8,
           "name": "affaan-m/ECC",
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 241976,
-          "stars_today": 357,
+          "stars_total": 242088,
+          "stars_today": 428,
           "description_zh": "代理框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发。"
         },
         {
+          "rank": 8,
+          "name": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "description_en": "The Modular Platform (includes MAX & Mojo)",
+          "language": "Mojo",
+          "stars_total": 28806,
+          "stars_today": 395,
+          "description_zh": "Modular平台（包含MAX和Mojo）。"
+        },
+        {
           "rank": 9,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 205193,
+          "stars_today": 379,
+          "description_zh": "一个 CLAUDE.md 文件，用于改进 Claude Code 行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
+        },
+        {
+          "rank": 10,
           "name": "PostHog/posthog",
           "url": "https://github.com/PostHog/posthog",
           "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
           "language": "Python",
-          "stars_total": 38431,
+          "stars_total": 38525,
           "stars_today": 288,
           "description_zh": "🦔 PostHog是构建自动驾驶产品的领先平台。我们的开发者工具——AI可观测性、分析、会话重放、功能开关、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和发布修复所需的所有上下文。可通过Slack、Web、桌面或MCP进行控制。"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "cursor/plugins",
           "url": "https://github.com/cursor/plugins",
           "description_en": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "stars_total": 4534,
+          "stars_total": 4595,
           "stars_today": 286,
           "description_zh": "Cursor插件规范及官方插件。"
         },
         {
-          "rank": 11,
-          "name": "apache/maka",
-          "url": "https://github.com/apache/maka",
-          "description_en": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-          "language": "TypeScript",
-          "stars_total": 2144,
-          "stars_today": 148,
-          "description_zh": "Apache Maka（孵化中）是一个本地优先的AI代理工作空间。模型消息、工具调用、工具结果、权限决策和终止事件被记录为追加式日志。"
-        },
-        {
           "rank": 12,
-          "name": "ruvnet/ruflo",
-          "url": "https://github.com/ruvnet/ruflo",
-          "description_en": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-          "language": "TypeScript",
-          "stars_total": 68800,
-          "stars_today": 140,
-          "description_zh": "🌊 原始的代理元框架。部署智能多玩家群体，协调自主工作流，构建对话式AI系统。具有自适应记忆、自学习智能、RAG集成，并原生集成Claude Code / Codex / Hermes等。"
+          "name": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description_en": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "language": "Go",
+          "stars_total": 38744,
+          "stars_today": 264,
+          "description_zh": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
         },
         {
           "rank": 13,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description_en": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+          "language": "TypeScript",
+          "stars_total": 57140,
+          "stars_today": 263,
+          "description_zh": "🔥🔥🔥 开源替代 Jira、Linear、Monday 和 ClickUp 的项目管理平台，用于管理任务、冲刺、文档和分类。"
+        },
+        {
+          "rank": 14,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description_en": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+          "language": "TypeScript",
+          "stars_total": 201706,
+          "stars_today": 202,
+          "description_zh": "公平代码工作流自动化平台，具备原生 AI 能力。结合可视化构建与自定义代码，支持自托管或云服务，拥有 400+ 集成。"
+        },
+        {
+          "rank": 15,
+          "name": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "description_en": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+          "language": "Python",
+          "stars_total": 5423,
+          "stars_today": 161,
+          "description_zh": "全栈 AI 红队平台，通过 Agent 扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估来保护 AI 生态系统。"
+        },
+        {
+          "rank": 16,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "Python",
+          "stars_total": 142447,
+          "stars_today": 141,
+          "description_zh": "Claude Code 是一款智能编码工具，驻留在终端中，理解你的代码库，通过自然语言命令执行日常任务、解释复杂代码和处理 Git 工作流，帮助你更快编码。"
+        },
+        {
+          "rank": 17,
           "name": "microsoft/TypeScript",
           "url": "https://github.com/microsoft/TypeScript",
           "description_en": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
           "language": "Go",
-          "stars_total": 110448,
+          "stars_total": 110495,
           "stars_today": 65,
           "description_zh": "TypeScript是JavaScript的超集，可编译为干净的JavaScript输出。"
-        },
-        {
-          "rank": 14,
-          "name": "elder-plinius/OBLITERATUS",
-          "url": "https://github.com/elder-plinius/OBLITERATUS",
-          "description_en": "OBLITERATE THE CHAINS THAT BIND YOU",
-          "language": "Python",
-          "stars_total": 7928,
-          "stars_today": 63,
-          "description_zh": "摧毁束缚你的锁链。"
-        },
-        {
-          "rank": 15,
-          "name": "TryGhost/Ghost",
-          "url": "https://github.com/TryGhost/Ghost",
-          "description_en": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-          "language": "JavaScript",
-          "stars_total": 55022,
-          "stars_today": 32,
-          "description_zh": "面向现代出版、会员、订阅和新闻通讯的独立技术。"
-        },
-        {
-          "rank": 16,
-          "name": "microsoft/onnxruntime",
-          "url": "https://github.com/microsoft/onnxruntime",
-          "description_en": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-          "language": "C++",
-          "stars_total": 21586,
-          "stars_today": 5,
-          "description_zh": "ONNX Runtime：跨平台、高性能的机器学习推理和训练加速器。"
-        },
-        {
-          "rank": 17,
-          "name": "protocolbuffers/protobuf",
-          "url": "https://github.com/protocolbuffers/protobuf",
-          "description_en": "Protocol Buffers - Google's data interchange format",
-          "language": "C++",
-          "stars_total": 71805,
-          "stars_today": 4,
-          "description_zh": "Protocol Buffers - Google的数据交换格式。"
         }
       ]
     },
