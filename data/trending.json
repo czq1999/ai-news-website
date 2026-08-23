@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-08-23",
+      "summary_zh": "今日GitHub热门聚焦AI编程助手与智能体框架，如Codex、Claude Code等终端工具，以及技能增强框架；同时涵盖开源项目管理、自动化平台及Rust硬件工具，展现开发者效率提升新趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 232041,
+          "stars_today": 2683,
+          "description_zh": "面向真实工程师的技能。直接来自我的.agents目录。"
+        },
+        {
+          "rank": 2,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description_en": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars_total": 113366,
+          "stars_today": 1544,
+          "description_zh": "轻量级编码代理，可在终端中运行"
+        },
+        {
+          "rank": 3,
+          "name": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "description_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+          "language": "Rust",
+          "stars_total": 13938,
+          "stars_today": 959,
+          "description_zh": "⚡️ 用 Rust 🦀 编写的 Logitech Options+ 的原生本地优先替代品——通过 HID++ 重新映射按钮、DPI 和 SmartShift。无需账户，无遥测。"
+        },
+        {
+          "rank": 4,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description_en": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars_total": 133907,
+          "stars_today": 829,
+          "description_zh": "一份包含对 devops 和基础设施开发者有用的免费层级的 SaaS、PaaS 和 IaaS 服务列表"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 276188,
+          "stars_today": 592,
+          "description_zh": "一套有效的代理技能框架和软件开发方法论。"
+        },
+        {
+          "rank": 6,
+          "name": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "description_en": "Visualize your year in travel using your Google Location History (Timeline) data",
+          "language": "Kotlin",
+          "stars_total": 2565,
+          "stars_today": 441,
+          "description_zh": "使用你的 Google 位置历史（时间线）数据可视化你的年度旅行"
+        },
+        {
+          "rank": 7,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 242170,
+          "stars_today": 411,
+          "description_zh": "代理框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发支持。"
+        },
+        {
+          "rank": 8,
+          "name": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "description_en": "The Modular Platform (includes MAX & Mojo)",
+          "language": "Mojo",
+          "stars_total": 28842,
+          "stars_today": 395,
+          "description_zh": "Modular 平台（包括 MAX 和 Mojo）"
+        },
+        {
+          "rank": 9,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 205304,
+          "stars_today": 315,
+          "description_zh": "一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
+        },
+        {
+          "rank": 10,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description_en": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars_total": 4663,
+          "stars_today": 286,
+          "description_zh": "Cursor 插件规范及官方插件"
+        },
+        {
+          "rank": 11,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "language": "Python",
+          "stars_total": 38615,
+          "stars_today": 286,
+          "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发者工具——AI 可观测性、分析、会话重放、功能标志、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和发布修复所需的所有上下文。通过 Slack、Web、桌面或 MCP 全面掌控。"
+        },
+        {
+          "rank": 12,
+          "name": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description_en": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "language": "Go",
+          "stars_total": 38783,
+          "stars_today": 278,
+          "description_zh": "Sub2API 一站式开源中转服务，让 Claude、Openai、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+        },
+        {
+          "rank": 13,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description_en": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+          "language": "TypeScript",
+          "stars_total": 57222,
+          "stars_today": 263,
+          "description_zh": "🔥🔥🔥 开源的 Jira、Linear、Monday 和 ClickUp 替代品。Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
+        },
+        {
+          "rank": 14,
+          "name": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "description_en": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+          "language": "Python",
+          "stars_total": 5493,
+          "stars_today": 150,
+          "description_zh": "一个全栈 AI 红队平台，通过代理扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估来保护 AI 生态系统。"
+        },
+        {
+          "rank": 15,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description_en": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+          "language": "TypeScript",
+          "stars_total": 201813,
+          "stars_today": 149,
+          "description_zh": "具有原生 AI 能力的公平代码工作流自动化平台。结合可视化构建与自定义代码，支持自托管或云服务，拥有400多个集成。"
+        },
+        {
+          "rank": 16,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "Python",
+          "stars_total": 142536,
+          "stars_today": 127,
+          "description_zh": "Claude Code 是一款代理式编码工具，运行在终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编码。"
+        },
+        {
+          "rank": 17,
+          "name": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "description_en": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+          "language": "Go",
+          "stars_total": 110538,
+          "stars_today": 104,
+          "description_zh": "TypeScript 是 JavaScript 的超集，可编译为干净的 JavaScript 输出。"
+        }
+      ]
+    },
+    {
       "date": "2026-08-22",
       "summary_zh": "今日GitHub热门聚焦AI编程助手与自动化工具，如Codex、Claude Code等终端智能体，以及工作流平台n8n，同时涵盖开源项目管理、硬件配置和订阅聚合服务。",
       "projects": [
@@ -4431,172 +4607,6 @@
           "stars_total": 26163,
           "stars_today": 173,
           "description_zh": "🔥🔥🔥 AI驱动的数据库工具和SQL客户端，最热门的GUI客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse等。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "summary_zh": "今日GitHub热门项目聚焦AI协作生态：蜂巢思维平台、实时全球情报仪表盘、金融大模型、AI浏览器、多模型网关及Claude技能工具，展现AI与多领域深度融合趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "koala73/worldmonitor",
-          "url": "https://github.com/koala73/worldmonitor",
-          "description_en": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-          "language": "TypeScript",
-          "stars_total": 71228,
-          "stars_today": 3196,
-          "description_zh": "实时全球情报仪表盘。基于AI的新闻聚合、地缘政治监控和基础设施追踪，集成于统一态势感知界面。"
-        },
-        {
-          "rank": 2,
-          "name": "block/buzz",
-          "url": "https://github.com/block/buzz",
-          "description_en": "A hive mind communication platform",
-          "language": "Rust",
-          "stars_total": 6279,
-          "stars_today": 2460,
-          "description_zh": "一个蜂群思维通信平台"
-        },
-        {
-          "rank": 3,
-          "name": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-          "language": "TypeScript",
-          "stars_total": 26853,
-          "stars_today": 1925,
-          "description_zh": "永不停歇的编码。免费MIT AI网关：一个端点，268+提供商（50+免费），500+模型——Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。兼容Claude Code、Codex、Cursor、OpenCode、Cline和Copilot。支持配额感知自动回退、RTK+Caveman压缩节省15-95%令牌、MCP/A2A、桌面/PWA。由500+贡献者构建。"
-        },
-        {
-          "rank": 4,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 85030,
-          "stars_today": 1726,
-          "description_zh": "π RuView 将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——无需任何视频像素。"
-        },
-        {
-          "rank": 5,
-          "name": "ComposioHQ/awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-          "language": "Python",
-          "stars_total": 69313,
-          "stars_today": 637,
-          "description_zh": "精选的Claude技能、资源和工具列表，用于定制Claude AI工作流。"
-        },
-        {
-          "rank": 6,
-          "name": "chrislgarry/Apollo-11",
-          "url": "https://github.com/chrislgarry/Apollo-11",
-          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-          "language": "Assembly",
-          "stars_total": 71004,
-          "stars_today": 599,
-          "description_zh": "阿波罗11号指令舱和登月舱的原始制导计算机（AGC）源代码。"
-        },
-        {
-          "rank": 7,
-          "name": "Automattic/harper",
-          "url": "https://github.com/Automattic/harper",
-          "description_en": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-          "language": "Rust",
-          "stars_total": 12106,
-          "stars_today": 590,
-          "description_zh": "离线、隐私优先的语法检查器。快速、开源、基于Rust构建"
-        },
-        {
-          "rank": 8,
-          "name": "Pumpkin-MC/Pumpkin",
-          "url": "https://github.com/Pumpkin-MC/Pumpkin",
-          "description_en": "Empowering everyone to host fast and efficient Minecraft servers.",
-          "language": "Rust",
-          "stars_total": 8814,
-          "stars_today": 563,
-          "description_zh": "赋能每个人托管快速高效的Minecraft服务器。"
-        },
-        {
-          "rank": 9,
-          "name": "likec4/likec4",
-          "url": "https://github.com/likec4/likec4",
-          "description_en": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-          "language": "TypeScript",
-          "stars_total": 4633,
-          "stars_today": 475,
-          "description_zh": "通过代码中始终实时且动态的图表，可视化、协作并演进软件架构。"
-        },
-        {
-          "rank": 10,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 32956,
-          "stars_today": 398,
-          "description_zh": "Kronos：金融市场语言的基础模型。"
-        },
-        {
-          "rank": 11,
-          "name": "Julian-adv/OpenMMO",
-          "url": "https://github.com/Julian-adv/OpenMMO",
-          "description_en": "",
-          "language": "Rust",
-          "stars_total": 1302,
-          "stars_today": 395,
-          "description_zh": "开源大型多人在线游戏框架"
-        },
-        {
-          "rank": 12,
-          "name": "agegr/pi-web",
-          "url": "https://github.com/agegr/pi-web",
-          "description_en": "Web UI for the pi coding agent",
-          "language": "TypeScript",
-          "stars_total": 2315,
-          "stars_today": 315,
-          "description_zh": "pi编程代理的Web用户界面。"
-        },
-        {
-          "rank": 13,
-          "name": "earthtojake/text-to-cad",
-          "url": "https://github.com/earthtojake/text-to-cad",
-          "description_en": "A collection of agent skills for CAD, robotics and hardware design",
-          "language": "JavaScript",
-          "stars_total": 9874,
-          "stars_today": 293,
-          "description_zh": "用于CAD、机器人和硬件设计的代理技能集合"
-        },
-        {
-          "rank": 14,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "language": "Go",
-          "stars_total": 11336,
-          "stars_today": 265,
-          "description_zh": "开源且免费——在阿里巴巴规模下经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级注释，内置微调规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。"
-        },
-        {
-          "rank": 15,
-          "name": "citrolabs/ego-lite",
-          "url": "https://github.com/citrolabs/ego-lite",
-          "description_en": "The best browser for both you and your AI agents work in parallel.",
-          "language": "JavaScript",
-          "stars_total": 1495,
-          "stars_today": 219,
-          "description_zh": "最适合您和您的AI代理并行工作的浏览器"
-        },
-        {
-          "rank": 16,
-          "name": "jellyfin/jellyfin",
-          "url": "https://github.com/jellyfin/jellyfin",
-          "description_en": "The Free Software Media System - Server Backend & API",
-          "language": "C#",
-          "stars_total": 54671,
-          "stars_today": 66,
-          "description_zh": "自由软件媒体系统 - 服务器后端与API"
         }
       ]
     }

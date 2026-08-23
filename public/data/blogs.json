@@ -1,5 +1,82 @@
 [
   {
+    "id": "accc35290dbccf940308972dbdac1655",
+    "title_en": "一些小团队的自动化运维实践经验 - 翟志军Jack Zhai",
+    "source": "showme.codes",
+    "url": "https://showme.codes/zh-cn/2018-6-7-devops-in-action/",
+    "published_at": "2026-08-23T00:44:43.128Z",
+    "fetched_at": "2026-08-23T00:44:43.128Z",
+    "title_zh": "一些小团队的自动化运维实践经验 - 翟志军Jack Zhai",
+    "summary_zh": "本文分享了小团队在资源有限条件下实施自动化运维的务实经验。作者从实际痛点出发，介绍了如何利用开源工具（如Shell脚本、Ansible、GitLab CI）组合出轻量级的自动化方案，覆盖服务器初始化、应用部署、定时任务管理及基础监控。文章强调了“够用就好”的原则，避免过度设计，并给出了在无专职运维人员情况下保障服务稳定性的具体技巧，包括日志轮转、备份策略和简单的故障自愈脚本。对初创团队或小型项目极具参考价值。",
+    "topic": "ops"
+  },
+  {
+    "id": "7cc1753b0adb8e4f8f3e9e8c8c0de68c",
+    "title_en": "确保Android 长期安全的制造商指南",
+    "source": "source.android.com",
+    "url": "https://source.android.com/docs/automotive/security/mfg_guide?hl=zh-cn",
+    "published_at": "2026-08-23T00:44:43.127Z",
+    "fetched_at": "2026-08-23T00:44:43.127Z",
+    "title_zh": "确保Android 长期安全的制造商指南",
+    "summary_zh": "本文是Android官方面向设备制造商发布的安全指南，旨在帮助厂商建立长期有效的安全更新机制。内容覆盖从安全补丁级别（SPL）管理、内核漏洞修复流程、驱动与固件更新策略，到安全测试与认证要求。文章强调了供应链安全、漏洞披露协调以及用户通知规范的重要性，并提供了构建可维护更新管道的具体建议。对于负责Android设备系统维护与安全合规的工程团队，具有直接的操作指导价值。",
+    "topic": "security"
+  },
+  {
+    "id": "de77a88c83bbb7a5e83a043eba85dd92",
+    "title_en": "从版本号解析Android安全补丁级别指南 - OSCHINA - 开源× AI",
+    "source": "my.oschina.net",
+    "url": "https://my.oschina.net/emacs_7997145/blog/19680574",
+    "published_at": "2026-08-23T00:44:43.127Z",
+    "fetched_at": "2026-08-23T00:44:43.127Z",
+    "title_zh": "从版本号解析Android安全补丁级别指南 - OSCHINA - 开源× AI",
+    "summary_zh": "本文详细解析了Android安全补丁级别（Security Patch Level, SPL）的版本号编码规则及其背后的安全含义。作者通过拆解日期格式（如2026-02-01）与对应的安全公告（Security Bulletin）映射关系，说明了如何快速判断设备是否包含特定CVE的修复。文章还对比了不同厂商在SPL更新上的差异，并提供了通过系统属性或ADB命令验证实际补丁级别的方法，帮助安全审计人员与普通用户识别设备的安全状态。",
+    "topic": "security"
+  },
+  {
+    "id": "307fe35696098a53d0507528b139ab10",
+    "title_en": "从零搭建一个自动化运维体系 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/61818302",
+    "published_at": "2026-08-23T00:44:43.127Z",
+    "fetched_at": "2026-08-23T00:44:43.127Z",
+    "title_zh": "从零搭建一个自动化运维体系 - 知乎专栏",
+    "summary_zh": "本文以实际案例为主线，详细介绍了从零开始构建自动化运维体系的完整路径。内容涵盖基础设施即代码（IaC）的选型与落地、配置管理工具（如Ansible）的使用、CI/CD流水线设计、监控告警系统搭建（Prometheus + Grafana）以及日志收集分析方案。作者结合自身经验，分享了在服务器标准化、应用发布自动化及故障自愈方面的实践技巧，并讨论了团队协作与流程规范的重要性。适合运维工程师及技术管理者参考，以提升整体运维效率与稳定性。",
+    "topic": "ops"
+  },
+  {
+    "id": "c2e2ad066adbffd91c415b824f55b417",
+    "title_en": "最佳实践 - Kubernetes",
+    "source": "kubernetes.io",
+    "url": "https://kubernetes.io/zh-cn/docs/setup/best-practices/",
+    "published_at": "2026-08-23T00:44:42.277Z",
+    "fetched_at": "2026-08-23T00:44:42.277Z",
+    "title_zh": "最佳实践 - Kubernetes",
+    "summary_zh": "本文是Kubernetes官方发布的最佳实践指南，系统梳理了集群设计、资源管理、安全加固、高可用部署及运维监控等核心环节的推荐做法。内容涵盖命名空间规划、Pod资源请求与限制设置、健康检查配置、RBAC权限控制、网络策略实施，以及利用Operator和Helm进行应用生命周期管理。文章强调通过声明式配置和自动化策略降低运维复杂度，并针对常见故障场景给出了排查与恢复建议，适合平台工程师与SRE团队作为生产环境落地的参考手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "239a8828c262ed2cf7befdc0f50c02a8",
+    "title_en": "Kubernetes最简实践 - Github-Gist",
+    "source": "gist.github.com",
+    "url": "https://gist.github.com/e8cb1f1604a90284a937b363b1f1b0c2",
+    "published_at": "2026-08-23T00:44:42.277Z",
+    "fetched_at": "2026-08-23T00:44:42.277Z",
+    "title_zh": "Kubernetes最简实践 - Github-Gist",
+    "summary_zh": "该Gist提供了一套极简的Kubernetes上手实践，通过最少的YAML配置演示了Pod、Deployment、Service等核心对象的创建与关联。内容聚焦于快速验证集群功能，包括使用kubectl常用命令进行部署、扩缩容、滚动更新及端口转发，并附带常见报错的处理方法。适合刚接触K8s的开发者作为入门实验手册，帮助理解核心抽象概念与基本工作流程，为后续深入学习调度、存储及网络机制打下基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "ec6cc7e1e9f678b743c94cbd12a3803b",
+    "title_en": "大模型榜单周报（2026/02/15） - KAI智习",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/xjk15082/p/19619738",
+    "published_at": "2026-08-23T00:44:40.944Z",
+    "fetched_at": "2026-08-23T00:44:40.944Z",
+    "title_zh": "大模型榜单周报（2026/02/15） - KAI智习",
+    "summary_zh": "本文汇总了2026年2月15日当周主流大模型在各类基准测试中的排名变化，涵盖语言理解、代码生成、数学推理及多模态任务等维度。重点分析了榜单头部模型的性能波动，并结合近期论文与开源社区动态，解读了模型架构优化、训练数据策略及评测集更新对排名的影响。对于关注模型选型与落地效果的开发者，提供了基于实测数据的横向对比与趋势判断，有助于在具体业务场景中做出更合理的模型选择。",
+    "topic": "ai"
+  },
+  {
     "id": "d4ba65f242789c02829a90acc429e864",
     "title_en": "基于自适应热补丁的Android内核漏洞生态修复方案|",
     "source": "inforsec.org",
@@ -2121,82 +2198,5 @@
     "title_zh": "2017-2026 年 AI 爆火核心工具、大模型完整时间线",
     "summary_zh": "本文梳理了2017年至2026年间AI领域爆火的核心工具与大模型的完整时间线。从Transformer架构的提出、BERT与GPT系列的演进，到Stable Diffusion、ChatGPT等里程碑产品的发布，再到国产大模型的崛起，文章以编年体形式呈现了技术迭代的关键节点。同时，文章标注了每个阶段的重要开源工具（如PyTorch、Hugging Face、LangChain）及其对生态的推动作用。适合AI初学者建立技术史观，也适合从业者回顾技术演进脉络。",
     "topic": "ai"
-  },
-  {
-    "id": "28486033353ea08a7153ad8d09484468",
-    "title_en": "全球大模型一览表（2026年6月）_人工智能_zhaoshu...",
-    "source": "deepseek.csdn.net",
-    "url": "https://deepseek.csdn.net/6a411e8810ee7a33f2836f28.html",
-    "published_at": "2026-08-20T06:29:17.317Z",
-    "fetched_at": "2026-08-20T06:29:17.317Z",
-    "title_zh": "全球大模型一览表（2026年6月）",
-    "summary_zh": "本文提供2026年6月全球大模型的系统性一览表，涵盖OpenAI、Google、Anthropic、Meta、DeepSeek、智谱、月之暗面等主要厂商的旗舰与开源模型。表格详细列出了各模型的参数规模、上下文窗口、多模态支持、推理成本、开源协议及适用场景等关键信息，并附有简要的性能评测数据。文章旨在帮助技术决策者快速横向对比模型能力，为应用开发中的模型选型提供数据参考，是一份高价值的实用工具型资料。",
-    "topic": "ai"
-  },
-  {
-    "id": "ccb32c88b361dd5573e32422b0289238",
-    "title_en": "AI Agent(智能体) 教程 - 菜鸟教程",
-    "source": "runoob.com",
-    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
-    "published_at": "2026-08-20T06:29:17.317Z",
-    "fetched_at": "2026-08-20T06:29:17.318Z",
-    "title_zh": "AI Agent（智能体）教程 - 菜鸟教程",
-    "summary_zh": "本教程面向初学者系统讲解AI Agent（智能体）的核心概念与开发入门。内容涵盖Agent的定义、与LLM的关系、感知-决策-执行的基本架构，以及ReAct、Plan-and-Execute等主流设计模式。教程通过简单易懂的代码示例，演示了如何利用LangChain、AutoGPT等框架构建具备工具调用与记忆能力的Agent，并介绍了多Agent协作的初步思路。适合希望快速上手AI Agent开发的开发者，提供了从理论到实践的完整学习路径。",
-    "topic": "ai"
-  },
-  {
-    "id": "6c45e8bdfc5b6f8d410050cdec516cb0",
-    "title_en": "国内外知名大模型及应用——模型/应用维度（2...",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/670574382",
-    "published_at": "2026-08-20T06:29:17.316Z",
-    "fetched_at": "2026-08-20T06:29:17.316Z",
-    "title_zh": "国内外知名大模型及应用——模型/应用维度（2...）",
-    "summary_zh": "本文从模型与应用两个维度系统梳理了国内外知名大模型的发展现状。内容涵盖OpenAI、Google、Meta等国际巨头的旗舰模型，以及百度、阿里、腾讯、字节跳动等国内厂商的代表作，并对比了各模型在参数规模、上下文长度、多模态能力、推理性能等关键指标上的差异。文章还分析了这些模型在办公、编程、搜索、内容生成等典型应用场景中的落地实践，为技术选型和架构设计提供了参考依据。适合AI工程师、技术决策者及研究者快速了解大模型生态全貌。",
-    "topic": "ai"
-  },
-  {
-    "id": "48075f0a1f034f404f9fbc949b8f60be",
-    "title_en": "“分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞 | 安天研究院安全研究报告",
-    "source": "antiy.com",
-    "url": "https://www.antiy.com/response/Dirty_Frag02.html",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "“分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞 | 安天研究院安全研究报告",
-    "summary_zh": "安天研究院发布的安全研究报告，揭示了著名的Dirty Frag漏洞补丁如何不完整，从而催生了一个新的漏洞Fragnesia。报告深入分析了Linux内核网络协议栈在处理IP分片重组时的复杂逻辑，指出原始补丁仅修复了特定路径，而忽略了其他相关的分片处理场景，导致攻击者仍可利用分片内存管理缺陷实现权限提升或系统崩溃。该报告强调了安全补丁的完整性与回归测试的重要性。",
-    "topic": "security"
-  },
-  {
-    "id": "846d9c03c3664f8cd8acd77c48c6c420",
-    "title_en": "Android 操作系统的安全补丁机制 / c13n",
-    "source": "c13n.club",
-    "url": "https://c13n.club/blog/2025-12-06",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "Android 操作系统的安全补丁机制 / c13n",
-    "summary_zh": "本文系统性地介绍了Android操作系统的安全补丁机制。内容涵盖了从Google安全公告（ASB）的发布流程、月度安全补丁级别的构成，到OEM厂商如何定制和推送补丁的完整生态。文章还深入解释了Android的Mainline组件（Project Mainline）如何通过Google Play系统更新，将核心安全修复直接推送给用户，从而缩短漏洞修复周期。对于Android开发者、安全工程师以及普通用户理解设备安全更新机制具有很好的科普和参考价值。",
-    "topic": "security"
-  },
-  {
-    "id": "7f8af9f93230b33f8d2202208957078b",
-    "title_en": "关于CPU处理器内核存在Meltdown和Spectre漏洞的安全公告（第三版）",
-    "source": "nic.ecut.edu.cn",
-    "url": "https://nic.ecut.edu.cn/c5/de/c4909a50654/page.htm",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "关于CPU处理器内核存在Meltdown和Spectre漏洞的安全公告（第三版）",
-    "summary_zh": "这是一份关于CPU处理器内核存在Meltdown和Spectre漏洞的安全公告（第三版）。公告详细说明了这两个著名的侧信道漏洞的影响范围、技术原理以及潜在风险，并针对不同操作系统和CPU架构给出了具体的缓解措施和补丁更新建议。作为官方安全通告，其内容权威且具有时效性，旨在指导系统管理员和用户及时采取行动，降低因处理器设计缺陷带来的信息泄露风险。",
-    "topic": "security"
-  },
-  {
-    "id": "5655134c0dd7af0aebf50d2941bac36d",
-    "title_en": "[PDF] 一种面向开源软件漏洞的补丁查找与解析方法",
-    "source": "shcas.net",
-    "url": "https://www.shcas.net/cn/article/pdf/preview/10.3969/j.issn.1000x.386x.2025.04.001.pdf",
-    "published_at": "2026-08-20T00:42:19.700Z",
-    "fetched_at": "2026-08-20T00:42:19.700Z",
-    "title_zh": "PDF 一种面向开源软件漏洞的补丁查找与解析方法",
-    "summary_zh": "本文提出了一种面向开源软件漏洞的补丁查找与解析方法。针对开源社区中漏洞信息分散、补丁定位困难的问题，作者设计了一套自动化流程，能够从漏洞描述、代码提交记录和版本变更中提取关键信息，并准确定位到修复特定漏洞的代码补丁。文章详细介绍了该方法的技术实现，包括代码相似度比对、提交信息挖掘等技术，旨在帮助安全分析人员快速理解漏洞根因并评估修复效果，提升漏洞管理的效率。",
-    "topic": "security"
   }
 ]
