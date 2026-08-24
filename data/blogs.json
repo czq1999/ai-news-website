@@ -1,5 +1,148 @@
 [
   {
+    "id": "a35e7c4c9d53c5eec0f2a421d0f7d1a1",
+    "title_en": "运维自动化的最佳实践探索",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/sanyuanempire/p/6169495.html",
+    "published_at": "2026-08-24T00:43:21.872Z",
+    "fetched_at": "2026-08-24T00:43:21.872Z",
+    "title_zh": "运维自动化的最佳实践探索",
+    "summary_zh": "本文探讨了运维自动化领域的最佳实践，旨在帮助团队从手动操作向自动化、智能化运维转型。内容涵盖了自动化运维的核心理念、实施路径和工具链选型，包括配置管理（如Ansible、Puppet）、CI/CD流水线、监控告警自动化以及故障自愈等。文章强调了标准化和流程化在自动化中的重要性，并分享了如何通过自动化脚本和平台建设来提升部署效率、降低人为失误、实现快速回滚。对于正在规划或优化自动化运维体系的团队，提供了实用的参考框架。",
+    "topic": "ops"
+  },
+  {
+    "id": "b9eb2298e2afb1149d3324ce14a15149",
+    "title_en": "六大利器让运维工程师尽显十八般武艺",
+    "source": "gist.github.com",
+    "url": "https://gist.github.com/16e2d836cc72a5f85a1328ebf80fe925",
+    "published_at": "2026-08-24T00:43:21.872Z",
+    "fetched_at": "2026-08-24T00:43:21.872Z",
+    "title_zh": "六大利器让运维工程师尽显十八般武艺",
+    "summary_zh": "本文推荐了六款能够显著提升运维工程师工作效率的利器，覆盖了系统监控、日志分析、自动化运维、网络诊断等关键领域。文章对每款工具的核心功能、适用场景和优势进行了简要介绍，并可能包含一些实际使用技巧。这些工具旨在帮助运维人员更高效地处理日常任务、快速定位和解决问题，从而从繁琐的重复性工作中解放出来，专注于更复杂的架构优化和稳定性保障。是运维工程师值得收藏的工具清单。",
+    "topic": "ops"
+  },
+  {
+    "id": "6de498a85a274f97d225bedd5db6b004",
+    "title_en": "2026 年上半年全球常规被利用漏洞全景分析",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/2043112087396816838",
+    "published_at": "2026-08-24T00:43:20.936Z",
+    "fetched_at": "2026-08-24T00:43:20.936Z",
+    "title_zh": "2026 年上半年全球常规被利用漏洞全景分析",
+    "summary_zh": "本文对2026年上半年全球范围内被广泛利用的漏洞进行了全景式分析。文章基于CISA KEV等权威数据源，统计并归类了活跃利用的漏洞，重点分析了漏洞类型（如远程代码执行、权限提升）、受影响厂商（如微软、思科、Fortinet）及攻击趋势。内容还探讨了漏洞被利用的初始攻击向量、利用复杂度以及从披露到被利用的时间窗口（TTU），为安全团队提供了漏洞优先级排序（CVSS与真实利用结合）和应急响应的数据支撑，是威胁情报分析的重要参考。",
+    "topic": "security"
+  },
+  {
+    "id": "1a8f349fbf452b0bf8fd06ed95d53e4f",
+    "title_en": "Fastjson2 远程代码执行漏洞(QVD-2026-45876)",
+    "source": "ti.qianxin.com",
+    "url": "https://ti.qianxin.com/vulnerability/notice-list",
+    "published_at": "2026-08-24T00:43:20.936Z",
+    "fetched_at": "2026-08-24T00:43:20.936Z",
+    "title_zh": "Fastjson2 远程代码执行漏洞(QVD-2026-45876)",
+    "summary_zh": "本文详细分析了Fastjson2中编号为QVD-2026-45876的远程代码执行漏洞。文章首先介绍了漏洞的成因，即特定版本在处理某些数据类型时存在反序列化安全问题，可导致攻击者构造恶意请求执行任意代码。随后提供了受影响版本范围、漏洞危害等级以及详细的检测方法（如版本自查、流量特征）。最后给出了切实可行的修复方案，包括升级到安全版本、临时缓解措施（如关闭autoType）等。对于使用Fastjson2的Java开发者，这是一篇及时且必要的高危漏洞预警文章。",
+    "topic": "security"
+  },
+  {
+    "id": "73d29b3e5c5b05d8825225beedfa3849",
+    "title_en": "Vulnerability Summary for the Week of January 19, 2026 | CISA",
+    "source": "cisa.gov",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-026",
+    "published_at": "2026-08-24T00:43:20.936Z",
+    "fetched_at": "2026-08-24T00:43:20.936Z",
+    "title_zh": "CISA漏洞摘要：2026年1月19日周",
+    "summary_zh": "这是美国网络安全与基础设施安全局（CISA）发布的2026年1月19日当周的漏洞摘要报告。报告汇总了该周内被公开披露并可能被利用的安全漏洞，提供了每个漏洞的CVE编号、严重性评分（CVSS）、受影响产品及简要描述。CISA的这份周报是安全团队获取漏洞预警、进行风险评估和优先级排序的重要情报来源。内容强调了对已知被利用漏洞（KEV）的及时修补，以降低组织面临的实际网络威胁。",
+    "topic": "security"
+  },
+  {
+    "id": "291aa3be4a0a011f75d1a6f2d1333508",
+    "title_en": "CVE 漏洞库 - 阿里云漏洞库",
+    "source": "avd.aliyun.com",
+    "url": "https://avd.aliyun.com/nvd/list",
+    "published_at": "2026-08-24T00:43:20.936Z",
+    "fetched_at": "2026-08-24T00:43:20.936Z",
+    "title_zh": "CVE 漏洞库 - 阿里云漏洞库",
+    "summary_zh": "阿里云漏洞库（AVD）是一个综合性的CVE漏洞查询平台，收录了海量的安全漏洞信息。该平台提供多维度的漏洞检索功能，支持按CVE编号、厂商、产品、发布时间等条件筛选。每个漏洞条目都包含详细的技术描述、影响版本、修复建议以及阿里云安全团队的中文解读和利用分析。此外，平台还提供漏洞态势感知和预警服务，帮助企业和开发者及时了解最新威胁，并针对云上资产进行漏洞风险评估和修复管理。",
+    "topic": "security"
+  },
+  {
+    "id": "21ade64291f06d640d078294a90955b0",
+    "title_en": "一个CVE 漏洞预警知识库 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/Threekiii/CVE",
+    "published_at": "2026-08-24T00:43:20.936Z",
+    "fetched_at": "2026-08-24T00:43:20.936Z",
+    "title_zh": "一个CVE 漏洞预警知识库 - GitHub",
+    "summary_zh": "这是一个由GitHub社区维护的CVE漏洞预警知识库项目。该项目通过自动化脚本持续监控多个公开漏洞数据源，并整理成结构化的知识库，方便安全研究人员和运维人员快速查询。知识库通常包含漏洞描述、CVSS评分、受影响软件版本、PoC链接以及修复建议。部分项目还提供API接口或订阅通知功能，以便及时获取最新漏洞信息。对于希望建立自有漏洞监控体系或需要快速检索漏洞详情的团队，这是一个非常实用的开源资源。",
+    "topic": "security"
+  },
+  {
+    "id": "f9ac6f03f6911bb7d9bb0af42ed522e4",
+    "title_en": "Top CVE scanners in 2026: are your vulnerability signals keeping up?",
+    "source": "nhimg.org",
+    "url": "https://nhimg.org/community/cybersecurity-beyond-identity/top-cve-scanners-in-2026-are-your-vulnerability-signals-keeping-up/",
+    "published_at": "2026-08-24T00:43:20.936Z",
+    "fetched_at": "2026-08-24T00:43:20.936Z",
+    "title_zh": "2026年顶级CVE扫描器：你的漏洞信号是否跟得上？",
+    "summary_zh": "本文评估了2026年市场上主流的CVE扫描器，探讨了在漏洞数量激增的背景下，安全团队如何确保其漏洞信号的有效性。文章对比了各类扫描器（如Tenable、Qualys、Rapid7及开源工具）的扫描能力、覆盖范围、准确性和集成性。重点讨论了如何利用漏洞优先级技术（VPT）结合威胁情报，过滤噪音，聚焦真正被利用的高风险漏洞。文章旨在帮助安全负责人评估现有工具是否满足需求，并提供了选型建议，以提升漏洞管理效率。",
+    "topic": "security"
+  },
+  {
+    "id": "a39e0b3df2e0a0cd10fa926ea1c3fc39",
+    "title_en": "神龙漏洞库: 漏洞库- CVE漏洞查询、中文分析与POC",
+    "source": "cve.imfht.com",
+    "url": "https://cve.imfht.com/",
+    "published_at": "2026-08-24T00:43:20.936Z",
+    "fetched_at": "2026-08-24T00:43:20.936Z",
+    "title_zh": "神龙漏洞库: 漏洞库- CVE漏洞查询、中文分析与POC",
+    "summary_zh": "神龙漏洞库是一个专注于CVE漏洞查询的中文平台，提供漏洞的详细中文分析、技术细节以及可用的PoC（概念验证）代码。该平台旨在帮助安全研究人员和渗透测试人员快速理解漏洞原理，并评估其可利用性。除了基础的CVE信息，还提供漏洞在真实环境中的利用分析、影响范围评估以及修复方案。对于需要深入进行漏洞研究和渗透测试的技术人员，这是一个高价值的中文漏洞情报资源库。",
+    "topic": "security"
+  },
+  {
+    "id": "6df802a125aba8e56c2e75a6bf4e1fc6",
+    "title_en": "序· Linux性能调优指南 - lihz",
+    "source": "lihz1990.gitbooks.io",
+    "url": "https://lihz1990.gitbooks.io/transoflptg/content/",
+    "published_at": "2026-08-24T00:43:20.935Z",
+    "fetched_at": "2026-08-24T00:43:20.935Z",
+    "title_zh": "序· Linux性能调优指南",
+    "summary_zh": "本文是《Linux性能调优指南》的序言，为整个调优系列奠定基础。作者lihz阐述了性能调优的核心方法论，强调从全局视角出发，遵循'分析-定位-优化-验证'的闭环流程。文章介绍了CPU、内存、磁盘I/O、网络等子系统性能分析的基本工具（如top、vmstat、iostat、sar）和关键性能指标，并预告了后续章节将深入探讨各子系统的调优策略。对于希望建立系统化性能调优思维的技术人员，这是一篇很好的入门指引。",
+    "topic": "ops"
+  },
+  {
+    "id": "1f4dfcab4b75cf813c3e236b6b7853b3",
+    "title_en": "Linux性能调优指南| PDF",
+    "source": "scribd.com",
+    "url": "https://www.scribd.com/document/955065137/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97",
+    "published_at": "2026-08-24T00:43:20.935Z",
+    "fetched_at": "2026-08-24T00:43:20.935Z",
+    "title_zh": "Linux性能调优指南",
+    "summary_zh": "这是一份全面的Linux性能调优指南PDF文档，系统性地讲解了从硬件、内核到应用层的性能优化技术。内容涵盖CPU调度、内存管理、磁盘I/O调度、网络协议栈调优等关键领域，并提供了丰富的内核参数调整建议和性能测试工具使用方法。文档还包含针对Web服务器、数据库等典型应用场景的调优案例。无论是系统管理员还是后端开发人员，都能从中获得实用的性能诊断和优化技巧，是提升系统吞吐量和降低延迟的宝贵参考资料。",
+    "topic": "ops"
+  },
+  {
+    "id": "5c58808efaf0d39a3ddecf6879178ee3",
+    "title_en": "AI Agent框架选型指南：2026十大主流框架深度解析 - YouTube",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=jtUkPLZxc40",
+    "published_at": "2026-08-24T00:43:19.360Z",
+    "fetched_at": "2026-08-24T00:43:19.360Z",
+    "title_zh": "AI Agent框架选型指南：2026十大主流框架深度解析",
+    "summary_zh": "本文深入解析2026年十大主流AI Agent框架，涵盖LangChain、AutoGen、CrewAI、Semantic Kernel等。内容聚焦各框架的架构设计、核心特性、适用场景及性能对比，并针对多Agent协作、工具调用、记忆管理等关键能力进行剖析。文章还提供了基于项目需求（如复杂度、团队技术栈、部署环境）的选型决策框架，帮助开发者避免常见误区，高效构建生产级Agent应用。对于正在评估Agent框架的技术团队，具有极高的参考价值和实践指导意义。",
+    "topic": "ai"
+  },
+  {
+    "id": "cbf874313f098fb52130c678f0bdb006",
+    "title_en": "Linux 运维手册 - Chang Luo",
+    "source": "luochang.ink",
+    "url": "https://www.luochang.ink/posts/linux_handbook/",
+    "published_at": "2026-08-24T00:43:19.360Z",
+    "fetched_at": "2026-08-24T00:43:19.360Z",
+    "title_zh": "Linux 运维手册",
+    "summary_zh": "这是一份由Chang Luo整理的Linux运维实战手册，内容覆盖系统管理、网络配置、服务部署、故障排查等核心运维场景。手册以命令示例和配置文件解析为主，强调实操性，包含大量可直接复用的Shell脚本和配置模板。从基础的用户权限管理到高级的系统性能监控与日志分析，均有详细说明。适合Linux运维工程师作为日常工作的速查手册，也适合初学者系统学习Linux运维知识体系。",
+    "topic": "ops"
+  },
+  {
     "id": "b4569ff05b00997837bac069aed29104",
     "title_en": "内核实时补丁已开启AL2023",
     "source": "docs.aws.amazon.com",
@@ -2055,148 +2198,5 @@
     "title_zh": "Docker容器的优化和性能调优技巧",
     "summary_zh": "本文聚焦于Docker容器的运行时性能调优，提供了从资源限制到内核参数调整的实用技巧。内容涵盖设置CPU和内存限制、优化存储驱动、调整网络模式、使用--privileged模式的注意事项，以及如何通过监控工具定位性能瓶颈。文章还探讨了容器编排层面的优化，如优雅停机、健康检查配置等。对于在生产环境中运行Docker的运维和开发人员，这些技巧有助于提升容器稳定性、降低延迟并提高资源利用率。",
     "topic": "ops"
-  },
-  {
-    "id": "559669395b0cbe56b25fe66c3c903d42",
-    "title_en": "如何优化docker 镜像体积 - Shall We Code?",
-    "source": "waynerv.com",
-    "url": "https://waynerv.com/posts/how-to-reduce-docker-image-size/",
-    "published_at": "2026-08-20T12:28:59.487Z",
-    "fetched_at": "2026-08-20T12:28:59.488Z",
-    "title_zh": "如何优化Docker镜像体积 - Shall We Code?",
-    "summary_zh": "本文深入剖析了Docker镜像体积过大的原因，并提供了系统性的优化方案。作者从基础镜像选择、利用多阶段构建、合并RUN命令、清理缓存和临时文件等角度展开，详细解释了每个步骤背后的原理。文章还介绍了如何分析镜像层、使用docker-slim等工具，以及如何通过构建上下文优化来减少传输数据。对于希望精简CI/CD流程、加快镜像拉取速度的开发者，本文提供了清晰、可操作的步骤，是镜像瘦身的实用指南。",
-    "topic": "ops"
-  },
-  {
-    "id": "366fce391d4f8cb854969465cce6b976",
-    "title_en": "大模型应用开发实战：AI Agent与智能体开发技术解析",
-    "source": "edu.guangjuke.com",
-    "url": "https://edu.guangjuke.com/haowen/234.html",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "大模型应用开发实战：AI Agent与智能体开发技术解析",
-    "summary_zh": "本文深入解析AI Agent与智能体开发的核心技术栈与工程实践，涵盖Agent架构设计（规划、记忆、工具调用）、ReAct模式、多Agent协作机制、以及基于LLM的决策与反思循环。文章结合代码示例，讲解如何利用LangChain、AutoGPT等框架构建可扩展的智能体系统，并讨论Prompt工程、上下文管理、错误恢复与安全边界等关键问题。同时分享在真实业务中部署Agent的踩坑经验，包括延迟优化、成本控制与评估方法，为开发者提供从原型到生产落地的完整技术路径。",
-    "topic": "ai"
-  },
-  {
-    "id": "5d76b7b5c2e6273343f2b8ab1efdf541",
-    "title_en": "如何从零开始实现一个AI Agent 框架（理论+实践） - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2631821",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "如何从零开始实现一个AI Agent框架（理论+实践）",
-    "summary_zh": "本文从理论到实践，手把手指导如何从零构建一个AI Agent框架。内容涵盖Agent核心组件设计：任务规划器、记忆模块、工具注册与调用机制、以及LLM交互接口。文章详细阐述Agent循环（感知-思考-行动-观察）的实现原理，并给出基于Python的完整代码架构，包括如何抽象工具接口、管理对话历史、处理多轮推理与异常回退。同时讨论框架的可扩展性设计，支持接入不同LLM后端与自定义工具集，适合希望深入理解Agent内部机制并构建定制化解决方案的开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "af83d5b8812bb3d91c34b3356924432a",
-    "title_en": "【全86集】AI Agent入门实战教程（LLM+MCP+从0到1打造商业级 ...",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1oecTzKELA/",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "【全86集】AI Agent入门实战教程（LLM+MCP+从0到1打造商业级智能体）",
-    "summary_zh": "本教程共86集，系统覆盖AI Agent从入门到商业级应用的全流程。内容以LLM为核心，深入讲解MCP（Model Context Protocol）协议在Agent工具集成与上下文管理中的应用，以及如何通过函数调用、RAG、多模态输入增强Agent能力。实战部分从0到1构建商业级智能体，涵盖需求分析、架构设计、Prompt优化、评估体系、部署监控与迭代策略。教程强调工程化落地，包含大量可复用代码模板与真实案例，适合希望系统掌握Agent开发并快速交付生产级应用的工程师。",
-    "topic": "ai"
-  },
-  {
-    "id": "977805cbff85cd5cfc97e8ce8e5ef8af",
-    "title_en": "AI Agent智能体开发实践- 图书",
-    "source": "m.douban.com",
-    "url": "https://m.douban.com/book/subject/37925739/",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "AI Agent智能体开发实践（图书）",
-    "summary_zh": "本书系统讲解AI Agent智能体的开发实践，从基础概念到高级应用层层递进。内容涵盖Agent的认知架构、规划与决策算法、记忆系统设计、工具使用与外部环境交互，以及多Agent协作模式。书中结合大量工业级案例，深入剖析基于大语言模型的Agent在客服、办公自动化、数据分析等场景中的落地方法，并讨论性能优化、安全性与伦理问题。同时提供完整的代码仓库与实验指导，帮助读者在实战中掌握Agent开发的核心技能，是AI工程师与架构师的实用参考书。",
-    "topic": "ai"
-  },
-  {
-    "id": "f3a70a0d4c50539151fbdccc90e3983a",
-    "title_en": "大模型微调实践避坑指南",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1929489422182777819",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "大模型微调实践避坑指南",
-    "summary_zh": "本文总结了大模型微调实践中的常见陷阱与解决方案，基于真实项目经验提炼出系统性避坑指南。内容覆盖数据准备（质量过滤、去重、格式规范化）、超参数选择（学习率、批次大小、epoch数）、过拟合与灾难性遗忘的应对策略，以及LoRA、QLoRA等参数高效微调方法的适用场景。文章还讨论了评估指标设计、基线对比、以及微调后模型在通用能力上的退化问题，并给出实用的调试流程与工具链建议，帮助开发者避免重复踩坑，提升微调效率与模型质量。",
-    "topic": "ai"
-  },
-  {
-    "id": "ead69da2833a02f38d4e48642f653c23",
-    "title_en": "大模型微调入门",
-    "source": "wuduoyi.com",
-    "url": "https://wuduoyi.com/llm-finetune/start.html",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "大模型微调入门",
-    "summary_zh": "本文为零基础开发者提供大模型微调的入门指南，以清晰易懂的方式讲解微调的核心概念与完整流程。内容涵盖为什么需要微调、全参数微调与参数高效微调（如LoRA、Adapter）的区别、数据集的构建与预处理方法，以及基于Hugging Face Transformers库的实战代码示例。文章还介绍了如何选择基础模型、设置训练参数、监控训练过程并进行效果评估，并讨论常见问题如显存不足、过拟合的解决方案。适合希望快速上手大模型微调的初学者。",
-    "topic": "ai"
-  },
-  {
-    "id": "4c8f0188d1ec1927845cc592d817b2e4",
-    "title_en": "大语言模型微调指引 - 阿里云帮助文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/pai/llm-fine-tuning-experience",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "大语言模型微调指引（阿里云帮助文档）",
-    "summary_zh": "本文是阿里云官方提供的大语言模型微调指引，面向企业用户与开发者，详细说明在阿里云平台上进行模型微调的最佳实践。内容涵盖微调前的环境准备（PAI-DLC、GPU资源选择）、数据格式要求与上传流程、基于PAI平台内置的微调框架（如Megatron、DeepSpeed）进行全参数或LoRA微调的操作步骤，以及训练任务配置、日志监控与模型评估方法。文档还提供常见错误排查指南与性能优化建议，帮助用户在云端高效、稳定地完成模型定制化训练。",
-    "topic": "ai"
-  },
-  {
-    "id": "ecda38c6c98010ec63182a04522b907e",
-    "title_en": "大模型微调实战：通过LoRA 微调修改模型自我认知",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/KubeExplorer/p/18828441",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "大模型微调实战：通过LoRA微调修改模型自我认知",
-    "summary_zh": "本文通过一个具体实战案例，演示如何利用LoRA（低秩适配）技术微调大语言模型，以修改模型的自我认知（如身份、知识边界）。文章详细讲解LoRA的原理与优势，包括参数效率、显存占用低、训练速度快等特点，并逐步展示数据准备（构造问答对）、基于PEFT库的微调代码实现、训练参数配置与推理验证过程。同时讨论如何评估微调效果、避免知识遗忘，以及将LoRA权重合并到基础模型的方法。适合希望低成本定制模型行为的开发者参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "0ecb0f55423bc6d501fd73689bd3ae4a",
-    "title_en": "大模型微调全景指南：从原理到实战，新手如何炼成专属AI",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=QkuHIqUlms0",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "大模型微调全景指南：从原理到实战，新手如何炼成专属AI",
-    "summary_zh": "本文提供大模型微调的全景式指南，从基础原理到实战操作，帮助新手打造专属AI模型。内容首先解释微调的本质、与预训练和提示工程的区别，以及不同微调策略（全量微调、LoRA、QLoRA、P-Tuning）的适用场景。随后深入讲解数据工程的关键性，包括数据采集、清洗、标注与增强方法。实战部分以开源模型为例，演示完整的微调流程：环境搭建、代码编写、训练监控、模型评估与部署。文章还分享成本控制、算力优化与常见错误解决方案，是一站式学习资源。",
-    "topic": "ai"
-  },
-  {
-    "id": "153f6cdb4307372747565b58766d8138",
-    "title_en": "从零开始手把手教你微调大模型，收藏这篇就够了",
-    "source": "modelscope.csdn.net",
-    "url": "https://modelscope.csdn.net/68f9cf770e4c466a32e068ff.html",
-    "published_at": "2026-08-20T12:28:58.127Z",
-    "fetched_at": "2026-08-20T12:28:58.127Z",
-    "title_zh": "从零开始手把手教你微调大模型，收藏这篇就够了",
-    "summary_zh": "本文是一篇手把手的大模型微调实战教程，从零开始引导读者完成整个微调流程。内容涵盖环境准备（GPU、CUDA、Python库）、基础模型选择、数据集构建与格式化，以及基于Transformers和PEFT库的代码实现。文章详细解释每个代码块的作用，包括加载模型与分词器、配置LoRA参数、设置训练参数（如学习率调度、梯度累积）、执行训练与保存模型。最后演示如何加载微调后的模型进行推理测试，并给出效果评估与调优建议。适合完全没有经验的初学者按步骤操作。",
-    "topic": "ai"
-  },
-  {
-    "id": "1e039abe86dbd4ab55738e5fde69542c",
-    "title_en": "2026 年AI 大模型排行榜：国内外主流大语言模型全面对比",
-    "source": "my.oschina.net",
-    "url": "https://my.oschina.net/u/4091652/blog/19719605",
-    "published_at": "2026-08-20T12:28:58.126Z",
-    "fetched_at": "2026-08-20T12:28:58.126Z",
-    "title_zh": "2026年AI大模型排行榜：国内外主流大语言模型全面对比",
-    "summary_zh": "本文对2026年国内外主流大语言模型进行系统性横向对比，涵盖模型架构、参数量、训练数据、推理性能、上下文窗口、多模态能力及开源协议等关键维度。文章基于公开基准测试（如MMLU、HumanEval、GSM8K）与真实业务场景压测数据，分析各模型在代码生成、数学推理、长文本处理等任务上的优劣，并讨论国产模型在中文理解与合规性方面的差异化优势。适合技术选型决策者与AI应用开发者参考，帮助根据成本、性能与生态约束选择最适配的基座模型。",
-    "topic": "ai"
-  },
-  {
-    "id": "721c3db38e5819e12b5b9912622227b0",
-    "title_en": "保护核心资产：Linux内核防护 - 知乎",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/644945072",
-    "published_at": "2026-08-20T06:29:21.438Z",
-    "fetched_at": "2026-08-20T06:29:21.438Z",
-    "title_zh": "保护核心资产：Linux内核防护",
-    "summary_zh": "本文深入探讨Linux内核安全防护的关键技术，涵盖内核地址空间布局随机化（KASLR）、控制流完整性（CFI）、内核页表隔离（KPTI）等缓解措施，并分析SELinux、AppArmor等强制访问控制机制在内核层的实现原理。文章还讨论了内核模块签名验证、锁定down内核模块加载、利用eBPF进行运行时安全监控等实践方法，以及如何通过内核自保护（Kernel Self Protection Project）策略减少攻击面。对于系统管理员和安全工程师，本文提供了从内核编译选项到运行时加固的完整防护思路，强调内核安全是整体系统安全的基础，需结合漏洞管理与补丁策略持续维护。",
-    "topic": "security"
   }
 ]
