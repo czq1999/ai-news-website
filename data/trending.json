@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-25",
-      "summary_zh": "今日GitHub热门聚焦AI编程工具与开源替代品：免费Claude Code、终端编码代理、AI求职框架及本地优先项目，涵盖项目管理、外设配置与产品分析平台。",
+      "summary_zh": "今日GitHub热门聚焦AI编程工具与开源替代品：免费Claude Code、终端编码代理、AI求职框架，以及开源项目管理平台Plane，展现AI驱动开发与效率提升趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "description_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
           "language": "JavaScript",
-          "stars_total": 15504,
+          "stars_total": 16026,
           "stars_today": 2449,
           "description_zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出 Skills，持续更新中"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/openai/codex",
           "description_en": "Lightweight coding agent that runs in your terminal",
           "language": "Rust",
-          "stars_total": 117039,
+          "stars_total": 117457,
           "stars_today": 1994,
           "description_zh": "在终端中运行的轻量级编码代理"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/AprilNEA/OpenLogi",
           "description_en": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
           "language": "Rust",
-          "stars_total": 15857,
+          "stars_total": 16050,
           "stars_today": 1097,
           "description_zh": "⚡️ 用 Rust 🦀 编写的 Logitech Options+ 原生本地优先替代品——通过 HID++ 重映射按钮、DPI 和 SmartShift。无需账户，无遥测。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/basecamp/omarchy",
           "description_en": "Beautiful, Modern & Opinionated Linux",
           "language": "Shell",
-          "stars_total": 30118,
+          "stars_total": 30426,
           "stars_today": 1056,
           "description_zh": "美观、现代且固执己见的 Linux"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 235795,
+          "stars_total": 235988,
           "stars_today": 896,
           "description_zh": "与你共同成长的代理"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/Alishahryar1/free-claude-code",
           "description_en": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
           "language": "Python",
-          "stars_total": 48968,
+          "stars_total": 49275,
           "stars_today": 891,
           "description_zh": "从终端、应用、IDE 或手机免费使用 Claude Code、Codex、Pi 和 OpenCode（13 亿+ 免费令牌），类似 OpenClaw（支持语音且符合服务条款）"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/VoltAgent/awesome-agent-skills",
           "description_en": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
           "language": "",
-          "stars_total": 31870,
+          "stars_total": 32041,
           "stars_today": 602,
           "description_zh": "精选的 1000+ 代理技能集合，来自官方开发团队和社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 206505,
+          "stars_total": 206729,
           "stars_today": 588,
           "description_zh": "一个 CLAUDE.md 文件，用于改进 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/tinyhumansai/openhuman",
           "description_en": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
           "language": "Rust",
-          "stars_total": 37262,
+          "stars_total": 37403,
           "stars_today": 515,
           "description_zh": "你的个人 AI 超级智能。一个构建本地优先生活记忆的大脑，一个出色的代理舰队和工作流编排器，以及一个深度研究员。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/anthropics/claude-plugins-community",
           "description_en": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
           "language": "Python",
-          "stars_total": 1350,
+          "stars_total": 1467,
           "stars_today": 489,
           "description_zh": "Claude Cowork 和 Claude Code 的社区插件市场。只读镜像——请在 clau.de/plugin-directory-submission 提交插件。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/MadsLorentzen/ai-job-search",
           "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
           "language": "Python",
-          "stars_total": 34064,
+          "stars_total": 34360,
           "stars_today": 434,
           "description_zh": "在你机器上运行的求职工具。基于 Claude Code 构建的 AI 求职申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/apache/maka",
           "description_en": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
           "language": "TypeScript",
-          "stars_total": 2903,
+          "stars_total": 3032,
           "stars_today": 411,
           "description_zh": "Apache Maka（孵化中）是一个本地优先的 AI 代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件均记录为仅追加日志。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 48279,
+          "stars_total": 48434,
           "stars_today": 349,
           "description_zh": "学习它。构建它。为他人发布它。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/AgriciDaniel/claude-obsidian",
           "description_en": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
           "language": "Python",
-          "stars_total": 11892,
+          "stars_total": 12108,
           "stars_today": 310,
           "description_zh": "面向 Obsidian + Claude Code 的自组织 AI 第二大脑。放入任何来源，Claude 会读取、链接并归档到一个你拥有的纯 Markdown 互联知识图谱中。AI 笔记、个人知识管理（PKM）和开源的 Notion 替代品。基于 Karpathy 的 LLM Wiki 模式。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/makeplane/plane",
           "description_en": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
           "language": "TypeScript",
-          "stars_total": 57926,
+          "stars_total": 58085,
           "stars_today": 243,
           "description_zh": "🔥🔥🔥 开源的 Jira、Linear、Monday 和 ClickUp 替代品。Plane 是一个现代项目管理平台，用于管理任务、冲刺、文档和分类。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/dani-garcia/vaultwarden",
           "description_en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
           "language": "Rust",
-          "stars_total": 66125,
+          "stars_total": 66157,
           "stars_today": 175,
           "description_zh": "用 Rust 编写的非官方 Bitwarden 兼容服务器，前身为 bitwarden_rs"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/tashfeenahmed/freellmapi",
           "description_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
           "language": "TypeScript",
-          "stars_total": 19775,
+          "stars_total": 19928,
           "stars_today": 174,
           "description_zh": "每月 74 亿令牌。34 个免费 LLM 提供商。635 个免费模型端点。全部统一在一个 /v1 端点后面，加上任何自定义的 OpenAI 兼容端点。智能路由、自动故障转移、加密密钥。仅限个人实验。"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/openclaw/openclaw",
           "description_en": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
           "language": "TypeScript",
-          "stars_total": 387439,
+          "stars_total": 387490,
           "stars_today": 173,
           "description_zh": "你自己的个人 AI 助手。任何操作系统。任何平台。龙虾之道。🦞"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/PostHog/posthog",
           "description_en": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
           "language": "Python",
-          "stars_total": 38991,
+          "stars_total": 39060,
           "stars_today": 83,
           "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发者工具——AI 可观测性、分析、会话重放、功能标志、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和发布修复所需的所有上下文。可通过 Slack、网页、桌面或 MCP 全面操控。"
         }
