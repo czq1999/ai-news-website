@@ -1,5 +1,137 @@
 [
   {
+    "id": "06bc7707e9607e27872b4db215b1b16d",
+    "title_en": "Linux操作系统加固 - 阿里云帮助文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/document_detail/49809.html",
+    "published_at": "2026-08-25T12:29:31.962Z",
+    "fetched_at": "2026-08-25T12:29:31.962Z",
+    "title_zh": "Linux操作系统加固 - 阿里云帮助文档",
+    "summary_zh": "本文是阿里云提供的Linux操作系统加固指南，旨在提升系统的安全性。内容涵盖账号与口令安全（如禁用root远程登录、设置密码策略）、文件系统权限管理、SSH服务安全配置、内核参数安全优化、以及防火墙规则设置等关键加固措施。文章还介绍了如何通过定期更新补丁、部署入侵检测系统来增强系统防护能力。对于需要满足等保合规要求或提升生产环境安全性的运维人员，本文提供了清晰的操作指引。",
+    "topic": "security"
+  },
+  {
+    "id": "68df65e3a2c2de3cd52817f7dd26c3fd",
+    "title_en": "[PDF] Linux性能调优指南",
+    "source": "geekery.cn",
+    "url": "https://www.geekery.cn/note-book/ebook/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97.pdf",
+    "published_at": "2026-08-25T12:29:31.961Z",
+    "fetched_at": "2026-08-25T12:29:31.961Z",
+    "title_zh": "PDF Linux性能调优指南",
+    "summary_zh": "这是一份PDF格式的Linux性能调优指南，系统性地介绍了性能分析的方法论与工具链。内容涵盖CPU、内存、磁盘I/O、网络等子系统的性能瓶颈定位与优化策略，包括使用top、vmstat、iostat、perf等工具进行监控与分析。文章强调基于数据驱动的调优流程，从问题定义、指标采集、瓶颈分析到优化实施与验证。适合系统管理员和运维工程师作为性能调优的参考手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "337fb129858469146441df3cac79eaf7",
+    "title_en": "<Linux性能调优指南>主要思路流程 - 阿里云开发者社区",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/234597",
+    "published_at": "2026-08-25T12:29:31.961Z",
+    "fetched_at": "2026-08-25T12:29:31.961Z",
+    "title_zh": "Linux性能调优指南主要思路流程 - 阿里云开发者社区",
+    "summary_zh": "本文来自阿里云开发者社区，阐述了Linux性能调优的主要思路与流程。文章提出了一套系统化的调优方法论：首先明确性能目标与基准，然后通过监控工具收集系统各项指标，利用USE方法（利用率、饱和度、错误）进行瓶颈分析，最后针对性地实施优化并验证效果。内容还涵盖了CPU、内存、磁盘、网络等常见瓶颈的排查思路，以及内核参数调优的注意事项。对于运维人员建立科学的调优流程具有指导意义。",
+    "topic": "ops"
+  },
+  {
+    "id": "1609a09c6036c29517d637b4799cd6b7",
+    "title_en": "《Linux 性能及调优指南》3.2 CPU瓶颈 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/482798076",
+    "published_at": "2026-08-25T12:29:31.961Z",
+    "fetched_at": "2026-08-25T12:29:31.961Z",
+    "title_zh": "《Linux 性能及调优指南》3.2 CPU瓶颈 - 知乎专栏",
+    "summary_zh": "本文是《Linux性能及调优指南》系列中关于CPU瓶颈分析的章节。文章深入讲解了CPU性能瓶颈的识别方法，包括使用top、mpstat、pidstat等工具监控CPU利用率、负载均值、上下文切换、运行队列等关键指标。同时分析了用户态、系统态、I/O等待等不同CPU时间占比的含义，并介绍了CPU绑定、进程优先级调整、内核参数优化等调优手段。内容专业详实，适合需要深入排查CPU性能问题的技术人员。",
+    "topic": "ops"
+  },
+  {
+    "id": "6fa6ad33f469ebc155b5498d4a1a7399",
+    "title_en": "【Linux命令大全】Linux性能调优终极指南：从瓶颈定位到系统优化",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/weixin_42358373/article/details/148493012",
+    "published_at": "2026-08-25T12:29:31.961Z",
+    "fetched_at": "2026-08-25T12:29:31.961Z",
+    "title_zh": "【Linux命令大全】Linux性能调优终极指南：从瓶颈定位到系统优化",
+    "summary_zh": "本文是一份全面的Linux性能调优指南，从瓶颈定位到系统优化提供了完整的解决方案。文章首先介绍了性能分析的基本流程，然后详细讲解了CPU、内存、磁盘、网络等子系统的常用监控命令（如top、free、iostat、netstat）及其输出解读。针对常见性能问题，给出了具体的优化建议，包括内核参数调整、文件系统优化、进程调度策略等。文章还提供了实战案例，帮助读者将理论知识应用于实际场景。",
+    "topic": "ops"
+  },
+  {
+    "id": "8e954b8b592559a2dbc26afd415254ed",
+    "title_en": "12-Kubernetes运维最佳实践总结与CI和CD方案",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2129795",
+    "published_at": "2026-08-25T12:29:31.961Z",
+    "fetched_at": "2026-08-25T12:29:31.961Z",
+    "title_zh": "12-Kubernetes运维最佳实践总结与CI和CD方案",
+    "summary_zh": "本文总结了Kubernetes运维的最佳实践，并重点介绍了CI/CD方案的设计与实施。内容涵盖集群的部署规划、资源管理、监控告警、日志收集、备份恢复等运维关键环节。在CI/CD方面，文章详细讲解了基于GitOps的持续交付流程，包括使用Helm管理应用发布、ArgoCD实现自动化部署、以及流水线中集成安全扫描与测试的策略。文章还分享了多环境管理、灰度发布等高级实践，对K8s运维和DevOps工程师极具参考价值。",
+    "topic": "ops"
+  },
+  {
+    "id": "9a1f82e6d8290d1c8400c337878ef471",
+    "title_en": "生产环境Kubernetes集群部署与运维最佳实践原创",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/weixin_32576389/article/details/163558378",
+    "published_at": "2026-08-25T12:29:31.961Z",
+    "fetched_at": "2026-08-25T12:29:31.961Z",
+    "title_zh": "生产环境Kubernetes集群部署与运维最佳实践原创",
+    "summary_zh": "本文分享了生产环境Kubernetes集群部署与运维的最佳实践，内容源自实际项目经验。文章从集群规划开始，涵盖高可用架构设计、网络插件选型、存储方案配置等部署要点。在运维方面，重点介绍了集群升级策略、资源配额管理、Pod调度优化、以及基于Prometheus的监控体系搭建。此外，还探讨了故障排查的常用方法和应急处理流程。对于正在或计划将K8s应用于生产环境的团队，本文提供了宝贵的实战指导。",
+    "topic": "ops"
+  },
+  {
+    "id": "ed6528db53ed2d72d9fdca9126228fd0",
+    "title_en": "译：Kubernetes 最佳实践 - 乱世浮生",
+    "source": "atbug.com",
+    "url": "https://atbug.com/translate-kubernetes-best-practices/",
+    "published_at": "2026-08-25T12:29:31.961Z",
+    "fetched_at": "2026-08-25T12:29:31.961Z",
+    "title_zh": "译：Kubernetes 最佳实践 - 乱世浮生",
+    "summary_zh": "本文是Kubernetes最佳实践的翻译文章，内容涵盖了从应用开发到集群运维的多个方面。文章重点介绍了Pod设计模式、服务发现与负载均衡配置、配置管理（ConfigMap/Secret）的使用规范、以及资源请求与限制的设置建议。同时，还涉及了命名空间隔离、RBAC权限控制、以及Pod安全策略等安全最佳实践。文章内容系统全面，适合Kubernetes使用者作为日常开发与运维的参考指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "973a1ff09d914232887be3684d28bb80",
+    "title_en": "liguodongiot/llm-action: 本项目旨在分享大模型相关技术 ...",
+    "source": "github.com",
+    "url": "https://github.com/liguodongiot/llm-action",
+    "published_at": "2026-08-25T12:29:30.784Z",
+    "fetched_at": "2026-08-25T12:29:30.784Z",
+    "title_zh": "liguodongiot/llm-action: 本项目旨在分享大模型相关技术...",
+    "summary_zh": "这是一个开源项目，旨在系统性地分享大模型（LLM）相关技术，涵盖从基础原理到高级应用的完整知识体系。项目内容包括Transformer架构详解、预训练与微调方法、提示工程、RAG（检索增强生成）、模型量化与部署等核心主题。同时提供丰富的代码示例和实战项目，帮助开发者深入理解大模型技术栈。适合希望系统学习大模型技术的开发者收藏与学习。",
+    "topic": "ai"
+  },
+  {
+    "id": "89299c1a07377994d897c29b037e600f",
+    "title_en": "LLM 微调训练数据整理的最佳实践（在微调数千个模型后发现）",
+    "source": "reddit.com",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1eie3wa/llm_finetuning_best_practices_for_training_data/?tl=zh-hans",
+    "published_at": "2026-08-25T12:29:30.784Z",
+    "fetched_at": "2026-08-25T12:29:30.784Z",
+    "title_zh": "LLM 微调训练数据整理的最佳实践（在微调数千个模型后发现）",
+    "summary_zh": "本文基于微调数千个LLM模型的实践经验，总结了训练数据整理的最佳实践。核心要点包括：数据质量优先于数量，需严格去重与清洗；任务多样性对模型泛化能力至关重要；指令数据的格式一致性影响训练稳定性；负样本与困难样本的合理配比能显著提升模型鲁棒性。文章还分享了数据增强、平衡采样等实用技巧，并指出常见的数据陷阱。对于从事LLM微调工作的工程师具有很高的参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "a53820c2424f1375eaf7f5acb0f37f04",
+    "title_en": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型、美股...",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=lAy9RKQSi2U",
+    "published_at": "2026-08-25T12:29:30.783Z",
+    "fetched_at": "2026-08-25T12:29:30.783Z",
+    "title_zh": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型、美股...",
+    "summary_zh": "本文对2026年科技行业进行前瞻性分析，涵盖AI、自动驾驶、机器人、世界模型及美股市场等关键领域。文章深入探讨了AI技术的演进趋势，包括大模型向世界模型的发展方向，以及自动驾驶和机器人技术的商业化落地路径。同时，结合美股市场表现，分析了科技股的投资价值与风险。内容兼具技术深度与行业洞察，适合关注前沿科技趋势和投资策略的读者。",
+    "topic": "ai"
+  },
+  {
+    "id": "807ae30e17b3ac77d026327f7bfa3041",
+    "title_en": "【2025必学】AI Agent开发全攻略：从理论到实践，小白程序员入门必收藏",
+    "source": "adg.csdn.net",
+    "url": "https://adg.csdn.net/69524cce5b9f5f31781b6f0b.html",
+    "published_at": "2026-08-25T12:29:30.783Z",
+    "fetched_at": "2026-08-25T12:29:30.783Z",
+    "title_zh": "【2025必学】AI Agent开发全攻略：从理论到实践，小白程序员入门必收藏",
+    "summary_zh": "本文是一份面向初学者的AI Agent开发全攻略，系统性地从理论基础到工程实践进行讲解。内容涵盖Agent的核心概念、主流框架（如LangChain、AutoGPT）、工具调用、记忆机制、规划与决策等关键模块。通过实际案例演示如何构建一个可用的Agent应用，并分享调试与优化技巧。文章注重实操性，帮助程序员快速上手AI Agent开发，是入门者的实用指南。",
+    "topic": "ai"
+  },
+  {
     "id": "48075f0a1f034f404f9fbc949b8f60be",
     "title_en": "“分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞",
     "source": "antiy.com",
@@ -2066,137 +2198,5 @@
     "title_zh": "炼石成丹：大语言模型微调实战系列（一）数据准备篇 - AWS",
     "summary_zh": "本文是AWS大模型微调实战系列的开篇，重点讲解微调数据准备这一关键环节。深入探讨高质量训练数据的标准，包括数据多样性、平衡性与标注一致性，并演示如何利用Amazon SageMaker Data Wrangler等工具进行数据清洗、去重与格式转换。文章还介绍了针对不同微调任务（如指令跟随、对话生成）的数据集构建策略，以及数据增强与合成数据的实践方法，为后续微调奠定坚实基础。",
     "topic": "ai"
-  },
-  {
-    "id": "25a55b3fa474f241384c5fa30a36b4ea",
-    "title_en": "旗舰模型七强争霸，闭源王者与开源新贵的终极对决 - AI编程社区",
-    "source": "aicoding.csdn.net",
-    "url": "https://aicoding.csdn.net/6a5cf305662f9a54cb90e157.html",
-    "published_at": "2026-08-21T12:28:11.021Z",
-    "fetched_at": "2026-08-21T12:28:11.021Z",
-    "title_zh": "旗舰模型七强争霸，闭源王者与开源新贵的终极对决 - AI编程社区",
-    "summary_zh": "本文深入对比当前七大旗舰大模型，涵盖GPT-5、Claude 4、Gemini Ultra等闭源王者与Llama 4、DeepSeek-V3等开源新贵。从模型架构、训练数据、推理效率、生态支持等维度进行全方位评测，并基于实际基准测试数据揭示各自优劣势。文章特别分析开源模型在特定任务上逼近甚至超越闭源模型的现象，探讨开源生态对行业格局的深远影响，为技术选型提供实战指导。",
-    "topic": "ai"
-  },
-  {
-    "id": "960a2b55f8ab13a23d30304b7e5540da",
-    "title_en": "人工智能- 大模型榜单周报（2026/01/31） - KAI智",
-    "source": "segmentfault.com",
-    "url": "https://segmentfault.com/a/1190000047584551",
-    "published_at": "2026-08-21T12:28:11.021Z",
-    "fetched_at": "2026-08-21T12:28:11.021Z",
-    "title_zh": "人工智能- 大模型榜单周报（2026/01/31） - KAI智",
-    "summary_zh": "本周期刊聚焦2026年1月31日大模型评测榜单最新动态，重点追踪各模型在复杂推理、多轮对话、工具调用等场景的表现变化。分析新晋模型对既有排名格局的冲击，特别是开源模型在效率与成本上的突破。结合行业热点，解读榜单数据背后的技术趋势，如稀疏注意力、混合专家模型等架构创新。为AI工程师提供模型选型与调优的实用参考，助力项目落地。",
-    "topic": "ai"
-  },
-  {
-    "id": "e12c3646f75cce8af56afa83831da428",
-    "title_en": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1919338285160965135",
-    "published_at": "2026-08-21T12:28:11.021Z",
-    "fetched_at": "2026-08-21T12:28:11.021Z",
-    "title_zh": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent - 知乎专栏",
-    "summary_zh": "本文系统讲解复杂AI Agent的开发方法论，从核心原理出发，涵盖规划、记忆、工具调用、多智能体协作等关键模块。通过大量代码示例与架构图，深入剖析Agent的状态管理、错误恢复与性能优化策略。作者结合生产环境实战经验，分享如何设计健壮的Agent工作流，并解决长任务执行中的一致性问题。适合已有LLM基础、希望构建生产级Agent应用的开发者阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "1dfcf194da779d88465c24e33cef3a67",
-    "title_en": "https://waylandz.com/ai-agent-book/前言/",
-    "source": "waylandz.com",
-    "url": "https://waylandz.com/ai-agent-book/%E5%89%8D%E8%A8%80/",
-    "published_at": "2026-08-21T12:28:11.021Z",
-    "fetched_at": "2026-08-21T12:28:11.021Z",
-    "title_zh": "AI Agent开发实战指南（前言）",
-    "summary_zh": "本文是AI Agent开发实战指南的前言部分，为读者勾勒全书的技术框架与学习路径。作者从Agent的基本概念出发，阐述其与LLM、RAG、工具生态的关系，并预告后续章节将涵盖环境搭建、核心组件实现、复杂任务编排等主题。文章强调实践导向，鼓励读者通过动手构建项目来深化理解，同时提供了适合初学者的技术栈建议与资源清单，是进入Agent开发领域的理想起点。",
-    "topic": "ai"
-  },
-  {
-    "id": "13a829cf97d70baf350db3a7bca96749",
-    "title_en": "2026 年AI Agent 的12 大构建框架",
-    "source": "bright.cn",
-    "url": "https://www.bright.cn/blog/ai/best-ai-agent-frameworks",
-    "published_at": "2026-08-21T12:28:11.021Z",
-    "fetched_at": "2026-08-21T12:28:11.021Z",
-    "title_zh": "2026 年AI Agent 的12 大构建框架",
-    "summary_zh": "本文盘点2026年最值得关注的12个AI Agent构建框架，涵盖LangChain、AutoGen、CrewAI等主流选择及新兴工具。从框架的设计理念、核心特性、适用场景、社区活跃度等维度进行横向对比，并给出基于项目需求的选型建议。文章还分析了各框架在编排、记忆、工具集成方面的差异化优势，以及它们与最新LLM的兼容性。为技术团队在Agent开发框架选型时提供全面参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "ab44692da05b2d4a4e37b0a487dd4d88",
-    "title_en": "炼石成丹：大语言模型微调实战系列（二）模型微调篇 - AWS",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-two/",
-    "published_at": "2026-08-21T12:28:11.021Z",
-    "fetched_at": "2026-08-21T12:28:11.021Z",
-    "title_zh": "炼石成丹：大语言模型微调实战系列（二）模型微调篇 - AWS",
-    "summary_zh": "本文是AWS大模型微调实战系列的第二篇，聚焦模型微调的核心技术环节。详细讲解在Amazon SageMaker等云平台上进行LLM微调的完整流程，包括LoRA、QLoRA等参数高效微调方法的原理与实现。通过实际案例演示如何配置训练任务、监控训练指标、评估微调效果，并分享避免过拟合、优化训练成本的实用技巧。适合希望在云上落地模型定制化的工程师阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "c201ddb974b1ad4aef07c0ad0783aaf3",
-    "title_en": "微调LLMs：概述、方法和最佳实践（附天工Skywork-13B微调）",
-    "source": "docs.feishu.cn",
-    "url": "https://docs.feishu.cn/article/wiki/TNUAw3AMtiToCnkVgL5cVR8anyh",
-    "published_at": "2026-08-21T12:28:11.021Z",
-    "fetched_at": "2026-08-21T12:28:11.021Z",
-    "title_zh": "微调LLMs：概述、方法和最佳实践（附天工Skywork-13B微调）",
-    "summary_zh": "本文全面介绍大语言模型微调的技术体系，从全参微调到LoRA、P-Tuning等轻量级方法，系统对比各方案的适用场景与优劣。以天工Skywork-13B为例，详细演示数据准备、训练配置、效果评估的完整微调流程，并分享超参数调优、灾难性遗忘规避等最佳实践。文章还探讨了微调与RAG、提示工程等技术的协同策略，为开发者提供端到端的微调实战指南。",
-    "topic": "ai"
-  },
-  {
-    "id": "d91fbaf3fbd5e91b714247e0de2cff20",
-    "title_en": "大模型榜单周报（2026/01/10） - KAI智习",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/xjk15082/p/19467448",
-    "published_at": "2026-08-21T12:28:11.020Z",
-    "fetched_at": "2026-08-21T12:28:11.021Z",
-    "title_zh": "大模型榜单周报（2026/01/10） - KAI智习",
-    "summary_zh": "本期周报汇总2026年1月10日当周主流大模型评测榜单变化，涵盖语言理解、代码生成、数学推理等核心能力维度。对比国内外头部模型如GPT-5、Claude 4、Gemini Ultra及国产模型的得分波动，分析榜单排名变动背后的技术迭代因素。同时解读新发布模型的性能亮点与局限，为开发者选择模型提供数据参考。报告还预告下周可能发布的模型动态，帮助读者跟踪行业节奏。",
-    "topic": "ai"
-  },
-  {
-    "id": "0535673b254f483732cdcc7df1935acf",
-    "title_en": "2026大模型全景分析报告",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/2038178950019556726",
-    "published_at": "2026-08-21T12:28:11.019Z",
-    "fetched_at": "2026-08-21T12:28:11.020Z",
-    "title_zh": "2026大模型全景分析报告",
-    "summary_zh": "本报告对2026年大模型领域进行全景式梳理，涵盖技术演进、产业格局与未来趋势。重点分析基础模型能力跃迁、多模态融合、推理成本优化等关键技术突破，并深入探讨开源与闭源生态的竞争态势。报告还关注大模型在垂直行业的落地实践，包括金融、医疗、制造等领域的典型应用案例，为技术决策者提供战略参考。适合关注AI前沿动态的工程师与架构师阅读，以把握技术方向与商业机会。",
-    "topic": "ai"
-  },
-  {
-    "id": "28b0f8b52aac7077987eeadf20162031",
-    "title_en": "系统运维管理OOS - 统一自动化运维编排管理- 阿里云",
-    "source": "aliyun.com",
-    "url": "https://www.aliyun.com/product/oos",
-    "published_at": "2026-08-21T06:30:32.107Z",
-    "fetched_at": "2026-08-21T06:30:32.107Z",
-    "title_zh": "系统运维管理OOS - 统一自动化运维编排管理 - 阿里云",
-    "summary_zh": "阿里云OOS（Operation Orchestration Service）提供统一的自动化运维编排能力，支持通过模板定义运维任务，实现批量执行、定时触发、事件驱动等场景。本文介绍其核心概念，如模板、执行、任务编排，并演示如何利用OOS进行补丁管理、配置修正和故障自愈。对于云上资源规模较大的团队，OOS能显著提升运维效率并降低人工操作风险。",
-    "topic": "ops"
-  },
-  {
-    "id": "f9e42301f510acdb4dbd5d06d7609c5e",
-    "title_en": "OpsAny - AI原生运维管理平台",
-    "source": "opsany.com",
-    "url": "https://www.opsany.com/",
-    "published_at": "2026-08-21T06:30:32.107Z",
-    "fetched_at": "2026-08-21T06:30:32.107Z",
-    "title_zh": "OpsAny - AI原生运维管理平台",
-    "summary_zh": "OpsAny定位为AI原生运维管理平台，将大模型能力融入CMDB、监控告警、变更发布、故障诊断等运维全流程。平台通过自然语言交互简化操作，并利用AI进行异常检测、日志分析和根因定位。本文重点探讨其架构设计，如何将传统运维工具链与AI Agent结合，以及在实际生产环境中落地时面临的挑战与收益，为运维团队向智能运维转型提供参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "b69709c6408020894e4e828ab326f68d",
-    "title_en": "什么是CloudOps？ - Red Hat",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/topics/automation/what-is-cloudops",
-    "published_at": "2026-08-21T06:30:32.107Z",
-    "fetched_at": "2026-08-21T06:30:32.107Z",
-    "title_zh": "什么是CloudOps？ - Red Hat",
-    "summary_zh": "Red Hat官方文章系统阐述了CloudOps（云运维）的定义与核心理念，强调其与DevOps、SRE的关系与区别。文章指出CloudOps关注云环境的自动化、可观测性、成本优化与安全合规，并介绍了实施CloudOps所需的关键实践，如基础设施即代码（IaC）、统一监控、策略即代码等。对于正在向多云或混合云架构转型的团队，本文提供了清晰的运维模式演进路线图。",
-    "topic": "ops"
   }
 ]
