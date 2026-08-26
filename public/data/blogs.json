@@ -1,5 +1,82 @@
 [
   {
+    "id": "0ed160bfec1211bfbe5d32251173202c",
+    "title_en": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2551743",
+    "published_at": "2026-08-26T06:32:05.402Z",
+    "fetched_at": "2026-08-26T06:32:05.402Z",
+    "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南",
+    "summary_zh": "本文由腾讯云分享Kubernetes运维中的常见陷阱及解决方案，涵盖集群稳定性、资源管理、网络配置和故障排查等核心议题。内容包括：合理设置资源请求与限制以避免节点资源争抢；正确处理Pod生命周期和优雅终止；配置健康检查与就绪探针以提升服务可用性；以及监控与日志采集的最佳实践。文章还提供了实际案例和调优建议，帮助运维人员构建更健壮的云原生基础设施，减少生产环境事故。",
+    "topic": "ops"
+  },
+  {
+    "id": "3c06e9cae5816c51fadec3e71d9031ef",
+    "title_en": "面向Docker容器的在线迁移系统实现和优化方法 - Google Patents",
+    "source": "patents.google.com",
+    "url": "https://patents.google.com/patent/CN110119377B/zh",
+    "published_at": "2026-08-26T06:32:05.402Z",
+    "fetched_at": "2026-08-26T06:32:05.402Z",
+    "title_zh": "面向Docker容器的在线迁移系统实现和优化方法",
+    "summary_zh": "本文介绍了一种面向Docker容器的在线迁移系统及其优化方法，旨在解决容器在跨主机迁移时的服务中断问题。系统通过检查点/恢复机制（如CRIU）捕获容器状态，并结合网络和存储的同步策略实现无缝迁移。优化方法包括增量迁移、内存压缩和预拷贝技术，以缩短迁移时间和减少对运行负载的影响。文章还探讨了迁移过程中的一致性保障和故障恢复机制，为构建高可用容器基础设施提供了技术参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "04c1d692382d38a5231fdd1a34aba2db",
+    "title_en": "如何加快使用Docker容器的代码管道部署？ : r/aws - Reddit",
+    "source": "reddit.com",
+    "url": "https://www.reddit.com/r/aws/comments/1ilx9pl/methods_to_speed_up_code_pipeline_deployment_with/?tl=zh-hans",
+    "published_at": "2026-08-26T06:32:05.402Z",
+    "fetched_at": "2026-08-26T06:32:05.402Z",
+    "title_zh": "如何加快使用Docker容器的代码管道部署？",
+    "summary_zh": "本文讨论在AWS环境中加速基于Docker容器的CI/CD管道部署的多种策略。核心建议包括：优化Docker镜像构建（如利用层缓存、多阶段构建、精简基础镜像）；使用Amazon ECR作为镜像仓库以减少拉取延迟；并行化构建和测试任务；以及采用AWS CodeBuild和CodePipeline的托管缓存功能。文章还提到了使用EC2实例的Spot实例或Graviton处理器来降低成本并提升构建速度，为DevOps团队提供了实用的性能优化指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "9ad2a967eb3c829bb2a6fe94156a18d8",
+    "title_en": "如何提升Docker测试环境运行速度？现有卷清理方案仍低效 - 火山引擎",
+    "source": "volcengine.com",
+    "url": "https://www.volcengine.com/article/2581442",
+    "published_at": "2026-08-26T06:32:05.402Z",
+    "fetched_at": "2026-08-26T06:32:05.402Z",
+    "title_zh": "如何提升Docker测试环境运行速度？现有卷清理方案仍低效",
+    "summary_zh": "本文针对Docker测试环境运行缓慢的问题，分析了现有卷清理方案的不足，并提出优化方法。文章指出，频繁的镜像和卷堆积会导致磁盘I/O瓶颈和容器启动延迟。作者建议采用定期清理悬空卷、使用tmpfs挂载临时数据、以及利用Docker的--volumes-from或命名卷复用机制来减少重复数据。此外，文章还探讨了使用BuildKit缓存和分层镜像压缩来加速测试环境的构建和启动，为提升开发测试效率提供了具体可行的技术方案。",
+    "topic": "ops"
+  },
+  {
+    "id": "2e406546c90b334d431e0a622bbe9f81",
+    "title_en": "什么是Docker 容器监控？ - Dotcom-Monitor",
+    "source": "dotcom-monitor.com",
+    "url": "https://www.dotcom-monitor.com/zh-hans/%E4%BD%BF%E7%94%A8%E7%BD%91%E7%BB%9C%E7%9B%91%E8%A7%86%E5%99%A8%E5%AD%A6%E4%B9%A0/%E4%BB%80%E4%B9%88%E6%98%AF-docker-%E5%AE%B9%E5%99%A8%E7%9B%91%E6%8E%A7%EF%BC%9F/",
+    "published_at": "2026-08-26T06:32:05.402Z",
+    "fetched_at": "2026-08-26T06:32:05.402Z",
+    "title_zh": "什么是Docker容器监控？",
+    "summary_zh": "本文系统介绍了Docker容器监控的概念、重要性和实施方法。监控内容包括CPU、内存、网络I/O、磁盘使用率以及容器生命周期事件。文章对比了多种监控工具，如Docker Stats、cAdvisor、Prometheus和第三方SaaS平台，并强调了实时监控与告警在保障微服务架构稳定性中的作用。此外，还讨论了日志聚合和分布式追踪在容器环境中的集成，帮助运维团队快速定位性能瓶颈和故障，实现可观测性。",
+    "topic": "ops"
+  },
+  {
+    "id": "492e442cc6dfe898e00e1665051437e2",
+    "title_en": "为什么使用Docker 容器进行机器学习开发？ | 亚马逊AWS官方博客",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/why-use-docker-containers-for-machine-learning-development/",
+    "published_at": "2026-08-26T06:32:05.402Z",
+    "fetched_at": "2026-08-26T06:32:05.402Z",
+    "title_zh": "为什么使用Docker容器进行机器学习开发？",
+    "summary_zh": "本文来自AWS官方博客，阐述了使用Docker容器进行机器学习开发的核心优势。容器为ML工作流提供了可移植性、可复现性和隔离性，确保开发、测试和生产环境的一致性。文章重点介绍了如何通过Docker封装依赖库、GPU驱动和模型代码，简化团队协作和模型部署。同时，结合Amazon SageMaker和ECS等AWS服务，展示了容器化ML管道的实践案例，包括训练、调优和推理阶段的优化，为数据科学家和ML工程师提供了高效开发范式。",
+    "topic": "ai"
+  },
+  {
+    "id": "b0f81565afa69b0da1e10fb27ecb558b",
+    "title_en": "微调LLM 的最佳实践",
+    "source": "reddit.com",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1gr2kag/best_practices_for_finetuning_llms/?tl=zh-hans",
+    "published_at": "2026-08-26T06:32:04.289Z",
+    "fetched_at": "2026-08-26T06:32:04.289Z",
+    "title_zh": "微调LLM的最佳实践",
+    "summary_zh": "本文总结了微调大型语言模型（LLM）的关键实践，涵盖数据准备、超参数选择、训练策略及评估方法。重点包括：使用高质量、多样化的数据集以避免过拟合；合理设置学习率、批次大小和训练轮数；采用LoRA、QLoRA等参数高效微调技术以降低资源消耗；并通过验证集和人类反馈进行迭代优化。文章还强调了避免灾难性遗忘和保持模型通用能力的技巧，为实际项目中的LLM定制提供了实用指导。",
+    "topic": "ai"
+  },
+  {
     "id": "ccedcb3dde513b88688d11f621ea174c",
     "title_en": "系统运维管理_OOS - 阿里云",
     "source": "alibabacloud.com",
@@ -2121,82 +2198,5 @@
     "title_zh": "从版本号解析Android安全补丁级别指南 - OSCHINA - 开源× AI",
     "summary_zh": "本文详细解析了Android安全补丁级别（Security Patch Level, SPL）的版本号编码规则及其背后的安全含义。作者通过拆解日期格式（如2026-02-01）与对应的安全公告（Security Bulletin）映射关系，说明了如何快速判断设备是否包含特定CVE的修复。文章还对比了不同厂商在SPL更新上的差异，并提供了通过系统属性或ADB命令验证实际补丁级别的方法，帮助安全审计人员与普通用户识别设备的安全状态。",
     "topic": "security"
-  },
-  {
-    "id": "307fe35696098a53d0507528b139ab10",
-    "title_en": "从零搭建一个自动化运维体系 - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/61818302",
-    "published_at": "2026-08-23T00:44:43.127Z",
-    "fetched_at": "2026-08-23T00:44:43.127Z",
-    "title_zh": "从零搭建一个自动化运维体系 - 知乎专栏",
-    "summary_zh": "本文以实际案例为主线，详细介绍了从零开始构建自动化运维体系的完整路径。内容涵盖基础设施即代码（IaC）的选型与落地、配置管理工具（如Ansible）的使用、CI/CD流水线设计、监控告警系统搭建（Prometheus + Grafana）以及日志收集分析方案。作者结合自身经验，分享了在服务器标准化、应用发布自动化及故障自愈方面的实践技巧，并讨论了团队协作与流程规范的重要性。适合运维工程师及技术管理者参考，以提升整体运维效率与稳定性。",
-    "topic": "ops"
-  },
-  {
-    "id": "c2e2ad066adbffd91c415b824f55b417",
-    "title_en": "最佳实践 - Kubernetes",
-    "source": "kubernetes.io",
-    "url": "https://kubernetes.io/zh-cn/docs/setup/best-practices/",
-    "published_at": "2026-08-23T00:44:42.277Z",
-    "fetched_at": "2026-08-23T00:44:42.277Z",
-    "title_zh": "最佳实践 - Kubernetes",
-    "summary_zh": "本文是Kubernetes官方发布的最佳实践指南，系统梳理了集群设计、资源管理、安全加固、高可用部署及运维监控等核心环节的推荐做法。内容涵盖命名空间规划、Pod资源请求与限制设置、健康检查配置、RBAC权限控制、网络策略实施，以及利用Operator和Helm进行应用生命周期管理。文章强调通过声明式配置和自动化策略降低运维复杂度，并针对常见故障场景给出了排查与恢复建议，适合平台工程师与SRE团队作为生产环境落地的参考手册。",
-    "topic": "ops"
-  },
-  {
-    "id": "239a8828c262ed2cf7befdc0f50c02a8",
-    "title_en": "Kubernetes最简实践 - Github-Gist",
-    "source": "gist.github.com",
-    "url": "https://gist.github.com/e8cb1f1604a90284a937b363b1f1b0c2",
-    "published_at": "2026-08-23T00:44:42.277Z",
-    "fetched_at": "2026-08-23T00:44:42.277Z",
-    "title_zh": "Kubernetes最简实践 - Github-Gist",
-    "summary_zh": "该Gist提供了一套极简的Kubernetes上手实践，通过最少的YAML配置演示了Pod、Deployment、Service等核心对象的创建与关联。内容聚焦于快速验证集群功能，包括使用kubectl常用命令进行部署、扩缩容、滚动更新及端口转发，并附带常见报错的处理方法。适合刚接触K8s的开发者作为入门实验手册，帮助理解核心抽象概念与基本工作流程，为后续深入学习调度、存储及网络机制打下基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "ec6cc7e1e9f678b743c94cbd12a3803b",
-    "title_en": "大模型榜单周报（2026/02/15） - KAI智习",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/xjk15082/p/19619738",
-    "published_at": "2026-08-23T00:44:40.944Z",
-    "fetched_at": "2026-08-23T00:44:40.944Z",
-    "title_zh": "大模型榜单周报（2026/02/15） - KAI智习",
-    "summary_zh": "本文汇总了2026年2月15日当周主流大模型在各类基准测试中的排名变化，涵盖语言理解、代码生成、数学推理及多模态任务等维度。重点分析了榜单头部模型的性能波动，并结合近期论文与开源社区动态，解读了模型架构优化、训练数据策略及评测集更新对排名的影响。对于关注模型选型与落地效果的开发者，提供了基于实测数据的横向对比与趋势判断，有助于在具体业务场景中做出更合理的模型选择。",
-    "topic": "ai"
-  },
-  {
-    "id": "d4ba65f242789c02829a90acc429e864",
-    "title_en": "基于自适应热补丁的Android内核漏洞生态修复方案|",
-    "source": "inforsec.org",
-    "url": "https://www.inforsec.org/wp/?p=1042",
-    "published_at": "2026-08-22T18:16:28.286Z",
-    "fetched_at": "2026-08-22T18:16:28.286Z",
-    "title_zh": "基于自适应热补丁的Android内核漏洞生态修复方案",
-    "summary_zh": "本文提出一种基于自适应热补丁的Android内核漏洞修复方案，旨在解决碎片化Android生态中安全补丁分发滞后的问题。文章详细阐述热补丁技术的实现原理，包括内核函数级补丁生成、动态加载与回滚机制，并针对不同内核版本提出自适应适配策略。通过实际漏洞案例验证，该方案可将修复时间从数月缩短至数天，同时保持系统稳定性。对于移动安全研究员、系统开发人员及运维工程师，本文提供了从理论到实践的完整漏洞治理参考。",
-    "topic": "security"
-  },
-  {
-    "id": "d0051278e0ea49d6d87e18c6f73c4c90",
-    "title_en": "国产大模型谁最强？2026最新横评：中文碾压、长文吊打",
-    "source": "post.smzdm.com",
-    "url": "https://post.smzdm.com/p/ae699k3q",
-    "published_at": "2026-08-22T18:16:25.907Z",
-    "fetched_at": "2026-08-22T18:16:25.907Z",
-    "title_zh": "国产大模型谁最强？2026最新横评：中文碾压、长文吊打",
-    "summary_zh": "本文对2026年最新国产大模型进行横向评测，重点考察中文理解与生成能力、长文本处理性能及知识问答准确性。通过多组针对性测试集（涵盖古诗词理解、方言俚语、专业文献摘要等），对比各模型在中文语料上的表现差异。评测结果显示，部分国产模型在中文任务上已显著超越国际主流产品，尤其在长文摘要与逻辑连贯性方面表现突出。文章还分析了各模型的技术路线与训练数据策略，为中文NLP应用开发者提供有价值的选型参考与性能基准。",
-    "topic": "ai"
-  },
-  {
-    "id": "116604726f04e05bc4a391f9387ef9f2",
-    "title_en": "智谱破万亿，中国大模型终结「平替」叙事",
-    "source": "m.36kr.com",
-    "url": "https://m.36kr.com/p/3866649171432711",
-    "published_at": "2026-08-22T18:16:25.907Z",
-    "fetched_at": "2026-08-22T18:16:25.907Z",
-    "title_zh": "智谱破万亿，中国大模型终结「平替」叙事",
-    "summary_zh": "本文深入分析智谱AI估值突破万亿背后的技术逻辑与市场意义，探讨中国大模型产业从'平替'到'原创引领'的范式转变。文章从智谱的GLM系列架构演进、训练效率优化、生态布局等维度，剖析其技术壁垒与商业化路径。同时对比国际主流模型，论证中国大模型在特定领域已具备差异化竞争优势。对于关注AI产业投资与技术趋势的读者，本文提供了关于中国大模型发展阶段的深度洞察，以及未来技术突破方向的预测。",
-    "topic": "ai"
   }
 ]
