@@ -1,5 +1,60 @@
 [
   {
+    "id": "7272150ae636641539d95c5f9400513e",
+    "title_en": "网络安全控制实践- 国产操作系统加固措施汇总（202409） - WaveCN.com",
+    "source": "wavecn.com",
+    "url": "https://www.wavecn.com/content.php?id=452",
+    "published_at": "2026-08-26T12:32:16.638Z",
+    "fetched_at": "2026-08-26T12:32:16.638Z",
+    "title_zh": "网络安全控制实践- 国产操作系统加固措施汇总（202409） - WaveCN.com",
+    "summary_zh": "本文汇总了针对国产操作系统（如麒麟、统信UOS等）的安全加固实践措施，涵盖账户管理、权限控制、内核参数调优、服务最小化、日志审计、SELinux/AppArmor配置、补丁管理及入侵检测等关键领域。文章基于等保2.0要求，提供了具体的命令与配置示例，并讨论了国产系统与主流Linux发行版在安全机制上的异同。对于负责信创环境运维与安全合规的工程师，具有直接的操作参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "ec6cc7e1e9f678b743c94cbd12a3803b",
+    "title_en": "大模型榜单周报（2026/02/15） - KAI智习",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/xjk15082/p/19619738",
+    "published_at": "2026-08-26T12:32:15.462Z",
+    "fetched_at": "2026-08-26T12:32:15.462Z",
+    "title_zh": "大模型榜单周报（2026/02/15） - KAI智习",
+    "summary_zh": "本文汇总了2026年2月15日当周主流大模型在各类评测基准上的表现排名，涵盖通用能力、代码生成、数学推理、多模态理解等维度。报告对比了国内外开源与闭源模型的性能差异，并分析了近期模型迭代带来的榜单变化趋势。对于关注模型选型与性能对比的开发者，提供了数据驱动的参考依据，有助于在具体业务场景中做出更合理的模型选择。",
+    "topic": "ai"
+  },
+  {
+    "id": "6df7cd7735e845150fbc86216d549a98",
+    "title_en": "开源模型最全盘点（2026 年7 月版） - OSCHINA - 开源× AI",
+    "source": "my.oschina.net",
+    "url": "https://my.oschina.net/u/9487999/blog/19721554",
+    "published_at": "2026-08-26T12:32:15.462Z",
+    "fetched_at": "2026-08-26T12:32:15.462Z",
+    "title_zh": "开源模型最全盘点（2026年7月版） - OSCHINA - 开源× AI",
+    "summary_zh": "本文系统梳理了截至2026年7月最具代表性的开源大模型，涵盖参数规模从1B到数百B的多种架构，包括基座模型、对话模型、代码模型及多模态模型。文章按组织、发布时间、许可证类型分类，并对比了各模型在主流基准上的表现与社区活跃度。对于希望自部署或二次开发的企业与研究者，提供了全面的选型地图，并指出了开源生态中的关键趋势与潜在风险。",
+    "topic": "ai"
+  },
+  {
+    "id": "9675cae6ec0be3df4b378a1b28ed8c3c",
+    "title_en": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1993642974563812198",
+    "published_at": "2026-08-26T12:32:15.462Z",
+    "fetched_at": "2026-08-26T12:32:15.462Z",
+    "title_zh": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程",
+    "summary_zh": "本系列教程面向2026年的技术栈，系统讲解AI、大模型、智能体（Agent）与LLMOps的核心概念与实践方法。内容涵盖从模型微调、提示工程、RAG架构到Agent工作流设计、部署监控与成本优化等全链路知识。教程以实战为导向，提供可运行的代码示例与架构模式，帮助开发者快速构建生产级AI应用，并掌握大模型应用运维的最佳实践。",
+    "topic": "ai"
+  },
+  {
+    "id": "51dff3cf209ac9cb2451988c0d344f02",
+    "title_en": "8 種頂尖AI Agent 框架，打造更聰明的AI 應用 - Kimi",
+    "source": "kimi.ai",
+    "url": "https://www.kimi.ai/zh-hant/resources/best-ai-agent-frameworks",
+    "published_at": "2026-08-26T12:32:15.462Z",
+    "fetched_at": "2026-08-26T12:32:15.462Z",
+    "title_zh": "8种顶尖AI Agent框架，打造更聪明的AI应用 - Kimi",
+    "summary_zh": "本文对比分析了当前主流的8种AI Agent框架，包括LangGraph、AutoGen、CrewAI、Semantic Kernel等，从架构设计、任务编排能力、多智能体协作、工具调用、可观测性及生态成熟度等维度进行深入评估。文章结合典型应用场景，给出了框架选型建议，并指出了各框架在复杂工作流、状态管理与错误恢复方面的优劣，为开发者构建高效、可靠的智能体应用提供了实用指南。",
+    "topic": "ai"
+  },
+  {
     "id": "0ed160bfec1211bfbe5d32251173202c",
     "title_en": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
     "source": "cloud.tencent.com",
@@ -2143,60 +2198,5 @@
     "title_zh": "Linux常用软件安装与运维的30个实用技巧 - openEuler 社区",
     "summary_zh": "本文由openEuler社区分享，汇集了Linux系统下常用软件安装与运维的30个实用技巧。内容涵盖软件包管理（yum/dnf/apt）、常用开发工具（Git、Vim、Docker）的快速安装与配置、系统性能监控与调优（top、vmstat、sysctl）以及日志分析和故障排查方法。每个技巧都配有简洁的命令示例和操作说明，旨在帮助运维人员提高日常工作效率。文章还特别强调了在openEuler环境下的兼容性注意事项，是Linux运维实践中的实用速查手册。",
     "topic": "ops"
-  },
-  {
-    "id": "ccb32c88b361dd5573e32422b0289238",
-    "title_en": "AI Agent(智能体) 教程 - 菜鸟教程",
-    "source": "runoob.com",
-    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
-    "published_at": "2026-08-23T06:24:49.973Z",
-    "fetched_at": "2026-08-23T06:24:49.973Z",
-    "title_zh": "AI Agent（智能体）教程 - 菜鸟教程",
-    "summary_zh": "本文是面向初学者的AI Agent入门教程，系统介绍了智能体的核心概念、工作原理与典型应用场景。内容涵盖Agent的基本架构（感知、决策、执行）、主流开发框架（如LangChain、AutoGPT）的使用方法，以及如何通过提示词工程和工具调用增强Agent能力。教程还提供了多个实战案例，帮助读者快速上手构建简单的自动化任务Agent，并讨论了当前Agent技术的局限性与未来发展方向。适合希望了解AI Agent基础并开始实践的开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "1d9ada4d74aba54520347b971e506582",
-    "title_en": "AI Agent开发教程：9. Agent框架原创 - CSDN博客",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/libra1313/article/details/159004877",
-    "published_at": "2026-08-23T06:24:49.973Z",
-    "fetched_at": "2026-08-23T06:24:49.973Z",
-    "title_zh": "AI Agent开发教程：9. Agent框架原创 - CSDN博客",
-    "summary_zh": "本文是AI Agent开发系列教程的第九篇，聚焦于主流Agent框架的深入解析与对比。文章详细介绍了LangChain、Semantic Kernel、AutoGen等框架的设计理念、核心组件（如记忆、规划、工具调用）以及各自的优缺点。通过代码示例展示了如何利用这些框架快速搭建具备多步骤推理和外部工具交互能力的Agent。此外，还探讨了框架选型的关键考量因素，包括可扩展性、社区生态和与现有系统的集成难度，为开发者提供了实用的技术参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "accc35290dbccf940308972dbdac1655",
-    "title_en": "一些小团队的自动化运维实践经验 - 翟志军Jack Zhai",
-    "source": "showme.codes",
-    "url": "https://showme.codes/zh-cn/2018-6-7-devops-in-action/",
-    "published_at": "2026-08-23T00:44:43.128Z",
-    "fetched_at": "2026-08-23T00:44:43.128Z",
-    "title_zh": "一些小团队的自动化运维实践经验 - 翟志军Jack Zhai",
-    "summary_zh": "本文分享了小团队在资源有限条件下实施自动化运维的务实经验。作者从实际痛点出发，介绍了如何利用开源工具（如Shell脚本、Ansible、GitLab CI）组合出轻量级的自动化方案，覆盖服务器初始化、应用部署、定时任务管理及基础监控。文章强调了“够用就好”的原则，避免过度设计，并给出了在无专职运维人员情况下保障服务稳定性的具体技巧，包括日志轮转、备份策略和简单的故障自愈脚本。对初创团队或小型项目极具参考价值。",
-    "topic": "ops"
-  },
-  {
-    "id": "7cc1753b0adb8e4f8f3e9e8c8c0de68c",
-    "title_en": "确保Android 长期安全的制造商指南",
-    "source": "source.android.com",
-    "url": "https://source.android.com/docs/automotive/security/mfg_guide?hl=zh-cn",
-    "published_at": "2026-08-23T00:44:43.127Z",
-    "fetched_at": "2026-08-23T00:44:43.127Z",
-    "title_zh": "确保Android 长期安全的制造商指南",
-    "summary_zh": "本文是Android官方面向设备制造商发布的安全指南，旨在帮助厂商建立长期有效的安全更新机制。内容覆盖从安全补丁级别（SPL）管理、内核漏洞修复流程、驱动与固件更新策略，到安全测试与认证要求。文章强调了供应链安全、漏洞披露协调以及用户通知规范的重要性，并提供了构建可维护更新管道的具体建议。对于负责Android设备系统维护与安全合规的工程团队，具有直接的操作指导价值。",
-    "topic": "security"
-  },
-  {
-    "id": "de77a88c83bbb7a5e83a043eba85dd92",
-    "title_en": "从版本号解析Android安全补丁级别指南 - OSCHINA - 开源× AI",
-    "source": "my.oschina.net",
-    "url": "https://my.oschina.net/emacs_7997145/blog/19680574",
-    "published_at": "2026-08-23T00:44:43.127Z",
-    "fetched_at": "2026-08-23T00:44:43.127Z",
-    "title_zh": "从版本号解析Android安全补丁级别指南 - OSCHINA - 开源× AI",
-    "summary_zh": "本文详细解析了Android安全补丁级别（Security Patch Level, SPL）的版本号编码规则及其背后的安全含义。作者通过拆解日期格式（如2026-02-01）与对应的安全公告（Security Bulletin）映射关系，说明了如何快速判断设备是否包含特定CVE的修复。文章还对比了不同厂商在SPL更新上的差异，并提供了通过系统属性或ADB命令验证实际补丁级别的方法，帮助安全审计人员与普通用户识别设备的安全状态。",
-    "topic": "security"
   }
 ]
