@@ -1,5 +1,115 @@
 [
   {
+    "id": "f9e42301f510acdb4dbd5d06d7609c5e",
+    "title_en": "OpsAny - AI原生运维管理平台",
+    "source": "opsany.com",
+    "url": "https://www.opsany.com/",
+    "published_at": "2026-08-26T19:40:02.424Z",
+    "fetched_at": "2026-08-26T19:40:02.424Z",
+    "title_zh": "OpsAny - AI原生运维管理平台",
+    "summary_zh": "本文介绍了OpsAny这一AI原生运维管理平台，其核心理念是将大模型能力深度融入IT运维全流程。平台功能涵盖智能监控告警、日志分析、故障诊断与自动化修复，利用AI Agent自动执行运维任务。文章详细阐述了其架构设计，包括如何通过自然语言交互下发指令、如何利用知识库增强故障排查效率，以及如何与现有监控系统（如Prometheus）集成。对于运维团队而言，OpsAny展示了AI如何从辅助工具演变为主动运维的核心引擎，为AIOps落地提供了新的思路。",
+    "topic": "ops"
+  },
+  {
+    "id": "a7f022f85e2d02c25c4a90928bf4c9db",
+    "title_en": "一文带你看清运维技术体系",
+    "source": "gist.github.com",
+    "url": "https://gist.github.com/4b4b7066a6e9915c05411b60d53f2ff3",
+    "published_at": "2026-08-26T19:40:02.424Z",
+    "fetched_at": "2026-08-26T19:40:02.424Z",
+    "title_zh": "一文带你看清运维技术体系",
+    "summary_zh": "这是一篇系统梳理运维技术体系的文章，从基础设施层（服务器、网络、存储）到平台层（虚拟化、容器、Kubernetes），再到应用层（监控、日志、CI/CD）进行了全面解析。文章不仅介绍了各技术栈的核心组件与工具（如Ansible、Prometheus、GitLab CI），还深入探讨了它们之间的关联与协作方式。作者结合自身经验，分享了构建高可用、可扩展运维架构的设计原则，以及SRE理念的落地实践。对于运维新手或希望构建完整知识体系的工程师，这是一份不可多得的全景式学习地图。",
+    "topic": "ops"
+  },
+  {
+    "id": "a481b14dfec9bc19a89405ef01426e8e",
+    "title_en": "如何加快使用Docker容器的代码管道部署？ : r/aws",
+    "source": "reddit.com",
+    "url": "https://www.reddit.com/r/aws/comments/1ilx9pl/methods_to_speed_up_code_pipeline_deployment_with/?tl",
+    "published_at": "2026-08-26T19:40:01.226Z",
+    "fetched_at": "2026-08-26T19:40:01.226Z",
+    "title_zh": "如何加快使用Docker容器的代码管道部署？ : r/aws",
+    "summary_zh": "这篇Reddit讨论帖汇集了开发者关于加速Docker容器化代码管道部署的实战经验。核心议题包括优化Dockerfile以利用层缓存、选择轻量级基础镜像、使用BuildKit提升构建速度，以及配置AWS ECR与CodePipeline实现自动化构建与推送。评论中深入探讨了如何通过并行构建、镜像瘦身和预热缓存来缩短部署时间，并分享了在Kubernetes环境中滚动更新与蓝绿部署的实践。对于正在优化CI/CD流程的DevOps工程师，这些来自社区的解决方案极具参考价值。",
+    "topic": "ops"
+  },
+  {
+    "id": "fd2cd8694ec54adb3173516d4f130d71",
+    "title_en": "Agent的深度解析：从原理到实践",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/1672158",
+    "published_at": "2026-08-26T19:39:59.816Z",
+    "fetched_at": "2026-08-26T19:39:59.816Z",
+    "title_zh": "Agent的深度解析：从原理到实践",
+    "summary_zh": "文章深度剖析了AI Agent的内在原理，从感知、决策到执行的完整闭环出发，解析了基于强化学习、规划算法与大模型提示的多种Agent实现路径。作者结合在阿里云的实际项目经验，分享了如何设计Agent的状态机、工具抽象层与安全边界，并讨论了在复杂生产环境中遇到的挑战与对策。文中还对比了ReAct、Plan-and-Execute等主流范式，给出了不同场景下的选型建议。对于希望深入理解Agent内部机制并应用于实际系统的工程师，本文提供了宝贵的工程实践视角。",
+    "topic": "ai"
+  },
+  {
+    "id": "b49292290de7ce7b4e6c060c673a1c8e",
+    "title_en": "从大模型到自主智能：开发者必看的AI Agent 全栈技术指南",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/davidwang456/p/21203269",
+    "published_at": "2026-08-26T19:39:59.816Z",
+    "fetched_at": "2026-08-26T19:39:59.816Z",
+    "title_zh": "从大模型到自主智能：开发者必看的AI Agent 全栈技术指南",
+    "summary_zh": "这是一份面向开发者的AI Agent全栈技术指南，覆盖从底层大模型选型、Prompt Engineering、RAG架构，到上层Agent框架、工具调用与工作流编排的完整技术栈。文章详细拆解了构建一个生产级Agent所需的关键组件，包括记忆管理、规划算法、多模态输入处理及与外部API的集成模式。同时，作者分享了在性能调优、成本控制与可观测性方面的最佳实践，并提供了端到端的项目示例。无论你是前端、后端还是算法工程师，都能从中获得构建自主智能应用的清晰路线图。",
+    "topic": "ai"
+  },
+  {
+    "id": "1ed1e4974fd4727ab0040aeac3a871d8",
+    "title_en": "AI Agent：自主性、反应性与交互性的融合，将颠覆软件行业",
+    "source": "docs.feishu.cn",
+    "url": "https://docs.feishu.cn/article/wiki/Bt1bw7ns7itObLk8LTTcTBh8njf",
+    "published_at": "2026-08-26T19:39:59.816Z",
+    "fetched_at": "2026-08-26T19:39:59.816Z",
+    "title_zh": "AI Agent：自主性、反应性与交互性的融合，将颠覆软件行业",
+    "summary_zh": "本文从行业视角探讨了AI Agent的三大核心特性——自主性、反应性与交互性，并分析了这些特性如何重塑软件的设计、开发与交付模式。作者认为，Agent将推动软件从“被动执行指令”向“主动理解意图”转变，并可能颠覆传统的SaaS与API经济。文章深入讨论了Agent在自动化运维、智能客服、代码生成等领域的潜在应用场景，以及由此带来的架构挑战（如状态管理、安全与治理）。对于关注技术趋势的CTO、架构师与产品经理，本文提供了前瞻性的行业洞察与战略思考。",
+    "topic": "ai"
+  },
+  {
+    "id": "ae56098ba7c68afee6b2dc92528f1c95",
+    "title_en": "NLP大模型快速微调-训推服务-最佳实践 - 天翼云",
+    "source": "ctyun.cn",
+    "url": "https://www.ctyun.cn/document/11060230/11060361",
+    "published_at": "2026-08-26T19:39:59.816Z",
+    "fetched_at": "2026-08-26T19:39:59.816Z",
+    "title_zh": "NLP大模型快速微调-训推服务-最佳实践 - 天翼云",
+    "summary_zh": "本文分享了在天翼云平台上进行NLP大模型快速微调与训推服务部署的最佳实践。内容涵盖数据准备与预处理、LoRA/QLoRA等高效微调技术的选择与应用、超参数调优策略，以及如何利用云上GPU资源加速训练。文章重点介绍了从训练到推理服务的无缝衔接流程，包括模型量化、服务容器化与弹性伸缩配置。针对生产环境中的常见痛点，如显存不足、推理延迟高，作者给出了具体的优化方案。对于希望在云上高效落地大模型应用的团队，这是一份极具操作性的技术指南。",
+    "topic": "ai"
+  },
+  {
+    "id": "92ff00112e650c5cc38af00dccf1f4c0",
+    "title_en": "领域大模型之微调技术和最佳实践 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/chenxyuan1tuo/article/details/139809436",
+    "published_at": "2026-08-26T19:39:59.816Z",
+    "fetched_at": "2026-08-26T19:39:59.816Z",
+    "title_zh": "领域大模型之微调技术和最佳实践 - CSDN博客",
+    "summary_zh": "本文聚焦于领域大模型的微调技术与最佳实践，详细对比了全参数微调、LoRA、Adapter等主流方法的原理、优缺点及适用场景。作者结合具体案例，讲解了如何针对金融、医疗等垂直领域构建高质量的训练数据集，并分享了避免灾难性遗忘、平衡通用能力与领域能力的技巧。文章还涵盖了微调后的模型评估方法、部署注意事项及持续迭代策略。对于希望将通用大模型转化为领域专家的算法工程师，本文提供了从数据到部署的完整实操指南，具有很高的参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "85df0c6e359df5c02b3d0381875ab828",
+    "title_en": "2026 年最佳开源大模型！",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1999590757271618835",
+    "published_at": "2026-08-26T19:39:59.815Z",
+    "fetched_at": "2026-08-26T19:39:59.815Z",
+    "title_zh": "2026 年最佳开源大模型！",
+    "summary_zh": "本文盘点并深入评测了2026年最值得关注的开源大模型，涵盖模型架构创新、训练数据规模、上下文长度、推理性能及开源许可协议等关键维度。文章通过基准测试数据对比了各模型在代码生成、数学推理、多语言理解等任务上的表现，并分析了其生态工具链与部署成本。对于希望在私有环境部署高性能模型的团队，本文提供了实用的选型建议与落地经验，包括量化方案、推理加速技巧及与现有RAG系统的集成方法，是技术决策者与算法工程师的重要参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "ccb32c88b361dd5573e32422b0289238",
+    "title_en": "AI Agent(智能体) 教程",
+    "source": "runoob.com",
+    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
+    "published_at": "2026-08-26T19:39:59.815Z",
+    "fetched_at": "2026-08-26T19:39:59.815Z",
+    "title_zh": "AI Agent（智能体）教程",
+    "summary_zh": "本教程系统性地介绍了AI Agent的核心概念、主流框架（如LangChain、AutoGPT）及开发流程。内容从Agent的基本原理出发，详细讲解了如何设计工具调用、规划任务、管理记忆与多Agent协作机制。教程包含大量可运行的代码示例，覆盖从简单问答到复杂工作流自动化的实战场景。针对开发者常见问题，如上下文管理、错误恢复与性能优化，提供了具体解决方案。无论你是初学者还是有一定经验的开发者，都能从中获得构建可靠、高效AI Agent的实用指导。",
+    "topic": "ai"
+  },
+  {
     "id": "7272150ae636641539d95c5f9400513e",
     "title_en": "网络安全控制实践- 国产操作系统加固措施汇总（202409） - WaveCN.com",
     "source": "wavecn.com",
@@ -2087,116 +2197,6 @@
     "fetched_at": "2026-08-23T06:24:51.999Z",
     "title_zh": "SUSE Linux Enterprise Server for SAP applications 上的内核实时修补",
     "summary_zh": "本文是SUSE官方文档，详细介绍了在SUSE Linux Enterprise Server for SAP applications环境中实施内核实时修补（Live Patching）的方法。文章首先解释了内核实时修补的原理和优势，即在不重启系统的情况下应用安全补丁，从而减少业务中断。随后，提供了详细的配置步骤，包括安装必要的软件包、启用Live Patching服务、以及使用klp工具管理补丁。文档还特别针对SAP应用场景，给出了兼容性说明和最佳实践，确保关键业务的高可用性。适合SAP系统管理员和运维工程师参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "846d9c03c3664f8cd8acd77c48c6c420",
-    "title_en": "Android 操作系统的安全补丁机制 - c13n.club",
-    "source": "c13n.club",
-    "url": "https://c13n.club/blog/2025-12-06/",
-    "published_at": "2026-08-23T06:24:51.999Z",
-    "fetched_at": "2026-08-23T06:24:51.999Z",
-    "title_zh": "Android 操作系统的安全补丁机制 - c13n.club",
-    "summary_zh": "本文深入剖析了Android操作系统的安全补丁机制，从AOSP（Android开源项目）到设备厂商的补丁发布流程。文章详细解释了Android安全公告（ASB）的月度更新节奏、安全补丁级别（SPL）的划分，以及Google Play系统更新（Project Mainline）如何通过模块化方式加速关键组件修复。此外，还探讨了设备厂商在补丁定制和延迟发布中的角色，以及用户如何检查设备的安全补丁级别。文章旨在帮助安全研究人员和普通用户理解Android安全更新的全貌，并提供了验证补丁是否生效的实用方法。",
-    "topic": "security"
-  },
-  {
-    "id": "0061ae3bbf72621905a374a12d276540",
-    "title_en": "如何确定哪些内核补丁级别修复了注释中描述的问题？ - SAP Help Portal",
-    "source": "help.sap.com",
-    "url": "https://help.sap.com/docs/SUPPORT_CONTENT/si/3362959261.html?locale=zh-CN",
-    "published_at": "2026-08-23T06:24:51.999Z",
-    "fetched_at": "2026-08-23T06:24:51.999Z",
-    "title_zh": "如何确定哪些内核补丁级别修复了注释中描述的问题？ - SAP Help Portal",
-    "summary_zh": "本文是SAP官方帮助文档，指导用户如何根据内核补丁级别（Kernel Patch Level）判断特定问题是否已被修复。文章解释了SAP内核补丁的版本命名规则和发布周期，并提供了通过SAP Note、内核参数和系统日志来定位问题修复版本的方法。具体步骤包括：查看当前内核版本、查阅相关SAP Note中标注的修复版本、以及使用内核参数检查工具进行验证。文档还强调了在SAP环境中保持内核补丁更新的重要性，并给出了制定补丁升级计划的建议，帮助系统管理员确保系统稳定与安全。",
-    "topic": "ops"
-  },
-  {
-    "id": "01323fd10ccf020c1c76fc9e00bfa05a",
-    "title_en": "攻击者可提前检测到Linux 内核的补丁并开发exploit - 安全内参",
-    "source": "secrss.com",
-    "url": "https://www.secrss.com/articles/25364",
-    "published_at": "2026-08-23T06:24:51.999Z",
-    "fetched_at": "2026-08-23T06:24:51.999Z",
-    "title_zh": "攻击者可提前检测到Linux内核的补丁并开发exploit - 安全内参",
-    "summary_zh": "本文报道了一项关于Linux内核安全的研究发现：攻击者可以通过分析内核补丁的提交信息，提前检测到未公开的漏洞并开发出利用代码（exploit）。文章解释了攻击者如何利用公开的邮件列表、Git提交记录和二进制差异分析技术，在补丁正式发布前逆向出漏洞细节。这种“补丁提前分析”策略大大缩短了漏洞利用的时间窗口，对安全防御构成严重威胁。文章还讨论了内核社区和发行版厂商在补丁发布流程中的改进措施，以及安全团队如何通过加强监控和快速部署补丁来降低风险。",
-    "topic": "security"
-  },
-  {
-    "id": "ee669e88763fcd9eb7dfe4cd33a2f8c4",
-    "title_en": "《安天技术文章汇编》“Dirty家族”漏洞分析专题分册出刊 - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/2050986221829108262",
-    "published_at": "2026-08-23T06:24:51.999Z",
-    "fetched_at": "2026-08-23T06:24:51.999Z",
-    "title_zh": "《安天技术文章汇编》“Dirty家族”漏洞分析专题分册出刊",
-    "summary_zh": "本专题分册系统汇编了安天针对“Dirty家族”系列内核提权漏洞（如Dirty COW、Dirty Pipe、Dirty Cred等）的深度技术分析。内容涵盖漏洞成因、内核内存管理机制、竞态条件利用原理，以及各漏洞在不同Linux内核版本上的影响范围与检测方法。文章不仅复现了利用链，还提供了基于eBPF和内核模块的缓解与加固方案，并讨论了补丁绕过风险。对于从事系统安全研究、内核开发及运维加固的工程师，本分册提供了从原理到实战的完整参考，有助于提升对内核漏洞的应急响应与防御能力。",
-    "topic": "security"
-  },
-  {
-    "id": "e9aa9eb751dfbf375b02d48b5ced60ac",
-    "title_en": "Common Vulnerabilities and Exposures (CVEs)",
-    "source": "tenable.com",
-    "url": "https://www.tenable.com/cve",
-    "published_at": "2026-08-23T06:24:51.058Z",
-    "fetched_at": "2026-08-23T06:24:51.058Z",
-    "title_zh": "常见漏洞与暴露（CVE）",
-    "summary_zh": "本文由Tenable提供，系统介绍了CVE（Common Vulnerabilities and Exposures）体系的基础知识。文章解释了CVE标识符的结构与分配机制，阐述了CVE在漏洞管理、安全评估和风险优先级排序中的重要作用。内容还涵盖了CVE与CVSS（通用漏洞评分系统）的关系，以及如何利用CVE信息进行有效的漏洞扫描和修复。此外，文章讨论了CVE数据库的局限性，并提供了结合其他威胁情报源进行综合安全分析的实践建议，适合安全运维人员作为入门参考。",
-    "topic": "security"
-  },
-  {
-    "id": "3f5443e510f6bd025652153b67d0ff12",
-    "title_en": "大模型炼丹术：大模型微调总结及实现",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/673789772",
-    "published_at": "2026-08-23T06:24:49.974Z",
-    "fetched_at": "2026-08-23T06:24:49.974Z",
-    "title_zh": "大模型炼丹术：大模型微调总结及实现",
-    "summary_zh": "本文系统总结了大模型微调的核心技术与实践方法，被誉为“炼丹术”指南。内容涵盖全参数微调、LoRA、QLoRA、P-Tuning等主流微调范式，深入解析了各方法的原理、适用场景及超参数调优技巧。文章还分享了数据准备、训练策略、评估指标等关键环节的实战经验，并提供了基于Hugging Face Transformers和PEFT库的完整代码实现。针对微调过程中常见的过拟合、灾难性遗忘等问题，给出了实用的解决方案，适合有一定深度学习基础的开发者参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "3d9c47754a7d6678183d8d937ebf4301",
-    "title_en": "大模型微调实战指南原创",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/2601_96490872/article/details/162732247",
-    "published_at": "2026-08-23T06:24:49.974Z",
-    "fetched_at": "2026-08-23T06:24:49.974Z",
-    "title_zh": "大模型微调实战指南原创",
-    "summary_zh": "本文是一份面向实战的大模型微调指南，从数据准备、模型选择到训练部署提供了端到端的操作流程。文章重点介绍了微调前的数据清洗与格式化方法，以及如何针对不同任务（如文本分类、对话生成）设计合适的训练目标。通过具体案例，详细演示了使用LoRA技术对开源大模型进行高效微调的过程，包括环境配置、参数设置和训练监控。此外，还讨论了微调后模型的评估与优化策略，以及如何将模型集成到实际应用中，是开发者进行大模型定制化开发的有力参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "44f3f18cbba67944c55c6f76193ec02d",
-    "title_en": "大模型微调实战：从原理到落地的完整指南",
-    "source": "developer.volcengine.com",
-    "url": "https://developer.volcengine.com/articles/7605549043544965158",
-    "published_at": "2026-08-23T06:24:49.974Z",
-    "fetched_at": "2026-08-23T06:24:49.974Z",
-    "title_zh": "大模型微调实战：从原理到落地的完整指南",
-    "summary_zh": "本文提供了大模型微调从理论到工程落地的完整指南，兼具深度与实用性。文章首先梳理了微调的基本原理，包括迁移学习、参数高效微调（PEFT）等核心概念，并对比了全量微调与LoRA、Adapter等方法的优劣。随后，通过一个完整的项目案例，详细讲解了数据集的构建、模型加载、训练循环编写、超参数调优以及模型评估的全流程。最后，针对生产环境中的部署问题，介绍了模型量化、推理加速和API封装等关键技术，帮助开发者将微调模型高效落地。",
-    "topic": "ai"
-  },
-  {
-    "id": "475438b777fe3377359fa1c6eda2519a",
-    "title_en": "大模型微调：概念、技术与实践指南",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1941863961088734759",
-    "published_at": "2026-08-23T06:24:49.974Z",
-    "fetched_at": "2026-08-23T06:24:49.974Z",
-    "title_zh": "大模型微调：概念、技术与实践指南",
-    "summary_zh": "本文全面阐述了大模型微调的核心概念、主流技术与实践要点。内容从为什么需要微调出发，解释了微调与预训练、提示工程的区别与联系。技术层面，深入剖析了全参数微调、LoRA、QLoRA、Prefix Tuning等方法的数学原理与实现细节，并给出了不同方法在显存占用、训练速度和效果上的对比数据。实践部分，提供了数据准备、训练脚本编写、模型评估的完整示例，并针对多卡训练、混合精度等工程问题给出了优化建议。适合希望系统掌握大模型微调技术的开发者阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "29cc7d32b8cb5d891f970b2c7d6816ff",
-    "title_en": "Linux常用软件安装与运维的30个实用技巧 - openEuler 社区",
-    "source": "openeuler.csdn.net",
-    "url": "https://openeuler.csdn.net/6a2a79a2662f9a54cb7d2290.html",
-    "published_at": "2026-08-23T06:24:49.974Z",
-    "fetched_at": "2026-08-23T06:24:49.974Z",
-    "title_zh": "Linux常用软件安装与运维的30个实用技巧 - openEuler 社区",
-    "summary_zh": "本文由openEuler社区分享，汇集了Linux系统下常用软件安装与运维的30个实用技巧。内容涵盖软件包管理（yum/dnf/apt）、常用开发工具（Git、Vim、Docker）的快速安装与配置、系统性能监控与调优（top、vmstat、sysctl）以及日志分析和故障排查方法。每个技巧都配有简洁的命令示例和操作说明，旨在帮助运维人员提高日常工作效率。文章还特别强调了在openEuler环境下的兼容性注意事项，是Linux运维实践中的实用速查手册。",
     "topic": "ops"
   }
 ]
