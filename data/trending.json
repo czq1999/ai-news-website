@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-08-26",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：涵盖GPT图像提示词工程、Claude插件市场、AI求职助手、本地优先智能体工作台、多智能体金融交易框架及个人知识管理工具，展现AI应用多元化趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "language": "JavaScript",
+          "stars_total": 17733,
+          "stars_today": 1698,
+          "description_zh": "提示词即代码 | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出技能，持续更新中"
+        },
+        {
+          "rank": 2,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "language": "Python",
+          "stars_total": 35264,
+          "stars_today": 1265,
+          "description_zh": "在你机器上运行的求职工具。基于 Claude Code 构建的 AI 求职应用框架：评估职位、定制简历、撰写求职信、准备面试。分叉它并拥有它。"
+        },
+        {
+          "rank": 3,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description_en": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars_total": 118103,
+          "stars_today": 1181,
+          "description_zh": "在终端中运行的轻量级编码智能体"
+        },
+        {
+          "rank": 4,
+          "name": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "description_en": "Beautiful, Modern & Opinionated Linux",
+          "language": "Shell",
+          "stars_total": 31257,
+          "stars_today": 1083,
+          "description_zh": "美观、现代且固执己见的 Linux"
+        },
+        {
+          "rank": 5,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars_total": 111009,
+          "stars_today": 982,
+          "description_zh": "让你的 AI 智能体像房间里最懒的高级开发人员一样思考。最好的代码是你从未写过的代码。"
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 207201,
+          "stars_today": 830,
+          "description_zh": "一个单一的 CLAUDE.md 文件，用于改进 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
+        },
+        {
+          "rank": 7,
+          "name": "AgriciDaniel/claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "description_en": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+          "language": "Python",
+          "stars_total": 12711,
+          "stars_today": 813,
+          "description_zh": "为 Obsidian + Claude Code 打造的自组织 AI 第二大脑。放入任何来源，Claude 会阅读、链接并将其归档到一个你拥有的纯 Markdown 互联知识图谱中。AI 笔记、个人知识管理（PKM）和开源 Notion 替代品。基于 Karpathy 的 LLM Wiki 模式。"
+        },
+        {
+          "rank": 8,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 48964,
+          "stars_today": 569,
+          "description_zh": "学习它。构建它。为他人交付它。"
+        },
+        {
+          "rank": 9,
+          "name": "apache/maka",
+          "url": "https://github.com/apache/maka",
+          "description_en": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+          "language": "TypeScript",
+          "stars_total": 3328,
+          "stars_today": 543,
+          "description_zh": "Apache Maka（孵化中）是一个本地优先的 AI 智能体工作空间。模型消息、工具调用、工具结果、权限决策和终止事件均以追加式日志记录。"
+        },
+        {
+          "rank": 10,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+          "language": "Rust",
+          "stars_total": 37770,
+          "stars_today": 542,
+          "description_zh": "你的个人 AI 超级智能。一个构建你生活本地优先记忆的大脑，一个智能体集群和工作流的出色编排器，以及一个深度研究员。"
+        },
+        {
+          "rank": 11,
+          "name": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "description_en": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+          "language": "Python",
+          "stars_total": 1746,
+          "stars_today": 351,
+          "description_zh": "Claude Cowork 和 Claude Code 的社区插件市场。只读镜像——请在 clau.de/plugin-directory-submission 提交插件。"
+        },
+        {
+          "rank": 12,
+          "name": "marin-community/marin",
+          "url": "https://github.com/marin-community/marin",
+          "description_en": "Open-source framework for the research and development of foundation models.",
+          "language": "Python",
+          "stars_total": 2101,
+          "stars_today": 231,
+          "description_zh": "用于基础模型研究和开发的开源框架。"
+        },
+        {
+          "rank": 13,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 100245,
+          "stars_today": 218,
+          "description_zh": "TradingAgents：多智能体 LLM 金融交易框架"
+        },
+        {
+          "rank": 14,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description_en": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "language": "Python",
+          "stars_total": 134225,
+          "stars_today": 161,
+          "description_zh": "100+ AI 智能体、智能体技能和 RAG 应用——免费且开源。"
+        },
+        {
+          "rank": 15,
+          "name": "asciimoo/hister",
+          "url": "https://github.com/asciimoo/hister",
+          "description_en": "Your own search engine",
+          "language": "Go",
+          "stars_total": 2773,
+          "stars_today": 98,
+          "description_zh": "你自己的搜索引擎"
+        },
+        {
+          "rank": 16,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 34089,
+          "stars_today": 55,
+          "description_zh": "由 Anthropic 管理的官方高质量 Claude Code 插件目录。"
+        }
+      ]
+    },
+    {
       "date": "2026-08-25",
       "summary_zh": "今日GitHub热门聚焦AI智能体生态：多智能体交易框架、本地优先记忆系统、Claude插件市场及GPT图像提示词工程库，同时涵盖开源学习资源与Linux美化工具。",
       "projects": [
@@ -4481,152 +4647,6 @@
           "stars_total": 5111,
           "stars_today": 17,
           "description_zh": "AI智能体治理工具包——为自主AI智能体提供策略执行、零信任身份、执行沙箱及可靠性工程。覆盖OWASP智能体十大安全风险全部10项。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "summary_zh": "今日GitHub热门项目涵盖蓝牙Mesh聊天、VPN客户端、AI伴侣、终端文件管理器、多平台爬虫、设计语言、金融模型、代码审查工具及自动化服务器，聚焦开源与AI应用。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "permissionlesstech/bitchat",
-          "url": "https://github.com/permissionlesstech/bitchat",
-          "description_en": "bluetooth mesh chat, IRC vibes",
-          "language": "Swift",
-          "stars_total": 32027,
-          "stars_today": 2344,
-          "description_zh": "蓝牙网状网络聊天，IRC风格"
-        },
-        {
-          "rank": 2,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "language": "Go",
-          "stars_total": 14646,
-          "stars_today": 980,
-          "description_zh": "开源且免费——在阿里巴巴规模下经过实战检验。混合架构代码审查工具：确定性流水线 + LLM代理，精确的行级评论，内置微调规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。"
-        },
-        {
-          "rank": 3,
-          "name": "pbakaus/impeccable",
-          "url": "https://github.com/pbakaus/impeccable",
-          "description_en": "The design language that makes your AI harness better at design.",
-          "language": "JavaScript",
-          "stars_total": 51397,
-          "stars_today": 849,
-          "description_zh": "让你的AI在设计中更出色的设计语言。"
-        },
-        {
-          "rank": 4,
-          "name": "yorukot/superfile",
-          "url": "https://github.com/yorukot/superfile",
-          "description_en": "Pretty fancy and modern terminal file manager",
-          "language": "Go",
-          "stars_total": 20785,
-          "stars_today": 600,
-          "description_zh": "漂亮且现代的终端文件管理器"
-        },
-        {
-          "rank": 5,
-          "name": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-          "language": "TypeScript",
-          "stars_total": 43935,
-          "stars_today": 554,
-          "description_zh": "💖🧸 自托管、你拥有的 Grok 伴侣，一个装载 waifu 灵魂的容器，将数字生命带入我们的世界，旨在达到 Neuro-sama 的高度。支持实时语音聊天、Minecraft、Factorio 游戏。支持 Web / macOS / Windows。"
-        },
-        {
-          "rank": 6,
-          "name": "amnezia-vpn/amnezia-client",
-          "url": "https://github.com/amnezia-vpn/amnezia-client",
-          "description_en": "Amnezia VPN Client (Desktop+Mobile)",
-          "language": "C++",
-          "stars_total": 13721,
-          "stars_today": 515,
-          "description_zh": "Amnezia VPN客户端（桌面+移动端）"
-        },
-        {
-          "rank": 7,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 34496,
-          "stars_today": 442,
-          "description_zh": "Kronos：金融市场语言的基础模型"
-        },
-        {
-          "rank": 8,
-          "name": "bradautomates/claude-video",
-          "url": "https://github.com/bradautomates/claude-video",
-          "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-          "language": "Python",
-          "stars_total": 10939,
-          "stars_today": 412,
-          "description_zh": "赋予 Claude 观看任何视频的能力。/watch 命令可下载视频、提取帧、转录文本，并将所有内容交给 Claude 处理。"
-        },
-        {
-          "rank": 9,
-          "name": "NanmiCoder/MediaCrawler",
-          "url": "https://github.com/NanmiCoder/MediaCrawler",
-          "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-          "language": "Python",
-          "stars_total": 58109,
-          "stars_today": 349,
-          "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
-        },
-        {
-          "rank": 10,
-          "name": "mvanhorn/last30days-skill",
-          "url": "https://github.com/mvanhorn/last30days-skill",
-          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-          "language": "Python",
-          "stars_total": 54083,
-          "stars_today": 221,
-          "description_zh": "AI 代理技能，可研究 Reddit、X、YouTube、HN、Polymarket 及网络上的任何话题，然后综合生成一份有依据的摘要。"
-        },
-        {
-          "rank": 11,
-          "name": "jenkinsci/jenkins",
-          "url": "https://github.com/jenkinsci/jenkins",
-          "description_en": "Jenkins automation server",
-          "language": "Java",
-          "stars_total": 25855,
-          "stars_today": 179,
-          "description_zh": "Jenkins自动化服务器"
-        },
-        {
-          "rank": 12,
-          "name": "ocornut/imgui",
-          "url": "https://github.com/ocornut/imgui",
-          "description_en": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-          "language": "C++",
-          "stars_total": 75170,
-          "stars_today": 64,
-          "description_zh": "Dear ImGui：无臃肿的 C++ 图形用户界面，依赖极少。"
-        },
-        {
-          "rank": 13,
-          "name": "apache/cassandra",
-          "url": "https://github.com/apache/cassandra",
-          "description_en": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
-          "language": "Java",
-          "stars_total": 9934,
-          "stars_today": 34,
-          "description_zh": "开源事务型分布式数据库。在商用硬件或云基础设施上实现线性扩展和经过验证的容错性，且不影响性能。"
-        },
-        {
-          "rank": 14,
-          "name": "vudovn/ag-kit",
-          "url": "https://github.com/vudovn/ag-kit",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 7921,
-          "stars_today": 5,
-          "description_zh": "用于构建自主代理的工具包"
         }
       ]
     }
