@@ -1,5 +1,104 @@
 [
   {
+    "id": "846d9c03c3664f8cd8acd77c48c6c420",
+    "title_en": "Android 操作系统的安全补丁机制 - c13n.club",
+    "source": "c13n.club",
+    "url": "https://c13n.club/blog/2025-12-06/",
+    "published_at": "2026-08-27T05:51:54.178Z",
+    "fetched_at": "2026-08-27T05:51:54.178Z",
+    "title_zh": "Android操作系统的安全补丁机制 - c13n.club",
+    "summary_zh": "本文深入解析Android操作系统的安全补丁机制，涵盖月度安全更新（ASB）的发布流程、补丁级别（patch level）的验证方法，以及厂商（OEM）定制系统时的补丁适配策略。文章重点讨论内核漏洞（如CVE）的修复路径，包括GKI（通用内核镜像）如何简化驱动兼容性，以及Project Mainline模块化更新如何覆盖关键组件。同时分析了补丁延迟的原因（如芯片厂商依赖）与缓解措施。对于移动安全工程师，本文提供了理解Android安全维护体系的关键视角，有助于评估设备安全状态并制定合规策略。",
+    "topic": "security"
+  },
+  {
+    "id": "3f7de4b7b7346aa672e55e0c19c17638",
+    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
+    "source": "edu.aliyun.com",
+    "url": "https://edu.aliyun.com/course/314200/",
+    "published_at": "2026-08-27T05:51:52.347Z",
+    "fetched_at": "2026-08-27T05:51:52.347Z",
+    "title_zh": "Linux服务器运维基本操作 - 阿里云认证",
+    "summary_zh": "本文面向Linux服务器运维入门，系统讲解核心操作技能，包括用户与权限管理（chmod/chown）、进程管理（ps/top/kill）、系统服务（systemctl）、日志查看（journalctl）以及磁盘与网络配置。内容结合阿里云ECS实例，演示如何通过SSH密钥登录、配置安全组规则，并介绍常用的性能监控命令（vmstat、iostat）。文章强调运维规范，如定期更新补丁、备份关键配置，适合刚接手云服务器运维的工程师快速建立操作框架，减少因误操作导致的服务中断风险。",
+    "topic": "ops"
+  },
+  {
+    "id": "0cdd9387f4c3ed9dd31d7c598d9a0db8",
+    "title_en": "Linux运维入门教程（  建议收藏  ） 原创 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/younger_china/article/details/125736117",
+    "published_at": "2026-08-27T05:51:52.347Z",
+    "fetched_at": "2026-08-27T05:51:52.347Z",
+    "title_zh": "Linux运维入门教程（建议收藏）原创 - CSDN博客",
+    "summary_zh": "这是一份面向初学者的Linux运维入门教程，内容覆盖文件系统结构、常用命令（grep、awk、sed）、Shell脚本基础、定时任务（cron）以及软件包管理（yum/apt）。文章通过实际案例演示如何编写自动化脚本完成日志清理、服务状态检查等日常任务，并介绍vim编辑器的常用操作。教程还涉及网络配置（ip、ss）与防火墙（firewalld/iptables）的基本使用。对于零基础运维人员，本文提供了循序渐进的学习路径，帮助快速上手并建立系统化的运维知识体系。",
+    "topic": "ops"
+  },
+  {
+    "id": "e539598a85d0871e5ee405b74814d784",
+    "title_en": "Linux运维王者从不离手的10款工具 - dbaplus社群",
+    "source": "dbaplus.cn",
+    "url": "https://dbaplus.cn/news-134-6058-1.html",
+    "published_at": "2026-08-27T05:51:52.347Z",
+    "fetched_at": "2026-08-27T05:51:52.347Z",
+    "title_zh": "Linux运维王者从不离手的10款工具 - dbaplus社群",
+    "summary_zh": "文章推荐10款Linux运维专家常用的高效工具，涵盖监控（htop、glances）、日志分析（lnav、jq）、网络诊断（tcpdump、mtr）、性能剖析（perf、strace）以及自动化（Ansible、tmux）。每款工具均介绍核心功能、典型使用场景及命令行示例，例如使用jq解析JSON日志、通过strace定位系统调用瓶颈。文章强调工具组合使用的重要性，如结合tmux与htop实现多会话监控。对于希望提升运维效率的工程师，这份清单提供了实用的工具箱，能显著加速故障排查与日常管理流程。",
+    "topic": "ops"
+  },
+  {
+    "id": "f51d9293f9b8b01b47408d60851a7e59",
+    "title_en": "如何高效管理Linux 服务器：自动化与脚本技巧 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1930634608694765305",
+    "published_at": "2026-08-27T05:51:52.347Z",
+    "fetched_at": "2026-08-27T05:51:52.347Z",
+    "title_zh": "如何高效管理Linux服务器：自动化与脚本技巧 - 知乎专栏",
+    "summary_zh": "本文聚焦Linux服务器的高效管理，重点介绍自动化运维与脚本编写技巧。内容包括使用Bash脚本批量处理用户创建、配置同步，利用cron实现定时备份与健康检查，以及通过expect或sshpass实现免交互登录。文章还探讨了配置管理工具（如Ansible）的入门用法，对比脚本与配置管理在不同规模环境下的优劣。此外，分享了日志轮转、磁盘空间预警等实用脚本片段。对于运维工程师，本文提供了从手工操作向自动化过渡的实战指南，有助于降低重复劳动并提升系统稳定性。",
+    "topic": "ops"
+  },
+  {
+    "id": "cfb01138adc7d5a2c48af4c9c14c4d55",
+    "title_en": "【2025版】最全面的大模型微调（Fine-Tuning）实践经验总结",
+    "source": "adg.csdn.net",
+    "url": "https://adg.csdn.net/695246665b9f5f31781b523b.html",
+    "published_at": "2026-08-27T05:51:52.346Z",
+    "fetched_at": "2026-08-27T05:51:52.346Z",
+    "title_zh": "【2025版】最全面的大模型微调（Fine-Tuning）实践经验总结",
+    "summary_zh": "本文系统总结2025年大模型微调（Fine-Tuning）的工程实践经验，覆盖数据准备、参数高效微调（PEFT）、全参微调、评估与部署全流程。重点对比LoRA、QLoRA、Prefix-Tuning等方法的适用场景与显存占用，并给出数据清洗、去重、指令格式化的具体建议。文章还讨论了灾难性遗忘的缓解策略，以及如何通过混合精度训练与梯度累积提升训练稳定性。对于从事垂直领域模型定制（如法律、医疗）的工程师，本文提供了可落地的调参指南与常见坑点规避方案。",
+    "topic": "ai"
+  },
+  {
+    "id": "19a7bc2bbb0064aeab3e035fd4b75f62",
+    "title_en": "2026年大模型在强化学习、上下文工程等方面将取得更多突破",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20260205A01OWA00",
+    "published_at": "2026-08-27T05:51:52.345Z",
+    "fetched_at": "2026-08-27T05:51:52.345Z",
+    "title_zh": "2026年大模型在强化学习、上下文工程等方面将取得更多突破",
+    "summary_zh": "本文展望2026年大模型技术发展趋势，重点聚焦强化学习（RL）与上下文工程（Context Engineering）两大方向。文章指出，随着RLHF向更复杂的RLVR（强化学习验证与推理）演进，模型将具备更强的自主决策与推理能力；同时，上下文工程通过动态上下文压缩、检索增强与结构化提示设计，将显著提升长序列任务的处理效率与准确性。对于AI工程师而言，理解这些技术演进路径，有助于提前布局模型选型与系统架构设计，尤其在Agent、RAG等复杂应用场景中，结合RL与上下文优化的协同策略将成为提升模型实用性的关键。",
+    "topic": "ai"
+  },
+  {
+    "id": "c1bcb882cd48c35e304f84764317b55a",
+    "title_en": "2026 上半年大模型盘点：前六全是国产，Claude 掉到了第七",
+    "source": "my.oschina.net",
+    "url": "https://my.oschina.net/u/9487999/blog/19718096",
+    "published_at": "2026-08-27T05:51:52.345Z",
+    "fetched_at": "2026-08-27T05:51:52.345Z",
+    "title_zh": "2026上半年大模型盘点：前六全是国产，Claude掉到第七",
+    "summary_zh": "文章对2026年上半年主流大模型进行综合评测排名，结果显示国产模型包揽前六名，而此前领先的Claude跌至第七。评测维度涵盖推理能力、代码生成、多模态理解、中文语境适配及推理成本等。分析指出，国产模型在工程优化（如MoE架构、量化推理）与数据质量上的投入，使其在综合性价比上反超海外竞品。对于技术选型团队，该排名提供了重要参考，但需结合具体业务场景（如代码补全、客服对话）进行二次验证，避免盲目追求榜单名次。",
+    "topic": "ai"
+  },
+  {
+    "id": "1d9ada4d74aba54520347b971e506582",
+    "title_en": "AI Agent开发教程：9. Agent框架原创 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/libra1313/article/details/159004877",
+    "published_at": "2026-08-27T05:51:52.345Z",
+    "fetched_at": "2026-08-27T05:51:52.345Z",
+    "title_zh": "AI Agent开发教程：9. Agent框架原创 - CSDN博客",
+    "summary_zh": "本教程为AI Agent开发系列第九篇，原创讲解Agent框架的设计与实现。内容涵盖Agent核心组件（规划器、记忆模块、工具调用接口）的抽象方法，以及如何通过状态机或事件驱动机制管理多步任务流程。文章重点演示了如何将LLM与外部API、数据库无缝集成，并讨论错误处理与重试策略。对于希望从零构建自定义Agent的开发者，本文提供了清晰的架构蓝图与代码示例，帮助理解Agent框架与RAG、工具链的协同工作方式，避免直接依赖重型框架带来的灵活性损失。",
+    "topic": "ai"
+  },
+  {
     "id": "f9e42301f510acdb4dbd5d06d7609c5e",
     "title_en": "OpsAny - AI原生运维管理平台",
     "source": "opsany.com",
@@ -2099,104 +2198,5 @@
     "title_zh": "2026年AI大爆发：7大模型混战，DeepSeek杀疯了_人工智能",
     "summary_zh": "本文回顾了2026年AI领域的激烈竞争，重点分析了七大主流大模型的性能对比与市场格局。文章深入探讨了DeepSeek在技术突破、成本控制和开源生态方面的优势，并对其在推理能力、多模态处理等关键指标上的表现进行了详细评测。对于关注大模型选型和AI技术趋势的开发者，本文提供了有价值的参考数据和行业洞察。",
     "topic": "ai"
-  },
-  {
-    "id": "150ed4f8b546367932a3bfe75cf149b8",
-    "title_en": "datawhalechina/hello-agents: 《从零开始构建智能体》 - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "published_at": "2026-08-23T12:20:58.641Z",
-    "fetched_at": "2026-08-23T12:20:58.641Z",
-    "title_zh": "datawhalechina/hello-agents: 《从零开始构建智能体》 - GitHub",
-    "summary_zh": "该项目是Datawhale社区推出的开源教程，旨在帮助开发者从零基础开始构建AI Agent。教程内容涵盖Agent的核心概念、常用框架（如LangChain、AutoGen）、工具调用、记忆机制以及多Agent协作等关键主题。通过丰富的代码示例和实战项目，读者可以快速掌握构建智能体的完整流程，适合希望系统学习Agent开发的初学者和进阶开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "0ee3f5d8e9388b05d98cb39c41fead2d",
-    "title_en": "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版 ...",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1xwVr6FEh4/",
-    "published_at": "2026-08-23T12:20:58.641Z",
-    "fetched_at": "2026-08-23T12:20:58.641Z",
-    "title_zh": "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026最新版 ...",
-    "summary_zh": "这是一套B站上极为全面的AI Agent开发零基础视频教程，共748集，覆盖从环境搭建、Python基础到主流Agent框架（如LangChain、LlamaIndex）的深度应用。教程以实战为导向，详细讲解了Prompt工程、RAG、工具调用、多模态Agent等核心技能，并提供了大量可运行的代码案例。适合希望系统学习Agent开发、提升实战能力的开发者。",
-    "topic": "ai"
-  },
-  {
-    "id": "2c7d095d76ecd434e29b904436bee366",
-    "title_en": "完整教程：多智能体框架调研：10个主流AI Agent 框架 - 博客园",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/yangykaifa/p/19593416",
-    "published_at": "2026-08-23T12:20:58.641Z",
-    "fetched_at": "2026-08-23T12:20:58.641Z",
-    "title_zh": "完整教程：多智能体框架调研：10个主流AI Agent 框架 - 博客园",
-    "summary_zh": "本文对当前主流的10个AI Agent框架进行了系统性调研和对比，包括AutoGen、MetaGPT、CrewAI、LangGraph等。文章从框架的设计理念、核心特性、适用场景、易用性、扩展性以及社区活跃度等多个维度进行了深入分析，并给出了选型建议。对于正在规划多智能体系统架构的开发者，这是一份非常实用的参考指南。",
-    "topic": "ai"
-  },
-  {
-    "id": "266de8134f82128e7ec49e2900dc0cbe",
-    "title_en": "AI Agent入门教程：大模型智能体开发指南(含代码) - ModelEngine社区",
-    "source": "modelengine.csdn.net",
-    "url": "https://modelengine.csdn.net/690b1f695511483559e279bd.html",
-    "published_at": "2026-08-23T12:20:58.641Z",
-    "fetched_at": "2026-08-23T12:20:58.641Z",
-    "title_zh": "AI Agent入门教程：大模型智能体开发指南(含代码) - ModelEngine社区",
-    "summary_zh": "本教程由ModelEngine社区发布，面向AI Agent入门开发者，提供了从理论到实践的完整指南。内容涵盖Agent的基本原理、大模型API调用、Prompt设计、工具集成以及如何构建一个简单的对话式Agent。教程包含大量可运行的代码示例，帮助读者快速上手。对于希望了解Agent开发全流程的初学者，是一份不错的入门材料。",
-    "topic": "ai"
-  },
-  {
-    "id": "cf99bc45164c194134199624664a5743",
-    "title_en": "Agentic AI 基础设施实践系列一：Agent 应用开发 - AWS",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/cn/blogs/china/agentive-ai-infrastructure-practice-series-1/",
-    "published_at": "2026-08-23T12:20:58.641Z",
-    "fetched_at": "2026-08-23T12:20:58.641Z",
-    "title_zh": "Agentic AI 基础设施实践系列一：Agent 应用开发 - AWS",
-    "summary_zh": "本文是AWS关于Agentic AI基础设施实践系列的第一篇，聚焦于Agent应用开发。文章详细介绍了在AWS云平台上构建和部署Agent应用的最佳实践，包括使用Amazon Bedrock、Lambda、Step Functions等服务来编排Agent工作流、管理状态和处理工具调用。内容涵盖架构设计、安全性和可观测性等关键方面，为在云上落地Agent应用提供了实用的参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "5655134c0dd7af0aebf50d2941bac36d",
-    "title_en": "[PDF] 一种面向开源软件漏洞的补丁查找与解析方法",
-    "source": "shcas.net",
-    "url": "https://www.shcas.net/cn/article/pdf/preview/10.3969/j.issn.1000x.386x.2025.04.001.pdf",
-    "published_at": "2026-08-23T06:24:51.999Z",
-    "fetched_at": "2026-08-23T06:24:51.999Z",
-    "title_zh": "PDF 一种面向开源软件漏洞的补丁查找与解析方法",
-    "summary_zh": "本文提出了一种面向开源软件漏洞的补丁查找与解析方法，旨在解决漏洞修复过程中的关键难题。文章分析了当前开源软件漏洞管理中补丁定位困难、信息分散等问题，设计了一种自动化方法，通过分析漏洞描述、代码提交记录和版本差异，从海量代码中精准定位相关补丁。该方法还包含补丁解析模块，能够提取补丁的修改内容、影响范围和修复效果。实验结果表明，该方法在多个真实漏洞案例上具有较高的准确率和召回率，为安全研究人员和运维人员提供了高效的工具支持。",
-    "topic": "security"
-  },
-  {
-    "id": "70919fc80714e4870dddefc03cb8223c",
-    "title_en": "Android 安全公告- 2026 年3 月",
-    "source": "source.android.com",
-    "url": "https://source.android.com/docs/security/bulletin/2026/2026-03-01?hl=zh-cn",
-    "published_at": "2026-08-23T06:24:51.999Z",
-    "fetched_at": "2026-08-23T06:24:51.999Z",
-    "title_zh": "Android 安全公告 - 2026年3月",
-    "summary_zh": "本文是Android官方发布的2026年3月安全公告，详细列出了本月修复的多个安全漏洞。公告按照严重程度（严重、高危、中危）分类，涵盖了框架、系统、媒体框架、内核等多个组件。每个漏洞均提供了CVE编号、影响范围、漏洞描述以及修复版本信息。文章特别强调了其中几个可导致远程代码执行或权限提升的严重漏洞，并建议用户尽快更新至最新的安全补丁级别。此外，公告还提供了Pixel设备等特定机型的安全更新说明，是Android安全维护的重要参考。",
-    "topic": "security"
-  },
-  {
-    "id": "7f8af9f93230b33f8d2202208957078b",
-    "title_en": "关于CPU处理器内核存在Meltdown和Spectre漏洞的安全公告（第三版）",
-    "source": "nic.ecut.edu.cn",
-    "url": "https://nic.ecut.edu.cn/c5/de/c4909a50654/page.htm",
-    "published_at": "2026-08-23T06:24:51.999Z",
-    "fetched_at": "2026-08-23T06:24:51.999Z",
-    "title_zh": "关于CPU处理器内核存在Meltdown和Spectre漏洞的安全公告（第三版）",
-    "summary_zh": "本文是关于CPU处理器内核Meltdown和Spectre漏洞的第三版安全公告，由高校网络中心发布。公告详细回顾了Meltdown（CVE-2017-5754）和Spectre（CVE-2017-5753、CVE-2017-5715）漏洞的技术原理、影响范围及潜在风险。与前两版相比，本版更新了最新的漏洞研究进展和补丁状态，并针对不同操作系统（Linux、Windows）和CPU架构给出了具体的缓解措施和验证方法。文章还强调了漏洞修复可能带来的性能影响，并提供了性能调优建议，帮助系统管理员在安全与性能之间做出权衡。",
-    "topic": "security"
-  },
-  {
-    "id": "bed796075b1ffd440c4ffa85d3743ea7",
-    "title_en": "SUSE Linux Enterprise Server for SAP applications 上的内核实时修补",
-    "source": "documentation.suse.com",
-    "url": "https://documentation.suse.com/zh-cn/sles-sap/16.0/html/SAP-klp/",
-    "published_at": "2026-08-23T06:24:51.999Z",
-    "fetched_at": "2026-08-23T06:24:51.999Z",
-    "title_zh": "SUSE Linux Enterprise Server for SAP applications 上的内核实时修补",
-    "summary_zh": "本文是SUSE官方文档，详细介绍了在SUSE Linux Enterprise Server for SAP applications环境中实施内核实时修补（Live Patching）的方法。文章首先解释了内核实时修补的原理和优势，即在不重启系统的情况下应用安全补丁，从而减少业务中断。随后，提供了详细的配置步骤，包括安装必要的软件包、启用Live Patching服务、以及使用klp工具管理补丁。文档还特别针对SAP应用场景，给出了兼容性说明和最佳实践，确保关键业务的高可用性。适合SAP系统管理员和运维工程师参考。",
-    "topic": "ops"
   }
 ]

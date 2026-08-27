@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-08-27",
+      "summary_zh": "今日GitHub热门聚焦AI工具链：架构图生成、GPT图像提示词工程、Claude插件生态、免费AI编程、智能求职、Obsidian知识管理、个人AI大脑及Linux美化系统，涵盖开发提效与个人生产力。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "language": "JavaScript",
+          "stars_total": 21906,
+          "stars_today": 4050,
+          "description_zh": "提示词即代码 | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+        },
+        {
+          "rank": 2,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars_total": 112945,
+          "stars_today": 1598,
+          "description_zh": "让你的AI智能体像房间里最懒的高级开发人员一样思考。最好的代码是你从未写过的代码。"
+        },
+        {
+          "rank": 3,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "language": "Python",
+          "stars_total": 36699,
+          "stars_today": 1300,
+          "description_zh": "在你机器上运行的求职工具。基于Claude Code的AI求职申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉它并拥有它。"
+        },
+        {
+          "rank": 4,
+          "name": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "language": "HTML",
+          "stars_total": 19045,
+          "stars_today": 1035,
+          "description_zh": "用于创建美观、可验证的架构、工作流、序列、数据流和生命周期图的智能体技能——自包含HTML，支持动态效果和清晰导出。"
+        },
+        {
+          "rank": 5,
+          "name": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "description_en": "Beautiful, Modern & Opinionated Linux",
+          "language": "Shell",
+          "stars_total": 32163,
+          "stars_today": 1024,
+          "description_zh": "美观、现代且固执己见的Linux发行版"
+        },
+        {
+          "rank": 6,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 49711,
+          "stars_today": 838,
+          "description_zh": "学习它。构建它。为他人发布它。"
+        },
+        {
+          "rank": 7,
+          "name": "AgriciDaniel/claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "description_en": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+          "language": "Python",
+          "stars_total": 13559,
+          "stars_today": 810,
+          "description_zh": "为Obsidian和Claude Code打造的自组织AI第二大脑。放入任何来源，Claude会阅读、链接并归档到一个你拥有的纯Markdown互联知识图谱中。AI笔记、个人知识管理（PKM）和开源Notion替代品。基于Karpathy的LLM Wiki模式。"
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "description_en": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+          "language": "Python",
+          "stars_total": 2263,
+          "stars_today": 538,
+          "description_zh": "Claude Cowork和Claude Code的社区插件市场。只读镜像——在clau.de/plugin-directory-submission提交插件。"
+        },
+        {
+          "rank": 9,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description_en": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+          "language": "Python",
+          "stars_total": 50530,
+          "stars_today": 536,
+          "description_zh": "从终端、应用、IDE或手机免费使用Claude Code、Codex、Pi和OpenCode（免费令牌超过13亿），支持语音且符合服务条款，类似OpenClaw。"
+        },
+        {
+          "rank": 10,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description_en": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+          "language": "Rust",
+          "stars_total": 38318,
+          "stars_today": 525,
+          "description_zh": "你的个人AI超级智能。一个构建你生活本地优先记忆的大脑，一个出色的智能体舰队和工作流编排器，以及一个深度研究员。"
+        },
+        {
+          "rank": 11,
+          "name": "marin-community/marin",
+          "url": "https://github.com/marin-community/marin",
+          "description_en": "Open-source framework for the research and development of foundation models.",
+          "language": "Python",
+          "stars_total": 2522,
+          "stars_today": 441,
+          "description_zh": "用于基础模型研究和开发的开源框架。"
+        },
+        {
+          "rank": 12,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 34425,
+          "stars_today": 308,
+          "description_zh": "由Anthropic管理的官方高质量Claude Code插件目录。"
+        },
+        {
+          "rank": 13,
+          "name": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description_en": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+          "language": "",
+          "stars_total": 32745,
+          "stars_today": 242,
+          "description_zh": "精心策划的1000+智能体技能集合，来自官方开发团队和社区，兼容Claude Code、Codex、Gemini CLI、Cursor等。"
+        },
+        {
+          "rank": 14,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description_en": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars_total": 111169,
+          "stars_today": 149,
+          "description_zh": "🌐 让网站对AI智能体可访问。轻松在线自动化任务。"
+        },
+        {
+          "rank": 15,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "language": "Python",
+          "stars_total": 34848,
+          "stars_today": 138,
+          "description_zh": "将任何AI智能体变成AI科学家。全球175,000+科学家使用的第一科学Agent Skills库。163个即用型验证技能，加上100+个科学数据库，涵盖生物学、化学、医学和药物发现。兼容Cursor、Claude Code、Codex、Pi、Antigravity和开放Agent Skills标准。"
+        },
+        {
+          "rank": 16,
+          "name": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "description_en": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+          "language": "CSS",
+          "stars_total": 11021,
+          "stars_today": 113,
+          "description_zh": "ConardLi的开源Skills集合，涵盖网页设计、知识检索、图像生成等。"
+        }
+      ]
+    },
+    {
       "date": "2026-08-26",
       "summary_zh": "今日GitHub热门聚焦AI工具链：架构图生成、GPT图像提示词工程、Claude插件生态、免费AI编程、智能求职、知识库管理，以及AI工程学习资源，展现AI开发全流程提效趋势。",
       "projects": [
@@ -4521,132 +4687,6 @@
           "stars_total": 7116,
           "stars_today": 13,
           "description_zh": "通过逆向工程私有API在苹果神经网络引擎上训练神经网络"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "summary_zh": "今日GitHub趋势聚焦AI代理治理、开源语音交互、3D建筑创作及量化交易工具，Jenkins持续领跑自动化运维，多模态AI与地理空间平台成亮点。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "bradautomates/claude-video",
-          "url": "https://github.com/bradautomates/claude-video",
-          "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-          "language": "Python",
-          "stars_total": 11918,
-          "stars_today": 989,
-          "description_zh": "赋予 Claude 观看任何视频的能力。/watch 下载、提取帧、转录，并将所有内容交给 Claude。"
-        },
-        {
-          "rank": 2,
-          "name": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-          "language": "TypeScript",
-          "stars_total": 44679,
-          "stars_today": 796,
-          "description_zh": "💖🧸 自托管、你拥有的 Grok 伴侣，一个容纳虚拟角色灵魂的容器，将数字生命带入我们的世界，旨在达到 Neuro-sama 的高度。支持实时语音聊天、Minecraft、Factorio 游戏。支持 Web / macOS / Windows。"
-        },
-        {
-          "rank": 3,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 234664,
-          "stars_today": 692,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发支持。"
-        },
-        {
-          "rank": 4,
-          "name": "yorukot/superfile",
-          "url": "https://github.com/yorukot/superfile",
-          "description_en": "Pretty fancy and modern terminal file manager",
-          "language": "Go",
-          "stars_total": 21363,
-          "stars_today": 660,
-          "description_zh": "相当花哨且现代的终端文件管理器"
-        },
-        {
-          "rank": 5,
-          "name": "opengeos/GeoLibre",
-          "url": "https://github.com/opengeos/GeoLibre",
-          "description_en": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-          "language": "TypeScript",
-          "stars_total": 3277,
-          "stars_today": 420,
-          "description_zh": "轻量级、云原生的 GIS 平台，用于可视化、探索和分析地理空间数据。可在网页浏览器、桌面端、移动端以及 Jupyter 笔记本中运行。"
-        },
-        {
-          "rank": 6,
-          "name": "pascalorg/editor",
-          "url": "https://github.com/pascalorg/editor",
-          "description_en": "Create and share 3D architectural projects.",
-          "language": "TypeScript",
-          "stars_total": 18534,
-          "stars_today": 415,
-          "description_zh": "创建并分享3D建筑项目。"
-        },
-        {
-          "rank": 7,
-          "name": "paperswithbacktest/awesome-systematic-trading",
-          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-          "description_en": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-          "language": "Python",
-          "stars_total": 9455,
-          "stars_today": 402,
-          "description_zh": "精选的系统化交易库、策略、书籍、博客、教程资源列表。"
-        },
-        {
-          "rank": 8,
-          "name": "virgiliojr94/book-to-skill",
-          "url": "https://github.com/virgiliojr94/book-to-skill",
-          "description_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-          "language": "Python",
-          "stars_total": 11114,
-          "stars_today": 366,
-          "description_zh": "将任何技术书籍PDF转化为Claude Code技能——随时学习、参考并在工作中使用。"
-        },
-        {
-          "rank": 9,
-          "name": "jenkinsci/jenkins",
-          "url": "https://github.com/jenkinsci/jenkins",
-          "description_en": "Jenkins automation server",
-          "language": "Java",
-          "stars_total": 26037,
-          "stars_today": 180,
-          "description_zh": "Jenkins 自动化服务器"
-        },
-        {
-          "rank": 10,
-          "name": "huggingface/speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "description_en": "Build local voice agents with open-source models",
-          "language": "Python",
-          "stars_total": 7076,
-          "stars_today": 177,
-          "description_zh": "使用开源模型构建本地语音智能体"
-        },
-        {
-          "rank": 11,
-          "name": "andrewyng/aisuite",
-          "url": "https://github.com/andrewyng/aisuite",
-          "description_en": "Simple, unified interface to multiple Generative AI providers",
-          "language": "Python",
-          "stars_total": 15642,
-          "stars_today": 92,
-          "description_zh": "面向多个生成式AI提供商的简单统一接口"
-        },
-        {
-          "rank": 12,
-          "name": "microsoft/agent-governance-toolkit",
-          "url": "https://github.com/microsoft/agent-governance-toolkit",
-          "description_en": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-          "language": "Python",
-          "stars_total": 5111,
-          "stars_today": 17,
-          "description_zh": "AI智能体治理工具包——为自主AI智能体提供策略执行、零信任身份、执行沙箱及可靠性工程。覆盖OWASP智能体十大安全风险全部10项。"
         }
       ]
     }
