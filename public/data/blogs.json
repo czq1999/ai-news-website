@@ -1,5 +1,137 @@
 [
   {
+    "id": "7cc1753b0adb8e4f8f3e9e8c8c0de68c",
+    "title_en": "确保Android 长期安全的制造商指南",
+    "source": "source.android.com",
+    "url": "https://source.android.com/docs/automotive/security/mfg_guide?hl=zh-cn",
+    "published_at": "2026-08-28T01:56:38.559Z",
+    "fetched_at": "2026-08-28T01:56:38.559Z",
+    "title_zh": "确保Android长期安全的制造商指南",
+    "summary_zh": "本文是Android官方发布的一份面向设备制造商的长期安全指南，旨在帮助厂商构建和维护安全的Android设备。文章详细阐述了从硬件安全基础（如Trusted Execution Environment）、系统启动验证（Verified Boot）、安全更新机制（如Project Treble、Mainline）到应用沙箱与权限模型等关键安全组件。作者强调了持续安全维护的重要性，并提供了关于安全补丁发布、漏洞响应流程以及生命周期管理的具体建议。对于Android生态的开发者与安全工程师，这是一份权威的参考文档。",
+    "topic": "security"
+  },
+  {
+    "id": "25993cd969b51e303ed3d79745d3cccf",
+    "title_en": "针对Intel处理器芯片存在的Meltdown和Spectre安全漏洞，应该如何规避？",
+    "source": "support.huaweicloud.com",
+    "url": "https://support.huaweicloud.com/ecs_faq/ecs_faq_0714.html",
+    "published_at": "2026-08-28T01:56:38.559Z",
+    "fetched_at": "2026-08-28T01:56:38.560Z",
+    "title_zh": "针对Intel处理器芯片存在的Meltdown和Spectre安全漏洞，应该如何规避？",
+    "summary_zh": "本文针对Intel处理器中著名的Meltdown和Spectre漏洞，提供了系统性的规避与缓解方案。文章首先解释了这两种侧信道攻击的原理及其潜在影响，然后详细介绍了不同层面的防护措施，包括操作系统内核补丁（KPTI）、微码更新、浏览器隔离以及云服务商的应对策略。作者还讨论了这些缓解措施对系统性能的潜在影响，并给出了在安全性与性能之间权衡的建议。对于系统管理员和安全从业者，这是一份应对CPU漏洞的实用指南。",
+    "topic": "security"
+  },
+  {
+    "id": "b3323bf93e443c29d373aa9a0900d1b0",
+    "title_en": "Docker性能优化：让容器跑得更快 - 腾讯云开发者社区",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2595679",
+    "published_at": "2026-08-28T01:56:37.833Z",
+    "fetched_at": "2026-08-28T01:56:37.833Z",
+    "title_zh": "Docker性能优化：让容器跑得更快",
+    "summary_zh": "本文聚焦于Docker容器的性能优化，旨在帮助开发者提升容器化应用的运行效率。文章从镜像构建优化（如多阶段构建、减少层数）、存储驱动选择、网络模式配置、资源限制（CPU、内存）设置等多个维度展开，提供了具体的优化策略和命令示例。作者还分析了常见性能瓶颈（如I/O、网络延迟）并给出了诊断工具（如docker stats、perf）的使用方法。对于正在生产环境中使用Docker的团队，本文提供了切实可行的调优指南。",
+    "topic": "ops"
+  },
+  {
+    "id": "35b367f1e5af0d2ce7c9e85ebe72d8ba",
+    "title_en": "安全加固 - 宝通测评",
+    "source": "hnbtcp.com",
+    "url": "http://www.hnbtcp.com/aqfw/aqjg/",
+    "published_at": "2026-08-28T01:56:37.833Z",
+    "fetched_at": "2026-08-28T01:56:37.833Z",
+    "title_zh": "安全加固 - 宝通测评",
+    "summary_zh": "本文介绍了信息系统安全加固的基本概念、流程与常用技术手段。内容涵盖操作系统加固（账户策略、补丁管理、服务最小化）、网络设备加固（访问控制、防火墙规则）、数据库加固（权限管理、审计）以及应用安全配置。文章强调了安全加固在等保合规中的重要性，并提供了从资产梳理、风险评估到加固实施与验证的完整方法论。对于负责系统安全运维的工程师，本文是一份实用的操作指南，有助于提升系统的整体安全防护能力。",
+    "topic": "security"
+  },
+  {
+    "id": "d769be445c30a574fa4f79163ea1f8bf",
+    "title_en": "AI Agent开发路线图2025：从入门到精通，一文读懂智能体技术",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1985379253525697644",
+    "published_at": "2026-08-28T01:56:36.553Z",
+    "fetched_at": "2026-08-28T01:56:36.553Z",
+    "title_zh": "AI Agent开发路线图2025：从入门到精通，一文读懂智能体技术",
+    "summary_zh": "本文是一份全面的AI Agent开发路线图，为不同阶段的开发者提供了清晰的学习路径。内容覆盖了从基础概念（如LLM、Prompt、RAG）到高级主题（如多Agent系统、自主决策、记忆网络）的完整知识体系。作者结合2025年的技术趋势，对比了主流框架（LangChain、AutoGen、CrewAI）的优缺点，并给出了针对不同应用场景的选型建议。文章还梳理了Agent评估、安全与伦理等关键议题，是开发者规划技能树和项目方向的宝贵参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "81b836fb6f0f97213fdae27a0c5f2e6f",
+    "title_en": "垂直领域大模型微调实践经验最全总结 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/694044473",
+    "published_at": "2026-08-28T01:56:36.553Z",
+    "fetched_at": "2026-08-28T01:56:36.553Z",
+    "title_zh": "垂直领域大模型微调实践经验最全总结",
+    "summary_zh": "本文是知乎专栏上关于垂直领域大模型微调实践的经验总结，内容详实且极具实战价值。作者分享了在金融、医疗等垂直行业中微调LLM的完整流程，包括数据准备、基座模型选择、微调方法（LoRA、QLoRA、全参数微调）的对比与选型、超参数调优技巧以及评估策略。文章特别强调了数据质量与多样性对微调效果的决定性影响，并提供了处理标注数据不足、灾难性遗忘等问题的解决方案。对于从事行业大模型落地的工程师，这是一份不可多得的经验手册。",
+    "topic": "ai"
+  },
+  {
+    "id": "683f011da98924c8b06c88c93a6c21ff",
+    "title_en": "深入探究Linux服务器：从基础到高级运维 - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2333928",
+    "published_at": "2026-08-28T01:56:36.553Z",
+    "fetched_at": "2026-08-28T01:56:36.553Z",
+    "title_zh": "深入探究Linux服务器：从基础到高级运维",
+    "summary_zh": "本文是腾讯云发布的一篇系统性Linux服务器运维指南，内容覆盖从基础命令到高级系统调优的完整知识体系。文章深入讲解了Linux文件系统、进程管理、网络配置、Shell脚本等核心基础，并进阶到性能监控（如top、vmstat、iostat）、日志分析、内核参数优化以及常见故障排查技巧。作者结合腾讯云的实际运维经验，提供了大量实用的命令示例和最佳实践，旨在帮助运维工程师构建扎实的Linux功底，提升服务器稳定性与性能。",
+    "topic": "ops"
+  },
+  {
+    "id": "4ffb0bb4b8725e41715dfa0ab9608345",
+    "title_en": "linux运维需要什么技能",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/19668592352",
+    "published_at": "2026-08-28T01:56:36.553Z",
+    "fetched_at": "2026-08-28T01:56:36.553Z",
+    "title_zh": "Linux运维需要什么技能",
+    "summary_zh": "本文探讨了成为一名合格Linux运维工程师所需的核心技能体系。内容涵盖操作系统基础（文件系统、权限、进程）、网络知识（TCP/IP、DNS、防火墙）、Shell/Python脚本编程、常用服务部署（Nginx、MySQL、Redis）以及监控与日志管理工具。文章还强调了自动化运维（Ansible、SaltStack）、容器化（Docker、Kubernetes）和云平台（AWS、阿里云）等现代运维必备技能。作者结合行业需求，为运维人员提供了清晰的技能树和职业发展建议，是入门与进阶的实用参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "8f19acb28c8910eac63efc38d92842f5",
+    "title_en": "mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
+    "source": "github.com",
+    "url": "https://github.com/mingongge/BestSRE",
+    "published_at": "2026-08-28T01:56:36.553Z",
+    "fetched_at": "2026-08-28T01:56:36.553Z",
+    "title_zh": "mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
+    "summary_zh": "这是一个GitHub上广受欢迎的开源项目，旨在为Linux运维/SRE工程师提供一条系统化的技能进阶路线。项目整理了从初级运维到高级SRE所需的知识点，包括Linux基础、网络、数据库、中间件、监控、自动化、容器与云原生技术等。仓库中包含了丰富的学习资源链接、实战项目建议和面试题，帮助工程师按图索骥地提升技能。该项目的价值在于其社区维护的全面性和实用性，是运维从业者自我提升的宝贵知识库。",
+    "topic": "ops"
+  },
+  {
+    "id": "cf99bc45164c194134199624664a5743",
+    "title_en": "Agentic AI 基础设施实践系列一：Agent 应用开发",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/agentive-ai-infrastructure-practice-series-1/",
+    "published_at": "2026-08-28T01:56:36.552Z",
+    "fetched_at": "2026-08-28T01:56:36.552Z",
+    "title_zh": "Agentic AI 基础设施实践系列一：Agent 应用开发",
+    "summary_zh": "本文是AWS关于Agentic AI基础设施实践系列的第一篇，聚焦于Agent应用开发。文章深入探讨了构建生产级AI Agent所需的核心组件，包括任务规划、工具调用、记忆管理和多Agent协作机制。作者结合AWS服务（如Bedrock、Lambda、Step Functions）提供了具体的架构设计模式和代码示例，强调了可观测性、错误处理与安全边界在Agent系统中的重要性。对于希望在云上落地Agentic AI应用的开发者，本文提供了从设计到部署的实用指导，具有很高的参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "02c79f734bc288b1f75366528034096f",
+    "title_en": "深入浅出LangChain AI Agent智能体开发教程（一）",
+    "source": "juejin.cn",
+    "url": "https://juejin.cn/post/7526993716071202851",
+    "published_at": "2026-08-28T01:56:36.552Z",
+    "fetched_at": "2026-08-28T01:56:36.552Z",
+    "title_zh": "深入浅出LangChain AI Agent智能体开发教程（一）",
+    "summary_zh": "本教程面向初学者，系统性地介绍了基于LangChain框架开发AI Agent的基础知识。文章从LangChain的核心概念（如Models、Prompts、Chains、Agents）入手，逐步讲解如何构建一个简单的智能体，并深入剖析了Agent的决策循环、工具定义与调用机制。通过丰富的代码示例，作者展示了如何利用LangChain的AgentExecutor和Tool abstractions实现复杂任务分解与执行。该教程注重实践，适合希望快速上手LangChain并理解Agent内部工作原理的开发者。",
+    "topic": "ai"
+  },
+  {
+    "id": "7a9fb8033d15e1af2ca6dc068545ecec",
+    "title_en": "从0到1构建AI Agent：六步实战指南，让你的AI助手落地不再是 ...",
+    "source": "llmmultiagents.com",
+    "url": "https://llmmultiagents.com/blogs/building-intelligent-agents-a-practical-framework-from-concept-to-deployment",
+    "published_at": "2026-08-28T01:56:36.552Z",
+    "fetched_at": "2026-08-28T01:56:36.552Z",
+    "title_zh": "从0到1构建AI Agent：六步实战指南，让你的AI助手落地不再是空谈",
+    "summary_zh": "本文提供了一套从零开始构建AI Agent的六步实战方法论，旨在帮助开发者将AI助手从概念验证推进到生产环境。文章详细阐述了需求定义、技术选型、Prompt工程、工具集成、测试评估与部署监控等关键环节。作者特别强调了在真实业务场景中Agent的鲁棒性和可维护性，并分享了避免常见陷阱（如无限循环、上下文溢出）的实用技巧。对于正在规划或实施Agent项目的团队，这是一份极具操作性的落地指南。",
+    "topic": "ai"
+  },
+  {
     "id": "a8f56cc3d071e1e09c15f232e14658bd",
     "title_en": "从零入门linux内核安全：脏牛提权漏洞分析与补丁 ...",
     "source": "zhuanlan.zhihu.com",
@@ -2065,138 +2197,6 @@
     "fetched_at": "2026-08-24T00:43:20.935Z",
     "title_zh": "序· Linux性能调优指南",
     "summary_zh": "本文是《Linux性能调优指南》的序言，为整个调优系列奠定基础。作者lihz阐述了性能调优的核心方法论，强调从全局视角出发，遵循'分析-定位-优化-验证'的闭环流程。文章介绍了CPU、内存、磁盘I/O、网络等子系统性能分析的基本工具（如top、vmstat、iostat、sar）和关键性能指标，并预告了后续章节将深入探讨各子系统的调优策略。对于希望建立系统化性能调优思维的技术人员，这是一篇很好的入门指引。",
-    "topic": "ops"
-  },
-  {
-    "id": "1f4dfcab4b75cf813c3e236b6b7853b3",
-    "title_en": "Linux性能调优指南| PDF",
-    "source": "scribd.com",
-    "url": "https://www.scribd.com/document/955065137/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97",
-    "published_at": "2026-08-24T00:43:20.935Z",
-    "fetched_at": "2026-08-24T00:43:20.935Z",
-    "title_zh": "Linux性能调优指南",
-    "summary_zh": "这是一份全面的Linux性能调优指南PDF文档，系统性地讲解了从硬件、内核到应用层的性能优化技术。内容涵盖CPU调度、内存管理、磁盘I/O调度、网络协议栈调优等关键领域，并提供了丰富的内核参数调整建议和性能测试工具使用方法。文档还包含针对Web服务器、数据库等典型应用场景的调优案例。无论是系统管理员还是后端开发人员，都能从中获得实用的性能诊断和优化技巧，是提升系统吞吐量和降低延迟的宝贵参考资料。",
-    "topic": "ops"
-  },
-  {
-    "id": "5c58808efaf0d39a3ddecf6879178ee3",
-    "title_en": "AI Agent框架选型指南：2026十大主流框架深度解析 - YouTube",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=jtUkPLZxc40",
-    "published_at": "2026-08-24T00:43:19.360Z",
-    "fetched_at": "2026-08-24T00:43:19.360Z",
-    "title_zh": "AI Agent框架选型指南：2026十大主流框架深度解析",
-    "summary_zh": "本文深入解析2026年十大主流AI Agent框架，涵盖LangChain、AutoGen、CrewAI、Semantic Kernel等。内容聚焦各框架的架构设计、核心特性、适用场景及性能对比，并针对多Agent协作、工具调用、记忆管理等关键能力进行剖析。文章还提供了基于项目需求（如复杂度、团队技术栈、部署环境）的选型决策框架，帮助开发者避免常见误区，高效构建生产级Agent应用。对于正在评估Agent框架的技术团队，具有极高的参考价值和实践指导意义。",
-    "topic": "ai"
-  },
-  {
-    "id": "cbf874313f098fb52130c678f0bdb006",
-    "title_en": "Linux 运维手册 - Chang Luo",
-    "source": "luochang.ink",
-    "url": "https://www.luochang.ink/posts/linux_handbook/",
-    "published_at": "2026-08-24T00:43:19.360Z",
-    "fetched_at": "2026-08-24T00:43:19.360Z",
-    "title_zh": "Linux 运维手册",
-    "summary_zh": "这是一份由Chang Luo整理的Linux运维实战手册，内容覆盖系统管理、网络配置、服务部署、故障排查等核心运维场景。手册以命令示例和配置文件解析为主，强调实操性，包含大量可直接复用的Shell脚本和配置模板。从基础的用户权限管理到高级的系统性能监控与日志分析，均有详细说明。适合Linux运维工程师作为日常工作的速查手册，也适合初学者系统学习Linux运维知识体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "b4569ff05b00997837bac069aed29104",
-    "title_en": "内核实时补丁已开启AL2023",
-    "source": "docs.aws.amazon.com",
-    "url": "https://docs.aws.amazon.com/zh_cn/linux/al2023/ug/live-patching.html",
-    "published_at": "2026-08-23T18:16:48.475Z",
-    "fetched_at": "2026-08-23T18:16:48.475Z",
-    "title_zh": "内核实时补丁已开启AL2023",
-    "summary_zh": "AWS官方文档宣布Amazon Linux 2023（AL2023）现已支持内核实时补丁（Kernel Live Patching）功能。该功能允许系统管理员在不重启实例的情况下应用关键内核安全补丁，从而显著减少维护窗口期并提升服务可用性。文档详细介绍了启用实时补丁的步骤、支持的实例类型与内核版本，以及如何通过AWS Systems Manager管理补丁部署。该特性对于需要高可用性的生产环境尤为重要，是云上Linux安全运维的重要增强。",
-    "topic": "security"
-  },
-  {
-    "id": "d24600bc898a476a65238b993f44d46f",
-    "title_en": "【重磅】运维自动化的最佳实践探索 - 51CTO",
-    "source": "51cto.com",
-    "url": "https://www.51cto.com/article/487502.html",
-    "published_at": "2026-08-23T18:16:48.475Z",
-    "fetched_at": "2026-08-23T18:16:48.475Z",
-    "title_zh": "【重磅】运维自动化的最佳实践探索",
-    "summary_zh": "51CTO发布的运维自动化最佳实践深度文章，探讨了如何通过自动化工具与流程优化提升运维效率与可靠性。内容涵盖基础设施即代码（IaC）、配置管理（如Ansible、Puppet）、CI/CD流水线集成、监控告警自动化以及故障自愈等关键实践。文章结合真实案例，分析了自动化实施过程中的常见挑战与解决方案，并强调自动化与团队协作、安全合规的结合。适合运维团队参考，以构建更高效、更稳定的自动化运维体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "f7ae3e6971310d62d246b981f004af9f",
-    "title_en": "Newest CVEs",
-    "source": "tenable.com",
-    "url": "https://www.tenable.com/cve/newest",
-    "published_at": "2026-08-23T18:16:47.587Z",
-    "fetched_at": "2026-08-23T18:16:47.587Z",
-    "title_zh": "最新CVE漏洞列表",
-    "summary_zh": "Tenable持续更新的最新CVE（通用漏洞披露）列表，为安全专业人员提供及时、准确的漏洞情报。页面汇总了近期公开的高危与严重漏洞，包括漏洞描述、CVSS评分、受影响软件版本及利用可能性分析。该资源帮助安全团队快速评估自身系统的暴露面，并优先处理关键漏洞。文章还提供与Tenable漏洞管理平台的集成方式，支持自动化扫描与修复流程，是安全运维和应急响应的重要参考数据源。",
-    "topic": "security"
-  },
-  {
-    "id": "4053011eb843a8289cac9fac1224bf16",
-    "title_en": "Linux性能提升秘籍：25个系统调优技巧",
-    "source": "w3cschool.cn",
-    "url": "https://www.w3cschool.cn/hycig/hycig-wzdf3zfy.html",
-    "published_at": "2026-08-23T18:16:47.586Z",
-    "fetched_at": "2026-08-23T18:16:47.586Z",
-    "title_zh": "Linux性能提升秘籍：25个系统调优技巧",
-    "summary_zh": "本文总结了25个实用的Linux系统调优技巧，涵盖内核参数优化、文件系统挂载选项、内存管理、磁盘调度、网络栈配置等多个方面。每个技巧都配有简要说明和具体操作命令，例如调整swappiness、优化TCP拥塞控制算法、使用noatime挂载选项等。文章旨在帮助系统管理员通过简单有效的调整，显著提升服务器性能与响应速度，尤其适用于高并发Web服务、数据库等场景，是一份即学即用的性能优化速查手册。",
-    "topic": "ops"
-  },
-  {
-    "id": "c1c5661fcd37d1c234aaa08174a5b4e5",
-    "title_en": "Kubernetes 安全防护最佳实践 - Red Hat",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/topics/containers/kubernetes-security-best-practices",
-    "published_at": "2026-08-23T18:16:47.586Z",
-    "fetched_at": "2026-08-23T18:16:47.586Z",
-    "title_zh": "Kubernetes 安全防护最佳实践",
-    "summary_zh": "Red Hat发布的Kubernetes安全最佳实践指南，系统阐述了保护Kubernetes集群的完整策略。内容涵盖集群基础设施安全、RBAC权限控制、Pod安全策略（如Pod Security Admission）、网络策略、镜像安全扫描、Secret管理以及运行时安全监控等关键领域。文章还讨论了多租户隔离、供应链安全与合规性要求，并提供了具体的配置示例与工具推荐（如OpenShift、Falco）。该指南为DevOps和安全团队提供了可落地的安全加固方案，帮助降低容器化环境的安全风险。",
-    "topic": "security"
-  },
-  {
-    "id": "11b87f28506f40e97b3d1d2bdf5eb47b",
-    "title_en": "Docker容器的优化和性能调优技巧",
-    "source": "developer.aliyun.com",
-    "url": "https://developer.aliyun.com/article/1404694",
-    "published_at": "2026-08-23T18:16:47.586Z",
-    "fetched_at": "2026-08-23T18:16:47.586Z",
-    "title_zh": "Docker容器的优化和性能调优技巧",
-    "summary_zh": "本文针对Docker容器的性能优化与调优展开，重点讲解如何通过合理配置资源限制（CPU、内存）、优化镜像构建（减少层数、使用多阶段构建）、调整存储驱动与网络模式来提升容器运行效率。文章还介绍了容器日志管理、健康检查与优雅停机等最佳实践，并分析了常见性能问题的排查方法，如使用docker stats和cAdvisor监控资源使用。内容实用性强，适合开发与运维人员优化容器化应用的性能与稳定性。",
-    "topic": "ops"
-  },
-  {
-    "id": "1150407474f5c6315c5788ae4333c8a9",
-    "title_en": "性能调优指南",
-    "source": "docs.redhat.com",
-    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
-    "published_at": "2026-08-23T18:16:47.585Z",
-    "fetched_at": "2026-08-23T18:16:47.585Z",
-    "title_zh": "性能调优指南",
-    "summary_zh": "Red Hat官方性能调优指南，面向系统管理员与架构师，提供全面的性能分析与优化方法论。文档详细介绍了使用tuned、perf、PCP等工具进行性能监控与瓶颈定位的方法，涵盖CPU、内存、存储、网络等子系统的调优参数与最佳实践。指南还针对不同工作负载（如数据库、Web服务器）给出具体的调优建议，并解释如何通过配置管理实现性能优化的持久化。内容权威且实用，是Linux性能调优领域的经典参考文档。",
-    "topic": "ops"
-  },
-  {
-    "id": "fe8f6a01f2ac94249b08caadadb80727",
-    "title_en": "Linux 系统性能优化全面指南：从监控到调优",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/ydswin/p/18074371",
-    "published_at": "2026-08-23T18:16:47.585Z",
-    "fetched_at": "2026-08-23T18:16:47.585Z",
-    "title_zh": "Linux 系统性能优化全面指南：从监控到调优",
-    "summary_zh": "本文提供了一份完整的Linux系统性能优化指南，从监控工具的使用到具体调优策略，覆盖CPU、内存、磁盘I/O和网络等关键子系统。文章首先介绍如何利用top、htop、iostat、sar等工具建立性能基线，然后深入讲解常见瓶颈的识别方法，并针对不同场景给出内核参数调整、文件系统优化、进程调度等实用技巧。内容结构清晰，理论与实践结合，适合运维工程师和系统管理员作为性能调优的参考手册。",
-    "topic": "ops"
-  },
-  {
-    "id": "1555885bb60e9bda78ecba0582c743c6",
-    "title_en": "从零开始自学《Linux运维工程师》",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
-    "published_at": "2026-08-23T18:16:46.367Z",
-    "fetched_at": "2026-08-23T18:16:46.367Z",
-    "title_zh": "从零开始自学《Linux运维工程师》",
-    "summary_zh": "该视频课程为Linux运维零基础学习者提供系统化学习路径，内容涵盖Linux基础命令、文件系统、用户权限、网络配置、Shell脚本编程等核心知识。课程以实战为导向，逐步演示常见运维场景下的操作流程，并穿插故障排查与性能监控技巧。适合希望转行运维或提升Linux技能的开发者，通过循序渐进的学习，能够独立完成服务器日常维护、服务部署与基础自动化任务，为进阶学习容器化与云原生技术奠定基础。",
     "topic": "ops"
   }
 ]
