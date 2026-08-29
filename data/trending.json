@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-08-29",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态：科学智能体库、架构图生成、代码知识图谱、视频制作系统等工具涌现，同时涵盖截图转代码、GPT图像提示词工程及Go语言指南，展现AI开发全栈化趋势。",
+      "summary_zh": "今日GitHub热门聚焦AI智能体生态：科学智能体技能库、代码知识图谱、Claude插件规范、开源视频制作系统等，同时涵盖截图转代码、Go语言指南及卫星模拟器，展现AI工具链全面爆发。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/tt-a1i/archify",
           "description_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
           "language": "JavaScript",
-          "stars_total": 27499,
+          "stars_total": 29265,
           "stars_today": 4562,
           "description_zh": "用于生成美观、可验证的架构图、工作流图、时序图、数据流图和生命周期图的智能体技能——自包含HTML，支持动态效果和清晰导出。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
           "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
           "language": "JavaScript",
-          "stars_total": 11108,
+          "stars_total": 11820,
           "stars_today": 3829,
           "description_zh": "浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球上提供实时开源空间智能。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "description_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
           "language": "JavaScript",
-          "stars_total": 24251,
+          "stars_total": 24703,
           "stars_today": 1687,
           "description_zh": "提示词即代码 | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "stars_total": 115386,
+          "stars_total": 115924,
           "stars_today": 1396,
           "description_zh": "让你的AI智能体像房间里最懒的高级开发人员一样思考。最好的代码是你从未写过的代码。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/calesthio/OpenMontage",
           "description_en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
           "language": "Python",
-          "stars_total": 53328,
+          "stars_total": 53679,
           "stars_today": 1144,
           "description_zh": "全球首个开源、智能体驱动的视频制作系统。包含12条制作流水线、100多个工具、700多个智能体技能和制作知识文件。将您的AI编码助手转变为完整的视频制作工作室。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/tailscale/tailcat",
           "description_en": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
           "language": "Go",
-          "stars_total": 2721,
+          "stars_total": 3066,
           "stars_today": 965,
           "description_zh": "类似于netcat，但通过Tailscale的数据平面运行，无需Tailscale的控制平面。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
           "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
           "language": "Python",
-          "stars_total": 36628,
+          "stars_total": 37287,
           "stars_today": 720,
           "description_zh": "将任何AI智能体转变为AI科学家。全球排名第一的科学智能体技能库，已被全球175,000多名科学家使用。包含163个即用型经过验证的技能，以及100多个涵盖生物学、化学、医学和药物发现的科学数据库。兼容Cursor、Claude Code、Codex、Pi、Antigravity以及开放的Agent Skills标准。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 50625,
+          "stars_total": 50788,
           "stars_today": 703,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/JetBrains/go-modern-guidelines",
           "description_en": "Help AI coding agents write modern Go",
           "language": "Go",
-          "stars_total": 2603,
+          "stars_total": 2719,
           "stars_today": 574,
           "description_zh": "帮助AI编码智能体编写现代Go代码"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/anthropics/claude-plugins-official",
           "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "language": "Python",
-          "stars_total": 35039,
+          "stars_total": 35192,
           "stars_today": 457,
           "description_zh": "由Anthropic官方管理的高质量Claude Code插件目录。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/tashfeenahmed/freellmapi",
           "description_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
           "language": "TypeScript",
-          "stars_total": 21626,
+          "stars_total": 21904,
           "stars_today": 433,
           "description_zh": "每月74亿个令牌。34个免费LLM提供商。635个免费模型端点。全部统一在一个/v1端点之后，外加任何自定义的OpenAI兼容端点。智能路由、自动故障转移、加密密钥。仅供个人实验使用。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/abi/screenshot-to-code",
           "description_en": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
           "language": "Python",
-          "stars_total": 75571,
+          "stars_total": 75799,
           "stars_today": 326,
           "description_zh": "拖入截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/cursor/plugins",
           "description_en": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "stars_total": 5965,
+          "stars_total": 6069,
           "stars_today": 246,
           "description_zh": "Cursor插件规范及官方插件"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/marin-community/marin",
           "description_en": "Open-source framework for the research and development of foundation models.",
           "language": "Python",
-          "stars_total": 2901,
+          "stars_total": 2956,
           "stars_today": 236,
           "description_zh": "用于基础模型研究及开发的开源框架。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/abhigyanpatwari/GitNexus",
           "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
           "language": "TypeScript",
-          "stars_total": 46161,
+          "stars_total": 46279,
           "stars_today": 202,
           "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建器。放入一个Git仓库（Github、Gitlab、Azure、本地）或ZIP文件，即可获得一个带有内置Graph RAG智能体的交互式知识图谱。非常适合代码探索。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/NationalSecurityAgency/ghidra",
           "description_en": "Ghidra is a software reverse engineering (SRE) framework",
           "language": "Java",
-          "stars_total": 73347,
+          "stars_total": 73484,
           "stars_today": 191,
           "description_zh": "Ghidra是一个软件逆向工程（SRE）框架"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/swoole/typephp",
           "description_en": "Compile PHP to Native Binaries",
           "language": "PHP",
-          "stars_total": 815,
+          "stars_total": 886,
           "stars_today": 188,
           "description_zh": "将PHP编译为原生二进制文件"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/google/googletest",
           "description_en": "GoogleTest - Google Testing and Mocking Framework",
           "language": "C++",
-          "stars_total": 39177,
+          "stars_total": 39235,
           "stars_today": 156,
           "description_zh": "GoogleTest - Google测试和模拟框架"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 49976,
+          "stars_total": 50064,
           "stars_today": 67,
           "description_zh": "面向编码智能体的Chrome DevTools"
         },
@@ -200,7 +200,7 @@
           "url": "https://github.com/livekit/agents",
           "description_en": "A framework for building realtime voice AI agents 🤖🎙️📹",
           "language": "Python",
-          "stars_total": 13344,
+          "stars_total": 13459,
           "stars_today": 22,
           "description_zh": "用于构建实时语音AI智能体的框架 🤖🎙️📹"
         }
