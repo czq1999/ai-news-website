@@ -1,5 +1,93 @@
 [
   {
+    "id": "7f31a50ace592b58420992cdfb50d73e",
+    "title_en": "Google further buries search results under AI mode",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+    "published_at": "2026-08-28T22:48:11.000Z",
+    "fetched_at": "2026-08-29T01:20:03.805Z",
+    "title_zh": "谷歌进一步将搜索结果深埋于AI模式之下",
+    "summary_zh": "谷歌正在对其搜索引擎进行重大调整，将AI模式置于更显眼的位置，导致传统搜索结果被进一步压缩。用户现在需要更多点击才能看到常规链接，而AI生成的摘要和回答则优先展示。这一变化旨在提升AI功能的使用率，但也引发了关于信息获取效率和广告收入的担忧。谷歌表示这是为了提供更智能的搜索体验。",
+    "category": "product"
+  },
+  {
+    "id": "e3e95a38f3324e12c0362c9ac96dafd3",
+    "title_en": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+    "published_at": "2026-08-28T22:29:13.000Z",
+    "fetched_at": "2026-08-29T01:20:03.943Z",
+    "title_zh": "英伟达CEO黄仁勋在全员大会上接听特朗普电话",
+    "summary_zh": "英伟达CEO黄仁勋在一次全员大会中突然接听美国前总统特朗普的电话，引发外界对双方沟通内容及背后商业政治关系的广泛猜测。此举被视为科技巨头与政界保持密切联系的又一例证，或涉及芯片政策与产业布局。",
+    "category": "industry"
+  },
+  {
+    "id": "e5deaa55f64afedd220ba1a6d4c42b97",
+    "title_en": "Xbox CEO calls Project Helix a ‘family of devices’",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+    "published_at": "2026-08-28T22:03:13.000Z",
+    "fetched_at": "2026-08-29T01:20:03.805Z",
+    "title_zh": "Xbox CEO称Project Helix为“设备家族”",
+    "summary_zh": "Xbox CEO在最新采访中透露，Project Helix将是一个涵盖多种设备的“家族”，而非单一硬件。该计划旨在整合Xbox的云游戏和本地计算能力，提供跨设备无缝体验。虽然具体细节尚未公布，但CEO暗示这将包括主机、PC和移动设备等多种形态，进一步扩展Xbox生态系统的覆盖范围。",
+    "category": "product"
+  },
+  {
+    "id": "c52cb3b3c6c535546e2997c239e3b51d",
+    "title_en": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "published_at": "2026-08-28T20:24:11.000Z",
+    "fetched_at": "2026-08-29T01:20:03.720Z",
+    "title_zh": "Neocloud Lambda获10亿美元债务融资，用于采购更多芯片",
+    "summary_zh": "Neocloud公司Lambda宣布获得10亿美元债务融资，资金将主要用于采购更多AI芯片，以扩充其云计算基础设施。此举反映了AI算力需求的激增，以及Neocloud在竞争激烈的市场中扩大规模的决心。该融资将帮助Lambda提升GPU集群容量，满足大模型训练和推理的算力需求，进一步巩固其在AI云服务领域的地位。",
+    "category": "industry"
+  },
+  {
+    "id": "10b9c7bd9dab29e09283e153bc06f3cf",
+    "title_en": "Milo Yiannopoulos Detained by ICE in Louisiana",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
+    "published_at": "2026-08-28T19:44:11.000Z",
+    "fetched_at": "2026-08-29T01:20:03.943Z",
+    "title_zh": "米洛·扬诺普洛斯在路易斯安那州被ICE拘留",
+    "summary_zh": "极右翼活动人士米洛·扬诺普洛斯在路易斯安那州被美国移民与海关执法局（ICE）拘留。此事件迅速引发舆论关注，涉及言论自由、移民政策及政治立场等敏感议题，目前其被拘留的具体原因和后续法律程序尚不明确。",
+    "category": "industry"
+  },
+  {
+    "id": "d6bcef64b3a2852dcd210e348849d7f4",
+    "title_en": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "published_at": "2026-08-28T19:30:38.000Z",
+    "fetched_at": "2026-08-29T01:20:03.720Z",
+    "title_zh": "Anthropic研究员透露自我改进AI的初步进展",
+    "summary_zh": "Anthropic的一位研究员在近期分享中揭示了自我改进AI的研究方向，展示了AI系统如何通过自我反馈和迭代优化自身性能。这一进展可能预示着未来AI将具备更强的自主学习和适应能力，减少对人类干预的依赖。尽管仍处于早期阶段，但该研究为AI自我进化提供了新的可能性，同时也引发了对安全性和可控性的讨论。",
+    "category": "research"
+  },
+  {
+    "id": "ea5a874c382ad82f369278d76c39d9b3",
+    "title_en": "Microsoft Teams Has Become a Haven for Scammers in China",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+    "published_at": "2026-08-28T18:23:17.000Z",
+    "fetched_at": "2026-08-29T01:20:03.943Z",
+    "title_zh": "微软Teams成中国诈骗分子温床",
+    "summary_zh": "调查显示，微软Teams平台在中国被诈骗团伙广泛利用，成为实施网络诈骗的新工具。诈骗者通过该平台伪装身份、诱导受害者进行转账或信息窃取。此现象暴露了跨国通讯平台在内容监管和风险防控方面的漏洞，引发安全担忧。",
+    "category": "industry"
+  },
+  {
+    "id": "9a7a2eb7343196d19ee02e2a57e9768d",
+    "title_en": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "published_at": "2026-08-28T18:19:40.000Z",
+    "fetched_at": "2026-08-29T01:20:03.720Z",
+    "title_zh": "开放权重AI公司成为硅谷最热收购目标",
+    "summary_zh": "随着AI行业竞争加剧，开放权重AI公司正成为硅谷科技巨头争相收购的对象。这些公司因提供可定制、可部署的模型而备受青睐，吸引了大量投资和并购兴趣。分析认为，收购开放权重公司有助于大厂快速获取技术优势和人才储备，同时应对开源社区的挑战。这一趋势可能重塑AI行业的竞争格局。",
+    "category": "industry"
+  },
+  {
     "id": "0a00e5fb7e51ad1bf926552a58290167",
     "title_en": "Mice, a Caved-In Ceiling, and Cloudy Water: The GSA’s New Office Is Falling Apart",
     "source": "Wired",
@@ -341,6 +429,83 @@
     "category": "industry"
   },
   {
+    "id": "67d409f2eb8336662535a2dffe0a324e",
+    "title_en": "Today in sports history, September 21",
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/sports/history/2026/08/27/today-in-sports-history-september-21/91499891007/",
+    "published_at": "2026-08-28T01:19:53Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "历史上的今天：9月21日体坛大事记",
+    "summary_zh": "回顾9月21日体育史上的重要时刻，包括传奇运动员的诞生、重大赛事的夺冠瞬间以及影响深远的体育事件。这些历史片段不仅记录了竞技体育的辉煌，也承载着时代记忆，激励着新一代运动员和体育爱好者。",
+    "category": "industry"
+  },
+  {
+    "id": "91e875c54f133a550fafda62f98f2feb",
+    "title_en": "CNBC Daily Open: Tariffs in spotlight — and Trump has a new name for a lake",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/28/cnbc-daily-open-tariffs-in-spotlight-and-trump-has-a-new-name-for-a-lake.html",
+    "published_at": "2026-08-28T01:19:27Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "CNBC每日开盘：关税成焦点，特朗普为湖泊起新名",
+    "summary_zh": "今日全球市场聚焦美国关税政策新动向，贸易局势不确定性影响投资者情绪。与此同时，美国前总统特朗普提议为某湖泊更名，此非经济事件却意外引发舆论关注，分散了市场对贸易谈判进展的注意力，为今日开盘增添变数。",
+    "category": "industry"
+  },
+  {
+    "id": "459b035cd7ee729a1c59118e3afdd56b",
+    "title_en": "Marvell’s stock sinks despite earnings beat and strong guidance",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/08/27/marvells-stock-sinks-despite-earnings-beat-and-strong-guidance/",
+    "published_at": "2026-08-28T01:11:36Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "Marvell业绩超预期但股价下挫，指引强劲难挽颓势",
+    "summary_zh": "芯片制造商Marvell公布最新财报，营收和利润均超出市场预期，且下一季度业绩指引强劲。然而，其股价在盘后交易中仍大幅下跌。分析认为，投资者可能对估值过高或行业周期见顶存在担忧，导致利好财报未能提振股价。",
+    "category": "industry"
+  },
+  {
+    "id": "507467f2f605e2a925327ea0dcf4c12c",
+    "title_en": "How DeepSeek founder's quant empire is taking on China's choppy IPO boom",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/e14165cbf095b0db",
+    "published_at": "2026-08-28T01:11:11Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "DeepSeek创始人量化帝国如何应对中国波动的IPO热潮",
+    "summary_zh": "DeepSeek创始人梁文锋凭借量化交易背景，其旗下幻方量化在AI领域异军突起。面对中国IPO市场波动，他通过技术创新和资本运作，推动DeepSeek成为AI大模型领域的重要玩家。文章分析其量化帝国如何利用数据优势，在竞争激烈的市场中寻找突破口，并应对监管与市场不确定性。",
+    "category": "industry"
+  },
+  {
+    "id": "c048cd629f04b601be7b18eab36554fb",
+    "title_en": "Kioxia, Sandisk plan more than US$31 billion in Japan investments",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260828PR202/kioxia-investment-manufacturing-flash-partnership.html",
+    "published_at": "2026-08-28T01:10:42Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "铠侠与闪迪计划在日本投资超310亿美元",
+    "summary_zh": "存储芯片制造商铠侠（Kioxia）与闪迪（Sandisk）宣布将在日本进行超过310亿美元的投资，用于扩大NAND闪存产能和研发先进技术。此举旨在满足AI和云计算对高容量存储的强劲需求，同时强化日本在全球半导体供应链中的地位。投资将分阶段推进，预计创造大量就业机会。",
+    "category": "industry"
+  },
+  {
+    "id": "7c49f8428f28a4327fd6e3c74998e263",
+    "title_en": "Today in sports history, September 20",
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/sports/history/2026/08/27/today-in-sports-history-september-20/91499756007/",
+    "published_at": "2026-08-28T01:08:56Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "今日体育史：9月20日",
+    "summary_zh": "回顾体育史上的今天，9月20日见证了多项重要赛事和里程碑时刻。从经典比赛到传奇运动员的诞生，这一日承载着体育迷的共同记忆。文章以简洁方式梳理历史事件，唤起读者对体育荣耀的怀念，并展望未来赛事。",
+    "category": "industry"
+  },
+  {
+    "id": "6f866f173941a6b88833c2656e1c3edc",
+    "title_en": "Little football! Inter and Grêmio draw 0-0 in 1st Copa do Brasil tie ",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/little-football-inter-and-gremio-draw-0-0-in-1st-copa-do-brasil-tie-43352831",
+    "published_at": "2026-08-28T01:07:00Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "小足球！国际米兰与格雷米奥在巴西杯首回合0-0战平",
+    "summary_zh": "在巴西杯首回合较量中，国际米兰与格雷米奥以0-0互交白卷。双方防守严密，进攻机会寥寥，比赛节奏紧凑但缺乏进球。次回合将移师格雷米奥主场，悬念保留至最后。球迷期待两队次回合能奉献更精彩的进攻对决。",
+    "category": "industry"
+  },
+  {
     "id": "528d2585a426690c4aa5ea60b2e88717",
     "title_en": "The GTA VI ‘extended look’ is now streaming on YouTube",
     "source": "The Verge",
@@ -350,6 +515,39 @@
     "title_zh": "《GTA VI》'扩展实机演示'现已在YouTube上线",
     "summary_zh": "备受期待的游戏《侠盗猎车手VI》发布了全新的'扩展实机演示'视频，并在YouTube平台上线。视频展示了游戏的最新画面和玩法细节，让玩家得以一窥这款开放世界巨作的更多内容，进一步点燃了粉丝的期待热情。",
     "category": "product"
+  },
+  {
+    "id": "04e7446f2460fc473d1f673ad88ea94e",
+    "title_en": "How DeepSeek founder's quant empire is taking on China's choppy IPO boom",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
+    "published_at": "2026-08-28T01:02:48Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "DeepSeek创始人量化帝国如何应对中国波动的IPO热潮",
+    "summary_zh": "DeepSeek创始人梁文锋的量化投资背景为其AI创业提供了独特优势。在中国IPO市场波动加剧的背景下，他利用量化模型和资本策略，推动DeepSeek在AI大模型领域快速崛起。文章深入剖析其如何平衡技术创新与商业扩张，应对市场不确定性，并展望未来IPO可能性。",
+    "category": "industry"
+  },
+  {
+    "id": "38d23a1a4a22c2ec81ee52656691eb0e",
+    "title_en": "Nvidia pauses revenue sharing deals with AI cloud companies: Report",
+    "source": "The Straits Times",
+    "url": "https://www.straitstimes.com/business/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-report",
+    "published_at": "2026-08-28T01:00:00Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "英伟达暂停与AI云公司的收入分成协议：报道",
+    "summary_zh": "据《海峡时报》报道，英伟达已暂停与部分AI云公司的收入分成协议。此举可能影响云服务商对GPU资源的获取和定价策略，反映英伟达在AI算力市场的主导地位。分析认为，英伟达正调整商业模式，以应对日益增长的AI需求并优化利润结构。",
+    "category": "industry"
+  },
+  {
+    "id": "1e11ee2478a3e80ec0a7e8fd5431295d",
+    "title_en": "Salesforce rockets 22% for second-best day ever, leading software rally",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/309072ce19f35760",
+    "published_at": "2026-08-28T00:56:18Z",
+    "fetched_at": "2026-08-29T01:20:04.558Z",
+    "title_zh": "Salesforce飙升22%创历史第二佳单日表现，引领软件股反弹",
+    "summary_zh": "Salesforce股价单日大涨22%，创下其历史第二佳表现，并带动整个软件板块走强。市场对AI驱动的企业软件需求持乐观态度，加上公司财报超预期，投资者信心大增。此次反弹被视为软件行业复苏的信号，分析师预计AI集成将成为未来增长关键。",
+    "category": "industry"
   },
   {
     "id": "66aad594f138dc3469550dd94b088162",
@@ -5299,204 +5497,6 @@
     "fetched_at": "2026-08-22T00:40:59.607Z",
     "title_zh": "英伟达与数据中心开发商 Cloverleaf 达成合作",
     "summary_zh": "英伟达宣布与数据中心开发商 Cloverleaf 建立合作伙伴关系，旨在加速 AI 基础设施的部署。此次合作将整合英伟达的 GPU 计算平台与 Cloverleaf 的数据中心设计与运营能力，以满足日益增长的 AI 算力需求。此举是英伟达在 AI 硬件生态链上持续布局的最新动作，旨在巩固其在 AI 训练和推理市场的领导地位。",
-    "category": "industry"
-  },
-  {
-    "id": "f5658bcba840e9ba105e93177738854e",
-    "title_en": "HoverAir’s transforming modular drone has already been halted in the US",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-    "published_at": "2026-08-21T22:14:11.000Z",
-    "fetched_at": "2026-08-22T00:40:59.708Z",
-    "title_zh": "HoverAir 模块化变形无人机在美遭禁售",
-    "summary_zh": "HoverAir 推出的模块化变形无人机因其创新设计备受关注，但该产品在美国市场已被紧急叫停。监管机构或出于安全、合规等原因要求其停止销售。这一事件为消费级无人机行业敲响警钟，提醒厂商在追求功能创新的同时，必须严格遵守当地航空和安全法规，否则将面临市场准入的严峻挑战。",
-    "category": "product"
-  },
-  {
-    "id": "ac66a802341f85ceecad4aa414cc4783",
-    "title_en": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-    "published_at": "2026-08-21T22:13:34.000Z",
-    "fetched_at": "2026-08-22T00:40:59.708Z",
-    "title_zh": "TikTok 支付 4 亿美元和解美司法部儿童隐私诉讼",
-    "summary_zh": "TikTok 同意支付 4 亿美元，以解决美国司法部对其涉嫌违反儿童隐私保护法的诉讼。该诉讼指控 TikTok 在未经父母同意的情况下收集和使用未成年人的个人信息。此次和解金额巨大，凸显了科技巨头在青少年数据保护方面面临的严格监管压力，也为其他社交平台敲响了合规警钟。",
-    "category": "industry"
-  },
-  {
-    "id": "1cd4198d78c973adcc320149d6a48142",
-    "title_en": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "published_at": "2026-08-21T21:25:50.000Z",
-    "fetched_at": "2026-08-22T00:40:59.708Z",
-    "title_zh": "超百万人点击 LinkedIn 的 AI 生成内容按钮",
-    "summary_zh": "LinkedIn 推出的 AI 辅助创作功能（被戏称为“AI 垃圾按钮”）已吸引超过 100 万用户使用。该功能旨在帮助用户快速生成帖子，但也引发了关于平台内容质量下降和同质化的担忧。尽管争议不断，这一数据表明职场社交平台用户对 AI 辅助创作工具存在巨大需求，也预示着 AI 将深度融入内容生产流程。",
-    "category": "product"
-  },
-  {
-    "id": "35da957c40ae0c74499088f4c6b147b5",
-    "title_en": "Apple is laying off staffers working on the Vision Pro and Siri",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-    "published_at": "2026-08-21T19:44:55.000Z",
-    "fetched_at": "2026-08-22T00:40:59.708Z",
-    "title_zh": "苹果裁员波及 Vision Pro 与 Siri 团队",
-    "summary_zh": "苹果公司正在进行新一轮裁员，涉及 Vision Pro 头显和 Siri 语音助手团队。此举可能暗示苹果在 AR/VR 和 AI 助手领域的战略调整或项目优先级变化。裁员消息引发市场对苹果创新步伐的担忧，尤其是在 AI 竞争日益激烈的背景下，苹果如何平衡硬件创新与软件服务成为关注焦点。",
-    "category": "industry"
-  },
-  {
-    "id": "d1d57c136b665b27afccffab703acce6",
-    "title_en": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "published_at": "2026-08-21T19:43:39.000Z",
-    "fetched_at": "2026-08-22T00:40:59.607Z",
-    "title_zh": "英伟达展示：AI 的“缰绳”比模型本身更重要",
-    "summary_zh": "英伟达在近期展示中强调，随着 AI 模型能力趋同，如何有效控制、引导和部署模型的“缰绳”（即工具链、框架和编排系统）正成为真正的核心竞争力。这一观点暗示，未来的 AI 竞争焦点将从模型参数转向工程化能力，包括模型路由、安全护栏和高效推理等，为整个行业的技术发展提供了新视角。",
-    "category": "industry"
-  },
-  {
-    "id": "29dca21218835009223de73adc8d6fbd",
-    "title_en": "Other Barks & Bites for Friday, August 21: US Inventor Lacks Standing for Patent Language Challenge; D.C. Circuit Upholds CMS’ Single-Source Drug Interpretation; and Ninth Circuit Deepens Split on Attorney’s Fees Under Lanham Act",
-    "source": "IPWatchdog.com",
-    "url": "https://ipwatchdog.com/2026/08/21/bites-barks-dc-circuit-upholds-cms-single-source-drug-interpretation-ninth-circuit-deepens-spli/",
-    "published_at": "2026-08-21T18:15:25Z",
-    "fetched_at": "2026-08-22T18:15:36.658Z",
-    "title_zh": "周五其他法律动态：美国发明人缺乏专利语言挑战资格；DC巡回法院维持CMS单一来源药物解释；第九巡回法院在兰哈姆法案律师费问题上分歧加深",
-    "summary_zh": "本周五知识产权法律动态汇总：美国联邦巡回上诉法院裁定，一位发明人因缺乏诉讼资格，无法对专利语言提出挑战；DC巡回法院维持了CMS关于单一来源药物的解释；同时，第九巡回法院在兰哈姆法案下律师费裁决标准上出现更深的分歧。这些案例对专利和商标实践具有重要参考意义。",
-    "category": "industry"
-  },
-  {
-    "id": "bad4bf21d97e062e4ef8d3d9d0f39523",
-    "title_en": "Another Photo Contest Falls Victim to a Controversy of its Own Making",
-    "source": "PetaPixel",
-    "url": "https://petapixel.com/2026/08/21/another-photo-contest-falls-victim-to-a-controversy-of-its-own-making/",
-    "published_at": "2026-08-21T18:15:09Z",
-    "fetched_at": "2026-08-22T18:15:36.658Z",
-    "title_zh": "又一摄影比赛因自身争议落败",
-    "summary_zh": "近日，一场摄影比赛因评审标准不透明、获奖作品涉嫌抄袭等问题引发广泛争议，最终主办方不得不取消部分奖项并重新评审。这一事件再次暴露了摄影行业在AI生成图像泛滥背景下，对原创性和真实性的界定困境。业内人士呼吁建立更严格的审核机制和伦理准则，以维护摄影艺术的公信力。",
-    "category": "industry"
-  },
-  {
-    "id": "168f2c91364f3c24d23f4aad382abcc1",
-    "title_en": " He's back with a bang! Cristiano Ronaldo reaches 977th career goal",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/hes-back-with-a-bang-cristiano-ronaldo-reaches-977th-career-goal-43315286",
-    "published_at": "2026-08-21T18:05:00Z",
-    "fetched_at": "2026-08-22T18:15:36.659Z",
-    "title_zh": "王者归来！C罗达成职业生涯第977球里程碑",
-    "summary_zh": "在最新一场比赛中，克里斯蒂亚诺·罗纳尔多再次展现惊人状态，攻入个人职业生涯第977粒进球，帮助球队取得关键胜利。这位葡萄牙巨星虽已年近40，但竞技状态依然火热，持续刷新足坛纪录。他的表现再次证明，年龄只是数字，真正的传奇永不落幕。",
-    "category": "product"
-  },
-  {
-    "id": "721c1826865febc7fab31cbadd4ac241",
-    "title_en": "Michaels launches omnichannel custom framing experience with Architectural Digest",
-    "source": "DigitalCommerce360",
-    "url": "https://www.digitalcommerce360.com/2026/08/21/michaels-omnichannel-custom-framing-architectural-digest/",
-    "published_at": "2026-08-21T18:04:27Z",
-    "fetched_at": "2026-08-22T18:15:36.659Z",
-    "title_zh": "Michaels携手Architectural Digest推出全渠道定制装裱服务",
-    "summary_zh": "美国工艺品零售商Michaels宣布与知名设计杂志Architectural Digest合作，推出全新的全渠道定制装裱体验。顾客可通过线上平台选择设计风格，并在实体店获得专业指导，实现线上线下无缝衔接。此举旨在提升客户体验，强化品牌在高端家居装饰市场的竞争力，也反映了零售业数字化转型的深入趋势。",
-    "category": "product"
-  },
-  {
-    "id": "b28b5253f649b1f544e4ebaea39de63f",
-    "title_en": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
-    "published_at": "2026-08-21T18:03:24Z",
-    "fetched_at": "2026-08-22T18:15:36.659Z",
-    "title_zh": "共和党警告数据中心威胁俄亥俄州参议院席位，赫斯特德为能源政策辩护",
-    "summary_zh": "随着AI产业爆发式增长，数据中心电力需求激增，引发美国多州能源政策争议。俄亥俄州副州长赫斯特德面对共和党内部批评，坚称现行能源政策能平衡经济发展与电网稳定。他提出将扩大天然气和核能使用，同时鼓励可再生能源投资，以保障数据中心建设不损害选民利益。这场辩论凸显了AI基础设施与政治博弈的复杂交织。",
-    "category": "industry"
-  },
-  {
-    "id": "f5f4fb71b6a9d171525e88e8e9157470",
-    "title_en": "Coffee Break: Notes on the Surveillance State, AI, and Scientific Communication",
-    "source": "Nakedcapitalism.com",
-    "url": "https://www.nakedcapitalism.com/2026/08/the-surveillance-state-grows-while-ai-metastasizes-but-scientific-communication-remains-possible.html",
-    "published_at": "2026-08-21T18:00:54Z",
-    "fetched_at": "2026-08-22T18:15:36.659Z",
-    "title_zh": "咖啡时间：关于监控国家、AI与科学传播的思考",
-    "summary_zh": "本文深入探讨了当前监控技术、人工智能发展对科学传播生态的影响。作者指出，AI生成内容的泛滥正在模糊真实与虚假的界限，而科研机构在利用AI工具时也面临数据隐私和伦理挑战。文章呼吁科学界建立更透明的传播机制，同时警惕技术滥用带来的社会风险，为AI时代的科学交流提供了反思性视角。",
-    "category": "research"
-  },
-  {
-    "id": "46d36ae78d9cdf0ad622eab64b4b2b2c",
-    "title_en": "Why AI might kill the second-hand bookshop",
-    "source": "TheJournal.ie",
-    "url": "https://www.thejournal.ie/ai-companies-destroying-books-7137781-Aug2026/",
-    "published_at": "2026-08-21T18:00:18Z",
-    "fetched_at": "2026-08-22T18:15:36.659Z",
-    "title_zh": "AI为何可能终结二手书店",
-    "summary_zh": "随着AI推荐算法和电子书普及，二手书店正面临前所未有的生存危机。AI能精准匹配读者需求，提供海量数字资源，而实体二手书店的稀缺性和淘书乐趣逐渐被边缘化。文章分析认为，尽管AI提升了获取知识的效率，但也可能削弱文化多样性和社区交流。二手书店需转型为文化空间，才能在AI时代找到新定位。",
-    "category": "industry"
-  },
-  {
-    "id": "65fa32743da12425ea00a2cd3e1a0d09",
-    "title_en": "$100 Best Buy gift cards will be $60 at stores Saturday",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-    "published_at": "2026-08-21T18:00:00.000Z",
-    "fetched_at": "2026-08-22T00:40:59.708Z",
-    "title_zh": "百思买周末促销：100 美元礼品卡仅售 60 美元",
-    "summary_zh": "百思买（Best Buy）宣布将在周六举行限时促销活动，原价 100 美元的礼品卡将以 60 美元的价格出售。这一大幅折扣旨在吸引消费者进店或在线购物，并可能带动其他商品的销售。对于消费者而言，这是一个难得的优惠机会，但需注意促销活动的具体条款和库存限制。",
-    "category": "product"
-  },
-  {
-    "id": "b132b536ec0cd954dd3babbce9d67ec6",
-    "title_en": " Confirmed line-ups: Betis and La Real face off to kick off their campaign",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/confirmed-line-ups-betis-and-la-real-face-off-to-kick-off-their-campaign-43315203",
-    "published_at": "2026-08-21T17:55:00Z",
-    "fetched_at": "2026-08-22T18:15:36.659Z",
-    "title_zh": "确认首发：贝蒂斯与皇家社会揭幕战对阵出炉",
-    "summary_zh": "西甲新赛季揭幕战即将打响，皇家贝蒂斯与皇家社会均公布了首发阵容。两队均派出最强主力，力求开门红。贝蒂斯新援有望首秀，而皇家社会则延续上赛季核心框架。这场对决被视为西甲中上游球队的激烈碰撞，双方战术风格鲜明，预计将上演一场攻防大战，为球迷奉献精彩开局。",
-    "category": "product"
-  },
-  {
-    "id": "41f4165cea3e7744708e69a524566e9c",
-    "title_en": "In Limeira, under-17s face Independente in the Paulista",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/in-limeira-under-17s-face-independente-in-the-paulista-43315184",
-    "published_at": "2026-08-21T17:52:00Z",
-    "fetched_at": "2026-08-22T18:15:36.659Z",
-    "title_zh": "利梅拉U17队迎战独立队，争夺保利斯塔冠军",
-    "summary_zh": "巴西圣保罗州保利斯塔锦标赛U17组别迎来关键对决，利梅拉青年队主场迎战独立队。两队均以青训著称，此役关乎小组出线形势。利梅拉近期状态出色，进攻端火力十足；独立队则防守稳健，擅长反击。青年球员们将全力展现天赋，争夺晋级资格，比赛备受当地球迷关注。",
-    "category": "product"
-  },
-  {
-    "id": "39f86d3c9e65a9407760c7ed925de94a",
-    "title_en": " Confirmed XIs: Arsenal begin their title defence",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/confirmed-xis-arsenal-begin-their-title-defence-43315186",
-    "published_at": "2026-08-21T17:52:00Z",
-    "fetched_at": "2026-08-22T18:15:36.659Z",
-    "title_zh": "确认首发：阿森纳开启卫冕征程",
-    "summary_zh": "英超新赛季揭幕，阿森纳公布首发阵容，正式开启卫冕之旅。主帅阿尔特塔排出强阵，核心球员悉数登场，新援也获得首发机会。枪手在季前赛表现出色，目标直指连续夺冠。对手同样实力不俗，但阿森纳主场作战气势如虹，球迷期待球队以胜利开启新赛季，延续上赛季的辉煌。",
-    "category": "product"
-  },
-  {
-    "id": "12adee49b3537d2b62e08ad41f4f85dd",
-    "title_en": "Walmart is finally adding Apple Pay and Google Pay",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
-    "published_at": "2026-08-21T17:01:59.000Z",
-    "fetched_at": "2026-08-21T18:22:46.642Z",
-    "title_zh": "沃尔玛终于支持Apple Pay和Google Pay",
-    "summary_zh": "沃尔玛宣布将支持Apple Pay和Google Pay移动支付，结束了长期以来对这两大支付系统的抵制。此前，沃尔玛力推自家支付方案Walmart Pay，但消费者需求迫使公司改变策略。此举将提升购物体验，并可能推动更多零售商接受主流移动支付。分析认为，这是沃尔玛数字化战略的重要一步。",
-    "category": "product"
-  },
-  {
-    "id": "abe0e3610e6cf87292df8ce60c433355",
-    "title_en": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
-    "published_at": "2026-08-21T16:52:56.000Z",
-    "fetched_at": "2026-08-21T18:22:46.642Z",
-    "title_zh": "微软和Discord因《GTA VI》游戏玩法泄露被传唤",
-    "summary_zh": "微软和Discord因《侠盗猎车手VI》游戏玩法内容泄露事件被法院传唤。泄露事件涉及未公开的游戏画面，引发法律纠纷。传唤要求两家公司提供与泄露相关的用户数据和通信记录。此举旨在追查泄露源头，保护游戏开发商Take-Two Interactive的权益。该事件凸显了游戏行业对内容泄露的严厉打击。",
     "category": "industry"
   }
 ]
