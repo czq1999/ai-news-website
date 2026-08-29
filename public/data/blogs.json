@@ -1,5 +1,104 @@
 [
   {
+    "id": "1427873e56a795cc4ee0b7da925446fd",
+    "title_en": "容器镜像优化终极指南 - Serverion",
+    "source": "serverion.com",
+    "url": "https://www.serverion.com/cn/uncategorized/ultimate-guide-to-container-image-optimization/",
+    "published_at": "2026-08-29T16:18:19.320Z",
+    "fetched_at": "2026-08-29T16:18:19.320Z",
+    "title_zh": "容器镜像优化终极指南",
+    "summary_zh": "本文深入探讨了容器镜像优化的全流程策略，旨在帮助开发者显著减小镜像体积、提升构建与部署效率。内容涵盖多阶段构建的正确用法、基础镜像选择原则（如Alpine与Distroless对比）、依赖层缓存优化、以及利用.dockerignore减少上下文传输。文章还介绍了镜像压缩工具（如DockerSlim）和SBOM管理，并讨论了如何通过优化镜像层数、合并RUN指令来降低存储开销。对于追求CI/CD流水线速度和降低云资源成本的DevOps团队，本文提供了可立即落地的优化清单与最佳实践。",
+    "topic": "ops"
+  },
+  {
+    "id": "0fc8b241b95fd029e9433e271fe6f88a",
+    "title_en": "Docker容器的优化和性能调优技巧 - CSDN博客",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/weixin_42011858/article/details/135072486",
+    "published_at": "2026-08-29T16:18:19.320Z",
+    "fetched_at": "2026-08-29T16:18:19.320Z",
+    "title_zh": "Docker容器的优化和性能调优技巧",
+    "summary_zh": "本文从实际运维角度出发，总结了Docker容器在资源利用和性能调优方面的关键技巧。内容涉及容器运行时参数配置（如CPU、内存限制）、存储驱动选择对I/O性能的影响、网络模式优化（如host与bridge对比），以及如何通过监控工具定位性能瓶颈。文章还探讨了镜像层缓存机制对构建速度的影响，并给出了减少容器启动延迟的实用建议，例如精简启动脚本和预加载依赖。对于需要管理大规模容器集群或优化单容器性能的工程师，本文提供了系统性的调优思路和可操作的具体参数示例。",
+    "topic": "ops"
+  },
+  {
+    "id": "3a9abdda96e37bfbde9436b4a967c952",
+    "title_en": "什么是Docker？了解Docker 容器技术、优势与企业应用 - IBM",
+    "source": "ibm.com",
+    "url": "https://www.ibm.com/cn-zh/think/topics/docker",
+    "published_at": "2026-08-29T16:18:19.320Z",
+    "fetched_at": "2026-08-29T16:18:19.320Z",
+    "title_zh": "什么是Docker？了解Docker容器技术、优势与企业应用",
+    "summary_zh": "本文作为Docker技术的入门级权威解读，系统介绍了容器技术的核心概念、工作原理及其在现代企业IT架构中的价值。内容从Docker与传统虚拟机的对比切入，清晰解释了镜像、容器、仓库等基础组件，并阐述了Docker在环境一致性、资源利用率、快速部署和微服务架构方面的突出优势。文章还结合企业实际应用场景，讨论了Docker在DevOps流程、混合云部署及CI/CD中的典型用法，并简要提及了与Kubernetes的协同关系。对于希望理解容器化改造价值的技术决策者和初学者，本文提供了全面且易于理解的参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "9cc133fcb656f524b6debde03e71ce46",
+    "title_en": "Optimize for building in the cloud | Docker Docs",
+    "source": "docs.docker.com",
+    "url": "https://docs.docker.com/build-cloud/optimization/",
+    "published_at": "2026-08-29T16:18:19.320Z",
+    "fetched_at": "2026-08-29T16:18:19.320Z",
+    "title_zh": "面向云环境构建的优化实践 | Docker官方文档",
+    "summary_zh": "本文是Docker官方文档中关于云环境构建优化的权威指南，重点聚焦于如何利用Docker构建云原生应用以提升效率与安全性。内容涵盖了使用BuildKit加速构建、利用缓存策略减少重复构建时间、以及通过多平台构建支持ARM等异构环境。文章还详细说明了如何配置远程缓存（如Registry缓存）以加速CI/CD流水线，并介绍了构建时密钥管理与安全扫描的最佳实践。对于在云环境中进行大规模镜像构建的团队，本文提供了官方推荐的技术方案和配置示例，有助于降低构建成本并提高交付速度。",
+    "topic": "ops"
+  },
+  {
+    "id": "fed6eed8c4055d10bdbe6fcde069c122",
+    "title_en": "Windows操作系统安全加固 - 阿里云帮助文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/document_detail/49781.html",
+    "published_at": "2026-08-29T16:18:19.320Z",
+    "fetched_at": "2026-08-29T16:18:19.320Z",
+    "title_zh": "Windows操作系统安全加固",
+    "summary_zh": "本文是阿里云提供的Windows系统安全加固操作指南，旨在帮助管理员提升云服务器或本地Windows主机的安全基线。内容覆盖了账户策略（如密码复杂度、账户锁定）、安全策略配置（如用户权限分配、审核策略）、防火墙规则优化、以及禁用不必要的服务和端口等关键措施。文章还针对常见风险点如远程桌面（RDP）暴露、Guest账户启用等给出了具体加固步骤，并推荐了安全补丁管理流程。对于需要满足等保合规或提升Windows服务器安全性的运维人员，本文提供了清晰、可执行的配置清单和操作示例。",
+    "topic": "security"
+  },
+  {
+    "id": "4bf357199237815536030f8327966cac",
+    "title_en": "Linux 操作系统安全加固措施- Leonardo-li - 博客园",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/Leonardo-li/p/17408922.html",
+    "published_at": "2026-08-29T16:18:19.320Z",
+    "fetched_at": "2026-08-29T16:18:19.320Z",
+    "title_zh": "Linux操作系统安全加固措施",
+    "summary_zh": "本文系统总结了Linux服务器安全加固的核心措施，适用于各类生产环境。内容从账户与认证安全入手，包括禁用root远程登录、配置sudo权限、设置密码策略；随后深入系统层面，介绍了SSH安全配置（如密钥认证、修改默认端口）、防火墙规则（iptables/firewalld）、以及内核参数优化（如禁用IP转发）。文章还涵盖了文件系统权限管理、日志审计（auditd）和定期安全更新策略。对于Linux运维工程师，本文提供了一套完整且经过实践验证的加固清单，能有效降低系统被入侵的风险，并满足基本的安全合规要求。",
+    "topic": "security"
+  },
+  {
+    "id": "f0fdaac37b5757fcd1b3e3c24c109571",
+    "title_en": "操作系统加固概述 - Docs | openEuler",
+    "source": "docs.openeuler.org",
+    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
+    "published_at": "2026-08-29T16:18:19.320Z",
+    "fetched_at": "2026-08-29T16:18:19.320Z",
+    "title_zh": "操作系统加固概述 | openEuler官方文档",
+    "summary_zh": "本文是openEuler操作系统官方文档中关于系统加固的概述性指南，旨在为管理员提供一套标准化的安全配置框架。内容首先定义了系统加固的目标与原则，然后从账户管理、权限控制、网络服务安全、内核安全参数、以及日志与审计等多个维度展开说明。文档特别强调了openEuler特有的安全特性，如安全启动、强制访问控制（如SELinux）的启用与配置，并提供了相应的检查与配置工具。对于使用openEuler或类似Linux发行版的企业用户，本文是构建安全基线、实施合规审计的重要参考资料。",
+    "topic": "security"
+  },
+  {
+    "id": "f3a70a0d4c50539151fbdccc90e3983a",
+    "title_en": "大模型微调实践避坑指南 - 知乎专栏",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1929489422182777819",
+    "published_at": "2026-08-29T16:18:17.603Z",
+    "fetched_at": "2026-08-29T16:18:17.603Z",
+    "title_zh": "大模型微调实践避坑指南",
+    "summary_zh": "本文基于实际项目经验，系统梳理了大模型微调过程中的常见陷阱与解决方案。内容涵盖数据清洗与预处理的关键细节、超参数选择策略（如学习率、批次大小、训练轮数）、过拟合与灾难性遗忘的应对方法，以及评估指标的设计与解读。作者重点强调了数据质量对微调效果的直接影响，并分享了如何通过小规模实验快速验证假设、避免资源浪费的实用技巧。对于正在从事LLM应用开发或希望提升模型定制能力的工程师，本文提供了极具操作性的避坑建议，能有效缩短调试周期并提升模型最终性能。",
+    "topic": "ai"
+  },
+  {
+    "id": "0ecb0f55423bc6d501fd73689bd3ae4a",
+    "title_en": "大模型微调全景指南：从原理到实战，新手如何炼成专属AI - YouTube",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=QkuHIqUlms0",
+    "published_at": "2026-08-29T16:18:17.603Z",
+    "fetched_at": "2026-08-29T16:18:17.603Z",
+    "title_zh": "大模型微调全景指南：从原理到实战，新手如何炼成专属AI",
+    "summary_zh": "本视频教程为大模型微调提供了从理论基础到工程实践的完整路径。内容首先解析了微调的核心原理，包括预训练与微调的区别、参数高效微调方法（如LoRA、Adapter）的适用场景，随后逐步演示了数据准备、模型选择、训练配置及部署流程。针对新手常见问题，视频重点讲解了显存优化技巧、训练稳定性控制以及如何避免过拟合。此外，还探讨了微调与RAG、提示工程等技术的结合策略，帮助开发者根据业务需求选择最合适的定制方案。适合希望快速上手大模型定制化开发的AI工程师。",
+    "topic": "ai"
+  },
+  {
     "id": "68f12d65aff670f33f6278404accd48e",
     "title_en": "安全缺陷",
     "source": "kernel.org",
@@ -2099,104 +2198,5 @@
     "title_zh": "【提效】docker镜像构建优化-提速10倍",
     "summary_zh": "本文深入探讨了Docker镜像构建速度慢的根因，并提出了多项可落地的优化策略，旨在实现10倍提速。核心技巧包括：合理利用构建缓存（如调整Dockerfile指令顺序）、使用BuildKit的高级特性（如并发执行与挂载缓存）、以及采用多阶段构建来精简最终镜像体积。文章还分析了网络层面对构建速度的影响，并给出了配置镜像源与使用代理的实用建议。通过具体的案例对比，展示了优化前后的构建时间差异，为CI/CD流水线的效率提升提供了直接参考。",
     "topic": "ops"
-  },
-  {
-    "id": "b8ef8c0d59a2c5d38c5237e2c43682da",
-    "title_en": "Docker容器的优化思路 - Escape",
-    "source": "escapelife.site",
-    "url": "https://www.escapelife.site/posts/36c7bd6f.html",
-    "published_at": "2026-08-24T18:26:54.462Z",
-    "fetched_at": "2026-08-24T18:26:54.462Z",
-    "title_zh": "Docker容器的优化思路 - Escape",
-    "summary_zh": "本文从系统层面梳理了Docker容器的优化思路，旨在提升运行性能与资源利用率。内容涵盖镜像瘦身（如使用Alpine基础镜像、合并RUN指令）、容器运行时参数调优（如设置CPU与内存限制）、以及存储驱动与网络模式的选择对性能的影响。文章还探讨了如何通过健康检查与日志管理来增强容器的可运维性。此外，针对生产环境，提出了使用编排工具（如Kubernetes）进行资源调度与弹性伸缩的建议，帮助读者构建更高效、稳定的容器化应用。",
-    "topic": "ops"
-  },
-  {
-    "id": "604b82cbddf294dfc5eff29f5a0c9775",
-    "title_en": "Docker 原理新手指南：一文看懂Docker 是什么? - Red Hat",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/topics/containers/what-is-docker",
-    "published_at": "2026-08-24T18:26:54.462Z",
-    "fetched_at": "2026-08-24T18:26:54.462Z",
-    "title_zh": "Docker 原理新手指南：一文看懂Docker 是什么? - Red Hat",
-    "summary_zh": "本文作为Red Hat出品的新手指南，以清晰易懂的方式解释了Docker的核心原理。文章从容器与虚拟机的本质区别入手，详细剖析了Docker所依赖的Linux内核技术，包括命名空间（Namespace）用于隔离进程、控制组（Cgroups）用于限制资源，以及联合文件系统（UnionFS）用于分层镜像构建。通过理解这些底层机制，读者能够更好地掌握Docker镜像、容器、仓库等核心概念，并理解其轻量、便携特性的来源，为后续的实践操作打下坚实基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "7194dbae96c63e1840c40776ccc2b79b",
-    "title_en": "June 2026 CVE Landscape",
-    "source": "recordedfuture.com",
-    "url": "https://www.recordedfuture.com/blog/june-2026-cve-landscape",
-    "published_at": "2026-08-24T18:26:54.462Z",
-    "fetched_at": "2026-08-24T18:26:54.462Z",
-    "title_zh": "2026年6月CVE态势分析",
-    "summary_zh": "本文基于Recorded Future的威胁情报，对2026年6月披露的CVE漏洞进行了态势分析。内容聚焦于当月高危漏洞的分布情况，包括受影响的主要厂商与产品、漏洞类型（如远程代码执行、权限提升）以及被利用的活跃度。文章重点分析了值得优先关注的在野利用漏洞，并提供了针对性的缓解措施与补丁优先级建议。此外，还探讨了漏洞披露到利用的时间窗口变化趋势，旨在帮助安全团队更好地进行风险评估与漏洞管理。",
-    "topic": "security"
-  },
-  {
-    "id": "ce5393af4de7f0c07ad75f2fdf0dfbb7",
-    "title_en": "大模型微调最佳实践指南问答（文末附最佳实践操作）",
-    "source": "adg.csdn.net",
-    "url": "https://adg.csdn.net/69708b47437a6b40336aa2f2.html",
-    "published_at": "2026-08-24T18:26:53.189Z",
-    "fetched_at": "2026-08-24T18:26:53.189Z",
-    "title_zh": "大模型微调最佳实践指南问答（文末附最佳实践操作）",
-    "summary_zh": "本文以问答形式解答了大模型微调过程中的常见疑难问题，并附有可直接操作的最佳实践流程。内容涉及数据规模与质量对微调效果的影响、如何避免灾难性遗忘、以及不同微调框架（如Hugging Face PEFT、DeepSpeed）的配置技巧。文章特别针对显存受限的环境，给出了QLoRA等量化微调方案的具体参数设置建议。此外，还探讨了如何通过指令微调与人类反馈强化学习（RLHF）进一步提升模型在特定任务上的表现，并提供了端到端的实践案例。",
-    "topic": "ai"
-  },
-  {
-    "id": "3e91d5fc1d6ebd3f034a19770597c255",
-    "title_en": "2026 AI Agent框架终极指南：从入门到生产部署的选型地图",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1SqAVzLEci/",
-    "published_at": "2026-08-24T18:26:53.188Z",
-    "fetched_at": "2026-08-24T18:26:53.188Z",
-    "title_zh": "2026 AI Agent框架终极指南：从入门到生产部署的选型地图",
-    "summary_zh": "本文系统梳理了2026年主流AI Agent框架的选型要点，覆盖从原型验证到生产级部署的全链路。内容聚焦于框架的生态成熟度、多智能体协作能力、工具调用效率、可观测性及与现有基础设施的集成度等关键维度。通过对比不同框架在复杂任务编排、状态管理与故障恢复上的表现，为技术团队提供了基于业务场景的决策参考，并强调了在选型时需重点考察的工程化能力，如模型兼容性、并发处理与安全沙箱机制。",
-    "topic": "ai"
-  },
-  {
-    "id": "62b6a632c18209f3b4f4e1a0d276c695",
-    "title_en": "面向NL2BI的大模型微调最佳实践 - 阿里云文档",
-    "source": "help.aliyun.com",
-    "url": "https://help.aliyun.com/zh/pai/use-cases/best-practices-for-fine-tuning-with-nl2bi",
-    "published_at": "2026-08-24T18:26:53.188Z",
-    "fetched_at": "2026-08-24T18:26:53.188Z",
-    "title_zh": "面向NL2BI的大模型微调最佳实践 - 阿里云文档",
-    "summary_zh": "本文档聚焦于将大模型微调应用于自然语言转商业智能（NL2BI）场景的工程实践。核心内容包括数据构建策略（如何生成高质量的SQL-文本对）、模型基座选择、微调参数配置（如LoRA的秩与学习率）以及评估方法论。特别强调了在微调过程中如何保持模型对数据库Schema的敏感度，并处理复杂查询、多表关联等挑战。文档还提供了在阿里云平台上的具体操作步骤与性能调优建议，旨在帮助开发者构建更精准、稳定的NL2BI应用。",
-    "topic": "ai"
-  },
-  {
-    "id": "f86a5d911c85e2302588f2f458cba744",
-    "title_en": "大模型参数高效微调技术原理综述（七）-最佳实践、总结",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/636999010",
-    "published_at": "2026-08-24T18:26:53.188Z",
-    "fetched_at": "2026-08-24T18:26:53.188Z",
-    "title_zh": "大模型参数高效微调技术原理综述（七）-最佳实践、总结",
-    "summary_zh": "作为参数高效微调（PEFT）系列综述的收官篇，本文总结了各类主流方法（如Adapter、Prefix-Tuning、LoRA及其变体）的适用场景与局限性。文章从计算资源、内存占用、模型性能与泛化能力等角度出发，给出了在不同任务类型（如文本分类、代码生成）下的选型建议。同时，文中还探讨了PEFT与全量微调在收敛速度、灾难性遗忘方面的差异，并提出了结合量化与蒸馏等技术的混合优化策略，为研究者和工程师提供了系统性的实践参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "1ce24f4914f42e22324dec4fd7d1bec2",
-    "title_en": "大模型微调完全指南：从“通用学霸”到“领域专家”的进化之路",
-    "source": "developer.volcengine.com",
-    "url": "https://developer.volcengine.com/articles/7602239946186833966",
-    "published_at": "2026-08-24T18:26:53.188Z",
-    "fetched_at": "2026-08-24T18:26:53.189Z",
-    "title_zh": "大模型微调完全指南：从“通用学霸”到“领域专家”的进化之路",
-    "summary_zh": "本文提供了一份面向实战的大模型微调完整指南，旨在帮助开发者将通用大模型转化为特定领域的专家。内容涵盖了微调前的数据准备与清洗、基座模型的选择标准、以及全参微调与LoRA、QLoRA等高效微调方法的对比与选择。文章重点剖析了训练过程中的关键超参数（如学习率、批次大小）对效果的影响，并分享了如何通过评估集进行模型验证与迭代。此外，还讨论了微调后模型可能出现的过拟合与幻觉问题及相应的缓解策略。",
-    "topic": "ai"
-  },
-  {
-    "id": "69247c64704871a0efb7213c1dbdfa48",
-    "title_en": "自动识别CVE受影响的版本与补丁和开发人员日志",
-    "source": "secrss.com",
-    "url": "https://www.secrss.com/articles/66926?app=1",
-    "published_at": "2026-08-24T12:28:56.299Z",
-    "fetched_at": "2026-08-24T12:28:56.299Z",
-    "title_zh": "自动识别CVE受影响的版本与补丁和开发人员日志",
-    "summary_zh": "本文探讨了如何自动化识别软件组件受CVE（公共漏洞和暴露）影响的版本，并关联补丁信息与开发人员日志，以提升漏洞管理的效率与准确性。文章可能介绍了基于软件物料清单（SBOM）的漏洞扫描方法，以及如何通过解析CVE数据库（如NVD）和厂商安全公告，结合版本比对算法，精确判断当前使用的组件版本是否受影响。此外，文章还讨论了如何利用版本控制系统的提交日志（Git log）和开发人员提交记录，辅助分析漏洞的引入时间、影响范围及修复进度。对于安全工程师和DevOps团队，本文提供了一种将安全漏洞管理与开发流程深度融合的实践思路，有助于实现更主动的漏洞响应。",
-    "topic": "security"
   }
 ]
