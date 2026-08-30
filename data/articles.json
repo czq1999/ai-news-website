@@ -1,5 +1,82 @@
 [
   {
+    "id": "45cb6f1654d7aa7cbe258102cf813d3c",
+    "title_en": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "published_at": "2026-08-30T15:35:10.000Z",
+    "fetched_at": "2026-08-30T15:44:04.612Z",
+    "title_zh": "得州州长阿博特阻止为更多Flock摄像头提供资金",
+    "summary_zh": "得克萨斯州州长格雷格·阿博特否决了为更多Flock监控摄像头提供资金的提案。Flock摄像头由AI驱动，用于车牌识别和犯罪侦查，但引发了隐私担忧。阿博特此举被视为对隐私倡导者的支持，也反映了公共安全与个人自由之间的平衡问题。该决定可能影响其他州对类似监控技术的采用态度。",
+    "category": "industry"
+  },
+  {
+    "id": "2c4b734e7ec8dbe08c195372f861737e",
+    "title_en": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "published_at": "2026-08-30T15:00:00.000Z",
+    "fetched_at": "2026-08-30T15:44:04.578Z",
+    "title_zh": "卡特彼勒将自动化采矿经验引入AI部署",
+    "summary_zh": "卡特彼勒公司正将其在自动化采矿领域积累的经验应用于AI部署。该公司在矿山自动化方面拥有丰富实践，包括远程操作、自动驾驶卡车和智能调度系统。现在，这些技术和方法被迁移到更广泛的工业AI场景，旨在提高效率、安全性和可靠性。此举标志着传统重工业与前沿AI技术的深度融合，为其他行业提供了可借鉴的转型路径。",
+    "category": "industry"
+  },
+  {
+    "id": "04147e76e96ecba01466bac9b4b608d5",
+    "title_en": "Chess.com launched a poker site and is planning even more classic games",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+    "published_at": "2026-08-30T13:00:00.000Z",
+    "fetched_at": "2026-08-30T15:44:04.613Z",
+    "title_zh": "Chess.com推出扑克网站，并计划更多经典游戏",
+    "summary_zh": "国际象棋平台Chess.com正式推出扑克网站，并宣布将扩展更多经典游戏。此举标志着该平台从单一棋类向多元化游戏社区转型。Chess.com拥有庞大用户基础，新扑克产品可能吸引更多休闲玩家。公司还计划引入其他传统游戏，以增强用户粘性和收入来源。这一战略扩展可能对在线游戏市场产生重要影响。",
+    "category": "product"
+  },
+  {
+    "id": "b621bcbbd9a609463ce5ebe91c377677",
+    "title_en": "China’s robots race ahead",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+    "published_at": "2026-08-30T12:00:00.000Z",
+    "fetched_at": "2026-08-30T15:44:04.613Z",
+    "title_zh": "中国机器人产业加速领跑",
+    "summary_zh": "中国机器人产业正以前所未有的速度发展，在工业、服务和特种机器人领域均取得显著进展。得益于政策支持、庞大市场需求和供应链优势，中国机器人企业快速迭代技术，降低成本。从工厂自动化到家庭服务，中国机器人正走向全球市场。专家预测，中国有望在未来几年成为全球机器人技术创新的领导者。",
+    "category": "industry"
+  },
+  {
+    "id": "1cc5a616ebc2687457c91b0023491104",
+    "title_en": "Two new small, powerful Macs",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+    "published_at": "2026-08-30T12:00:00.000Z",
+    "fetched_at": "2026-08-30T15:44:04.613Z",
+    "title_zh": "两款新型小巧而强大的Mac发布",
+    "summary_zh": "苹果公司推出了两款新型Mac，均以小巧体积和强大性能为卖点。新款Mac搭载最新芯片，提供卓越的计算能力和能效，适合专业用户和创意工作者。设计上延续了苹果的极简风格，同时提升了散热和续航。这两款产品进一步巩固了苹果在个人电脑市场的竞争力，并满足了用户对便携性和高性能的双重需求。",
+    "category": "product"
+  },
+  {
+    "id": "ac9fad0504cb005ced1821edaee08e7d",
+    "title_en": "Inside Meta’s push to put robots to work in data centers",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "published_at": "2026-08-30T11:03:47.000Z",
+    "fetched_at": "2026-08-30T15:44:04.886Z",
+    "title_zh": "Meta推动机器人在数据中心工作",
+    "summary_zh": "Meta正在探索将机器人技术应用于其数据中心，以提升运营效率和自动化水平。这些机器人可能承担服务器维护、设备巡检和物流搬运等任务。此举旨在应对数据中心日益增长的运维需求，同时降低人力成本和安全风险。Meta的尝试可能引领科技巨头在基础设施管理中采用更多机器人解决方案。",
+    "category": "industry"
+  },
+  {
+    "id": "075f2ec4eeb3167f3997306fd08bb219",
+    "title_en": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
+    "published_at": "2026-08-30T11:00:00.000Z",
+    "fetched_at": "2026-08-30T15:44:05.013Z",
+    "title_zh": "2026年最佳Mesh Wi-Fi系统：全面实测横评",
+    "summary_zh": "Wired杂志对2026年市面上的多款Mesh Wi-Fi系统进行了全面测试，覆盖覆盖范围、速度、延迟及易用性等维度。评测结果揭示了不同产品在性能与价格上的权衡，并给出了针对不同户型和使用场景的购买建议。对于希望消除家庭网络死角的用户，该评测提供了极具价值的参考。",
+    "category": "product"
+  },
+  {
     "id": "d6187ae694b5cb5309643814a8785469",
     "title_en": "Why the Hottest New Wearables Want to Be Ignored",
     "source": "Wired",
@@ -108,6 +185,116 @@
     "title_zh": "无干扰写作设备BYOK新增自定义扩展功能",
     "summary_zh": "主打无干扰写作的硬件设备BYOK推出自定义扩展功能，允许用户添加个性化工具和集成，在保持专注环境的同时提升灵活性。该更新旨在吸引更多专业写作者，平衡极简主义与功能需求。",
     "category": "product"
+  },
+  {
+    "id": "11d985d4fdef2803e5d0f1e88865a3ae",
+    "title_en": "Meta Continues to Trade Jobs for AI: Robots Are “Coming For Us All”",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/78cef4536775af6a",
+    "published_at": "2026-08-29T15:37:17Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "Meta持续以AI取代岗位：机器人“终将取代我们所有人”",
+    "summary_zh": "Meta公司继续推进其AI战略，通过大规模裁员和引入自动化技术来优化运营。公司内部传达的信息表明，AI驱动的变革被视为不可避免的趋势，甚至高层言论暗示“机器人终将取代我们所有人”。此举引发了关于科技行业就业前景和AI伦理的广泛担忧，也反映了大型科技公司在效率与人力之间的艰难抉择。",
+    "category": "industry"
+  },
+  {
+    "id": "b4292bc6e5f2a029966c73e06d7a0034",
+    "title_en": " Borussia Dortmund: XI vs Hamburg with 3 debutants",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/borussia-dortmund-xi-vs-hamburg-with-3-debutants-43362713",
+    "published_at": "2026-08-29T15:36:00Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "多特蒙德对阵汉堡：三名新援首发",
+    "summary_zh": "多特蒙德即将在比赛中对阵汉堡，球队公布了首发阵容，其中包括三名新援的首次亮相。这一排兵布阵显示了主教练对新球员的信任，并期望他们能为球队带来新的活力。本场比赛对于多特蒙德而言，既是检验新阵容磨合度的机会，也是争取赛季开局优势的关键战役。",
+    "category": "product"
+  },
+  {
+    "id": "db0d11f13d719048b2d25abb1309d5d8",
+    "title_en": "✅ Official 18.30 line-ups: calls on Berardi, Dodô, Fagioli, Comuzzo",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/official-1830-line-ups-calls-on-berardi-dodo-fagioli-comuzzo-43362693",
+    "published_at": "2026-08-29T15:34:00Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "官方18:30首发名单：贝拉尔迪、多多、法吉奥利、科穆佐入选",
+    "summary_zh": "官方公布了18:30场比赛的首发名单，贝拉尔迪、多多、法吉奥利和科穆佐等关键球员均位列其中。这份名单揭示了球队本场比赛的战术意图和人员安排，备受球迷关注。这些球员的出场状态和表现将对比赛走势产生重要影响。",
+    "category": "product"
+  },
+  {
+    "id": "937b05106ab574bb46c71857a1bc7cbf",
+    "title_en": "First big shock: Bundesliga newcomers beat Bayer Leverkusen ",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/first-massive-shock-bundesliga-newcomers-beat-bayer-leverkusen-43362647",
+    "published_at": "2026-08-29T15:27:00Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "首个大冷门：德甲升班马击败勒沃库森",
+    "summary_zh": "德甲联赛爆出本赛季首个大冷门，升班马球队出人意料地击败了夺冠热门勒沃库森。这场胜利不仅为升班马赢得了宝贵的三分，也打破了外界对其实力的质疑。勒沃库森的失利则暴露出其在面对密集防守和快速反击时的短板，这场结果无疑将给德甲争冠格局带来新的变数。",
+    "category": "product"
+  },
+  {
+    "id": "400ba0128c5ee10ed627a3d957178516",
+    "title_en": "Mark Zuckerberg addresses Meta employees on organizational shifts after massive AI-driven layoffs",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/zuckerberg-meta-ai-layoffs-project-ot/",
+    "published_at": "2026-08-29T15:23:41Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "马克·扎克伯格就大规模AI裁员后的组织调整向Meta员工发表讲话",
+    "summary_zh": "在Meta进行大规模AI驱动的裁员之后，CEO马克·扎克伯格向全体员工发表讲话，阐述了公司未来的组织调整方向。他强调了AI在提升效率方面的核心作用，并解释了此次重组对于公司长期战略的必要性。讲话旨在安抚员工情绪，并明确公司在AI优先时代下的新工作模式和企业文化。",
+    "category": "industry"
+  },
+  {
+    "id": "5791b3cffc4cf2da5c9e1972582f814d",
+    "title_en": "OpenAI’s Cursor Termination Turns Model Supply Into a Competitive Weapon",
+    "source": "Forkast.news",
+    "url": "https://forkast.news/openais-cursor-termination-turns-model-supply-into-a-competitive-weapon/",
+    "published_at": "2026-08-29T15:22:55Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "OpenAI终止Cursor合作：模型供应成为竞争武器",
+    "summary_zh": "OpenAI终止与AI编程工具Cursor的合作，此举被视为将模型供应作为竞争筹码的战略性动作。通过限制对手获取先进模型，OpenAI意在巩固自身在AI应用生态中的主导地位，并迫使开发者更深度依赖其平台。这一事件凸显了上游模型提供商与下游应用开发商之间日益紧张的竞合关系，也预示着AI产业链权力格局的重新洗牌。",
+    "category": "industry"
+  },
+  {
+    "id": "09a26dd777f2ce9da6f60b1dcc58c0ed",
+    "title_en": "Firefly CEO: AI Powers Moon Landings, Defense Tech",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/32e5577ac10affe9",
+    "published_at": "2026-08-29T15:22:24Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "萤火虫CEO：AI助力登月与国防科技",
+    "summary_zh": "萤火虫航空航天公司CEO表示，人工智能正在深刻改变太空探索与国防技术领域。AI不仅用于优化火箭发射和着陆的复杂计算，还能提升卫星自主运行能力，并在军事侦察、通信和决策支持系统中发挥关键作用。公司正将AI作为核心技术驱动力，以降低任务成本、提高成功率，并拓展商业与政府客户市场。",
+    "category": "industry"
+  },
+  {
+    "id": "69a3ec65e76c7722da6aad0a7abccad1",
+    "title_en": "Trump backlash adds new risks to the stocks the government owns",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/29/trump-backlash-risks-government-stocks-intel-mp-materials-trilogy-metals/",
+    "published_at": "2026-08-29T15:19:14Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "特朗普反弹为政府持股的股票增添新风险",
+    "summary_zh": "随着特朗普政治影响力的反弹，政府持股的上市公司面临新的不确定性风险。政策风向变化可能影响这些企业的监管环境、合同获取及市场估值。投资者需警惕政治因素对特定行业（如能源、国防、科技）的冲击，尤其是那些与政府关系密切的公司。分析人士建议关注政策动态，以调整投资组合应对潜在波动。",
+    "category": "industry"
+  },
+  {
+    "id": "0ab1274c0d54f3dcb2c5140181340072",
+    "title_en": "RB new boy Reitz shines against former club Gladbach",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/rb-new-boy-reitz-shines-against-former-club-gladbach-43362578",
+    "published_at": "2026-08-29T15:10:00Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "RB新援赖茨对阵旧主门兴表现闪耀",
+    "summary_zh": "RB莱比锡新援赖茨在对阵老东家门兴格拉德巴赫的比赛中大放异彩，凭借出色的表现帮助球队取得关键胜利。赖茨在攻防两端均展现高水准，其精准传球和积极跑动成为球队中场核心。赛后他谦逊表示，面对旧主更激发斗志，并感谢新队友的支持。此役进一步巩固了他在球队中的主力位置。",
+    "category": "product"
+  },
+  {
+    "id": "dcb752151747cad6b1755a6bc731f7e5",
+    "title_en": "AI learns to model motion more intelligently: New framework improves 3D reconstruction of complex dynamic scenes",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/article/ai-learns-to-model-motion-more-intelligently-new-framework-improves-3d-reconstruction-of-complex-dynamic-scenes/",
+    "published_at": "2026-08-29T15:08:00Z",
+    "fetched_at": "2026-08-30T15:44:05.614Z",
+    "title_zh": "AI更智能地建模运动：新框架提升复杂动态场景3D重建",
+    "summary_zh": "研究人员提出一种新型AI框架，显著提升复杂动态场景的3D重建精度与效率。该框架通过智能建模物体运动规律，减少对密集数据采集的依赖，并能处理遮挡、形变等挑战。实验表明，其在人体动作捕捉、自动驾驶仿真等场景中表现优于现有方法。这一进展有望推动虚拟现实、机器人感知等领域的应用落地。",
+    "category": "research"
   },
   {
     "id": "e10c0e906ea40f3cac8db3238ded76b6",
@@ -5310,193 +5497,6 @@
     "fetched_at": "2026-08-24T12:28:00.614Z",
     "title_zh": "印度国防部长与西孟加拉邦首席部长在加尔各答虚拟主持 GRSE 和 YIL 五个扩建项目的奠基仪式",
     "summary_zh": "印度国防部长拉杰纳特·辛格与西孟加拉邦首席部长玛玛塔·班纳吉通过虚拟方式，共同主持了 GRSE（加登里奇造船与工程师有限公司）和 YIL（耶斯万特普尔工业有限公司）五个扩建项目的奠基仪式（Bhumi Pujan）。这些项目旨在提升印度国防造船和工业制造能力，加强本土化生产，并推动区域经济发展。",
-    "category": "industry"
-  },
-  {
-    "id": "16cfb437b5ad84f6cbd40eb9f4b0a692",
-    "title_en": "Why Tempus AI Skyrocketed This Week",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/fe35e2c646e5fad2",
-    "published_at": "2026-08-23T11:56:53Z",
-    "fetched_at": "2026-08-24T12:28:00.614Z",
-    "title_zh": "Tempus AI 本周股价飙升的原因",
-    "summary_zh": "Tempus AI 本周股价大幅上涨，主要受利好消息推动。该公司专注于将人工智能应用于医疗健康领域，近期可能发布了积极的临床数据或达成了重要合作。市场对其 AI 驱动精准医疗平台的商业化前景持乐观态度，投资者情绪高涨，推动股价在短期内显著走高。",
-    "category": "industry"
-  },
-  {
-    "id": "1e304ac1a5d5f1fff532a771d9c86307",
-    "title_en": "If Amazon Is a Top Growth Stock, Then Why Does It Trade at Just 21.3x Forward Earnings While the S&P 500 Trades at 20.4x? This Is the Only Answer I Can Think Of",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/31db83765d946916",
-    "published_at": "2026-08-23T11:56:38Z",
-    "fetched_at": "2026-08-24T12:28:00.614Z",
-    "title_zh": "若亚马逊是顶级成长股，为何其远期市盈率仅 21.3 倍，而标普 500 为 20.4 倍？这是我唯一能想到的答案",
-    "summary_zh": "文章探讨了亚马逊作为顶级成长股，其远期市盈率（21.3 倍）与标普 500 指数（20.4 倍）相差无几的现象。作者认为，市场可能已将其增长潜力充分定价，或对其利润率、竞争压力存在担忧。这一估值对比引发投资者对亚马逊未来增长可持续性的思考，并可能影响其投资决策。",
-    "category": "industry"
-  },
-  {
-    "id": "a14cbbbe7181c7d9dc0e0668408e0ca2",
-    "title_en": " Full agreement for Bouaddi’s blockbuster move to Manchester City",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/full-agreement-for-bouaddis-mega-move-to-man-city-43325152",
-    "published_at": "2026-08-23T11:51:00Z",
-    "fetched_at": "2026-08-24T12:28:00.614Z",
-    "title_zh": "布阿迪转会曼城的重磅交易已完全达成一致",
-    "summary_zh": "据报道，年轻中场球员布阿迪转会曼城的交易已完全达成一致。这笔重磅转会标志着曼城在加强中场阵容方面迈出关键一步。布阿迪被视为极具潜力的新星，他的加盟有望为球队带来更多创造力和活力。交易细节尚未完全公开，但预计将很快正式官宣。",
-    "category": "industry"
-  },
-  {
-    "id": "eb146499119d497c7584ed69dc62bde6",
-    "title_en": "What’s the Best Kindle of 2026? (So Far)",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-kindle/",
-    "published_at": "2026-08-23T11:03:00.000Z",
-    "fetched_at": "2026-08-23T12:20:05.861Z",
-    "title_zh": "2026年最佳Kindle评选（截至目前）",
-    "summary_zh": "本文盘点了2026年迄今最值得购买的Kindle电子书阅读器。评测涵盖最新款Paperwhite、基础版Kindle及旗舰Oasis等型号，从屏幕素质、续航、便携性、价格等维度进行对比。文章指出，2026年新品在显示效果和响应速度上均有提升，但不同价位产品定位差异明显，消费者应根据阅读习惯和预算选择。",
-    "category": "product"
-  },
-  {
-    "id": "45076cf7633cc6bb2c4f64a79ecae0b8",
-    "title_en": "Transistors Changed Everything. Here’s How They Work",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
-    "published_at": "2026-08-23T11:00:00.000Z",
-    "fetched_at": "2026-08-23T12:20:05.861Z",
-    "title_zh": "晶体管改变了世界，它们是如何工作的？",
-    "summary_zh": "晶体管是现代电子设备的基石，从手机到超级计算机都离不开它。本文以通俗易懂的方式解释了晶体管的基本原理，包括半导体材料、PN结、场效应等概念，并回顾了从真空管到集成电路的发展历程。文章强调，理解晶体管的工作机制是理解数字时代一切技术的基础。",
-    "category": "research"
-  },
-  {
-    "id": "0325eba836758b6d36a44c226f5b7249",
-    "title_en": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-    "published_at": "2026-08-23T10:37:00.000Z",
-    "fetched_at": "2026-08-23T12:20:05.861Z",
-    "title_zh": "2026年最佳6款笔记本扩展坞，解锁完整桌面体验",
-    "summary_zh": "随着轻薄笔记本普及，扩展坞成为提升生产力的关键配件。本文精选了2026年6款最佳笔记本扩展坞，涵盖雷电4、USB-C等不同接口标准，支持多屏输出、高速数据传输和电源直充。评测重点包括兼容性、散热、接口丰富度及性价比，帮助用户根据设备和工作流选择最合适的扩展方案。",
-    "category": "product"
-  },
-  {
-    "id": "c570f7136e84e01f3049ff020fc99018",
-    "title_en": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
-    "published_at": "2026-08-23T09:30:00.000Z",
-    "fetched_at": "2026-08-23T12:20:05.861Z",
-    "title_zh": "我用iOS 27重构版快捷指令App打造的7个iPhone实用技巧",
-    "summary_zh": "iOS 27对快捷指令App进行了大幅重构，带来了更强大的自动化能力和更简洁的界面。本文作者分享了基于新版本打造的7个实用技巧，涵盖自动整理相册、一键生成会议纪要、智能家居联动、定时发送消息等场景。这些技巧展示了新快捷指令在提升日常效率方面的巨大潜力，适合追求高效的数字生活用户。",
-    "category": "product"
-  },
-  {
-    "id": "e5e909343274da249469447d45d364c9",
-    "title_en": "Is Expensive Bottled Water Actually Better for You?",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-    "published_at": "2026-08-23T09:00:00.000Z",
-    "fetched_at": "2026-08-23T12:20:05.861Z",
-    "title_zh": "昂贵的瓶装水真的对你更好吗？",
-    "summary_zh": "市面上瓶装水价格从几元到几十元不等，高价是否意味着更健康？本文通过对比不同品牌瓶装水的矿物质含量、水源地、处理工艺，并咨询营养学专家，指出大部分瓶装水与优质自来水在健康指标上并无显著差异。文章提醒消费者，选择水应关注安全标准而非价格标签，同时呼吁关注塑料瓶的环境影响。",
-    "category": "research"
-  },
-  {
-    "id": "866125350c078f677e0db6e0c3063dec",
-    "title_en": "McDonald's Really Keeps 515-Page Customer Dossiers Rivaling FBI Files, Investigation Reveals",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/mcdonalds-data-collection-customer-profiling-1874410",
-    "published_at": "2026-08-23T06:33:43Z",
-    "fetched_at": "2026-08-24T06:37:26.255Z",
-    "title_zh": "调查揭露：麦当劳竟保存长达515页的顾客档案，堪比FBI卷宗",
-    "summary_zh": "一项调查披露，麦当劳在内部系统中为部分顾客建立了长达515页的详细档案，记录内容包括点餐习惯、消费频次、投诉记录乃至个人偏好等敏感信息。该档案规模与详细程度被指“堪比FBI调查文件”，引发公众对快餐巨头数据收集边界的严重担忧。尽管麦当劳辩称此举旨在提升个性化服务，但隐私专家指出，在缺乏明确授权与透明度的情况下，此类深度数据画像可能违反数据保护法规，并带来滥用风险。",
-    "category": "industry"
-  },
-  {
-    "id": "1e4d869e274f0b4ac6f93f017e412a93",
-    "title_en": "️ Front pages: Espí saves Mou, Barça debut, United crash",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/front-pages-espi-saves-mou-barca-debut-united-crash-43323962",
-    "published_at": "2026-08-23T06:22:00Z",
-    "fetched_at": "2026-08-24T06:37:26.255Z",
-    "title_zh": "头版头条：埃斯皮拯救穆帅，巴萨首秀，曼联崩盘",
-    "summary_zh": "欧洲足坛昨夜战况激烈，多场焦点战结果出人意料。在备受关注的一场对决中，埃斯皮的关键表现挽救了穆里尼奥执教的球队，避免了一场失利。巴塞罗那新援完成首秀，表现可圈可点，为球队注入新活力。而曼联则在比赛中遭遇崩盘，防线漏洞百出，最终吞下惨痛失利。本轮比赛结果或将对接下来的联赛争冠及保级形势产生重要影响，各队主帅的战术调整与球员状态成为球迷热议焦点。",
-    "category": "industry"
-  },
-  {
-    "id": "e7ff906dd87feb30dcd32f3d3ecc7a66",
-    "title_en": "France expands India education outreach, targets 30,000 students by 2030",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/external-affairs-defence-security/news/france-expands-india-education-outreach-targets-30-000-students-by-2030-126082300164_1.html",
-    "published_at": "2026-08-23T06:07:46Z",
-    "fetched_at": "2026-08-24T06:37:26.255Z",
-    "title_zh": "法国扩大印度教育合作，目标2030年吸引3万名印度学生",
-    "summary_zh": "法国政府宣布将进一步深化与印度的教育合作，推出一系列奖学金、签证便利化及高校联合培养项目，目标是在2030年前将在法印度留学生人数提升至3万人。此举是法国“国际教育战略”的一部分，旨在吸引全球顶尖人才，并加强与印度在科技、工程、管理等领域的人文交流。法国高校将增设英语授课课程，并简化学生签证流程。分析认为，这一政策将促进两国在AI、航天等高科技领域的产学研合作。",
-    "category": "industry"
-  },
-  {
-    "id": "ca3703789e785c8b1b658c397280ade4",
-    "title_en": "xAI's Memphis Data Center Sparks Outrage Over Unpermitted Gas Turbines Polluting Nearby Neighborhoods",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/xai-legal-backlash-unpermitted-gas-turbines-memphis-1874408",
-    "published_at": "2026-08-23T06:06:50Z",
-    "fetched_at": "2026-08-24T06:37:26.256Z",
-    "title_zh": "xAI孟菲斯数据中心因未经许可运行燃气轮机污染社区引发众怒",
-    "summary_zh": "马斯克旗下xAI公司在孟菲斯建设的大型数据中心被曝未经必要环境许可，擅自运行多台燃气轮机发电，导致周边社区空气污染加剧，居民健康受到威胁。当地环保组织及居民对此表示强烈抗议，指责该公司无视法规与社区权益。该事件引发了对AI算力扩张与环境保护之间矛盾的广泛讨论。监管机构已介入调查，xAI可能面临巨额罚款及停运整改要求，这也为其他科技巨头的数据中心选址与能源策略敲响警钟。",
-    "category": "industry"
-  },
-  {
-    "id": "7ee5ce4a3beccb561ce2a7437e61b606",
-    "title_en": "Air traffic control is becoming more automated. Is regulation keeping up?",
-    "source": "The Conversation Africa",
-    "url": "https://theconversation.com/air-traffic-control-is-becoming-more-automated-is-regulation-keeping-up-288444",
-    "published_at": "2026-08-23T06:05:43Z",
-    "fetched_at": "2026-08-24T06:37:26.256Z",
-    "title_zh": "空中交通管制自动化程度日益提高，监管是否跟得上？",
-    "summary_zh": "随着AI和自动化技术在航空管制领域的应用加深，空管系统正从人工指挥向“人机协同”模式转变。自动化系统能处理更多航班数据、优化航线并预测冲突，但随之而来的算法责任、系统故障风险及网络安全问题也对现有监管框架构成挑战。专家指出，当前国际民航法规多基于传统人工操作制定，对自动化系统的认证标准、人机职责划分及事故责任认定尚存空白。监管机构需加快更新规则，确保技术创新的同时保障飞行安全。",
-    "category": "research"
-  },
-  {
-    "id": "4d5176d9aaed779f51e10cc9408b7021",
-    "title_en": "Breakthrough or dead end? Nagelsmann favourite's third Bundesliga bid",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/breakthrough-or-dead-end-nagelsmann-favourites-third-bundesliga-bid-43323918",
-    "published_at": "2026-08-23T06:01:00Z",
-    "fetched_at": "2026-08-24T06:37:26.256Z",
-    "title_zh": "突破还是死胡同？纳格尔斯曼爱将第三次冲击德甲",
-    "summary_zh": "一位被拜仁主帅纳格尔斯曼视为爱将的球员，即将迎来他职业生涯中第三次征战德甲联赛的机会。此前两次尝试均未能站稳脚跟，外界对其能否在顶级联赛证明自己充满疑问。此次转会背后，是球员本人对更高舞台的渴望，以及教练组的信任。然而，德甲竞争激烈，技术特点是否适配、心理素质是否过硬都是未知数。这次能否实现突破，还是再次沦为“伤仲永”的案例，成为德国足坛关注的焦点。",
-    "category": "industry"
-  },
-  {
-    "id": "eb62559de19364443c960b02315044f8",
-    "title_en": "Researchers: 152 Polymarket “Orca” Traders Likely Bet on Inside Military Information",
-    "source": "Naturalnews.com",
-    "url": "https://www.naturalnews.com/2026-08-23-polymarket-orca-traders-bet-inside-military-information.html",
-    "published_at": "2026-08-23T06:00:00Z",
-    "fetched_at": "2026-08-24T06:37:26.256Z",
-    "title_zh": "研究人员：Polymarket上152名“Orca”交易员很可能利用内部军事信息下注",
-    "summary_zh": "一项最新研究指出，在预测市场Polymarket上，有152名代号“Orca”的交易员在特定地缘政治事件发生前进行了异常精准的大额押注，其交易模式与公开信息严重不符，研究人员认为他们“极有可能”获取并利用了未公开的内部军事情报。该发现引发了对预测市场信息操纵及国家安全风险的担忧。专家呼吁加强对预测平台异常交易的监控，并立法明确利用内幕信息进行预测交易的法律责任。",
-    "category": "research"
-  },
-  {
-    "id": "9bbd198cdd3ac7682f7fb11ce171a456",
-    "title_en": "Mark Zuckerberg's wife Priscilla Chan’s parents escaped Vietnam by boat with no hope of reuniting with their family; decades later, their daughter became a Harvard graduate & philanthropist",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/mark-zuckerbergs-wife-priscilla-chans-parents-escaped-vietnam-by-boat-with-no-hope-of-reuniting-with-their-family-decades-later-their-daughter-became-a-harvard-graduate-philanthropist/articleshow/133434919.cms",
-    "published_at": "2026-08-23T05:42:27Z",
-    "fetched_at": "2026-08-24T06:37:26.256Z",
-    "title_zh": "马克·扎克伯格妻子普里西拉·陈的父母乘船逃离越南，与家人失散；数十年后，女儿成为哈佛毕业生与慈善家",
-    "summary_zh": "这是一个关于移民与奋斗的感人故事。马克·扎克伯格的妻子普里西拉·陈的父母，在越战结束后以难民身份乘船逃离越南，在海上漂泊时与家人失散，前途未卜。他们历经艰辛在波士顿落脚，靠打多份工维持生计。数十年后，他们的女儿普里西拉不仅以优异成绩毕业于哈佛大学，更成为一名医生和慈善家，与扎克伯格共同创立了陈-扎克伯格倡议，致力于推动科学教育和医疗公平。这段家族史成为美国梦的又一注脚。",
-    "category": "industry"
-  },
-  {
-    "id": "27c15a0232c4bdfac35f3f4fc4fd24f1",
-    "title_en": "Sereias beat Vitória 2-1 at Barradão in final Women’s Brasileirão round",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/sereias-beat-vitoria-2-1-at-barradao-in-final-womens-brasileirao-round-43323879",
-    "published_at": "2026-08-23T05:40:00Z",
-    "fetched_at": "2026-08-24T06:37:26.256Z",
-    "title_zh": "巴西女足联赛收官战：塞雷亚斯客场2-1击败维多利亚",
-    "summary_zh": "在巴西女足联赛（Brasileirão Feminino）最后一轮比赛中，塞雷亚斯队客场挑战维多利亚队，最终以2-1的比分在巴拉当球场获胜。这场胜利为塞雷亚斯的赛季画上圆满句号，展现了球队在关键比赛中的韧性与进攻效率。维多利亚虽主场作战，但未能抵挡对手攻势。此役结果对联赛最终排名产生一定影响，也体现了女足联赛竞争日益激烈。",
     "category": "industry"
   }
 ]
