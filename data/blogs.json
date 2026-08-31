@@ -1,5 +1,71 @@
 [
   {
+    "id": "b69709c6408020894e4e828ab326f68d",
+    "title_en": "什么是CloudOps？ - Red Hat",
+    "source": "redhat.com",
+    "url": "https://www.redhat.com/zh-cn/topics/automation/what-is-cloudops",
+    "published_at": "2026-08-31T12:12:21.752Z",
+    "fetched_at": "2026-08-31T12:12:21.752Z",
+    "title_zh": "什么是CloudOps？ - Red Hat",
+    "summary_zh": "本文由Red Hat撰写，系统介绍CloudOps（云运维）的概念、核心原则与实践方法。文章对比了CloudOps与传统IT运维的差异，强调自动化、可观测性、成本优化与安全合规在云环境中的重要性。内容涵盖CI/CD、基础设施即代码、监控告警及多云管理的关键实践，并给出实施CloudOps的路线图。对于正在向云原生转型的运维团队，本文提供了清晰的理论框架与落地建议。",
+    "topic": "ops"
+  },
+  {
+    "id": "13bbf78d32b3b46f16bedd98c129cbad",
+    "title_en": "漏洞數暴增263%，NIST縮減CVE分析範圍轉向風險優先 - iThome",
+    "source": "ithome.com.tw",
+    "url": "https://www.ithome.com.tw/news/175144",
+    "published_at": "2026-08-31T12:12:20.550Z",
+    "fetched_at": "2026-08-31T12:12:20.550Z",
+    "title_zh": "漏洞数暴增263%，NIST缩减CVE分析范围转向风险优先 - iThome",
+    "summary_zh": "本文报道NIST因漏洞数量激增263%而调整CVE分析策略，从全面分析转向风险优先模式。文章解读了NIST缩减分析范围的具体措施，包括聚焦高危漏洞、依赖自动化工具及与社区协作，并讨论这一变化对安全团队CVE响应流程的影响。对于安全运维人员，本文提供了应对漏洞洪流的策略建议，强调基于实际风险进行优先级排序，而非盲目追求全量覆盖。",
+    "topic": "security"
+  },
+  {
+    "id": "9c3b70a3d64ca66efa95957fc80fea72",
+    "title_en": "操作系统性能参数调优| TiDB 文档中心",
+    "source": "docs.pingcap.com",
+    "url": "https://docs.pingcap.com/zh/tidb/v8.5/tune-operating-system",
+    "published_at": "2026-08-31T12:12:20.549Z",
+    "fetched_at": "2026-08-31T12:12:20.549Z",
+    "title_zh": "操作系统性能参数调优 | TiDB 文档中心",
+    "summary_zh": "本文是TiDB官方文档中关于操作系统性能调优的指南，面向部署TiDB集群的运维与DBA人员。内容涵盖Linux内核参数、文件系统、网络栈及I/O调度器的关键配置，如vm.swappiness、I/O scheduler、网络缓冲区等，并解释每项参数对数据库性能的影响。文章提供具体的推荐值与调整方法，帮助读者在真实环境中优化吞吐量与延迟，是数据库基础设施调优的实用参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "77139da3e1c219dcee95bcd567be1c97",
+    "title_en": "炼石成丹：大语言模型微调实战系列（一）数据准备篇",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-one/",
+    "published_at": "2026-08-31T12:12:18.034Z",
+    "fetched_at": "2026-08-31T12:12:18.034Z",
+    "title_zh": "炼石成丹：大语言模型微调实战系列（一）数据准备篇",
+    "summary_zh": "本文是大语言模型微调实战系列的开篇，聚焦数据准备这一关键环节。作者详细讲解如何从原始语料中清洗、去重、格式化并构建高质量训练数据集，涵盖指令数据、对话数据与领域数据的处理技巧。文章还讨论了数据规模与质量对微调效果的影响，并给出可落地的工具链与评估方法。对于希望进行领域适配或私有化部署的工程师，本文提供了扎实的实践指导，避免常见的数据陷阱。",
+    "topic": "ai"
+  },
+  {
+    "id": "0535673b254f483732cdcc7df1935acf",
+    "title_en": "2026大模型全景分析报告",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/2038178950019556726",
+    "published_at": "2026-08-31T12:12:18.033Z",
+    "fetched_at": "2026-08-31T12:12:18.033Z",
+    "title_zh": "2026大模型全景分析报告",
+    "summary_zh": "本报告对2026年大模型领域进行系统性梳理，涵盖技术演进、产业格局与关键趋势。内容聚焦于模型架构创新、多模态融合、推理效率优化及Agent生态发展，并深入分析国产大模型在性能与商业化上的突破。报告强调数据规模、算力成本与模型能力之间的平衡，为技术决策者提供战略参考。适合关注AI前沿动态的工程师与架构师阅读，以把握技术选型与投资方向。",
+    "topic": "ai"
+  },
+  {
+    "id": "c2bb922832ad1d2be7819a18cfbb4d48",
+    "title_en": "最新！2026年3月全球大模型全景：国产登顶、百万上下文",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2658619",
+    "published_at": "2026-08-31T12:12:18.033Z",
+    "fetched_at": "2026-08-31T12:12:18.033Z",
+    "title_zh": "最新！2026年3月全球大模型全景：国产登顶、百万上下文",
+    "summary_zh": "本文盘点2026年3月全球大模型最新进展，重点突出国产模型在综合性能上登顶，以及百万级上下文窗口成为标配。文章对比主流模型在长文本处理、推理速度与多模态能力上的表现，并分析背后的训练技术与工程优化。对于需要处理超长文档或复杂推理任务的开发者，本文提供了实用的模型选型建议与性能基准，有助于在具体业务场景中做出高效决策。",
+    "topic": "ai"
+  },
+  {
     "id": "accc35290dbccf940308972dbdac1655",
     "title_en": "一些小团队的自动化运维实践经验 - 翟志军Jack Zhai",
     "source": "showme.codes",
@@ -2132,71 +2198,5 @@
     "title_zh": "为什么使用Docker容器进行机器学习开发？",
     "summary_zh": "本文来自AWS官方博客，阐述了使用Docker容器进行机器学习开发的核心优势。容器为ML工作流提供了可移植性、可复现性和隔离性，确保开发、测试和生产环境的一致性。文章重点介绍了如何通过Docker封装依赖库、GPU驱动和模型代码，简化团队协作和模型部署。同时，结合Amazon SageMaker和ECS等AWS服务，展示了容器化ML管道的实践案例，包括训练、调优和推理阶段的优化，为数据科学家和ML工程师提供了高效开发范式。",
     "topic": "ai"
-  },
-  {
-    "id": "b0f81565afa69b0da1e10fb27ecb558b",
-    "title_en": "微调LLM 的最佳实践",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1gr2kag/best_practices_for_finetuning_llms/?tl=zh-hans",
-    "published_at": "2026-08-26T06:32:04.289Z",
-    "fetched_at": "2026-08-26T06:32:04.289Z",
-    "title_zh": "微调LLM的最佳实践",
-    "summary_zh": "本文总结了微调大型语言模型（LLM）的关键实践，涵盖数据准备、超参数选择、训练策略及评估方法。重点包括：使用高质量、多样化的数据集以避免过拟合；合理设置学习率、批次大小和训练轮数；采用LoRA、QLoRA等参数高效微调技术以降低资源消耗；并通过验证集和人类反馈进行迭代优化。文章还强调了避免灾难性遗忘和保持模型通用能力的技巧，为实际项目中的LLM定制提供了实用指导。",
-    "topic": "ai"
-  },
-  {
-    "id": "ccedcb3dde513b88688d11f621ea174c",
-    "title_en": "系统运维管理_OOS - 阿里云",
-    "source": "alibabacloud.com",
-    "url": "https://www.alibabacloud.com/zh/product/oos?_p_lc=1",
-    "published_at": "2026-08-26T00:44:43.026Z",
-    "fetched_at": "2026-08-26T00:44:43.026Z",
-    "title_zh": "系统运维管理_OOS - 阿里云",
-    "summary_zh": "本文介绍阿里云运维编排服务（OOS），这是一项用于自动化系统运维管理的云服务。文章详细阐述了OOS的核心功能，包括通过编排模板定义运维任务（如批量执行命令、安装软件、配置巡检）、定时执行、事件触发以及审批流程等。同时，文章展示了如何使用OOS实现常见的运维场景，如ECS实例的批量补丁安装、配置修正与故障自愈，并强调了其在提升运维效率、降低人为错误方面的价值，适合云上运维团队学习使用。",
-    "topic": "ops"
-  },
-  {
-    "id": "ccd4c1d73502ba063256e93b04936fe4",
-    "title_en": "安全修补| GKE security",
-    "source": "docs.cloud.google.com",
-    "url": "https://docs.cloud.google.com/kubernetes-engine/docs/resources/security-patching?hl=zh-cn",
-    "published_at": "2026-08-26T00:44:43.025Z",
-    "fetched_at": "2026-08-26T00:44:43.025Z",
-    "title_zh": "安全修补| GKE security",
-    "summary_zh": "本文是Google Kubernetes Engine（GKE）官方安全文档中关于安全修补的指南，重点介绍如何保持GKE集群及节点安全。文章详细说明了GKE的自动升级机制、节点池的修补策略、以及如何手动触发安全补丁以应对紧急漏洞。内容涵盖控制平面与节点级的安全更新流程、使用维护窗口规划升级、以及验证修补后集群健康状态的方法。此外，还提供了关于镜像安全扫描和运行时安全最佳实践的建议，帮助用户在GKE上构建安全稳健的容器化应用。",
-    "topic": "security"
-  },
-  {
-    "id": "d750cd4d8479c570a9185eb98772b74f",
-    "title_en": "CVE - Vulnerability Database",
-    "source": "vuldb.com",
-    "url": "https://vuldb.com/zh/cve",
-    "published_at": "2026-08-26T00:44:41.597Z",
-    "fetched_at": "2026-08-26T00:44:41.597Z",
-    "title_zh": "CVE - 漏洞数据库",
-    "summary_zh": "本文介绍CVE（公共漏洞和暴露）漏洞数据库，这是网络安全领域最权威的漏洞信息源之一。文章解释了CVE编号的分配机制、漏洞描述与参考信息的结构，以及如何通过CVE数据库查询特定软件或系统的已知漏洞。同时，文章还介绍了CVE与CVSS评分系统、NVD（国家漏洞数据库）等资源的关联，并提供了安全团队利用CVE数据进行漏洞管理、风险评估与补丁优先级的实践建议，是安全运维人员的重要参考资料。",
-    "topic": "security"
-  },
-  {
-    "id": "f9ee035becabce9c577d8378125c5bf4",
-    "title_en": "Linux性能调优大作战：从零到英雄，手把手教你打造极速系统 ...",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2468219",
-    "published_at": "2026-08-26T00:44:41.595Z",
-    "fetched_at": "2026-08-26T00:44:41.595Z",
-    "title_zh": "Linux性能调优大作战：从零到英雄，手把手教你打造极速系统",
-    "summary_zh": "本文是一篇全面的Linux性能调优实战指南，从基础概念到高级技巧，手把手教你打造极速系统。内容涵盖CPU、内存、磁盘I/O、网络等子系统的性能分析与优化方法，包括使用top、vmstat、iostat、perf等工具进行瓶颈定位，以及内核参数调优、进程调度策略、文件系统选择等实践。文章结合大量真实案例，演示了从问题发现到解决方案的完整流程，并提供了性能基准测试与持续监控的建议，适合系统管理员与SRE工程师。",
-    "topic": "ops"
-  },
-  {
-    "id": "e5a791bee62ab069e7b1b1e62ce9455f",
-    "title_en": "从0到1构建Kubernetes中间件运维平台：标准化",
-    "source": "tech.dewu.com",
-    "url": "https://tech.dewu.com/article?id=164",
-    "published_at": "2026-08-26T00:44:41.595Z",
-    "fetched_at": "2026-08-26T00:44:41.595Z",
-    "title_zh": "从0到1构建Kubernetes中间件运维平台：标准化",
-    "summary_zh": "本文分享了从零开始构建Kubernetes中间件运维平台的经验，重点阐述标准化在平台建设中的核心作用。作者详细介绍了如何对各类中间件（如MySQL、Redis、Kafka）进行容器化封装、定义统一的部署规范与生命周期管理流程，并实现基于Operator的自动化运维。文章还探讨了多集群管理、资源配额、监控告警及日志采集等平台能力的设计思路，并总结了标准化带来的效率提升与运维风险降低，为云原生运维平台建设提供参考。",
-    "topic": "ops"
   }
 ]
