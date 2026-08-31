@@ -1,6 +1,202 @@
 {
   "days": [
     {
+      "date": "2026-08-31",
+      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：科学技能库、多智能体课堂、自动审查移除、架构图生成等工具涌现，同时涵盖爬虫、MCP服务器及Java代码规范工具，展现AI应用多元化趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "language": "JavaScript",
+          "stars_total": 34997,
+          "stars_today": 3722,
+          "description_zh": "用于生成美观、可验证的架构图、流程图、时序图、数据流图和生命周期图的Agent技能——自包含HTML，支持动画和清晰导出。"
+        },
+        {
+          "rank": 2,
+          "name": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "language": "TypeScript",
+          "stars_total": 24302,
+          "stars_today": 1370,
+          "description_zh": "开放多智能体交互课堂——一键获得沉浸式多智能体学习体验"
+        },
+        {
+          "rank": 3,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "language": "Python",
+          "stars_total": 39403,
+          "stars_today": 1114,
+          "description_zh": "将任何AI智能体转变为AI科学家。全球190,000+科学家使用的头号科学Agent技能库。包含165个经过验证的即用技能，以及100+科学数据库，覆盖生物学、化学、医学和药物发现。兼容Cursor、Claude Code、Codex、Pi、Antigravity以及开放Agent技能标准。"
+        },
+        {
+          "rank": 4,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars_total": 22857,
+          "stars_today": 504,
+          "description_zh": "每月74亿个令牌。34个免费LLM提供商。635个免费模型端点。全部统一在一个/v1端点后面，外加任何自定义OpenAI兼容端点。智能路由、自动故障转移、加密密钥。仅限个人实验使用。"
+        },
+        {
+          "rank": 5,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description_en": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars_total": 15204,
+          "stars_today": 469,
+          "description_zh": "Semrush和Ahrefs的开源替代品"
+        },
+        {
+          "rank": 6,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description_en": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars_total": 29216,
+          "stars_today": 369,
+          "description_zh": "语言模型的完全自动审查移除工具"
+        },
+        {
+          "rank": 7,
+          "name": "Lakr233/vphone-cli",
+          "url": "https://github.com/Lakr233/vphone-cli",
+          "description_en": "",
+          "language": "Swift",
+          "stars_total": 9679,
+          "stars_today": 361,
+          "description_zh": ""
+        },
+        {
+          "rank": 8,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 60534,
+          "stars_today": 230,
+          "description_zh": "AI智能体技能，可跨Reddit、X、YouTube、HN、Polymarket和网络研究任何主题，然后综合生成有依据的摘要"
+        },
+        {
+          "rank": 9,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description_en": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "language": "Python",
+          "stars_total": 80279,
+          "stars_today": 221,
+          "description_zh": "🚀🤖 Crawl4AI：开源、LLM友好的网络爬虫与抓取工具。别害羞，加入我们：https://discord.gg/jP8KfhDhyN"
+        },
+        {
+          "rank": 10,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description_en": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars_total": 73926,
+          "stars_today": 198,
+          "description_zh": "Ghidra是一个软件逆向工程（SRE）框架"
+        },
+        {
+          "rank": 11,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+          "language": "TypeScript",
+          "stars_total": 46589,
+          "stars_today": 182,
+          "description_zh": "GitNexus：零服务器代码智能引擎——GitNexus是一个完全在浏览器中运行的客户端知识图谱创建器。放入一个Git仓库（Github、Gitlab、Azure、本地）或ZIP文件，即可获得一个交互式知识图谱，内置Graph RAG智能体。非常适合代码探索。"
+        },
+        {
+          "rank": 12,
+          "name": "pollen-robotics/microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "description_en": "RL training environments for Microduck (mjlab)",
+          "language": "Python",
+          "stars_total": 819,
+          "stars_today": 168,
+          "description_zh": "Microduck的强化学习训练环境（mjlab）"
+        },
+        {
+          "rank": 13,
+          "name": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "description_en": "A framework for building realtime voice AI agents 🤖🎙️📹",
+          "language": "Python",
+          "stars_total": 13775,
+          "stars_today": 132,
+          "description_zh": "用于构建实时语音AI智能体的框架 🤖🎙️📹"
+        },
+        {
+          "rank": 14,
+          "name": "corsairdev/corsair",
+          "url": "https://github.com/corsairdev/corsair",
+          "description_en": "Connect your users to their apps",
+          "language": "TypeScript",
+          "stars_total": 10976,
+          "stars_today": 126,
+          "description_zh": "将您的用户连接到他们的应用"
+        },
+        {
+          "rank": 15,
+          "name": "checkstyle/checkstyle",
+          "url": "https://github.com/checkstyle/checkstyle",
+          "description_en": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+          "language": "Java",
+          "stars_total": 9220,
+          "stars_today": 115,
+          "description_zh": "Checkstyle是一种开发工具，帮助程序员编写符合编码标准的Java代码。默认支持Google Java风格指南和Sun代码规范，但高度可配置。可通过ANT任务和命令行程序调用。"
+        },
+        {
+          "rank": 16,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description_en": "A collection of MCP servers.",
+          "language": "",
+          "stars_total": 93369,
+          "stars_today": 96,
+          "description_zh": "MCP服务器集合。"
+        },
+        {
+          "rank": 17,
+          "name": "handsomestWei/patent-disclosure-skill",
+          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+          "description_en": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+          "language": "Python",
+          "stars_total": 5740,
+          "stars_today": 62,
+          "description_zh": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+        },
+        {
+          "rank": 18,
+          "name": "majd/ipatool",
+          "url": "https://github.com/majd/ipatool",
+          "description_en": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+          "language": "Go",
+          "stars_total": 10243,
+          "stars_today": 58,
+          "description_zh": "命令行工具，可从App Store搜索并下载iOS、iPadOS、tvOS和visionOS的应用包（即ipa文件）。"
+        },
+        {
+          "rank": 19,
+          "name": "colinhacks/zod",
+          "url": "https://github.com/colinhacks/zod",
+          "description_en": "TypeScript-first schema validation with static type inference",
+          "language": "TypeScript",
+          "stars_total": 43658,
+          "stars_today": 31,
+          "description_zh": "TypeScript优先的架构验证，支持静态类型推断"
+        }
+      ]
+    },
+    {
       "date": "2026-08-30",
       "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：科学智能体技能库、多智能体课堂、架构图生成、网络爬虫等工具涌现，同时涵盖审查移除、App下载及代码规范工具。",
       "projects": [
@@ -4701,162 +4897,6 @@
           "stars_total": 199,
           "stars_today": 62,
           "description_zh": "《塞尔达传说：姆吉拉的假面》PC 移植版"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "summary_zh": "今日GitHub热门项目聚焦AI教育、生成式AI、语音技术、安全研究及开发工具，涵盖微软教程、开源项目管理、逆向工程与语音克隆等多元主题。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "zhaoxuya520/reverse-skill",
-          "url": "https://github.com/zhaoxuya520/reverse-skill",
-          "description_en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-          "language": "PowerShell",
-          "stars_total": 11713,
-          "stars_today": 1360,
-          "description_zh": "逆向工程/授权渗透测试/安全研究技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-        },
-        {
-          "rank": 2,
-          "name": "microsoft/AI-For-Beginners",
-          "url": "https://github.com/microsoft/AI-For-Beginners",
-          "description_en": "12 Weeks, 24 Lessons, AI for All!",
-          "language": "Jupyter Notebook",
-          "stars_total": 56768,
-          "stars_today": 869,
-          "description_zh": "12 周，24 课，人人可学的 AI！"
-        },
-        {
-          "rank": 3,
-          "name": "usekaneo/kaneo",
-          "url": "https://github.com/usekaneo/kaneo",
-          "description_en": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-          "language": "TypeScript",
-          "stars_total": 5580,
-          "stars_today": 778,
-          "description_zh": "🎯 你需要的一切，没有多余的。开源项目管理，为你服务，而非与你对抗。"
-        },
-        {
-          "rank": 4,
-          "name": "paperswithbacktest/awesome-systematic-trading",
-          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-          "description_en": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-          "language": "Python",
-          "stars_total": 12155,
-          "stars_today": 529,
-          "description_zh": "精选的系统化交易库、包、策略、书籍、博客、教程列表。"
-        },
-        {
-          "rank": 5,
-          "name": "huggingface/speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "description_en": "Build local voice agents with open-source models",
-          "language": "Python",
-          "stars_total": 10132,
-          "stars_today": 393,
-          "description_zh": "使用开源模型构建本地语音代理"
-        },
-        {
-          "rank": 6,
-          "name": "iv-org/invidious",
-          "url": "https://github.com/iv-org/invidious",
-          "description_en": "Invidious is an alternative front-end to YouTube",
-          "language": "Crystal",
-          "stars_total": 21554,
-          "stars_today": 361,
-          "description_zh": "Invidious是YouTube的替代前端"
-        },
-        {
-          "rank": 7,
-          "name": "TencentCloud/TencentDB-Agent-Memory",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "description_en": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-          "language": "TypeScript",
-          "stars_total": 10176,
-          "stars_today": 342,
-          "description_zh": "TencentDB Agent Memory是AI代理的团队级记忆中心——将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM维基、代码图谱），这些资产在代理和框架之间进行治理、共享和配备。"
-        },
-        {
-          "rank": 8,
-          "name": "bytedance/deer-flow",
-          "url": "https://github.com/bytedance/deer-flow",
-          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-          "language": "Python",
-          "stars_total": 78637,
-          "stars_today": 204,
-          "description_zh": "一个开源的长周期超级代理框架，用于研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，它可以处理从几分钟到几小时不同级别的任务。"
-        },
-        {
-          "rank": 9,
-          "name": "github/copilot-sdk",
-          "url": "https://github.com/github/copilot-sdk",
-          "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-          "language": "Java",
-          "stars_total": 10249,
-          "stars_today": 145,
-          "description_zh": "用于将 GitHub Copilot Agent 集成到应用和服务中的多平台 SDK"
-        },
-        {
-          "rank": 10,
-          "name": "microsoft/TRELLIS.2",
-          "url": "https://github.com/microsoft/TRELLIS.2",
-          "description_en": "Native and Compact Structured Latents for 3D Generation",
-          "language": "Python",
-          "stars_total": 9863,
-          "stars_today": 121,
-          "description_zh": "用于3D生成的原生且紧凑的结构化潜变量"
-        },
-        {
-          "rank": 11,
-          "name": "microsoft/generative-ai-for-beginners",
-          "url": "https://github.com/microsoft/generative-ai-for-beginners",
-          "description_en": "21 Lessons, Get Started Building with Generative AI",
-          "language": "Jupyter Notebook",
-          "stars_total": 114116,
-          "stars_today": 104,
-          "description_zh": "21节课，开始使用生成式AI进行构建"
-        },
-        {
-          "rank": 12,
-          "name": "NomaDamas/k-skill",
-          "url": "https://github.com/NomaDamas/k-skill",
-          "description_en": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
-          "language": "JavaScript",
-          "stars_total": 6709,
-          "stars_today": 103,
-          "description_zh": "为韩国人准备的技能合集——让代理成为韩国人"
-        },
-        {
-          "rank": 13,
-          "name": "github/gh-stack",
-          "url": "https://github.com/github/gh-stack",
-          "description_en": "GitHub Stacked PRs",
-          "language": "Go",
-          "stars_total": 768,
-          "stars_today": 90,
-          "description_zh": "GitHub 堆叠式拉取请求"
-        },
-        {
-          "rank": 14,
-          "name": "abus-aikorea/voice-pro",
-          "url": "https://github.com/abus-aikorea/voice-pro",
-          "description_en": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
-          "language": "Python",
-          "stars_total": 11671,
-          "stars_today": 53,
-          "description_zh": "面向创作者和开发者的Gradio WebUI，具备核心TTS（Edge-TTS、kokoro）和零样本语音克隆（E2与F5-TTS、CosyVoice），支持Whisper音频处理、YouTube下载、Demucs人声分离和多语言翻译。"
-        },
-        {
-          "rank": 15,
-          "name": "ansible/ansible",
-          "url": "https://github.com/ansible/ansible",
-          "description_en": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
-          "language": "Python",
-          "stars_total": 70062,
-          "stars_today": 26,
-          "description_zh": "Ansible是一个极其简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。使用接近纯英语的语言，通过SSH，无需在远程系统上安装代理，即可自动化从代码部署到网络配置再到云管理的所有内容。https://docs.ansible.com。"
         }
       ]
     }
