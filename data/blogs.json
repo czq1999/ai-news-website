@@ -1,5 +1,60 @@
 [
   {
+    "id": "ccedcb3dde513b88688d11f621ea174c",
+    "title_en": "系统运维管理_OOS - 阿里云",
+    "source": "alibabacloud.com",
+    "url": "https://www.alibabacloud.com/zh/product/oos?_p_lc=1",
+    "published_at": "2026-08-31T22:13:03.847Z",
+    "fetched_at": "2026-08-31T22:13:03.847Z",
+    "title_zh": "系统运维管理_OOS - 阿里云",
+    "summary_zh": "本文介绍阿里云运维编排服务（OOS，Operation Orchestration Service）的核心功能与应用场景。OOS提供可视化的运维任务编排能力，支持批量执行命令、软件部署、补丁安装、配置修改等常见运维操作。文章详细讲解如何通过OOS模板定义运维流程，实现自动化执行与审批控制，并集成定时触发、事件触发等模式。同时介绍OOS在混合云环境下的统一管理能力，以及如何与RAM权限体系结合实现细粒度安全管控。通过实际案例展示如何利用OOS简化日常运维工作，提升效率并降低人为操作风险。适合云运维工程师与架构师。",
+    "topic": "ops"
+  },
+  {
+    "id": "ccd4c1d73502ba063256e93b04936fe4",
+    "title_en": "安全修补| GKE security",
+    "source": "docs.cloud.google.com",
+    "url": "https://docs.cloud.google.com/kubernetes-engine/docs/resources/security-patching?hl=zh-cn",
+    "published_at": "2026-08-31T22:13:03.846Z",
+    "fetched_at": "2026-08-31T22:13:03.846Z",
+    "title_zh": "安全修补| GKE security",
+    "summary_zh": "本文是Google Cloud官方文档，系统介绍GKE（Google Kubernetes Engine）的安全修补策略与最佳实践。内容涵盖节点池的自动升级机制、安全补丁的滚动更新流程、以及如何配置维护窗口以最小化业务影响。文章详细说明GKE的漏洞扫描集成（如Artifact Registry与Security Command Center）、节点镜像的版本管理与快速回滚方案。同时介绍如何利用节点自动修复功能检测并替换异常节点，以及通过Workload Identity与Binary Authorization增强集群安全。适合GKE运维与安全团队参考，帮助构建健壮的容器安全基线。",
+    "topic": "security"
+  },
+  {
+    "id": "e5a791bee62ab069e7b1b1e62ce9455f",
+    "title_en": "从0到1构建Kubernetes中间件运维平台：标准化 - 得物技术",
+    "source": "tech.dewu.com",
+    "url": "https://tech.dewu.com/article?id=164",
+    "published_at": "2026-08-31T22:13:03.041Z",
+    "fetched_at": "2026-08-31T22:13:03.041Z",
+    "title_zh": "从0到1构建Kubernetes中间件运维平台：标准化 - 得物技术",
+    "summary_zh": "本文详细介绍了得物技术团队从零构建Kubernetes中间件运维平台的实践经验，重点聚焦标准化建设。内容涵盖中间件（如Redis、Kafka、MySQL）在K8s上的部署规范、配置管理、资源配额与监控告警的标准化方案。文章分享了如何通过Operator模式实现中间件生命周期自动化管理，包括创建、扩缩容、升级与故障恢复。同时讨论多环境一致性、安全隔离、数据持久化及备份恢复策略。还介绍了平台架构设计、API抽象层及与CI/CD流水线的集成方式。为运维团队提供了一套可落地的中间件容器化运维最佳实践。",
+    "topic": "ops"
+  },
+  {
+    "id": "4e4752b95617209f5b18d7c2f8c2f508",
+    "title_en": "AI Agent 开发实战与教程",
+    "source": "learnagent.org",
+    "url": "https://learnagent.org/library/playbooks/",
+    "published_at": "2026-08-31T22:13:00.942Z",
+    "fetched_at": "2026-08-31T22:13:00.942Z",
+    "title_zh": "AI Agent 开发实战与教程",
+    "summary_zh": "本文是一份面向开发者的AI Agent实战教程，涵盖从基础概念到高级应用的完整开发流程。内容包括Agent架构设计（规划、记忆、工具使用）、主流框架（LangChain、AutoGen、CrewAI）对比与选型、Prompt工程优化技巧、多Agent协作模式，以及RAG与外部API集成方法。教程通过具体代码示例演示如何构建一个可处理复杂任务的Agent系统，并讨论常见问题如幻觉控制、上下文管理、错误恢复与性能调优。同时分享生产环境部署经验，包括监控、日志与安全策略。适合希望快速上手Agent开发的工程师。",
+    "topic": "ai"
+  },
+  {
+    "id": "a1deb01d8707c902a0bde4b2c986579b",
+    "title_en": "🚨2026大模型排行榜：实测10+主流大模型选型指南",
+    "source": "daxue.taobao.com",
+    "url": "https://daxue.taobao.com/information/detail.jhtml?id=1375&",
+    "published_at": "2026-08-31T22:13:00.941Z",
+    "fetched_at": "2026-08-31T22:13:00.942Z",
+    "title_zh": "🚨2026大模型排行榜：实测10+主流大模型选型指南",
+    "summary_zh": "本文针对2026年主流大模型进行系统性实测与横向对比，覆盖GPT-5、Claude 4、Gemini 2、文心一言5.0、通义千问2.5等10余款模型。评测维度包括推理能力、代码生成、多模态理解、长文本处理、指令遵循及推理成本。文章提供详细的基准测试数据与场景化选型建议，如代码开发、内容创作、数据分析等场景的模型推荐。同时分析各模型的API稳定性、上下文窗口限制及生态工具链成熟度，帮助开发者根据业务需求、预算和部署环境做出理性决策。适合AI应用开发者、技术决策者及研究者参考。",
+    "topic": "ai"
+  },
+  {
     "id": "b69709c6408020894e4e828ab326f68d",
     "title_en": "什么是CloudOps？ - Red Hat",
     "source": "redhat.com",
@@ -2143,60 +2198,5 @@
     "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南",
     "summary_zh": "本文由腾讯云分享Kubernetes运维中的常见陷阱及解决方案，涵盖集群稳定性、资源管理、网络配置和故障排查等核心议题。内容包括：合理设置资源请求与限制以避免节点资源争抢；正确处理Pod生命周期和优雅终止；配置健康检查与就绪探针以提升服务可用性；以及监控与日志采集的最佳实践。文章还提供了实际案例和调优建议，帮助运维人员构建更健壮的云原生基础设施，减少生产环境事故。",
     "topic": "ops"
-  },
-  {
-    "id": "3c06e9cae5816c51fadec3e71d9031ef",
-    "title_en": "面向Docker容器的在线迁移系统实现和优化方法 - Google Patents",
-    "source": "patents.google.com",
-    "url": "https://patents.google.com/patent/CN110119377B/zh",
-    "published_at": "2026-08-26T06:32:05.402Z",
-    "fetched_at": "2026-08-26T06:32:05.402Z",
-    "title_zh": "面向Docker容器的在线迁移系统实现和优化方法",
-    "summary_zh": "本文介绍了一种面向Docker容器的在线迁移系统及其优化方法，旨在解决容器在跨主机迁移时的服务中断问题。系统通过检查点/恢复机制（如CRIU）捕获容器状态，并结合网络和存储的同步策略实现无缝迁移。优化方法包括增量迁移、内存压缩和预拷贝技术，以缩短迁移时间和减少对运行负载的影响。文章还探讨了迁移过程中的一致性保障和故障恢复机制，为构建高可用容器基础设施提供了技术参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "04c1d692382d38a5231fdd1a34aba2db",
-    "title_en": "如何加快使用Docker容器的代码管道部署？ : r/aws - Reddit",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/aws/comments/1ilx9pl/methods_to_speed_up_code_pipeline_deployment_with/?tl=zh-hans",
-    "published_at": "2026-08-26T06:32:05.402Z",
-    "fetched_at": "2026-08-26T06:32:05.402Z",
-    "title_zh": "如何加快使用Docker容器的代码管道部署？",
-    "summary_zh": "本文讨论在AWS环境中加速基于Docker容器的CI/CD管道部署的多种策略。核心建议包括：优化Docker镜像构建（如利用层缓存、多阶段构建、精简基础镜像）；使用Amazon ECR作为镜像仓库以减少拉取延迟；并行化构建和测试任务；以及采用AWS CodeBuild和CodePipeline的托管缓存功能。文章还提到了使用EC2实例的Spot实例或Graviton处理器来降低成本并提升构建速度，为DevOps团队提供了实用的性能优化指南。",
-    "topic": "ops"
-  },
-  {
-    "id": "9ad2a967eb3c829bb2a6fe94156a18d8",
-    "title_en": "如何提升Docker测试环境运行速度？现有卷清理方案仍低效 - 火山引擎",
-    "source": "volcengine.com",
-    "url": "https://www.volcengine.com/article/2581442",
-    "published_at": "2026-08-26T06:32:05.402Z",
-    "fetched_at": "2026-08-26T06:32:05.402Z",
-    "title_zh": "如何提升Docker测试环境运行速度？现有卷清理方案仍低效",
-    "summary_zh": "本文针对Docker测试环境运行缓慢的问题，分析了现有卷清理方案的不足，并提出优化方法。文章指出，频繁的镜像和卷堆积会导致磁盘I/O瓶颈和容器启动延迟。作者建议采用定期清理悬空卷、使用tmpfs挂载临时数据、以及利用Docker的--volumes-from或命名卷复用机制来减少重复数据。此外，文章还探讨了使用BuildKit缓存和分层镜像压缩来加速测试环境的构建和启动，为提升开发测试效率提供了具体可行的技术方案。",
-    "topic": "ops"
-  },
-  {
-    "id": "2e406546c90b334d431e0a622bbe9f81",
-    "title_en": "什么是Docker 容器监控？ - Dotcom-Monitor",
-    "source": "dotcom-monitor.com",
-    "url": "https://www.dotcom-monitor.com/zh-hans/%E4%BD%BF%E7%94%A8%E7%BD%91%E7%BB%9C%E7%9B%91%E8%A7%86%E5%99%A8%E5%AD%A6%E4%B9%A0/%E4%BB%80%E4%B9%88%E6%98%AF-docker-%E5%AE%B9%E5%99%A8%E7%9B%91%E6%8E%A7%EF%BC%9F/",
-    "published_at": "2026-08-26T06:32:05.402Z",
-    "fetched_at": "2026-08-26T06:32:05.402Z",
-    "title_zh": "什么是Docker容器监控？",
-    "summary_zh": "本文系统介绍了Docker容器监控的概念、重要性和实施方法。监控内容包括CPU、内存、网络I/O、磁盘使用率以及容器生命周期事件。文章对比了多种监控工具，如Docker Stats、cAdvisor、Prometheus和第三方SaaS平台，并强调了实时监控与告警在保障微服务架构稳定性中的作用。此外，还讨论了日志聚合和分布式追踪在容器环境中的集成，帮助运维团队快速定位性能瓶颈和故障，实现可观测性。",
-    "topic": "ops"
-  },
-  {
-    "id": "492e442cc6dfe898e00e1665051437e2",
-    "title_en": "为什么使用Docker 容器进行机器学习开发？ | 亚马逊AWS官方博客",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/cn/blogs/china/why-use-docker-containers-for-machine-learning-development/",
-    "published_at": "2026-08-26T06:32:05.402Z",
-    "fetched_at": "2026-08-26T06:32:05.402Z",
-    "title_zh": "为什么使用Docker容器进行机器学习开发？",
-    "summary_zh": "本文来自AWS官方博客，阐述了使用Docker容器进行机器学习开发的核心优势。容器为ML工作流提供了可移植性、可复现性和隔离性，确保开发、测试和生产环境的一致性。文章重点介绍了如何通过Docker封装依赖库、GPU驱动和模型代码，简化团队协作和模型部署。同时，结合Amazon SageMaker和ECS等AWS服务，展示了容器化ML管道的实践案例，包括训练、调优和推理阶段的优化，为数据科学家和ML工程师提供了高效开发范式。",
-    "topic": "ai"
   }
 ]
