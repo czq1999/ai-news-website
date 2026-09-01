@@ -1,5 +1,60 @@
 [
   {
+    "id": "d520b22848d25e4f8bca9cb864fbae17",
+    "title_en": "内核热补丁概述-Alibaba Cloud Linux(Alinux) - 阿里云帮助文档",
+    "source": "help.aliyun.com",
+    "url": "https://help.aliyun.com/zh/alinux/user-guide/kernel-live-patching/",
+    "published_at": "2026-09-01T02:42:45.887Z",
+    "fetched_at": "2026-09-01T02:42:45.887Z",
+    "title_zh": "内核热补丁概述-Alibaba Cloud Linux(Alinux) - 阿里云帮助文档",
+    "summary_zh": "本文介绍了Alibaba Cloud Linux（Alinux）提供的内核热补丁功能，该功能允许在不重启系统的情况下对内核漏洞进行在线修复，显著降低安全补丁对业务连续性的影响。文章详细说明了热补丁的工作原理、支持的内核版本范围、安装与启用流程，以及使用限制和注意事项。通过对比传统内核升级方式，突出了热补丁在减少停机时间、降低运维风险方面的优势，适合生产环境安全加固场景。",
+    "topic": "security"
+  },
+  {
+    "id": "8f9a497a0033ba67ebb966c58de8f86f",
+    "title_en": "Docker性能优化：提升容器运行效率1.背景介绍 ...",
+    "source": "juejin.cn",
+    "url": "https://juejin.cn/post/7329033489176936457",
+    "published_at": "2026-09-01T02:42:44.813Z",
+    "fetched_at": "2026-09-01T02:42:44.813Z",
+    "title_zh": "Docker性能优化：提升容器运行效率",
+    "summary_zh": "本文深入探讨了Docker容器性能优化的关键技术，包括镜像层缓存策略、资源限制（CPU/内存/IO）配置、网络模式选择（bridge/host/overlay）以及存储驱动（overlay2 vs devicemapper）的对比与调优。通过实际案例展示如何减少容器启动时间、降低资源占用并提升吞吐量。文章还涉及容器编排场景下的性能瓶颈分析与优化建议，为生产环境中的Docker部署提供实用参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "d21b380b83339ea20367562bf52c025b",
+    "title_en": "2026年CVE數量恐破6.6萬個，FIRST國際資安應變組織提四 ...",
+    "source": "ithome.com.tw",
+    "url": "https://www.ithome.com.tw/news/176652",
+    "published_at": "2026-09-01T02:42:44.813Z",
+    "fetched_at": "2026-09-01T02:42:44.813Z",
+    "title_zh": "2026年CVE数量恐破6.6万个，FIRST国际资安应变组织提四项建议",
+    "summary_zh": "本文报道了FIRST国际资安应变组织对2026年CVE数量可能突破6.6万个的预测，并分析了漏洞增长背后的驱动因素，如软件供应链复杂化、云原生架构普及和AI生成代码的引入。组织提出四项关键建议：加强漏洞披露协调机制、推动自动化漏洞管理、提升安全团队响应能力，以及建立跨组织威胁情报共享。文章为安全从业者提供了应对漏洞洪峰的策略方向。",
+    "topic": "security"
+  },
+  {
+    "id": "25922c7bb0ece90830023c97d68bb875",
+    "title_en": "StarCrossPortal/VulnsDB: CVE漏洞分析合集-持续更新",
+    "source": "github.com",
+    "url": "https://github.com/StarCrossPortal/VulnsDB",
+    "published_at": "2026-09-01T02:42:44.813Z",
+    "fetched_at": "2026-09-01T02:42:44.813Z",
+    "title_zh": "StarCrossPortal/VulnsDB: CVE漏洞分析合集-持续更新",
+    "summary_zh": "VulnsDB是一个持续更新的CVE漏洞分析合集项目，由StarCrossPortal维护，旨在为安全研究人员和运维人员提供结构化的漏洞情报。项目收录了近年来的高危漏洞，每个条目包含漏洞描述、影响版本、利用条件、修复建议及参考链接，部分还附有PoC或分析文章。该合集支持按CVE编号、厂商、产品等维度检索，是漏洞应急响应和日常安全监控的实用资源库。",
+    "topic": "security"
+  },
+  {
+    "id": "e3daf32d0fda52331dd0e77bab5d5e75",
+    "title_en": "Linux学习路线（学+测） - 阿里云开发者社区",
+    "source": "edu.aliyun.com",
+    "url": "https://edu.aliyun.com/roadmap/linux",
+    "published_at": "2026-09-01T02:42:43.272Z",
+    "fetched_at": "2026-09-01T02:42:43.272Z",
+    "title_zh": "Linux学习路线（学+测） - 阿里云开发者社区",
+    "summary_zh": "本文为Linux学习者提供了一条系统化的学习与测试路线，覆盖从基础命令、文件系统、用户权限到Shell脚本、网络配置、服务管理等核心模块。路线设计强调理论与实践结合，每个阶段配有对应的练习与自测题，帮助学习者巩固知识并验证掌握程度。适合初学者按部就班入门，也适合有经验的开发者查漏补缺，提升Linux运维与开发效率。",
+    "topic": "ops"
+  },
+  {
     "id": "ccedcb3dde513b88688d11f621ea174c",
     "title_en": "系统运维管理_OOS - 阿里云",
     "source": "alibabacloud.com",
@@ -2143,60 +2198,5 @@
     "title_zh": "网络安全控制实践- 国产操作系统加固措施汇总（202409） - WaveCN.com",
     "summary_zh": "本文汇总了针对国产操作系统（如麒麟、统信UOS等）的安全加固实践措施，涵盖账户管理、权限控制、内核参数调优、服务最小化、日志审计、SELinux/AppArmor配置、补丁管理及入侵检测等关键领域。文章基于等保2.0要求，提供了具体的命令与配置示例，并讨论了国产系统与主流Linux发行版在安全机制上的异同。对于负责信创环境运维与安全合规的工程师，具有直接的操作参考价值。",
     "topic": "security"
-  },
-  {
-    "id": "ec6cc7e1e9f678b743c94cbd12a3803b",
-    "title_en": "大模型榜单周报（2026/02/15） - KAI智习",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/xjk15082/p/19619738",
-    "published_at": "2026-08-26T12:32:15.462Z",
-    "fetched_at": "2026-08-26T12:32:15.462Z",
-    "title_zh": "大模型榜单周报（2026/02/15） - KAI智习",
-    "summary_zh": "本文汇总了2026年2月15日当周主流大模型在各类评测基准上的表现排名，涵盖通用能力、代码生成、数学推理、多模态理解等维度。报告对比了国内外开源与闭源模型的性能差异，并分析了近期模型迭代带来的榜单变化趋势。对于关注模型选型与性能对比的开发者，提供了数据驱动的参考依据，有助于在具体业务场景中做出更合理的模型选择。",
-    "topic": "ai"
-  },
-  {
-    "id": "6df7cd7735e845150fbc86216d549a98",
-    "title_en": "开源模型最全盘点（2026 年7 月版） - OSCHINA - 开源× AI",
-    "source": "my.oschina.net",
-    "url": "https://my.oschina.net/u/9487999/blog/19721554",
-    "published_at": "2026-08-26T12:32:15.462Z",
-    "fetched_at": "2026-08-26T12:32:15.462Z",
-    "title_zh": "开源模型最全盘点（2026年7月版） - OSCHINA - 开源× AI",
-    "summary_zh": "本文系统梳理了截至2026年7月最具代表性的开源大模型，涵盖参数规模从1B到数百B的多种架构，包括基座模型、对话模型、代码模型及多模态模型。文章按组织、发布时间、许可证类型分类，并对比了各模型在主流基准上的表现与社区活跃度。对于希望自部署或二次开发的企业与研究者，提供了全面的选型地图，并指出了开源生态中的关键趋势与潜在风险。",
-    "topic": "ai"
-  },
-  {
-    "id": "9675cae6ec0be3df4b378a1b28ed8c3c",
-    "title_en": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1993642974563812198",
-    "published_at": "2026-08-26T12:32:15.462Z",
-    "fetched_at": "2026-08-26T12:32:15.462Z",
-    "title_zh": "AI新知：面向2026年的AI、大模型、智能体、LLMOps系列教程",
-    "summary_zh": "本系列教程面向2026年的技术栈，系统讲解AI、大模型、智能体（Agent）与LLMOps的核心概念与实践方法。内容涵盖从模型微调、提示工程、RAG架构到Agent工作流设计、部署监控与成本优化等全链路知识。教程以实战为导向，提供可运行的代码示例与架构模式，帮助开发者快速构建生产级AI应用，并掌握大模型应用运维的最佳实践。",
-    "topic": "ai"
-  },
-  {
-    "id": "51dff3cf209ac9cb2451988c0d344f02",
-    "title_en": "8 種頂尖AI Agent 框架，打造更聰明的AI 應用 - Kimi",
-    "source": "kimi.ai",
-    "url": "https://www.kimi.ai/zh-hant/resources/best-ai-agent-frameworks",
-    "published_at": "2026-08-26T12:32:15.462Z",
-    "fetched_at": "2026-08-26T12:32:15.462Z",
-    "title_zh": "8种顶尖AI Agent框架，打造更聪明的AI应用 - Kimi",
-    "summary_zh": "本文对比分析了当前主流的8种AI Agent框架，包括LangGraph、AutoGen、CrewAI、Semantic Kernel等，从架构设计、任务编排能力、多智能体协作、工具调用、可观测性及生态成熟度等维度进行深入评估。文章结合典型应用场景，给出了框架选型建议，并指出了各框架在复杂工作流、状态管理与错误恢复方面的优劣，为开发者构建高效、可靠的智能体应用提供了实用指南。",
-    "topic": "ai"
-  },
-  {
-    "id": "0ed160bfec1211bfbe5d32251173202c",
-    "title_en": "云原生运维也能很稳：Kubernetes 运维避坑指南 - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2551743",
-    "published_at": "2026-08-26T06:32:05.402Z",
-    "fetched_at": "2026-08-26T06:32:05.402Z",
-    "title_zh": "云原生运维也能很稳：Kubernetes 运维避坑指南",
-    "summary_zh": "本文由腾讯云分享Kubernetes运维中的常见陷阱及解决方案，涵盖集群稳定性、资源管理、网络配置和故障排查等核心议题。内容包括：合理设置资源请求与限制以避免节点资源争抢；正确处理Pod生命周期和优雅终止；配置健康检查与就绪探针以提升服务可用性；以及监控与日志采集的最佳实践。文章还提供了实际案例和调优建议，帮助运维人员构建更健壮的云原生基础设施，减少生产环境事故。",
-    "topic": "ops"
   }
 ]
