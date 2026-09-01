@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-01",
-      "summary_zh": "今日GitHub热门聚焦AI工具链：多智能体学习、本地语音克隆、科学Agent技能库，以及数学动画引擎，展现AI赋能教育科研与内容创作的全栈生态。",
+      "summary_zh": "今日GitHub热门项目聚焦AI工具链：开源语音克隆、多智能体教学、PDF解析及数学动画引擎，同时涵盖学术研究辅助与本地化YouTube前端，展现AI赋能创作与学习的多元生态。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/THU-MAIC/OpenMAIC",
           "description_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
           "language": "TypeScript",
-          "stars_total": 29140,
+          "stars_total": 29327,
           "stars_today": 3122,
           "description_zh": "开放多智能体交互课堂——一键获得沉浸式多智能体学习体验"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/jingyaogong/minimind",
           "description_en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
           "language": "Python",
-          "stars_total": 56868,
+          "stars_total": 56956,
           "stars_today": 1005,
           "description_zh": "🧠 仅需2小时即可从零训练一个6400万参数的LLM！"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
           "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
           "language": "Python",
-          "stars_total": 41353,
+          "stars_total": 41452,
           "stars_today": 914,
           "description_zh": "将任何AI智能体转变为AI科学家。全球排名第一的科学智能体技能库，已被全球190,000+科学家使用。包含165个即用型验证技能，以及100+科学数据库，涵盖生物学、化学、医学和药物发现。兼容Cursor、Claude Code、Codex、Pi、Antigravity以及开放智能体技能标准。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 13392,
+          "stars_total": 13670,
           "stars_today": 745,
           "description_zh": "VoiceStudio 是开源的、完全本地的 ElevenLabs 替代品——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 245599,
+          "stars_total": 245686,
           "stars_today": 621,
           "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发支持。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/iv-org/invidious",
           "description_en": "Invidious is an alternative front-end to YouTube",
           "language": "Crystal",
-          "stars_total": 23683,
+          "stars_total": 23722,
           "stars_today": 583,
           "description_zh": "Invidious 是 YouTube 的替代前端"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/firecrawl/pdf-inspector",
           "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
           "language": "Rust",
-          "stars_total": 17763,
+          "stars_total": 17845,
           "stars_today": 545,
           "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描版与文本版PDF，以实现智能路由决策。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 22704,
+          "stars_total": 22821,
           "stars_today": 509,
           "description_zh": "使用编码代理编辑视频"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/handsomestWei/patent-disclosure-skill",
           "description_en": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
           "language": "Python",
-          "stars_total": 6641,
+          "stars_total": 6667,
           "stars_today": 502,
           "description_zh": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/VoltAgent/awesome-design-md",
           "description_en": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
           "language": "",
-          "stars_total": 112426,
+          "stars_total": 112588,
           "stars_today": 487,
           "description_zh": "收集知名品牌设计系统的 DESIGN.md 文件分析。将其放入你的项目中，让编码代理生成匹配的用户界面。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/unclecode/crawl4ai",
           "description_en": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
           "language": "Python",
-          "stars_total": 80744,
+          "stars_total": 80798,
           "stars_today": 179,
           "description_zh": "🚀🤖 Crawl4AI：开源的 LLM 友好型网络爬虫与抓取工具。欢迎加入：https://discord.gg/jP8KfhDhyN"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/Imbad0202/academic-research-skills",
           "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
           "language": "Python",
-          "stars_total": 44706,
+          "stars_total": 44809,
           "stars_today": 161,
           "description_zh": "Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修改 → 定稿"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/3b1b/manim",
           "description_en": "Animation engine for explanatory math videos",
           "language": "Python",
-          "stars_total": 92445,
+          "stars_total": 92504,
           "stars_today": 74,
           "description_zh": "用于制作数学讲解视频的动画引擎"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/Gitlawb/openclaude",
           "description_en": "runs anywhere. uses anything",
           "language": "TypeScript",
-          "stars_total": 31107,
+          "stars_total": 31199,
           "stars_today": 37,
           "description_zh": "随处运行，使用任何工具"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/averygan/reclip",
           "description_en": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
           "language": "HTML",
-          "stars_total": 7474,
+          "stars_total": 7562,
           "stars_today": 21,
           "description_zh": "从几乎任何网站下载视频。轻量级、自托管的媒体下载器，带有简洁的 Web 界面。"
         }
