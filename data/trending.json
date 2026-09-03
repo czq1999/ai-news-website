@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-03",
-      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：格式化库、时间序列预测模型、语音克隆、A股选股系统及多智能体协作平台，涵盖代码优化、本地化AI应用与开发者效率提升。",
+      "summary_zh": "今日GitHub热门项目聚焦AI开发工具链：时间序列预测模型、语音克隆、A股选股系统及代码代理管理平台，同时涵盖格式化库和英语练习工具，展现AI与开发者效率工具的多元创新。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "stars_total": 121700,
+          "stars_total": 122638,
           "stars_today": 1354,
           "description_zh": "让你的AI代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未写过的代码。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 245297,
+          "stars_total": 245922,
           "stars_today": 1166,
           "description_zh": "面向真正工程师的技能。直接来自我的.agents目录。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/pacifio/atlas",
           "description_en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
           "language": "Rust",
-          "stars_total": 2919,
+          "stars_total": 3078,
           "stars_today": 888,
           "description_zh": "面向代理的源代码控制。使用多个编码代理，跟踪它们的更改并在一个地方查询它们"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 14854,
+          "stars_total": 15549,
           "stars_today": 832,
           "description_zh": "VoiceStudio是开源的、完全本地的ElevenLabs替代品——支持语音克隆、语音设计、视频配音、听写、转录和有声书创作，覆盖646种语言。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/Imbad0202/academic-research-skills",
           "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
           "language": "Python",
-          "stars_total": 45586,
+          "stars_total": 45813,
           "stars_today": 799,
           "description_zh": "面向Claude Code的学术研究技能：研究→写作→审阅→修改→定稿"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/Gitlawb/openclaude",
           "description_en": "runs anywhere. uses anything",
           "language": "TypeScript",
-          "stars_total": 32013,
+          "stars_total": 32165,
           "stars_today": 775,
           "description_zh": "随处运行。使用任何东西"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/firecrawl/pdf-inspector",
           "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
           "language": "Rust",
-          "stars_total": 18539,
+          "stars_total": 18723,
           "stars_today": 586,
           "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描PDF与基于文本的PDF，以实现智能路由决策。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 240157,
+          "stars_total": 240455,
           "stars_today": 533,
           "description_zh": "与你共同成长的代理"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 246383,
+          "stars_total": 246667,
           "stars_today": 516,
           "description_zh": "代理框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发支持。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/blader/humanizer",
           "description_en": "Agent skill that removes signs of AI-generated writing from text",
           "language": "Python",
-          "stars_total": 40470,
+          "stars_total": 40941,
           "stars_today": 374,
           "description_zh": "从文本中去除AI生成痕迹的代理技能"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/google-research/timesfm",
           "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
           "language": "Python",
-          "stars_total": 29889,
+          "stars_total": 30495,
           "stars_today": 343,
           "description_zh": "TimesFM（时间序列基础模型）是由谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/JuliusBrussee/caveman",
           "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
           "language": "Go",
-          "stars_total": 102662,
+          "stars_total": 102855,
           "stars_today": 238,
           "description_zh": "🪨 为什么用很多token，当很少token就能搞定——Claude Code技能，通过像穴居人一样说话削减65%的token"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 50671,
+          "stars_total": 50791,
           "stars_today": 148,
           "description_zh": "面向编码代理的Chrome DevTools"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/vercel-labs/portless",
           "description_en": "Replace port numbers with stable, named local URLs. For humans and agents.",
           "language": "TypeScript",
-          "stars_total": 11797,
+          "stars_total": 11984,
           "stars_today": 73,
           "description_zh": "用稳定的、命名的本地URL替换端口号。适用于人类和代理。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/sngyai/Sequoia-X",
           "description_en": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
           "language": "Python",
-          "stars_total": 6125,
+          "stars_total": 6442,
           "stars_today": 63,
           "description_zh": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/superlinked/sie",
           "description_en": "Open-source inference server and production cluster for all the models your agent needs.",
           "language": "Python",
-          "stars_total": 3083,
+          "stars_total": 3176,
           "stars_today": 60,
           "description_zh": "为你的代理所需的所有模型提供的开源推理服务器和生产集群。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/zyronon/TypeWords",
           "description_en": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
           "language": "Vue",
-          "stars_total": 9347,
+          "stars_total": 9549,
           "stars_today": 21,
           "description_zh": "练习英语，一次敲击，一点进步；Practice English, one strike, one step forward"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/protocolbuffers/protobuf",
           "description_en": "Protocol Buffers - Google's data interchange format",
           "language": "C++",
-          "stars_total": 71942,
+          "stars_total": 71987,
           "stars_today": 18,
           "description_zh": "Protocol Buffers - 谷歌的数据交换格式"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/fmtlib/fmt",
           "description_en": "A modern formatting library",
           "language": "C++",
-          "stars_total": 24306,
+          "stars_total": 24646,
           "stars_today": 14,
           "description_zh": "一个现代的格式化库"
         }
