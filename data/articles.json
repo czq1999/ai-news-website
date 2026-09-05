@@ -1,5 +1,49 @@
 [
   {
+    "id": "aa68d7954241fc3e032c4b2341ad109b",
+    "title_en": "Hikers rescued after using Google Gemini for planning",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "published_at": "2026-09-05T19:35:24.000Z",
+    "fetched_at": "2026-09-05T19:43:36.843Z",
+    "title_zh": "徒步者使用谷歌Gemini规划路线后获救",
+    "summary_zh": "一群徒步旅行者因使用谷歌Gemini AI进行路线规划而成功获救。该事件凸显了AI工具在户外活动中的潜在价值，但也提醒用户需谨慎依赖，结合传统导航和应急准备。救援人员表示，Gemini提供的建议帮助定位了安全路径，最终所有人员安全返回。此案例引发对AI在紧急情况下可靠性的讨论。",
+    "category": "product"
+  },
+  {
+    "id": "21df7f7f15af19c70007201ad210ec30",
+    "title_en": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "published_at": "2026-09-05T18:05:27.000Z",
+    "fetched_at": "2026-09-05T19:43:36.844Z",
+    "title_zh": "OpenAI确认“维基事件”，称正制定更透明的披露框架",
+    "summary_zh": "OpenAI官方确认了近期发生的“维基事件”，即其AI模型在维基百科上生成不准确或误导性内容，并承诺正在建立更完善的披露机制。此举旨在提高AI输出透明度，减少错误信息传播。业界认为，这反映了AI公司对内容责任和公众信任的重视，但具体框架细节尚未公布。",
+    "category": "industry"
+  },
+  {
+    "id": "c3850d0fe40d247aff6a955ea90c6161",
+    "title_en": "CD sales are booming as physical media continues its resurgence",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+    "published_at": "2026-09-05T16:49:33.000Z",
+    "fetched_at": "2026-09-05T19:43:36.985Z",
+    "title_zh": "CD销量激增，实体媒体复兴持续升温",
+    "summary_zh": "最新数据显示，CD销量出现显著增长，标志着实体媒体在数字时代迎来复兴。消费者对实体专辑的收藏热情回升，部分归因于对数字流媒体平台的不满和对物理所有权的追求。音乐行业正适应这一趋势，重新发行经典专辑并推出限量版CD，以满足粉丝需求。",
+    "category": "industry"
+  },
+  {
+    "id": "5718d2f5281d6bc78004887e6c9dbf7c",
+    "title_en": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+    "published_at": "2026-09-05T15:00:00.000Z",
+    "fetched_at": "2026-09-05T19:43:36.985Z",
+    "title_zh": "Fantasy Footballers的Andy Holloway：坚持零收件箱的极客",
+    "summary_zh": "Fantasy Footballers播客主持人Andy Holloway分享了他的工作效率秘诀：严格维持零收件箱状态。他通过定期清理、快速决策和自动化规则，确保电子邮件不会堆积。Holloway认为，这种习惯减少了认知负担，提高了专注力，尤其适合内容创作者和高强度信息处理者。他的方法在科技和效率圈引发共鸣。",
+    "category": "product"
+  },
+  {
     "id": "995e058bee895d0c2258b671042c45d9",
     "title_en": "Content creators drop the ball",
     "source": "The Verge",
@@ -176,6 +220,83 @@
     "category": "industry"
   },
   {
+    "id": "68da75445766865ed112d579fbf97b25",
+    "title_en": "Kai-Fu Lee says most corporate AI programs are ‘theater’ and predicts agents will reshape companies",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/kai-fu-lee-ai-corporate-theater-reasoning-agents/",
+    "published_at": "2026-09-04T19:33:22Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "李开复：多数企业AI项目是“作秀”，智能体将重塑公司架构",
+    "summary_zh": "创新工场董事长李开复在最新演讲中直言，目前大多数企业部署的AI项目仅停留在表面，属于“作秀”性质，未能真正深入核心业务。他预测，未来AI智能体（Agent）将取代传统软件和工作流程，从根本上重塑企业组织架构与运营模式，建议企业应聚焦于数据整合与流程重构，而非追逐短期热点。",
+    "category": "llm"
+  },
+  {
+    "id": "4f2c7552baff97c19af4c03999d44ca9",
+    "title_en": "cosc604 added to PyPI",
+    "source": "Pypi.org",
+    "url": "https://pypi.org/project/cosc604/",
+    "published_at": "2026-09-04T19:25:06Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "PyPI新增软件包：cosc604",
+    "summary_zh": "Python包索引（PyPI）上新增了一个名为“cosc604”的软件包。该包的具体功能和用途尚未公布，但此类新增通常与学术课程或特定工具链相关。开发者社区可关注其文档和源码，以评估其是否适用于自身项目。PyPI作为全球最大的Python软件仓库，每日新增大量包，建议用户安装前进行安全审查。",
+    "category": "product"
+  },
+  {
+    "id": "44a70a68673b956a42a437196e4f4c49",
+    "title_en": "Prediction: This Is What a $1,000 Investment in Nvidia Will Be Worth by 2029",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/020fc368620edd3a",
+    "published_at": "2026-09-04T19:21:11Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "预测：2029年英伟达1000美元投资将值多少？",
+    "summary_zh": "随着AI算力需求爆发，英伟达股价持续飙升。本文基于当前增长趋势和行业分析，预测到2029年，1000美元初始投资可能增长至数千美元，但同时也警示市场波动、竞争加剧及客户自研芯片等风险。投资者需理性看待长期回报，关注数据中心业务和下一代GPU架构的进展，而非盲目追高。",
+    "category": "industry"
+  },
+  {
+    "id": "e8deee7d64f517ceabdf377d9539f4b1",
+    "title_en": "Donald Trump calls AI ‘bigger than the internet,’ a ‘revolution’",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/trump-calls-ai-bigger-than-internet/",
+    "published_at": "2026-09-04T19:19:45Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "特朗普称AI“比互联网更伟大”，是一场“革命”",
+    "summary_zh": "美国前总统特朗普在公开场合再次强调人工智能的重要性，称其“比互联网更伟大”，是一场彻底的“革命”。他呼吁美国必须引领AI发展，以确保全球竞争中的优势地位。此番言论反映AI已成为政治与经济议程的核心议题，预计将引发更多关于技术主权、监管框架及产业政策的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "ff263906b2830b3b7a64f7c39bbf32d3",
+    "title_en": "Trump: Whoever wins with AI, wins",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/4293edba8c6335d4",
+    "published_at": "2026-09-04T19:18:27Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "特朗普：谁赢得AI，谁就赢得一切",
+    "summary_zh": "特朗普在最新表态中重申AI的战略价值，称“谁在AI领域获胜，谁就赢得整体竞争”。这一言论呼应其此前将AI视为“革命”的立场，强调美国需加大投入以应对中国等对手。分析认为，AI竞赛已从技术层面上升至国家战略层面，未来几年全球算力布局和人才争夺将更加白热化。",
+    "category": "industry"
+  },
+  {
+    "id": "c6f8538f174090c75bd00810e6bd6ad5",
+    "title_en": "The Kill List: The 10 Events That Could Wipe Out Humanity (And Why We May Already Be Too Late)",
+    "source": "Activistpost.com",
+    "url": "https://www.activistpost.com/the-kill-list-the-10-events-that-could-wipe-out-humanity-and-why-we-may-already-be-too-late/",
+    "published_at": "2026-09-04T19:17:24Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "“毁灭清单”：可能终结人类的10大事件（及为何我们可能已来不及）",
+    "summary_zh": "一篇引发热议的文章列出可能毁灭人类的10大威胁，包括超级AI失控、核战争、大流行病、生态崩溃等，并警告人类可能已错过干预窗口。文章强调技术发展带来的生存风险，呼吁全球协作建立安全机制。尽管观点偏悲观，但为AI安全、气候治理等议题提供了极端情景下的思考框架，值得政策制定者关注。",
+    "category": "research"
+  },
+  {
+    "id": "fefe79db94cb34062417c451e72320e5",
+    "title_en": "PayPal to slash hundreds of California jobs as big money managers axed by tech giant",
+    "source": "New York Post",
+    "url": "https://nypost.com/2026/09/04/tech/bay-area-tech-giant-paypal-cuts-hundreds-of-california-jobs/",
+    "published_at": "2026-09-04T19:08:33Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "PayPal裁减加州数百岗位，大型基金经理遭科技巨头解雇",
+    "summary_zh": "PayPal宣布在加州裁减数百个职位，主要涉及大型基金管理相关岗位，作为其成本优化和战略重组的一部分。此次裁员反映金融科技行业在增长放缓下正加速调整人员结构，转向AI自动化与高利润业务。受影响的员工将获得补偿和再就业支持，但此举仍引发对科技行业就业稳定性的担忧。",
+    "category": "industry"
+  },
+  {
     "id": "1f7f0044aeb8fa91f0f817b033e9e166",
     "title_en": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
     "source": "Wired",
@@ -185,6 +306,28 @@
     "title_zh": "家得宝2026年劳动节促销：烤炉与工具买一送一",
     "summary_zh": "家得宝宣布2026年劳动节大促，精选高端烤炉与电动工具参与买一送一活动。此次促销涵盖多个知名品牌，为消费者提供难得的升级装备机会。活动线上线下同步进行，数量有限，售完即止。家居与户外爱好者可趁此优惠提前规划秋季项目。",
     "category": "product"
+  },
+  {
+    "id": "1c3002d5b338bc5292456f3499a6c7f1",
+    "title_en": " How did that not go in? Köln start with huge luck v VfB Stuttgart",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/how-did-that-not-go-in-koeln-start-with-huge-luck-v-vfb-stuttgart-43402621",
+    "published_at": "2026-09-04T18:53:00Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "这球怎么没进？科隆对阵斯图加特开局运气爆棚",
+    "summary_zh": "在德甲科隆对阵斯图加特的比赛中，科隆队开局阶段凭借对方一次离谱的射门失误和门柱帮忙，幸运地保持球门不失。现场解说和球迷惊呼“这球怎么没进”，成为比赛早期最大亮点。尽管足球新闻与AI无关，但此事件在社交媒体引发病毒式传播，展示了体育赛事中不可预测的戏剧性瞬间。",
+    "category": "product"
+  },
+  {
+    "id": "474b4348fdd45fb43948c00db3070536",
+    "title_en": "DC appeals court blames Deutsche Bank lawyers for AI hallucinations",
+    "source": "Abajournal.com",
+    "url": "https://www.abajournal.com/news/article/dc-circuit-blames-deutsche-bank-lawyers-for-ai-hallucinations",
+    "published_at": "2026-09-04T18:53:00Z",
+    "fetched_at": "2026-09-05T19:43:37.947Z",
+    "title_zh": "华盛顿特区上诉法院：德意志银行律师因AI幻觉被责",
+    "summary_zh": "美国华盛顿特区上诉法院在一份裁决中批评德意志银行的律师团队，因其在法庭文件中引用了由AI生成但完全虚构的案例，即“AI幻觉”导致的错误。法院指出律师有责任核实AI输出内容，不能盲目依赖技术。此案成为法律界使用AI工具的警示案例，强调专业审查和伦理责任在AI辅助工作中的不可替代性。",
+    "category": "llm"
   },
   {
     "id": "ae9179594b7ad96bcaec2c7e092afb1c",
@@ -5355,148 +5498,5 @@
     "title_zh": "实用AI技能如何帮助员工应对真实工作需求",
     "summary_zh": "报道指出，掌握实用AI技能正成为职场新刚需。员工通过学习使用AI工具处理数据分析、内容生成和流程自动化等具体任务，显著提升了工作效率和解决问题的能力。企业也开始重视内部AI培训，将其视为提升竞争力的关键。这种“即学即用”的技能培养模式，正帮助劳动者更好地适应数字化转型带来的挑战。",
     "category": "llm"
-  },
-  {
-    "id": "a003d0b42f8acf62ad1e4e822801f504",
-    "title_en": "MOEA's DoIT Showcases 31 Innovative Technologies at Meet Greater South",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/moeas-doit-showcases-31-innovative-technologies-at-meet-greater-south-302864522.html",
-    "published_at": "2026-08-31T01:55:00Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "台湾经济部技术处“Meet Greater South”展示31项创新技术",
-    "summary_zh": "台湾经济部技术处在“Meet Greater South”展会上集中展示了31项前沿创新技术，涵盖AI、半导体、智慧医疗及绿色能源等领域。此次展示旨在促进产学研合作，加速技术商业化落地，并强化南部地区的科技产业生态。参展技术体现了台湾在关键科技领域的研发实力，吸引了众多企业代表和投资者的关注。",
-    "category": "industry"
-  },
-  {
-    "id": "5766a6c2fc484748e4d4c2215fe12673",
-    "title_en": "️ Obed Vargas's future could lie with Sevilla or Getafe",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/obed-vargass-future-could-lie-with-sevilla-or-getafe-43372493",
-    "published_at": "2026-08-31T01:52:00Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "奥贝德·巴尔加斯未来或加盟塞维利亚或赫塔菲",
-    "summary_zh": "据体育媒体报道，年轻中场球员奥贝德·巴尔加斯的职业生涯可能迎来新转折，西甲俱乐部塞维利亚和赫塔菲均对其表现出浓厚兴趣。巴尔加斯凭借出色的技术和潜力吸引了多家欧洲球队的关注。目前谈判尚处于初步阶段，但球员本人对前往西甲发展持开放态度，未来去向值得关注。",
-    "category": "industry"
-  },
-  {
-    "id": "37eb6729898e424ae3ce9084eafc7241",
-    "title_en": "John Ternus to lead Apple into the age of AI",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/2d0f44c2fc44031d",
-    "published_at": "2026-08-31T01:30:26Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "约翰·特努斯将带领苹果进入AI时代",
-    "summary_zh": "苹果公司硬件工程高级副总裁约翰·特努斯被委以重任，将主导公司在人工智能领域的战略布局。特努斯以其在硬件整合方面的卓越能力著称，此次任命表明苹果计划将AI深度融入其产品生态，从芯片设计到用户体验全面升级。此举被视为苹果在AI竞赛中加速追赶竞争对手的关键一步。",
-    "category": "industry"
-  },
-  {
-    "id": "7655452c6797b37bc58930c0c585b1b6",
-    "title_en": "5 Marvel Heroes Who Could Beat Batman at His Own Game",
-    "source": "ComicBook.com",
-    "url": "http://comicbook.com/comics/list/5-marvel-heroes-who-could-beat-batman-at-his-own-game/",
-    "published_at": "2026-08-31T01:30:15Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "5位能在蝙蝠侠主场击败他的漫威英雄",
-    "summary_zh": "文章盘点了5位在各自领域能够击败蝙蝠侠的漫威英雄。蝙蝠侠以智谋和准备著称，但面对拥有超自然能力或更高科技水平的对手时，其优势可能不再明显。从奇异博士的魔法到钢铁侠的装甲，文章分析了这些英雄如何利用自身独特能力，在蝙蝠侠最擅长的策略和装备对抗中取得上风。",
-    "category": "product"
-  },
-  {
-    "id": "036ff1233291d1bbcde75fe608a834eb",
-    "title_en": "Nvidia Just Delivered Bad News for AMD and Intel",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/8be8f51b9f580b20",
-    "published_at": "2026-08-31T01:29:36Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "英伟达刚刚给AMD和英特尔带来了坏消息",
-    "summary_zh": "英伟达近期发布的新品或技术路线图对竞争对手AMD和英特尔构成了巨大压力。分析指出，英伟达在AI芯片领域的持续领先，尤其是在数据中心市场的强劲表现，进一步拉大了与追赶者的差距。其新推出的平台不仅在性能上占据优势，更在软件生态上形成壁垒，使得AMD和英特尔在AI市场的突围变得更加困难。",
-    "category": "industry"
-  },
-  {
-    "id": "6ff61a8a814a8302b7ca79f7f2dcbcde",
-    "title_en": "TWiT 1099: Pantsless Whims - The Fallout From Meta's $18 Billion Settlement",
-    "source": "Twit.tv",
-    "url": "https://twit.tv/shows/this-week-in-tech/episodes/1099",
-    "published_at": "2026-08-31T01:17:24Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "TWiT 1099：无裤奇想——Meta 180亿美元和解协议的余波",
-    "summary_zh": "本期TWiT播客深入探讨了Meta支付180亿美元巨额和解金后的行业影响。主持人及嘉宾分析了该和解对数据隐私法规、社交媒体商业模式以及用户信任的长期影响。讨论还涉及和解资金的使用方向，以及这是否会促使其他科技巨头重新审视其数据收集实践。节目以轻松幽默的方式解读了这一严肃的商业事件。",
-    "category": "industry"
-  },
-  {
-    "id": "7cd4f4bde61f87284b521d4f2aedb076",
-    "title_en": "Amazon is buying 2 million Nvidia GPUs for AWS data center expansion",
-    "source": "TechRadar",
-    "url": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
-    "published_at": "2026-08-30T22:10:00Z",
-    "fetched_at": "2026-08-31T22:12:02.576Z",
-    "title_zh": "亚马逊为AWS数据中心扩张采购200万块英伟达GPU",
-    "summary_zh": "据消息人士透露，亚马逊已与英伟达达成协议，采购200万块GPU用于AWS数据中心的扩建，以满足日益增长的AI计算需求。这笔巨额交易将显著提升AWS的AI算力，巩固其在云市场的领先地位。同时，也反映了全球AI算力军备竞赛的激烈程度。",
-    "category": "industry"
-  },
-  {
-    "id": "17833af0ec641c42b5bc46e8e086c17d",
-    "title_en": "Stock market today: Live updates",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-    "published_at": "2026-08-30T22:01:47Z",
-    "fetched_at": "2026-08-31T22:12:02.576Z",
-    "title_zh": "今日股市：实时行情更新",
-    "summary_zh": "全球股市今日波动，投资者关注美联储政策信号及企业财报。科技股表现分化，AI相关板块持续活跃。市场分析师提醒，地缘政治风险和通胀数据仍是影响短期走势的关键因素。建议投资者保持谨慎，关注长期价值。",
-    "category": "industry"
-  },
-  {
-    "id": "2a91ee1c4bca8866f8b26ae13ce0fe82",
-    "title_en": "OpenAI Cancels Cursor Partnership Citing Distrust of Elon Musk",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/26a0639a905f27e3",
-    "published_at": "2026-08-30T21:56:56Z",
-    "fetched_at": "2026-08-31T22:12:02.576Z",
-    "title_zh": "OpenAI取消与Cursor合作，称不信任马斯克",
-    "summary_zh": "OpenAI宣布终止与AI编程工具Cursor的合作关系，理由是出于对埃隆·马斯克的不信任。马斯克曾参与OpenAI创立，但后来离开并多次批评该公司。此次合作取消可能影响Cursor的用户体验，也反映出AI行业内部复杂的人际和商业关系。",
-    "category": "industry"
-  },
-  {
-    "id": "f36ddcfe9de5dc2fa241b858bd6304c8",
-    "title_en": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/a10d10e09fe40733",
-    "published_at": "2026-08-30T21:56:56Z",
-    "fetched_at": "2026-08-31T22:12:02.576Z",
-    "title_zh": "Anthropic被指控在音乐版权诉讼中窃取数千首歌曲",
-    "summary_zh": "多家音乐唱片公司联合起诉AI公司Anthropic，指控其在训练Claude模型时未经授权使用数千首受版权保护的歌曲。原告要求赔偿并停止侵权行为。Anthropic尚未正式回应。此案可能为AI训练数据的版权使用设立重要法律先例，影响整个AI行业。",
-    "category": "industry"
-  },
-  {
-    "id": "93590dcbbaf40b8a6f41d8710b5db71c",
-    "title_en": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accused-of-stealing-thousands-of-songs-in-music-label-suit/",
-    "published_at": "2026-08-30T21:44:27Z",
-    "fetched_at": "2026-08-31T22:12:02.576Z",
-    "title_zh": "Anthropic被音乐唱片公司起诉，指控其盗用数千首歌曲",
-    "summary_zh": "多家音乐唱片公司联合起诉AI公司Anthropic，指控其在训练AI模型时未经授权使用数千首受版权保护的歌曲。诉讼称Anthropic的行为侵犯了音乐创作者的权益，要求其停止使用并赔偿损失。此案凸显了AI训练数据版权问题的法律争议，可能对AI行业的数据获取方式产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "8cab47dc6a1908def5b60c2662b2f2a4",
-    "title_en": "MIT report says AI can complete almost any undergraduate assignment it sets",
-    "source": "The Next Web",
-    "url": "https://thenextweb.com/news/mit-ai-undergraduate-assignments-eu-ai-act-proctoring-annex-iii",
-    "published_at": "2026-08-30T21:39:01Z",
-    "fetched_at": "2026-08-31T22:12:02.576Z",
-    "title_zh": "MIT报告：AI能完成几乎所有本科作业",
-    "summary_zh": "MIT发布报告指出，当前AI系统已能完成其设置的大部分本科课程作业，涵盖多个学科领域。报告引发对高等教育评估方式和学术诚信的讨论，专家建议教育机构应重新设计作业形式，以更好地评估学生能力，同时将AI作为辅助工具融入教学。",
-    "category": "research"
-  },
-  {
-    "id": "d3ea6cba166c2b6865a7968f198ba959",
-    "title_en": " Bahia and Inter name confirmed line-ups in Salvador",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/bahia-and-inter-name-confirmed-line-ups-in-salvador-43371529",
-    "published_at": "2026-08-30T21:37:00Z",
-    "fetched_at": "2026-08-31T22:12:02.576Z",
-    "title_zh": "巴伊亚与国际队确认萨尔瓦多首发阵容",
-    "summary_zh": "巴西足球联赛中，巴伊亚队与国际队在萨尔瓦多展开对决，双方已公布首发名单。比赛备受球迷关注，两队均派出强阵力争胜利。此新闻虽非AI相关，但作为体育赛事报道，为读者提供最新赛前动态。",
-    "category": "industry"
   }
 ]
