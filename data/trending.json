@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-09-05",
+      "summary_zh": "今日GitHub热门聚焦AI代理技能优化，涵盖代码精简、Token节省、人类化写作及安全研究，同时包含格式化库与本地推理服务器等开发工具。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 250477,
+          "stars_today": 2758,
+          "description_zh": "真实工程师的技能。直接来自我的.agents目录。"
+        },
+        {
+          "rank": 2,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars_total": 126127,
+          "stars_today": 1679,
+          "description_zh": "让你的AI代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未写过的代码。"
+        },
+        {
+          "rank": 3,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 18040,
+          "stars_today": 1345,
+          "description_zh": "VoiceStudio是开源的、完全本地的ElevenLabs替代品——支持646种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。"
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 248548,
+          "stars_today": 1135,
+          "description_zh": "代理框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发。"
+        },
+        {
+          "rank": 5,
+          "name": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description_en": "Agent skill that removes signs of AI-generated writing from text",
+          "language": "Python",
+          "stars_total": 42746,
+          "stars_today": 1130,
+          "description_zh": "从文本中去除AI生成痕迹的代理技能"
+        },
+        {
+          "rank": 6,
+          "name": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "description_en": "翻墙-科学上网",
+          "language": "Kotlin",
+          "stars_total": 52792,
+          "stars_today": 730,
+          "description_zh": "翻墙-科学上网"
+        },
+        {
+          "rank": 7,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description_en": "The agent that grows with you",
+          "language": "Python",
+          "stars_total": 241510,
+          "stars_today": 720,
+          "description_zh": "与你一起成长的代理"
+        },
+        {
+          "rank": 8,
+          "name": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "description_en": "A modern formatting library",
+          "language": "C++",
+          "stars_total": 25475,
+          "stars_today": 688,
+          "description_zh": "一个现代的格式化库"
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars_total": 174145,
+          "stars_today": 511,
+          "description_zh": "Agent技能的公共仓库"
+        },
+        {
+          "rank": 10,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "language": "Go",
+          "stars_total": 103588,
+          "stars_today": 501,
+          "description_zh": "🪨 为什么用很多token，当很少token就能搞定——Claude Code技能，通过像穴居人一样说话削减65%的token"
+        },
+        {
+          "rank": 11,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars_total": 30965,
+          "stars_today": 437,
+          "description_zh": "适用于Claude Code、Codex和Pi的38种编辑图表类型。自包含的HTML+SVG。无阴影。无Mermaid垃圾。"
+        },
+        {
+          "rank": 12,
+          "name": "magnitudedev/magnitude",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "description_en": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+          "language": "TypeScript",
+          "stars_total": 2516,
+          "stars_today": 391,
+          "description_zh": "开源推理服务器，为你的硬件运行最佳本地模型，并接入你已使用的代理。支持Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi和Cline。"
+        },
+        {
+          "rank": 13,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description_en": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars_total": 204153,
+          "stars_today": 345,
+          "description_zh": "开源编码代理。"
+        },
+        {
+          "rank": 14,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "language": "Python",
+          "stars_total": 31067,
+          "stars_today": 342,
+          "description_zh": "TimesFM（时间序列基础模型）是Google Research开发的用于时间序列预测的预训练基础模型。"
+        },
+        {
+          "rank": 15,
+          "name": "clshortfuse/renodx",
+          "url": "https://github.com/clshortfuse/renodx",
+          "description_en": "Renovation Engine for DirectX Games",
+          "language": "HLSL",
+          "stars_total": 3538,
+          "stars_today": 261,
+          "description_zh": "DirectX游戏翻新引擎"
+        },
+        {
+          "rank": 16,
+          "name": "bikini/exploitarium",
+          "url": "https://github.com/bikini/exploitarium",
+          "description_en": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+          "language": "Python",
+          "stars_total": 4520,
+          "stars_today": 74,
+          "description_zh": "公开漏洞利用PoC和漏洞研究文章的唯一存档。在我发布这些内容时，尚未有报告。请随意自行报告并领取CVE的功劳（如果有的话）。请不要滥用这些内容。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
+        },
+        {
+          "rank": 17,
+          "name": "radixark/miles",
+          "url": "https://github.com/radixark/miles",
+          "description_en": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+          "language": "Python",
+          "stars_total": 2558,
+          "stars_today": 64,
+          "description_zh": "Miles是一个面向企业的强化学习框架，用于LLM和VLM的后训练，从slime分叉并与之共同演进。"
+        }
+      ]
+    },
+    {
       "date": "2026-09-04",
       "summary_zh": "今日GitHub热门聚焦AI代理技能优化，涵盖代码精简、token节省、写作人性化及安全研究，同时包含格式化库与本地推理服务器等基础设施工具。",
       "projects": [
@@ -4811,142 +4987,6 @@
           "stars_total": 7114,
           "stars_today": 62,
           "description_zh": "用于Grok Build、Grok Web和Grok Console的多账户API网关"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "summary_zh": "今日GitHub热门项目聚焦AI代理生态，涵盖记忆管理、技能库、代码图谱及认证工具，同时包含Java库、教材资源和AutoGPT等多元主题。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "cloudflare/computer",
-          "url": "https://github.com/cloudflare/computer",
-          "description_en": "Give your agent a computer 👾",
-          "language": "TypeScript",
-          "stars_total": 4769,
-          "stars_today": 2690,
-          "description_zh": "给你的代理一台电脑 👾"
-        },
-        {
-          "rank": 2,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 206965,
-          "stars_today": 2002,
-          "description_zh": "真实工程师的技能。直接来自我的.agents目录。"
-        },
-        {
-          "rank": 3,
-          "name": "firecrawl/pdf-inspector",
-          "url": "https://github.com/firecrawl/pdf-inspector",
-          "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-          "language": "Rust",
-          "stars_total": 12406,
-          "stars_today": 1194,
-          "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描版与文本版PDF，以实现智能路由决策。"
-        },
-        {
-          "rank": 4,
-          "name": "TencentCloud/TencentDB-Agent-Memory",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "description_en": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-          "language": "TypeScript",
-          "stars_total": 16324,
-          "stars_today": 1053,
-          "description_zh": "腾讯云数据库代理记忆是一个面向AI代理的团队级记忆中心——将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM维基、代码图谱），这些资产在代理和框架之间被治理、共享和装备。"
-        },
-        {
-          "rank": 5,
-          "name": "esengine/DeepSeek-Reasonix",
-          "url": "https://github.com/esengine/DeepSeek-Reasonix",
-          "description_en": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-          "language": "Go",
-          "stars_total": 32374,
-          "stars_today": 894,
-          "description_zh": "面向终端的DeepSeek原生AI编码代理。围绕前缀缓存稳定性设计——让它持续运行。"
-        },
-        {
-          "rank": 6,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 268068,
-          "stars_today": 858,
-          "description_zh": "一个行之有效的代理技能框架和软件开发方法论。"
-        },
-        {
-          "rank": 7,
-          "name": "huangruiteng/loopx",
-          "url": "https://github.com/huangruiteng/loopx",
-          "description_en": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-          "language": "Python",
-          "stars_total": 2840,
-          "stars_today": 854,
-          "description_zh": "面向长期运行的AI代理团队的轻量级循环工程状态内核。与Codex、Claude Code及其他编码代理的代理循环无关，具备持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证交接。"
-        },
-        {
-          "rank": 8,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 82900,
-          "stars_today": 588,
-          "description_zh": "面向AI编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 9,
-          "name": "tirth8205/code-review-graph",
-          "url": "https://github.com/tirth8205/code-review-graph",
-          "description_en": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-          "language": "Python",
-          "stars_total": 29003,
-          "stars_today": 232,
-          "description_zh": "面向MCP和CLI的本地优先代码智能图。构建代码库的持久映射，使AI编码工具只读取重要内容，在代码审查和大型仓库工作流中实现了基准化的上下文缩减。"
-        },
-        {
-          "rank": 10,
-          "name": "TapXWorld/ChinaTextbook",
-          "url": "https://github.com/TapXWorld/ChinaTextbook",
-          "description_en": "所有小初高、大学PDF教材。",
-          "language": "Roff",
-          "stars_total": 77045,
-          "stars_today": 157,
-          "description_zh": "所有小学、初中、高中、大学PDF教材。"
-        },
-        {
-          "rank": 11,
-          "name": "goauthentik/authentik",
-          "url": "https://github.com/goauthentik/authentik",
-          "description_en": "The authentication glue you need.",
-          "language": "Python",
-          "stars_total": 23090,
-          "stars_today": 123,
-          "description_zh": "你需要的认证粘合剂。"
-        },
-        {
-          "rank": 12,
-          "name": "google/guava",
-          "url": "https://github.com/google/guava",
-          "description_en": "Google core libraries for Java",
-          "language": "Java",
-          "stars_total": 51624,
-          "stars_today": 35,
-          "description_zh": "Google Java核心库"
-        },
-        {
-          "rank": 13,
-          "name": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "description_en": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-          "language": "Python",
-          "stars_total": 185990,
-          "stars_today": 28,
-          "description_zh": "AutoGPT是让人人都能使用和构建的AI愿景。我们的使命是提供工具，让你专注于重要的事情。"
         }
       ]
     }
