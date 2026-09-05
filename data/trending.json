@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-05",
-      "summary_zh": "今日GitHub热门聚焦AI代理技能优化，涵盖代码精简、Token节省、人类化写作及安全研究，同时包含格式化库与本地推理服务器等开发工具。",
+      "summary_zh": "今日GitHub热门聚焦AI智能体技能优化，涵盖代码精简、Token节省、写作人性化及安全研究，同时包含格式化库与本地推理服务器等实用工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 250477,
+          "stars_total": 251203,
           "stars_today": 2758,
           "description_zh": "真实工程师的技能。直接来自我的.agents目录。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "stars_total": 126127,
+          "stars_total": 126944,
           "stars_today": 1679,
           "description_zh": "让你的AI代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未写过的代码。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 18040,
+          "stars_total": 18454,
           "stars_today": 1345,
           "description_zh": "VoiceStudio是开源的、完全本地的ElevenLabs替代品——支持646种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 248548,
+          "stars_total": 248894,
           "stars_today": 1135,
           "description_zh": "代理框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/blader/humanizer",
           "description_en": "Agent skill that removes signs of AI-generated writing from text",
           "language": "Python",
-          "stars_total": 42746,
+          "stars_total": 43022,
           "stars_today": 1130,
           "description_zh": "从文本中去除AI生成痕迹的代理技能"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/bannedbook/fanqiang",
           "description_en": "翻墙-科学上网",
           "language": "Kotlin",
-          "stars_total": 52792,
+          "stars_total": 52967,
           "stars_today": 730,
           "description_zh": "翻墙-科学上网"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "description_en": "The agent that grows with you",
           "language": "Python",
-          "stars_total": 241510,
+          "stars_total": 241691,
           "stars_today": 720,
           "description_zh": "与你一起成长的代理"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/fmtlib/fmt",
           "description_en": "A modern formatting library",
           "language": "C++",
-          "stars_total": 25475,
+          "stars_total": 25518,
           "stars_today": 688,
           "description_zh": "一个现代的格式化库"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/anthropics/skills",
           "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 174145,
+          "stars_total": 174310,
           "stars_today": 511,
           "description_zh": "Agent技能的公共仓库"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/JuliusBrussee/caveman",
           "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
           "language": "Go",
-          "stars_total": 103588,
+          "stars_total": 103703,
           "stars_today": 501,
           "description_zh": "🪨 为什么用很多token，当很少token就能搞定——Claude Code技能，通过像穴居人一样说话削减65%的token"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "stars_total": 30965,
+          "stars_total": 31277,
           "stars_today": 437,
           "description_zh": "适用于Claude Code、Codex和Pi的38种编辑图表类型。自包含的HTML+SVG。无阴影。无Mermaid垃圾。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/magnitudedev/magnitude",
           "description_en": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
           "language": "TypeScript",
-          "stars_total": 2516,
+          "stars_total": 2755,
           "stars_today": 391,
           "description_zh": "开源推理服务器，为你的硬件运行最佳本地模型，并接入你已使用的代理。支持Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi和Cline。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/anomalyco/opencode",
           "description_en": "The open source coding agent.",
           "language": "TypeScript",
-          "stars_total": 204153,
+          "stars_total": 204363,
           "stars_today": 345,
           "description_zh": "开源编码代理。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/google-research/timesfm",
           "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
           "language": "Python",
-          "stars_total": 31067,
+          "stars_total": 31176,
           "stars_today": 342,
           "description_zh": "TimesFM（时间序列基础模型）是Google Research开发的用于时间序列预测的预训练基础模型。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/clshortfuse/renodx",
           "description_en": "Renovation Engine for DirectX Games",
           "language": "HLSL",
-          "stars_total": 3538,
+          "stars_total": 3600,
           "stars_today": 261,
           "description_zh": "DirectX游戏翻新引擎"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/bikini/exploitarium",
           "description_en": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
           "language": "Python",
-          "stars_total": 4520,
+          "stars_total": 4589,
           "stars_today": 74,
           "description_zh": "公开漏洞利用PoC和漏洞研究文章的唯一存档。在我发布这些内容时，尚未有报告。请随意自行报告并领取CVE的功劳（如果有的话）。请不要滥用这些内容。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/radixark/miles",
           "description_en": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
           "language": "Python",
-          "stars_total": 2558,
+          "stars_total": 2612,
           "stars_today": 64,
           "description_zh": "Miles是一个面向企业的强化学习框架，用于LLM和VLM的后训练，从slime分叉并与之共同演进。"
         }
