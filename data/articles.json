@@ -1,5 +1,38 @@
 [
   {
+    "id": "12d8deac2ef76df6492a2bc2d289c7c3",
+    "title_en": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "published_at": "2026-09-05T22:49:55.000Z",
+    "fetched_at": "2026-09-06T02:00:01.219Z",
+    "title_zh": "《西雅图时报》与《新闻日报》加入起诉OpenAI和微软的阵营",
+    "summary_zh": "继《纽约时报》等媒体之后，《西雅图时报》和《新闻日报》也分别对OpenAI和微软提起诉讼，指控其未经授权使用受版权保护的新闻内容训练AI模型。此举反映了新闻行业与AI公司之间日益紧张的关系，可能对AI训练数据的合法使用产生深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "2d8b8db9bb5a9b7e6378d03ddbd21877",
+    "title_en": "Explore the globe in field recordings",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+    "published_at": "2026-09-05T21:31:34.000Z",
+    "fetched_at": "2026-09-06T02:00:01.405Z",
+    "title_zh": "通过实地录音探索全球声音景观",
+    "summary_zh": "本文介绍了一种通过实地录音探索世界的新方式，让用户沉浸于全球各地的自然与人文声音环境中。这种音频体验突破了视觉限制，为旅行、教育和文化研究提供了独特视角，也展示了音频技术在内容消费中的创新应用。",
+    "category": "product"
+  },
+  {
+    "id": "2add6851b9042d7fc26016da04bcb117",
+    "title_en": "iPhone Handoff will seamlessly share one number between two phones",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+    "published_at": "2026-09-05T20:53:58.000Z",
+    "fetched_at": "2026-09-06T02:00:01.405Z",
+    "title_zh": "iPhone Handoff功能将实现两部手机无缝共享同一号码",
+    "summary_zh": "苹果即将推出的Handoff功能允许用户在两部iPhone之间无缝切换，共享同一个电话号码。该功能旨在提升多设备用户的便利性，例如在工作与个人手机间灵活切换，同时保持通话和消息的连续性。这一更新预计将增强苹果生态系统的整合体验。",
+    "category": "product"
+  },
+  {
     "id": "aa68d7954241fc3e032c4b2341ad109b",
     "title_en": "Hikers rescued after using Google Gemini for planning",
     "source": "TechCrunch AI",
@@ -151,6 +184,116 @@
     "fetched_at": "2026-09-05T09:40:24.868Z",
     "title_zh": "漫威为《复仇者联盟：末日》安排了42小时“家庭作业”",
     "summary_zh": "漫威影业宣布，为迎接《复仇者联盟：末日》的上映，粉丝需要观看此前多部电影和剧集，累计时长约42小时，才能完全理解剧情。这一做法引发了粉丝的争议，有人认为这是对系列故事的深度拓展，也有人抱怨观影门槛过高。漫威方面表示，这是为了构建更宏大的叙事宇宙。",
+    "category": "product"
+  },
+  {
+    "id": "689a484f401b1f7b2aa713efe9a781ca",
+    "title_en": "Applied Digital vs. IREN: Evaluating the Better Artificial Intelligence Stock to Buy for 2026",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/cdad6e6a98e068df",
+    "published_at": "2026-09-05T01:55:31Z",
+    "fetched_at": "2026-09-06T02:00:02.192Z",
+    "title_zh": "Applied Digital 与 IREN 对比：评估 2026 年更值得买入的人工智能股票",
+    "summary_zh": "本文对比分析 Applied Digital 与 IREN 两家公司，从数据中心布局、算力规模、财务状况及 AI 业务前景等维度评估其投资价值。Applied Digital 聚焦高性能计算托管，IREN 则侧重比特币挖矿与 AI 云服务转型。文章旨在帮助投资者在 2026 年 AI 基础设施需求持续增长的背景下，做出更明智的选股决策。",
+    "category": "industry"
+  },
+  {
+    "id": "00d894065a47062fd2d70f4f4cdfa230",
+    "title_en": "Spot memory prices surge to four times contract prices as AI demand overwhelms supply",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/spot-memory-prices-surge-hbm-ai-demand/",
+    "published_at": "2026-09-05T01:44:51Z",
+    "fetched_at": "2026-09-06T02:00:02.192Z",
+    "title_zh": "现货内存价格飙升至合约价四倍，AI 需求压倒供应",
+    "summary_zh": "受 AI 算力扩张驱动，内存现货价格暴涨至合约价的四倍，供应严重短缺。数据中心对高带宽内存（HBM）和 DRAM 的抢购加剧了市场失衡，现货溢价凸显短期供需矛盾。分析人士预计，随着 AI 模型训练和推理需求持续攀升，内存价格高位或将延续，产业链上下游面临成本压力与产能调配挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "a2ca755834cfff370a5c38fbdfbf19b4",
+    "title_en": "RFK Jr. Wants Your Medical Records",
+    "source": "Techdirt",
+    "url": "https://www.techdirt.com/2026/09/04/rfk-jr-wants-your-medical-records/",
+    "published_at": "2026-09-05T01:39:49Z",
+    "fetched_at": "2026-09-06T02:00:02.192Z",
+    "title_zh": "小罗伯特·肯尼迪想要你的医疗记录",
+    "summary_zh": "文章批评美国卫生与公众服务部长提名人小罗伯特·肯尼迪推动获取公民医疗数据的计划，认为此举可能侵犯隐私并引发数据滥用风险。作者指出，在缺乏明确法律保障和透明用途说明的情况下，大规模收集医疗记录将威胁个人自主权，并可能被用于不当目的，呼吁公众关注并抵制此类政策。",
+    "category": "industry"
+  },
+  {
+    "id": "bae6bfb0f3c7e3d966e9242d7d726b9d",
+    "title_en": "24 posts secured, but Thomas Jones still outside People’s College list",
+    "source": "Syllad.com",
+    "url": "https://www.syllad.com/24-posts-secured-but-thomas-jones-still-outside-peoples-college-list/",
+    "published_at": "2026-09-05T01:35:00Z",
+    "fetched_at": "2026-09-06T02:00:02.192Z",
+    "title_zh": "虽获 24 个职位，托马斯·琼斯仍无缘人民学院名单",
+    "summary_zh": "据报道，托马斯·琼斯在相关选举或评选中获得 24 个职位支持，但最终仍未被列入人民学院（People's College）的正式名单。事件引发对评选程序公正性的质疑，支持者认为其资格被忽视。目前学院方面尚未给出明确解释，相关争议或影响后续组织决策与公众信任。",
+    "category": "industry"
+  },
+  {
+    "id": "dfe3c331ee493fbb552b6eff3e560838",
+    "title_en": "Growing up agentic: childhood sans consequences",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/opinion/ai-agents-agentic-ai-children-and-ai-childhood-personal-accountability-agency-decision-making-ai-assistants-11788425568662.html",
+    "published_at": "2026-09-05T01:30:57Z",
+    "fetched_at": "2026-09-06T02:00:02.192Z",
+    "title_zh": "在智能体时代成长：没有后果的童年",
+    "summary_zh": "文章探讨 AI 智能体（agentic AI）对儿童发展的潜在影响。随着 AI 助手代劳越来越多任务，孩子们可能失去体验失败和承担后果的机会，从而削弱责任感、韧性和问题解决能力。作者呼吁家长和教育者重新思考如何平衡技术便利与成长必需的真实体验，确保下一代在 AI 陪伴下仍能健康发展。",
+    "category": "llm"
+  },
+  {
+    "id": "f0c6ac7e91314718d5cac31777c91a40",
+    "title_en": "Flock says its cameras make US safer - so why are they being sabotaged?",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/cew9kz1kxpvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "published_at": "2026-09-05T01:25:33Z",
+    "fetched_at": "2026-09-06T02:00:02.192Z",
+    "title_zh": "Flock 称其摄像头让美国更安全——那为何遭破坏？",
+    "summary_zh": "Flock Safety 公司宣称其 AI 车牌识别摄像头网络提升了美国社区安全，但近期多地发生摄像头被破坏事件。反对者担忧隐私侵犯和监控扩大化，认为设备缺乏有效监管。公司回应称破坏行为阻碍犯罪调查，但争议凸显了公共安全与公民自由之间的紧张关系，引发对监控技术应用的广泛讨论。",
+    "category": "product"
+  },
+  {
+    "id": "58db8ffc4b6d9588c73750976d2f756f",
+    "title_en": "Pimco's Top-Performing 60/40 Fund Bets AI's Next Winners Are In Asia, From Chips To Rare Earths",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/1c0f20265e44e0e3",
+    "published_at": "2026-09-05T01:23:22Z",
+    "fetched_at": "2026-09-06T02:00:02.192Z",
+    "title_zh": "Pimco 顶级 60/40 基金押注 AI 下一批赢家在亚洲：从芯片到稀土",
+    "summary_zh": "太平洋投资管理公司（Pimco）旗下表现最佳的 60/40 平衡基金调整策略，认为 AI 产业链下一阶段增长将集中于亚洲，涵盖芯片制造、稀土材料等关键领域。该基金看好亚洲供应链在 AI 硬件和资源方面的优势，预计相关企业将受益于全球 AI 投资浪潮，并据此调整资产配置以捕捉超额回报。",
+    "category": "industry"
+  },
+  {
+    "id": "5e7840faac83faa83330d66f84092300",
+    "title_en": "Teaching Our Children How to Use AI Safely",
+    "source": "Psychology Today",
+    "url": "https://www.psychologytoday.com/us/blog/parenting-redefined/202609/teaching-our-children-how-to-use-ai-safely",
+    "published_at": "2026-09-05T00:57:53Z",
+    "fetched_at": "2026-09-06T02:00:02.192Z",
+    "title_zh": "教孩子安全使用 AI",
+    "summary_zh": "文章从心理学角度出发，为家长提供指导孩子安全使用 AI 工具的建议。专家强调，应从小培养孩子的数字素养和批判性思维，明确 AI 的局限性与潜在风险，如隐私泄露、信息误导等。建议家长与孩子共同制定使用规则，鼓励开放对话，并利用 AI 作为学习辅助而非替代，以促进健康的技术互动。",
+    "category": "llm"
+  },
+  {
+    "id": "aac35f17e014023aeee9bd31c85544cc",
+    "title_en": "Anthropic IPO timeline shifts toward mid-October",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/markets/stock-markets/anthropic-ipo-timeline-shifts-toward-mid-october/article71430892.ece",
+    "published_at": "2026-09-05T00:36:16Z",
+    "fetched_at": "2026-09-06T02:00:02.193Z",
+    "title_zh": "Anthropic IPO 时间表提前至 10 月中旬",
+    "summary_zh": "据 BusinessLine 报道，AI 公司 Anthropic 的首次公开募股（IPO）时间表出现调整，预计将提前至 10 月中旬。此前市场猜测其上市计划可能推迟，但最新消息显示公司正加速筹备。Anthropic 作为 Claude 模型开发商，其 IPO 动向备受关注，或将成为 AI 领域又一重大资本事件，影响行业估值与竞争格局。",
+    "category": "industry"
+  },
+  {
+    "id": "92e06c39dc805acca91fd765c45337de",
+    "title_en": "Smart Glasses, Robot Dogs, AI Tamagotchis, and Desk-Sized Supercomputers: How IFA 2026 Redefined Robots",
+    "source": "Yanko Design",
+    "url": "https://www.yankodesign.com/2026/09/04/smart-glasses-robot-dogs-ai-tamagotchis-and-desk-sized-supercomputers-how-ifa-2026-redefined-robots/",
+    "published_at": "2026-09-05T00:30:27Z",
+    "fetched_at": "2026-09-06T02:00:02.193Z",
+    "title_zh": "智能眼镜、机器狗、AI 电子宠物和桌面级超级计算机：IFA 2026 如何重新定义机器人",
+    "summary_zh": "IFA 2026 展会展示了机器人技术的多元化突破，包括智能眼镜、机器狗、AI 电子宠物（类似拓麻歌子）以及桌面级超级计算机等创新产品。这些设备融合 AI 与消费电子，模糊了工具与伴侣的界限，预示着机器人正从工业场景走向日常生活。展会凸显了 AI 驱动的交互体验和个性化应用成为新趋势。",
     "category": "product"
   },
   {
@@ -5355,148 +5498,5 @@
     "title_zh": "DAZN直播德甲：如何观看多特蒙德比赛",
     "summary_zh": "体育媒体指南：DAZN平台将直播多特蒙德的德甲比赛，文章提供订阅方式、观看设备及比赛时间等实用信息。用户需注意地区限制和直播权限，确保流畅观看。多特蒙德近期状态出色，本场备受关注。",
     "category": "industry"
-  },
-  {
-    "id": "4a1ad04f8ee6ecdbc76e4812ae8c5d97",
-    "title_en": "10 Monday AM Reads",
-    "source": "Ritholtz.com",
-    "url": "https://ritholtz.com/2026/08/10-monday-am-reads-490/",
-    "published_at": "2026-08-31T10:30:27Z",
-    "fetched_at": "2026-09-01T10:48:03.999Z",
-    "title_zh": "周一早晨10篇必读文章",
-    "summary_zh": "Ritholtz.com汇总周一早晨的10篇精选文章，涵盖宏观经济、市场趋势、科技动态等话题。为投资者和商业人士提供快速获取关键信息的渠道，内容精炼，观点多元，帮助读者把握本周市场脉搏。",
-    "category": "industry"
-  },
-  {
-    "id": "d303695b360edc4e781203c1d21220af",
-    "title_en": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "published_at": "2026-08-31T10:30:00.000Z",
-    "fetched_at": "2026-08-31T12:11:28.457Z",
-    "title_zh": "谁最讨厌AI？保险理赔员。",
-    "summary_zh": "文章探讨了AI在保险理赔领域的应用现状，指出尽管AI能提高效率，但理赔员对其持强烈抵触情绪。原因在于AI系统常被用于自动化处理简单案件，导致理赔员工作内容变得重复且被严格监控，同时AI的错误判断也增加了他们的纠错负担。这种矛盾凸显了AI落地时与一线员工利益冲突的普遍问题。",
-    "category": "industry"
-  },
-  {
-    "id": "68d3418f450d9cf5b4a8198f14037e3c",
-    "title_en": "Oracle layoffs September 1: Will employees wake up to another ‘6 a.m. email’ tomorrow after 21,000 jobs were cut as AI spending soars?",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/international/global-trends/oracle-layoffs-september-1-will-employees-wake-up-to-another-6-a-m-email-after-21000-jobs-were-cut-as-ai-spending-soars/articleshow/133649612.cms",
-    "published_at": "2026-08-31T10:22:26Z",
-    "fetched_at": "2026-09-01T10:48:03.999Z",
-    "title_zh": "甲骨文9月1日裁员：AI支出飙升后，员工会再次收到“早上6点邮件”吗？",
-    "summary_zh": "甲骨文计划于9月1日进行新一轮裁员，此前已裁减2.1万个岗位。随着AI基础设施投入激增，公司重组成本压力加大。员工担忧收到凌晨通知邮件。分析认为，甲骨文正转向AI云服务，但短期阵痛难免，行业就业前景引发关注。",
-    "category": "industry"
-  },
-  {
-    "id": "dd3b9561ab7d19885b6c3d82971038f2",
-    "title_en": "China’s Humanoid Robots Aren’t Smart Enough to Take Your Job – Yet",
-    "source": "Insurance Journal",
-    "url": "https://www.insurancejournal.com/news/international/2026/08/31/883381.htm",
-    "published_at": "2026-08-31T10:21:50Z",
-    "fetched_at": "2026-09-01T10:48:03.999Z",
-    "title_zh": "中国的人形机器人还不够聪明，暂时抢不走你的工作",
-    "summary_zh": "文章指出，尽管中国在人形机器人领域进展迅速，但当前机器人的智能水平仍不足以胜任复杂人类工作。技术瓶颈包括感知、决策和灵活性。专家预计，短期内机器人主要应用于制造业等重复性岗位，全面替代白领工作仍需多年。",
-    "category": "research"
-  },
-  {
-    "id": "dba94a6f4db31405c2eb11f5cb7e6577",
-    "title_en": "Bank of England chief warns new AI models threaten global financial stability",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/863b873e5c80c98d",
-    "published_at": "2026-08-31T10:21:19Z",
-    "fetched_at": "2026-09-01T10:48:03.999Z",
-    "title_zh": "英国央行行长警告：新AI模型威胁全球金融稳定",
-    "summary_zh": "英国央行行长安德鲁·贝利警告，新一代AI模型可能对全球金融稳定构成威胁。他指出，AI在交易和风险管理中的广泛应用可能引发市场同质化、算法共振和系统性风险。呼吁国际监管合作，制定AI金融应用的安全标准，以防未来危机。",
-    "category": "industry"
-  },
-  {
-    "id": "c5bf98db9b545aa1635174e949fe211a",
-    "title_en": "Japan plans $55.6 bn budget to beef up its defence with drones, missiles",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/world-news/japan-plans-55-6-bn-budget-to-beef-up-its-defence-with-drones-missiles-126083100635_1.html",
-    "published_at": "2026-08-31T10:19:08Z",
-    "fetched_at": "2026-09-01T10:48:03.999Z",
-    "title_zh": "日本计划投入556亿美元预算，以无人机和导弹强化国防",
-    "summary_zh": "日本政府宣布一项总额达556亿美元的国防预算计划，重点采购无人机、导弹及先进防御系统，以应对地区安全挑战。此举标志着日本在军事能力上的显著扩张，旨在增强对周边海域和空域的监控与威慑力。分析人士指出，该预算将推动日本国防工业升级，并可能影响区域军备平衡。科技方面，无人机和智能导弹技术的应用将成为提升自卫队作战效能的关键，相关产业链企业有望受益。",
-    "category": "industry"
-  },
-  {
-    "id": "bbfe7105f6da641d2d11ee3768054d2c",
-    "title_en": "The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-magsafe-grips/",
-    "published_at": "2026-08-31T10:00:00.000Z",
-    "fetched_at": "2026-08-31T12:11:28.457Z",
-    "title_zh": "2026年最佳9款MagSafe手机指环扣，拯救你的“黄油手”",
-    "summary_zh": "这是一篇针对2026年市场的产品推荐指南。文章精选了9款MagSafe手机指环扣，从握持稳定性、材质手感、磁吸强度、支架功能及价格等多个维度进行评测。旨在帮助经常手滑的用户找到最适合自己的产品，提升手机使用的安全性和便利性，覆盖了从平价到高端的多种选择。",
-    "category": "product"
-  },
-  {
-    "id": "c5d5e40d689d8ea42df7dca564bac872",
-    "title_en": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
-    "published_at": "2026-08-31T10:00:00.000Z",
-    "fetched_at": "2026-08-31T12:11:28.457Z",
-    "title_zh": "ATM漏洞揭示软件供应链的关键弱点",
-    "summary_zh": "安全研究人员在多个品牌的ATM机上发现了严重漏洞，这些漏洞并非源于ATM本身，而是其依赖的第三方软件组件。攻击者可通过这些漏洞远程操控机器窃取现金或数据。该事件再次敲响警钟，表明软件供应链安全是金融基础设施的薄弱环节，亟需更严格的组件审查和更新机制。",
-    "category": "research"
-  },
-  {
-    "id": "975b742fa3725a3be0d6f1b44ba01c8a",
-    "title_en": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "published_at": "2026-08-31T02:34:00.000Z",
-    "fetched_at": "2026-08-31T12:11:28.041Z",
-    "title_zh": "美国为无人机和机器人筑起壁垒，但中国凭借规模优势可绕过",
-    "summary_zh": "美国正通过出口管制和关税等手段限制中国无人机和机器人进入市场，但中国制造商凭借庞大的国内市场和供应链规模，能够降低成本并快速迭代，从而绕开壁垒。分析认为，单纯依赖限制措施难以遏制中国在该领域的技术进步和全球竞争力，美国需在创新和产业政策上寻求更有效的应对策略。",
-    "category": "industry"
-  },
-  {
-    "id": "2a183ddb06dc587e4574c92e2b1a7253",
-    "title_en": "The Doom Patrol #1 Preview: Heroes for Hire, Broke for Real",
-    "source": "Bleeding Cool News",
-    "url": "https://bleedingcool.com/comics/the-doom-patrol-1-preview-heroes-for-hire-broke-for-real/",
-    "published_at": "2026-08-31T02:26:08Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "《毁灭战士》#1预览：英雄雇佣兵，现实穷光蛋",
-    "summary_zh": "漫威漫画《毁灭战士》#1发布预览，故事聚焦于一群自称“英雄雇佣兵”的团队，但他们实际上经济窘迫，面临现实困境。预览展示了团队在接取任务与维持生计间的挣扎，充满了黑色幽默与动作场面。该期漫画预计将探讨英雄主义与商业化的冲突，为读者带来一个另类的超级英雄故事。",
-    "category": "product"
-  },
-  {
-    "id": "ec1c58c6bd54fa84df8ada41d4f89e31",
-    "title_en": "Avoiding The AI Layoff Trap",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/b1127da972b20d00",
-    "published_at": "2026-08-31T02:16:29Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "避免AI裁员陷阱",
-    "summary_zh": "文章探讨企业在引入AI时常见的裁员误区。许多公司急于用AI替代人力，却忽视了重新培训与岗位转型的价值。专家建议，成功的AI转型应聚焦于增强员工能力而非简单替换，通过内部技能提升计划，将AI作为工具来优化流程，从而在提升效率的同时保留核心人才，避免因短视决策导致的人才流失和声誉损害。",
-    "category": "industry"
-  },
-  {
-    "id": "a15a1d9659f6f6559dcf6864b73b6be7",
-    "title_en": "Perpetually linked incentives? India’s handset makers must shorten their curve to competitiveness",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/opinion/online-views/perpetually-linked-incentives-india-phone-makers-must-get-competitive-faster-pli-scheme-mpms-11788073628753.html",
-    "published_at": "2026-08-31T02:00:31Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "永久挂钩激励？印度手机制造商需缩短竞争力曲线",
-    "summary_zh": "文章分析印度手机制造业的激励政策，指出尽管生产挂钩激励计划(PLI)推动了本地制造，但企业过度依赖补贴，缺乏自主创新动力。为提升全球竞争力，印度制造商必须加速技术升级和供应链本土化，缩短从组装到高附加值研发的转型周期，否则将在全球市场中持续处于被动地位。",
-    "category": "industry"
-  },
-  {
-    "id": "a6c7cac6a7b46f293bbb015c2962d1a9",
-    "title_en": "How practical AI skills are helping workers tackle real job demands",
-    "source": "CNA",
-    "url": "https://www.channelnewsasia.com/advertorial/how-practical-ai-skills-are-helping-workers-tackle-real-job-demands-6325476",
-    "published_at": "2026-08-31T01:56:17Z",
-    "fetched_at": "2026-09-01T02:41:59.771Z",
-    "title_zh": "实用AI技能如何帮助员工应对真实工作需求",
-    "summary_zh": "报道指出，掌握实用AI技能正成为职场新刚需。员工通过学习使用AI工具处理数据分析、内容生成和流程自动化等具体任务，显著提升了工作效率和解决问题的能力。企业也开始重视内部AI培训，将其视为提升竞争力的关键。这种“即学即用”的技能培养模式，正帮助劳动者更好地适应数字化转型带来的挑战。",
-    "category": "llm"
   }
 ]
