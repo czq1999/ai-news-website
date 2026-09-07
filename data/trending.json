@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-07",
-      "summary_zh": "今日GitHub热点聚焦AI代理生态：视频生成、文档转换、隐身浏览器及代理优化工具涌现，多项目专注提升代理效率与自动化能力。",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理生态：浏览器自动化、文档转换、营销优化及自主交易系统，凸显开源AI工具链的实用化与商业化趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 252517,
+          "stars_total": 252687,
           "stars_today": 1905,
           "description_zh": "代理工具链性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发体验。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/microsoft/markitdown",
           "description_en": "Python tool for converting files and office documents to Markdown.",
           "language": "Python",
-          "stars_total": 179755,
+          "stars_total": 180011,
           "stars_today": 771,
           "description_zh": "用于将文件和办公文档转换为Markdown的Python工具。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description_en": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "stars_total": 45282,
+          "stars_total": 45639,
           "stars_today": 734,
           "description_zh": "编写HTML，渲染视频。专为智能体打造。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/coreyhaines31/marketingskills",
           "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
           "language": "JavaScript",
-          "stars_total": 47964,
+          "stars_total": 48045,
           "stars_today": 602,
           "description_zh": "面向Claude Code和AI代理的营销技能。涵盖CRO、文案写作、SEO、分析和增长工程。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
           "description_en": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
           "language": "Python",
-          "stars_total": 5110,
+          "stars_total": 5192,
           "stars_today": 541,
           "description_zh": "在几分钟内构建你的自主对冲基金。AutoHedge利用群体智能和AI代理的力量，自动化市场分析、风险管理和交易执行。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/BraveOPotato/FckSignups",
           "description_en": "A list of tools that are open-source, in-browser, and require no-signups!",
           "language": "TypeScript",
-          "stars_total": 3681,
+          "stars_total": 3757,
           "stars_today": 497,
           "description_zh": "一个开源、浏览器内、无需注册的工具列表！"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/ruvnet/ruflo",
           "description_en": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
           "language": "TypeScript",
-          "stars_total": 71279,
+          "stars_total": 71337,
           "stars_today": 392,
           "description_zh": "🌊 原始的代理元框架。部署智能多智能体群体，协调自主工作流，构建对话式AI系统。具备自适应记忆、自学习智能、RAG集成，并原生集成Claude Code/Codex/Hermes等。"
         },
@@ -80,59 +80,59 @@
           "url": "https://github.com/openai/skills",
           "description_en": "Skills Catalog for Codex",
           "language": "Python",
-          "stars_total": 25901,
+          "stars_total": 25976,
           "stars_today": 372,
           "description_zh": "Codex技能目录。"
         },
         {
           "rank": 9,
-          "name": "bytedance/deer-flow",
-          "url": "https://github.com/bytedance/deer-flow",
-          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-          "language": "Python",
-          "stars_total": 81749,
-          "stars_today": 188,
-          "description_zh": "开源的长周期超级智能体框架，可研究、编码和创作。借助沙箱、记忆、工具、技能、子智能体和消息网关，处理从几分钟到几小时不等的各类任务。"
-        },
-        {
-          "rank": 10,
-          "name": "MoonTechLab/LunaTV",
-          "url": "https://github.com/MoonTechLab/LunaTV",
-          "description_en": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
-          "language": "TypeScript",
-          "stars_total": 9646,
-          "stars_today": 171,
-          "description_zh": "本项目采用CC BY-NC-SA协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
-        },
-        {
-          "rank": 11,
-          "name": "mksglu/context-mode",
-          "url": "https://github.com/mksglu/context-mode",
-          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "language": "TypeScript",
-          "stars_total": 20671,
-          "stars_today": 147,
-          "description_zh": "面向AI编程智能体的上下文窗口优化。沙箱化工具输出（减少98%），持久化会话记忆，并通过MCP+钩子在17个平台间强制执行路由。"
-        },
-        {
-          "rank": 12,
-          "name": "pascalorg/editor",
-          "url": "https://github.com/pascalorg/editor",
-          "description_en": "Create and share 3D architectural projects.",
-          "language": "TypeScript",
-          "stars_total": 22192,
-          "stars_today": 136,
-          "description_zh": "创建并分享3D建筑项目。"
-        },
-        {
-          "rank": 13,
           "name": "jo-inc/camofox-browser",
           "url": "https://github.com/jo-inc/camofox-browser",
           "description_en": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
           "language": "JavaScript",
-          "stars_total": 9480,
-          "stars_today": 117,
+          "stars_total": 9585,
+          "stars_today": 285,
           "description_zh": "面向AI智能体的隐身无头浏览器——绕过Cloudflare、机器人检测和反爬虫。可直接替代Puppeteer/Playwright。"
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars_total": 81799,
+          "stars_today": 188,
+          "description_zh": "开源的长周期超级智能体框架，可研究、编码和创作。借助沙箱、记忆、工具、技能、子智能体和消息网关，处理从几分钟到几小时不等的各类任务。"
+        },
+        {
+          "rank": 11,
+          "name": "MoonTechLab/LunaTV",
+          "url": "https://github.com/MoonTechLab/LunaTV",
+          "description_en": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+          "language": "TypeScript",
+          "stars_total": 9675,
+          "stars_today": 171,
+          "description_zh": "本项目采用CC BY-NC-SA协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+        },
+        {
+          "rank": 12,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 20757,
+          "stars_today": 147,
+          "description_zh": "面向AI编程智能体的上下文窗口优化。沙箱化工具输出（减少98%），持久化会话记忆，并通过MCP+钩子在17个平台间强制执行路由。"
+        },
+        {
+          "rank": 13,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description_en": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars_total": 22267,
+          "stars_today": 136,
+          "description_zh": "创建并分享3D建筑项目。"
         },
         {
           "rank": 14,
@@ -140,7 +140,7 @@
           "url": "https://github.com/lightpanda-io/browser",
           "description_en": "Lightpanda: the headless browser designed for AI and automation",
           "language": "Zig",
-          "stars_total": 34728,
+          "stars_total": 34790,
           "stars_today": 116,
           "description_zh": "Lightpanda：专为AI和自动化设计的无头浏览器"
         }
