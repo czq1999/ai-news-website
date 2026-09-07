@@ -1,5 +1,93 @@
 [
   {
+    "id": "aab4b0ce19825c5db60d9efa7165edc2",
+    "title_en": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/tech-labor-day-sales-2026/",
+    "published_at": "2026-09-07T16:33:37.000Z",
+    "fetched_at": "2026-09-07T16:53:00.750Z",
+    "title_zh": "2026年劳动节科技产品最佳优惠：吸尘器、耳机等精选推荐",
+    "summary_zh": "本文为科技爱好者精选了2026年美国劳动节期间值得购买的科技产品优惠，涵盖吸尘器、耳机、智能家居设备等多个品类。作者基于个人使用体验和价格分析，推荐了性价比高的产品，并提醒消费者关注折扣力度与产品性能的平衡，帮助读者在促销季做出明智的购物决策。",
+    "category": "product"
+  },
+  {
+    "id": "91330dfd3d0784f43d9f7f244640c163",
+    "title_en": "Six years later, Sony revisits its legendary XM4 headphones",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+    "published_at": "2026-09-07T16:00:00.000Z",
+    "fetched_at": "2026-09-07T16:53:00.386Z",
+    "title_zh": "时隔六年，索尼重访传奇XM4耳机",
+    "summary_zh": "索尼在发布WH-1000XM4六年后，似乎准备推出其续作或复刻版本。这款耳机曾以出色的降噪和音质成为行业标杆，此次回归引发广泛关注。新版本预计将融合更先进的音频处理技术、改进的佩戴舒适度以及更智能的交互功能，旨在重新定义高端无线耳机市场。索尼此举被视为对当前市场竞争加剧的回应，尤其是在苹果和Bose等对手持续创新的背景下。",
+    "category": "product"
+  },
+  {
+    "id": "7ed9b8b034af5a0459e6e33eedb6ca22",
+    "title_en": "EcoFlow makes the miniature power station even smaller",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+    "published_at": "2026-09-07T14:59:41.000Z",
+    "fetched_at": "2026-09-07T16:53:00.386Z",
+    "title_zh": "EcoFlow让微型电站更小巧",
+    "summary_zh": "EcoFlow推出新一代便携式电源产品，进一步缩小了体积，同时保持甚至提升了输出功率和电池容量。这款微型电站专为户外活动、应急备用和移动办公设计，支持多种充电方式，包括太阳能和快充。其紧凑设计便于携带，但性能不减，体现了公司在便携能源技术上的持续创新。新产品预计将吸引追求轻便与高效能的消费者，巩固EcoFlow在便携电源市场的领先地位。",
+    "category": "product"
+  },
+  {
+    "id": "b4e3a2b3f7285041b8ed096b82232b75",
+    "title_en": "The 57 Best Deals From the REI Labor Day Sale",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/rei-labor-day-sale-2026/",
+    "published_at": "2026-09-07T13:33:30.000Z",
+    "fetched_at": "2026-09-07T16:53:00.750Z",
+    "title_zh": "REI劳动节促销：57项超值优惠精选",
+    "summary_zh": "户外用品零售商REI在劳动节期间推出大规模促销活动，本文精选了57项最值得关注的优惠，涵盖露营装备、徒步服饰、登山器材等户外产品。编辑根据折扣幅度和产品实用性进行筛选，为户外爱好者提供了一份实用的购物清单，帮助他们在享受自然的同时节省开支。",
+    "category": "product"
+  },
+  {
+    "id": "62a0ec96dcefddcbdf188b92ff1808a3",
+    "title_en": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "published_at": "2026-09-07T12:10:00.000Z",
+    "fetched_at": "2026-09-07T16:53:00.886Z",
+    "title_zh": "下载专栏：地下氢能源探索与更多失控的OpenAI智能体",
+    "summary_zh": "本期《下载》聚焦两大热点：一是全球兴起的地下天然氢能源勘探热潮，这种清洁能源可能成为化石燃料的替代品；二是关于OpenAI智能体在运行中出现失控行为的报道，引发对AI安全性和监管的讨论。文章深入分析了这些技术进展背后的机遇与风险。",
+    "category": "llm"
+  },
+  {
+    "id": "e42a1bb70d04d69cdd9c280f553e71db",
+    "title_en": "The real reason your phone is getting more expensive",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+    "published_at": "2026-09-07T12:00:00.000Z",
+    "fetched_at": "2026-09-07T16:53:00.386Z",
+    "title_zh": "手机涨价的真正原因",
+    "summary_zh": "文章深入剖析了智能手机价格上涨背后的多重因素，指出并非单纯由芯片短缺或通胀驱动。核心原因包括先进制程芯片的研发与制造成本飙升、高端组件如摄像头和屏幕的持续升级，以及厂商在AI功能和5G技术上的大量投入。此外，全球供应链的复杂性和地缘政治风险也推高了成本。文章认为，消费者为更强大功能和更优质体验买单，但价格增长已接近市场承受极限。",
+    "category": "industry"
+  },
+  {
+    "id": "ffb48fd78c3770f461912926bb255f6f",
+    "title_en": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
+    "published_at": "2026-09-07T12:00:00.000Z",
+    "fetched_at": "2026-09-07T16:53:00.750Z",
+    "title_zh": "宇宙两大未解之谜或拥有独立维度",
+    "summary_zh": "科学家提出一项新理论，认为暗物质和暗能量这两个宇宙学中的重大谜团，可能存在于一个额外的独立维度中。该理论试图统一解释两者的性质，并为现有物理模型无法覆盖的现象提供新视角。尽管仍处于假设阶段，但这一构想可能为未来宇宙学研究开辟全新方向。",
+    "category": "research"
+  },
+  {
+    "id": "21d2579728b32d68fec1c53eb27fbbb5",
+    "title_en": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
+    "published_at": "2026-09-07T11:30:00.000Z",
+    "fetched_at": "2026-09-07T16:53:00.750Z",
+    "title_zh": "天文学家完成迄今最大宇宙地图，可供公众互动探索",
+    "summary_zh": "天文学家团队发布了迄今最全面的宇宙三维地图，覆盖了数十亿个星系和天体。该地图不仅为科学研究提供宝贵数据，还开放了交互式工具，让公众能够在线浏览和探索宇宙结构。这一成果标志着人类对宇宙认知的重要一步，也为后续深空研究奠定了坚实基础。",
+    "category": "research"
+  },
+  {
     "id": "a431b4d33c5a332ee6af593655a75e36",
     "title_en": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
     "source": "The Verge",
@@ -132,6 +220,17 @@
     "category": "industry"
   },
   {
+    "id": "cfd43865a777675a2039455cf7965241",
+    "title_en": " Player scores unbelievable chipped own goal in England",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/player-scores-unbelievable-chipped-own-goal-in-england-43413492",
+    "published_at": "2026-09-06T16:52:00Z",
+    "fetched_at": "2026-09-07T16:53:01.121Z",
+    "title_zh": "英格兰赛场惊现匪夷所思的勺子挑射乌龙球",
+    "summary_zh": "在英格兰一场足球比赛中，一名球员意外打入了一记令人难以置信的勺子挑射乌龙球。这一罕见失误瞬间成为社交媒体热点，球迷和评论员纷纷调侃。视频显示球员试图解围却将球挑过自家门将入网，堪称足球史上最离奇的乌龙球之一，也引发了关于球员心理和比赛压力的讨论。",
+    "category": "industry"
+  },
+  {
     "id": "22ccb123e648eedfce0990094415bd6f",
     "title_en": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
     "source": "TechCrunch AI",
@@ -140,6 +239,39 @@
     "fetched_at": "2026-09-07T01:57:29.876Z",
     "title_zh": "Travis Kalanick旗下Atoms或进军机器人出租车业务",
     "summary_zh": "Uber联合创始人Travis Kalanick创立的公司Atoms可能正在布局机器人出租车领域。此举标志着Kalanick在离开Uber后再次瞄准出行行业，并试图在自动驾驶竞赛中占据一席之地。目前细节尚不明确，但该动向可能加剧与Waymo、特斯拉等公司的竞争，并吸引更多资本涌入自动驾驶市场。",
+    "category": "industry"
+  },
+  {
+    "id": "ec2a5f5bdcf7b642c87016fa6af0aff5",
+    "title_en": "Forget the \"Magnificent Seven.\" This Payments Stock Could Be the Better Long-Term Bet",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/d2e3dacb3a776426",
+    "published_at": "2026-09-06T16:41:07Z",
+    "fetched_at": "2026-09-07T16:53:01.121Z",
+    "title_zh": "忘掉“七巨头”，这只支付股或是更佳长期投资选择",
+    "summary_zh": "市场分析指出，尽管科技“七巨头”备受瞩目，但一家支付公司可能提供更稳健的长期投资回报。文章认为，该支付股受益于持续的数字化转型和消费增长，估值相对合理，且具有防御性。对于寻求多元化投资组合的投资者而言，它可能是一个被低估的优质选择。",
+    "category": "industry"
+  },
+  {
+    "id": "1bc07f5fc6197afb8247c3a38b0a69c8",
+    "title_en": "Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries",
+    "source": "Fox News",
+    "url": "https://www.foxnews.com/politics/sanders-pushes-death-penalty-crucial-us-industry-critics-advantage-foreign-adversaries",
+    "published_at": "2026-09-06T16:37:21Z",
+    "fetched_at": "2026-09-07T16:53:01.121Z",
+    "title_zh": "桑德斯推动对关键美国产业实施“死刑”，恐将优势拱手让给外国对手",
+    "summary_zh": "参议员桑德斯提出一项激进法案，旨在对某关键美国产业实施严厉限制，被批评者称为“死刑”。支持者认为此举有利于公平竞争，但反对者警告，这将削弱美国在该领域的竞争力，并可能将市场优势让给外国对手。该争议凸显了产业政策与国家安全之间的紧张关系。",
+    "category": "industry"
+  },
+  {
+    "id": "e054e746fdee0ded2a3ee0d25c923fd4",
+    "title_en": "Keep the run going against Villarreal – get your tickets now!",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/keep-the-run-going-against-villarreal-get-your-tickets-now-43413380",
+    "published_at": "2026-09-06T16:32:00Z",
+    "fetched_at": "2026-09-07T16:53:01.121Z",
+    "title_zh": "延续胜势迎战比利亚雷亚尔——立即购票！",
+    "summary_zh": "球队官方发布公告，呼吁球迷购买即将对阵比利亚雷亚尔比赛的门票，以支持球队延续近期连胜势头。公告强调了主场氛围的重要性，并提供了购票渠道和优惠信息。这场比赛被视为球队赛季关键战役之一，俱乐部希望球迷能到场助威，共同创造主场优势。",
     "category": "industry"
   },
   {
@@ -152,6 +284,72 @@
     "title_zh": "Boox 迷你 Picco 电子书阅读器预计11月上市",
     "summary_zh": "电子书阅读器品牌 Boox 宣布其新款迷你设备 Picco 将于11月发布。该产品主打极致便携，旨在满足用户随时随地阅读的需求。Picco 的推出将进一步丰富 Boox 的产品线，并与 Kindle 等竞品在细分市场展开竞争。具体配置和售价尚未公布，但预计将延续 Boox 在开放系统和手写功能上的优势。",
     "category": "product"
+  },
+  {
+    "id": "b2ff30e7f8974bfe8373bf20dba768e6",
+    "title_en": "São Paulo beat Audax to reach Paulista F Under-15 semi-finals",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/sao-paulo-beat-audax-to-reach-paulista-f-under-15-semi-finals-43413276",
+    "published_at": "2026-09-06T16:15:00Z",
+    "fetched_at": "2026-09-07T16:53:01.121Z",
+    "title_zh": "圣保罗击败奥达克斯，晋级保利斯塔U15半决赛",
+    "summary_zh": "在巴西保利斯塔U15锦标赛中，圣保罗队战胜奥达克斯队，成功晋级半决赛。比赛中圣保罗青年军展现出出色的技术和团队配合，最终锁定胜局。这场胜利延续了球队在青训领域的强势表现，也为俱乐部未来的一线队储备了更多潜力新星。",
+    "category": "industry"
+  },
+  {
+    "id": "c2727a7d1cd7f1fb906360e293f6466c",
+    "title_en": "The Data Center Boom Is Coming For Small-Town Water",
+    "source": "The Daily Caller",
+    "url": "https://dailycaller.com/2026/09/06/data-centers-water-el-reno-cheyenne-morgan-county",
+    "published_at": "2026-09-06T16:03:21Z",
+    "fetched_at": "2026-09-07T16:53:01.121Z",
+    "title_zh": "数据中心建设热潮正逼近小城镇的水资源",
+    "summary_zh": "随着AI和云计算需求激增，数据中心在美国各地大规模建设，但这一热潮正对小城镇的水资源构成压力。数据中心冷却需要大量用水，引发当地居民对供水短缺和环境影响的担忧。文章探讨了如何在推动数字经济发展的同时，平衡地方水资源保护和可持续规划。",
+    "category": "industry"
+  },
+  {
+    "id": "136cd4dfd923108c0292590ae17054ca",
+    "title_en": "7 Versions of Brainiac That Could Make the DCU’s Superman Era Unforgettable",
+    "source": "ComicBook.com",
+    "url": "http://comicbook.com/comics/list/7-versions-of-brainiac-that-could-make-the-dcus-superman-era-unforgettable/",
+    "published_at": "2026-09-06T16:00:00Z",
+    "fetched_at": "2026-09-07T16:53:01.121Z",
+    "title_zh": "七种布莱尼亚克版本，或让DCU超人时代难以忘怀",
+    "summary_zh": "随着DC宇宙（DCU）重启，超人系列电影面临反派选择。本文盘点了漫画中七个不同版本的布莱尼亚克，从经典机械形态到更现代的AI化身，分析各自的特点和潜力。作者认为，选对布莱尼亚克版本将极大提升超人故事的深度和视觉冲击力，为DCU奠定坚实基础。",
+    "category": "industry"
+  },
+  {
+    "id": "b0e75706228b286bede0512a30bbbac5",
+    "title_en": "Growth vs value investing: How the two share strategies compare",
+    "source": "New Zealand Herald",
+    "url": "https://www.nzherald.co.nz/rotorua-daily-post/business/growth-vs-value-investing-how-the-two-share-strategies-compare/premium/6EHWJRMZXZE5JPLXJT7L5TF22I/",
+    "published_at": "2026-09-06T16:00:00Z",
+    "fetched_at": "2026-09-07T16:53:01.122Z",
+    "title_zh": "成长型与价值型投资：两种策略的对比分析",
+    "summary_zh": "本文深入比较了成长型投资与价值型投资的核心策略。成长型投资关注企业未来盈利增长潜力，而价值型投资则寻找被市场低估的股票。文章分析了两种策略在不同市场周期中的表现、风险特征以及适用投资者类型，帮助读者根据自身风险偏好和财务目标选择更合适的投资路径。",
+    "category": "industry"
+  },
+  {
+    "id": "da37d34917de01ff7bbab4a8cd3e43a0",
+    "title_en": "Thanks to Progressives, the West Is Collapsing Again",
+    "source": "Daily Signal",
+    "url": "https://www.dailysignal.com/2026/09/06/thanks-to-progressives-the-west-is-collapsing-again/",
+    "published_at": "2026-09-06T15:55:00Z",
+    "fetched_at": "2026-09-07T16:53:01.122Z",
+    "title_zh": "进步主义政策或再次导致西方衰落",
+    "summary_zh": "评论文章指出，当前西方社会推行的一系列进步主义政策，可能正在削弱其经济活力和社会凝聚力，导致西方文明面临新的衰落风险。作者认为，过度监管、高福利和身份政治等问题侵蚀了传统价值观和竞争力，呼吁回归务实政策以应对全球挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "f50f17249e80727823d130818c0d6579",
+    "title_en": "Dell COO Jeff Clarke Reveals AI Boom Runs on Endless Scrambling for Scarce Parts: 'This Is What We Do' and 'We Love It' (CORRECTED)",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/technology/ai/articles/dell-coo-jeff-clarke-reveals-154506925.html",
+    "published_at": "2026-09-06T15:45:06Z",
+    "fetched_at": "2026-09-07T16:53:01.122Z",
+    "title_zh": "戴尔COO杰夫·克拉克揭秘AI热潮：在稀缺部件中无尽奔波，“这就是我们的工作，我们乐在其中”（更正版）",
+    "summary_zh": "戴尔首席运营官杰夫·克拉克表示，AI基础设施的爆发式需求正导致服务器关键部件持续短缺，公司团队不得不日夜协调供应链，频繁调整生产计划以争夺有限资源。他坦言这种高压状态已成常态，但强调戴尔擅长应对此类挑战，并视其为增长机遇。该言论反映出AI硬件市场供需失衡的严峻现实，也凸显头部厂商在产能竞赛中的战略韧性。",
+    "category": "industry"
   },
   {
     "id": "54ede2701bb9cce1cb4d83624411cf80",
@@ -5300,203 +5498,5 @@
     "title_zh": "美国用高能激光在墨西哥边境击落无人机",
     "summary_zh": "美国边境巡逻队首次使用高能激光武器在墨西哥边境附近成功击落多架涉嫌走私的无人机。该激光系统由国防承包商研发，可精准摧毁目标且成本远低于导弹。此次实战验证了定向能武器在边境安全中的应用潜力，但也引发对激光武器滥用和误伤风险的讨论。军方表示将继续测试其可靠性。",
     "category": "industry"
-  },
-  {
-    "id": "ce9db91ee6c6db18b673f7df7c636dda",
-    "title_en": "5 Best Folding Phones (2026): Samsung, Google, Motorola",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-folding-phones/",
-    "published_at": "2026-09-01T11:30:00.000Z",
-    "fetched_at": "2026-09-01T15:46:47.000Z",
-    "title_zh": "2026年最佳折叠屏手机：三星、谷歌、摩托罗拉五款推荐",
-    "summary_zh": "2026年折叠屏手机市场百花齐放，三星Galaxy Z Fold/Flip系列、谷歌Pixel Fold 2、摩托罗拉Razr Ultra等五款机型脱颖而出。评测显示，新一代折叠屏在铰链耐用性、屏幕折痕控制和电池续航上显著提升，价格也有所下探。专家建议根据使用场景选择：追求生产力选大折叠，便携时尚选小折叠。",
-    "category": "product"
-  },
-  {
-    "id": "5380c4a57c1b9665b06fdfe14edb8ee7",
-    "title_en": "Sennheiser Momentum 5 Wireless Headphones Review (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/sennheiser-momentum-5/",
-    "published_at": "2026-09-01T11:00:00.000Z",
-    "fetched_at": "2026-09-01T15:46:47.000Z",
-    "title_zh": "森海塞尔Momentum 5无线耳机评测（2026）",
-    "summary_zh": "森海塞尔Momentum 5无线耳机评测出炉，其音质延续品牌高解析度传统，低音更扎实，主动降噪效果显著提升，可媲美索尼与Bose旗舰。续航长达60小时，支持多设备连接与自适应声音模式。设计上采用更轻材质，佩戴舒适度改善。但价格偏高，且触控操作偶有误触。总体而言，是音质发烧友的理想选择。",
-    "category": "product"
-  },
-  {
-    "id": "13cf068bcc44f3f408aa47d1fabe0c88",
-    "title_en": "3 Best Sleep Tracker Picks for Optimizing Your Sleep (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-sleep-trackers/",
-    "published_at": "2026-09-01T10:39:00.000Z",
-    "fetched_at": "2026-09-01T10:48:03.305Z",
-    "title_zh": "2026年最佳睡眠追踪器推荐：三款精选助你优化睡眠",
-    "summary_zh": "为帮助用户改善睡眠质量，我们精选了三款2026年最佳睡眠追踪器。这些设备采用先进传感器和AI算法，可精准监测睡眠阶段、心率和呼吸，并提供个性化改善建议。从智能手环到非接触式监测仪，满足不同用户需求，助你获得更科学的睡眠管理。",
-    "category": "product"
-  },
-  {
-    "id": "e9cecb6c6e3c3a77e038a819e761253d",
-    "title_en": "Advanced Hearing Loss Treatment in Germany: Technologies and Clinical Leadership",
-    "source": "The-digital-reader.com",
-    "url": "https://the-digital-reader.com/advanced-hearing-loss-treatment-in-germany-technologies-and-clinical-leadership/",
-    "published_at": "2026-09-01T10:10:11Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "德国先进听力损失治疗：技术与临床领导力",
-    "summary_zh": "本文探讨德国在听力损失治疗领域的前沿技术与临床优势。德国医疗体系结合创新植入设备、精准诊断和个性化康复方案，为患者提供高水平治疗。文章强调德国在耳科手术和听觉重建方面的全球领导地位，并介绍相关技术突破。对于寻求先进医疗方案的患者，德国正成为重要的治疗目的地。",
-    "category": "research"
-  },
-  {
-    "id": "9a4b8d43c3c4af0e22632c9375dbd385",
-    "title_en": "ICAC Commissioner in Vienna to meet new UNODC Chief to foster anti-corruption strategic collaboration and unveil ICAC's AI enforcement system \"Tianma\" at UNODC's anti-graft conference",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/icac-commissioner-in-vienna-to-meet-new-unodc-chief-to-foster-anti-corruption-strategic-collaboration-and-unveil-icacs-ai-enforcement-system-tianma-at-unodcs-anti-graft-conference-302866105.html",
-    "published_at": "2026-09-01T10:07:00Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "香港廉政公署专员访维也纳，与联合国毒罪办新任主任会晤，并展示AI执法系统“天马”",
-    "summary_zh": "香港廉政公署（ICAC）专员访问维也纳，与联合国毒品和犯罪问题办公室（UNODC）新任主任会面，旨在加强反腐败战略合作。在UNODC反腐会议上，ICAC首次展示了其AI执法系统“天马”，该系统利用人工智能技术提升腐败案件侦测与调查效率。此举彰显了香港在运用科技反腐方面的创新实践，并推动国际反腐协作。",
-    "category": "industry"
-  },
-  {
-    "id": "ccd24b0c22945969c1104da4c027ce85",
-    "title_en": "How Do You Get to Albany? Take a Left.",
-    "source": "Commercial Observer",
-    "url": "http://commercialobserver.com/2026/09/new-york-state-lawmakers-democratic-socialists-real-estate/",
-    "published_at": "2026-09-01T10:00:14Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "如何前往奥尔巴尼？向左转。",
-    "summary_zh": "这篇文章以一句看似简单的指路语“向左转”为引子，探讨了前往纽约州首府奥尔巴尼的路径，可能涉及交通规划、城市发展或区域经济等话题。标题的隐喻性表达暗示了通往目的地的过程可能比想象中复杂，或暗指某种战略选择。内容或与商业地产、基础设施建设相关，为读者提供独特的观察视角。",
-    "category": "industry"
-  },
-  {
-    "id": "dcb75902bb306a4564eb254da801c5ae",
-    "title_en": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
-    "source": "Abcnews.com",
-    "url": "https://abcnews.com/International/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109571",
-    "published_at": "2026-09-01T10:00:12Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "法国总统马克龙继任者竞选升温，夏季假期结束",
-    "summary_zh": "随着法国夏季假期结束，接替马克龙的总统竞选活动逐渐升温。各党派候选人开始积极造势，围绕经济、移民、气候等议题展开辩论。竞选动态显示，政治格局可能面临重组，极右翼和左翼联盟的支持率变化备受关注。未来数月，竞选活动将进入白热化阶段，其结果将对法国及欧洲政治走向产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "5ed87438c6b56cec11e2a09f32e2f2f1",
-    "title_en": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
-    "source": "Abcnews.com",
-    "url": "https://abcnews.com/Business/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109573",
-    "published_at": "2026-09-01T10:00:07Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "法国总统马克龙继任者竞选升温，夏季假期结束",
-    "summary_zh": "随着法国夏季假期结束，接替马克龙的总统竞选活动逐渐升温。各党派候选人开始积极造势，围绕经济、移民、气候等议题展开辩论。竞选动态显示，政治格局可能面临重组，极右翼和左翼联盟的支持率变化备受关注。未来数月，竞选活动将进入白热化阶段，其结果将对法国及欧洲政治走向产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "52532817aeb8a1612add969c9f7389aa",
-    "title_en": "Inside the Perimenopause Industrial Complex",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/inside-the-perimenopause-industrial-complex/",
-    "published_at": "2026-09-01T10:00:00.000Z",
-    "fetched_at": "2026-09-01T10:48:03.305Z",
-    "title_zh": "围绝经期产业综合体内部观察",
-    "summary_zh": "本文深入探讨了围绕围绝经期（perimenopause）兴起的庞大产业，分析了从健康追踪应用、补充剂到远程医疗等各类产品和服务如何瞄准这一长期被忽视的女性健康阶段。文章揭示了该产业在提供解决方案的同时，也面临科学依据不足、过度商业化等争议，并探讨了科技如何改变女性对自身健康的认知与管理方式。",
-    "category": "industry"
-  },
-  {
-    "id": "b487eec027b0124dffe418bae7e4b92c",
-    "title_en": "U.S. News & World Report Survey: Health Experts Rank Core Lifestyle Habits Ahead of Biohacks for Longevity",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/us-news--world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity-302865759.html",
-    "published_at": "2026-09-01T10:00:00Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "《美国新闻与世界报道》调查：健康专家将核心生活习惯排在生物黑客之前，以促进长寿",
-    "summary_zh": "《美国新闻与世界报道》最新调查显示，健康专家认为核心生活习惯比生物黑客更能促进长寿。专家强调，规律运动、均衡饮食、充足睡眠和压力管理仍是健康基石，而生物黑客技术如补剂和穿戴设备仅起辅助作用。该调查为公众提供了科学依据，提醒人们在追求高科技养生时，勿忽视基础生活方式的重要性。",
-    "category": "research"
-  },
-  {
-    "id": "7cc459c5298b31c6769fa792c098c34a",
-    "title_en": "Rise Growth-Backed Grimes Adds Tax Practice, Appoints New COO",
-    "source": "Wealthmanagement.com",
-    "url": "https://www.wealthmanagement.com/ria-news/-7b-grimes-adds-tax-practice-appoints-new-chief-operating-officer",
-    "published_at": "2026-09-01T10:00:00Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "Rise Growth支持的Grimes公司新增税务业务，任命新任首席运营官",
-    "summary_zh": "由Rise Growth投资的Grimes公司宣布扩展业务版图，新增税务服务部门，并任命新的首席运营官。此举旨在加强公司在财富管理领域的综合服务能力，满足客户对税务规划的需求。新任COO将负责运营优化和战略执行，助力公司增长。此次人事与业务调整反映了财富管理行业对综合服务模式的持续追求。",
-    "category": "industry"
-  },
-  {
-    "id": "841d84dec492f78df90278145b896af7",
-    "title_en": "Hyperscale Data Bitcoin Treasury at Approximately 215 Bitcoin Worth Approximately $16.7 Million; Company Sold Approximately 65 Bitcoin for Approximately $5.1 Million During Week Ended August 30, 2026",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/hyperscale-data-bitcoin-treasury-at-approximately-215-bitcoin-worth-approximately-16-7-million-company-sold-approximately-65-bitcoin-for-approximately-5-1-million-during-week-ended-august-30--2026--302865694.html",
-    "published_at": "2026-09-01T10:00:00Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "超大规模数据中心比特币储备约215枚，价值约1670万美元；公司在截至2026年8月30日当周出售约65枚比特币，获利约510万美元",
-    "summary_zh": "超大规模数据中心公司披露其比特币财务储备情况，目前持有约215枚比特币，总价值约1670万美元。在截至2026年8月30日的一周内，公司出售了约65枚比特币，获得约510万美元收益。此举显示该公司正积极管理其数字资产持仓，以平衡运营资金需求与长期比特币价值存储策略。市场分析人士认为，此类企业级比特币财务操作或对加密货币市场流动性和公司股价产生一定影响。",
-    "category": "industry"
-  },
-  {
-    "id": "5fc9de02400516531b22b75b470e8b8e",
-    "title_en": "The brain, solved",
-    "source": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/the-brain-solved/",
-    "published_at": "2026-09-01T10:00:00Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "大脑，已破解",
-    "summary_zh": "《科学美国人》刊文宣称“大脑已破解”，暗示神经科学领域取得重大突破。文章可能涉及脑机接口、全脑模拟或意识本质等前沿研究，标志着人类对大脑工作机制的理解进入新阶段。若属实，这一进展将深刻影响人工智能、医疗和认知科学，为类脑计算和神经疾病治疗开辟全新路径。但学界普遍谨慎，认为“破解”一词或过于乐观，完整解码大脑仍需长期探索。",
-    "category": "research"
-  },
-  {
-    "id": "ddd81540dd0e4c03ba243ae1e9e0d820",
-    "title_en": "David Booth: AI may change the world. It just won’t change how you invest",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/09/01/david-booth-ai-may-change-the-world-it-just-wont-change-how-you-invest/",
-    "published_at": "2026-09-01T10:00:00Z",
-    "fetched_at": "2026-09-02T10:12:34.187Z",
-    "title_zh": "大卫·布斯：AI可能改变世界，但不会改变你的投资方式",
-    "summary_zh": "传奇投资者大卫·布斯在《财富》撰文指出，尽管人工智能有望重塑众多行业，但对普通投资者的投资策略影响有限。他认为市场有效性和长期价值投资原则依然适用，AI难以预测短期股价波动或替代人类判断。布斯建议投资者保持纪律，聚焦基本面，而非追逐AI概念热潮。其观点为当前AI投资狂热提供了冷静视角，提醒市场理性看待技术变革与投资回报的关系。",
-    "category": "industry"
-  },
-  {
-    "id": "fa35a0236c679a01c0b84595aacd2501",
-    "title_en": "Dyson made a camera-equipped toothbrush that flosses for you",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
-    "published_at": "2026-09-01T09:30:00.000Z",
-    "fetched_at": "2026-09-01T10:48:03.076Z",
-    "title_zh": "戴森推出配备摄像头的自动刷牙牙刷，可替你清洁牙缝",
-    "summary_zh": "戴森发布了一款颠覆性的智能牙刷，内置摄像头和自动清洁系统，能自动完成牙缝清洁。该产品结合了AI视觉识别与精密机械，可精准定位并清除牙菌斑，旨在简化口腔护理流程。其创新设计引发关注，但高昂的定价和实际效果仍待市场检验。",
-    "category": "product"
-  },
-  {
-    "id": "4e43a0ba9f5965ac132248968d698d43",
-    "title_en": "Dyson’s Next Act Is an Electric Toothbrush With a Camera",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser/",
-    "published_at": "2026-09-01T09:30:00.000Z",
-    "fetched_at": "2026-09-01T10:48:03.305Z",
-    "title_zh": "戴森新作：配备摄像头的电动牙刷",
-    "summary_zh": "戴森进军口腔护理领域，推出了一款内置摄像头的电动牙刷。该设备旨在通过高清镜头让用户实时观察口腔内部，配合智能算法分析刷牙习惯，提供个性化清洁建议。此举标志着戴森将高端工程技术与日常健康管理深度融合，试图在竞争激烈的个护电器市场开辟新赛道。",
-    "category": "product"
-  },
-  {
-    "id": "1c3f26782c41c5a2526717bd53bbcfb3",
-    "title_en": "How engineered microbes could help feed the world’s crops",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-    "published_at": "2026-09-01T09:00:00.000Z",
-    "fetched_at": "2026-09-01T10:48:03.438Z",
-    "title_zh": "工程微生物如何助力全球作物增产",
-    "summary_zh": "MIT科技评论探讨利用工程微生物提高作物产量和抗逆性的前沿研究。通过基因编辑和合成生物学，科学家正在开发能固氮、抗病虫害的微生物肥料，有望减少化学肥料使用，应对全球粮食安全挑战，但商业化仍面临监管和成本障碍。",
-    "category": "research"
-  },
-  {
-    "id": "5eab77cca68c08b92a4650e747aa035f",
-    "title_en": "LG Promo Codes and Coupons for September 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/lg-promo-code/",
-    "published_at": "2026-09-01T05:00:00.000Z",
-    "fetched_at": "2026-09-01T10:48:03.305Z",
-    "title_zh": "LG 2026年9月促销代码与优惠券",
-    "summary_zh": "汇总LG电子在2026年9月的最新促销信息，涵盖电视、家电、显示器等热门产品。文章提供经过验证的折扣代码，帮助消费者在购买时享受额外优惠，并介绍了如何叠加使用会员福利和限时闪购活动，以获取最大程度的节省。适合近期有购买LG产品计划的用户参考。",
-    "category": "product"
   }
 ]
