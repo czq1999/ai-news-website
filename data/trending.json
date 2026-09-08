@@ -1,6 +1,152 @@
 {
   "days": [
     {
+      "date": "2026-09-08",
+      "summary_zh": "今日GitHub热门项目聚焦AI代理生态：视频生成、文档转换、浏览器隐身、营销优化及量化交易等工具涌现，凸显代理自动化与效率提升趋势。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 252906,
+          "stars_today": 1897,
+          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发支持。"
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description_en": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars_total": 180362,
+          "stars_today": 886,
+          "description_zh": "用于将文件和办公文档转换为Markdown的Python工具。"
+        },
+        {
+          "rank": 3,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "language": "JavaScript",
+          "stars_total": 48180,
+          "stars_today": 580,
+          "description_zh": "面向Claude Code和AI智能体的营销技能。涵盖转化率优化、文案写作、SEO、分析和增长工程。"
+        },
+        {
+          "rank": 4,
+          "name": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "description_en": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+          "language": "Python",
+          "stars_total": 5286,
+          "stars_today": 517,
+          "description_zh": "几分钟内构建你的自主对冲基金。AutoHedge利用群体智能和AI智能体来自动化市场分析、风险管理和交易执行。"
+        },
+        {
+          "rank": 5,
+          "name": "BraveOPotato/FckSignups",
+          "url": "https://github.com/BraveOPotato/FckSignups",
+          "description_en": "A list of tools that are open-source, in-browser, and require no-signups!",
+          "language": "TypeScript",
+          "stars_total": 3855,
+          "stars_today": 501,
+          "description_zh": "一份开源、浏览器内运行且无需注册的工具列表！"
+        },
+        {
+          "rank": 6,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description_en": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars_total": 46094,
+          "stars_today": 474,
+          "description_zh": "编写HTML，渲染视频。为智能体而生。"
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description_en": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "language": "TypeScript",
+          "stars_total": 71417,
+          "stars_today": 394,
+          "description_zh": "🌊 原始智能体元框架。部署智能多玩家群体，协调自主工作流，构建对话式AI系统。具备自适应记忆、自学习智能、RAG集成，并原生集成Claude Code / Codex / Hermes等众多工具。"
+        },
+        {
+          "rank": 8,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description_en": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars_total": 26062,
+          "stars_today": 351,
+          "description_zh": "Codex技能目录"
+        },
+        {
+          "rank": 9,
+          "name": "MoonTechLab/LunaTV",
+          "url": "https://github.com/MoonTechLab/LunaTV",
+          "description_en": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+          "language": "TypeScript",
+          "stars_total": 9773,
+          "stars_today": 197,
+          "description_zh": "本项目采用CC BY-NC-SA协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description_en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars_total": 81872,
+          "stars_today": 195,
+          "description_zh": "一个开源的长时程SuperAgent框架，可进行研究、编码和创作。借助沙箱、记忆、工具、技能、子智能体和消息网关，它能够处理从几分钟到几小时不等的各种任务。"
+        },
+        {
+          "rank": 11,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description_en": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars_total": 22362,
+          "stars_today": 168,
+          "description_zh": "创建并分享3D建筑项目。"
+        },
+        {
+          "rank": 12,
+          "name": "jo-inc/camofox-browser",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "description_en": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+          "language": "JavaScript",
+          "stars_total": 9773,
+          "stars_today": 135,
+          "description_zh": "面向AI智能体的隐形无头浏览器——绕过Cloudflare、机器人检测和反爬虫。可直接替代Puppeteer/Playwright。"
+        },
+        {
+          "rank": 13,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 20886,
+          "stars_today": 96,
+          "description_zh": "面向AI编码智能体的上下文窗口优化。沙箱化工具输出（减少98%），持久化会话记忆，并通过MCP+钩子在17个平台间强制路由。"
+        },
+        {
+          "rank": 14,
+          "name": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "description_en": "Lightpanda: the headless browser designed for AI and automation",
+          "language": "Zig",
+          "stars_total": 34893,
+          "stars_today": 58,
+          "description_zh": "Lightpanda：专为AI和自动化设计的无头浏览器"
+        }
+      ]
+    },
+    {
       "date": "2026-09-07",
       "summary_zh": "今日GitHub热门项目聚焦AI代理生态：浏览器自动化、文档转换、营销优化及自主交易系统，凸显开源AI工具链的实用化与商业化趋势。",
       "projects": [
@@ -4881,132 +5027,6 @@
           "stars_total": 5978,
           "stars_today": 95,
           "description_zh": "Dopamine 是适用于 iOS 15 至 26(.0.1) 的半不拴绳越狱工具"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-09",
-      "summary_zh": "今日GitHub热门项目聚焦AI智能体生态：编码代理、知识图谱RAG、多智能体协作系统，以及股票分析、认证工具等实用开发，突出AI驱动开发与自动化运维趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "PrimeIntellect-ai/prime-agent",
-          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-          "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-          "language": "TypeScript",
-          "stars_total": 10608,
-          "stars_today": 2319,
-          "description_zh": "一个用于编码工作流和长时间运行自主任务的自我改进型RLM代理。"
-        },
-        {
-          "rank": 2,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 140477,
-          "stars_today": 932,
-          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是具有个性、流程和可靠交付成果的领域专家。"
-        },
-        {
-          "rank": 3,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 85000,
-          "stars_today": 670,
-          "description_zh": "面向AI编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 4,
-          "name": "google/skills",
-          "url": "https://github.com/google/skills",
-          "description_en": "Agent Skills for Google products and technologies",
-          "language": "Python",
-          "stars_total": 17129,
-          "stars_today": 532,
-          "description_zh": "面向Google产品和技术的代理技能。"
-        },
-        {
-          "rank": 5,
-          "name": "pranshuparmar/witr",
-          "url": "https://github.com/pranshuparmar/witr",
-          "description_en": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-          "language": "Go",
-          "stars_total": 20476,
-          "stars_today": 342,
-          "description_zh": "为什么它在运行？将任何进程、端口、容器或文件追溯到其启动源头——提供CLI和TUI界面。"
-        },
-        {
-          "rank": 6,
-          "name": "Comfy-Org/ComfyUI",
-          "url": "https://github.com/Comfy-Org/ComfyUI",
-          "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-          "language": "Python",
-          "stars_total": 125335,
-          "stars_today": 333,
-          "description_zh": "最强大且模块化的扩散模型GUI、API和后端，采用图形/节点界面。"
-        },
-        {
-          "rank": 7,
-          "name": "goauthentik/authentik",
-          "url": "https://github.com/goauthentik/authentik",
-          "description_en": "The authentication glue you need.",
-          "language": "Python",
-          "stars_total": 24197,
-          "stars_today": 312,
-          "description_zh": "你需要的认证粘合剂。"
-        },
-        {
-          "rank": 8,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 61081,
-          "stars_today": 287,
-          "description_zh": "LLM驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
-        },
-        {
-          "rank": 9,
-          "name": "pingdotgg/t3code",
-          "url": "https://github.com/pingdotgg/t3code",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 17574,
-          "stars_today": 208,
-          "description_zh": "T3 栈代码生成工具"
-        },
-        {
-          "rank": 10,
-          "name": "google-deepmind/weathernext",
-          "url": "https://github.com/google-deepmind/weathernext",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 6997,
-          "stars_today": 105,
-          "description_zh": "下一代天气预报模型"
-        },
-        {
-          "rank": 11,
-          "name": "harveyai/harvey-labs",
-          "url": "https://github.com/harveyai/harvey-labs",
-          "description_en": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-          "language": "Python",
-          "stars_total": 769,
-          "stars_today": 87,
-          "description_zh": "一个为评估和提升法律工作支持代理能力而构建的基准测试。"
-        },
-        {
-          "rank": 12,
-          "name": "vitali87/code-graph-rag",
-          "url": "https://github.com/vitali87/code-graph-rag",
-          "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-          "language": "Python",
-          "stars_total": 2862,
-          "stars_today": 59,
-          "description_zh": "适用于单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
         }
       ]
     }
