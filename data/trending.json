@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-09",
-      "summary_zh": "今日GitHub热门聚焦AI代理技能框架与效率工具，涵盖ADHD友好输出、图表设计、营销自动化及反检测浏览器，强调优化代理性能与开发体验。",
+      "summary_zh": "今日GitHub热门聚焦AI代理技能框架与效率工具，涵盖ADHD友好输出、图表设计、营销优化、浏览器反检测及文档转换等，强调提升代理性能与开发体验。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description_en": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "stars_total": 47816,
+          "stars_total": 48183,
           "stars_today": 2627,
           "description_zh": "编写HTML。渲染视频。为代理而生。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/microsoft/markitdown",
           "description_en": "Python tool for converting files and office documents to Markdown.",
           "language": "Python",
-          "stars_total": 181742,
+          "stars_total": 182044,
           "stars_today": 2047,
           "description_zh": "Python工具，用于将文件和办公文档转换为Markdown。"
         },
@@ -30,137 +30,147 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 254353,
+          "stars_total": 254703,
           "stars_today": 1427,
           "description_zh": "代理框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先开发。"
         },
         {
           "rank": 4,
+          "name": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "description_en": "Notes of the book System Desgin Interview - An Insider's Guide",
+          "language": "",
+          "stars_total": 17406,
+          "stars_today": 910,
+          "description_zh": "《系统设计面试——内幕指南》一书的笔记"
+        },
+        {
+          "rank": 5,
           "name": "jo-inc/camofox-browser",
           "url": "https://github.com/jo-inc/camofox-browser",
           "description_en": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
           "language": "JavaScript",
-          "stars_total": 10546,
+          "stars_total": 10787,
           "stars_today": 871,
           "description_zh": "为AI代理设计的隐形无头浏览器——绕过Cloudflare、机器人检测和反爬虫。可直接替代Puppeteer/Playwright。"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "cathrynlavery/diagram-design",
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "stars_total": 34950,
+          "stars_total": 35914,
           "stars_today": 710,
           "description_zh": "为Claude Code、Codex和Pi设计的38种编辑图表类型。自包含HTML+SVG。无阴影。无Mermaid垃圾。"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "coreyhaines31/marketingskills",
           "url": "https://github.com/coreyhaines31/marketingskills",
           "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
           "language": "JavaScript",
-          "stars_total": 48864,
+          "stars_total": 49109,
           "stars_today": 666,
           "description_zh": "面向Claude Code和AI代理的营销技能。涵盖转化率优化、文案写作、SEO、分析和增长工程。"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "ayghri/i-have-adhd",
           "url": "https://github.com/ayghri/i-have-adhd",
           "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
           "language": "Python",
-          "stars_total": 30723,
+          "stars_total": 32389,
           "stars_today": 656,
           "description_zh": "一项技能，防止你的编码代理埋没答案。适合ADHD患者的输出。"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "mksglu/context-mode",
           "url": "https://github.com/mksglu/context-mode",
           "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "stars_total": 21425,
+          "stars_total": 21576,
           "stars_today": 651,
           "description_zh": "AI编码代理的上下文窗口优化。沙箱化工具输出（减少98%），持久化会话记忆，并通过MCP+钩子在17个平台间强制执行路由。"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "MoonTechLab/LunaTV",
           "url": "https://github.com/MoonTechLab/LunaTV",
           "description_en": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
           "language": "TypeScript",
-          "stars_total": 10199,
+          "stars_total": 10371,
           "stars_today": 505,
           "description_zh": "本项目采用CC BY-NC-SA协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "The-Swarm-Corporation/AutoHedge",
           "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
           "description_en": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
           "language": "Python",
-          "stars_total": 5732,
+          "stars_total": 5896,
           "stars_today": 494,
           "description_zh": "在几分钟内构建你的自主对冲基金。AutoHedge利用群体智能和AI代理的力量，自动化市场分析、风险管理和交易执行。"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "openai/skills",
           "url": "https://github.com/openai/skills",
           "description_en": "Skills Catalog for Codex",
           "language": "Python",
-          "stars_total": 26540,
+          "stars_total": 26729,
           "stars_today": 490,
           "description_zh": "Codex技能目录"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 283406,
+          "stars_total": 283661,
           "stars_today": 452,
           "description_zh": "一套行之有效的代理技能框架和软件开发方法论。"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "multica-ai/andrej-karpathy-skills",
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 211491,
+          "stars_total": 211739,
           "stars_today": 333,
           "description_zh": "一个CLAUDE.md文件，基于Andrej Karpathy对LLM编码陷阱的观察，改善Claude Code行为。"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "browser-use/browser-use",
           "url": "https://github.com/browser-use/browser-use",
           "description_en": "Agents that use the browser.",
           "language": "Python",
-          "stars_total": 113553,
+          "stars_total": 113862,
           "stars_today": 228,
           "description_zh": "使用浏览器的代理。"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "viarotel-org/escrcpy",
           "url": "https://github.com/viarotel-org/escrcpy",
           "description_en": "📱 Display and control your Android device graphically with scrcpy.",
           "language": "JavaScript",
-          "stars_total": 11418,
+          "stars_total": 11603,
           "stars_today": 178,
           "description_zh": "📱 使用scrcpy以图形方式显示和控制你的Android设备。"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "openai/plugins",
           "url": "https://github.com/openai/plugins",
           "description_en": "OpenAI Plugins",
           "language": "JavaScript",
-          "stars_total": 5826,
+          "stars_total": 6041,
           "stars_today": 105,
           "description_zh": "OpenAI插件"
         }
