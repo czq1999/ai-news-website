@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-09-09",
+      "summary_zh": "今日GitHub热门聚焦AI代理技能框架与效率工具，涵盖ADHD友好输出、图表设计、营销自动化及反检测浏览器，强调优化代理性能与开发体验。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description_en": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars_total": 47816,
+          "stars_today": 2627,
+          "description_zh": "编写HTML。渲染视频。为代理而生。"
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description_en": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars_total": 181742,
+          "stars_today": 2047,
+          "description_zh": "Python工具，用于将文件和办公文档转换为Markdown。"
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 254353,
+          "stars_today": 1427,
+          "description_zh": "代理框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先开发。"
+        },
+        {
+          "rank": 4,
+          "name": "jo-inc/camofox-browser",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "description_en": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+          "language": "JavaScript",
+          "stars_total": 10546,
+          "stars_today": 871,
+          "description_zh": "为AI代理设计的隐形无头浏览器——绕过Cloudflare、机器人检测和反爬虫。可直接替代Puppeteer/Playwright。"
+        },
+        {
+          "rank": 5,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars_total": 34950,
+          "stars_today": 710,
+          "description_zh": "为Claude Code、Codex和Pi设计的38种编辑图表类型。自包含HTML+SVG。无阴影。无Mermaid垃圾。"
+        },
+        {
+          "rank": 6,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "language": "JavaScript",
+          "stars_total": 48864,
+          "stars_today": 666,
+          "description_zh": "面向Claude Code和AI代理的营销技能。涵盖转化率优化、文案写作、SEO、分析和增长工程。"
+        },
+        {
+          "rank": 7,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars_total": 30723,
+          "stars_today": 656,
+          "description_zh": "一项技能，防止你的编码代理埋没答案。适合ADHD患者的输出。"
+        },
+        {
+          "rank": 8,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 21425,
+          "stars_today": 651,
+          "description_zh": "AI编码代理的上下文窗口优化。沙箱化工具输出（减少98%），持久化会话记忆，并通过MCP+钩子在17个平台间强制执行路由。"
+        },
+        {
+          "rank": 9,
+          "name": "MoonTechLab/LunaTV",
+          "url": "https://github.com/MoonTechLab/LunaTV",
+          "description_en": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+          "language": "TypeScript",
+          "stars_total": 10199,
+          "stars_today": 505,
+          "description_zh": "本项目采用CC BY-NC-SA协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+        },
+        {
+          "rank": 10,
+          "name": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "description_en": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+          "language": "Python",
+          "stars_total": 5732,
+          "stars_today": 494,
+          "description_zh": "在几分钟内构建你的自主对冲基金。AutoHedge利用群体智能和AI代理的力量，自动化市场分析、风险管理和交易执行。"
+        },
+        {
+          "rank": 11,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description_en": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars_total": 26540,
+          "stars_today": 490,
+          "description_zh": "Codex技能目录"
+        },
+        {
+          "rank": 12,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 283406,
+          "stars_today": 452,
+          "description_zh": "一套行之有效的代理技能框架和软件开发方法论。"
+        },
+        {
+          "rank": 13,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 211491,
+          "stars_today": 333,
+          "description_zh": "一个CLAUDE.md文件，基于Andrej Karpathy对LLM编码陷阱的观察，改善Claude Code行为。"
+        },
+        {
+          "rank": 14,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description_en": "Agents that use the browser.",
+          "language": "Python",
+          "stars_total": 113553,
+          "stars_today": 228,
+          "description_zh": "使用浏览器的代理。"
+        },
+        {
+          "rank": 15,
+          "name": "viarotel-org/escrcpy",
+          "url": "https://github.com/viarotel-org/escrcpy",
+          "description_en": "📱 Display and control your Android device graphically with scrcpy.",
+          "language": "JavaScript",
+          "stars_total": 11418,
+          "stars_today": 178,
+          "description_zh": "📱 使用scrcpy以图形方式显示和控制你的Android设备。"
+        },
+        {
+          "rank": 16,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description_en": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars_total": 5826,
+          "stars_today": 105,
+          "description_zh": "OpenAI插件"
+        }
+      ]
+    },
+    {
       "date": "2026-09-08",
       "summary_zh": "今日GitHub热门聚焦AI代理技能生态：优化编码输出、营销自动化、文档转换及反检测浏览器，强调提升代理效率与规避限制。",
       "projects": [
@@ -4881,172 +5047,6 @@
           "stars_total": 94453,
           "stars_today": 18,
           "description_zh": "Node 版本管理器 - 符合 POSIX 规范的 bash 脚本，用于管理多个活动的 node.js 版本"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-10",
-      "summary_zh": "今日GitHub热门聚焦AI代理生态：多智能体协作框架、自进化编码代理、代理管理工具及爬虫采集，另有独立浏览器与WiFi感知创新，展现AI落地多元化趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "PrimeIntellect-ai/prime-agent",
-          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-          "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-          "language": "TypeScript",
-          "stars_total": 12837,
-          "stars_today": 2655,
-          "description_zh": "一个用于编码工作流和长期自主任务的自改进RLM代理。"
-        },
-        {
-          "rank": 2,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 141657,
-          "stars_today": 1352,
-          "description_zh": "触手可及的完整AI代理机构——从前端专家到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是具有个性、流程和经过验证的交付成果的领域专家。"
-        },
-        {
-          "rank": 3,
-          "name": "semantica-agi/semantica",
-          "url": "https://github.com/semantica-agi/semantica",
-          "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-          "language": "Python",
-          "stars_total": 3952,
-          "stars_today": 967,
-          "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
-        },
-        {
-          "rank": 4,
-          "name": "Comfy-Org/ComfyUI",
-          "url": "https://github.com/Comfy-Org/ComfyUI",
-          "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-          "language": "Python",
-          "stars_total": 126186,
-          "stars_today": 921,
-          "description_zh": "最强大且模块化的扩散模型GUI、API和后端，采用图/节点界面。"
-        },
-        {
-          "rank": 5,
-          "name": "firecrawl/firecrawl",
-          "url": "https://github.com/firecrawl/firecrawl",
-          "description_en": "The context API to search, scrape, and interact with the web at scale. 🔥",
-          "language": "TypeScript",
-          "stars_total": 164888,
-          "stars_today": 815,
-          "description_zh": "用于大规模搜索、抓取和与网页交互的上下文API。🔥"
-        },
-        {
-          "rank": 6,
-          "name": "vitali87/code-graph-rag",
-          "url": "https://github.com/vitali87/code-graph-rag",
-          "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-          "language": "Python",
-          "stars_total": 3452,
-          "stars_today": 682,
-          "description_zh": "适用于单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
-        },
-        {
-          "rank": 7,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 85653,
-          "stars_today": 659,
-          "description_zh": "面向AI编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 8,
-          "name": "pingdotgg/t3code",
-          "url": "https://github.com/pingdotgg/t3code",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 17945,
-          "stars_today": 388,
-          "description_zh": "T3 栈代码生成工具"
-        },
-        {
-          "rank": 9,
-          "name": "danielmiessler/LifeOS",
-          "url": "https://github.com/danielmiessler/LifeOS",
-          "description_en": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-          "language": "TypeScript",
-          "stars_total": 17798,
-          "stars_today": 357,
-          "description_zh": "⛰️ 一个通用的爬山式AI框架，帮助你在生活与工作中从当前状态迈向理想状态。"
-        },
-        {
-          "rank": 10,
-          "name": "google-deepmind/weathernext",
-          "url": "https://github.com/google-deepmind/weathernext",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 7300,
-          "stars_today": 327,
-          "description_zh": "下一代天气预报模型"
-        },
-        {
-          "rank": 11,
-          "name": "TauricResearch/TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-          "language": "Python",
-          "stars_total": 97108,
-          "stars_today": 234,
-          "description_zh": "TradingAgents：多智能体LLM金融交易框架"
-        },
-        {
-          "rank": 12,
-          "name": "NanmiCoder/MediaCrawler",
-          "url": "https://github.com/NanmiCoder/MediaCrawler",
-          "description_en": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-          "language": "Python",
-          "stars_total": 60933,
-          "stars_today": 215,
-          "description_zh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B站视频 | 评论爬虫、微博帖子 | 评论爬虫、百度贴吧帖子 | 百度贴吧评论回复爬虫 | 知乎问答文章 | 评论爬虫"
-        },
-        {
-          "rank": 13,
-          "name": "LadybirdBrowser/ladybird",
-          "url": "https://github.com/LadybirdBrowser/ladybird",
-          "description_en": "Truly independent web browser",
-          "language": "C++",
-          "stars_total": 65206,
-          "stars_today": 190,
-          "description_zh": "真正独立的网页浏览器"
-        },
-        {
-          "rank": 14,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 89281,
-          "stars_today": 186,
-          "description_zh": "π RuView 将普通WiFi信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
-        },
-        {
-          "rank": 15,
-          "name": "paperclipai/paperclip",
-          "url": "https://github.com/paperclipai/paperclip",
-          "description_en": "The open-source app everyone uses to manage agents at work",
-          "language": "TypeScript",
-          "stars_total": 76349,
-          "stars_today": 167,
-          "description_zh": "每个人在工作中管理智能体的开源应用"
-        },
-        {
-          "rank": 16,
-          "name": "opa334/Dopamine",
-          "url": "https://github.com/opa334/Dopamine",
-          "description_en": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-          "language": "C",
-          "stars_total": 5978,
-          "stars_today": 95,
-          "description_zh": "Dopamine 是适用于 iOS 15 至 26(.0.1) 的半不拴绳越狱工具"
         }
       ]
     }
