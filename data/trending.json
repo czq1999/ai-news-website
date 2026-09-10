@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-09-10",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体技能框架与工具链，涵盖编码助手、3D建模、CAD及金融交易等应用，强调AI原生团队协作与实用工作流。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars_total": 34805,
+          "stars_today": 4650,
+          "description_zh": "一个让你的编码代理不再把答案埋没的技能。ADHD友好的输出。"
+        },
+        {
+          "rank": 2,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars_total": 36670,
+          "stars_today": 2249,
+          "description_zh": "面向Claude Code、Codex和Pi的38种编辑级图表类型。自包含HTML + SVG。无阴影。无Mermaid劣质图。"
+        },
+        {
+          "rank": 3,
+          "name": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "description_en": "Notes of the book System Desgin Interview - An Insider's Guide",
+          "language": "",
+          "stars_total": 18041,
+          "stars_today": 1397,
+          "description_zh": "《系统设计面试——内幕指南》一书的笔记"
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 255213,
+          "stars_today": 1133,
+          "description_zh": "代理框架性能优化系统。面向Claude Code、Codex、Opencode、Cursor及更多的技能、本能、记忆、安全与研究优先开发。"
+        },
+        {
+          "rank": 5,
+          "name": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "language": "JavaScript",
+          "stars_total": 30107,
+          "stars_today": 705,
+          "description_zh": "提示词即代码 | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 284067,
+          "stars_today": 688,
+          "description_zh": "一个行之有效的代理技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 7,
+          "name": "Tencent/teamai-cli",
+          "url": "https://github.com/Tencent/teamai-cli",
+          "description_en": "Make Every Team AI Native",
+          "language": "TypeScript",
+          "stars_total": 3055,
+          "stars_today": 556,
+          "description_zh": "让每个团队都AI原生"
+        },
+        {
+          "rank": 8,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description_en": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars_total": 6217,
+          "stars_today": 498,
+          "description_zh": "OpenAI插件"
+        },
+        {
+          "rank": 9,
+          "name": "vastsa/PI-Desktop",
+          "url": "https://github.com/vastsa/PI-Desktop",
+          "description_en": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+          "language": "TypeScript",
+          "stars_total": 1703,
+          "stars_today": 417,
+          "description_zh": "本地优先的AI编码代理桌面端：Electron + Rust宿主核心 + pi Agent Harness + 用户可安装插件"
+        },
+        {
+          "rank": 10,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 104003,
+          "stars_today": 367,
+          "description_zh": "TradingAgents：多代理LLM金融交易框架"
+        },
+        {
+          "rank": 11,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 53732,
+          "stars_today": 343,
+          "description_zh": "学习它。构建它。为他人交付它。"
+        },
+        {
+          "rank": 12,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description_en": "A library of agent skills for CAD, CAE and CAM",
+          "language": "Python",
+          "stars_total": 15060,
+          "stars_today": 124,
+          "description_zh": "面向CAD、CAE和CAM的代理技能库"
+        },
+        {
+          "rank": 13,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description_en": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+          "language": "TypeScript",
+          "stars_total": 22964,
+          "stars_today": 107,
+          "description_zh": "开源3D建筑编辑器，配备本地CLI、MCP工具，以及面向人类和AI代理的实用工作流。"
+        }
+      ]
+    },
+    {
       "date": "2026-09-09",
       "summary_zh": "今日GitHub热门聚焦AI编程助手与多智能体框架，涵盖ADHD友好输出、CAD建模、金融交易及GPT图像提示词工程，强调效率与专业化工具链。",
       "projects": [
@@ -4831,192 +4967,6 @@
           "stars_total": 4165,
           "stars_today": 29,
           "description_zh": "面向JVM的Agent框架。发音为Em-BAY-bel /ɛmˈbeɪbəl/"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-11",
-      "summary_zh": "今日GitHub热门聚焦AI智能体与开发工具：多款Agent技能库、图数据库RAG系统、股票分析及数学动画引擎，展现AI编程与自动化新趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "cathrynlavery/diagram-design",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "description_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-          "language": "HTML",
-          "stars_total": 6375,
-          "stars_today": 1612,
-          "description_zh": "为Claude Code设计的29种编辑图表类型。自包含HTML+SVG。无阴影，无Mermaid垃圾。"
-        },
-        {
-          "rank": 2,
-          "name": "PrimeIntellect-ai/prime-agent",
-          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-          "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-          "language": "TypeScript",
-          "stars_total": 13917,
-          "stars_today": 1148,
-          "description_zh": "一个用于编码工作流和长时间自主任务的自我改进RLM代理。"
-        },
-        {
-          "rank": 3,
-          "name": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "language": "Shell",
-          "stars_total": 142858,
-          "stars_today": 971,
-          "description_zh": "触手可及的完整AI代理机构——从前端奇才到Reddit社区忍者，从趣味注入者到现实检验员。每个代理都是具有个性、流程和成熟交付成果的领域专家。"
-        },
-        {
-          "rank": 4,
-          "name": "semantica-agi/semantica",
-          "url": "https://github.com/semantica-agi/semantica",
-          "description_en": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-          "language": "Python",
-          "stars_total": 4754,
-          "stars_today": 884,
-          "description_zh": "面向上下文和可问责AI系统的图原生基础设施"
-        },
-        {
-          "rank": 5,
-          "name": "stablyai/orca",
-          "url": "https://github.com/stablyai/orca",
-          "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-          "language": "TypeScript",
-          "stars_total": 42557,
-          "stars_today": 881,
-          "description_zh": "Orca 是用于管理并行代理集群的 ADE（代理开发环境）。使用您自己的订阅运行任何编码代理。支持桌面端、移动端和 VPS。"
-        },
-        {
-          "rank": 6,
-          "name": "HKUDS/DeepTutor",
-          "url": "https://github.com/HKUDS/DeepTutor",
-          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-          "language": "Python",
-          "stars_total": 34601,
-          "stars_today": 829,
-          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
-        },
-        {
-          "rank": 7,
-          "name": "paperclipai/paperclip",
-          "url": "https://github.com/paperclipai/paperclip",
-          "description_en": "The open-source app everyone uses to manage agents at work",
-          "language": "TypeScript",
-          "stars_total": 77056,
-          "stars_today": 743,
-          "description_zh": "每个人在工作中管理代理的开源应用"
-        },
-        {
-          "rank": 8,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 86145,
-          "stars_today": 571,
-          "description_zh": "面向AI编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 9,
-          "name": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description_en": "Public repository for Agent Skills",
-          "language": "Python",
-          "stars_total": 167999,
-          "stars_today": 468,
-          "description_zh": "Agent 技能的公共仓库"
-        },
-        {
-          "rank": 10,
-          "name": "calesthio/OpenMontage",
-          "url": "https://github.com/calesthio/OpenMontage",
-          "description_en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-          "language": "Python",
-          "stars_total": 47194,
-          "stars_today": 436,
-          "description_zh": "全球首个开源的代理式视频制作系统。包含 12 条制作流水线、100 多个工具、700 多个代理技能和制作知识文件。将您的 AI 编码助手转变为完整的视频制作工作室。"
-        },
-        {
-          "rank": 11,
-          "name": "practical-tutorials/project-based-learning",
-          "url": "https://github.com/practical-tutorials/project-based-learning",
-          "description_en": "Curated list of project-based tutorials",
-          "language": "Python",
-          "stars_total": 278328,
-          "stars_today": 394,
-          "description_zh": "基于项目的教程精选列表"
-        },
-        {
-          "rank": 12,
-          "name": "vitali87/code-graph-rag",
-          "url": "https://github.com/vitali87/code-graph-rag",
-          "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-          "language": "Python",
-          "stars_total": 3764,
-          "stars_today": 339,
-          "description_zh": "你的单体仓库的终极RAG。借助AI和知识图谱的力量，查询、理解并编辑多语言代码库。"
-        },
-        {
-          "rank": 13,
-          "name": "jaywcjlove/awesome-mac",
-          "url": "https://github.com/jaywcjlove/awesome-mac",
-          "description_en": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-          "language": "Swift",
-          "stars_total": 110379,
-          "stars_today": 334,
-          "description_zh": " 本项目致力于收集高质量的 macOS 软件，并按不同类别进行系统整理，方便搜索和使用。"
-        },
-        {
-          "rank": 14,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 62053,
-          "stars_today": 317,
-          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
-        },
-        {
-          "rank": 15,
-          "name": "3b1b/manim",
-          "url": "https://github.com/3b1b/manim",
-          "description_en": "Animation engine for explanatory math videos",
-          "language": "Python",
-          "stars_total": 90096,
-          "stars_today": 246,
-          "description_zh": "用于制作数学讲解视频的动画引擎"
-        },
-        {
-          "rank": 16,
-          "name": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-          "language": "Python",
-          "stars_total": 163722,
-          "stars_today": 69,
-          "description_zh": "🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，支持推理和训练。"
-        },
-        {
-          "rank": 17,
-          "name": "harveyai/harvey-labs",
-          "url": "https://github.com/harveyai/harvey-labs",
-          "description_en": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-          "language": "Python",
-          "stars_total": 1040,
-          "stars_today": 24,
-          "description_zh": "一个用于评估和提升代理在法律工作支持方面能力的基准测试。"
-        },
-        {
-          "rank": 18,
-          "name": "nvm-sh/nvm",
-          "url": "https://github.com/nvm-sh/nvm",
-          "description_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-          "language": "Shell",
-          "stars_total": 94453,
-          "stars_today": 18,
-          "description_zh": "Node 版本管理器 - 符合 POSIX 规范的 bash 脚本，用于管理多个活动的 node.js 版本"
         }
       ]
     }
