@@ -2,167 +2,167 @@
   "days": [
     {
       "date": "2026-09-11",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体技能框架与工具：从ADHD友好输出、自主交易机器人到团队AI化CLI，另有卫星模拟器、图像提示词库等亮点。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体：编码助手、自主交易、销售CRM与知识库工具涌现，本地优先与自托管成主流趋势。",
       "projects": [
         {
           "rank": 1,
-          "name": "ayghri/i-have-adhd",
-          "url": "https://github.com/ayghri/i-have-adhd",
-          "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-          "language": "Python",
-          "stars_total": 39712,
-          "stars_today": 3882,
-          "description_zh": "一个让你的编程智能体不再把答案埋在废话里的技能。ADHD 友好的输出。"
-        },
-        {
-          "rank": 2,
           "name": "bilawalsidhu/gods-eye-view",
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
           "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
           "language": "JavaScript",
-          "stars_total": 25659,
-          "stars_today": 1762,
+          "stars_total": 26262,
+          "stars_today": 3642,
           "description_zh": "一个运行在浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球上提供实时开源空间情报。"
         },
         {
+          "rank": 2,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars_total": 40554,
+          "stars_today": 3440,
+          "description_zh": "一个让你的编程智能体不再把答案埋在废话里的技能。ADHD 友好的输出。"
+        },
+        {
           "rank": 3,
-          "name": "cathrynlavery/diagram-design",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "description_en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-          "language": "HTML",
-          "stars_total": 38206,
-          "stars_today": 1294,
-          "description_zh": "面向 Claude Code、Codex 和 Pi 的 38 种编辑级图表类型。自包含 HTML + SVG。没有阴影。没有 Mermaid 垃圾。"
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars_total": 135606,
+          "stars_today": 985,
+          "description_zh": "💫 帮助你开始规范驱动开发的工具包"
         },
         {
           "rank": 4,
-          "name": "freestylefly/awesome-gpt-image-2",
-          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "description_en": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-          "language": "JavaScript",
-          "stars_total": 31213,
-          "stars_today": 962,
-          "description_zh": "提示词即代码 | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
-        },
-        {
-          "rank": 5,
-          "name": "liquidslr/system-design-notes",
-          "url": "https://github.com/liquidslr/system-design-notes",
-          "description_en": "Notes of the book System Desgin Interview - An Insider's Guide",
-          "language": "",
-          "stars_total": 19163,
-          "stars_today": 900,
-          "description_zh": "《System Design Interview - An Insider's Guide》一书的笔记"
-        },
-        {
-          "rank": 6,
-          "name": "Tencent/teamai-cli",
-          "url": "https://github.com/Tencent/teamai-cli",
-          "description_en": "Make Every Team AI Native",
-          "language": "TypeScript",
-          "stars_total": 4093,
-          "stars_today": 841,
-          "description_zh": "让每个团队都 AI 原生"
-        },
-        {
-          "rank": 7,
-          "name": "THU-MAIC/OpenMAIC",
-          "url": "https://github.com/THU-MAIC/OpenMAIC",
-          "description_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-          "language": "TypeScript",
-          "stars_total": 35688,
-          "stars_today": 837,
-          "description_zh": "开放多智能体互动课堂——一键获得沉浸式多智能体学习体验"
-        },
-        {
-          "rank": 8,
           "name": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 285021,
-          "stars_today": 732,
+          "stars_total": 285175,
+          "stars_today": 731,
           "description_zh": "一个真正有效的智能体技能框架与软件开发方法论。"
         },
         {
-          "rank": 9,
-          "name": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-          "language": "TypeScript",
-          "stars_total": 64585,
-          "stars_today": 626,
-          "description_zh": "永不停止编程。免费 MIT AI 网关：一个端点，352 个提供商（150+ 免费），1200+ 个模型，包括 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。兼容 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退，RTK+Caveman 压缩可节省 15-95% token，支持 MCP/A2A、桌面端/PWA。由 550+ 贡献者构建"
-        },
-        {
-          "rank": 10,
-          "name": "vastsa/PI-Desktop",
-          "url": "https://github.com/vastsa/PI-Desktop",
-          "description_en": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-          "language": "TypeScript",
-          "stars_total": 2561,
-          "stars_today": 624,
-          "description_zh": "本地优先的 AI 编程智能体桌面端：Electron + Rust 宿主核心 + pi Agent Harness + 用户可安装插件"
-        },
-        {
-          "rank": 11,
-          "name": "alsk1992/CloddsBot",
-          "url": "https://github.com/alsk1992/CloddsBot",
-          "description_en": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-          "language": "TypeScript",
-          "stars_total": 1908,
-          "stars_today": 277,
-          "description_zh": "开源 AI 交易智能体，可在 1000+ 个市场中自主运行——包括 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 以及 5 条 EVM 链。它扫描套利机会、即时执行、在你睡觉时管理风险。支持机器对机器支付的智能体商务协议。可自托管。基于 Claude 构建。"
-        },
-        {
-          "rank": 12,
-          "name": "AlexsJones/llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "description_en": "Hundreds of models & providers. One command to find what runs on your hardware.",
-          "language": "Rust",
-          "stars_total": 35961,
-          "stars_today": 258,
-          "description_zh": "数百个模型与提供商。一条命令即可找出哪些能在你的硬件上运行。"
-        },
-        {
-          "rank": 13,
+          "rank": 5,
           "name": "nashsu/llm_wiki",
           "url": "https://github.com/nashsu/llm_wiki",
           "description_en": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
           "language": "TypeScript",
-          "stars_total": 18410,
-          "stars_today": 142,
+          "stars_total": 18545,
+          "stars_today": 640,
           "description_zh": "LLM Wiki 是一款跨平台桌面应用，可自动将你的文档转化为有组织、相互链接的知识库。不同于传统 RAG（每次都从头检索并回答），LLM 会从你的资料中逐步构建并维护一个持久化的 wiki。"
         },
         {
-          "rank": 14,
-          "name": "vercel-labs/skills",
-          "url": "https://github.com/vercel-labs/skills",
-          "description_en": "The open agent skills tool - npx skills",
+          "rank": 6,
+          "name": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "description_en": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
           "language": "TypeScript",
-          "stars_total": 31366,
-          "stars_today": 122,
-          "description_zh": "开放智能体技能工具 - npx skills"
+          "stars_total": 2007,
+          "stars_today": 627,
+          "description_zh": "开源 AI 交易智能体，可在 1000+ 个市场中自主运行——包括 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 以及 5 条 EVM 链。它扫描套利机会、即时执行、在你睡觉时管理风险。支持机器对机器支付的智能体商务协议。可自托管。基于 Claude 构建。"
         },
         {
-          "rank": 15,
-          "name": "JustVugg/colibri",
-          "url": "https://github.com/JustVugg/colibri",
-          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-          "language": "C",
-          "stars_total": 27634,
-          "stars_today": 98,
-          "description_zh": "在你已有的硬件上运行前沿 MoE 模型——纯 C，零依赖，专家从磁盘流式加载。小巧引擎，庞大模型。🐦"
+          "rank": 7,
+          "name": "vastsa/PI-Desktop",
+          "url": "https://github.com/vastsa/PI-Desktop",
+          "description_en": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+          "language": "TypeScript",
+          "stars_total": 2667,
+          "stars_today": 545,
+          "description_zh": "本地优先的 AI 编程智能体桌面端：Electron + Rust 宿主核心 + pi Agent Harness + 用户可安装插件"
         },
         {
-          "rank": 16,
+          "rank": 8,
           "name": "armory3d/armorpaint",
           "url": "https://github.com/armory3d/armorpaint",
           "description_en": "Graphics Creation Tools",
           "language": "C",
-          "stars_total": 4567,
-          "stars_today": 72,
+          "stars_total": 4640,
+          "stars_today": 354,
           "description_zh": "图形创作工具"
+        },
+        {
+          "rank": 9,
+          "name": "p1neappleXpress/OpenFlux",
+          "url": "https://github.com/p1neappleXpress/OpenFlux",
+          "description_en": "Network stack research tool. TCP tunnel with pluggable transports.",
+          "language": "Go",
+          "stars_total": 985,
+          "stars_today": 201,
+          "description_zh": "网络栈研究工具。支持可插拔传输的 TCP 隧道。"
+        },
+        {
+          "rank": 10,
+          "name": "Sonarr/Sonarr",
+          "url": "https://github.com/Sonarr/Sonarr",
+          "description_en": "Smart PVR for newsgroup and bittorrent users.",
+          "language": "C#",
+          "stars_total": 15649,
+          "stars_today": 174,
+          "description_zh": "面向新闻组和 BT 用户的智能 PVR。"
+        },
+        {
+          "rank": 11,
+          "name": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "description_en": "Run parallel research agents with any model",
+          "language": "Rust",
+          "stars_total": 1120,
+          "stars_today": 156,
+          "description_zh": "使用任意模型运行并行研究智能体"
+        },
+        {
+          "rank": 12,
+          "name": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description_en": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+          "language": "Python",
+          "stars_total": 4780,
+          "stars_today": 132,
+          "description_zh": "🤖📐专为数学建模设计的 Agent 与技能，自动完成数学建模，生成一份完整的可直接提交的论文。一个专为数学建模设计的 Agent，自动完成数学建模并生成一份完整的可直接提交的论文。"
+        },
+        {
+          "rank": 13,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "language": "TypeScript",
+          "stars_total": 1170,
+          "stars_today": 126,
+          "description_zh": "开源 AI 销售操作系统——自托管 CRM，内置原生 AI 智能体 + WhatsApp（WAHA）。面向任何通过聊天进行销售的业务的开源替代方案，可替代 Kommo、Octadesk 和 Intercom。支持 MCP、多租户、符合 LGPD。"
+        },
+        {
+          "rank": 14,
+          "name": "jordan-gibbs/hyperresearch",
+          "url": "https://github.com/jordan-gibbs/hyperresearch",
+          "description_en": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+          "language": "Python",
+          "stars_total": 2339,
+          "stars_today": 118,
+          "description_zh": "由智能体驱动的研究知识库。智能体收集、搜索并将网络研究综合为一个持久、可搜索的 wiki。"
+        },
+        {
+          "rank": 15,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description_en": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+          "language": "TypeScript",
+          "stars_total": 23401,
+          "stars_today": 83,
+          "description_zh": "开源 3D 建筑编辑器，配备本地 CLI、MCP 工具，以及面向人类和 AI 智能体的实用工作流。"
+        },
+        {
+          "rank": 16,
+          "name": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "description_en": "User friendly sideloader",
+          "language": "TypeScript",
+          "stars_total": 2825,
+          "stars_today": 36,
+          "description_zh": "用户友好的侧载工具"
         }
       ]
     },
