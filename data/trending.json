@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-12",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体：编码助手、自主交易、销售CRM与知识库工具涌现，强调本地优先、自托管与实用技能框架。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体与开源工具：数学建模Agent、自主交易机器人、开源AI销售CRM等亮眼，另有系统提示词泄露合集及卫星模拟器等项目。",
       "projects": [
         {
           "rank": 1,
@@ -10,69 +10,69 @@
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
           "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
           "language": "JavaScript",
-          "stars_total": 27807,
-          "stars_today": 3680,
+          "stars_total": 28589,
+          "stars_today": 2265,
           "description_zh": "一个运行在浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的3D地球上提供实时的开源空间情报。"
         },
         {
           "rank": 2,
-          "name": "ayghri/i-have-adhd",
-          "url": "https://github.com/ayghri/i-have-adhd",
-          "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-          "language": "Python",
-          "stars_total": 42724,
-          "stars_today": 3463,
-          "description_zh": "一个让你的编程智能体不再把答案埋在长篇大论里的技能。ADHD友好的输出。"
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "language": "TypeScript",
+          "stars_total": 1622,
+          "stars_today": 505,
+          "description_zh": "开源AI销售操作系统——自托管CRM，原生集成AI智能体 + WhatsApp（WAHA）。面向任何通过聊天进行销售的企业，是Kommo、Octadesk和Intercom的开源替代方案。支持MCP、多租户、符合LGPD。"
         },
         {
           "rank": 3,
-          "name": "github/spec-kit",
-          "url": "https://github.com/github/spec-kit",
-          "description_en": "💫 Toolkit to help you get started with Spec-Driven Development",
-          "language": "Python",
-          "stars_total": 135898,
-          "stars_today": 1015,
-          "description_zh": "💫 帮助你入门规范驱动开发的工具包"
-        },
-        {
-          "rank": 4,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 285546,
-          "stars_today": 729,
-          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 5,
-          "name": "nashsu/llm_wiki",
-          "url": "https://github.com/nashsu/llm_wiki",
-          "description_en": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-          "language": "TypeScript",
-          "stars_total": 18948,
-          "stars_today": 647,
-          "description_zh": "LLM Wiki是一款跨平台桌面应用，能自动将你的文档转化为有组织、相互关联的知识库——无需传统RAG（每次从头检索并回答），LLM会从你的资料中逐步构建并维护一个持久化的wiki。"
-        },
-        {
-          "rank": 6,
           "name": "alsk1992/CloddsBot",
           "url": "https://github.com/alsk1992/CloddsBot",
           "description_en": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
           "language": "TypeScript",
-          "stars_total": 2284,
-          "stars_today": 626,
+          "stars_total": 2348,
+          "stars_today": 377,
           "description_zh": "开源AI交易智能体，可在1000多个市场中自主运行——Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX、5条EVM链。扫描套利机会，即时执行，在你睡觉时管理风险。用于机器对机器支付的智能体商业协议。自托管。基于Claude构建。"
         },
         {
+          "rank": 4,
+          "name": "p1neappleXpress/OpenFlux",
+          "url": "https://github.com/p1neappleXpress/OpenFlux",
+          "description_en": "Network stack research tool. TCP tunnel with pluggable transports.",
+          "language": "Go",
+          "stars_total": 1315,
+          "stars_today": 355,
+          "description_zh": "网络协议栈研究工具。支持可插拔传输的TCP隧道。"
+        },
+        {
+          "rank": 5,
+          "name": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description_en": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+          "language": "Python",
+          "stars_total": 5051,
+          "stars_today": 264,
+          "description_zh": "🤖📐专为数学建模设计的Agent与技能，自动完成数学建模，生成一份完整的可以直接提交的论文。An Agent Designed for Mathematical Modeling, Automatically complete mathmodel and generate a complete paper ready for submission."
+        },
+        {
+          "rank": 6,
+          "name": "yuliskov/SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "description_en": "Browse media content with your own rules on Android TV",
+          "language": "Java",
+          "stars_total": 33113,
+          "stars_today": 247,
+          "description_zh": "在 Android TV 上按你自己的规则浏览媒体内容"
+        },
+        {
           "rank": 7,
-          "name": "vastsa/PI-Desktop",
-          "url": "https://github.com/vastsa/PI-Desktop",
-          "description_en": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-          "language": "TypeScript",
-          "stars_total": 2939,
-          "stars_today": 552,
-          "description_zh": "本地优先的AI编程智能体桌面端：Electron + Rust宿主核心 + pi Agent Harness + 用户可安装插件"
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description_en": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "language": "Python",
+          "stars_total": 137420,
+          "stars_today": 237,
+          "description_zh": "100+ AI 智能体、智能体技能和 RAG 应用 - 免费且开源。"
         },
         {
           "rank": 8,
@@ -80,89 +80,89 @@
           "url": "https://github.com/armory3d/armorpaint",
           "description_en": "Graphics Creation Tools",
           "language": "C",
-          "stars_total": 4811,
-          "stars_today": 350,
+          "stars_total": 4842,
+          "stars_today": 237,
           "description_zh": "图形创作工具"
         },
         {
           "rank": 9,
-          "name": "p1neappleXpress/OpenFlux",
-          "url": "https://github.com/p1neappleXpress/OpenFlux",
-          "description_en": "Network stack research tool. TCP tunnel with pluggable transports.",
-          "language": "Go",
-          "stars_total": 1259,
-          "stars_today": 198,
-          "description_zh": "网络协议栈研究工具。支持可插拔传输的TCP隧道。"
-        },
-        {
-          "rank": 10,
           "name": "Sonarr/Sonarr",
           "url": "https://github.com/Sonarr/Sonarr",
           "description_en": "Smart PVR for newsgroup and bittorrent users.",
           "language": "C#",
-          "stars_total": 15812,
-          "stars_today": 191,
+          "stars_total": 15846,
+          "stars_today": 228,
           "description_zh": "面向新闻组和BT用户的智能PVR。"
         },
         {
+          "rank": 10,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "language": "JavaScript",
+          "stars_total": 65103,
+          "stars_today": 216,
+          "description_zh": "从 Anthropic 提取的系统提示词 - Claude Fable 5.1、Opus 5、Claude Design、Claude Code。OpenAI - ChatGPT GPT-6-Astra、Codex。Google - Gemini 3.8 Flash、3.1 Pro、Antigravity。xAI - Grok、Grok Bot、Cursor、Kimi 等！定期更新。"
+        },
+        {
           "rank": 11,
-          "name": "jordan-gibbs/hyperresearch",
-          "url": "https://github.com/jordan-gibbs/hyperresearch",
-          "description_en": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
-          "language": "Python",
-          "stars_total": 2874,
-          "stars_today": 153,
-          "description_zh": "智能体驱动的研究知识库。智能体收集、搜索并将网络研究综合为一个持久、可搜索的wiki。"
-        },
-        {
-          "rank": 12,
-          "name": "melgarafael/DeskcommCRM",
-          "url": "https://github.com/melgarafael/DeskcommCRM",
-          "description_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-          "language": "TypeScript",
-          "stars_total": 1518,
-          "stars_today": 152,
-          "description_zh": "开源AI销售操作系统——自托管CRM，原生集成AI智能体 + WhatsApp（WAHA）。面向任何通过聊天进行销售的企业，是Kommo、Octadesk和Intercom的开源替代方案。支持MCP、多租户、符合LGPD。"
-        },
-        {
-          "rank": 13,
-          "name": "jihe520/MathModelAgent",
-          "url": "https://github.com/jihe520/MathModelAgent",
-          "description_en": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-          "language": "Python",
-          "stars_total": 4977,
-          "stars_today": 129,
-          "description_zh": "🤖📐专为数学建模设计的Agent与技能，自动完成数学建模，生成一份完整的可以直接提交的论文。An Agent Designed for Mathematical Modeling, Automatically complete mathmodel and generate a complete paper ready for submission."
-        },
-        {
-          "rank": 14,
-          "name": "alphaXiv/OpenResearch",
-          "url": "https://github.com/alphaXiv/OpenResearch",
-          "description_en": "Run parallel research agents with any model",
-          "language": "Rust",
-          "stars_total": 1478,
-          "stars_today": 120,
-          "description_zh": "使用任意模型运行并行研究智能体"
-        },
-        {
-          "rank": 15,
-          "name": "pascalorg/editor",
-          "url": "https://github.com/pascalorg/editor",
-          "description_en": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-          "language": "TypeScript",
-          "stars_total": 23796,
-          "stars_today": 106,
-          "description_zh": "开源3D建筑编辑器，配备本地CLI、MCP工具，以及面向人类和AI智能体的实用工作流。"
-        },
-        {
-          "rank": 16,
           "name": "nab138/iloader",
           "url": "https://github.com/nab138/iloader",
           "description_en": "User friendly sideloader",
           "language": "TypeScript",
-          "stars_total": 2978,
-          "stars_today": 50,
+          "stars_total": 3011,
+          "stars_today": 209,
           "description_zh": "用户友好的侧载工具"
+        },
+        {
+          "rank": 12,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars_total": 7096,
+          "stars_today": 193,
+          "description_zh": "YuE2：具备符号规划、零样本翻唱和智能体音乐编辑的前沿音乐生成。"
+        },
+        {
+          "rank": 13,
+          "name": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "language": "Go",
+          "stars_total": 23169,
+          "stars_today": 193,
+          "description_zh": "完全自主的 AI 智能体系统，能够执行复杂的渗透测试任务"
+        },
+        {
+          "rank": 14,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "language": "Python",
+          "stars_total": 3415,
+          "stars_today": 99,
+          "description_zh": "claude-red 是一个为 Claude 技能系统精心策划的攻防安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 注入针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
+        },
+        {
+          "rank": 15,
+          "name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description_en": "",
+          "language": "Batchfile",
+          "stars_total": 33178,
+          "stars_today": 52,
+          "description_zh": ""
+        },
+        {
+          "rank": 16,
+          "name": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "description_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+          "language": "Rust",
+          "stars_total": 7062,
+          "stars_today": 44,
+          "description_zh": "Worktrunk 是一个用于 Git worktree 管理的 CLI，专为并行 AI 智能体工作流而设计"
         }
       ]
     },
