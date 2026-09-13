@@ -1,5 +1,60 @@
 [
   {
+    "id": "9f3b673ea1641c59cf127b58941290e0",
+    "title_en": "Waymo pulls over, calls cops on riders with a ghost gun",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+    "published_at": "2026-09-13T14:28:12.000Z",
+    "fetched_at": "2026-09-13T15:19:19.192Z",
+    "title_zh": "Waymo靠边停车，因乘客携带幽灵枪而报警",
+    "summary_zh": "Waymo自动驾驶出租车在行驶途中主动靠边停车并报警，原因是车内乘客被发现携带一把无法追踪的\"幽灵枪\"。这一事件凸显了自动驾驶车辆在公共安全场景中扮演的新角色——车辆不仅能感知路况，还能识别车内异常行为并主动介入。Waymo的远程监控系统与车内传感器协同工作，使运营团队得以及时发现威胁并联系执法部门，引发了对自动驾驶汽车隐私监控边界的讨论。",
+    "category": "product"
+  },
+  {
+    "id": "9b23d462fe3a9b3b1e1fbd223ccafffc",
+    "title_en": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+    "published_at": "2026-09-13T13:00:00.000Z",
+    "fetched_at": "2026-09-13T15:19:19.192Z",
+    "title_zh": "《你的母亲你的母亲你的母亲》会让你彻底忘掉漫威《刀锋战士》的灾难",
+    "summary_zh": "一部名为《你的母亲你的母亲你的母亲》的影片凭借独特的叙事手法和强烈的情感冲击力获得广泛好评，被评论者认为足以让观众忘记漫威《刀锋战士》重启版的种种问题。该片以重复标题制造记忆点，在口碑上形成鲜明对比，成为近期影视圈热议话题。文章借此对比探讨了当下超级英雄电影创意疲软与独立影片崛起之间的张力。",
+    "category": "industry"
+  },
+  {
+    "id": "c0584b3cc952f0073f8253a5cc9695b3",
+    "title_en": "Your car is selling your data",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "published_at": "2026-09-13T12:00:00.000Z",
+    "fetched_at": "2026-09-13T15:19:19.192Z",
+    "title_zh": "你的汽车正在出售你的数据",
+    "summary_zh": "调查报道揭示，现代联网汽车正在大量收集并出售车主的驾驶行为、位置轨迹、车内对话等敏感数据，涉及多家主流车企。这些数据被卖给保险公司、广告商和数据经纪商，车主往往在不知情的情况下\"被同意\"。文章呼吁监管机构加强对车载数据收集的约束，并提醒消费者在购车时关注隐私条款，因为汽车正成为继手机之后最大的个人数据泄露源头之一。",
+    "category": "industry"
+  },
+  {
+    "id": "4269286e676cbd97d53d7b14dbc7a783",
+    "title_en": "Apple’s new phones are here",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+    "published_at": "2026-09-13T12:00:00.000Z",
+    "fetched_at": "2026-09-13T15:19:19.192Z",
+    "title_zh": "苹果新手机来了",
+    "summary_zh": "苹果正式发布新一代iPhone产品线，带来芯片性能、影像系统和AI功能的全面升级。新机型搭载更强大的自研处理器，并在设备端AI能力上大幅增强，支持更智能的语音助手和实时图像处理。苹果同时调整了产品定价与配色策略，试图在竞争激烈的智能手机市场中巩固高端定位，并推动用户换机周期。",
+    "category": "product"
+  },
+  {
+    "id": "7bc530aec2cdde7135620e66ca47fd45",
+    "title_en": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+    "published_at": "2026-09-13T11:00:00.000Z",
+    "fetched_at": "2026-09-13T15:19:19.369Z",
+    "title_zh": "大家都在谈论（并且真的在买）的智能喂鸟器（2026）",
+    "summary_zh": "Wired发布2026年智能喂鸟器选购指南，盘点了当前市场上最受关注且实际销量领先的智能喂鸟器产品。这些设备通常配备AI摄像头和鸟类识别功能，可自动记录访客鸟类并推送通知，反映了AI技术向消费级智能家居场景持续渗透的趋势。",
+    "category": "product"
+  },
+  {
     "id": "193b0841e432e0e57d4ffc4a4738f759",
     "title_en": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser",
     "source": "Wired",
@@ -140,6 +195,116 @@
     "fetched_at": "2026-09-12T19:53:07.296Z",
     "title_zh": "LG 回应电视监视用户指控",
     "summary_zh": "LG 就旗下智能电视被指监视用户的指控作出回应，否认未经授权收集观看数据，并解释相关功能需用户同意方可启用。此前有报道称部分 LG 电视的自动内容识别技术可能采集屏幕内容用于广告投放，引发隐私担忧。LG 表示将加强透明度并优化隐私设置，以回应用户和监管机构的关切。",
+    "category": "product"
+  },
+  {
+    "id": "10ce679441eeb9dfa2a9373dafebd78f",
+    "title_en": "Brics Delhi Declaration raises concerns over surge in payment frauds",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/industry/news/brics-delhi-declaration-raises-concerns-over-surge-in-payment-frauds-126091200866_1.html",
+    "published_at": "2026-09-12T15:17:18Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "金砖国家德里宣言对支付欺诈激增表示担忧",
+    "summary_zh": "据Business Standard报道，金砖国家在德里宣言中对支付欺诈案件激增表示担忧，并呼吁加强成员国之间的金融安全合作。随着数字支付和AI驱动欺诈手段的不断升级，新兴经济体正面临日益严峻的支付安全挑战，跨境协作成为应对关键。",
+    "category": "industry"
+  },
+  {
+    "id": "ac226d8aef6860b9953383c8f08f82bc",
+    "title_en": "‍♂️ VAR is back, but Colombo gets pen wrong ! Genoa claim first point",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/var-is-back-but-colombo-gets-pen-wrong-genoa-claim-first-point-43447154",
+    "published_at": "2026-09-12T15:17:00Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "VAR回归，但科伦坡判罚点球出错！热那亚拿到首分",
+    "summary_zh": "据Onefootball报道，VAR视频助理裁判系统重新启用，但在科伦坡相关比赛中出现点球判罚错误，引发争议。与此同时，热那亚队收获了本赛季首个积分。该报道聚焦足球赛事中的裁判技术应用与比赛结果，与AI行业无直接关联。",
+    "category": "industry"
+  },
+  {
+    "id": "558a2c67e3abfb630a5c2960d5a30ccf",
+    "title_en": "Here's who stands to make money from the Anthropic IPO",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
+    "published_at": "2026-09-12T15:16:19Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "谁将从Anthropic的IPO中获利？",
+    "summary_zh": "据Yahoo Entertainment报道，随着Anthropic筹备IPO，其早期投资者、创始团队和员工持股者将成为主要受益方。作为OpenAI的主要竞争对手之一，Anthropic的上市计划备受关注，可能成为AI行业规模最大的IPO之一，也将为整个AI赛道的估值提供重要参考。",
+    "category": "industry"
+  },
+  {
+    "id": "226d3b76eb4dc5d62af63a605bf3639b",
+    "title_en": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+    "source": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters",
+    "published_at": "2026-09-12T15:12:40Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "英伟达考虑在Anthropic潜在创纪录IPO中投资100亿美元",
+    "summary_zh": "据Cointelegraph援引路透社报道，英伟达正考虑在Anthropic的IPO中投资高达100亿美元。若成行，这将成为AI领域规模最大的IPO之一，也进一步巩固英伟达在AI生态中的战略布局。此举被视为英伟达从芯片供应商向AI全产业链投资方延伸的重要信号。",
+    "category": "industry"
+  },
+  {
+    "id": "c65b82f1a583c5388cc7df509adb1831",
+    "title_en": "Could the US workweek drop to 32 hours? New Congress bill backed by Bernie Sanders and Mark Takano could change overtime rules",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/could-the-us-workweek-drop-to-32-hours-new-congress-bill-backed-by-bernie-sanders-and-mark-takano-could-change-overtime-rules/articleshow/134139051.cms",
+    "published_at": "2026-09-12T15:10:23Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "美国每周工作时间能降至32小时吗？伯尼·桑德斯和马克·高野支持的新国会法案可能改变加班规则",
+    "summary_zh": "据《印度时报》报道，美国国会一项由伯尼·桑德斯和马克·高野支持的新法案提议将标准工作周缩短至32小时，并改革加班规则。在AI自动化加速取代部分岗位的背景下，该法案引发了关于工时、劳动权益和技术性失业的广泛讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "c3a7610a90b5f27662db34d7b1b3e03c",
+    "title_en": "Leaders of BRICS countries call for stronger cooperation in health, endorse initiatives on tuberculosis",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/leaders-of-brics-countries-call-for-stronger-cooperation-in-health-endorse-initiatives-on-tb/articleshow/134139783.cms",
+    "published_at": "2026-09-12T15:08:01Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "金砖国家领导人呼吁加强卫生合作，支持结核病防治倡议",
+    "summary_zh": "据《印度时报》报道，金砖国家领导人在峰会上呼吁加强成员国在公共卫生领域的合作，并支持结核病防治相关倡议。该报道聚焦国际卫生政策与多边合作，与AI行业无直接关联。",
+    "category": "industry"
+  },
+  {
+    "id": "50d7f0f9c3e86301f281afa3e5bdf3db",
+    "title_en": "Anthropic CEO begs AI bosses to slow down on potentially deadly technology after whistleblower's chilling warning",
+    "source": "Dailymail.com",
+    "url": "https://www.dailymail.com/news/article-16125913/Anthropic-CEO-AI-slow-whistleblower-warning.html",
+    "published_at": "2026-09-12T15:03:57Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "Anthropic CEO在举报人发出令人不寒而栗的警告后，恳求AI老板们放慢可能致命技术的开发",
+    "summary_zh": "据《每日邮报》报道，Anthropic CEO在一位举报人发出关于AI潜在致命风险的警告后，公开呼吁AI行业领导者放慢相关技术开发步伐。这一表态反映了AI安全倡导者与加速派之间日益激烈的争论，也凸显了前沿AI实验室内部对风险管控的分歧。",
+    "category": "llm"
+  },
+  {
+    "id": "86e8255f14b88bc18e744e356819c19b",
+    "title_en": "Councils expected to zone enough land for 1m new homes, conference hears",
+    "source": "The Irish Times",
+    "url": "https://www.irishtimes.com/business/2026/09/12/councils-expected-to-zone-enough-land-for-1m-new-homes-conference-hears/",
+    "published_at": "2026-09-12T14:59:53Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "会议获悉，地方议会预计将划出足够土地建设100万套新住房",
+    "summary_zh": "据《爱尔兰时报》报道，在一次会议上获悉，爱尔兰地方议会预计将划出足够土地用于建设100万套新住房。该报道聚焦住房政策与城市规划，与AI行业无直接关联。",
+    "category": "industry"
+  },
+  {
+    "id": "9724ff903a0c0831217331dfadfe9d76",
+    "title_en": " Too much TikTok?! Bundesliga captain’s words backfire",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/too-much-tiktok-bundesliga-captains-words-backfire-43447016",
+    "published_at": "2026-09-12T14:57:00Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "TikTok刷太多了？！德甲队长言论引火烧身",
+    "summary_zh": "德甲某球队队长因公开谈论TikTok使用问题而陷入舆论风波，其言论被外界解读为自相矛盾，反而招致批评。该事件折射出职业运动员在社交媒体时代的公众形象管理难题：一方面球员被鼓励通过短视频平台扩大影响力、与球迷互动，另一方面过度曝光或不当发言又可能引发争议。随着TikTok等平台深入体育圈，如何在商业价值与个人言行之间取得平衡，已成为俱乐部和球员共同面对的新课题。",
+    "category": "industry"
+  },
+  {
+    "id": "a4469c47ea9441d90ae613a49ddcd639",
+    "title_en": "feagi 2.1.51",
+    "source": "Pypi.org",
+    "url": "https://pypi.org/project/feagi/2.1.51/",
+    "published_at": "2026-09-12T14:56:20Z",
+    "fetched_at": "2026-09-13T15:19:19.650Z",
+    "title_zh": "feagi 2.1.51 版本发布",
+    "summary_zh": "FEAGI 是一个面向神经形态计算与类脑智能的开源框架，旨在为机器人及智能体提供可扩展的认知架构。此次发布的 2.1.51 版本属于常规迭代更新，通常包含缺陷修复、依赖升级与性能优化等内容，具体变更需参考官方更新日志。对于从事神经形态硬件、具身智能和脑启发算法研究的开发者而言，及时跟进此类版本有助于保持开发环境稳定，并获取最新的功能改进与兼容性支持。",
     "category": "product"
   },
   {
@@ -5333,170 +5498,5 @@
     "title_zh": "2026年迄今最佳Kindle是哪款？",
     "summary_zh": "2026年已过半，亚马逊Kindle系列推出了多款新品。本文对比了当前在售的Kindle、Kindle Paperwhite和Kindle Scribe等型号，从屏幕素质、续航、手写体验和价格等方面进行评测，为不同需求的阅读爱好者推荐最值得购买的机型。",
     "category": "product"
-  },
-  {
-    "id": "6e6e2bdf360131a7633c565d5628d270",
-    "title_en": "Predicting the Steelers' 2026 season with Google's Gemini AI system",
-    "source": "USA Today",
-    "url": "https://www.usatoday.com/story/sports/nfl/steelers/2026/09/07/pittsburgh-steelers-predictions-google-gemini-ai/91461750007/",
-    "published_at": "2026-09-07T10:01:39Z",
-    "fetched_at": "2026-09-08T10:18:06.600Z",
-    "title_zh": "用谷歌Gemini AI系统预测钢人队2026赛季表现",
-    "summary_zh": "美国媒体尝试利用谷歌Gemini AI系统对匹兹堡钢人队2026年NFL赛季进行预测。该系统综合历史数据、球员变动、赛程难度等因素，给出胜场预估和季后赛概率。结果显示AI预测具有一定参考价值，但也存在局限性，如无法完全模拟伤病和临场战术变化。此类应用展示了AI在体育分析领域的潜力，但专家提醒需结合人类判断。",
-    "category": "research"
-  },
-  {
-    "id": "11b3c07edc0badfd61f9a5d06cdb109c",
-    "title_en": "OpenAI urges caution as AI development shows signs of self-improvement",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-urges-caution-as-ai-development-shows-signs-of-self-improvement-126090700749_1.html",
-    "published_at": "2026-09-07T10:01:24Z",
-    "fetched_at": "2026-09-08T10:18:06.600Z",
-    "title_zh": "OpenAI敦促谨慎：AI发展显现自我改进迹象",
-    "summary_zh": "OpenAI发布报告指出，其AI模型在训练过程中开始表现出自我改进的迹象，例如自动优化内部推理路径。公司呼吁业界保持谨慎，加强安全研究和监管框架，以防AI能力失控。尽管目前自我改进仍处于早期阶段，但该发现引发了对AI对齐和长期风险的讨论。OpenAI建议建立更严格的测试标准和透明度机制，确保AI发展可控。",
-    "category": "research"
-  },
-  {
-    "id": "90cb5ad0f4618ee6d634114d44a83f49",
-    "title_en": "In 1974, humans sent their first message to the stars from a radio telescope in Puerto Rico, aimed at a cluster 25,000 light-years away",
-    "source": "Theartfulage.com",
-    "url": "https://theartfulage.com/ap-in-1974-humans-sent-their-first-message-to-the-stars-from-a-radio-telescope-in-puerto-rico-aimed-at-a-cluster-25-000-light-years-away/",
-    "published_at": "2026-09-07T10:00:36Z",
-    "fetched_at": "2026-09-08T10:18:06.600Z",
-    "title_zh": "1974年人类首次从波多黎各射电望远镜向2.5万光年外的星团发送星际信息",
-    "summary_zh": "1974年，人类通过波多黎各阿雷西博射电望远镜向武仙座球状星团M13发送了第一条星际无线电信息，该星团距离地球约2.5万光年。这条编码信息包含人类基本数据、DNA结构和太阳系位置等。尽管到达目的地需数万年，此举被视为人类探索外星文明的里程碑。文章回顾了这一历史事件的技术细节和科学意义，并反思当代星际通讯的进展。",
-    "category": "research"
-  },
-  {
-    "id": "a7dc0a8080f2f426e24d55ee0b302ad4",
-    "title_en": "AI can write news -- where does that leave traditional media?",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/ai-can-write-news-where-does-that-leave-traditional-media/article71438162.ece",
-    "published_at": "2026-09-07T10:00:35Z",
-    "fetched_at": "2026-09-08T10:18:06.600Z",
-    "title_zh": "AI能写新闻——传统媒体何去何从？",
-    "summary_zh": "随着AI写作工具日益成熟，新闻生产正面临深刻变革。AI能快速生成财经报道、体育摘要等结构化内容，降低成本，但也引发对真实性、偏见和就业的担忧。传统媒体正探索人机协作模式，将AI用于数据分析和初稿生成，同时强化深度调查和观点评论等人类优势。专家认为，媒体需建立AI使用伦理规范，以在效率与公信力间取得平衡。",
-    "category": "industry"
-  },
-  {
-    "id": "bb09684b256ef913fc9234f77548da91",
-    "title_en": "UST and Italdesign Unite Design, Engineering, and AI to Shape the Future of Mobility",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/ust-and-italdesign-unite-design-engineering-and-ai-to-shape-the-future-of-mobility/article71438166.ece",
-    "published_at": "2026-09-07T10:00:33Z",
-    "fetched_at": "2026-09-08T10:18:06.600Z",
-    "title_zh": "UST与Italdesign联合设计、工程与AI，塑造未来出行",
-    "summary_zh": "科技公司UST与意大利设计公司Italdesign宣布合作，将设计、工程与AI技术融合，共同开发未来出行解决方案。合作聚焦于智能座舱、自动驾驶体验和可持续交通设计，利用AI优化用户交互和车辆性能。双方将结合各自在数字服务和汽车设计领域的专长，推动概念车到量产技术的转化，探索移动出行新范式。",
-    "category": "product"
-  },
-  {
-    "id": "6d7b8942810250bb7e1fcad08319eaf9",
-    "title_en": "A Coinbase-backed crypto bridge is shutting down after its business model stopped working",
-    "source": "CryptoSlate",
-    "url": "https://cryptoslate.com/a-coinbase-backed-crypto-bridge-is-shutting-down-after-its-business-model-stopped-working/",
-    "published_at": "2026-09-07T10:00:29Z",
-    "fetched_at": "2026-09-08T10:18:06.600Z",
-    "title_zh": "Coinbase支持的加密桥因商业模式失效而关闭",
-    "summary_zh": "由Coinbase支持的加密货币跨链桥项目宣布关闭，原因是其商业模式无法持续。该项目曾旨在促进不同区块链网络间的资产转移，但受市场波动、交易量下降及监管不确定性影响，收入难以覆盖运营成本。关闭凸显了加密基础设施领域面临的盈利挑战，也引发对跨链技术未来可行性的讨论。用户需在截止日期前提取资产。",
-    "category": "industry"
-  },
-  {
-    "id": "5bc10ce94c43e8a60efaee19fc1cf88a",
-    "title_en": "The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/",
-    "published_at": "2026-09-07T09:36:00.000Z",
-    "fetched_at": "2026-09-07T11:04:14.241Z",
-    "title_zh": "劳动节床垫优惠精选：我们亲测过的床垫好价",
-    "summary_zh": "劳动节促销季来临，本文精选了多款经过编辑团队亲身体验的优质床垫优惠。从记忆棉到弹簧床，涵盖不同价位和睡感，并附上实测体验和折扣信息，帮助消费者在促销期间做出明智的购买决策，提升睡眠质量。",
-    "category": "product"
-  },
-  {
-    "id": "e13bc7cf5a85684b72aad4d228a5862c",
-    "title_en": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/",
-    "published_at": "2026-09-07T09:00:00.000Z",
-    "fetched_at": "2026-09-07T11:04:14.241Z",
-    "title_zh": "塑料公司正在编写教案，这会带来什么问题？",
-    "summary_zh": "报道揭露塑料行业巨头正积极向学校提供教学材料和课程计划，内容可能美化塑料产业并淡化其环境危害。教育工作者和环保人士对此表示担忧，认为这属于企业公关行为，可能误导学生，呼吁学校警惕此类带有商业偏见的教材。",
-    "category": "industry"
-  },
-  {
-    "id": "816151ead63bdeaedbd346135ab61b01",
-    "title_en": "No Evidence Domenicali Quit F1 or Called Vettel About His Exit",
-    "source": "Inautonews.com",
-    "url": "https://www.inautonews.com/domenicali-says-he-quit-f1-and-called-vettel",
-    "published_at": "2026-09-07T02:04:07Z",
-    "fetched_at": "2026-09-08T02:08:49.649Z",
-    "title_zh": "无证据表明多梅尼卡利离开F1或就离职联系维特尔",
-    "summary_zh": "针对近期关于F1首席执行官多梅尼卡利可能离职并联系维特尔的传闻，经核实并无实据。该消息源为汽车行业媒体，内容缺乏官方确认。业内人士指出，此类未经证实的流言在赛事休赛期频繁出现，建议关注官方渠道发布的信息。目前多梅尼卡利仍正常履职，F1赛事运营未受影响。",
-    "category": "industry"
-  },
-  {
-    "id": "dd5e43961b55b5d01f28e2b22593c55e",
-    "title_en": "3 Tata group cos, 4 Railway stocks, 2 shipping sector, 3 Pharma majors, Adani Enterprises, NMDC, SJVN, Nava, Stanley Lifestyle will remain in focus on Monday, Sept 7",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/markets/3-tata-group-cos-4-railway-stocks-2-shipping-sector-3-pharma-majors-adani-enterprises-nmdc-sjvn-nava-stanley-lifestyle-will-remain-in-focus-on-monday-sept-7/article71437270.ece",
-    "published_at": "2026-09-07T02:00:37Z",
-    "fetched_at": "2026-09-08T02:08:49.649Z",
-    "title_zh": "塔塔集团三家子公司、四只铁路股、两家航运公司、三大制药巨头及Adani Enterprises等周一受关注",
-    "summary_zh": "9月7日周一，印度股市多板块个股成为焦点：塔塔集团旗下三家子公司、四只铁路相关股票、两家航运企业、三大制药公司以及Adani Enterprises、NMDC、SJVN、Nava和Stanley Lifestyle等均有望迎来活跃交易。投资者需关注相关行业政策动态及公司公告，把握短期波动机会。",
-    "category": "industry"
-  },
-  {
-    "id": "15720e1f634c8496774a5d934b5894c2",
-    "title_en": "Upset About Data Centers? Big Tech and Trump Think You’re a Socialist Dupe",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/514c8b44808eafdd",
-    "published_at": "2026-09-07T02:00:16Z",
-    "fetched_at": "2026-09-08T02:08:49.649Z",
-    "title_zh": "对数据中心不满？科技巨头和特朗普认为你是被社会主义忽悠了",
-    "summary_zh": "文章批评科技巨头与前总统特朗普将公众对数据中心扩张的担忧污名化为“社会主义”情绪。随着AI算力需求激增，数据中心耗电、占地及环境影响引发社区抗议。作者认为，将合理质疑政治化无助于解决能源与规划矛盾，反而掩盖了科技企业应承担的责任。",
-    "category": "industry"
-  },
-  {
-    "id": "bddda6875d151e7358afa2dde4fa73d4",
-    "title_en": " Updated Brasileirão table after a fiery Sunday!",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/updated-brasileirao-table-after-a-fiery-sunday-43415393",
-    "published_at": "2026-09-07T01:10:00Z",
-    "fetched_at": "2026-09-08T02:08:49.649Z",
-    "title_zh": "巴西甲级联赛周日激战后积分榜更新",
-    "summary_zh": "周日巴西甲级联赛多场对决后积分榜发生变动。本轮比赛结果对各队排名产生直接影响，争冠集团与保级区形势均出现新变化。具体比分及排名细节请查看官方完整榜单，后续赛程将决定本赛季最终走向。",
-    "category": "industry"
-  },
-  {
-    "id": "c5d08c9e7db3791a7321590f6cfe6dbe",
-    "title_en": "“You can either remain rational or outperform”: DSP CIO Anish Tawakley explains his contrarian approach to stocks, bonds and market irrationality",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/wealth/invest/you-can-either-remain-rational-or-outperform-dsp-cio-anish-tawakley-explains-his-contrarian-approach-to-stocks-bonds-and-market-irrationality/articleshow/133786660.cms",
-    "published_at": "2026-09-07T01:00:00Z",
-    "fetched_at": "2026-09-08T02:08:49.649Z",
-    "title_zh": "“要么保持理性，要么跑赢大盘”：DSP首席投资官阐述逆向投资策略",
-    "summary_zh": "DSP共同基金首席投资官Anish Tawakley在采访中分享其逆向投资哲学：面对市场非理性，投资者需在“保持理性”与“追求超额收益”之间做出选择。他详述了股票与债券配置中的逆向操作逻辑，强调在情绪化市场中寻找被错杀的资产，同时警惕群体行为带来的估值泡沫。",
-    "category": "industry"
-  },
-  {
-    "id": "3bc9135d151493ec9cb59015e1db647e",
-    "title_en": "Rollercoaster with a happy ending: BVB win in Sinsheim",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/rollercoaster-with-a-happy-ending-bvb-win-in-sinsheim-43415369",
-    "published_at": "2026-09-07T00:50:00Z",
-    "fetched_at": "2026-09-08T02:08:49.649Z",
-    "title_zh": "过山车式比赛圆满结局：多特蒙德在辛斯海姆取胜",
-    "summary_zh": "德甲比赛中，多特蒙德客场对阵辛斯海姆，经历跌宕起伏的90分钟后最终带走胜利。比赛过程充满悬念，双方交替领先，但多特蒙德凭借关键时刻的出色发挥锁定胜局。这场胜利对球队士气与积分榜排名均有积极意义。",
-    "category": "industry"
-  },
-  {
-    "id": "dea669af87d189065eb21f0c7818be6e",
-    "title_en": "BVB Women stay flawless: Popp hits hat-trick against Mecklenbeck",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/bvb-women-stay-flawless-popp-hits-hat-trick-against-mecklenbeck-43415365",
-    "published_at": "2026-09-07T00:50:00Z",
-    "fetched_at": "2026-09-08T02:08:49.649Z",
-    "title_zh": "多特蒙德女足保持不败：波普对梅克伦贝克上演帽子戏法",
-    "summary_zh": "多特蒙德女足延续强势表现，在比赛中以压倒性优势击败梅克伦贝克。前锋波普状态火热，一人独中三元完成帽子戏法，帮助球队继续保持赛季不败金身。这场胜利进一步巩固了多特蒙德女足在积分榜上的领先位置。",
-    "category": "industry"
   }
 ]
