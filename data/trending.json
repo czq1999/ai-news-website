@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-14",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体与本地化部署：群体智能引擎、AI联网工具、本地语音克隆、代码审查及系统提示词泄露等项目亮眼。",
+      "summary_zh": "今日GitHub热榜聚焦本地化AI与开源替代：纯C跑MoE大模型、本地语音克隆、AI智能体联网工具，以及AirDrop和Bitwarden开源替代方案。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 28058,
-          "stars_today": 2632,
+          "stars_total": 28746,
+          "stars_today": 2774,
           "description_zh": "VoiceStudio 是开源、完全本地的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
         },
         {
@@ -20,119 +20,119 @@
           "url": "https://github.com/JustVugg/colibri",
           "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
           "language": "C",
-          "stars_total": 30945,
-          "stars_today": 868,
+          "stars_total": 31564,
+          "stars_today": 2233,
           "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小的引擎，庞大的模型。🐦"
         },
         {
           "rank": 3,
-          "name": "TauricResearch/TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-          "language": "Python",
-          "stars_total": 105637,
-          "stars_today": 756,
-          "description_zh": "TradingAgents：多智能体 LLM 金融交易框架"
-        },
-        {
-          "rank": 4,
-          "name": "asgeirtj/system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-          "language": "JavaScript",
-          "stars_total": 66429,
-          "stars_today": 706,
-          "description_zh": "从 Anthropic 提取的系统提示词——Claude Fable 5.1、Opus 5、Claude Design、Claude Code。OpenAI——ChatGPT GPT-6-Astra、Codex。Google——Gemini 3.8 Flash、3.1 Pro、Antigravity。xAI——Grok、Grok Bot、Cursor、Kimi 等！定期更新。"
-        },
-        {
-          "rank": 5,
-          "name": "Panniantong/Agent-Reach",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-          "language": "Python",
-          "stars_total": 80716,
-          "stars_today": 640,
-          "description_zh": "为你的 AI 智能体赋予洞察整个互联网的眼睛。读取并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
-        },
-        {
-          "rank": 6,
-          "name": "666ghj/MiroFish",
-          "url": "https://github.com/666ghj/MiroFish",
-          "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-          "language": "Python",
-          "stars_total": 72800,
-          "stars_today": 524,
-          "description_zh": "简洁通用的群体智能引擎，预测万物"
-        },
-        {
-          "rank": 7,
-          "name": "SnailSploit/Claude-Red",
-          "url": "https://github.com/SnailSploit/Claude-Red",
-          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-          "language": "Python",
-          "stars_total": 4407,
-          "stars_today": 506,
-          "description_zh": "claude-red 是为 Claude 技能系统精心策划的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 注入针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
-        },
-        {
-          "rank": 8,
-          "name": "multimodal-art-projection/YuE",
-          "url": "https://github.com/multimodal-art-projection/YuE",
-          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-          "language": "Python",
-          "stars_total": 8050,
-          "stars_today": 487,
-          "description_zh": "YuE2：前沿音乐生成，具备符号规划、零样本翻唱和代理式音乐编辑能力。"
-        },
-        {
-          "rank": 9,
           "name": "alibaba/open-code-review",
           "url": "https://github.com/alibaba/open-code-review",
           "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "stars_total": 24293,
-          "stars_today": 443,
+          "stars_total": 25125,
+          "stars_today": 1796,
           "description_zh": "快速、高效，经阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM 代理，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
         },
         {
+          "rank": 4,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars_total": 5810,
+          "stars_today": 1095,
+          "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
+        },
+        {
+          "rank": 5,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "language": "JavaScript",
+          "stars_total": 66625,
+          "stars_today": 770,
+          "description_zh": "从 Anthropic 提取的系统提示词——Claude Fable 5.1、Opus 5、Claude Design、Claude Code。OpenAI——ChatGPT GPT-6-Astra、Codex。Google——Gemini 3.8 Flash、3.1 Pro、Antigravity。xAI——Grok、Grok Bot、Cursor、Kimi 等！定期更新。"
+        },
+        {
+          "rank": 6,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 105883,
+          "stars_today": 756,
+          "description_zh": "TradingAgents：多智能体 LLM 金融交易框架"
+        },
+        {
+          "rank": 7,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 81016,
+          "stars_today": 640,
+          "description_zh": "为你的 AI 智能体赋予洞察整个互联网的眼睛。读取并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
+        },
+        {
+          "rank": 8,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "language": "Python",
+          "stars_total": 4578,
+          "stars_today": 606,
+          "description_zh": "claude-red 是为 Claude 技能系统精心策划的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 注入针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
+        },
+        {
+          "rank": 9,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars_total": 8208,
+          "stars_today": 578,
+          "description_zh": "YuE2：前沿音乐生成，具备符号规划、零样本翻唱和代理式音乐编辑能力。"
+        },
+        {
           "rank": 10,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 93623,
-          "stars_today": 370,
-          "description_zh": "π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——无需任何视频像素。"
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "language": "Python",
+          "stars_total": 165877,
+          "stars_today": 528,
+          "description_zh": "🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，支持推理和训练。"
         },
         {
           "rank": 11,
-          "name": "peetzweg/opendisplay",
-          "url": "https://github.com/peetzweg/opendisplay",
-          "description_en": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-          "language": "Swift",
-          "stars_total": 3323,
-          "stars_today": 314,
-          "description_zh": "免费、开源的 Sidecar/Duet 替代方案——通过 USB 或 WiFi 将你的 iPhone 或 iPad 用作 Mac 的真正第二显示器。低延迟 H.264、Retina HiDPI、触摸输入。"
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars_total": 72994,
+          "stars_today": 524,
+          "description_zh": "简洁通用的群体智能引擎，预测万物"
         },
         {
           "rank": 12,
-          "name": "reconurge/flowsint",
-          "url": "https://github.com/reconurge/flowsint",
-          "description_en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-          "language": "TypeScript",
-          "stars_total": 8128,
-          "stars_today": 279,
-          "description_zh": "一个现代化平台，用于可视化、灵活且可扩展的基于图的调查。面向网络安全分析师和调查人员。"
-        },
-        {
-          "rank": 13,
           "name": "tech-leads-club/agent-skills",
           "url": "https://github.com/tech-leads-club/agent-skills",
           "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
           "language": "TypeScript",
-          "stars_total": 5883,
-          "stars_today": 265,
+          "stars_total": 5962,
+          "stars_today": 506,
           "description_zh": "面向专业 AI 编程代理的安全、经过验证的技能注册中心。以绝对的信心扩展 Antigravity、Claude Code、Cursor、Copilot 等。"
+        },
+        {
+          "rank": 13,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 93732,
+          "stars_today": 370,
+          "description_zh": "π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——无需任何视频像素。"
         },
         {
           "rank": 14,
@@ -140,39 +140,39 @@
           "url": "https://github.com/localsend/localsend",
           "description_en": "An open-source cross-platform alternative to AirDrop",
           "language": "Dart",
-          "stars_total": 90976,
-          "stars_today": 213,
+          "stars_total": 91147,
+          "stars_today": 311,
           "description_zh": "AirDrop 的开源跨平台替代方案"
         },
         {
           "rank": 15,
+          "name": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "description_en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+          "language": "TypeScript",
+          "stars_total": 8247,
+          "stars_today": 279,
+          "description_zh": "一个现代化平台，用于可视化、灵活且可扩展的基于图的调查。面向网络安全分析师和调查人员。"
+        },
+        {
+          "rank": 16,
+          "name": "peetzweg/opendisplay",
+          "url": "https://github.com/peetzweg/opendisplay",
+          "description_en": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+          "language": "Swift",
+          "stars_total": 3459,
+          "stars_today": 258,
+          "description_zh": "免费、开源的 Sidecar/Duet 替代方案——通过 USB 或 WiFi 将你的 iPhone 或 iPad 用作 Mac 的真正第二显示器。低延迟 H.264、Retina HiDPI、触摸输入。"
+        },
+        {
+          "rank": 17,
           "name": "OpenBMB/VoxCPM",
           "url": "https://github.com/OpenBMB/VoxCPM",
           "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
           "language": "Python",
-          "stars_total": 37202,
+          "stars_total": 37280,
           "stars_today": 204,
           "description_zh": "VoxCPM2：无需分词器的 TTS，支持多语言语音生成、创意音色设计和逼真克隆"
-        },
-        {
-          "rank": 16,
-          "name": "ever-co/ever-gauzy",
-          "url": "https://github.com/ever-co/ever-gauzy",
-          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-          "language": "TypeScript",
-          "stars_total": 5651,
-          "stars_today": 191,
-          "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
-        },
-        {
-          "rank": 17,
-          "name": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-          "language": "Python",
-          "stars_total": 165786,
-          "stars_today": 152,
-          "description_zh": "🤗 Transformers：用于文本、视觉、音频和多模态模型的最先进机器学习模型的模型定义框架，支持推理和训练。"
         },
         {
           "rank": 18,
@@ -180,7 +180,7 @@
           "url": "https://github.com/dani-garcia/vaultwarden",
           "description_en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
           "language": "Rust",
-          "stars_total": 67410,
+          "stars_total": 67464,
           "stars_today": 110,
           "description_zh": "用 Rust 编写的非官方 Bitwarden 兼容服务器，前身为 bitwarden_rs"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/rlaope/oh-my-hermes",
           "description_en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
           "language": "Python",
-          "stars_total": 1805,
+          "stars_total": 1909,
           "stars_today": 52,
           "description_zh": "Hermes Agent 的一体化插件 ⚚ 编码智能、长期记忆系统与模型优化工作流包"
         },
@@ -200,7 +200,7 @@
           "url": "https://github.com/Crosstalk-Solutions/project-nomad",
           "description_en": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
           "language": "TypeScript",
-          "stars_total": 36722,
+          "stars_total": 36807,
           "stars_today": 26,
           "description_zh": "Project NOMAD 是一个离线优先的知识与教育服务器。维基百科、数千本书籍、课程、地图以及可选的本地 AI，全部运行在你拥有的硬件上，无需互联网。"
         }
