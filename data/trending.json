@@ -1,6 +1,212 @@
 {
   "days": [
     {
+      "date": "2026-09-15",
+      "summary_zh": "今日GitHub热榜聚焦本地化AI与开源工具：纯C运行MoE大模型、阿里代码审查、本地语音克隆、群体智能预测及跨平台文件传输。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 29354,
+          "stars_today": 2776,
+          "description_zh": "VoiceStudio 是开源、完全本地的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
+        },
+        {
+          "rank": 2,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+          "language": "C",
+          "stars_total": 32202,
+          "stars_today": 2173,
+          "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小的引擎，庞大的模型。🐦"
+        },
+        {
+          "rank": 3,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 25966,
+          "stars_today": 1571,
+          "description_zh": "快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+        },
+        {
+          "rank": 4,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars_total": 6023,
+          "stars_today": 1130,
+          "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
+        },
+        {
+          "rank": 5,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "language": "JavaScript",
+          "stars_total": 66824,
+          "stars_today": 764,
+          "description_zh": "从 Anthropic 提取的系统提示词——Claude Fable 5.1、Opus 5、Claude Design、Claude Code。OpenAI——ChatGPT GPT-6-Astra、Codex。Google——Gemini 3.8 Flash、3.1 Pro、Antigravity。xAI——Grok、Grok Bot、Cursor、Kimi 等！定期更新。"
+        },
+        {
+          "rank": 6,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 106197,
+          "stars_today": 745,
+          "description_zh": "TradingAgents：多智能体 LLM 金融交易框架"
+        },
+        {
+          "rank": 7,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 81369,
+          "stars_today": 651,
+          "description_zh": "赋予你的 AI 智能体洞察整个互联网的眼睛。阅读并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
+        },
+        {
+          "rank": 8,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "language": "Python",
+          "stars_total": 4788,
+          "stars_today": 579,
+          "description_zh": "claude-red 是一个为 Claude 技能系统精心策划的攻防安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 注入针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
+        },
+        {
+          "rank": 9,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description_en": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars_total": 73221,
+          "stars_today": 560,
+          "description_zh": "简洁通用的群体智能引擎，预测万物"
+        },
+        {
+          "rank": 10,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars_total": 8410,
+          "stars_today": 559,
+          "description_zh": "YuE2：具备符号规划、零样本翻唱和智能体音乐编辑的前沿音乐生成。"
+        },
+        {
+          "rank": 11,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "language": "Python",
+          "stars_total": 166006,
+          "stars_today": 536,
+          "description_zh": "🤗 Transformers：用于文本、视觉、音频和多模态模型等最先进机器学习模型的模型定义框架，支持推理和训练。"
+        },
+        {
+          "rank": 12,
+          "name": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "language": "TypeScript",
+          "stars_total": 6086,
+          "stars_today": 512,
+          "description_zh": "面向专业 AI 编码智能体的安全、经过验证的技能注册中心。以绝对信心扩展 Antigravity、Claude Code、Cursor、Copilot 等。"
+        },
+        {
+          "rank": 13,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 93882,
+          "stars_today": 383,
+          "description_zh": "π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——无需任何视频像素。"
+        },
+        {
+          "rank": 14,
+          "name": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "description_en": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+          "language": "TypeScript",
+          "stars_total": 8371,
+          "stars_today": 280,
+          "description_zh": "一个用于可视化、灵活且可扩展的基于图的调查的现代平台。面向网络安全分析师和调查人员。"
+        },
+        {
+          "rank": 15,
+          "name": "localsend/localsend",
+          "url": "https://github.com/localsend/localsend",
+          "description_en": "An open-source cross-platform alternative to AirDrop",
+          "language": "Dart",
+          "stars_total": 91368,
+          "stars_today": 251,
+          "description_zh": "AirDrop 的开源跨平台替代方案"
+        },
+        {
+          "rank": 16,
+          "name": "peetzweg/opendisplay",
+          "url": "https://github.com/peetzweg/opendisplay",
+          "description_en": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+          "language": "Swift",
+          "stars_total": 3621,
+          "stars_today": 229,
+          "description_zh": "免费、开源的 Sidecar/Duet 替代方案——通过 USB 或 WiFi 将你的 iPhone 或 iPad 用作 Mac 的真正第二显示器。低延迟 H.264、Retina HiDPI、触摸输入。"
+        },
+        {
+          "rank": 17,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "language": "Python",
+          "stars_total": 37401,
+          "stars_today": 216,
+          "description_zh": "VoxCPM2：面向多语言语音生成、创意语音设计和逼真克隆的无分词器 TTS"
+        },
+        {
+          "rank": 18,
+          "name": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "description_en": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+          "language": "Rust",
+          "stars_total": 67544,
+          "stars_today": 115,
+          "description_zh": "用 Rust 编写的非官方 Bitwarden 兼容服务器，前身为 bitwarden_rs"
+        },
+        {
+          "rank": 19,
+          "name": "rlaope/oh-my-hermes",
+          "url": "https://github.com/rlaope/oh-my-hermes",
+          "description_en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+          "language": "Python",
+          "stars_total": 2093,
+          "stars_today": 77,
+          "description_zh": "Hermes Agent 的一体化插件 ⚚ 编码智能、长期记忆系统和模型优化工作流包"
+        },
+        {
+          "rank": 20,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description_en": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "language": "TypeScript",
+          "stars_total": 36935,
+          "stars_today": 40,
+          "description_zh": "Project NOMAD 是一个离线优先的知识与教育服务器。维基百科、数千本书籍、课程、地图以及可选的本地 AI，全部运行在您拥有的硬件上，无需互联网。"
+        }
+      ]
+    },
+    {
       "date": "2026-09-14",
       "summary_zh": "今日GitHub热榜聚焦本地化AI与开源替代：纯C跑MoE大模型、本地语音克隆、AI智能体联网工具，以及AirDrop和Bitwarden开源替代方案。",
       "projects": [
@@ -4991,82 +5197,6 @@
           "stars_total": 18916,
           "stars_today": 96,
           "description_zh": "适用于 Apple Silicon 的 LLM 推理服务器，支持连续批处理和 SSD 缓存——可通过 macOS 菜单栏管理。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-16",
-      "summary_zh": "今日GitHub热门项目聚焦AI模型训练与本地运行、开源视频剪辑替代方案、免费API集合、企业应用构建平台，以及面向微型设备的轻量级基础模型，展现多元技术生态。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "public-apis/public-apis",
-          "url": "https://github.com/public-apis/public-apis",
-          "description_en": "A collective list of free APIs",
-          "language": "Python",
-          "stars_total": 461349,
-          "stars_today": 1583,
-          "description_zh": "免费API的集合列表"
-        },
-        {
-          "rank": 2,
-          "name": "cordiverse/cordis",
-          "url": "https://github.com/cordiverse/cordis",
-          "description_en": "Meta-Framework of Spatiotemporal Composability",
-          "language": "TypeScript",
-          "stars_total": 4609,
-          "stars_today": 719,
-          "description_zh": "时空组合性的元框架"
-        },
-        {
-          "rank": 3,
-          "name": "unslothai/unsloth",
-          "url": "https://github.com/unslothai/unsloth",
-          "description_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-          "language": "Python",
-          "stars_total": 72424,
-          "stars_today": 580,
-          "description_zh": "本地UI，用于运行和训练LLM及扩散模型，包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等。"
-        },
-        {
-          "rank": 4,
-          "name": "cactus-compute/needle",
-          "url": "https://github.com/cactus-compute/needle",
-          "description_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-          "language": "Python",
-          "stars_total": 6445,
-          "stars_today": 447,
-          "description_zh": "适用于微型设备（手机、可穿戴设备、智能家居和机器人）的14MB基础模型。"
-        },
-        {
-          "rank": 5,
-          "name": "ToolJet/ToolJet",
-          "url": "https://github.com/ToolJet/ToolJet",
-          "description_en": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-          "language": "JavaScript",
-          "stars_total": 39881,
-          "stars_today": 446,
-          "description_zh": "ToolJet是ToolJet AI的开源基础——用于构建内部工具、仪表板、业务应用、工作流和AI代理的企业应用生成平台🚀"
-        },
-        {
-          "rank": 6,
-          "name": "basecamp/omarchy",
-          "url": "https://github.com/basecamp/omarchy",
-          "description_en": "Beautiful, Modern & Opinionated Linux",
-          "language": "Shell",
-          "stars_total": 25257,
-          "stars_today": 225,
-          "description_zh": "美观、现代且固执己见的Linux"
-        },
-        {
-          "rank": 7,
-          "name": "OpenCut-app/OpenCut",
-          "url": "https://github.com/OpenCut-app/OpenCut",
-          "description_en": "The open-source CapCut alternative",
-          "language": "TypeScript",
-          "stars_total": 83719,
-          "stars_today": 134,
-          "description_zh": "开源的CapCut替代品"
         }
       ]
     }
