@@ -2,147 +2,147 @@
   "days": [
     {
       "date": "2026-09-15",
-      "summary_zh": "今日GitHub热榜聚焦AI Agent与开源工具：代码审查、本地语音克隆、多Agent协作及自托管AI平台成亮点。",
+      "summary_zh": "今日GitHub热榜聚焦AI编程与本地化部署：代码审查、Agent协作、本地语音克隆及开源CRM等工具百花齐放。",
       "projects": [
         {
           "rank": 1,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 30099,
-          "stars_today": 2776,
-          "description_zh": "VoiceStudio 是开源、完全本地的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
-        },
-        {
-          "rank": 2,
-          "name": "JustVugg/colibri",
-          "url": "https://github.com/JustVugg/colibri",
-          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-          "language": "C",
-          "stars_total": 32947,
-          "stars_today": 2173,
-          "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小的引擎，庞大的模型。🐦"
-        },
-        {
-          "rank": 3,
           "name": "alibaba/open-code-review",
           "url": "https://github.com/alibaba/open-code-review",
           "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "stars_total": 26945,
-          "stars_today": 1571,
+          "stars_total": 27724,
+          "stars_today": 2751,
           "description_zh": "快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
         },
         {
+          "rank": 2,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 30492,
+          "stars_today": 2081,
+          "description_zh": "VoiceStudio 是开源、完全本地的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
+        },
+        {
+          "rank": 3,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+          "language": "C",
+          "stars_total": 33309,
+          "stars_today": 2035,
+          "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小的引擎，庞大的模型。🐦"
+        },
+        {
           "rank": 4,
-          "name": "ever-co/ever-gauzy",
-          "url": "https://github.com/ever-co/ever-gauzy",
-          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-          "language": "TypeScript",
-          "stars_total": 6249,
-          "stars_today": 1130,
-          "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
-        },
-        {
-          "rank": 5,
-          "name": "pacifio/atlas",
-          "url": "https://github.com/pacifio/atlas",
-          "description_en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-          "language": "Rust",
-          "stars_total": 4445,
-          "stars_today": 1091,
-          "description_zh": "面向智能体的源代码管理。使用多个编码智能体，追踪它们的更改并在一处查询"
-        },
-        {
-          "rank": 6,
-          "name": "tonhowtf/omniget",
-          "url": "https://github.com/tonhowtf/omniget",
-          "description_en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-          "language": "Rust",
-          "stars_total": 12376,
-          "stars_today": 1018,
-          "description_zh": "下载 Udemy 和 Hotmart 课程、YouTube 视频、音乐和书籍——支持 1,800+ 网站，无需终端。免费开源桌面应用，适用于 Windows、macOS 和 Linux，内置课程播放器、PDF/EPUB 阅读器和音乐库。由 yt-dlp 驱动。你的文件保留在你自己的电脑上。"
-        },
-        {
-          "rank": 7,
           "name": "NationalSecurityAgency/ghidra",
           "url": "https://github.com/NationalSecurityAgency/ghidra",
           "description_en": "Ghidra is a software reverse engineering (SRE) framework",
           "language": "Java",
-          "stars_total": 76199,
-          "stars_today": 700,
+          "stars_total": 76458,
+          "stars_today": 755,
           "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars_total": 6401,
+          "stars_today": 632,
+          "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
+        },
+        {
+          "rank": 6,
           "name": "alphaXiv/OpenResearch",
           "url": "https://github.com/alphaXiv/OpenResearch",
           "description_en": "Turn your coding agents into research agents",
           "language": "Rust",
-          "stars_total": 2835,
-          "stars_today": 568,
+          "stars_total": 3066,
+          "stars_today": 593,
           "description_zh": "将你的编码智能体转变为研究智能体"
         },
         {
-          "rank": 9,
+          "rank": 7,
           "name": "earendil-works/pi",
           "url": "https://github.com/earendil-works/pi",
           "description_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
           "language": "TypeScript",
-          "stars_total": 105376,
+          "stars_total": 105535,
           "stars_today": 437,
           "description_zh": "AI 智能体工具包：统一的 LLM API、智能体循环、TUI、编码智能体 CLI"
         },
         {
-          "rank": 10,
-          "name": "melgarafael/DeskcommCRM",
-          "url": "https://github.com/melgarafael/DeskcommCRM",
-          "description_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-          "language": "TypeScript",
-          "stars_total": 2576,
-          "stars_today": 408,
-          "description_zh": "开源 AI 销售操作系统——自托管 CRM，内置原生 AI 智能体 + WhatsApp（WAHA）。面向所有通过聊天进行销售的企业，是 Kommo、Octadesk 和 Intercom 的开放替代方案。支持 MCP、多租户、符合 LGPD。"
-        },
-        {
-          "rank": 11,
+          "rank": 8,
           "name": "Homebrew/BrewUI",
           "url": "https://github.com/Homebrew/BrewUI",
           "description_en": "📺 Homebrew's official macOS GUI",
           "language": "Swift",
-          "stars_total": 1002,
+          "stars_total": 1163,
           "stars_today": 388,
           "description_zh": "📺 Homebrew 官方 macOS 图形界面"
         },
         {
-          "rank": 12,
+          "rank": 9,
           "name": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 94464,
+          "stars_total": 94594,
           "stars_today": 354,
           "description_zh": "面向 AI 编码智能体的生产级工程技能。"
         },
         {
-          "rank": 13,
+          "rank": 10,
+          "name": "tonhowtf/omniget",
+          "url": "https://github.com/tonhowtf/omniget",
+          "description_en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+          "language": "Rust",
+          "stars_total": 12606,
+          "stars_today": 318,
+          "description_zh": "下载 Udemy 和 Hotmart 课程、YouTube 视频、音乐和书籍——支持 1,800+ 网站，无需终端。免费开源桌面应用，适用于 Windows、macOS 和 Linux，内置课程播放器、PDF/EPUB 阅读器和音乐库。由 yt-dlp 驱动。你的文件保留在你自己的电脑上。"
+        },
+        {
+          "rank": 11,
           "name": "danny-avila/LibreChat",
           "url": "https://github.com/danny-avila/LibreChat",
           "description_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
           "language": "TypeScript",
-          "stars_total": 43604,
-          "stars_today": 286,
+          "stars_total": 43688,
+          "stars_today": 261,
           "description_zh": "增强版 ChatGPT 克隆：具备智能体、MCP、技能、DeepSeek、Anthropic、AWS、OpenAI、Responses API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini、Artifacts、AI 模型切换、消息搜索、代码解释器、langchain、DALL-E-3、OpenAPI Actions、Functions、安全多用户认证、预设，开源可自托管。活跃"
         },
         {
-          "rank": 14,
+          "rank": 12,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "language": "TypeScript",
+          "stars_total": 2672,
+          "stars_today": 205,
+          "description_zh": "开源 AI 销售操作系统——自托管 CRM，内置原生 AI 智能体 + WhatsApp（WAHA）。面向所有通过聊天进行销售的企业，是 Kommo、Octadesk 和 Intercom 的开放替代方案。支持 MCP、多租户、符合 LGPD。"
+        },
+        {
+          "rank": 13,
           "name": "MG1937/ASC",
           "url": "https://github.com/MG1937/ASC",
           "description_en": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
           "language": "Python",
-          "stars_total": 996,
+          "stars_total": 1064,
           "stars_today": 122,
           "description_zh": "ASC 是一款超高速的 Android 反编译前端，专为智能体/移动研究人员设计。"
+        },
+        {
+          "rank": 14,
+          "name": "pacifio/atlas",
+          "url": "https://github.com/pacifio/atlas",
+          "description_en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+          "language": "Rust",
+          "stars_total": 4513,
+          "stars_today": 102,
+          "description_zh": "面向智能体的源代码管理。使用多个编码智能体，追踪它们的更改并在一处查询"
         }
       ]
     },
