@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-16",
-      "summary_zh": "今日GitHub热榜聚焦AI代码审查与安全审计工具，以及轻量级本地大模型运行方案，开发者工具生态持续活跃。",
+      "summary_zh": "今日GitHub热榜聚焦AI代码审查、安全审计与本地大模型部署，阿里开源混合架构审查工具，Colibri实现纯C运行MoE模型。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/alibaba/open-code-review",
           "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "stars_total": 30945,
+          "stars_total": 31486,
           "stars_today": 3215,
           "description_zh": "快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/JustVugg/colibri",
           "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
           "language": "C",
-          "stars_total": 34729,
+          "stars_total": 34902,
           "stars_today": 1532,
           "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小引擎，庞大模型。🐦"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 6146,
+          "stars_total": 6793,
           "stars_today": 1249,
           "description_zh": "一个用于多阶段安全审计的编码代理技能，具有独立验证的、机器可读的发现结果"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/Tencent/WeKnora",
           "description_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
           "language": "Go",
-          "stars_total": 25015,
+          "stars_total": 25159,
           "stars_today": 1201,
           "description_zh": "开源 LLM 知识平台：将原始文档转化为可查询的 RAG、自主推理代理和自我维护的 Wiki。"
         },
@@ -50,8 +50,8 @@
           "url": "https://github.com/abue-ammar/tinycast",
           "description_en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
           "language": "Swift",
-          "stars_total": 5374,
-          "stars_today": 1076,
+          "stars_total": 5505,
+          "stars_today": 1136,
           "description_zh": "Tinycast —— 一个小巧的、完全原生的 macOS 启动器、热键和剪贴板历史记录工具。"
         },
         {
@@ -60,7 +60,7 @@
           "url": "https://github.com/NationalSecurityAgency/ghidra",
           "description_en": "Ghidra is a software reverse engineering (SRE) framework",
           "language": "Java",
-          "stars_total": 77486,
+          "stars_total": 77665,
           "stars_today": 1059,
           "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 259857,
+          "stars_total": 260083,
           "stars_today": 1046,
           "description_zh": "代理框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全性和研究优先的开发。"
         },
@@ -80,69 +80,69 @@
           "url": "https://github.com/alphaXiv/OpenResearch",
           "description_en": "Turn your coding agents into research agents",
           "language": "Rust",
-          "stars_total": 4104,
+          "stars_total": 4263,
           "stars_today": 1036,
           "description_zh": "将您的编码代理转变为研究代理"
         },
         {
           "rank": 9,
-          "name": "Lakr233/vphone-cli",
-          "url": "https://github.com/Lakr233/vphone-cli",
-          "description_en": "",
-          "language": "Swift",
-          "stars_total": 13227,
-          "stars_today": 907,
-          "description_zh": ""
-        },
-        {
-          "rank": 10,
           "name": "ever-co/ever-gauzy",
           "url": "https://github.com/ever-co/ever-gauzy",
           "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
           "language": "TypeScript",
-          "stars_total": 7123,
+          "stars_total": 7222,
           "stars_today": 771,
           "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
         },
         {
-          "rank": 11,
-          "name": "multimodal-art-projection/YuE",
-          "url": "https://github.com/multimodal-art-projection/YuE",
-          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-          "language": "Python",
-          "stars_total": 9233,
-          "stars_today": 701,
-          "description_zh": "YuE2：具有符号规划、零样本翻唱和代理式音乐编辑的前沿音乐生成。"
-        },
-        {
-          "rank": 12,
-          "name": "SnailSploit/Claude-Red",
-          "url": "https://github.com/SnailSploit/Claude-Red",
-          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-          "language": "Python",
-          "stars_total": 5609,
-          "stars_today": 699,
-          "description_zh": "claude-red 是一个为 Claude 技能系统精心策划的进攻性安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
-        },
-        {
-          "rank": 13,
+          "rank": 10,
           "name": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 95209,
+          "stars_total": 95302,
           "stars_today": 656,
           "description_zh": "面向 AI 编码代理的生产级工程技能。"
         },
         {
-          "rank": 14,
+          "rank": 11,
+          "name": "Lakr233/vphone-cli",
+          "url": "https://github.com/Lakr233/vphone-cli",
+          "description_en": "",
+          "language": "Swift",
+          "stars_total": 13293,
+          "stars_today": 444,
+          "description_zh": ""
+        },
+        {
+          "rank": 12,
           "name": "jamiepine/voicebox",
           "url": "https://github.com/jamiepine/voicebox",
           "description_en": "The open-source AI voice studio. Clone, dictate, create.",
           "language": "TypeScript",
-          "stars_total": 54176,
+          "stars_total": 54273,
           "stars_today": 409,
           "description_zh": "开源 AI 语音工作室。克隆、听写、创作。"
+        },
+        {
+          "rank": 13,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "language": "Python",
+          "stars_total": 5713,
+          "stars_today": 383,
+          "description_zh": "claude-red 是一个为 Claude 技能系统精心策划的进攻性安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
+        },
+        {
+          "rank": 14,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars_total": 9303,
+          "stars_today": 370,
+          "description_zh": "YuE2：具有符号规划、零样本翻唱和代理式音乐编辑的前沿音乐生成。"
         },
         {
           "rank": 15,
@@ -150,8 +150,8 @@
           "url": "https://github.com/roboflow/supervision",
           "description_en": "We write your reusable computer vision tools. 💜",
           "language": "Python",
-          "stars_total": 50483,
-          "stars_today": 217,
+          "stars_total": 50545,
+          "stars_today": 292,
           "description_zh": "我们为你编写可复用的计算机视觉工具。💜"
         },
         {
@@ -160,7 +160,7 @@
           "url": "https://github.com/anthropics/claude-code",
           "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "TypeScript",
-          "stars_total": 145323,
+          "stars_total": 145404,
           "stars_today": 155,
           "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编写代码。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/supabase/supabase",
           "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
           "language": "TypeScript",
-          "stars_total": 109481,
+          "stars_total": 109584,
           "stars_today": 118,
           "description_zh": "Postgres 开发平台。Supabase 为你提供一个专用的 Postgres 数据库，用于构建你的 Web、移动和 AI 应用程序。"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/cline/cline",
           "description_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
           "language": "TypeScript",
-          "stars_total": 68212,
+          "stars_total": 68276,
           "stars_today": 102,
           "description_zh": "作为 SDK、IDE 扩展或 CLI 助手的自主编码代理。"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 24193,
+          "stars_total": 24247,
           "stars_today": 96,
           "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
         },
@@ -200,7 +200,7 @@
           "url": "https://github.com/rlaope/oh-my-hermes",
           "description_en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
           "language": "Python",
-          "stars_total": 2456,
+          "stars_total": 2502,
           "stars_today": 74,
           "description_zh": "Hermes Agent 的一体化插件 ⚚ 编码智能、长期记忆系统和模型优化的工作流包"
         },
@@ -210,7 +210,7 @@
           "url": "https://github.com/ankitects/anki",
           "description_en": "Anki is a smart spaced repetition flashcard program",
           "language": "Rust",
-          "stars_total": 30689,
+          "stars_total": 30760,
           "stars_today": 50,
           "description_zh": "Anki 是一款智能间隔重复闪卡程序"
         }
