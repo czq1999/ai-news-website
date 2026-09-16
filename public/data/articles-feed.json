@@ -1,5 +1,60 @@
 [
   {
+    "id": "11aae4042d02a2051457ad4dedfaa5ae",
+    "title_en": "The Boox Palma 3 gets stylus support and a sleek redesign",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+    "published_at": "2026-09-16T02:00:00.000Z",
+    "fetched_at": "2026-09-16T02:26:34.653Z",
+    "title_zh": "Boox Palma 3新增手写笔支持并采用全新时尚设计",
+    "summary_zh": "文石Boox推出Palma 3电子阅读器，新增手写笔支持功能，并进行了外观重新设计，整体更加轻薄时尚。作为一款便携式墨水屏设备，Palma 3在保持阅读体验的同时拓展了笔记和标注等使用场景，进一步丰富了小尺寸电子纸产品的功能定位，面向追求便携与多功能兼顾的用户群体。",
+    "category": "product"
+  },
+  {
+    "id": "9772b9b2c2d61f7e3c97c46fc96c87b1",
+    "title_en": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+    "published_at": "2026-09-16T01:00:00.000Z",
+    "fetched_at": "2026-09-16T02:26:34.653Z",
+    "title_zh": "佳能EOS R8 Mark II成为其最轻的全画幅防抖相机",
+    "summary_zh": "佳能发布EOS R8 Mark II，号称品牌旗下最轻的全画幅相机，并首次在该系列中内置机身防抖功能。新机型在保持轻便机身的同时提升了拍摄稳定性，适合旅行、街拍等需要便携性的场景。此举显示佳能正在将高端功能下放到更轻量的全画幅产品线中，以增强市场竞争力。",
+    "category": "product"
+  },
+  {
+    "id": "d3969120a6c5a18299a7193964b5f2ca",
+    "title_en": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "published_at": "2026-09-16T00:20:39.000Z",
+    "fetched_at": "2026-09-16T02:26:34.555Z",
+    "title_zh": "英伟达黄仁勋：我们不需要AI监管，把安全交给我们",
+    "summary_zh": "英伟达CEO黄仁勋公开表示反对对AI行业施加外部监管，认为企业自身有能力保障AI安全，呼吁将安全责任交由行业内部处理。此番言论引发广泛讨论，支持者认为过度监管会拖慢创新步伐，批评者则担忧缺乏外部监督可能导致AI风险失控，尤其是在AI能力快速提升的背景下，行业自律是否足够成为争议焦点。",
+    "category": "industry"
+  },
+  {
+    "id": "066a2ef821973007a6fd1b74a7174bbe",
+    "title_en": "AI and data centers are incredibly unpopular in every poll",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "published_at": "2026-09-15T23:34:25.000Z",
+    "fetched_at": "2026-09-16T02:26:34.653Z",
+    "title_zh": "所有民调都显示：AI和数据中心极不受欢迎",
+    "summary_zh": "多项民意调查一致显示，公众对AI技术和数据中心的态度日趋负面。无论是AI对就业的冲击、数据隐私担忧，还是数据中心带来的能源消耗和社区影响，都让民众对科技行业的扩张产生抵触情绪。文章指出，这种普遍的负面情绪可能对AI产业的长期发展和政策环境构成重大挑战，科技公司需要正视公众关切。",
+    "category": "industry"
+  },
+  {
+    "id": "e1a256641fe2be55fd07eea903a71944",
+    "title_en": "The AI data center boom is colliding with cities scarred by big industry ",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "published_at": "2026-09-15T21:47:38.000Z",
+    "fetched_at": "2026-09-16T02:26:34.556Z",
+    "title_zh": "AI数据中心热潮与饱受重工业创伤的城市正面碰撞",
+    "summary_zh": "随着AI算力需求激增，数据中心建设加速扩张，却与曾受重工业污染困扰的城市社区产生矛盾。这些社区居民对大型工业设施心存警惕，担忧数据中心带来的噪音、能耗和水资源消耗等问题。文章探讨了AI基础设施建设与地方社区利益之间的紧张关系，以及科技公司如何应对日益增长的公众反对声音。",
+    "category": "industry"
+  },
+  {
     "id": "a7fbe6c2b021dbc8daf6a58f4549ddb9",
     "title_en": "Microsoft announces Windows and Surface event for October 7th",
     "source": "The Verge",
@@ -482,6 +537,116 @@
     "title_zh": "沃尔沃插电混动XC60和XC90续航表现确实出色",
     "summary_zh": "沃尔沃旗下插电式混合动力车型XC60和XC90在实测中展现出优秀的续航能力，纯电模式下的行驶里程足以满足日常通勤需求，综合续航表现也令人满意。评测指出，这两款车型在动力输出、燃油经济性和驾驶体验之间取得了良好平衡，适合希望过渡到电动化出行但仍有里程焦虑的消费者。沃尔沃在插混技术上的持续优化，使其在豪华SUV市场中保持了较强竞争力。",
     "category": "product"
+  },
+  {
+    "id": "0e53e806c04661e41c0637d70d4c58d0",
+    "title_en": "Elon Musk Says Optimus Robots Will Ship to Customers in 2027 — Here's What That Could Mean for Tesla",
+    "source": "Ibtimes.com.au",
+    "url": "https://www.ibtimes.com.au/tesla-optimus-commercial-shipments-2027-1875539",
+    "published_at": "2026-09-15T02:18:19Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "马斯克称Optimus机器人将于2027年交付客户，这对特斯拉意味着什么",
+    "summary_zh": "据Ibtimes报道，马斯克表示特斯拉的人形机器人Optimus将于2027年开始向客户交付。若计划落地，Optimus有望成为特斯拉继电动车与储能之后的又一增长曲线，但也面临量产、成本与技术成熟度的挑战。分析认为，该业务能否成功将影响特斯拉的估值逻辑与在AI机器人领域的竞争地位。",
+    "category": "product"
+  },
+  {
+    "id": "d7d5a507836af8dccc35731a15b6c1ba",
+    "title_en": "Sick conspiracy against AI, data centres: Trump calls AI risks a 'hoax'",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/sick-conspiracy-against-ai-data-centres-trump-calls-ai-risks-a-hoax-126091500050_1.html",
+    "published_at": "2026-09-15T02:15:43Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "针对AI与数据中心的“病态阴谋”：特朗普称AI风险是“骗局”",
+    "summary_zh": "据Business Standard报道，特朗普将针对AI及数据中心的担忧称为“病态阴谋”，并称AI风险是“骗局”。此番言论与当前多国加强AI安全监管的趋势形成鲜明对比，可能影响美国未来AI政策走向。支持者认为过度监管会削弱创新，批评者则担忧忽视风险将导致安全隐患与社会问题加剧。",
+    "category": "industry"
+  },
+  {
+    "id": "53dcc042972d68e10e726545172127cf",
+    "title_en": "India-hosted BRICS Summit Steers Clear of Contentious Moves",
+    "source": "The Diplomat",
+    "url": "https://thediplomat.com/2026/09/india-hosted-brics-summit-steers-clear-of-contentious-moves/",
+    "published_at": "2026-09-15T02:15:00Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "印度主办的BRICS峰会回避争议性议题",
+    "summary_zh": "据The Diplomat报道，印度主办的BRICS峰会刻意回避了多项争议性议题，力求在扩员后的复杂格局中维持团结。会议聚焦经济合作与全球治理改革，但在AI治理、地缘冲突等敏感话题上措辞谨慎。分析认为，这反映出成员国间分歧加大，印度作为东道主更倾向于务实成果而非激化矛盾。",
+    "category": "industry"
+  },
+  {
+    "id": "1d7dec4bd48ca14e9ada5daa7fd7e90d",
+    "title_en": "US-China Strategic AI Dialogue (SAID) Proposal",
+    "source": "Sinocism.com",
+    "url": "https://sinocism.com/p/us-china-strategic-ai-dialogue-said",
+    "published_at": "2026-09-15T02:14:04Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "美中战略AI对话（SAID）提案",
+    "summary_zh": "据Sinocism报道，有提案建议建立美中战略AI对话（SAID）机制，为两国在人工智能安全、标准与风险管控等议题上提供常态化沟通渠道。支持者认为，鉴于AI的全球性影响，美中作为主要大国需避免误判与失控竞争。但该提案能否落地仍取决于政治意愿与双边关系走向。",
+    "category": "industry"
+  },
+  {
+    "id": "047ff6d72da43aa4496f8704d6d45114",
+    "title_en": "Amazon Now’s sales surge; govt’s stance on UPI charges",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/amazon-nows-sales-surge-govts-stance-on-upi-charges/articleshow/134250122.cms",
+    "published_at": "2026-09-15T02:12:22Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "Amazon Now销售激增；政府对UPI收费表态",
+    "summary_zh": "据《印度时报》报道，亚马逊旗下即时零售服务Amazon Now销售大幅增长，显示印度快商务市场竞争加剧。同时，印度政府对UPI支付是否收费作出表态，引发金融科技行业关注。两则消息反映出印度数字消费与支付生态的快速演变，政策走向将影响电商与支付平台的成本结构与扩张策略。",
+    "category": "industry"
+  },
+  {
+    "id": "f21d9f21a7afd376928366e97f20bd4d",
+    "title_en": "OpenAI reportedly acquires AI camera startup Glass Imaging for more than US$300M",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260915VL203/openai-camera-startup-acquisition.html",
+    "published_at": "2026-09-15T02:11:31Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "OpenAI据报以逾3亿美元收购AI相机初创公司Glass Imaging",
+    "summary_zh": "据Digitimes报道，OpenAI据称以超过3亿美元收购AI相机初创公司Glass Imaging。后者专注于计算摄影与图像增强技术，此举可能强化OpenAI在多模态与视觉能力上的布局。分析认为，收购反映出OpenAI正加速整合硬件与影像技术，以拓展AI在消费级与企业级场景中的应用。",
+    "category": "industry"
+  },
+  {
+    "id": "7d8f186904c13f62ba9d00e63937aba9",
+    "title_en": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+    "published_at": "2026-09-15T02:01:22Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "中国8月零售销售不及预期，投资下滑加深，令北京承压",
+    "summary_zh": "据CNBC报道，中国8月零售销售增速低于预期，投资下滑进一步加深，显示内需疲软与房地产拖累仍在持续。数据加大了北京出台更多刺激政策的压力。分析认为，若消费与投资未能企稳，全年增长目标面临挑战，政策组合可能转向更积极的财政与货币宽松措施。",
+    "category": "industry"
+  },
+  {
+    "id": "f7f8c2d9809c34ca338fc55fb657e145",
+    "title_en": "Trump slams AI guardrails, calls it a 'sick conspiracy'",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/us/trump-slams-ai-guardrails-calls-it-a-sick-conspiracy/articleshow/134250028.cms",
+    "published_at": "2026-09-15T01:59:22Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "特朗普抨击AI护栏，称其为“病态阴谋”",
+    "summary_zh": "据《印度时报》报道，特朗普公开抨击AI安全护栏，称相关担忧是“病态阴谋”。此番言论可能影响美国AI监管方向，并加剧围绕创新与安全之间平衡的争论。支持者认为过度限制会阻碍技术领先，反对者则警告忽视风险可能导致滥用与失控，政策不确定性或将影响企业投资与合规策略。",
+    "category": "industry"
+  },
+  {
+    "id": "49f07f95fe5bbbeb20357d176a3ec6d7",
+    "title_en": "Nuance Labs bags $50M in funding to fix the awkwardness of AI avatars",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/09/14/nuance-labs-bags-50m-in-funding-to-fix-the-awkwardness-of-ai-avatars/",
+    "published_at": "2026-09-15T01:56:06Z",
+    "fetched_at": "2026-09-16T02:26:35.516Z",
+    "title_zh": "Nuance Labs 获 5000 万美元融资，致力于解决 AI 虚拟形象的尴尬感",
+    "summary_zh": "AI 初创公司 Nuance Labs 宣布完成 5000 万美元融资，资金将用于优化 AI 虚拟形象（avatar）的交互体验，解决当前数字人在对话和表情中常见的生硬与尴尬问题。该公司计划通过改进语音、表情和肢体语言的自然度，让 AI 虚拟人更具亲和力和真实感，从而推动其在客服、教育、娱乐等场景中的落地应用。",
+    "category": "industry"
+  },
+  {
+    "id": "dc30dece1925311f7eadce12e171e84d",
+    "title_en": "Top Business & Market Headlines Today — BL Morning Report, September 15, 2026",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/multimedia/audio/top-business-amp-market-headlines-today-bl-morning-report-september-15-2026/article71465975.ece",
+    "published_at": "2026-09-15T01:55:22Z",
+    "fetched_at": "2026-09-16T02:26:35.517Z",
+    "title_zh": "今日商业与市场头条——BL 晨报，2026 年 9 月 15 日",
+    "summary_zh": "《商业线报》（BusinessLine）发布 2026 年 9 月 15 日晨间商业与市场头条汇总，涵盖全球及印度市场的主要财经动态、企业新闻和宏观经济走势。该晨报为读者提供当日值得关注的商业要闻速览，帮助投资者和从业者快速把握市场脉搏与行业趋势。",
+    "category": "industry"
   },
   {
     "id": "f177f3c8f70a73004c56b80bb70982d4",
@@ -5333,170 +5498,5 @@
     "title_zh": "爆火AI助手Instinct现已拥有专属邮箱地址",
     "summary_zh": "近期走红的AI助手Instinct迎来新功能，用户现在可以通过电子邮件与其互动。此举旨在拓宽访问渠道，让不习惯使用聊天界面的用户也能轻松使用。该功能或将改变AI助手的交互模式，进一步推动其普及，但邮件交互的实时性和安全性也引发讨论。",
     "category": "product"
-  },
-  {
-    "id": "5d43b90606a6d0b350a33b3e4b7fdf00",
-    "title_en": "Musk: AI, robots 'will more than double' global GDP in 10 years",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/708aacca429be7ff",
-    "published_at": "2026-09-09T15:12:48Z",
-    "fetched_at": "2026-09-10T15:30:50.954Z",
-    "title_zh": "马斯克：AI与机器人将在十年内使全球GDP“翻倍以上”",
-    "summary_zh": "马斯克在公开场合预测，人工智能与机器人技术将在未来十年内使全球GDP增长一倍以上。他认为，AI驱动的自动化将大幅提升生产效率，机器人大规模应用将重塑制造、物流与服务行业。不过，这一乐观预测也引发质疑，经济学家指出GDP增长受制度、分配与需求等多重因素制约，技术红利能否普惠仍取决于政策与社会选择。",
-    "category": "industry"
-  },
-  {
-    "id": "1dcd4d859a0f4e80afd0ab4318cefbc3",
-    "title_en": "If Alien Civilizations Use Hyper-Efficient Computers, They Will Have A Distinct Energy Signal We Can Detect",
-    "source": "Universe Today",
-    "url": "https://www.universetoday.com/articles/if-alien-civilizations-use-hyper-efficient-computers-they-will-have-a-distinct-energy-signal-we-can",
-    "published_at": "2026-09-09T15:11:07Z",
-    "fetched_at": "2026-09-10T15:30:50.954Z",
-    "title_zh": "若外星文明使用超高效计算机，将产生可探测的独特能量信号",
-    "summary_zh": "一项研究提出，如果外星文明建造了超高效的计算机，其运行过程中会产生独特的能量信号，例如废热辐射或特定频谱特征，人类或许可以通过天文观测探测到。该研究将计算能力与热力学极限联系起来，为搜寻地外文明提供了新思路。科学家认为，这种“计算信号”可能比传统无线电信号更难伪装，或成为寻找先进文明的重要线索。",
-    "category": "research"
-  },
-  {
-    "id": "59bafe237606b5206be76531b2c90035",
-    "title_en": "Top Nvidia researcher’s family make bombshell intervention days before his cremation, claims he did not commit suicide",
-    "source": "New York Post",
-    "url": "https://nypost.com/2026/09/09/us-news/top-ai-researchers-family-seeks-to-halt-cremation-after-alleged-norcal-suicide/",
-    "published_at": "2026-09-09T15:08:48Z",
-    "fetched_at": "2026-09-10T15:30:50.954Z",
-    "title_zh": "英伟达顶尖研究员火化前数日，家属重磅发声：称其并非自杀",
-    "summary_zh": "英伟达一名顶尖研究员的家属在其火化前数日公开提出质疑，声称他并非自杀。此案引发科技界广泛关注，家属要求进一步调查死因。报道未披露更多技术细节，但事件涉及知名AI芯片公司员工，因而在行业内引起讨论。目前相关方面尚未公布完整调查结论，家属的介入可能推动案件重新审视。",
-    "category": "industry"
-  },
-  {
-    "id": "e31f920d2a4d8c95011af88c29735b32",
-    "title_en": "Gal Gadot Says She’s ‘Trying to Navigate’ AI and Hollywood ‘The Best Way I Can’",
-    "source": "TODAY",
-    "url": "https://www.today.com/popculture/movies/gal-gadot-defends-bitcoin-movie-ai-use-rcna596787",
-    "published_at": "2026-09-09T15:08:25Z",
-    "fetched_at": "2026-09-10T15:30:50.954Z",
-    "title_zh": "盖尔·加朵称她正“尽力驾驭”AI与好莱坞的关系",
-    "summary_zh": "演员盖尔·加朵在接受采访时表示，她正在“尽力驾驭”人工智能与好莱坞之间的关系。她谈到AI对表演、制作与版权带来的冲击，认为行业需要在拥抱新技术与保护创作者权益之间找到平衡。加朵的言论反映了演艺界对AI既好奇又警惕的普遍心态，也呼应了近期编剧与演员工会就AI使用展开的谈判与争议。",
-    "category": "industry"
-  },
-  {
-    "id": "eae6ac6986015ee5ba046c3869673c34",
-    "title_en": "AI Is Changing How Consumers Find Local Businesses -- Is Your Business Being Recommended?",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/ai-is-changing-how-consumers-find-local-businesses--is-your-business-being-recommended-302872662.html",
-    "published_at": "2026-09-09T15:03:00Z",
-    "fetched_at": "2026-09-10T15:30:50.954Z",
-    "title_zh": "AI正在改变消费者寻找本地商家的方式——你的企业被推荐了吗？",
-    "summary_zh": "文章指出，AI正在改变消费者发现本地商家的方式。越来越多用户通过AI助手、聊天机器人与智能推荐获取餐厅、维修、医疗等服务信息，传统搜索引擎与广告模式受到冲击。企业若希望在AI推荐中获得曝光，需要优化线上信息、评价与结构化数据，并关注AI平台的内容抓取与排序逻辑。否则，即使服务优质，也可能在AI时代被消费者忽略。",
-    "category": "product"
-  },
-  {
-    "id": "933707b7bf1f8a753ef63d35a0415123",
-    "title_en": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "published_at": "2026-09-09T15:02:47.000Z",
-    "fetched_at": "2026-09-09T15:35:02.258Z",
-    "title_zh": "“拿生命赌博”：Anthropic研究员辞职，警告自我改进AI风险",
-    "summary_zh": "Anthropic一位研究员因担忧自我改进型AI的潜在风险而辞职，并发出严厉警告，称此类技术发展如同“拿生命赌博”。该事件凸显了AI安全领域内部的分歧，也再次引发业界对AI失控风险的激烈辩论，为高速发展的AI行业敲响警钟。",
-    "category": "industry"
-  },
-  {
-    "id": "12c5bc180117c808ee6390f654d254e1",
-    "title_en": "Shipt becomes the latest delivery app with an AI shopping assistant",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-    "published_at": "2026-09-09T14:51:45.000Z",
-    "fetched_at": "2026-09-09T15:35:02.258Z",
-    "title_zh": "Shipt成为最新推出AI购物助手的配送应用",
-    "summary_zh": "配送平台Shipt宣布推出AI购物助手，旨在帮助用户更高效地挑选商品和规划订单。该助手能够理解自然语言查询，提供个性化推荐，并简化购物流程。此举标志着AI在电商配送领域的应用进一步深化，各大平台正竞相通过智能化提升用户体验和运营效率。",
-    "category": "product"
-  },
-  {
-    "id": "29f7fb110a449de6b866c6d3b7046765",
-    "title_en": "The Switch 2 is getting a 2D Metroid called Ravenous",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous",
-    "published_at": "2026-09-09T14:46:50.000Z",
-    "fetched_at": "2026-09-09T15:35:02.484Z",
-    "title_zh": "Switch 2将推出2D银河战士新作《Ravenous》",
-    "summary_zh": "任天堂在最新直面会上宣布，备受期待的Switch 2平台将迎来一款全新的2D《银河战士》游戏《Ravenous》。该作被视为系列经典玩法的延续与革新，将充分利用新主机性能。此消息令众多系列粉丝兴奋不已，被视为Switch 2游戏阵容的重要补充。",
-    "category": "product"
-  },
-  {
-    "id": "231f62340bc2f618094a2d13d7dd010c",
-    "title_en": "I spent an hour riding inside Tesla’s steering-wheel-free Cybercab",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin",
-    "published_at": "2026-09-09T14:41:07.000Z",
-    "fetched_at": "2026-09-09T15:35:02.484Z",
-    "title_zh": "我体验了一小时特斯拉无方向盘Cybercab",
-    "summary_zh": "记者亲身体验了特斯拉最新发布的无人驾驶出租车Cybercab，进行了长达一小时的乘坐测试。车辆完全取消了方向盘和踏板，依靠全自动驾驶系统运行。体验报告详细描述了其乘坐感受、内部设计以及自动驾驶表现，为外界了解这款未来主义车型提供了第一手资料。",
-    "category": "product"
-  },
-  {
-    "id": "62572329f3b5b652fcb22106d7a410bb",
-    "title_en": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-    "published_at": "2026-09-09T14:18:34.000Z",
-    "fetched_at": "2026-09-09T15:35:02.258Z",
-    "title_zh": "8月顶级公司人均AI支出骤降——是夏季低迷还是警示信号？",
-    "summary_zh": "最新数据显示，8月份顶级科技公司的人均AI支出出现显著下滑。分析人士对此解读不一：有人认为这仅是季节性波动，即“夏季低迷”；但也有人担忧这可能是AI投资热潮降温的早期信号，预示着市场对AI回报率的预期正在趋于理性，企业支出将更加谨慎。",
-    "category": "industry"
-  },
-  {
-    "id": "68ae270242f1c2169d8927241bff5d62",
-    "title_en": "My favorite gaming earbuds got their first discount",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale",
-    "published_at": "2026-09-09T13:53:03.000Z",
-    "fetched_at": "2026-09-09T15:35:02.484Z",
-    "title_zh": "我最喜欢的游戏耳机迎来首次降价",
-    "summary_zh": "一款备受好评的游戏耳机近日迎来了上市以来的首次折扣。该耳机以其出色的音质、低延迟连接和舒适的佩戴体验而著称，是众多游戏玩家的首选。此次降价为观望已久的消费者提供了绝佳的入手机会，性价比优势更加凸显。",
-    "category": "product"
-  },
-  {
-    "id": "0782bf2bf0326b2ec1718232c21aff3e",
-    "title_en": "Nintendo Direct September 2026: The biggest news and trailers",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements",
-    "published_at": "2026-09-09T13:50:00.000Z",
-    "fetched_at": "2026-09-09T15:35:02.484Z",
-    "title_zh": "任天堂直面会2026年9月：重大新闻与预告汇总",
-    "summary_zh": "任天堂于2026年9月举办直面会，公布了大量新游戏情报。本次发布会重点展示了Switch 2的后续游戏阵容，包括备受期待的《银河战士》新作等。此外，还有多款第三方大作和独立游戏亮相。本文汇总了本次直面会的所有重大新闻和精彩预告片。",
-    "category": "product"
-  },
-  {
-    "id": "5a65b43fd6ea7ae33939eb4225a7e09f",
-    "title_en": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-    "published_at": "2026-09-09T13:00:00.000Z",
-    "fetched_at": "2026-09-09T15:35:02.259Z",
-    "title_zh": "红杉资本加码Cymphony，AI代理催生企业安全新风险",
-    "summary_zh": "随着AI代理在企业中广泛应用，其带来的新型安全风险日益凸显。红杉资本因此加大对安全初创公司Cymphony的投资。Cymphony专注于防范AI代理可能引发的数据泄露和权限滥用问题，其解决方案旨在为企业部署AI提供安全护栏，反映了资本对AI安全赛道的关注。",
-    "category": "industry"
-  },
-  {
-    "id": "6f97424c947f771fde06108228857d6d",
-    "title_en": "Instacart launches an AI grocery shopping assistant called Clementine",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-    "published_at": "2026-09-09T13:00:00.000Z",
-    "fetched_at": "2026-09-09T15:35:02.259Z",
-    "title_zh": "Instacart推出名为Clementine的AI杂货购物助手",
-    "summary_zh": "生鲜杂货配送平台Instacart发布全新AI购物助手Clementine，旨在通过对话式交互帮助用户发现食谱、创建购物清单并完成下单。该助手整合了平台数据与生成式AI技术，提供更智能、个性化的购物体验，标志着生鲜电商在AI应用上迈出重要一步。",
-    "category": "product"
-  },
-  {
-    "id": "4c31ccfb47a0b4ea52d8f529d0ebbe9f",
-    "title_en": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-    "published_at": "2026-09-09T13:00:00.000Z",
-    "fetched_at": "2026-09-09T15:35:02.484Z",
-    "title_zh": "亚马逊Prime Video新AI技术实现唇形与配音同步",
-    "summary_zh": "亚马逊Prime Video推出了一项基于AI的新技术，能够自动调整译制配音，使其与片中人物的口型精准匹配。该技术旨在提升非母语观众的观看体验，消除“声画不同步”的违和感。此举有望大幅降低影视内容本地化的成本，并提高制作效率。",
-    "category": "llm"
   }
 ]

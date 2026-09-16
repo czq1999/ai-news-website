@@ -1,6 +1,152 @@
 {
   "days": [
     {
+      "date": "2026-09-16",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体与本地化部署：代码审查、语音克隆、CRM及多智能体协作工具涌现，开源生态加速AI落地。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 28822,
+          "stars_today": 2756,
+          "description_zh": "快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+        },
+        {
+          "rank": 2,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 31088,
+          "stars_today": 2072,
+          "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
+        },
+        {
+          "rank": 3,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+          "language": "C",
+          "stars_total": 33951,
+          "stars_today": 2026,
+          "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小引擎，庞大模型。🐦"
+        },
+        {
+          "rank": 4,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description_en": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars_total": 76767,
+          "stars_today": 725,
+          "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
+        },
+        {
+          "rank": 5,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars_total": 6714,
+          "stars_today": 634,
+          "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
+        },
+        {
+          "rank": 6,
+          "name": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "description_en": "Turn your coding agents into research agents",
+          "language": "Rust",
+          "stars_total": 3430,
+          "stars_today": 531,
+          "description_zh": "将您的编码代理转变为研究代理"
+        },
+        {
+          "rank": 7,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars_total": 105777,
+          "stars_today": 458,
+          "description_zh": "AI 代理工具包：统一 LLM API、代理循环、TUI、编码代理 CLI"
+        },
+        {
+          "rank": 8,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 94848,
+          "stars_today": 307,
+          "description_zh": "面向 AI 编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 9,
+          "name": "Homebrew/BrewUI",
+          "url": "https://github.com/Homebrew/BrewUI",
+          "description_en": "📺 Homebrew's official macOS GUI",
+          "language": "Swift",
+          "stars_total": 1419,
+          "stars_today": 271,
+          "description_zh": "📺 Homebrew 官方 macOS 图形界面"
+        },
+        {
+          "rank": 10,
+          "name": "tonhowtf/omniget",
+          "url": "https://github.com/tonhowtf/omniget",
+          "description_en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+          "language": "Rust",
+          "stars_total": 13002,
+          "stars_today": 258,
+          "description_zh": "下载 Udemy 和 Hotmart 课程、YouTube 视频、音乐和书籍——支持 1,800+ 网站，无需终端。适用于 Windows、macOS 和 Linux 的免费开源桌面应用，内置课程播放器、PDF/EPUB 阅读器和音乐库。由 yt-dlp 驱动。您的文件保留在您的电脑上。"
+        },
+        {
+          "rank": 11,
+          "name": "danny-avila/LibreChat",
+          "url": "https://github.com/danny-avila/LibreChat",
+          "description_en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+          "language": "TypeScript",
+          "stars_total": 43874,
+          "stars_today": 254,
+          "description_zh": "增强版 ChatGPT 克隆：支持 Agents、MCP、Skills、DeepSeek、Anthropic、AWS、OpenAI、Responses API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini、Artifacts、AI 模型切换、消息搜索、代码解释器、langchain、DALL-E-3、OpenAPI Actions、Functions、安全多用户认证、预设，可自托管开源。活跃项目"
+        },
+        {
+          "rank": 12,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "language": "TypeScript",
+          "stars_total": 2871,
+          "stars_today": 193,
+          "description_zh": "开源 AI 销售操作系统——自托管 CRM，原生集成 AI 代理 + WhatsApp（WAHA）。面向所有通过聊天销售业务的开源替代方案，可替代 Kommo、Octadesk 和 Intercom。支持 MCP、多租户、符合 LGPD。"
+        },
+        {
+          "rank": 13,
+          "name": "MG1937/ASC",
+          "url": "https://github.com/MG1937/ASC",
+          "description_en": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+          "language": "Python",
+          "stars_total": 1219,
+          "stars_today": 129,
+          "description_zh": "ASC 是一款超快速的 Android 反编译前端，专为代理/移动研究人员设计。"
+        },
+        {
+          "rank": 14,
+          "name": "pacifio/atlas",
+          "url": "https://github.com/pacifio/atlas",
+          "description_en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+          "language": "Rust",
+          "stars_total": 4659,
+          "stars_today": 91,
+          "description_zh": "面向代理的源代码管理。使用多个编码代理，追踪它们的更改并在一处查询"
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "summary_zh": "今日GitHub热榜聚焦AI Agent与开源工具：代码审查、本地语音克隆、多智能体协作及自托管AI平台成亮点。",
       "projects": [
@@ -5021,122 +5167,6 @@
           "stars_total": 24240,
           "stars_today": 204,
           "description_zh": "开源、低成本的10.5 GHz PLFM相控阵雷达系统"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-17",
-      "summary_zh": "今日GitHub热门项目聚焦AI应用：短视频生成、渗透测试、交易引擎、网络安全技能库、模型适配、求职助手及自托管照片管理，展现AI与开发工具深度融合趋势。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "harry0703/MoneyPrinterTurbo",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-          "language": "Python",
-          "stars_total": 105706,
-          "stars_today": 1275,
-          "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
-        },
-        {
-          "rank": 2,
-          "name": "cordiverse/cordis",
-          "url": "https://github.com/cordiverse/cordis",
-          "description_en": "Meta-Framework of Spatiotemporal Composability",
-          "language": "TypeScript",
-          "stars_total": 5492,
-          "stars_today": 959,
-          "description_zh": "时空组合性的元框架"
-        },
-        {
-          "rank": 3,
-          "name": "usestrix/strix",
-          "url": "https://github.com/usestrix/strix",
-          "description_en": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-          "language": "Python",
-          "stars_total": 53911,
-          "stars_today": 656,
-          "description_zh": "开源 AI 渗透测试工具，用于发现并修复应用中的漏洞。"
-        },
-        {
-          "rank": 4,
-          "name": "agalwood/Motrix",
-          "url": "https://github.com/agalwood/Motrix",
-          "description_en": "A full-featured download manager.",
-          "language": "TypeScript",
-          "stars_total": 52952,
-          "stars_today": 295,
-          "description_zh": "一款功能全面的下载管理器。"
-        },
-        {
-          "rank": 5,
-          "name": "AlexsJones/llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "description_en": "Hundreds of models & providers. One command to find what runs on your hardware.",
-          "language": "Rust",
-          "stars_total": 32152,
-          "stars_today": 239,
-          "description_zh": "数百种模型和提供商。一条命令即可找到适合你硬件的模型。"
-        },
-        {
-          "rank": 6,
-          "name": "akitaonrails/ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "language": "Rust",
-          "stars_total": 1915,
-          "stars_today": 207,
-          "description_zh": "为代理编码CLI提供长期记忆的解决方案，并促进不同代理供应商之间的交接"
-        },
-        {
-          "rank": 7,
-          "name": "mukul975/Anthropic-Cybersecurity-Skills",
-          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-          "language": "Python",
-          "stars_total": 28256,
-          "stars_today": 156,
-          "description_zh": "为 AI 代理提供的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（反欺诈）· 采用 agentskills.io 标准 · 兼容 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 及 20 多个平台 · 覆盖 29 个安全领域 · Apache 2.0 许可"
-        },
-        {
-          "rank": 8,
-          "name": "santifer/career-ops",
-          "url": "https://github.com/santifer/career-ops",
-          "description_en": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-          "language": "JavaScript",
-          "stars_total": 64434,
-          "stars_today": 147,
-          "description_zh": "开源 AI 求职工具：扫描招聘门户，使用 A-F 评分标准将职位列表评估为 1.0-5.0 分，定制你的简历，跟踪申请进度——可在你的 AI 编码 CLI（Claude Code、Codex、OpenCode、Antigravity 等）中本地运行。"
-        },
-        {
-          "rank": 9,
-          "name": "immich-app/immich",
-          "url": "https://github.com/immich-app/immich",
-          "description_en": "High performance self-hosted photo and video management solution.",
-          "language": "TypeScript",
-          "stars_total": 110996,
-          "stars_today": 140,
-          "description_zh": "高性能自托管照片和视频管理解决方案。"
-        },
-        {
-          "rank": 10,
-          "name": "nautechsystems/nautilus_trader",
-          "url": "https://github.com/nautechsystems/nautilus_trader",
-          "description_en": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-          "language": "Rust",
-          "stars_total": 25790,
-          "stars_today": 115,
-          "description_zh": "生产级 Rust 原生交易引擎，采用确定性事件驱动架构。"
-        },
-        {
-          "rank": 11,
-          "name": "jundot/omlx",
-          "url": "https://github.com/jundot/omlx",
-          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-          "language": "Python",
-          "stars_total": 18916,
-          "stars_today": 96,
-          "description_zh": "适用于 Apple Silicon 的 LLM 推理服务器，支持连续批处理和 SSD 缓存——可通过 macOS 菜单栏管理。"
         }
       ]
     }
