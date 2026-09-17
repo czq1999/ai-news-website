@@ -1,5 +1,148 @@
 [
   {
+    "id": "72654229608ab2baa6e61b13b9d237e1",
+    "title_en": "自动化运维",
+    "source": "itpub.net",
+    "url": "https://www.itpub.net/autooperation",
+    "published_at": "2026-09-17T02:31:07.570Z",
+    "fetched_at": "2026-09-17T02:31:07.570Z",
+    "title_zh": "自动化运维",
+    "summary_zh": "本文围绕自动化运维展开，介绍通过脚本、配置管理与编排工具提升运维效率的实践方法。内容涵盖Ansible、SaltStack等工具的使用，任务自动化、批量部署、监控告警与故障自愈等场景，并讨论CI/CD流水线与基础设施即代码的结合。文章强调标准化与可观测性，帮助运维团队降低人工成本、提升系统稳定性与交付速度。",
+    "topic": "ops"
+  },
+  {
+    "id": "41cb7894949f29c1638d328f6602cb97",
+    "title_en": "企业OA系统与钉钉通讯录双向同步- 开放平台",
+    "source": "open.dingtalk.com",
+    "url": "https://open.dingtalk.com/document/development/synchronization-between-enterprise-oa-system-and-dingtalk-address-book",
+    "published_at": "2026-09-17T02:31:07.570Z",
+    "fetched_at": "2026-09-17T02:31:07.570Z",
+    "title_zh": "企业OA系统与钉钉通讯录双向同步 - 开放平台",
+    "summary_zh": "本文介绍如何基于钉钉开放平台实现企业OA系统与钉钉通讯录的双向同步，涵盖通讯录API、事件回调、增量同步与冲突处理机制。内容涉及部门与用户数据映射、权限授权、接口限流与数据一致性保障，并给出同步架构设计与异常重试方案，帮助企业打通内部系统与钉钉组织架构，提升账号管理与协同效率。",
+    "topic": "other"
+  },
+  {
+    "id": "846d9c03c3664f8cd8acd77c48c6c420",
+    "title_en": "Android 操作系统的安全补丁机制 - c13n.club",
+    "source": "c13n.club",
+    "url": "https://c13n.club/blog/2025-12-06/",
+    "published_at": "2026-09-17T02:31:07.569Z",
+    "fetched_at": "2026-09-17T02:31:07.569Z",
+    "title_zh": "Android 操作系统的安全补丁机制",
+    "summary_zh": "本文系统介绍Android操作系统的安全补丁机制，涵盖月度安全公告、补丁级别字符串、AOSP与厂商定制层的修复流程，以及Project Treble与模块化更新对补丁分发的影响。文章还分析碎片化导致的补丁延迟问题及GKI、Mainline等改进方案，帮助开发者与安全人员理解Android漏洞修复链路与设备安全维护策略。",
+    "topic": "security"
+  },
+  {
+    "id": "2afb756f5732b7dea1f40cf20271b017",
+    "title_en": "CVE-2026-46300 dirtyfrag 漏洞利用的变体 - Kitploit",
+    "source": "kitploit.com",
+    "url": "https://kitploit.com/zh/tools/github/madexploits/cve-2026-46300",
+    "published_at": "2026-09-17T02:31:07.569Z",
+    "fetched_at": "2026-09-17T02:31:07.569Z",
+    "title_zh": "CVE-2026-46300 dirtyfrag 漏洞利用的变体",
+    "summary_zh": "本文分析CVE-2026-46300（dirtyfrag）漏洞利用的变体手法，探讨攻击者如何绕过原有缓解措施或调整利用链以适配不同内核版本与配置。文章对比原始漏洞与变体在触发条件、稳定性与权限提升路径上的差异，并给出检测思路与加固建议，对跟踪Linux本地提权威胁演进的安全团队具有参考意义。",
+    "topic": "security"
+  },
+  {
+    "id": "1250a5b68868c62afeccd04a6c1a6cb6",
+    "title_en": "CVE-2026-43284: Dirty Frag - Linux LPE 漏洞利用分析 - Kitploit",
+    "source": "kitploit.com",
+    "url": "https://kitploit.com/zh/tools/github/revyhub/cve-2026-43284---dirtyfrag-analysis-thm-",
+    "published_at": "2026-09-17T02:31:05.894Z",
+    "fetched_at": "2026-09-17T02:31:05.894Z",
+    "title_zh": "CVE-2026-43284：Dirty Frag - Linux 本地提权漏洞利用分析",
+    "summary_zh": "本文深入分析CVE-2026-43284（代号Dirty Frag）Linux本地提权漏洞的原理与利用方式，涉及内核内存管理或碎片处理机制的缺陷，攻击者可在本地条件下提升至root权限。文章给出漏洞触发条件、利用链构造思路及PoC要点，并讨论受影响内核版本与缓解措施，对安全研究人员和Linux运维人员评估与修复该系统风险具有重要参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "ef9bd1d34fe41f0b05d4363770642faf",
+    "title_en": "Latitude 7030 Rugged Extreme Tablet 用户手册",
+    "source": "dell.com",
+    "url": "https://www.dell.com/support/manuals/zh-cn/latitude-10-7030-rugged-tablet/lati-7030-rugged-owners-manual/%E7%B3%BB%E7%BB%9F%E5%AF%86%E7%A0%81%E5%92%8C%E8%AE%BE%E7%BD%AE%E5%AF%86%E7%A0%81?guid=guid-70ac74a4-2716-4872-8f85-36cca0e01771&lang=zh-cn",
+    "published_at": "2026-09-17T02:31:05.893Z",
+    "fetched_at": "2026-09-17T02:31:05.893Z",
+    "title_zh": "Latitude 7030 Rugged Extreme Tablet 用户手册",
+    "summary_zh": "本手册是戴尔Latitude 7030 Rugged Extreme三防平板的官方用户指南，详细介绍设备外观、接口布局、电池与电源管理、散热与防护设计，以及Windows系统下的驱动安装、BIOS设置与安全选项。手册还涵盖日常维护、故障排查与保修信息，适合需要在恶劣工业环境中部署加固型平板的企业IT人员与运维工程师参考。",
+    "topic": "other"
+  },
+  {
+    "id": "78c5174336b24fbb9f146922b8e072ff",
+    "title_en": "常見漏洞與暴露(CVE)：MemoryDB 中解決的安全漏洞",
+    "source": "docs.aws.amazon.com",
+    "url": "https://docs.aws.amazon.com/zh_tw/memorydb/latest/devguide/cve.html",
+    "published_at": "2026-09-17T02:31:05.893Z",
+    "fetched_at": "2026-09-17T02:31:05.894Z",
+    "title_zh": "常见漏洞与暴露（CVE）：MemoryDB 中解决的安全漏洞",
+    "summary_zh": "本文档汇总了AWS MemoryDB中已修复的安全漏洞及相关CVE信息，说明各漏洞的影响范围、触发条件与修复版本。内容涉及内存数据库在认证、权限控制与数据处理方面的潜在风险，并给出升级建议与缓解措施，帮助使用MemoryDB的团队评估自身环境安全性，及时应用补丁以降低被利用风险。",
+    "topic": "security"
+  },
+  {
+    "id": "b4cd9dae7fff7c8af0a5d1016476f4d1",
+    "title_en": "量产突破1500万颗，地平线驶向更远的征程 - 亿欧",
+    "source": "iyiou.com",
+    "url": "https://www.iyiou.com/analysis/202609161141158",
+    "published_at": "2026-09-17T02:31:02.965Z",
+    "fetched_at": "2026-09-17T02:31:02.965Z",
+    "title_zh": "量产突破1500万颗，地平线驶向更远的征程",
+    "summary_zh": "文章报道地平线车载智能芯片累计量产突破1500万颗，标志其在国内智能驾驶芯片市场的规模化落地。内容涉及征程系列芯片的算力架构、BPU计算单元演进、软硬件协同方案，以及在ADAS、NOA等场景的量产经验。同时探讨了车企合作生态、工具链与算法部署效率，对理解国产AI芯片在自动驾驶领域的商业化路径与工程挑战具有参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "ccb32c88b361dd5573e32422b0289238",
+    "title_en": "AI Agent(智能体) 教程",
+    "source": "runoob.com",
+    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
+    "published_at": "2026-09-17T02:31:02.965Z",
+    "fetched_at": "2026-09-17T02:31:02.965Z",
+    "title_zh": "AI Agent（智能体）教程",
+    "summary_zh": "本教程面向初学者系统讲解AI Agent的核心概念与开发方法，涵盖Agent的基本架构、任务规划、工具调用、记忆机制与多轮交互设计。内容结合主流框架如LangChain、AutoGPT等，演示如何构建可执行实际任务的智能体，并介绍提示工程、函数调用与外部API集成等关键技术点，帮助开发者快速上手Agent开发并理解其能力边界与常见陷阱。",
+    "topic": "ai"
+  },
+  {
+    "id": "0ee3f5d8e9388b05d98cb39c41fead2d",
+    "title_en": "【全748集】目前B站最全最细的AI Agent开发零基础教程 ...",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1xwVr6FEh4/",
+    "published_at": "2026-09-17T02:31:02.965Z",
+    "fetched_at": "2026-09-17T02:31:02.965Z",
+    "title_zh": "【全748集】目前B站最全最细的AI Agent开发零基础教程",
+    "summary_zh": "这是一套面向零基础学习者的AI Agent开发系列视频教程，共748集，内容覆盖Python基础、LLM调用、提示工程、工具与函数调用、记忆与规划、多Agent协作及项目实战。教程由浅入深，结合真实案例讲解Agent架构设计与调试技巧，适合希望系统掌握智能体开发全流程的开发者，可作为长期学习路径的参考资源。",
+    "topic": "ai"
+  },
+  {
+    "id": "232500367b8a5519f36b6f729b71cb22",
+    "title_en": "从工具调用到自主工作流：AI Agent开发实战指南",
+    "source": "bbs.csdn.net",
+    "url": "https://bbs.csdn.net/weixin_29041195/article/details/100272179",
+    "published_at": "2026-09-17T02:31:02.965Z",
+    "fetched_at": "2026-09-17T02:31:02.965Z",
+    "title_zh": "从工具调用到自主工作流：AI Agent开发实战指南",
+    "summary_zh": "本文聚焦AI Agent从简单工具调用到自主工作流的进阶开发实践，讲解函数调用、工具编排、任务分解、状态管理与错误恢复等关键机制。文章通过实战案例展示如何让Agent自主规划多步任务、调用外部API并动态调整策略，同时讨论可观测性、成本控制与安全边界等工程问题，为构建生产级智能体应用提供可落地的技术方案。",
+    "topic": "ai"
+  },
+  {
+    "id": "5ea703f07534d115f43d250634fc34fa",
+    "title_en": "AI Agent开发全攻略：从理论到实践的完整指南与行业解决方案",
+    "source": "betteryeah.com",
+    "url": "https://www.betteryeah.com/blog/guide-to-ai-agent-development-from-theory-to-practice",
+    "published_at": "2026-09-17T02:31:02.965Z",
+    "fetched_at": "2026-09-17T02:31:02.965Z",
+    "title_zh": "AI Agent开发全攻略：从理论到实践的完整指南与行业解决方案",
+    "summary_zh": "本文提供AI Agent开发的完整指南，从理论基础到工程实践全面覆盖。内容包括Agent架构模式、规划与推理机制、工具与记忆系统、多智能体协作，以及RAG与微调的结合应用。文章还针对客服、数据分析、自动化办公等行业场景给出解决方案与架构建议，并讨论评估指标、部署运维与安全合规，适合团队作为Agent项目落地的参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "6c45e8bdfc5b6f8d410050cdec516cb0",
+    "title_en": "国内外知名大模型及应用——模型/应用维度（2026/09/09）",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/670574382",
+    "published_at": "2026-09-17T02:31:02.964Z",
+    "fetched_at": "2026-09-17T02:31:02.964Z",
+    "title_zh": "国内外知名大模型及应用——模型/应用维度（2026/09/09）",
+    "summary_zh": "本文以模型与应用两个维度系统梳理了截至2026年9月国内外主流大模型生态，涵盖GPT、Claude、Gemini、DeepSeek、Qwen等代表性模型的参数规模、上下文长度、推理能力与多模态支持情况，并对比其在对话、编程、Agent、RAG等场景下的落地应用。文章还分析了开源与闭源模型的性能差距、推理成本与部署门槛，为技术选型、模型评测和产品集成提供参考依据，适合关注LLM技术演进与应用落地的开发者阅读。",
+    "topic": "ai"
+  },
+  {
     "id": "a303d20e8cb66e04ae2e07dd0df3129d",
     "title_en": "工程师设计师产品经理兼职工作机会，业余时间做点私活 - 实现网",
     "source": "shixian.com",
@@ -2054,149 +2197,6 @@
     "fetched_at": "2026-09-15T20:40:25.868Z",
     "title_zh": "万字全景解读大模型微调技术：方法、实践与未来趋势",
     "summary_zh": "本文以万字篇幅全面梳理了大模型微调技术体系，深入剖析了全量微调、参数高效微调（PEFT）、LoRA、Adapter、Prefix Tuning等主流方法的原理与适用场景，并结合工业实践讨论了数据工程、训练策略与评估体系。文章还展望了微调技术在多模态、Agent及持续学习方向的发展趋势，适合有一定基础的读者系统提升认知。",
-    "topic": "ai"
-  },
-  {
-    "id": "eea78ff22f6dee4e86bd8fc9e86dfc51",
-    "title_en": "[AI 书籍推荐] 从人类偏好到大模型性格：一本书读懂RLHF 与后训练 - X",
-    "source": "x.com",
-    "url": "https://x.com/i/status/2099778785923231916",
-    "published_at": "2026-09-15T20:40:25.868Z",
-    "fetched_at": "2026-09-15T20:40:25.868Z",
-    "title_zh": "AI书籍推荐：从人类偏好到大模型性格——一本书读懂RLHF与后训练",
-    "summary_zh": "该推文推荐了一本聚焦RLHF（基于人类反馈的强化学习）与大模型后训练技术的书籍。内容涵盖人类偏好数据的采集与建模、奖励模型训练、PPO等强化学习算法在大模型对齐中的应用，以及后训练如何塑造大模型的“性格”与行为模式。适合对大模型对齐、安全性和后训练流程感兴趣的研究者与工程师深入阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "683f011da98924c8b06c88c93a6c21ff",
-    "title_en": "深入探究Linux服务器：从基础到高级运维 - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2333928",
-    "published_at": "2026-09-15T20:40:25.868Z",
-    "fetched_at": "2026-09-15T20:40:25.868Z",
-    "title_zh": "深入探究Linux服务器：从基础到高级运维",
-    "summary_zh": "本文系统介绍了Linux服务器运维的知识体系，从基础命令、用户与权限管理、文件系统与磁盘管理，到高级的服务配置、网络调优、性能监控与故障排查均有覆盖。文章结合腾讯云环境，讲解了云服务器场景下的运维实践与常见问题处理方案，适合运维初学者和希望提升Linux服务器管理能力的工程师阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "1555885bb60e9bda78ecba0582c743c6",
-    "title_en": "从零开始自学《Linux运维工程师》",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
-    "published_at": "2026-09-15T20:40:25.868Z",
-    "fetched_at": "2026-09-15T20:40:25.868Z",
-    "title_zh": "从零开始自学《Linux运维工程师》",
-    "summary_zh": "该视频系列面向零基础学习者，系统规划了Linux运维工程师的自学路径。内容涵盖Linux基础操作、Shell脚本编程、网络服务配置、数据库管理、自动化运维工具及云计算基础等核心技能模块。通过循序渐进的教学方式，帮助学习者建立完整的运维知识体系，为从事Linux运维岗位打下坚实基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "4ffb0bb4b8725e41715dfa0ab9608345",
-    "title_en": "linux运维需要什么技能 - 知乎专栏",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/19668592352",
-    "published_at": "2026-09-15T20:40:25.868Z",
-    "fetched_at": "2026-09-15T20:40:25.868Z",
-    "title_zh": "Linux运维需要什么技能",
-    "summary_zh": "本文梳理了Linux运维工程师所需的核心技能栈，包括Linux系统管理与调优、Shell/Python脚本自动化、网络协议与安全防护、主流中间件（Nginx、MySQL、Redis）运维、容器化技术（Docker/K8s）以及监控告警体系搭建。文章还讨论了不同级别运维岗位的技能差异和职业发展路径，为入行和进阶提供了清晰的参考方向。",
-    "topic": "ops"
-  },
-  {
-    "id": "ec64e8d0a750745558493520babadcf6",
-    "title_en": "wovert/LinuxSRE: Linux 运维工程师技能总结 - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/wovert/LinuxSRE",
-    "published_at": "2026-09-15T20:40:25.868Z",
-    "fetched_at": "2026-09-15T20:40:25.868Z",
-    "title_zh": "wovert/LinuxSRE：Linux运维工程师技能总结",
-    "summary_zh": "该GitHub仓库系统总结了Linux SRE/运维工程师所需的技能体系，内容涵盖Linux系统原理、网络基础、常用服务与中间件、Shell与Python自动化、CI/CD流水线、容器与Kubernetes、监控与日志分析、性能调优及故障应急处理等。仓库以结构化方式组织知识点，适合作为运维工程师日常查阅和技能查漏补缺的参考手册。",
-    "topic": "ops"
-  },
-  {
-    "id": "651fd3affa06461caf962785da6c20d8",
-    "title_en": "https://rule.taobao.com/detail-5507.htm?spm=a2177....",
-    "source": "rule.taobao.com",
-    "url": "https://rule.taobao.com/detail-5507.htm?spm=a2177.12575716.0.0.6f7b17eas4bMWM",
-    "published_at": "2026-09-15T20:40:25.868Z",
-    "fetched_at": "2026-09-15T20:40:25.868Z",
-    "title_zh": "淘宝平台规则详情页",
-    "summary_zh": "该链接为淘宝平台规则详情页面，主要展示淘宝平台在商品发布、交易流程、售后服务等方面的具体规则条款。内容属于电商平台运营规范范畴，对在淘宝平台经营的商家具有合规指导意义，帮助商家了解平台政策要求，避免违规操作。与AI、运维、安全等技术领域无直接关联。",
-    "topic": "other"
-  },
-  {
-    "id": "cab2491b5de5ca418d4fc9af93a6ff57",
-    "title_en": "建站_草根网 - 网站建设教程",
-    "source": "1asp.com.cn",
-    "url": "https://www.1asp.com.cn/e/action/ListInfo/?classid=5",
-    "published_at": "2026-09-15T20:40:25.868Z",
-    "fetched_at": "2026-09-15T20:40:25.868Z",
-    "title_zh": "建站教程：草根网站建设指南",
-    "summary_zh": "该页面为草根网提供的网站建设教程，面向零基础用户讲解从域名注册、服务器选购、网站程序安装到页面设计与SEO优化的完整建站流程。内容偏向传统Web建站入门，涉及CMS系统使用和基础前端知识，适合个人站长和中小企业快速搭建展示型网站，技术深度较浅，属于入门级建站指导。",
-    "topic": "other"
-  },
-  {
-    "id": "0666b0484a7de907a46c7ec6372a01f8",
-    "title_en": "2026年AI大模型最新進展：GPT-5、Claude 4、Gemini 2.0 ...",
-    "source": "wowgaopei.com",
-    "url": "https://wowgaopei.com/ai-models-2026-gpt5-claude4-gemini-2/",
-    "published_at": "2026-09-15T20:40:25.867Z",
-    "fetched_at": "2026-09-15T20:40:25.867Z",
-    "title_zh": "2026年AI大模型最新进展：GPT-5、Claude 4、Gemini 2.0……",
-    "summary_zh": "文章汇总了2026年GPT-5、Claude 4、Gemini 2.0等新一代大模型的核心进展，重点分析其在推理链、多模态理解、长上下文与Agent能力上的提升。通过对比基准测试成绩与实际任务表现，揭示各家在训练规模、对齐策略与工具调用协议上的技术路线差异，并探讨这些升级对开发者构建RAG、自动化工作流及企业级AI应用的实际影响。",
-    "topic": "ai"
-  },
-  {
-    "id": "10ed1a9091acc8f8b538ea39b948504d",
-    "title_en": "誰是開源模型一哥？Hugging Face揭2026下載榜單",
-    "source": "bnext.com.tw",
-    "url": "https://www.bnext.com.tw/article/91887/qwen-tops-hugging-face-open-model-ranking-2026",
-    "published_at": "2026-09-15T20:40:25.867Z",
-    "fetched_at": "2026-09-15T20:40:25.867Z",
-    "title_zh": "谁是开源模型一哥？Hugging Face揭2026下载榜单",
-    "summary_zh": "本文基于Hugging Face 2026年度模型下载榜单，分析开源大模型生态格局。通过下载量、衍生模型数量与社区活跃度等指标，对比Llama、Qwen、Mistral、DeepSeek等系列的市场表现，揭示开源模型在微调、量化与本地部署中的实际采用趋势。对开发者选择基座模型、评估社区支持度及规划微调路线具有直接参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "1804045ef591c5a3a5d26a9f1f3af7ca",
-    "title_en": "2026年6月AI最新趋势总结：智能体爆发 - 魔珐星云开发社区",
-    "source": "xingyun3d.csdn.net",
-    "url": "https://xingyun3d.csdn.net/6a35e06e10ee7a33f28013c7.html",
-    "published_at": "2026-09-15T20:40:25.867Z",
-    "fetched_at": "2026-09-15T20:40:25.867Z",
-    "title_zh": "2026年6月AI最新趋势总结：智能体爆发",
-    "summary_zh": "文章总结2026年6月AI领域最新趋势，核心判断是AI Agent进入爆发期。内容涵盖多智能体协作框架、工具调用标准化协议、记忆与规划机制的技术演进，以及Agent在编程、客服、数据分析等场景的落地案例。同时讨论Agent开发中的上下文管理、错误恢复与安全边界问题，为开发者把握技术方向与工程实践提供参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "2d54f8fa1e61d67a738dd6ae4e992395",
-    "title_en": "你2026 年最推荐的LLM 是哪些，为什么？ : r/artificial",
-    "source": "reddit.com",
-    "url": "https://www.reddit.com/r/artificial/comments/1qo7psc/what_are_your_top_llm_picks_in_2026_and_why/?tl=zh-hans",
-    "published_at": "2026-09-15T20:40:25.867Z",
-    "fetched_at": "2026-09-15T20:40:25.867Z",
-    "title_zh": "你2026年最推荐的LLM是哪些，为什么？: r/artificial",
-    "summary_zh": "该Reddit讨论帖汇集开发者对2026年最推荐LLM的真实反馈。参与者从推理能力、代码生成、长上下文、API成本、本地部署可行性等维度对比GPT、Claude、Gemini、Llama与Qwen等模型，并分享在RAG、Agent与微调场景中的实际使用体验。讨论还涉及开源与闭源模型的取舍、量化部署效果及不同任务下的模型选型策略，具有较强实践参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "0c5a993ab2b4e556c0ecd3e6001815a4",
-    "title_en": "范式变革正在发生！北京智源研究院发布2026十大AI技术趋势",
-    "source": "ncsti.gov.cn",
-    "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202601/t20260109_234835.html",
-    "published_at": "2026-09-15T20:40:25.867Z",
-    "fetched_at": "2026-09-15T20:40:25.867Z",
-    "title_zh": "范式变革正在发生！北京智源研究院发布2026十大AI技术趋势",
-    "summary_zh": "北京智源研究院发布2026十大AI技术趋势，指出AI正从模型规模竞赛转向能力范式变革。报告涵盖多模态统一架构、Agent自主进化、世界模型、具身智能、AI for Science等方向，并分析推理增强、记忆机制与工具生态对下一代AI系统的关键作用。内容兼具战略视野与技术深度，适合研究者与决策者把握中长期技术演进路径。",
-    "topic": "ai"
-  },
-  {
-    "id": "b687105c87205ba02307e93e6f1cd23f",
-    "title_en": "🏆 2026年3月AI大模型最新排名：谁是当下最强王者？",
-    "source": "xzhibot.com",
-    "url": "https://xzhibot.com/1269.html",
-    "published_at": "2026-09-15T20:40:25.867Z",
-    "fetched_at": "2026-09-15T20:40:25.867Z",
-    "title_zh": "🏆 2026年3月AI大模型最新排名：谁是当下最强王者？",
-    "summary_zh": "文章发布2026年3月AI大模型最新排名，基于综合基准测试、推理能力、多模态表现与用户投票等维度，对GPT、Claude、Gemini、DeepSeek、Qwen等主流模型进行横向对比。内容分析各模型在数学推理、代码生成、长文本理解与工具调用上的强弱项，并讨论排名变化背后的训练策略与数据差异，为开发者模型选型提供量化参考。",
     "topic": "ai"
   }
 ]

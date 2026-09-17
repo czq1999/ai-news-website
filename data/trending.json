@@ -1,6 +1,222 @@
 {
   "days": [
     {
+      "date": "2026-09-17",
+      "summary_zh": "今日GitHub热榜聚焦AI代码审查、安全审计与本地大模型部署，阿里开源混合架构审查工具，Colibri让消费级硬件跑MoE模型。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 32149,
+          "stars_today": 3231,
+          "description_zh": "快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+        },
+        {
+          "rank": 2,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+          "language": "C",
+          "stars_total": 35089,
+          "stars_today": 1546,
+          "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小的引擎，庞大的模型。🐦"
+        },
+        {
+          "rank": 3,
+          "name": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "language": "Go",
+          "stars_total": 25422,
+          "stars_today": 1197,
+          "description_zh": "开源 LLM 知识平台：将原始文档转化为可查询的 RAG、自主推理代理和自我维护的 Wiki。"
+        },
+        {
+          "rank": 4,
+          "name": "abue-ammar/tinycast",
+          "url": "https://github.com/abue-ammar/tinycast",
+          "description_en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+          "language": "Swift",
+          "stars_total": 5650,
+          "stars_today": 1179,
+          "description_zh": "Tinycast——一个小巧的、完全原生的 macOS 启动器、快捷键和剪贴板历史记录工具。"
+        },
+        {
+          "rank": 5,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description_en": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars_total": 77875,
+          "stars_today": 1059,
+          "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
+        },
+        {
+          "rank": 6,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 260350,
+          "stars_today": 1057,
+          "description_zh": "代理框架性能优化系统。面向 Claude Code、Codex、Opencode、Cursor 及更多的技能、直觉、记忆、安全和研究优先开发。"
+        },
+        {
+          "rank": 7,
+          "name": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "description_en": "Turn your coding agents into research agents",
+          "language": "Rust",
+          "stars_total": 4465,
+          "stars_today": 1017,
+          "description_zh": "将您的编码代理转变为研究代理"
+        },
+        {
+          "rank": 8,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars_total": 7446,
+          "stars_today": 927,
+          "description_zh": "一个用于多阶段安全审计的编码代理技能，具有独立验证的、机器可读的发现结果"
+        },
+        {
+          "rank": 9,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars_total": 7355,
+          "stars_today": 778,
+          "description_zh": "Ever® Gauzy™——开放商业管理平台（ERP/CRM/HRM/ATS/PM）——https://gauzy.co"
+        },
+        {
+          "rank": 10,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 95497,
+          "stars_today": 658,
+          "description_zh": "面向 AI 编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 11,
+          "name": "Lakr233/vphone-cli",
+          "url": "https://github.com/Lakr233/vphone-cli",
+          "description_en": "",
+          "language": "Swift",
+          "stars_total": 13382,
+          "stars_today": 547,
+          "description_zh": ""
+        },
+        {
+          "rank": 12,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars_total": 54430,
+          "stars_today": 417,
+          "description_zh": "开源 AI 语音工作室。克隆、听写、创作。"
+        },
+        {
+          "rank": 13,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "language": "Python",
+          "stars_total": 5799,
+          "stars_today": 367,
+          "description_zh": "claude-red 是一个为 Claude 技能系统精心策划的进攻性安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 注入针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
+        },
+        {
+          "rank": 14,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars_total": 9395,
+          "stars_today": 332,
+          "description_zh": "YuE2：具有符号规划、零样本翻唱和代理式音乐编辑的前沿音乐生成。"
+        },
+        {
+          "rank": 15,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description_en": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars_total": 50624,
+          "stars_today": 260,
+          "description_zh": "我们为您编写可复用的计算机视觉工具。💜"
+        },
+        {
+          "rank": 16,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars_total": 145553,
+          "stars_today": 165,
+          "description_zh": "Claude Code 是一款代理式编码工具，驻留在您的终端中，理解您的代码库，并通过执行日常任务、解释复杂代码和处理 git 工作流来帮助您更快地编码——所有这些都通过自然语言命令完成。"
+        },
+        {
+          "rank": 17,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars_total": 109771,
+          "stars_today": 120,
+          "description_zh": "Postgres 开发平台。Supabase 为您提供一个专用的 Postgres 数据库，用于构建您的 Web、移动和 AI 应用程序。"
+        },
+        {
+          "rank": 18,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "language": "TypeScript",
+          "stars_total": 68398,
+          "stars_today": 112,
+          "description_zh": "作为 SDK、IDE 扩展或 CLI 助手的自主编码代理。"
+        },
+        {
+          "rank": 19,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars_total": 24311,
+          "stars_today": 110,
+          "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
+        },
+        {
+          "rank": 20,
+          "name": "rlaope/oh-my-hermes",
+          "url": "https://github.com/rlaope/oh-my-hermes",
+          "description_en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+          "language": "Python",
+          "stars_total": 2576,
+          "stars_today": 80,
+          "description_zh": "Hermes Agent 的一体化插件 ⚚ 编码智能、长期记忆系统和模型优化工作流包"
+        },
+        {
+          "rank": 21,
+          "name": "ankitects/anki",
+          "url": "https://github.com/ankitects/anki",
+          "description_en": "Anki is a smart spaced repetition flashcard program",
+          "language": "Rust",
+          "stars_total": 30896,
+          "stars_today": 58,
+          "description_zh": "Anki 是一款智能间隔重复闪卡程序"
+        }
+      ]
+    },
+    {
       "date": "2026-09-16",
       "summary_zh": "今日GitHub热榜聚焦AI代码审查、安全审计与本地大模型部署，阿里开源混合架构审查工具，Colibri实现纯C运行MoE模型。",
       "projects": [
@@ -5101,142 +5317,6 @@
           "stars_total": 12957,
           "stars_today": 58,
           "description_zh": "从OpenStreetMap数据绘制漂亮地图！使用osmnx + matplotlib + shapely构建"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-18",
-      "summary_zh": "今日GitHub热门项目聚焦AI视频生成、智能体记忆与安全、开源API及工具，涵盖短视频自动化、多智能体协作、网络安全技能库及下载管理器等。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "harry0703/MoneyPrinterTurbo",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-          "language": "Python",
-          "stars_total": 108256,
-          "stars_today": 2306,
-          "description_zh": "利用AI大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
-        },
-        {
-          "rank": 2,
-          "name": "public-apis/public-apis",
-          "url": "https://github.com/public-apis/public-apis",
-          "description_en": "A collective list of free APIs",
-          "language": "Python",
-          "stars_total": 464224,
-          "stars_today": 1139,
-          "description_zh": "免费API的集合列表"
-        },
-        {
-          "rank": 3,
-          "name": "akitaonrails/ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "language": "Rust",
-          "stars_total": 2614,
-          "stars_today": 730,
-          "description_zh": "为AI编码CLI提供长期记忆的解决方案，并促进不同AI供应商之间的交接。"
-        },
-        {
-          "rank": 4,
-          "name": "mukul975/Anthropic-Cybersecurity-Skills",
-          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-          "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-          "language": "Python",
-          "stars_total": 29012,
-          "stars_today": 726,
-          "description_zh": "为AI代理提供817项结构化网络安全技能，映射至6个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF和MITRE F3（反欺诈），遵循agentskills.io标准，兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI及20多个平台，覆盖29个安全领域，Apache 2.0许可。"
-        },
-        {
-          "rank": 5,
-          "name": "basecamp/omarchy",
-          "url": "https://github.com/basecamp/omarchy",
-          "description_en": "Beautiful, Modern & Opinionated Linux",
-          "language": "Shell",
-          "stars_total": 26328,
-          "stars_today": 710,
-          "description_zh": "美观、现代且固执己见的Linux发行版"
-        },
-        {
-          "rank": 6,
-          "name": "agalwood/Motrix",
-          "url": "https://github.com/agalwood/Motrix",
-          "description_en": "A full-featured download manager.",
-          "language": "TypeScript",
-          "stars_total": 53566,
-          "stars_today": 607,
-          "description_zh": "功能全面的下载管理器。"
-        },
-        {
-          "rank": 7,
-          "name": "bojieli/ai-agent-book",
-          "url": "https://github.com/bojieli/ai-agent-book",
-          "description_en": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-          "language": "Python",
-          "stars_total": 39020,
-          "stars_today": 556,
-          "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
-        },
-        {
-          "rank": 8,
-          "name": "genlayerlabs/genlayer-project-boilerplate",
-          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 15889,
-          "stars_today": 543,
-          "description_zh": ""
-        },
-        {
-          "rank": 9,
-          "name": "jundot/omlx",
-          "url": "https://github.com/jundot/omlx",
-          "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-          "language": "Python",
-          "stars_total": 19310,
-          "stars_today": 366,
-          "description_zh": "支持连续批处理和SSD缓存的LLM推理服务器，专为Apple Silicon优化，可通过macOS菜单栏管理。"
-        },
-        {
-          "rank": 10,
-          "name": "volcengine/OpenViking",
-          "url": "https://github.com/volcengine/OpenViking",
-          "description_en": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-          "language": "Python",
-          "stars_total": 29230,
-          "stars_today": 298,
-          "description_zh": "面向AI智能体的自进化上下文数据库。统一智能体记忆、知识RAG和技能。"
-        },
-        {
-          "rank": 11,
-          "name": "OpenCut-app/OpenCut",
-          "url": "https://github.com/OpenCut-app/OpenCut",
-          "description_en": "The open-source CapCut alternative",
-          "language": "TypeScript",
-          "stars_total": 84649,
-          "stars_today": 288,
-          "description_zh": "开源的CapCut替代品"
-        },
-        {
-          "rank": 12,
-          "name": "chaitanyagiri/munder-difflin",
-          "url": "https://github.com/chaitanyagiri/munder-difflin",
-          "description_en": "local multi-agent harness",
-          "language": "TypeScript",
-          "stars_total": 1890,
-          "stars_today": 256,
-          "description_zh": "本地多智能体框架"
-        },
-        {
-          "rank": 13,
-          "name": "NawfalMotii79/PLFM_RADAR",
-          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-          "description_en": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-          "language": "PLSQL",
-          "stars_total": 24240,
-          "stars_today": 204,
-          "description_zh": "开源、低成本的10.5 GHz PLFM相控阵雷达系统"
         }
       ]
     }
