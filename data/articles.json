@@ -1,5 +1,71 @@
 [
   {
+    "id": "d23c87c5c7393ae68d668848a085db7a",
+    "title_en": "Waymo says Singapore will be its next international robotaxi city",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+    "published_at": "2026-09-18T02:00:00.000Z",
+    "fetched_at": "2026-09-18T02:16:10.849Z",
+    "title_zh": "Waymo宣布新加坡将成为其下一个国际Robotaxi城市",
+    "summary_zh": "自动驾驶公司Waymo宣布新加坡将成为其下一个国际Robotaxi运营城市。这是Waymo继美国多个城市之后首次大规模拓展海外市场。新加坡以严格的交通法规和先进的智慧城市基础设施著称，被视为自动驾驶技术落地的理想试验场。此举也标志着Robotaxi行业竞争从美国本土向全球扩展。",
+    "category": "product"
+  },
+  {
+    "id": "1725548308dfc3d7cf65d46dddea4a2c",
+    "title_en": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "published_at": "2026-09-17T23:25:52.000Z",
+    "fetched_at": "2026-09-18T02:16:10.273Z",
+    "title_zh": "Crusoe融资39亿美元，建设大型数据中心和小型模块化“AI工厂”",
+    "summary_zh": "AI基础设施公司Crusoe宣布完成39亿美元融资，资金将用于建设大规模数据中心以及小型模块化“AI工厂”。此举反映出AI算力需求持续飙升，资本正加速涌入AI基础设施领域。Crusoe此前专注于利用闲置能源进行加密货币挖矿，近年来已转型为AI云计算服务提供商，为AI训练和推理提供算力支持。",
+    "category": "industry"
+  },
+  {
+    "id": "9e60c716f47c020700716d7b301c1b14",
+    "title_en": "Google DeepMind launches institute to widen the AGI debate",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "published_at": "2026-09-17T23:21:17.000Z",
+    "fetched_at": "2026-09-18T02:16:10.274Z",
+    "title_zh": "谷歌DeepMind成立研究所，扩大AGI讨论范围",
+    "summary_zh": "谷歌DeepMind宣布成立专门研究所，旨在将通用人工智能（AGI）的讨论从技术圈扩展到更广泛的社会层面。该研究所将汇聚哲学家、伦理学家、经济学家等多领域专家，共同探讨AGI带来的机遇与风险。此举被视为DeepMind在AGI治理和安全议题上主动布局，回应外界对AI发展速度过快的担忧。",
+    "category": "research"
+  },
+  {
+    "id": "8fbd1fa4fd449e59c70ac1ac781fa36a",
+    "title_en": "PrismML hopes its tiny LLM will change how we all use AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "published_at": "2026-09-17T22:34:09.000Z",
+    "fetched_at": "2026-09-18T02:16:10.274Z",
+    "title_zh": "PrismML希望其微型大模型能改变所有人使用AI的方式",
+    "summary_zh": "初创公司PrismML推出了一款体积极小的语言模型，希望以此改变人们使用AI的方式。该模型主打轻量化和本地部署，可在手机、笔记本等边缘设备上运行，无需依赖云端算力。PrismML认为，小型模型在隐私保护、响应速度和成本方面具有显著优势，有望推动AI从集中式云端向分布式终端普及。",
+    "category": "llm"
+  },
+  {
+    "id": "737edf17ec69cb0c4c73b8e210191069",
+    "title_en": "Here’s What the AI Apocalypse Could Look Like",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+    "published_at": "2026-09-17T22:20:21.000Z",
+    "fetched_at": "2026-09-18T02:16:11.227Z",
+    "title_zh": "AI 末日可能是什么样子",
+    "summary_zh": "《连线》杂志探讨了“AI 末日”可能的场景，从失控的自主智能体、关键基础设施被攻击，到经济与社会秩序被颠覆。文章综合专家观点，分析 AI 风险从理论走向现实的可能路径，并讨论人类应如何在技术加速发展的同时建立防护与治理机制，避免最坏情况发生。",
+    "category": "research"
+  },
+  {
+    "id": "8344552c2deb5df3c33631677fd0451a",
+    "title_en": "The FAA’s plan to fix air traffic? $875M worth of AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "published_at": "2026-09-17T22:14:59.000Z",
+    "fetched_at": "2026-09-18T02:16:10.274Z",
+    "title_zh": "美国联邦航空管理局的空中交通修复计划？8.75亿美元的AI投入",
+    "summary_zh": "美国联邦航空管理局（FAA）计划投入8.75亿美元，利用AI技术升级和修复老化的空中交通管制系统。该计划旨在通过AI提升航班调度效率、减少延误并增强安全性。近年来FAA系统多次出现故障，引发公众对航空安全的担忧。此次大规模AI投资标志着政府机构对AI基础设施的重视程度显著提升。",
+    "category": "industry"
+  },
+  {
     "id": "018a5f2d0ee7209f2020f0b314a1f456",
     "title_en": "The fix for rogue AI agents could be more AI",
     "source": "TechCrunch AI",
@@ -569,6 +635,116 @@
     "fetched_at": "2026-09-17T10:40:29.176Z",
     "title_zh": "流媒体平台争夺万圣节档期",
     "summary_zh": "各大流媒体平台正在万圣节档期展开激烈竞争，纷纷推出恐怖、惊悚和超自然题材内容以吸引订阅用户。Netflix、Disney+、Max等平台都加大了万圣节主题内容的投入，希望通过季节性内容拉动用户增长和留存。这场争夺战反映出流媒体行业在内容差异化方面的持续投入。",
+    "category": "industry"
+  },
+  {
+    "id": "66e220122d7c411946fcf4c6a53bb5c4",
+    "title_en": "India supplies Wall Street with CEOs but has a shortage at home",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-supplies-wall-street-with-ceos-but-has-a-shortage-at-home/articleshow/134298107.cms",
+    "published_at": "2026-09-17T02:02:37Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "印度向华尔街输送 CEO，本土却面临人才短缺",
+    "summary_zh": "《印度时报》指出，印度向华尔街等全球企业输送了大量 CEO 和高管人才，但本土却面临严重的高端管理人才短缺。这一反差反映出印度人才外流与本土企业治理结构、薪酬体系及发展机会之间的深层矛盾，也引发对印度如何留住并培养本土领导力的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "5a42aef3afb9bfe0e1649661d4862eb5",
+    "title_en": "America versus China: headed for mutually assured doom? Not if they shake hands on AI safety",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/opinion/online-views/america-versus-china-mutually-assured-doom-not-if-they-shake-hands-on-ai-safety-11789565890427.html",
+    "published_at": "2026-09-17T02:00:34Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "中美对抗：注定相互毁灭？若在 AI 安全上握手则未必",
+    "summary_zh": "Livemint 评论文章指出，中美在 AI 领域的竞争若持续升级，可能走向“相互确保毁灭”的危险境地。但文章认为，若两国能在 AI 安全、风险管控与标准制定上达成合作，仍可避免最坏结果。作者呼吁将 AI 安全作为共同利益基础，推动对话与协作。",
+    "category": "industry"
+  },
+  {
+    "id": "5ac2b6ec69cbad47129484178ecb9786",
+    "title_en": "US official says upcoming spectrum auctions could generate more than $100 billion",
+    "source": "CNA",
+    "url": "https://www.channelnewsasia.com/business/us-official-says-upcoming-spectrum-auctions-could-generate-more-100-billion-6390706",
+    "published_at": "2026-09-17T01:58:10Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "美国官员称即将举行的频谱拍卖或带来超 1000 亿美元收入",
+    "summary_zh": "CNA 报道，美国官员表示即将举行的频谱拍卖可能带来超过 1000 亿美元的收入。频谱资源对 5G、卫星通信及未来 AI 驱动的无线应用至关重要。此次拍卖不仅影响电信运营商与科技公司的竞争格局，也将为美国财政带来可观收益，并塑造未来数字基础设施的走向。",
+    "category": "industry"
+  },
+  {
+    "id": "d1aa60f2feea765af781b20b8ce972b1",
+    "title_en": "Why do some robots feel creepy? We deliberately built one to find out",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231",
+    "published_at": "2026-09-17T01:45:52Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "为什么有些机器人让人毛骨悚然？我们特意造了一个来寻找答案",
+    "summary_zh": "《The Conversation Africa》刊文探讨机器人为何会引发“恐怖谷”式的毛骨悚然感。研究者特意制造了一台机器人进行实验，发现外观、动作流畅度、眼神与人类预期的细微偏差都会触发不适。文章认为，理解这些心理机制对设计更自然、更易被接受的社交机器人至关重要。",
+    "category": "research"
+  },
+  {
+    "id": "8f5d4b89eedb24121701d2e63069b3cf",
+    "title_en": "Huawei set to unveil China’s best answer to Nvidia AI chip reign",
+    "source": "The Straits Times",
+    "url": "https://www.straitstimes.com/business/huawei-set-to-unveil-chinas-best-answer-to-nvidia-ai-chip-reign",
+    "published_at": "2026-09-17T01:45:00Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "华为将发布中国对标英伟达 AI 芯片霸权的最强答案",
+    "summary_zh": "《海峡时报》报道，华为即将发布其最新 AI 芯片，被视为中国对英伟达在 AI 芯片领域主导地位的最强回应。在美国出口管制背景下，华为加速自研算力芯片，力图满足国内大模型训练与推理需求。此举不仅关乎华为自身，也影响中国 AI 产业链的自主可控与全球算力格局。",
+    "category": "product"
+  },
+  {
+    "id": "eb57b0a4a3d03db7ed83b8272089842c",
+    "title_en": "OpenAI unveils new framework for reporting ‘AI misalignment’ as it reveals six more worrying incidents",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/09/16/openai-unveils-new-framework-for-reporting-ai-misalignment-as-it-reveals-six-more-worrying-incidents/",
+    "published_at": "2026-09-17T01:39:26Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "OpenAI 发布“AI 失准”报告新框架，并披露六起更令人担忧的事件",
+    "summary_zh": "SiliconANGLE 报道，OpenAI 推出用于报告“AI 失准”的新框架，并同时披露六起更令人担忧的事件。该框架旨在系统化记录 AI 模型出现偏离预期、产生有害行为的情况，提升透明度与问责机制。新披露的案例显示，前沿模型在真实场景中仍存在不可忽视的风险，需持续监测与改进。",
+    "category": "llm"
+  },
+  {
+    "id": "6f182d01c0dc264be0b13a8e5f32f823",
+    "title_en": "Vance Tells AI Frankensteins: Your Monster, Your Problem",
+    "source": "HuffPost",
+    "url": "https://www.huffpost.com/entry/vance-ai-stop-building-frankenstein_n_6aaad853e4b0288deb0e5214",
+    "published_at": "2026-09-17T01:38:53Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "万斯告诫 AI“科学怪人”：你们造的怪物，你们自己负责",
+    "summary_zh": "《赫芬顿邮报》报道，美国参议员万斯对 AI 开发者发出警告，称“你们造的怪物，你们自己负责”。此番言论针对 AI 可能带来的失控风险与责任归属问题，强调开发者和企业应对其技术后果承担更大责任。万斯的表态反映出政策层面对 AI 安全与问责的日益关注。",
+    "category": "industry"
+  },
+  {
+    "id": "366b5ad55db51ee72b670436509ee731",
+    "title_en": "AI looms large ahead of Xi, Trump summit",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/article/ai-looms-large-ahead-of-xi-trump-summit/",
+    "published_at": "2026-09-17T01:25:36Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "习特峰会前夕，AI议题备受瞩目",
+    "summary_zh": "在习近平与特朗普即将举行峰会之际，人工智能成为双方关注的核心议题之一。中美两国作为全球AI领域的领先者，在技术竞争、芯片出口管制、数据安全等方面存在诸多分歧。此次峰会可能涉及AI监管框架、技术合作与竞争等关键议题，外界密切关注两国能否在AI治理方面达成共识，以及相关讨论对全球AI产业格局的潜在影响。",
+    "category": "industry"
+  },
+  {
+    "id": "ed6ae57382a5bfff2508f5c80c36c363",
+    "title_en": "An opt-out system for AI companies to access creative works doesn’t gel with Australia’s copyright laws. Here’s why",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/an-opt-out-system-for-ai-companies-to-access-creative-works-doesnt-gel-with-australias-copyright-laws-heres-why-292130",
+    "published_at": "2026-09-17T01:22:11Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "AI公司获取创意作品的“选择退出”机制与澳大利亚版权法不符，原因如下",
+    "summary_zh": "澳大利亚正就AI公司使用创意作品展开讨论，有提议引入“选择退出”机制，允许AI企业在未经明确授权的情况下使用受版权保护的作品，除非权利人主动声明退出。然而，法律专家指出，这一机制与澳大利亚现行版权法存在根本冲突。澳版权法采用“选择加入”原则，默认保护创作者权益，未经许可的使用即构成侵权。因此，该提案在法律层面难以成立，需要更全面的立法改革才能落地。",
+    "category": "industry"
+  },
+  {
+    "id": "bdf1f95b71b4e8b3d9589244366a653a",
+    "title_en": "CNBC Daily Open: The Fed rate hikes might not be one-and-done",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/17/cnbc-daily-open-fed-rate-hike-oil-eu-canada.html",
+    "published_at": "2026-09-17T01:21:04Z",
+    "fetched_at": "2026-09-18T02:16:11.613Z",
+    "title_zh": "CNBC每日开盘：美联储加息可能并非一次性的",
+    "summary_zh": "CNBC每日开盘报道指出，美联储此轮加息可能不会一次到位。市场此前普遍预期美联储将很快结束紧缩周期，但最新信号显示，由于通胀压力持续存在，未来可能还有更多加息动作。这一预期变化对科技股和AI相关投资产生直接影响，因为利率上升会提高融资成本、压低成长型资产估值。投资者需密切关注美联储后续政策走向及其对AI产业资本环境的潜在冲击。",
     "category": "industry"
   },
   {
@@ -5322,181 +5498,5 @@
     "title_zh": "宜家将其廉价蓝牙音箱加大尺寸并新增光纤输入接口",
     "summary_zh": "宜家对其广受欢迎的廉价蓝牙音箱进行了升级，不仅增大了产品尺寸以提升音质表现，还新增了光纤输入接口，使其可以连接电视等更多音源设备。这一更新延续了宜家高性价比音频产品的一贯定位，进一步降低了用户搭建家庭音响系统的门槛。宜家正通过持续迭代产品，在消费电子音频市场中扩大自身影响力。",
     "category": "product"
-  },
-  {
-    "id": "11f6856b422bdcbaf1dc6e2f930515f7",
-    "title_en": "The Download: biotech’s future and cheaper, cleaner steel",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "published_at": "2026-09-11T12:10:00.000Z",
-    "fetched_at": "2026-09-11T15:33:14.686Z",
-    "title_zh": "每日下载：生物技术的未来与更廉价、更清洁的钢铁",
-    "summary_zh": "本期MIT科技评论每日下载聚焦两大前沿话题：生物技术产业的未来发展方向，以及新型钢铁制造工艺如何实现更低成本与更清洁的排放。文章探讨了生物技术在医疗、农业等领域的突破性应用前景，同时介绍了钢铁行业在脱碳压力下的技术创新路径，为读者呈现科技驱动可持续发展的最新图景。",
-    "category": "research"
-  },
-  {
-    "id": "40a5de6a17a3a0e9fcbaeada3e6da6f8",
-    "title_en": "Arizona’s lifeline for chip manufacturing is drying up",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-    "published_at": "2026-09-11T12:00:00.000Z",
-    "fetched_at": "2026-09-11T15:33:14.162Z",
-    "title_zh": "亚利桑那州芯片制造业的生命线正在枯竭",
-    "summary_zh": "亚利桑那州作为美国芯片制造业的重要基地，其关键资源——水资源正面临日益严重的短缺问题。芯片制造需要大量超纯水，而该州长期干旱和地下水过度开采导致供水危机加剧。这一困境对台积电、英特尔等在该州投资建厂的芯片巨头构成重大挑战，也引发了对美国芯片产业回流战略可持续性的质疑。水资源瓶颈可能成为制约美国半导体产业发展的关键因素。",
-    "category": "industry"
-  },
-  {
-    "id": "356d39debe35530542f676f793b93716",
-    "title_en": "ClickFix attacks infecting PCs and Macs are going viral",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-    "published_at": "2026-09-11T11:30:58.000Z",
-    "fetched_at": "2026-09-11T15:33:14.468Z",
-    "title_zh": "ClickFix攻击正在感染PC和Mac并迅速传播",
-    "summary_zh": "一种名为ClickFix的新型网络攻击正在快速蔓延，已感染大量Windows PC和Mac设备。该攻击通过诱导用户点击伪造的验证页面，诱骗其手动执行恶意命令，从而绕过传统安全防护。ClickFix利用了社会工程学手段，攻击方式简单却高效，安全专家警告用户提高警惕，不要轻易在可疑网站上执行任何操作。该攻击的快速传播凸显了当前网络安全形势的严峻性。",
-    "category": "research"
-  },
-  {
-    "id": "4b3a440e9c29351112418e965e36ad28",
-    "title_en": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
-    "published_at": "2026-09-11T11:07:24.000Z",
-    "fetched_at": "2026-09-11T15:33:14.162Z",
-    "title_zh": "Insta360推出单镜头Osmo Pocket竞品，可在美国直接购买",
-    "summary_zh": "Insta360发布了一款单镜头便携相机，直接对标大疆Osmo Pocket系列，且该产品可在美国市场正常购买。这款新品主打轻便设计和高质量视频拍摄，面向Vlog创作者和户外运动爱好者。值得注意的是，由于大疆产品在美国面临进口限制，Insta360此举被视为抢占美国便携相机市场空白的重要战略布局。",
-    "category": "product"
-  },
-  {
-    "id": "d50935635a88c4ec0f989ec9c608b624",
-    "title_en": "This Man Has a Cult Internet Following Over His Olive Garden Lifetime Pasta Pass",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
-    "published_at": "2026-09-11T11:00:00.000Z",
-    "fetched_at": "2026-09-11T15:33:14.608Z",
-    "title_zh": "这名男子因 Olive Garden 终身意面通行证在网络上拥有狂热粉丝",
-    "summary_zh": "Wired 报道了一位因持有 Olive Garden“终身意面通行证”而在网络上收获狂热粉丝的男子。该通行证允许持有者长期免费享用意面，因其稀缺性和趣味性，成为社交媒体上的话题焦点。文章通过这一轻松案例，展现了网络文化、品牌营销与个人 IP 之间的互动，也反映了人们对“终身福利”和餐饮优惠的强烈兴趣。",
-    "category": "product"
-  },
-  {
-    "id": "ff44e787213f6beef9d3b9a4c0fb14f2",
-    "title_en": "8 Best Travel Adapters (2026): 20+ Models Tested",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-travel-adapters/",
-    "published_at": "2026-09-11T11:00:00.000Z",
-    "fetched_at": "2026-09-11T15:33:14.608Z",
-    "title_zh": "2026 年最佳旅行转换插头：8 款推荐，实测 20 多款",
-    "summary_zh": "Wired 发布 2026 年旅行转换插头选购指南，测试了 20 多款产品后选出 8 款最佳型号。文章从插头兼容性、USB 充电功率、体积重量、安全保护和耐用性等维度进行评估，帮助不同需求的旅行者做出选择。对于经常跨国出行、需要同时给手机、笔记本和其他设备充电的用户，这份实测榜单提供了实用参考。",
-    "category": "product"
-  },
-  {
-    "id": "4b223dc3d5091406014175b003f516f2",
-    "title_en": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-    "published_at": "2026-09-11T10:45:00.000Z",
-    "fetched_at": "2026-09-11T15:33:14.608Z",
-    "title_zh": "我用 John Deere 自助维修服务修好了拖拉机，但农民们并不买账",
-    "summary_zh": "Wired 报道，作者利用 John Deere 推出的自助维修服务成功修复了一台拖拉机，但农民群体对此仍持怀疑态度。长期以来，John Deere 因限制设备维修权限而饱受“维修权”争议。尽管官方开放了部分工具和文档，农民认为实际限制仍多、成本高、流程复杂，难以真正实现自主维修。文章反映了农业科技垄断与用户权利之间的持续博弈。",
-    "category": "industry"
-  },
-  {
-    "id": "e57a720d87274bf4fe54ae87bfb34f7d",
-    "title_en": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-mushroom-coffee/",
-    "published_at": "2026-09-11T10:33:00.000Z",
-    "fetched_at": "2026-09-11T15:33:14.608Z",
-    "title_zh": "我们试喝了最流行的蘑菇咖啡，这些是 2026 年最佳选择",
-    "summary_zh": "Wired 对市面上最流行的蘑菇咖啡进行了试喝评测，并选出 2026 年最佳产品。蘑菇咖啡通常将猴头菇、灵芝等成分与咖啡混合，宣称可提升专注力、缓解焦虑或增强免疫。文章从口感、成分透明度、咖啡因含量和性价比等角度进行对比，帮助消费者判断这类功能性饮品是否值得尝试，以及如何避开营销噱头。",
-    "category": "product"
-  },
-  {
-    "id": "19cd5a849a2bcb31ad910a46b707f89d",
-    "title_en": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/",
-    "published_at": "2026-09-11T10:30:00.000Z",
-    "fetched_at": "2026-09-11T15:33:14.608Z",
-    "title_zh": "特朗普外星人'披露演讲'传闻愈演愈烈",
-    "summary_zh": "近日，关于特朗普将发表外星人'披露演讲'的传闻在网络上持续发酵，引发广泛关注。尽管目前尚无官方证实，但相关猜测已在社交媒体和UFO爱好者社区中达到白热化程度。这一现象反映出公众对政府信息公开的强烈期待，也凸显了在信息时代谣言传播的速度与影响力。",
-    "category": "industry"
-  },
-  {
-    "id": "a51f3d3f216bb66f20da3f0e298c34c0",
-    "title_en": "Apple addresses iPhone Duo copycats",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
-    "published_at": "2026-09-11T10:02:58.000Z",
-    "fetched_at": "2026-09-11T15:33:14.162Z",
-    "title_zh": "苹果回应iPhone Duo模仿者",
-    "summary_zh": "苹果针对市场上出现的iPhone Duo模仿产品做出回应。这些模仿者试图复制苹果产品的设计理念和功能特性，引发了知识产权和品牌保护方面的争议。苹果的回应表明其将积极维护自身产品设计的独特性，不排除采取法律手段打击仿冒行为。此事件也反映出智能手机配件和周边市场中，模仿与创新之间的持续张力。",
-    "category": "industry"
-  },
-  {
-    "id": "8b690c972e39fc5ed01faec132392b39",
-    "title_en": "How 9/11 Made Everyone a Conspiracy Theorist",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain/",
-    "published_at": "2026-09-11T10:00:00.000Z",
-    "fetched_at": "2026-09-11T10:15:07.237Z",
-    "title_zh": "9·11事件如何让每个人都成了阴谋论者",
-    "summary_zh": "《连线》杂志回顾9·11事件对公众认知的深远影响，探讨这场灾难如何催生了大规模阴谋论文化。文章分析了信息真空、政府叙事可信度下降以及互联网早期传播机制等因素，指出9·11是阴谋论从边缘走向主流的转折点。这一文化现象也为理解当今AI时代的虚假信息传播提供了历史参照。",
-    "category": "industry"
-  },
-  {
-    "id": "71c5f172233092335e6348ca04f35762",
-    "title_en": "India's Gen Z shares personal issues with AI despite privacy risks: Report",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/technology/artificial-intelligence/india-s-gen-z-shares-personal-issues-with-ai-despite-privacy-risks-report-126091100715_1.html",
-    "published_at": "2026-09-11T09:45:12Z",
-    "fetched_at": "2026-09-12T09:49:06.486Z",
-    "title_zh": "报告：印度Z世代无视隐私风险，向AI倾诉个人问题",
-    "summary_zh": "据《商业标准报》报道，最新报告显示印度Z世代用户尽管意识到隐私风险，仍频繁向AI聊天机器人倾诉个人情感、心理及生活问题。这一趋势反映出年轻一代对AI的高度信任与依赖，同时也引发了对数据安全、心理健康干预边界以及AI伦理的广泛讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "c42e4f76ea8097d0b8603019cc41fa68",
-    "title_en": " This week's viral Champions League images ",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/this-weeks-viral-champions-league-images-43439972",
-    "published_at": "2026-09-11T09:40:00Z",
-    "fetched_at": "2026-09-12T09:49:06.486Z",
-    "title_zh": "本周欧冠联赛病毒式传播图片盘点",
-    "summary_zh": "Onefootball盘点了本周欧冠联赛中在社交媒体上病毒式传播的精彩图片，涵盖进球瞬间、球迷庆祝、球员互动等画面。这些图片迅速走红网络，展现了欧冠赛事的巨大影响力与球迷热情，也成为本周足球圈热议的话题之一。",
-    "category": "industry"
-  },
-  {
-    "id": "0cbc3b2aa22ff081cdaefd5f85b2891a",
-    "title_en": "Ant International to let AI agents shop across AlipayHK, Starryblu, KakaoPay and Toss",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/6b87764ac4d16ff2",
-    "published_at": "2026-09-11T09:37:47Z",
-    "fetched_at": "2026-09-12T09:49:06.486Z",
-    "title_zh": "蚂蚁国际将允许AI代理在AlipayHK、Starryblu、KakaoPay和Toss上购物",
-    "summary_zh": "蚂蚁国际宣布，将支持AI代理在其旗下及合作支付平台AlipayHK、Starryblu、KakaoPay和Toss上进行购物操作。这意味着用户可通过AI助手自动完成比价、下单与支付流程，标志着AI代理在跨境支付与电商场景中的商业化落地迈出重要一步。",
-    "category": "product"
-  },
-  {
-    "id": "015e11d43aadd252e01be7c820ab3216",
-    "title_en": "How could AI kill humans? Experts explain the risks after researcher's viral warning",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/a950fe558c4b5a60",
-    "published_at": "2026-09-11T09:37:34Z",
-    "fetched_at": "2026-09-12T09:49:06.486Z",
-    "title_zh": "AI如何杀死人类？研究员病毒式警告后专家解读风险",
-    "summary_zh": "在一名研究员的警告视频引发广泛传播后，多位专家就AI可能对人类构成的风险展开解读。专家指出，AI的潜在危害包括被用于生物武器研发、网络攻击、自动化决策失控等。尽管“AI灭绝人类”仍属极端情景，但相关风险已不容忽视，需加强监管与国际合作。",
-    "category": "research"
-  },
-  {
-    "id": "9a41378273a9a398c61a1a5f60ce7e76",
-    "title_en": "How AI makes biological research more dangerous",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/96666e381f69c188",
-    "published_at": "2026-09-11T09:37:32Z",
-    "fetched_at": "2026-09-12T09:49:06.486Z",
-    "title_zh": "AI如何让生物学研究变得更危险",
-    "summary_zh": "随着AI在生物学领域的广泛应用，专家警告其可能被滥用于制造危险病原体或毒素。AI可加速蛋白质设计与基因编辑，降低生物武器研发门槛，使恶意行为者更容易获取相关知识。文章呼吁加强生物安全监管，并建立AI与生物研究交叉领域的伦理规范。",
-    "category": "research"
   }
 ]
