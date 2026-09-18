@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-18",
-      "summary_zh": "今日GitHub热榜聚焦AI编码代理与安全审计：阿里开源代码审查工具、Cloudflare安全审计技能、腾讯浏览器自动化及知识平台等亮眼。",
+      "summary_zh": "今日GitHub热榜聚焦AI编程代理：安全审计、代码审查、浏览器自动化及技能框架成热点，Claude生态与规范驱动开发受关注。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 11625,
-          "stars_today": 3607,
+          "stars_total": 12510,
+          "stars_today": 3019,
           "description_zh": "一种编码代理技能，用于多阶段安全审计，具有独立验证的机器可读发现结果"
         },
         {
@@ -20,8 +20,8 @@
           "url": "https://github.com/alibaba/open-code-review",
           "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "stars_total": 36039,
-          "stars_today": 3286,
+          "stars_total": 36338,
+          "stars_today": 2724,
           "description_zh": "快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
         },
         {
@@ -30,8 +30,8 @@
           "url": "https://github.com/Tencent/BrowserSkill",
           "description_en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
           "language": "TypeScript",
-          "stars_total": 4791,
-          "stars_today": 1302,
+          "stars_total": 5029,
+          "stars_today": 1319,
           "description_zh": "让 AI 代理使用你真实的、已登录的浏览器，而不打断你的工作。CLI + 扩展，支持在任何具备 shell 能力的 AI 代理中进行浏览器自动化。"
         },
         {
@@ -40,169 +40,139 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 261484,
-          "stars_today": 1171,
+          "stars_total": 261687,
+          "stars_today": 965,
           "description_zh": "代理框架性能优化系统。面向 Claude Code、Codex、Opencode、Cursor 及更多的技能、本能、记忆、安全和研究优先开发。"
         },
         {
           "rank": 5,
-          "name": "Tencent/WeKnora",
-          "url": "https://github.com/Tencent/WeKnora",
-          "description_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "name": "asciimoo/hister",
+          "url": "https://github.com/asciimoo/hister",
+          "description_en": "Your own search engine",
           "language": "Go",
-          "stars_total": 26739,
-          "stars_today": 1125,
-          "description_zh": "开源 LLM 知识平台：将原始文档转化为可查询的 RAG、自主推理代理和自维护 Wiki。"
+          "stars_total": 4786,
+          "stars_today": 842,
+          "description_zh": "你自己的搜索引擎"
         },
         {
           "rank": 6,
-          "name": "alphaXiv/OpenResearch",
-          "url": "https://github.com/alphaXiv/OpenResearch",
-          "description_en": "Turn your coding agents into research agents",
-          "language": "Rust",
-          "stars_total": 5199,
-          "stars_today": 939,
-          "description_zh": "将你的编码代理转变为研究代理"
-        },
-        {
-          "rank": 7,
-          "name": "NationalSecurityAgency/ghidra",
-          "url": "https://github.com/NationalSecurityAgency/ghidra",
-          "description_en": "Ghidra is a software reverse engineering (SRE) framework",
-          "language": "Java",
-          "stars_total": 78763,
-          "stars_today": 912,
-          "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
-        },
-        {
-          "rank": 8,
-          "name": "JustVugg/colibri",
-          "url": "https://github.com/JustVugg/colibri",
-          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-          "language": "C",
-          "stars_total": 35952,
-          "stars_today": 873,
-          "description_zh": "在你已有的硬件上运行前沿 MoE 模型——纯 C、零依赖、专家从磁盘流式加载。微小引擎，庞大模型。🐦"
-        },
-        {
-          "rank": 9,
-          "name": "abue-ammar/tinycast",
-          "url": "https://github.com/abue-ammar/tinycast",
-          "description_en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-          "language": "Swift",
-          "stars_total": 6321,
-          "stars_today": 739,
-          "description_zh": "Tinycast——一个小巧、完全原生的 macOS 启动器、快捷键和剪贴板历史记录工具。"
-        },
-        {
-          "rank": 10,
           "name": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 96117,
-          "stars_today": 680,
+          "stars_total": 96206,
+          "stars_today": 677,
           "description_zh": "面向 AI 编码代理的生产级工程技能。"
         },
         {
-          "rank": 11,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
-          "language": "TypeScript",
-          "stars_total": 55028,
-          "stars_today": 667,
-          "description_zh": "开源 AI 语音工作室。克隆、听写、创作。"
-        },
-        {
-          "rank": 12,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "TypeScript",
-          "stars_total": 146021,
-          "stars_today": 538,
-          "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过执行日常任务、解释复杂代码和处理 git 工作流来帮助你更快地编码——这一切都通过自然语言命令完成。"
-        },
-        {
-          "rank": 13,
-          "name": "ever-co/ever-gauzy",
-          "url": "https://github.com/ever-co/ever-gauzy",
-          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-          "language": "TypeScript",
-          "stars_total": 7694,
-          "stars_today": 470,
-          "description_zh": "Ever® Gauzy™——开放业务管理平台（ERP/CRM/HRM/ATS/PM）——https://gauzy.co"
-        },
-        {
-          "rank": 14,
-          "name": "cline/cline",
-          "url": "https://github.com/cline/cline",
-          "description_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-          "language": "TypeScript",
-          "stars_total": 68654,
-          "stars_today": 380,
-          "description_zh": "作为 SDK、IDE 扩展或 CLI 助手的自主编码代理。"
-        },
-        {
-          "rank": 15,
+          "rank": 7,
           "name": "TencentCloud/Octop",
           "url": "https://github.com/TencentCloud/Octop",
           "description_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
           "language": "Python",
-          "stars_total": 3743,
-          "stars_today": 367,
+          "stars_total": 3837,
+          "stars_today": 571,
           "description_zh": "更智能的自托管 AI 助手——多用户、多代理。"
         },
         {
-          "rank": 16,
-          "name": "roboflow/supervision",
-          "url": "https://github.com/roboflow/supervision",
-          "description_en": "We write your reusable computer vision tools. 💜",
-          "language": "Python",
-          "stars_total": 50905,
-          "stars_today": 329,
-          "description_zh": "我们编写你可复用的计算机视觉工具。💜"
-        },
-        {
-          "rank": 17,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 24699,
-          "stars_today": 287,
-          "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
-        },
-        {
-          "rank": 18,
-          "name": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "description_en": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-          "language": "TypeScript",
-          "stars_total": 205204,
-          "stars_today": 281,
-          "description_zh": "具有原生 AI 能力的公平代码工作流自动化平台。将可视化构建与自定义代码相结合，支持自托管或云端，400+ 集成。"
-        },
-        {
-          "rank": 19,
+          "rank": 8,
           "name": "coder/coder",
           "url": "https://github.com/coder/coder",
           "description_en": "Secure environments for developers and their agents",
           "language": "Go",
-          "stars_total": 15017,
-          "stars_today": 145,
+          "stars_total": 15116,
+          "stars_today": 478,
           "description_zh": "为开发者及其代理提供安全环境"
         },
         {
-          "rank": 20,
-          "name": "cilium/cilium",
-          "url": "https://github.com/cilium/cilium",
-          "description_en": "eBPF-based Networking, Security, and Observability",
-          "language": "Go",
-          "stars_total": 25334,
-          "stars_today": 111,
-          "description_zh": "基于 eBPF 的网络、安全和可观测性"
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars_total": 146136,
+          "stars_today": 442,
+          "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过执行日常任务、解释复杂代码和处理 git 工作流来帮助你更快地编码——这一切都通过自然语言命令完成。"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars_total": 24768,
+          "stars_today": 300,
+          "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
+        },
+        {
+          "rank": 11,
+          "name": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description_en": "Spec-driven development (SDD) for AI coding assistants.",
+          "language": "TypeScript",
+          "stars_total": 69166,
+          "stars_today": 298,
+          "description_zh": "面向 AI 编程助手的规范驱动开发（SDD）。"
+        },
+        {
+          "rank": 12,
+          "name": "rustfs/rustfs",
+          "url": "https://github.com/rustfs/rustfs",
+          "description_en": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+          "language": "Rust",
+          "stars_total": 33016,
+          "stars_today": 298,
+          "description_zh": "RustFS 是一个开源、兼容 S3 的高性能对象存储系统，支持与其他 S3 兼容平台（如 MinIO 和 Ceph）的迁移与共存。"
+        },
+        {
+          "rank": 13,
+          "name": "ankitects/anki",
+          "url": "https://github.com/ankitects/anki",
+          "description_en": "Anki is a smart spaced repetition flashcard program",
+          "language": "Rust",
+          "stars_total": 31115,
+          "stars_today": 177,
+          "description_zh": "Anki 是一款智能间隔重复记忆卡片程序"
+        },
+        {
+          "rank": 14,
+          "name": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "description_en": "Free, simple, fast interactive diagrams for any GitHub repository",
+          "language": "TypeScript",
+          "stars_total": 16319,
+          "stars_today": 145,
+          "description_zh": "为任意 GitHub 仓库提供免费、简单、快速的交互式图表"
+        },
+        {
+          "rank": 15,
+          "name": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description_en": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+          "language": "TypeScript",
+          "stars_total": 30110,
+          "stars_today": 140,
+          "description_zh": "记忆与上下文引擎 + 应用，速度极快、可扩展，且可完全本地运行。面向 AI 时代的 Memory API。"
+        },
+        {
+          "rank": 16,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars_total": 110020,
+          "stars_today": 128,
+          "description_zh": "Postgres 开发平台。Supabase 为你提供一个专用的 Postgres 数据库，用于构建你的 Web、移动和 AI 应用。"
+        },
+        {
+          "rank": 17,
+          "name": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "description_en": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+          "language": "JavaScript",
+          "stars_total": 6377,
+          "stars_today": 64,
+          "description_zh": "AI 辅助的 TradingView 图表分析——将 Claude Code 连接到你的 TradingView 桌面端，实现个人工作流自动化"
         }
       ]
     },
