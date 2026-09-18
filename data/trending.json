@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-18",
-      "summary_zh": "今日GitHub热榜聚焦AI编码代理生态：代码审查、安全审计、浏览器自动化等Agent技能工具涌现，腾讯、阿里、Anthropic等大厂齐发力。",
+      "summary_zh": "今日GitHub热榜聚焦AI编码代理与安全审计：阿里开源代码审查工具、Cloudflare安全审计技能、腾讯浏览器自动化及知识平台等亮眼。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 10784,
+          "stars_total": 11625,
           "stars_today": 3607,
           "description_zh": "一种编码代理技能，用于多阶段安全审计，具有独立验证的机器可读发现结果"
         },
@@ -18,9 +18,9 @@
           "rank": 2,
           "name": "alibaba/open-code-review",
           "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "stars_total": 34945,
+          "stars_total": 36039,
           "stars_today": 3286,
           "description_zh": "快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/Tencent/BrowserSkill",
           "description_en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
           "language": "TypeScript",
-          "stars_total": 4276,
+          "stars_total": 4791,
           "stars_today": 1302,
           "description_zh": "让 AI 代理使用你真实的、已登录的浏览器，而不打断你的工作。CLI + 扩展，支持在任何具备 shell 能力的 AI 代理中进行浏览器自动化。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 261217,
+          "stars_total": 261484,
           "stars_today": 1171,
           "description_zh": "代理框架性能优化系统。面向 Claude Code、Codex、Opencode、Cursor 及更多的技能、本能、记忆、安全和研究优先开发。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/Tencent/WeKnora",
           "description_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
           "language": "Go",
-          "stars_total": 26325,
+          "stars_total": 26739,
           "stars_today": 1125,
           "description_zh": "开源 LLM 知识平台：将原始文档转化为可查询的 RAG、自主推理代理和自维护 Wiki。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/alphaXiv/OpenResearch",
           "description_en": "Turn your coding agents into research agents",
           "language": "Rust",
-          "stars_total": 4989,
+          "stars_total": 5199,
           "stars_today": 939,
           "description_zh": "将你的编码代理转变为研究代理"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/NationalSecurityAgency/ghidra",
           "description_en": "Ghidra is a software reverse engineering (SRE) framework",
           "language": "Java",
-          "stars_total": 78536,
+          "stars_total": 78763,
           "stars_today": 912,
           "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/JustVugg/colibri",
           "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
           "language": "C",
-          "stars_total": 35776,
+          "stars_total": 35952,
           "stars_today": 873,
           "description_zh": "在你已有的硬件上运行前沿 MoE 模型——纯 C、零依赖、专家从磁盘流式加载。微小引擎，庞大模型。🐦"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/abue-ammar/tinycast",
           "description_en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
           "language": "Swift",
-          "stars_total": 6175,
+          "stars_total": 6321,
           "stars_today": 739,
           "description_zh": "Tinycast——一个小巧、完全原生的 macOS 启动器、快捷键和剪贴板历史记录工具。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 95887,
+          "stars_total": 96117,
           "stars_today": 680,
           "description_zh": "面向 AI 编码代理的生产级工程技能。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/jamiepine/voicebox",
           "description_en": "The open-source AI voice studio. Clone, dictate, create.",
           "language": "TypeScript",
-          "stars_total": 54883,
+          "stars_total": 55028,
           "stars_today": 667,
           "description_zh": "开源 AI 语音工作室。克隆、听写、创作。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/anthropics/claude-code",
           "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "TypeScript",
-          "stars_total": 145899,
+          "stars_total": 146021,
           "stars_today": 538,
           "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过执行日常任务、解释复杂代码和处理 git 工作流来帮助你更快地编码——这一切都通过自然语言命令完成。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/ever-co/ever-gauzy",
           "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
           "language": "TypeScript",
-          "stars_total": 7568,
+          "stars_total": 7694,
           "stars_today": 470,
           "description_zh": "Ever® Gauzy™——开放业务管理平台（ERP/CRM/HRM/ATS/PM）——https://gauzy.co"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/cline/cline",
           "description_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
           "language": "TypeScript",
-          "stars_total": 68575,
+          "stars_total": 68654,
           "stars_today": 380,
           "description_zh": "作为 SDK、IDE 扩展或 CLI 助手的自主编码代理。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/TencentCloud/Octop",
           "description_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
           "language": "Python",
-          "stars_total": 3501,
+          "stars_total": 3743,
           "stars_today": 367,
           "description_zh": "更智能的自托管 AI 助手——多用户、多代理。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/roboflow/supervision",
           "description_en": "We write your reusable computer vision tools. 💜",
           "language": "Python",
-          "stars_total": 50817,
+          "stars_total": 50905,
           "stars_today": 329,
           "description_zh": "我们编写你可复用的计算机视觉工具。💜"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 24595,
+          "stars_total": 24699,
           "stars_today": 287,
           "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/n8n-io/n8n",
           "description_en": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
           "language": "TypeScript",
-          "stars_total": 205036,
+          "stars_total": 205204,
           "stars_today": 281,
           "description_zh": "具有原生 AI 能力的公平代码工作流自动化平台。将可视化构建与自定义代码相结合，支持自托管或云端，400+ 集成。"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/coder/coder",
           "description_en": "Secure environments for developers and their agents",
           "language": "Go",
-          "stars_total": 14873,
+          "stars_total": 15017,
           "stars_today": 145,
           "description_zh": "为开发者及其代理提供安全环境"
         },
@@ -200,7 +200,7 @@
           "url": "https://github.com/cilium/cilium",
           "description_en": "eBPF-based Networking, Security, and Observability",
           "language": "Go",
-          "stars_total": 25281,
+          "stars_total": 25334,
           "stars_today": 111,
           "description_zh": "基于 eBPF 的网络、安全和可观测性"
         }
