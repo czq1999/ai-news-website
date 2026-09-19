@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-19",
-      "summary_zh": "今日GitHub热榜聚焦AI编码代理生态：安全审计、代码审查、浏览器自动化及技能框架百花齐放，Anki等经典项目亦上榜。",
+      "summary_zh": "今日GitHub热榜聚焦AI编码代理与安全审计技能，涵盖多阶段安全审计、生产级代理技能、终端编码工具及GPU编排框架，同时文档处理与QUIC协议项目也备受关注。",
       "projects": [
         {
           "rank": 1,
@@ -10,39 +10,39 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 14732,
-          "stars_today": 3006,
+          "stars_total": 15458,
+          "stars_today": 3162,
           "description_zh": "一种编码代理技能，用于多阶段安全审计，具有独立验证的、机器可读的发现结果"
         },
         {
           "rank": 2,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "language": "Go",
-          "stars_total": 37085,
-          "stars_today": 2704,
-          "description_zh": "安全、快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 96780,
+          "stars_today": 547,
+          "description_zh": "面向 AI 编码代理的生产级工程技能。"
         },
         {
           "rank": 3,
-          "name": "Tencent/BrowserSkill",
-          "url": "https://github.com/Tencent/BrowserSkill",
-          "description_en": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "TypeScript",
-          "stars_total": 5551,
-          "stars_today": 1306,
-          "description_zh": "让 AI 代理使用你真实的、已登录的浏览器，而不打断你的工作。CLI + 扩展，支持在任何具备 shell 能力的 AI 代理中进行浏览器自动化。"
+          "stars_total": 146570,
+          "stars_today": 482,
+          "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编码。"
         },
         {
           "rank": 4,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 262415,
-          "stars_today": 958,
-          "description_zh": "代理框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全性和研究优先的开发。"
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "language": "TypeScript",
+          "stars_total": 15799,
+          "stars_today": 477,
+          "description_zh": "OpenStock 是昂贵市场平台的开源替代方案。实时追踪价格、设置个性化提醒，并探索详细的公司洞察——公开构建，面向所有人，永久免费。"
         },
         {
           "rank": 5,
@@ -50,129 +50,109 @@
           "url": "https://github.com/asciimoo/hister",
           "description_en": "Your own search engine",
           "language": "Go",
-          "stars_total": 5067,
-          "stars_today": 889,
+          "stars_total": 5130,
+          "stars_today": 430,
           "description_zh": "你自己的搜索引擎"
         },
         {
           "rank": 6,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 96613,
-          "stars_today": 675,
-          "description_zh": "面向 AI 编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 7,
-          "name": "TencentCloud/Octop",
-          "url": "https://github.com/TencentCloud/Octop",
-          "description_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-          "language": "Python",
-          "stars_total": 4084,
-          "stars_today": 569,
-          "description_zh": "更智能的自托管 AI 助手——多用户、多代理。"
-        },
-        {
-          "rank": 8,
           "name": "coder/coder",
           "url": "https://github.com/coder/coder",
           "description_en": "Secure environments for developers and their agents",
           "language": "Go",
-          "stars_total": 15423,
-          "stars_today": 478,
+          "stars_total": 15480,
+          "stars_today": 406,
           "description_zh": "为开发者及其代理提供安全环境"
         },
         {
-          "rank": 9,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "TypeScript",
-          "stars_total": 146479,
-          "stars_today": 444,
-          "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编码。"
+          "rank": 7,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "language": "HTML",
+          "stars_total": 24008,
+          "stars_today": 383,
+          "description_zh": "通过开源驱动、跨操作系统集群以及用于训练、评估和数据生成的基准测试，扩展 computer-use 2.0。"
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "name": "higgsfield-ai/higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "description_en": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+          "language": "Jupyter Notebook",
+          "stars_total": 4773,
+          "stars_today": 325,
+          "description_zh": "容错、高度可扩展的 GPU 编排，以及专为训练数十亿到数万亿参数模型而设计的机器学习框架"
+        },
+        {
+          "rank": 9,
           "name": "anthropics/knowledge-work-plugins",
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 24966,
-          "stars_today": 299,
+          "stars_total": 25015,
+          "stars_today": 280,
           "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
         },
         {
+          "rank": 10,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description_en": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+          "language": "Python",
+          "stars_total": 11473,
+          "stars_today": 207,
+          "description_zh": "面向微型设备的自动化基础模型：2-bit、8-29 MB，可在手机、可穿戴设备、智能家居、机器人、汽车和微控制器上实现工具调用、结构化提取和嵌入。"
+        },
+        {
           "rank": 11,
-          "name": "Fission-AI/OpenSpec",
-          "url": "https://github.com/Fission-AI/OpenSpec",
-          "description_en": "Spec-driven development (SDD) for AI coding assistants.",
-          "language": "TypeScript",
-          "stars_total": 69500,
-          "stars_today": 296,
-          "description_zh": "面向 AI 编码助手的规范驱动开发（SDD）。"
+          "name": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "description_en": "科技爱好者周刊，每周五发布",
+          "language": "",
+          "stars_total": 103028,
+          "stars_today": 144,
+          "description_zh": "科技爱好者周刊，每周五发布"
         },
         {
           "rank": 12,
-          "name": "rustfs/rustfs",
-          "url": "https://github.com/rustfs/rustfs",
-          "description_en": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-          "language": "Rust",
-          "stars_total": 33283,
-          "stars_today": 267,
-          "description_zh": "RustFS 是一个开源、兼容 S3 的高性能对象存储系统，支持与其他 S3 兼容平台（如 MinIO 和 Ceph）的迁移和共存。"
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description_en": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars_total": 66811,
+          "stars_today": 94,
+          "description_zh": "让你的文档为生成式 AI 做好准备"
         },
         {
           "rank": 13,
-          "name": "ankitects/anki",
-          "url": "https://github.com/ankitects/anki",
-          "description_en": "Anki is a smart spaced repetition flashcard program",
+          "name": "yynxxxxx/Codex-X",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "description_en": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
           "language": "Rust",
-          "stars_total": 31291,
-          "stars_today": 174,
-          "description_zh": "Anki 是一款智能间隔重复闪卡程序"
+          "stars_total": 3341,
+          "stars_today": 64,
+          "description_zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
         },
         {
           "rank": 14,
-          "name": "ahmedkhaleel2004/gitdiagram",
-          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
-          "description_en": "Free, simple, fast interactive diagrams for any GitHub repository",
+          "name": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "description_en": "人人都能用英语",
           "language": "TypeScript",
-          "stars_total": 16587,
-          "stars_today": 152,
-          "description_zh": "为任何 GitHub 仓库提供免费、简单、快速的交互式图表"
+          "stars_total": 37700,
+          "stars_today": 31,
+          "description_zh": "人人都能用英语"
         },
         {
           "rank": 15,
-          "name": "supermemoryai/supermemory",
-          "url": "https://github.com/supermemoryai/supermemory",
-          "description_en": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-          "language": "TypeScript",
-          "stars_total": 30461,
-          "stars_today": 140,
-          "description_zh": "记忆与上下文引擎 + 应用，速度极快、可扩展，并且可以完全本地运行。面向 AI 时代的 Memory API。"
-        },
-        {
-          "rank": 16,
-          "name": "supabase/supabase",
-          "url": "https://github.com/supabase/supabase",
-          "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-          "language": "TypeScript",
-          "stars_total": 110252,
-          "stars_today": 120,
-          "description_zh": "Postgres 开发平台。Supabase 为你提供一个专用的 Postgres 数据库，用于构建你的 Web、移动和 AI 应用。"
-        },
-        {
-          "rank": 17,
-          "name": "tradesdontlie/tradingview-mcp",
-          "url": "https://github.com/tradesdontlie/tradingview-mcp",
-          "description_en": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-          "language": "JavaScript",
-          "stars_total": 6545,
-          "stars_today": 79,
-          "description_zh": "AI 辅助的 TradingView 图表分析——将 Claude Code 连接到你的 TradingView Desktop，实现个人工作流自动化"
+          "name": "cloudflare/quiche",
+          "url": "https://github.com/cloudflare/quiche",
+          "description_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+          "language": "Rust",
+          "stars_total": 11903,
+          "stars_today": 5,
+          "description_zh": "🥧 QUIC 传输协议和 HTTP/3 的美味实现"
         }
       ]
     },
