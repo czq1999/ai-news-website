@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-19",
-      "summary_zh": "今日GitHub热榜聚焦AI编码代理与安全审计技能，涵盖多阶段安全审计、生产级代理技能、终端编码工具及GPU编排框架，同时文档处理与QUIC协议项目也备受关注。",
+      "summary_zh": "AI编码代理技能与安全审计工具走热，开发者环境、文档处理及GPU编排受关注。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 15458,
+          "stars_total": 15964,
           "stars_today": 3162,
           "description_zh": "一种编码代理技能，用于多阶段安全审计，具有独立验证的、机器可读的发现结果"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 96780,
+          "stars_total": 96914,
           "stars_today": 547,
           "description_zh": "面向 AI 编码代理的生产级工程技能。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/anthropics/claude-code",
           "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "TypeScript",
-          "stars_total": 146570,
+          "stars_total": 146637,
           "stars_today": 482,
           "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编码。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/Open-Dev-Society/OpenStock",
           "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
           "language": "TypeScript",
-          "stars_total": 15799,
+          "stars_total": 15928,
           "stars_today": 477,
           "description_zh": "OpenStock 是昂贵市场平台的开源替代方案。实时追踪价格、设置个性化提醒，并探索详细的公司洞察——公开构建，面向所有人，永久免费。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/asciimoo/hister",
           "description_en": "Your own search engine",
           "language": "Go",
-          "stars_total": 5130,
+          "stars_total": 5188,
           "stars_today": 430,
           "description_zh": "你自己的搜索引擎"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/coder/coder",
           "description_en": "Secure environments for developers and their agents",
           "language": "Go",
-          "stars_total": 15480,
+          "stars_total": 15558,
           "stars_today": 406,
           "description_zh": "为开发者及其代理提供安全环境"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/trycua/cua",
           "description_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
           "language": "HTML",
-          "stars_total": 24008,
+          "stars_total": 24225,
           "stars_today": 383,
           "description_zh": "通过开源驱动、跨操作系统集群以及用于训练、评估和数据生成的基准测试，扩展 computer-use 2.0。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/higgsfield-ai/higgsfield",
           "description_en": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
           "language": "Jupyter Notebook",
-          "stars_total": 4773,
+          "stars_total": 4879,
           "stars_today": 325,
           "description_zh": "容错、高度可扩展的 GPU 编排，以及专为训练数十亿到数万亿参数模型而设计的机器学习框架"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 25015,
+          "stars_total": 25074,
           "stars_today": 280,
           "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/cactus-compute/needle",
           "description_en": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
           "language": "Python",
-          "stars_total": 11473,
+          "stars_total": 11547,
           "stars_today": 207,
           "description_zh": "面向微型设备的自动化基础模型：2-bit、8-29 MB，可在手机、可穿戴设备、智能家居、机器人、汽车和微控制器上实现工具调用、结构化提取和嵌入。"
         },
@@ -110,8 +110,8 @@
           "url": "https://github.com/ruanyf/weekly",
           "description_en": "科技爱好者周刊，每周五发布",
           "language": "",
-          "stars_total": 103028,
-          "stars_today": 144,
+          "stars_total": 103093,
+          "stars_today": 151,
           "description_zh": "科技爱好者周刊，每周五发布"
         },
         {
@@ -120,39 +120,39 @@
           "url": "https://github.com/docling-project/docling",
           "description_en": "Get your documents ready for gen AI",
           "language": "Python",
-          "stars_total": 66811,
+          "stars_total": 66951,
           "stars_today": 94,
           "description_zh": "让你的文档为生成式 AI 做好准备"
         },
         {
           "rank": 13,
-          "name": "yynxxxxx/Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "description_en": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-          "language": "Rust",
-          "stars_total": 3341,
-          "stars_today": 64,
-          "description_zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
-        },
-        {
-          "rank": 14,
-          "name": "ZuodaoTech/everyone-can-use-english",
-          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-          "description_en": "人人都能用英语",
-          "language": "TypeScript",
-          "stars_total": 37700,
-          "stars_today": 31,
-          "description_zh": "人人都能用英语"
-        },
-        {
-          "rank": 15,
           "name": "cloudflare/quiche",
           "url": "https://github.com/cloudflare/quiche",
           "description_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
           "language": "Rust",
-          "stars_total": 11903,
-          "stars_today": 5,
+          "stars_total": 11970,
+          "stars_today": 84,
           "description_zh": "🥧 QUIC 传输协议和 HTTP/3 的美味实现"
+        },
+        {
+          "rank": 14,
+          "name": "yynxxxxx/Codex-X",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "description_en": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+          "language": "Rust",
+          "stars_total": 3370,
+          "stars_today": 59,
+          "description_zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+        },
+        {
+          "rank": 15,
+          "name": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "description_en": "人人都能用英语",
+          "language": "TypeScript",
+          "stars_total": 37758,
+          "stars_today": 31,
+          "description_zh": "人人都能用英语"
         }
       ]
     },
