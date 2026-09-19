@@ -1,5 +1,93 @@
 [
   {
+    "id": "cdfa8c84742b86267666d7ef92ba45dc",
+    "title_en": "India forces caller-ID apps to feed spam reports to telcos",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "published_at": "2026-09-19T01:00:00.000Z",
+    "fetched_at": "2026-09-19T02:18:43.450Z",
+    "title_zh": "印度强制来电识别应用向电信运营商提交垃圾信息报告",
+    "summary_zh": "印度政府出台新规，要求Truecaller等来电识别应用必须将用户标记的垃圾来电和骚扰信息数据共享给电信运营商。此举旨在从源头治理骚扰电话问题，但也引发了用户隐私和数据安全的担忧。应用开发商需在合规与用户信任之间寻找平衡，否则可能面临监管处罚。",
+    "category": "industry"
+  },
+  {
+    "id": "e6a31c706fa396ad916a9ed76521f261",
+    "title_en": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "published_at": "2026-09-19T00:12:07.000Z",
+    "fetched_at": "2026-09-19T02:18:43.450Z",
+    "title_zh": "AI虚拟艺人Tilly Norwood的媒体巡演反响如预期般尴尬",
+    "summary_zh": "AI生成的虚拟艺人Tilly Norwood展开媒体宣传活动，试图以\"真人\"身份接受采访和互动，但效果适得其反。其生硬的回答和缺乏真实情感的表现引发广泛嘲讽，再次凸显当前AI在模拟人类自然交流方面的局限性。业界认为，虚拟偶像的商业化仍需克服恐怖谷效应和公众信任障碍。",
+    "category": "product"
+  },
+  {
+    "id": "002a70e4de0ab711fd87d454dd0f7f79",
+    "title_en": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "published_at": "2026-09-18T23:25:01.000Z",
+    "fetched_at": "2026-09-19T02:18:43.450Z",
+    "title_zh": "一家\"孵化创业公司的创业公司\"融资1亿美元，全力押注物理AI",
+    "summary_zh": "一家专门帮助创建其他初创企业的\"创业工作室\"成功融资1亿美元，宣布将全部资源投入物理AI领域，即让AI系统与真实世界交互的机器人、自动驾驶等技术。该模式通过集中资源和专业团队快速孵化多个项目，反映出投资界对具身智能和物理世界AI应用前景的高度看好。",
+    "category": "industry"
+  },
+  {
+    "id": "3ae620c807a254c25f8014e2397c2c50",
+    "title_en": "Anthropic is operating a lab that conducts biology experiments",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "published_at": "2026-09-18T23:13:31.000Z",
+    "fetched_at": "2026-09-19T02:18:43.450Z",
+    "title_zh": "Anthropic运营着一家进行生物学实验的实验室",
+    "summary_zh": "AI公司Anthropic被曝运营着一家生物学实验室，用于开展与AI安全和对齐相关的生物实验研究。此举可能旨在探索AI在生物领域的应用边界，同时评估潜在风险。这反映出领先AI公司正积极介入前沿科学研究，以更好地理解和控制AI系统在敏感领域的表现。",
+    "category": "industry"
+  },
+  {
+    "id": "ec7fc910a91e8bc4917391895b338b35",
+    "title_en": "AI hallucination nearly triggers US military operation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "published_at": "2026-09-18T23:12:32.000Z",
+    "fetched_at": "2026-09-19T02:18:43.450Z",
+    "title_zh": "AI幻觉险些触发美军军事行动",
+    "summary_zh": "据报道，一次AI系统产生的\"幻觉\"——即生成虚假或错误信息——几乎导致美军采取实际军事行动。这一事件凸显了将AI系统集成到军事决策流程中的巨大风险。专家呼吁在国防等高风险领域部署AI时，必须建立严格的人工审核机制和多重验证流程，防止错误信息引发不可挽回的后果。",
+    "category": "llm"
+  },
+  {
+    "id": "10426019874d82be0b9068e70daa9635",
+    "title_en": "Anthropic’s first embedded evaluator is … Accenture?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "published_at": "2026-09-18T21:44:33.000Z",
+    "fetched_at": "2026-09-19T02:18:43.450Z",
+    "title_zh": "Anthropic的首个嵌入式评估合作伙伴竟然是……埃森哲？",
+    "summary_zh": "Anthropic宣布其首个嵌入式评估合作伙伴为全球咨询巨头埃森哲，这一组合出乎许多人意料。埃森哲将把Anthropic的AI模型集成到企业客户的业务流程中，并提供评估和部署服务。此举标志着AI公司正通过与大型咨询公司合作加速企业级市场渗透，也反映出AI评估和治理服务正成为新兴商业机会。",
+    "category": "industry"
+  },
+  {
+    "id": "077d8f6ca8fa2cba3b89b245fa53f468",
+    "title_en": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "published_at": "2026-09-18T21:07:24.000Z",
+    "fetched_at": "2026-09-19T02:18:43.571Z",
+    "title_zh": "OpenAI和微软早知他们正在为互联网制造\"末日循环\"",
+    "summary_zh": "最新披露的信息显示，OpenAI和微软在推进AI搜索和内容生成技术时，早已意识到这可能对互联网生态造成\"末日循环\"效应——AI生成内容泛滥导致信息质量下降，进而污染AI训练数据。尽管如此，两家公司仍选择继续推进。这引发了对AI行业短视行为和互联网公共信息环境可持续性的深刻反思。",
+    "category": "industry"
+  },
+  {
+    "id": "c555160e1f42ad8a9a7c6ba11eefbf30",
+    "title_en": "World model companies are keeping a lot of secrets",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "published_at": "2026-09-18T20:18:14.000Z",
+    "fetched_at": "2026-09-19T02:18:43.450Z",
+    "title_zh": "世界模型公司正在保守大量秘密",
+    "summary_zh": "致力于构建\"世界模型\"的AI公司普遍对自身技术细节讳莫如深，不愿公开模型架构、训练数据和核心方法。这种保密文化源于激烈的竞争压力和对商业机密的保护，但也引发学术界对可复现性和安全审查的担忧。世界模型被视为通向通用人工智能的关键路径，各公司正争相抢占技术制高点。",
+    "category": "research"
+  },
+  {
     "id": "37a834e578cffeb2fef8b90031fc7bb0",
     "title_en": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
     "source": "Wired",
@@ -528,6 +616,83 @@
     "category": "product"
   },
   {
+    "id": "b55b265a1fd47ba285f473b517e961d1",
+    "title_en": "Lawmakers freak out at Melania Trump's 'creepy' AI robots plan for kids as panic grips nation",
+    "source": "Dailymail.com",
+    "url": "https://www.dailymail.com/news/us-politics/article-16139473/Lawmakers-freak-Melania-Trumps-creepy-AI-robots.html",
+    "published_at": "2026-09-18T02:15:56Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "梅拉尼娅·特朗普针对儿童的‘诡异’AI机器人计划引发议员恐慌，全国陷入焦虑",
+    "summary_zh": "梅拉尼娅·特朗普提出的一项针对儿童的AI机器人计划引发国会议员强烈反应，被批‘诡异’且存在隐私和伦理隐患。该计划旨在通过AI机器人与儿童互动，但批评者担忧其可能收集儿童数据、影响心理发展。事件反映出公众对AI进入儿童生活领域的普遍不安。",
+    "category": "product"
+  },
+  {
+    "id": "19a6bb3874a2123f83ed404fa4910c9c",
+    "title_en": "Anthropic says its model Claude is helping to build the next version of itself",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/Business/wireStory/anthropic-model-claude-helping-build-version-136547097",
+    "published_at": "2026-09-18T02:14:15Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "Anthropic称其模型Claude正在帮助构建自身的下一个版本",
+    "summary_zh": "Anthropic透露，其AI模型Claude正在参与开发下一代Claude模型的工作，标志着AI自我改进能力迈出重要一步。公司表示Claude在代码生成、测试和优化等方面为研发团队提供了实质性帮助。这一进展引发了对AI递归自我改进可能性和安全性的广泛讨论。",
+    "category": "llm"
+  },
+  {
+    "id": "ec5a28fe2da8c100c3afcafb34097a6c",
+    "title_en": "Anthropic says its model Claude is helping to build the next version of itself",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/Technology/wireStory/anthropic-model-claude-helping-build-version-136547098",
+    "published_at": "2026-09-18T02:14:10Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "Anthropic称其模型Claude正在帮助构建自身的下一个版本",
+    "summary_zh": "Anthropic披露其AI模型Claude正参与下一代模型的研发过程，包括代码编写、测试与优化等环节。这一‘AI造AI’的实践被视为递归自我改进的早期信号，既展示了AI辅助研发的巨大潜力，也引发了关于失控风险和安全对齐的深刻讨论。",
+    "category": "llm"
+  },
+  {
+    "id": "472d7f011e18d79710f7375a9bd74b87",
+    "title_en": "What will Trump and Xi discuss in Washington next week?",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/what-will-trump-and-xi-discuss-in-washington-next-week/articleshow/134323737.cms",
+    "published_at": "2026-09-18T02:09:04Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "特朗普与习近平下周将在华盛顿讨论什么？",
+    "summary_zh": "特朗普与习近平预计下周在华盛顿举行会晤，讨论议题可能涵盖贸易、科技竞争及地缘政治等关键领域。在AI技术竞争日益激烈的背景下，两国领导人的对话可能涉及芯片出口管制、AI安全治理等敏感话题，备受全球关注。",
+    "category": "industry"
+  },
+  {
+    "id": "0491b80daeec938d985e3c332ee6d0a1",
+    "title_en": "Forget the doomsday fears: AI danger is already here — in its DEI-drenched ‘soul’",
+    "source": "New York Post",
+    "url": "https://nypost.com/2026/09/17/opinion/forget-the-doomsday-fears-ai-danger-is-already-here/",
+    "published_at": "2026-09-18T02:06:43Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "别谈末日恐惧了：AI危险已至——藏在其充斥DEI的‘灵魂’中",
+    "summary_zh": "文章批评当前AI系统被过度灌输DEI（多元、公平、包容）理念，认为这种意识形态偏见本身就是一种现实危险，而非遥远的末日威胁。作者主张AI应保持中立，不应在价值观层面被特定政治议程绑架，呼吁业界重新审视AI训练中的意识形态倾向问题。",
+    "category": "llm"
+  },
+  {
+    "id": "bd1fe158ec3a6559fd5ba178142c5705",
+    "title_en": "dtcpay Welcomes SBI Group as Strategic Investor, Extending Series A to US$25M",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/dtcpay-welcomes-sbi-group-as-strategic-investor-extending-series-a-to-us-25m/article71479232.ece",
+    "published_at": "2026-09-18T02:00:38Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "dtcpay 获 SBI 集团战略投资，A 轮融资扩展至 2500 万美元",
+    "summary_zh": "新加坡数字支付平台 dtcpay 宣布获得日本金融巨头 SBI 集团的战略投资，使其 A 轮融资总额扩展至 2500 万美元。此次融资将用于加速 dtcpay 在亚洲市场的业务拓展，并推动其稳定币支付和数字资产结算服务的合规化进程。SBI 集团的加入不仅带来资金支持，还将为 dtcpay 提供广泛的金融生态资源和机构级合作网络，助力其在跨境支付领域与传统金融体系深度融合。",
+    "category": "industry"
+  },
+  {
+    "id": "f339cfd364b334b7bdce33e4becf31da",
+    "title_en": "Naomi Klein’s new book and big tech’s role in our fascism-fuelled end times",
+    "source": "Crikey",
+    "url": "http://www.crikey.com.au/2026/09/18/end-times-fascism-naomi-klein-astra-taylor-big-tech-ai-review/",
+    "published_at": "2026-09-18T02:00:27Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "娜奥米·克莱因新书探讨大型科技公司在法西斯化末日中的角色",
+    "summary_zh": "知名作家娜奥米·克莱因推出新书，深入剖析大型科技公司如何与威权主义势力交织，推动社会走向她所描述的“法西斯化末日”。书中指出，科技巨头通过算法操控、数据垄断和政治游说，正在侵蚀民主制度，并为极端政治力量提供基础设施支持。克莱因呼吁公众警惕科技权力的过度集中，并探讨了在人工智能时代如何重建公民社会抵抗力量的可能性。",
+    "category": "industry"
+  },
+  {
     "id": "d23c87c5c7393ae68d668848a085db7a",
     "title_en": "Waymo says Singapore will be its next international robotaxi city",
     "source": "The Verge",
@@ -537,6 +702,39 @@
     "title_zh": "Waymo宣布新加坡将成为其下一个国际Robotaxi城市",
     "summary_zh": "自动驾驶公司Waymo宣布新加坡将成为其下一个国际Robotaxi运营城市。这是Waymo继美国多个城市之后首次大规模拓展海外市场。新加坡以严格的交通法规和先进的智慧城市基础设施著称，被视为自动驾驶技术落地的理想试验场。此举也标志着Robotaxi行业竞争从美国本土向全球扩展。",
     "category": "product"
+  },
+  {
+    "id": "8fcedcfb891be110929a85a4512809b7",
+    "title_en": "2026 World Manufacturing Convention Opens Sept. 20 in Hefei",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/2026-world-manufacturing-convention-opens-sept-20-in-hefei-302882811.html",
+    "published_at": "2026-09-18T01:59:00Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "2026 世界制造业大会将于 9 月 20 日在合肥开幕",
+    "summary_zh": "2026 世界制造业大会定于 9 月 20 日在中国合肥开幕，预计将吸引全球数千家制造企业、科技公司和政府代表参会。本届大会将聚焦智能制造、工业人工智能、绿色能源和供应链数字化转型等前沿议题。合肥作为中国重要的科技创新和制造业基地，将借此机会展示其在新能源汽车、半导体和智能装备等领域的最新成果，推动国际合作与产业对接。",
+    "category": "industry"
+  },
+  {
+    "id": "dfeac7efc884436cb8ada0ffa0fffefd",
+    "title_en": "As AI reshapes jobs and workers change industries, employers need to be more flexible too",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/as-ai-reshapes-jobs-and-workers-change-industries-employers-need-to-be-more-flexible-too-292000",
+    "published_at": "2026-09-18T01:48:18Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "AI 重塑就业格局，劳动者跨行业转型，雇主也需更加灵活",
+    "summary_zh": "随着人工智能加速渗透各行业，大量劳动者被迫或主动进行跨行业转型，传统职业路径正在被打破。文章指出，雇主需要调整招聘标准、培训体系和用工模式，以更灵活的方式接纳具备不同背景的人才。同时，政策制定者应完善社会保障和再培训机制，帮助劳动者适应 AI 驱动的就业市场变化。文章强调，灵活性与包容性将成为未来劳动力市场的核心竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "452356c150119b60cf1019a86bce15a5",
+    "title_en": "Anthropic says its chatbot Claude is taking over the work of building its own successor",
+    "source": "Freerepublic.com",
+    "url": "https://freerepublic.com/focus/f-chat/4395969/posts",
+    "published_at": "2026-09-18T01:46:04Z",
+    "fetched_at": "2026-09-19T02:18:44.596Z",
+    "title_zh": "Anthropic 称其聊天机器人 Claude 正在接管构建自身后继版本的工作",
+    "summary_zh": "Anthropic 透露，其 AI 聊天机器人 Claude 已开始参与构建下一代模型的研发工作，包括代码编写、测试生成和部分架构优化任务。这一进展标志着 AI 自我迭代能力迈出重要一步，引发业界对 AI 自主开发和递归自我改进的广泛讨论。Anthropic 强调，人类研究人员仍对整个过程保持监督，但 Claude 的参与已显著提升研发效率，也为未来 AI 安全治理带来新的挑战。",
+    "category": "llm"
   },
   {
     "id": "1725548308dfc3d7cf65d46dddea4a2c",
@@ -5299,204 +5497,6 @@
     "fetched_at": "2026-09-13T20:00:54.033Z",
     "title_zh": "阵容确认：庞西奥在德卡诺堡垒面临考验",
     "summary_zh": "Onefootball报道，足球比赛阵容已确认，庞西奥将在德卡诺堡垒面临严峻考验。文章可能涉及某支球队的关键球员庞西奥在客场挑战强劲对手时的表现预期，以及双方阵容安排和战术看点。",
-    "category": "industry"
-  },
-  {
-    "id": "ad82813b096bf57b16f66cd14f4644f4",
-    "title_en": " Scum from the neighbouring city: derby choreo goes utterly mad!",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/scum-from-the-neighbouring-city-derby-choreo-goes-utterly-mad-43448655",
-    "published_at": "2026-09-12T19:41:00Z",
-    "fetched_at": "2026-09-13T20:00:54.033Z",
-    "title_zh": "来自邻城的渣滓：德比 choreo 彻底疯狂！",
-    "summary_zh": "Onefootball报道，一场德比战前的球迷 choreo（看台拼图/表演）因带有“来自邻城的渣滓”等激烈标语而彻底疯狂，引发广泛关注。文章描述了德比氛围的狂热与对立，以及球迷文化中极具争议的表达方式。",
-    "category": "industry"
-  },
-  {
-    "id": "ae86d30f4957de3a84af5eae296a695c",
-    "title_en": "The great AI hiring reversal: Why companies are rediscovering the value of skills intelligence",
-    "source": "Digital Journal",
-    "url": "https://www.digitaljournal.com/article/the-great-ai-hiring-reversal-why-companies-are-rediscovering-the-value-of-skills-intelligence/",
-    "published_at": "2026-09-12T19:39:26Z",
-    "fetched_at": "2026-09-13T20:00:54.033Z",
-    "title_zh": "AI招聘大逆转：为何企业重新发现技能智能的价值",
-    "summary_zh": "Digital Journal报道，随着AI在招聘领域的应用深入，企业正经历一场“招聘大逆转”，重新认识到技能智能的价值。文章分析了AI如何帮助企业更精准地识别和评估候选人技能，而非仅依赖学历或经验，从而提升招聘效率和质量，推动人力资源管理的智能化转型。",
-    "category": "industry"
-  },
-  {
-    "id": "baad3f9dabc2ec49a11bceff7f23d7aa",
-    "title_en": "Anthropic CEO outlines plan to slow AI development",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "published_at": "2026-09-12T19:34:44.000Z",
-    "fetched_at": "2026-09-12T19:53:07.191Z",
-    "title_zh": "Anthropic CEO 提出放缓 AI 发展计划",
-    "summary_zh": "Anthropic 首席执行官 Dario Amodei 公开提出一项放缓 AI 发展的计划，主张在推进前沿模型研发的同时加强安全评估与监管协调。他认为当前 AI 能力提升速度已超出社会适应能力，呼吁行业建立更审慎的发布节奏与风险控制机制，避免因竞争压力而忽视潜在危害。该表态引发业界对 AI 发展速度与安全平衡的广泛讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "839c4e5d29fa60c605ba381a1e1641f5",
-    "title_en": "Google's Historic 396 MW Clean Energy Deal Just Changed the Game for 1 AI Power Play",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/09da9d400a36e8e7",
-    "published_at": "2026-09-12T19:29:47Z",
-    "fetched_at": "2026-09-13T20:00:54.033Z",
-    "title_zh": "谷歌达成历史性396兆瓦清洁能源协议，彻底改变AI电力格局",
-    "summary_zh": "谷歌宣布签署一项历史性的396兆瓦清洁能源采购协议，此举被视为AI基础设施能源战略的重大转折点。随着大模型训练与推理对算力的需求激增，数据中心电力消耗成为行业瓶颈。该协议不仅为谷歌AI业务提供稳定低碳电力保障，也可能推动整个科技行业加速转向清洁能源，重塑AI算力竞争中的能源成本与可持续性格局。",
-    "category": "industry"
-  },
-  {
-    "id": "a1e9c020f920642006bba1ca793abb8b",
-    "title_en": "Sylvan Esso think you should splurge on good-quality yogurt",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-    "published_at": "2026-09-12T16:35:00.000Z",
-    "fetched_at": "2026-09-12T19:53:07.296Z",
-    "title_zh": "Sylvan Esso 认为你该花钱买优质酸奶",
-    "summary_zh": "美国电子流行组合 Sylvan Esso 在采访中分享了他们的生活消费理念，建议人们不要吝啬购买高品质酸奶。这一看似与科技无关的话题，反映了 The Verge 在报道科技之外对生活方式内容的拓展。该内容属于非 AI 科技新闻，与人工智能行业无直接关联。",
-    "category": "product"
-  },
-  {
-    "id": "423571cd7c5d29c6cc2a47b7846ecb9c",
-    "title_en": "Anthropic CEO says it’s time to pump the brakes on AI",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-    "published_at": "2026-09-12T16:23:40.000Z",
-    "fetched_at": "2026-09-12T19:53:07.296Z",
-    "title_zh": "Anthropic CEO 称是时候给 AI 踩刹车了",
-    "summary_zh": "Anthropic 首席执行官再次发声，强调当前 AI 发展速度过快，需要适当放缓。他指出，前沿模型能力持续跃升，但安全研究、监管框架和社会共识尚未跟上，行业应在追求性能的同时优先考虑风险防控。此番言论与该公司一贯倡导的负责任 AI 理念一致，也引发了对 AI 竞赛是否过热的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "8ceacc112e8b1c1d32c6c67dfc8f75de",
-    "title_en": "LG responds to TV spying allegations",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-    "published_at": "2026-09-12T15:19:44.000Z",
-    "fetched_at": "2026-09-12T19:53:07.296Z",
-    "title_zh": "LG 回应电视监视用户指控",
-    "summary_zh": "LG 就旗下智能电视被指监视用户的指控作出回应，否认未经授权收集观看数据，并解释相关功能需用户同意方可启用。此前有报道称部分 LG 电视的自动内容识别技术可能采集屏幕内容用于广告投放，引发隐私担忧。LG 表示将加强透明度并优化隐私设置，以回应用户和监管机构的关切。",
-    "category": "product"
-  },
-  {
-    "id": "10ce679441eeb9dfa2a9373dafebd78f",
-    "title_en": "Brics Delhi Declaration raises concerns over surge in payment frauds",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/industry/news/brics-delhi-declaration-raises-concerns-over-surge-in-payment-frauds-126091200866_1.html",
-    "published_at": "2026-09-12T15:17:18Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "金砖国家德里宣言对支付欺诈激增表示担忧",
-    "summary_zh": "据Business Standard报道，金砖国家在德里宣言中对支付欺诈案件激增表示担忧，并呼吁加强成员国之间的金融安全合作。随着数字支付和AI驱动欺诈手段的不断升级，新兴经济体正面临日益严峻的支付安全挑战，跨境协作成为应对关键。",
-    "category": "industry"
-  },
-  {
-    "id": "ac226d8aef6860b9953383c8f08f82bc",
-    "title_en": "‍♂️ VAR is back, but Colombo gets pen wrong ! Genoa claim first point",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/var-is-back-but-colombo-gets-pen-wrong-genoa-claim-first-point-43447154",
-    "published_at": "2026-09-12T15:17:00Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "VAR回归，但科伦坡判罚点球出错！热那亚拿到首分",
-    "summary_zh": "据Onefootball报道，VAR视频助理裁判系统重新启用，但在科伦坡相关比赛中出现点球判罚错误，引发争议。与此同时，热那亚队收获了本赛季首个积分。该报道聚焦足球赛事中的裁判技术应用与比赛结果，与AI行业无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "558a2c67e3abfb630a5c2960d5a30ccf",
-    "title_en": "Here's who stands to make money from the Anthropic IPO",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
-    "published_at": "2026-09-12T15:16:19Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "谁将从Anthropic的IPO中获利？",
-    "summary_zh": "据Yahoo Entertainment报道，随着Anthropic筹备IPO，其早期投资者、创始团队和员工持股者将成为主要受益方。作为OpenAI的主要竞争对手之一，Anthropic的上市计划备受关注，可能成为AI行业规模最大的IPO之一，也将为整个AI赛道的估值提供重要参考。",
-    "category": "industry"
-  },
-  {
-    "id": "226d3b76eb4dc5d62af63a605bf3639b",
-    "title_en": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-    "source": "Cointelegraph",
-    "url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters",
-    "published_at": "2026-09-12T15:12:40Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "英伟达考虑在Anthropic潜在创纪录IPO中投资100亿美元",
-    "summary_zh": "据Cointelegraph援引路透社报道，英伟达正考虑在Anthropic的IPO中投资高达100亿美元。若成行，这将成为AI领域规模最大的IPO之一，也进一步巩固英伟达在AI生态中的战略布局。此举被视为英伟达从芯片供应商向AI全产业链投资方延伸的重要信号。",
-    "category": "industry"
-  },
-  {
-    "id": "c65b82f1a583c5388cc7df509adb1831",
-    "title_en": "Could the US workweek drop to 32 hours? New Congress bill backed by Bernie Sanders and Mark Takano could change overtime rules",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/international/global-trends/could-the-us-workweek-drop-to-32-hours-new-congress-bill-backed-by-bernie-sanders-and-mark-takano-could-change-overtime-rules/articleshow/134139051.cms",
-    "published_at": "2026-09-12T15:10:23Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "美国每周工作时间能降至32小时吗？伯尼·桑德斯和马克·高野支持的新国会法案可能改变加班规则",
-    "summary_zh": "据《印度时报》报道，美国国会一项由伯尼·桑德斯和马克·高野支持的新法案提议将标准工作周缩短至32小时，并改革加班规则。在AI自动化加速取代部分岗位的背景下，该法案引发了关于工时、劳动权益和技术性失业的广泛讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "c3a7610a90b5f27662db34d7b1b3e03c",
-    "title_en": "Leaders of BRICS countries call for stronger cooperation in health, endorse initiatives on tuberculosis",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/leaders-of-brics-countries-call-for-stronger-cooperation-in-health-endorse-initiatives-on-tb/articleshow/134139783.cms",
-    "published_at": "2026-09-12T15:08:01Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "金砖国家领导人呼吁加强卫生合作，支持结核病防治倡议",
-    "summary_zh": "据《印度时报》报道，金砖国家领导人在峰会上呼吁加强成员国在公共卫生领域的合作，并支持结核病防治相关倡议。该报道聚焦国际卫生政策与多边合作，与AI行业无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "50d7f0f9c3e86301f281afa3e5bdf3db",
-    "title_en": "Anthropic CEO begs AI bosses to slow down on potentially deadly technology after whistleblower's chilling warning",
-    "source": "Dailymail.com",
-    "url": "https://www.dailymail.com/news/article-16125913/Anthropic-CEO-AI-slow-whistleblower-warning.html",
-    "published_at": "2026-09-12T15:03:57Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "Anthropic CEO在举报人发出令人不寒而栗的警告后，恳求AI老板们放慢可能致命技术的开发",
-    "summary_zh": "据《每日邮报》报道，Anthropic CEO在一位举报人发出关于AI潜在致命风险的警告后，公开呼吁AI行业领导者放慢相关技术开发步伐。这一表态反映了AI安全倡导者与加速派之间日益激烈的争论，也凸显了前沿AI实验室内部对风险管控的分歧。",
-    "category": "llm"
-  },
-  {
-    "id": "86e8255f14b88bc18e744e356819c19b",
-    "title_en": "Councils expected to zone enough land for 1m new homes, conference hears",
-    "source": "The Irish Times",
-    "url": "https://www.irishtimes.com/business/2026/09/12/councils-expected-to-zone-enough-land-for-1m-new-homes-conference-hears/",
-    "published_at": "2026-09-12T14:59:53Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "会议获悉，地方议会预计将划出足够土地建设100万套新住房",
-    "summary_zh": "据《爱尔兰时报》报道，在一次会议上获悉，爱尔兰地方议会预计将划出足够土地用于建设100万套新住房。该报道聚焦住房政策与城市规划，与AI行业无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "9724ff903a0c0831217331dfadfe9d76",
-    "title_en": " Too much TikTok?! Bundesliga captain’s words backfire",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/too-much-tiktok-bundesliga-captains-words-backfire-43447016",
-    "published_at": "2026-09-12T14:57:00Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "TikTok刷太多了？！德甲队长言论引火烧身",
-    "summary_zh": "德甲某球队队长因公开谈论TikTok使用问题而陷入舆论风波，其言论被外界解读为自相矛盾，反而招致批评。该事件折射出职业运动员在社交媒体时代的公众形象管理难题：一方面球员被鼓励通过短视频平台扩大影响力、与球迷互动，另一方面过度曝光或不当发言又可能引发争议。随着TikTok等平台深入体育圈，如何在商业价值与个人言行之间取得平衡，已成为俱乐部和球员共同面对的新课题。",
-    "category": "industry"
-  },
-  {
-    "id": "a4469c47ea9441d90ae613a49ddcd639",
-    "title_en": "feagi 2.1.51",
-    "source": "Pypi.org",
-    "url": "https://pypi.org/project/feagi/2.1.51/",
-    "published_at": "2026-09-12T14:56:20Z",
-    "fetched_at": "2026-09-13T15:19:19.650Z",
-    "title_zh": "feagi 2.1.51 版本发布",
-    "summary_zh": "FEAGI 是一个面向神经形态计算与类脑智能的开源框架，旨在为机器人及智能体提供可扩展的认知架构。此次发布的 2.1.51 版本属于常规迭代更新，通常包含缺陷修复、依赖升级与性能优化等内容，具体变更需参考官方更新日志。对于从事神经形态硬件、具身智能和脑启发算法研究的开发者而言，及时跟进此类版本有助于保持开发环境稳定，并获取最新的功能改进与兼容性支持。",
-    "category": "product"
-  },
-  {
-    "id": "bcfea4b7b1860b3b57720f79ba51a3bf",
-    "title_en": "Trump is giving data centers a pass to pollute",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "published_at": "2026-09-12T14:41:27.000Z",
-    "fetched_at": "2026-09-12T19:53:07.296Z",
-    "title_zh": "特朗普为数据中心污染开绿灯",
-    "summary_zh": "报道指出，特朗普政府放宽了对数据中心的环保监管，使其在能源消耗和污染排放方面获得更大豁免。随着 AI 算力需求激增，数据中心用电和碳排放问题日益突出，此举可能加剧环境压力。批评者认为，在 AI 快速扩张背景下放松监管将带来长期生态代价，而支持者则强调其对经济和科技竞争力的促进作用。",
     "category": "industry"
   }
 ]
