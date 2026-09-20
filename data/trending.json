@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-20",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体开发：Claude Code等编码代理工具、智能体框架与安全审计技能涌现，同时涵盖GPU编排、文档管理及开源金融平台。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体开发：Claude Code等编程助手、智能体框架与安全审计技能涌现，同时涵盖GPU编排、文档管理及开源金融工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,29 +10,29 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 17604,
+          "stars_total": 17853,
           "stars_today": 2375,
           "description_zh": "一个用于多阶段安全审计的编码代理技能，具有独立验证的、机器可读的发现结果"
         },
         {
           "rank": 2,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 263402,
-          "stars_today": 1012,
-          "description_zh": "智能体框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全以及研究优先的开发能力。"
-        },
-        {
-          "rank": 3,
           "name": "trycua/cua",
           "url": "https://github.com/trycua/cua",
           "description_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
           "language": "HTML",
-          "stars_total": 24970,
+          "stars_total": 25070,
           "stars_today": 1012,
           "description_zh": "通过开源驱动、跨操作系统集群以及用于训练、评估和数据生成的基准测试，扩展计算机使用 2.0。"
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 263583,
+          "stars_today": 837,
+          "description_zh": "智能体框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全以及研究优先的开发能力。"
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/Open-Dev-Society/OpenStock",
           "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
           "language": "TypeScript",
-          "stars_total": 16550,
+          "stars_total": 16682,
           "stars_today": 752,
           "description_zh": "OpenStock 是昂贵市场平台的开源替代方案。跟踪实时价格、设置个性化提醒，并探索详细的公司洞察——公开构建，面向所有人，永远免费。"
         },
@@ -50,49 +50,49 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 97481,
+          "stars_total": 97601,
           "stars_today": 729,
           "description_zh": "面向 AI 编码代理的生产级工程技能。"
         },
         {
           "rank": 6,
-          "name": "vercel-labs/json-render",
-          "url": "https://github.com/vercel-labs/json-render",
-          "description_en": "The Generative UI framework",
-          "language": "TypeScript",
-          "stars_total": 17074,
-          "stars_today": 585,
-          "description_zh": "生成式 UI 框架"
-        },
-        {
-          "rank": 7,
           "name": "higgsfield-ai/higgsfield",
           "url": "https://github.com/higgsfield-ai/higgsfield",
           "description_en": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
           "language": "Jupyter Notebook",
-          "stars_total": 5201,
+          "stars_total": 5304,
           "stars_today": 461,
           "description_zh": "容错、高度可扩展的 GPU 编排，以及一个专为训练数十亿到数万亿参数模型而设计的机器学习框架"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "anthropics/claude-code",
           "url": "https://github.com/anthropics/claude-code",
           "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "TypeScript",
-          "stars_total": 146957,
+          "stars_total": 147042,
           "stars_today": 415,
           "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编码。"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "coder/coder",
           "url": "https://github.com/coder/coder",
           "description_en": "Secure environments for developers and their agents",
           "language": "Go",
-          "stars_total": 15866,
+          "stars_total": 15974,
           "stars_today": 382,
           "description_zh": "为开发者及其代理提供安全环境"
+        },
+        {
+          "rank": 9,
+          "name": "vercel-labs/json-render",
+          "url": "https://github.com/vercel-labs/json-render",
+          "description_en": "The Generative UI framework",
+          "language": "TypeScript",
+          "stars_total": 17196,
+          "stars_today": 332,
+          "description_zh": "生成式 UI 框架"
         },
         {
           "rank": 10,
@@ -100,7 +100,7 @@
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 35235,
+          "stars_total": 35300,
           "stars_today": 236,
           "description_zh": ""
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/mihail911/modern-software-dev-assignments",
           "description_en": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
           "language": "Python",
-          "stars_total": 4457,
+          "stars_total": 4514,
           "stars_today": 174,
           "description_zh": "CS146S：现代软件开发（斯坦福大学 2026/2025 年秋季）课程作业"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/BuilderIO/agent-native",
           "description_en": "A framework for building agentic apps",
           "language": "TypeScript",
-          "stars_total": 5037,
+          "stars_total": 5129,
           "stars_today": 89,
           "description_zh": "一个用于构建智能体应用的框架"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/paperless-ngx/paperless-ngx",
           "description_en": "A community-supported supercharged document management system: scan, index and archive all your documents",
           "language": "Python",
-          "stars_total": 45411,
+          "stars_total": 45489,
           "stars_today": 32,
           "description_zh": "一个由社区支持的增强型文档管理系统：扫描、索引并归档你的所有文档"
         }
