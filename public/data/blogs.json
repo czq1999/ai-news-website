@@ -1,5 +1,115 @@
 [
   {
+    "id": "7cbf9d7c2c27b4901fb993f75c5e1e1d",
+    "title_en": "如何跟踪发现Linux内核补丁（patch） 原创",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/Rong_Toa/article/details/109693210",
+    "published_at": "2026-09-21T21:26:36.467Z",
+    "fetched_at": "2026-09-21T21:26:36.467Z",
+    "title_zh": "如何跟踪发现Linux内核补丁（patch）",
+    "summary_zh": "本文介绍跟踪与发现Linux内核补丁的实用方法，涵盖邮件列表订阅、Git仓库提交记录、稳定版与长期支持版分支对比、CVE关联查询等渠道，并讲解如何筛选与评估补丁的安全影响。内容对内核开发者与安全运维人员具有较高参考价值，有助于及时掌握内核漏洞修复动态并制定升级策略。",
+    "topic": "security"
+  },
+  {
+    "id": "4bf357199237815536030f8327966cac",
+    "title_en": "Linux 操作系统安全加固措施- Leonardo-li",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/Leonardo-li/p/17408922.html",
+    "published_at": "2026-09-21T21:26:34.719Z",
+    "fetched_at": "2026-09-21T21:26:34.719Z",
+    "title_zh": "Linux操作系统安全加固措施",
+    "summary_zh": "本文系统总结Linux操作系统的安全加固措施，涵盖账户与权限管理、SSH安全配置、防火墙策略、内核参数调优、日志审计、文件完整性监控及补丁管理等关键环节。内容以实操为导向，提供具体配置建议与检查清单，帮助运维人员提升服务器整体安全基线，适合作为Linux安全加固的实践参考。",
+    "topic": "security"
+  },
+  {
+    "id": "3e24e4ec99975d89cf7f422d7855e4a4",
+    "title_en": "8.9. 加固检查 - Web安全学习笔记",
+    "source": "websec.readthedocs.io",
+    "url": "https://websec.readthedocs.io/zh/latest/defense/reinforce.html",
+    "published_at": "2026-09-21T21:26:34.719Z",
+    "fetched_at": "2026-09-21T21:26:34.720Z",
+    "title_zh": "8.9. 加固检查——Web安全学习笔记",
+    "summary_zh": "该章节属于Web安全学习笔记的一部分，聚焦加固检查的流程与方法，介绍如何通过配置核查、漏洞扫描、权限审计与基线比对等手段评估系统安全状态。内容强调检查项的系统化与可操作性，帮助安全从业者建立规范的加固检查流程，适合作为Web安全学习与实战的参考资料。",
+    "topic": "security"
+  },
+  {
+    "id": "962e39dc507f6af1abc6831b7d708912",
+    "title_en": "How-To Geek - We Explain Technology",
+    "source": "howtogeek.com",
+    "url": "https://www.howtogeek.com/",
+    "published_at": "2026-09-21T21:26:34.718Z",
+    "fetched_at": "2026-09-21T21:26:34.718Z",
+    "title_zh": "How-To Geek——我们解读科技",
+    "summary_zh": "How-To Geek是一个面向大众的科技解读平台，提供操作系统、软件应用、硬件设备及网络技术等方面的实用教程与科普文章。内容以通俗易懂的方式解释技术原理与操作步骤，帮助普通用户解决日常遇到的科技问题，适合作为技术入门与问题排查的参考来源。",
+    "topic": "other"
+  },
+  {
+    "id": "e5a791bee62ab069e7b1b1e62ce9455f",
+    "title_en": "从0到1构建Kubernetes中间件运维平台：标准化",
+    "source": "tech.dewu.com",
+    "url": "https://tech.dewu.com/article?id=164",
+    "published_at": "2026-09-21T21:26:34.718Z",
+    "fetched_at": "2026-09-21T21:26:34.718Z",
+    "title_zh": "从0到1构建Kubernetes中间件运维平台：标准化",
+    "summary_zh": "本文分享从零构建Kubernetes中间件运维平台的实践经验，重点阐述标准化建设思路，包括中间件部署规范、配置管理、版本控制、监控告警与自动化运维流程的统一设计。通过标准化手段降低运维复杂度、提升交付效率与系统稳定性，适合负责K8s中间件管理的运维与平台工程师参考借鉴。",
+    "topic": "ops"
+  },
+  {
+    "id": "ccb32c88b361dd5573e32422b0289238",
+    "title_en": "AI Agent(智能体) 教程",
+    "source": "runoob.com",
+    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
+    "published_at": "2026-09-21T21:26:32.533Z",
+    "fetched_at": "2026-09-21T21:26:32.533Z",
+    "title_zh": "AI Agent（智能体）教程",
+    "summary_zh": "该教程系统介绍AI Agent的核心概念与开发方法，涵盖智能体的基本架构、工具调用、任务规划、记忆机制及多智能体协作等关键模块。通过循序渐进的讲解与示例，帮助开发者理解如何基于大语言模型构建具备自主决策与执行能力的智能体应用，适合希望快速入门Agent开发的工程师作为实践参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "e12c3646f75cce8af56afa83831da428",
+    "title_en": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1919338285160965135",
+    "published_at": "2026-09-21T21:26:32.533Z",
+    "fetched_at": "2026-09-21T21:26:32.533Z",
+    "title_zh": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent",
+    "summary_zh": "本文以万字篇幅系统剖析复杂AI Agent的开发全流程，从底层原理出发讲解任务分解、工具集成、上下文管理、多轮推理与错误恢复等核心机制，并结合工程实践给出优雅的架构设计与代码组织方案。内容兼顾理论深度与落地价值，适合有一定LLM基础的开发者提升Agent系统的可维护性与可靠性。",
+    "topic": "ai"
+  },
+  {
+    "id": "03a7dc31724e8bfa0b7ed45d4feb65bf",
+    "title_en": "資料中心基礎知識：完整入門指南開啟全面探索之旅 - Threads",
+    "source": "threads.com",
+    "url": "https://www.threads.com/@softnshare/post/DdiRt85CZWy/%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98%E5%AE%8C%E6%95%B4%E5%85%A5%E9%96%80%E6%8C%87%E5%8D%97%E9%96%8B%E5%95%9F%E5%85%A8%E9%9D%A2%E6%8E%A2%E7%B4%A2%E4%B9%8B%E6%97%85%E6%8F%AD%E9%96%8B%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E4%B8%96%E7%95%8C%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%B4%97%E5%8D%94%E5%8A%A9%E6%82%A8%E7%9A%84-it-%E8%81%B7%E6%B6%AF%E8%B5%B7%E9%A3%9B%E5%BE%9E%E9%80%99-20-%E5%B0%8F%E6%99%82%E7%9A%84%E8%AA%B2%E7%A8%8B%E4%BD%A0%E6%9C%83%E5%AD%B8%E5%88%B0-%E4%BA%86%E8%A7%A3%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E6%9E%B6%E6%A7%8B-%E6%8E%8C%E6%8F%A1%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E6%8A%80%E8%A1%93",
+    "published_at": "2026-09-21T21:26:32.533Z",
+    "fetched_at": "2026-09-21T21:26:32.533Z",
+    "title_zh": "数据中心基础知识：完整入门指南开启全面探索之旅",
+    "summary_zh": "该指南面向初学者系统介绍数据中心的基础知识，涵盖机房布局、供配电、制冷散热、网络架构、服务器选型及运维管理等核心内容。通过结构化的知识梳理，帮助读者建立对数据中心物理基础设施与运营体系的整体认知，适合运维工程师、IT管理者及希望了解底层基础设施的技术人员入门学习。",
+    "topic": "ops"
+  },
+  {
+    "id": "9c59361058ece8a5cfc3be7f073765dc",
+    "title_en": "万字全景解读大模型微调技术：方法、实践与未来趋势",
+    "source": "woshipm.com",
+    "url": "https://www.woshipm.com/ai/6256219.html",
+    "published_at": "2026-09-21T21:26:32.533Z",
+    "fetched_at": "2026-09-21T21:26:32.534Z",
+    "title_zh": "万字全景解读大模型微调技术：方法、实践与未来趋势",
+    "summary_zh": "本文以万字篇幅全景式解读大模型微调技术，系统梳理全量微调、LoRA、QLoRA、Prefix Tuning等主流方法的原理与适用场景，并结合数据构建、训练策略、评估与部署等实践环节给出工程建议。文章还探讨了微调技术的未来演进方向，适合希望深入掌握LLM定制化能力的算法工程师与研究者阅读。",
+    "topic": "ai"
+  },
+  {
+    "id": "be99110d0d7ce4cfea48656510ac09fb",
+    "title_en": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型、美股...",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=lAy9RKQSi2U&xstg=CAMSBhUD-7L2Hw%3D%3D",
+    "published_at": "2026-09-21T21:26:32.532Z",
+    "fetched_at": "2026-09-21T21:26:32.532Z",
+    "title_zh": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型、美股……",
+    "summary_zh": "该视频从宏观视角展望2026年科技行业发展趋势，覆盖AI大模型演进、自动驾驶商业化落地、人形机器人量产、世界模型技术突破以及美股科技板块走势等核心议题。内容侧重产业格局分析与投资机会研判，适合关注前沿科技动态与资本市场联动的技术从业者参考，帮助读者建立对下一代技术浪潮的整体认知框架。",
+    "topic": "ai"
+  },
+  {
     "id": "ccd4c1d73502ba063256e93b04936fe4",
     "title_en": "安全修补| GKE security",
     "source": "docs.cloud.google.com",
@@ -2088,115 +2198,5 @@
     "title_zh": "安全缺陷",
     "summary_zh": "本文来自 Linux 内核官方文档，系统性地介绍了内核安全缺陷的分类、成因与处理流程。内容涵盖常见漏洞类型（如缓冲区溢出、竞态条件、权限提升、信息泄露等），以及内核社区对安全问题的报告、评估与修复机制。文中还讨论了 CVE 编号分配、稳定版内核的安全补丁回移植策略，以及开发者如何通过代码审计和加固手段降低安全风险。对内核开发者与系统安全工程师具有较高的参考价值。",
     "topic": "security"
-  },
-  {
-    "id": "846d9c03c3664f8cd8acd77c48c6c420",
-    "title_en": "Android 操作系统的安全补丁机制 - c13n.club",
-    "source": "c13n.club",
-    "url": "https://c13n.club/blog/2025-12-06/",
-    "published_at": "2026-09-19T15:04:09.222Z",
-    "fetched_at": "2026-09-19T15:04:09.222Z",
-    "title_zh": "Android 操作系统的安全补丁机制",
-    "summary_zh": "本文深入解析 Android 操作系统的安全补丁机制，介绍 Google 如何通过月度安全公告、A/B 分区更新、Project Mainline 模块化更新等方式向设备推送安全修复。文章阐述了从漏洞发现、CVE 分配到补丁合入 AOSP 及厂商适配的完整流程，并分析了碎片化问题对补丁覆盖率的影响。对于 Android 系统开发者、ROM 维护者及企业移动设备管理者而言，理解该机制有助于制定更有效的设备安全更新策略。",
-    "topic": "security"
-  },
-  {
-    "id": "35c2fad5cf8aaae2af1e679f621ca88e",
-    "title_en": "基于AIOps 全球基础架构设施自动化运维的设计思路 - AWS",
-    "source": "aws.amazon.com",
-    "url": "https://aws.amazon.com/cn/blogs/china/design-ideas-for-automated-operation-and-maintenance-of-global-infrastructure-facilities-based-on-aiops/",
-    "published_at": "2026-09-19T15:04:09.222Z",
-    "fetched_at": "2026-09-19T15:04:09.222Z",
-    "title_zh": "基于 AIOps 的全球基础设施自动化运维设计思路——AWS",
-    "summary_zh": "本文介绍 AWS 基于 AIOps 理念构建全球基础设施自动化运维体系的设计思路，涵盖监控数据采集、异常检测、根因分析与自动化响应等关键环节。文章探讨如何利用机器学习模型对海量运维指标与日志进行实时分析，实现故障预测与自愈，并通过自动化编排降低人工干预成本。对于希望在全球规模下提升运维效率、构建智能化可观测性平台的团队，本文提供了可借鉴的架构模式与实践经验。",
-    "topic": "ops"
-  },
-  {
-    "id": "455c1679c641b95f7e7b18d3c5c02210",
-    "title_en": "Docker 容器化部署全指南：镜像构建优化、容器编排与数据持久化完整方...",
-    "source": "raybyte.cn",
-    "url": "https://raybyte.cn/post/2026/1/4/627fe512",
-    "published_at": "2026-09-19T15:04:07.838Z",
-    "fetched_at": "2026-09-19T15:04:07.838Z",
-    "title_zh": "Docker容器化部署全指南：镜像构建优化、容器编排与数据持久化完整方案",
-    "summary_zh": "本文提供Docker容器化部署的完整方案，覆盖多阶段构建、镜像瘦身、分层缓存优化等镜像构建技巧，并深入讲解Docker Compose与Swarm/K8s编排实践。同时详细分析Volume、Bind Mount与网络存储的选型，解决有状态服务的数据持久化难题，配合健康检查、滚动更新与回滚策略，帮助团队构建从开发到生产的标准化容器交付流程。",
-    "topic": "ops"
-  },
-  {
-    "id": "13bfdf82d3638b64fab28cf29ebd7f22",
-    "title_en": "完整教程：Docker 资源限制与性能优化（CPU / 内存 / IO 管控实战） -...",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/mthoutai/p/19183523",
-    "published_at": "2026-09-19T15:04:07.838Z",
-    "fetched_at": "2026-09-19T15:04:07.838Z",
-    "title_zh": "完整教程：Docker资源限制与性能优化（CPU/内存/IO管控实战）",
-    "summary_zh": "本教程深入讲解Docker基于cgroup的CPU、内存与IO资源管控机制，涵盖--cpus、--cpu-shares、--memory、--blkio-weight等参数的实际效果与适用场景。通过压测实验展示不同限制策略对容器性能与隔离性的影响，并给出避免OOM、CPU争抢与磁盘IO瓶颈的调优建议，适合需要精细化控制容器资源、保障多租户稳定性的运维与平台开发者。",
-    "topic": "ops"
-  },
-  {
-    "id": "9b6374fbeef76b5ccc86119e43f10ab3",
-    "title_en": "如何优化 Docker 容器的资源使用 - LabEx",
-    "source": "labex.io",
-    "url": "https://labex.io/zh/tutorials/docker-how-to-optimize-resource-usage-of-a-docker-container-417538",
-    "published_at": "2026-09-19T15:04:07.838Z",
-    "fetched_at": "2026-09-19T15:04:07.838Z",
-    "title_zh": "如何优化Docker容器的资源使用",
-    "summary_zh": "文章围绕Docker容器资源使用优化展开，介绍如何通过监控容器CPU、内存、网络与磁盘IO指标定位资源浪费点，并结合镜像精简、进程数量控制、资源配额设置与垃圾回收策略降低整体开销。还讨论了容器密度与宿主机资源分配的平衡，帮助运维人员在有限硬件上运行更多负载，同时保持服务响应与稳定性。",
-    "topic": "ops"
-  },
-  {
-    "id": "9c18d62d382d880690463c6354b7c3d8",
-    "title_en": "Docker容器化最佳实践：从开发到生产的完整指南 | 技术博客 - 有条工...",
-    "source": "util.cn",
-    "url": "https://www.util.cn/blog/articles/docker-best-practices-guide/",
-    "published_at": "2026-09-19T15:04:07.838Z",
-    "fetched_at": "2026-09-19T15:04:07.838Z",
-    "title_zh": "Docker容器化最佳实践：从开发到生产的完整指南",
-    "summary_zh": "本文总结Docker容器化从开发到生产的最佳实践，包括Dockerfile编写规范、基础镜像选择、非root用户运行、敏感信息管理、镜像扫描与签名、CI/CD流水线集成以及生产环境资源与日志配置。强调环境一致性与不可变基础设施理念，并给出多阶段构建与镜像版本管理建议，帮助团队构建安全、可维护、可复现的容器交付体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "b131adffe16644cf60a7a781dd49d748",
-    "title_en": "收集并查看cAdvisor/Kubelet 指标| Google Kubernetes Engine (GKE)",
-    "source": "docs.cloud.google.com",
-    "url": "https://docs.cloud.google.com/kubernetes-engine/docs/how-to/cadvisor-kubelet-metrics?hl=zh-cn",
-    "published_at": "2026-09-19T15:04:07.838Z",
-    "fetched_at": "2026-09-19T15:04:07.838Z",
-    "title_zh": "收集并查看cAdvisor/Kubelet指标 | Google Kubernetes Engine (GKE)",
-    "summary_zh": "本文介绍在GKE中如何通过cAdvisor与Kubelet暴露的指标接口采集容器与节点级监控数据，涵盖指标端点、认证方式、Prometheus抓取配置以及关键指标（CPU、内存、文件系统、网络）的解读。还说明如何结合Cloud Monitoring与自定义Dashboard进行可视化与告警，帮助运维人员深入掌握集群资源使用状况并快速定位性能问题。",
-    "topic": "ops"
-  },
-  {
-    "id": "ac50999d483b9c69d4b0e40fdb3c2765",
-    "title_en": "Releases · TencentCloud/TencentDB-Agent-Memory - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory/releases",
-    "published_at": "2026-09-19T15:04:07.838Z",
-    "fetched_at": "2026-09-19T15:04:07.838Z",
-    "title_zh": "TencentDB-Agent-Memory 发布 · GitHub",
-    "summary_zh": "TencentDB-Agent-Memory是腾讯云开源的面向AI Agent的持久化记忆组件，提供基于数据库的长期记忆存储、检索与更新能力。项目支持向量检索与结构化记忆混合管理，可与主流Agent框架集成，解决LLM上下文窗口限制导致的记忆丢失问题。发布内容包含版本特性、API变更与部署说明，适合构建具备长期记忆能力的智能体应用的开发者关注。",
-    "topic": "ai"
-  },
-  {
-    "id": "63948eb666fb5c41fbfccb73a67f9866",
-    "title_en": "NAS+微信+Hermes+Obisdian，网页自动变知识库，极空间AI 知识库",
-    "source": "post.smzdm.com",
-    "url": "https://post.smzdm.com/p/arzexemw",
-    "published_at": "2026-09-19T15:04:07.838Z",
-    "fetched_at": "2026-09-19T15:04:07.838Z",
-    "title_zh": "NAS+微信+Hermes+Obsidian：网页自动变知识库，极空间AI知识库",
-    "summary_zh": "本文分享一套基于极空间NAS、微信、Hermes与Obsidian的自动化知识库方案，通过Hermes抓取与解析网页内容，经AI处理后自动写入Obsidian形成结构化笔记，实现网页到个人知识库的自动流转。方案涵盖部署架构、同步流程与AI摘要配置，适合希望低成本搭建私有AI知识管理系统的技术爱好者参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "f67c89058beb32c6231872a034a7aaff",
-    "title_en": "AI动态- 2026-09-19 精选| AI行业每日动态 - AI工具宝箱",
-    "source": "aitoollab.cn",
-    "url": "https://www.aitoollab.cn/news/",
-    "published_at": "2026-09-19T15:04:07.838Z",
-    "fetched_at": "2026-09-19T15:04:07.838Z",
-    "title_zh": "AI动态 - 2026-09-19 精选 | AI行业每日动态",
-    "summary_zh": "本文汇总2026年9月19日AI行业精选动态，涵盖大模型发布与更新、Agent与RAG技术进展、开源模型生态、AI基础设施与算力新闻以及重要产品与融资信息。内容以简讯形式呈现，便于技术从业者快速了解当日AI领域关键事件与趋势，适合作为每日技术资讯跟踪的入口。",
-    "topic": "ai"
   }
 ]
