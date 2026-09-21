@@ -2,117 +2,117 @@
   "days": [
     {
       "date": "2026-09-21",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体开发：Claude Code等编程助手、智能体框架与安全审计技能涌现，兼顾GPU编排、文档管理及开源金融工具。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体：应用框架、长期记忆、跨厂商协作与安全环境成热点，另有开源金融平台、视频剪辑及移动取证工具。",
       "projects": [
         {
           "rank": 1,
-          "name": "cloudflare/security-audit-skill",
-          "url": "https://github.com/cloudflare/security-audit-skill",
-          "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-          "language": "JavaScript",
-          "stars_total": 18117,
-          "stars_today": 2428,
-          "description_zh": "一种编码智能体技能，用于执行多阶段安全审计，并提供经过独立验证、机器可读的发现结果"
-        },
-        {
-          "rank": 2,
           "name": "trycua/cua",
           "url": "https://github.com/trycua/cua",
           "description_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
           "language": "HTML",
-          "stars_total": 25197,
+          "stars_total": 25454,
           "stars_today": 1018,
           "description_zh": "通过开源驱动、跨操作系统集群以及用于训练、评估和数据生成的基准测试，扩展计算机使用 2.0。"
         },
         {
-          "rank": 3,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 263823,
-          "stars_today": 826,
-          "description_zh": "智能体运行框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全以及研究优先的开发能力。"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "name": "Open-Dev-Society/OpenStock",
           "url": "https://github.com/Open-Dev-Society/OpenStock",
           "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
           "language": "TypeScript",
-          "stars_total": 16888,
+          "stars_total": 17249,
           "stars_today": 755,
           "description_zh": "OpenStock 是昂贵市场平台的开源替代方案。跟踪实时价格、设置个性化提醒，并探索详细的公司洞察——公开构建，面向所有人，永久免费。"
         },
         {
+          "rank": 3,
+          "name": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "description_en": "科技爱好者周刊，每周五发布",
+          "language": "",
+          "stars_total": 103760,
+          "stars_today": 621,
+          "description_zh": "科技爱好者周刊，每周五发布"
+        },
+        {
+          "rank": 4,
+          "name": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description_en": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+          "language": "Python",
+          "stars_total": 7981,
+          "stars_today": 395,
+          "description_zh": "AutoClip：AI 驱动的视频剪辑与高光生成 · 一款智能高光提取与剪辑的二创工具"
+        },
+        {
           "rank": 5,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 97737,
-          "stars_today": 736,
-          "description_zh": "面向 AI 编码智能体的生产级工程技能。"
-        },
-        {
-          "rank": 6,
-          "name": "higgsfield-ai/higgsfield",
-          "url": "https://github.com/higgsfield-ai/higgsfield",
-          "description_en": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-          "language": "Jupyter Notebook",
-          "stars_total": 5411,
-          "stars_today": 465,
-          "description_zh": "容错、高度可扩展的 GPU 编排，以及一个专为训练数十亿到数万亿参数模型而设计的机器学习框架"
-        },
-        {
-          "rank": 7,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "TypeScript",
-          "stars_total": 147170,
-          "stars_today": 419,
-          "description_zh": "Claude Code 是一款智能体编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编写代码。"
-        },
-        {
-          "rank": 8,
           "name": "coder/coder",
           "url": "https://github.com/coder/coder",
           "description_en": "Secure environments for developers and their agents",
           "language": "Go",
-          "stars_total": 16084,
+          "stars_total": 16259,
           "stars_today": 379,
           "description_zh": "为开发者及其智能体提供安全环境"
         },
         {
-          "rank": 9,
-          "name": "vercel-labs/json-render",
-          "url": "https://github.com/vercel-labs/json-render",
-          "description_en": "The Generative UI framework",
+          "rank": 6,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description_en": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
           "language": "TypeScript",
-          "stars_total": 17375,
-          "stars_today": 291,
-          "description_zh": "生成式 UI 框架"
+          "stars_total": 37560,
+          "stars_today": 360,
+          "description_zh": "Project NOMAD 是一个离线优先的知识与教育服务器。维基百科、数千本书籍、课程、地图以及可选的本地 AI，全部运行在你自己拥有的硬件上，无需互联网。"
         },
         {
-          "rank": 10,
+          "rank": 7,
           "name": "anthropics/financial-services",
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 35406,
+          "stars_total": 35607,
           "stars_today": 260,
           "description_zh": ""
         },
         {
-          "rank": 11,
-          "name": "mihail911/modern-software-dev-assignments",
-          "url": "https://github.com/mihail911/modern-software-dev-assignments",
-          "description_en": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+          "rank": 8,
+          "name": "cloudflare/quiche",
+          "url": "https://github.com/cloudflare/quiche",
+          "description_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+          "language": "Rust",
+          "stars_total": 12154,
+          "stars_today": 242,
+          "description_zh": "🥧 QUIC 传输协议和 HTTP/3 的美味实现"
+        },
+        {
+          "rank": 9,
+          "name": "yynxxxxx/Codex-X",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "description_en": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+          "language": "Rust",
+          "stars_total": 3583,
+          "stars_today": 210,
+          "description_zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+        },
+        {
+          "rank": 10,
+          "name": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "description_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
           "language": "Python",
-          "stars_total": 4582,
-          "stars_today": 172,
-          "description_zh": "CS146S：现代软件开发（斯坦福大学 2026/2025 年秋季）课程作业"
+          "stars_total": 13348,
+          "stars_today": 177,
+          "description_zh": "MVT（移动设备验证工具包）有助于对移动设备进行取证，以发现潜在入侵的迹象。"
+        },
+        {
+          "rank": 11,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "language": "Rust",
+          "stars_total": 7388,
+          "stars_today": 114,
+          "description_zh": "为智能体编程 CLI 提供长期记忆的解决方案，并促进不同智能体供应商之间的交接"
         },
         {
           "rank": 12,
@@ -120,19 +120,9 @@
           "url": "https://github.com/BuilderIO/agent-native",
           "description_en": "A framework for building agentic apps",
           "language": "TypeScript",
-          "stars_total": 5266,
+          "stars_total": 5564,
           "stars_today": 98,
           "description_zh": "一个用于构建智能体应用的框架"
-        },
-        {
-          "rank": 13,
-          "name": "paperless-ngx/paperless-ngx",
-          "url": "https://github.com/paperless-ngx/paperless-ngx",
-          "description_en": "A community-supported supercharged document management system: scan, index and archive all your documents",
-          "language": "Python",
-          "stars_total": 45602,
-          "stars_today": 57,
-          "description_zh": "一个由社区支持的增强型文档管理系统：扫描、索引并归档你的所有文档"
         }
       ]
     },
