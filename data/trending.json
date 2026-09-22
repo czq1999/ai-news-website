@@ -2,127 +2,87 @@
   "days": [
     {
       "date": "2026-09-22",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体：agent-native框架、ai-memory长期记忆、CUA计算机操控与coder安全环境，另有开源行情工具OpenStock、AI剪辑autoclip及移动取证MVT。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：谷歌开源编排运行时ax、Univer办公套件、Claude Code工具链及视频编辑等Agent应用集中涌现。",
       "projects": [
         {
           "rank": 1,
-          "name": "Open-Dev-Society/OpenStock",
-          "url": "https://github.com/Open-Dev-Society/OpenStock",
-          "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-          "language": "TypeScript",
-          "stars_total": 18188,
-          "stars_today": 844,
-          "description_zh": "OpenStock 是昂贵市场平台的开源替代方案。追踪实时价格、设置个性化提醒，并探索详细的公司洞察——公开构建，面向所有人，永久免费。"
+          "name": "google/ax",
+          "url": "https://github.com/google/ax",
+          "description_en": "Google's open agentic orchestration runtime",
+          "language": "Go",
+          "stars_total": 7155,
+          "stars_today": 2324,
+          "description_zh": "Google 的开放智能体编排运行时"
         },
         {
           "rank": 2,
-          "name": "trycua/cua",
-          "url": "https://github.com/trycua/cua",
-          "description_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-          "language": "HTML",
-          "stars_total": 25900,
-          "stars_today": 609,
-          "description_zh": "通过开源驱动、跨操作系统集群以及用于训练、评估和数据生成的基准测试，扩展计算机使用 2.0。"
+          "name": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description_en": "Agent Substrate: the core system",
+          "language": "Go",
+          "stars_total": 2813,
+          "stars_today": 498,
+          "description_zh": "Agent Substrate：核心系统"
         },
         {
           "rank": 3,
-          "name": "BuilderIO/agent-native",
-          "url": "https://github.com/BuilderIO/agent-native",
-          "description_en": "A framework for building agentic apps",
-          "language": "TypeScript",
-          "stars_total": 6270,
-          "stars_today": 607,
-          "description_zh": "用于构建智能体应用的框架"
-        },
-        {
-          "rank": 4,
-          "name": "coder/coder",
-          "url": "https://github.com/coder/coder",
-          "description_en": "Secure environments for developers and their agents",
-          "language": "Go",
-          "stars_total": 16568,
-          "stars_today": 460,
-          "description_zh": "为开发者及其智能体提供安全环境"
-        },
-        {
-          "rank": 5,
-          "name": "anthropics/financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 36010,
-          "stars_today": 424,
-          "description_zh": ""
-        },
-        {
-          "rank": 6,
-          "name": "Crosstalk-Solutions/project-nomad",
-          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-          "description_en": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-          "language": "TypeScript",
-          "stars_total": 38097,
-          "stars_today": 394,
-          "description_zh": "Project NOMAD 是一个离线优先的知识与教育服务器。维基百科、数千本书籍、课程、地图以及可选的本地 AI，全部运行在你拥有的硬件上，无需互联网。"
-        },
-        {
-          "rank": 7,
-          "name": "zhouxiaoka/autoclip",
-          "url": "https://github.com/zhouxiaoka/autoclip",
-          "description_en": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-          "language": "Python",
-          "stars_total": 8622,
-          "stars_today": 250,
-          "description_zh": "AutoClip：AI 驱动的视频剪辑与高光生成 · 一款智能高光提取与剪辑的二创工具"
-        },
-        {
-          "rank": 8,
-          "name": "ruanyf/weekly",
-          "url": "https://github.com/ruanyf/weekly",
-          "description_en": "科技爱好者周刊，每周五发布",
-          "language": "",
-          "stars_total": 104406,
-          "stars_today": 182,
-          "description_zh": "科技爱好者周刊，每周五发布"
-        },
-        {
-          "rank": 9,
           "name": "mvt-project/mvt",
           "url": "https://github.com/mvt-project/mvt",
           "description_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
           "language": "Python",
-          "stars_total": 13768,
-          "stars_today": 169,
+          "stars_total": 13857,
+          "stars_today": 441,
           "description_zh": "MVT（移动验证工具包）有助于对移动设备进行取证，以发现潜在入侵的迹象。"
         },
         {
-          "rank": 10,
-          "name": "akitaonrails/ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "language": "Rust",
-          "stars_total": 7960,
-          "stars_today": 167,
-          "description_zh": "为智能体编程 CLI 提供长期记忆的解决方案，并促进不同智能体供应商之间的交接。"
+          "rank": 4,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 36157,
+          "stars_today": 436,
+          "description_zh": ""
         },
         {
-          "rank": 11,
-          "name": "yynxxxxx/Codex-X",
-          "url": "https://github.com/yynxxxxx/Codex-X",
-          "description_en": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-          "language": "Rust",
-          "stars_total": 3838,
-          "stars_today": 50,
-          "description_zh": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+          "rank": 5,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars_total": 15104,
+          "stars_today": 202,
+          "description_zh": "面向 AI 智能体的 Office 工具集——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
         {
-          "rank": 12,
-          "name": "cloudflare/quiche",
-          "url": "https://github.com/cloudflare/quiche",
-          "description_en": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-          "language": "Rust",
-          "stars_total": 12471,
-          "stars_today": 32,
-          "description_zh": "🥧 QUIC 传输协议和 HTTP/3 的美味实现"
+          "rank": 6,
+          "name": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "language": "Python",
+          "stars_total": 2060,
+          "stars_today": 197,
+          "description_zh": "面向智能体工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description_en": "Edit videos with coding agents",
+          "language": "Python",
+          "stars_total": 25638,
+          "stars_today": 155,
+          "description_zh": "使用编程智能体编辑视频"
+        },
+        {
+          "rank": 8,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description_en": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars_total": 30987,
+          "stars_today": 113,
+          "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
         }
       ]
     },
