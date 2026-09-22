@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-22",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：谷歌开源编排运行时ax、Univer办公套件、Claude Code工具链及视频编辑等Agent应用集中涌现。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：谷歌、Anthropic等推出智能体编排与金融工具，Univer打造办公套件运行时，Claude Code配置、视频编辑及移动取证工具齐亮相。",
       "projects": [
         {
           "rank": 1,
@@ -10,39 +10,39 @@
           "url": "https://github.com/google/ax",
           "description_en": "Google's open agentic orchestration runtime",
           "language": "Go",
-          "stars_total": 7155,
+          "stars_total": 7425,
           "stars_today": 2324,
           "description_zh": "Google 的开放智能体编排运行时"
         },
         {
           "rank": 2,
-          "name": "agent-substrate/substrate",
-          "url": "https://github.com/agent-substrate/substrate",
-          "description_en": "Agent Substrate: the core system",
-          "language": "Go",
-          "stars_total": 2813,
-          "stars_today": 498,
-          "description_zh": "Agent Substrate：核心系统"
-        },
-        {
-          "rank": 3,
           "name": "mvt-project/mvt",
           "url": "https://github.com/mvt-project/mvt",
           "description_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
           "language": "Python",
-          "stars_total": 13857,
+          "stars_total": 13991,
           "stars_today": 441,
           "description_zh": "MVT（移动验证工具包）有助于对移动设备进行取证，以发现潜在入侵的迹象。"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "anthropics/financial-services",
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 36157,
+          "stars_total": 36262,
           "stars_today": 436,
           "description_zh": ""
+        },
+        {
+          "rank": 4,
+          "name": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description_en": "Agent Substrate: the core system",
+          "language": "Go",
+          "stars_total": 2898,
+          "stars_today": 301,
+          "description_zh": "Agent Substrate：核心系统"
         },
         {
           "rank": 5,
@@ -50,7 +50,7 @@
           "url": "https://github.com/dream-num/univer",
           "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
           "language": "TypeScript",
-          "stars_total": 15104,
+          "stars_total": 15284,
           "stars_today": 202,
           "description_zh": "面向 AI 智能体的 Office 工具集——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/superdesigndev/treg",
           "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
           "language": "Python",
-          "stars_total": 2060,
+          "stars_total": 2146,
           "stars_today": 197,
           "description_zh": "面向智能体工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 25638,
+          "stars_total": 25756,
           "stars_today": 155,
           "description_zh": "使用编程智能体编辑视频"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/davila7/claude-code-templates",
           "description_en": "CLI tool for configuring and monitoring Claude Code",
           "language": "Python",
-          "stars_total": 30987,
+          "stars_total": 31060,
           "stars_today": 113,
           "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
         }
