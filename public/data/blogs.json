@@ -1,5 +1,126 @@
 [
   {
+    "id": "35c2fad5cf8aaae2af1e679f621ca88e",
+    "title_en": "基于AIOps 全球基础架构设施自动化运维的设计思路 - AWS",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/design-ideas-for-automated-operation-and-maintenance-of-global-infrastructure-facilities-based-on-aiops/",
+    "published_at": "2026-09-22T02:29:42.043Z",
+    "fetched_at": "2026-09-22T02:29:42.043Z",
+    "title_zh": "基于AIOps的全球基础架构设施自动化运维设计思路 - AWS",
+    "summary_zh": "本文介绍AWS基于AIOps理念设计全球基础架构自动化运维体系的思路，涵盖智能监控、异常检测、自动修复、容量预测及事件管理等核心能力。通过机器学习与大数据分析实现运维决策自动化，降低人工干预成本。适合大规模分布式系统的运维架构师参考，帮助构建智能化、可扩展的全球运维平台。",
+    "topic": "ops"
+  },
+  {
+    "id": "fae0da9a07021afbd96c75797ae8bd4a",
+    "title_en": "NVD-CVE-2026-85046 - National Vulnerability Database",
+    "source": "nvd.nist.gov",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "published_at": "2026-09-22T02:29:40.104Z",
+    "fetched_at": "2026-09-22T02:29:40.104Z",
+    "title_zh": "NVD-CVE-2026-85046 - 国家漏洞数据库",
+    "summary_zh": "美国国家漏洞数据库（NVD）收录的CVE-2026-85046漏洞条目，包含漏洞描述、影响范围、CVSS评分、参考链接及修复建议等关键信息。该条目帮助安全从业者快速评估漏洞风险等级并采取相应缓解措施。适合安全运维、漏洞管理和应急响应人员查阅，用于资产排查和补丁管理决策。",
+    "topic": "security"
+  },
+  {
+    "id": "edc0d611eec6cfad774aaa740df8b6bc",
+    "title_en": "[PDF] 镜像管理 - 华为云",
+    "source": "support.huaweicloud.com",
+    "url": "https://support.huaweicloud.com/intl/zh-cn/docker-modelarts/ModelArts%E9%95%9C%E5%83%8F%E7%AE%A1%E7%90%86-pdf.pdf",
+    "published_at": "2026-09-22T02:29:40.103Z",
+    "fetched_at": "2026-09-22T02:29:40.103Z",
+    "title_zh": "PDF 镜像管理 - 华为云",
+    "summary_zh": "华为云PDF镜像管理文档，介绍容器镜像的创建、存储、分发及版本管理流程。内容涵盖镜像仓库配置、安全扫描、权限控制及与CI/CD流水线的集成方式。适合使用华为云容器服务的运维和开发人员参考，帮助规范镜像管理流程，提升容器化应用的部署效率与安全性。",
+    "topic": "ops"
+  },
+  {
+    "id": "7687c5947b4f5c044a11c1a7ae78bbe0",
+    "title_en": "25个Linux系统性能调优技巧",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/finally_vince/article/details/142812957",
+    "published_at": "2026-09-22T02:29:40.102Z",
+    "fetched_at": "2026-09-22T02:29:40.102Z",
+    "title_zh": "25个Linux系统性能调优技巧",
+    "summary_zh": "本文汇总25个实用的Linux系统性能调优技巧，涵盖CPU调度、内存管理、磁盘I/O、网络参数、内核参数调整等方面。每个技巧均附带具体命令和配置说明，帮助运维人员快速定位瓶颈并实施优化。适合有一定Linux基础的工程师参考，可用于生产环境服务器性能提升和日常运维调优实践。",
+    "topic": "ops"
+  },
+  {
+    "id": "cc1585c440f867a7791d8bc025ece8ff",
+    "title_en": "Linux性能调优.md",
+    "source": "github.com",
+    "url": "https://github.com/Miller-Xie/Linux-kernel-notes/blob/master/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md",
+    "published_at": "2026-09-22T02:29:40.102Z",
+    "fetched_at": "2026-09-22T02:29:40.102Z",
+    "title_zh": "Linux性能调优.md",
+    "summary_zh": "本文档系统整理Linux性能调优的核心知识点，涵盖CPU、内存、磁盘、网络等子系统的监控工具与调优方法。内容包括常用性能分析命令、内核参数优化、瓶颈定位思路及实战案例。适合运维和后端工程师作为调优参考手册，帮助提升系统吞吐量和稳定性，应对高并发生产环境挑战。",
+    "topic": "ops"
+  },
+  {
+    "id": "c77d02cbb7c3ffb56849c49392f68327",
+    "title_en": "一个恶心但能让你9周掌握Agent开发的方法_人工智能 - AtomGit AI 社区",
+    "source": "tianqi.csdn.net",
+    "url": "https://tianqi.csdn.net/6ab114c1ad85947e68cb489a.html",
+    "published_at": "2026-09-22T02:29:36.580Z",
+    "fetched_at": "2026-09-22T02:29:36.580Z",
+    "title_zh": "一个恶心但能让你9周掌握Agent开发的方法",
+    "summary_zh": "本文分享一套高强度、刻意练习式的AI Agent开发学习方法，通过9周系统化训练帮助开发者从零掌握Agent核心技能。内容涵盖工具调用、记忆管理、多步推理、任务规划等关键技术点，强调通过大量重复实战和代码阅读快速建立直觉。适合希望快速入门Agent开发并具备一定编程基础的工程师，方法虽苦但路径清晰、见效快。",
+    "topic": "ai"
+  },
+  {
+    "id": "e300d63d20f3d3cf4b4467945fc05519",
+    "title_en": "智能体（AI Agent）搭建全攻略：从概念到实践的终极指南",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/1681046",
+    "published_at": "2026-09-22T02:29:36.580Z",
+    "fetched_at": "2026-09-22T02:29:36.580Z",
+    "title_zh": "智能体（AI Agent）搭建全攻略：从概念到实践的终极指南",
+    "summary_zh": "本文系统讲解AI Agent从概念到落地的完整搭建流程，涵盖Agent架构设计、工具集成、提示工程、记忆机制、多Agent协作等核心模块。通过实际案例演示如何基于主流框架构建可用的智能体应用，并分析常见陷阱与优化策略。适合希望深入理解Agent原理并动手实践的开发者，提供从理论到工程落地的全链路指导。",
+    "topic": "ai"
+  },
+  {
+    "id": "550286a05c79e7378fdc169556acbfe2",
+    "title_en": "模型列表- 火山方舟",
+    "source": "volcengine.com",
+    "url": "https://www.volcengine.com/docs/82379/1554678",
+    "published_at": "2026-09-22T02:29:36.580Z",
+    "fetched_at": "2026-09-22T02:29:36.580Z",
+    "title_zh": "模型列表 - 火山方舟",
+    "summary_zh": "火山方舟平台提供的模型列表页面，汇总了可调用的大模型资源及其规格参数。内容涵盖各模型的上下文长度、推理能力、适用场景及API接入方式，帮助开发者快速了解平台支持的模型矩阵。适合需要选型或集成大模型能力的开发者查阅，便于根据业务需求选择合适模型并完成接入部署。",
+    "topic": "ai"
+  },
+  {
+    "id": "e7981fdce44e9ff83f43972723a59d38",
+    "title_en": "详解Linux运维工程师必备技能 - 张戈博客",
+    "source": "zhang.ge",
+    "url": "https://zhang.ge/128.html",
+    "published_at": "2026-09-22T02:29:36.580Z",
+    "fetched_at": "2026-09-22T02:29:36.580Z",
+    "title_zh": "详解Linux运维工程师必备技能",
+    "summary_zh": "本文详细梳理Linux运维工程师的核心技能体系，涵盖系统管理、网络配置、Shell脚本、服务部署、性能监控、故障排查及自动化运维等关键领域。内容结合实战经验，分析各技能在实际工作中的重要性和学习路径。适合运维初学者规划学习路线，也适合在职工程师查漏补缺，提升综合运维能力。",
+    "topic": "ops"
+  },
+  {
+    "id": "ef2cc62c548750e81074c89f82a19fb8",
+    "title_en": "国产⭕⭕⭕⭕拗女.金瓶.中国2026最新版vv6.7.3 iphone版",
+    "source": "vn.tineco.com",
+    "url": "https://vn.tineco.com/kuaishou/2680611.sHtML",
+    "published_at": "2026-09-22T02:29:36.580Z",
+    "fetched_at": "2026-09-22T02:29:36.580Z",
+    "title_zh": "国产⭕⭕⭕⭕拗女.金瓶.中国2026最新版vv6.7.3 iphone版",
+    "summary_zh": "该标题内容涉及不良信息，与正规技术博客无关，无法提供有效的技术摘要。建议忽略此类来源，专注于合法合规的技术内容。",
+    "topic": "other"
+  },
+  {
+    "id": "fc23073731a34b89f9e7b164dff34526",
+    "title_en": "2026 年AI 编程实测：6 款顶流大模型对比，效率直接翻倍！",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/jinjiangongzuoshi/p/20039085",
+    "published_at": "2026-09-22T02:29:36.579Z",
+    "fetched_at": "2026-09-22T02:29:36.579Z",
+    "title_zh": "2026年AI编程实测：6款顶流大模型对比，效率直接翻倍！",
+    "summary_zh": "本文对2026年六款主流AI编程大模型进行横向实测对比，涵盖代码生成质量、上下文理解、多语言支持、调试能力及工程集成等维度。通过真实项目场景测试，量化分析各模型在开发效率提升方面的表现，为开发者选型提供数据支撑。适合关注AI辅助编程工具的技术团队参考，帮助在实际开发流程中合理引入大模型以显著提升编码效率。",
+    "topic": "ai"
+  },
+  {
     "id": "7cbf9d7c2c27b4901fb993f75c5e1e1d",
     "title_en": "如何跟踪发现Linux内核补丁（patch） 原创",
     "source": "blog.csdn.net",
@@ -2077,126 +2198,5 @@
     "title_zh": "最新动态_融资介绍_亿欧网",
     "summary_zh": "该页面为亿欧网的最新动态与融资介绍汇总，涵盖科技与AI领域的投融资事件、企业动态和行业趋势。内容可能包括AI初创公司的融资轮次、估值变化及资本流向分析，为关注科技产业投资的人士提供及时的信息参考，但具体技术深度有限，偏向商业与资本视角。",
     "topic": "other"
-  },
-  {
-    "id": "f096a87dcf5b1da68b9e94a6f4f626d6",
-    "title_en": "国资基金抢滩人工智能｜2026张江AI小镇生态日现场侧记 - 财联社",
-    "source": "cls.cn",
-    "url": "https://www.cls.cn/detail/2410689",
-    "published_at": "2026-09-19T19:47:30.573Z",
-    "fetched_at": "2026-09-19T19:47:30.573Z",
-    "title_zh": "国资基金抢滩人工智能｜2026张江AI小镇生态日现场侧记 - 财联社",
-    "summary_zh": "本文为财联社对2026张江AI小镇生态日的现场报道，聚焦国资基金加速布局人工智能领域的趋势。文章记录了活动现场的产业动态、企业展示和资本对接情况，分析国资在AI芯片、大模型、智能应用等方向的投入逻辑，以及张江作为AI产业集聚区的生态优势，为理解中国AI产业政策与资本联动提供一线观察。",
-    "topic": "ai"
-  },
-  {
-    "id": "51dff3cf209ac9cb2451988c0d344f02",
-    "title_en": "8 個先進AI Agent 框架，助你更快打造Agent",
-    "source": "kimi.ai",
-    "url": "https://www.kimi.ai/zh-hant/resources/best-ai-agent-frameworks",
-    "published_at": "2026-09-19T19:47:30.573Z",
-    "fetched_at": "2026-09-19T19:47:30.573Z",
-    "title_zh": "8个先进AI Agent框架，助你更快打造Agent",
-    "summary_zh": "本文介绍了8个先进的AI Agent框架，帮助开发者快速构建智能体应用。内容涵盖各框架的核心特性、适用场景和技术架构，如任务规划、工具调用、记忆管理和多Agent协作等能力。文章通过对比分析，指导开发者根据项目需求选择合适的框架，并提供了实践建议，是Agent开发者的实用参考指南。",
-    "topic": "ai"
-  },
-  {
-    "id": "4b2bec2956d68dddd79471feb5c1302e",
-    "title_en": "hello-agents/docs/chapter7/第七章构建你的Agent框架.md at main",
-    "source": "github.com",
-    "url": "https://github.com/datawhalechina/hello-agents/blob/main/docs/chapter7/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84Agent%E6%A1%86%E6%9E%B6.md",
-    "published_at": "2026-09-19T19:47:30.573Z",
-    "fetched_at": "2026-09-19T19:47:30.573Z",
-    "title_zh": "hello-agents/docs/chapter7/第七章构建你的Agent框架.md at main",
-    "summary_zh": "该GitHub文档为hello-agents项目第七章，主题是构建你自己的Agent框架。内容可能涵盖Agent的核心组件设计，包括任务规划、工具集成、记忆系统和执行循环等，并提供代码示例与架构说明。适合希望深入理解Agent底层实现、从零搭建框架的开发者学习，具有较高的技术实践价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "973a1ff09d914232887be3684d28bb80",
-    "title_en": "liguodongiot/llm-action: 本项目旨在分享大模型相关技术 ...",
-    "source": "github.com",
-    "url": "https://github.com/liguodongiot/llm-action",
-    "published_at": "2026-09-19T19:47:30.573Z",
-    "fetched_at": "2026-09-19T19:47:30.573Z",
-    "title_zh": "liguodongiot/llm-action: 本项目旨在分享大模型相关技术...",
-    "summary_zh": "该GitHub项目llm-action旨在分享大模型相关技术，内容可能涵盖LLM的训练、微调、推理优化、部署及工程化实践。项目可能包含代码示例、教程文档和最佳实践，帮助开发者掌握大模型从理论到落地的全流程，适合对LLM技术有深入学习需求的研究人员和工程师参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "62e1b5970de8369f155147af96581d2c",
-    "title_en": "2026年最新全球AI大模型深度研究报告 | 极客日志",
-    "source": "zeeklog.com",
-    "url": "https://zeeklog.com/2026nian-zui-xin-quan-qiu-aida-mo-xing-shen-du-yan-jiu-bao-gao",
-    "published_at": "2026-09-19T19:47:30.572Z",
-    "fetched_at": "2026-09-19T19:47:30.572Z",
-    "title_zh": "2026年最新全球AI大模型深度研究报告 | 极客日志",
-    "summary_zh": "该报告系统梳理了2026年全球AI大模型的技术格局，涵盖主流模型的架构演进、训练规模、性能基准对比及多模态能力突破。报告深入分析了中美欧在模型研发上的竞争态势，重点解读了开源与闭源模型在推理效率、上下文窗口、工具调用等维度的差异，并结合金融、医疗、制造等行业的落地案例，探讨大模型商业化路径与算力成本优化策略，为技术选型与战略规划提供参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "effb0d7474b9d4b3399affba119fb6f2",
-    "title_en": "AI大模型最新进展深度盘点（2026年8月篇）：中国开源模型全球登顶、GP...",
-    "source": "iaipie.com",
-    "url": "https://iaipie.com/ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E6%B7%B1%E5%BA%A6%E7%9B%98%E7%82%B9%EF%BC%882026%E5%B9%B48%E6%9C%88%E7%AF%87%EF%BC%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90/",
-    "published_at": "2026-09-19T19:47:30.572Z",
-    "fetched_at": "2026-09-19T19:47:30.572Z",
-    "title_zh": "AI大模型最新进展深度盘点（2026年8月篇）：中国开源模型全球登顶、GP...",
-    "summary_zh": "本文盘点了2026年8月AI大模型领域的关键进展，重点聚焦中国开源模型在国际基准测试中登顶的表现，分析其在训练效率、多语言能力和推理成本上的优势。文章还讨论了GPT系列最新迭代、模型压缩与蒸馏技术、以及开源生态对产业格局的冲击，结合具体评测数据揭示开源模型如何缩小与闭源模型的差距，并展望未来模型协作与部署趋势。",
-    "topic": "ai"
-  },
-  {
-    "id": "f71abd8bae2cd5f9f9760bf33f12b8f5",
-    "title_en": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
-    "source": "jishuzhan.net",
-    "url": "https://jishuzhan.net/article/2039234638194413569",
-    "published_at": "2026-09-19T19:47:30.572Z",
-    "fetched_at": "2026-09-19T19:47:30.572Z",
-    "title_zh": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
-    "summary_zh": "文章全面解析2026年AI大模型的技术全景，从模型架构、训练数据、推理优化到多模态融合进行系统梳理。重点对比了各主流模型在MMLU、HumanEval等基准上的性能迭代，并深入探讨大模型在智能客服、代码生成、医疗诊断等场景的落地突破。同时分析了RAG、Agent、微调等工程化实践，为开发者提供从模型选型到部署的实用指南。",
-    "topic": "ai"
-  },
-  {
-    "id": "c0bba8d664f218fad3e6bb51e577a893",
-    "title_en": "2026 前沿大模型全景：Claude 4、Gemini 3 与AI军备竞赛的新纪元 | Hg...",
-    "source": "hgblog.tech",
-    "url": "https://hgblog.tech/ai/models/frontier-models-2026",
-    "published_at": "2026-09-19T19:47:30.572Z",
-    "fetched_at": "2026-09-19T19:47:30.572Z",
-    "title_zh": "2026前沿大模型全景：Claude 4、Gemini 3与AI军备竞赛的新纪元",
-    "summary_zh": "本文聚焦2026年前沿大模型竞争格局，深入剖析Claude 4与Gemini 3在推理能力、多模态理解、长上下文处理等方面的技术突破。文章对比了各家模型在安全对齐、工具调用、代码生成等维度的表现，并探讨AI军备竞赛对算力基础设施、数据获取和人才争夺的影响，揭示大模型技术演进背后的产业逻辑与未来走向。",
-    "topic": "ai"
-  },
-  {
-    "id": "762eb4ddaff33303e3aa152d80988894",
-    "title_en": "- 2026 AI全景：从大模型到智能体，产业自主进化 - 今日头条",
-    "source": "toutiao.com",
-    "url": "https://www.toutiao.com/article/7627112341036859950/",
-    "published_at": "2026-09-19T19:47:30.572Z",
-    "fetched_at": "2026-09-19T19:47:30.573Z",
-    "title_zh": "2026 AI全景：从大模型到智能体，产业自主进化",
-    "summary_zh": "文章从产业视角勾勒2026年AI发展全景，梳理从基础大模型到智能体（Agent）的技术演进路径。重点分析Agent在自主规划、工具调用、多步推理方面的能力跃升，以及其对企业自动化、软件开发和客户服务等场景的变革。文章还探讨了多Agent协作、记忆机制和产业自主进化趋势，为理解AI落地提供系统性框架。",
-    "topic": "ai"
-  },
-  {
-    "id": "70919fc80714e4870dddefc03cb8223c",
-    "title_en": "Android 安全公告- 2026 年3 月",
-    "source": "source.android.com",
-    "url": "https://source.android.com/docs/security/bulletin/2026/2026-03-01?hl=zh-cn",
-    "published_at": "2026-09-19T15:04:09.222Z",
-    "fetched_at": "2026-09-19T15:04:09.222Z",
-    "title_zh": "Android 安全公告——2026 年 3 月",
-    "summary_zh": "本文是 Google 发布的 2026 年 3 月 Android 安全公告，汇总了本月修复的各类安全漏洞，涵盖系统框架、内核、媒体编解码器及厂商组件等多个层面。公告按漏洞等级（严重、高危、中危）分类列出 CVE 编号、受影响组件及补丁版本，并说明各漏洞的潜在攻击面与利用条件。对于 Android 设备厂商和安全团队而言，该公告是评估补丁优先级、制定 OTA 更新计划的重要依据，建议结合自身产品线及时合入对应安全补丁。",
-    "topic": "security"
-  },
-  {
-    "id": "aacedb1175e16e97079cd0ddbfabbb00",
-    "title_en": "安全缺陷",
-    "source": "docs.kernel.org",
-    "url": "https://docs.kernel.org/translations/zh_CN/process/security-bugs.html",
-    "published_at": "2026-09-19T15:04:09.222Z",
-    "fetched_at": "2026-09-19T15:04:09.222Z",
-    "title_zh": "安全缺陷",
-    "summary_zh": "本文来自 Linux 内核官方文档，系统性地介绍了内核安全缺陷的分类、成因与处理流程。内容涵盖常见漏洞类型（如缓冲区溢出、竞态条件、权限提升、信息泄露等），以及内核社区对安全问题的报告、评估与修复机制。文中还讨论了 CVE 编号分配、稳定版内核的安全补丁回移植策略，以及开发者如何通过代码审计和加固手段降低安全风险。对内核开发者与系统安全工程师具有较高的参考价值。",
-    "topic": "security"
   }
 ]

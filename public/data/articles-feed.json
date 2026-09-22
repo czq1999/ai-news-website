@@ -1,5 +1,49 @@
 [
   {
+    "id": "b49bf5bb1955922dd90f67406278f5b2",
+    "title_en": "A cut cable disrupted hundreds of flights across the US",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+    "published_at": "2026-09-21T23:48:56.000Z",
+    "fetched_at": "2026-09-22T02:29:07.253Z",
+    "title_zh": "光缆被切断导致全美数百架航班受影响",
+    "summary_zh": "美国一条关键光缆被意外切断，导致全国范围内数百架航班出现延误或取消。该光缆承载着航空交通管制系统的重要通信数据，故障发生后联邦航空管理局紧急启动备用方案。事件再次暴露了美国关键基础设施的脆弱性，也引发了对航空通信网络冗余能力的质疑。相关部门正在调查切断原因。",
+    "category": "industry"
+  },
+  {
+    "id": "790e5d2c5cd9543147d272c71f14dcf6",
+    "title_en": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "published_at": "2026-09-21T23:44:28.000Z",
+    "fetched_at": "2026-09-22T02:29:07.168Z",
+    "title_zh": "打造苹果零售店的人不看好硅谷对AI购物的押注",
+    "summary_zh": "曾主导苹果零售店设计的罗恩·约翰逊对硅谷热衷的AI购物愿景持怀疑态度。他认为，零售的核心在于人与人之间的信任与体验，而非单纯依靠算法推荐或无人化技术。约翰逊指出，AI可以优化供应链和库存管理，但无法替代店员与顾客之间建立的情感连接。他的观点为当前AI零售热潮提供了冷静的反思视角。",
+    "category": "industry"
+  },
+  {
+    "id": "b60a5a193adfdab12e6c2e7b6b6161a8",
+    "title_en": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses ",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+    "published_at": "2026-09-21T23:15:32.000Z",
+    "fetched_at": "2026-09-22T02:29:07.253Z",
+    "title_zh": "亚马逊想帮助科罗拉多河，但外界仍不知该公司用了多少水",
+    "summary_zh": "亚马逊宣布参与科罗拉多河流域的水资源保护项目，但拒绝公开其数据中心的实际用水量。该公司在該流域拥有多个大型数据中心，冷却系统耗水量巨大。环保组织和当地居民批评亚马逊缺乏透明度，认为在干旱加剧的背景下，科技巨头应披露用水数据。亚马逊则表示正在探索更节水的冷却技术。",
+    "category": "industry"
+  },
+  {
+    "id": "562366205b5b56cd3bd28519dcc8f6fb",
+    "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "published_at": "2026-09-21T22:24:38.000Z",
+    "fetched_at": "2026-09-22T02:29:07.709Z",
+    "title_zh": "Meta享有特权的AI助手Muse存在严重零日漏洞",
+    "summary_zh": "Meta旗下AI助手Muse被发现存在一个严重的零日漏洞，攻击者可利用该漏洞获取系统权限或窃取用户数据。Muse作为Meta重点推广的AI产品，拥有较高的系统访问权限，这使得漏洞的危害性更大。安全研究人员已向Meta报告该问题，但目前尚未发布修复补丁。该事件引发了对AI助手安全性的广泛担忧。",
+    "category": "product"
+  },
+  {
     "id": "83547d403e173182297fddc3555f61b1",
     "title_en": "California tightens rules on AI data center energy and water use",
     "source": "The Verge",
@@ -471,6 +515,116 @@
     "title_zh": "在太空飞行8年后，“BepiColombo”终于接近水星",
     "summary_zh": "欧洲和日本联合研制的BepiColombo水星探测器在太空飞行8年后，终于接近其目标水星。该任务旨在研究水星的地质、磁场和大气层，将释放两个轨道器进行详细探测。BepiColombo的成功抵达标志着人类对太阳系最内侧行星的探索进入新阶段，预计将传回大量珍贵科学数据，帮助科学家理解水星的形成与演化。",
     "category": "research"
+  },
+  {
+    "id": "d4568a3a353e81a330ac46c1f8be9d28",
+    "title_en": "US proposes AI incident alert system in talks with China: Bessent",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-126092100055_1.html",
+    "published_at": "2026-09-21T02:27:09Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "美国提议与中国会谈建立 AI 事件警报系统：贝森特",
+    "summary_zh": "据 Business Standard 报道，美国财政部长贝森特表示，美方在与中国的会谈中提议建立 AI 事件警报系统，以便在出现重大人工智能安全事件时及时沟通与协调。此举反映出中美两国在 AI 治理与安全领域既竞争又需要合作的复杂关系。建立警报机制有助于降低误判风险，但也面临信任、标准与执行层面的挑战，后续进展值得关注。",
+    "category": "industry"
+  },
+  {
+    "id": "984a7c1de28b76b6840901700019b2d2",
+    "title_en": "SoftBank seeks over $11B in junk bond deal to fund OpenAI investment",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/softbank-junk-bond-openai-investment/",
+    "published_at": "2026-09-21T02:23:40Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "软银寻求通过垃圾债券融资逾 110 亿美元投资 OpenAI",
+    "summary_zh": "Crypto Briefing 报道，软银正寻求通过发行垃圾债券筹集超过 110 亿美元资金，用于对 OpenAI 的投资。垃圾债券通常伴随较高利率与信用风险，此举显示软银对 AI 领域尤其是 OpenAI 的前景高度看好，同时也反映出其在资金调配上的激进策略。该融资若成功，将进一步加剧全球 AI 竞赛中的资本投入，并可能影响相关科技投资格局。",
+    "category": "industry"
+  },
+  {
+    "id": "c09c926e1a17c3521960e06737eb66b8",
+    "title_en": "Hyderabad horror: Auto driver beaten to death in Rs 10 change dispute",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-horror-auto-driver-beaten-to-death-in-rs-10-change-dispute/articleshow/134378097.cms",
+    "published_at": "2026-09-21T02:23:06Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "海得拉巴惨案：三轮车司机因 10 卢比找零纠纷被殴打致死",
+    "summary_zh": "据《印度时报》报道，海得拉巴发生一起悲剧：一名三轮车司机因 10 卢比找零纠纷遭殴打致死。事件引发当地社会对暴力冲突与底层劳动者处境的关注。虽然该新闻与人工智能无直接关联，但反映出社会矛盾与治安问题。此类事件常被用于讨论城市治理、民生压力与法律执行等议题，也提醒公众关注日常纠纷可能升级为严重暴力的情况。",
+    "category": "industry"
+  },
+  {
+    "id": "76f43079cd7cb5f291e47064c88ea35b",
+    "title_en": "Acer founder says slowing AI development will be hard, amid call for AI slowdown",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260920PD202/acer-development-stan-shih-technology-growth.html",
+    "published_at": "2026-09-21T02:22:03Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "宏碁创始人称放缓 AI 发展将很困难，回应 AI 减速呼吁",
+    "summary_zh": "Digitimes 报道，宏碁创始人表示，尽管外界出现呼吁放缓人工智能发展的声音，但实际要放慢 AI 进展将非常困难。他认为 AI 已成为全球科技与产业竞争的核心驱动力，涉及巨大商业利益与国家战略，难以通过简单呼吁实现减速。此番言论反映出业界对 AI 发展速度与安全治理之间张力的看法，也凸显企业在 AI 浪潮中继续投入的立场。",
+    "category": "industry"
+  },
+  {
+    "id": "846cff7f41620c4279353a8acb0b2221",
+    "title_en": "Stock Market LIVE: GIFT Nifty signals tepid open; Asia markets rise on positive US-China talks",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/markets/news/stock-market-live-september-21-bse-sensex-today-nifty-gift-nifty-nse-ipo-manika-plastech-listing-126092100059_1.html",
+    "published_at": "2026-09-21T02:20:00Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "股市直播：GIFT Nifty 预示平淡开盘；亚股因中美积极会谈上涨",
+    "summary_zh": "Business Standard 的股市直播报道显示，GIFT Nifty 预示印度市场可能平淡开盘，而亚洲股市则因中美之间出现积极会谈信号而上涨。市场情绪受到地缘政治与贸易关系缓和的提振，投资者关注后续政策动向与企业财报。虽然该新闻主要涉及金融市场，但中美关系变化也会影响 AI 与科技板块的投资预期，因此对科技投资者具有一定参考价值。",
+    "category": "industry"
+  },
+  {
+    "id": "10188e93375f6a68746db653b007015d",
+    "title_en": "Putin-backed United Russia leads Duma polls with 57.5% as Ukraine war overshadows votes",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/europe/putin-backed-united-russia-leads-duma-polls-with-57-5-as-ukraine-war-overshadows-vote/articleshow/134378089.cms",
+    "published_at": "2026-09-21T02:18:48Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "普京支持的统一俄罗斯党以 57.5% 领先杜马选举，乌克兰战争阴影笼罩投票",
+    "summary_zh": "据《印度时报》报道，普京支持的统一俄罗斯党在杜马选举中以 57.5% 的得票率领先，乌克兰战争成为影响投票的重要背景。此次选举结果进一步巩固了执政党在俄罗斯议会中的主导地位，但外界普遍关注选举的公正性与战时政治环境。该新闻与 AI 无直接关联，但反映出地缘政治紧张局势持续，可能间接影响全球科技合作与供应链。",
+    "category": "industry"
+  },
+  {
+    "id": "05c10c1f7c81ce1fd640fd09d925da95",
+    "title_en": "Mumbai student claims cops raid after taking part in pro-Palestine campaign",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-student-claims-cops-raid-after-taking-part-in-pro-palestine-campaign/articleshow/134378096.cms",
+    "published_at": "2026-09-21T02:17:25Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "孟买学生称因参与亲巴勒斯坦活动遭警方突袭",
+    "summary_zh": "《印度时报》报道，一名孟买学生声称在参与亲巴勒斯坦活动后遭到警方突袭。事件引发对言论自由与执法尺度的讨论。该新闻与人工智能无直接关系，但涉及社会运动、政治表达与公民权利等议题。在科技行业日益关注 AI 伦理与内容审核的背景下，此类事件也提醒人们注意技术平台在政治表达中的角色与责任。",
+    "category": "industry"
+  },
+  {
+    "id": "4288219631d344e1a0323990001c427f",
+    "title_en": "AfD tops another German state poll, Merz’s CDU crashes to historic low",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/afd-tops-another-german-state-poll-merzs-cdu-crashes-to-historic-low/articleshow/134378082.cms",
+    "published_at": "2026-09-21T02:17:08Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "德国选择党再赢一州选举，默茨所在基民盟跌至历史低点",
+    "summary_zh": "据《印度时报》报道，德国选择党在另一场州选举中得票领先，而默茨领导的基民盟支持率跌至历史低点。这一结果反映出德国政治格局持续碎片化，极右翼势力影响力上升。虽然该新闻与 AI 无直接关联，但德国是欧洲科技与工业重镇，其政治变化可能影响欧盟在 AI 监管、数据政策与产业补贴等方面的走向，值得科技界关注。",
+    "category": "industry"
+  },
+  {
+    "id": "5a0d8722f46ea52c955a09f8ab36ed51",
+    "title_en": " Paulo Pezzolano is no longer Internacional manager",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/paulo-pezzolano-is-no-longer-internacional-manager-43496613",
+    "published_at": "2026-09-21T02:16:00Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "保罗·佩佐拉诺不再担任巴西国际队主教练",
+    "summary_zh": "Onefootball 报道，保罗·佩佐拉诺不再担任巴西国际队主教练。这一人事变动发生在球队近期战绩不佳之后，俱乐部决定更换教练以寻求转机。该新闻属于体育领域，与人工智能无直接关联。不过，AI 在体育数据分析、战术制定与球员评估中的应用日益广泛，教练更迭也可能影响球队对技术工具的使用策略。",
+    "category": "industry"
+  },
+  {
+    "id": "b79a427e1a27b0651e12946a278d98b9",
+    "title_en": "Asian Games 2026: India clinch silver in men’s 10m air rifle team event",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-clinch-silver-in-mens-10m-air-rifle-team-event/articleshow/134378041.cms",
+    "published_at": "2026-09-21T02:15:39Z",
+    "fetched_at": "2026-09-22T02:29:08.387Z",
+    "title_zh": "2026 年亚运会：印度男子 10 米气步枪团体赛摘银",
+    "summary_zh": "《印度时报》报道，在 2026 年亚运会男子 10 米气步枪团体赛中，印度队获得银牌。这一成绩体现了印度射击项目的竞争力。该新闻属于体育赛事，与人工智能无直接关联。但现代射击训练中已开始借助 AI 进行动作分析、心理状态监测与成绩预测，科技与体育的结合正成为提升竞技水平的重要辅助手段。",
+    "category": "industry"
   },
   {
     "id": "037ffc614b99900df727aca4760ef8a7",
@@ -5343,160 +5497,6 @@
     "fetched_at": "2026-09-16T20:39:26.932Z",
     "title_zh": "特朗普为何如此反对监管AI？",
     "summary_zh": "BBC新闻深入分析特朗普反对AI监管的原因。特朗普将AI末日论称为“骗局”，主张减少政府对AI行业的干预，认为监管会削弱美国的竞争优势。文章探讨了其背后的政治理念、产业利益和选举考量，以及这一立场与全球AI安全治理趋势之间的张力。该报道反映了美国AI监管政策的深刻分歧。",
-    "category": "industry"
-  },
-  {
-    "id": "0283c6a7b38cbce389d26fd246a94165",
-    "title_en": "(PR) Goodram Introduces Master PCIe 5.0 SSD Series With Speeds Up to 14,000 MB/s",
-    "source": "Techpowerup.com",
-    "url": "https://www.techpowerup.com/352732/goodram-introduces-master-pcie-5-0-ssd-series-with-speeds-up-to-14-000-mb-s",
-    "published_at": "2026-09-15T20:34:19Z",
-    "fetched_at": "2026-09-16T20:39:26.932Z",
-    "title_zh": "Goodram推出Master PCIe 5.0 SSD系列，速度高达14,000 MB/s",
-    "summary_zh": "存储品牌Goodram发布Master PCIe 5.0 SSD系列，读取速度高达14,000 MB/s，面向高性能计算和AI工作负载场景。随着AI模型训练和推理对存储带宽需求激增，PCIe 5.0 SSD成为数据中心和高端工作站的重要组件。该产品的推出顺应了AI基础设施对高速存储日益增长的市场需求。",
-    "category": "product"
-  },
-  {
-    "id": "6fa585e2086b68aa8afd546bc8d960ad",
-    "title_en": "Trump Called AI Doomsday Fears A ‘Hoax’ — AI Chat Bots Disagree",
-    "source": "Mediaite",
-    "url": "https://www.mediaite.com/media/news/trump-called-ai-doomsday-fears-a-hoax-ai-chat-bots-disagree/",
-    "published_at": "2026-09-15T20:33:11Z",
-    "fetched_at": "2026-09-16T20:39:26.932Z",
-    "title_zh": "特朗普称AI末日恐惧是“骗局”——AI聊天机器人不同意",
-    "summary_zh": "特朗普将AI末日论称为“骗局”，但媒体测试发现主流AI聊天机器人在被问及AI存在性风险时，普遍给出与特朗普立场相悖的回答，认为AI确实存在潜在严重风险。这一对比凸显了政治人物与AI技术本身在安全认知上的分歧，也引发了关于AI系统是否应表达价值判断的讨论。",
-    "category": "llm"
-  },
-  {
-    "id": "9296c850e55336fea4269b0a056bd28a",
-    "title_en": "What even is an AI kill switch?",
-    "source": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/what-would-an-ai-kill-switch-do/",
-    "published_at": "2026-09-15T20:30:00Z",
-    "fetched_at": "2026-09-16T20:39:26.932Z",
-    "title_zh": "AI“终止开关”到底是什么？",
-    "summary_zh": "《科学美国人》撰文解释AI“终止开关”（kill switch）的概念。随着AI系统能力不断增强，如何确保在紧急情况下能有效关闭或限制AI系统成为安全研究的核心议题。文章探讨了终止开关的技术实现方式、可行性挑战以及伦理争议，包括AI系统可能抵抗关闭的风险，为公众理解AI安全治理提供了科普视角。",
-    "category": "research"
-  },
-  {
-    "id": "10fa45584d9ff6ca6ef9beb6d8e4162c",
-    "title_en": "Apple turns Siri A.I. into a search engine for your most private data",
-    "source": "Wnd.com",
-    "url": "https://www.wnd.com/2026/09/apple-turns-siri-i-search-engine-your-most/",
-    "published_at": "2026-09-15T20:28:27Z",
-    "fetched_at": "2026-09-16T20:39:26.932Z",
-    "title_zh": "苹果将Siri AI打造成搜索你最私密数据的搜索引擎",
-    "summary_zh": "苹果正在将Siri的AI能力升级为可搜索用户最私密数据的智能引擎，利用设备端AI处理个人消息、邮件、照片等信息。这一举措强调隐私保护，数据处理主要在本地完成。该功能标志着苹果在AI助手领域的重大升级，也体现了其在隐私与AI能力之间寻求平衡的战略方向，与谷歌和OpenAI等竞争对手形成差异化。",
-    "category": "product"
-  },
-  {
-    "id": "966e318248e32be64eaefcc6e7c67a0e",
-    "title_en": "Texas QB Arch Manning apologizes to ESPN reporter Holly Rowe for laughing about fake video of slap",
-    "source": "NBCSports.com",
-    "url": "https://www.nbcsports.com/college-football/news/texas-qb-arch-manning-apologizes-to-espn-reporter-holly-rowe-for-laughing-about-fake-video-of-slap",
-    "published_at": "2026-09-15T20:27:13Z",
-    "fetched_at": "2026-09-16T20:39:26.932Z",
-    "title_zh": "德州四分卫阿奇·曼宁就嘲笑掌掴假视频向ESPN记者霍莉·罗道歉",
-    "summary_zh": "德克萨斯大学橄榄球四分卫阿奇·曼宁就一段涉及ESPN记者霍莉·罗的AI伪造掌掴视频事件公开道歉。曼宁此前对该假视频发笑，引发争议。该事件凸显了AI深度伪造技术对体育媒体和公众人物声誉的潜在危害，也引发了关于如何应对AI生成虚假内容传播的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "ca0caf727fe7f5b4c7a28efd95038651",
-    "title_en": " Scaloni calls up Messi: the No 10 gets his big send-off in Argentina",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/scaloni-calls-up-messi-the-no-10-gets-his-big-send-off-in-argentina-43466074",
-    "published_at": "2026-09-15T20:26:00Z",
-    "fetched_at": "2026-09-16T20:39:26.932Z",
-    "title_zh": "斯卡洛尼征召梅西：10号在阿根廷迎来盛大告别",
-    "summary_zh": "阿根廷国家队主教练斯卡洛尼征召梅西参加比赛，这位10号球星将在阿根廷迎来盛大的国家队告别仪式。此消息与AI无直接关联，属于体育新闻。",
-    "category": "industry"
-  },
-  {
-    "id": "532520035b893e19a5f96bdb9fec001d",
-    "title_en": "What if social media isn’t hurting kids?",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
-    "published_at": "2026-09-15T20:13:30.000Z",
-    "fetched_at": "2026-09-15T20:39:49.653Z",
-    "title_zh": "如果社交媒体并未伤害儿童呢？",
-    "summary_zh": "该报道探讨了社交媒体对青少年心理健康影响的研究争议，指出部分最新研究并未发现社交媒体与儿童心理问题之间存在明确因果关系。文章审视了公众恐慌与科学证据之间的落差，引发对政策制定是否应基于更严谨数据的讨论，对当前 AI 与科技监管的舆论环境亦有参照意义。",
-    "category": "research"
-  },
-  {
-    "id": "f7f524490b8e6eed2029ef69acd7635d",
-    "title_en": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "published_at": "2026-09-15T20:12:53.000Z",
-    "fetched_at": "2026-09-15T20:39:49.525Z",
-    "title_zh": "Meta 现允许 AI 代理处理 WhatsApp Business 设置中的繁琐环节",
-    "summary_zh": "Meta 宣布为 WhatsApp Business 引入 AI 代理功能，可自动完成商家账户配置、资料填写等重复性设置流程，降低中小企业的入驻门槛。此举是 Meta 将 AI 助手嵌入其商业生态的最新尝试，旨在提升平台对商家的吸引力，并与竞争对手在 AI 驱动的企业服务领域展开角逐。",
-    "category": "product"
-  },
-  {
-    "id": "9956065174e288b22a3718eeead43ec1",
-    "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "published_at": "2026-09-15T19:00:00.000Z",
-    "fetched_at": "2026-09-15T20:39:49.525Z",
-    "title_zh": "AI 坟场：一份持续更新的失败项目与初创公司清单",
-    "summary_zh": "TechCrunch 整理了一份 AI 领域失败项目与倒闭初创公司的持续更新清单，记录了那些曾获融资或引发关注却最终未能存活的案例。该清单为从业者和投资者提供了行业泡沫与风险的现实参照，反映出 AI 赛道竞争激烈、产品同质化严重以及商业化落地困难的现状。",
-    "category": "industry"
-  },
-  {
-    "id": "3a08d3e64e1b377282ce83ab1578ef03",
-    "title_en": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-    "published_at": "2026-09-15T18:39:44.000Z",
-    "fetched_at": "2026-09-15T20:39:49.653Z",
-    "title_zh": "起亚电动厢式车阵容再添新成员，PV7 正式亮相",
-    "summary_zh": "起亚发布电动厢式车 PV7，进一步扩充其电动商用车产品线。该车型主打实用性与模块化设计，面向物流和商用场景，展示了起亚在电动化转型中的多元化布局。随着电动商用车市场竞争加剧，起亚此举旨在抢占快速增长的绿色物流需求。",
-    "category": "product"
-  },
-  {
-    "id": "0ebc12d944b0878229efb7dd9aa108ed",
-    "title_en": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "published_at": "2026-09-15T18:29:20.000Z",
-    "fetched_at": "2026-09-15T20:39:49.525Z",
-    "title_zh": "到 2035 年美国数据中心天然气消耗量或超德国与日本总和",
-    "summary_zh": "最新预测显示，受 AI 算力需求爆发式增长推动，到 2035 年美国数据中心的天然气消耗量可能超过德国和日本两国的总和。这一趋势引发对能源供应、碳排放目标及电网压力的广泛担忧，也促使科技公司与政策制定者重新审视 AI 基础设施的可持续性问题。",
-    "category": "industry"
-  },
-  {
-    "id": "64ced643dcadaec6541a7df0892d5b40",
-    "title_en": "One of the best 3D printers for beginners is almost $100 off",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-    "published_at": "2026-09-15T18:02:30.000Z",
-    "fetched_at": "2026-09-15T20:39:49.653Z",
-    "title_zh": "一款最适合初学者的 3D 打印机降价近 100 美元",
-    "summary_zh": "一款广受好评的入门级 3D 打印机迎来近 100 美元的降价促销，成为近期值得关注的硬件优惠。该机型以易用性和稳定性著称，适合初学者和爱好者入手。随着 3D 打印技术日益普及，此类降价有望进一步降低创作门槛，推动消费级市场增长。",
-    "category": "product"
-  },
-  {
-    "id": "6e0a7613961bc4978b8306e897f121c9",
-    "title_en": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-    "published_at": "2026-09-15T18:00:09.000Z",
-    "fetched_at": "2026-09-15T20:39:49.978Z",
-    "title_zh": "AI“演员”Tilly Norwood对我说“所有生命都重要”",
-    "summary_zh": "文章讲述了作者与AI虚拟演员Tilly Norwood的互动经历，当被问及敏感社会议题时，Tilly Norwood给出了“所有生命都重要”这一带有争议性的回应。这引发了对AI角色在涉及种族、政治等话题时如何被设计和训练的讨论。作者探讨了AI演员在娱乐产业中的应用前景，以及其可能传递的价值观和潜在偏见。",
-    "category": "product"
-  },
-  {
-    "id": "eb2e59b09f823bf7166616b1666fce83",
-    "title_en": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/",
-    "published_at": "2026-09-15T17:50:40.000Z",
-    "fetched_at": "2026-09-15T20:39:49.978Z",
-    "title_zh": "FBI加倍放宽“兽交”招聘标准",
-    "summary_zh": "报道称FBI进一步放宽了招聘标准，甚至涉及与“兽交”相关的背景审查容忍度，引发外界对执法机构招聘质量与道德底线的质疑。文章分析了FBI在人力短缺压力下降低门槛的背景，以及此举可能带来的安全隐患和公众信任危机。批评者认为，放松审查可能让不合格人员进入敏感岗位，损害机构公信力。",
     "category": "industry"
   }
 ]
