@@ -1,5 +1,115 @@
 [
   {
+    "id": "69247c64704871a0efb7213c1dbdfa48",
+    "title_en": "自动识别CVE受影响的版本与补丁和开发人员日志",
+    "source": "secrss.com",
+    "url": "https://www.secrss.com/articles/66926?app=1",
+    "published_at": "2026-09-22T10:37:07.010Z",
+    "fetched_at": "2026-09-22T10:37:07.010Z",
+    "title_zh": "自动识别CVE受影响版本、补丁与开发人员日志",
+    "summary_zh": "文章介绍如何自动化识别CVE所影响的软件版本、对应补丁及开发人员日志，提升漏洞管理效率。通过结合版本比对、提交历史分析与补丁追踪，可快速定位受影响组件并评估修复状态。对安全运营与DevSecOps团队具有实用价值，有助于缩短漏洞响应周期，降低供应链风险。",
+    "topic": "security"
+  },
+  {
+    "id": "25993cd969b51e303ed3d79745d3cccf",
+    "title_en": "针对Intel处理器芯片存在的Meltdown和Spectre安全漏洞 - 华为云",
+    "source": "support.huaweicloud.com",
+    "url": "https://support.huaweicloud.com/ecs_faq/ecs_faq_0714.html",
+    "published_at": "2026-09-22T10:37:07.010Z",
+    "fetched_at": "2026-09-22T10:37:07.010Z",
+    "title_zh": "针对Intel处理器Meltdown和Spectre安全漏洞 - 华为云",
+    "summary_zh": "华为云针对Intel处理器Meltdown与Spectre漏洞发布的技术公告，说明漏洞原理、影响范围及云平台的缓解措施。内容涵盖内核补丁、微码更新与性能影响评估，帮助用户理解侧信道攻击风险。对使用云主机的企业具有指导意义，可据此制定加固策略并评估业务性能波动。",
+    "topic": "security"
+  },
+  {
+    "id": "70919fc80714e4870dddefc03cb8223c",
+    "title_en": "Android 安全公告- 2026 年3 月",
+    "source": "source.android.com",
+    "url": "https://source.android.com/docs/security/bulletin/2026/2026-03-01?hl=zh-cn",
+    "published_at": "2026-09-22T10:37:07.009Z",
+    "fetched_at": "2026-09-22T10:37:07.009Z",
+    "title_zh": "Android 安全公告 - 2026年3月",
+    "summary_zh": "Google发布的2026年3月Android安全公告，列出本月修复的CVE漏洞及其影响范围与严重等级，涵盖系统组件、内核及厂商补丁级别。内容对Android设备厂商、安全研究人员及企业IT管理员至关重要，可据此评估设备风险、安排补丁推送与合规审计，及时缓解潜在攻击面。",
+    "topic": "security"
+  },
+  {
+    "id": "4dd176f199041af126522647229c4839",
+    "title_en": "华为Mate70的系统稳定性如何？ - 新浪",
+    "source": "k.sina.com.cn",
+    "url": "https://k.sina.com.cn/article_7879996097_1d5af32c106804yy0k.html?from=tech",
+    "published_at": "2026-09-22T10:37:05.331Z",
+    "fetched_at": "2026-09-22T10:37:05.331Z",
+    "title_zh": "华为Mate70的系统稳定性如何？ - 新浪",
+    "summary_zh": "文章讨论华为Mate70在系统稳定性方面的表现，涉及HarmonyOS的调度机制、内存管理与长期使用后的流畅度等用户关注点。内容偏向消费电子评测，对普通用户选购有参考价值，但技术深度有限，未涉及底层内核或性能调优细节，更适合作为产品体验类信息了解。",
+    "topic": "other"
+  },
+  {
+    "id": "973a1ff09d914232887be3684d28bb80",
+    "title_en": "liguodongiot/llm-action: 本项目旨在分享大模型相关技术 ...",
+    "source": "github.com",
+    "url": "https://github.com/liguodongiot/llm-action",
+    "published_at": "2026-09-22T10:37:03.436Z",
+    "fetched_at": "2026-09-22T10:37:03.436Z",
+    "title_zh": "liguodongiot/llm-action：分享大模型相关技术实践",
+    "summary_zh": "该项目聚焦大模型技术实践，内容涵盖训练、微调、推理优化、部署及Agent开发等方向，提供可运行的代码示例与工程经验。适合希望深入理解LLM全链路落地的开发者，通过动手实践掌握分布式训练、量化加速、RAG等关键技术，快速将大模型能力集成到实际业务系统中。",
+    "topic": "ai"
+  },
+  {
+    "id": "7807ea131dd93906c5c93a18c5efa771",
+    "title_en": "在基于云的和本地AI 模型之间进行选择 - Microsoft Learn",
+    "source": "learn.microsoft.com",
+    "url": "https://learn.microsoft.com/zh-cn/windows/ai/cloud-ai",
+    "published_at": "2026-09-22T10:37:03.436Z",
+    "fetched_at": "2026-09-22T10:37:03.436Z",
+    "title_zh": "在基于云的和本地AI模型之间进行选择 - Microsoft Learn",
+    "summary_zh": "微软官方文档探讨云端AI模型与本地部署模型的选型策略，从数据隐私、延迟、成本、可扩展性和合规性等维度进行对比分析。内容帮助架构师根据业务场景权衡利弊，例如敏感数据适合本地推理，而弹性算力需求更适合云端方案，为AI系统架构决策提供实用指导。",
+    "topic": "ai"
+  },
+  {
+    "id": "51dff3cf209ac9cb2451988c0d344f02",
+    "title_en": "8 個先進AI Agent 框架，助你更快打造Agent",
+    "source": "kimi.ai",
+    "url": "https://www.kimi.ai/zh-hant/resources/best-ai-agent-frameworks",
+    "published_at": "2026-09-22T10:37:03.435Z",
+    "fetched_at": "2026-09-22T10:37:03.435Z",
+    "title_zh": "8个先进AI Agent框架，助你更快构建Agent",
+    "summary_zh": "文章系统梳理了8个主流AI Agent开发框架，对比其架构设计、工具调用能力、多智能体协作机制及生态成熟度。内容覆盖从任务规划、记忆管理到执行反馈的完整链路，帮助开发者根据项目需求快速选型。对于正在构建Agent应用的团队，可显著降低框架调研成本，加速从原型到生产的落地进程。",
+    "topic": "ai"
+  },
+  {
+    "id": "9288aefc0b14cc1f9928dcf29c36acf6",
+    "title_en": "Document AI 文档 - Google Cloud Documentation",
+    "source": "docs.cloud.google.com",
+    "url": "https://docs.cloud.google.com/document-ai/docs?hl=zh-cn",
+    "published_at": "2026-09-22T10:37:03.435Z",
+    "fetched_at": "2026-09-22T10:37:03.435Z",
+    "title_zh": "Document AI 文档 - Google Cloud 文档",
+    "summary_zh": "Google Cloud Document AI 官方文档，介绍如何利用机器学习从文档中提取结构化数据。涵盖处理器类型、OCR、表单解析、自定义抽取器及API集成方式，并提供配额、认证与最佳实践说明。适合需要将文档处理自动化的开发者，可快速接入云端文档理解能力，应用于票据识别、合同分析等企业级场景。",
+    "topic": "ai"
+  },
+  {
+    "id": "adbd8dc61e03ba683448e875041ec486",
+    "title_en": "Agent应用开发实践踩坑与经验分享 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra09-Agent%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5%E8%B8%A9%E5%9D%91%E4%B8%8E%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md",
+    "published_at": "2026-09-22T10:37:03.435Z",
+    "fetched_at": "2026-09-22T10:37:03.435Z",
+    "title_zh": "Agent应用开发实践踩坑与经验分享 - GitHub",
+    "summary_zh": "该GitHub项目记录了Agent应用开发过程中的真实踩坑经验，涵盖提示词设计、工具调用稳定性、上下文管理、错误处理与成本控制等关键问题。作者以实践视角分享解决方案与架构取舍，对正在开发Agent的工程师具有较高参考价值，可帮助规避常见陷阱，提升系统的可靠性与可维护性。",
+    "topic": "ai"
+  },
+  {
+    "id": "da17e9a91ca6368ba807a59ec396548b",
+    "title_en": "65 Catch Up on All 2026 AI Progress in One Go (I've Filtered ...",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=wjlsyVtrwGU",
+    "published_at": "2026-09-22T10:37:03.434Z",
+    "fetched_at": "2026-09-22T10:37:03.435Z",
+    "title_zh": "一口气看完2026年AI全部进展（我已帮你筛选整理）",
+    "summary_zh": "该视频汇总了2026年AI领域的全部重要进展，作者对海量信息进行了筛选与提炼，涵盖大模型能力迭代、多模态技术突破、Agent生态演进以及行业落地案例。适合希望快速建立年度AI技术全景认知的开发者与研究者，能在较短时间内把握关键技术拐点与趋势方向，为后续深入研究或技术选型提供参考依据。",
+    "topic": "ai"
+  },
+  {
     "id": "35c2fad5cf8aaae2af1e679f621ca88e",
     "title_en": "基于AIOps 全球基础架构设施自动化运维的设计思路 - AWS",
     "source": "aws.amazon.com",
@@ -2088,115 +2198,5 @@
     "title_zh": "docker run 参数适配",
     "summary_zh": "文章详细解析 docker run 命令的各类参数及其适配场景，包括网络模式、存储卷挂载、环境变量、资源限制、重启策略等常用配置项。通过对比不同参数组合的效果，帮助开发者根据实际需求灵活配置容器运行环境，避免常见配置误区。",
     "topic": "ops"
-  },
-  {
-    "id": "8f9a497a0033ba67ebb966c58de8f86f",
-    "title_en": "Docker性能优化：提升容器运行效率1.背景介绍 ...",
-    "source": "juejin.cn",
-    "url": "https://juejin.cn/post/7329033489176936457",
-    "published_at": "2026-09-19T19:47:32.713Z",
-    "fetched_at": "2026-09-19T19:47:32.713Z",
-    "title_zh": "Docker 性能优化：提升容器运行效率",
-    "summary_zh": "本文围绕 Docker 容器性能优化展开，从镜像分层、存储驱动选择、资源配额、网络模式及内核参数调优等多个维度分析性能瓶颈与优化手段。结合基准测试数据对比不同配置下的运行效率，为高并发场景下的容器化部署提供可落地的调优建议。",
-    "topic": "ops"
-  },
-  {
-    "id": "956af6d3aba7b3546a53c00cd5701b5f",
-    "title_en": "【微调教程】30分钟教会你用LLaMA-Factory+Lora工具微调大 ...",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=G8kmGmHu-Rs",
-    "published_at": "2026-09-19T19:47:30.574Z",
-    "fetched_at": "2026-09-19T19:47:30.574Z",
-    "title_zh": "【微调教程】30分钟教会你用LLaMA-Factory+Lora工具微调大...",
-    "summary_zh": "本教程演示如何在30分钟内使用LLaMA-Factory和LoRA工具对大模型进行微调。内容涵盖环境配置、数据集准备、LoRA参数设置、训练过程监控及模型导出等关键步骤，帮助开发者以较低算力成本实现模型定制。教程注重实操，适合希望快速上手大模型微调的工程师，具有较高的实用价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "683f011da98924c8b06c88c93a6c21ff",
-    "title_en": "深入探究Linux服务器：从基础到高级运维 - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2333928",
-    "published_at": "2026-09-19T19:47:30.574Z",
-    "fetched_at": "2026-09-19T19:47:30.574Z",
-    "title_zh": "深入探究Linux服务器：从基础到高级运维 - 腾讯云",
-    "summary_zh": "本文系统讲解Linux服务器运维知识，从基础命令、用户权限、文件系统到高级服务配置、性能调优和故障排查。内容涵盖网络管理、安全加固、自动化脚本和监控告警等运维核心技能，并结合腾讯云环境提供实践案例。适合运维工程师和系统管理员提升Linux服务器管理能力，构建稳定高效的服务架构。",
-    "topic": "ops"
-  },
-  {
-    "id": "1555885bb60e9bda78ecba0582c743c6",
-    "title_en": "从零开始自学《Linux运维工程师》",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
-    "published_at": "2026-09-19T19:47:30.574Z",
-    "fetched_at": "2026-09-19T19:47:30.574Z",
-    "title_zh": "从零开始自学《Linux运维工程师》",
-    "summary_zh": "该视频课程面向零基础学习者，系统讲解Linux运维工程师所需的核心技能。内容涵盖Linux基础操作、Shell脚本、网络配置、服务部署、容器化技术和自动化运维工具等。课程注重实战，帮助学习者逐步掌握服务器管理、故障排查和性能优化能力，为从事运维工作打下坚实基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "ec64e8d0a750745558493520babadcf6",
-    "title_en": "wovert/LinuxSRE: Linux 运维工程师技能总结",
-    "source": "github.com",
-    "url": "https://github.com/wovert/LinuxSRE",
-    "published_at": "2026-09-19T19:47:30.574Z",
-    "fetched_at": "2026-09-19T19:47:30.574Z",
-    "title_zh": "wovert/LinuxSRE：Linux 运维工程师技能总结",
-    "summary_zh": "该项目系统梳理了 Linux SRE 运维工程师所需的核心技能体系，涵盖系统管理、网络配置、存储管理、性能调优、自动化脚本及故障排查等关键领域。内容以实战为导向，适合运维人员对照查漏补缺，构建完整的技能图谱，也可作为团队培训与面试准备的参考材料。",
-    "topic": "ops"
-  },
-  {
-    "id": "e5d14a56e59e8dc282a0b078c33bea51",
-    "title_en": "Linux服务器运维精髓与实践指南 - OSCHINA - 开源× AI",
-    "source": "my.oschina.net",
-    "url": "https://my.oschina.net/emacs_8861491/blog/17449420",
-    "published_at": "2026-09-19T19:47:30.574Z",
-    "fetched_at": "2026-09-19T19:47:30.574Z",
-    "title_zh": "Linux 服务器运维精髓与实践指南",
-    "summary_zh": "文章围绕 Linux 服务器运维的核心要点展开，深入讲解系统监控、日志分析、安全加固、性能调优及自动化部署等实践技巧。结合真实场景剖析常见故障的排查思路与解决方案，帮助运维工程师提升日常管理效率与系统稳定性，具有较强的实操指导价值。",
-    "topic": "ops"
-  },
-  {
-    "id": "153ebd649223d07d956c6fe5ee0445d2",
-    "title_en": "书评 - 编程个人学习",
-    "source": "stackoverflow.club",
-    "url": "https://stackoverflow.club/article/categories/%E4%B9%A6%E8%AF%84",
-    "published_at": "2026-09-19T19:47:30.574Z",
-    "fetched_at": "2026-09-19T19:47:30.574Z",
-    "title_zh": "书评——编程个人学习",
-    "summary_zh": "这是一篇关于编程学习类书籍的读后感，作者结合自身学习经历分享了阅读收获与思考。内容偏向个人成长与方法论探讨，涉及学习路径规划、技术书籍选择等话题，适合开发者参考借鉴，但不涉及具体技术实现细节。",
-    "topic": "other"
-  },
-  {
-    "id": "934cdb8aeabda55be820e581b5b7a854",
-    "title_en": "而是更會替軟體作判斷。 最近TypeSafe AI 推出了一個叫Jev 的模型 ...",
-    "source": "instagram.com",
-    "url": "https://www.instagram.com/p/DddV8LlDbRG/",
-    "published_at": "2026-09-19T19:47:30.573Z",
-    "fetched_at": "2026-09-19T19:47:30.573Z",
-    "title_zh": "而是更会替软件作判断。最近TypeSafe AI推出了一个叫Jev的模型...",
-    "summary_zh": "该内容介绍了TypeSafe AI推出的Jev模型，其核心能力在于替软件系统进行智能判断与决策，而非仅生成文本。Jev可能聚焦于代码理解、类型推断或自动化软件工程任务，通过模型推理辅助开发者完成复杂逻辑判断。文章探讨了此类模型在提升软件可靠性、减少人工审查成本方面的潜力，代表了AI在软件工程领域的深度应用方向。",
-    "topic": "ai"
-  },
-  {
-    "id": "66aa16d8f90a6e3691a0c87199bf16ce",
-    "title_en": "推理及電腦操作等多項能力上，均領先Astra與Fable 5.1。 受此消息 ...",
-    "source": "threads.com",
-    "url": "https://www.threads.com/@pumpkin_us.stock/post/DddYH2KG8Hu/googgemini-4-pro%E7%96%91%E4%BC%BC%E6%AD%A3%E4%BB%A5gemini-38-flash%E5%90%8D%E7%A8%B1%E5%81%B7%E8%B7%91%E4%B8%8A%E7%B7%9A%E6%93%9A%E6%B5%81%E5%87%BA%E7%9A%84%E5%9F%BA%E6%BA%96%E6%B8%AC%E8%A9%A6%E9%A1%AF%E7%A4%BA%E8%A9%B2%E6%A8%A1%E5%9E%8B%E5%9C%A8%E7%B7%A8%E7%A8%8B%E7%B7%A8%E7%A2%BCai%E4%BB%A3%E7%90%86%E6%8E%A8%E7%90%86%E5%8F%8A%E9%9B%BB%E8%85%A6%E6%93%8D%E4%BD%9C%E7%AD%89%E5%A4%9A%E9%A0%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E5%9D%87%E9%A0%98%E5%85%88a/",
-    "published_at": "2026-09-19T19:47:30.573Z",
-    "fetched_at": "2026-09-19T19:47:30.573Z",
-    "title_zh": "推理及电脑操作等多项能力上，均领先Astra与Fable 5.1。受此消息...",
-    "summary_zh": "该内容讨论了某AI模型在推理和电脑操作等多项能力上领先Astra与Fable 5.1的表现，涉及模型在复杂任务规划、界面交互和自动化操作方面的技术优势。文章可能分析了该模型在基准测试中的具体得分及实际应用场景，如桌面自动化、多步推理任务等，并探讨其对AI Agent竞争格局的影响。",
-    "topic": "ai"
-  },
-  {
-    "id": "dfda0f1d3c5214b4430ba67aac715ee0",
-    "title_en": "最新动态_融资介绍_亿欧网",
-    "source": "iyiou.com",
-    "url": "https://www.iyiou.com/t/rongzi",
-    "published_at": "2026-09-19T19:47:30.573Z",
-    "fetched_at": "2026-09-19T19:47:30.573Z",
-    "title_zh": "最新动态_融资介绍_亿欧网",
-    "summary_zh": "该页面为亿欧网的最新动态与融资介绍汇总，涵盖科技与AI领域的投融资事件、企业动态和行业趋势。内容可能包括AI初创公司的融资轮次、估值变化及资本流向分析，为关注科技产业投资的人士提供及时的信息参考，但具体技术深度有限，偏向商业与资本视角。",
-    "topic": "other"
   }
 ]
