@@ -1,5 +1,71 @@
 [
   {
+    "id": "dca8e921be10a53e879302e1666af89c",
+    "title_en": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "published_at": "2026-09-23T00:17:17.000Z",
+    "fetched_at": "2026-09-23T02:29:21.399Z",
+    "title_zh": "OpenAI欲咨询顶尖数学家，避免再次失误",
+    "summary_zh": "据报道，OpenAI正计划与顶尖数学家合作，以解决其在AI推理和数学能力方面的不足。此前，OpenAI的模型在数学推理任务中曾出现明显错误，引发外界对其可靠性的质疑。通过引入数学领域的专家，OpenAI希望提升模型的逻辑推理能力，并避免未来在类似问题上再次“翻车”。这一举措也反映出AI公司在追求更强推理能力时，正越来越重视与学术界的合作，以弥补纯数据驱动方法的局限性。",
+    "category": "llm"
+  },
+  {
+    "id": "b80d4f833f82930bed1ba021215d1a41",
+    "title_en": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "published_at": "2026-09-22T23:21:49.000Z",
+    "fetched_at": "2026-09-23T02:29:21.329Z",
+    "title_zh": "TechCrunch创始人峰会日程揭晓：11月4日波士顿解锁融资、招聘与AI洞察",
+    "summary_zh": "TechCrunch公布了其创始人峰会的完整议程，活动将于11月4日在波士顿举行。本次峰会将聚焦创业公司最为关心的三大核心议题：融资策略、人才招聘以及人工智能带来的行业洞察。与会者将有机会与投资人、行业专家面对面交流，获取关于如何在当前AI热潮中把握机遇、优化公司运营的实用建议。该峰会旨在为创始人提供一个高效的学习与社交平台，帮助他们在竞争激烈的市场中脱颖而出。",
+    "category": "industry"
+  },
+  {
+    "id": "912459032f011bb4c97a31aaaab01072",
+    "title_en": "Paramount will need to release way more movies to make this merger work",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+    "published_at": "2026-09-22T22:26:07.000Z",
+    "fetched_at": "2026-09-23T02:29:21.399Z",
+    "title_zh": "派拉蒙合并后需大幅增加电影产量才能奏效",
+    "summary_zh": "分析指出，派拉蒙在完成合并后，必须显著提高电影发行数量，才能使合并交易产生预期效益。目前，派拉蒙的电影产出相对有限，而合并后的新实体需要更强大的内容管线来支撑流媒体平台和院线业务。业内人士认为，增加电影产量不仅有助于吸引订阅用户，还能提升公司在与竞争对手谈判时的议价能力。然而，提高产量也意味着更大的制作和营销投入，派拉蒙需要在内容质量与数量之间找到平衡。",
+    "category": "industry"
+  },
+  {
+    "id": "0b3c6cf5dcf5b3b00639c297e7179a07",
+    "title_en": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "published_at": "2026-09-22T21:56:43.000Z",
+    "fetched_at": "2026-09-23T02:29:21.330Z",
+    "title_zh": "Snorkel AI估值翻三倍达35亿美元，AI训练数据需求激增",
+    "summary_zh": "AI训练数据平台Snorkel AI宣布其估值已增长至35亿美元，较此前翻了三倍。这一显著增长反映出市场对高质量AI训练数据的旺盛需求。随着大语言模型和生成式AI的快速发展，企业越来越依赖专业的数据标注和管理工具来优化模型性能。Snorkel AI提供的平台能够帮助企业高效地创建、管理和评估训练数据，从而加速AI应用的开发与部署。此次估值飙升也表明投资者对AI基础设施领域持续看好。",
+    "category": "industry"
+  },
+  {
+    "id": "d0716c4b578fd51dd0cf4061bff034a4",
+    "title_en": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "published_at": "2026-09-22T20:52:40.000Z",
+    "fetched_at": "2026-09-23T02:29:21.399Z",
+    "title_zh": "Rabbit新款AI代理无需R1设备即可运行",
+    "summary_zh": "Rabbit公司推出了新款AI代理，该代理不再依赖其此前推出的R1专用设备，而是可以在更广泛的平台上运行。这意味着用户无需购买额外硬件即可体验Rabbit的AI服务。此举被视为Rabbit在经历R1设备市场表现不佳后的战略调整，旨在降低使用门槛、扩大用户基础。新款AI代理预计将支持多种任务自动化，并可能与其他主流设备和应用集成，从而在竞争激烈的AI助手市场中争取更多份额。",
+    "category": "product"
+  },
+  {
+    "id": "307efa7a3c71d9c8426dd15c5dfb6092",
+    "title_en": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+    "published_at": "2026-09-22T20:14:54.000Z",
+    "fetched_at": "2026-09-23T02:29:21.399Z",
+    "title_zh": "沙特新款Exobot电动车让Cybertruck都显得正常",
+    "summary_zh": "沙特阿拉伯推出了一款名为Exobot的新型电动车，其外观设计极为前卫甚至夸张，以至于特斯拉的Cybertruck相比之下都显得中规中矩。Exobot的设计融合了科幻元素与未来主义风格，旨在展示沙特在电动汽车和智能制造领域的雄心。尽管其量产计划和性能参数尚未完全公布，但该车已引发广泛关注。分析认为，沙特正通过此类项目推动经济多元化，并试图在全球电动车市场中占据一席之地。",
+    "category": "product"
+  },
+  {
     "id": "061e1bb8fdf4e7d5e6df51f590799fdf",
     "title_en": "Qualcomm launches two new smartphone chips with emphasis on AI",
     "source": "TechCrunch AI",
@@ -691,6 +757,116 @@
     "title_zh": "宏碁优惠码：享40%折扣",
     "summary_zh": "Wired整理了宏碁（Acer）的最新优惠码，用户购买其笔记本电脑、显示器及台式机等产品可享受最高40%的折扣。宏碁产品线覆盖入门级到高端游戏本，如Predator系列和Swift轻薄本。对于学生或预算有限的消费者，此类折扣能显著降低购机成本，文章会定期更新有效优惠码。",
     "category": "product"
+  },
+  {
+    "id": "8fed801e92a8366378a9127f90911c08",
+    "title_en": "Fulfilling earlier US-China agreements is a work in progress as Trump and Xi meet again",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/Technology/wireStory/fulfilling-earlier-us-china-agreements-work-progress-trump-136637799",
+    "published_at": "2026-09-22T02:23:30Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "特朗普与习近平再次会晤，此前中美协议的落实仍在推进中",
+    "summary_zh": "在中美两国领导人再次会晤之际，此前达成的双边协议落实情况仍处于进行时。双方在贸易、技术管制和地缘政治等领域的分歧依然存在，但两国都有意通过对话维持关系稳定。此次会晤备受全球关注，外界期待双方能在关键议题上取得实质性进展，尤其是在AI技术出口管制和供应链安全等敏感领域。",
+    "category": "industry"
+  },
+  {
+    "id": "cb5294ad5f833ccdc7362dbf844840e1",
+    "title_en": "War, runaway AI and climate shocks to take center stage as world leaders meet at UN",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/US/wireStory/war-runaway-ai-climate-shocks-center-stage-world-136610169",
+    "published_at": "2026-09-22T02:23:23Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "战争、失控的AI与气候冲击成为联合国大会世界领导人峰会的焦点",
+    "summary_zh": "世界各国领导人齐聚联合国大会，战争冲突、AI失控风险和气候变化成为核心议题。随着AI技术快速发展，其潜在风险引发全球治理关注，各国呼吁建立国际AI安全框架。同时，地缘政治紧张局势和极端气候事件持续加剧，多边合作面临严峻考验。此次峰会将推动各国在AI治理、气候行动和和平安全等领域寻求共识。",
+    "category": "industry"
+  },
+  {
+    "id": "887dbd464e786a8adfc85aee8498f355",
+    "title_en": "Xi steers China-U.S. relations toward stability",
+    "source": "Peoplesreview.com.np",
+    "url": "https://peoplesreview.com.np/2026/09/22/xi-steers-china-u-s-relations-toward-stability/",
+    "published_at": "2026-09-22T02:18:12Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "习近平引导中美关系走向稳定",
+    "summary_zh": "中国国家主席习近平在最新外交场合中强调推动中美关系稳定发展，呼吁双方在相互尊重基础上管控分歧、拓展合作。在中美科技竞争日益激烈的背景下，两国关系走向对全球AI产业格局、芯片供应链和技术标准制定具有深远影响。分析人士认为，保持中美关系稳定对于全球经济复苏和技术创新合作至关重要。",
+    "category": "industry"
+  },
+  {
+    "id": "3e47170d65bc832f6a08799f722965b1",
+    "title_en": "Economic Digest: A Snapshot of Nepal’s Business News",
+    "source": "Khabarhub.com",
+    "url": "https://english.khabarhub.com/2026/22/568691/",
+    "published_at": "2026-09-22T02:15:48Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "经济摘要：尼泊尔商业新闻一览",
+    "summary_zh": "本期经济摘要汇总了尼泊尔近期重要商业动态，涵盖投资环境、基础设施建设和技术发展等领域。随着全球AI浪潮席卷各国，尼泊尔也在积极探索数字化转型机遇，但面临基础设施薄弱和人才短缺等挑战。报告还关注了尼泊尔与周边国家在贸易和科技合作方面的最新进展，为关注南亚市场的投资者提供参考。",
+    "category": "industry"
+  },
+  {
+    "id": "63998d991b57b1d490cd7d4a12a2efea",
+    "title_en": "Microsoft Taiwan to double data centers as AI computing demand exceeds supply",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260922PD200/data-microsoft-taiwan-demand-microsoft-taiwan.html",
+    "published_at": "2026-09-22T02:05:31Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "微软台湾将翻倍扩建数据中心，AI算力需求供不应求",
+    "summary_zh": "微软宣布将在台湾大幅扩建数据中心容量，以应对持续飙升的AI算力需求。当前AI训练和推理所需的计算资源远超供给，全球科技巨头纷纷加大基础设施投资。微软此举旨在强化其在亚太地区的云服务和AI服务能力，同时支持台湾本地半导体和AI产业链发展。这一扩张计划也反映出AI算力已成为科技竞争的核心战略资源。",
+    "category": "industry"
+  },
+  {
+    "id": "5d2012aeede6c01add092136060ac579",
+    "title_en": "Follow the buzz? A headlong rush for data centres in India may cost the country dear",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/opinion/online-views/data-centres-india-must-look-before-it-leaps-into-this-high-buzz-sector-headlong-rush-may-cost-the-country-dear-11789995795033.html",
+    "published_at": "2026-09-22T02:01:14Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "盲目跟风？印度数据中心建设热潮可能让国家付出沉重代价",
+    "summary_zh": "印度正经历数据中心建设热潮，但分析人士警告这种一哄而上的扩张可能带来严重后果。数据中心是高耗水、高耗能产业，大规模建设可能加剧印度本已紧张的水资源和电力供应压力。此外，盲目投资可能导致产能过剩和资源浪费。专家建议印度政府制定合理的产业规划，在推动AI基础设施发展的同时兼顾可持续性和经济效益。",
+    "category": "industry"
+  },
+  {
+    "id": "4e6195d99231379e672638e56a541fac",
+    "title_en": "How India’s Geopolitical Position Would Improve With Better China Ties",
+    "source": "The Diplomat",
+    "url": "https://thediplomat.com/2026/09/how-indias-geopolitical-position-would-improve-with-better-china-ties/",
+    "published_at": "2026-09-22T02:01:00Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "改善对华关系将如何提升印度的地缘政治地位",
+    "summary_zh": "分析文章探讨了印度改善与中国关系对其地缘政治地位的潜在积极影响。在中美科技竞争加剧的背景下，印度作为全球重要经济体和AI人才大国，其外交取向备受关注。改善对华关系可能为印度带来更多贸易机会和技术合作空间，同时增强其在国际事务中的话语权。文章认为务实外交有助于印度在复杂的全球格局中实现利益最大化。",
+    "category": "industry"
+  },
+  {
+    "id": "b2ed3d760cd2ab872bd4f45c20aad906",
+    "title_en": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/e8f7a5e3d3a4aeaf",
+    "published_at": "2026-09-22T01:59:42Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "OpenAI成立数学顾问小组，其AI已解决100多个开放问题",
+    "summary_zh": "OpenAI宣布成立数学顾问小组，旨在指导其AI模型在数学领域的进一步研究与应用。据报道，OpenAI的AI系统已成功解决超过100个此前未解决的数学开放问题，展示了大型语言模型在高级推理和数学证明方面的潜力。此举标志着AI在基础科学研究中的应用迈出重要一步，也引发了关于AI辅助数学发现和学术诚信的讨论。",
+    "category": "llm"
+  },
+  {
+    "id": "84f7e99c382ad73ea4bc0e4bdffc2cd8",
+    "title_en": "Elite University Used AI To Make Students Hotter, More Diverse In Ad, Student Publication Alleges",
+    "source": "The Daily Caller",
+    "url": "https://dailycaller.com/2026/09/21/stanford-ai-race-swap-student-advertisement",
+    "published_at": "2026-09-22T01:56:44Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "精英大学被指用AI在广告中让学生更漂亮、更多元，学生刊物提出质疑",
+    "summary_zh": "一所精英大学被学生刊物指控在招生广告中使用AI技术修改学生形象，使其看起来更漂亮、更多元化。这一指控引发了关于AI生成内容在高等教育营销中伦理边界的广泛讨论。批评者认为这种做法涉嫌虚假宣传，可能误导申请者并损害学校公信力。事件也反映出AI图像编辑技术日益普及所带来的真实性和透明度挑战。",
+    "category": "product"
+  },
+  {
+    "id": "ec885e536eb089c0dd697f84fd73f45a",
+    "title_en": "China puts AI computing into orbit with first integrated satellite launch",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260922VL205/launch-data-commercial-infrastructure-development.html",
+    "published_at": "2026-09-22T01:51:46Z",
+    "fetched_at": "2026-09-23T02:29:22.200Z",
+    "title_zh": "中国首次发射集成AI计算卫星，将算力送入轨道",
+    "summary_zh": "中国成功发射首颗集成AI计算能力的卫星，标志着天基AI算力迈出重要一步。该卫星搭载了专用AI处理芯片，可在轨完成图像识别、数据处理等任务，减少对地面站的依赖。这一突破对遥感监测、灾害预警和军事侦察等领域具有重要意义。分析人士指出，将AI算力部署到太空是全球科技竞争的新前沿，中国在该领域的进展值得关注。",
+    "category": "research"
   },
   {
     "id": "b49bf5bb1955922dd90f67406278f5b2",
@@ -5322,181 +5498,5 @@
     "title_zh": "Anthropic与OpenAI欲内嵌安全评估器，它们真能保持独立吗？",
     "summary_zh": "Anthropic和OpenAI计划将安全评估机制直接嵌入其AI系统内部，以提升模型安全性。然而，这一做法引发业界质疑：当评估器由被评估的公司自己开发和运营时，其独立性如何保证？批评者认为，内部评估可能存在利益冲突，难以客观揭示模型风险。该争议反映了AI安全治理中一个核心矛盾——企业自我监管与外部独立监督之间的张力。",
     "category": "industry"
-  },
-  {
-    "id": "c783a1d64b08e5d8fbc98b73e280cfd9",
-    "title_en": "Washington Won’t Be Regulating AI Anytime Soon",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-    "published_at": "2026-09-16T21:00:00.000Z",
-    "fetched_at": "2026-09-17T02:30:26.173Z",
-    "title_zh": "华盛顿短期内不会对 AI 进行监管",
-    "summary_zh": "Wired 报道指出，尽管 AI 技术快速发展并引发广泛担忧，但美国华盛顿在短期内不太可能出台实质性的 AI 监管立法。文章分析称，党派分歧、行业游说以及对创新受阻的顾虑，使得联邦层面难以形成共识。与此同时，各州和欧盟却在推进各自的规则，可能导致监管碎片化。文章认为，这种观望态度虽有利于短期创新，但也可能让风险积累，未来一旦发生重大事件，监管压力将迅速上升。",
-    "category": "industry"
-  },
-  {
-    "id": "c623aea4a21ff1c7adfee4d9bb6688f0",
-    "title_en": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-    "published_at": "2026-09-16T20:59:13.000Z",
-    "fetched_at": "2026-09-17T02:30:26.036Z",
-    "title_zh": "2.5小时AI生成的《奥德赛》电影，长了整整2.5小时",
-    "summary_zh": "一部完全由AI生成的《奥德赛》电影时长2.5小时，但评论认为它冗长到令人难以忍受。文章批评了当前AI视频生成技术在叙事节奏、画面连贯性和艺术表达方面的严重不足。尽管AI生成视频技术发展迅速，但该案例表明，仅靠技术堆砌无法替代人类创作者的叙事直觉和审美判断。这部作品被视为AI影视创作热潮中一个典型的反面教材。",
-    "category": "product"
-  },
-  {
-    "id": "3f938bc4ca92a3263a342a07d0e080aa",
-    "title_en": "CBF event brings together heads of state refereeing commissions",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/cbf-event-brings-together-heads-of-state-refereeing-commissions-43473661",
-    "published_at": "2026-09-16T20:44:00Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "CBF活动汇聚各国裁判委员会负责人",
-    "summary_zh": "巴西足协（CBF）举办活动，邀请多国裁判委员会负责人齐聚一堂，围绕裁判执法标准、VAR技术应用及国际赛事协作展开交流。会议旨在推动裁判工作的专业化与国际化，提升比赛公正性。此类活动也体现出足球管理机构在技术辅助判罚日益普及的背景下，加强跨国沟通与规则统一的努力。",
-    "category": "industry"
-  },
-  {
-    "id": "6508f40f19ffa98b660d1c09318f2c49",
-    "title_en": " Who faces Fluminense? Palmeiras XI named in Quito vs LDU",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/who-will-face-fluminense-palmeiras-named-in-quito-v-ldu-43473664",
-    "published_at": "2026-09-16T20:44:00Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "谁将面对弗鲁米嫩塞？帕尔梅拉斯在基多对阵LDU公布首发",
-    "summary_zh": "帕尔梅拉斯在基多客场对阵LDU的比赛中公布首发阵容，这场比赛的结果将决定谁能在后续赛程中面对弗鲁米嫩塞。球队在高原客场面临体能和战术双重考验，主教练的排兵布阵备受关注。南美解放者杯竞争激烈，每一场对决都可能影响小组出线格局与淘汰赛对阵形势。",
-    "category": "industry"
-  },
-  {
-    "id": "9cedc5f59aaaadcf67e17ef630b70485",
-    "title_en": "Splunk Preps Second Open Source LLM for Telemetry Data",
-    "source": "DevOps.com",
-    "url": "https://devops.com/splunk-preps-second-open-source-llm-for-telemetry-data/",
-    "published_at": "2026-09-16T20:42:02Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "Splunk筹备第二个面向遥测数据的开源LLM",
-    "summary_zh": "Splunk正在开发其第二个开源大语言模型，专门针对遥测数据场景优化。该模型旨在帮助运维和安全团队更高效地分析日志、指标与追踪数据，降低对通用闭源模型的依赖。此举延续了Splunk推动可观测性领域AI化的战略，也为企业提供了可自托管、可定制的模型选项，兼顾数据隐私与成本控制。",
-    "category": "llm"
-  },
-  {
-    "id": "942df224158223112ea0c8f49e9b1206",
-    "title_en": "The Fed Bucks Trump and Raises Interest Rates",
-    "source": "Foreign Policy",
-    "url": "http://foreignpolicy.com/2026/09/16/fed-interest-rate-hike-increase-trump-inflation/",
-    "published_at": "2026-09-16T20:41:40Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "美联储无视特朗普施压宣布加息",
-    "summary_zh": "美联储在特朗普持续施压要求降息的背景下宣布加息，凸显其维护货币政策独立性的立场。决策者认为通胀压力仍未完全消退，需要保持紧缩以稳定预期。此举可能引发特朗普阵营的进一步批评，并加剧市场对政治干预货币政策的担忧。加息决定也将影响全球资本流动与新兴市场汇率走势。",
-    "category": "industry"
-  },
-  {
-    "id": "7c030c9e71814d3638efae3e7cd24d71",
-    "title_en": " Unstoppable! Raphinha hits ten goals this season for Barça",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/unstoppable-raphinha-hits-ten-goals-this-season-for-barca-43473653",
-    "published_at": "2026-09-16T20:41:00Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "势不可挡！拉菲尼亚本赛季为巴萨打入十球",
-    "summary_zh": "拉菲尼亚本赛季已为巴塞罗那攻入十球，展现出极佳的竞技状态与进攻效率。作为球队边路核心，他在关键比赛中屡屡建功，成为巴萨锋线不可或缺的火力点。其出色表现不仅巩固了主力位置，也引发外界对其在巴西国家队前景的更多期待，同时为巴萨争夺各项赛事冠军增添重要砝码。",
-    "category": "industry"
-  },
-  {
-    "id": "418dbc769c8c49eb5f141fbeed6affc2",
-    "title_en": "The AI data center e-waste problem is huge — and getting bigger",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-    "published_at": "2026-09-16T20:40:46.000Z",
-    "fetched_at": "2026-09-17T02:30:26.036Z",
-    "title_zh": "AI数据中心的电子垃圾问题规模巨大——且仍在加剧",
-    "summary_zh": "随着AI算力需求爆发式增长，数据中心产生的电子垃圾问题日益严峻。大量GPU、服务器和配套硬件在短时间内被淘汰替换，导致电子废弃物急剧增加。文章指出，这些废弃设备含有有害物质，若处理不当将对环境造成严重污染。同时，AI行业快速迭代的商业模式进一步缩短了硬件生命周期，使问题持续恶化。该报道呼吁业界关注AI发展背后的环境代价。",
-    "category": "industry"
-  },
-  {
-    "id": "b0caa1591239b44fa490dd43a5133448",
-    "title_en": "The Left’s Answer to AI Is Simple: More Government",
-    "source": "Daily Signal",
-    "url": "https://www.dailysignal.com/2026/09/16/lefts-answer-to-ai-more-government/",
-    "published_at": "2026-09-16T20:39:48Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "左翼对AI的答案很简单：更多政府干预",
-    "summary_zh": "Daily Signal刊文批评左翼将AI治理简单化为扩大政府权力，认为其主张通过监管、补贴和国有化手段控制AI发展，可能扼杀创新与市场竞争。文章主张以自由市场和技术开放应对AI挑战，反对以安全为名行管制之实。这一观点反映出美国围绕AI政策路线的意识形态分歧日益尖锐。",
-    "category": "industry"
-  },
-  {
-    "id": "f4d927019a6f0ee4b1d8a4f6b1aff110",
-    "title_en": "Stocks Drop Sharply After Fed Chair's Remarks",
-    "source": "Newser",
-    "url": "https://www.newser.com/story/396553/stocks-drop-sharply-after-fed-chairs-remarks.html",
-    "published_at": "2026-09-16T20:36:06Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "美联储主席讲话后股市大幅下挫",
-    "summary_zh": "美联储主席发表讲话后，美国股市大幅下跌，投资者对利率路径和经济前景的担忧升温。市场解读其言论偏向鹰派，暗示紧缩政策可能延续，导致科技股与成长股承压。此轮波动也波及全球市场，反映出投资者对货币政策不确定性高度敏感，并加剧了对经济放缓与企业盈利前景的忧虑。",
-    "category": "industry"
-  },
-  {
-    "id": "e58bf33c91928163a63d3e94e1b853d1",
-    "title_en": "Rune raises $40M for its modular solar-powered data centers",
-    "source": "SiliconANGLE News",
-    "url": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
-    "published_at": "2026-09-16T20:32:13Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "Rune为其模块化太阳能数据中心融资4000万美元",
-    "summary_zh": "Rune宣布完成4000万美元融资，用于推进其模块化太阳能数据中心业务。该方案以可再生能源供电、快速部署和灵活扩展为卖点，瞄准AI算力需求激增带来的能源与基础设施瓶颈。随着数据中心能耗问题日益突出，太阳能与模块化设计被视为降低碳足迹、缩短建设周期的重要路径，受到资本关注。",
-    "category": "industry"
-  },
-  {
-    "id": "1130b9522e4dadd36837054d8ab22edc",
-    "title_en": "Insurers see AI as a way to unblock admin bottlenecks",
-    "source": "Royal Gazette",
-    "url": "https://www.royalgazette.com/reinsurance/business/article/20260916/insurers-see-ai-as-a-way-to-unblock-admin-bottlenecks/",
-    "published_at": "2026-09-16T20:32:04Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "保险公司视AI为打通行政瓶颈的途径",
-    "summary_zh": "保险行业正积极引入AI以解决长期存在的行政瓶颈，包括理赔审核、保单处理和客户服务等环节。通过自动化与智能决策，保险公司希望缩短处理时间、降低运营成本并提升客户体验。不过，数据质量、合规要求与系统集成仍是落地难点。业内认为，AI能否真正释放价值，取决于流程再造与治理能力的同步提升。",
-    "category": "product"
-  },
-  {
-    "id": "1afa94934b2a8f6c335dc493b519e10f",
-    "title_en": "AI ‘is changing the game’ in fraud threats and prevention efforts, SSA OIG official says",
-    "source": "Nextgov",
-    "url": "https://www.nextgov.com/artificial-intelligence/2026/09/ai-changing-game-fraud-threats-and-prevention-efforts-ssa-oig-official-says/416033/",
-    "published_at": "2026-09-16T20:32:00Z",
-    "fetched_at": "2026-09-17T20:45:54.894Z",
-    "title_zh": "SSA监察长办公室官员：AI正改变欺诈威胁与防范的格局",
-    "summary_zh": "美国社会保障局监察长办公室官员表示，AI正在改变欺诈威胁与防范的格局。一方面，诈骗者利用生成式AI伪造身份、合成语音和批量生成欺诈内容，攻击更隐蔽且规模化；另一方面，监管机构也在借助AI分析异常模式、识别可疑申请并加快调查。该官员强调，需在技术应用与隐私保护、误判风险之间取得平衡。",
-    "category": "industry"
-  },
-  {
-    "id": "3cc70cf1c7d0b04d376be3db35180fbf",
-    "title_en": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-    "published_at": "2026-09-16T20:12:00.000Z",
-    "fetched_at": "2026-09-16T20:39:26.025Z",
-    "title_zh": "在“偷拍眼镜”指控后，Meta准备推出一款无摄像头版本",
-    "summary_zh": "Meta此前因智能眼镜的隐蔽拍摄能力遭到隐私倡导者批评，被指责为“偷拍眼镜”。如今Meta计划推出一款不带摄像头的智能眼镜版本，以回应外界对隐私侵犯的担忧。此举被视为Meta在AI可穿戴设备领域寻求平衡隐私与功能的最新尝试，但能否挽回公众信任仍有待观察。",
-    "category": "product"
-  },
-  {
-    "id": "86a7d74f9c80d9fdae8d17c9e1ce2670",
-    "title_en": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
-    "published_at": "2026-09-16T19:45:41.000Z",
-    "fetched_at": "2026-09-16T20:39:26.426Z",
-    "title_zh": "2026年亚马逊Prime大促日省钱攻略",
-    "summary_zh": "本文为消费者提供2026年亚马逊Prime Big Deal Days的购物攻略，涵盖如何识别真正划算的优惠、避免虚假折扣陷阱以及利用价格追踪工具等实用技巧。文章还盘点了值得关注的品类和产品，帮助读者在促销活动中做出明智的消费决策，最大化节省开支。",
-    "category": "product"
-  },
-  {
-    "id": "c1185c9a34fab612a13e93a7443fc220",
-    "title_en": "MacOS 27 Golden Gate: Top New Features",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
-    "published_at": "2026-09-16T19:29:15.000Z",
-    "fetched_at": "2026-09-16T20:39:26.426Z",
-    "title_zh": "macOS 27 Golden Gate：主要新功能一览",
-    "summary_zh": "苹果发布macOS 27 Golden Gate，带来多项重要更新。新系统在界面设计、AI集成和跨设备协同方面均有显著提升，包括更智能的Siri、增强的隐私保护功能以及针对Apple Silicon的深度优化。本文详细盘点了该版本的核心新特性，帮助用户了解升级后的体验变化和值得关注的功能亮点。",
-    "category": "product"
   }
 ]
