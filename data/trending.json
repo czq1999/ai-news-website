@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-23",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：从谷歌ax编排运行时、Claude Code工具链，到智能体原生应用框架与开发方法论，全面推动软件“智能体化”。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：智能体编排、开发框架与技能体系密集涌现，办公套件与CLI工具加速软件智能体化。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/google/ax",
           "description_en": "Google's open agentic orchestration runtime",
           "language": "Go",
-          "stars_total": 8616,
+          "stars_total": 8911,
           "stars_today": 1542,
           "description_zh": "Google 的开放式智能体编排运行时"
         },
@@ -20,129 +20,129 @@
           "url": "https://github.com/dream-num/univer",
           "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
           "language": "TypeScript",
-          "stars_total": 16145,
+          "stars_total": 16259,
           "stars_today": 1140,
           "description_zh": "面向 AI 智能体的 Office Harness —— 在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
         {
           "rank": 3,
-          "name": "Open-Dev-Society/OpenStock",
-          "url": "https://github.com/Open-Dev-Society/OpenStock",
-          "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-          "language": "TypeScript",
-          "stars_total": 18645,
-          "stars_today": 832,
-          "description_zh": "OpenStock 是昂贵市场平台的开源替代方案。追踪实时价格、设置个性化提醒，并探索详细的公司洞察——公开构建，为人人服务，永久免费。"
-        },
-        {
-          "rank": 4,
           "name": "browser-use/video-use",
           "url": "https://github.com/browser-use/video-use",
           "description_en": "Edit videos with coding agents",
           "language": "Python",
-          "stars_total": 26333,
+          "stars_total": 26436,
           "stars_today": 745,
           "description_zh": "使用编码智能体编辑视频"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "anthropics/financial-services",
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 36786,
+          "stars_total": 36881,
           "stars_today": 665,
           "description_zh": ""
         },
         {
-          "rank": 6,
-          "name": "BuilderIO/agent-native",
-          "url": "https://github.com/BuilderIO/agent-native",
-          "description_en": "A framework for building agentic apps",
-          "language": "TypeScript",
-          "stars_total": 6429,
-          "stars_today": 609,
-          "description_zh": "一个用于构建智能体应用的框架"
-        },
-        {
-          "rank": 7,
+          "rank": 5,
           "name": "agent-substrate/substrate",
           "url": "https://github.com/agent-substrate/substrate",
           "description_en": "Agent Substrate: the core system",
           "language": "Go",
-          "stars_total": 3337,
+          "stars_total": 3435,
           "stars_today": 560,
           "description_zh": "Agent Substrate：核心系统"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "name": "mvt-project/mvt",
           "url": "https://github.com/mvt-project/mvt",
           "description_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
           "language": "Python",
-          "stars_total": 14375,
+          "stars_total": 14437,
           "stars_today": 546,
           "description_zh": "MVT（移动设备验证工具包）可帮助对移动设备进行取证，以发现可能被入侵的迹象。"
         },
         {
-          "rank": 9,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 290517,
-          "stars_today": 528,
-          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 10,
+          "rank": 7,
           "name": "superdesigndev/treg",
           "url": "https://github.com/superdesigndev/treg",
           "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
           "language": "Python",
-          "stars_total": 2557,
+          "stars_total": 2645,
           "stars_today": 502,
           "description_zh": "面向智能体工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
         },
         {
-          "rank": 11,
+          "rank": 8,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 290627,
+          "stars_today": 485,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 9,
           "name": "davila7/claude-code-templates",
           "url": "https://github.com/davila7/claude-code-templates",
           "description_en": "CLI tool for configuring and monitoring Claude Code",
           "language": "Python",
-          "stars_total": 31380,
+          "stars_total": 31447,
           "stars_today": 393,
           "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
         },
         {
-          "rank": 12,
+          "rank": 10,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description_en": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "language": "TypeScript",
+          "stars_total": 18752,
+          "stars_today": 379,
+          "description_zh": "OpenStock 是昂贵市场平台的开源替代方案。追踪实时价格、设置个性化提醒，并探索详细的公司洞察——公开构建，为人人服务，永久免费。"
+        },
+        {
+          "rank": 11,
           "name": "pbakaus/impeccable",
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design language that makes your AI harness better at design.",
           "language": "JavaScript",
-          "stars_total": 70161,
+          "stars_total": 70269,
           "stars_today": 287,
           "description_zh": "让你的 AI 运行框架更擅长设计的设计语言。"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "DeusData/codebase-memory-mcp",
           "url": "https://github.com/DeusData/codebase-memory-mcp",
           "description_en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
           "language": "C",
-          "stars_total": 44395,
-          "stars_today": 201,
+          "stars_total": 44498,
+          "stars_today": 266,
           "description_zh": "高性能代码智能 MCP 服务器。将代码库索引为持久化知识图谱——平均仓库索引仅需毫秒级。支持 158 种语言，亚毫秒级查询，令牌消耗减少 99%。单一静态二进制文件，零依赖。"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "TNT-Likely/PanWatch",
           "url": "https://github.com/TNT-Likely/PanWatch",
           "description_en": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
           "language": "Python",
-          "stars_total": 1432,
+          "stars_total": 1460,
           "stars_today": 142,
           "description_zh": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送"
+        },
+        {
+          "rank": 14,
+          "name": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description_en": "A framework for building agentic apps",
+          "language": "TypeScript",
+          "stars_total": 6490,
+          "stars_today": 135,
+          "description_zh": "一个用于构建智能体应用的框架"
         },
         {
           "rank": 15,
@@ -150,7 +150,7 @@
           "url": "https://github.com/harry7557558/spirula-studio",
           "description_en": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
           "language": "C++",
-          "stars_total": 676,
+          "stars_total": 705,
           "stars_today": 99,
           "description_zh": "跨厂商 3D 高斯泼溅训练器——从视频到泼溅再到网格，支持 Vulkan 或 CUDA。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/strands-agents/harness-sdk",
           "description_en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
           "language": "Python",
-          "stars_total": 7695,
+          "stars_total": 7790,
           "stars_today": 96,
           "description_zh": "构建智能体运行框架并端到端控制它。面向生产级 AI 智能体的开源 SDK，支持 Python 与 TypeScript——任意模型，任意云。"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/HKUDS/CLI-Anything",
           "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
           "language": "Python",
-          "stars_total": 49794,
+          "stars_total": 49875,
           "stars_today": 41,
           "description_zh": "\"CLI-Anything：让所有软件都原生支持智能体\" —— CLI-Hub：https://clianything.cc/"
         }
