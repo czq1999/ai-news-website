@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-24",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体：谷歌、英伟达等推出编排与模型优化工具，智能体记忆、办公套件及开发框架涌现，AI工程化与安全取证并重。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：智能体记忆、编排运行时、办公套件与技能框架齐发力，模型优化与移动取证工具同样亮眼。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/vectorize-io/hindsight",
           "description_en": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "stars_total": 27263,
+          "stars_total": 27672,
           "stars_today": 1607,
           "description_zh": "Hindsight：会学习的智能体记忆"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/google/ax",
           "description_en": "Google's open agentic orchestration runtime",
           "language": "Go",
-          "stars_total": 9923,
+          "stars_total": 10222,
           "stars_today": 1376,
           "description_zh": "Google 的开放智能体编排运行时"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/dream-num/univer",
           "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
           "language": "TypeScript",
-          "stars_total": 17298,
+          "stars_total": 17476,
           "stars_today": 1060,
           "description_zh": "面向 AI 智能体的 Office 运行框架——在同一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 291080,
+          "stars_total": 291178,
           "stars_today": 606,
           "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/anthropics/financial-services",
           "description_en": "",
           "language": "Python",
-          "stars_total": 37257,
+          "stars_total": 37319,
           "stars_today": 510,
           "description_zh": ""
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/superdesigndev/treg",
           "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
           "language": "Python",
-          "stars_total": 3033,
+          "stars_total": 3113,
           "stars_today": 470,
           "description_zh": "面向智能体工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/strands-agents/harness-sdk",
           "description_en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
           "language": "Python",
-          "stars_total": 8145,
+          "stars_total": 8212,
           "stars_today": 463,
           "description_zh": "构建智能体运行框架并端到端控制它。面向生产级 AI 智能体的开源 SDK，支持 Python 和 TypeScript——任意模型，任意云。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/HKUDS/CLI-Anything",
           "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
           "language": "Python",
-          "stars_total": 50210,
+          "stars_total": 50282,
           "stars_today": 415,
           "description_zh": "“CLI-Anything：让所有软件都原生支持智能体”——CLI-Hub：https://clianything.cc/"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 56184,
+          "stars_total": 56419,
           "stars_today": 310,
           "description_zh": "学习它。构建它。为他人发布它。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/mvt-project/mvt",
           "description_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
           "language": "Python",
-          "stars_total": 14640,
+          "stars_total": 14692,
           "stars_today": 275,
           "description_zh": "MVT（移动设备验证工具包）帮助对移动设备进行取证，以发现潜在入侵迹象。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/FxEmbed/FxEmbed",
           "description_en": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
           "language": "TypeScript",
-          "stars_total": 5307,
+          "stars_total": 5344,
           "stars_today": 165,
           "description_zh": "修复 X/Twitter 和 Bluesky 嵌入！在 Discord、Telegram 等平台上使用多图、视频、投票、翻译等更多功能"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/julyx10/lap",
           "description_en": "An offline-first photo manager for large local libraries",
           "language": "Vue",
-          "stars_total": 2750,
+          "stars_total": 2823,
           "stars_today": 151,
           "description_zh": "一款面向大型本地图库的离线优先照片管理器"
         },
@@ -130,8 +130,8 @@
           "url": "https://github.com/leejet/stable-diffusion.cpp",
           "description_en": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
           "language": "C++",
-          "stars_total": 7186,
-          "stars_today": 33,
+          "stars_total": 7220,
+          "stars_today": 69,
           "description_zh": "纯 C/C++ 实现的扩散模型（SD、Flux、Wan、Qwen Image、Z-Image 等）推理"
         },
         {
@@ -140,7 +140,7 @@
           "url": "https://github.com/NVIDIA/Model-Optimizer",
           "description_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
           "language": "Python",
-          "stars_total": 3952,
+          "stars_total": 4028,
           "stars_today": 22,
           "description_zh": "一个统一的 SOTA 模型优化技术库，包括量化、蒸馏、剪枝、神经架构搜索、投机解码等。它为 TensorRT-LLM、TensorRT、vLLM 等下游部署框架压缩深度学习模型，以优化推理速度。"
         }
