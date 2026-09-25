@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-25",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体：Agent技能框架、记忆与办公套件成主流，Claude插件与技能库受关注。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：技能框架、记忆系统、插件目录与办公工具齐发力，K8s硬核教程同步上榜。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description_en": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "stars_total": 83222,
+          "stars_total": 83989,
           "stars_today": 1853,
           "description_zh": "人人都在用的开源应用，用于在工作中管理智能体"
         },
@@ -20,8 +20,8 @@
           "url": "https://github.com/vectorize-io/hindsight",
           "description_en": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "stars_total": 28476,
-          "stars_today": 1668,
+          "stars_total": 29074,
+          "stars_today": 1652,
           "description_zh": "Hindsight：会学习的智能体记忆"
         },
         {
@@ -30,127 +30,137 @@
           "url": "https://github.com/google/ax",
           "description_en": "Google's open agentic orchestration runtime",
           "language": "Go",
-          "stars_total": 11016,
-          "stars_today": 1373,
+          "stars_total": 11240,
+          "stars_today": 1386,
           "description_zh": "Google 的开源智能体编排运行时"
         },
         {
           "rank": 4,
-          "name": "dream-num/univer",
-          "url": "https://github.com/dream-num/univer",
-          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-          "language": "TypeScript",
-          "stars_total": 18094,
-          "stars_today": 1082,
-          "description_zh": "面向 AI 智能体的 Office 运行框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
-        },
-        {
-          "rank": 5,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 269346,
-          "stars_today": 671,
-          "description_zh": "为真正的工程师打造的技能。直接来自我的 .agents 目录。"
-        },
-        {
-          "rank": 6,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 291392,
-          "stars_today": 611,
-          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 7,
-          "name": "pbakaus/impeccable",
-          "url": "https://github.com/pbakaus/impeccable",
-          "description_en": "The design language that makes your AI harness better at design.",
-          "language": "JavaScript",
-          "stars_total": 70895,
-          "stars_today": 527,
-          "description_zh": "让你的 AI 运行框架更擅长设计的设计语言。"
-        },
-        {
-          "rank": 8,
           "name": "rohitg00/ai-engineering-from-scratch",
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 57052,
-          "stars_today": 347,
+          "stars_total": 57250,
+          "stars_today": 1181,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
         {
-          "rank": 9,
-          "name": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description_en": "Public repository for Agent Skills",
-          "language": "Python",
-          "stars_total": 178050,
-          "stars_today": 155,
-          "description_zh": "Agent Skills 的公共仓库"
+          "rank": 5,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars_total": 18232,
+          "stars_today": 1048,
+          "description_zh": "面向 AI 智能体的 Office 运行框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
         {
-          "rank": 10,
-          "name": "androoAGI/starnet",
-          "url": "https://github.com/androoAGI/starnet",
-          "description_en": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-          "language": "JavaScript",
-          "stars_total": 276,
-          "stars_today": 113,
-          "description_zh": "一个充满生机的像素艺术空间站，真正的 AI 智能体在这里做真正的工作。本地优先的桌面智能体运行框架——自带密钥，亲眼看着你的团队真正运转起来。"
+          "rank": 6,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 269526,
+          "stars_today": 671,
+          "description_zh": "为真正的工程师打造的技能。直接来自我的 .agents 目录。"
         },
         {
-          "rank": 11,
-          "name": "kelseyhightower/kubernetes-the-hard-way",
-          "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
-          "description_en": "Bootstrap Kubernetes the hard way. No scripts.",
-          "language": "",
-          "stars_total": 50001,
-          "stars_today": 105,
-          "description_zh": "以硬核方式引导 Kubernetes。不使用脚本。"
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 291516,
+          "stars_today": 465,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         },
         {
-          "rank": 12,
-          "name": "anthropics/claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-          "language": "Python",
-          "stars_total": 36734,
-          "stars_today": 62,
-          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
-        },
-        {
-          "rank": 13,
+          "rank": 8,
           "name": "NVIDIA/Model-Optimizer",
           "url": "https://github.com/NVIDIA/Model-Optimizer",
           "description_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
           "language": "Python",
-          "stars_total": 4233,
-          "stars_today": 44,
+          "stars_total": 4335,
+          "stars_today": 360,
           "description_zh": "一个统一的库，汇集了量化、蒸馏、剪枝、神经架构搜索、投机解码等 SOTA 模型优化技术。它可为 TensorRT-LLM、TensorRT、vLLM 等下游部署框架压缩深度学习模型，以优化推理速度。"
         },
         {
+          "rank": 9,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars_total": 71023,
+          "stars_today": 326,
+          "description_zh": "让你的 AI 运行框架更擅长设计的设计语言。"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars_total": 178150,
+          "stars_today": 231,
+          "description_zh": "Agent Skills 的公共仓库"
+        },
+        {
+          "rank": 11,
+          "name": "derv82/wifit3",
+          "url": "https://github.com/derv82/wifit3",
+          "description_en": "Wifite but USB-only & cross-platform.",
+          "language": "Python",
+          "stars_total": 772,
+          "stars_today": 168,
+          "description_zh": "Wifite，但仅支持 USB 且跨平台。"
+        },
+        {
+          "rank": 12,
+          "name": "androoAGI/starnet",
+          "url": "https://github.com/androoAGI/starnet",
+          "description_en": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+          "language": "JavaScript",
+          "stars_total": 360,
+          "stars_today": 118,
+          "description_zh": "一个充满生机的像素艺术空间站，真正的 AI 智能体在这里做真正的工作。本地优先的桌面智能体运行框架——自带密钥，亲眼看着你的团队真正运转起来。"
+        },
+        {
+          "rank": 13,
+          "name": "kelseyhightower/kubernetes-the-hard-way",
+          "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+          "description_en": "Bootstrap Kubernetes the hard way. No scripts.",
+          "language": "",
+          "stars_total": 50056,
+          "stars_today": 105,
+          "description_zh": "以硬核方式引导 Kubernetes。不使用脚本。"
+        },
+        {
           "rank": 14,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 36803,
+          "stars_today": 62,
+          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
+        },
+        {
+          "rank": 15,
           "name": "shy3130/tick-stock-panel",
           "url": "https://github.com/shy3130/tick-stock-panel",
           "description_en": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
           "language": "Python",
-          "stars_total": 5023,
+          "stars_total": 5080,
           "stars_today": 31,
           "description_zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "openbao/openbao",
           "url": "https://github.com/openbao/openbao",
           "description_en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
           "language": "Go",
-          "stars_total": 7493,
+          "stars_total": 7590,
           "stars_today": 16,
           "description_zh": "OpenBao 是一款用于管理、存储和分发敏感数据（包括密钥、证书和密钥）的软件解决方案。"
         }
