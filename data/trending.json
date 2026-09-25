@@ -2,127 +2,127 @@
   "days": [
     {
       "date": "2026-09-25",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体：记忆学习、编排运行时、办公套件与技能框架齐发力，模型优化与移动取证工具同样亮眼。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体：Agent技能框架、记忆与办公套件成主流，Claude插件与技能库受关注。",
       "projects": [
         {
           "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description_en": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars_total": 83222,
+          "stars_today": 1853,
+          "description_zh": "人人都在用的开源应用，用于在工作中管理智能体"
+        },
+        {
+          "rank": 2,
           "name": "vectorize-io/hindsight",
           "url": "https://github.com/vectorize-io/hindsight",
           "description_en": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "stars_total": 27855,
+          "stars_total": 28476,
           "stars_today": 1668,
           "description_zh": "Hindsight：会学习的智能体记忆"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "google/ax",
           "url": "https://github.com/google/ax",
           "description_en": "Google's open agentic orchestration runtime",
           "language": "Go",
-          "stars_total": 10536,
+          "stars_total": 11016,
           "stars_today": 1373,
           "description_zh": "Google 的开源智能体编排运行时"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "dream-num/univer",
           "url": "https://github.com/dream-num/univer",
           "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
           "language": "TypeScript",
-          "stars_total": 17846,
+          "stars_total": 18094,
           "stars_today": 1082,
           "description_zh": "面向 AI 智能体的 Office 运行框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 269346,
+          "stars_today": 671,
+          "description_zh": "为真正的工程师打造的技能。直接来自我的 .agents 目录。"
+        },
+        {
+          "rank": 6,
           "name": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 291253,
+          "stars_total": 291392,
           "stars_today": 611,
           "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         },
         {
-          "rank": 5,
-          "name": "anthropics/financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 37371,
-          "stars_today": 509,
-          "description_zh": ""
-        },
-        {
-          "rank": 6,
-          "name": "superdesigndev/treg",
-          "url": "https://github.com/superdesigndev/treg",
-          "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-          "language": "Python",
-          "stars_total": 3177,
-          "stars_today": 468,
-          "description_zh": "智能体工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
-        },
-        {
           "rank": 7,
-          "name": "strands-agents/harness-sdk",
-          "url": "https://github.com/strands-agents/harness-sdk",
-          "description_en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-          "language": "Python",
-          "stars_total": 8273,
-          "stars_today": 455,
-          "description_zh": "构建智能体运行框架并端到端控制它。面向生产级 AI 智能体的开源 SDK，支持 Python 和 TypeScript——任意模型、任意云。"
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars_total": 70895,
+          "stars_today": 527,
+          "description_zh": "让你的 AI 运行框架更擅长设计的设计语言。"
         },
         {
           "rank": 8,
-          "name": "HKUDS/CLI-Anything",
-          "url": "https://github.com/HKUDS/CLI-Anything",
-          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-          "language": "Python",
-          "stars_total": 50352,
-          "stars_today": 413,
-          "description_zh": "“CLI-Anything：让所有软件都成为智能体原生”——CLI-Hub：https://clianything.cc/"
-        },
-        {
-          "rank": 9,
           "name": "rohitg00/ai-engineering-from-scratch",
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 56626,
+          "stars_total": 57052,
           "stars_today": 347,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
         {
-          "rank": 10,
-          "name": "mvt-project/mvt",
-          "url": "https://github.com/mvt-project/mvt",
-          "description_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+          "rank": 9,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 14735,
-          "stars_today": 272,
-          "description_zh": "MVT（移动设备验证工具包）可帮助对移动设备进行取证，以发现潜在入侵的迹象。"
+          "stars_total": 178050,
+          "stars_today": 155,
+          "description_zh": "Agent Skills 的公共仓库"
+        },
+        {
+          "rank": 10,
+          "name": "androoAGI/starnet",
+          "url": "https://github.com/androoAGI/starnet",
+          "description_en": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+          "language": "JavaScript",
+          "stars_total": 276,
+          "stars_today": 113,
+          "description_zh": "一个充满生机的像素艺术空间站，真正的 AI 智能体在这里做真正的工作。本地优先的桌面智能体运行框架——自带密钥，亲眼看着你的团队真正运转起来。"
         },
         {
           "rank": 11,
-          "name": "FxEmbed/FxEmbed",
-          "url": "https://github.com/FxEmbed/FxEmbed",
-          "description_en": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-          "language": "TypeScript",
-          "stars_total": 5377,
-          "stars_today": 182,
-          "description_zh": "修复 X/Twitter 和 Bluesky 嵌入！在 Discord、Telegram 等平台上使用多图、视频、投票、翻译等功能"
+          "name": "kelseyhightower/kubernetes-the-hard-way",
+          "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+          "description_en": "Bootstrap Kubernetes the hard way. No scripts.",
+          "language": "",
+          "stars_total": 50001,
+          "stars_today": 105,
+          "description_zh": "以硬核方式引导 Kubernetes。不使用脚本。"
         },
         {
           "rank": 12,
-          "name": "julyx10/lap",
-          "url": "https://github.com/julyx10/lap",
-          "description_en": "An offline-first photo manager for large local libraries",
-          "language": "Vue",
-          "stars_total": 2889,
-          "stars_today": 122,
-          "description_zh": "一款面向大型本地图库的离线优先照片管理器"
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 36734,
+          "stars_today": 62,
+          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
         },
         {
           "rank": 13,
@@ -130,19 +130,29 @@
           "url": "https://github.com/NVIDIA/Model-Optimizer",
           "description_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
           "language": "Python",
-          "stars_total": 4104,
+          "stars_total": 4233,
           "stars_today": 44,
           "description_zh": "一个统一的库，汇集了量化、蒸馏、剪枝、神经架构搜索、投机解码等 SOTA 模型优化技术。它可为 TensorRT-LLM、TensorRT、vLLM 等下游部署框架压缩深度学习模型，以优化推理速度。"
         },
         {
           "rank": 14,
-          "name": "leejet/stable-diffusion.cpp",
-          "url": "https://github.com/leejet/stable-diffusion.cpp",
-          "description_en": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-          "language": "C++",
-          "stars_total": 7260,
-          "stars_today": 36,
-          "description_zh": "使用纯 C/C++ 进行扩散模型（SD、Flux、Wan、Qwen Image、Z-Image……）推理"
+          "name": "shy3130/tick-stock-panel",
+          "url": "https://github.com/shy3130/tick-stock-panel",
+          "description_en": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+          "language": "Python",
+          "stars_total": 5023,
+          "stars_today": 31,
+          "description_zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源"
+        },
+        {
+          "rank": 15,
+          "name": "openbao/openbao",
+          "url": "https://github.com/openbao/openbao",
+          "description_en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+          "language": "Go",
+          "stars_total": 7493,
+          "stars_today": 16,
+          "description_zh": "OpenBao 是一款用于管理、存储和分发敏感数据（包括密钥、证书和密钥）的软件解决方案。"
         }
       ]
     },
