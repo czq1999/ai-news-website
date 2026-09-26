@@ -1,5 +1,38 @@
 [
   {
+    "id": "2e480811d091f146b76ba196202f27ea",
+    "title_en": "Decap is the man behind the drums behind your favorite song",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+    "published_at": "2026-09-26T19:30:00.000Z",
+    "fetched_at": "2026-09-26T20:23:28.689Z",
+    "title_zh": "Decap是为你的最爱歌曲打鼓的幕后之人",
+    "summary_zh": "The Verge报道了音乐人Decap的故事，他作为幕后鼓手为众多热门歌曲贡献了节奏编排。文章探讨了现代音乐制作中幕后创作者的贡献与知名度之间的落差，以及流媒体时代音乐产业中制作人和演奏者的角色演变，引发人们对音乐创作生态中隐形贡献者的关注。",
+    "category": "industry"
+  },
+  {
+    "id": "b6c23f3fc1b465db82b24a2dfb45e9e0",
+    "title_en": "Kids turned the comment section of an NPR podcast into a group chat",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+    "published_at": "2026-09-26T17:32:35.000Z",
+    "fetched_at": "2026-09-26T20:23:28.689Z",
+    "title_zh": "孩子们把NPR播客的评论区变成了群聊",
+    "summary_zh": "The Verge报道了一群孩子将NPR播客的评论区当作群聊使用，发布大量与节目无关的闲聊内容。这一现象反映了年轻一代对数字平台的创造性使用方式，也引发了关于平台社区管理、内容审核以及儿童网络安全等问题的讨论，凸显了不同年龄群体对公共数字空间使用方式的差异。",
+    "category": "industry"
+  },
+  {
+    "id": "ff2e233268a7a84e35062dd6b1dc9208",
+    "title_en": "OpenAI pauses training of its ‘most capable models’",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "published_at": "2026-09-26T16:34:59.000Z",
+    "fetched_at": "2026-09-26T20:23:28.689Z",
+    "title_zh": "OpenAI暂停训练其“最强模型”",
+    "summary_zh": "OpenAI宣布暂停训练其号称“最强能力”的AI模型，引发业界广泛关注。此举可能与安全评估、算力资源调配或监管合规等因素有关。作为AI领域的领军企业，OpenAI的这一决定可能对行业产生示范效应，也再次引发关于AI能力边界、安全对齐以及前沿模型开发节奏的讨论。",
+    "category": "llm"
+  },
+  {
     "id": "3aa3a6348b5a2753d8028c057132baa8",
     "title_en": "Can Cloudflare CEO Matthew Prince save the web from AI?",
     "source": "The Verge",
@@ -9,6 +42,17 @@
     "title_zh": "Cloudflare CEO Matthew Prince能否从AI手中拯救互联网？",
     "summary_zh": "Cloudflare CEO Matthew Prince正试图应对AI爬虫对互联网内容生态的冲击。随着AI公司大规模抓取网站内容用于模型训练，出版商和创作者的流量与收入受到严重侵蚀。Cloudflare推出了多项工具帮助网站抵御未经授权的AI抓取，但这一举措也引发了关于互联网开放性与内容保护之间平衡的广泛讨论。Prince能否在保护内容创作者的同时维持互联网的开放本质，成为业界关注的焦点。",
     "category": "industry"
+  },
+  {
+    "id": "05468114ef5b33e52d4c64a9ad52e158",
+    "title_en": "I created an interactive digital avatar of myself — and you can talk to it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "published_at": "2026-09-26T14:00:00.000Z",
+    "fetched_at": "2026-09-26T20:23:28.513Z",
+    "title_zh": "我创建了自己的交互式数字虚拟人——你可以和它对话",
+    "summary_zh": "TechCrunch记者利用现有AI工具创建了一个可对话的交互式数字虚拟人，展示了当前数字人技术在个性化应用方面的进展。该虚拟人能够模拟本人形象和语气进行实时对话，反映出AI驱动的数字分身技术正从企业级应用走向个人消费者市场，未来有望在社交、客服、内容创作等领域广泛落地。",
+    "category": "product"
   },
   {
     "id": "719eb6890ad884a6758b3836404b8d9d",
@@ -184,6 +228,116 @@
     "fetched_at": "2026-09-25T20:53:02.283Z",
     "title_zh": "窃贼偷走“英伟达”卡车，结果只拿到20吨沙子",
     "summary_zh": "一伙窃贼盯上了标有“英伟达”字样的运输卡车，以为能劫走价值不菲的AI芯片，结果打开车厢后发现里面装的是整整20吨沙子。这起乌龙盗窃案凸显了当前市场对英伟达GPU的疯狂追捧，以至于窃贼都将其视为高价值目标。事件也反映出AI芯片供应链的紧张程度，以及围绕英伟达产品的巨大投机氛围。",
+    "category": "industry"
+  },
+  {
+    "id": "f72a6a4483ccf4abe33504de0e399b8a",
+    "title_en": "Ready or not, here come the AI gadgets, from \"charms\" to smart speakers",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/56b4039e4778587b",
+    "published_at": "2026-09-25T20:22:38Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "不管你准备好没有，AI小工具来了——从挂饰到智能音箱",
+    "summary_zh": "AI硬件浪潮正加速袭来，从可穿戴AI挂饰到新一代智能音箱，各类AI驱动的小工具纷纷涌入消费市场。这些设备集成了大语言模型和语音助手功能，旨在将AI融入日常生活的方方面面。然而，隐私担忧、实用性存疑以及消费者接受度仍是这些产品面临的重大挑战。",
+    "category": "product"
+  },
+  {
+    "id": "8c16909ffbb8f908bb776c3e2a041cd6",
+    "title_en": "Luis de la Fuente: Playing four matches in ten days isn't ideal",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/luis-de-la-fuente-playing-four-matches-in-ten-days-isnt-ideal-43520820",
+    "published_at": "2026-09-25T20:22:00Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "路易斯·德拉富恩特：十天内踢四场比赛并不理想",
+    "summary_zh": "西班牙国家队主教练路易斯·德拉富恩特对密集赛程表达了不满，指出球队在十天内需要完成四场比赛，这对球员的体能和状态恢复构成严峻挑战。他呼吁足球管理机构关注赛程安排对球员健康的影响，并强调合理休息对保持竞技水平的重要性。",
+    "category": "industry"
+  },
+  {
+    "id": "a5289484059cc0ce663d926ab7450e53",
+    "title_en": "How Retail and Supply Chain Leaders Are Balancing AI and Labor",
+    "source": "WWD",
+    "url": "http://wwd.com/sourcing-journal/industry-news/how-retail-and-supply-chain-leaders-are-managing-ai-1239264441/",
+    "published_at": "2026-09-25T20:21:02Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "零售和供应链领导者如何平衡AI与劳动力",
+    "summary_zh": "零售和供应链行业正在积极探索AI技术的应用，从需求预测到仓储自动化，AI正在重塑运营模式。然而，行业领导者强调，AI并非要取代人工，而是要与劳动力形成互补。如何在提升效率和保障就业之间取得平衡，成为企业管理者面临的核心议题。",
+    "category": "industry"
+  },
+  {
+    "id": "13ff2e544fddeaa8b03483ea1cc61a2c",
+    "title_en": "Mbappé leaves Zidane's debut match with possible injury ",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/mbappe-leaves-zidanes-debut-match-with-possible-injury-43520813",
+    "published_at": "2026-09-25T20:21:00Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "姆巴佩在齐达内执教首秀中因伤离场",
+    "summary_zh": "在齐达内执教的首场比赛中，法国球星姆巴佩因疑似受伤被迫提前离场，引发球迷和媒体的广泛关注。具体伤情尚待进一步检查确认。这一意外为球队接下来的赛程蒙上阴影，教练组将密切关注其恢复情况并制定相应的人员调整方案。",
+    "category": "industry"
+  },
+  {
+    "id": "1b64e7948587113b261af2c0280e9384",
+    "title_en": "Microsoft overhauls Copilot with new coding, document editing features",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/09/25/microsoft-overhauls-copilot-with-new-coding-document-editing-features/",
+    "published_at": "2026-09-25T20:17:10Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "微软全面升级Copilot，新增编程和文档编辑功能",
+    "summary_zh": "微软对其AI助手Copilot进行了重大更新，新增了代码编写和文档编辑等多项功能。新版Copilot能够更深入地理解上下文，协助开发者编写和调试代码，同时提升Office文档的智能编辑体验。此举是微软将AI深度整合进生产力工具战略的最新一步，旨在与谷歌等竞争对手争夺AI助手市场。",
+    "category": "product"
+  },
+  {
+    "id": "0d894ac5fa0e8adc27c4c2788ac56859",
+    "title_en": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+    "source": "Mit.edu",
+    "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+    "published_at": "2026-09-25T20:15:00Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "MIT学生在俄克拉荷马州塔尔萨获得技术创新的人文视角",
+    "summary_zh": "麻省理工学院的学生前往俄克拉荷马州塔尔萨市，通过实地考察获得关于技术创新的人文视角。该项目旨在让学生理解技术发展与社会、文化和社区之间的深层联系。学生们参观了当地企业和社区项目，探讨技术如何服务于不同群体的需求，培养更具社会责任感的技术创新思维。",
+    "category": "research"
+  },
+  {
+    "id": "c30332d7718bd0e2d9704de5c6ddef17",
+    "title_en": "Ready or not, here come the AI gadgets, from \"charms\" to smart speakers",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/new-ai-gadgets-tech-companies/",
+    "published_at": "2026-09-25T20:13:18Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "不管你准备好没有，AI小工具来了——从挂饰到智能音箱",
+    "summary_zh": "AI硬件产品正密集涌入市场，涵盖可穿戴AI挂饰、智能音箱等多种形态。这些设备搭载大语言模型，试图将AI助手带入日常场景。然而，消费者对隐私安全、实际效用和价格合理性仍持观望态度。业界认为，AI硬件的成功取决于能否找到真正刚需的应用场景。",
+    "category": "product"
+  },
+  {
+    "id": "a9dbca13f2ae1aeb8048e224381b579a",
+    "title_en": "Dow ends 400 points higher as investors buy AI stocks; Microsoft rallies",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-ends-400-points-higher-as-investors-buy-ai-stocks-microsoft-rallies/articleshow/134492147.cms",
+    "published_at": "2026-09-25T20:11:14Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "道指收涨400点，投资者买入AI股票；微软领涨",
+    "summary_zh": "道琼斯工业平均指数收盘上涨400点，主要受投资者大举买入AI相关股票的推动，其中微软表现尤为强劲。市场对AI技术商业化前景保持乐观，带动科技板块整体走高。分析人士指出，AI投资热潮仍在持续，但投资者也需关注估值泡沫和监管风险等潜在因素。",
+    "category": "industry"
+  },
+  {
+    "id": "9ba33e3b71d760485434a577edf0bdc7",
+    "title_en": "Doctors said he was going to die: then AI stepped in and saved his life…",
+    "source": "Freerepublic.com",
+    "url": "https://freerepublic.com/focus/f-chat/4396902/posts",
+    "published_at": "2026-09-25T20:10:11Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "医生说他将不久于人世：然后AI介入挽救了他的生命",
+    "summary_zh": "一名被医生判定为无药可治的患者，在AI技术的帮助下获得了新的生机。AI系统通过分析大量医学文献和患者数据，发现了被人类医生忽视的治疗方案。这一案例展示了AI在医疗诊断和个性化治疗中的巨大潜力，同时也引发了关于AI辅助医疗决策的伦理讨论。",
+    "category": "research"
+  },
+  {
+    "id": "e4e533020d2fe93f9d3cf46312cae0a6",
+    "title_en": " Major blow in international, Mbappé forced off injured",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/major-blow-in-international-mbappe-forced-off-injured-43520758",
+    "published_at": "2026-09-25T20:08:00Z",
+    "fetched_at": "2026-09-26T20:23:29.752Z",
+    "title_zh": "国际比赛重大打击，姆巴佩因伤被迫离场",
+    "summary_zh": "在一场国际比赛中，法国前锋姆巴佩因伤被迫提前离场，给球队带来重大打击。伤情细节尚未公布，但初步迹象表明可能影响其后续比赛出场。教练组表示将根据医疗团队的评估结果决定其恢复计划，球迷对此深感担忧。",
     "category": "industry"
   },
   {
@@ -5343,160 +5497,6 @@
     "fetched_at": "2026-09-21T17:27:42.246Z",
     "title_zh": "美国在边境监控上花费了数十亿美元，为何仍无法在人们死亡前发现他们？",
     "summary_zh": "MIT Tech Review调查发现，尽管美国政府在边境监控技术上投入了数十亿美元，包括部署“虚拟墙”等高科技系统，但这些系统在实际操作中未能有效识别和救援处于危险中的越境者，导致大量死亡事件发生。文章深入分析了技术投入与实际效果之间的巨大落差及其原因。",
-    "category": "industry"
-  },
-  {
-    "id": "bb55e2da1b0e7ea80315790097deec68",
-    "title_en": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "published_at": "2026-09-21T12:00:00.000Z",
-    "fetched_at": "2026-09-21T17:27:42.246Z",
-    "title_zh": "她死在圣地亚哥边境，监控摄像头就在眼前",
-    "summary_zh": "MIT Tech Review报道了一起典型案例：一名女性在圣地亚哥边境死亡，而附近的监控摄像头清晰可见却未能触发及时救援。这一事件成为美国边境“虚拟墙”监控系统失效的缩影，引发对高科技监控能否真正保障生命安全的深刻质疑。",
-    "category": "research"
-  },
-  {
-    "id": "c47263fa883b1c5dad182f3ffee29c80",
-    "title_en": "Get a closer look at the iPhone 18 Pro’s mechanical camera",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
-    "published_at": "2026-09-21T10:57:27.000Z",
-    "fetched_at": "2026-09-21T11:28:48.433Z",
-    "title_zh": "近距离观察iPhone 18 Pro的机械摄像头",
-    "summary_zh": "最新曝光的iPhone 18 Pro渲染图与专利信息显示，苹果正在为其旗舰机型研发机械式可变光圈摄像头模组。该设计有望通过物理结构调节进光量，显著提升暗光拍摄与景深控制能力。分析人士认为，这标志着智能手机影像系统正从纯软件算法向机械与算法融合的方向演进，苹果或借此在高端影像竞争中拉开与安卓阵营的差距。",
-    "category": "product"
-  },
-  {
-    "id": "3a24ecb7e12e31e16ae5ef5e497859c2",
-    "title_en": "Sensex settles 564 pts higher; Nifty ends above 23,400 level",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-564-pts-higher-nifty-ends-above-23-400-level-126092100713_1.html",
-    "published_at": "2026-09-21T10:34:50Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "印度Sensex指数收涨564点，Nifty突破23400点",
-    "summary_zh": "印度股市周一收高，Sensex指数上涨564点，Nifty指数收于23400点上方。市场反弹主要受金融和科技板块带动，投资者情绪有所回暖。分析人士指出，外资流入及企业盈利预期改善是推动本轮上涨的重要因素。不过，全球贸易局势和地缘政治风险仍可能对后续走势构成扰动，市场关注即将公布的经济数据。",
-    "category": "industry"
-  },
-  {
-    "id": "57931012d58b9baadeb474e25474996e",
-    "title_en": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "published_at": "2026-09-21T10:34:43.000Z",
-    "fetched_at": "2026-09-21T11:28:48.753Z",
-    "title_zh": "中美讨论就AI国家安全威胁相互预警",
-    "summary_zh": "中美两国正在就人工智能领域的国家安全威胁建立相互预警机制进行讨论。双方拟在AI技术可能引发的军事、网络安全及战略稳定等风险方面加强沟通，避免误判和意外冲突。这一动向表明，尽管两国在AI领域竞争激烈，但在防范AI带来的共同安全挑战方面存在合作空间，相关谈判进展受到国际社会高度关注。",
-    "category": "industry"
-  },
-  {
-    "id": "b1dc3d16ab90e747b3b2be320cb31ede",
-    "title_en": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
-    "published_at": "2026-09-21T10:30:00.000Z",
-    "fetched_at": "2026-09-21T11:28:48.753Z",
-    "title_zh": "Bambu P2S Combo 3D打印机评测：我的小型塑料工厂",
-    "summary_zh": "Wired对Bambu Lab P2S Combo 3D打印机进行了详细评测。这款设备以其高速打印、多色支持和易用性著称，被评价为“个人小型塑料工厂”。评测指出，P2S Combo在打印质量、自动校准和耗材管理方面表现出色，适合从爱好者到专业用户的广泛群体。尽管价格较高，但其性能和可靠性使其成为当前消费级3D打印市场的有力竞争者。",
-    "category": "product"
-  },
-  {
-    "id": "85af9a4baa24d008bf851d270865011d",
-    "title_en": "EU urged to act faster on online risks facing children",
-    "source": "RTE",
-    "url": "https://www.rte.ie/news/ireland/2026/0921/1592341-eu-urged-to-act-faster-on-online-risks-facing-children/",
-    "published_at": "2026-09-21T10:28:24Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "欧盟被敦促加快应对儿童面临的网络风险",
-    "summary_zh": "有声音敦促欧盟加快行动，应对儿童在网络空间面临的风险。随着社交媒体和AI生成内容的普及，未成年人接触有害信息的渠道增多，现有监管框架被认为反应迟缓。相关机构呼吁欧盟在《数字服务法》基础上进一步强化年龄验证、内容审核和家长控制工具，并加大对违规平台的处罚力度，以更有效地保护儿童网络安全。",
-    "category": "industry"
-  },
-  {
-    "id": "e35015943bb63abfaf7059253bba2b74",
-    "title_en": "Accenture Shares Rise 6% Premarket Following $1 Billion AI Safety Partnership With Anthropic",
-    "source": "Advfn.com",
-    "url": "https://investorshub.advfn.com/market-news/article/36591/accenture-shares-rise-6-premarket-following-1-billion-ai-safety-partnership-with-anthropic",
-    "published_at": "2026-09-21T10:28:11Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "埃森哲与Anthropic达成10亿美元AI安全合作，盘前股价涨6%",
-    "summary_zh": "埃森哲宣布与AI公司Anthropic达成价值10亿美元的合作，聚焦AI安全领域，消息公布后其盘前股价上涨6%。此次合作旨在帮助企业客户安全、合规地部署AI系统，涵盖风险评估、模型治理及安全防护等环节。这反映出企业对AI安全与可信部署的需求正快速上升，也凸显咨询巨头在AI落地浪潮中的战略布局。",
-    "category": "industry"
-  },
-  {
-    "id": "43267cb59f016ed43828fa4dabf2e1db",
-    "title_en": "Morgan Stanley Highlights Growing AI Collaboration Between SpaceX and Tesla",
-    "source": "Advfn.com",
-    "url": "https://investorshub.advfn.com/market-news/article/36589/morgan-stanley-highlights-growing-ai-collaboration-between-spacex-and-tesla",
-    "published_at": "2026-09-21T10:26:03Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "摩根士丹利：SpaceX与特斯拉的AI合作日益加深",
-    "summary_zh": "摩根士丹利发布报告指出，SpaceX与特斯拉之间的AI合作正不断加深。报告认为，两家公司在算力、数据及工程人才方面存在协同效应，尤其在自动驾驶、卫星通信和智能制造领域。分析师指出，这种跨公司协作可能加速AI技术迭代，并为特斯拉的估值带来新的想象空间，但也需关注关联交易与治理方面的潜在风险。",
-    "category": "industry"
-  },
-  {
-    "id": "b21bc8ce7f86916e454f4314fbb4cecb",
-    "title_en": "AI Adoption Is Driving Hiring, But Mostly for Senior Roles",
-    "source": "Insurance Journal",
-    "url": "https://www.insurancejournal.com/news/international/2026/09/21/886207.htm",
-    "published_at": "2026-09-21T10:25:30Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "AI应用推动招聘，但主要集中在高级岗位",
-    "summary_zh": "最新报告显示，AI的广泛应用正在推动企业招聘，但新增岗位主要集中在高级职位。企业更倾向于招募具备AI战略、架构设计和跨部门协调能力的高端人才，而初级和重复性岗位则面临被自动化替代的压力。这一趋势加剧了就业市场的结构性分化，也促使从业者加快技能升级，以应对AI时代对复合型能力的需求。",
-    "category": "industry"
-  },
-  {
-    "id": "77a18798763c104fd00dcca457317dff",
-    "title_en": "United Nations warns governments to rein in AI agents before risks are fully understood",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/un-warns-ai-agents-governance-risks/",
-    "published_at": "2026-09-21T10:23:05Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "联合国警告各国政府：在风险被充分理解前应约束AI智能体",
-    "summary_zh": "联合国发出警告，敦促各国政府在AI智能体（AI agents）的潜在风险被充分理解之前加强监管。联合国指出，具备自主决策与执行能力的AI智能体可能带来安全、伦理和失控风险，而现有治理框架明显滞后。其呼吁各国建立跨国协调机制，制定透明度、问责制和安全测试标准，避免在缺乏充分评估的情况下大规模部署此类系统。",
-    "category": "research"
-  },
-  {
-    "id": "4bed1956c271dbfea804209215de7c8e",
-    "title_en": "Red Wings open playoffs Tuesday: What to know",
-    "source": "Rochester Democrat and Chronicle",
-    "url": "https://www.democratandchronicle.com/story/sports/baseball/minors/2026/09/21/rochester-red-wings-playoffs-what-to-know/91869739007/",
-    "published_at": "2026-09-21T10:22:00Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "红翼队周二开启季后赛：你需要了解的关键信息",
-    "summary_zh": "底特律红翼队将于周二开启季后赛征程，本文汇总了球迷需要了解的关键信息，包括比赛时间、对手、系列赛赛程以及球队伤病和阵容情况。红翼队本赛季表现起伏，能否在季后赛走远取决于核心球员的发挥与门将状态。文章还提供了观赛渠道和票务信息，方便球迷跟进这支NHL传统劲旅的季后赛表现。",
-    "category": "industry"
-  },
-  {
-    "id": "44b893b547514f551741de06719f00cd",
-    "title_en": "President Trump to Meet with France's Emmanuel Macron on Monday",
-    "source": "Breitbart News",
-    "url": "https://www.breitbart.com/europe/2026/09/21/president-trump-to-meet-with-frances-emmanuel-macron-on-monday/",
-    "published_at": "2026-09-21T10:20:28Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "特朗普总统将于周一会见法国总统马克龙",
-    "summary_zh": "美国总统特朗普将于周一与法国总统马克龙举行会晤。此次会谈预计将涉及贸易关税、北约防务开支、俄乌局势以及中东安全等议题。美法作为传统盟友，近期在贸易和防务分担问题上存在分歧，双方能否通过对话缓和紧张关系备受关注。会晤结果可能对跨大西洋关系及全球市场情绪产生一定影响。",
-    "category": "industry"
-  },
-  {
-    "id": "088bd4f25c3827c8c6abc9872605b0c6",
-    "title_en": "Iran-US tensions escalate amid military actions and threats",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/iran-us-tensions-escalate-amid-military-actions-and-threats/",
-    "published_at": "2026-09-21T10:19:03Z",
-    "fetched_at": "2026-09-22T10:36:28.367Z",
-    "title_zh": "伊朗与美国紧张局势因军事行动和威胁而升级",
-    "summary_zh": "伊朗与美国之间的紧张局势因近期军事行动和相互威胁而进一步升级。双方在波斯湾及周边地区的军事部署增加，外交渠道沟通受阻。分析人士担忧，误判或突发事件可能引发更大规模冲突，进而冲击全球能源供应与金融市场。国际社会呼吁双方保持克制，通过对话缓和局势，避免地区安全形势进一步恶化。",
-    "category": "industry"
-  },
-  {
-    "id": "13e93d540c1e658ac4fbaab0a58f9b8c",
-    "title_en": "UN says AI safeguards can’t wait for certainty",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-    "published_at": "2026-09-21T10:18:06.000Z",
-    "fetched_at": "2026-09-21T11:28:48.433Z",
-    "title_zh": "联合国：AI安全保障不能等待确定性",
-    "summary_zh": "联合国发布最新报告指出，面对人工智能快速演进带来的风险，各国监管机构不应以技术前景尚不明朗为由推迟安全措施。报告呼吁建立国际协调机制，在AI能力持续提升的同时同步推进透明度、问责制与风险预警体系。联合国强调，等待完全确定再行动可能导致不可逆的社会危害，预防性原则应成为全球AI治理的核心共识。",
     "category": "industry"
   }
 ]
