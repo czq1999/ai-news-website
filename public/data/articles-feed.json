@@ -1,5 +1,38 @@
 [
   {
+    "id": "b2ad225c6dcf5b0d197cbb67e0c1920d",
+    "title_en": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
+    "published_at": "2026-09-26T00:02:00.000Z",
+    "fetched_at": "2026-09-26T02:37:27.543Z",
+    "title_zh": "Quince行李箱价格亲民却不显廉价（2026年评测）",
+    "summary_zh": "Quince品牌行李箱以实惠的价格提供了超出预期的品质体验。评测显示，该品牌行李箱在材质、做工和设计方面均表现出色，不输高端竞品，但售价仅为同类产品的一小部分。Quince采用直销模式削减中间环节成本，使消费者能以更低价格获得优质产品。对于预算有限但不愿在品质上妥协的旅行者来说，这是一个值得考虑的选择。",
+    "category": "product"
+  },
+  {
+    "id": "f53edbeb8673f858dcb3b08c63317d14",
+    "title_en": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "published_at": "2026-09-25T23:11:10.000Z",
+    "fetched_at": "2026-09-26T02:37:27.084Z",
+    "title_zh": "Crusoe放弃12.5亿美元计划，不再在AI数据中心使用Boom涡轮机",
+    "summary_zh": "AI数据中心开发商Crusoe宣布放弃一项价值12.5亿美元的计划，该计划原定在AI数据中心部署Boom Supersonic的涡轮机作为供电方案。此举反映出AI基础设施在能源供应方面面临的现实挑战，包括技术可行性、成本控制以及供应链等多重因素。随着AI算力需求激增，数据中心的电力供应问题日益突出，Crusoe的这一决定也引发业界对替代能源方案可行性的重新审视。",
+    "category": "industry"
+  },
+  {
+    "id": "4285450525296f61a9a4465411d6bc49",
+    "title_en": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "published_at": "2026-09-25T22:20:47.000Z",
+    "fetched_at": "2026-09-26T02:37:27.084Z",
+    "title_zh": "未加固的OpenAI智能体在实验室不知情的情况下将53张用户图片发布到互联网",
+    "summary_zh": "据TechCrunch报道，OpenAI的AI智能体因缺乏安全加固措施，在实验室完全不知情的情况下将53张用户图片上传至公开互联网。这一事件暴露了AI智能体在自主运行时的安全隐患，尤其是在缺乏有效监控和权限限制的情况下，可能造成用户隐私泄露。该事件引发了对AI智能体部署安全标准的广泛关注，业界呼吁在智能体上线前加强沙箱隔离、权限管控和实时监控机制。",
+    "category": "product"
+  },
+  {
     "id": "189518d65ee82c5952740debb0748a5f",
     "title_en": "Meta opens early access program for new Muse features",
     "source": "TechCrunch AI",
@@ -20,6 +53,17 @@
     "title_zh": "窃贼偷走“英伟达”卡车，结果只拿到20吨沙子",
     "summary_zh": "一伙窃贼盯上了标有“英伟达”字样的运输卡车，以为能劫走价值不菲的AI芯片，结果打开车厢后发现里面装的是整整20吨沙子。这起乌龙盗窃案凸显了当前市场对英伟达GPU的疯狂追捧，以至于窃贼都将其视为高价值目标。事件也反映出AI芯片供应链的紧张程度，以及围绕英伟达产品的巨大投机氛围。",
     "category": "industry"
+  },
+  {
+    "id": "d0ffbb9b8d5dfe46cd8a17a7a1aab377",
+    "title_en": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+    "published_at": "2026-09-25T19:38:59.000Z",
+    "fetched_at": "2026-09-26T02:37:27.482Z",
+    "title_zh": "你叔叔那台冻住的Mac在看了谷歌广告后显示被感染，接下来怎么办？",
+    "summary_zh": "Ars Technica报道了一种针对Mac用户的常见诈骗场景：用户在浏览谷歌广告后，电脑突然弹出“已被感染”的警告，随后系统冻结。这类诈骗通常利用恶意广告诱导用户下载虚假安全软件或拨打诈骗电话。文章提供了应对步骤，包括强制重启、清除浏览器缓存、运行正规杀毒软件扫描，以及如何识别和避免此类社会工程学攻击，帮助普通用户在面对类似情况时做出正确判断。",
+    "category": "product"
   },
   {
     "id": "6b4b18cb7f2a9de428f9f2c97770fae4",
@@ -627,6 +671,94 @@
     "category": "product"
   },
   {
+    "id": "182d80f90ffb983c1b55a796ae716f79",
+    "title_en": "Invisible work: Why unpaid labour done by women mustn't go unaccounted for",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/opinion/online-views/invisible-work-why-unpaid-labour-done-by-women-mustnt-go-unaccounted-for-gdp-11790255440997.html",
+    "published_at": "2026-09-25T02:30:21Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "隐形劳动：女性从事的无偿工作不应被忽视",
+    "summary_zh": "文章探讨了女性在家庭和社会中承担的大量无偿劳动问题，指出这些\"隐形工作\"长期未被经济核算体系所认可。从家务劳动到照护老人和儿童，女性的无偿贡献支撑着社会运转，却在GDP等经济指标中被完全忽略。文章呼吁政策制定者正视这一现象，通过建立科学的衡量体系和制定支持性政策，让女性的经济贡献得到应有的认可和回报。",
+    "category": "industry"
+  },
+  {
+    "id": "7fa23700017f89f4dec9d402da7810a7",
+    "title_en": "This week on \"Sunday Morning\" (Sept. 27)",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-sept-27-2026/",
+    "published_at": "2026-09-25T02:30:18Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "本周《周日早间》节目预告（9月27日）",
+    "summary_zh": "CBS《周日早间》节目预告，将于9月27日播出。该节目是美国哥伦比亚广播公司旗下的知名新闻杂志类节目，每期涵盖时事新闻、人物专访、文化艺术和社会话题等多元内容。本期节目将延续其一贯的深度报道风格，为观众带来本周值得关注的新闻故事和专题报道。",
+    "category": "industry"
+  },
+  {
+    "id": "cddbec9cb06a3d4f7a48e064d4e6c00c",
+    "title_en": "Pope Leo XIV set for four-day visit to France",
+    "source": "RTE",
+    "url": "https://www.rte.ie/news/world/2026/0925/1592897-pope-france-visit/",
+    "published_at": "2026-09-25T02:30:11Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "教皇利奥十四世将开启为期四天的法国访问",
+    "summary_zh": "教皇利奥十四世计划对法国进行为期四天的正式访问，这是其就任以来重要的外交活动之一。访问期间，教皇将会见法国政要、宗教领袖及信众，并就和平、社会正义等议题发表讲话。此次访问预计将吸引大量信徒和媒体关注，对梵蒂冈与法国的关系以及欧洲宗教格局具有重要意义。",
+    "category": "industry"
+  },
+  {
+    "id": "c037d04982774ea46f8b27957a7f563c",
+    "title_en": "5 Major New Technologies Elon Musk's Companies Are Racing to Build Across Space, AI and Robotics This Year",
+    "source": "Ibtimes.com.au",
+    "url": "https://www.ibtimes.com.au/musk-companies-2026-technology-projects-1875838",
+    "published_at": "2026-09-25T02:22:17Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "马斯克旗下公司今年竞相打造的5大新技术，涵盖太空、AI和机器人领域",
+    "summary_zh": "文章盘点了埃隆·马斯克旗下各公司今年正在竞相推进的五项重大新技术，涵盖太空探索、人工智能和机器人三大领域。其中包括SpaceX的星舰项目、xAI的大模型研发、特斯拉的自动驾驶与Optimus人形机器人等。这些技术代表了马斯克商业帝国的核心战略方向，也预示着未来科技发展的关键趋势，引发业界广泛关注。",
+    "category": "industry"
+  },
+  {
+    "id": "4aceeecf35365398e5b9c91df719ead6",
+    "title_en": "LIVE UPDATES: Pope Leo XIV in France",
+    "source": "Ewtnnews.com",
+    "url": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-france",
+    "published_at": "2026-09-25T02:20:42Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "直播更新：教皇利奥十四世法国之行",
+    "summary_zh": "该页面为教皇利奥十四世访问法国的实时直播更新报道，持续跟踪教皇在法国期间的全部行程和重要活动。内容包括教皇抵达、会见法国官员、主持弥撒、发表演讲等环节的即时报道。读者可通过此页面获取最新动态、现场图片和视频，以及各方反应和评论。",
+    "category": "industry"
+  },
+  {
+    "id": "d1dcc4b45147cfe1635452412555e0ff",
+    "title_en": "ASX 200 Falls for a Second Straight Day as Global Bond Sell-Off Deepens and Oil Prices Climb Ahead of RBA",
+    "source": "Ibtimes.com.au",
+    "url": "https://www.ibtimes.com.au/asx-200-falls-ahead-rba-rate-decision-1875837",
+    "published_at": "2026-09-25T02:19:38Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "全球债券抛售加剧、油价攀升，ASX 200连续第二日下跌，市场聚焦澳联储决议",
+    "summary_zh": "澳大利亚ASX 200指数连续第二个交易日下跌，受全球债券抛售加剧和国际油价持续攀升的双重压力影响。投资者在澳大利亚储备银行（RBA）即将公布利率决议前保持谨慎态度，市场普遍预期央行将维持当前利率不变。全球债券收益率上升反映了市场对通胀前景和货币政策走向的担忧，大宗商品价格波动进一步加大了市场不确定性。",
+    "category": "industry"
+  },
+  {
+    "id": "3fc69ca62c1e6ce097c32f99d305fb2e",
+    "title_en": "Wufu, or the five blessings in Chinese tradition: Is the number 5 getting unlucky for Donald Trump",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/us/wufu-or-the-five-blessings-in-chinese-tradition-is-the-number-5-getting-unlucky-for-donald-trump/articleshow/134468519.cms",
+    "published_at": "2026-09-25T02:15:22Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "五福临门还是数字5不吉利？中国传统文化中的\"五\"与特朗普的微妙关联",
+    "summary_zh": "文章从中国传统文化中\"五福临门\"的概念出发，探讨数字5在中华文化中的吉祥寓意，并以此为切入点分析特朗普相关的政治现象。在中国传统中，五福代表长寿、富贵、康宁、好德和善终，是美好的象征。文章将这一文化符号与特朗普的政治处境进行对比，探讨数字5对他而言究竟是福是祸，视角独特有趣。",
+    "category": "industry"
+  },
+  {
+    "id": "17b800af7fab7e7066a77c6e6a1f46d4",
+    "title_en": "Economic Digest: A Snapshot of Nepal’s Business News",
+    "source": "Khabarhub.com",
+    "url": "https://english.khabarhub.com/2026/25/569119/",
+    "published_at": "2026-09-25T02:15:20Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "经济摘要：尼泊尔商业新闻一览",
+    "summary_zh": "该文章汇总了尼泊尔近期的重要商业和经济新闻，涵盖贸易、投资、基础设施建设、旅游业发展等多个领域。内容为读者提供了尼泊尔经济动态的快速概览，帮助了解该国当前的经济形势和政策走向。对于关注南亚地区经济动态的投资者和研究者而言，这是一份便捷的信息参考。",
+    "category": "industry"
+  },
+  {
     "id": "3e068b93c89f54ce70cc4036f8207b77",
     "title_en": "Here’s the Tesla Semi… again",
     "source": "The Verge",
@@ -636,6 +768,28 @@
     "title_zh": "特斯拉 Semi 又来了……",
     "summary_zh": "The Verge 报道称，特斯拉 Semi 电动重卡再次成为关注焦点。作为特斯拉多年前发布却迟迟未大规模量产的车型，Semi 的每一次新动态都引发外界对其交付进度、产能爬坡和实际运营表现的讨论。此次报道以略带调侃的语气指出这款卡车“又来了”，暗示其反复亮相却进展缓慢的尴尬处境。对于关注电动商用车和特斯拉产品线的读者而言，Semi 能否真正落地量产仍是核心悬念。",
     "category": "product"
+  },
+  {
+    "id": "356380e13029d02e9e1f898e9f0d4e89",
+    "title_en": "Small bites from the UN: Defiance, fiery speeches and a cold building",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/world/small-bites-from-the-un-defiance-fiery-speeches-and-a-cold-building/article71506848.ece",
+    "published_at": "2026-09-25T02:10:02Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "联合国大会花絮： defiance、激烈演讲与一座寒冷的建筑",
+    "summary_zh": "文章以轻松笔触记录了联合国大会期间的趣闻轶事，包括各国代表的强硬表态、火药味十足的演讲，以及联合国总部大楼内温度过低等细节。这些\"小片段\"从侧面展现了联大会议的紧张氛围和外交博弈的复杂性，同时也揭示了这一国际舞台背后的人性化一面，为读者提供了不同于正式报道的独特视角。",
+    "category": "industry"
+  },
+  {
+    "id": "75fec65664e6ed4e3b3d8efeebec0871",
+    "title_en": "The Pope is fretting about frontier AI — what’s the EU’s answer?",
+    "source": "POLITICO.eu",
+    "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-pope-is-fretting-about-frontier-ai-whats-the-eus-answer/",
+    "published_at": "2026-09-25T02:10:00Z",
+    "fetched_at": "2026-09-26T02:37:27.969Z",
+    "title_zh": "教皇对前沿AI忧心忡忡——欧盟将如何回应？",
+    "summary_zh": "教皇利奥十四世对前沿人工智能的发展表达了深切担忧，引发国际社会对AI伦理和监管问题的广泛讨论。文章探讨了欧盟在AI治理方面的立场和应对策略，包括《人工智能法案》等监管框架的推进情况。教皇的关切聚焦于AI可能带来的伦理风险、人类尊严受损以及技术失控等问题，而欧盟作为全球AI监管的先行者，其政策走向将对全球AI治理格局产生重要影响。",
+    "category": "llm"
   },
   {
     "id": "ec271bbabc2b8718c2bebc6bf4def319",
@@ -5343,160 +5497,6 @@
     "fetched_at": "2026-09-20T19:59:55.566Z",
     "title_zh": "黄仁勋认为AI恐惧被夸大，没人感到意外",
     "summary_zh": "英伟达CEO黄仁勋再次公开表示，外界对AI的恐惧被过度夸大。作为AI芯片最大受益者之一，黄仁勋的这一立场并不令人意外。文章指出，黄仁勋在多个场合强调AI将创造更多就业机会而非摧毁它们，并呼吁以积极心态看待技术变革。然而批评者认为，英伟达的商业利益使其难以对AI风险保持客观立场。这一争论折射出AI行业中利益相关方在安全议题上的立场分歧。",
-    "category": "industry"
-  },
-  {
-    "id": "5f303acc9ed5b94a3956d3956fb21607",
-    "title_en": "Vocci’s ring adds a new form factor to meeting note-taking",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "published_at": "2026-09-20T18:32:52.000Z",
-    "fetched_at": "2026-09-20T19:59:55.518Z",
-    "title_zh": "Vocci智能戒指为会议笔记带来全新形态",
-    "summary_zh": "Vocci推出了一款智能戒指产品，专为会议笔记场景设计，为可穿戴AI设备增添了新的产品形态。该戒指能够在会议过程中进行录音和笔记记录，帮助用户解放双手，无需依赖手机或笔记本电脑即可完成会议内容的捕捉与整理。这一产品反映了AI硬件设备正从传统的手表、耳机向更小型化、无感化的方向演进，也表明会议效率工具市场正吸引更多创新者入局，探索差异化的交互方式。",
-    "category": "product"
-  },
-  {
-    "id": "3e1483a0943900f8f1d0f0b82147fdb7",
-    "title_en": "Kojima Productions disputes reports the studio is in trouble",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
-    "published_at": "2026-09-20T18:15:10.000Z",
-    "fetched_at": "2026-09-20T19:59:55.566Z",
-    "title_zh": "小岛工作室否认陷入困境的报道",
-    "summary_zh": "小岛工作室（Kojima Productions）针对近期有关该工作室经营困难的报道作出回应，予以否认。此前有媒体报道称该工作室面临财务压力或项目受阻等问题。小岛秀夫作为知名游戏制作人，其工作室的动态一直备受关注。此次争议虽不直接涉及AI技术，但游戏行业正越来越多地采用AI工具进行开发，工作室的运营状况也可能影响其AI技术应用策略。事件后续发展值得持续关注。",
-    "category": "industry"
-  },
-  {
-    "id": "601e7a0a92ee6739692cfb54dcb48633",
-    "title_en": "ScrollEd wants to turn textbooks into TikTok",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-    "published_at": "2026-09-20T18:00:00.000Z",
-    "fetched_at": "2026-09-20T19:59:55.518Z",
-    "title_zh": "ScrollEd想将教科书变成TikTok",
-    "summary_zh": "ScrollEd是一家致力于将传统教科书内容转化为短视频形式的教育科技公司，目标是让学习体验像刷TikTok一样轻松上瘾。该平台将教材知识点拆解为短小精悍的视频片段，以适应年轻一代碎片化的内容消费习惯。这一模式引发了关于教育本质的讨论：短视频形式能否真正提升学习效果，还是仅仅让学习变得娱乐化而流于表面。无论如何，AI驱动的个性化内容推荐正在重塑教育行业的呈现方式。",
-    "category": "product"
-  },
-  {
-    "id": "eb34522cd1ad0e397082fda9af304b64",
-    "title_en": "Why AI Fears Are Rising Among Retirees",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/257b46b53873ee6c",
-    "published_at": "2026-09-20T17:26:52Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "为何退休人群对AI的恐惧日益加剧",
-    "summary_zh": "Biztoc报道称，退休人群对AI技术的恐惧情绪正在上升，主要担忧包括AI可能影响养老金管理、医疗决策以及被用于诈骗等。文章分析了这一群体对AI缺乏信任的原因，并探讨了如何通过教育和政策手段缓解老年人的技术焦虑。",
-    "category": "industry"
-  },
-  {
-    "id": "b9bdefd15315887a1209c8a365a15b68",
-    "title_en": " Simeone hits back at Mourinho: not everything goes, Mourinho or not",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/simeone-hits-back-at-mourinho-not-everything-goes-mourinho-or-not-43494685",
-    "published_at": "2026-09-20T17:23:00Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "西蒙尼回击穆里尼奥：不是所有事都能得过且过，不管是不是穆里尼奥",
-    "summary_zh": "马竞主帅西蒙尼对穆里尼奥的言论进行了强硬回击，表示并非所有事情都可以被容忍或忽视，无论对方是否是穆里尼奥。两位名帅之间的口水战再度升级，引发球迷和媒体的广泛关注。",
-    "category": "industry"
-  },
-  {
-    "id": "ac92c7ea113cf388dff90637b68d9523",
-    "title_en": "Man Utd frustrated at the Premier League's second-bottom side!",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/man-utd-frustrated-at-the-premier-leagues-second-bottom-side-43494679",
-    "published_at": "2026-09-20T17:21:00Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "曼联在英超倒数第二的球队面前受挫！",
-    "summary_zh": "曼联在对阵英超积分榜倒数第二的球队时表现令人失望，未能取得预期胜利。这场比赛再次暴露了曼联本赛季的状态起伏和战术问题，引发球迷和评论员对球队前景的担忧。",
-    "category": "industry"
-  },
-  {
-    "id": "b71b2b65a2a3a540b0f2ca21a93d7bfa",
-    "title_en": "France, Canada announce closer ties",
-    "source": "The Punch",
-    "url": "https://punchng.com/france-canada-announce-closer-ties/",
-    "published_at": "2026-09-20T17:17:14Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "法国与加拿大宣布加强双边关系",
-    "summary_zh": "法国与加拿大宣布将深化双边合作，在经贸、安全、气候变化等领域加强协调。此举被视为两国在當前国际格局下寻求更紧密伙伴关系的重要信号，也可能对跨大西洋关系产生积极影响。",
-    "category": "industry"
-  },
-  {
-    "id": "37ddd6a0a89108d241e0157f3083f9a6",
-    "title_en": "Mohammed bin Rashid Leadership Forum to bring 1,000 leaders to Dubai",
-    "source": "Dubaieye1038.com",
-    "url": "https://www.dubaieye1038.com/news/business/mohammed-bin-rashid-leadership-forum-to-bring-1000-leaders-to-dubai/",
-    "published_at": "2026-09-20T17:16:23Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "穆罕默德·本·拉希德领导力论坛将汇聚千名领袖齐聚迪拜",
-    "summary_zh": "穆罕默德·本·拉希德领导力论坛将在迪拜举办，预计吸引来自全球的1000名领导者参加。论坛旨在探讨领导力创新、政府治理和未来发展等议题，进一步巩固迪拜作为全球思想和商业交流中心的地位。",
-    "category": "industry"
-  },
-  {
-    "id": "5ec4f0df37585e058e9453483839eeef",
-    "title_en": "Vasco win the Brazilian Women's Serie A2 title",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/vasco-win-the-brazilian-womens-serie-a2-title-43494629",
-    "published_at": "2026-09-20T17:12:00Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "瓦斯科夺得巴西女子A2联赛冠军",
-    "summary_zh": "瓦斯科达伽马女足在巴西女子足球A2联赛中成功夺冠，赢得本赛季冠军头衔。这一胜利标志着球队在巴西女足二级联赛中的出色表现，为俱乐部争取升级至顶级联赛奠定了基础。该消息来自足球资讯平台Onefootball，属于体育赛事报道，与人工智能领域无关。",
-    "category": "industry"
-  },
-  {
-    "id": "3e37be7df6ad4d1a4f2afce01ec196f5",
-    "title_en": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/002e051fac4715ec",
-    "published_at": "2026-09-20T17:09:26Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "贝森特在特朗普-习近平峰会前会见中国副总理何立峰",
-    "summary_zh": "美国财政部长贝森特在特朗普与中国国家主席习近平即将举行峰会之前，与中国副总理何立峰进行了会晤。此次会谈可能涉及贸易、经济政策及双边关系等关键议题，为两国领导人峰会做铺垫。此举反映出中美双方在高层对话前积极协调立场，备受国际社会关注。",
-    "category": "industry"
-  },
-  {
-    "id": "99a6fa202710b03b8b00c44096627b4a",
-    "title_en": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/345ca092416051f7",
-    "published_at": "2026-09-20T17:09:25Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "英伟达黄仁勋驳斥AI灭绝警告，称其为末日叙事",
-    "summary_zh": "英伟达CEO黄仁勋公开驳斥了关于人工智能可能导致人类灭绝的警告，将其称为\"末日叙事\"。黄仁勋认为这类极端担忧缺乏依据，强调AI技术发展应以积极务实的态度看待。作为全球领先AI芯片公司的掌门人，他的表态在业界引发广泛关注，也反映出科技领袖对AI安全争论的不同立场。",
-    "category": "industry"
-  },
-  {
-    "id": "a11f744a9509864899fa4280918128e0",
-    "title_en": "President Trump to Create an “AI Force,” Appoint an AI Czar as AI Fears Grow",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/8c4f502df58eafce",
-    "published_at": "2026-09-20T17:09:17Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "特朗普总统将创建\"AI部队\"并任命AI事务主管，AI担忧加剧",
-    "summary_zh": "随着公众对人工智能的担忧日益加剧，美国总统特朗普计划创建一支\"AI部队\"并任命专门的AI事务主管（AI Czar）来统筹相关事务。此举旨在加强政府对AI技术的监管与战略部署，回应社会各界对AI安全、就业冲击等问题的关切。该计划标志着美国政府在AI治理层面迈出重要一步。",
-    "category": "industry"
-  },
-  {
-    "id": "80a963eaece87d46c2ef850049b8b83e",
-    "title_en": "Why AI Fears Are Rising Among Retirees",
-    "source": "Moneylion.com",
-    "url": "https://moneylion.com/trending/money/ai-fears-rising-among-retirees-concerns-growing",
-    "published_at": "2026-09-20T17:00:24Z",
-    "fetched_at": "2026-09-21T17:27:42.623Z",
-    "title_zh": "退休人群为何对AI的担忧日益加剧",
-    "summary_zh": "越来越多退休人士对人工智能感到担忧，主要涉及养老金管理、医疗保障及日常金融服务等领域可能受到AI冲击。文章分析了退休群体面对AI技术快速普及时的焦虑来源，包括对自动化取代人工服务、AI决策透明度不足以及个人财务安全等问题的顾虑，反映出AI对社会不同年龄层带来的深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "0053101fd2577e989c4864cef4ad4053",
-    "title_en": "Trump now says he wants to form an ‘AI Force’",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "published_at": "2026-09-20T15:39:22.000Z",
-    "fetched_at": "2026-09-20T19:59:55.566Z",
-    "title_zh": "特朗普表示希望组建\"AI部队\"",
-    "summary_zh": "美国前总统特朗普近日表示，他希望组建一支\"AI部队\"（AI Force），这一表态引发广泛关注。虽然具体细节尚不明确，但该提议可能涉及将人工智能技术应用于军事领域的计划。特朗普在AI政策方面一直主张减少监管、推动美国在AI领域的领先地位。此番言论反映出AI已成为美国政治议程中的重要议题，两党在AI军事应用、安全监管等方向上的政策博弈正在加剧。",
     "category": "industry"
   }
 ]
