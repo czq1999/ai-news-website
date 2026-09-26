@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-26",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Agent技能框架、记忆系统与办公套件成主流，Claude插件及技能库受关注，另有K8s硬核教程上榜。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude插件与技能框架、智能体记忆与协作工具密集涌现，办公套件与像素工作站等新形态亮眼。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description_en": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "stars_total": 85077,
+          "stars_total": 85772,
           "stars_today": 2109,
           "description_zh": "人人都在用的开源应用，用于在工作中管理智能体"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/vectorize-io/hindsight",
           "description_en": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "stars_total": 29870,
+          "stars_total": 30476,
           "stars_today": 1653,
           "description_zh": "Hindsight：会学习的智能体记忆"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/google/ax",
           "description_en": "Google's open agentic orchestration runtime",
           "language": "Go",
-          "stars_total": 11537,
+          "stars_total": 11736,
           "stars_today": 1379,
           "description_zh": "Google 的开源智能体编排运行时"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description_en": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "stars_total": 57566,
+          "stars_total": 57844,
           "stars_today": 1177,
           "description_zh": "学习它。构建它。为他人交付它。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/dream-num/univer",
           "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
           "language": "TypeScript",
-          "stars_total": 18467,
+          "stars_total": 18911,
           "stars_today": 1050,
           "description_zh": "面向 AI 智能体的 Office 运行框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 269759,
+          "stars_total": 269945,
           "stars_today": 583,
           "description_zh": "为真正的工程师打造的技能。直接来自我的 .agents 目录。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 291690,
+          "stars_total": 291819,
           "stars_today": 468,
           "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/NVIDIA/Model-Optimizer",
           "description_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
           "language": "Python",
-          "stars_total": 4489,
+          "stars_total": 4573,
           "stars_today": 359,
           "description_zh": "一个统一的库，汇集了量化、蒸馏、剪枝、神经架构搜索、投机解码等 SOTA 模型优化技术。它为 TensorRT-LLM、TensorRT、vLLM 等下游部署框架压缩深度学习模型，以优化推理速度。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design language that makes your AI harness better at design.",
           "language": "JavaScript",
-          "stars_total": 71226,
+          "stars_total": 71386,
           "stars_today": 306,
           "description_zh": "让你的 AI 运行框架更擅长设计的设计语言。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/anthropics/skills",
           "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 178340,
+          "stars_total": 178482,
           "stars_today": 189,
           "description_zh": "智能体技能的公共仓库"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/derv82/wifit3",
           "description_en": "Wifite but USB-only & cross-platform.",
           "language": "Python",
-          "stars_total": 953,
+          "stars_total": 1090,
           "stars_today": 183,
           "description_zh": "Wifite，但仅支持 USB 且跨平台。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
           "description_en": "Bootstrap Kubernetes the hard way. No scripts.",
           "language": "",
-          "stars_total": 50130,
+          "stars_total": 50185,
           "stars_today": 119,
           "description_zh": "以硬核方式引导 Kubernetes。不用脚本。"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/androoAGI/starnet",
           "description_en": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
           "language": "JavaScript",
-          "stars_total": 500,
+          "stars_total": 590,
           "stars_today": 93,
           "description_zh": "一个充满生机的像素艺术空间站，真实的 AI 智能体在这里做真实的工作。本地优先的桌面智能体运行框架——自带密钥，亲眼看着你的团队真正运转起来。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/anthropics/claude-plugins-official",
           "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
           "language": "Python",
-          "stars_total": 36952,
+          "stars_total": 37029,
           "stars_today": 83,
           "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/openbao/openbao",
           "description_en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
           "language": "Go",
-          "stars_total": 7747,
+          "stars_total": 7865,
           "stars_today": 49,
           "description_zh": "OpenBao 是一个用于管理、存储和分发敏感数据（包括密钥、证书和密钥）的软件解决方案。"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/shy3130/tick-stock-panel",
           "description_en": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
           "language": "Python",
-          "stars_total": 5145,
+          "stars_total": 5217,
           "stars_today": 44,
           "description_zh": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源"
         }
