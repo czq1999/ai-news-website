@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-09-28",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体：多智能体协作、记忆学习、办公套件与语音克隆工具涌现，另有TypeScript编译原生、iOS跑Windows游戏等亮点。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：语音克隆、智能体记忆与多智能体协作工具涌现，同时涵盖开源雷达、系统编程教材及AI办公套件等多元项目。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/vectorize-io/hindsight",
           "description_en": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "stars_total": 37566,
+          "stars_total": 39571,
           "stars_today": 4520,
           "description_zh": "Hindsight：会学习的智能体记忆"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 40369,
+          "stars_total": 41788,
           "stars_today": 3086,
           "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description_en": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "stars_total": 90156,
+          "stars_total": 91628,
           "stars_today": 2401,
           "description_zh": "人人都在用的开源应用，用于在工作中管理智能体"
         },
@@ -40,59 +40,49 @@
           "url": "https://github.com/dream-num/univer",
           "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
           "language": "TypeScript",
-          "stars_total": 20491,
+          "stars_total": 20936,
           "stars_today": 895,
           "description_zh": "面向 AI 智能体的 Office 框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
         {
           "rank": 5,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 59416,
-          "stars_today": 790,
-          "description_zh": "学习它。构建它。为他人交付它。"
+          "name": "byoungd/up",
+          "url": "https://github.com/byoungd/up",
+          "description_en": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "JavaScript",
+          "stars_total": 64357,
+          "stars_today": 310,
+          "description_zh": "一份可能让你受益匪浅的进阶指南🎉。韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
         },
         {
           "rank": 6,
-          "name": "InfinityLoop1308/PipePipe",
-          "url": "https://github.com/InfinityLoop1308/PipePipe",
-          "description_en": "An open-source Android app to let you browse YouTube and other services freely.",
-          "language": "Shell",
-          "stars_total": 6616,
-          "stars_today": 242,
-          "description_zh": "一款开源 Android 应用，让你自由浏览 YouTube 及其他服务。"
+          "name": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "description_en": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+          "language": "TeX",
+          "stars_total": 2240,
+          "stars_today": 265,
+          "description_zh": "伊利诺伊大学开源系统编程入门教材"
         },
         {
           "rank": 7,
+          "name": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "description_en": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+          "language": "PLSQL",
+          "stars_total": 25608,
+          "stars_today": 145,
+          "description_zh": "开源、低成本的10.5 GHz PLFM相控阵雷达系统"
+        },
+        {
+          "rank": 8,
           "name": "mvschwarz/openrig",
           "url": "https://github.com/mvschwarz/openrig",
           "description_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
           "language": "TypeScript",
-          "stars_total": 1043,
+          "stars_total": 1369,
           "stars_today": 114,
           "description_zh": "将 Claude Code 和 Codex 作为一个系统协同运行的多智能体框架"
-        },
-        {
-          "rank": 8,
-          "name": "vercel-labs/scriptc",
-          "url": "https://github.com/vercel-labs/scriptc",
-          "description_en": "TypeScript-to-Native Compiler",
-          "language": "TypeScript",
-          "stars_total": 5435,
-          "stars_today": 102,
-          "description_zh": "TypeScript 到原生代码的编译器"
-        },
-        {
-          "rank": 9,
-          "name": "willfaust/Madeira",
-          "url": "https://github.com/willfaust/Madeira",
-          "description_en": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-          "language": "C",
-          "stars_total": 843,
-          "stars_today": 83,
-          "description_zh": "通过 FEX-Emu + Wine + DXMT 在受限 iOS 上运行 x86-64 Windows PC 游戏"
         }
       ]
     },
