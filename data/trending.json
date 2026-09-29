@@ -2,27 +2,27 @@
   "days": [
     {
       "date": "2026-09-29",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体与语音技术：开源本地语音克隆、智能体记忆与协作框架涌现，另有雷达系统与编程教材等亮点项目。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：语音克隆、智能体运行时、记忆管理、多智能体协作工具涌现，另有轻量数据库客户端与自托管部署平台受关注。",
       "projects": [
         {
           "rank": 1,
-          "name": "vectorize-io/hindsight",
-          "url": "https://github.com/vectorize-io/hindsight",
-          "description_en": "Hindsight: Agent Memory That Learns",
-          "language": "Python",
-          "stars_total": 41212,
-          "stars_today": 4561,
-          "description_zh": "Hindsight：会学习的智能体记忆"
-        },
-        {
-          "rank": 2,
           "name": "debpalash/VoiceStudio",
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 44556,
-          "stars_today": 3221,
+          "stars_total": 46296,
+          "stars_today": 4712,
           "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
+        },
+        {
+          "rank": 2,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description_en": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars_total": 41963,
+          "stars_today": 2541,
+          "description_zh": "Hindsight：会学习的智能体记忆"
         },
         {
           "rank": 3,
@@ -30,59 +30,119 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description_en": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "stars_total": 93089,
-          "stars_today": 3197,
+          "stars_total": 93908,
+          "stars_today": 2412,
           "description_zh": "人人都用来在工作中管理智能体的开源应用"
         },
         {
           "rank": 4,
-          "name": "dream-num/univer",
-          "url": "https://github.com/dream-num/univer",
-          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-          "language": "TypeScript",
-          "stars_total": 21351,
-          "stars_today": 1099,
-          "description_zh": "面向 AI 智能体的 Office 框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description_en": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars_total": 60808,
+          "stars_today": 1287,
+          "description_zh": "学习它。构建它。为他人交付它。"
         },
         {
           "rank": 5,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars_total": 9909,
+          "stars_today": 978,
+          "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
+        },
+        {
+          "rank": 6,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars_total": 36735,
+          "stars_today": 822,
+          "description_zh": "📑 PageIndex：面向无向量、基于推理的 RAG 的文档索引"
+        },
+        {
+          "rank": 7,
           "name": "mvschwarz/openrig",
           "url": "https://github.com/mvschwarz/openrig",
           "description_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
           "language": "TypeScript",
-          "stars_total": 1809,
-          "stars_today": 734,
+          "stars_total": 2066,
+          "stars_today": 733,
           "description_zh": "将 Claude Code 和 Codex 作为一个系统协同运行的多智能体框架"
         },
         {
-          "rank": 6,
-          "name": "byoungd/up",
-          "url": "https://github.com/byoungd/up",
-          "description_en": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-          "language": "JavaScript",
-          "stars_total": 64841,
-          "stars_today": 327,
-          "description_zh": "一份可能让你受益匪浅的进阶指南 🎉。韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
+          "rank": 8,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars_total": 21602,
+          "stars_today": 692,
+          "description_zh": "面向 AI 智能体的 Office 框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
         },
         {
-          "rank": 7,
+          "rank": 9,
           "name": "cs341-illinois/coursebook",
           "url": "https://github.com/cs341-illinois/coursebook",
           "description_en": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
           "language": "TeX",
-          "stars_total": 2578,
-          "stars_today": 195,
+          "stars_total": 2783,
+          "stars_today": 569,
           "description_zh": "伊利诺伊大学开源系统编程入门教材"
         },
         {
-          "rank": 8,
-          "name": "NawfalMotii79/PLFM_RADAR",
-          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-          "description_en": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-          "language": "PLSQL",
-          "stars_total": 25808,
-          "stars_today": 158,
-          "description_zh": "开源、低成本的 10.5 GHz PLFM 相控阵雷达系统"
+          "rank": 10,
+          "name": "t8y2/dbx",
+          "url": "https://github.com/t8y2/dbx",
+          "description_en": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+          "language": "Rust",
+          "stars_total": 21633,
+          "stars_today": 460,
+          "description_zh": "25 MB 轻量级跨平台数据库客户端，支持 100+ 数据库，包括 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server 和达梦。内置 AI、MCP Server、CLI、桌面端和 Docker。 | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
+        },
+        {
+          "rank": 11,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description_en": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars_total": 13553,
+          "stars_today": 436,
+          "description_zh": "自托管部署平台"
+        },
+        {
+          "rank": 12,
+          "name": "willfaust/Madeira",
+          "url": "https://github.com/willfaust/Madeira",
+          "description_en": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+          "language": "C",
+          "stars_total": 1020,
+          "stars_today": 229,
+          "description_zh": "通过 FEX-Emu + Wine + DXMT 在受限 iOS 上运行 x86-64 Windows PC 游戏"
+        },
+        {
+          "rank": 13,
+          "name": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "description_en": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+          "language": "HTML",
+          "stars_total": 9801,
+          "stars_today": 114,
+          "description_zh": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，配有简洁的 Web UI。"
+        },
+        {
+          "rank": 14,
+          "name": "rakyll/hey",
+          "url": "https://github.com/rakyll/hey",
+          "description_en": "HTTP load generator, ApacheBench (ab) replacement",
+          "language": "Go",
+          "stars_total": 20374,
+          "stars_today": 31,
+          "description_zh": "HTTP 负载生成器，ApacheBench（ab）的替代品"
         }
       ]
     },
