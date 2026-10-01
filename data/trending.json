@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-10-01",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：OpenShell提供安全运行时，多智能体协作与上下文优化工具涌现，语音克隆、短视频生成等本地化AI应用亮眼，Claude技能资源丰富。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 50569,
+          "stars_today": 3483,
+          "description_zh": "VoiceStudio 是开源、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars_total": 12863,
+          "stars_today": 1281,
+          "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
+        },
+        {
+          "rank": 3,
+          "name": "t8y2/dbx",
+          "url": "https://github.com/t8y2/dbx",
+          "description_en": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+          "language": "Rust",
+          "stars_total": 23283,
+          "stars_today": 1138,
+          "description_zh": "25 MB 轻量级跨平台数据库客户端，支持 100+ 数据库，包括 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server 和达梦。内置 AI、MCP Server、CLI、桌面端和 Docker。| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
+        },
+        {
+          "rank": 4,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars_total": 38181,
+          "stars_today": 1097,
+          "description_zh": "📑 PageIndex：面向无向量、基于推理的 RAG 的文档索引"
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 273076,
+          "stars_today": 876,
+          "description_zh": "面向真正工程师的技能。直接来自我的 .agents 目录。"
+        },
+        {
+          "rank": 6,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars_total": 149275,
+          "stars_today": 743,
+          "description_zh": "让你的 AI 代理像房间里最懒的资深开发者一样思考。最好的代码就是你从未写过的代码。"
+        },
+        {
+          "rank": 7,
+          "name": "byoungd/up",
+          "url": "https://github.com/byoungd/up",
+          "description_en": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "JavaScript",
+          "stars_total": 66439,
+          "stars_today": 743,
+          "description_zh": "一份可能让你受益匪浅的进阶指南 🎉。韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
+        },
+        {
+          "rank": 8,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "language": "TypeScript",
+          "stars_total": 3076,
+          "stars_today": 624,
+          "description_zh": "多代理运行框架，将 Claude Code 和 Codex 作为一个系统协同运行"
+        },
+        {
+          "rank": 9,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "language": "Python",
+          "stars_total": 127615,
+          "stars_today": 431,
+          "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+        },
+        {
+          "rank": 10,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description_en": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars_total": 54786,
+          "stars_today": 349,
+          "description_zh": "编写 HTML。渲染视频。为代理而生。"
+        },
+        {
+          "rank": 11,
+          "name": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "description_en": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+          "language": "PLSQL",
+          "stars_total": 26434,
+          "stars_today": 263,
+          "description_zh": "开源、低成本的 10.5 GHz PLFM 相控阵雷达系统"
+        },
+        {
+          "rank": 12,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description_en": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars_total": 391007,
+          "stars_today": 136,
+          "description_zh": "真正能做事的 AI。任何操作系统。任何平台。龙虾之道。🦞"
+        },
+        {
+          "rank": 13,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars_total": 76172,
+          "stars_today": 123,
+          "description_zh": "一份精选的 Claude Skills、资源和工具列表，用于自定义 Claude AI 工作流"
+        },
+        {
+          "rank": 14,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "language": "C",
+          "stars_total": 72622,
+          "stars_today": 118,
+          "description_zh": "预索引的代码知识图谱，代码变更时自动同步，适用于 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot 和 Hermes Agent——更少 token、更少工具调用、100% 本地"
+        },
+        {
+          "rank": 15,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 24521,
+          "stars_today": 90,
+          "description_zh": "面向 AI 编程代理的上下文窗口优化。通过 MCP + hooks 对工具输出进行沙箱化处理（减少 98%），持久化会话记忆，并在 17 个平台上强制执行路由。"
+        },
+        {
+          "rank": 16,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description_en": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars_total": 90838,
+          "stars_today": 50,
+          "description_zh": "模型上下文协议服务器"
+        },
+        {
+          "rank": 17,
+          "name": "firebase/firebase-ios-sdk",
+          "url": "https://github.com/firebase/firebase-ios-sdk",
+          "description_en": "Firebase SDK for Apple App Development",
+          "language": "C++",
+          "stars_total": 6776,
+          "stars_today": 8,
+          "description_zh": "用于 Apple 应用开发的 Firebase SDK"
+        }
+      ]
+    },
+    {
       "date": "2026-09-30",
       "summary_zh": "今日GitHub热榜聚焦AI智能体生态：OpenShell提供安全运行时，多智能体协作与上下文优化工具涌现，语音克隆、短视频生成等本地化AI应用亮眼。",
       "projects": [
@@ -4661,162 +4837,6 @@
           "stars_total": 24138,
           "stars_today": 3,
           "description_zh": "一个现代的格式化库"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "summary_zh": "今日GitHub热门项目聚焦AI工具链：开源语音克隆、多智能体教学、PDF解析及数学动画引擎，同时涵盖学术研究辅助与本地化YouTube前端，展现AI赋能创作与学习的多元生态。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "THU-MAIC/OpenMAIC",
-          "url": "https://github.com/THU-MAIC/OpenMAIC",
-          "description_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-          "language": "TypeScript",
-          "stars_total": 29327,
-          "stars_today": 3122,
-          "description_zh": "开放多智能体交互课堂——一键获得沉浸式多智能体学习体验"
-        },
-        {
-          "rank": 2,
-          "name": "jingyaogong/minimind",
-          "url": "https://github.com/jingyaogong/minimind",
-          "description_en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-          "language": "Python",
-          "stars_total": 56956,
-          "stars_today": 1005,
-          "description_zh": "🧠 仅需2小时即可从零训练一个6400万参数的LLM！"
-        },
-        {
-          "rank": 3,
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-          "language": "Python",
-          "stars_total": 41452,
-          "stars_today": 914,
-          "description_zh": "将任何AI智能体转变为AI科学家。全球排名第一的科学智能体技能库，已被全球190,000+科学家使用。包含165个即用型验证技能，以及100+科学数据库，涵盖生物学、化学、医学和药物发现。兼容Cursor、Claude Code、Codex、Pi、Antigravity以及开放智能体技能标准。"
-        },
-        {
-          "rank": 4,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 13670,
-          "stars_today": 745,
-          "description_zh": "VoiceStudio 是开源的、完全本地的 ElevenLabs 替代品——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。"
-        },
-        {
-          "rank": 5,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 245686,
-          "stars_today": 621,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发支持。"
-        },
-        {
-          "rank": 6,
-          "name": "iv-org/invidious",
-          "url": "https://github.com/iv-org/invidious",
-          "description_en": "Invidious is an alternative front-end to YouTube",
-          "language": "Crystal",
-          "stars_total": 23722,
-          "stars_today": 583,
-          "description_zh": "Invidious 是 YouTube 的替代前端"
-        },
-        {
-          "rank": 7,
-          "name": "firecrawl/pdf-inspector",
-          "url": "https://github.com/firecrawl/pdf-inspector",
-          "description_en": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-          "language": "Rust",
-          "stars_total": 17845,
-          "stars_today": 545,
-          "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描版与文本版PDF，以实现智能路由决策。"
-        },
-        {
-          "rank": 8,
-          "name": "browser-use/video-use",
-          "url": "https://github.com/browser-use/video-use",
-          "description_en": "Edit videos with coding agents",
-          "language": "Python",
-          "stars_total": 22821,
-          "stars_today": 509,
-          "description_zh": "使用编码代理编辑视频"
-        },
-        {
-          "rank": 9,
-          "name": "handsomestWei/patent-disclosure-skill",
-          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-          "description_en": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-          "language": "Python",
-          "stars_total": 6667,
-          "stars_today": 502,
-          "description_zh": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
-        },
-        {
-          "rank": 10,
-          "name": "VoltAgent/awesome-design-md",
-          "url": "https://github.com/VoltAgent/awesome-design-md",
-          "description_en": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-          "language": "",
-          "stars_total": 112588,
-          "stars_today": 487,
-          "description_zh": "收集知名品牌设计系统的 DESIGN.md 文件分析。将其放入你的项目中，让编码代理生成匹配的用户界面。"
-        },
-        {
-          "rank": 11,
-          "name": "unclecode/crawl4ai",
-          "url": "https://github.com/unclecode/crawl4ai",
-          "description_en": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-          "language": "Python",
-          "stars_total": 80798,
-          "stars_today": 179,
-          "description_zh": "🚀🤖 Crawl4AI：开源的 LLM 友好型网络爬虫与抓取工具。欢迎加入：https://discord.gg/jP8KfhDhyN"
-        },
-        {
-          "rank": 12,
-          "name": "Imbad0202/academic-research-skills",
-          "url": "https://github.com/Imbad0202/academic-research-skills",
-          "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-          "language": "Python",
-          "stars_total": 44809,
-          "stars_today": 161,
-          "description_zh": "Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修改 → 定稿"
-        },
-        {
-          "rank": 13,
-          "name": "3b1b/manim",
-          "url": "https://github.com/3b1b/manim",
-          "description_en": "Animation engine for explanatory math videos",
-          "language": "Python",
-          "stars_total": 92504,
-          "stars_today": 74,
-          "description_zh": "用于制作数学讲解视频的动画引擎"
-        },
-        {
-          "rank": 14,
-          "name": "Gitlawb/openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "description_en": "runs anywhere. uses anything",
-          "language": "TypeScript",
-          "stars_total": 31199,
-          "stars_today": 37,
-          "description_zh": "随处运行，使用任何工具"
-        },
-        {
-          "rank": 15,
-          "name": "averygan/reclip",
-          "url": "https://github.com/averygan/reclip",
-          "description_en": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-          "language": "HTML",
-          "stars_total": 7562,
-          "stars_today": 21,
-          "description_zh": "从几乎任何网站下载视频。轻量级、自托管的媒体下载器，带有简洁的 Web 界面。"
         }
       ]
     }

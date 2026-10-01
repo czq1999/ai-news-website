@@ -1,5 +1,49 @@
 [
   {
+    "id": "3209d4a492c4296ce632bc4701d90d37",
+    "title_en": "Vivo’s X Fold 6 accidentally feels like a throwback",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+    "published_at": "2026-10-01T02:00:00.000Z",
+    "fetched_at": "2026-10-01T03:10:40.309Z",
+    "title_zh": "vivo X Fold 6意外带来复古感",
+    "summary_zh": "vivo最新折叠屏手机X Fold 6在设计与体验上意外呈现出一种复古风格，与当前主流折叠屏追求极致轻薄的趋势形成对比。评测指出，该机在某些交互和外观细节上让人联想到早期折叠屏产品，但在铰链耐用性和屏幕素质方面仍有升级。这一“怀旧感”究竟是差异化卖点还是设计妥协，引发用户讨论。",
+    "category": "product"
+  },
+  {
+    "id": "5ee3ca38d10b45468d39b12fae8c3657",
+    "title_en": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+    "published_at": "2026-10-01T00:23:45.000Z",
+    "fetched_at": "2026-10-01T03:10:40.309Z",
+    "title_zh": "马斯克旗下Grokipedia迎来“全新改版”设计",
+    "summary_zh": "马斯克推出的AI百科产品Grokipedia上线“全新刷新”的设计版本，界面和交互均有所调整。该产品此前因内容准确性和AI生成偏见问题受到质疑。此次改版被视为马斯克在AI信息平台领域持续投入的信号，但能否解决内容可信度与编辑中立性等核心争议，仍有待观察。",
+    "category": "product"
+  },
+  {
+    "id": "848f65bcc28d96a6dfd954d86f9498e5",
+    "title_en": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "published_at": "2026-09-30T23:43:07.000Z",
+    "fetched_at": "2026-10-01T03:10:40.280Z",
+    "title_zh": "谷歌发布Gemini 4 Argon，号称迄今最强模型",
+    "summary_zh": "谷歌正式推出Gemini 4 Argon，称其为公司迄今为止能力最强的AI模型。该模型预计在推理、多模态理解和长上下文处理等方面实现显著提升，进一步加剧与OpenAI、Anthropic等厂商在大模型领域的竞争。谷歌尚未公布完整技术细节和定价方案，但业界普遍认为此次发布将推动AI应用生态的新一轮升级。",
+    "category": "llm"
+  },
+  {
+    "id": "bf58a9221c877e2d4cbbb323411cc03d",
+    "title_en": "The new and huger Paramount has a new co-CEO",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+    "published_at": "2026-09-30T23:08:49.000Z",
+    "fetched_at": "2026-10-01T03:10:40.309Z",
+    "title_zh": "规模更大的新派拉蒙任命新任联席CEO",
+    "summary_zh": "完成合并后规模进一步扩大的派拉蒙宣布任命新任联席CEO，标志着公司管理层架构的重大调整。此次人事变动发生在媒体行业整合加速、流媒体竞争激烈的背景下。新领导层将面临整合业务、削减成本以及应对AI对内容生产冲击等多重挑战，其战略方向备受投资者关注。",
+    "category": "industry"
+  },
+  {
     "id": "2ef895af0e6ae111b52465f5ba4ab7ab",
     "title_en": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
     "source": "TechCrunch AI",
@@ -537,6 +581,116 @@
     "title_zh": "Fanatics优惠码：享10%折扣",
     "summary_zh": "本文提供Fanatics体育用品电商平台的最新优惠码，可享受10%的购物折扣。Fanatics销售各类运动球队周边商品、球衣和体育装备，该优惠码适用于平台上的大部分商品。对于体育迷和需要购买球队周边礼物的消费者来说，这是一个节省开支的好机会。",
     "category": "product"
+  },
+  {
+    "id": "0ea358838539262f8573cdb73332c9d7",
+    "title_en": "OpenAI unveils 'always-on' AI agents as company pauses model rollout",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-unveils-always-on-ai-agents-as-company-pauses-model-rollout-126093000057_1.html",
+    "published_at": "2026-09-30T03:08:48Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "OpenAI发布“始终在线”AI智能体，同时暂停模型发布",
+    "summary_zh": "OpenAI推出了“始终在线”的AI智能体产品，这类智能体可以持续运行并自主执行任务，标志着AI从被动响应向主动代理的重要转变。与此同时，公司宣布暂停部分模型的发布计划，引发外界对其安全评估流程和商业化节奏的猜测。分析认为，OpenAI在推进智能体产品的同时放缓模型发布，可能是在安全审查与市场竞争之间寻求平衡。这一动态对AI行业的智能体发展方向具有重要参考意义。",
+    "category": "product"
+  },
+  {
+    "id": "fa113f4d57642588063157fd1926eca0",
+    "title_en": "AT&T and Corning strike more than US$3 billion fiber supply deal",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260930PR200/corning-demand-manufacturing-infrastructure-wireless.html",
+    "published_at": "2026-09-30T03:06:57Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "AT&T与康宁达成超30亿美元光纤供应协议",
+    "summary_zh": "美国电信巨头AT&T与玻璃和光纤制造商康宁签署了一项价值超过30亿美元的光纤供应协议。该协议旨在支持AT&T大规模扩展其光纤网络基础设施，以满足日益增长的高速互联网和AI驱动的数据传输需求。随着AI应用对带宽和低延迟的要求不断提高，电信运营商正加速光纤网络的部署。此举也反映出AI基础设施建设对上游供应链的拉动效应，光纤作为关键物理层资源的重要性持续上升。",
+    "category": "industry"
+  },
+  {
+    "id": "a36420b79a7b96471bc865f2cb543507",
+    "title_en": "Trump says Iran will 'give up', claims US took record oil out of Strait of Hormuz",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-iran-will-give-up-claims-us-took-record-oil-out-of-strait-of-hormuz/articleshow/134578838.cms",
+    "published_at": "2026-09-30T03:05:17Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "特朗普称伊朗将“放弃”，声称美国从霍尔木兹海峡运出创纪录石油",
+    "summary_zh": "美国前总统特朗普发表言论称伊朗将“放弃”对抗，并声称美国已从霍尔木兹海峡运出创纪录数量的石油。此番表态涉及中东地缘政治与全球能源供应格局。霍尔木兹海峡是全球最重要的石油运输通道之一，约全球五分之一的石油贸易经此通过。特朗普的言论可能对国际油价和市场预期产生影响。尽管该话题与AI无直接关联，但能源价格波动对AI数据中心的运营成本和科技行业投资环境具有间接影响。",
+    "category": "industry"
+  },
+  {
+    "id": "558c85b3d5ad61b83395d3374c141ebe",
+    "title_en": "SM Investments makes case for long-term thinking amid rapid change",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/sm-investments-makes-case-for-long-term-thinking-amid-rapid-change-302893682.html",
+    "published_at": "2026-09-30T03:05:00Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "SM Investments在快速变革中倡导长期思维",
+    "summary_zh": "菲律宾大型综合企业SM Investments发表观点，强调在技术快速变革和全球经济不确定性加剧的背景下，企业应坚持长期战略思维。公司认为，尽管AI等新兴技术正在重塑各行各业，但过度追逐短期热点可能损害企业的可持续发展能力。SM Investments的业务涵盖零售、银行、地产等领域，其表态反映了传统企业在数字化转型浪潮中对稳健增长与创新平衡的思考，也为其他新兴市场企业提供了参考。",
+    "category": "industry"
+  },
+  {
+    "id": "1d8208481513ffeaf0e7e05298c42804",
+    "title_en": "FIIs dump telecom for 8th straight month, outflows cross Rs 32,000 crore. Are stocks set for rebound?",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-telecom-for-8th-straight-month-outflows-cross-rs-32000-crore-are-stocks-set-for-rebound/articleshow/134578716.cms",
+    "published_at": "2026-09-30T03:02:10Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "外资连续8个月抛售电信股，流出超3200亿卢比，板块能否反弹？",
+    "summary_zh": "印度电信板块遭遇外资连续第八个月净流出，累计流出资金超过3200亿卢比（约合38亿美元），引发市场对电信股能否反弹的讨论。外资持续撤离的原因包括行业竞争加剧、ARPU增长缓慢以及5G投资回报周期较长等。与此同时，AI驱动的网络升级需求可能为电信行业带来新的增长机遇。分析人士对板块前景看法分化，部分认为估值已具吸引力，另一些则担忧基本面改善仍需时间。",
+    "category": "industry"
+  },
+  {
+    "id": "698f24bc1d6577128b62fdd2c229c43a",
+    "title_en": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/a9d32fba838f5b23",
+    "published_at": "2026-09-30T02:57:46Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "ChatGPT制造商欲成为AI领域的App Store，安全担忧同步升温",
+    "summary_zh": "OpenAI正推动构建类似App Store的AI应用生态平台，允许第三方开发者在ChatGPT平台上发布和分发AI应用。这一战略旨在将ChatGPT从单一产品转变为平台级入口，类似苹果App Store对移动互联网的整合作用。然而，随着平台化推进，AI安全担忧也在加剧——如何审核第三方应用的安全性、防止恶意提示注入和数据滥用成为核心挑战。OpenAI的平台化野心与安全治理之间的张力将持续受到关注。",
+    "category": "product"
+  },
+  {
+    "id": "3c145e931bd3cc3dc7d3cc93deeac6c7",
+    "title_en": "Explained: What is a public benefit corporation, the Anthropic legal structure?",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-what-is-a-public-benefit-corporation-the-anthropic-legal-structure/articleshow/134578165.cms",
+    "published_at": "2026-09-30T02:51:39Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "解读：什么是公益公司？Anthropic的法律架构解析",
+    "summary_zh": "Anthropic采用了一种名为“公益公司”（Public Benefit Corporation, PBC）的法律架构，这一结构要求公司在追求股东利益的同时，必须将社会公益使命写入公司章程。Anthropic作为Claude系列AI模型的开发商，通过PBC架构承诺在AI安全和社会责任方面承担法律义务。与普通公司不同，PBC的董事会需平衡股东回报与公益目标，在决策时考虑对利益相关者的影响。这一架构反映了AI公司在商业利益与安全使命之间寻求制度性平衡的探索。",
+    "category": "industry"
+  },
+  {
+    "id": "7f7ede75a3713833f2c9cd4916c54d4f",
+    "title_en": "Trump says top tech firms have signed accord to 'self-police' AI development",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/articleshow/134578280.cms",
+    "published_at": "2026-09-30T02:50:48Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "特朗普称顶级科技公司已签署协议“自我监管”AI发展",
+    "summary_zh": "美国前总统特朗普表示，多家顶级科技公司已签署协议，承诺对AI发展进行“自我监管”。这一表态引发了对AI治理模式的讨论：支持者认为行业自律可以加快创新步伐，避免过度监管；批评者则担忧缺乏外部约束的自我监管难以有效防范AI风险。当前全球AI监管格局分化，欧盟推行严格的AI法案，美国则更倾向于行业主导的治理路径。科技公司的自我监管承诺能否落到实处，仍有待观察。",
+    "category": "industry"
+  },
+  {
+    "id": "2c6ebb13109c0e910ca0eb385f16f128",
+    "title_en": "AT&T makes major ‘bet for the future’ as AI fuels push past 60 million locations",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/a4310788979da1fa",
+    "published_at": "2026-09-30T02:43:26Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "AT&T押注未来：AI推动光纤覆盖突破6000万个地点",
+    "summary_zh": "AT&T宣布其光纤网络覆盖已突破6000万个地点，并将此视为公司面向未来的重大战略押注。AI应用的爆发式增长对高速、低延迟网络的需求持续攀升，推动了电信运营商加速光纤基础设施建设。AT&T通过与康宁等供应商的深度合作保障光纤供应，同时结合AI技术优化网络运维和客户体验。这一举措表明，AI不仅是电信行业的服务对象，也正在成为其网络投资决策和运营效率提升的核心驱动力。",
+    "category": "industry"
+  },
+  {
+    "id": "c62b3e6316267a03872a30ea233e859a",
+    "title_en": "Trump, top tech firms sign accord to 'self-police' AI development",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/trump-top-tech-firms-sign-accord-to-self-police-ai-development-126093000043_1.html",
+    "published_at": "2026-09-30T02:39:47Z",
+    "fetched_at": "2026-10-01T03:10:40.925Z",
+    "title_zh": "特朗普与顶级科技公司签署协议，推动AI开发“自我监管”",
+    "summary_zh": "特朗普政府与多家顶级科技公司签署协议，推动人工智能开发采取“自我监管”模式。该协议旨在通过行业自律而非政府强制监管来规范AI发展，参与企业将承诺遵循安全、透明等原则。此举引发外界对监管有效性的讨论：支持者认为灵活自律有利于创新，批评者则担忧缺乏约束力难以防范AI风险。协议具体条款及签署企业名单尚未完全公开。",
+    "category": "industry"
   },
   {
     "id": "a3f4cfd233094b1b6d2c6155d077d122",
@@ -5343,160 +5497,6 @@
     "fetched_at": "2026-09-25T16:10:18.162Z",
     "title_zh": "阿里巴巴11天截止警报：遭受重大损失的投资者可在2026年10月5日前申请主导股东集体诉讼",
     "summary_zh": "阿里巴巴集团面临股东集体诉讼，遭受重大损失的投资者被提醒在2026年10月5日首席原告截止日期前申请主导诉讼。该诉讼涉及阿里巴巴可能存在的证券违规行为，具体细节尚未完全披露。符合条件的投资者可通过指定渠道参与，以维护自身权益。此消息对关注阿里巴巴及中概股投资风险的市场参与者具有重要参考价值。",
-    "category": "industry"
-  },
-  {
-    "id": "c14d4c4ed44c7e3d736eebe8d098d18f",
-    "title_en": "Meta Connect 2026: Muse Charm And Next-Gen Smart Glasses Unveiled",
-    "source": "Ubergizmo",
-    "url": "https://www.ubergizmo.com/2026/09/meta-connect-2026-muse-charm-and-next-gen-smart-glasses-unveiled/",
-    "published_at": "2026-09-24T16:01:05Z",
-    "fetched_at": "2026-09-25T16:10:18.162Z",
-    "title_zh": "Meta Connect 2026：Muse Charm与下一代智能眼镜亮相",
-    "summary_zh": "在Meta Connect 2026大会上，Meta发布了Muse Charm及下一代智能眼镜产品。新款智能眼镜在AI功能、显示技术和佩戴舒适度方面均有显著升级，进一步融合增强现实与人工智能助手能力。Muse Charm可能是Meta在AI可穿戴设备领域的新品牌或功能模块。此次发布显示Meta持续加码AI硬件生态，与苹果Vision Pro等产品展开竞争。",
-    "category": "product"
-  },
-  {
-    "id": "60ec9d740f488b596e52a0238cfd6c0b",
-    "title_en": "Google tests letting Gemini call businesses for you",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-    "published_at": "2026-09-24T16:00:00.000Z",
-    "fetched_at": "2026-09-24T16:09:40.495Z",
-    "title_zh": "谷歌测试让Gemini代你致电商家",
-    "summary_zh": "谷歌正在测试一项新功能，允许Gemini AI助手代替用户拨打商家电话，处理预约、咨询等事务，免去用户长时间等待客服的烦恼。该功能依托Gemini的语音与对话能力，可自动与商家沟通并反馈结果。这标志着AI助手从信息查询向实际任务执行迈出重要一步，也引发了关于自动通话合规性与隐私的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "51c4408a9892d8c0481b1dc229c0211c",
-    "title_en": "The Xbox reset gets ugly",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
-    "published_at": "2026-09-24T16:00:00.000Z",
-    "fetched_at": "2026-09-24T16:09:40.627Z",
-    "title_zh": "Xbox的重整之路愈发难看",
-    "summary_zh": "微软Xbox部门近期的一系列调整引发外界关注，文章认为其重整过程正变得愈发混乱。从独占策略变化、工作室关闭到管理层动荡，Xbox在游戏行业的定位面临挑战。在AI与云游戏加速渗透的背景下，Xbox如何平衡硬件、订阅服务与内容生态，成为其能否扭转局面的关键，但目前来看前景并不乐观。",
-    "category": "industry"
-  },
-  {
-    "id": "296e85df79d3b6348fe63f3fdf58ed0e",
-    "title_en": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-    "published_at": "2026-09-24T16:00:00.000Z",
-    "fetched_at": "2026-09-24T16:09:41.121Z",
-    "title_zh": "谷歌Gemini现可在Pixel手机上代你拨打电话",
-    "summary_zh": "谷歌宣布其AI助手Gemini新增电话代拨功能，Pixel手机用户可让Gemini自动拨打客服电话、等待接通并完成简单事务处理。该功能利用自然语言理解和语音合成技术，模拟真人对话与对方交互，帮助用户节省等待时间。这标志着AI助手从信息查询向实际任务执行迈出重要一步，但也引发了关于自动通话合规性与隐私的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "844afa9079dbd18253da9c57e394fe55",
-    "title_en": "Reddit mod ordered to pay Nintendo $4.5 million in Switch piracy lawsuit",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1000088/nintendo-switch-piracy-reddit-mod-lawsuit",
-    "published_at": "2026-09-24T15:50:35.000Z",
-    "fetched_at": "2026-09-24T16:09:40.627Z",
-    "title_zh": "Reddit版主因Switch盗版诉讼被判赔任天堂450万美元",
-    "summary_zh": "一名Reddit版主因涉及任天堂Switch游戏盗版相关诉讼，被法院判决赔偿任天堂450万美元。该案凸显游戏厂商对盗版行为日益强硬的打击态度。任天堂近年来频繁通过法律手段追究盗版网站、模组制作者和传播者的责任。此判决也向网络社区管理者发出警示：参与或纵容盗版内容传播可能面临高额赔偿与法律风险。",
-    "category": "industry"
-  },
-  {
-    "id": "17fae9bc35011218e5a8093fe1702256",
-    "title_en": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-    "published_at": "2026-09-24T15:00:00.000Z",
-    "fetched_at": "2026-09-24T16:09:40.495Z",
-    "title_zh": "Shield AI、Waabi与通用汽车谈在TechCrunch Disrupt 2026上打造不容失败的AI",
-    "summary_zh": "在TechCrunch Disrupt 2026上，Shield AI、Waabi和通用汽车的代表将分享在自动驾驶、国防等高风险场景中构建AI系统的经验。这些领域对可靠性和安全性要求极高，任何失误都可能造成严重后果。讨论将聚焦如何在容错率极低的环境中验证和部署AI，为其他关键应用领域提供借鉴。",
-    "category": "industry"
-  },
-  {
-    "id": "41455f1cf693932c01a10b44dbe867da",
-    "title_en": "You might not miss what Nikon removed from its cheaper full-frame Z5 IIC",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter",
-    "published_at": "2026-09-24T14:53:06.000Z",
-    "fetched_at": "2026-09-24T16:09:40.627Z",
-    "title_zh": "尼康廉价全画幅Z5 IIC删减的功能，你或许并不会怀念",
-    "summary_zh": "尼康推出更便宜的全画幅相机Z5 IIC，为控制成本删减了部分功能。文章认为这些取舍对目标用户影响有限，甚至可能并不令人怀念。作为入门级全画幅机型，Z5 IIC在画质、对焦和机身防抖等核心体验上仍有保障，适合预算有限但想进入全画幅领域的摄影爱好者。整体来看，这是一款定位清晰、性价比突出的产品。",
-    "category": "product"
-  },
-  {
-    "id": "273c12a39719d55fb55f53a908052b7c",
-    "title_en": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-    "published_at": "2026-09-24T14:43:25.000Z",
-    "fetched_at": "2026-09-24T16:09:40.495Z",
-    "title_zh": "Lovable年化收入突破6亿美元，氛围编程热潮兴起",
-    "summary_zh": "AI编程工具Lovable宣布其年化收入已突破6亿美元，显示出“氛围编程”（vibe coding）市场的快速爆发。该平台允许用户通过自然语言描述需求来生成应用，大幅降低了开发门槛。随着越来越多非专业开发者借助AI构建软件，Lovable等工具正成为这一趋势的主要受益者，也反映出AI辅助开发领域的激烈竞争。",
-    "category": "industry"
-  },
-  {
-    "id": "69ae57706920340b6b042e30696427e8",
-    "title_en": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-    "published_at": "2026-09-24T14:31:00.000Z",
-    "fetched_at": "2026-09-24T16:09:40.495Z",
-    "title_zh": "Ando欲以人机协作团队通讯应用挑战Slack",
-    "summary_zh": "初创公司Ando推出一款团队通讯应用，主打人类与AI智能体协同工作的理念，直接对标Slack。在该平台上，AI代理可作为团队成员参与对话、分配任务和执行操作，与人类同事无缝配合。随着企业越来越多地引入AI助手，如何让人与智能体在同一工作空间中协作成为新需求，Ando正试图抢占这一新兴市场。",
-    "category": "product"
-  },
-  {
-    "id": "f2da9bf3471710254a5ef744b2bf2c45",
-    "title_en": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-    "published_at": "2026-09-24T14:30:00.000Z",
-    "fetched_at": "2026-09-24T16:09:40.495Z",
-    "title_zh": "TechCrunch Disrupt 2026：Cal AI的Zach Yadegari谈如何打造病毒式增长并加以利用",
-    "summary_zh": "在TechCrunch Disrupt 2026上，Cal AI创始人Zach Yadegari将分享如何实现病毒式增长并有效转化这一势能。Cal AI是一款借助AI进行卡路里识别与饮食管理的应用，凭借社交媒体传播迅速走红。演讲将探讨初创公司如何设计可传播的产品体验、把握增长窗口期，并将流量转化为长期用户留存与商业价值。",
-    "category": "industry"
-  },
-  {
-    "id": "aee6384a44de7db3d83cea036416cdcc",
-    "title_en": "Why can’t we just keep rogue AIs off the internet?",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-    "published_at": "2026-09-24T14:30:00.000Z",
-    "fetched_at": "2026-09-24T16:09:40.627Z",
-    "title_zh": "为什么我们不能直接把失控的AI挡在互联网之外？",
-    "summary_zh": "文章探讨为何难以将失控或恶意的AI系统隔离在互联网之外。随着AI代理具备自主浏览、调用API和执行任务的能力，传统网络边界和访问控制面临挑战。AI可伪装成正常用户、利用漏洞扩散，甚至相互协作绕过限制。文章指出，仅靠断网或封禁难以根治问题，需要从模型行为监控、身份验证和全球治理等层面综合应对。",
-    "category": "research"
-  },
-  {
-    "id": "d5a9f8b54edf426c41d4cdc3442eeaf6",
-    "title_en": "Google is sending an AI satellite into space next week",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-    "published_at": "2026-09-24T14:15:17.000Z",
-    "fetched_at": "2026-09-24T16:09:40.627Z",
-    "title_zh": "谷歌下周将把一颗AI卫星送入太空",
-    "summary_zh": "谷歌计划下周发射一颗搭载AI能力的卫星，用于在轨数据处理与地球观测等任务。将AI部署到太空可减少对地面站传输的依赖，实现更快速的图像识别与决策。这反映出科技巨头正将AI算力延伸至太空领域，用于气候监测、灾害响应和通信等场景，也预示着未来太空计算与边缘AI结合的新趋势。",
-    "category": "product"
-  },
-  {
-    "id": "4164d92d4b94cfb3aad123c0d812139f",
-    "title_en": "The vibes are bad for Flock in Washington",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-    "published_at": "2026-09-24T14:15:05.000Z",
-    "fetched_at": "2026-09-24T16:09:40.627Z",
-    "title_zh": "Flock在华盛顿州的前景不妙",
-    "summary_zh": "文章指出，监控技术公司Flock在华盛顿州面临越来越大的阻力。该公司以AI车牌识别和监控摄像头网络闻名，但隐私倡导者和立法者对其大规模监控能力表示担忧。随着相关立法推进和公众质疑加剧，Flock在该地区的业务扩张和合同续签可能受阻，反映出AI监控技术在社会接受度与监管层面的持续博弈。",
-    "category": "industry"
-  },
-  {
-    "id": "bbe29c29140df985763874ee9ab0bbe8",
-    "title_en": "I have some questions for Mark Zuckerberg",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-    "published_at": "2026-09-24T14:15:00.000Z",
-    "fetched_at": "2026-09-24T16:09:40.627Z",
-    "title_zh": "我有一些问题要问马克·扎克伯格",
-    "summary_zh": "The Verge 发表评论文章，向 Meta CEO 马克·扎克伯格提出一系列尖锐问题，涉及 Meta 在 AI 领域的战略方向、内容审核政策、用户隐私保护以及社交媒体对青少年的影响等争议话题。文章反映了科技媒体对 Meta 在 AI 时代角色定位的持续质疑与审视。",
     "category": "industry"
   }
 ]
