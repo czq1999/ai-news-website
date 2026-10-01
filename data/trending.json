@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-01",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：技能框架、上下文优化、多智能体协作与安全运行时成亮点。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：技能框架、多智能体协作、上下文优化与安全运行时成亮点。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/NVIDIA/OpenShell",
           "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
           "language": "Rust",
-          "stars_total": 13658,
+          "stars_total": 13968,
           "stars_today": 2503,
           "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "stars_total": 149754,
+          "stars_total": 150399,
           "stars_today": 1179,
           "description_zh": "让你的 AI 代理像房间里最懒的资深开发者一样思考。最好的代码就是你从未写过的代码。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 273406,
+          "stars_total": 273818,
           "stars_today": 888,
           "description_zh": "面向真正工程师的技能。直接来自我的 .agents 目录。"
         },
@@ -40,29 +40,29 @@
           "url": "https://github.com/mvschwarz/openrig",
           "description_en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
           "language": "TypeScript",
-          "stars_total": 3331,
+          "stars_total": 3651,
           "stars_today": 640,
           "description_zh": "多代理运行框架，将 Claude Code 和 Codex 作为一个系统协同运行"
         },
         {
           "rank": 5,
-          "name": "HunxByts/GhostTrack",
-          "url": "https://github.com/HunxByts/GhostTrack",
-          "description_en": "Useful tool to track location or mobile number",
-          "language": "Python",
-          "stars_total": 16120,
-          "stars_today": 635,
-          "description_zh": "用于追踪位置或手机号码的实用工具"
-        },
-        {
-          "rank": 6,
           "name": "heygen-com/hyperframes",
           "url": "https://github.com/heygen-com/hyperframes",
           "description_en": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "stars_total": 55017,
+          "stars_total": 55291,
           "stars_today": 624,
           "description_zh": "编写 HTML。渲染视频。为代理而生。"
+        },
+        {
+          "rank": 6,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars_total": 73619,
+          "stars_today": 602,
+          "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
         },
         {
           "rank": 7,
@@ -70,19 +70,19 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 293667,
-          "stars_today": 594,
+          "stars_total": 293929,
+          "stars_today": 476,
           "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         },
         {
           "rank": 8,
-          "name": "pbakaus/impeccable",
-          "url": "https://github.com/pbakaus/impeccable",
-          "description_en": "The design language that makes your AI harness better at design.",
-          "language": "JavaScript",
-          "stars_total": 73271,
-          "stars_today": 463,
-          "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description_en": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars_total": 16351,
+          "stars_today": 369,
+          "description_zh": "用于追踪位置或手机号码的实用工具"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/mksglu/context-mode",
           "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "stars_total": 24648,
+          "stars_total": 24755,
           "stars_today": 357,
           "description_zh": "面向 AI 编程代理的上下文窗口优化。通过 MCP + hooks 对工具输出进行沙箱化处理（减少 98%），持久化会话记忆，并在 17 个平台上强制执行路由。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/pablostanley/yoinks",
           "description_en": "yoink any video from your terminal. no shady ads.",
           "language": "TypeScript",
-          "stars_total": 2589,
+          "stars_total": 2881,
           "stars_today": 356,
           "description_zh": "在终端中下载任何视频，没有烦人的广告。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/earendil-works/pi",
           "description_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
           "language": "TypeScript",
-          "stars_total": 110918,
+          "stars_total": 111155,
           "stars_today": 294,
           "description_zh": "AI 智能体工具包：统一的 LLM API、智能体循环、TUI、编码智能体 CLI"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/Friedrich-M/UniMate",
           "description_en": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
           "language": "Python",
-          "stars_total": 932,
+          "stars_total": 1048,
           "stars_today": 225,
           "description_zh": "[SIGGRAPH Asia 2026] UniMate：一个统一的模型，为多样化的骨骼制作动画"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/cursor/plugins",
           "description_en": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "stars_total": 9234,
+          "stars_total": 9310,
           "stars_today": 157,
           "description_zh": "Cursor 插件规范与官方插件"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/tile-ai/tilelang",
           "description_en": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
           "language": "Python",
-          "stars_total": 7973,
+          "stars_total": 8079,
           "stars_today": 157,
           "description_zh": "专为简化高性能 GPU/CPU/加速器内核开发而设计的领域特定语言"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/firebase/firebase-ios-sdk",
           "description_en": "Firebase SDK for Apple App Development",
           "language": "C++",
-          "stars_total": 6807,
+          "stars_total": 6847,
           "stars_today": 112,
           "description_zh": "用于 Apple 应用开发的 Firebase SDK"
         }
