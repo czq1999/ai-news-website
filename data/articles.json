@@ -1,5 +1,27 @@
 [
   {
+    "id": "511e9b1d08744925f7d0ae6d5740bf1f",
+    "title_en": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+    "published_at": "2026-10-01T22:51:36.000Z",
+    "fetched_at": "2026-10-02T03:12:35.280Z",
+    "title_zh": "苹果据报正在开发一款不录制视频的智能家居摄像头",
+    "summary_zh": "据The Verge报道，苹果正在研发一款智能家居摄像头，其最大特点是不会录制视频，而是通过端侧AI实时分析画面来提供智能功能。这一设计思路与苹果一贯强调的隐私保护理念一致，旨在避免用户家庭影像被上传或存储。若消息属实，该产品将成为苹果智能家居生态的重要补充，也可能重新定义家用安防摄像头的隐私标准。",
+    "category": "product"
+  },
+  {
+    "id": "f9abce0f5d1c48955209909e22d48562",
+    "title_en": "Whatever AI Safety Is, It’s Not This",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "published_at": "2026-10-01T22:10:42.000Z",
+    "fetched_at": "2026-10-02T03:12:35.547Z",
+    "title_zh": "无论AI安全是什么，都不是这样的",
+    "summary_zh": "Wired刊文批评当前AI安全领域的某些做法和论述，认为业界对AI安全的定义和实践存在严重偏差。文章指出，部分公司以“AI安全”为名进行公关包装，实则未能解决核心风险问题。作者呼吁建立更严谨的安全框架，而非将安全概念泛化为营销工具，真正关注AI系统可能带来的实际危害。",
+    "category": "industry"
+  },
+  {
     "id": "aa32294f6c5ad5bc419ed07c44d84560",
     "title_en": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
     "source": "TechCrunch AI",
@@ -625,6 +647,116 @@
     "title_zh": "三星优惠码：2026年10月享八折",
     "summary_zh": "三星在2026年10月推出八折优惠码活动。消费者可购买三星旗下的智能手机、平板电脑、电视、显示器等电子产品时享受折扣。三星作为全球最大消费电子厂商之一，定期通过促销活动刺激销量并吸引新用户。",
     "category": "product"
+  },
+  {
+    "id": "ecc102717bc00ae378aec0a2b0c09558",
+    "title_en": "OpenAI funding news: Smart funding strategy worth $30 billion",
+    "source": "Blogdoandroid.com",
+    "url": "https://blogdoandroid.com/openai-funding-news/",
+    "published_at": "2026-10-01T03:11:02Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "OpenAI融资消息：智能融资策略价值300亿美元",
+    "summary_zh": "OpenAI正在进行一轮规模高达300亿美元的融资，采用创新的智能融资策略。此轮融资将用于支持其AI模型的持续研发、算力基础设施扩展以及全球市场布局。这一巨额融资反映了投资者对OpenAI在通用人工智能领域领先地位的强烈信心，同时也凸显了当前AI行业资本竞争的激烈程度。",
+    "category": "industry"
+  },
+  {
+    "id": "93ce94de1570646c7785e4cbd0dc502b",
+    "title_en": "Brookfield Renewable Targets AI Power Boom With Storage, Nuclear Expansion",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/85b081915852dafe",
+    "published_at": "2026-10-01T03:02:47Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "Brookfield Renewable瞄准AI电力需求热潮，扩展储能与核能业务",
+    "summary_zh": "Brookfield Renewable宣布将扩大储能和核能业务布局，以应对AI数据中心日益增长的电力需求。随着大模型训练和推理对算力的需求激增，电力供应成为AI产业发展的关键瓶颈。该公司计划通过多元化清洁能源组合，为AI基础设施提供稳定、可持续的电力支持，抢占AI能源市场的先机。",
+    "category": "industry"
+  },
+  {
+    "id": "59973accc811ee38f19f1109f86b6163",
+    "title_en": "A timeline of developments in AI safety since the attack on Hugging Face",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/articleshow/134606830.cms",
+    "published_at": "2026-10-01T02:57:14Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "Hugging Face遭攻击以来AI安全事件发展时间线",
+    "summary_zh": "自Hugging Face遭受网络攻击以来，AI安全领域发生了一系列重要事件。该时间线梳理了攻击事件后的关键发展，包括安全漏洞披露、行业应对措施、监管政策变化以及社区反应。这一系列事件凸显了开源AI平台面临的严峻安全挑战，也推动了业界对AI模型供应链安全和平台防护能力的重新审视。",
+    "category": "industry"
+  },
+  {
+    "id": "a58409b813ffcf5143967eb2fd1e8e14",
+    "title_en": "Meta wants people to use ‘AI agents’ to do daily tasks for them. Here’s why that’s a problem",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962",
+    "published_at": "2026-10-01T02:49:21Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "Meta希望人们用“AI代理”处理日常事务，但这里有个问题",
+    "summary_zh": "Meta推动用户使用AI代理来完成日常任务，但这一愿景面临多重问题。文章指出，AI代理在执行任务时涉及大量个人数据访问，存在隐私泄露风险；同时，代理的自主决策可能带来不可控的后果。此外，过度依赖AI代理可能削弱用户的自主能力，并引发关于责任归属和透明度的伦理争议。",
+    "category": "product"
+  },
+  {
+    "id": "c3f5160707e95507653d5655a570c58f",
+    "title_en": "Anthropic's IPO pitch embraces AI's promise and peril",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-pitch-embraces-ais-promise-and-peril/articleshow/134606713.cms",
+    "published_at": "2026-10-01T02:48:27Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "Anthropic的IPO推介拥抱AI的前景与风险",
+    "summary_zh": "Anthropic在IPO推介中同时强调AI的巨大潜力和潜在风险，展现出独特的市场定位策略。该公司试图在投资者面前平衡对AI技术前景的乐观展望与对安全问题的审慎态度。这一策略反映了AI公司在上市过程中面临的特殊挑战：既要展示商业增长潜力，又要回应公众和监管机构对AI安全的高度关注。",
+    "category": "industry"
+  },
+  {
+    "id": "c4dd7525d7b1a8ddf2f603c476b355ff",
+    "title_en": "Demand for AI chips fuels 83.5% surge in South Korean exports",
+    "source": "The Straits Times",
+    "url": "https://www.straitstimes.com/business/demand-for-ai-chips-fuels-83-5-surge-in-south-korean-exports",
+    "published_at": "2026-10-01T02:46:27Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "AI芯片需求推动韩国出口激增83.5%",
+    "summary_zh": "受全球AI芯片需求强劲增长的推动，韩国出口额同比激增83.5%。作为全球主要半导体制造基地，韩国在AI芯片供应链中占据关键地位。三星和SK海力士等企业的高带宽存储芯片（HBM）产品需求旺盛，成为出口增长的主要驱动力。这一数据凸显了AI产业对全球贸易格局的深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "ffc1ca42b9e3998e4d638a830f02230c",
+    "title_en": "OpenAI, Anthropic under ongoing FTC investigation over possible risks to consumers",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/c69bb0fb8bfdff85",
+    "published_at": "2026-10-01T02:32:02Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "OpenAI和Anthropic正接受FTC调查，涉及可能的消费者风险",
+    "summary_zh": "美国联邦贸易委员会（FTC）正在对OpenAI和Anthropic展开持续调查，关注其AI产品可能对消费者构成的风险。调查重点可能涉及数据隐私、误导性宣传、消费者权益保护等方面。此举表明美国监管机构正在加强对AI行业的审查力度，可能对未来AI产品的合规要求和行业标准产生深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "f9f676d6913c365416e66b24aee46f85",
+    "title_en": "AI training of copyrighted material not fair use: Third Circuit",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/fd926cb35a1fb9d7",
+    "published_at": "2026-10-01T02:31:44Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "第三巡回法院裁定：AI训练使用版权材料不构成合理使用",
+    "summary_zh": "美国第三巡回上诉法院作出重要裁决，认定使用版权材料训练AI模型不构成合理使用。这一判决对AI行业产生重大影响，可能迫使AI公司在训练数据获取方面面临更严格的法律约束。该裁决为版权持有人提供了更有力的法律保护，同时也引发了关于AI创新与知识产权保护之间平衡的广泛讨论。",
+    "category": "research"
+  },
+  {
+    "id": "f36c6f92bb3ad87865da26ba9521a999",
+    "title_en": "California governor Newsom signs laws to protect workers from AI risks",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/california-governor-signs-laws-to-protect-workers-from-ai-risks-126100100063_1.html",
+    "published_at": "2026-10-01T02:30:26Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "加州州长纽森签署法律保护工人免受AI风险",
+    "summary_zh": "加州州长纽森签署了一系列旨在保护工人免受AI相关风险的法律。新法规可能涵盖AI在招聘、监控、工作评估等环节的使用规范，要求雇主提高AI决策的透明度，防止算法歧视。加州作为美国科技产业中心，此举具有示范效应，可能推动其他州和联邦层面出台类似的AI劳动保护立法。",
+    "category": "industry"
+  },
+  {
+    "id": "2fafd2b003c0ca10ef3670375ece0e92",
+    "title_en": "Adani back at No. 1 with $112.7 billion; Ambani slips to second: What changed at India’s billionaire club",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/people/adani-back-at-no-1-with-112-7-billion-ambani-slips-to-second-what-changed-at-india-s-billionaire-club-11790818304572.html",
+    "published_at": "2026-10-01T02:19:23Z",
+    "fetched_at": "2026-10-02T03:12:36.106Z",
+    "title_zh": "阿达尼以1127亿美元重回印度首富宝座，安巴尼降至第二",
+    "summary_zh": "印度富豪榜发生变动，阿达尼以1127亿美元身家重回第一，安巴尼滑落至第二。这一变化反映了两人旗下企业在能源、基础设施和科技领域的不同表现。阿达尼集团近期在绿色能源和基础设施方面的扩张推动其财富增长，而安巴尼的信实集团则面临部分业务调整。此消彼长折射出印度经济格局的动态变化。",
+    "category": "industry"
   },
   {
     "id": "3209d4a492c4296ce632bc4701d90d37",
@@ -5366,137 +5498,5 @@
     "title_zh": "微软认为其新的Copilot“超级应用”将像Office一样具有影响力",
     "summary_zh": "据The Verge报道，微软对其新一代Copilot“超级应用”寄予厚望，认为其影响力将堪比Office。该应用整合了微软多项AI能力，旨在成为用户日常工作和生活的核心入口。微软的这一战略布局表明其正加速将AI融入全线产品生态，试图在AI助手市场中建立类似Office时代的统治地位，与谷歌、OpenAI等竞争对手展开激烈角逐。",
     "category": "product"
-  },
-  {
-    "id": "234e5f17b4db30cd04f68b9aecb77cc9",
-    "title_en": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
-    "published_at": "2026-09-25T11:32:17.000Z",
-    "fetched_at": "2026-09-25T16:10:17.513Z",
-    "title_zh": "特朗普政府试图让马斯克和X摆脱1.37亿欧元欧盟罚款",
-    "summary_zh": "特朗普政府正试图介入欧盟对马斯克旗下社交平台X的1.37亿欧元罚款案，为马斯克和X争取豁免。据悉，欧盟此前因X违反《数字服务法》相关规定而对其处以巨额罚款。特朗普政府的介入引发了关于政治干预和跨大西洋科技监管矛盾的广泛讨论。分析人士指出，此举可能加剧美欧在科技监管领域的紧张关系，并对全球数字治理格局产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "7699fdaad0d09cc18e942793e0c9cab2",
-    "title_en": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-laptops/",
-    "published_at": "2026-09-25T11:30:00.000Z",
-    "fetched_at": "2026-09-25T16:10:17.513Z",
-    "title_zh": "2026年最佳笔记本电脑：测试数百款后的我的首选推荐",
-    "summary_zh": "Wired编辑在测试了数百款笔记本电脑后，发布了2026年最佳笔记本推荐榜单。榜单涵盖了从高端商务本到性价比家用本的多个类别，综合考量了性能、续航、屏幕素质、便携性和价格等因素。编辑特别指出，2026年的笔记本市场在AI加速芯片和OLED屏幕普及方面取得显著进展，消费者有了更多优质选择。文章为不同需求的用户提供了针对性的购买建议。",
-    "category": "product"
-  },
-  {
-    "id": "40afe9c5f5c6ca4d530700768522f7cc",
-    "title_en": "Party Invite Phishing Scams Are the New Missed Connections",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
-    "published_at": "2026-09-25T11:00:00.000Z",
-    "fetched_at": "2026-09-25T16:10:17.513Z",
-    "title_zh": "派对邀请钓鱼诈骗成为新的“错过联系”",
-    "summary_zh": "近期出现一种新型钓鱼诈骗手法，攻击者伪装成派对邀请发送给目标用户，利用人们害怕错过社交活动的心理诱导点击恶意链接。这种手法被称为“新的错过联系”，类似于过去交友平台上的诈骗模式。安全专家提醒用户对未经请求的活动邀请保持警惕，不要轻易点击陌生链接或提供个人信息，并建议启用双因素认证以增强账户安全。",
-    "category": "industry"
-  },
-  {
-    "id": "cb66c5664b2bdfd679337581d8c504d6",
-    "title_en": "‘Primetime’ Exposes the Ego-Driven Core of Vigilante Pedophile Hunting",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/primetime-exposes-the-ego-driven-core-of-vigilante-pedophile-hunting/",
-    "published_at": "2026-09-25T10:45:00.000Z",
-    "fetched_at": "2026-09-25T10:50:53.280Z",
-    "title_zh": "《黄金时段》揭露义警式“猎童”行为背后的自负驱动",
-    "summary_zh": "Wired 报道了纪录片《黄金时段》对网络义警式“猎捕恋童癖”现象的深入剖析。影片揭示了这类行动往往由个人虚荣心和流量驱动，参与者通过设局诱捕并公开羞辱目标，却常忽视证据合法性与对真正受害者的保护。文章探讨了此类行为对司法程序的干扰、可能造成的误伤，以及社交媒体时代私刑正义与公共安全之间的复杂张力。",
-    "category": "industry"
-  },
-  {
-    "id": "ce7b550ee78136fb9320544289fc8d42",
-    "title_en": "How to Record Your Screen on Any Phone",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/how-to-record-your-screen-on-any-phone/",
-    "published_at": "2026-09-25T10:30:00.000Z",
-    "fetched_at": "2026-09-25T10:50:53.280Z",
-    "title_zh": "如何在任何手机上录制屏幕",
-    "summary_zh": "Wired 发布了一篇实用指南，介绍如何在 iPhone 和 Android 等不同手机上录制屏幕。文章详细说明了系统自带录屏功能的开启方式、音频录制选项、画质与存储设置，并推荐了适合进阶需求的第三方录屏应用。内容还涵盖常见问题排查，如录屏无声、文件过大等，适合需要制作教程、记录游戏或分享操作流程的用户参考。",
-    "category": "product"
-  },
-  {
-    "id": "49d991864185ae9719f7c75db63bfa76",
-    "title_en": "KuCoin Opens 20x Moonshot AI Pre-IPO Perpetual Trading",
-    "source": "Bitcoinist",
-    "url": "https://bitcoinist.com/kucoin-opens-20x-moonshot-ai-pre-ipo-perpetual-trading/",
-    "published_at": "2026-09-25T10:30:00Z",
-    "fetched_at": "2026-09-26T10:31:36.053Z",
-    "title_zh": "KuCoin上线Moonshot AI Pre-IPO永续合约，支持20倍杠杆",
-    "summary_zh": "Bitcoinist报道，加密货币交易所KuCoin推出了针对Moonshot AI的Pre-IPO永续合约交易，最高支持20倍杠杆。所谓Pre-IPO合约，是让用户在目标公司正式上市前对其估值进行投机交易的产品。Moonshot AI是近年来备受关注的人工智能公司，此举反映出加密市场与AI投资热潮的进一步融合。不过，此类高杠杆衍生品风险极高，价格波动剧烈，投资者需充分了解规则并谨慎参与。",
-    "category": "industry"
-  },
-  {
-    "id": "66839140cdaa24e60ced9ed574ae0f38",
-    "title_en": "Father of AI-doomer ideology Effective Altruism backed bestiality, said newborn baby worth less than a hog",
-    "source": "New York Post",
-    "url": "https://nypost.com/2026/09/25/us-news/father-of-ai-doomer-ideology-effective-altruism-backed-bestiality-said-newborn-baby-worth-less-than-a-hog/",
-    "published_at": "2026-09-25T10:30:00Z",
-    "fetched_at": "2026-09-26T10:31:36.053Z",
-    "title_zh": "AI末日论意识形态之父、有效利他主义创始人曾支持兽交，称新生儿不如一头猪",
-    "summary_zh": "纽约邮报报道称，有效利他主义（Effective Altruism）创始人、被视作AI末日论思想源头的人物，曾发表支持兽交的言论，并声称新生儿的价值低于一头猪。有效利他主义近年来在硅谷和AI安全领域影响巨大，多位知名AI研究者与投资人与其关系密切。该报道引发广泛争议，批评者认为其极端功利主义逻辑可能导向危险的价值判断，也让人重新审视AI安全运动中某些思想根基的伦理问题。",
-    "category": "industry"
-  },
-  {
-    "id": "772d92b7b36cf0a4fab6336bfe6d05aa",
-    "title_en": "Royals 'not starstruck' by PSG visit for AI summit",
-    "source": "BBC News",
-    "url": "https://www.bbc.com/sport/football/articles/cv62k9k2nwx2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "published_at": "2026-09-25T10:26:02Z",
-    "fetched_at": "2026-09-26T10:31:36.054Z",
-    "title_zh": "王室成员出席AI峰会，对巴黎圣日耳曼到访并不“追星”",
-    "summary_zh": "BBC新闻报道，英国王室成员在出席一场人工智能峰会期间，对到访的巴黎圣日耳曼足球俱乐部成员并未表现出“追星”般的热情。报道以轻松笔触描述了王室在AI峰会相关活动中的表现，凸显AI议题正成为政商名流汇聚的高规格场合。随着人工智能日益成为国际议程焦点，此类峰会不仅是技术交流平台，也成为各国展示软实力与外交互动的舞台。",
-    "category": "industry"
-  },
-  {
-    "id": "72133c733a0dfe934b4ebeb928d4b750",
-    "title_en": "In China, the Xi-Trump summit is seen as projecting image of the country's rise",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/in-china-the-xi-trump-summit-is-seen-as-projecting-image-of-the-countrys-rise/articleshow/134482029.cms",
-    "published_at": "2026-09-25T10:14:20Z",
-    "fetched_at": "2026-09-26T10:31:36.054Z",
-    "title_zh": "在中国，习特峰会被视为国家崛起的形象展示",
-    "summary_zh": "印度时报报道，中国国内将习近平与特朗普的峰会解读为展示国家崛起与国际地位的重要契机。文章分析称，此类高层会晤在中国舆论中被赋予强烈的象征意义，既体现中美关系的分量，也折射出中国对自身全球角色的定位。在中美科技竞争、AI与贸易议题交织的背景下，峰会的走向备受关注，其成果可能影响两国在关键技术领域的合作与博弈格局。",
-    "category": "industry"
-  },
-  {
-    "id": "a8aaee4982f171e4410f1e47d2323ad6",
-    "title_en": "Mistral Expands into Marketing Automation with €13 Million Pimento Acquisition - EU Startups News",
-    "source": "Eustartups.news",
-    "url": "https://eustartups.news/mistral-expands-into-marketing-automation-with-e13-million-pimento-acquisition/",
-    "published_at": "2026-09-25T10:12:26Z",
-    "fetched_at": "2026-09-26T10:31:36.054Z",
-    "title_zh": "Mistral以1300万欧元收购Pimento，进军营销自动化领域",
-    "summary_zh": "EU Startups News报道，法国AI公司Mistral以1300万欧元收购Pimento，正式拓展营销自动化业务。Mistral是欧洲最具代表性的大模型企业之一，此次收购显示其正从基础模型向垂直应用层延伸，寻求商业化落地。营销自动化结合生成式AI，可帮助企业自动生成文案、优化投放与客户互动。此举也反映出欧洲AI公司在本土市场加速整合，以应对来自美国和中国厂商的竞争压力。",
-    "category": "industry"
-  },
-  {
-    "id": "2f6dc46a4a22f43d14fc138b0c880f8e",
-    "title_en": "What book leaves philanthropist John Studzinski cold?",
-    "source": "Dailymail.com",
-    "url": "https://www.dailymail.com/home/books/article-16159923/What-book-leaves-philanthropist-John-Studzinski-cold.html",
-    "published_at": "2026-09-25T10:11:51Z",
-    "fetched_at": "2026-09-26T10:31:36.054Z",
-    "title_zh": "哪本书让慈善家约翰·斯图津斯基读不下去？",
-    "summary_zh": "每日邮报报道了一则轻松的访谈内容，慈善家约翰·斯图津斯基被问及哪本书让他“读不下去”。这类名人书单问答通常用于展现受访者的阅读品味与思想倾向。斯图津斯基长期活跃于艺术、慈善与商业领域，其阅读偏好也折射出他对社会议题的关注。虽然内容偏软性，但此类报道有助于公众了解科技与商业领袖在人文层面的兴趣与价值观。",
-    "category": "industry"
-  },
-  {
-    "id": "de81902d0d515e23a8f493f057c1d13c",
-    "title_en": "Vogel: „Helping shape this path fills me with pride and joy“",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/vogel-helping-shape-this-path-fills-me-with-pride-and-joy-43517973",
-    "published_at": "2026-09-25T10:10:00Z",
-    "fetched_at": "2026-09-26T10:31:36.054Z",
-    "title_zh": "沃格尔：“能参与塑造这条道路，让我充满自豪与喜悦”",
-    "summary_zh": "Onefootball报道了沃格尔的一段感言，他表示能够参与塑造某条发展道路让自己充满自豪与喜悦。由于原文信息有限，具体语境可能与体育管理、俱乐部建设或青训体系相关。这类表态通常出现在教练或管理者谈及长期规划时，强调过程与愿景的重要性。对于关注体育产业与组织治理的读者，此类发言反映了管理者的价值取向与领导风格。",
-    "category": "industry"
   }
 ]
