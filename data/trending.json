@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-03",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体技能框架与上下文优化，涵盖多平台搜索、token压缩、设计营销等工具。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体技能框架与上下文优化，涵盖多平台搜索、token压缩、设计营销等方向。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "stars_total": 151898,
+          "stars_total": 152278,
           "stars_today": 1435,
           "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码就是你从未写过的代码。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 274764,
+          "stars_total": 274984,
           "stars_today": 955,
           "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design language that makes your AI harness better at design.",
           "language": "JavaScript",
-          "stars_total": 74381,
+          "stars_total": 74601,
           "stars_today": 722,
           "description_zh": "让你的 AI 工具更擅长设计的设计语言。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/Panniantong/Agent-Reach",
           "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
           "language": "Python",
-          "stars_total": 88766,
+          "stars_total": 89298,
           "stars_today": 696,
           "description_zh": "让你的 AI 智能体拥有看遍整个互联网的眼睛。读取并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/mvschwarz/openrig",
           "description_en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
           "language": "TypeScript",
-          "stars_total": 4360,
+          "stars_total": 4558,
           "stars_today": 683,
           "description_zh": "用 Claude Code、Codex 和 Pi 构建你自己的智能体网络：具有角色、共享上下文和自有工作的持久团队。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/pablostanley/yoinks",
           "description_en": "yoink any video from your terminal. no shady ads.",
           "language": "TypeScript",
-          "stars_total": 3544,
+          "stars_total": 3685,
           "stars_today": 623,
           "description_zh": "从你的终端下载任何视频。没有可疑广告。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/NVIDIA/OpenShell",
           "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
           "language": "Rust",
-          "stars_total": 14456,
+          "stars_total": 14580,
           "stars_today": 594,
           "description_zh": "OpenShell 是面向自主 AI 智能体的安全、私密运行时。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description_en": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "stars_total": 55941,
+          "stars_total": 56095,
           "stars_today": 580,
           "description_zh": "编写 HTML。渲染视频。为智能体而生。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 294503,
+          "stars_total": 294665,
           "stars_today": 556,
           "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/mksglu/context-mode",
           "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "stars_total": 25057,
+          "stars_total": 25146,
           "stars_today": 282,
           "description_zh": "面向 AI 编程智能体的上下文窗口优化。沙箱化工具输出（减少 98%），持久化会话记忆，并通过 MCP + hooks 在 17 个平台上强制执行路由。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/JuliusBrussee/caveman",
           "description_en": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
           "language": "Go",
-          "stars_total": 109133,
+          "stars_total": 109285,
           "stars_today": 209,
           "description_zh": "🪨 为何用多词，少词能成事。病毒式技能 + 编程智能体代理，通过像原始人一样说话削减 65% 的 token。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/cursor/plugins",
           "description_en": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "stars_total": 9518,
+          "stars_total": 9584,
           "stars_today": 163,
           "description_zh": "Cursor 插件规范与官方插件"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/coreyhaines31/marketingskills",
           "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
           "language": "JavaScript",
-          "stars_total": 52440,
+          "stars_total": 52566,
           "stars_today": 140,
           "description_zh": "面向 Claude Code 和 AI 智能体的营销技能。CRO、文案写作、SEO、分析和增长工程。"
         },
@@ -140,7 +140,7 @@
           "url": "https://github.com/colbymchenry/codegraph",
           "description_en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
           "language": "C",
-          "stars_total": 72987,
+          "stars_total": 73081,
           "stars_today": 98,
           "description_zh": "预索引的代码知识图谱，代码变更时自动同步，适用于 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot 和 Hermes Agent——更少 token，更少工具调用，100% 本地"
         },
@@ -150,7 +150,7 @@
           "url": "https://github.com/Effect-TS/effect",
           "description_en": "Build production-ready applications in TypeScript",
           "language": "TypeScript",
-          "stars_total": 16576,
+          "stars_total": 16669,
           "stars_today": 80,
           "description_zh": "用 TypeScript 构建生产级应用"
         },
@@ -160,7 +160,7 @@
           "url": "https://github.com/google/skills",
           "description_en": "Agent Skills for Google products and technologies",
           "language": "Python",
-          "stars_total": 20769,
+          "stars_total": 20865,
           "stars_today": 39,
           "description_zh": "面向 Google 产品和技术的智能体技能"
         },
@@ -170,7 +170,7 @@
           "url": "https://github.com/getsentry/sentry",
           "description_en": "Developer-first error tracking and performance monitoring",
           "language": "Python",
-          "stars_total": 45047,
+          "stars_total": 45107,
           "stars_today": 16,
           "description_zh": "开发者优先的错误跟踪与性能监控"
         }
