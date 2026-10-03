@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-03",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体优化：提升编码代理性能、节省token、持久记忆与联网能力，强调高效开发与设计。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体工具链：优化性能、节省token、持久记忆与跨平台技能，让编码助手更高效聪明。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/Panniantong/Agent-Reach",
           "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
           "language": "Python",
-          "stars_total": 89501,
+          "stars_total": 89680,
           "stars_today": 1683,
           "description_zh": "让你的 AI 智能体拥有看遍整个互联网的眼睛。读取并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "stars_total": 152740,
+          "stars_total": 153159,
           "stars_today": 1289,
           "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码就是你从未写过的代码。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 271919,
+          "stars_total": 272126,
           "stars_today": 954,
           "description_zh": "智能体框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全以及研究优先的开发能力。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 275141,
+          "stars_total": 275286,
           "stars_today": 750,
           "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design language that makes your AI harness better at design.",
           "language": "JavaScript",
-          "stars_total": 74883,
+          "stars_total": 75143,
           "stars_today": 705,
           "description_zh": "让你的 AI 工具更擅长设计的设计语言。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 294765,
+          "stars_total": 294857,
           "stars_today": 578,
           "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/JuliusBrussee/caveman",
           "description_en": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
           "language": "Go",
-          "stars_total": 109386,
+          "stars_total": 109472,
           "stars_today": 505,
           "description_zh": "🪨 为何用多词，少词能成事。病毒式技能 + 编程智能体代理，通过像原始人一样说话削减 65% 的 token。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/earendil-works/pi",
           "description_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
           "language": "TypeScript",
-          "stars_total": 112023,
+          "stars_total": 112098,
           "stars_today": 408,
           "description_zh": "AI 智能体工具包：统一的 LLM API、智能体循环、TUI、编程智能体 CLI"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 100733,
+          "stars_total": 100797,
           "stars_today": 305,
           "description_zh": "面向 AI 编程智能体的生产级工程技能。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/Effect-TS/effect",
           "description_en": "Build production-ready applications in TypeScript",
           "language": "TypeScript",
-          "stars_total": 16722,
+          "stars_total": 16776,
           "stars_today": 302,
           "description_zh": "用 TypeScript 构建生产级应用"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/mksglu/context-mode",
           "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "stars_total": 25187,
+          "stars_total": 25218,
           "stars_today": 256,
           "description_zh": "面向 AI 编程智能体的上下文窗口优化。沙箱化工具输出（减少 98%），持久化会话记忆，并通过 MCP + hooks 在 17 个平台上强制执行路由。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 24485,
+          "stars_total": 24605,
           "stars_today": 251,
           "description_zh": ""
         },
@@ -130,49 +130,49 @@
           "url": "https://github.com/OpenCut-app/OpenCut",
           "description_en": "The open-source CapCut alternative",
           "language": "TypeScript",
-          "stars_total": 91428,
+          "stars_total": 91541,
           "stars_today": 234,
           "description_zh": "开源的 CapCut 替代方案"
         },
         {
           "rank": 14,
-          "name": "getsentry/sentry",
-          "url": "https://github.com/getsentry/sentry",
-          "description_en": "Developer-first error tracking and performance monitoring",
-          "language": "Python",
-          "stars_total": 45143,
-          "stars_today": 211,
-          "description_zh": "开发者优先的错误跟踪与性能监控"
-        },
-        {
-          "rank": 15,
-          "name": "jamwithai/production-agentic-rag-course",
-          "url": "https://github.com/jamwithai/production-agentic-rag-course",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 9322,
-          "stars_today": 192,
-          "description_zh": ""
-        },
-        {
-          "rank": 16,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "TypeScript",
-          "stars_total": 149096,
-          "stars_today": 127,
-          "description_zh": "Claude Code 是一款智能体编程工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码以及处理 git 工作流，帮助你更快地编写代码。"
-        },
-        {
-          "rank": 17,
           "name": "thedotmack/claude-mem",
           "url": "https://github.com/thedotmack/claude-mem",
           "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "stars_total": 95360,
-          "stars_today": 115,
+          "stars_total": 95489,
+          "stars_today": 218,
           "description_zh": "为每个智能体提供跨会话的持久上下文——捕获智能体在会话期间的所有操作，通过 AI 进行压缩，并将相关上下文注入到未来的会话中。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等更多工具。"
+        },
+        {
+          "rank": 15,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description_en": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars_total": 45181,
+          "stars_today": 211,
+          "description_zh": "开发者优先的错误跟踪与性能监控"
+        },
+        {
+          "rank": 16,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 9374,
+          "stars_today": 192,
+          "description_zh": ""
+        },
+        {
+          "rank": 17,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars_total": 149168,
+          "stars_today": 127,
+          "description_zh": "Claude Code 是一款智能体编程工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码以及处理 git 工作流，帮助你更快地编写代码。"
         },
         {
           "rank": 18,
@@ -180,7 +180,7 @@
           "url": "https://github.com/cloudflare/cloudflare-os",
           "description_en": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
           "language": "TypeScript",
-          "stars_total": 10454,
+          "stars_total": 10522,
           "stars_today": 84,
           "description_zh": "基于 Cloudflare Workers 构建的智能体工作空间，可结合贵公司的上下文和系统来创建文档、构建应用以及运行智能体。"
         },
@@ -190,7 +190,7 @@
           "url": "https://github.com/meituan-longcat/LongCat-Video",
           "description_en": "",
           "language": "Python",
-          "stars_total": 8650,
+          "stars_total": 8705,
           "stars_today": 43,
           "description_zh": ""
         }
