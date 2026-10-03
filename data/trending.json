@@ -1,6 +1,182 @@
 {
   "days": [
     {
+      "date": "2026-10-03",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体技能框架与上下文优化，涵盖多平台搜索、token压缩、设计营销等工具。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars_total": 151898,
+          "stars_today": 1435,
+          "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码就是你从未写过的代码。"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 274764,
+          "stars_today": 955,
+          "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
+        },
+        {
+          "rank": 3,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars_total": 74381,
+          "stars_today": 722,
+          "description_zh": "让你的 AI 工具更擅长设计的设计语言。"
+        },
+        {
+          "rank": 4,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 88766,
+          "stars_today": 696,
+          "description_zh": "让你的 AI 智能体拥有看遍整个互联网的眼睛。读取并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
+        },
+        {
+          "rank": 5,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description_en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars_total": 4360,
+          "stars_today": 683,
+          "description_zh": "用 Claude Code、Codex 和 Pi 构建你自己的智能体网络：具有角色、共享上下文和自有工作的持久团队。"
+        },
+        {
+          "rank": 6,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description_en": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars_total": 3544,
+          "stars_today": 623,
+          "description_zh": "从你的终端下载任何视频。没有可疑广告。"
+        },
+        {
+          "rank": 7,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars_total": 14456,
+          "stars_today": 594,
+          "description_zh": "OpenShell 是面向自主 AI 智能体的安全、私密运行时。"
+        },
+        {
+          "rank": 8,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description_en": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars_total": 55941,
+          "stars_today": 580,
+          "description_zh": "编写 HTML。渲染视频。为智能体而生。"
+        },
+        {
+          "rank": 9,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 294503,
+          "stars_today": 556,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 10,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 25057,
+          "stars_today": 282,
+          "description_zh": "面向 AI 编程智能体的上下文窗口优化。沙箱化工具输出（减少 98%），持久化会话记忆，并通过 MCP + hooks 在 17 个平台上强制执行路由。"
+        },
+        {
+          "rank": 11,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+          "language": "Go",
+          "stars_total": 109133,
+          "stars_today": 209,
+          "description_zh": "🪨 为何用多词，少词能成事。病毒式技能 + 编程智能体代理，通过像原始人一样说话削减 65% 的 token。"
+        },
+        {
+          "rank": 12,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description_en": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars_total": 9518,
+          "stars_today": 163,
+          "description_zh": "Cursor 插件规范与官方插件"
+        },
+        {
+          "rank": 13,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "language": "JavaScript",
+          "stars_total": 52440,
+          "stars_today": 140,
+          "description_zh": "面向 Claude Code 和 AI 智能体的营销技能。CRO、文案写作、SEO、分析和增长工程。"
+        },
+        {
+          "rank": 14,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description_en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "language": "C",
+          "stars_total": 72987,
+          "stars_today": 98,
+          "description_zh": "预索引的代码知识图谱，代码变更时自动同步，适用于 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot 和 Hermes Agent——更少 token，更少工具调用，100% 本地"
+        },
+        {
+          "rank": 15,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description_en": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars_total": 16576,
+          "stars_today": 80,
+          "description_zh": "用 TypeScript 构建生产级应用"
+        },
+        {
+          "rank": 16,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description_en": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars_total": 20769,
+          "stars_today": 39,
+          "description_zh": "面向 Google 产品和技术的智能体技能"
+        },
+        {
+          "rank": 17,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description_en": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars_total": 45047,
+          "stars_today": 16,
+          "description_zh": "开发者优先的错误跟踪与性能监控"
+        }
+      ]
+    },
+    {
       "date": "2026-10-02",
       "summary_zh": "今日GitHub热榜聚焦AI智能体技能框架与效率优化：Agent-Reach让智能体联网搜索，caveman省65%token，NVIDIA OpenShell提供安全运行时，还有设计、营销、视频等垂直技能。",
       "projects": [
@@ -4601,202 +4777,6 @@
           "stars_total": 2526,
           "stars_today": 55,
           "description_zh": "Miles是一个面向企业的强化学习框架，用于LLM和VLM的后训练，源自slime并与之共同演进。"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "summary_zh": "今日GitHub热门聚焦AI智能体生态：技能系统、效率优化与人性化写作成主流，同时涵盖格式化库、视频下载及时间序列预测模型。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "DietrichGebert/ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "language": "JavaScript",
-          "stars_total": 123242,
-          "stars_today": 2138,
-          "description_zh": "让你的AI代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未写过的代码。"
-        },
-        {
-          "rank": 2,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 16076,
-          "stars_today": 1738,
-          "description_zh": "VoiceStudio是开源的、完全本地的ElevenLabs替代品——支持语音克隆、语音设计、视频配音、听写、转录和有声书创作，覆盖646种语言。"
-        },
-        {
-          "rank": 3,
-          "name": "google-research/timesfm",
-          "url": "https://github.com/google-research/timesfm",
-          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-          "language": "Python",
-          "stars_total": 30656,
-          "stars_today": 1626,
-          "description_zh": "TimesFM（时间序列基础模型）是由谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。"
-        },
-        {
-          "rank": 4,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 247090,
-          "stars_today": 1576,
-          "description_zh": "面向真正工程师的技能。直接来自我的.agents目录。"
-        },
-        {
-          "rank": 5,
-          "name": "blader/humanizer",
-          "url": "https://github.com/blader/humanizer",
-          "description_en": "Agent skill that removes signs of AI-generated writing from text",
-          "language": "Python",
-          "stars_total": 41356,
-          "stars_today": 1214,
-          "description_zh": "从文本中去除AI生成痕迹的代理技能"
-        },
-        {
-          "rank": 6,
-          "name": "fmtlib/fmt",
-          "url": "https://github.com/fmtlib/fmt",
-          "description_en": "A modern formatting library",
-          "language": "C++",
-          "stars_total": 24995,
-          "stars_today": 955,
-          "description_zh": "一个现代的格式化库"
-        },
-        {
-          "rank": 7,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 240751,
-          "stars_today": 778,
-          "description_zh": "与你共同成长的代理"
-        },
-        {
-          "rank": 8,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 247014,
-          "stars_today": 749,
-          "description_zh": "代理框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发支持。"
-        },
-        {
-          "rank": 9,
-          "name": "JuliusBrussee/caveman",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-          "language": "Go",
-          "stars_total": 103035,
-          "stars_today": 545,
-          "description_zh": "🪨 为什么用很多token，当很少token就能搞定——Claude Code技能，通过像穴居人一样说话削减65%的token"
-        },
-        {
-          "rank": 10,
-          "name": "bannedbook/fanqiang",
-          "url": "https://github.com/bannedbook/fanqiang",
-          "description_en": "翻墙-科学上网",
-          "language": "Kotlin",
-          "stars_total": 52106,
-          "stars_today": 539,
-          "description_zh": "翻墙-科学上网"
-        },
-        {
-          "rank": 11,
-          "name": "Imbad0202/academic-research-skills",
-          "url": "https://github.com/Imbad0202/academic-research-skills",
-          "description_en": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-          "language": "Python",
-          "stars_total": 45960,
-          "stars_today": 498,
-          "description_zh": "面向Claude Code的学术研究技能：研究→写作→审阅→修改→定稿"
-        },
-        {
-          "rank": 12,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 281273,
-          "stars_today": 470,
-          "description_zh": "一套有效的代理技能框架和软件开发方法论。"
-        },
-        {
-          "rank": 13,
-          "name": "Gitlawb/openclaude",
-          "url": "https://github.com/Gitlawb/openclaude",
-          "description_en": "runs anywhere. uses anything",
-          "language": "TypeScript",
-          "stars_total": 32297,
-          "stars_today": 453,
-          "description_zh": "随处运行。使用任何东西"
-        },
-        {
-          "rank": 14,
-          "name": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description_en": "Public repository for Agent Skills",
-          "language": "Python",
-          "stars_total": 173580,
-          "stars_today": 277,
-          "description_zh": "Agent技能公开仓库"
-        },
-        {
-          "rank": 15,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 91986,
-          "stars_today": 260,
-          "description_zh": "面向AI编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 16,
-          "name": "f/prompts.chat",
-          "url": "https://github.com/f/prompts.chat",
-          "description_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-          "language": "HTML",
-          "stars_total": 168902,
-          "stars_today": 201,
-          "description_zh": "原名Awesome ChatGPT Prompts。分享、发现和收集社区提示词。免费开源——可自托管，完全保护隐私。"
-        },
-        {
-          "rank": 17,
-          "name": "ByteByteGoHq/system-design-101",
-          "url": "https://github.com/ByteByteGoHq/system-design-101",
-          "description_en": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-          "language": "",
-          "stars_total": 88271,
-          "stars_today": 158,
-          "description_zh": "使用视觉和简单术语解释复杂系统。帮助您准备系统设计面试。"
-        },
-        {
-          "rank": 18,
-          "name": "magnitudedev/magnitude",
-          "url": "https://github.com/magnitudedev/magnitude",
-          "description_en": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-          "language": "TypeScript",
-          "stars_total": 1894,
-          "stars_today": 130,
-          "description_zh": "开源推理服务器，为您的硬件运行最佳本地模型，并接入您已使用的代理。兼容Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi和Cline。"
-        },
-        {
-          "rank": 19,
-          "name": "averygan/reclip",
-          "url": "https://github.com/averygan/reclip",
-          "description_en": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-          "language": "HTML",
-          "stars_total": 8307,
-          "stars_today": 123,
-          "description_zh": "从几乎所有网站下载视频。轻量级、自托管的媒体下载器，具有简洁的Web界面。"
         }
       ]
     }
