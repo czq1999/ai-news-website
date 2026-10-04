@@ -1,6 +1,202 @@
 {
   "days": [
     {
+      "date": "2026-10-04",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体优化：记忆持久化、技能增强、token压缩与性能提升，让编码助手更高效智能。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 89922,
+          "stars_today": 1696,
+          "description_zh": "为你的 AI 智能体装上看见整个互联网的眼睛。阅读并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
+        },
+        {
+          "rank": 2,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars_total": 153557,
+          "stars_today": 1281,
+          "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码就是你从未写过的代码。"
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 272315,
+          "stars_today": 897,
+          "description_zh": "智能体工具性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全性和研究优先的开发能力。"
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 275417,
+          "stars_today": 751,
+          "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
+        },
+        {
+          "rank": 5,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars_total": 75406,
+          "stars_today": 699,
+          "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 294944,
+          "stars_today": 577,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+          "language": "Go",
+          "stars_total": 109564,
+          "stars_today": 507,
+          "description_zh": "🪨 能用少量 token 解决，何必用大量 token。爆火的技能 + 编码智能体代理，通过像原始人一样说话节省 65% 的 token。"
+        },
+        {
+          "rank": 8,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars_total": 112192,
+          "stars_today": 408,
+          "description_zh": "AI 智能体工具包：统一的 LLM API、智能体循环、TUI、编码智能体 CLI"
+        },
+        {
+          "rank": 9,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description_en": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars_total": 16847,
+          "stars_today": 302,
+          "description_zh": "使用 TypeScript 构建生产级应用"
+        },
+        {
+          "rank": 10,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 25264,
+          "stars_today": 256,
+          "description_zh": "面向 AI 编码智能体的上下文窗口优化。对工具输出进行沙箱隔离（减少 98%），持久化会话记忆，并通过 MCP + hooks 在 17 个平台上强制执行路由。"
+        },
+        {
+          "rank": 11,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description_en": "",
+          "language": "TypeScript",
+          "stars_total": 24733,
+          "stars_today": 252,
+          "description_zh": ""
+        },
+        {
+          "rank": 12,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 100880,
+          "stars_today": 252,
+          "description_zh": "面向 AI 编码智能体的生产级工程技能。"
+        },
+        {
+          "rank": 13,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description_en": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars_total": 91657,
+          "stars_today": 232,
+          "description_zh": "开源的 CapCut 替代品"
+        },
+        {
+          "rank": 14,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description_en": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars_total": 45220,
+          "stars_today": 214,
+          "description_zh": "开发者优先的错误追踪与性能监控"
+        },
+        {
+          "rank": 15,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 9420,
+          "stars_today": 193,
+          "description_zh": ""
+        },
+        {
+          "rank": 16,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars_total": 149244,
+          "stars_today": 128,
+          "description_zh": "Claude Code 是一款智能体编码工具，驻留在你的终端中，理解你的代码库，并通过执行日常任务、解释复杂代码和处理 git 工作流帮助你更快地编码——一切都通过自然语言命令完成。"
+        },
+        {
+          "rank": 17,
+          "name": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "description_en": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+          "language": "TypeScript",
+          "stars_total": 10599,
+          "stars_today": 85,
+          "description_zh": "基于 Cloudflare Workers 构建的智能体工作空间，可利用你公司的上下文和系统创建文档、构建应用并运行智能体。"
+        },
+        {
+          "rank": 18,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars_total": 95642,
+          "stars_today": 79,
+          "description_zh": "为每个智能体提供跨会话的持久上下文——捕获智能体在会话期间所做的一切，用 AI 压缩，并将相关上下文注入未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
+        },
+        {
+          "rank": 19,
+          "name": "meituan-longcat/LongCat-Video",
+          "url": "https://github.com/meituan-longcat/LongCat-Video",
+          "description_en": "",
+          "language": "Python",
+          "stars_total": 8783,
+          "stars_today": 44,
+          "description_zh": ""
+        }
+      ]
+    },
+    {
       "date": "2026-10-03",
       "summary_zh": "今日GitHub热榜聚焦AI智能体工具链：优化性能、节省token、持久记忆与跨平台技能，让编码助手更高效聪明。",
       "projects": [
@@ -4621,182 +4817,6 @@
           "stars_total": 2803,
           "stars_today": 50,
           "description_zh": "一系列开源、浏览器内运行且无需注册的工具列表！"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "summary_zh": "今日GitHub热门聚焦AI代理技能优化，涵盖代码精简、token节省、写作人性化及安全研究，同时包含格式化库与本地推理服务器等基础设施工具。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 250029,
-          "stars_today": 2757,
-          "description_zh": "真正工程师的技能。直接来自我的.agents目录。"
-        },
-        {
-          "rank": 2,
-          "name": "DietrichGebert/ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "language": "JavaScript",
-          "stars_total": 125460,
-          "stars_today": 1683,
-          "description_zh": "让你的AI智能体像房间里最懒的高级开发人员一样思考。最好的代码是你从未写过的代码。"
-        },
-        {
-          "rank": 3,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 17684,
-          "stars_today": 1345,
-          "description_zh": "VoiceStudio是开源的、完全本地的ElevenLabs替代品——支持646种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。"
-        },
-        {
-          "rank": 4,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 248299,
-          "stars_today": 1139,
-          "description_zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全性和研究优先的开发。"
-        },
-        {
-          "rank": 5,
-          "name": "blader/humanizer",
-          "url": "https://github.com/blader/humanizer",
-          "description_en": "Agent skill that removes signs of AI-generated writing from text",
-          "language": "Python",
-          "stars_total": 42564,
-          "stars_today": 1132,
-          "description_zh": "从文本中去除AI生成痕迹的智能体技能"
-        },
-        {
-          "rank": 6,
-          "name": "clshortfuse/renodx",
-          "url": "https://github.com/clshortfuse/renodx",
-          "description_en": "Renovation Engine for DirectX Games",
-          "language": "HLSL",
-          "stars_total": 3496,
-          "stars_today": 759,
-          "description_zh": "DirectX游戏改造引擎"
-        },
-        {
-          "rank": 7,
-          "name": "bannedbook/fanqiang",
-          "url": "https://github.com/bannedbook/fanqiang",
-          "description_en": "翻墙-科学上网",
-          "language": "Kotlin",
-          "stars_total": 52741,
-          "stars_today": 735,
-          "description_zh": "翻墙-科学上网"
-        },
-        {
-          "rank": 8,
-          "name": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "description_en": "The agent that grows with you",
-          "language": "Python",
-          "stars_total": 241396,
-          "stars_today": 721,
-          "description_zh": "与你一同成长的智能体"
-        },
-        {
-          "rank": 9,
-          "name": "fmtlib/fmt",
-          "url": "https://github.com/fmtlib/fmt",
-          "description_en": "A modern formatting library",
-          "language": "C++",
-          "stars_total": 25444,
-          "stars_today": 681,
-          "description_zh": "一个现代的格式化库"
-        },
-        {
-          "rank": 10,
-          "name": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description_en": "Public repository for Agent Skills",
-          "language": "Python",
-          "stars_total": 174059,
-          "stars_today": 512,
-          "description_zh": "Agent技能的公共仓库"
-        },
-        {
-          "rank": 11,
-          "name": "JuliusBrussee/caveman",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "description_en": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-          "language": "Go",
-          "stars_total": 103514,
-          "stars_today": 503,
-          "description_zh": "🪨 为什么用很多词，当几个词就能搞定——Claude Code技能，通过像穴居人一样说话减少65%的令牌"
-        },
-        {
-          "rank": 12,
-          "name": "cathrynlavery/diagram-design",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "description_en": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-          "language": "HTML",
-          "stars_total": 30825,
-          "stars_today": 426,
-          "description_zh": "适用于Claude Code、Codex和Pi的38种编辑类图表类型。自包含HTML+SVG。无阴影，无Mermaid垃圾。"
-        },
-        {
-          "rank": 13,
-          "name": "magnitudedev/magnitude",
-          "url": "https://github.com/magnitudedev/magnitude",
-          "description_en": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-          "language": "TypeScript",
-          "stars_total": 2343,
-          "stars_today": 395,
-          "description_zh": "开源推理服务器，为你的硬件运行最佳本地模型，并接入你已使用的智能体。兼容Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi和Cline。"
-        },
-        {
-          "rank": 14,
-          "name": "google-research/timesfm",
-          "url": "https://github.com/google-research/timesfm",
-          "description_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-          "language": "Python",
-          "stars_total": 30993,
-          "stars_today": 340,
-          "description_zh": "TimesFM（时间序列基础模型）是由Google Research开发的预训练时间序列基础模型，用于时间序列预测。"
-        },
-        {
-          "rank": 15,
-          "name": "anomalyco/opencode",
-          "url": "https://github.com/anomalyco/opencode",
-          "description_en": "The open source coding agent.",
-          "language": "TypeScript",
-          "stars_total": 204009,
-          "stars_today": 314,
-          "description_zh": "开源编码代理。"
-        },
-        {
-          "rank": 16,
-          "name": "bikini/exploitarium",
-          "url": "https://github.com/bikini/exploitarium",
-          "description_en": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-          "language": "Python",
-          "stars_total": 4475,
-          "stars_today": 68,
-          "description_zh": "一个包含公开漏洞利用PoC和漏洞研究文章的综合存档。在我发布这些内容时，它们都尚未被报告。欢迎你自己报告并领取CVE功劳（如果有的话）。请不要滥用这些内容。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
-        },
-        {
-          "rank": 17,
-          "name": "radixark/miles",
-          "url": "https://github.com/radixark/miles",
-          "description_en": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
-          "language": "Python",
-          "stars_total": 2526,
-          "stars_today": 55,
-          "description_zh": "Miles是一个面向企业的强化学习框架，用于LLM和VLM的后训练，源自slime并与之共同演进。"
         }
       ]
     }
