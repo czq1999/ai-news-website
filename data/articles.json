@@ -1,5 +1,60 @@
 [
   {
+    "id": "1e6af35be336888f49e9033f3f78bbaf",
+    "title_en": "Jaguar Finally Reveals Its Biggest Gamble: the Type 01",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/",
+    "published_at": "2026-10-07T00:00:00.000Z",
+    "fetched_at": "2026-10-07T03:23:25.204Z",
+    "title_zh": "捷豹终于揭晓其最大赌注：Type 01",
+    "summary_zh": "捷豹正式发布Type 01，标志着这个英国豪华品牌迄今为止最大胆的转型尝试。作为品牌重塑战略的核心产品，Type 01承载着捷豹向纯电动豪华品牌全面转型的重任。这款车型在设计语言、技术平台和市场定位上都与捷豹过去的产品截然不同，被视为品牌能否在激烈竞争中存活的关键一搏。业界对其市场表现高度关注。",
+    "category": "product"
+  },
+  {
+    "id": "9edaf582bfe592c50620436c71d54676",
+    "title_en": "OpenAI drops another batch of mathematical breakthroughs",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "published_at": "2026-10-06T23:26:38.000Z",
+    "fetched_at": "2026-10-07T03:23:24.934Z",
+    "title_zh": "OpenAI再发一批数学领域重大突破",
+    "summary_zh": "OpenAI宣布在数学推理领域取得新一轮重大突破，展示了其AI模型在复杂数学问题求解方面的显著进步。这些成果涵盖高级定理证明和抽象数学推理等前沿方向，进一步推动了AI在科学研究中的应用潜力。OpenAI表示，这些突破有望加速数学发现进程，并为AI辅助科研开辟新路径，引发学术界和产业界广泛关注。",
+    "category": "llm"
+  },
+  {
+    "id": "d336c8deb68d57ca5ed9b6f0e11d8b8a",
+    "title_en": "You Probably Aren’t Going to Get the Plague",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/what-we-know-about-plague-russia/",
+    "published_at": "2026-10-06T23:09:20.000Z",
+    "fetched_at": "2026-10-07T03:23:25.204Z",
+    "title_zh": "你大概率不会感染鼠疫",
+    "summary_zh": "针对近期公众对鼠疫传播的担忧，文章从流行病学角度进行了科学解读。鼠疫虽然历史上曾造成大规模死亡，但在现代医疗条件和公共卫生体系下，普通人感染的概率极低。文章解释了鼠疫的传播途径、易感人群以及现代抗生素治疗的有效性，旨在消除不必要的恐慌，同时提醒高风险地区人群保持必要的防护意识。",
+    "category": "research"
+  },
+  {
+    "id": "89a85dfbcb888ff6616a539842b93dd6",
+    "title_en": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "published_at": "2026-10-06T22:34:03.000Z",
+    "fetched_at": "2026-10-07T03:23:24.831Z",
+    "title_zh": "前Ramp工程师放弃首款产品后，为新平台Melius融资2000万美元",
+    "summary_zh": "前Ramp工程师团队在放弃首个产品后，成功为其新平台Melius筹集了2000万美元资金。Melius定位为企业财务自动化平台，利用AI技术帮助企业优化支出管理和财务流程。创始团队凭借在Ramp积累的金融科技经验，迅速获得投资者青睐。此次融资将用于产品研发和团队扩张，标志着该团队在经历首次创业挫折后的成功转型。",
+    "category": "industry"
+  },
+  {
+    "id": "4daddad0803b3f3702fc7ebdaffb1052",
+    "title_en": "Xbox has secured exclusive GTA 6 streaming rights",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+    "published_at": "2026-10-06T22:12:27.000Z",
+    "fetched_at": "2026-10-07T03:23:24.934Z",
+    "title_zh": "Xbox获得《GTA 6》独家流媒体播放权",
+    "summary_zh": "Xbox宣布已获得《GTA 6》的独家流媒体播放权，这意味着玩家将能通过Xbox平台率先体验这款备受期待的游戏大作。此举被视为微软在云游戏和订阅服务领域的重要战略布局，旨在通过独占热门内容吸引更多用户加入Xbox生态。分析人士认为，这可能引发游戏行业流媒体版权竞争的新一轮升级。",
+    "category": "industry"
+  },
+  {
     "id": "1b68c0b1046b3035f49192f6081da67b",
     "title_en": "The best robot vacuum and mop deals during October Prime Day",
     "source": "The Verge",
@@ -845,6 +900,105 @@
     "title_zh": "Sportsman's Warehouse 优惠码：2026 年 10 月省钱攻略",
     "summary_zh": "Wired 整理了 Sportsman's Warehouse 在 2026 年 10 月可用的优惠码信息，帮助户外运动爱好者以更优惠的价格购买露营、狩猎、钓鱼等装备。文章提供最新有效的促销代码和折扣信息，方便消费者在购物时节省开支。",
     "category": "product"
+  },
+  {
+    "id": "5e2f1104e0b6b8155133d89a76d91830",
+    "title_en": "'Reckless' AI firms can't control models, says whistleblower",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/reckless-ai-firms-cant-control-models-says-whistleblower/articleshow/134722009.cms",
+    "published_at": "2026-10-06T03:22:46Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "举报人称\"鲁莽\"的AI公司无法控制模型",
+    "summary_zh": "一位举报人公开指控部分AI公司行事\"鲁莽\"，缺乏对自身AI模型的有效控制能力。该举报人指出，这些公司在追求技术突破和商业利益的过程中，忽视了安全防护措施，导致模型可能被滥用或产生不可预测的行为。这一指控再次引发业界对AI安全治理和监管力度的讨论，呼吁建立更严格的行业标准和问责机制。",
+    "category": "industry"
+  },
+  {
+    "id": "ecc4972dc71c2aa3abd1d80a1440ce42",
+    "title_en": "中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張",
+    "source": "Livedoor.com",
+    "url": "https://news.livedoor.com/article/detail/32499333/",
+    "published_at": "2026-10-06T03:06:00Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "Reflection发布5010亿参数开源模型Beam，对标中国开源AI",
+    "summary_zh": "为对抗中国开源AI模型的竞争力，Reflection公司发布了拥有5010亿参数的开源模型Beam。该模型据称性能可媲美GLM 5.2，但计算量仅为其三到四分之一，在AI智能体任务上则可与Qwen3.8-Max比肩。这一发布反映出全球开源大模型竞争日趋白热化，各厂商正通过提升参数效率和降低计算成本来争夺开发者生态。",
+    "category": "llm"
+  },
+  {
+    "id": "a477ade732691f844bb077dcadc14f56",
+    "title_en": "South Korea's Lee says AI appears to have been used in bank hacks",
+    "source": "CNA",
+    "url": "https://www.channelnewsasia.com/east-asia/south-korea-ai-bank-hanks-data-breach-6434861",
+    "published_at": "2026-10-06T03:02:33Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "韩国总统李在明称AI疑似被用于银行黑客攻击",
+    "summary_zh": "韩国总统李在明表示，AI技术似乎已被用于针对银行的网络黑客攻击。这一表态引发了对AI被恶意利用于金融犯罪的严重关切。随着AI能力的快速提升，攻击者可能利用其自动化生成钓鱼内容、绕过安全检测或加速漏洞挖掘。韩国政府预计将加强金融领域的AI安全防护和监管措施，以应对日益复杂的网络威胁。",
+    "category": "industry"
+  },
+  {
+    "id": "34efa3b05f4301a78421f3cf8b86a74b",
+    "title_en": "Guadalajara and their academy stars outclassed América in Oakland",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/guadalajara-and-their-academy-stars-outclassed-america-in-oakland-43566832",
+    "published_at": "2026-10-06T03:00:00Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "瓜达拉哈拉及其青训新星在奥克兰完胜美洲队",
+    "summary_zh": "在奥克兰举行的一场比赛中，瓜达拉哈拉队凭借青训体系培养的年轻球员的出色表现，全面压制美洲队取得胜利。这场比赛展现了瓜达拉哈拉青训 academy 的深厚底蕴，多名年轻球员在攻防两端均有亮眼发挥。美洲队全场未能找到有效应对策略，最终遭遇一场完败。",
+    "category": "industry"
+  },
+  {
+    "id": "28ce150f1345c2ca7ef86a0b31607c0c",
+    "title_en": "Andrew Garfield On Playing Sam Altman, A Charismatic Leader Sucking Up “Our Autonomy, Power And Data” — NYFF",
+    "source": "Deadline",
+    "url": "http://deadline.com/2026/10/artificial-star-andrew-garfield-on-playing-sam-altman-1237147012/",
+    "published_at": "2026-10-06T02:55:53Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "安德鲁·加菲尔德谈饰演山姆·奥特曼：一个吞噬\"自主权、权力和数据\"的魅力领袖",
+    "summary_zh": "在纽约电影节上，演员安德鲁·加菲尔德分享了在影片《Artificial》中饰演OpenAI CEO山姆·奥特曼的体会。他形容奥特曼是一个极具魅力的领导者，但其影响力正在侵蚀\"我们的自主权、权力和数据\"。加菲尔德表示，这一角色让他深入思考了AI行业领袖所掌握的巨大权力及其对社会的影响，以及科技巨头在塑造AI未来中的角色。",
+    "category": "industry"
+  },
+  {
+    "id": "2915e974c85c324bd779763be75c9193",
+    "title_en": "Almost half of Albertans turning to side hustles amid financial, AI job concerns: MNP report",
+    "source": "CBC News",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-financial-report-side-hustle-ai-9.7370047",
+    "published_at": "2026-10-06T02:50:46Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "MNP报告：近半数阿尔伯塔人因财务和AI就业担忧转向副业",
+    "summary_zh": "MNP最新报告显示，近半数阿尔伯塔省居民正在从事副业，主要原因是财务压力和对AI冲击就业的担忧。随着AI技术加速渗透各行业，许多劳动者担心现有岗位可能被自动化取代，因此通过副业增加收入来源和职业安全感。这一趋势反映出AI对劳动力市场的心理和实际影响正在加深，也凸显了社会对职业转型支持的迫切需求。",
+    "category": "industry"
+  },
+  {
+    "id": "04a7e808fc9a746f87bf964e08ec7180",
+    "title_en": "Why AI is changing everything",
+    "source": "The Naked Scientists",
+    "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/why-ai-changing-everything",
+    "published_at": "2026-10-06T02:50:26Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "为什么AI正在改变一切",
+    "summary_zh": "文章探讨了AI技术为何正在深刻改变各行各业和社会生活。从医疗诊断、科学研究到教育、创意产业，AI的应用正在重塑传统工作流程和商业模式。文章分析了推动这一变革的核心技术因素，包括大模型能力的跃升、算力成本的下降以及数据资源的丰富。同时也讨论了AI带来的伦理、就业和监管挑战，强调社会需要积极适应这一变革浪潮。",
+    "category": "llm"
+  },
+  {
+    "id": "dea9b049af253c95c4a94fe69f9358fb",
+    "title_en": "Carlinha and Tayla celebrate Brasileirão A1 title and chance with Brazil",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/carlinha-and-tayla-celebrate-brasileirao-a1-title-and-chance-with-brazil-43566815",
+    "published_at": "2026-10-06T02:44:00Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "卡尔利尼亚和泰拉庆祝巴西A1联赛夺冠并入选巴西国家队",
+    "summary_zh": "球员卡尔利尼亚和泰拉在帮助球队夺得巴西A1联赛冠军后，又迎来了入选巴西国家队的喜讯。两人在赛季中的出色表现为球队夺冠立下汗马功劳，也赢得了国家队教练组的认可。她们在庆祝活动中表达了对俱乐部、队友和球迷的感谢，并表示将全力以赴为国家队效力，争取在国际赛场上再创佳绩。",
+    "category": "industry"
+  },
+  {
+    "id": "7acd065ea42b27e59d37f1087a2812fe",
+    "title_en": "Andrew Garfield Says OpenAI’s Sam Altman Seemed ‘F—ing Great Before Playing Him in ‘Artificial’: And Then You Learn More About a Person’",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/",
+    "published_at": "2026-10-06T02:39:46Z",
+    "fetched_at": "2026-10-07T03:23:25.634Z",
+    "title_zh": "安德鲁·加菲尔德称OpenAI的山姆·奥特曼在饰演前\"棒极了\"，但了解越多越复杂",
+    "summary_zh": "安德鲁·加菲尔德在宣传新片《Artificial》时表示，OpenAI CEO山姆·奥特曼在饰演他之前给人的印象\"棒极了\"，但随着对角色的深入了解，他对奥特曼的看法变得更加复杂。加菲尔德坦言，研究一个真实人物的过程让他看到了公众形象背后更丰富的面向，也让他对AI行业领导者的权力和责任有了更深的思考。",
+    "category": "industry"
   },
   {
     "id": "a2b98cad80f6c5b531d60eaa8f1d25af",
@@ -5344,159 +5498,5 @@
     "title_zh": "Meta否认Muse未经许可读取用户私信的说法",
     "summary_zh": "Meta就其AI智能体Muse被指未经授权读取用户私信一事作出回应，否认相关指控。此前有用户反映Muse似乎访问了其私人消息内容，引发隐私担忧。Meta表示该AI功能的设计符合隐私政策，并未越权获取用户数据。这一争议再次将AI助手的数据访问权限和用户隐私保护问题推上风口浪尖，业界对AI智能体在社交平台上的权限边界持续关注。",
     "category": "industry"
-  },
-  {
-    "id": "f42146285f0a9262f581caee18d8fca3",
-    "title_en": "DoorDash launches an AI agent you can text to order food",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "published_at": "2026-09-30T16:00:24.000Z",
-    "fetched_at": "2026-09-30T17:15:53.960Z",
-    "title_zh": "DoorDash推出可通过短信下单的AI智能体",
-    "summary_zh": "外卖平台DoorDash正式推出一款AI智能体，用户只需发送短信即可完成点餐。该功能旨在简化订餐流程，让用户通过自然语言对话快速下单，无需打开App逐项操作。这标志着DoorDash在AI驱动用户体验方面迈出重要一步，也反映出外卖和本地生活服务行业正加速拥抱对话式AI技术，以提升用户粘性和运营效率。",
-    "category": "product"
-  },
-  {
-    "id": "bb43f3592ab3e0541c4607e4031cfc91",
-    "title_en": "Destro AI’s secret sauce is getting robots and humans on the same page",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "published_at": "2026-09-30T16:00:00.000Z",
-    "fetched_at": "2026-09-30T17:15:53.961Z",
-    "title_zh": "Destro AI的秘诀：让机器人与人类达成共识",
-    "summary_zh": "Destro AI正在探索让机器人与人类高效协作的核心技术。该公司的独特方法在于构建机器人与人类之间的共同理解框架，使双方能够在同一认知层面上协同工作。这一技术有望应用于制造、物流等需要人机协作的场景，解决长期以来机器人难以理解人类意图、人类难以预测机器人行为的痛点，推动人机协作进入新阶段。",
-    "category": "product"
-  },
-  {
-    "id": "81aca531dbce48c0114ab088b16740e6",
-    "title_en": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
-    "published_at": "2026-09-30T16:00:00.000Z",
-    "fetched_at": "2026-09-30T17:15:54.114Z",
-    "title_zh": "Halide相机应用现已支持完全控制iPhone 18 Pro光圈",
-    "summary_zh": "知名专业相机应用Halide更新后，支持对iPhone 18 Pro光圈的完全手动控制。这意味着用户可以根据拍摄需求精确调整景深和进光量，获得更专业的摄影体验。iPhone 18 Pro的可变光圈硬件结合Halide的软件控制能力，为移动摄影带来接近专业相机的操控自由度。此举进一步巩固了Halide在iOS专业摄影应用领域的领先地位。",
-    "category": "product"
-  },
-  {
-    "id": "83bee5984e7f1dc71275663b5fa67c5d",
-    "title_en": "Instinct’s new product recommendations are giving some users the ick",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-    "published_at": "2026-09-30T15:56:28.000Z",
-    "fetched_at": "2026-09-30T17:15:53.961Z",
-    "title_zh": "Instinct的新产品推荐让部分用户感到不适",
-    "summary_zh": "Instinct推出的AI产品推荐功能引发部分用户反感。一些用户反馈该推荐系统过于精准或带有侵入感，令人产生不适。这反映出AI个性化推荐在提升转化率的同时，也可能触碰用户的心理舒适边界。如何在精准推荐与用户体验之间取得平衡，已成为AI产品设计者面临的重要课题，过度个性化可能适得其反，损害品牌信任。",
-    "category": "product"
-  },
-  {
-    "id": "44aebdaabbbf244ddb899389aeed160e",
-    "title_en": "All the latest news on Meta’s cute, creepy Muse AI agent",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-    "published_at": "2026-09-30T15:18:49.000Z",
-    "fetched_at": "2026-09-30T17:15:54.114Z",
-    "title_zh": "Meta可爱又诡异的Muse AI智能体最新动态汇总",
-    "summary_zh": "Meta推出的Muse AI智能体因其可爱又略带诡异的风格引发广泛关注。该智能体在社交媒体上展现出独特的交互方式，既有令人喜爱的个性化表现，也因隐私和边界问题引发争议。本文汇总了关于Muse的最新报道，包括用户反馈、隐私争议以及Meta的回应。Muse的案例折射出AI智能体在社交场景中面临的用户体验与伦理挑战。",
-    "category": "product"
-  },
-  {
-    "id": "338faf7edf9e9825e4cb2810eda372b4",
-    "title_en": "Google reportedly tests paying publishers for AI search results",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-    "published_at": "2026-09-30T14:51:49.000Z",
-    "fetched_at": "2026-09-30T17:15:54.114Z",
-    "title_zh": "谷歌据报测试向出版商付费获取AI搜索结果内容",
-    "summary_zh": "据报道，谷歌正在测试向出版商付费以获取用于AI搜索结果的内容。这一举措可能标志着谷歌在AI搜索时代与内容创作者关系的重要转变。随着AI生成摘要和搜索结果减少了对传统网站流量的导流，出版商对内容被无偿使用的担忧日益加剧。谷歌此举或旨在建立更公平的内容生态，缓解与新闻媒体和内容方的紧张关系，同时确保AI搜索质量。",
-    "category": "industry"
-  },
-  {
-    "id": "8a9158266be21a0f155055472190110f",
-    "title_en": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "published_at": "2026-09-30T14:30:00.000Z",
-    "fetched_at": "2026-09-30T17:15:53.961Z",
-    "title_zh": "Cerebras Systems的Andrew Feldman将在TechCrunch Disrupt 2026探讨AI能否持续扩展",
-    "summary_zh": "Cerebras Systems首席执行官Andrew Feldman将在TechCrunch Disrupt 2026大会上发表演讲，探讨AI算力能否持续扩展这一行业核心议题。Cerebras以其超大晶圆级芯片闻名，在AI训练和推理领域具有独特技术路线。随着大模型规模不断膨胀，算力瓶颈和成本问题日益突出，Feldman的观点将为业界提供关于AI扩展性未来的重要参考。",
-    "category": "industry"
-  },
-  {
-    "id": "99fba4b37980fcc536e18cf7a9686e6b",
-    "title_en": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-    "published_at": "2026-09-30T14:30:00.000Z",
-    "fetched_at": "2026-09-30T17:15:54.114Z",
-    "title_zh": "Instagram新增AI“助手”指导用户如何发帖",
-    "summary_zh": "Instagram正在加入AI助手功能，帮助用户优化发帖策略。该AI助手能够根据用户的内容和目标受众，提供关于发布时间、文案撰写、标签选择等方面的建议，旨在降低创作门槛并提升互动效果。这一功能反映出社交平台正加速将AI融入内容创作流程，帮助普通用户产出更具吸引力的内容，同时也加剧了平台间AI辅助创作工具的竞争。",
-    "category": "product"
-  },
-  {
-    "id": "4dc70186d75b6c126595f0a34788fc5e",
-    "title_en": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
-    "published_at": "2026-09-30T14:30:00.000Z",
-    "fetched_at": "2026-09-30T17:15:54.330Z",
-    "title_zh": "一位生物技术创始人从道德角度为编辑人类胚胎基因辩护",
-    "summary_zh": "一位生物技术公司创始人在公开场合提出，从道德层面而言，编辑人类胚胎基因以预防严重遗传疾病是正当的。他认为，拒绝这项技术反而会让患病儿童承受不必要的痛苦。此番言论再次引发关于基因编辑伦理边界的激烈争论，尤其是在贺建奎事件后，科学界对此仍高度警惕。",
-    "category": "research"
-  },
-  {
-    "id": "ad005d71323af9dca41892117ba0df64",
-    "title_en": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "published_at": "2026-09-30T14:27:11.000Z",
-    "fetched_at": "2026-09-30T17:15:53.961Z",
-    "title_zh": "Restate获2000万美元融资，AI智能体推动持久化基础设施需求增长",
-    "summary_zh": "初创公司Restate完成2000万美元融资，专注于为AI智能体提供持久化基础设施。随着AI智能体在各行业的广泛应用，其对状态管理、任务持久性和可靠执行的需求日益迫切。Restate的技术旨在解决AI智能体在长时间运行和复杂工作流中的稳定性问题，本轮融资将用于加速产品开发和市场拓展，反映出AI基础设施赛道持续升温。",
-    "category": "industry"
-  },
-  {
-    "id": "2defde460150d18cc01f089c1a1fdb6e",
-    "title_en": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-    "published_at": "2026-09-30T14:15:00.000Z",
-    "fetched_at": "2026-09-30T17:15:53.961Z",
-    "title_zh": "TechCrunch Disrupt 2026参展仅剩3天：将曝光度转化为下一个机遇",
-    "summary_zh": "TechCrunch Disrupt 2026大会参展报名仅剩3天，主办方呼吁创业公司和科技企业抓住机会，将展会曝光度转化为商业机遇。作为全球最具影响力的科技盛会之一，Disrupt汇聚了众多投资人、行业领袖和创新企业，是展示产品、拓展人脉和获取融资的重要平台。对于AI领域的初创公司而言，这是不可错过的行业曝光窗口。",
-    "category": "industry"
-  },
-  {
-    "id": "0307492ea5c61645d9ef0e146f8b5009",
-    "title_en": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
-    "published_at": "2026-09-30T13:00:16.000Z",
-    "fetched_at": "2026-09-30T17:15:54.114Z",
-    "title_zh": "亚马逊新款 Fire TV Stick 4K 可直接从电视获取电力",
-    "summary_zh": "亚马逊发布了新款 Fire TV Stick 4K 流媒体设备，其最大亮点是可直接通过电视的 USB 接口供电，无需额外电源适配器，简化了安装和使用体验。该设备支持 4K 分辨率、杜比视界和杜比全景声，并搭载升级后的处理器以提升运行速度。此举旨在进一步巩固亚马逊在流媒体硬件市场的竞争力，与 Roku、Google 等品牌展开角逐。",
-    "category": "product"
-  },
-  {
-    "id": "4c573f5911d061474091a2ffb46a43b5",
-    "title_en": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
-    "published_at": "2026-09-30T13:00:00.000Z",
-    "fetched_at": "2026-09-30T17:15:54.114Z",
-    "title_zh": "Sonos Ace Ultra 是 Sonos 早该推出的耳机",
-    "summary_zh": "Sonos 推出了新款 Ace Ultra 头戴式耳机，被评价为该公司真正应该在第一代就交出的产品。Ace Ultra 在音质、降噪和佩戴舒适度上均有显著提升，并优化了与 Sonos 生态系统的联动体验。此前 Sonos 因 App 问题和产品策略失误而声誉受损，这款耳机被视为其重振旗鼓的重要一步，有望在高端耳机市场与索尼、Bose 等品牌竞争。",
-    "category": "product"
-  },
-  {
-    "id": "3ba3b0a5b5332cd7ec45fc47dcf8167e",
-    "title_en": "Potato by air",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
-    "published_at": "2026-09-30T13:00:00.000Z",
-    "fetched_at": "2026-09-30T17:15:54.114Z",
-    "title_zh": "空中土豆",
-    "summary_zh": "该文章标题为“空中土豆”，内容可能涉及某种以土豆为载体的创意科技项目或趣味实验，例如利用无人机运送土豆、土豆发电等。由于标题较为模糊，具体内容需结合原文判断。此类报道通常以轻松视角呈现科技与日常生活的有趣结合，吸引读者关注非传统科技话题。",
-    "category": "product"
   }
 ]
