@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-07",
-      "summary_zh": "今日GitHub热榜聚焦AI编码代理生态：代理技能、持久记忆、终端工具与逆向工程等基础设施百花齐放。",
+      "summary_zh": "今日GitHub热榜聚焦AI编码代理生态：代理技能、持久记忆、终端工具与调试器成热点。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/morluto/rea",
           "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars_total": 11668,
+          "stars_total": 14620,
           "stars_today": 4666,
           "description_zh": "用智能体逆向工程任何东西，从应用行为到原生二进制文件。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/boykopovar/AnyPS5",
           "description_en": "Tool for automatic PS5 executables porting to Linux and Windows",
           "language": "C++",
-          "stars_total": 8309,
+          "stars_total": 10264,
           "stars_today": 2725,
           "description_zh": "用于将 PS5 可执行文件自动移植到 Linux 和 Windows 的工具"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/DuarteSantos8/openGym",
           "description_en": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
           "language": "JavaScript",
-          "stars_total": 6376,
+          "stars_total": 6812,
           "stars_today": 1494,
           "description_zh": "自托管的健身房与自重训练追踪器——规划训练计划、记录锻炼（超级组、热身、有氧），查看哪些肌肉被训练、疲劳或退化，从 FitNotes/Strong/Hevy 导入，支持通行密钥登录。你的数据，你的服务器。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 278839,
+          "stars_total": 279496,
           "stars_today": 1406,
           "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/tester-army/e2e",
           "description_en": "Next generation e2e testing framework for web and mobile apps.",
           "language": "TypeScript",
-          "stars_total": 6929,
+          "stars_total": 7352,
           "stars_today": 1391,
           "description_zh": "面向 Web 和移动应用的下一代端到端测试框架。"
         },
@@ -60,29 +60,29 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "stars_total": 44462,
+          "stars_total": 44904,
           "stars_today": 828,
           "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Factory Droid 和 Pi 的编辑级图表设计。42 种图表类型。自包含 HTML + SVG。无阴影。无 Mermaid 粗制滥造。"
         },
         {
           "rank": 7,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 102747,
+          "stars_today": 693,
+          "description_zh": "面向 AI 编码代理的生产级工程技能。"
+        },
+        {
+          "rank": 8,
           "name": "ayghri/i-have-adhd",
           "url": "https://github.com/ayghri/i-have-adhd",
           "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
           "language": "Python",
-          "stars_total": 54717,
+          "stars_total": 55053,
           "stars_today": 620,
           "description_zh": "一项让编码智能体不再把答案埋没的技能。适合 ADHD 的输出方式。"
-        },
-        {
-          "rank": 8,
-          "name": "thedotmack/claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-          "language": "TypeScript",
-          "stars_total": 97423,
-          "stars_today": 578,
-          "description_zh": "为每个智能体提供跨会话的持久上下文——捕捉智能体在会话期间所做的一切，用 AI 压缩，并将相关上下文注入未来的会话中。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等更多工具"
         },
         {
           "rank": 9,
@@ -90,19 +90,19 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 25619,
-          "stars_today": 538,
+          "stars_total": 25989,
+          "stars_today": 617,
           "description_zh": "一项编码代理技能，用于执行多阶段安全审计，并提供经过独立验证、机器可读的发现结果"
         },
         {
           "rank": 10,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 102361,
-          "stars_today": 453,
-          "description_zh": "面向 AI 编码代理的生产级工程技能。"
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars_total": 97670,
+          "stars_today": 578,
+          "description_zh": "为每个智能体提供跨会话的持久上下文——捕捉智能体在会话期间所做的一切，用 AI 压缩，并将相关上下文注入未来的会话中。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等更多工具"
         },
         {
           "rank": 11,
@@ -110,29 +110,29 @@
           "url": "https://github.com/trycua/cua",
           "description_en": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
           "language": "Rust",
-          "stars_total": 28569,
+          "stars_total": 28713,
           "stars_today": 229,
           "description_zh": "通过开源驱动、跨操作系统集群以及用于训练、评估和数据生成的基准测试，扩展 computer-use 2.0。"
         },
         {
           "rank": 12,
-          "name": "EpicGames/raddebugger",
-          "url": "https://github.com/EpicGames/raddebugger",
-          "description_en": "A native, user-mode, multi-process, graphical debugger.",
-          "language": "C",
-          "stars_total": 7710,
-          "stars_today": 82,
-          "description_zh": "一款原生、用户态、多进程的图形化调试器。"
-        },
-        {
-          "rank": 13,
           "name": "manaflow-ai/cmux",
           "url": "https://github.com/manaflow-ai/cmux",
           "description_en": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
           "language": "Swift",
-          "stars_total": 27706,
-          "stars_today": 50,
+          "stars_total": 27819,
+          "stars_today": 96,
           "description_zh": "基于 Ghostty 的开源 macOS 终端，支持垂直标签页和面向 AI 编码代理的通知。专为多任务处理、组织管理和可编程性而打造。"
+        },
+        {
+          "rank": 13,
+          "name": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "description_en": "A native, user-mode, multi-process, graphical debugger.",
+          "language": "C",
+          "stars_total": 7837,
+          "stars_today": 82,
+          "description_zh": "一款原生、用户态、多进程的图形化调试器。"
         }
       ]
     },
