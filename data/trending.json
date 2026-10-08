@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-08",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude Code技能插件、跨会话记忆、逆向工程工具涌现，同时PS5移植、调试器与系统设计笔记受关注。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude记忆持久化、技能插件、逆向工程与图表设计工具百花齐放，同时PS5移植、调试器等硬核开发项目亮眼。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/morluto/rea",
           "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars_total": 19409,
+          "stars_total": 25104,
           "stars_today": 7744,
           "description_zh": "使用智能体逆向工程任何事物，从应用行为到原生二进制文件。"
         },
@@ -20,29 +20,29 @@
           "url": "https://github.com/boykopovar/AnyPS5",
           "description_en": "Tool for automatic PS5 executables porting to Linux and Windows",
           "language": "C++",
-          "stars_total": 12954,
+          "stars_total": 15314,
           "stars_today": 4640,
           "description_zh": "将 PS5 可执行文件自动移植到 Linux 和 Windows 的工具"
         },
         {
           "rank": 3,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 280577,
-          "stars_today": 1770,
-          "description_zh": "为真正的工程师打造的技能。直接来自我的 .agents 目录。"
-        },
-        {
-          "rank": 4,
           "name": "storytold/artcraft",
           "url": "https://github.com/storytold/artcraft",
           "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
           "language": "Rust",
-          "stars_total": 6087,
-          "stars_today": 1465,
+          "stars_total": 7701,
+          "stars_today": 2510,
           "description_zh": "ArtCraft 是一款专为艺术家、设计师和电影制作人打造的精心设计的创作引擎"
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 280991,
+          "stars_today": 1770,
+          "description_zh": "为真正的工程师打造的技能。直接来自我的 .agents 目录。"
         },
         {
           "rank": 5,
@@ -50,39 +50,39 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "stars_total": 45611,
+          "stars_total": 46231,
           "stars_today": 1163,
           "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Factory Droid 和 Pi 的编辑级图表设计。42 种图表类型。自包含 HTML + SVG。无阴影。无 Mermaid 劣质图。"
         },
         {
           "rank": 6,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 27271,
-          "stars_today": 766,
-          "description_zh": "面向知识工作者的开源插件仓库，主要供其在 Claude Cowork 中使用"
-        },
-        {
-          "rank": 7,
           "name": "thedotmack/claude-mem",
           "url": "https://github.com/thedotmack/claude-mem",
           "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "stars_total": 98085,
+          "stars_total": 98401,
           "stars_today": 662,
           "description_zh": "为每个智能体提供跨会话的持久上下文——捕获你的智能体在会话期间所做的一切，用 AI 压缩，并将相关上下文注入未来的会话。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "liquidslr/system-design-notes",
           "url": "https://github.com/liquidslr/system-design-notes",
           "description_en": "Notes of the book System Desgin Interview - An Insider's Guide",
           "language": "",
-          "stars_total": 24204,
+          "stars_total": 24560,
           "stars_today": 398,
           "description_zh": "《系统设计面试：内幕指南》一书的笔记"
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars_total": 27482,
+          "stars_today": 309,
+          "description_zh": "面向知识工作者的开源插件仓库，主要供其在 Claude Cowork 中使用"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/EpicGames/raddebugger",
           "description_en": "A native, user-mode, multi-process, graphical debugger.",
           "language": "C",
-          "stars_total": 7983,
+          "stars_total": 8089,
           "stars_today": 283,
           "description_zh": "一个原生、用户态、多进程的图形化调试器。"
         }
