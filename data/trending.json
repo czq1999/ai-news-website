@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-09",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：跨会话记忆、技能插件、逆向工程工具涌现，同时系统设计与调试器等基础工具受关注。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体技能与工程化：逆向工程、代码审查、LLM网关及3D重建等工具涌现，强调生产级实用性与多模型兼容。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/morluto/rea",
           "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars_total": 28893,
-          "stars_today": 7738,
+          "stars_total": 35139,
+          "stars_today": 15335,
           "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
         },
         {
@@ -20,8 +20,8 @@
           "url": "https://github.com/boykopovar/AnyPS5",
           "description_en": "Tool for automatic PS5 executables porting to Linux and Windows",
           "language": "C++",
-          "stars_total": 16346,
-          "stars_today": 4669,
+          "stars_total": 18908,
+          "stars_today": 5925,
           "description_zh": "用于将 PS5 可执行文件自动移植到 Linux 和 Windows 的工具"
         },
         {
@@ -30,69 +30,89 @@
           "url": "https://github.com/storytold/artcraft",
           "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
           "language": "Rust",
-          "stars_total": 8390,
-          "stars_today": 2103,
+          "stars_total": 9767,
+          "stars_today": 3723,
           "description_zh": "ArtCraft 是面向艺术家、设计师和电影制作人的有意创作引擎"
         },
         {
           "rank": 4,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 281301,
-          "stars_today": 1774,
-          "description_zh": "面向真正工程师的技能。直接来自我的 .agents 目录。"
-        },
-        {
-          "rank": 5,
           "name": "cathrynlavery/diagram-design",
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "stars_total": 46616,
-          "stars_today": 1160,
+          "stars_total": 47325,
+          "stars_today": 1744,
           "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Factory Droid 和 Pi 的编辑级图表设计。42 种图表类型。自包含 HTML + SVG。无阴影。无 Mermaid 劣质效果。"
         },
         {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 281974,
+          "stars_today": 1696,
+          "description_zh": "面向真正工程师的技能。直接来自我的 .agents 目录。"
+        },
+        {
           "rank": 6,
-          "name": "thedotmack/claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-          "language": "TypeScript",
-          "stars_total": 98603,
-          "stars_today": 670,
-          "description_zh": "为每个智能体提供跨会话的持久上下文——捕获智能体在会话期间所做的一切，用 AI 压缩，并将相关上下文注入未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 及更多"
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 103629,
+          "stars_today": 751,
+          "description_zh": "面向 AI 编码代理的生产级工程技能。"
         },
         {
           "rank": 7,
-          "name": "liquidslr/system-design-notes",
-          "url": "https://github.com/liquidslr/system-design-notes",
-          "description_en": "Notes of the book System Desgin Interview - An Insider's Guide",
-          "language": "",
-          "stars_total": 24778,
-          "stars_today": 393,
-          "description_zh": "《系统设计面试——内幕指南》一书的笔记"
-        },
-        {
-          "rank": 8,
           "name": "anthropics/knowledge-work-plugins",
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 27716,
-          "stars_today": 392,
+          "stars_total": 27974,
+          "stars_today": 714,
           "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
         },
         {
+          "rank": 8,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 44822,
+          "stars_today": 323,
+          "description_zh": "安全、快速、高效，经阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+        },
+        {
           "rank": 9,
-          "name": "EpicGames/raddebugger",
-          "url": "https://github.com/EpicGames/raddebugger",
-          "description_en": "A native, user-mode, multi-process, graphical debugger.",
-          "language": "C",
-          "stars_total": 8153,
-          "stars_today": 279,
-          "description_zh": "一个原生、用户态、多进程的图形化调试器。"
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description_en": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+          "language": "Python",
+          "stars_total": 17535,
+          "stars_today": 109,
+          "description_zh": "[ECCV 2026 最佳论文奖候选] LingBot-Map：用于流式 3D 重建的几何上下文 Transformer"
+        },
+        {
+          "rank": 10,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description_en": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+          "language": "Python",
+          "stars_total": 60459,
+          "stars_today": 95,
+          "description_zh": "最快、最轻量的 AI 网关。Rust 核心搭配 Python SDK。以 OpenAI（或原生）格式调用 100+ LLM API，支持成本追踪、护栏、负载均衡和日志记录 [Bedrock、Azure、OpenAI、Anthropic、OpenAI、VertexAI、vLLM、Nvidia NIM]"
+        },
+        {
+          "rank": 11,
+          "name": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "description_en": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+          "language": "",
+          "stars_total": 5224,
+          "stars_today": 88,
+          "description_zh": "适用于 Claude Code、Codex 及其他 AI 工具的 SwiftUI 代理技能。"
         }
       ]
     },
