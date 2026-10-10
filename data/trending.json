@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-10",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体工具链：逆向工程、上下文优化、技能库及设计引擎涌现，Flutter、TensorFlow等经典框架持续活跃。",
+      "summary_zh": "今日趋势聚焦AI智能体工具链：逆向工程、上下文优化、技能库及PPT生成等Agent应用爆发，Flutter、TensorFlow等经典框架持续热门。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/morluto/rea",
           "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars_total": 60167,
+          "stars_total": 65753,
           "stars_today": 25784,
           "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/boykopovar/AnyPS5",
           "description_en": "Tool for automatic PS5 executables porting to Linux and Windows",
           "language": "C++",
-          "stars_total": 24349,
+          "stars_total": 25481,
           "stars_today": 5831,
           "description_zh": "将 PS5 可执行文件自动移植到 Linux 和 Windows 的工具"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/storytold/artcraft",
           "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
           "language": "Rust",
-          "stars_total": 12850,
+          "stars_total": 13534,
           "stars_today": 3217,
           "description_zh": "ArtCraft 是面向艺术家、设计师和电影制作人的专注创作引擎"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 283589,
+          "stars_total": 283999,
           "stars_today": 1737,
           "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "stars_total": 48445,
+          "stars_total": 48651,
           "stars_today": 1189,
           "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Factory Droid 和 Pi 的编辑级图表设计。42 种图表类型。自包含 HTML + SVG。无阴影。无 Mermaid 劣质产物。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 28569,
+          "stars_total": 28656,
           "stars_today": 626,
           "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
         },
@@ -70,8 +70,8 @@
           "url": "https://github.com/hugohe3/ppt-master",
           "description_en": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
           "language": "Python",
-          "stars_total": 58968,
-          "stars_today": 372,
+          "stars_total": 59187,
+          "stars_today": 515,
           "description_zh": "AI 将文档或主题转化为真正的原生 PowerPoint 演示文稿——具备原生形状、切换和动画，按需生成数据驱动的图表和表格，根据演讲者备注生成音频旁白，并支持你自己的 .pptx 模板。· 作者 Hugo He"
         },
         {
@@ -80,7 +80,7 @@
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 217854,
+          "stars_total": 218005,
           "stars_today": 279,
           "description_zh": "一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编程陷阱的观察。"
         },
@@ -90,39 +90,39 @@
           "url": "https://github.com/mksglu/context-mode",
           "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "stars_total": 26039,
+          "stars_total": 26147,
           "stars_today": 178,
           "description_zh": "面向 AI 编程代理的上下文窗口优化。通过 MCP + hooks 对工具输出进行沙箱隔离（减少 98%），持久化会话记忆，并在 17 个平台上强制执行路由。"
         },
         {
           "rank": 10,
-          "name": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-          "language": "Python",
-          "stars_total": 166981,
-          "stars_today": 94,
-          "description_zh": "🤗 Transformers：面向文本、视觉、音频和多模态领域最先进机器学习模型的模型定义框架，支持推理和训练。"
-        },
-        {
-          "rank": 11,
-          "name": "pytorch/pytorch",
-          "url": "https://github.com/pytorch/pytorch",
-          "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-          "language": "Python",
-          "stars_total": 104025,
-          "stars_today": 81,
-          "description_zh": "Python 中的张量与动态神经网络，具备强大的 GPU 加速能力"
-        },
-        {
-          "rank": 12,
           "name": "flutter/flutter",
           "url": "https://github.com/flutter/flutter",
           "description_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
           "language": "Dart",
-          "stars_total": 179278,
-          "stars_today": 39,
+          "stars_total": 179362,
+          "stars_today": 164,
           "description_zh": "Flutter 让构建精美的移动端及其他平台应用变得简单快捷"
+        },
+        {
+          "rank": 11,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "language": "Python",
+          "stars_total": 167089,
+          "stars_today": 94,
+          "description_zh": "🤗 Transformers：面向文本、视觉、音频和多模态领域最先进机器学习模型的模型定义框架，支持推理和训练。"
+        },
+        {
+          "rank": 12,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars_total": 104071,
+          "stars_today": 81,
+          "description_zh": "Python 中的张量与动态神经网络，具备强大的 GPU 加速能力"
         },
         {
           "rank": 13,
@@ -130,7 +130,7 @@
           "url": "https://github.com/tensorflow/tensorflow",
           "description_en": "An Open Source Machine Learning Framework for Everyone",
           "language": "C++",
-          "stars_total": 200588,
+          "stars_total": 200645,
           "stars_today": 24,
           "description_zh": "面向所有人的开源机器学习框架"
         }
