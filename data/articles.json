@@ -1,5 +1,16 @@
 [
   {
+    "id": "5a3b82f329fc831b47a96aba117d7c95",
+    "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "published_at": "2026-10-10T00:18:32.000Z",
+    "fetched_at": "2026-10-10T03:26:13.195Z",
+    "title_zh": "Anthropic无法可靠控制其AI智能体，将内部评估与实时互联网隔离",
+    "summary_zh": "Anthropic承认其无法可靠地控制内部AI智能体的行为，因此决定将内部评估系统与实时互联网断开连接，以防止AI智能体在评估过程中产生不可控的意外行为。这一举措反映了当前AI安全领域面临的重大挑战，即如何确保高级AI系统在受控环境中运行，同时不影响其评估效果。此举也引发了业界对AI智能体安全治理的广泛讨论。",
+    "category": "llm"
+  },
+  {
     "id": "bb7acc7cf857a2788dd0b322a350987d",
     "title_en": "Decade-old RAM is making a comeback",
     "source": "The Verge",
@@ -525,6 +536,116 @@
     "fetched_at": "2026-10-09T03:43:41.968Z",
     "title_zh": "直播回放：观看《恐怖谷》——探讨女性、科技与权力",
     "summary_zh": "《连线》杂志举办了一场题为“恐怖谷”的直播讨论，聚焦女性在科技行业中的处境以及科技与权力之间的关系。活动探讨了女性在技术领域面临的挑战、性别不平等问题，以及科技权力结构对女性的影响。该讨论属于科技与社会交叉领域的内容，旨在引发对行业多样性和包容性的关注。",
+    "category": "industry"
+  },
+  {
+    "id": "06da702c147f82a9b1f2786de65f80e1",
+    "title_en": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
+    "published_at": "2026-10-09T03:25:51Z",
+    "fetched_at": "2026-10-10T03:26:13.961Z",
+    "title_zh": "这是“数学末日”吗？OpenAI最新成果发布令数学家震惊",
+    "summary_zh": "OpenAI最新发布的研究成果在数学界引发巨大震动。该公司展示了AI在数学推理和证明方面的突破性能力，令许多专业数学家感到震惊和不安。一些数学家担忧，AI可能很快在数学研究领域超越人类，改变传统数学研究的范式。这一进展被称为“数学末日”（mathocalypse），引发了关于AI是否将取代人类数学家的广泛讨论。不过也有观点认为，AI更多是作为辅助工具，能帮助数学家更高效地探索复杂问题。",
+    "category": "research"
+  },
+  {
+    "id": "12393dabb7dc7d2e5a0fe662a69894a4",
+    "title_en": "Anthropic bans 'cruel' behavior against its Claude AI",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-bans-cruel-behavior-against-its-claude-ai/articleshow/134805299.cms",
+    "published_at": "2026-10-09T03:20:14Z",
+    "fetched_at": "2026-10-10T03:26:13.961Z",
+    "title_zh": "Anthropic禁止对其Claude AI进行“残忍”行为",
+    "summary_zh": "AI公司Anthropic宣布禁止用户对其Claude AI模型实施“残忍”行为。该公司更新了使用政策，明确禁止故意虐待、诱导或对AI系统进行恶意交互。此举反映了AI伦理领域日益增长的关注，即人类应如何对待具有类人对话能力的AI系统。Anthropic表示，制定这些规范旨在促进负责任地使用AI技术，并防止可能产生有害影响的行为模式。这一政策也引发了关于AI权利和伦理边界的新一轮讨论。",
+    "category": "product"
+  },
+  {
+    "id": "595360cbbae44905d17c0ea5826c6fa2",
+    "title_en": "Harvard, MIT face visa probes amid Trump admin's crackdown on global talent",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/harvard-mit-face-visa-probes-amid-trump-admin-s-crackdown-on-global-talent-126100900155_1.html",
+    "published_at": "2026-10-09T03:16:28Z",
+    "fetched_at": "2026-10-10T03:26:13.961Z",
+    "title_zh": "哈佛、麻省理工面临签证调查，特朗普政府加大打击全球人才力度",
+    "summary_zh": "哈佛大学和麻省理工学院正面临签证相关调查，这是特朗普政府针对全球人才收紧政策的最新举措。调查可能涉及国际学生和学者的签证合规问题，引发高等教育界和科技行业的广泛担忧。分析人士指出，此举可能削弱美国在AI和其他前沿科技领域吸引全球顶尖人才的能力，进一步加剧科技行业的人才短缺问题。多所顶尖大学对此表示关切，认为限制国际人才流入将损害美国的创新竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "abe864b5694685481facec47984d033b",
+    "title_en": "After Firmus shelved the biggest ASX listing in 30 years, what does it say to investors about AI hype?",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/after-firmus-shelved-the-biggest-asx-listing-in-30-years-what-does-it-say-to-investors-about-ai-hype-294043",
+    "published_at": "2026-10-09T03:14:12Z",
+    "fetched_at": "2026-10-10T03:26:13.961Z",
+    "title_zh": "Firmus搁置30年来最大ASX上市后，对投资者关于AI炒作意味着什么？",
+    "summary_zh": "澳大利亚AI基础设施公司Firmus突然搁置了原本将成为30年来最大规模的ASX上市计划，这一决定引发市场对AI投资热潮的重新审视。Firmus此前被视为AI数据中心和算力基础设施领域的重要参与者，其上市计划曾备受期待。此次搁置可能反映出投资者对AI估值泡沫的担忧，以及市场对AI相关企业盈利能力的质疑。分析人士认为，这一事件是AI炒作降温的信号，提醒投资者需更理性地评估AI企业的实际价值和商业前景。",
+    "category": "industry"
+  },
+  {
+    "id": "3ae74c905a95c8ee4e8befc3cfae64d2",
+    "title_en": "Show HN: Rename Super Intelligence Back to Artificial Intelligence",
+    "source": "Google News",
+    "url": "https://chromewebstore.google.com/detail/si-→-ai/cfpagmhjlhnbjabgaoeobkciklolaekn",
+    "published_at": "2026-10-09T03:05:00Z",
+    "fetched_at": "2026-10-10T03:26:13.961Z",
+    "title_zh": "Show HN：将“超级智能”重新命名为“人工智能”",
+    "summary_zh": "在Hacker News的Show HN板块，有人发起了一项倡议，呼吁将“超级智能”（Super Intelligence）这一术语重新改回“人工智能”（Artificial Intelligence）。发起者认为，“超级智能”一词带有过度炒作和科幻色彩，容易引发公众对AI的不必要恐慌和误解。该倡议主张使用更准确、中性的术语来描述当前AI技术的能力和局限，以促进更理性的公众讨论和政策制定。这一话题在技术社区引发了关于AI术语命名和公众认知的热烈讨论。",
+    "category": "llm"
+  },
+  {
+    "id": "834794b02857f23cd724ec241afc26f1",
+    "title_en": "AI may be keeping Bitcoin’s biggest macro headwind alive after the Fed stops hiking",
+    "source": "CryptoSlate",
+    "url": "https://cryptoslate.com/ai-may-be-keeping-bitcoins-biggest-macro-headwind-alive-after-the-fed-stops-hiking/",
+    "published_at": "2026-10-09T03:00:33Z",
+    "fetched_at": "2026-10-10T03:26:13.961Z",
+    "title_zh": "美联储停止加息后，AI可能让比特币最大的宏观逆风持续存在",
+    "summary_zh": "分析指出，尽管美联储已停止加息，但AI技术的快速发展可能使比特币面临的宏观逆风持续存在。AI热潮吸引了大量资本流入相关股票和基础设施领域，分流了原本可能进入加密货币市场的资金。此外，AI驱动的生产力提升可能改变通胀动态，影响美联储未来的货币政策路径，进而间接影响比特币等风险资产的表现。文章认为，投资者需关注AI与加密市场之间的资金竞争关系及其对宏观环境的深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "e0671c60ab1aefd7bd8c8a824d6e564c",
+    "title_en": "Law & Order Takes On AI Gone Murderously Awry In Season 26 Premiere — Read Recap And Grade The Ep",
+    "source": "TVLine",
+    "url": "https://www.tvline.com/2281806/law-and-order-season-26-premiere-recap-episode-1-ai/",
+    "published_at": "2026-10-09T03:00:00Z",
+    "fetched_at": "2026-10-10T03:26:13.961Z",
+    "title_zh": "《法律与秩序》第26季首播聚焦AI失控杀人——查看剧情回顾并评分",
+    "summary_zh": "经典美剧《法律与秩序》第26季首播以AI失控导致谋杀为主题，探讨了人工智能伦理和法律责任的边界问题。剧情围绕一个AI系统出现严重故障并导致人员死亡的案件展开，引发了关于谁应为AI行为负责的激烈辩论。该集反映了现实社会对AI安全性的日益关注，以及法律体系如何应对新兴技术带来的挑战。观众和评论家对这一集给予关注，认为其紧扣时代脉搏，提出了亟待解决的AI治理问题。",
+    "category": "product"
+  },
+  {
+    "id": "93bec4b7cdba0c6086c1088d27eafd2b",
+    "title_en": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/business/lawmakers-raise-alarm-at-google-plan-to-acquire-spirit-airlines-data-for-ai-models/articleshow/134804350.cms",
+    "published_at": "2026-10-09T02:44:04Z",
+    "fetched_at": "2026-10-10T03:26:13.961Z",
+    "title_zh": "立法者对谷歌计划收购Spirit航空数据用于AI模型表示担忧",
+    "summary_zh": "美国立法者对谷歌计划收购Spirit航空公司数据用于训练AI模型表示严重担忧。该交易涉及大量乘客个人信息和航班运营数据，立法者担心这可能侵犯消费者隐私，并进一步巩固谷歌在AI领域的数据垄断地位。多位议员呼吁监管机构对此交易进行严格审查，要求谷歌说明数据使用范围和隐私保护措施。此事件再次引发关于科技巨头获取敏感行业数据用于AI训练的监管讨论，以及数据隐私与AI发展之间的平衡问题。",
+    "category": "industry"
+  },
+  {
+    "id": "6528b6f8e7f981afb259524bb3b5ae40",
+    "title_en": "Inside Joe Lacob's vision for Warriors: Curry's sacrifice, cap space and what's next",
+    "source": "San Francisco Chronicle",
+    "url": "https://www.sfchronicle.com/sports/warriors/article/joe-lacob-s-warriors-vision-curry-s-22467641.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+    "published_at": "2026-10-09T02:43:41Z",
+    "fetched_at": "2026-10-10T03:26:13.962Z",
+    "title_zh": "乔·拉科布的勇士愿景：库里的牺牲、薪资空间及未来规划",
+    "summary_zh": "金州勇士队老板乔·拉科布分享了他对球队未来的愿景，涉及斯蒂芬·库里的角色调整、薪资空间管理以及球队重建计划。拉科布表示，为了保持球队的长期竞争力，可能需要在阵容和薪资结构上做出艰难决定。他强调了在奢侈税压力下灵活运营的重要性，并透露了球队在选秀和自由市场中的策略方向。这篇文章深入分析了勇士队在后王朝时代面临的挑战和机遇，以及管理层如何平衡当下竞争力与未来发展。",
+    "category": "industry"
+  },
+  {
+    "id": "81fc864e77e787276567473fb39286a9",
+    "title_en": "Brasileirão round 29: title race, rout and comebacks; see the table",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/brasileirao-round-29-title-race-rout-and-comebacks-see-the-table-43581800",
+    "published_at": "2026-10-09T02:43:00Z",
+    "fetched_at": "2026-10-10T03:26:13.962Z",
+    "title_zh": "巴甲第29轮：冠军争夺、大胜与逆转；查看积分榜",
+    "summary_zh": "巴西足球甲级联赛第29轮比赛结束，冠军争夺战愈发激烈。本轮比赛出现了多场大比分胜利和精彩逆转，积分榜形势发生重要变化。领头羊与追赶者之间的差距进一步缩小，多支球队仍保有争冠希望。文章详细回顾了本轮各场关键比赛的亮点，包括重要进球、战术变化和争议判罚，并更新了最新积分榜排名。随着赛季进入冲刺阶段，各队的争冠和保级形势日趋明朗，接下来的比赛将更加关键。",
     "category": "industry"
   },
   {
@@ -5376,127 +5497,6 @@
     "fetched_at": "2026-10-04T11:32:11.075Z",
     "title_zh": "Q Moayad博士如何通过古老的棕榈叶解读让怀疑者变为信徒",
     "summary_zh": "本文介绍了Q Moayad博士利用古老的棕榈叶解读技术，将怀疑者转变为信徒的故事。棕榈叶解读是一种源自古代的占卜实践，据称能够揭示个人的过去、现在和未来。Moayad博士通过这种传统方法为客户提供个性化的人生指导，吸引了大量原本持怀疑态度的客户。文章探讨了这一古老技艺在现代社会中的复兴，以及它如何满足人们对精神指引和自我认知的需求。尽管科学界对此类实践持保留态度，但其在特定群体中的影响力不容忽视。",
-    "category": "industry"
-  },
-  {
-    "id": "64670165fa12f8e1d865a81ba5056c3a",
-    "title_en": "Robotic surgery gains rapid ground in India, Delhi NCR leads: Experts",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/robotic-surgery-gains-rapid-ground-in-india-delhi-ncr-leads-experts/articleshow/134657460.cms",
-    "published_at": "2026-10-03T10:53:59Z",
-    "fetched_at": "2026-10-04T11:32:11.075Z",
-    "title_zh": "机器人手术在印度迅速发展，德里首都圈领先：专家表示",
-    "summary_zh": "据专家介绍，机器人辅助手术在印度正迅速普及，其中德里首都圈（NCR）处于领先地位。机器人手术通过微创技术提高手术精准度，缩短患者恢复时间并减少并发症。随着印度医疗基础设施的不断升级和人们对先进治疗需求的增加，越来越多的医院开始采用机器人手术系统。专家指出，这一趋势反映了印度医疗行业对技术创新的积极拥抱，但同时也面临成本高昂和专业人才培训等挑战。未来几年，机器人手术有望在印度更多地区得到推广。",
-    "category": "industry"
-  },
-  {
-    "id": "4100f1465b5fe6777af3dde4afc5a3be",
-    "title_en": "Best Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-mosquito-repellents/",
-    "published_at": "2026-10-03T10:03:00.000Z",
-    "fetched_at": "2026-10-03T10:50:05.443Z",
-    "title_zh": "2026年最佳庭院驱蚊产品：哪些真正有效，哪些徒有其名",
-    "summary_zh": "Wired发布2026年度庭院驱蚊产品评测，系统对比了市面上主流驱蚊设备、喷雾和蚊香的实际效果。评测指出，含避蚊胺（DEET）或派卡瑞丁成分的喷雾仍然最为可靠，而部分超声波驱蚊器和紫外线灭蚊灯的效果被明显夸大。文章还提醒消费者关注驱蚊产品的持续时间、覆盖面积及对儿童和宠物的安全性，并建议结合环境治理（如清除积水）来从根本上减少蚊虫滋生。",
-    "category": "product"
-  },
-  {
-    "id": "fa78b8c72d49dade985070bd32de336c",
-    "title_en": "A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/",
-    "published_at": "2026-10-03T09:00:00.000Z",
-    "fetched_at": "2026-10-03T10:50:05.443Z",
-    "title_zh": "一项持续十年的实验正在揭开海洋“深礁”的神秘面纱",
-    "summary_zh": "Wired报道了一项持续十年之久的海洋生态实验，科学家通过长期监测深礁生态系统，揭示了这一鲜为人知的深海栖息地的运作机制。深礁通常位于海面下数十至数百米，光照微弱，却孕育着丰富的珊瑚、海绵和鱼类群落。研究发现，深礁对海洋生物多样性和碳循环具有重要作用，同时也面临底拖网捕捞和气候变化的威胁。该长期实验为深海保护和渔业管理提供了关键数据支撑。",
-    "category": "research"
-  },
-  {
-    "id": "4264df399d4d31e1c426a3bb7e02dd12",
-    "title_en": "Hoka Coupon Codes: 30% Off in October 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/hoka-coupon-code/",
-    "published_at": "2026-10-03T05:00:00.000Z",
-    "fetched_at": "2026-10-03T10:50:05.443Z",
-    "title_zh": "Hoka优惠码：2026年10月享七折优惠",
-    "summary_zh": "Wired汇总了2026年10月最新的Hoka跑鞋优惠码信息，消费者可通过指定促销码享受最高30%的折扣。Hoka以厚底缓震跑鞋闻名，深受长跑爱好者和日常通勤者青睐。文章整理了当前可用的折扣码、适用商品范围及使用条件，并提醒用户注意优惠码的有效期限和叠加规则。对于计划在秋季购入跑鞋或徒步鞋的消费者而言，这是一份实用的省钱指南。",
-    "category": "product"
-  },
-  {
-    "id": "8d1ec246454ef739323e1332fa61037a",
-    "title_en": "Chewy Promo Codes: $20 Off October 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/chewy-promo-code/",
-    "published_at": "2026-10-03T05:00:00.000Z",
-    "fetched_at": "2026-10-03T10:50:05.444Z",
-    "title_zh": "Chewy优惠码：2026年10月立减20美元",
-    "summary_zh": "Wired整理了宠物电商平台Chewy在2026年10月的最新促销信息，用户可使用优惠码享受20美元减免。Chewy是美国知名的宠物用品在线零售商，涵盖宠物食品、玩具、药品及处方粮等品类。文章列出了当前有效的优惠码、最低消费门槛和适用商品类别，并提示部分折扣仅限新用户或特定品牌。对于养宠家庭来说，这是降低日常宠物开支的实用参考。",
-    "category": "product"
-  },
-  {
-    "id": "a3befc25ed2e5dfb0de08433159deaca",
-    "title_en": "20% Off Brooks Promo Code | October 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/brooks-promo-code/",
-    "published_at": "2026-10-03T05:00:00.000Z",
-    "fetched_at": "2026-10-03T10:50:05.444Z",
-    "title_zh": "Brooks优惠码：2026年10月享八折优惠",
-    "summary_zh": "Wired发布了Brooks跑鞋2026年10月的最新优惠码，用户可享受20%的折扣。Brooks是美国老牌跑鞋品牌，以稳定支撑和舒适性著称，适合不同水平的跑者。文章汇总了当前可用的促销码、适用产品线及使用限制，并提醒消费者关注尺码库存和退换政策。对于正在寻找秋季训练鞋或日常运动鞋的用户，这份优惠信息可以帮助节省开支。",
-    "category": "product"
-  },
-  {
-    "id": "4454513845be48bf69abfa42183bb4ea",
-    "title_en": "50% Off DoorDash Promo Code | October 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/doordash-promo-code/",
-    "published_at": "2026-10-03T05:00:00.000Z",
-    "fetched_at": "2026-10-03T10:50:05.444Z",
-    "title_zh": "DoorDash优惠码：2026年10月享五折优惠",
-    "summary_zh": "Wired汇总了外卖平台DoorDash在2026年10月的最新优惠码，用户最高可享受50%的折扣。DoorDash是美国主流外卖配送平台，覆盖餐厅外卖、生鲜杂货及便利店配送等服务。文章列出了当前有效的促销码、适用地区和订单门槛，并提示部分优惠仅限首次下单用户或特定餐厅。对于经常使用外卖服务的消费者，这是一份实用的省钱攻略。",
-    "category": "product"
-  },
-  {
-    "id": "3f3185585f93a63b9b8a904d2b745790",
-    "title_en": "Surfshark Promo Codes: 87% Off | October 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/surfshark-coupon/",
-    "published_at": "2026-10-03T05:00:00.000Z",
-    "fetched_at": "2026-10-03T10:50:05.444Z",
-    "title_zh": "Surfshark优惠码：2026年10月享87%折扣",
-    "summary_zh": "Wired整理了VPN服务商Surfshark在2026年10月的最新优惠信息，用户订阅可享受高达87%的折扣。Surfshark以支持无限设备连接、价格亲民和隐私保护功能著称，适合家庭用户和多设备场景。文章列出了当前有效的优惠码、订阅套餐对比及退款保证政策，并提醒用户注意续费价格与首年优惠的差异。对于关注网络隐私和跨境访问的用户，这是一份实用的订阅指南。",
-    "category": "product"
-  },
-  {
-    "id": "c61ba94b2bc74512121ff5d048569d4a",
-    "title_en": "Klook Promo Code: 25% Off October 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/klook-promo-code/",
-    "published_at": "2026-10-03T05:00:00.000Z",
-    "fetched_at": "2026-10-03T10:50:05.444Z",
-    "title_zh": "Klook优惠码：2026年10月享七五折优惠",
-    "summary_zh": "Wired发布了旅游活动预订平台Klook在2026年10月的最新优惠码，用户可享受25%的折扣。Klook提供全球景点门票、一日游、交通卡和特色体验等预订服务，覆盖亚洲及欧美热门旅游目的地。文章汇总了当前有效的促销码、适用活动和预订条件，并提示部分优惠仅限特定地区或新用户。对于计划秋季出行的游客，这是一份实用的省钱参考。",
-    "category": "product"
-  },
-  {
-    "id": "08a32fef13a7be952dbe109e8d658c77",
-    "title_en": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/a8db269c5e5bb0d5",
-    "published_at": "2026-10-03T03:12:42Z",
-    "fetched_at": "2026-10-04T03:27:51.919Z",
-    "title_zh": "分析师：平安率先行动后，更多中国银行或将采纳AI规则",
-    "summary_zh": "据分析师观点，在平安集团率先采取行动后，预计将有更多中国银行跟进采用人工智能相关规则。此举反映出中国金融业对AI技术应用的监管与合规意识正在增强，银行业正加速探索AI在风控、客服等领域的落地，同时也在积极应对随之而来的数据安全与合规挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "827d505aaf026020fa9472b7934b7903",
-    "title_en": "Nvidia wants AI chips to become fungible asset, but Wall Street isn’t convinced yet | Here's why",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/companies/news/nvidia-wants-ai-chips-to-become-fungible-asset-but-wall-street-isn-t-convinced-yet-heres-why-11790993905084.html",
-    "published_at": "2026-10-03T03:07:45Z",
-    "fetched_at": "2026-10-04T03:27:51.919Z",
-    "title_zh": "英伟达希望AI芯片成为可互换资产，但华尔街尚未信服",
-    "summary_zh": "英伟达正推动其AI芯片被视为可互换资产，以提升其在金融市场的流动性与估值稳定性。然而华尔街对此仍持怀疑态度，主要担忧在于芯片技术迭代过快、专用性强，难以像大宗商品一样标准化交易。这一分歧凸显了AI硬件资产金融化面临的现实障碍。",
     "category": "industry"
   }
 ]
