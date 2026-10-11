@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-11",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体工具链：逆向工程、上下文窗口优化、技能库与PPT生成等Agent应用百花齐放，同时Flutter、TensorFlow、PyTorch等主流框架持续活跃。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体与逆向工程、PS5跨平台移植、艺术创作引擎及浏览器卫星模拟器；AirLLM单卡4GB跑70B模型与PyTorch持续领跑，Apollo 11源码经典再现。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/morluto/rea",
           "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars_total": 75028,
-          "stars_today": 25793,
+          "stars_total": 86022,
+          "stars_today": 25585,
           "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
         },
         {
@@ -20,8 +20,8 @@
           "url": "https://github.com/boykopovar/AnyPS5",
           "description_en": "Tool for automatic PS5 executables porting to Linux and Windows",
           "language": "C++",
-          "stars_total": 27115,
-          "stars_today": 5805,
+          "stars_total": 28278,
+          "stars_today": 3977,
           "description_zh": "将 PS5 可执行文件自动移植到 Linux 和 Windows 的工具"
         },
         {
@@ -30,109 +30,59 @@
           "url": "https://github.com/storytold/artcraft",
           "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
           "language": "Rust",
-          "stars_total": 14713,
-          "stars_today": 3222,
+          "stars_total": 15825,
+          "stars_today": 2956,
           "description_zh": "ArtCraft 是一款专为艺术家、设计师和电影制作人打造的精心设计的创作引擎"
         },
         {
           "rank": 4,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 284638,
-          "stars_today": 1736,
-          "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
-        },
-        {
-          "rank": 5,
           "name": "cathrynlavery/diagram-design",
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "stars_total": 49057,
-          "stars_today": 1190,
+          "stars_total": 49537,
+          "stars_today": 1083,
           "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid 和 Pi 的编辑级图表设计。44 种图表类型。自包含 HTML + SVG。无阴影。拒绝 Mermaid 式粗制滥造。"
         },
         {
+          "rank": 5,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+          "language": "JavaScript",
+          "stars_total": 50737,
+          "stars_today": 872,
+          "description_zh": "浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球上提供实时开源空间情报。"
+        },
+        {
           "rank": 6,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 28853,
-          "stars_today": 625,
-          "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description_en": "AirLLM 70B inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars_total": 36103,
+          "stars_today": 541,
+          "description_zh": "使用单个4GB GPU进行AirLLM 70B推理"
         },
         {
           "rank": 7,
-          "name": "hugohe3/ppt-master",
-          "url": "https://github.com/hugohe3/ppt-master",
-          "description_en": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-          "language": "Python",
-          "stars_total": 59566,
-          "stars_today": 461,
-          "description_zh": "AI 将文档或主题转化为真正的原生 PowerPoint 演示文稿——具备原生形状、切换和动画，可按需生成数据驱动的图表和表格，从演讲者备注生成音频旁白，并支持你自己的 .pptx 模板。· 作者 Hugo He"
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description_en": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars_total": 73864,
+          "stars_today": 496,
+          "description_zh": "阿波罗11号制导计算机（AGC）指令舱和登月舱的原始源代码。"
         },
         {
           "rank": 8,
-          "name": "multica-ai/andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "language": "",
-          "stars_total": 218343,
-          "stars_today": 278,
-          "description_zh": "一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编程陷阱的观察。"
-        },
-        {
-          "rank": 9,
-          "name": "mksglu/context-mode",
-          "url": "https://github.com/mksglu/context-mode",
-          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "language": "TypeScript",
-          "stars_total": 26361,
-          "stars_today": 178,
-          "description_zh": "面向 AI 编程智能体的上下文窗口优化。对工具输出进行沙箱隔离（减少 98%），持久化会话记忆，并通过 MCP + hooks 在 17 个平台上强制执行路由。"
-        },
-        {
-          "rank": 10,
-          "name": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-          "language": "Python",
-          "stars_total": 167306,
-          "stars_today": 96,
-          "description_zh": "🤗 Transformers：面向文本、视觉、音频和多模态领域最先进机器学习模型的模型定义框架，支持推理和训练。"
-        },
-        {
-          "rank": 11,
-          "name": "flutter/flutter",
-          "url": "https://github.com/flutter/flutter",
-          "description_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "language": "Dart",
-          "stars_total": 179560,
-          "stars_today": 88,
-          "description_zh": "Flutter 让构建精美的移动端及其他平台应用变得轻松快捷"
-        },
-        {
-          "rank": 12,
           "name": "pytorch/pytorch",
           "url": "https://github.com/pytorch/pytorch",
           "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
           "language": "Python",
-          "stars_total": 104162,
-          "stars_today": 84,
+          "stars_total": 104260,
+          "stars_today": 314,
           "description_zh": "在 Python 中提供强大 GPU 加速的张量和动态神经网络"
-        },
-        {
-          "rank": 13,
-          "name": "tensorflow/tensorflow",
-          "url": "https://github.com/tensorflow/tensorflow",
-          "description_en": "An Open Source Machine Learning Framework for Everyone",
-          "language": "C++",
-          "stars_total": 200746,
-          "stars_today": 26,
-          "description_zh": "面向所有人的开源机器学习框架"
         }
       ]
     },
