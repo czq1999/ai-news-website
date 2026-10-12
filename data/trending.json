@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-12",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体工具链：逆向工程、上下文优化、免费Claude Code接入，以及单卡4GB跑70B、1-bit LLM等高效推理框架，AI开发平民化趋势明显。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体与高效推理：逆向工程、上下文优化、单卡跑2.8T大模型、1-bit LLM框架及免费Claude Code工具亮眼。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/morluto/rea",
           "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars_total": 136094,
+          "stars_total": 155639,
           "stars_today": 45495,
           "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/storytold/artcraft",
           "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
           "language": "Rust",
-          "stars_total": 20244,
+          "stars_total": 21909,
           "stars_today": 4106,
           "description_zh": "ArtCraft 是一款专为艺术家、设计师和电影制作人打造的有意创作引擎"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "stars_total": 51857,
+          "stars_total": 52553,
           "stars_today": 2100,
           "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid 和 Pi 的编辑级图表设计。44 种图表类型。自包含 HTML + SVG。无阴影。无 Mermaid 劣质图表。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
           "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
           "language": "JavaScript",
-          "stars_total": 52822,
+          "stars_total": 53616,
           "stars_today": 1903,
           "description_zh": "一个运行在浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球上提供实时开源空间情报。"
         },
@@ -48,9 +48,9 @@
           "rank": 5,
           "name": "lyogavin/airllm",
           "url": "https://github.com/lyogavin/airllm",
-          "description_en": "AirLLM 70B inference with single 4GB GPU",
+          "description_en": "AirLLM 2.8T LLM inference with single 4GB GPU",
           "language": "Jupyter Notebook",
-          "stars_total": 37095,
+          "stars_total": 37503,
           "stars_today": 886,
           "description_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/Alishahryar1/free-claude-code",
           "description_en": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
           "language": "Python",
-          "stars_total": 58409,
+          "stars_total": 59082,
           "stars_today": 705,
           "description_zh": "在终端、应用、IDE 或手机上免费使用 Claude Code、Codex、VSCode、Pi 和 OpenCode（以及另外 6 种工具），可免费获得 13 亿+ token，现在还支持通过浏览器原生会话在浏览器中使用（多工具 + 多模型），类似 OpenClaw（支持语音 + 符合服务条款）"
         },
@@ -70,29 +70,29 @@
           "url": "https://github.com/mksglu/context-mode",
           "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "stars_total": 26895,
-          "stars_today": 485,
+          "stars_total": 27267,
+          "stars_today": 394,
           "description_zh": "面向 AI 编程代理的上下文窗口优化。通过 MCP + hooks 对工具输出进行沙箱隔离（减少 98%），持久化会话记忆，并在 17 个平台上强制执行路由。"
         },
         {
           "rank": 8,
-          "name": "microsoft/BitNet",
-          "url": "https://github.com/microsoft/BitNet",
-          "description_en": "Official inference framework for 1-bit LLMs",
-          "language": "C++",
-          "stars_total": 40762,
-          "stars_today": 195,
-          "description_zh": "官方 1-bit LLM 推理框架"
-        },
-        {
-          "rank": 9,
           "name": "open-webui/open-webui",
           "url": "https://github.com/open-webui/open-webui",
           "description_en": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
           "language": "Python",
-          "stars_total": 154514,
+          "stars_total": 154966,
           "stars_today": 142,
           "description_zh": "用户友好的 AI 界面（支持 Ollama、OpenAI API 等）"
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description_en": "Official inference framework for 1-bit LLMs",
+          "language": "C++",
+          "stars_total": 40896,
+          "stars_today": 134,
+          "description_zh": "官方 1-bit LLM 推理框架"
         }
       ]
     },
