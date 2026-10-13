@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-13",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体与本地化工具：逆向工程、语音克隆、上下文优化、跨平台iOS构建等亮点纷呈。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体工具链：逆向工程、上下文优化、本地语音克隆与技能框架，另有单卡4GB跑2.8T大模型、跨平台iOS构建等硬核项目。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/morluto/rea",
           "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars_total": 189337,
+          "stars_total": 204524,
           "stars_today": 54706,
           "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
         },
@@ -20,69 +20,69 @@
           "url": "https://github.com/storytold/artcraft",
           "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
           "language": "Rust",
-          "stars_total": 24192,
+          "stars_total": 25416,
           "stars_today": 4078,
           "description_zh": "ArtCraft是一个面向艺术家、设计师和电影制作人的专注创作引擎"
         },
         {
           "rank": 3,
-          "name": "bilawalsidhu/gods-eye-view",
-          "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-          "language": "JavaScript",
-          "stars_total": 54637,
-          "stars_today": 1961,
-          "description_zh": "一个运行在浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的3D地球上提供实时开源空间情报。"
-        },
-        {
-          "rank": 4,
-          "name": "cathrynlavery/diagram-design",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-          "language": "HTML",
-          "stars_total": 53491,
-          "stars_today": 1813,
-          "description_zh": "面向Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid和Pi的编辑级图表设计。44种图表类型。自包含HTML + SVG。无阴影。无Mermaid劣质效果。"
-        },
-        {
-          "rank": 5,
           "name": "debpalash/VoiceStudio",
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 61622,
-          "stars_today": 1691,
+          "stars_total": 62983,
+          "stars_today": 2277,
           "description_zh": "VoiceStudio 是开源、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
         },
         {
+          "rank": 4,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+          "language": "JavaScript",
+          "stars_total": 55227,
+          "stars_today": 1961,
+          "description_zh": "一个运行在浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的3D地球上提供实时开源空间情报。"
+        },
+        {
+          "rank": 5,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars_total": 53979,
+          "stars_today": 1813,
+          "description_zh": "面向Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid和Pi的编辑级图表设计。44种图表类型。自包含HTML + SVG。无阴影。无Mermaid劣质效果。"
+        },
+        {
           "rank": 6,
-          "name": "lyogavin/airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "description_en": "AirLLM 2.8T LLM inference with single 4GB GPU",
-          "language": "Jupyter Notebook",
-          "stars_total": 38017,
-          "stars_today": 1004,
-          "description_zh": "AirLLM在单个4GB GPU上进行2.8T大语言模型推理"
-        },
-        {
-          "rank": 7,
-          "name": "mksglu/context-mode",
-          "url": "https://github.com/mksglu/context-mode",
-          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "language": "TypeScript",
-          "stars_total": 27817,
-          "stars_today": 978,
-          "description_zh": "面向AI编程智能体的上下文窗口优化。对工具输出进行沙箱隔离（减少98%），持久化会话记忆，并通过MCP + hooks在17个平台上强制执行路由。"
-        },
-        {
-          "rank": 8,
           "name": "xtool-org/xtool",
           "url": "https://github.com/xtool-org/xtool",
           "description_en": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
           "language": "Swift",
-          "stars_total": 8670,
-          "stars_today": 936,
+          "stars_total": 9213,
+          "stars_today": 1182,
           "description_zh": "跨平台的 Xcode 替代方案。在 Linux、Windows、macOS 上使用 SwiftPM 构建和部署 iOS 应用。"
+        },
+        {
+          "rank": 7,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description_en": "AirLLM 2.8T LLM inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars_total": 38266,
+          "stars_today": 1004,
+          "description_zh": "AirLLM在单个4GB GPU上进行2.8T大语言模型推理"
+        },
+        {
+          "rank": 8,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 28149,
+          "stars_today": 978,
+          "description_zh": "面向AI编程智能体的上下文窗口优化。对工具输出进行沙箱隔离（减少98%），持久化会话记忆，并通过MCP + hooks在17个平台上强制执行路由。"
         },
         {
           "rank": 9,
@@ -90,7 +90,7 @@
           "url": "https://github.com/vercel-labs/skills",
           "description_en": "The open agent skills tool - npx skills",
           "language": "TypeScript",
-          "stars_total": 34178,
+          "stars_total": 34423,
           "stars_today": 187,
           "description_zh": "开放的智能体技能工具 - npx skills"
         }
