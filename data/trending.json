@@ -1,6 +1,102 @@
 {
   "days": [
     {
+      "date": "2026-10-13",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体工具链：逆向工程、上下文优化、免费多平台编码助手，以及单卡4GB跑2.8T大模型、1-bit LLM推理等高效推理突破。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars_total": 169795,
+          "stars_today": 45327,
+          "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
+        },
+        {
+          "rank": 2,
+          "name": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+          "language": "Rust",
+          "stars_total": 22819,
+          "stars_today": 4095,
+          "description_zh": "ArtCraft是一个面向艺术家、设计师和电影制作人的专注创作引擎"
+        },
+        {
+          "rank": 3,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars_total": 52963,
+          "stars_today": 2081,
+          "description_zh": "面向Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid和Pi的编辑级图表设计。44种图表类型。自包含HTML + SVG。无阴影。无Mermaid劣质效果。"
+        },
+        {
+          "rank": 4,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+          "language": "JavaScript",
+          "stars_total": 54037,
+          "stars_today": 1895,
+          "description_zh": "一个运行在浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的3D地球上提供实时开源空间情报。"
+        },
+        {
+          "rank": 5,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description_en": "AirLLM 2.8T LLM inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars_total": 37700,
+          "stars_today": 879,
+          "description_zh": "AirLLM在单个4GB GPU上进行2.8T大语言模型推理"
+        },
+        {
+          "rank": 6,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description_en": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+          "language": "Python",
+          "stars_total": 59413,
+          "stars_today": 626,
+          "description_zh": "在你的终端、应用、IDE或手机上免费使用Claude Code、Codex、VSCode、Pi和OpenCode（以及另外6种工具框架）（13亿+免费token），现在还支持通过浏览器原生会话在浏览器中使用（多框架+多模型），类似OpenClaw（支持语音+符合服务条款）"
+        },
+        {
+          "rank": 7,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 27489,
+          "stars_today": 246,
+          "description_zh": "面向AI编程智能体的上下文窗口优化。对工具输出进行沙箱隔离（减少98%），持久化会话记忆，并通过MCP + hooks在17个平台上强制执行路由。"
+        },
+        {
+          "rank": 8,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description_en": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars_total": 155242,
+          "stars_today": 157,
+          "description_zh": "用户友好的AI界面（支持Ollama、OpenAI API等）"
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description_en": "Official inference framework for 1-bit LLMs",
+          "language": "C++",
+          "stars_total": 40991,
+          "stars_today": 97,
+          "description_zh": "面向1-bit大语言模型的官方推理框架"
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "summary_zh": "今日GitHub热榜聚焦AI智能体与高效推理：逆向工程、上下文优化、单卡跑2.8T大模型、1-bit LLM框架及免费Claude Code工具亮眼。",
       "projects": [
@@ -4211,202 +4307,6 @@
           "stars_total": 36807,
           "stars_today": 26,
           "description_zh": "Project NOMAD 是一个离线优先的知识与教育服务器。维基百科、数千本书籍、课程、地图以及可选的本地 AI，全部运行在你拥有的硬件上，无需互联网。"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-13",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体与开源工具：自主渗透测试、视频制作、音乐生成及技能注册表等AI项目亮眼，另有轻量MoE推理引擎与浏览器卫星模拟器。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "bilawalsidhu/gods-eye-view",
-          "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-          "language": "JavaScript",
-          "stars_total": 31592,
-          "stars_today": 2898,
-          "description_zh": "浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球上提供实时开源空间情报。"
-        },
-        {
-          "rank": 2,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 26371,
-          "stars_today": 2546,
-          "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
-        },
-        {
-          "rank": 3,
-          "name": "JustVugg/colibri",
-          "url": "https://github.com/JustVugg/colibri",
-          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-          "language": "C",
-          "stars_total": 29503,
-          "stars_today": 960,
-          "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小的引擎，庞大的模型。🐦"
-        },
-        {
-          "rank": 4,
-          "name": "asgeirtj/system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "description_en": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-          "language": "JavaScript",
-          "stars_total": 65932,
-          "stars_today": 727,
-          "description_zh": "从Anthropic提取的系统提示词——Claude Fable 5.1、Opus 5、Claude Design、Claude Code。OpenAI——ChatGPT GPT-6-Astra、Codex。Google——Gemini 3.8 Flash、3.1 Pro、Antigravity。xAI——Grok、Grok Bot、Cursor、Kimi等！定期更新。"
-        },
-        {
-          "rank": 5,
-          "name": "vxcontrol/pentagi",
-          "url": "https://github.com/vxcontrol/pentagi",
-          "description_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-          "language": "Go",
-          "stars_total": 23867,
-          "stars_today": 613,
-          "description_zh": "完全自主的AI代理系统，能够执行复杂的渗透测试任务"
-        },
-        {
-          "rank": 6,
-          "name": "tonhowtf/omniget",
-          "url": "https://github.com/tonhowtf/omniget",
-          "description_en": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-          "language": "Rust",
-          "stars_total": 11484,
-          "stars_today": 547,
-          "description_zh": "下载 Udemy 和 Hotmart 课程、YouTube 视频、音乐和书籍——支持 1,800+ 网站，无需终端。适用于 Windows、macOS 和 Linux 的免费开源桌面应用，内置课程播放器、PDF/EPUB 阅读器和音乐库。由 yt-dlp 驱动。您的文件保留在您的电脑上。"
-        },
-        {
-          "rank": 7,
-          "name": "SnailSploit/Claude-Red",
-          "url": "https://github.com/SnailSploit/Claude-Red",
-          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-          "language": "Python",
-          "stars_total": 4039,
-          "stars_today": 507,
-          "description_zh": "claude-red是一个为Claude技能系统设计的精选进攻性安全技能库。每个技能都是一个结构化的SKILL.md文件，为Claude注入针对特定攻击面的专家级方法论——从SQLi到shellcode，从EDR规避到漏洞利用开发。"
-        },
-        {
-          "rank": 8,
-          "name": "multimodal-art-projection/YuE",
-          "url": "https://github.com/multimodal-art-projection/YuE",
-          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-          "language": "Python",
-          "stars_total": 7663,
-          "stars_today": 500,
-          "description_zh": "YuE2：具有符号规划、零样本翻唱和代理式音乐编辑的前沿音乐生成。"
-        },
-        {
-          "rank": 9,
-          "name": "jiji262/douyin-downloader",
-          "url": "https://github.com/jiji262/douyin-downloader",
-          "description_en": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-          "language": "Python",
-          "stars_total": 11319,
-          "stars_today": 473,
-          "description_zh": "一款实用的抖音下载器，支持单项和主页批量下载，具有进度显示、重试、SQLite 去重和浏览器回退支持。抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。"
-        },
-        {
-          "rank": 10,
-          "name": "melgarafael/DeskcommCRM",
-          "url": "https://github.com/melgarafael/DeskcommCRM",
-          "description_en": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-          "language": "TypeScript",
-          "stars_total": 2120,
-          "stars_today": 444,
-          "description_zh": "开源AI销售操作系统——自托管CRM，原生AI代理 + WhatsApp（WAHA）。面向任何通过聊天销售业务的开源替代方案，可替代Kommo、Octadesk和Intercom。支持MCP、多租户、符合LGPD。"
-        },
-        {
-          "rank": 11,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "language": "Go",
-          "stars_total": 23284,
-          "stars_today": 438,
-          "description_zh": "快速、高效，经阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
-        },
-        {
-          "rank": 12,
-          "name": "calesthio/OpenMontage",
-          "url": "https://github.com/calesthio/OpenMontage",
-          "description_en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-          "language": "Python",
-          "stars_total": 58314,
-          "stars_today": 383,
-          "description_zh": "全球首个开源、代理式视频制作系统。12 条制作流水线、100+ 工具、700+ 代理技能与制作知识文件。将您的 AI 编程助手转变为完整的视频制作工作室。"
-        },
-        {
-          "rank": 13,
-          "name": "alphaXiv/OpenResearch",
-          "url": "https://github.com/alphaXiv/OpenResearch",
-          "description_en": "Run parallel research agents with any model",
-          "language": "Rust",
-          "stars_total": 1969,
-          "stars_today": 304,
-          "description_zh": "使用任意模型运行并行研究代理"
-        },
-        {
-          "rank": 14,
-          "name": "jihe520/MathModelAgent",
-          "url": "https://github.com/jihe520/MathModelAgent",
-          "description_en": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-          "language": "Python",
-          "stars_total": 5323,
-          "stars_today": 268,
-          "description_zh": "🤖📐专为数学建模设计的Agent与技能，自动完成数学建模，生成一份完整的可直接提交的论文。一个专为数学建模设计的Agent，自动完成数学建模并生成一份完整的可直接提交的论文。"
-        },
-        {
-          "rank": 15,
-          "name": "yuliskov/SmartTube",
-          "url": "https://github.com/yuliskov/SmartTube",
-          "description_en": "Browse media content with your own rules on Android TV",
-          "language": "Java",
-          "stars_total": 33405,
-          "stars_today": 238,
-          "description_zh": "在Android TV上按你自己的规则浏览媒体内容"
-        },
-        {
-          "rank": 16,
-          "name": "tech-leads-club/agent-skills",
-          "url": "https://github.com/tech-leads-club/agent-skills",
-          "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-          "language": "TypeScript",
-          "stars_total": 5566,
-          "stars_today": 215,
-          "description_zh": "面向专业 AI 编程代理的安全、经过验证的技能注册中心。以绝对的信心扩展 Antigravity、Claude Code、Cursor、Copilot 等。"
-        },
-        {
-          "rank": 17,
-          "name": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-          "language": "Python",
-          "stars_total": 165434,
-          "stars_today": 102,
-          "description_zh": "🤗 Transformers：用于文本、视觉、音频和多模态模型等最先进机器学习模型的模型定义框架，支持推理和训练。"
-        },
-        {
-          "rank": 18,
-          "name": "Swordfish90/cool-retro-term",
-          "url": "https://github.com/Swordfish90/cool-retro-term",
-          "description_en": "A good looking terminal emulator which mimics the old cathode display...",
-          "language": "QML",
-          "stars_total": 26190,
-          "stars_today": 98,
-          "description_zh": "一款外观精美的终端模拟器，模仿老式阴极显示器……"
-        },
-        {
-          "rank": 19,
-          "name": "ever-co/ever-gauzy",
-          "url": "https://github.com/ever-co/ever-gauzy",
-          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-          "language": "TypeScript",
-          "stars_total": 4901,
-          "stars_today": 58,
-          "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
         }
       ]
     }
