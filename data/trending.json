@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-14",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：逆向工程、语音克隆、上下文优化、科研技能库、渗透测试及智能体审计工具涌现，Rust与跨平台iOS构建亦受关注。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：逆向工程、语音克隆、上下文优化、科研技能库、自主渗透测试及智能体审计工具涌现，AI Agent正全面渗透各领域。",
       "projects": [
         {
           "rank": 1,
@@ -10,59 +10,59 @@
           "url": "https://github.com/morluto/rea",
           "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "stars_total": 224785,
-          "stars_today": 54679,
+          "stars_total": 233242,
+          "stars_today": 41187,
           "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
         },
         {
           "rank": 2,
-          "name": "ifixai-ai/iFixAi",
-          "url": "https://github.com/ifixai-ai/iFixAi",
-          "description_en": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-          "language": "Python",
-          "stars_total": 26494,
-          "stars_today": 2143,
-          "description_zh": "AI 智能体的独立审计。由人类或智能体自身运行，回答 AI 智能体经济中最关键的问题：智能体是否在做它应该做的事？借助 iFixAi，你可以在 120 秒内得到答案。"
-        },
-        {
-          "rank": 3,
-          "name": "vxcontrol/pentagi",
-          "url": "https://github.com/vxcontrol/pentagi",
-          "description_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-          "language": "Go",
-          "stars_total": 28632,
-          "stars_today": 1819,
-          "description_zh": "完全自主的 AI 智能体系统，能够执行复杂的渗透测试任务"
-        },
-        {
-          "rank": 4,
           "name": "debpalash/VoiceStudio",
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 64744,
-          "stars_today": 1748,
+          "stars_total": 65423,
+          "stars_today": 3547,
           "description_zh": "VoiceStudio是开源的、完全本地化的ElevenLabs替代方案——支持646种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
         },
         {
-          "rank": 5,
-          "name": "NationalSecurityAgency/ghidra",
-          "url": "https://github.com/NationalSecurityAgency/ghidra",
-          "description_en": "Ghidra is a software reverse engineering (SRE) framework",
-          "language": "Java",
-          "stars_total": 86736,
-          "stars_today": 1550,
-          "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
+          "rank": 3,
+          "name": "ifixai-ai/iFixAi",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "description_en": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+          "language": "Python",
+          "stars_total": 26893,
+          "stars_today": 2143,
+          "description_zh": "AI 智能体的独立审计。由人类或智能体自身运行，回答 AI 智能体经济中最关键的问题：智能体是否在做它应该做的事？借助 iFixAi，你可以在 120 秒内得到答案。"
         },
         {
-          "rank": 6,
+          "rank": 4,
           "name": "xtool-org/xtool",
           "url": "https://github.com/xtool-org/xtool",
           "description_en": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
           "language": "Swift",
-          "stars_total": 10009,
-          "stars_today": 1198,
+          "stars_total": 10323,
+          "stars_today": 1510,
           "description_zh": "跨平台Xcode替代方案。在Linux、Windows、macOS上使用SwiftPM构建和部署iOS应用。"
+        },
+        {
+          "rank": 5,
+          "name": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "language": "Go",
+          "stars_total": 28995,
+          "stars_today": 1070,
+          "description_zh": "完全自主的 AI 智能体系统，能够执行复杂的渗透测试任务"
+        },
+        {
+          "rank": 6,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description_en": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars_total": 87065,
+          "stars_today": 1002,
+          "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
         },
         {
           "rank": 7,
@@ -70,8 +70,8 @@
           "url": "https://github.com/mksglu/context-mode",
           "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "stars_total": 28661,
-          "stars_today": 969,
+          "stars_total": 28866,
+          "stars_today": 946,
           "description_zh": "面向AI编程智能体的上下文窗口优化。对工具输出进行沙箱隔离（减少98%），持久化会话记忆，并通过MCP + hooks在17个平台上强制执行路由。"
         },
         {
@@ -80,29 +80,29 @@
           "url": "https://github.com/rust-lang/rust",
           "description_en": "Empowering everyone to build reliable and efficient software.",
           "language": "Rust",
-          "stars_total": 119961,
+          "stars_total": 119849,
           "stars_today": 205,
           "description_zh": "赋能每个人构建可靠且高效的软件。"
         },
         {
           "rank": 9,
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-          "language": "Python",
-          "stars_total": 48814,
-          "stars_today": 146,
-          "description_zh": "将任何 AI 智能体转变为 AI 科学家。科学领域排名第一的 Agent Skills 库，全球超过 250,000 名科学家使用。包含 177 个即用型经过验证的技能，以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。兼容 Cursor、Claude Code、Codex、Pi、Antigravity 以及开放的 Agent Skills 标准。"
-        },
-        {
-          "rank": 10,
           "name": "ntdevlabs/tiny11builder",
           "url": "https://github.com/ntdevlabs/tiny11builder",
           "description_en": "WinUI app for building smaller, customized Windows 11 images.",
           "language": "C#",
-          "stars_total": 20000,
-          "stars_today": 132,
+          "stars_total": 20100,
+          "stars_today": 194,
           "description_zh": "用于构建更小、可定制的 Windows 11 镜像的 WinUI 应用。"
+        },
+        {
+          "rank": 10,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "language": "Python",
+          "stars_total": 49074,
+          "stars_today": 146,
+          "description_zh": "将任何 AI 智能体转变为 AI 科学家。科学领域排名第一的 Agent Skills 库，全球超过 250,000 名科学家使用。包含 177 个即用型经过验证的技能，以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。兼容 Cursor、Claude Code、Codex、Pi、Antigravity 以及开放的 Agent Skills 标准。"
         },
         {
           "rank": 11,
@@ -110,7 +110,7 @@
           "url": "https://github.com/HKUDS/CLI-Anything",
           "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
           "language": "Python",
-          "stars_total": 52146,
+          "stars_total": 52300,
           "stars_today": 94,
           "description_zh": "“CLI-Anything：让所有软件原生支持智能体”——CLI-Hub：https://clianything.cc/"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/nvm-sh/nvm",
           "description_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
           "language": "Shell",
-          "stars_total": 95354,
+          "stars_total": 95401,
           "stars_today": 45,
           "description_zh": "Node 版本管理器 - 符合 POSIX 标准的 bash 脚本，用于管理多个活跃的 node.js 版本。"
         }
