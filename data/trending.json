@@ -1,6 +1,132 @@
 {
   "days": [
     {
+      "date": "2026-10-16",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：技能框架、上下文优化与多智能体编排成主流，逆向工程与本地语音克隆亦受关注。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars_total": 272426,
+          "stars_today": 32314,
+          "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
+        },
+        {
+          "rank": 2,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 69229,
+          "stars_today": 3024,
+          "description_zh": "VoiceStudio 是开源、完全本地的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。"
+        },
+        {
+          "rank": 3,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description_en": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars_total": 88847,
+          "stars_today": 1369,
+          "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架。"
+        },
+        {
+          "rank": 4,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "language": "Python",
+          "stars_total": 50560,
+          "stars_today": 1091,
+          "description_zh": "将任何 AI 智能体转变为 AI 科学家。科学领域排名第一的智能体技能库，全球超过 250,000 名科学家使用。包含 177 个即用型经过验证的技能，以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。兼容 Cursor、Claude Code、Codex、Pi、Antigravity 以及开放的 Agent Skills 标准。"
+        },
+        {
+          "rank": 5,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 280461,
+          "stars_today": 1013,
+          "description_zh": "智能体框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全性和研究优先的开发能力。"
+        },
+        {
+          "rank": 6,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars_total": 29821,
+          "stars_today": 904,
+          "description_zh": "面向 AI 编码智能体的上下文窗口优化。对工具输出进行沙箱隔离（减少 98%），持久化会话记忆，并通过 MCP + hooks 在 17 个平台上强制执行路由。"
+        },
+        {
+          "rank": 7,
+          "name": "xerj-org/xerj",
+          "url": "https://github.com/xerj-org/xerj",
+          "description_en": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+          "language": "Rust",
+          "stars_total": 5743,
+          "stars_today": 715,
+          "description_zh": "XERJ 是 AI 搜索数据的新方式。其自动索引能力让智能体无需浪费 grep 和 sed 的 token 就能了解你的数据。一条命令即可索引代码、文档、日志和 PDF，用于搜索、RAG、安全审计和智能体记忆，使用的 token 比 grep 少 40 倍。兼容 Elasticsearch，现有客户端可直接使用。"
+        },
+        {
+          "rank": 8,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 299957,
+          "stars_today": 582,
+          "description_zh": "一个行之有效的智能体技能框架和软件开发方法论。"
+        },
+        {
+          "rank": 9,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description_en": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+          "language": "Go",
+          "stars_total": 112615,
+          "stars_today": 433,
+          "description_zh": "🪨 为什么用很多 token，当少量 token 就能搞定。病毒式传播的技能 + 编码智能体代理，通过像原始人一样说话减少 65% 的 token。"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars_total": 39189,
+          "stars_today": 307,
+          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
+        },
+        {
+          "rank": 11,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "language": "TypeScript",
+          "stars_total": 75171,
+          "stars_today": 147,
+          "description_zh": "🌊 原创智能体框架。部署智能多玩家集群，协调自主工作流，构建对话式 AI 系统。具备自适应记忆、自学习智能、联邦、向量 RAG 集成，并原生集成 Claude Code / Codex / Hermes 等众多平台。"
+        },
+        {
+          "rank": 12,
+          "name": "lightseekorg/tokenspeed",
+          "url": "https://github.com/lightseekorg/tokenspeed",
+          "description_en": "TokenSpeed is a speed-of-light LLM inference engine.",
+          "language": "Python",
+          "stars_total": 2514,
+          "stars_today": 30,
+          "description_zh": "TokenSpeed 是一个光速级 LLM 推理引擎。"
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "summary_zh": "今日GitHub热榜聚焦AI智能体生态：技能框架、上下文优化、多智能体协作与逆向工程工具百花齐放。",
       "projects": [
@@ -3991,222 +4117,6 @@
           "stars_total": 25239,
           "stars_today": 153,
           "description_zh": "基于 eBPF 的网络、安全与可观测性"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "summary_zh": "今日GitHub热榜聚焦AI代码审查、安全审计与本地大模型部署，阿里开源混合架构审查工具，Colibri实现纯C运行MoE模型。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "language": "Go",
-          "stars_total": 31486,
-          "stars_today": 3215,
-          "description_zh": "快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
-        },
-        {
-          "rank": 2,
-          "name": "JustVugg/colibri",
-          "url": "https://github.com/JustVugg/colibri",
-          "description_en": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-          "language": "C",
-          "stars_total": 34902,
-          "stars_today": 1532,
-          "description_zh": "在您已有的硬件上运行前沿 MoE 模型——纯 C 语言，零依赖，专家从磁盘流式加载。微小引擎，庞大模型。🐦"
-        },
-        {
-          "rank": 3,
-          "name": "cloudflare/security-audit-skill",
-          "url": "https://github.com/cloudflare/security-audit-skill",
-          "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-          "language": "JavaScript",
-          "stars_total": 6793,
-          "stars_today": 1249,
-          "description_zh": "一个用于多阶段安全审计的编码代理技能，具有独立验证的、机器可读的发现结果"
-        },
-        {
-          "rank": 4,
-          "name": "Tencent/WeKnora",
-          "url": "https://github.com/Tencent/WeKnora",
-          "description_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-          "language": "Go",
-          "stars_total": 25159,
-          "stars_today": 1201,
-          "description_zh": "开源 LLM 知识平台：将原始文档转化为可查询的 RAG、自主推理代理和自我维护的 Wiki。"
-        },
-        {
-          "rank": 5,
-          "name": "abue-ammar/tinycast",
-          "url": "https://github.com/abue-ammar/tinycast",
-          "description_en": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-          "language": "Swift",
-          "stars_total": 5505,
-          "stars_today": 1136,
-          "description_zh": "Tinycast —— 一个小巧的、完全原生的 macOS 启动器、热键和剪贴板历史记录工具。"
-        },
-        {
-          "rank": 6,
-          "name": "NationalSecurityAgency/ghidra",
-          "url": "https://github.com/NationalSecurityAgency/ghidra",
-          "description_en": "Ghidra is a software reverse engineering (SRE) framework",
-          "language": "Java",
-          "stars_total": 77665,
-          "stars_today": 1059,
-          "description_zh": "Ghidra 是一个软件逆向工程（SRE）框架"
-        },
-        {
-          "rank": 7,
-          "name": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "language": "JavaScript",
-          "stars_total": 260083,
-          "stars_today": 1046,
-          "description_zh": "代理框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全性和研究优先的开发。"
-        },
-        {
-          "rank": 8,
-          "name": "alphaXiv/OpenResearch",
-          "url": "https://github.com/alphaXiv/OpenResearch",
-          "description_en": "Turn your coding agents into research agents",
-          "language": "Rust",
-          "stars_total": 4263,
-          "stars_today": 1036,
-          "description_zh": "将您的编码代理转变为研究代理"
-        },
-        {
-          "rank": 9,
-          "name": "ever-co/ever-gauzy",
-          "url": "https://github.com/ever-co/ever-gauzy",
-          "description_en": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-          "language": "TypeScript",
-          "stars_total": 7222,
-          "stars_today": 771,
-          "description_zh": "Ever® Gauzy™ - 开放商业管理平台（ERP/CRM/HRM/ATS/PM）- https://gauzy.co"
-        },
-        {
-          "rank": 10,
-          "name": "addyosmani/agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "description_en": "Production-grade engineering skills for AI coding agents.",
-          "language": "JavaScript",
-          "stars_total": 95302,
-          "stars_today": 656,
-          "description_zh": "面向 AI 编码代理的生产级工程技能。"
-        },
-        {
-          "rank": 11,
-          "name": "Lakr233/vphone-cli",
-          "url": "https://github.com/Lakr233/vphone-cli",
-          "description_en": "",
-          "language": "Swift",
-          "stars_total": 13293,
-          "stars_today": 444,
-          "description_zh": ""
-        },
-        {
-          "rank": 12,
-          "name": "jamiepine/voicebox",
-          "url": "https://github.com/jamiepine/voicebox",
-          "description_en": "The open-source AI voice studio. Clone, dictate, create.",
-          "language": "TypeScript",
-          "stars_total": 54273,
-          "stars_today": 409,
-          "description_zh": "开源 AI 语音工作室。克隆、听写、创作。"
-        },
-        {
-          "rank": 13,
-          "name": "SnailSploit/Claude-Red",
-          "url": "https://github.com/SnailSploit/Claude-Red",
-          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-          "language": "Python",
-          "stars_total": 5713,
-          "stars_today": 383,
-          "description_zh": "claude-red 是一个为 Claude 技能系统精心策划的进攻性安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。"
-        },
-        {
-          "rank": 14,
-          "name": "multimodal-art-projection/YuE",
-          "url": "https://github.com/multimodal-art-projection/YuE",
-          "description_en": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-          "language": "Python",
-          "stars_total": 9303,
-          "stars_today": 370,
-          "description_zh": "YuE2：具有符号规划、零样本翻唱和代理式音乐编辑的前沿音乐生成。"
-        },
-        {
-          "rank": 15,
-          "name": "roboflow/supervision",
-          "url": "https://github.com/roboflow/supervision",
-          "description_en": "We write your reusable computer vision tools. 💜",
-          "language": "Python",
-          "stars_total": 50545,
-          "stars_today": 292,
-          "description_zh": "我们为你编写可复用的计算机视觉工具。💜"
-        },
-        {
-          "rank": 16,
-          "name": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "language": "TypeScript",
-          "stars_total": 145404,
-          "stars_today": 155,
-          "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编写代码。"
-        },
-        {
-          "rank": 17,
-          "name": "supabase/supabase",
-          "url": "https://github.com/supabase/supabase",
-          "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-          "language": "TypeScript",
-          "stars_total": 109584,
-          "stars_today": 118,
-          "description_zh": "Postgres 开发平台。Supabase 为你提供一个专用的 Postgres 数据库，用于构建你的 Web、移动和 AI 应用程序。"
-        },
-        {
-          "rank": 18,
-          "name": "cline/cline",
-          "url": "https://github.com/cline/cline",
-          "description_en": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-          "language": "TypeScript",
-          "stars_total": 68276,
-          "stars_today": 102,
-          "description_zh": "作为 SDK、IDE 扩展或 CLI 助手的自主编码代理。"
-        },
-        {
-          "rank": 19,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 24247,
-          "stars_today": 96,
-          "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
-        },
-        {
-          "rank": 20,
-          "name": "rlaope/oh-my-hermes",
-          "url": "https://github.com/rlaope/oh-my-hermes",
-          "description_en": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-          "language": "Python",
-          "stars_total": 2502,
-          "stars_today": 74,
-          "description_zh": "Hermes Agent 的一体化插件 ⚚ 编码智能、长期记忆系统和模型优化的工作流包"
-        },
-        {
-          "rank": 21,
-          "name": "ankitects/anki",
-          "url": "https://github.com/ankitects/anki",
-          "description_en": "Anki is a smart spaced repetition flashcard program",
-          "language": "Rust",
-          "stars_total": 30760,
-          "stars_today": 50,
-          "description_zh": "Anki 是一款智能间隔重复闪卡程序"
         }
       ]
     }
