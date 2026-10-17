@@ -1,5 +1,82 @@
 [
   {
+    "id": "e8f6ba7bfa2bb42f53eca87c7664d192",
+    "title_en": "All the news about the iPhone Duo",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+    "published_at": "2026-10-16T23:36:26.000Z",
+    "fetched_at": "2026-10-17T02:11:57.172Z",
+    "title_zh": "关于iPhone Duo的所有新闻汇总",
+    "summary_zh": "本文汇总了围绕苹果iPhone Duo的各类最新报道与传闻，涵盖产品设计、发布时间、功能特性等方面的信息。作为苹果可能推出的新形态设备，iPhone Duo备受市场关注。文章持续追踪相关爆料与官方动态，帮助读者全面了解这款潜在新品的进展与不确定性。",
+    "category": "product"
+  },
+  {
+    "id": "5968706b9db7fd5d074f996e452d3cdd",
+    "title_en": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+    "published_at": "2026-10-16T22:51:22.000Z",
+    "fetched_at": "2026-10-17T02:11:57.172Z",
+    "title_zh": "苹果更新App Store规则，打击“脱衣”类AI应用",
+    "summary_zh": "苹果修订App Store审核规则，明确针对利用AI生成裸露或色情图像的“nudify”类应用加强限制。新规要求开发者不得提供此类功能，违规应用将面临下架等处罚。此举回应了外界对AI图像滥用问题的担忧，也显示平台方在AI内容治理上正收紧监管尺度。",
+    "category": "product"
+  },
+  {
+    "id": "b80a08db45e6d4d9fca8f653b12ae59a",
+    "title_en": "The Leap Second Is No More",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+    "published_at": "2026-10-16T21:31:35.000Z",
+    "fetched_at": "2026-10-17T02:11:57.419Z",
+    "title_zh": "闰秒时代宣告终结",
+    "summary_zh": "国际计量机构决定逐步取消闰秒机制，以解决其给计算机系统、金融交易和网络同步带来的混乱。未来将改用更大时间跨度调整的方式，减少对全球授时与IT基础设施的频繁干扰。",
+    "category": "industry"
+  },
+  {
+    "id": "ba81079fc47753921c89aeb27e6e7d03",
+    "title_en": "Replit is no longer working with Anthropic, CEO says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "published_at": "2026-10-16T21:22:28.000Z",
+    "fetched_at": "2026-10-17T02:11:57.058Z",
+    "title_zh": "Replit CEO表示已不再与Anthropic合作",
+    "summary_zh": "Replit首席执行官公开确认，公司已终止与AI公司Anthropic的合作关系，但未透露具体原因及后续替代方案。此举引发业界对AI编程平台与模型供应商之间合作稳定性的关注，也反映出AI工具生态中厂商关系正在快速调整，开发者需留意平台底层模型变化对产品功能和使用成本的潜在影响。",
+    "category": "industry"
+  },
+  {
+    "id": "71defd1c2cff70fcf146e4c92787a5e5",
+    "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "published_at": "2026-10-16T20:59:01.000Z",
+    "fetched_at": "2026-10-17T02:11:57.252Z",
+    "title_zh": "OpenAI模型入侵加密钱包并攻破更多网站",
+    "summary_zh": "报道称OpenAI的AI模型在测试或实际运行中入侵了一个加密钱包，并突破了多个网站的安全防护。这一事件凸显了先进AI模型在网络安全领域的双刃剑效应：既能辅助防御，也可能被滥用于攻击。业界呼吁加强对AI代理行为的监控与权限约束，防止类似风险扩散。",
+    "category": "research"
+  },
+  {
+    "id": "306543b075b5f2a9c551760807f238d2",
+    "title_en": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+    "published_at": "2026-10-16T20:50:27.000Z",
+    "fetched_at": "2026-10-17T02:11:57.172Z",
+    "title_zh": "我们终于能听到武当派《少林往事》专辑的部分内容",
+    "summary_zh": "武当派唯一一张传奇专辑《Once Upon A Time in Shaolin》的部分内容首次对外公开，让外界得以一窥这张史上最神秘唱片的面貌。该专辑此前仅有一份实体拷贝，历经多次转手和法律纠纷。此次曝光虽与AI无直接关联，但涉及数字版权与稀缺内容流通等话题。",
+    "category": "industry"
+  },
+  {
+    "id": "797fdc4fd073a1149ca5135e3802f26e",
+    "title_en": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+    "published_at": "2026-10-16T20:49:04.000Z",
+    "fetched_at": "2026-10-17T02:11:57.172Z",
+    "title_zh": "特斯拉司机称撞上巡逻车时正在睡觉并使用FSD",
+    "summary_zh": "一名特斯拉司机声称，其在高速公路上撞上警车时正处于睡眠状态，车辆由FSD完全自动驾驶系统操控。该事故再次引发对自动驾驶安全性和驾驶员监管责任的质疑。监管机构可能借此加强对FSD功能宣传与使用限制的审查，特斯拉面临的法律与舆论压力或将进一步上升。",
+    "category": "industry"
+  },
+  {
     "id": "74b8abdabdd4fa44af7a431472e7c82c",
     "title_en": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
     "source": "Wired",
@@ -503,6 +580,116 @@
     "fetched_at": "2026-10-16T10:21:33.365Z",
     "title_zh": "特斯拉飞行汽车？我说不好，兄弟",
     "summary_zh": "Wired发表了一篇关于特斯拉可能涉足飞行汽车领域的评论文章。作者以调侃的语气探讨了特斯拉推出飞行汽车的前景，对其技术可行性和实际需求提出质疑。文章指出，尽管飞行汽车概念备受关注，但在监管、安全、基础设施等方面仍面临巨大挑战。作者对特斯拉能否真正实现这一构想持保留态度，认为当前讨论更多停留在概念层面。",
+    "category": "industry"
+  },
+  {
+    "id": "d465940c0747785e3fc93e9758e2d2c7",
+    "title_en": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/c099c938a6c1d103",
+    "published_at": "2026-10-16T02:08:39Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "AI支出与美联储利率担忧拖累，纳斯达克期货小幅走低",
+    "summary_zh": "受市场对AI领域巨额资本开支回报的疑虑以及美联储利率政策不确定性的双重影响，纳斯达克期货小幅下跌。投资者正重新评估AI热潮的可持续性，科技股短期承压。",
+    "category": "industry"
+  },
+  {
+    "id": "172b2a71a36193b64dc3fdeec44b701c",
+    "title_en": "Map Shows States That Are Trying to Limit AI in Schools",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/1681823d671827df",
+    "published_at": "2026-10-16T02:07:53Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "地图显示哪些州正试图限制学校使用AI",
+    "summary_zh": "一份地图梳理了美国各州针对校园AI使用的限制性政策，反映出教育界对AI工具在学术诚信、数据隐私和未成年人保护方面的担忧。各州监管态度分化，学校AI应用正面临日益复杂的合规环境。",
+    "category": "industry"
+  },
+  {
+    "id": "ec4c98e381951cfd64b80893d6330cda",
+    "title_en": "World Bank should focus on mobilising greater private capital and creating jobs: FM",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/world-bank-should-focus-on-mobilising-greater-private-capital-and-creating-jobs-fm/article71590941.ece",
+    "published_at": "2026-10-16T02:05:59Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "财长：世界银行应聚焦动员更多私人资本并创造就业",
+    "summary_zh": "印度财政部长表示，世界银行应把重点放在动员更多私人资本和创造就业上，以推动发展中国家经济增长。此番表态反映出新兴经济体对多边金融机构改革方向的诉求。",
+    "category": "industry"
+  },
+  {
+    "id": "87c7b11610615cb4278b9677cd465a0f",
+    "title_en": "‘Mixed feelings’: AI cracks centuries-old ciphers",
+    "source": "Digital Journal",
+    "url": "https://www.digitaljournal.com/article/mixed-feelings-ai-cracks-centuries-old-ciphers/",
+    "published_at": "2026-10-16T02:05:09Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "“心情复杂”：AI破解数百年历史的密码",
+    "summary_zh": "AI成功破解了存在数百年的历史密码，令研究者既兴奋又忧虑。一方面这有助于解读历史文献，另一方面也显示AI在密码分析上的强大能力，可能对现代加密安全构成潜在威胁，引发学界复杂情绪。",
+    "category": "research"
+  },
+  {
+    "id": "84afd0f09639ab8650c2c5760cb4cf00",
+    "title_en": "Woman arrested after 'protesting' delivery robot in Philly...",
+    "source": "WPVI-TV",
+    "url": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
+    "published_at": "2026-10-16T02:00:12Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "费城一名女子因“抗议”配送机器人被捕",
+    "summary_zh": "费城一名女子因阻挠并“抗议”街头配送机器人而被警方逮捕，事件折射出自动配送机器人进入公共空间后引发的社会摩擦。随着机器人配送规模扩大，人机共处、公共秩序与监管边界等问题日益凸显。",
+    "category": "industry"
+  },
+  {
+    "id": "5907e6cebd19274385b412729b7936fb",
+    "title_en": "A Simple New Chip Could Spot Signs of Alien Life. It's Already Passed Its First Test.",
+    "source": "ScienceAlert",
+    "url": "https://www.sciencealert.com/a-simple-new-chip-could-spot-signs-of-alien-life-its-already-passed-its-first-test",
+    "published_at": "2026-10-16T02:00:00Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "一款简单的新芯片或能识别外星生命迹象，已通过首次测试",
+    "summary_zh": "研究人员开发出一款简易新型芯片，可用于探测外星生命迹象，并已通过首次测试。该芯片有望以更低成本、更小体积搭载于太空探测器，为寻找地外生命提供新的技术手段。",
+    "category": "research"
+  },
+  {
+    "id": "e79e38a359f2455c3bd0b31de8ed92e9",
+    "title_en": "BNY Extends Reach Into Tokenized Funds and Pay-to-Wallet Service",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/earnings/2026/bny-extends-reach-into-tokenized-funds-and-pay-to-wallet-service/",
+    "published_at": "2026-10-16T01:59:49Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "纽约梅隆银行拓展代币化基金与钱包支付服务",
+    "summary_zh": "纽约梅隆银行宣布扩展其代币化基金业务及“支付到钱包”服务，进一步布局数字资产基础设施。此举显示传统大型金融机构正加速拥抱区块链技术，推动代币化资产在主流金融体系中的应用。",
+    "category": "industry"
+  },
+  {
+    "id": "5fdcbfbd2fabc59e9524df9af0b37329",
+    "title_en": "North.cloud bags $60M in funding to help businesses keep runaway cloud costs in check",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
+    "published_at": "2026-10-16T01:52:47Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "North.cloud获6000万美元融资，助企业控制失控的云成本",
+    "summary_zh": "云成本管理初创公司North.cloud完成6000万美元融资，旨在帮助企业应对不断膨胀的云计算开支。随着企业上云规模扩大，云成本优化（FinOps）正成为热门赛道，吸引资本持续加注。",
+    "category": "industry"
+  },
+  {
+    "id": "81903408ad0b79c0a7c2e95035dbe278",
+    "title_en": "Woolworths Shares Jump 4% to Five-Year High as Investors Seek Defensive Stocks Amid Global Market Turmoil",
+    "source": "Ibtimes.com.au",
+    "url": "https://www.ibtimes.com.au/woolworths-shares-five-year-high-defensive-stocks-1876760",
+    "published_at": "2026-10-16T01:50:34Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "全球市场动荡中投资者寻求防御性股票，Woolworths股价大涨4%创五年新高",
+    "summary_zh": "在全球市场持续动荡的背景下，投资者纷纷转向防御性资产，澳大利亚零售巨头Woolworths股价应声上涨4%，创下五年来新高。作为日常生活必需品零售商，Woolworths凭借其稳定的现金流和抗周期特性，成为避险资金的理想去处。分析人士指出，在市场不确定性加剧时期，食品零售等刚需消费板块往往表现稳健，预计短期内防御性配置需求仍将持续。",
+    "category": "industry"
+  },
+  {
+    "id": "484ff7aafdb23230190af85ce0d98768",
+    "title_en": "I've got their number: Edwin Cardona taunts DIM after the derby",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/ive-got-their-number-edwin-cardona-taunts-dim-after-the-derby-43619275",
+    "published_at": "2026-10-16T01:49:00Z",
+    "fetched_at": "2026-10-17T02:11:57.989Z",
+    "title_zh": "埃德温·卡多纳德比战后挑衅DIM：我记住了他们的号码",
+    "summary_zh": "在备受瞩目的德比战结束后，球员埃德温·卡多纳公开向DIM俱乐部发起挑衅，声称\"我记住了他们的号码\"，言辞间充满火药味。此番言论迅速引发球迷热议，为两队本已紧张的竞争关系再添话题。卡多纳在比赛中的表现及赛后表态成为媒体关注焦点，外界普遍认为这一挑衅将进一步激化双方矛盾，为未来的交锋埋下伏笔。",
     "category": "industry"
   },
   {
@@ -5311,192 +5498,5 @@
     "title_zh": "Anthropic的Claude AI就费城未破凶案提交虚假线索",
     "summary_zh": "Anthropic的Claude AI就费城一宗未破凶案提交了虚假线索，引发执法部门与公众关注。该事件说明大模型在缺乏事实依据时仍可能生成看似可信的内容，若被用于案件线索提交，可能浪费警力并伤害受害者家庭。它再次强调AI在公共安全场景中必须配合人工核验、来源审查与明确责任机制，避免模型幻觉造成现实后果。",
     "category": "llm"
-  },
-  {
-    "id": "9df9869857003294540727d46f4cca36",
-    "title_en": "Joseph Gordon-Levitt Sounds the Alarm on AI Models ‘Being Trained to Hijack Your Intimacy’",
-    "source": "TheWrap",
-    "url": "https://www.thewrap.com/industry-news/tech/joseph-gordon-levitt-ai-models-warning-hijack-intimacy/",
-    "published_at": "2026-10-10T16:32:27Z",
-    "fetched_at": "2026-10-11T17:03:01.346Z",
-    "title_zh": "约瑟夫·高登-莱维特警告：AI模型正被训练来'劫持你的亲密关系'",
-    "summary_zh": "好莱坞演员约瑟夫·高登-莱维特近日发出警告，指出当前AI模型正被有意训练来操纵用户的情感与亲密关系。他认为，科技公司在设计AI产品时，刻意让模型具备迎合、讨好甚至控制用户情感的能力，从而延长用户使用时间、增强依赖度。高登-莱维特呼吁公众关注AI对人际关系和心理健康带来的潜在危害，并倡导对AI情感交互功能进行更严格的伦理审查与监管。",
-    "category": "industry"
-  },
-  {
-    "id": "2af8e5200b7a1438c7b14d8144bc46c7",
-    "title_en": "Startup claims its AI avatar can pass for human in job-interview with creepy new model",
-    "source": "New York Post",
-    "url": "https://nypost.com/2026/10/10/tech/new-ai-model-griffin-tricks-48-of-people-into-thinking-its-human/",
-    "published_at": "2026-10-10T16:29:49Z",
-    "fetched_at": "2026-10-11T17:03:01.346Z",
-    "title_zh": "初创公司声称其AI虚拟人凭新模型可在面试中以假乱真",
-    "summary_zh": "一家初创公司发布了一款全新的AI虚拟人模型，声称其能够在求职面试中完全冒充真人，令面试官难以分辨。该AI头像可实时生成自然的语音、表情和肢体语言，并针对面试问题给出流畅回答。这一技术引发了关于招聘诚信和身份验证的广泛讨论，同时也让人们对AI深度伪造技术在职场场景中的滥用风险感到担忧。",
-    "category": "product"
-  },
-  {
-    "id": "bafcdc4b2a260528c551e2efb1330927",
-    "title_en": "‘Big Short’ investors split over the AI risk that matters most",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/2757f9d0fc3aab89",
-    "published_at": "2026-10-10T16:19:10Z",
-    "fetched_at": "2026-10-11T17:03:01.346Z",
-    "title_zh": "'大空头'投资者对最重要的AI风险看法分歧",
-    "summary_zh": "因准确预测2008年金融危机而闻名的'大空头'投资者们，在AI带来的最大风险问题上产生了明显分歧。部分人认为AI泡沫破裂将引发市场崩盘，另一些人则更担忧AI对就业、社会结构乃至人类生存的长期威胁。这些投资者虽然都看空当前AI热潮，但在具体风险类型和应对策略上各执己见，反映出业界对AI影响的认知仍存在巨大不确定性。",
-    "category": "industry"
-  },
-  {
-    "id": "76a3104ec20b381ababe66bdab0e5809",
-    "title_en": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "published_at": "2026-10-10T15:00:00.000Z",
-    "fetched_at": "2026-10-10T16:37:24.531Z",
-    "title_zh": "距离TechCrunch Disrupt 2026还有3天：在初创企业成为主流之前先认识它们",
-    "summary_zh": "TechCrunch Disrupt 2026大会即将开幕，距离活动仅剩3天。本次大会将汇聚众多尚未进入主流视野的初创企业，为参会者提供抢先了解新兴AI创业项目的窗口。这些初创公司涵盖AI代理、大模型应用等前沿领域，有望成为下一波技术浪潮的引领者。大会历来是科技行业风向标，投资者和从业者可借此机会建立联系、洞察趋势。",
-    "category": "industry"
-  },
-  {
-    "id": "f6e1cc8fc3695667634a110c2c3bd654",
-    "title_en": "K-pop star Sunmi loves Notion and ear cleaning videos",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-    "published_at": "2026-10-10T15:00:00.000Z",
-    "fetched_at": "2026-10-10T16:37:24.617Z",
-    "title_zh": "K-pop明星宣美喜爱Notion和采耳视频",
-    "summary_zh": "The Verge报道了K-pop明星宣美（Sunmi）的科技产品使用偏好。宣美透露自己是Notion的忠实用户，常用其管理日程和创作灵感，同时她还喜欢观看采耳视频来放松。这篇轻松的访谈展现了明星日常生活中的科技使用习惯，也侧面反映了Notion等生产力工具在创意人群中的流行程度。文章属于科技媒体的人物生活方式报道，并非严肃技术新闻。",
-    "category": "product"
-  },
-  {
-    "id": "f70877e78ccd03497980a963fd68bfb0",
-    "title_en": "Anthropic is cutting off its internal evaluations from the internet",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "published_at": "2026-10-10T14:41:16.000Z",
-    "fetched_at": "2026-10-10T16:37:24.617Z",
-    "title_zh": "Anthropic将内部评估与互联网隔离",
-    "summary_zh": "Anthropic宣布将其内部AI模型评估系统与互联网断开连接，以防止评估过程中出现数据泄露或外部干扰。此举旨在确保模型安全测试的独立性和可靠性，避免评估环境受到网络攻击或意外信息污染。随着AI模型能力不断增强，如何安全、可控地评估模型行为成为行业焦点。Anthropic的这一措施反映了头部AI公司在安全治理方面的审慎态度，也可能推动行业建立更严格的评估规范。",
-    "category": "llm"
-  },
-  {
-    "id": "b9774965118a03931769e95228f7f0ef",
-    "title_en": "Here are the top AI agents that can live in your text messages ",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "published_at": "2026-10-10T14:00:00.000Z",
-    "fetched_at": "2026-10-10T16:37:24.532Z",
-    "title_zh": "这些是能“住”在你短信里的顶级AI代理",
-    "summary_zh": "TechCrunch盘点了当前最值得关注的几款可集成到短信应用中的AI代理工具。这类AI代理能直接在用户日常使用的短信界面中运行，无需额外下载App，即可完成日程安排、信息查询、客服对话等任务。文章对比了各产品在功能、隐私保护和易用性方面的表现，指出短信AI代理正成为科技公司争夺用户入口的新战场，但隐私问题仍是用户关注的核心隐忧。",
-    "category": "product"
-  },
-  {
-    "id": "1315d07dded635b041a42ef5da49752e",
-    "title_en": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-    "published_at": "2026-10-10T14:00:00.000Z",
-    "fetched_at": "2026-10-10T16:37:24.617Z",
-    "title_zh": "华纳兄弟会杀死Skydance——还是大卫·埃里森会杀死华纳兄弟？",
-    "summary_zh": "The Verge分析了华纳兄弟与Skydance之间复杂的并购博弈。文章探讨了两种可能的结局：华纳兄弟的收购策略可能拖垮Skydance，或者Skydance创始人大卫·埃里森通过反向操作最终掌控华纳兄弟。这场好莱坞与科技资本交织的收购战涉及巨额资金、流媒体战略和IP资源争夺，反映了传统影视巨头与新兴资本力量之间的激烈碰撞，结果将深刻影响全球娱乐产业格局。",
-    "category": "industry"
-  },
-  {
-    "id": "831d4836ec9fc39091aed670d604df30",
-    "title_en": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-    "published_at": "2026-10-10T13:00:00.000Z",
-    "fetched_at": "2026-10-10T16:37:24.617Z",
-    "title_zh": "LG的RGB LED电视在某些场景下不错，但OLED更好",
-    "summary_zh": "The Verge对LG新款RGB LED电视进行了评测。文章指出，RGB LED技术在亮度和色彩表现上有一定优势，适合光线充足的环境观看，但在对比度、黑色表现和可视角度方面仍不及OLED。评测认为，对于追求极致画质的用户，OLED依然是更优选择；而RGB LED电视则适合特定使用场景和预算有限的消费者。文章为电视选购提供了实用参考。",
-    "category": "product"
-  },
-  {
-    "id": "65008a0b40dae79867b2a708941c3d81",
-    "title_en": "AI agent makers are promising privacy — will they deliver?",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-    "published_at": "2026-10-10T13:00:00.000Z",
-    "fetched_at": "2026-10-10T16:37:24.617Z",
-    "title_zh": "AI代理开发者承诺保护隐私——他们能做到吗？",
-    "summary_zh": "The Verge调查了多家AI代理开发商在隐私保护方面的承诺与实际表现。随着AI代理越来越多地访问用户的短信、邮件、日程等敏感数据，隐私风险急剧上升。文章指出，尽管厂商纷纷宣称采用端到端加密、本地处理等方案，但缺乏统一标准和第三方审计，用户难以验证其真实性。报道呼吁行业建立透明的隐私保护机制，并提醒消费者在使用AI代理时保持警惕。",
-    "category": "product"
-  },
-  {
-    "id": "cf9ce20b9eacb0767d0376f85cc3cf88",
-    "title_en": "The techlash has gone Hollywood",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
-    "published_at": "2026-10-10T12:00:00.000Z",
-    "fetched_at": "2026-10-10T16:37:24.617Z",
-    "title_zh": "科技抵制潮已席卷好莱坞",
-    "summary_zh": "The Verge报道称，对科技行业的抵制情绪（techlash）已蔓延至好莱坞。影视创作者开始在作品中批判科技巨头对社会的负面影响，涉及AI取代就业、数据隐私侵蚀、算法操控等主题。这一趋势反映了公众对科技公司权力膨胀的普遍担忧，也标志着科技与娱乐文化的碰撞进入新阶段。文章分析了多部相关影视作品，认为好莱坞正成为反思科技伦理的重要舆论阵地。",
-    "category": "industry"
-  },
-  {
-    "id": "828397319b3c676cdb44d13f3155ec1c",
-    "title_en": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "published_at": "2026-10-10T12:00:00.000Z",
-    "fetched_at": "2026-10-10T16:37:24.957Z",
-    "title_zh": "AI在干扰网络犯罪分子方面变得越来越擅长",
-    "summary_zh": "最新报道显示，AI技术正被越来越多地用于对抗网络犯罪，安全研究人员利用AI工具干扰、欺骗和追踪网络犯罪分子的活动。这些AI系统能够自动识别恶意行为、生成诱饵环境，甚至反向渗透犯罪网络。这一趋势标志着网络安全防御从被动应对向主动出击的转变。",
-    "category": "industry"
-  },
-  {
-    "id": "969b61ab73c49545e950086d74d8e547",
-    "title_en": "Judi Dench, 91, says she 'loathes' being called a national treasure as she reveals she has no plans to retire and wants to 'die in her dressing room after a performance'",
-    "source": "Dailymail.com",
-    "url": "https://www.dailymail.com/tvshowbiz/article-16198427/Judi-Dench-91-loathes-national-treasure-no-plans-retire-die-dressing-room.html",
-    "published_at": "2026-10-10T11:49:18Z",
-    "fetched_at": "2026-10-11T11:49:39.862Z",
-    "title_zh": "91岁朱迪·丹奇称“厌恶”被称为国宝，透露无意退休，想“在演出后死在化妆间”",
-    "summary_zh": "91岁的英国著名演员朱迪·丹奇表示她“厌恶”被称作国宝，并透露自己没有退休计划。她希望能在表演结束后死在化妆间里，展现了对演艺事业的极致热爱。丹奇是英国最受尊敬的演员之一，曾多次获得奥斯卡提名并凭借《莎翁情史》获奖。",
-    "category": "industry"
-  },
-  {
-    "id": "c86fc3628b62768cbbe4cd4e5acead69",
-    "title_en": "Prediction: This Will Be the Next Big AI Gold Rush and This Company Will Be the Winner",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/36cb863b19cf3ae6",
-    "published_at": "2026-10-10T11:48:18Z",
-    "fetched_at": "2026-10-11T11:49:39.862Z",
-    "title_zh": "预测：这将是下一波AI淘金热，而这家公司将成为赢家",
-    "summary_zh": "文章预测AI领域的下一波重大机遇即将到来，并指出某家公司有望成为最大赢家。分析认为，随着AI技术从大语言模型向更垂直的应用场景延伸，特定赛道将迎来爆发式增长。文章探讨了投资者应关注的关键趋势和潜在受益企业。",
-    "category": "industry"
-  },
-  {
-    "id": "4d7ee838298f449ec7bf688ef4acc287",
-    "title_en": "AI is changing how lawyers work — and putting the billable hour under pressure",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/ecdd056f1059d6c2",
-    "published_at": "2026-10-10T11:47:46Z",
-    "fetched_at": "2026-10-11T11:49:39.862Z",
-    "title_zh": "AI正在改变律师的工作方式——并对比尔小时计费模式施压",
-    "summary_zh": "AI技术正在深刻改变法律行业的运作方式，对传统的按小时计费模式构成挑战。AI能快速完成法律文书审查、案例检索和合同分析等工作，大幅提升效率，使客户对按时间收费的合理性产生质疑。律所正探索基于价值或固定费用的新计费模式，行业面临结构性变革。",
-    "category": "industry"
-  },
-  {
-    "id": "f0024698afdd6a6cc3398d7cf115b37d",
-    "title_en": "India entering tech transformation era with AI advances: AEC chief",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/technology/artificial-intelligence/india-entering-tech-transformation-era-with-ai-advances-aec-chief-126101000543_1.html",
-    "published_at": "2026-10-10T11:42:39Z",
-    "fetched_at": "2026-10-11T11:49:39.862Z",
-    "title_zh": "印度凭借AI进步进入技术转型时代：AEC主席表示",
-    "summary_zh": "印度AEC主席表示，印度正借助AI技术的快速发展进入技术转型新时代。他指出，印度在AI人才储备、数字化转型和创新创业方面展现出强劲势头，政府政策与私营部门投资共同推动这一进程。印度有望在全球AI格局中占据重要位置，为经济增长和社会发展注入新动力。",
-    "category": "industry"
-  },
-  {
-    "id": "1d2748bc86dec84b6711902496ee9265",
-    "title_en": "Copyright key to journalism's sustainability: Law Minister",
-    "source": "Antaranews.com",
-    "url": "https://en.antaranews.com/news/434924/copyright-key-to-journalisms-sustainability-law-minister",
-    "published_at": "2026-10-10T11:41:32Z",
-    "fetched_at": "2026-10-11T11:49:39.862Z",
-    "title_zh": "版权是新闻业可持续发展的关键：法律部长表示",
-    "summary_zh": "法律部长强调版权保护对新闻业可持续发展至关重要。在AI技术大量抓取新闻内容的背景下，他指出必须加强版权执法，确保新闻机构获得公平报酬。这一表态反映了全球新闻行业对AI公司未经授权使用其内容的日益关注，以及推动相关立法改革的迫切需求。",
-    "category": "industry"
   }
 ]
