@@ -1,5 +1,38 @@
 [
   {
+    "id": "f44f6e736d881b5092377418258287eb",
+    "title_en": "Meta removes language that raised scraping and AI training concerns",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "published_at": "2026-10-17T21:31:32.000Z",
+    "fetched_at": "2026-10-18T02:11:53.122Z",
+    "title_zh": "Meta删除引发数据抓取和AI训练担忧的措辞",
+    "summary_zh": "Meta近期从其服务条款中删除了部分涉及数据抓取和AI训练的表述，此举引发外界对其数据使用政策的进一步关注。此前相关措辞曾被视为对用户数据被用于AI训练的警示，删除后可能意味着Meta在数据利用方面采取更宽松的立场，也引发了隐私倡导者和监管机构的担忧。",
+    "category": "industry"
+  },
+  {
+    "id": "400761d0ded12e8ce1bbc15ab8b6b4aa",
+    "title_en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "published_at": "2026-10-17T20:21:19.000Z",
+    "fetched_at": "2026-10-18T02:11:53.122Z",
+    "title_zh": "Anthropic称其员工队伍趋于初级化，会议时间增加",
+    "summary_zh": "Anthropic发布报告称，公司员工结构正变得更为初级，同时员工花在会议上的时间明显增多。这一变化可能反映出AI企业在快速扩张过程中面临的管理挑战，也引发了对组织效率和人才结构的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "74d0d83d3b7b4e364fe8a040f88f74ab",
+    "title_en": "TikTok bans Musk documentary account",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+    "published_at": "2026-10-17T19:32:23.000Z",
+    "fetched_at": "2026-10-18T02:11:53.255Z",
+    "title_zh": "TikTok封禁马斯克纪录片账号",
+    "summary_zh": "TikTok封禁了一个发布马斯克相关纪录片的账号，具体原因尚未完全披露。此举引发了对平台内容审核标准和言论自由的讨论，也凸显了社交媒体在处理争议性人物内容时的敏感性。",
+    "category": "industry"
+  },
+  {
     "id": "984f5483be3ae35f32c640565e666929",
     "title_en": "Replit is no longer working with Anthropic, CEO says",
     "source": "TechCrunch AI",
@@ -8,6 +41,28 @@
     "fetched_at": "2026-10-17T19:52:05.421Z",
     "title_zh": "Replit CEO表示已不再与Anthropic合作",
     "summary_zh": "Replit首席执行官在采访中透露，公司已终止与AI公司Anthropic的合作关系。此前Replit曾将Anthropic的Claude模型集成到其编程助手产品中，帮助用户生成和调试代码。双方分道扬镳的具体原因尚未公开，但这一变动可能反映出AI编程工具领域竞争加剧，以及平台方在模型供应商选择上的策略调整。",
+    "category": "industry"
+  },
+  {
+    "id": "f4f60d0108f13bf9d6d6b5244b889bbc",
+    "title_en": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+    "published_at": "2026-10-17T17:00:00.000Z",
+    "fetched_at": "2026-10-18T02:11:53.255Z",
+    "title_zh": "梅赛德斯-AMG首款全新打造SUV：1150马力电动猛兽",
+    "summary_zh": "梅赛德斯-AMG推出其首款从零打造的纯电动SUV，输出功率高达1150马力，定位高性能电动车型。该车标志着AMG品牌在电动化转型上的重要一步，展示了传统豪华性能品牌在电动时代的竞争力。",
+    "category": "product"
+  },
+  {
+    "id": "14a41c24d1be6048ab38288a73caab2c",
+    "title_en": "Elon Musk settles lawsuits over $1 million voter giveaway",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+    "published_at": "2026-10-17T16:39:44.000Z",
+    "fetched_at": "2026-10-18T02:11:53.255Z",
+    "title_zh": "马斯克就100万美元选民抽奖诉讼达成和解",
+    "summary_zh": "埃隆·马斯克就其涉及100万美元选民抽奖的相关诉讼达成和解。该事件此前引发了对选举法规和名人影响力的广泛争议，和解结果避免了进一步的法律纠纷。",
     "category": "industry"
   },
   {
@@ -174,6 +229,116 @@
     "title_zh": "为何AI尚无法应对我们复杂的基因组",
     "summary_zh": "尽管AI在生物医学领域进展迅速，但面对人类基因组的极端复杂性仍显力不从心。文章指出，基因组中大量非编码区域、基因间相互作用以及环境因素的影响，使现有AI模型难以准确解读。专家认为，数据质量、可解释性和生物学先验知识的融合是AI攻克基因组难题的关键障碍。",
     "category": "research"
+  },
+  {
+    "id": "826c5f9b69af3d5dfc66f60829041021",
+    "title_en": "North Korea says tested AI-assisted torpedo system",
+    "source": "CNA",
+    "url": "https://www.channelnewsasia.com/east-asia/north-korea-ai-torpedo-system-6467791",
+    "published_at": "2026-10-17T02:11:00Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "朝鲜称已测试AI辅助鱼雷系统",
+    "summary_zh": "据CNA报道，朝鲜宣称成功测试了一套AI辅助的鱼雷系统。朝方称该系统的AI能力可提升目标识别与自主攻击精度，但外界对其真实技术水平仍存疑。分析人士指出，朝鲜近年来频繁展示AI军事应用，意在对外释放威慑信号并推动武器出口叙事。该动向也引发对AI军事化、自主武器扩散及地区安全稳定的担忧，相关技术细节与验证情况尚待独立评估。",
+    "category": "industry"
+  },
+  {
+    "id": "976b77269cfed84369d0150993cd22b0",
+    "title_en": "AI agents accessing corp data undetected: CERT-In",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-accessing-corp-data-undetected-cert-in/articleshow/135006013.cms",
+    "published_at": "2026-10-17T02:04:31Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "印度CERT-In：AI代理可在不被察觉的情况下访问企业数据",
+    "summary_zh": "据《印度时报》报道，印度计算机应急响应小组（CERT-In）警告称，AI代理能够在企业环境中不被察觉地访问敏感数据。这类代理通常以自动化任务为名获得系统权限，其访问行为可能绕过传统监控与日志审计，形成隐蔽的数据外泄通道。CERT-In建议企业梳理AI代理的权限范围、加强行为审计与网络分段，并对第三方AI工具实施更严格的准入与持续监控，以降低内部数据被静默访问的风险。",
+    "category": "industry"
+  },
+  {
+    "id": "f3006959df2cdde21a0f54a025204a30",
+    "title_en": "Malaysia unveils six homegrown chips in push beyond assembly lines",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/malaysia-unveils-six-homegrown-semiconductor-chips/",
+    "published_at": "2026-10-17T01:49:48Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "马来西亚发布六款自研芯片，力图突破单纯代工组装环节",
+    "summary_zh": "据Crypto Briefing报道，马来西亚发布了六款本土自主研发的芯片，标志着该国试图从全球半导体供应链中的封装组装环节向上游设计能力延伸。此举被视为马来西亚强化半导体产业自主性、吸引高附加值投资的重要一步。文章分析了该国在人才、设计与生态方面的挑战，以及在中美科技竞争背景下，东南亚国家争取芯片产业链升级的机遇与风险。",
+    "category": "industry"
+  },
+  {
+    "id": "8e463bb3c7a56a86c1b099d1bf704b88",
+    "title_en": "3 Questions: What Is the Best Path Forward for AI in Academia?",
+    "source": "The Good Men Project",
+    "url": "https://goodmenproject.com/featured-content/3-questions-what-is-the-best-path-forward-for-ai-in-academia/",
+    "published_at": "2026-10-17T01:30:16Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "三问：AI在学术界的最佳前进道路是什么？",
+    "summary_zh": "The Good Men Project刊文以“三问”形式探讨AI在学术界的最佳发展路径。文章围绕AI对科研范式、教学方式与学术诚信的影响展开：AI能否加速发现、如何避免学生过度依赖、以及高校应如何制定使用规范与评估标准。作者主张在拥抱效率提升的同时，建立透明的披露机制与批判性使用框架，让AI成为辅助工具而非替代思考的捷径，并呼吁院校在政策制定中兼顾创新与学术规范。",
+    "category": "research"
+  },
+  {
+    "id": "7429495a79cda82b5594dfe03122df56",
+    "title_en": "Elon Musk unveils flying-capable Tesla Roadster with 2028 release target",
+    "source": "WISHTV.com",
+    "url": "https://www.wishtv.com/news/elon-musk-unveils-flying-capable-tesla-roadster-with-2028-release-target/",
+    "published_at": "2026-10-17T01:29:57Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "马斯克发布具备飞行能力的特斯拉Roadster，目标2028年上市",
+    "summary_zh": "据WISHTV.com报道，埃隆·马斯克发布了具备飞行能力的特斯拉Roadster，并给出2028年上市目标。马斯克称新车将融合极致性能与“飞行”演示能力，但具体技术细节、法规可行性与量产计划仍不明朗。文章指出，特斯拉过往多次推迟Roadster交付时间，此次表态能否兑现存疑；飞行汽车还面临安全认证、空域管理与成本等现实障碍，市场反应与监管态度值得关注。",
+    "category": "product"
+  },
+  {
+    "id": "562eba30c261d7fc950f5adfac87b0f9",
+    "title_en": "AI Debt Warning Signs Are Piling Up: Why Bond Markets Are Getting Nervous About AI Infrastructure Spending",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/1110e6038c826324",
+    "published_at": "2026-10-17T01:21:02Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "AI债务警讯不断累积：债券市场为何对AI基础设施支出感到不安",
+    "summary_zh": "Biztoc.com报道，围绕AI基础设施的巨额支出正引发债券市场担忧，AI相关债务的警示信号不断累积。数据中心、算力与电力建设需要天量资本，科技公司越来越多地借助债务融资，令投资者担心回报周期与现金流压力。文章分析了债券利差走阔、评级机构关注度上升等现象，并讨论若AI投资回报不及预期，可能对科技企业资产负债表与整体金融市场稳定造成的连锁影响。",
+    "category": "industry"
+  },
+  {
+    "id": "67bb7d2e1fb37139111eb389b1ac1c62",
+    "title_en": "Tech stocks tumble as AI debt fears rattle Wall Street",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/91fca84d7a89fb42",
+    "published_at": "2026-10-17T01:04:40Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "AI债务担忧震动华尔街，科技股大幅下挫",
+    "summary_zh": "Biztoc.com报道，受AI债务担忧影响，华尔街科技股出现大幅下挫。投资者开始质疑科技巨头为AI基础设施大举举债的可持续性，担心高额资本开支与债务负担在回报兑现前侵蚀利润。市场情绪转向谨慎，相关债券与股票同步承压。文章指出，这轮调整反映市场正从“AI无限乐观”转向审视实际盈利与融资结构，后续财报与资本开支指引将成为关键风向标。",
+    "category": "industry"
+  },
+  {
+    "id": "ca02a3fbb9eeb9ab32854d2c8655c02b",
+    "title_en": " Matchweek 31 is under way! See the updated Brasileirão table",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/matchweek-31-is-under-way-see-the-updated-brasileirao-table-43624355",
+    "published_at": "2026-10-17T00:59:00Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "第31轮比赛进行中！查看最新巴甲积分榜",
+    "summary_zh": "Onefootball.com报道，巴西足球甲级联赛第31轮比赛正在进行，并同步更新了最新积分榜。文章为球迷提供各队排名、积分与近期战绩概览，便于跟踪争冠与保级形势。内容属于体育赛事资讯，与人工智能、科技产业无关，仅因聚合抓取被列入本次列表。",
+    "category": "industry"
+  },
+  {
+    "id": "656abea95aa20328381eea354bbae6e5",
+    "title_en": "Jack Quaid And Sophie Thatcher's Must-Watch 2025 Sci-Fi Movie Is Streaming On HBO Max",
+    "source": "BGR",
+    "url": "https://www.bgr.com/2286461/jack-quaid-sophie-thatcher-must-watch-sci-fi-movie-companion-streaming-hbo-max/",
+    "published_at": "2026-10-17T00:47:00Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "杰克·奎德与苏菲·撒切尔主演的2025年必看科幻片正在HBO Max上线",
+    "summary_zh": "BGR报道，由杰克·奎德与苏菲·撒切尔主演的一部2025年科幻电影现已在HBO Max上线流媒体。文章将其列为“必看”之作，介绍了影片的题材设定、演员表现与观影亮点，并说明上线平台与观看方式。内容属于影视娱乐资讯，与人工智能及科技产业无直接关联，仅因聚合抓取被纳入本次列表。",
+    "category": "product"
+  },
+  {
+    "id": "59d248e9318362ba0bc909ee8d0be79e",
+    "title_en": "Best of Opinion: India must bring its brightest minds home, like China did",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/opinion/specials/best-of-opinion-india-must-bring-its-brightest-minds-home-like-china-did-126101601371_1.html",
+    "published_at": "2026-10-17T00:45:13Z",
+    "fetched_at": "2026-10-18T02:11:53.846Z",
+    "title_zh": "观点精选：印度应像中国那样把最优秀的人才吸引回国",
+    "summary_zh": "《商业标准报》刊发评论指出，印度应效仿中国的做法，将海外最优秀的科技与科研人才吸引回国。文章认为，人才外流使印度在AI、半导体等前沿领域损失关键智力资源，而中国通过政策激励、科研平台与产业机会成功吸引人才回流。作者建议印度在薪酬、研究环境、创业生态与签证便利等方面综合施策，把人才回流转化为创新与产业升级的动力。",
+    "category": "industry"
   },
   {
     "id": "e8f6ba7bfa2bb42f53eca87c7664d192",
@@ -5333,170 +5498,5 @@
     "title_zh": "HomeView 会成为苹果在智能家居领域的首个成功之作吗？",
     "summary_zh": "苹果传闻已久的智能家居设备 HomeView 可能即将面世，业界关注它能否帮助苹果在这个竞争激烈的市场中取得突破。此前苹果在智能家居领域的布局相对分散，HomeKit 生态虽有一定基础，但缺乏一款真正意义上的核心硬件产品。HomeView 若能将 AI 能力与家庭场景深度融合，或将成为苹果在该领域的关键转折点，但面对亚马逊和谷歌的先发优势，挑战依然不小。",
     "category": "product"
-  },
-  {
-    "id": "430c908a60daaa16df1a8590d1c490c1",
-    "title_en": "A college in Illinois tried to cancel its Flock contact and it refused",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
-    "published_at": "2026-10-11T20:06:43.000Z",
-    "fetched_at": "2026-10-11T21:15:07.722Z",
-    "title_zh": "伊利诺伊州一所大学试图取消与 Flock 的合作，却遭到拒绝",
-    "summary_zh": "伊利诺伊州一所大学试图终止与监控技术公司 Flock 的合同，但遭到对方拒绝，引发了对校园监控和数据隐私的广泛关注。Flock 是一家提供车牌识别和监控系统的公司，其技术被越来越多地部署在校园和社区中。此次事件凸显了机构在终止监控技术合同时面临的法律和合同障碍，也引发了关于执法技术透明度和问责制的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "d42fee38b555703292b9a3f942703a92",
-    "title_en": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "published_at": "2026-10-11T19:00:00.000Z",
-    "fetched_at": "2026-10-11T21:15:07.622Z",
-    "title_zh": "距离 TechCrunch Disrupt 2026 还有 48 小时——直接聆听正在构建未来的人们的分享",
-    "summary_zh": "TechCrunch Disrupt 2026 大会即将在 48 小时后开幕，这是一场汇聚全球科技创新者和创业者的顶级盛会。与会者将有机会直接聆听正在塑造下一代技术和产品的创始人和行业领袖的分享。大会涵盖 AI、创业投资、产品创新等热门议题，是了解科技前沿趋势和建立行业人脉的重要平台。",
-    "category": "industry"
-  },
-  {
-    "id": "5e9f78f70319a3a9aba563942aaa76cd",
-    "title_en": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "published_at": "2026-10-11T18:33:56.000Z",
-    "fetched_at": "2026-10-11T21:15:07.722Z",
-    "title_zh": "硅谷正在配合特朗普重新命名 AI 的尝试",
-    "summary_zh": "硅谷科技公司正在配合特朗普政府试图重新定义和命名人工智能相关概念的举措，这一动向引发了科技界的广泛讨论。此举被认为可能带有政治动机，旨在塑造公众对 AI 的认知框架。业界担忧这种政治干预可能影响 AI 技术的独立发展和国际合作关系，同时也反映了当前美国科技政策与政治之间日益紧密的交织关系。",
-    "category": "industry"
-  },
-  {
-    "id": "28f2369993233e5517e5920ae9f9b7ef",
-    "title_en": "The new Apple TV could have a built-in mic and a remote with a speaker",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-    "published_at": "2026-10-11T17:31:07.000Z",
-    "fetched_at": "2026-10-11T21:15:07.722Z",
-    "title_zh": "新款 Apple TV 可能内置麦克风，遥控器配备扬声器",
-    "summary_zh": "据最新消息，苹果正在开发的新款 Apple TV 可能内置麦克风，其遥控器也将配备扬声器，进一步强化智能家居中枢的定位。内置麦克风意味着设备可以直接接收语音指令，无需依赖遥控器，这将大幅提升与 Siri 的交互体验。遥控器加入扬声器则可能用于查找功能和音频反馈。这些升级表明苹果正加速将 Apple TV 打造为家庭智能控制中心。",
-    "category": "product"
-  },
-  {
-    "id": "01f5b9038ced5e98cc4407c78cff355a",
-    "title_en": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "published_at": "2026-10-11T16:52:33.000Z",
-    "fetched_at": "2026-10-11T17:03:00.104Z",
-    "title_zh": "AI行业能否通过取消保密协议来争取数据中心反对者？",
-    "summary_zh": "面对各地社区对AI数据中心建设的强烈抵制，AI行业正在考虑一项新策略：主动取消或放宽保密协议（NDA），以提高项目透明度，让居民了解数据中心的实际影响。支持者认为，信息透明有助于缓解公众对噪音、用水和电力消耗的担忧；批评者则质疑这只是公关手段，无法解决数据中心对当地资源和环境的实质性压力。这一动向反映出AI基础设施扩张与社区利益之间日益尖锐的矛盾。",
-    "category": "industry"
-  },
-  {
-    "id": "a6d439f53d50f8b9eef87448063312f2",
-    "title_en": "NASA dumped over 800GB of Artemis II data online",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
-    "published_at": "2026-10-11T15:34:40.000Z",
-    "fetched_at": "2026-10-11T17:03:00.328Z",
-    "title_zh": "NASA在线公开超800GB阿耳忒弥斯二号任务数据",
-    "summary_zh": "NASA将阿耳忒弥斯二号载人绕月任务的超过800GB数据公开发布到网上，供公众和研究人员下载使用。这批数据涵盖任务期间的影像、遥测、轨道参数和科学观测记录等内容。此举被视为NASA推动开放科学和数据共享的重要举措，有助于学术界、教育机构及航天爱好者深入分析任务细节，也为未来阿耳忒弥斯计划的后续任务提供了宝贵的参考基线。",
-    "category": "research"
-  },
-  {
-    "id": "08a063493478856fdf6c98f821cbe34b",
-    "title_en": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
-    "published_at": "2026-10-11T15:15:00.000Z",
-    "fetched_at": "2026-10-11T17:03:00.328Z",
-    "title_zh": "乔治·A·罗梅罗的《女巫的季节》是一部慢热的女权主义神秘剧",
-    "summary_zh": "本文回顾了恐怖片大师乔治·A·罗梅罗执导的《女巫的季节》，认为这部作品是一部节奏缓慢但引人入胜的女权主义神秘剧。影片以女巫题材为外壳，探讨了女性在父权社会中的压迫与反抗。文章分析了罗梅罗如何将社会批判融入恐怖叙事，以及该片在其作品序列中的独特地位。尽管上映时反响平平，但如今被视为一部被低估的佳作。",
-    "category": "product"
-  },
-  {
-    "id": "56970ddf69bcbda975cafb9e448b8530",
-    "title_en": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "published_at": "2026-10-11T14:00:00.000Z",
-    "fetched_at": "2026-10-11T17:03:00.104Z",
-    "title_zh": "这些高管认为语音AI尚未迎来自己的ChatGPT时刻",
-    "summary_zh": "多位科技公司高管在行业会议上表示，尽管语音AI技术近年来进步显著，但仍未达到类似ChatGPT那样的爆发式突破时刻。他们认为当前语音AI在延迟、多轮对话理解、情感识别和噪音环境下的准确性方面仍存在明显短板，用户体验尚不足以支撑大规模消费级应用。高管们预测，随着底层模型能力提升和端侧推理优化，语音AI有望在未来一到两年内迎来真正的拐点。",
-    "category": "llm"
-  },
-  {
-    "id": "b6a59877366b636a57974ec9366a50f1",
-    "title_en": "Palantir CEO says only trade workers or those with neurodivergence will succeed in the AI era",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/dfc15aa510633335",
-    "published_at": "2026-10-11T13:54:24Z",
-    "fetched_at": "2026-10-12T13:55:33.825Z",
-    "title_zh": "Palantir CEO称AI时代只有技工和神经多样性人群能成功",
-    "summary_zh": "Palantir首席执行官发表争议性言论，称在AI时代只有从事技术工种的劳动者以及具有神经多样性特征的人群才能在职场中取得成功。他认为AI将取代大量传统白领岗位，而需要动手操作的技术工作和具有独特认知模式的人才将更具竞争力。此番言论引发广泛讨论和批评。",
-    "category": "industry"
-  },
-  {
-    "id": "fba5477ae398472b95c89f61c542e778",
-    "title_en": "India Releases Draft National Steel Policy 2047, Targets 604 mn tonne Of Capacity",
-    "source": "Deccan Chronicle",
-    "url": "https://www.deccanchronicle.com/business/india-releases-draft-national-steel-policy-2047-targets-604-mn-tonne-of-capacity-1994913",
-    "published_at": "2026-10-11T13:52:39Z",
-    "fetched_at": "2026-10-12T13:55:33.825Z",
-    "title_zh": "印度发布2047年国家钢铁政策草案，目标产能达6.04亿吨",
-    "summary_zh": "印度政府发布《2047年国家钢铁政策》草案，设定宏伟目标：到2047年将钢铁产能提升至6.04亿吨。该政策旨在满足国内基础设施建设需求，推动制造业发展，并减少对进口钢铁的依赖。草案涵盖产能扩张、技术升级、绿色生产和原材料保障等方面，标志着印度钢铁产业的长期战略规划。",
-    "category": "industry"
-  },
-  {
-    "id": "173d3d6afaada2e2b253e9568893732e",
-    "title_en": "Traditional IT growth to taper as AI takes centre stage: TCS CEO",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/info-tech/traditional-it-growth-to-taper-as-ai-takes-centre-stage-tcs-ceo/article71571793.ece",
-    "published_at": "2026-10-11T13:48:23Z",
-    "fetched_at": "2026-10-12T13:55:33.825Z",
-    "title_zh": "TCS CEO：AI成为核心，传统IT增长将放缓",
-    "summary_zh": "塔塔咨询服务公司（TCS）CEO表示，随着人工智能成为行业核心驱动力，传统IT服务的增长将逐步放缓。企业客户正将预算从传统外包和人力密集型项目转向AI解决方案和自动化。TCS正积极调整业务结构，加大AI领域投入，以应对行业转型带来的机遇与挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "705505e3feaac9f5191bf46ac07ae024",
-    "title_en": "GCC exits tests office demand as AI shifts focus from headcount to productivity",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/companies/gcc-exits-tests-office-demand-as-ai-shifts-focus-from-headcount-to-productivity/article71571494.ece",
-    "published_at": "2026-10-11T13:34:11Z",
-    "fetched_at": "2026-10-12T13:55:33.825Z",
-    "title_zh": "GCC退出考验办公需求，AI推动重心从人头转向生产力",
-    "summary_zh": "全球能力中心（GCC）的退出对印度办公地产需求构成考验。与此同时，AI技术的普及正推动企业从单纯追求员工数量转向提升生产力。企业不再依赖大规模招聘来扩张，而是通过AI工具实现效率提升。这一趋势可能对办公空间需求和IT服务模式产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "6b7360fbd5c67120a7965c3b84e4edee",
-    "title_en": "Halo: Combat Evolved video game",
-    "source": "Fontsinuse.com",
-    "url": "https://fontsinuse.com/uses/80469/halo-combat-evolved-video-game",
-    "published_at": "2026-10-11T13:32:30Z",
-    "fetched_at": "2026-10-12T13:55:33.825Z",
-    "title_zh": "《光环：战斗进化》电子游戏",
-    "summary_zh": "该条目介绍经典电子游戏《光环：战斗进化》的字体设计使用情况。文章展示了这款由Bungie开发的标志性第一人称射击游戏中所使用的字体，分析其视觉设计风格如何服务于游戏的科幻美学和品牌识别。内容偏向设计参考，与AI或科技行业无直接关联。",
-    "category": "product"
-  },
-  {
-    "id": "e2f50c7bf395ad1d7895f5bbcca6bfce",
-    "title_en": "Maryland Mammogram Results Letters Must Now Flag Breast Arterial Calcification, a Finding Linked to Higher Heart Disease Risk",
-    "source": "Medical Daily",
-    "url": "https://www.medicaldaily.com/maryland-mammogram-breast-arterial-calcification-heart-risk-law-479816",
-    "published_at": "2026-10-11T13:30:04Z",
-    "fetched_at": "2026-10-12T13:55:33.825Z",
-    "title_zh": "马里兰州要求乳腺X光结果信函须标注乳腺动脉钙化，该指标与心脏病风险升高相关",
-    "summary_zh": "美国马里兰州通过新规，要求乳腺X光检查结果通知信中必须标注是否发现乳腺动脉钙化。研究表明该钙化现象与心血管疾病风险升高存在关联，可作为心脏病的早期预警信号。此举旨在帮助女性通过常规筛查及早发现潜在心脏健康问题，促进跨学科预防性医疗。",
-    "category": "research"
-  },
-  {
-    "id": "9f76dd400e1844bdbfc71f1aada7f2fc",
-    "title_en": "AI is automating coding. So why are software developer job postings on the rise?",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
-    "published_at": "2026-10-11T13:30:01Z",
-    "fetched_at": "2026-10-12T13:55:33.825Z",
-    "title_zh": "AI正在自动化编程，为何软件开发岗位招聘反而增加？",
-    "summary_zh": "CNBC探讨一个看似矛盾的现象：尽管AI编程工具日益强大并自动化了大量编码任务，但软件开发人员的招聘需求却在上升。分析认为，AI降低了开发门槛，催生更多软件项目需求，同时开发者角色转向架构设计和AI协作管理。企业对能驾驭AI工具的高级开发人才需求尤为旺盛。",
-    "category": "industry"
   }
 ]
