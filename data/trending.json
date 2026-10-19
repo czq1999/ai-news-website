@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-19",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：编码代理、多智能体编排、长期记忆与token压缩工具涌现，同时涵盖本地扩散模型GUI与视频修复等实用项目。",
+      "summary_zh": "今日趋势聚焦AI编程代理与智能体工具：开源编码代理、多智能体协作平台、长期记忆方案及token压缩优化成为热点，同时涵盖AI求职、视频修复等实用应用。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/MadsLorentzen/ai-job-search",
           "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
           "language": "Python",
-          "stars_total": 55185,
+          "stars_total": 56389,
           "stars_today": 3860,
           "description_zh": "在你的机器上运行的求职工具。基于 Claude Code 构建的 AI 求职申请框架：评估职位发布、定制简历、撰写求职信、准备面试。Fork 它并完全掌控。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/stablyai/orca",
           "description_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
           "language": "TypeScript",
-          "stars_total": 97485,
+          "stars_total": 97968,
           "stars_today": 1591,
           "description_zh": "Orca 是管理智能体集群（例如 Grok Bot、Claude Code）的工作平台。使用你自己的订阅运行任意编码智能体。支持桌面端、移动端和远程运行时。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/anomalyco/opencode",
           "description_en": "The open source coding agent.",
           "language": "TypeScript",
-          "stars_total": 217158,
+          "stars_total": 217524,
           "stars_today": 1310,
           "description_zh": "开源编码智能体。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/Comfy-Org/ComfyUI",
           "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
           "language": "Python",
-          "stars_total": 139132,
+          "stars_total": 139475,
           "stars_today": 1011,
           "description_zh": "最强大、最模块化的扩散模型 GUI、API 和后端，采用图/节点界面。全球最快的本地推理引擎。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/akitaonrails/ai-memory",
           "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "language": "Rust",
-          "stars_total": 10839,
+          "stars_total": 11117,
           "stars_today": 666,
           "description_zh": "为智能体编码 CLI 提供长期记忆的解决方案，并便于在不同智能体供应商之间进行交接"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/HKUDS/CLI-Anything",
           "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
           "language": "Python",
-          "stars_total": 54917,
+          "stars_total": 55079,
           "stars_today": 607,
           "description_zh": "“CLI-Anything：让所有软件都原生支持智能体”——CLI-Hub：https://clianything.cc/"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/ruvnet/ruflo",
           "description_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
           "language": "TypeScript",
-          "stars_total": 76832,
+          "stars_total": 77024,
           "stars_today": 564,
           "description_zh": "🌊 最初的智能体运行框架。部署智能多玩家集群、协调自主工作流，并构建对话式 AI 系统。具备自适应记忆、自学习智能、联邦机制、向量 RAG 集成，并原生集成 Claude Code / Codex / Hermes 等众多工具"
         },
@@ -80,39 +80,39 @@
           "url": "https://github.com/Kruk2/jasna",
           "description_en": "Video restoration tool",
           "language": "Python",
-          "stars_total": 2694,
+          "stars_total": 2808,
           "stars_today": 502,
           "description_zh": "视频修复工具"
         },
         {
           "rank": 9,
-          "name": "withmarbleapp/os-taxonomy",
-          "url": "https://github.com/withmarbleapp/os-taxonomy",
-          "description_en": "",
-          "language": "JavaScript",
-          "stars_total": 5845,
-          "stars_today": 427,
-          "description_zh": ""
-        },
-        {
-          "rank": 10,
           "name": "shiyu-coder/Kronos",
           "url": "https://github.com/shiyu-coder/Kronos",
           "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
           "language": "Python",
-          "stars_total": 41310,
+          "stars_total": 41456,
           "stars_today": 355,
           "description_zh": "Kronos：金融市场语言的基础模型"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "headroomlabs-ai/headroom",
           "url": "https://github.com/headroomlabs-ai/headroom",
           "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
           "language": "Python",
-          "stars_total": 75971,
+          "stars_total": 76129,
           "stars_today": 317,
           "description_zh": "在工具输出、日志、文件和 RAG 分块到达 LLM 之前对其进行压缩。编码代理的 token 减少 20%，JSON 的 token 减少 60-95%，答案质量不变。提供库、代理和 MCP 服务器。"
+        },
+        {
+          "rank": 11,
+          "name": "withmarbleapp/os-taxonomy",
+          "url": "https://github.com/withmarbleapp/os-taxonomy",
+          "description_en": "",
+          "language": "JavaScript",
+          "stars_total": 5997,
+          "stars_today": 301,
+          "description_zh": ""
         },
         {
           "rank": 12,
@@ -120,7 +120,7 @@
           "url": "https://github.com/anthropics/claude-code",
           "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "TypeScript",
-          "stars_total": 152348,
+          "stars_total": 152504,
           "stars_today": 167,
           "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编码。"
         }
