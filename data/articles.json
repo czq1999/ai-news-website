@@ -1,5 +1,71 @@
 [
   {
+    "id": "8289d0336450d60e1922f47e3c9b14a6",
+    "title_en": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "published_at": "2026-10-20T01:27:03.000Z",
+    "fetched_at": "2026-10-20T02:40:54.327Z",
+    "title_zh": "曼达尼称联邦政府在AI问题上失职，呼吁纽约人奋起反抗",
+    "summary_zh": "纽约政治人物曼达尼公开批评联邦政府在人工智能监管方面缺位，认为华盛顿未能履行应尽职责，导致AI风险缺乏有效约束。他呼吁纽约市民和地方政府主动发声、推动政策反制，不要被动等待联邦层面行动。此番表态反映出美国地方层面对AI治理真空日益加剧的担忧。",
+    "category": "industry"
+  },
+  {
+    "id": "80399fa8ecd0159129a594e0f7867cb3",
+    "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "published_at": "2026-10-19T23:39:38.000Z",
+    "fetched_at": "2026-10-20T02:40:54.327Z",
+    "title_zh": "传Nscale与Anthropic洽谈又一笔450亿美元算力交易",
+    "summary_zh": "据报道，AI基础设施公司Nscale正与Anthropic就一笔规模高达450亿美元的算力合作进行谈判。若交易达成，将成为AI行业又一笔巨额算力采购，凸显头部模型厂商对训练与推理资源的争夺日趋白热化。此举也反映出算力供应商正成为大模型竞赛中的关键一环。",
+    "category": "industry"
+  },
+  {
+    "id": "b3d776646c4cb2505944f7913c674c61",
+    "title_en": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "published_at": "2026-10-19T22:49:27.000Z",
+    "fetched_at": "2026-10-20T02:40:54.327Z",
+    "title_zh": "Hugging Face政策负责人：内置AI评估器并非易事",
+    "summary_zh": "Hugging Face政策负责人指出，将AI评估机制直接嵌入模型或平台内部看似是解决安全与合规问题的捷径，但实际落地面临技术、标准与利益冲突等多重挑战，难以成为万能方案。他强调评估的独立性与透明度同样重要，行业不应把内置评估器当作监管替代品。",
+    "category": "research"
+  },
+  {
+    "id": "057c24ef1c9028847352bf6569b4852f",
+    "title_en": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+    "published_at": "2026-10-19T22:30:42.000Z",
+    "fetched_at": "2026-10-20T02:40:54.407Z",
+    "title_zh": "马斯克提议的SpaceX股票赠予将存入“特朗普账户”",
+    "summary_zh": "马斯克提出的SpaceX股票赠予计划将把相关股份存入所谓的“特朗普账户”，这一安排引发外界对其税务与政治意涵的讨论。该计划的具体受益对象和运作方式尚待明确，但已凸显科技富豪与政治力量之间日益交织的关系。",
+    "category": "industry"
+  },
+  {
+    "id": "90c1b1e504e6f56a74acf8a80d12fc45",
+    "title_en": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "published_at": "2026-10-19T22:04:28.000Z",
+    "fetched_at": "2026-10-20T02:40:54.327Z",
+    "title_zh": "微软称AI智能体如同内部威胁，前沿模型不可信任",
+    "summary_zh": "微软安全团队将AI智能体比作企业内部威胁，指出前沿模型的行为难以完全预测和控制，一旦被赋予系统权限便可能带来数据泄露或误操作风险。微软建议企业对智能体采取最小权限、持续监控和隔离部署等策略，把AI代理当作潜在不可信主体来管理。",
+    "category": "product"
+  },
+  {
+    "id": "b750360bd4ac8e840a0f5ba798431b64",
+    "title_en": "The fossil fuel comeback is here",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "published_at": "2026-10-19T21:48:01.000Z",
+    "fetched_at": "2026-10-20T02:40:54.408Z",
+    "title_zh": "化石燃料的回归已然到来",
+    "summary_zh": "文章指出，在AI数据中心用电激增、能源需求攀升的背景下，化石燃料正重新回到能源舞台中心，与清洁能源转型叙事形成张力。科技巨头为满足算力扩张的电力需求，正加大对天然气等传统能源的依赖，这一趋势可能影响全球减排进程。",
+    "category": "industry"
+  },
+  {
     "id": "d5284706e5723232dbaad73640309bd1",
     "title_en": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
     "source": "The Verge",
@@ -493,6 +559,116 @@
     "title_zh": "计算能力的极限还能推多远？",
     "summary_zh": "MIT科技评论探讨了计算技术发展的边界问题。文章从芯片制程、能耗、架构创新等角度分析当前计算能力提升面临的物理与经济限制，并展望量子计算、新型材料等潜在突破方向。报道指出，未来计算进步将更依赖跨学科创新，而非单纯依赖传统摩尔定律式增长。",
     "category": "research"
+  },
+  {
+    "id": "10421af12bbc37159c810a85f2a0c532",
+    "title_en": "Nscale Investors Seek Lower IPO Target Amid AI-Related Concerns",
+    "source": "pymnts.com",
+    "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/nscale-investors-seek-lower-ipo-target-amid-ai-related-concerns/",
+    "published_at": "2026-10-19T02:33:24Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "Nscale投资者因AI相关担忧寻求下调IPO目标估值",
+    "summary_zh": "AI基础设施公司Nscale的投资者据报正寻求降低其IPO目标估值，反映出市场对AI热潮可持续性的担忧升温。此举显示在AI投资情绪波动背景下，相关企业上市融资面临更谨慎的定价环境。",
+    "category": "industry"
+  },
+  {
+    "id": "038ef2071a23975aa35bfbfd9dfd0663",
+    "title_en": "TECO shifts toward integrated solutions as AI drives demand for power, infrastructure",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20261019PD209/teco-infrastructure-demand-data-market.html",
+    "published_at": "2026-10-19T02:24:57Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "AI推动电力与基础设施需求，东元电机转向整合解决方案",
+    "summary_zh": "随着AI数据中心带动电力与基础设施需求激增，东元电机正从单一设备制造转向提供整合解决方案。文章分析AI算力扩张对供电、散热等基础设施的拉动效应，以及传统机电厂商如何借此转型抢占新市场。",
+    "category": "industry"
+  },
+  {
+    "id": "9f2a6615a2b06e91f5c45892ad5ccb7e",
+    "title_en": "China's economic growth picks up as AI boom boosts exports",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/db465132fe924572",
+    "published_at": "2026-10-19T02:19:39Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "AI热潮提振出口，中国经济增长回暖",
+    "summary_zh": "受全球AI热潮带动相关产品出口增长，中国经济增长出现回暖迹象。报道分析AI产业链需求如何提振制造业与外贸表现，并探讨这一势头对整体经济复苏的支撑作用及面临的潜在不确定性。",
+    "category": "industry"
+  },
+  {
+    "id": "0152551a7d335fec454418d308ee9873",
+    "title_en": "Anthropic commits 5% of its stock to new 'public benefit' fund ahead of IPO",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/anthropic-commits-5-of-its-stock-to-new-public-benefit-fund-ahead-of-ipo-126101900032_1.html",
+    "published_at": "2026-10-19T02:15:09Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "Anthropic在IPO前承诺将5%股份投入新的“公共利益”基金",
+    "summary_zh": "Anthropic在筹备IPO之际宣布将公司5%的股份投入新设立的“公共利益”基金，用于支持社会公益相关事业。此举被视为AI公司在上市前回应外界对其社会责任与治理结构关切的一种尝试。",
+    "category": "industry"
+  },
+  {
+    "id": "cd8ecde1015f7af71b792cab161414e5",
+    "title_en": "DeepSeek Deploys What It Calls Faster Version of Its Open-Source Model",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/11011674c7bd1e3a",
+    "published_at": "2026-10-19T02:04:43Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "DeepSeek发布其自称更快的开源模型版本",
+    "summary_zh": "DeepSeek推出其开源模型的全新版本，声称运行速度更快。文章介绍该版本在推理效率上的改进及可能带来的应用价值，并分析其在中外开源大模型竞争格局中的意义与影响。",
+    "category": "llm"
+  },
+  {
+    "id": "dda65ff49bac2d332380457f747e5609",
+    "title_en": "Anthropic Takes Its AI Safety Proposals to Capitol Hill",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/2754de507e018973",
+    "published_at": "2026-10-19T02:04:43Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "Anthropic将其AI安全提案带上国会山",
+    "summary_zh": "Anthropic向美国国会提交AI安全政策提案，积极游说立法者。报道梳理其主张的监管框架与安全建议，并分析AI企业在政策制定过程中日益增强的影响力及围绕AI监管的各方博弈。",
+    "category": "industry"
+  },
+  {
+    "id": "5abe2e874446a435ba7bff91a9eb91cf",
+    "title_en": "Anthropic Turns to Lawyers to Teach AI Agents to Negotiate",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/a438711576f9a1ee",
+    "published_at": "2026-10-19T02:04:33Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "Anthropic请律师来教AI智能体谈判",
+    "summary_zh": "Anthropic借助律师的专业知识训练AI智能体掌握谈判技巧，提升其在复杂对话中的表现。文章介绍这一训练方法的思路与效果，并探讨专业领域知识如何帮助AI智能体在真实业务场景中更可靠地完成任务。",
+    "category": "llm"
+  },
+  {
+    "id": "f4f85e9042fd46f9ef25996c05750bb6",
+    "title_en": "Sam Altman’s World Debuts ID Verification for AI Agents",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/2c21dfb87f3be314",
+    "published_at": "2026-10-19T02:04:30Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "Sam Altman的World推出AI智能体身份验证功能",
+    "summary_zh": "Sam Altman旗下World项目推出面向AI智能体的身份验证功能，旨在区分人类与自动化程序。文章介绍该技术的实现方式与应用场景，并探讨在AI智能体日益普及的背景下，身份验证对信任与安全的重要意义。",
+    "category": "product"
+  },
+  {
+    "id": "6c02f0a8a266b220346c4c71b81f9a72",
+    "title_en": "China's economic growth picks up as AI boom boosts exports",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
+    "published_at": "2026-10-19T02:03:04Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "AI热潮提振出口，中国经济增长回暖",
+    "summary_zh": "BBC报道称，全球AI热潮带动相关产品出口增长，推动中国经济增长回暖。文章分析AI产业链需求对制造业和外贸的提振作用，并讨论这一增长动能的可持续性及整体经济面临的挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "a871acdd5e0bd817b35197f1d050ad63",
+    "title_en": "Anthropic commits 5% of its stock to a new 'public benefit' fund",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/Business/wireStory/anthropic-commits-5-stock-new-public-benefit-fund-137368439",
+    "published_at": "2026-10-19T01:56:50Z",
+    "fetched_at": "2026-10-20T02:40:55.086Z",
+    "title_zh": "Anthropic承诺将5%股份投入新的“公共利益”基金",
+    "summary_zh": "Anthropic宣布将公司5%的股份投入新设立的“公共利益”基金，用于支持社会公益事业。报道分析此举在AI公司上市潮与监管审视加剧背景下的意义，以及其对行业治理与社会责任实践的示范效应。",
+    "category": "industry"
   },
   {
     "id": "f36f6aa4e7c279b4eb3ee53745e1f27b",
@@ -5322,181 +5498,5 @@
     "title_zh": "我并不怀念Ray-Ban Meta音频眼镜上的摄像头",
     "summary_zh": "The Verge发表了一篇关于Ray-Ban Meta音频眼镜的体验文章。作者表示，在使用无摄像头的音频版本后，发现自己并不怀念摄像头功能。文章探讨了智能眼镜在日常使用中的实际价值——音频播放、通话和语音助手等功能已足够实用，而摄像头反而可能带来隐私顾虑和社交尴尬。作者认为，去掉摄像头后的产品更轻便、更低调，也更能融入日常生活场景。",
     "category": "product"
-  },
-  {
-    "id": "2381659474d3a8919a8bd90adc484dbb",
-    "title_en": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
-    "published_at": "2026-10-13T17:40:15.000Z",
-    "fetched_at": "2026-10-13T22:05:59.060Z",
-    "title_zh": "联邦机构正在调查特斯拉Robotaxi在学区超速的报告",
-    "summary_zh": "据The Verge报道，美国联邦监管机构正在调查有关特斯拉Robotaxi在学区区域超速行驶的多起报告。这些报告引发了公众对自动驾驶出租车安全性的严重担忧，尤其是在学校周边等敏感区域。监管机构已要求特斯拉提供相关数据和说明。此事件再次将特斯拉的自动驾驶技术推上风口浪尖，也凸显了自动驾驶车辆在复杂交通环境中面临的监管和安全挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "8b4de346cd055633ce3f6f2669d5ea6e",
-    "title_en": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "published_at": "2026-10-13T17:30:00.000Z",
-    "fetched_at": "2026-10-13T22:05:58.905Z",
-    "title_zh": "Laplace Intelligence在机器人和自动驾驶汽车上路前进行红队测试",
-    "summary_zh": "Laplace Intelligence专注于在机器人和自动驾驶汽车投入真实环境之前，对其进行对抗性红队测试，以发现潜在的安全漏洞和决策缺陷。该公司通过模拟极端场景和恶意攻击，帮助客户提升AI系统的鲁棒性和安全性。随着自动驾驶和机器人技术加速落地，这类第三方安全测试服务正变得愈发重要，有望成为行业标准流程的一部分。",
-    "category": "product"
-  },
-  {
-    "id": "18db7e7be04997cb8e32f8afd99f3552",
-    "title_en": "The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale",
-    "published_at": "2026-10-13T17:19:31.000Z",
-    "fetched_at": "2026-10-13T22:05:59.060Z",
-    "title_zh": "Xteink X4 Pro是一款出色的小型电子阅读器，价格比以往更低",
-    "summary_zh": "The Verge评测了Xteink X4 Pro电子阅读器，称其为一款优秀的小尺寸电子阅读设备，且当前价格比以往更具吸引力。该设备主打便携性和性价比，适合喜欢在移动场景中阅读的用户。文章指出，尽管市场上大屏阅读器层出不穷，但X4 Pro凭借轻巧的设计、清晰的显示效果和亲民的定价，在小尺寸电子阅读器细分市场中仍占有一席之地，是预算有限用户的理想选择。",
-    "category": "product"
-  },
-  {
-    "id": "12ed9fe841a5c03d2b1021f525ae3b0f",
-    "title_en": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-    "published_at": "2026-10-13T17:18:25.000Z",
-    "fetched_at": "2026-10-13T22:05:58.905Z",
-    "title_zh": "Pluto Security融资4200万美元，AI给企业安全团队带来新难题",
-    "summary_zh": "安全初创公司Pluto Security完成4200万美元融资，致力于帮助企业应对AI带来的新型安全威胁。随着大语言模型和AI代理在企业中广泛部署，数据泄露、提示注入和模型滥用等风险日益突出。Pluto Security提供针对AI系统的安全监控和防护方案，此轮融资将用于扩展产品能力和市场推广，反映出AI安全赛道正受到资本高度关注。",
-    "category": "industry"
-  },
-  {
-    "id": "a24580a0a8382cbb4aa1798fb1ab63ff",
-    "title_en": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-    "published_at": "2026-10-13T17:00:00.000Z",
-    "fetched_at": "2026-10-13T22:05:58.905Z",
-    "title_zh": "Google Play现在允许任何人构建在Android上运行的私密氛围编程应用",
-    "summary_zh": "Google Play推出新功能，允许用户通过“氛围编程”（vibe coding）方式构建私密应用，并直接在Android设备上运行。这一功能降低了应用开发门槛，让非专业开发者也能借助AI快速实现创意。用户创建的私有应用无需公开发布即可使用，兼顾了便利性与隐私保护。此举被视为Google推动AI辅助开发普及化的重要举措。",
-    "category": "product"
-  },
-  {
-    "id": "29e8cce8391617730d0afdd0b8a7a1e7",
-    "title_en": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "published_at": "2026-10-13T16:30:00.000Z",
-    "fetched_at": "2026-10-13T22:05:58.905Z",
-    "title_zh": "SpaceX和Google都曾拒绝他，如今他的软件搭载SpaceX火箭与Google并肩飞行",
-    "summary_zh": "一位创业者曾遭SpaceX和Google拒绝，如今其软件成功搭载SpaceX火箭升空，与Google的技术同台亮相。这一故事展现了坚持与逆袭的力量，也反映了航天与科技行业对创新方案的开放态度。该软件的具体功能尚未完全披露，但其能够通过严格筛选进入太空任务，说明其技术实力已获得行业认可。",
-    "category": "industry"
-  },
-  {
-    "id": "24a5a4a04175ef48988a3a3212143a13",
-    "title_en": "JPMorgan Card Spending Hits $539 Billion as Credit Improves",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/339e0d1e7043bbbe",
-    "published_at": "2026-10-13T16:11:03Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "摩根大通信用卡消费额达 5390 亿美元，信贷质量改善",
-    "summary_zh": "摩根大通公布最新数据显示，其信用卡消费总额达到 5390 亿美元，同时信贷质量持续改善，逾期率和坏账率均有所下降。这一数据反映出美国消费者支出依然强劲，经济韧性超出预期。分析人士认为，信贷环境的改善有助于银行维持稳健的盈利能力，但也需关注高利率环境下消费者债务负担的潜在风险。",
-    "category": "industry"
-  },
-  {
-    "id": "857840e7579096ab48203a8231e2bb2d",
-    "title_en": "SpaceX Unifies X Premium, Grok, and Cursor Under a Single 'X Subscription'",
-    "source": "PCMag.com",
-    "url": "https://uk.pcmag.com/ai/167897/spacex-unifies-x-premium-grok-and-cursor-under-a-single-x-subscription",
-    "published_at": "2026-10-13T16:10:24Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "SpaceX 将 X Premium、Grok 和 Cursor 整合为单一“X 订阅”",
-    "summary_zh": "SpaceX 宣布将 X Premium、AI 助手 Grok 以及编程工具 Cursor 整合到一个统一的“X 订阅”服务中。此举旨在打造一个涵盖社交媒体、AI 对话和开发工具的综合平台生态，提升用户粘性和服务价值。分析认为，这一整合反映了马斯克旗下各业务协同发展的战略意图，但也面临用户是否愿意为捆绑服务买单的挑战。",
-    "category": "product"
-  },
-  {
-    "id": "2dc3d1d2574ecf98bb8fc45d0c762ee7",
-    "title_en": "Sales And Marketing Software Stocks Q2 Recap: Benchmarking Sprinklr (NYSE:CXM)",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/sales-marketing-software-stocks-q2-155504800.html",
-    "published_at": "2026-10-13T16:07:59Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "销售与营销软件股 Q2 回顾：Sprinklr 基准表现分析",
-    "summary_zh": "Yahoo Entertainment 发布了销售与营销软件板块第二季度回顾报告，重点对 Sprinklr（NYSE:CXM）进行了基准分析。报告对比了同行业公司的营收增长、利润率和市场表现，指出 Sprinklr 在客户体验管理领域保持竞争力，但面临宏观经济不确定性和企业 IT 支出放缓的压力。投资者需关注该板块后续的业绩指引。",
-    "category": "industry"
-  },
-  {
-    "id": "26f5877e116227392f693c2c72a51983",
-    "title_en": "OpenAI, Anthropic face declining developer traffic despite model improvements",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/openai-anthropic-face-declining-developer-traffic-despite-model-improvements/",
-    "published_at": "2026-10-13T16:07:04Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "尽管模型持续改进，OpenAI 和 Anthropic 开发者流量却在下降",
-    "summary_zh": "据 Crypto Briefing 报道，尽管 OpenAI 和 Anthropic 不断推出性能更强的模型，但其开发者平台的流量却呈现下降趋势。分析认为，这可能与开源模型的崛起、API 价格竞争加剧以及开发者转向其他替代方案有关。这一现象引发了对大模型商业化可持续性的讨论，也促使 AI 公司重新思考开发者生态的运营策略。",
-    "category": "llm"
-  },
-  {
-    "id": "04e37f08ddc4aabd4cf359509c696cec",
-    "title_en": "CBF TV: Inside Brazil women's victory over Argentina at Beira-Rio",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/cbf-tv-inside-brazil-womens-victory-over-argentina-at-beira-rio-43606024",
-    "published_at": "2026-10-13T16:07:00Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "CBF TV：巴西女足在贝拉里奥球场击败阿根廷的幕后",
-    "summary_zh": "CBF TV 发布了一段视频，深入回顾了巴西女足在贝拉里奥球场战胜阿根廷队的比赛幕后。视频涵盖了赛前准备、战术布置以及球员们的精彩表现和赛后反应。这场胜利对巴西女足在地区赛事中的排名具有重要意义，同时也展示了球队在技术和团队协作方面的进步，为球迷提供了独特的观赛视角。",
-    "category": "industry"
-  },
-  {
-    "id": "1ca3163af2e4c9b3ff95407567b99fa0",
-    "title_en": "Ubitium raises $14M to build universal processor for machines that perceive, think and act",
-    "source": "SiliconANGLE News",
-    "url": "https://siliconangle.com/2026/10/13/ubitium-raises-14m-to-build-universal-processor-for-machines-that-perceive-think-and-act/",
-    "published_at": "2026-10-13T16:05:47Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "Ubitium融资1400万美元，打造面向感知、思考与行动机器的通用处理器",
-    "summary_zh": "芯片初创公司Ubitium宣布完成1400万美元融资，用于研发一款通用处理器，旨在支持能够感知、思考和行动的智能机器。该处理器试图打破传统CPU、GPU和NPU的界限，以单一架构同时处理多种AI工作负载，从而降低边缘设备和自主系统的硬件复杂度与成本。此举反映出业界对更高效、更通用的AI芯片架构的持续探索。",
-    "category": "industry"
-  },
-  {
-    "id": "2db2cadedd758f3674fe95262773de52",
-    "title_en": "Natural language security queries at Orca Security using Amazon Bedrock",
-    "source": "Amazon.com",
-    "url": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
-    "published_at": "2026-10-13T16:03:31Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "Orca Security借助Amazon Bedrock实现自然语言安全查询",
-    "summary_zh": "Orca Security利用Amazon Bedrock推出自然语言安全查询功能，让安全团队可以用日常语言直接检索和分析云安全数据，而无需编写复杂查询语句。该功能基于生成式AI模型，将用户意图转化为可执行的安全查询，显著降低了安全运营门槛，提升了威胁排查与响应的效率，也展示了生成式AI在企业安全场景中的落地价值。",
-    "category": "product"
-  },
-  {
-    "id": "583e37155ae94d561095e44b503794a4",
-    "title_en": "JPMorgan Card Spending Hits $539 Billion as Credit Improves",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/earnings/2026/jpmorgan-card-spending-hits-539-billion-as-credit-improves/",
-    "published_at": "2026-10-13T16:00:15Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "摩根大通信用卡消费额达5390亿美元，信贷质量改善",
-    "summary_zh": "摩根大通最新数据显示，其信用卡消费额达到5390亿美元，同时信贷质量有所改善，反映出消费者支出依然强劲且违约风险下降。这一表现对金融科技和支付行业具有风向标意义，表明尽管宏观经济存在不确定性，美国消费者信贷需求仍具韧性，也为AI驱动的风控与个性化金融服务提供了更稳健的业务基础。",
-    "category": "industry"
-  },
-  {
-    "id": "ae53ea0249f03edb2835c2432513782f",
-    "title_en": "Toptal Launches ExpertCrowd to Train AI with Vetted Domain Experts, Releases Frontier SWE Benchmark",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/toptal-launches-expertcrowd-to-train-ai-with-vetted-domain-experts-releases-frontier-swe-benchmark-302907293.html",
-    "published_at": "2026-10-13T16:00:00Z",
-    "fetched_at": "2026-10-14T16:11:29.893Z",
-    "title_zh": "Toptal推出ExpertCrowd，以认证领域专家训练AI并发布前沿SWE基准",
-    "summary_zh": "Toptal宣布推出ExpertCrowd平台，通过经过严格审核的领域专家为AI模型提供高质量训练数据，同时发布前沿软件工程（SWE）基准测试。该举措旨在解决AI训练中数据质量与专业深度不足的问题，借助人类专家提升模型在复杂专业任务上的表现，并为评估AI编程能力提供更贴近真实工程场景的参考标准。",
-    "category": "product"
-  },
-  {
-    "id": "d9c1680b486f8813317e79347f5c4d36",
-    "title_en": "TechCrunch Disrupt 2026: Day 1",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-    "published_at": "2026-10-13T14:00:00.000Z",
-    "fetched_at": "2026-10-13T22:05:58.905Z",
-    "title_zh": "TechCrunch Disrupt 2026：第一天",
-    "summary_zh": "TechCrunch Disrupt 2026大会第一天活动报道，涵盖AI领域最新动态、创业公司展示和行业领袖对话。作为全球最具影响力的科技盛会之一，本届Disrupt聚焦AI代理、大模型应用和创业投资趋势。首日活动中，多家初创公司发布了新产品，投资人分享了市场展望，为与会者提供了丰富的行业洞察和 networking 机会。",
-    "category": "industry"
   }
 ]
