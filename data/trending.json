@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-21",
-      "summary_zh": "今日趋势聚焦AI编码代理生态：多代理编排、安全审计技能、代码知识图谱与令牌压缩工具涌现，Claude Code生态持续扩展。",
+      "summary_zh": "今日趋势聚焦AI编码代理生态：多代理编排、安全审计技能、代码知识图谱与令牌压缩工具，以及本地化求职与扩散模型GUI。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/MadsLorentzen/ai-job-search",
           "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
           "language": "Python",
-          "stars_total": 60834,
+          "stars_total": 62003,
           "stars_today": 3861,
           "description_zh": "在你的机器上运行的求职工具。基于 Claude Code 构建的 AI 求职申请框架：评估职位发布、定制简历、撰写求职信、准备面试。Fork 它并拥有它。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 34383,
+          "stars_total": 34990,
           "stars_today": 1712,
           "description_zh": "一个用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的发现结果"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/stablyai/orca",
           "description_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
           "language": "TypeScript",
-          "stars_total": 99867,
+          "stars_total": 100438,
           "stars_today": 1565,
           "description_zh": "Orca 是使用智能体集群（例如 Grok Bot、Claude Code）进行工作的平台。使用你自己的订阅运行任何编码智能体。可在桌面端、移动端和远程运行时使用。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/anomalyco/opencode",
           "description_en": "The open source coding agent.",
           "language": "TypeScript",
-          "stars_total": 219013,
+          "stars_total": 219431,
           "stars_today": 1240,
           "description_zh": "开源编码智能体。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "stars_total": 169865,
+          "stars_total": 170593,
           "stars_today": 1208,
           "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码是你从未写过的代码。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/Comfy-Org/ComfyUI",
           "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
           "language": "Python",
-          "stars_total": 140849,
+          "stars_total": 141171,
           "stars_today": 1206,
           "description_zh": "最强大且模块化的扩散模型 GUI、API 和后端，具有图/节点界面。世界上最快的本地推理引擎。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/Graphify-Labs/graphify",
           "description_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
           "language": "Python",
-          "stars_total": 130353,
+          "stars_total": 130846,
           "stars_today": 802,
           "description_zh": "将任何代码库及其文档、SQL 模式、配置和 PDF 转换为可查询的知识图谱。适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边都有解释，无需向量存储。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/shiyu-coder/Kronos",
           "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
           "language": "Python",
-          "stars_total": 42387,
+          "stars_total": 42558,
           "stars_today": 733,
           "description_zh": "Kronos：金融市场语言的基础模型"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/ruvnet/ruflo",
           "description_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
           "language": "TypeScript",
-          "stars_total": 77894,
+          "stars_total": 78064,
           "stars_today": 684,
           "description_zh": "🌊 最初的智能体框架。部署智能多玩家集群，协调自主工作流，并构建对话式 AI 系统。具有自适应记忆、自学习智能、联邦、向量 RAG 集成，并原生集成 Claude Code / Codex / Hermes 等众多工具"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/msitarzewski/agency-agents",
           "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
           "language": "Shell",
-          "stars_total": 162414,
+          "stars_total": 162711,
           "stars_today": 562,
           "description_zh": "触手可及的完整 AI 机构——从前端奇才到 Reddit 社区忍者，从奇思妙想注入者到现实检验者。每个智能体都是具有个性、流程和经过验证的交付成果的专业专家。"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/headroomlabs-ai/headroom",
           "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
           "language": "Python",
-          "stars_total": 76802,
+          "stars_total": 76957,
           "stars_today": 549,
           "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。编码智能体减少 20% 的 token，JSON 减少 60-95% 的 token，答案相同。提供库、代理和 MCP 服务器。"
         },
@@ -120,7 +120,7 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 30828,
+          "stars_total": 30968,
           "stars_today": 267,
           "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
         },
@@ -130,7 +130,7 @@
           "url": "https://github.com/vllm-project/vllm",
           "description_en": "A high-throughput and memory-efficient inference and serving engine for LLMs",
           "language": "Python",
-          "stars_total": 94474,
+          "stars_total": 94639,
           "stars_today": 128,
           "description_zh": "一个高吞吐量、内存高效的 LLM 推理和服务引擎"
         },
@@ -140,19 +140,9 @@
           "url": "https://github.com/wshobson/agents",
           "description_en": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
           "language": "Python",
-          "stars_total": 41282,
+          "stars_total": 41399,
           "stars_today": 93,
           "description_zh": "面向 Claude Code、Codex、Cursor、OpenCode、GitHub Copilot、Google Antigravity 和 Pi 的多框架智能体插件市场"
-        },
-        {
-          "rank": 15,
-          "name": "sickn33/agentic-awesome-skills",
-          "url": "https://github.com/sickn33/agentic-awesome-skills",
-          "description_en": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
-          "language": "Python",
-          "stars_total": 48132,
-          "stars_today": 83,
-          "description_zh": "AAS Core 是本地、智能体优先的控制平面，用于完整的目录发现、智能体自主选择、技术栈验证和规划，由 2,600+ 智能体技能提供支持。包括 CLI、本地 MCP、目录、插件和 Workbench。"
         }
       ]
     },
