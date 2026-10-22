@@ -1,6 +1,122 @@
 {
   "days": [
     {
+      "date": "2026-10-22",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：安全审计技能、多智能体协作平台、token压缩优化及智能体长期记忆方案涌现，同时vLLM、ComfyUI、Supabase等基础设施持续受关注。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars_total": 171797,
+          "stars_today": 2079,
+          "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码是你从未写过的代码。"
+        },
+        {
+          "rank": 2,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars_total": 36703,
+          "stars_today": 2012,
+          "description_zh": "一个用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的发现结果"
+        },
+        {
+          "rank": 3,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars_total": 101426,
+          "stars_today": 1541,
+          "description_zh": "Orca 是使用智能体集群（例如 Grok Bot、Claude Code）进行工作的平台。使用你自己的订阅运行任何编码智能体。可在桌面端、移动端和远程运行时使用。"
+        },
+        {
+          "rank": 4,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "language": "Python",
+          "stars_total": 131750,
+          "stars_today": 1433,
+          "description_zh": "将任何代码库及其文档、SQL 模式、配置和 PDF 转换为可查询的知识图谱。适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边都有解释，无需向量存储。"
+        },
+        {
+          "rank": 5,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+          "language": "Python",
+          "stars_total": 141584,
+          "stars_today": 939,
+          "description_zh": "最强大、最模块化的扩散模型 GUI、API 和后端，采用图/节点界面。世界上最快的本地推理引擎。"
+        },
+        {
+          "rank": 6,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars_total": 42871,
+          "stars_today": 575,
+          "description_zh": "Kronos：金融市场语言的基础模型"
+        },
+        {
+          "rank": 7,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars_total": 113051,
+          "stars_today": 504,
+          "description_zh": "Postgres 开发平台。Supabase 为你提供一个专用的 Postgres 数据库，用于构建你的 Web、移动和 AI 应用。"
+        },
+        {
+          "rank": 8,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "language": "Python",
+          "stars_total": 77303,
+          "stars_today": 474,
+          "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。编码智能体减少 20% 的 token，JSON 减少 60-95% 的 token，答案质量不变。提供库、代理和 MCP 服务器。"
+        },
+        {
+          "rank": 9,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description_en": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars_total": 94914,
+          "stars_today": 441,
+          "description_zh": "一个高吞吐量、内存高效的大语言模型推理和服务引擎"
+        },
+        {
+          "rank": 10,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "language": "Rust",
+          "stars_total": 12383,
+          "stars_today": 286,
+          "description_zh": "为智能体编码 CLI 提供长期记忆的解决方案，并促进不同智能体供应商之间的交接"
+        },
+        {
+          "rank": 11,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description_en": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars_total": 59219,
+          "stars_today": 112,
+          "description_zh": "Salesforce 的开源替代品，专为 AI 设计。"
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "summary_zh": "今日GitHub热榜聚焦AI智能体与效率工具：安全审计技能、LLM推理引擎、多智能体协作平台、token压缩优化及开源CRM等亮点频现。",
       "projects": [
@@ -3891,92 +4007,6 @@
           "stars_total": 49875,
           "stars_today": 41,
           "description_zh": "\"CLI-Anything：让所有软件都原生支持智能体\" —— CLI-Hub：https://clianything.cc/"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-22",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：谷歌、Anthropic等推出智能体编排与金融工具，Univer打造办公套件运行时，Claude Code配置、视频编辑及移动取证工具齐亮相。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "google/ax",
-          "url": "https://github.com/google/ax",
-          "description_en": "Google's open agentic orchestration runtime",
-          "language": "Go",
-          "stars_total": 7425,
-          "stars_today": 2324,
-          "description_zh": "Google 的开放智能体编排运行时"
-        },
-        {
-          "rank": 2,
-          "name": "mvt-project/mvt",
-          "url": "https://github.com/mvt-project/mvt",
-          "description_en": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-          "language": "Python",
-          "stars_total": 13991,
-          "stars_today": 441,
-          "description_zh": "MVT（移动验证工具包）有助于对移动设备进行取证，以发现潜在入侵的迹象。"
-        },
-        {
-          "rank": 3,
-          "name": "anthropics/financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "description_en": "",
-          "language": "Python",
-          "stars_total": 36262,
-          "stars_today": 436,
-          "description_zh": ""
-        },
-        {
-          "rank": 4,
-          "name": "agent-substrate/substrate",
-          "url": "https://github.com/agent-substrate/substrate",
-          "description_en": "Agent Substrate: the core system",
-          "language": "Go",
-          "stars_total": 2898,
-          "stars_today": 301,
-          "description_zh": "Agent Substrate：核心系统"
-        },
-        {
-          "rank": 5,
-          "name": "dream-num/univer",
-          "url": "https://github.com/dream-num/univer",
-          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-          "language": "TypeScript",
-          "stars_total": 15284,
-          "stars_today": 202,
-          "description_zh": "面向 AI 智能体的 Office 工具集——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
-        },
-        {
-          "rank": 6,
-          "name": "superdesigndev/treg",
-          "url": "https://github.com/superdesigndev/treg",
-          "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-          "language": "Python",
-          "stars_total": 2146,
-          "stars_today": 197,
-          "description_zh": "面向智能体工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
-        },
-        {
-          "rank": 7,
-          "name": "browser-use/video-use",
-          "url": "https://github.com/browser-use/video-use",
-          "description_en": "Edit videos with coding agents",
-          "language": "Python",
-          "stars_total": 25756,
-          "stars_today": 155,
-          "description_zh": "使用编程智能体编辑视频"
-        },
-        {
-          "rank": 8,
-          "name": "davila7/claude-code-templates",
-          "url": "https://github.com/davila7/claude-code-templates",
-          "description_en": "CLI tool for configuring and monitoring Claude Code",
-          "language": "Python",
-          "stars_total": 31060,
-          "stars_today": 113,
-          "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
         }
       ]
     }

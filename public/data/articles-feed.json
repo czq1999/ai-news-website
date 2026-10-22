@@ -1,5 +1,126 @@
 [
   {
+    "id": "fd8a8ba334abbc47888b1efdc08d55bd",
+    "title_en": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "published_at": "2026-10-22T02:24:17.000Z",
+    "fetched_at": "2026-10-22T02:32:10.910Z",
+    "title_zh": "黑客在PHP漏洞补丁发布前数天即已利用",
+    "summary_zh": "报道称，黑客在PHP相关漏洞的官方补丁发布前数天就已开始利用这些漏洞发起攻击，属于典型的零日或近零日利用。攻击者抢先掌握漏洞细节，使未及时防护的系统暴露在风险之中。事件凸显了漏洞情报共享与快速响应的重要性，也提醒开发者关注开源组件的安全更新节奏。",
+    "category": "industry"
+  },
+  {
+    "id": "da753419aa2393a6da7f18d00e1f673b",
+    "title_en": "YouTube says it isn’t testing hiding the dislike button",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+    "published_at": "2026-10-21T23:46:45.000Z",
+    "fetched_at": "2026-10-22T02:32:10.402Z",
+    "title_zh": "YouTube否认正在测试隐藏“不喜欢”按钮",
+    "summary_zh": "针对外界传闻，YouTube明确表示并未测试隐藏“不喜欢”按钮的功能。此前部分用户发现界面变化引发猜测，但官方澄清这并非有意调整。YouTube强调“不喜欢”按钮仍是用户反馈内容质量的重要渠道，平台会持续优化推荐系统，但不会取消该功能。",
+    "category": "product"
+  },
+  {
+    "id": "2a222a851f44ee24e3a9c503d8568d01",
+    "title_en": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+    "published_at": "2026-10-21T23:36:31.000Z",
+    "fetched_at": "2026-10-22T02:32:10.402Z",
+    "title_zh": "特斯拉称明年用户可将自有车辆加入Robotaxi车队，能否兑现？",
+    "summary_zh": "特斯拉宣称明年起车主可将自己的车辆接入Robotaxi自动驾驶出租车车队，通过闲置时间赚取收益。这一构想类似Airbnb模式，但面临技术成熟度、监管审批与保险责任等多重挑战。文章对特斯拉能否按期兑现承诺持审慎态度，指出其自动驾驶进展与安全记录仍是关键变量。",
+    "category": "product"
+  },
+  {
+    "id": "476fafbb325bea816ad35578a0088f0c",
+    "title_en": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "published_at": "2026-10-21T22:51:22.000Z",
+    "fetched_at": "2026-10-22T02:32:10.298Z",
+    "title_zh": "黑石集团Jas Khaira称对AI基建债务的担忧被夸大",
+    "summary_zh": "黑石集团高管Jas Khaira公开表示，市场对AI基础设施建设所涉债务风险的担忧被过度放大。他认为数据中心等AI基建的融资结构稳健，债务水平处于可控范围，当前恐慌情绪缺乏基本面支撑。此番表态正值业界对AI资本开支可持续性争论升温之际，黑石的立场代表了部分机构投资者对AI长期回报的信心。",
+    "category": "industry"
+  },
+  {
+    "id": "bfcb041c22a8989b38d566c9bb20096a",
+    "title_en": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "published_at": "2026-10-21T22:39:50.000Z",
+    "fetched_at": "2026-10-22T02:32:10.910Z",
+    "title_zh": "尽管亿万富翁税公投在即，扎克伯格仍同意留在加州",
+    "summary_zh": "面对加州针对亿万富翁的税收公投提案，Meta首席执行官马克·扎克伯格表示将继续留在加州。此前外界猜测部分科技富豪可能因税负上升而迁离。扎克伯格的表态缓解了市场对科技巨头总部外迁的担忧，也反映出加州科技生态对顶级人才的持续吸引力，相关税收政策的走向仍受关注。",
+    "category": "industry"
+  },
+  {
+    "id": "4139c746625dd8921d71149541149e2d",
+    "title_en": "Data centers could erase decades of air quality gains",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "published_at": "2026-10-21T22:33:44.000Z",
+    "fetched_at": "2026-10-22T02:32:10.402Z",
+    "title_zh": "数据中心或抹去数十年来空气质量改善成果",
+    "summary_zh": "随着AI算力需求激增，数据中心大规模建设带来的电力消耗与排放可能抵消数十年来空气质量治理的成果。文章指出，为满足算力需求而重启的化石燃料发电厂将增加污染物排放，对周边社区健康造成影响。这一矛盾凸显AI发展与环境保护之间的张力，呼吁更清洁的能源方案。",
+    "category": "industry"
+  },
+  {
+    "id": "48aea9314058dede4a67a5b7f944f55d",
+    "title_en": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+    "published_at": "2026-10-21T21:57:22.000Z",
+    "fetched_at": "2026-10-22T02:32:10.910Z",
+    "title_zh": "Airbnb房东愤怒：不能再要求房客做家务",
+    "summary_zh": "Airbnb调整平台政策，不再允许房东强制要求房客承担退房清洁等家务，引发部分房东不满。此前不少房源在退房说明中要求房客洗碗、倒垃圾甚至洗衣，被批评为变相转嫁成本。新规旨在提升住客体验、回应监管与舆论压力，但也可能促使房东提高清洁费或调整定价策略。",
+    "category": "product"
+  },
+  {
+    "id": "ed514ab291110d3ee8e0ee5e1ad03ec9",
+    "title_en": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+    "published_at": "2026-10-21T21:48:52.000Z",
+    "fetched_at": "2026-10-22T02:32:10.836Z",
+    "title_zh": "企业持续采购IT认为会让情况更糟的软件升级",
+    "summary_zh": "调查显示，企业不断采购软件升级，而IT部门却认为这些升级反而会让系统更复杂、更易出问题。文章剖析采购决策与IT运维之间的脱节，指出销售驱动与预算惯性导致技术栈臃肿。这种矛盾增加安全风险与维护成本，反映企业软件治理中缺乏统一技术评估机制的深层问题。",
+    "category": "industry"
+  },
+  {
+    "id": "06c91270ad1ba21dd4ec18365ce92c57",
+    "title_en": "Meta to create a new class of shares to fund AI push",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "published_at": "2026-10-21T21:30:02.000Z",
+    "fetched_at": "2026-10-22T02:32:10.402Z",
+    "title_zh": "Meta拟设立新类别股份，为AI战略融资",
+    "summary_zh": "Meta计划创设一类新型股份，以便在推进AI大规模投入的同时维持创始人扎克伯格的控制权。该结构类似双重股权设计，可在不稀释投票权的前提下募集资金，支撑数据中心与模型研发的巨额开支。此举反映科技巨头在AI军备竞赛中对资本与控制权平衡的考量。",
+    "category": "industry"
+  },
+  {
+    "id": "421aacbcf15f7f0a5efce048259f7150",
+    "title_en": "TechCrunch Founder Summit 2026: Everything you need to know ",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "published_at": "2026-10-21T21:16:20.000Z",
+    "fetched_at": "2026-10-22T02:32:10.299Z",
+    "title_zh": "TechCrunch 2026创始人峰会：你需要了解的一切",
+    "summary_zh": "TechCrunch公布2026年创始人峰会完整信息，涵盖举办时间、地点、议程安排、演讲嘉宾阵容及参会报名方式。峰会聚焦创业生态、融资趋势与前沿技术，为创始人和投资人提供交流平台。文章汇总了门票信息、活动亮点及往年回顾，帮助有意参会的创业者提前规划行程并把握与投资机构对接的机会。",
+    "category": "industry"
+  },
+  {
+    "id": "bbd46f28712f3b7136aff00ebaea3f93",
+    "title_en": "Meta says Muse has over 10M users, with shopping a top activity",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "published_at": "2026-10-21T21:14:19.000Z",
+    "fetched_at": "2026-10-22T02:32:10.299Z",
+    "title_zh": "Meta称Muse用户已超1000万，购物成为热门活动",
+    "summary_zh": "Meta宣布其AI产品Muse用户规模突破1000万，购物成为用户最常使用的场景之一。这表明AI助手正加速融入消费决策流程，用户借助Muse进行商品发现与比价。Meta借此展示其AI产品的商业化潜力，将购物场景与AI交互深度绑定，为广告和电商业务开辟新的增长入口。",
+    "category": "product"
+  },
+  {
     "id": "7a294c24d604068f5455c712e656c4fa",
     "title_en": "‘It's the President's Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
     "source": "Wired",
@@ -8,6 +129,28 @@
     "fetched_at": "2026-10-21T21:02:56.796Z",
     "title_zh": "“这是总统的错”：中期选举前白宫提前上演甩锅大战",
     "summary_zh": "随着中期选举临近，白宫内部及共和党阵营已提前展开相互指责，试图将政策失利归咎于总统。文章分析认为，这种甩锅策略反映出执政团队对选情的焦虑，也可能影响选民对政府治理能力的判断。政治内耗加剧，或将波及科技与产业政策的推进节奏。",
+    "category": "industry"
+  },
+  {
+    "id": "8667d9b12c116f5eb116f38cf7629096",
+    "title_en": "New York’s first microdrama film festival searches for its audience",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+    "published_at": "2026-10-21T20:49:07.000Z",
+    "fetched_at": "2026-10-22T02:32:10.402Z",
+    "title_zh": "纽约首届微短剧电影节寻找观众",
+    "summary_zh": "纽约举办首届微短剧电影节，聚焦竖屏短剧这一新兴内容形态，试图在流媒体与传统影视之外开辟新赛道。文章探讨微短剧的商业模式、受众定位与艺术价值，指出其虽增长迅猛但观众忠诚度与内容质量仍待验证。电影节成为行业探索该品类主流化路径的试验场。",
+    "category": "industry"
+  },
+  {
+    "id": "30111390f7b5507fd3bf5d00a82a78ef",
+    "title_en": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+    "published_at": "2026-10-21T20:46:56.000Z",
+    "fetched_at": "2026-10-22T02:32:10.402Z",
+    "title_zh": "Meta称若无需支付儿童安全和解金，利润将超220亿美元",
+    "summary_zh": "Meta表示，若非因儿童安全相关诉讼达成和解并支付巨额赔偿，公司利润本可超过220亿美元。此番表态凸显监管与法律合规成本对科技巨头财务表现的显著影响。文章分析该和解案的背景与条款，以及Meta在青少年保护问题上面临的持续审查压力与声誉风险。",
     "category": "industry"
   },
   {
@@ -20,6 +163,17 @@
     "title_zh": "特朗普连电视表现都不再出色了",
     "summary_zh": "评论文章指出，特朗普在电视镜头前的表现力明显下滑，昔日吸引观众的个人风格与话题掌控力正在减弱。随着媒体环境变化和观众注意力转移，其电视影响力下降可能影响政治传播效果。文章借此探讨传统电视媒体在数字时代的式微及其对政治人物形象塑造的冲击。",
     "category": "industry"
+  },
+  {
+    "id": "479f15ee8562b0dc6702af507cebfcc4",
+    "title_en": "PHP: The three letters that shut down sites all over the internet today",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+    "published_at": "2026-10-21T20:36:56.000Z",
+    "fetched_at": "2026-10-22T02:32:10.402Z",
+    "title_zh": "PHP：今日让全网网站瘫痪的三个字母",
+    "summary_zh": "文章聚焦PHP高危漏洞引发的全网震荡，这一被广泛使用的服务端语言因历史遗留缺陷导致大量网站宕机或面临攻击。报道梳理事件时间线、受影响范围及修复进展，指出老旧代码库与升级滞后是根源。此次事件再次警示开源基础设施安全治理的紧迫性与系统性风险。",
+    "category": "research"
   },
   {
     "id": "41dbc9f30c9260b6434f0594a0394d61",
@@ -196,6 +350,28 @@
     "title_zh": "通用汽车希望你的汽车能帮你做家务",
     "summary_zh": "通用汽车正在探索将车辆打造为智能生活助手，让汽车不仅能代步，还能帮用户处理日常琐事。这一构想依托车载AI与互联生态，使车辆在停车或充电时承担购物下单、日程管理、家居控制等任务。此举反映出车企正加速向软件与服务转型，试图把汽车变成继手机之后的又一智能终端入口，但也面临隐私安全与生态整合的挑战。",
     "category": "product"
+  },
+  {
+    "id": "9b655fabc0e385e85d6321e1a5f41957",
+    "title_en": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "published_at": "2026-10-21T17:59:12.000Z",
+    "fetched_at": "2026-10-22T02:32:10.299Z",
+    "title_zh": "PHP末日：OpenAI与谷歌Wiz发现古老漏洞，引发互联网恐慌",
+    "summary_zh": "OpenAI与谷歌旗下安全团队Wiz在PHP中发现存在多年的高危漏洞，引发互联网大规模恐慌。该漏洞影响范围广泛，大量网站面临被攻击风险，被戏称为“PHP末日”。安全团队已推动修复，但老旧系统升级滞后使风险持续存在，事件凸显开源基础设施长期维护与安全审计的紧迫性。",
+    "category": "research"
+  },
+  {
+    "id": "c8fbb1d7a1e323def7d18d1724df7067",
+    "title_en": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "published_at": "2026-10-21T17:18:27.000Z",
+    "fetched_at": "2026-10-22T02:32:10.299Z",
+    "title_zh": "Blacksmith获红杉领投C轮，估值跻身独角兽",
+    "summary_zh": "开发工具公司Blacksmith完成由红杉资本领投的C轮融资，估值正式迈入独角兽行列。该公司专注于为开发者提供CI/CD及构建加速服务，受益于AI编程浪潮带来的开发效率需求增长。本轮资金将用于产品研发与市场扩张，反映资本市场对开发者基础设施赛道的持续看好。",
+    "category": "industry"
   },
   {
     "id": "22d115e2040d99d36b60f8107a4a016b",
@@ -669,6 +845,116 @@
     "title_zh": "Udemy优惠码：2026年10月享8折",
     "summary_zh": "本文整理了Udemy在线学习平台在2026年10月可用的优惠码，主打20%折扣。内容说明了优惠码的适用范围、使用方式与有效期，帮助用户在购买编程、设计、商业等在线课程时获得价格优惠，属于常规促销信息汇总类内容。",
     "category": "product"
+  },
+  {
+    "id": "d6e9d2cc75fafded138eed90856b31f3",
+    "title_en": "Building India’s deep-tech enterprise pipeline: from IP to IPO",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/opinion/online-views/building-india-s-deep-tech-enterprise-pipeline-from-ip-to-ipo-11792426643662.html",
+    "published_at": "2026-10-21T02:30:46Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "构建印度深科技企业管线：从知识产权到IPO",
+    "summary_zh": "文章探讨印度如何构建从知识产权到IPO的深科技企业培育管线。印度在半导体、航天、生物科技等领域涌现大量初创公司，但商业化与规模化仍面临资本、人才与产业化经验不足的瓶颈。作者建议通过政策扶持、产学研协同与长期资本投入，打通从实验室成果到上市退出的完整链条，打造具有全球竞争力的深科技生态。",
+    "category": "industry"
+  },
+  {
+    "id": "71765d854ab067f603edc365403776c5",
+    "title_en": "⚠️ First Copa Sul-Americana-2026 finalist confirmed",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/first-copa-sul-americana-2026-finalist-confirmed-43645640",
+    "published_at": "2026-10-21T02:28:00Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "⚠️ 2026年南美杯首个决赛队伍确认",
+    "summary_zh": "2026年南美杯（Copa Sul-Americana）首支决赛队伍已正式产生，赛事进入关键阶段。该消息由足球媒体Onefootball发布，标志着这项南美俱乐部二级赛事即将迎来最终对决。具体晋级球队及比赛详情有待进一步披露，球迷可关注后续赛程安排。",
+    "category": "industry"
+  },
+  {
+    "id": "cf0c98fec0e810af495010c2889b74b2",
+    "title_en": "FF EAI Robotics Ecosystem Inc. Announces Details for Its Listing Ceremony and Nasdaq Investor Day, Taking Place on Monday, Oct. 26, at Nasdaq's MarketSite in NYC",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-announces-details-for-its-listing-ceremony-and-nasdaq-investor-day-taking-place-on-monday-oct-26-at-nasdaqs-marketsite-in-nyc-302914833.html",
+    "published_at": "2026-10-21T02:28:00Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "FF EAI机器人生态公司公布上市仪式及纳斯达克投资者日活动细节，将于10月26日周一在纽约纳斯达克MarketSite举行",
+    "summary_zh": "FF EAI Robotics Ecosystem Inc.宣布将于10月26日周一在纽约纳斯达克MarketSite举办上市仪式及纳斯达克投资者日，正式披露活动细节。此举标志该公司登陆资本市场的重要里程碑，投资者日将为机构与个人投资者提供了解公司机器人生态业务布局、战略规划及增长前景的机会，备受市场关注。",
+    "category": "industry"
+  },
+  {
+    "id": "fada07f630a004168c059b2c1e133a17",
+    "title_en": "China opposes US sanctions on five firms linked to ex-Google engineer",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/china-opposes-us-sanctions-on-five-firms-linked-to-ex-google-engineer-126102100033_1.html",
+    "published_at": "2026-10-21T02:26:00Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "中国反对美国对与谷歌前工程师有关联的五家公司实施制裁",
+    "summary_zh": "中国政府就美国对五家与一名谷歌前工程师有关联的企业实施制裁表示反对，认为此举缺乏正当依据。该事件涉及中美科技领域摩擦，凸显两国在技术人才与企业合规问题上的紧张关系。中方敦促美方停止单边制裁行为，维护正常经贸与科技合作秩序，相关企业后续影响值得关注。",
+    "category": "industry"
+  },
+  {
+    "id": "114589133503874bf43c66cd79f8eb81",
+    "title_en": "Jio IPO opens with 22% GMP: Check brokerage views, allotment chances and other details",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-opens-with-22-gmp-check-brokerage-views-allotment-chances-and-other-details/articleshow/135080093.cms",
+    "published_at": "2026-10-21T02:25:33Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "Jio IPO启动，暗盘溢价达22%：券商观点、中签几率及其他细节一览",
+    "summary_zh": "印度信实集团旗下电信巨头Jio的IPO正式启动，暗盘交易溢价达22%，显示市场认购热情高涨。文章汇总了各大券商对该IPO的评级观点、投资者中签几率及申购细节。作为印度近年来规模最大的上市交易之一，Jio IPO备受散户与机构关注，其定价与配售结果将影响印度资本市场走势。",
+    "category": "industry"
+  },
+  {
+    "id": "21b277efb1928aa59c25ab8bd6593859",
+    "title_en": "Gemini for Government Services Arrives as a Private Preview. The Compliance Wrapper Is What’s for Sale.",
+    "source": "Forkast.news",
+    "url": "https://forkast.news/gemini-for-government-services-arrives-as-a-private-preview-the-compliance-wrapper-is-whats-for-sale/",
+    "published_at": "2026-10-21T02:24:22Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "Gemini政府服务版开启私密预览，真正卖点是合规封装",
+    "summary_zh": "谷歌Gemini面向政府服务推出私密预览版本，但其核心卖点并非模型能力本身，而是围绕政府合规需求构建的封装层。该方案针对数据安全、监管审计与政府采购标准进行适配，帮助公共部门在合规框架内使用生成式AI。此举反映AI厂商正加速布局政府市场，合规能力成为差异化竞争关键。",
+    "category": "product"
+  },
+  {
+    "id": "4f98645a632efe79a41761ae2b5bc986",
+    "title_en": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ahead-of-massive-ipos-ai-companies-are-sketching-plans-to-share-their-wealth/articleshow/135080049.cms",
+    "published_at": "2026-10-21T02:20:00Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "大规模IPO前夕，AI公司正筹划与员工分享财富的方案",
+    "summary_zh": "在即将到来的大规模IPO浪潮前，多家AI公司正着手设计员工财富分享计划，以在上市后留住核心人才并回馈早期贡献者。报道指出，随着AI企业估值攀升，股权激励与二级市场交易安排成为关注焦点。如何在上市造富与团队稳定之间取得平衡，正成为AI行业公司治理的重要议题。",
+    "category": "industry"
+  },
+  {
+    "id": "68420ae1c56fbbd7a6a7f16c4dc78f19",
+    "title_en": "S&P 500’s 15 largest stocks now hold a record 46.7% of the index",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/sp-500-top-15-stocks-record-concentration/",
+    "published_at": "2026-10-21T02:18:12Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "标普500前15大股票占指数权重创纪录达46.7%",
+    "summary_zh": "标普500指数中市值最大的15只股票合计权重升至创纪录的46.7%，显示市场集中度进一步加剧。大型科技股持续主导指数表现，引发投资者对被动投资风险敞口过度集中的担忧。分析认为，这种高度集中格局意味着少数巨头股价波动将对整体指数产生显著影响，市场结构性风险值得警惕。",
+    "category": "industry"
+  },
+  {
+    "id": "fb96766b46ff77d9e7970693fca90eab",
+    "title_en": " Chivas beat Necaxa and snap at América's heels",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/chivas-beat-necaxa-and-snap-at-americas-heels-43645626",
+    "published_at": "2026-10-21T02:18:00Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "芝华士击败内卡萨，紧追美洲队",
+    "summary_zh": "芝华士（Chivas）在墨西哥联赛中击败内卡萨（Necaxa），继续紧追榜首的美洲队（América），保持争冠压力。本场胜利巩固了球队在积分榜上的有利位置，为后续关键对决积累信心。随着赛季深入，芝华士与美洲队的榜首之争愈发激烈，球迷可关注两队接下来的直接交锋与积分变化。",
+    "category": "industry"
+  },
+  {
+    "id": "5d7a060d48afe67a45ed0f4d321c2ca8",
+    "title_en": "Tech giant shares plunge 40pc after delays to Melbourne data centre",
+    "source": "ABC News (AU)",
+    "url": "https://www.abc.net.au/news/2026-10-21/west-footscray-data-centre-delays-nextdc-value-asx-vic/107291744",
+    "published_at": "2026-10-21T02:15:12Z",
+    "fetched_at": "2026-10-22T02:32:11.442Z",
+    "title_zh": "科技巨头因墨尔本数据中心延期股价暴跌40%",
+    "summary_zh": "一家科技巨头因墨尔本数据中心项目延期，股价单日暴跌40%，引发市场震动。报道称，该项目进度受阻可能影响公司算力扩张与业务交付计划，投资者对成本超支与时间表风险反应强烈。此次暴跌凸显AI基础设施建设的执行风险，也令市场重新审视数据中心扩张对科技公司估值的短期冲击。",
+    "category": "industry"
   },
   {
     "id": "70f3f8c781cad8e5faf29cdf49ebad9a",
@@ -5212,291 +5498,5 @@
     "title_zh": "爱是一种基础设施",
     "summary_zh": "MIT Tech Review发表了一篇探讨爱与技术基础设施之间关系的深度文章。作者将“爱”视为一种支撑社会运转的基础设施，分析了技术如何改变人类建立和维系情感连接的方式。文章从社会学和技术哲学角度出发，探讨了社交平台、AI伴侣等新兴技术对人际关系的深远影响，引发读者对技术时代人类情感本质的思考。",
     "category": "research"
-  },
-  {
-    "id": "69afaf19993a9eeeb5c991d2d3a3bf45",
-    "title_en": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-    "published_at": "2026-10-16T09:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.499Z",
-    "title_zh": "舍不得和宠物说再见？生物技术帮你搞定",
-    "summary_zh": "MIT Tech Review报道了生物技术公司推出的宠物克隆和基因保存服务。随着宠物在家庭中地位的提升，越来越多主人愿意花费巨资克隆去世的宠物或保存其基因。文章探讨了这一新兴市场的商业模式、技术原理及伦理争议，分析了宠物克隆服务的价格、成功率和局限性，并引发对人与动物情感纽带及生命伦理的深层思考。",
-    "category": "industry"
-  },
-  {
-    "id": "120be624291809d2946c8c6b1265177d",
-    "title_en": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-    "published_at": "2026-10-16T07:56:32.000Z",
-    "fetched_at": "2026-10-16T10:21:33.499Z",
-    "title_zh": "孩子们正在绕过社交媒体禁令，而这不是我们需要解决的问题",
-    "summary_zh": "MIT Tech Review发表评论文章，指出孩子们总能找到方法绕过社交媒体年龄限制和禁令，但作者认为这不应被视为需要技术手段解决的问题。文章主张，与其投入资源封堵漏洞，不如关注社交媒体平台本身的设计伦理和对未成年人的保护机制。作者呼吁从教育和社会层面引导青少年健康使用社交媒体，而非单纯依赖禁令。",
-    "category": "industry"
-  },
-  {
-    "id": "2c065a17996b8bae15383055b7de69bc",
-    "title_en": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/total-wireless-promo-code/",
-    "published_at": "2026-10-16T05:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.365Z",
-    "title_zh": "Total Wireless优惠码与折扣：精选套餐五折",
-    "summary_zh": "Wired汇总了Total Wireless的最新优惠码和促销活动，包括精选套餐五折优惠。Total Wireless作为美国预付费移动虚拟运营商，依托Verizon网络提供性价比套餐。文章整理了当前可用的折扣码、适用条件和有效期，帮助消费者以更低价格获取移动通信服务。适合正在寻找经济实惠手机套餐的用户参考。",
-    "category": "product"
-  },
-  {
-    "id": "a83bce8264a0aaba147453260f048121",
-    "title_en": "Skechers Coupon Codes 20% Off",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/skechers-coupon-codes/",
-    "published_at": "2026-10-16T05:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.365Z",
-    "title_zh": "Skechers优惠码：八折优惠",
-    "summary_zh": "Wired整理了Skechers当前可用的优惠码信息，消费者可享受八折优惠。文章列出了适用的产品范围和优惠码使用条件，涵盖Skechers多款运动鞋和休闲鞋。对于计划购买Skechers产品的消费者，这些优惠码可以帮助节省开支。建议在结账前确认优惠码的有效期和适用范围。",
-    "category": "product"
-  },
-  {
-    "id": "3f3185585f93a63b9b8a904d2b745790",
-    "title_en": "Surfshark Promo Codes: 87% Off | October 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/surfshark-coupon/",
-    "published_at": "2026-10-16T05:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.365Z",
-    "title_zh": "Surfshark优惠码：最高87%折扣 | 2026年10月",
-    "summary_zh": "Wired发布了Surfshark VPN的最新优惠信息，用户可享受高达87%的折扣。文章汇总了2026年10月有效的促销码和订阅方案，涵盖多年期套餐的特别优惠价格。Surfshark以不限设备数量和内置广告拦截等功能受到用户青睐。对于关注网络隐私保护并希望以优惠价格订阅VPN服务的用户，本文提供了实用的折扣参考。",
-    "category": "product"
-  },
-  {
-    "id": "ec1132bcc27cd287fd1305a483e0a0f9",
-    "title_en": "HP Coupon Codes and Deals October 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/hp-coupon-code/",
-    "published_at": "2026-10-16T05:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.365Z",
-    "title_zh": "HP优惠码与折扣 2026年10月",
-    "summary_zh": "Wired汇总了HP（惠普）在2026年10月的最新优惠码和促销活动。文章涵盖HP笔记本电脑、台式机、打印机及配件的折扣信息，帮助消费者在购买惠普产品时获得更优惠的价格。内容包括各类优惠码的使用方法、适用产品和有效期等实用信息，适合近期有购买HP设备计划的用户参考。",
-    "category": "product"
-  },
-  {
-    "id": "45bc9ca42b28cbae0fb20fab8bf4cab9",
-    "title_en": "A Tesla Flying Car? I Don’t Know, Man",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/tesla-flying-car-faa/",
-    "published_at": "2026-10-16T03:18:30.000Z",
-    "fetched_at": "2026-10-16T10:21:33.365Z",
-    "title_zh": "特斯拉飞行汽车？我说不好，兄弟",
-    "summary_zh": "Wired发表了一篇关于特斯拉可能涉足飞行汽车领域的评论文章。作者以调侃的语气探讨了特斯拉推出飞行汽车的前景，对其技术可行性和实际需求提出质疑。文章指出，尽管飞行汽车概念备受关注，但在监管、安全、基础设施等方面仍面临巨大挑战。作者对特斯拉能否真正实现这一构想持保留态度，认为当前讨论更多停留在概念层面。",
-    "category": "industry"
-  },
-  {
-    "id": "d465940c0747785e3fc93e9758e2d2c7",
-    "title_en": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/c099c938a6c1d103",
-    "published_at": "2026-10-16T02:08:39Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "AI支出与美联储利率担忧拖累，纳斯达克期货小幅走低",
-    "summary_zh": "受市场对AI领域巨额资本开支回报的疑虑以及美联储利率政策不确定性的双重影响，纳斯达克期货小幅下跌。投资者正重新评估AI热潮的可持续性，科技股短期承压。",
-    "category": "industry"
-  },
-  {
-    "id": "172b2a71a36193b64dc3fdeec44b701c",
-    "title_en": "Map Shows States That Are Trying to Limit AI in Schools",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/1681823d671827df",
-    "published_at": "2026-10-16T02:07:53Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "地图显示哪些州正试图限制学校使用AI",
-    "summary_zh": "一份地图梳理了美国各州针对校园AI使用的限制性政策，反映出教育界对AI工具在学术诚信、数据隐私和未成年人保护方面的担忧。各州监管态度分化，学校AI应用正面临日益复杂的合规环境。",
-    "category": "industry"
-  },
-  {
-    "id": "ec4c98e381951cfd64b80893d6330cda",
-    "title_en": "World Bank should focus on mobilising greater private capital and creating jobs: FM",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/news/world-bank-should-focus-on-mobilising-greater-private-capital-and-creating-jobs-fm/article71590941.ece",
-    "published_at": "2026-10-16T02:05:59Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "财长：世界银行应聚焦动员更多私人资本并创造就业",
-    "summary_zh": "印度财政部长表示，世界银行应把重点放在动员更多私人资本和创造就业上，以推动发展中国家经济增长。此番表态反映出新兴经济体对多边金融机构改革方向的诉求。",
-    "category": "industry"
-  },
-  {
-    "id": "87c7b11610615cb4278b9677cd465a0f",
-    "title_en": "‘Mixed feelings’: AI cracks centuries-old ciphers",
-    "source": "Digital Journal",
-    "url": "https://www.digitaljournal.com/article/mixed-feelings-ai-cracks-centuries-old-ciphers/",
-    "published_at": "2026-10-16T02:05:09Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "“心情复杂”：AI破解数百年历史的密码",
-    "summary_zh": "AI成功破解了存在数百年的历史密码，令研究者既兴奋又忧虑。一方面这有助于解读历史文献，另一方面也显示AI在密码分析上的强大能力，可能对现代加密安全构成潜在威胁，引发学界复杂情绪。",
-    "category": "research"
-  },
-  {
-    "id": "84afd0f09639ab8650c2c5760cb4cf00",
-    "title_en": "Woman arrested after 'protesting' delivery robot in Philly...",
-    "source": "WPVI-TV",
-    "url": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
-    "published_at": "2026-10-16T02:00:12Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "费城一名女子因“抗议”配送机器人被捕",
-    "summary_zh": "费城一名女子因阻挠并“抗议”街头配送机器人而被警方逮捕，事件折射出自动配送机器人进入公共空间后引发的社会摩擦。随着机器人配送规模扩大，人机共处、公共秩序与监管边界等问题日益凸显。",
-    "category": "industry"
-  },
-  {
-    "id": "5907e6cebd19274385b412729b7936fb",
-    "title_en": "A Simple New Chip Could Spot Signs of Alien Life. It's Already Passed Its First Test.",
-    "source": "ScienceAlert",
-    "url": "https://www.sciencealert.com/a-simple-new-chip-could-spot-signs-of-alien-life-its-already-passed-its-first-test",
-    "published_at": "2026-10-16T02:00:00Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "一款简单的新芯片或能识别外星生命迹象，已通过首次测试",
-    "summary_zh": "研究人员开发出一款简易新型芯片，可用于探测外星生命迹象，并已通过首次测试。该芯片有望以更低成本、更小体积搭载于太空探测器，为寻找地外生命提供新的技术手段。",
-    "category": "research"
-  },
-  {
-    "id": "e79e38a359f2455c3bd0b31de8ed92e9",
-    "title_en": "BNY Extends Reach Into Tokenized Funds and Pay-to-Wallet Service",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/earnings/2026/bny-extends-reach-into-tokenized-funds-and-pay-to-wallet-service/",
-    "published_at": "2026-10-16T01:59:49Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "纽约梅隆银行拓展代币化基金与钱包支付服务",
-    "summary_zh": "纽约梅隆银行宣布扩展其代币化基金业务及“支付到钱包”服务，进一步布局数字资产基础设施。此举显示传统大型金融机构正加速拥抱区块链技术，推动代币化资产在主流金融体系中的应用。",
-    "category": "industry"
-  },
-  {
-    "id": "5fdcbfbd2fabc59e9524df9af0b37329",
-    "title_en": "North.cloud bags $60M in funding to help businesses keep runaway cloud costs in check",
-    "source": "SiliconANGLE News",
-    "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
-    "published_at": "2026-10-16T01:52:47Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "North.cloud获6000万美元融资，助企业控制失控的云成本",
-    "summary_zh": "云成本管理初创公司North.cloud完成6000万美元融资，旨在帮助企业应对不断膨胀的云计算开支。随着企业上云规模扩大，云成本优化（FinOps）正成为热门赛道，吸引资本持续加注。",
-    "category": "industry"
-  },
-  {
-    "id": "81903408ad0b79c0a7c2e95035dbe278",
-    "title_en": "Woolworths Shares Jump 4% to Five-Year High as Investors Seek Defensive Stocks Amid Global Market Turmoil",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/woolworths-shares-five-year-high-defensive-stocks-1876760",
-    "published_at": "2026-10-16T01:50:34Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "全球市场动荡中投资者寻求防御性股票，Woolworths股价大涨4%创五年新高",
-    "summary_zh": "在全球市场持续动荡的背景下，投资者纷纷转向防御性资产，澳大利亚零售巨头Woolworths股价应声上涨4%，创下五年来新高。作为日常生活必需品零售商，Woolworths凭借其稳定的现金流和抗周期特性，成为避险资金的理想去处。分析人士指出，在市场不确定性加剧时期，食品零售等刚需消费板块往往表现稳健，预计短期内防御性配置需求仍将持续。",
-    "category": "industry"
-  },
-  {
-    "id": "484ff7aafdb23230190af85ce0d98768",
-    "title_en": "I've got their number: Edwin Cardona taunts DIM after the derby",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/ive-got-their-number-edwin-cardona-taunts-dim-after-the-derby-43619275",
-    "published_at": "2026-10-16T01:49:00Z",
-    "fetched_at": "2026-10-17T02:11:57.989Z",
-    "title_zh": "埃德温·卡多纳德比战后挑衅DIM：我记住了他们的号码",
-    "summary_zh": "在备受瞩目的德比战结束后，球员埃德温·卡多纳公开向DIM俱乐部发起挑衅，声称\"我记住了他们的号码\"，言辞间充满火药味。此番言论迅速引发球迷热议，为两队本已紧张的竞争关系再添话题。卡多纳在比赛中的表现及赛后表态成为媒体关注焦点，外界普遍认为这一挑衅将进一步激化双方矛盾，为未来的交锋埋下伏笔。",
-    "category": "industry"
-  },
-  {
-    "id": "58e2c1ef1b1fbf2e424fc72f333d4d79",
-    "title_en": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-    "published_at": "2026-10-16T01:28:27.000Z",
-    "fetched_at": "2026-10-16T02:19:33.636Z",
-    "title_zh": "特斯拉Roadster飞了起来，倒着开，不到一秒破百",
-    "summary_zh": "The Verge报道，特斯拉Roadster在一场展示中完成了飞行、倒立行驶以及不到一秒内加速至60英里/小时的惊人表演。这款备受期待的电动超跑再次引发广泛关注，其极端性能演示展示了特斯拉在电动车技术上的激进探索。不过，这些演示的实际量产可行性及安全性仍有待验证。",
-    "category": "product"
-  },
-  {
-    "id": "d6c77aa2d732b7808047dc7c6e40b804",
-    "title_en": "The Tesla Roadster 2 Is Here—and It Flies",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/tesla-roadster-2-launch/",
-    "published_at": "2026-10-16T01:22:51.000Z",
-    "fetched_at": "2026-10-16T02:19:33.970Z",
-    "title_zh": "特斯拉Roadster 2来了——而且它能飞",
-    "summary_zh": "特斯拉正式发布第二代Roadster跑车，最引人注目的是其宣称具备飞行能力。这款备受期待的电动超跑在性能和设计上均有重大突破，马斯克表示其将重新定义跑车标准。飞行功能的实现细节尚未完全披露，但已引发业界广泛讨论。该车型的发布标志着特斯拉在高性能电动车领域的又一次大胆尝试。",
-    "category": "product"
-  },
-  {
-    "id": "0095bf3ee9d787e99cb47e229123d047",
-    "title_en": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "published_at": "2026-10-15T23:44:56.000Z",
-    "fetched_at": "2026-10-16T02:19:33.539Z",
-    "title_zh": "Cal AI病毒式传播成功的背后：一支小型网红大军功不可没",
-    "summary_zh": "TechCrunch报道，Cal AI之所以能实现病毒式传播，关键在于其采用了一支规模不大但高效的网红营销团队。通过大量中小型内容创作者的推广，该AI应用迅速获得用户增长。这一案例表明，在AI产品竞争日益激烈的当下，精细化网红营销策略比传统广告投放更具性价比，也为其他AI初创公司的增长提供了可借鉴的路径。",
-    "category": "industry"
-  },
-  {
-    "id": "d1b689c953dad42d8e440bb517c73cdd",
-    "title_en": "Steam can now show game achievements in separate ‘sets’",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-    "published_at": "2026-10-15T23:18:28.000Z",
-    "fetched_at": "2026-10-16T02:19:33.636Z",
-    "title_zh": "Steam现在可以将游戏成就显示在独立的“套装”中",
-    "summary_zh": "The Verge报道，Steam平台新增功能，允许将游戏成就按不同“套装”分类展示。这一更新让玩家能更清晰地组织和查看自己在不同游戏或不同章节中的成就进度，提升了成就系统的可读性和管理便利性。对于成就收集爱好者而言，这是一项实用的体验优化。",
-    "category": "product"
-  },
-  {
-    "id": "953a262ff105c232f209c3f7f6849e23",
-    "title_en": "ChatGPT can peek at your Chrome tabs now",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "published_at": "2026-10-15T22:43:23.000Z",
-    "fetched_at": "2026-10-16T02:19:33.636Z",
-    "title_zh": "ChatGPT现在可以查看你的Chrome标签页了",
-    "summary_zh": "The Verge报道，ChatGPT新增功能，可以读取用户Chrome浏览器中的标签页内容。这意味着用户在使用ChatGPT时，它能直接获取当前浏览页面的上下文信息，从而提供更精准的回答和辅助。该功能提升了AI助手的实用性，但也引发了关于隐私和数据安全的讨论，用户需关注权限管理。",
-    "category": "product"
-  },
-  {
-    "id": "179bf541be9616a0f90522654fa4ceaf",
-    "title_en": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "published_at": "2026-10-15T22:35:55.000Z",
-    "fetched_at": "2026-10-16T02:19:33.636Z",
-    "title_zh": "《全面战争：幕府将军2》重制版因发售灾难被世嘉下架",
-    "summary_zh": "The Verge报道，世嘉因《全面战争：幕府将军2》重制版发售表现糟糕，已将其从销售平台下架。该重制版上线后遭遇大量技术问题和玩家差评，导致口碑崩塌。世嘉此举旨在止损并重新评估产品质量。这一事件再次提醒游戏公司，重制经典作品需谨慎对待品质把控，否则可能损害原作声誉。",
-    "category": "industry"
-  },
-  {
-    "id": "37d075d48fefe06a8b56dc925b2dffd7",
-    "title_en": "The tech backlash is now in theaters",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "published_at": "2026-10-15T21:39:52.000Z",
-    "fetched_at": "2026-10-16T02:19:33.636Z",
-    "title_zh": "科技反弹情绪如今登上了大银幕",
-    "summary_zh": "The Verge报道，随着公众对科技巨头和AI技术的不满情绪日益增长，好莱坞开始将这种“科技反弹”搬上银幕。多部新影视作品聚焦科技公司的权力滥用、隐私侵犯和AI伦理问题，反映出社会对科技行业的反思正在主流文化中蔓延。这一趋势可能进一步影响公众舆论和科技公司的品牌形象。",
-    "category": "industry"
-  },
-  {
-    "id": "9b24f6a596f22ceb0d567e323ad2b2f1",
-    "title_en": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-    "published_at": "2026-10-15T21:18:15.000Z",
-    "fetched_at": "2026-10-16T02:19:33.970Z",
-    "title_zh": "我们深度体验了Meta的Muse，却被苹果的HomeView搞懵了",
-    "summary_zh": "文章分享了作者对Meta AI助手Muse的深度体验感受，认为其在功能和交互上有亮眼表现。同时，作者对苹果新推出的HomeView产品感到困惑，认为其定位和功能不够清晰。文章对比了两款产品在AI助手领域的不同策略，探讨了Meta和苹果在智能家居与AI融合方面的差异化路线，以及各自面临的挑战和机遇。",
-    "category": "product"
-  },
-  {
-    "id": "287b7f7f97fe92d1d8c835525aaa04f0",
-    "title_en": "Trump posts AI-edited photo to brag about White House restoration work",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "published_at": "2026-10-15T21:09:33.000Z",
-    "fetched_at": "2026-10-16T02:19:33.636Z",
-    "title_zh": "特朗普发布AI编辑照片，炫耀白宫翻修工程",
-    "summary_zh": "The Verge报道，特朗普在社交媒体上发布了一张经过AI编辑的照片，用以展示白宫翻修工程的成果。该照片明显经过AI修饰，引发外界对其真实性的质疑。这一事件再次凸显AI生成内容在政治传播中的滥用风险，也引发关于公众人物使用AI图像是否应标注的讨论。",
-    "category": "industry"
   }
 ]
