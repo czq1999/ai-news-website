@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-22",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：安全审计技能、多智能体协作平台、token压缩优化及智能体长期记忆方案涌现，同时vLLM、ComfyUI、Supabase等基础设施持续受关注。",
+      "summary_zh": "今日趋势聚焦AI编码代理工具与开发基础设施：Claude生态插件、代码知识图谱、安全审计技能亮眼，PHP、Supabase、FastAPI等经典项目持续受关注。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "stars_total": 171797,
+          "stars_total": 172489,
           "stars_today": 2079,
           "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码是你从未写过的代码。"
         },
@@ -20,99 +20,79 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 36703,
+          "stars_total": 37939,
           "stars_today": 2012,
           "description_zh": "一个用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的发现结果"
         },
         {
           "rank": 3,
-          "name": "stablyai/orca",
-          "url": "https://github.com/stablyai/orca",
-          "description_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "language": "TypeScript",
-          "stars_total": 101426,
-          "stars_today": 1541,
-          "description_zh": "Orca 是使用智能体集群（例如 Grok Bot、Claude Code）进行工作的平台。使用你自己的订阅运行任何编码智能体。可在桌面端、移动端和远程运行时使用。"
-        },
-        {
-          "rank": 4,
           "name": "Graphify-Labs/graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "description_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
           "language": "Python",
-          "stars_total": 131750,
+          "stars_total": 132220,
           "stars_today": 1433,
           "description_zh": "将任何代码库及其文档、SQL 模式、配置和 PDF 转换为可查询的知识图谱。适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边都有解释，无需向量存储。"
         },
         {
-          "rank": 5,
-          "name": "Comfy-Org/ComfyUI",
-          "url": "https://github.com/Comfy-Org/ComfyUI",
-          "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-          "language": "Python",
-          "stars_total": 141584,
-          "stars_today": 939,
-          "description_zh": "最强大、最模块化的扩散模型 GUI、API 和后端，采用图/节点界面。世界上最快的本地推理引擎。"
-        },
-        {
-          "rank": 6,
-          "name": "shiyu-coder/Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "description_en": "Kronos: A Foundation Model for the Language of Financial Markets",
-          "language": "Python",
-          "stars_total": 42871,
-          "stars_today": 575,
-          "description_zh": "Kronos：金融市场语言的基础模型"
-        },
-        {
-          "rank": 7,
+          "rank": 4,
           "name": "supabase/supabase",
           "url": "https://github.com/supabase/supabase",
           "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
           "language": "TypeScript",
-          "stars_total": 113051,
+          "stars_total": 113251,
           "stars_today": 504,
           "description_zh": "Postgres 开发平台。Supabase 为你提供一个专用的 Postgres 数据库，用于构建你的 Web、移动和 AI 应用。"
         },
         {
-          "rank": 8,
-          "name": "headroomlabs-ai/headroom",
-          "url": "https://github.com/headroomlabs-ai/headroom",
-          "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "rank": 5,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
           "language": "Python",
-          "stars_total": 77303,
-          "stars_today": 474,
-          "description_zh": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。编码智能体减少 20% 的 token，JSON 减少 60-95% 的 token，答案质量不变。提供库、代理和 MCP 服务器。"
+          "stars_total": 42582,
+          "stars_today": 428,
+          "description_zh": "一份可视化、以示例驱动的 Claude Code 指南——从基础概念到高级智能体，附带可复制粘贴的模板，能立即带来价值。"
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars_total": 31261,
+          "stars_today": 389,
+          "description_zh": "主要为知识工作者在 Claude Cowork 中使用的开源插件仓库"
+        },
+        {
+          "rank": 7,
+          "name": "Meloong-Git/PCL",
+          "url": "https://github.com/Meloong-Git/PCL",
+          "description_en": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+          "language": "Visual Basic .NET",
+          "stars_total": 8513,
+          "stars_today": 115,
+          "description_zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。"
+        },
+        {
+          "rank": 8,
+          "name": "php/php-src",
+          "url": "https://github.com/php/php-src",
+          "description_en": "The PHP Interpreter",
+          "language": "C",
+          "stars_total": 40738,
+          "stars_today": 110,
+          "description_zh": "PHP 解释器"
         },
         {
           "rank": 9,
-          "name": "vllm-project/vllm",
-          "url": "https://github.com/vllm-project/vllm",
-          "description_en": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "name": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "description_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
           "language": "Python",
-          "stars_total": 94914,
-          "stars_today": 441,
-          "description_zh": "一个高吞吐量、内存高效的大语言模型推理和服务引擎"
-        },
-        {
-          "rank": 10,
-          "name": "akitaonrails/ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "language": "Rust",
-          "stars_total": 12383,
-          "stars_today": 286,
-          "description_zh": "为智能体编码 CLI 提供长期记忆的解决方案，并促进不同智能体供应商之间的交接"
-        },
-        {
-          "rank": 11,
-          "name": "twentyhq/twenty",
-          "url": "https://github.com/twentyhq/twenty",
-          "description_en": "The open alternative to Salesforce, designed for AI.",
-          "language": "TypeScript",
-          "stars_total": 59219,
-          "stars_today": 112,
-          "description_zh": "Salesforce 的开源替代品，专为 AI 设计。"
+          "stars_total": 103374,
+          "stars_today": 96,
+          "description_zh": "FastAPI 框架，高性能、易学习、编码快速、可用于生产环境"
         }
       ]
     },

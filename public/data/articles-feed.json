@@ -1,5 +1,104 @@
 [
   {
+    "id": "4b9858bf4cc00a4e5cf69c5eae33fdab",
+    "title_en": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+    "published_at": "2026-10-22T10:43:13.000Z",
+    "fetched_at": "2026-10-22T10:52:35.526Z",
+    "title_zh": "欧洲用户可减少个性化后，Meta广告销售受挫",
+    "summary_zh": "随着欧洲用户依据监管要求获得减少个性化广告的选择权，Meta的广告销售出现明显下滑。大量用户选择限制数据追踪后，广告定向精准度下降，投放效果与单价随之走低。这一变化反映出隐私法规对以数据驱动为核心的广告商业模式的实质冲击，也迫使Meta调整产品策略，探索在合规框架下维持广告收入的新路径。",
+    "category": "industry"
+  },
+  {
+    "id": "e4a443a37de1775bc5ff20376f7be48b",
+    "title_en": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+    "published_at": "2026-10-22T10:30:00.000Z",
+    "fetched_at": "2026-10-22T10:52:35.526Z",
+    "title_zh": "我用iPhone Duo完整工作了一天，体验是这样的",
+    "summary_zh": "作者尝试仅使用iPhone Duo完成一整天的工作，记录了这款设备的实际表现。文章涵盖多任务处理、外接显示、应用兼容性与续航等方面的体验，指出其在轻办公场景下具备一定可行性，但在专业软件支持与操作效率上仍有局限。该实测为关注移动办公与折叠设备的用户提供了直观参考。",
+    "category": "product"
+  },
+  {
+    "id": "5fdecfc9bde5f0b59ebe80ec892edbcd",
+    "title_en": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+    "published_at": "2026-10-22T10:15:00.000Z",
+    "fetched_at": "2026-10-22T10:52:35.526Z",
+    "title_zh": "他们坚信2020年大选被窃取，如今却可能掌管2028年选举",
+    "summary_zh": "据《连线》报道，一批否认2020年美国大选结果的选举否认者正逐步进入地方选举管理机构，部分人有望在2028年大选中担任关键选举职务。报道指出，这些人若掌握选举认证与计票流程，可能对下一届总统大选的结果公信力构成威胁，引发对选举制度安全性的广泛担忧。",
+    "category": "industry"
+  },
+  {
+    "id": "329c996f897f06c44872c830964c8181",
+    "title_en": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+    "published_at": "2026-10-22T10:01:00.000Z",
+    "fetched_at": "2026-10-22T10:52:35.526Z",
+    "title_zh": "Greenlight家庭中心（2026）：终于有了一款带语音助手的数字挂历",
+    "summary_zh": "Greenlight推出2026款家庭中心，主打带语音助手的数字挂历功能，面向家庭日程管理场景。该产品整合日历同步、提醒与语音交互，试图替代传统纸质挂历，帮助家庭成员协调日程。评测认为其在家庭协作与易用性上有亮点，但生态与功能深度仍有提升空间。",
+    "category": "product"
+  },
+  {
+    "id": "04219f5e86b5c48afa06403de0cf47ae",
+    "title_en": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "published_at": "2026-10-22T10:00:00.000Z",
+    "fetched_at": "2026-10-22T10:52:35.526Z",
+    "title_zh": "Hugging Face推出全新AI生物模型，让你与DNA“对话”",
+    "summary_zh": "Hugging Face发布一款面向生物学的AI模型，支持以自然语言方式查询和分析DNA序列，让研究人员像聊天一样与基因组数据交互。该模型有望降低生物信息学分析门槛，加速基因研究与药物发现，但也引发对生物数据安全与模型可靠性的讨论。",
+    "category": "llm"
+  },
+  {
+    "id": "a4f13691cb4a45a554ae238d4cff10d9",
+    "title_en": "Making the case for context-aware AI",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "published_at": "2026-10-22T10:00:00.000Z",
+    "fetched_at": "2026-10-22T10:52:35.645Z",
+    "title_zh": "为上下文感知AI正名",
+    "summary_zh": "《麻省理工科技评论》撰文探讨上下文感知AI的价值，指出仅靠大模型本身难以满足企业实际需求，AI系统需结合用户环境、历史与业务数据才能真正落地。文章分析了上下文感知在个性化服务、决策支持中的应用前景，以及数据隐私与系统集成等挑战。",
+    "category": "research"
+  },
+  {
+    "id": "f8663621a406bbd40f6810879fad34e2",
+    "title_en": "Three things you should know about permafrost",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+    "published_at": "2026-10-22T10:00:00.000Z",
+    "fetched_at": "2026-10-22T10:52:35.645Z",
+    "title_zh": "关于永久冻土，你需要知道的三件事",
+    "summary_zh": "《麻省理工科技评论》科普永久冻土的关键知识：其融化会释放大量温室气体形成反馈循环，威胁基础设施稳定，并影响全球气候系统。文章强调监测与适应措施的紧迫性，帮助读者理解这一常被忽视却至关重要的气候议题。",
+    "category": "research"
+  },
+  {
+    "id": "017a9f0bfe4bc2e505f8bf4800bfed07",
+    "title_en": "This Preamp Costs More Than a Fancy Sports Car",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
+    "published_at": "2026-10-22T09:30:00.000Z",
+    "fetched_at": "2026-10-22T10:52:35.526Z",
+    "title_zh": "这款前级功放比豪华跑车还贵",
+    "summary_zh": "《连线》评测一款售价超过豪华跑车的高端音频前级功放，聚焦其用料、工艺与音质表现。文章探讨这类天价Hi-Fi设备是否物有所值，以及发烧友市场对极致音质的追求，同时指出其性价比争议与普通用户难以感知的差异。",
+    "category": "product"
+  },
+  {
+    "id": "262ecb800ef22c66b8bc51603ba508f8",
+    "title_en": "AI’s hidden storage bill: What inference leaves behind",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "published_at": "2026-10-22T08:41:18.000Z",
+    "fetched_at": "2026-10-22T10:52:35.645Z",
+    "title_zh": "AI隐藏的存储账单：推理留下了什么",
+    "summary_zh": "《麻省理工科技评论》关注AI推理环节被忽视的存储成本：模型每次调用都会产生日志、缓存与中间数据，长期累积形成可观开支。文章分析企业在部署生成式AI时容易低估的存储与数据管理负担，并提出优化推理架构与数据留存策略的建议。",
+    "category": "industry"
+  },
+  {
     "id": "fd8a8ba334abbc47888b1efdc08d55bd",
     "title_en": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
     "source": "Wired",
@@ -649,6 +748,61 @@
     "category": "industry"
   },
   {
+    "id": "d2cc32fb7d7386888118ab1b58fc9eb7",
+    "title_en": "Options Expands Data Coverage with Nasdaq Options Feeds",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/options-expands-data-coverage-with-nasdaq-options-feeds",
+    "published_at": "2026-10-21T10:52:24Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "Options扩展数据覆盖，接入纳斯达克期权行情",
+    "summary_zh": "金融数据平台Options宣布与纳斯达克达成合作，接入其期权行情数据，进一步扩展平台的市场数据覆盖范围。此举旨在为交易机构与投资者提供更全面的期权定价与流动性信息，增强其在衍生品数据服务市场的竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "a9d98e4cf28e4717ab596efbc7ed2e70",
+    "title_en": "Automate Pathogen Sampling: Simple Solutions for Produce Safety",
+    "source": "Blogdoandroid.com",
+    "url": "https://blogdoandroid.com/automate-pathogen-sampling/",
+    "published_at": "2026-10-21T10:49:28Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "自动化病原体采样：保障农产品安全的简易方案",
+    "summary_zh": "文章介绍面向农产品安全的自动化病原体采样方案，通过简化采样流程与设备降低检测门槛，帮助农场与食品企业更高效地监测污染风险。方案强调低成本、易部署，有望提升食品安全监管效率，减少食源性疾病暴发。",
+    "category": "product"
+  },
+  {
+    "id": "306821fdf98db8c5ca20d74c6ddaeb28",
+    "title_en": "Anthropic posts $80bn loss in first half of 2026: WSJ",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/83c9422b320ac1fd",
+    "published_at": "2026-10-21T10:48:35Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "Anthropic 2026年上半年亏损800亿美元：WSJ报道",
+    "summary_zh": "据《华尔街日报》报道，AI公司Anthropic在2026年上半年录得约800亿美元亏损，凸显前沿大模型研发与算力投入的巨大成本压力。报道引发业界对AI企业盈利模式与资本可持续性的讨论，也反映头部模型厂商在激烈竞争中的财务挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "57a4f1a67f7b0f491ac1a14a5e768277",
+    "title_en": "Huang: Europe must embrace AI to benefit",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/57b42046834b6579",
+    "published_at": "2026-10-21T10:48:12Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "黄仁勋：欧洲必须拥抱AI才能受益",
+    "summary_zh": "英伟达CEO黄仁勋呼吁欧洲积极拥抱人工智能，认为只有加快采用AI技术，欧洲才能在全球竞争中获益。他强调AI对产业升级与经济增长的推动作用，并敦促政策制定者在监管与创新之间取得平衡，避免因过度限制而落后。",
+    "category": "industry"
+  },
+  {
+    "id": "8e2c692592a5ff35d08d2c2c24a584cf",
+    "title_en": "Indonesia positions artificial intelligence as new growth engine",
+    "source": "Antaranews.com",
+    "url": "https://en.antaranews.com/news/437057/indonesia-positions-artificial-intelligence-as-new-growth-engine",
+    "published_at": "2026-10-21T10:45:56Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "印尼将人工智能定位为新的增长引擎",
+    "summary_zh": "印尼政府将人工智能列为国家新的经济增长引擎，计划通过政策扶持、人才培养与产业应用推动AI发展。报道指出，印尼希望借助AI提升制造业、服务业与公共服务效率，同时面临基础设施与数字鸿沟等挑战，相关战略备受关注。",
+    "category": "industry"
+  },
+  {
     "id": "7b238985bef799032276bb36f105d1ca",
     "title_en": "Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer",
     "source": "Wired",
@@ -657,6 +811,61 @@
     "fetched_at": "2026-10-21T10:50:51.543Z",
     "title_zh": "抵制百威淡啤的消费者仍在等待他们的“无觉醒”啤酒",
     "summary_zh": "报道关注抵制百威淡啤的消费者群体，他们仍在等待所谓“无觉醒”啤酒的替代选择。文章从文化争议与消费行为角度切入，反映品牌营销与社会议题交织下的市场分化现象。",
+    "category": "industry"
+  },
+  {
+    "id": "a7b9b7068683d869bcb5a0234fcd4a65",
+    "title_en": "Most Americans Say AI Is Bad for Society,",
+    "source": "Politicalwire.com",
+    "url": "https://politicalwire.com/2026/10/21/most-americans-say-ai-is-bad-for-society/",
+    "published_at": "2026-10-21T10:40:00Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "多数美国人认为AI对社会有害",
+    "summary_zh": "一项民调显示，多数美国受访者认为人工智能对社会的影响偏负面，担忧集中在就业冲击、虚假信息与隐私侵蚀等方面。报道指出，公众对AI的信任度偏低，可能影响相关政策制定与企业推广，也促使业界思考如何重建社会信任。",
+    "category": "industry"
+  },
+  {
+    "id": "57c2ce06affe0daf60c4b2417dfa1927",
+    "title_en": "Wall St says Tesla-SpaceX deal inevitable but Musk says it's not certain",
+    "source": "CNA",
+    "url": "https://www.channelnewsasia.com/business/wall-st-says-tesla-spacex-deal-inevitable-musk-says-its-not-certain-6478671",
+    "published_at": "2026-10-21T10:38:50Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "华尔街称特斯拉与SpaceX合并不可避免，马斯克称尚不确定",
+    "summary_zh": "华尔街分析师普遍认为特斯拉与SpaceX合并“不可避免”，可整合资源并强化马斯克旗下企业的协同效应。但马斯克本人表示合并并非确定之事。报道分析了两家公司业务互补性与合并可能带来的估值、监管及股东利益影响。",
+    "category": "industry"
+  },
+  {
+    "id": "76d121f40902184ebcfefa2b40a87282",
+    "title_en": "Smartee Highlights Clinical Approaches to Complex Class II Cases at SIDO 2026",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/smartee-highlights-clinical-approaches-to-complex-class-ii-cases-at-sido-2026-302915350.html",
+    "published_at": "2026-10-21T10:38:00Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "Smartee在SIDO 2026上展示复杂II类错颌病例的临床方案",
+    "summary_zh": "隐形正畸品牌Smartee在SIDO 2026大会上重点展示针对复杂II类错颌病例的临床治疗路径与数字化方案，分享病例设计与矫治经验。公司借此强调其在正畸技术创新与临床支持方面的能力，面向全球牙科专业人士拓展合作。",
+    "category": "product"
+  },
+  {
+    "id": "27477c6a3e0526a9023a9aafbfa67398",
+    "title_en": "15th November / Apply to the Postnatural Independent Program 2027",
+    "source": "Landezine.com",
+    "url": "https://landezine.com/15th-november-apply-to-the-postnatural-independent-program-2027/",
+    "published_at": "2026-10-21T10:36:26Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "11月15日／申请2027年后自然独立项目",
+    "summary_zh": "Landezine报道，2027年后自然独立项目（Postnatural Independent Program）将于11月15日开放申请。该项目聚焦后自然设计理念，探讨人类与自然关系重构下的建筑与景观实践，面向独立研究者与设计师征集提案。申请者需提交研究计划，入选者将获得项目支持以开展跨学科探索。具体申请要求与截止日期可查阅官方页面。",
+    "category": "industry"
+  },
+  {
+    "id": "9bbc8aa438ea5d6eef5012a35a8b2c30",
+    "title_en": "US Stock Futures Edge Higher as SpaceX and Tesla Explore Merger and Meta Earnings Approach: Dow Jones, S&P, Nasdaq, Wall Street",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/28e7afb6acc78593",
+    "published_at": "2026-10-21T10:34:20Z",
+    "fetched_at": "2026-10-22T10:52:36.166Z",
+    "title_zh": "SpaceX与特斯拉探索合并、Meta财报临近，美股期货小幅走高：道指、标普、纳指与华尔街动态",
+    "summary_zh": "美股期货小幅上扬，市场关注两大焦点：一是SpaceX与特斯拉据称正探索合并可能性，若成行将重塑科技与航天产业格局；二是Meta即将发布财报，投资者密切关注其AI投入与广告业务表现。道指、标普500与纳指期货均录得温和涨幅，华尔街情绪谨慎乐观，等待更多企业业绩与宏观数据指引方向。",
     "category": "industry"
   },
   {
@@ -5289,214 +5498,5 @@
     "title_zh": "每日下载：失败的社交媒体禁令与延长宠物寿命",
     "summary_zh": "MIT Tech Review的“每日下载”栏目汇总两则科技新闻：一是多国尝试禁止未成年人使用社交媒体的政策效果不佳，执行困难和规避手段普遍；二是生物科技公司正研究通过基因编辑和药物延长宠物寿命，已进入临床试验阶段。文章还提及AI在内容审核和动物健康监测中的应用，反映技术在社会治理和生命科学领域的双重影响。",
     "category": "industry"
-  },
-  {
-    "id": "b4cac36ebd242195c6963cf4e60213a7",
-    "title_en": "AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector/",
-    "published_at": "2026-10-16T11:00:00.000Z",
-    "fetched_at": "2026-10-16T15:47:53.326Z",
-    "title_zh": "AWOL Vision Aetherion Max RGB激光超短焦投影仪评测：值得入手",
-    "summary_zh": "《连线》评测AWOL Vision Aetherion Max RGB激光超短焦投影仪，认为其是高端家庭影院的优选。该产品采用RGB三色激光光源，色彩表现和亮度出色，可在极短距离投射大画面，适合空间有限的用户。评测指出其画质、音效和智能系统均达到旗舰水准，但价格较高。文章未涉及AI功能，属于消费电子评测。",
-    "category": "product"
-  },
-  {
-    "id": "da7cd3604e43696479af7e79ab22c7f6",
-    "title_en": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-    "published_at": "2026-10-16T11:00:00.000Z",
-    "fetched_at": "2026-10-16T15:47:53.326Z",
-    "title_zh": "AI生成的性感女郎盗用喜剧演员内容以推广色情内容",
-    "summary_zh": "《连线》报道称，一些AI生成的性感女性形象在社交媒体上盗用喜剧演员的段子和表演内容，用于吸引流量并推广色情内容。这些账号利用AI换脸和语音合成技术，将喜剧素材与挑逗性画面结合，误导观众并侵犯原创者权益。文章指出，此类行为暴露了AI内容审核的漏洞，平台和创作者亟需更有效的版权保护和身份验证机制。",
-    "category": "industry"
-  },
-  {
-    "id": "b04c3b874f2cd379155b55f54ecf3b95",
-    "title_en": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-    "published_at": "2026-10-16T10:32:00.000Z",
-    "fetched_at": "2026-10-16T15:47:53.326Z",
-    "title_zh": "2026年最佳数字挂历：Skylight、Everblog、Greenlight",
-    "summary_zh": "《连线》评选2026年最佳数字挂历，推荐Skylight、Everblog和Greenlight三款产品。这些设备可同步家庭日程、显示照片和天气，部分支持语音助手和触控操作。文章从显示效果、易用性、同步能力和价格等维度进行对比，帮助家庭用户选择适合的智能日历。评测未重点涉及AI功能，属于智能家居产品导购。",
-    "category": "product"
-  },
-  {
-    "id": "14eab160b9ebab98263384ceea726942",
-    "title_en": "Time is a-changin’: say goodbye to the leap second",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
-    "published_at": "2026-10-16T10:00:25.000Z",
-    "fetched_at": "2026-10-16T10:21:32.910Z",
-    "title_zh": "时代变了：向闰秒说再见",
-    "summary_zh": "国际计量机构正推动取消闰秒制度，这一自1972年以来用于协调原子时与世界时差异的机制可能成为历史。随着高精度计时技术的发展和分布式系统对时间一致性的更高要求，闰秒带来的技术风险日益凸显。科技公司多年来一直呼吁废除闰秒，因为每次插入闰秒都可能导致服务器崩溃和系统故障。这一变革将对全球计时体系产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "b47a71fa9975791a6be18800bbc77c63",
-    "title_en": "Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/review-jabra-enhance-select-m3/",
-    "published_at": "2026-10-16T10:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.365Z",
-    "title_zh": "Jabra Enhance Select M3 评测（2026）：高价换小改进",
-    "summary_zh": "Wired对Jabra Enhance Select M3助听器进行了详细评测。这款产品在音质和佩戴舒适度方面有一定提升，但整体改进幅度有限，与其较高的售价相比性价比不足。评测指出，虽然Jabra在助听器智能化方面持续投入，但M3的升级更像是小幅迭代而非革命性突破。对于预算有限的用户，市场上可能存在更具竞争力的替代选择。",
-    "category": "product"
-  },
-  {
-    "id": "eee9f2eb3768c7698e88da1d81998d04",
-    "title_en": "The New Fan’s Guide to the Unreal World of Nathan Fielder",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/",
-    "published_at": "2026-10-16T10:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.365Z",
-    "title_zh": "新粉丝指南：走进Nathan Fielder的荒诞世界",
-    "summary_zh": "Wired为新观众撰写了一份Nathan Fielder作品入门指南。Fielder以其独特的尴尬喜剧风格闻名，代表作包括《Nathan for You》和《The Rehearsal》等。文章梳理了他的创作脉络、标志性风格以及各作品之间的关联，帮助新粉丝理解他如何用荒诞手法探讨真实人性与社会议题。对于刚接触这位鬼才创作者的观众来说，这是一份实用的观看指南。",
-    "category": "product"
-  },
-  {
-    "id": "7d67cfe50238c2b4a0a8fc1e443974bb",
-    "title_en": "Elon Musk’s three-word reaction after unveiling Tesla Roadster flying car that hits 60 mph in under a second",
-    "source": "New York Post",
-    "url": "https://nypost.com/2026/10/16/us-news/elon-musks-three-word-reaction-after-unveiling-tesla-roadster-flying-car-that-hits-60-mph-in-under-a-second/",
-    "published_at": "2026-10-16T09:52:53Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "马斯克发布特斯拉Roadster飞行汽车后三字回应，百公里加速不到一秒",
-    "summary_zh": "特斯拉发布新款Roadster飞行汽车，宣称0到60英里加速不到一秒，引发广泛关注。马斯克在发布会上以三个词的简短回应表达态度，凸显其对这款产品的信心。该车型融合飞行能力与极致性能，被视为特斯拉向未来出行领域迈出的激进一步，但其量产时间与监管可行性仍存疑问。",
-    "category": "product"
-  },
-  {
-    "id": "90f36a66a71918ecc39cfaa5873b170c",
-    "title_en": "Elon Musk’s three-word reaction after unveiling Tesla Roadster flying car that hits 60 mph in under a second",
-    "source": "New York Post",
-    "url": "https://nypost.com/2026/10/16/business/elon-musks-three-word-reaction-after-unveiling-tesla-roadster-flying-car-that-hits-60-mph-in-under-a-second/",
-    "published_at": "2026-10-16T09:52:53Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "马斯克发布特斯拉Roadster飞行汽车后三字回应，百公里加速不到一秒",
-    "summary_zh": "特斯拉发布新款Roadster飞行汽车，宣称0到60英里加速不到一秒，引发广泛关注。马斯克在发布会上以三个词的简短回应表达态度，凸显其对这款产品的信心。该车型融合飞行能力与极致性能，被视为特斯拉向未来出行领域迈出的激进一步，但其量产时间与监管可行性仍存疑问。",
-    "category": "product"
-  },
-  {
-    "id": "9952ecb9432f0f6261cdb6ef63cfa3a8",
-    "title_en": "Global Market: European shares set for biggest weekly gain since August on earnings optimism",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-set-for-biggest-weekly-gain-since-august-on-earnings-optimism/articleshow/134990268.cms",
-    "published_at": "2026-10-16T09:49:40Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "全球市场：受盈利乐观情绪推动，欧股有望创8月以来最大周涨幅",
-    "summary_zh": "受企业财报表现强劲及盈利预期改善提振，欧洲股市本周有望录得自8月以来最大单周涨幅。投资者对经济前景的乐观情绪升温，推动主要股指普遍上扬。分析人士指出，盈利韧性是支撑本轮反弹的核心因素，但地缘政治与货币政策不确定性仍可能影响后续走势。",
-    "category": "industry"
-  },
-  {
-    "id": "47f855331d6b363685752f135728bc6f",
-    "title_en": "Meta’s Two-Track Strategy Is Now Explicit – and the Gap Is the Moat",
-    "source": "Forkast.news",
-    "url": "https://forkast.news/metas-two-track-strategy-is-now-explicit-and-the-gap-is-the-moat/",
-    "published_at": "2026-10-16T09:47:59Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "Meta双轨战略现已明确，差距本身就是护城河",
-    "summary_zh": "Meta的双轨战略日益清晰：一方面推进开源模型扩大生态影响力，另一方面保留最强能力于闭源产品。文章认为，开源与闭源之间的能力差距正是Meta的竞争护城河，既吸引开发者又保持商业优势。这一策略在AI竞争加剧的背景下，为Meta提供了灵活性与差异化定位。",
-    "category": "industry"
-  },
-  {
-    "id": "b6d5508c27ea0de9fce3c4a79e3be91b",
-    "title_en": "Doctors Are Using a Shortcut for an Age-Old Problem. It Can Be Pretty Risky.",
-    "source": "Slate Magazine",
-    "url": "https://slate.com/technology/2026/10/ai-translation-apps-doctors-medicine.html",
-    "published_at": "2026-10-16T09:45:00Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "医生正用捷径解决一个古老难题，但风险不小",
-    "summary_zh": "文章探讨医疗领域为应对长期存在的效率与资源难题而采用的捷径做法，例如简化流程或依赖自动化工具，但指出这些捷径可能带来误诊、伦理及安全风险。作者呼吁在追求效率的同时，应建立更严格的监督与评估机制，避免以患者安全为代价换取便利。",
-    "category": "industry"
-  },
-  {
-    "id": "748a459f4f27f13d8c368bfddc0d15e4",
-    "title_en": "Dr Doom, who predicted global financial crisis, has a forecast for India",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/economy/indicators/nouriel-roubini-india-growth-outlook-american-tariffs-trade-agreement-china-manufacturing-investment-employment-artificial-intelligence/articleshow/134989388.cms",
-    "published_at": "2026-10-16T09:43:55Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "曾预测全球金融危机的“末日博士”对印度作出最新预测",
-    "summary_zh": "因准确预测2008年全球金融危机而被称为“末日博士”的经济学家对印度经济前景发表最新预测。他指出印度增长潜力与结构性风险并存，并对其金融市场、政策空间及外部环境提出警示。该预测引发市场关注，投资者正评估其对印度资产配置的潜在影响。",
-    "category": "industry"
-  },
-  {
-    "id": "f6a966b11bc199877145675091c152d2",
-    "title_en": "Koke and Cardoso miss team training on eve of Espanyol clash",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/koke-and-cardoso-miss-team-training-on-eve-of-espanyol-clash-43620528",
-    "published_at": "2026-10-16T09:42:00Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "科克与卡多索在西班牙人对决前夕缺席球队训练",
-    "summary_zh": "在与西班牙人比赛前夕，科克和卡多索均未参加球队合练，引发对其出战状态的猜测。俱乐部尚未公布具体伤情或缺席原因，教练组将在赛前做最终评估。两人的缺阵可能影响球队中场部署与战术安排，球迷密切关注其恢复进展。",
-    "category": "industry"
-  },
-  {
-    "id": "531e45f2fc547f8c0df9dbad77642bff",
-    "title_en": "Anthropic cofounder renews call for robust regulation of frontier AI",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-cofounder-renews-call-for-robust-regulation-of-frontier-ai/articleshow/134990035.cms",
-    "published_at": "2026-10-16T09:41:09Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "Anthropic联合创始人再次呼吁对前沿AI实施有力监管",
-    "summary_zh": "Anthropic联合创始人再次公开呼吁对前沿AI模型实施强有力监管，强调随着模型能力快速提升，安全风险与治理缺口日益突出。他主张建立透明度要求、风险评估机制及国际协调框架，以确保AI发展可控。此番表态反映AI安全倡导者与行业加速派之间持续的政策博弈。",
-    "category": "industry"
-  },
-  {
-    "id": "c0af89dba209e38902c7c4830d84a51a",
-    "title_en": "Europe promotes sovereign, trusted AI as it struggles to catch US and China",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/28754373efbd660f",
-    "published_at": "2026-10-16T09:40:52Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "欧洲在追赶美中之际推动主权可信AI",
-    "summary_zh": "面对美国和中国在AI领域的领先优势，欧洲正大力推动“主权可信AI”议程，强调数据主权、合规与伦理标准。欧盟希望通过监管框架和本土投资缩小差距，但业界担忧过度监管可能削弱创新与竞争力。文章分析了欧洲在技术追赶与价值主张之间的平衡难题。",
-    "category": "industry"
-  },
-  {
-    "id": "84579f86a8b16aef9247f29bed46cbdc",
-    "title_en": "NISM, CAMS partner to integrate AI-powered regulatory intelligence platform into RegTech Lab",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/markets/nism-cams-partner-to-integrate-ai-powered-regulatory-intelligence-platform-into-regtech-lab/article71591794.ece",
-    "published_at": "2026-10-16T09:36:55Z",
-    "fetched_at": "2026-10-17T09:54:48.915Z",
-    "title_zh": "NISM与CAMS合作，将AI驱动的监管情报平台整合进RegTech Lab",
-    "summary_zh": "印度国家证券市场研究所（NISM）与CAMS达成合作，将AI驱动的监管情报平台整合进其RegTech Lab。该平台旨在利用人工智能提升金融监管合规效率，帮助机构更快速识别风险与法规变化。此次合作被视为印度金融科技与监管科技融合的重要进展，有望推动行业智能化合规转型。",
-    "category": "product"
-  },
-  {
-    "id": "2346d9044dff972d7835bb6e98a0546f",
-    "title_en": "Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/",
-    "published_at": "2026-10-16T09:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.365Z",
-    "title_zh": "埃及气候适应性“超级珊瑚”开始遭受高温威胁",
-    "summary_zh": "Wired报道称，埃及红海地区以耐高温著称的“超级珊瑚”正面临日益严峻的气候压力。这些珊瑚原本能在较高水温中存活，被视为珊瑚礁保护的希望所在，但持续升温和海洋酸化已开始超出其耐受极限。科学家警告，若全球变暖趋势不逆转，这些珍贵珊瑚资源也可能大面积白化死亡，对海洋生态系统造成不可逆的损害。",
-    "category": "research"
-  },
-  {
-    "id": "b8ff2d09eb2516b2a342f9453880df02",
-    "title_en": "This implant can restore sight for patients with macular degeneration",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "published_at": "2026-10-16T09:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.499Z",
-    "title_zh": "这款植入物可为黄斑变性患者恢复视力",
-    "summary_zh": "MIT Tech Review报道了一项突破性的视力恢复植入技术，该植入物能够帮助黄斑变性患者重获部分视力。黄斑变性是导致老年人失明的主要原因之一，传统治疗手段效果有限。这种新型植入装置通过刺激视网膜神经细胞来恢复视觉信号传导，临床试验中已展现出积极效果。该技术若获批准上市，将为众多视力受损患者带来新的希望。",
-    "category": "research"
-  },
-  {
-    "id": "b75510a398206286ef6cb7df4d6d800e",
-    "title_en": "Love is infrastructure",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-    "published_at": "2026-10-16T09:00:00.000Z",
-    "fetched_at": "2026-10-16T10:21:33.499Z",
-    "title_zh": "爱是一种基础设施",
-    "summary_zh": "MIT Tech Review发表了一篇探讨爱与技术基础设施之间关系的深度文章。作者将“爱”视为一种支撑社会运转的基础设施，分析了技术如何改变人类建立和维系情感连接的方式。文章从社会学和技术哲学角度出发，探讨了社交平台、AI伴侣等新兴技术对人际关系的深远影响，引发读者对技术时代人类情感本质的思考。",
-    "category": "research"
   }
 ]
