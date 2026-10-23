@@ -1,5 +1,126 @@
 [
   {
+    "id": "436519b1358e4b9d29ce0e1d6dfdedcb",
+    "title_en": "Left alone with nothing to do, AI agents started playing",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "published_at": "2026-10-23T00:45:37.000Z",
+    "fetched_at": "2026-10-23T02:36:27.643Z",
+    "title_zh": "无事可做的AI智能体开始自己玩了起来",
+    "summary_zh": "TechCrunch报道，当AI智能体被置于无事可做的空闲状态时，它们会自发开始玩耍和探索。这一现象揭示了当前AI智能体在缺乏明确任务时仍具备自主行为倾向，引发了关于AI自主性、目标导向行为以及未来智能体系统设计的有趣讨论。研究人员认为，理解这种空闲状态下的行为对构建更安全、更可控的AI系统至关重要。",
+    "category": "research"
+  },
+  {
+    "id": "9369e7d1327d96b076cc87181e26296b",
+    "title_en": "Etsy is cracking down on AI slop listings",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+    "published_at": "2026-10-23T00:09:58.000Z",
+    "fetched_at": "2026-10-23T02:36:27.823Z",
+    "title_zh": "Etsy出手整治AI批量生成的劣质商品",
+    "summary_zh": "据The Verge报道，手工艺品电商平台Etsy正在加大力度打击AI批量生成的劣质商品列表。随着生成式AI工具普及，大量低质量、同质化的AI生成商品涌入平台，损害了手工社区的独特性和买家体验。Etsy此举旨在维护平台的手工艺定位，可能通过算法检测和人工审核相结合的方式识别并下架AI灌水内容。",
+    "category": "product"
+  },
+  {
+    "id": "bddaaf44db0cf81602b28350e2f20e7f",
+    "title_en": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+    "published_at": "2026-10-22T23:15:00.000Z",
+    "fetched_at": "2026-10-23T02:36:28.091Z",
+    "title_zh": "帕尔默·拉基创办基因改造军犬初创公司",
+    "summary_zh": "据Wired报道，Oculus创始人帕尔默·拉基创办了一家专注于基因改造军犬的初创公司，引发伦理与安全争议。该项目将生物技术与军事应用结合，涉及动物福利、基因编辑监管等敏感议题，业界对其可行性与合规性存疑。",
+    "category": "industry"
+  },
+  {
+    "id": "523033e46bc530a455cbe210e95fac60",
+    "title_en": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+    "published_at": "2026-10-22T23:02:43.000Z",
+    "fetched_at": "2026-10-23T02:36:27.823Z",
+    "title_zh": "Spotify证实：确实在打击家庭套餐过度共享行为",
+    "summary_zh": "据The Verge报道，Spotify确认正在对家庭套餐的过度共享行为进行查处。家庭计划本应仅限同一住址的用户共享，但不少用户将其分享给非家庭成员以分摊费用。Spotify表示将加强地址验证机制，对违规账户采取措施。此举旨在保护其订阅收入，但也引发部分用户不满，认为平台在变相涨价。",
+    "category": "product"
+  },
+  {
+    "id": "0dbe7838c9bb852cfba4e6a768d27774",
+    "title_en": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+    "published_at": "2026-10-22T23:00:00.000Z",
+    "fetched_at": "2026-10-23T02:36:27.823Z",
+    "title_zh": "下一代Xbox不会卖到1800美元吧？不可能……吧？",
+    "summary_zh": "据The Verge报道，围绕下一代Xbox主机的定价引发热议。文章质疑其是否会高达1800美元，并探讨在当前硬件成本上涨、关税压力和高端化趋势下，微软新主机的定价策略。虽然这一价格看似离谱，但考虑到内存涨价和高端配置，文章认为并非完全不可能，引发玩家对游戏主机价格天花板的担忧。",
+    "category": "product"
+  },
+  {
+    "id": "fc4b5c87493344dbe939584e7c7d0247",
+    "title_en": "What to Know About Shamonda Virus Following the First Reported Human Infection",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
+    "published_at": "2026-10-22T22:26:57.000Z",
+    "fetched_at": "2026-10-23T02:36:28.091Z",
+    "title_zh": "首例人类感染沙蒙达病毒报告后需要了解的事项",
+    "summary_zh": "在报告首例人类感染沙蒙达病毒病例后，Wired梳理了该病毒的相关信息，包括传播途径、症状表现及潜在公共卫生风险。专家提醒需加强监测与防控，但目前尚无证据表明该病毒具备大规模人际传播能力。",
+    "category": "research"
+  },
+  {
+    "id": "4d571e65ac16cb48dc7b80222e458594",
+    "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "published_at": "2026-10-22T22:08:24.000Z",
+    "fetched_at": "2026-10-23T02:36:27.643Z",
+    "title_zh": "OpenAI筹备IPO前新一轮300亿美元融资，估值达1.25万亿美元",
+    "summary_zh": "据TechCrunch报道，OpenAI正在推进一轮规模达300亿美元的新融资，估值高达1.25万亿美元，此举发生在其计划IPO之前。这一巨额融资将进一步提升OpenAI在全球AI领域的资本优势，也反映出投资者对生成式AI赛道的持续看好。该估值使其成为全球最有价值的私营科技公司之一，IPO时间表备受市场关注。",
+    "category": "industry"
+  },
+  {
+    "id": "73f803029b01cb70059789139924d59b",
+    "title_en": "Canva’s first AI image model plans designs before generating them",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "published_at": "2026-10-22T21:51:25.000Z",
+    "fetched_at": "2026-10-23T02:36:27.823Z",
+    "title_zh": "Canva首款AI图像模型先规划再生成设计",
+    "summary_zh": "据The Verge报道，Canva推出其首款自研AI图像模型，该模型的独特之处在于会先对设计进行规划，再执行图像生成。这种“先规划后生成”的方式有望提升生成结果与设计意图的一致性，减少反复修改。此举标志着Canva从依赖第三方模型转向自研AI能力，进一步巩固其在在线设计工具市场的竞争力。",
+    "category": "product"
+  },
+  {
+    "id": "dd2dad0b21c11f5cc97acf80714b968f",
+    "title_en": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+    "published_at": "2026-10-22T21:30:39.000Z",
+    "fetched_at": "2026-10-23T02:36:27.823Z",
+    "title_zh": "受内存涨价影响，第三季度PC出货量下滑超20%",
+    "summary_zh": "据The Verge报道，受RAM内存价格大幅上涨影响，第三季度全球PC出货量同比下降超过20%。内存成本上升推高了整机售价，抑制了消费和企业采购需求。这一下滑反映出PC市场对零部件价格波动的高度敏感性，也预示短期内PC厂商和消费者都将面临更高的购机成本压力。",
+    "category": "industry"
+  },
+  {
+    "id": "9c3272db75ff55d3b00e2cc3e0dd6c8f",
+    "title_en": "Designing an AI serving harness built to last",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "published_at": "2026-10-22T21:17:29.000Z",
+    "fetched_at": "2026-10-23T02:36:28.259Z",
+    "title_zh": "设计一个经得起时间考验的AI服务框架",
+    "summary_zh": "MIT Tech Review探讨如何设计可持续演进的AI服务框架，涵盖模型部署、推理调度、资源管理与可观测性等关键环节。文章强调模块化架构与标准化接口的重要性，以应对模型快速迭代和多样化业务需求带来的长期维护挑战。",
+    "category": "research"
+  },
+  {
+    "id": "1059fe503677f677728a0f30fc043e2f",
+    "title_en": "Fall 2026 earnings watch",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+    "published_at": "2026-10-22T21:15:16.000Z",
+    "fetched_at": "2026-10-23T02:36:27.823Z",
+    "title_zh": "2026年秋季财报观察",
+    "summary_zh": "据The Verge报道，2026年秋季财报季值得关注。文章梳理了科技行业主要公司在秋季财报中的表现与趋势，涵盖AI投资回报、硬件销售、订阅增长等关键指标。在AI资本开支高企和消费电子需求波动的背景下，本季财报成为检验科技巨头增长动能和盈利能力的重要窗口。",
+    "category": "industry"
+  },
+  {
     "id": "af7e7277bac39aa5891995ed38f43361",
     "title_en": "Meta&#8217;s AI could still scrape news sites, legal experts say",
     "source": "The Verge",
@@ -572,6 +693,39 @@
     "category": "industry"
   },
   {
+    "id": "4412d7f85ae45b80d660df85404c9d60",
+    "title_en": "Wall Street banks put a meter on AI as computing bills climb",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/wall-street-banks-ai-computing-costs/",
+    "published_at": "2026-10-22T02:34:11Z",
+    "fetched_at": "2026-10-23T02:36:28.549Z",
+    "title_zh": "计算账单攀升，华尔街银行开始对AI用量计费",
+    "summary_zh": "随着AI计算成本持续攀升，华尔街银行开始对内部AI使用进行计量和计费，以控制支出并评估投资回报。这一做法反映出企业在AI规模化落地过程中，正从追求试验转向精细化管理算力资源与成本效益。",
+    "category": "industry"
+  },
+  {
+    "id": "9d9f3a8f197ba058ac1cdbd3a8b91ec4",
+    "title_en": "Xi Jinping’s new Long March",
+    "source": "Peoplesreview.com.np",
+    "url": "https://peoplesreview.com.np/2026/10/22/xi-jinpings-new-long-march/",
+    "published_at": "2026-10-22T02:29:56Z",
+    "fetched_at": "2026-10-23T02:36:28.549Z",
+    "title_zh": "习近平的新长征",
+    "summary_zh": "该评论文章以“新长征”为喻，讨论中国在当前发展阶段面临的战略任务与挑战，涉及经济转型、科技自立与国家安全等议题。文章从政治与历史视角解读政策方向，属于宏观评论而非具体AI技术报道。",
+    "category": "industry"
+  },
+  {
+    "id": "3fcdbe323fcd51a1f1a6e0147bf56133",
+    "title_en": "Tesla Q3 profit falls 44% as $1.5 bn free cash flow lifts investor outlook",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/tesla-q3-profit-falls-44-as-1-5-bn-free-cash-flow-lifts-investor-outlook-126102200051_1.html",
+    "published_at": "2026-10-22T02:28:10Z",
+    "fetched_at": "2026-10-23T02:36:28.549Z",
+    "title_zh": "特斯拉第三季度利润下降44%，15亿美元自由现金流提振投资者预期",
+    "summary_zh": "特斯拉第三季度利润同比下降44%，但15亿美元的自由现金流表现优于预期，提振了投资者信心。市场关注其自动驾驶与AI相关投入的进展，以及价格战背景下利润率承压的持续影响。",
+    "category": "industry"
+  },
+  {
     "id": "fd8a8ba334abbc47888b1efdc08d55bd",
     "title_en": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
     "source": "Wired",
@@ -580,6 +734,83 @@
     "fetched_at": "2026-10-22T02:32:10.910Z",
     "title_zh": "黑客在PHP漏洞补丁发布前数天即已利用",
     "summary_zh": "报道称，黑客在PHP相关漏洞的官方补丁发布前数天就已开始利用这些漏洞发起攻击，属于典型的零日或近零日利用。攻击者抢先掌握漏洞细节，使未及时防护的系统暴露在风险之中。事件凸显了漏洞情报共享与快速响应的重要性，也提醒开发者关注开源组件的安全更新节奏。",
+    "category": "industry"
+  },
+  {
+    "id": "75f4d7d1ecb30228a9e026dbafabaf2a",
+    "title_en": "Abdul El-Sayed and Mike Rogers’ final debate clash sets up final sprint in Michigan",
+    "source": "NBC News",
+    "url": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-mike-rogers-final-debate-clash-sets-final-sprint-michig-rcna604591",
+    "published_at": "2026-10-22T02:23:50Z",
+    "fetched_at": "2026-10-23T02:36:28.549Z",
+    "title_zh": "阿卜杜勒·赛义德与迈克·罗杰斯最后一场辩论交锋，密歇根选战进入冲刺",
+    "summary_zh": "据NBC News报道，阿卜杜勒·赛义德与迈克·罗杰斯在密歇根州举行最后一场辩论，双方激烈交锋，为选战最后冲刺阶段定下基调。该报道聚焦美国地方政治选举，与AI技术议题无直接关联。",
+    "category": "industry"
+  },
+  {
+    "id": "801f59b56a3e057a1203fbe4d2778cfb",
+    "title_en": "Sky’s not the limit: $5 trillion sci-fi deal with SpaceX and Tesla could bring Elon Musk closer to Mars",
+    "source": "The Sydney Morning Herald",
+    "url": "https://www.smh.com.au/business/companies/sky-s-not-the-limit-5-trillion-sci-fi-deal-could-bring-musk-closer-to-mars-20261022-p617od.html",
+    "published_at": "2026-10-22T02:21:26Z",
+    "fetched_at": "2026-10-23T02:36:28.549Z",
+    "title_zh": "天空不是极限：SpaceX与特斯拉5万亿美元科幻级交易或让马斯克更接近火星",
+    "summary_zh": "据《悉尼先驱晨报》报道，一项涉及SpaceX与特斯拉、规模高达5万亿美元的科幻级交易设想，可能加速马斯克的火星计划。文章探讨该交易对航天、自动驾驶与AI产业的潜在影响，同时也对可行性与监管障碍提出质疑。",
+    "category": "industry"
+  },
+  {
+    "id": "8a06cb20dc365721fdfdc5827475ff0d",
+    "title_en": "Walmart launches tools for AI agents to shop for customers",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/tech-bytes/walmart-launches-tools-for-ai-agents-to-shop-for-customers/articleshow/135104524.cms",
+    "published_at": "2026-10-22T02:16:19Z",
+    "fetched_at": "2026-10-23T02:36:28.550Z",
+    "title_zh": "沃尔玛推出AI智能体购物工具，代顾客完成采购",
+    "summary_zh": "沃尔玛推出面向AI智能体的购物工具，允许智能体代表顾客浏览商品、比价并完成下单。此举被视为零售业拥抱AI代理的重要一步，但也带来身份验证、支付安全与消费者信任等新问题，业界正密切关注其落地效果。",
+    "category": "product"
+  },
+  {
+    "id": "c2c265d76f61054a06ee6f4395b1f90a",
+    "title_en": "Meta Puts All Its AI Eggs in the Muse Basket",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/9426ab7fd937b2eb",
+    "published_at": "2026-10-22T02:11:57Z",
+    "fetched_at": "2026-10-23T02:36:28.550Z",
+    "title_zh": "Meta将全部AI筹码押注Muse项目",
+    "summary_zh": "据Biztoc报道，Meta将其AI战略重心集中于代号“Muse”的项目，被视为公司在生成式AI竞争中的关键布局。文章分析该决策背后的资源整合与组织调整，以及Meta如何在模型能力、产品落地与商业化之间寻求突破。",
+    "category": "llm"
+  },
+  {
+    "id": "8bff3f640104e06761932cc3c81871b7",
+    "title_en": "Walmart Opens Doors for AI Agents That Obey Strict Rules",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/1fab20f54298e22c",
+    "published_at": "2026-10-22T02:11:52Z",
+    "fetched_at": "2026-10-23T02:36:28.550Z",
+    "title_zh": "沃尔玛向遵守严格规则的AI智能体敞开大门",
+    "summary_zh": "沃尔玛宣布向符合严格规范的AI智能体开放其平台接口，允许第三方AI代理在受控框架内执行购物、查询等任务。此举标志着大型零售商开始主动接纳AI代理生态，同时通过规则约束确保安全与合规。分析认为，这为AI代理在电商场景的落地提供了重要试验场，也预示着未来零售平台与AI智能体之间的协作模式将逐步成型。",
+    "category": "industry"
+  },
+  {
+    "id": "aed15e0674a3fd15c9d513f2bdb035d9",
+    "title_en": "Code testing startup Blacksmith becomes a unicorn after raising $66M in Series C funding",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/10/21/code-testing-startup-blacksmith-becomes-a-unicorn-after-raising-66m-in-series-c-funding/",
+    "published_at": "2026-10-22T02:02:17Z",
+    "fetched_at": "2026-10-23T02:36:28.550Z",
+    "title_zh": "代码测试初创公司Blacksmith完成6600万美元C轮融资，晋升独角兽",
+    "summary_zh": "代码测试初创公司Blacksmith宣布完成6600万美元C轮融资，估值突破10亿美元，正式跻身独角兽行列。该公司专注于利用AI技术加速软件测试流程，帮助企业提升代码质量与交付效率。本轮融资反映出资本市场对AI驱动开发者工具的持续看好，也显示出代码测试与质量保障领域正成为AI应用的重要赛道。",
+    "category": "industry"
+  },
+  {
+    "id": "07aa73d54f73efd99dad2a880b4caae2",
+    "title_en": "Nvidia's AI factory strategy points to a broader shift in computing, industry",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20261022PD214/nvidia-infrastructure-industrial-expansion-software.html",
+    "published_at": "2026-10-22T02:01:02Z",
+    "fetched_at": "2026-10-23T02:36:28.550Z",
+    "title_zh": "英伟达AI工厂战略预示计算与产业格局的广泛变革",
+    "summary_zh": "英伟达提出的“AI工厂”战略正推动计算产业发生深层变革。该战略将数据中心重新定义为规模化生产AI能力的工厂，整合GPU集群、网络与软件栈，为企业提供端到端的AI基础设施。分析指出，这一模式不仅重塑了硬件与云服务的边界，也促使各行业重新思考算力部署方式，预示着计算产业从通用架构向AI专用化方向的广泛转型。",
     "category": "industry"
   },
   {
@@ -5267,236 +5498,5 @@
     "title_zh": "科技文档工作者迎来梦想般的一周",
     "summary_zh": "本周科技行业发布了多项与文档工具和技术写作相关的重要更新，为科技文档工作者带来利好。文章盘点了这些变化如何改善文档编写、协作和发布流程，反映出在 AI 辅助写作日益普及的背景下，技术文档领域正经历工具链的快速演进，文档工作者的角色和价值也在被重新定义。",
     "category": "product"
-  },
-  {
-    "id": "be254d880bb54a4b4fb003402dddfdb4",
-    "title_en": "Encryption Is Getting Squeezed From All Sides",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
-    "published_at": "2026-10-17T12:00:00.000Z",
-    "fetched_at": "2026-10-17T14:40:47.224Z",
-    "title_zh": "加密技术正遭受来自各方的挤压",
-    "summary_zh": "文章探讨端到端加密正面临多重压力：各国监管要求执法后门、平台内容审核需求以及AI时代的数据采集冲动，都在削弱强加密的生存空间。作者分析这些趋势对用户隐私、安全与全球互联网信任体系的深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "6930d7a5fbe3bb89b290b299017c41fa",
-    "title_en": "The Best LED Grow Lights for Houseplants This Winter (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-led-grow-lights/",
-    "published_at": "2026-10-17T11:30:00.000Z",
-    "fetched_at": "2026-10-17T14:40:47.224Z",
-    "title_zh": "2026年冬季最适合室内植物的LED生长灯推荐",
-    "summary_zh": "这是一篇2026年冬季LED植物生长灯选购指南，针对光照不足季节为室内绿植补充光照的需求，评测并推荐多款产品，涵盖光谱、功耗、外观设计与性价比等维度，帮助园艺爱好者挑选适合自家植物的补光方案。",
-    "category": "product"
-  },
-  {
-    "id": "352e12840aece95e3301919688f00798",
-    "title_en": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
-    "published_at": "2026-10-17T11:02:00.000Z",
-    "fetched_at": "2026-10-17T14:40:47.224Z",
-    "title_zh": "2026年我们实测最好的12款自动猫咪喂食器",
-    "summary_zh": "文章基于2026年实测，评选出12款表现最佳的自动猫咪喂食器，从定时准确性、容量、防卡粮设计、App远程控制与清洁便利性等方面进行对比，为需要外出或希望规律喂养的养猫家庭提供选购参考。",
-    "category": "product"
-  },
-  {
-    "id": "54a42e3cd29931a746a8ed60f79690b1",
-    "title_en": "HTC Made Smart Glasses That Are Way More Private",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
-    "published_at": "2026-10-17T10:30:00.000Z",
-    "fetched_at": "2026-10-17T14:40:47.224Z",
-    "title_zh": "HTC推出隐私性更强的智能眼镜",
-    "summary_zh": "HTC发布了一款主打隐私保护的智能眼镜，针对此前智能眼镜常被诟病的偷拍与录像争议，在硬件与软件层面强化隐私设计。文章介绍其功能特性、与竞品的差异，以及这类产品在隐私与实用性之间如何取得平衡。",
-    "category": "product"
-  },
-  {
-    "id": "0d246e705e93129f40bd73b044f93e74",
-    "title_en": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/crypto-inheritance-how-to/",
-    "published_at": "2026-10-17T10:30:00.000Z",
-    "fetched_at": "2026-10-17T14:40:47.224Z",
-    "title_zh": "别让加密资产继承卡在区块链上",
-    "summary_zh": "文章讨论加密资产继承的现实难题：私钥丢失或持有人身故后，资产可能永久锁死在区块链上。作者介绍遗嘱规划、多重签名、托管方案与社会恢复等做法，帮助投资者提前安排，避免家人因技术门槛而无法继承数字资产。",
-    "category": "industry"
-  },
-  {
-    "id": "0891fafdf13c7c5f61f1ed25d839e6c4",
-    "title_en": "PlayStation Creator Says Industry Has Fallen Behind AI, Claims Tech Progress Has Stalled",
-    "source": "Sankakucomplex.com",
-    "url": "https://news.sankakucomplex.com/n/gzIeZxfctOxsJZB5vFMscg",
-    "published_at": "2026-10-17T10:00:18Z",
-    "fetched_at": "2026-10-18T10:06:53.215Z",
-    "title_zh": "PlayStation创始人称游戏行业已落后于AI，技术进步陷入停滞",
-    "summary_zh": "据Sankakucomplex报道，PlayStation创始人近日公开表示，游戏行业在人工智能应用方面已经落后于其他领域，并认为行业整体技术进步已陷入停滞。此番言论引发业界对游戏产业创新能力和AI融合程度的讨论，也反映出传统游戏厂商在技术转型中面临的压力与挑战。",
-    "category": "industry"
-  },
-  {
-    "id": "fd2ab8e7db88159e4c720de574b265c3",
-    "title_en": "Elon Musk is the donor behind Senate Republicans’ massive rescue mission for Ken Paxton",
-    "source": "Salon",
-    "url": "https://www.salon.com/2026/10/17/elon-musk-is-the-donor-behind-senate-republicans-massive-rescue-mission-for-ken-paxton-partner/",
-    "published_at": "2026-10-17T10:00:15Z",
-    "fetched_at": "2026-10-18T10:06:53.215Z",
-    "title_zh": "马斯克被曝为参议院共和党人救助肯·帕克斯顿行动的金主",
-    "summary_zh": "据Salon报道，埃隆·马斯克被揭露为参议院共和党人针对得克萨斯州总检察长肯·帕克斯顿的大规模政治救助行动背后的主要捐款人。这一消息揭示了马斯克在政治领域的深度介入，以及其对共和党内部事务的影响力，引发外界对科技巨头参与政治博弈的关注。",
-    "category": "industry"
-  },
-  {
-    "id": "c1fd8baa70bdd46b4479f025d89a9b01",
-    "title_en": "In nearly 2 decades of leading philanthropy at the Milken Institute, I’ve never seen a tidal wave like the one that’s coming",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/10/17/philanthropy-third-wave-spacex-anthropic-openai-milken-institute/",
-    "published_at": "2026-10-17T10:00:00Z",
-    "fetched_at": "2026-10-18T10:06:53.215Z",
-    "title_zh": "米尔肯研究所慈善负责人：近二十年未见如此汹涌的慈善浪潮即将到来",
-    "summary_zh": "据Fortune报道，在米尔肯研究所领导慈善事业近二十年的负责人表示，从未见过像即将到来的这般规模的慈善浪潮。文章探讨了未来慈善捐赠趋势的深刻变化，可能涉及新一代富豪的捐赠理念转变、技术驱动的公益模式创新，以及对全球社会议题投入的大幅增长。",
-    "category": "industry"
-  },
-  {
-    "id": "da7af73f17737145ff8e15d3a3c66b5e",
-    "title_en": "Your Next Vacay Is . . . the Strait of Hormuz?",
-    "source": "The New Yorker",
-    "url": "https://www.newyorker.com/magazine/2026/10/26/your-next-vacay-is-the-strait-of-hormuz",
-    "published_at": "2026-10-17T10:00:00Z",
-    "fetched_at": "2026-10-18T10:06:53.215Z",
-    "title_zh": "你的下一个度假目的地……是霍尔木兹海峡？",
-    "summary_zh": "《纽约客》以独特视角探讨了霍尔木兹海峡作为潜在旅游目的地的可能性。这一全球最重要的石油运输咽喉要道，因其地缘政治敏感性和独特的地理风貌引发关注。文章以幽默而深刻的笔触，反思了在紧张局势下将战略要地开发为旅游景点的荒诞与现实的交织。",
-    "category": "industry"
-  },
-  {
-    "id": "bc3e5846e71ca0b56be941e84f5186eb",
-    "title_en": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/e327884f3a84fb5a",
-    "published_at": "2026-10-17T09:52:16Z",
-    "fetched_at": "2026-10-18T10:06:53.215Z",
-    "title_zh": "Anthropic联合创始人克拉克：AI影响加速显现，或大幅提振美国GDP",
-    "summary_zh": "据Biztoc报道，Anthropic联合创始人克拉克表示，人工智能的影响力正在快速加速，并有望大幅提升美国GDP。他指出AI技术的进步速度超出预期，对经济各领域的渗透正在加深，未来可能成为推动国家经济增长的重要引擎，同时呼吁社会积极应对随之而来的变革与挑战。",
-    "category": "llm"
-  },
-  {
-    "id": "2c7d65c01885204802930975119a1404",
-    "title_en": "Anthropic’s AI capabilities advancing faster than expected, says co-founder Clark",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/anthropics-ai-capabilities-advancing-faster-than-expected-says-co-founder-clark/",
-    "published_at": "2026-10-17T09:44:21Z",
-    "fetched_at": "2026-10-18T10:06:53.215Z",
-    "title_zh": "Anthropic联合创始人克拉克：AI能力发展速度超预期",
-    "summary_zh": "据Crypto Briefing报道，Anthropic联合创始人克拉克表示，公司AI能力的进展速度超出预期。这一表态反映出当前大模型技术迭代的迅猛态势，也暗示Anthropic在模型研发上取得了显著突破。克拉克的言论引发业界对AI发展节奏及其社会经济影响的进一步关注与讨论。",
-    "category": "llm"
-  },
-  {
-    "id": "dc2af9a052a6a0a1e62c8a13a82950f1",
-    "title_en": "Storm Neuro Training is the new partner of Santos' women's team",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/storm-neuro-training-is-the-new-partner-of-santos-womens-team-43625452",
-    "published_at": "2026-10-17T09:25:00Z",
-    "fetched_at": "2026-10-18T10:06:53.215Z",
-    "title_zh": "Storm Neuro Training成为桑托斯女足新合作伙伴",
-    "summary_zh": "据Onefootball报道，Storm Neuro Training正式成为桑托斯足球俱乐部女足队伍的新合作伙伴。此次合作将为球队引入神经训练相关技术和方法，旨在提升球员的竞技表现与训练科学性。这体现了体育与神经科学技术融合的趋势，也显示出女足领域对先进训练手段日益增长的重视。",
-    "category": "industry"
-  },
-  {
-    "id": "d503bbf43c9c08dbbba5eeb7b9915bbf",
-    "title_en": "Agibank is Santos FC's new main sponsor",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/agibank-is-santos-fcs-new-main-sponsor-43625459",
-    "published_at": "2026-10-17T09:25:00Z",
-    "fetched_at": "2026-10-18T10:06:53.215Z",
-    "title_zh": "Agibank成为桑托斯足球俱乐部新任主赞助商",
-    "summary_zh": "据Onefootball报道，Agibank正式成为桑托斯足球俱乐部的新任主赞助商。此次赞助合作标志着该银行在体育营销领域的进一步布局，也为桑托斯俱乐部带来重要的资金支持。双方的合作预计将涵盖品牌曝光、球迷互动等多个层面，助力俱乐部在竞技与商业层面同步发展。",
-    "category": "industry"
-  },
-  {
-    "id": "7da322f7c36a318e406e8609eae789f6",
-    "title_en": "Energy minister hints at new oil discovery in Gabar",
-    "source": "Hurriyet Daily News",
-    "url": "https://www.hurriyetdailynews.com/bayraktar-hints-at-new-oil-discovery-in-gabar-228241",
-    "published_at": "2026-10-17T09:16:00Z",
-    "fetched_at": "2026-10-18T10:06:53.216Z",
-    "title_zh": "土耳其能源部长暗示加巴尔地区发现新油田",
-    "summary_zh": "据Hurriyet Daily News报道，土耳其能源部长暗示在加巴尔地区可能有新的石油发现。若消息属实，这将为土耳其的能源自给能力带来积极影响，并可能改变该地区的能源格局。目前具体储量和开采前景尚待进一步勘探确认，但已引发市场对土耳其能源潜力的关注。",
-    "category": "industry"
-  },
-  {
-    "id": "3266d615f18c1f2b98bb8278c545cd5e",
-    "title_en": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
-    "source": "CNA",
-    "url": "https://www.channelnewsasia.com/business/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp-6468116",
-    "published_at": "2026-10-17T09:14:49Z",
-    "fetched_at": "2026-10-18T10:06:53.216Z",
-    "title_zh": "Anthropic联合创始人克拉克：AI影响加速显现，或大幅提振美国GDP",
-    "summary_zh": "据CNA报道，Anthropic联合创始人克拉克指出，人工智能的影响正在快速加速，并可能大幅提升美国GDP。他强调AI技术正以超出预期的速度渗透各行业，对经济增长的推动作用日益显著。克拉克的表态凸显了AI作为经济引擎的潜力，也引发对技术变革带来社会影响的深入思考。",
-    "category": "llm"
-  },
-  {
-    "id": "3f7462e5beb7b95bbbc5bc990c255c10",
-    "title_en": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
-    "published_at": "2026-10-17T09:00:00.000Z",
-    "fetched_at": "2026-10-17T09:54:48.372Z",
-    "title_zh": "新研究称微塑料会与水发生反应，这对生物学来说是个问题",
-    "summary_zh": "一项新研究发现，微塑料在水中并非惰性物质，而是会与水发生化学反应，可能生成新的化合物。这一发现对生物学意义重大，因为微塑料污染已遍布全球水体，其反应产物可能对生态系统和人体健康产生未知影响。研究人员呼吁进一步评估微塑料与环境相互作用带来的长期风险。",
-    "category": "research"
-  },
-  {
-    "id": "7b6159fb35e2f0bd39574f9301bf834f",
-    "title_en": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-    "published_at": "2026-10-17T09:00:00.000Z",
-    "fetched_at": "2026-10-17T09:54:48.372Z",
-    "title_zh": "为何AI尚无法应对我们复杂的基因组",
-    "summary_zh": "尽管AI在生物医学领域进展迅速，但面对人类基因组的极端复杂性仍显力不从心。文章指出，基因组中大量非编码区域、基因间相互作用以及环境因素的影响，使现有AI模型难以准确解读。专家认为，数据质量、可解释性和生物学先验知识的融合是AI攻克基因组难题的关键障碍。",
-    "category": "research"
-  },
-  {
-    "id": "826c5f9b69af3d5dfc66f60829041021",
-    "title_en": "North Korea says tested AI-assisted torpedo system",
-    "source": "CNA",
-    "url": "https://www.channelnewsasia.com/east-asia/north-korea-ai-torpedo-system-6467791",
-    "published_at": "2026-10-17T02:11:00Z",
-    "fetched_at": "2026-10-18T02:11:53.846Z",
-    "title_zh": "朝鲜称已测试AI辅助鱼雷系统",
-    "summary_zh": "据CNA报道，朝鲜宣称成功测试了一套AI辅助的鱼雷系统。朝方称该系统的AI能力可提升目标识别与自主攻击精度，但外界对其真实技术水平仍存疑。分析人士指出，朝鲜近年来频繁展示AI军事应用，意在对外释放威慑信号并推动武器出口叙事。该动向也引发对AI军事化、自主武器扩散及地区安全稳定的担忧，相关技术细节与验证情况尚待独立评估。",
-    "category": "industry"
-  },
-  {
-    "id": "976b77269cfed84369d0150993cd22b0",
-    "title_en": "AI agents accessing corp data undetected: CERT-In",
-    "source": "The Times of India",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-accessing-corp-data-undetected-cert-in/articleshow/135006013.cms",
-    "published_at": "2026-10-17T02:04:31Z",
-    "fetched_at": "2026-10-18T02:11:53.846Z",
-    "title_zh": "印度CERT-In：AI代理可在不被察觉的情况下访问企业数据",
-    "summary_zh": "据《印度时报》报道，印度计算机应急响应小组（CERT-In）警告称，AI代理能够在企业环境中不被察觉地访问敏感数据。这类代理通常以自动化任务为名获得系统权限，其访问行为可能绕过传统监控与日志审计，形成隐蔽的数据外泄通道。CERT-In建议企业梳理AI代理的权限范围、加强行为审计与网络分段，并对第三方AI工具实施更严格的准入与持续监控，以降低内部数据被静默访问的风险。",
-    "category": "industry"
-  },
-  {
-    "id": "f3006959df2cdde21a0f54a025204a30",
-    "title_en": "Malaysia unveils six homegrown chips in push beyond assembly lines",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/malaysia-unveils-six-homegrown-semiconductor-chips/",
-    "published_at": "2026-10-17T01:49:48Z",
-    "fetched_at": "2026-10-18T02:11:53.846Z",
-    "title_zh": "马来西亚发布六款自研芯片，力图突破单纯代工组装环节",
-    "summary_zh": "据Crypto Briefing报道，马来西亚发布了六款本土自主研发的芯片，标志着该国试图从全球半导体供应链中的封装组装环节向上游设计能力延伸。此举被视为马来西亚强化半导体产业自主性、吸引高附加值投资的重要一步。文章分析了该国在人才、设计与生态方面的挑战，以及在中美科技竞争背景下，东南亚国家争取芯片产业链升级的机遇与风险。",
-    "category": "industry"
-  },
-  {
-    "id": "8e463bb3c7a56a86c1b099d1bf704b88",
-    "title_en": "3 Questions: What Is the Best Path Forward for AI in Academia?",
-    "source": "The Good Men Project",
-    "url": "https://goodmenproject.com/featured-content/3-questions-what-is-the-best-path-forward-for-ai-in-academia/",
-    "published_at": "2026-10-17T01:30:16Z",
-    "fetched_at": "2026-10-18T02:11:53.846Z",
-    "title_zh": "三问：AI在学术界的最佳前进道路是什么？",
-    "summary_zh": "The Good Men Project刊文以“三问”形式探讨AI在学术界的最佳发展路径。文章围绕AI对科研范式、教学方式与学术诚信的影响展开：AI能否加速发现、如何避免学生过度依赖、以及高校应如何制定使用规范与评估标准。作者主张在拥抱效率提升的同时，建立透明的披露机制与批判性使用框架，让AI成为辅助工具而非替代思考的捷径，并呼吁院校在政策制定中兼顾创新与学术规范。",
-    "category": "research"
   }
 ]
