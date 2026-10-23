@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-23",
-      "summary_zh": "今日热榜聚焦AI智能体安全与技能生态：Cloudflare、NVIDIA、Anthropic等推出审计、运行时及插件工具，另有TTS与紫微斗数项目亮眼。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体安全与技能生态：Cloudflare安全审计技能、Claude攻防技能库、NVIDIA智能体运行时，另有PHP、Node.js等经典项目及紫微斗数排盘引擎。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 41311,
+          "stars_total": 41873,
           "stars_today": 2706,
           "description_zh": "一个用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的发现结果"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/NVIDIA/OpenShell",
           "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
           "language": "Rust",
-          "stars_total": 18483,
+          "stars_total": 18687,
           "stars_today": 1240,
           "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/php/php-src",
           "description_en": "The PHP Interpreter",
           "language": "C",
-          "stars_total": 41493,
+          "stars_total": 41533,
           "stars_today": 722,
           "description_zh": "PHP 解释器"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 32034,
+          "stars_total": 32147,
           "stars_today": 643,
           "description_zh": "一个开源插件仓库，主要面向知识工作者在 Claude Cowork 中使用"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/Renhuai123/ziwei-doushu",
           "description_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
           "language": "TypeScript",
-          "stars_total": 6738,
+          "stars_total": 6817,
           "stars_today": 547,
           "description_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/SnailSploit/Claude-Red",
           "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
           "language": "Python",
-          "stars_total": 8183,
+          "stars_total": 8355,
           "stars_today": 209,
           "description_zh": "claude-red 是一个为 Claude 技能系统设计的精选攻击性安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 注入针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞开发。"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/OpenBMB/VoxCPM",
           "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
           "language": "Python",
-          "stars_total": 40095,
+          "stars_total": 40192,
           "stars_today": 144,
           "description_zh": "VoxCPM2：无分词器的 TTS，用于多语言语音生成、创意音色设计和逼真克隆"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/nodejs/node",
           "description_en": "Node.js JavaScript runtime ✨🐢🚀✨",
           "language": "JavaScript",
-          "stars_total": 122684,
+          "stars_total": 122794,
           "stars_today": 93,
           "description_zh": "Node.js JavaScript 运行时 ✨🐢🚀✨"
         }
