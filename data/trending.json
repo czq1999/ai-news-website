@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-23",
-      "summary_zh": "今日GitHub热榜聚焦AI编码代理生态：Claude技能插件、代码知识图谱、安全审计工具涌现，同时PHP、FastAPI、Supabase等经典框架持续活跃。",
+      "summary_zh": "今日热榜聚焦AI智能体安全与技能生态：Cloudflare审计技能、Claude攻防技能库、NVIDIA安全运行时，另有TTS语音生成与紫微斗数排盘引擎。",
       "projects": [
         {
           "rank": 1,
@@ -10,89 +10,79 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 39716,
+          "stars_total": 40591,
           "stars_today": 2979,
           "description_zh": "一个用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的发现结果"
         },
         {
           "rank": 2,
-          "name": "DietrichGebert/ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "language": "JavaScript",
-          "stars_total": 173624,
-          "stars_today": 1948,
-          "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码是你从未写过的代码。"
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars_total": 6524,
+          "stars_today": 547,
+          "description_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
         },
         {
           "rank": 3,
-          "name": "Graphify-Labs/graphify",
-          "url": "https://github.com/Graphify-Labs/graphify",
-          "description_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "language": "Python",
-          "stars_total": 133054,
-          "stars_today": 1408,
-          "description_zh": "将任何代码库及其文档、SQL 模式、配置和 PDF 转换为可查询的知识图谱。适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边都有解释，无需向量存储。"
-        },
-        {
-          "rank": 4,
-          "name": "supabase/supabase",
-          "url": "https://github.com/supabase/supabase",
-          "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-          "language": "TypeScript",
-          "stars_total": 113521,
-          "stars_today": 693,
-          "description_zh": "Postgres 开发平台。Supabase 为你提供一个专用的 Postgres 数据库，用于构建你的 Web、移动和 AI 应用。"
-        },
-        {
-          "rank": 5,
           "name": "anthropics/knowledge-work-plugins",
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "stars_total": 31669,
+          "stars_total": 31893,
           "stars_today": 303,
           "description_zh": "一个开源插件仓库，主要面向知识工作者在 Claude Cowork 中使用"
         },
         {
-          "rank": 6,
+          "rank": 4,
           "name": "php/php-src",
           "url": "https://github.com/php/php-src",
           "description_en": "The PHP Interpreter",
           "language": "C",
-          "stars_total": 41217,
+          "stars_total": 41436,
           "stars_today": 287,
           "description_zh": "PHP 解释器"
         },
         {
-          "rank": 7,
-          "name": "luongnv89/claude-howto",
-          "url": "https://github.com/luongnv89/claude-howto",
-          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "rank": 5,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars_total": 18191,
+          "stars_today": 211,
+          "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
+        },
+        {
+          "rank": 6,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
           "language": "Python",
-          "stars_total": 43312,
-          "stars_today": 177,
-          "description_zh": "一份可视化、示例驱动的 Claude Code 指南——从基础概念到高级智能体，附带可复制粘贴的模板，能立即带来价值。"
+          "stars_total": 7989,
+          "stars_today": 209,
+          "description_zh": "claude-red 是一个为 Claude 技能系统设计的精选攻击性安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 注入针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞开发。"
+        },
+        {
+          "rank": 7,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "language": "Python",
+          "stars_total": 39978,
+          "stars_today": 144,
+          "description_zh": "VoxCPM2：无分词器的 TTS，用于多语言语音生成、创意音色设计和逼真克隆"
         },
         {
           "rank": 8,
-          "name": "Meloong-Git/PCL",
-          "url": "https://github.com/Meloong-Git/PCL",
-          "description_en": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-          "language": "Visual Basic .NET",
-          "stars_total": 8730,
-          "stars_today": 119,
-          "description_zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。"
-        },
-        {
-          "rank": 9,
-          "name": "fastapi/fastapi",
-          "url": "https://github.com/fastapi/fastapi",
-          "description_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-          "language": "Python",
-          "stars_total": 103802,
-          "stars_today": 101,
-          "description_zh": "FastAPI 框架，高性能、易于学习、编码快速、可用于生产环境"
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description_en": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars_total": 122578,
+          "stars_today": 76,
+          "description_zh": "Node.js JavaScript 运行时 ✨🐢🚀✨"
         }
       ]
     },
