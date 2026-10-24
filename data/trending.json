@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-24",
-      "summary_zh": "今日热榜聚焦AI智能体生态：安全审计、私有运行时、AWS工具包及终端Agent涌现，Claude Code设计技能与指南走热，另有机器人鸭子与电子书库吸睛。",
+      "summary_zh": "今日趋势聚焦AI智能体生态：安全审计、私有运行时、AWS工具包及终端Agent涌现，同时AI设计语言与Claude Code教程受关注，另有机器人鸭子与电子书库等趣味项目。",
       "projects": [
         {
           "rank": 1,
@@ -10,29 +10,29 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 43364,
+          "stars_total": 44075,
           "stars_today": 2271,
           "description_zh": "一个用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的发现结果"
         },
         {
           "rank": 2,
-          "name": "luongnv89/claude-howto",
-          "url": "https://github.com/luongnv89/claude-howto",
-          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "language": "Python",
-          "stars_total": 44263,
-          "stars_today": 1053,
-          "description_zh": "一份可视化、以示例驱动的 Claude Code 指南——从基础概念到高级智能体，附带可复制粘贴、立即可用的模板。"
-        },
-        {
-          "rank": 3,
           "name": "NVIDIA/OpenShell",
           "url": "https://github.com/NVIDIA/OpenShell",
           "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
           "language": "Rust",
-          "stars_total": 19208,
+          "stars_total": 19372,
           "stars_today": 893,
           "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
+        },
+        {
+          "rank": 3,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "Rust",
+          "stars_total": 86245,
+          "stars_today": 733,
+          "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
         },
         {
           "rank": 4,
@@ -40,29 +40,29 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 31659,
-          "stars_today": 567,
+          "stars_total": 31958,
+          "stars_today": 570,
           "description_zh": "面向 Claude Code、Cursor 和 Codex 的反 AI 套路设计技能。"
         },
         {
           "rank": 5,
-          "name": "pbakaus/impeccable",
-          "url": "https://github.com/pbakaus/impeccable",
-          "description_en": "The design language that makes your AI harness better at design.",
-          "language": "Rust",
-          "stars_total": 85988,
-          "stars_today": 541,
-          "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
-        },
-        {
-          "rank": 6,
           "name": "makecindy/cindy",
           "url": "https://github.com/makecindy/cindy",
           "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
           "language": "TypeScript",
-          "stars_total": 3846,
+          "stars_total": 4003,
           "stars_today": 471,
           "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
+        },
+        {
+          "rank": 6,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "language": "Python",
+          "stars_total": 44412,
+          "stars_today": 442,
+          "description_zh": "一份可视化、以示例驱动的 Claude Code 指南——从基础概念到高级智能体，附带可复制粘贴、立即可用的模板。"
         },
         {
           "rank": 7,
@@ -70,8 +70,8 @@
           "url": "https://github.com/pollen-robotics/microduck",
           "description_en": "A Tiny biped duck robot 🦆",
           "language": "Rust",
-          "stars_total": 10731,
-          "stars_today": 421,
+          "stars_total": 10869,
+          "stars_today": 381,
           "description_zh": "一只微型双足鸭子机器人 🦆"
         },
         {
@@ -80,7 +80,7 @@
           "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
           "description_en": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
           "language": "Python",
-          "stars_total": 22410,
+          "stars_total": 22528,
           "stars_today": 220,
           "description_zh": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/google-gemini/gemini-cli",
           "description_en": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
           "language": "TypeScript",
-          "stars_total": 107720,
+          "stars_total": 107915,
           "stars_today": 38,
           "description_zh": "一个开源 AI 智能体，将 Gemini 的强大能力直接带入你的终端。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/aws/agent-toolkit-for-aws",
           "description_en": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
           "language": "Python",
-          "stars_total": 3009,
+          "stars_total": 3080,
           "stars_today": 11,
           "description_zh": "官方、AWS 支持的 MCP 服务器、技能和插件，帮助 AI 智能体在 AWS 上构建"
         }

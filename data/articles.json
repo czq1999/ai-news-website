@@ -1,5 +1,38 @@
 [
   {
+    "id": "eb30e00414578c92b5890ecc8408c609",
+    "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "published_at": "2026-10-24T19:00:00.000Z",
+    "fetched_at": "2026-10-24T19:59:20.675Z",
+    "title_zh": "AI墓地：一份持续更新的失败项目与初创公司清单",
+    "summary_zh": "TechCrunch整理了一份名为“AI墓地”的清单，持续记录那些未能存活下来的AI项目和初创公司。该清单涵盖了因资金耗尽、产品缺乏市场、技术路线失败等原因而倒闭的AI企业，为行业提供了失败案例的参考。对于关注AI创业生态的读者而言，这份清单揭示了热潮背后的残酷现实，也帮助创业者和投资人从中吸取教训，避免重蹈覆辙。",
+    "category": "industry"
+  },
+  {
+    "id": "0c58159611d9d12f8e6d2535d40353e0",
+    "title_en": "Pennsylvania will require labels on AI-generated ads",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "published_at": "2026-10-24T18:32:21.000Z",
+    "fetched_at": "2026-10-24T19:59:20.809Z",
+    "title_zh": "宾夕法尼亚州将要求AI生成的广告添加标识",
+    "summary_zh": "宾夕法尼亚州出台新规，要求对AI生成的广告内容进行明确标识，以帮助消费者辨别广告的真实性。此举旨在应对AI生成内容在政治广告和商业宣传中日益泛滥的问题，防止误导公众。该法规反映了监管机构对AI内容透明度的关注，也可能为其他州制定类似政策提供参考，推动AI生成内容的标注走向规范化。",
+    "category": "industry"
+  },
+  {
+    "id": "4bffcc94e243ec60bbd3a9cc0c957edd",
+    "title_en": "Block’s new voice model sounds eerily human",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "published_at": "2026-10-24T16:00:00.000Z",
+    "fetched_at": "2026-10-24T19:59:20.675Z",
+    "title_zh": "Block推出新语音模型，声音逼真得令人不安",
+    "summary_zh": "Block公司发布了一款全新的语音生成模型，其合成语音的自然度和真实感达到了令人惊讶的水平，听起来几乎与真人无异。该模型在语调、情感表达和细节处理上表现出色，进一步模糊了人机语音的界限。这一进展也引发了关于深度伪造、语音诈骗和身份验证安全的讨论，凸显了高质量语音合成技术带来的双刃剑效应。",
+    "category": "product"
+  },
+  {
     "id": "bb0da07d7d850a655bab9fb7cf9491a2",
     "title_en": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
     "source": "TechCrunch AI",
@@ -9,6 +42,28 @@
     "title_zh": "被迫选边站：Grok的AI模型选择共和党，OpenAI的则选民主党",
     "summary_zh": "TechCrunch报道称，在被迫做出政治倾向选择时，xAI的Grok模型倾向于共和党，而OpenAI的模型则倾向民主党。这一测试结果凸显出不同大模型在政治立场上的潜在偏见差异，也再次引发外界对AI模型价值观对齐、训练数据偏向及政治中立性的关注。随着AI被广泛用于信息获取，模型的政治倾向可能影响公众认知，如何确保中立与透明成为行业亟待解决的问题。",
     "category": "llm"
+  },
+  {
+    "id": "f393ce13bd387bd8470e71dbe4fec99a",
+    "title_en": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+    "published_at": "2026-10-24T15:00:00.000Z",
+    "fetched_at": "2026-10-24T19:59:20.809Z",
+    "title_zh": "Fielded痴迷于诈骗分子与疯狂的日本赛博朋克",
+    "summary_zh": "Fielded是一家专注于利用AI对抗诈骗的公司，其团队对诈骗手法和日本赛博朋克文化有着独特的热情。文章介绍了Fielded如何借助对诈骗行为的深入研究，构建AI系统来识别和拦截欺诈行为。其风格鲜明的品牌形象和对日本赛博朋克美学的偏爱，使其在众多安全初创公司中独树一帜，也体现了AI反诈领域的创新思路。",
+    "category": "industry"
+  },
+  {
+    "id": "17c594a00ca7943d145a329a50e02281",
+    "title_en": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+    "published_at": "2026-10-24T15:00:00.000Z",
+    "fetched_at": "2026-10-24T19:59:20.809Z",
+    "title_zh": "LG出色的C6 OLED电视在黑色星期五前已降价400美元",
+    "summary_zh": "LG旗下备受好评的C6 OLED电视在黑色星期五促销季到来之前就已降价400美元，为消费者提供了提前入手的机会。该电视以出色的画质、亮度和游戏性能著称，是LG OLED产品线中的热门型号。此次降价反映了电视市场竞争的激烈程度，也为计划升级家庭影音设备的用户带来了实惠，值得关注后续促销动态。",
+    "category": "product"
   },
   {
     "id": "9730ec27361e150ed239c1bc0326eb28",
@@ -242,6 +297,94 @@
     "category": "llm"
   },
   {
+    "id": "8a093a76553ea7eb4f04ef0cfaa556b7",
+    "title_en": "Hybrid infrastructure decisions put AI costs and control in focus",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/10/23/hybrid-infrastructure-costs-push-ai-inference-edge-dellnewyorksymposium/",
+    "published_at": "2026-10-23T19:58:58Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "混合基础设施决策聚焦AI成本与控制权",
+    "summary_zh": "随着企业AI部署规模扩大，混合基础设施成为平衡成本与控制权的关键策略。SiliconANGLE报道指出，企业正将本地部署与公有云相结合，以应对GPU算力成本高企和数据主权合规要求。文章分析了不同混合架构方案在推理负载、模型微调及数据治理方面的优劣，并强调AI工作负载的独特性正推动基础设施决策从单纯的成本考量转向对可控性、灵活性和长期可扩展性的综合权衡。",
+    "category": "industry"
+  },
+  {
+    "id": "30068fb5e77e2dfd30370bb96f57f6df",
+    "title_en": "The Real Danger of Big Tech",
+    "source": "Foreign Policy",
+    "url": "http://foreignpolicy.com/2026/10/23/musk-starlink-big-tech-dangers-ultrarich-us-democracy/",
+    "published_at": "2026-10-23T19:51:32Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "大型科技公司的真正危险",
+    "summary_zh": "《外交政策》刊文探讨大型科技公司在AI时代的真正威胁。文章认为，相较于技术本身的风险，更值得警惕的是少数巨头对AI基础设施、模型和数据的高度集中控制，这种权力集中可能侵蚀市场竞争、影响公共政策制定并削弱民主监督。作者呼吁各国政府加强反垄断执法与透明度监管，确保AI发展红利广泛分配，而非沦为少数企业巩固市场支配地位的工具。",
+    "category": "industry"
+  },
+  {
+    "id": "f9072ea69d7bd13ff19a6ccda8e5afeb",
+    "title_en": "Microsoft says its AI tool outperforms generalist doctors in complex diagnoses",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/28bb4ab605fa9040",
+    "published_at": "2026-10-23T19:51:13Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "微软称其AI工具在复杂诊断中表现优于全科医生",
+    "summary_zh": "微软研究团队发布成果称，其AI诊断工具在处理复杂病例时的表现优于全科医生。该工具基于大规模医学数据训练，能够综合多模态临床信息给出鉴别诊断建议。研究显示，在涉及多系统疾病的疑难案例中，AI的准确率和诊断完整性均超过人类全科医生。不过专家提醒，此类结论需在真实临床环境中进一步验证，AI应定位为辅助工具而非替代医生判断。",
+    "category": "research"
+  },
+  {
+    "id": "8138cfe97abe23e09de75924d63874c1",
+    "title_en": "Osinbajo hails Awo’s visionary leadership",
+    "source": "The Punch",
+    "url": "https://punchng.com/osinbajo-hails-awos-visionary-leadership/",
+    "published_at": "2026-10-23T19:50:50Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "奥辛巴乔盛赞阿沃富有远见的领导力",
+    "summary_zh": "尼日利亚前副总统奥辛巴乔在公开活动中赞扬已故政治家阿沃洛沃富有远见的领导力，回顾其对国家治理与教育事业的贡献。该报道聚焦尼日利亚政治人物纪念活动，未涉及人工智能或科技相关内容，因此不属于AI新闻范畴。",
+    "category": "industry"
+  },
+  {
+    "id": "7fe33f5c7d16400320ab3936fc10572b",
+    "title_en": "Tech bills of the week: Preventing AI model theft; Regulating AI-generated political content; and more",
+    "source": "Nextgov",
+    "url": "https://www.nextgov.com/policy/2026/10/tech-bills-week-preventing-ai-model-theft-regulating-ai-generated-political-content-and-more/416796/",
+    "published_at": "2026-10-23T19:48:00Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "本周科技法案：防止AI模型被盗、监管AI生成政治内容等",
+    "summary_zh": "Nextgov汇总本周美国国会科技立法动态，重点包括防止AI模型被盗用的法案，旨在保护企业核心模型权重免遭窃取；以及针对AI生成政治内容的监管提案，要求竞选广告披露AI生成素材。此外还涉及联邦AI采购透明度等议题。这一系列立法动向表明，随着AI技术深入社会各领域，政策制定者正加快构建涵盖知识产权、选举诚信和政府应用的监管框架。",
+    "category": "industry"
+  },
+  {
+    "id": "b1aea0ea99a8ef2212eb3c8d33fbbe3e",
+    "title_en": "‘VisionQuest’ Seems Eager To Confront Dangers Of Unregulated AI, But The Team Behind It Says MCU Series Isn’t A Reflection Of Current Events",
+    "source": "Deadline",
+    "url": "http://deadline.com/2026/10/visionquest-unregulated-ai-danger-paul-bettany-james-spader-1237156113/",
+    "published_at": "2026-10-23T19:43:03Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "《VisionQuest》似欲直面无监管AI的危险，但主创称该MCU剧集并非影射时事",
+    "summary_zh": "漫威新剧《VisionQuest》预告片显示其主题涉及无监管人工智能可能带来的危险，引发观众对现实AI治理议题的联想。然而主创团队在接受Deadline采访时强调，该剧并非对当前事件的直接影射，故事构思早于近期AI热潮。剧集将延续幻视角色的身份探索主线，同时借AI伦理话题增加叙事深度，但创作初衷仍以角色驱动为核心。",
+    "category": "product"
+  },
+  {
+    "id": "7cb5ef25c616b686c3172f5fa2eb8533",
+    "title_en": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/3bc0d5a743d04b7f",
+    "published_at": "2026-10-23T19:37:40Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "“黑色十月”：网络安全专家就AI驱动黑客新时代发出警报",
+    "summary_zh": "网络安全专家警告称，近期多起大规模攻击事件标志着AI赋能黑客的新时代已经到来，并将这一阶段称为“黑色十月”。攻击者利用AI工具自动化漏洞挖掘、生成钓鱼内容并加速横向渗透，显著缩短了攻击周期。专家指出，传统防御体系难以应对这种规模化、智能化的攻击模式，呼吁企业加快部署AI驱动的威胁检测与响应系统，同时加强行业间威胁情报共享。",
+    "category": "industry"
+  },
+  {
+    "id": "be73078d9dce40b53d30cad1738450b9",
+    "title_en": "Watchdog Using AI to Help Americans Dig Through Millions of Pages of Government Records",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/1f6d66e5b43d2f26",
+    "published_at": "2026-10-23T19:36:10Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "监督机构利用AI帮助美国人检索数百万页政府记录",
+    "summary_zh": "一家监督机构正在利用AI技术帮助公众检索海量政府记录，解决数百万页文件难以人工查阅的难题。该工具可对公开的政府文档进行自动分类、摘要和语义搜索，使记者和普通公民能够快速定位关键信息，提升政府透明度。此举展示了AI在公民监督和信息公开领域的应用潜力，同时也引发对AI摘要准确性和数据来源可靠性的讨论。",
+    "category": "product"
+  },
+  {
     "id": "28b6f5c59fd4d2d8bd20d455871b7bd1",
     "title_en": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
     "source": "The Verge",
@@ -262,6 +405,28 @@
     "title_zh": "杰克·多尔西的Block打造了一款像笨拙新朋友一样与你交谈的AI模型",
     "summary_zh": "杰克·多尔西旗下公司Block开发了一款风格独特的AI模型，其对话方式刻意模仿笨拙的新朋友，而非传统助手的机械口吻。该模型旨在探索更自然、更具人情味的交互体验，反映出AI产品在人格化设计上的新尝试，也引发关于AI社交陪伴定位的讨论。",
     "category": "llm"
+  },
+  {
+    "id": "1dbf2bc50085787d3bee75ecee90ee5b",
+    "title_en": "Executive Director, National Museum of Women in the Arts",
+    "source": "Artsjournal.com",
+    "url": "https://www.artsjournal.com/2026/10/executive-director-national-museum-of-women-in-the-arts.html",
+    "published_at": "2026-10-23T19:31:20Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "国家女性艺术博物馆执行总监",
+    "summary_zh": "该报道为国家女性艺术博物馆执行总监职位的招聘或人事信息，内容属于文化艺术机构管理范畴，未涉及人工智能或科技领域，因此不属于AI新闻。",
+    "category": "industry"
+  },
+  {
+    "id": "fb5fe89e3f2814bffff6e024fa1c457e",
+    "title_en": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+    "published_at": "2026-10-23T19:31:15Z",
+    "fetched_at": "2026-10-24T19:59:21.525Z",
+    "title_zh": "报告显示五角大楼负责任AI准则并非总被遵守",
+    "summary_zh": "NPR报道援引一份报告指出，美国国防部制定的负责任人工智能准则在实际执行中并非总被遵守。报告发现部分AI项目在采购和部署环节缺乏足够的监督与合规审查，透明度不足。专家担忧，在军事AI应用快速扩展的背景下，若准则执行不力，可能带来误判、问责缺失等风险。报告建议加强内部审计机制，并定期向国会公开AI系统的使用情况。",
+    "category": "industry"
   },
   {
     "id": "5afda3cd62a69d4181e06d8088c51616",
@@ -5332,171 +5497,6 @@
     "fetched_at": "2026-10-19T17:58:43.486Z",
     "title_zh": "Wyze将新款智能体重秤的屏幕移到手柄上，方便平视读取",
     "summary_zh": "Wyze推出新款智能体重秤，创新性地将显示屏从秤面移到手柄上，让用户在站立时能以平视角度轻松读取数据。这一设计解决了传统智能秤需要弯腰查看数字的痛点，提升了使用便利性。新款产品延续了Wyze一贯的高性价比路线，并可能集成更多健康数据追踪功能，体现了智能家居设备在人机交互细节上的持续优化。",
-    "category": "product"
-  },
-  {
-    "id": "3525b83534113a40ad4f9b1168d408c2",
-    "title_en": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "published_at": "2026-10-19T12:30:00.000Z",
-    "fetched_at": "2026-10-19T17:58:43.428Z",
-    "title_zh": "Laplace Intelligence在机器人和自动驾驶汽车上路前对其进行红队测试",
-    "summary_zh": "Laplace Intelligence专注于在机器人和自动驾驶汽车投入真实环境之前进行红队安全测试，通过模拟对抗性场景发现系统漏洞和安全隐患。该公司的方法涵盖感知系统攻击、决策逻辑异常和传感器欺骗等多种威胁模型，帮助厂商在部署前修复关键安全问题。随着自主系统加速落地，这类第三方安全评估的需求正在快速增长。",
-    "category": "industry"
-  },
-  {
-    "id": "e48ad8ad7f7a5b08260076bf9169e32d",
-    "title_en": "Vibe coding is turning the music gear world upside down",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
-    "published_at": "2026-10-19T12:30:00.000Z",
-    "fetched_at": "2026-10-19T17:58:43.486Z",
-    "title_zh": "氛围编程正在颠覆音乐设备世界",
-    "summary_zh": "“氛围编程”（vibe coding）正席卷音乐设备领域，音乐人和开发者借助AI辅助编程快速构建自定义音效工具、合成器界面和MIDI控制器。这种低门槛的开发方式让非专业程序员也能将音乐创意转化为可用的软件和硬件项目，催生了大量社区驱动的创新工具。这一趋势正在打破传统音乐设备行业的开发壁垒，推动个性化音乐创作工具的爆发式增长。",
-    "category": "product"
-  },
-  {
-    "id": "f0fcab23fc124875f5645c54342f00ce",
-    "title_en": "The Download: preserving the Arctic permafrost, and playful AI agents",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-    "published_at": "2026-10-19T12:10:00.000Z",
-    "fetched_at": "2026-10-19T17:58:43.978Z",
-    "title_zh": "每日简报：保护北极永久冻土，以及好玩的AI智能体",
-    "summary_zh": "MIT科技评论每日简报聚焦两大话题：一是保护北极永久冻土的最新科研与工程手段，探讨冻土融化对气候的连锁影响；二是具备 playful 特性的AI智能体，介绍其在交互、探索与任务执行上的新进展，展现AI代理从工具向更具自主性伙伴演进的趋势。",
-    "category": "research"
-  },
-  {
-    "id": "334ab7f98fa54d2cdc87e9b15a71ac08",
-    "title_en": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
-    "published_at": "2026-10-19T11:30:00.000Z",
-    "fetched_at": "2026-10-19T11:36:15.755Z",
-    "title_zh": "内森·菲尔德接到伊丽莎白·霍姆斯的意外来电：“我信任你”",
-    "summary_zh": "据Wired报道，喜剧演员内森·菲尔德接到了一通来自Theranos创始人伊丽莎白·霍姆斯的意外电话，霍姆斯在通话中表示“我信任你”。这一离奇互动成为围绕霍姆斯与Theranos持续发酵的媒体叙事的最新插曲，也折射出这位争议人物在公众视野中的复杂形象与话题热度。",
-    "category": "industry"
-  },
-  {
-    "id": "41d44efc680d705cc2425d8232ae3963",
-    "title_en": "The Maeving RM2 is high-style electric riding with a few compromises",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
-    "published_at": "2026-10-19T11:00:00.000Z",
-    "fetched_at": "2026-10-19T11:36:15.268Z",
-    "title_zh": "Maeving RM2：高格调电动骑行，但存在一些妥协",
-    "summary_zh": "The Verge 评测了 Maeving RM2 电动摩托车，称其外观设计出众、骑行体验颇具格调，但在续航、实用性或配置等方面存在明显妥协。文章指出这款车型更适合追求风格与城市短途通勤的用户，而非追求极致性能或长途出行的骑手，整体定位偏向时尚生活方式产品。",
-    "category": "product"
-  },
-  {
-    "id": "b2ae6c27fc0c318e8391791d559be165",
-    "title_en": "Five things to watch in markets in the week ahead",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/22cbb57275db1d01",
-    "published_at": "2026-10-19T10:39:31Z",
-    "fetched_at": "2026-10-20T10:40:34.521Z",
-    "title_zh": "未来一周市场值得关注的五件事",
-    "summary_zh": "Biztoc汇总未来一周金融市场五大看点，涵盖科技企业财报、宏观经济数据及油价走势等。文章为投资者梳理关键事件节点，帮助把握市场情绪与潜在波动方向。",
-    "category": "industry"
-  },
-  {
-    "id": "ae595d647a0f127d211e00f8c57d3418",
-    "title_en": "Prediction: Microsoft Stock Is Going to Soar After Oct. 28",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/beaa8ad3ce6c840c",
-    "published_at": "2026-10-19T10:39:10Z",
-    "fetched_at": "2026-10-20T10:40:34.521Z",
-    "title_zh": "预测：微软股价将在10月28日后飙升",
-    "summary_zh": "Biztoc刊文预测微软股价将在10月28日后大幅上涨，分析指向财报发布与AI业务进展等催化剂。文章为投资者提供看多逻辑，但此类预测仍需结合市场风险审慎看待。",
-    "category": "industry"
-  },
-  {
-    "id": "fc20da17cee4766c9208c707c43ac439",
-    "title_en": "The Indifferent Artifact: A Stranger in Public Space",
-    "source": "Landezine.com",
-    "url": "https://landezine.com/the-indifferent-artifact-a-stranger-in-public-space/",
-    "published_at": "2026-10-19T10:39:04Z",
-    "fetched_at": "2026-10-20T10:40:34.521Z",
-    "title_zh": "冷漠的造物：公共空间中的陌生人",
-    "summary_zh": "Landezine刊文探讨公共空间中“冷漠造物”的设计理念，分析景观与城市装置如何影响人与陌生人之间的互动。文章从建筑与景观设计视角反思公共空间的社会性与疏离感。",
-    "category": "research"
-  },
-  {
-    "id": "67949771d57451ec744faa531cf98714",
-    "title_en": "US Stock Futures Rise Ahead of Technology Earnings as Oil Prices Decline: Dow Jones, S&P, Nasdaq, Wall Street",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/edae4a00aa1acd0d",
-    "published_at": "2026-10-19T10:38:47Z",
-    "fetched_at": "2026-10-20T10:40:34.521Z",
-    "title_zh": "科技股财报前美股期货上涨，油价下跌：道指、标普、纳指与华尔街动态",
-    "summary_zh": "Biztoc报道科技企业财报发布前美国股指期货走高，同时油价下跌。文章梳理道指、标普与纳指走势，分析市场对科技巨头业绩的预期及能源价格波动对整体情绪的影响。",
-    "category": "industry"
-  },
-  {
-    "id": "8af91132b2983b644eeab45f30dd06f5",
-    "title_en": "Nvidia dodged the AI selloff, and Jensen Huang has a theory why",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/d2987a644d1956cb",
-    "published_at": "2026-10-19T10:37:37Z",
-    "fetched_at": "2026-10-20T10:40:34.522Z",
-    "title_zh": "英伟达躲过AI抛售潮，黄仁勋有自己的解释",
-    "summary_zh": "Biztoc报道英伟达在AI板块抛售中表现坚挺，CEO黄仁勋对此给出自己的解释。文章分析英伟达的算力需求基本面与市场信心，探讨其为何能在AI概念股回调中独善其身。",
-    "category": "industry"
-  },
-  {
-    "id": "192a71140d802ecee13af81abebb3566",
-    "title_en": "Superintelligence isn't science. Not yet.",
-    "source": "The Times of India",
-    "url": "https://timesofindia.indiatimes.com/toi-blogs/digital-life/superintelligence-isnt-science-not-yet-/articleshow/135046395.cms",
-    "published_at": "2026-10-19T10:37:08Z",
-    "fetched_at": "2026-10-20T10:40:34.522Z",
-    "title_zh": "超级智能还不是科学，至少目前不是",
-    "summary_zh": "印度时报刊文指出“超级智能”目前尚不构成严谨科学，更多是推测与愿景。文章讨论AGI与超级智能概念在学术与产业间的落差，呼吁以更审慎的态度看待相关宣传与炒作。",
-    "category": "llm"
-  },
-  {
-    "id": "30a8e74f030cc635a08d550f8d7149e4",
-    "title_en": "Guerre en Ukraine : l'invasion russe a laissé des milliers d'enfants ukrainiens bloqués en Russie (Anglais)",
-    "source": "Meduza",
-    "url": "https://meduza.io/en/feature/2026/10/19/russia-s-invasion-left-thousands-of-ukrainian-children-stranded-in-russia-for-one-12-year-old-girl-the-only-way-out-of-her-occupied-village-led-away-from-her-mother",
-    "published_at": "2026-10-19T10:33:04Z",
-    "fetched_at": "2026-10-20T10:40:34.522Z",
-    "title_zh": "乌克兰战争：俄罗斯入侵导致数千名乌克兰儿童滞留俄罗斯（英文报道）",
-    "summary_zh": "Meduza英文报道称俄罗斯入侵乌克兰后，数千名乌克兰儿童被困俄罗斯境内。文章关注儿童安置与遣返问题，涉及国际人道法与战争对平民的长期影响。",
-    "category": "industry"
-  },
-  {
-    "id": "85511a141877d305cc23a278e5ae5f0f",
-    "title_en": "Infosys and Truist Strengthen Strategic Collaboration to Build a Global Capability Center in India",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/infosys-and-truist-strengthen-strategic-collaboration-to-build-a-global-capability-center-in-india-302912501.html",
-    "published_at": "2026-10-19T10:32:00Z",
-    "fetched_at": "2026-10-20T10:40:34.522Z",
-    "title_zh": "Infosys与Truist深化战略合作，在印度共建全球能力中心",
-    "summary_zh": "印度IT服务巨头Infosys与美国银行控股公司Truist宣布加强战略合作，计划在印度建立一座全球能力中心（GCC）。该中心将整合技术、运营与创新资源，为Truist提供数字化转型支持，并借助AI与自动化提升金融服务效率。此举反映出全球金融机构持续将后台与技术能力向印度转移的趋势，也凸显Infosys在金融科技服务领域的扩张野心。",
-    "category": "industry"
-  },
-  {
-    "id": "e08ee708e04c3b0477fb82be9e625502",
-    "title_en": "AI makes finding open source flaws easier, so why fixing them remains hard",
-    "source": "Business Standard",
-    "url": "https://www.business-standard.com/technology/tech-news/ai-makes-finding-open-source-flaws-easier-so-why-fixing-them-remains-hard-126101900661_1.html",
-    "published_at": "2026-10-19T10:31:49Z",
-    "fetched_at": "2026-10-20T10:40:34.522Z",
-    "title_zh": "AI让发现开源漏洞更简单，但修复为何依然困难",
-    "summary_zh": "随着AI工具在代码审计中的广泛应用，开源软件中的安全漏洞比以往更容易被发现。然而报道指出，发现漏洞只是第一步，真正的挑战在于修复：维护者资源有限、依赖关系复杂、补丁兼容性风险高，以及下游项目升级滞后等问题，使得大量已知漏洞长期得不到修补。文章呼吁社区与企业在AI辅助发现之外，建立更高效的漏洞修复与协同响应机制。",
-    "category": "research"
-  },
-  {
-    "id": "091a1c8a7490c7159bf471497af4641a",
-    "title_en": "How the Xbox’s Disc-to-Digital Program Works",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/xbox-disc-to-digital/",
-    "published_at": "2026-10-19T10:30:00.000Z",
-    "fetched_at": "2026-10-19T11:36:15.755Z",
-    "title_zh": "Xbox光盘转数字计划如何运作",
-    "summary_zh": "Wired介绍了Xbox光盘转数字计划的运作方式。该计划允许玩家将实体游戏光盘转换为数字版游戏，从而在无光驱设备上继续游玩。文章详细说明了操作流程、适用条件及限制，并分析了这一举措对玩家游戏库管理和微软数字发行战略的意义，反映出游戏行业向数字化转型的趋势。",
     "category": "product"
   }
 ]
