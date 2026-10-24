@@ -1,5 +1,49 @@
 [
   {
+    "id": "73c73f0157867ccbf52af97d59b15925",
+    "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "published_at": "2026-10-23T23:05:49.000Z",
+    "fetched_at": "2026-10-24T02:34:51.264Z",
+    "title_zh": "OpenAI称因“重大风险”将不再用实时互联网数据训练AI模型",
+    "summary_zh": "OpenAI宣布将停止使用实时互联网内容训练其AI模型，理由是存在“重大风险”。此举意味着模型训练数据将来自经过筛选的离线数据集，而非直接抓取网络内容。这一转变可能影响模型的知识时效性和训练方式，也反映出AI公司在数据来源合规与安全方面的顾虑日益加深。",
+    "category": "llm"
+  },
+  {
+    "id": "ef66c5531c963151818e938018470576",
+    "title_en": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "published_at": "2026-10-23T21:59:19.000Z",
+    "fetched_at": "2026-10-24T02:34:51.265Z",
+    "title_zh": "圣诞最火玩具？英伟达CEO把玩可爱Microduck机器人，销量达2万台",
+    "summary_zh": "英伟达CEO黄仁勋亲自把玩Microduck机器人，这款可爱的小型机器人已售出2万台，被视为今年圣诞季的热门玩具。该产品结合了英伟达的AI技术，展示了消费级机器人市场的潜力，也体现了AI芯片巨头向消费产品领域延伸的品牌影响力。",
+    "category": "product"
+  },
+  {
+    "id": "c0214855a6fce81060562d24d47d77bd",
+    "title_en": "Xbox’s first chief operating officer is out after just a few months",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+    "published_at": "2026-10-23T21:39:26.000Z",
+    "fetched_at": "2026-10-24T02:34:51.336Z",
+    "title_zh": "Xbox首位首席运营官上任仅数月便离职",
+    "summary_zh": "Xbox首位首席运营官在任职仅数月后离职，引发外界对微软游戏部门管理层稳定性的关注。该职位设立时间不长，此次人事变动可能影响Xbox的运营战略和业务整合。目前官方尚未披露具体离职原因及继任安排。",
+    "category": "industry"
+  },
+  {
+    "id": "78c968c7120787cb9def557127029fc4",
+    "title_en": "OpenAI now trains its frontier AI models with no internet access",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "published_at": "2026-10-23T21:11:07.000Z",
+    "fetched_at": "2026-10-24T02:34:51.336Z",
+    "title_zh": "OpenAI现已在不联网环境下训练其前沿AI模型",
+    "summary_zh": "OpenAI证实其前沿AI模型训练已完全脱离互联网访问，改为在隔离环境中使用精选数据集进行训练。此举旨在降低数据污染、安全泄露和外部攻击风险，但也可能带来模型知识更新滞后的问题。这标志着头部AI实验室在训练安全策略上的重大调整。",
+    "category": "llm"
+  },
+  {
     "id": "28b6f5c59fd4d2d8bd20d455871b7bd1",
     "title_en": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
     "source": "The Verge",
@@ -404,6 +448,116 @@
     "fetched_at": "2026-10-23T10:43:45.122Z",
     "title_zh": "Uber竞争对手inDrive携手小马智行和英伟达，计划2027年在中亚测试Robotaxi",
     "summary_zh": "Uber的竞争对手inDrive宣布，将与中国自动驾驶公司小马智行（Pony.ai）及英伟达合作，计划于2027年在中亚地区开展Robotaxi测试。此举标志着自动驾驶出行服务正加速向新兴市场扩张，inDrive希望借助小马智行的自动驾驶技术栈和英伟达的算力平台，在中亚市场抢占先机，与Uber等全球巨头展开差异化竞争。",
+    "category": "industry"
+  },
+  {
+    "id": "4cf1299f4b1096bb153b33f25875509a",
+    "title_en": "US proposes rule to crack down on high-tech investments in China, others",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/us-proposes-rule-to-crack-down-on-high-tech-investments-in-china-others-126102300041_1.html",
+    "published_at": "2026-10-23T02:34:03Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "美国拟出台新规，限制对华等国高科技投资",
+    "summary_zh": "美国政府提议制定新规，收紧对包括中国在内国家的高科技领域投资，涉及半导体、人工智能、量子计算等敏感技术。此举旨在防止关键技术外流、维护国家安全，但可能进一步加剧中美科技脱钩，并对全球资本流动与相关企业的融资渠道产生影响。业界正密切关注规则细节及实施时间表。",
+    "category": "industry"
+  },
+  {
+    "id": "5eb887b18475a852062e153b5eb045b2",
+    "title_en": "AI tech fears push global credit spreads to 17-month high",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/ai-tech-fears-push-global-credit-spreads-to-17-month-high/",
+    "published_at": "2026-10-23T02:25:54Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "AI技术担忧推动全球信用利差升至17个月新高",
+    "summary_zh": "市场对人工智能技术泡沫及高估值风险的担忧升温，推动全球信用利差扩大至17个月以来最高水平。投资者担心AI相关企业大规模资本开支难以在短期转化为盈利，从而加剧债务市场压力。这一趋势反映出市场情绪正从对AI的狂热转向谨慎，可能影响科技企业的融资成本与扩张节奏。",
+    "category": "industry"
+  },
+  {
+    "id": "4ac0bf1caf064114f2b2c4b46b1e3523",
+    "title_en": "OpenAI cuts valuation target by $150 bn to $1.25 tn | Why it has scaled back its funding ambitions ahead of IPO",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/news/openai-cuts-valuation-target-by-150-bn-to-1-25-tn-why-it-has-scaled-back-its-funding-ambitions-ahead-of-ipo-11792720384756.html",
+    "published_at": "2026-10-23T02:19:17Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "OpenAI将估值目标下调1500亿美元至1.25万亿美元，IPO前为何缩减融资雄心",
+    "summary_zh": "OpenAI将其估值目标下调1500亿美元至1.25万亿美元，在IPO前缩减融资规模。此举或反映市场对高估值AI企业的审慎态度、算力与运营成本压力，以及投资者对盈利路径的更高要求。调整后的估值仍使其位居全球最有价值初创公司之列，但显示AI融资热潮正趋于理性。",
+    "category": "industry"
+  },
+  {
+    "id": "13e54324ba03fcecd99e2724e30d2e2e",
+    "title_en": "Dragon enters bear cave with $2.4 trillion lost since May peak",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dragon-enters-bear-cave-with-2-4-trillion-lost-since-may-peak/articleshow/135131775.cms",
+    "published_at": "2026-10-23T02:15:22Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "“巨龙”入熊市：自5月峰值以来市值蒸发2.4万亿美元",
+    "summary_zh": "报道称，被称为“巨龙”的市场主体自5月峰值以来市值已蒸发2.4万亿美元，正式进入熊市区间。分析认为，AI概念股回调、宏观经济不确定性及投资者获利了结是主要推手。这一大幅缩水凸显市场对高估值科技资产的担忧加剧，也引发对AI驱动行情可持续性的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "13a7aa10b9d98c77a04b777164922b80",
+    "title_en": "North Carolina must adapt to AI",
+    "source": "Ncspin.com",
+    "url": "https://www.ncspin.com/north-carolina-must-adapt-to-ai",
+    "published_at": "2026-10-23T02:08:00Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "北卡罗来纳州必须适应人工智能时代",
+    "summary_zh": "文章指出，北卡罗来纳州需积极适应人工智能带来的经济与社会变革，包括加强劳动力技能培训、推动企业AI应用、完善教育与基础设施配套。作者呼吁政策制定者把握AI机遇，同时应对就业结构变化与数字鸿沟等挑战，以确保该州在技术浪潮中保持竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "7869b1916cb7ea38277243432521a18a",
+    "title_en": "Swiggy narrows loss in Q2; eMudhra cofounder on what went wrong",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms",
+    "published_at": "2026-10-23T02:07:17Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "Swiggy第二季度亏损收窄；eMudhra联合创始人谈问题所在",
+    "summary_zh": "印度外卖平台Swiggy公布第二季度业绩，亏损有所收窄，显示成本控制与业务调整初见成效。同期，eMudhra联合创始人就公司经营问题作出回应，分析业务挑战与改进方向。两则消息反映印度科技企业在增长与盈利之间寻求平衡，也受到投资者对财务健康度的持续关注。",
+    "category": "industry"
+  },
+  {
+    "id": "841ffa6c6d8f7b6b7d05168496f4dc48",
+    "title_en": "How do birds react to dead birds?",
+    "source": "Lifesciencesworld.com",
+    "url": "https://www.lifesciencesworld.com/how-do-birds-react-to-dead-birds/",
+    "published_at": "2026-10-23T02:02:54Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "鸟类如何应对同类死亡？",
+    "summary_zh": "文章探讨鸟类对同类死亡的 behavioral 反应，包括发出警报叫声、聚集围观、避免靠近尸体等行为。研究表明，这类反应可能具有降低被捕食风险和传播疾病风险的功能，也涉及动物对死亡认知的探讨。该话题属于动物行为学与生命科学研究范畴，为理解动物社会行为提供新视角。",
+    "category": "research"
+  },
+  {
+    "id": "9a64baa5dab9b603a0dc1fc743f7ff3b",
+    "title_en": "Zoom’s next act: From video company to AI data platform",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/10/22/zooms-next-act-from-video-company-to-ai-data-platform/",
+    "published_at": "2026-10-23T02:01:55Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "Zoom的下一步：从视频公司转型为AI数据平台",
+    "summary_zh": "Zoom正推进战略转型，从单纯的视频会议公司升级为AI驱动的数据平台，通过整合会议内容、协作数据与AI助手功能，拓展企业服务场景。此举旨在应对视频业务增长放缓，寻找新的收入来源，并与其他AI办公工具展开竞争。转型成效将取决于其AI能力落地与客户接受度。",
+    "category": "product"
+  },
+  {
+    "id": "9acfc6b91fa3978357ed8ba2a89e28b1",
+    "title_en": "Jensen Huang warns Europe risks falling further behind US and China in AI",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20261023PD208/jensen-huang-europe-nvidia-ceo-manufacturing.html",
+    "published_at": "2026-10-23T02:01:47Z",
+    "fetched_at": "2026-10-24T02:34:52.098Z",
+    "title_zh": "黄仁勋警告：欧洲在AI领域恐进一步落后于美中",
+    "summary_zh": "英伟达CEO黄仁勋警告称，欧洲在人工智能领域面临进一步落后于美国和中国的风险，呼吁欧洲加大算力基础设施投资、简化监管并培育AI生态。他指出，AI发展需要能源、芯片与人才的综合支撑，欧洲若不加快布局，可能在下一轮技术竞争中处于劣势。",
+    "category": "industry"
+  },
+  {
+    "id": "4cd777f74dbd46d46c65d1cf611b6068",
+    "title_en": "Why Trump Can't Afford to Lose The Rare Earth Race",
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Trump-Cant-Afford-to-Lose-The-Rare-Earth-Race.html",
+    "published_at": "2026-10-23T02:00:00Z",
+    "fetched_at": "2026-10-24T02:34:52.099Z",
+    "title_zh": "为何特朗普输不起稀土竞赛",
+    "summary_zh": "文章分析稀土资源在国防、科技与新能源领域的关键作用，指出美国在稀土供应链上高度依赖中国，存在战略脆弱性。作者认为，特朗普政府难以承受在稀土竞赛中失利，需推动本土开采、加工与盟友合作，以降低供应链风险。该议题与高科技产业及地缘政治紧密相关。",
     "category": "industry"
   },
   {
@@ -5343,160 +5497,6 @@
     "fetched_at": "2026-10-19T22:01:38.514Z",
     "title_zh": "桑托斯顽强逆转弗鲁米嫩塞，继续冲击前五",
     "summary_zh": "桑托斯在比赛中展现顽强斗志，逆转击败弗鲁米嫩塞，继续保持对联赛前五席位的冲击。球队在落后情况下调整战术，凭借关键进球完成翻盘。此役胜利提升了球队士气与积分排名，也为赛季末的争冠与洲际赛事资格争夺增添悬念。",
-    "category": "industry"
-  },
-  {
-    "id": "2b304599269c5e478098474e4c95eefd",
-    "title_en": " Grêmio ship four at home to Cruzeiro and stay in the relegation zone",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/gremio-ship-four-at-home-to-cruzeiro-and-stay-in-the-relegation-zone-43633871",
-    "published_at": "2026-10-18T21:02:00Z",
-    "fetched_at": "2026-10-19T22:01:38.514Z",
-    "title_zh": "格雷米奥主场四球惨败克鲁塞罗，仍陷降级区",
-    "summary_zh": "格雷米奥在主场以四球之差惨败给克鲁塞罗，防守漏洞频出，球队继续深陷降级区。此役失利加剧了球队的保级压力，教练组面临战术调整与士气重建的双重挑战。分析人士指出，若不尽快改善防守与主场表现，格雷米奥的保级前景将愈发严峻。",
-    "category": "industry"
-  },
-  {
-    "id": "714666ded8b218868c18a20e799c7dd8",
-    "title_en": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "published_at": "2026-10-18T20:37:40.000Z",
-    "fetched_at": "2026-10-19T02:27:51.188Z",
-    "title_zh": "Anthropic宣布将5%股份投入“公共利益基金”",
-    "summary_zh": "AI公司Anthropic宣布承诺将其5%的股份投入一个“公共利益基金”，用于支持社会公益事业。此举被视为AI企业在治理结构和社会责任方面的一次创新尝试，也反映出头部AI实验室在商业化加速背景下，正主动回应外界对其社会影响的关切。",
-    "category": "industry"
-  },
-  {
-    "id": "df7f0c4c115732e25a1bfb3a96ced7d8",
-    "title_en": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
-    "published_at": "2026-10-18T19:30:00.000Z",
-    "fetched_at": "2026-10-18T19:52:21.944Z",
-    "title_zh": "《Mister Organ》是我看过最令人不安的纪录片之一",
-    "summary_zh": "The Verge刊文推荐纪录片《Mister Organ》，称其是作者看过最令人不安的作品之一。影片围绕一位行为古怪、极具操控性的新西兰人物展开，导演在调查过程中逐渐陷入与对方的心理拉锯。文章指出，该片以近乎惊悚的方式呈现真实人际操控，令人反思好奇心与执念的边界，适合喜欢心理悬疑与社会观察类纪录片的观众。",
-    "category": "product"
-  },
-  {
-    "id": "3e2133853c5323eb30c3ee2fa0f65318",
-    "title_en": "A woman was arrested in Philly for blocking a delivery robot",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-    "published_at": "2026-10-18T18:28:10.000Z",
-    "fetched_at": "2026-10-18T19:52:21.944Z",
-    "title_zh": "费城一名女子因阻挡配送机器人被捕",
-    "summary_zh": "据The Verge报道，费城一名女子因阻挡一台配送机器人而被警方逮捕。事件凸显了自动配送机器人在城市公共空间中引发的现实冲突：行人、居民与运营方之间围绕路权、安全与监管的摩擦日益增多。随着配送机器人规模扩大，类似纠纷可能更频繁，如何在技术创新与公共秩序之间取得平衡，成为城市管理者面临的新课题。",
-    "category": "industry"
-  },
-  {
-    "id": "276b30201b2632330f5cd3b0d6d180c0",
-    "title_en": "Meta revises terms governing website content: What's new and changed? What rights do publishers retain now? Explained",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/companies/news/meta-revises-terms-governing-website-content-whats-new-and-changed-what-rights-do-publishers-retain-now-explained-11792341486522.html",
-    "published_at": "2026-10-18T17:56:02Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "Meta修订网站内容条款：有哪些新变化？发布者如今保留哪些权利？解读",
-    "summary_zh": "Meta更新了规范网站内容使用的服务条款，明确平台抓取、使用与展示第三方内容的新规则。报道解读了条款的具体改动，以及新闻发布者在内容授权、数据使用和收益分配方面仍保留的权利，反映出平台与内容方在AI时代数据权益上的持续博弈。",
-    "category": "industry"
-  },
-  {
-    "id": "4fa2878945479bb9f4ea83b8fe3956fa",
-    "title_en": "Ben Affleck Made A Point About House Of The Dragon That Makes Me More Depressed About TV",
-    "source": "CinemaBlend",
-    "url": "https://www.cinemablend.com/television/ben-affleck-made-point-about-house-of-the-dragon-ai-depressing-tv",
-    "published_at": "2026-10-18T17:55:20Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "本·阿弗莱克关于《龙之家族》的观点让我对电视更沮丧了",
-    "summary_zh": "本文为影视评论，与本条AI新闻无关。文章围绕本·阿弗莱克对《龙之家族》的评论展开，讨论当前电视剧创作与观众体验的问题，表达作者对电视行业现状的失望情绪，不涉及人工智能或科技产业内容。",
-    "category": "industry"
-  },
-  {
-    "id": "a1dee196f8e240554fb2771e3f43cc1c",
-    "title_en": "Confirmed line-ups: Juve v Lazio in the day's main event",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/confirmed-line-ups-juve-v-lazio-in-the-days-main-event-43632958",
-    "published_at": "2026-10-18T17:46:00Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "首发阵容确认：尤文对阵拉齐奥，当日焦点战",
-    "summary_zh": "本文为体育赛事报道，与AI新闻无关。内容为尤文图斯对阵拉齐奥比赛的双方确认首发阵容，属于当日焦点战的赛前信息，供球迷了解两队排兵布阵，不涉及人工智能或科技领域内容。",
-    "category": "industry"
-  },
-  {
-    "id": "ca5ffe4bffdc1257e7ce73275c478c8f",
-    "title_en": "Big Four battle for India’s $2-billion and growing GCC work",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/big-four-battle-for-indias-2-billion-and-growing-gcc-work/articleshow/135033218.cms",
-    "published_at": "2026-10-18T17:45:41Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "四大会计师事务所争夺印度20亿美元且不断增长的GCC业务",
-    "summary_zh": "印度全球能力中心（GCC）市场已达约20亿美元并持续扩张，德勤、普华永道、安永、毕马威四大会计师事务所正加大投入争夺相关咨询与运营服务份额。报道分析其竞争策略、人才与AI技术应用，以及GCC业务对印度服务外包格局的影响。",
-    "category": "industry"
-  },
-  {
-    "id": "a36072c0ce3206c5a2afd03d6ac24760",
-    "title_en": "How AI Could Take Over the World",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/ec98cdb980be36ca",
-    "published_at": "2026-10-18T17:16:48Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "AI如何可能接管世界",
-    "summary_zh": "文章探讨人工智能可能“接管世界”的多种路径与情景，分析能力快速提升、自主智能体扩散及治理滞后带来的风险，并讨论人类应如何通过技术对齐、监管与国际协作加以防范，属于对AI长期安全与治理议题的思辨性讨论。",
-    "category": "llm"
-  },
-  {
-    "id": "fb1660f4e98e8c7a177d02647348c0eb",
-    "title_en": "Tied down: Boca Juniors extend Milton Delgado's contract",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/tied-down-boca-juniors-extend-milton-delgados-contract-43632758",
-    "published_at": "2026-10-18T17:11:00Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "锁定：博卡青年与米尔顿·德尔加多续约",
-    "summary_zh": "本文为体育新闻，与AI无关。内容为阿根廷博卡青年俱乐部宣布与球员米尔顿·德尔加多完成续约，锁定其未来去向，属于转会与合同类足球资讯，不涉及人工智能或科技产业内容。",
-    "category": "industry"
-  },
-  {
-    "id": "e7affb91bbf025c0ac1170968d68f9ad",
-    "title_en": "Confirmed XIs: Racing spring a surprise against Independiente",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/confirmed-xis-racing-spring-a-surprise-against-independiente-43632722",
-    "published_at": "2026-10-18T17:04:00Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "首发十一人确认：竞技队对阵独立队出奇招",
-    "summary_zh": "本文为体育赛事报道，与AI新闻无关。内容为阿根廷竞技俱乐部对阵独立队的比赛确认首发十一人名单，竞技队在排兵布阵上做出出人意料的调整，属于赛前阵容资讯，不涉及人工智能或科技领域内容。",
-    "category": "industry"
-  },
-  {
-    "id": "0843da03670dd78663fe2ac165901ac4",
-    "title_en": " Puskas contender? Argentine scores MLS scorpion stunner; watch and judge",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/puskas-contender-argentine-scores-mls-scorpion-stunner-watch-and-judge-43632637",
-    "published_at": "2026-10-18T16:48:00Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "普斯卡什奖候选？阿根廷球员美职联蝎子摆尾惊艳破门，来看并评判",
-    "summary_zh": "本文为体育新闻，与AI无关。内容报道一名阿根廷球员在美职联比赛中打入精彩的蝎子摆尾进球，被视为普斯卡什奖候选，并附视频供球迷观看评判，属于足球赛事花絮，不涉及人工智能或科技内容。",
-    "category": "industry"
-  },
-  {
-    "id": "c1f105ac813411cf7b1ce89f57b3c7e5",
-    "title_en": "Evercore raises Alphabet estimates on potential TPU hardware sales (GOOG:NASDAQ)",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/2297b37ec1c2d89a",
-    "published_at": "2026-10-18T16:46:33Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "Evercore因TPU硬件潜在销售上调Alphabet估值预期（GOOG:NASDAQ）",
-    "summary_zh": "投行Evercore基于Alphabet自研TPU芯片可能对外销售的预期，上调其业绩与估值预测。分析认为TPU若进入外部市场，将为谷歌云与AI算力业务打开新收入来源，并加剧与英伟达在AI芯片领域的竞争，消息提振市场对GOOG的关注。",
-    "category": "industry"
-  },
-  {
-    "id": "50acaf0b020175ef9acfef30f2bfc1ce",
-    "title_en": "DSA Joins Nacha Payments Innovation Alliance Fall Meeting to Discuss the Future of Digital Payments",
-    "source": "newsBTC",
-    "url": "http://www.newsbtc.com/news/dsa-joins-nacha-payments-innovation-alliance-fall-meeting-to-discuss-the-future-of-digital-payments/",
-    "published_at": "2026-10-18T16:37:32Z",
-    "fetched_at": "2026-10-19T17:58:44.338Z",
-    "title_zh": "DSA加入Nacha支付创新联盟秋季会议，探讨数字支付未来",
-    "summary_zh": "DSA宣布参加Nacha支付创新联盟秋季会议，与行业各方共同探讨数字支付的发展方向。会议聚焦实时支付、开放银行与合规创新等议题，DSA借此分享其在支付技术上的实践，并寻求与金融机构及科技伙伴的合作机会。",
     "category": "industry"
   }
 ]
