@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-25",
-      "summary_zh": "今日趋势聚焦AI智能体生态：安全审计、私有运行时、AWS工具包及终端Gemini等Agent工具涌现，同时AI设计语言与Claude Code教程受关注。",
+      "summary_zh": "今日热榜聚焦AI智能体与设计工具：开源AI Agent、反AI设计技能、本地语音克隆、多智能体金融交易框架，以及自托管PaaS平台Coolify。",
       "projects": [
         {
           "rank": 1,
@@ -10,99 +10,109 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 45622,
-          "stars_today": 2264,
+          "stars_total": 46146,
+          "stars_today": 2874,
           "description_zh": "一个用于多阶段安全审计的编码代理技能，具有独立验证的机器可读发现"
         },
         {
           "rank": 2,
-          "name": "NVIDIA/OpenShell",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-          "language": "Rust",
-          "stars_total": 19709,
-          "stars_today": 896,
-          "description_zh": "OpenShell 是用于自主 AI 代理的安全、私密运行时。"
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 86032,
+          "stars_today": 1588,
+          "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持语音克隆、语音设计、视频配音、听写、转录和有声书制作，覆盖 646 种语言。"
         },
         {
           "rank": 3,
-          "name": "pbakaus/impeccable",
-          "url": "https://github.com/pbakaus/impeccable",
-          "description_en": "The design language that makes your AI harness better at design.",
-          "language": "Rust",
-          "stars_total": 86845,
-          "stars_today": 619,
-          "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
-        },
-        {
-          "rank": 4,
-          "name": "makecindy/cindy",
-          "url": "https://github.com/makecindy/cindy",
-          "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-          "language": "TypeScript",
-          "stars_total": 4370,
-          "stars_today": 477,
-          "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
-        },
-        {
-          "rank": 5,
           "name": "Nutlope/hallmark",
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 32708,
-          "stars_today": 455,
+          "stars_total": 33151,
+          "stars_today": 1359,
           "description_zh": "面向 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计技能。"
         },
         {
-          "rank": 6,
-          "name": "luongnv89/claude-howto",
-          "url": "https://github.com/luongnv89/claude-howto",
-          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "language": "Python",
-          "stars_total": 44839,
-          "stars_today": 392,
-          "description_zh": "一份可视化、示例驱动的 Claude Code 指南——从基础概念到高级代理，附带可立即带来价值的复制粘贴模板。"
+          "rank": 4,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "Rust",
+          "stars_total": 87211,
+          "stars_today": 1113,
+          "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars_total": 4574,
+          "stars_today": 677,
+          "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
+        },
+        {
+          "rank": 6,
           "name": "pollen-robotics/microduck",
           "url": "https://github.com/pollen-robotics/microduck",
           "description_en": "A Tiny biped duck robot 🦆",
           "language": "Rust",
-          "stars_total": 11247,
-          "stars_today": 319,
+          "stars_total": 11414,
+          "stars_today": 657,
           "description_zh": "一只微型双足鸭子机器人 🦆"
         },
         {
+          "rank": 7,
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars_total": 7450,
+          "stars_today": 489,
+          "description_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
+        },
+        {
           "rank": 8,
-          "name": "jbiaojerry/ebook-treasure-chest",
-          "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-          "description_en": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
           "language": "Python",
-          "stars_total": 22994,
-          "stars_today": 227,
-          "description_zh": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
+          "stars_total": 114131,
+          "stars_today": 309,
+          "description_zh": "TradingAgents：多智能体 LLM 金融交易框架"
         },
         {
           "rank": 9,
-          "name": "google-gemini/gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "description_en": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-          "language": "TypeScript",
-          "stars_total": 108352,
-          "stars_today": 44,
-          "description_zh": "一个开源 AI 代理，将 Gemini 的强大能力直接带入你的终端。"
+          "name": "coollabsio/coolify",
+          "url": "https://github.com/coollabsio/coolify",
+          "description_en": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+          "language": "PHP",
+          "stars_total": 64005,
+          "stars_today": 192,
+          "description_zh": "一个开源、可自托管的 PaaS 替代方案，可替代 Vercel、Heroku 和 Netlify，让你轻松在自己的服务器上部署静态站点、数据库、全栈应用以及 360+ 一键式服务。"
         },
         {
           "rank": 10,
-          "name": "aws/agent-toolkit-for-aws",
-          "url": "https://github.com/aws/agent-toolkit-for-aws",
-          "description_en": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description_en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
           "language": "Python",
-          "stars_total": 3251,
-          "stars_today": 13,
-          "description_zh": "官方、AWS 支持的 MCP 服务器、技能和插件，帮助 AI 代理在 AWS 上构建"
+          "stars_total": 20398,
+          "stars_today": 179,
+          "description_zh": "适用于 Claude Code 的通用 SEO 技能。包含 26 个子技能 + 19 个子代理，涵盖技术 SEO、E-E-A-T、结构化数据、GEO/AEO、代理就绪性（Lighthouse Agentic Browsing、WebMCP、llms.txt）、外链、本地 SEO、电子商务、国际 SEO、Google API 以及 PDF/Excel 报告。另有 9 个可选扩展用于获取实时 SEO 数据。"
+        },
+        {
+          "rank": 11,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars_total": 1211,
+          "stars_today": 52,
+          "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，它会根据你的工作方式自我定制——你所需的氛围"
         }
       ]
     },
