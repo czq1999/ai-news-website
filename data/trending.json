@@ -1,6 +1,122 @@
 {
   "days": [
     {
+      "date": "2026-10-26",
+      "summary_zh": "今日热榜聚焦AI智能体与设计工具：开箱即用AI Agent、反AI套路设计技能、本地语音克隆、多智能体金融交易框架，以及自托管PaaS与安全审计技能。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars_total": 47047,
+          "stars_today": 2878,
+          "description_zh": "一个用于多阶段安全审计的编码智能体技能，具备独立验证、机器可读的发现结果"
+        },
+        {
+          "rank": 2,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 86985,
+          "stars_today": 1592,
+          "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
+        },
+        {
+          "rank": 3,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars_total": 33978,
+          "stars_today": 1317,
+          "description_zh": "适用于 Claude Code、Cursor 和 Codex 的反 AI 套路设计技能。"
+        },
+        {
+          "rank": 4,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "Rust",
+          "stars_total": 87811,
+          "stars_today": 1092,
+          "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
+        },
+        {
+          "rank": 5,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars_total": 4984,
+          "stars_today": 675,
+          "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
+        },
+        {
+          "rank": 6,
+          "name": "pollen-robotics/microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "description_en": "A Tiny biped duck robot 🦆",
+          "language": "Rust",
+          "stars_total": 11720,
+          "stars_today": 647,
+          "description_zh": "一只微型双足鸭子机器人 🦆"
+        },
+        {
+          "rank": 7,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 114708,
+          "stars_today": 381,
+          "description_zh": "TradingAgents：多智能体 LLM 金融交易框架"
+        },
+        {
+          "rank": 8,
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars_total": 7702,
+          "stars_today": 199,
+          "description_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
+        },
+        {
+          "rank": 9,
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description_en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "language": "Python",
+          "stars_total": 20983,
+          "stars_today": 197,
+          "description_zh": "适用于 Claude Code 的通用 SEO 技能。包含 26 个子技能 + 19 个子智能体，涵盖技术 SEO、E-E-A-T、结构化数据、GEO/AEO、智能体就绪度（Lighthouse Agentic Browsing、WebMCP、llms.txt）、外链、本地 SEO、电商、国际 SEO、Google API 以及 PDF/Excel 报告。另有 9 个可选扩展用于实时 SEO 数据。"
+        },
+        {
+          "rank": 10,
+          "name": "coollabsio/coolify",
+          "url": "https://github.com/coollabsio/coolify",
+          "description_en": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+          "language": "PHP",
+          "stars_total": 64463,
+          "stars_today": 152,
+          "description_zh": "一个开源、可自托管的 PaaS 替代方案，可替代 Vercel、Heroku 和 Netlify，让你轻松在自己的服务器上部署静态网站、数据库、全栈应用以及 360 多个一键式服务。"
+        },
+        {
+          "rank": 11,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars_total": 1839,
+          "stars_today": 51,
+          "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，它会根据你的工作方式自我定制——你所需要的氛围"
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "summary_zh": "今日热榜聚焦AI智能体与设计工具：开源AI Agent、反AI设计技能、本地语音克隆、多智能体金融交易框架，以及自托管PaaS平台。",
       "projects": [
@@ -3651,162 +3767,6 @@
           "stars_total": 865,
           "stars_today": 114,
           "description_zh": "将 Claude Code 和 Codex 作为统一系统运行的多智能体框架"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-26",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：智能体管理、记忆学习、办公套件与安全技能路由齐发力，模型优化与开源基础设施持续升温。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "paperclipai/paperclip",
-          "url": "https://github.com/paperclipai/paperclip",
-          "description_en": "The open-source app everyone uses to manage agents at work",
-          "language": "TypeScript",
-          "stars_total": 86955,
-          "stars_today": 2589,
-          "description_zh": "人人都在用的开源应用，用于在工作中管理智能体"
-        },
-        {
-          "rank": 2,
-          "name": "vectorize-io/hindsight",
-          "url": "https://github.com/vectorize-io/hindsight",
-          "description_en": "Hindsight: Agent Memory That Learns",
-          "language": "Python",
-          "stars_total": 31934,
-          "stars_today": 2152,
-          "description_zh": "Hindsight：会学习的智能体记忆"
-        },
-        {
-          "rank": 3,
-          "name": "dream-num/univer",
-          "url": "https://github.com/dream-num/univer",
-          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-          "language": "TypeScript",
-          "stars_total": 19142,
-          "stars_today": 845,
-          "description_zh": "面向 AI 智能体的 Office 运行框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
-        },
-        {
-          "rank": 4,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 58260,
-          "stars_today": 828,
-          "description_zh": "学习它。构建它。为他人交付它。"
-        },
-        {
-          "rank": 5,
-          "name": "zhaoxuya520/reverse-skill",
-          "url": "https://github.com/zhaoxuya520/reverse-skill",
-          "description_en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-          "language": "PowerShell",
-          "stars_total": 37931,
-          "stars_today": 409,
-          "description_zh": "逆向工程 / 授权渗透测试 / 安全研究技能路由包 AI 驱动路由 + 按需工具链自举 + 自进化知识库 支持 Claude Code、Kiro、Cursor、Cline 及其他 AI 编程客户端 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-        },
-        {
-          "rank": 6,
-          "name": "block/buzz",
-          "url": "https://github.com/block/buzz",
-          "description_en": "A hive mind communication platform",
-          "language": "Rust",
-          "stars_total": 34792,
-          "stars_today": 367,
-          "description_zh": "一个蜂群思维通信平台"
-        },
-        {
-          "rank": 7,
-          "name": "openbao/openbao",
-          "url": "https://github.com/openbao/openbao",
-          "description_en": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-          "language": "Go",
-          "stars_total": 7959,
-          "stars_today": 360,
-          "description_zh": "OpenBao 是一个用于管理、存储和分发敏感数据（包括密钥、证书和密钥）的软件解决方案。"
-        },
-        {
-          "rank": 8,
-          "name": "NVIDIA/Model-Optimizer",
-          "url": "https://github.com/NVIDIA/Model-Optimizer",
-          "description_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-          "language": "Python",
-          "stars_total": 4702,
-          "stars_today": 354,
-          "description_zh": "一个统一的库，汇集了量化、蒸馏、剪枝、神经架构搜索、投机解码等 SOTA 模型优化技术。它为 TensorRT-LLM、TensorRT、vLLM 等下游部署框架压缩深度学习模型，以优化推理速度。"
-        },
-        {
-          "rank": 9,
-          "name": "mobile-next/mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "description_en": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-          "language": "TypeScript",
-          "stars_total": 7262,
-          "stars_today": 143,
-          "description_zh": "用于移动自动化和抓取的模型上下文协议服务器（iOS、Android、模拟器、仿真器和真实设备）"
-        },
-        {
-          "rank": 10,
-          "name": "microsoft/vscode",
-          "url": "https://github.com/microsoft/vscode",
-          "description_en": "Visual Studio Code",
-          "language": "TypeScript",
-          "stars_total": 193047,
-          "stars_today": 78,
-          "description_zh": "Visual Studio Code"
-        },
-        {
-          "rank": 11,
-          "name": "tensorflow/tensorflow",
-          "url": "https://github.com/tensorflow/tensorflow",
-          "description_en": "An Open Source Machine Learning Framework for Everyone",
-          "language": "C++",
-          "stars_total": 200415,
-          "stars_today": 31,
-          "description_zh": "面向所有人的开源机器学习框架"
-        },
-        {
-          "rank": 12,
-          "name": "vercel/next.js",
-          "url": "https://github.com/vercel/next.js",
-          "description_en": "The React Framework",
-          "language": "JavaScript",
-          "stars_total": 142582,
-          "stars_today": 31,
-          "description_zh": "React 框架"
-        },
-        {
-          "rank": 13,
-          "name": "llvm/llvm-project",
-          "url": "https://github.com/llvm/llvm-project",
-          "description_en": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-          "language": "LLVM",
-          "stars_total": 40728,
-          "stars_today": 29,
-          "description_zh": "LLVM 项目是一系列模块化且可复用的编译器及工具链技术的集合。"
-        },
-        {
-          "rank": 14,
-          "name": "anthropics/claude-code-action",
-          "url": "https://github.com/anthropics/claude-code-action",
-          "description_en": "",
-          "language": "TypeScript",
-          "stars_total": 9059,
-          "stars_today": 15,
-          "description_zh": ""
-        },
-        {
-          "rank": 15,
-          "name": "actions/runner-images",
-          "url": "https://github.com/actions/runner-images",
-          "description_en": "GitHub Actions runner images",
-          "language": "PowerShell",
-          "stars_total": 13269,
-          "stars_today": 13,
-          "description_zh": "GitHub Actions 运行器镜像"
         }
       ]
     }
