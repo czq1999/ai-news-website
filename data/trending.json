@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-26",
-      "summary_zh": "今日热榜聚焦AI智能体生态：设计优化、金融交易框架、安全扫描与本地化协作工具百花齐放，开源即用成主流。",
+      "summary_zh": "今日热榜聚焦AI智能体生态：设计语言与安全扫描工具兴起，多智能体金融交易框架、开箱即用Agent及本地化AI工作台受关注。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "stars_total": 87917,
+          "stars_total": 88629,
           "stars_today": 2292,
           "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 35052,
+          "stars_total": 35725,
           "stars_today": 2235,
           "description_zh": "适用于 Claude Code、Cursor 和 Codex 的反 AI 套路设计技能。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design language that makes your AI harness better at design.",
           "language": "Rust",
-          "stars_total": 88438,
+          "stars_total": 88851,
           "stars_today": 1551,
           "description_zh": "让你的 AI 工具在设计中表现更出色的设计语言。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/TauricResearch/TradingAgents",
           "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
           "language": "Python",
-          "stars_total": 115266,
+          "stars_total": 115723,
           "stars_today": 1376,
           "description_zh": "TradingAgents：多智能体 LLM 金融交易框架"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/makecindy/cindy",
           "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
           "language": "TypeScript",
-          "stars_total": 5686,
+          "stars_total": 6160,
           "stars_today": 1268,
           "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/JetBrains/thinkrail",
           "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
           "language": "TypeScript",
-          "stars_total": 2287,
+          "stars_total": 2601,
           "stars_today": 1156,
           "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，它会根据你的工作方式自我定制——你所需要的氛围"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 289226,
+          "stars_total": 289571,
           "stars_today": 853,
           "description_zh": "智能体框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全以及研究优先的开发能力。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/pollen-robotics/microduck",
           "description_en": "A Tiny biped duck robot 🦆",
           "language": "Rust",
-          "stars_total": 12116,
+          "stars_total": 12279,
           "stars_today": 844,
           "description_zh": "一只微型双足鸭子机器人 🦆"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/Panniantong/Agent-Reach",
           "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
           "language": "Python",
-          "stars_total": 102881,
+          "stars_total": 103244,
           "stars_today": 723,
           "description_zh": "让你的 AI 智能体拥有看遍整个互联网的眼睛。阅读并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
         },
@@ -100,49 +100,49 @@
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": "",
-          "stars_total": 224135,
-          "stars_today": 457,
+          "stars_total": 224387,
+          "stars_today": 702,
           "description_zh": "一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
         },
         {
           "rank": 11,
-          "name": "NVIDIA/SkillSpector",
-          "url": "https://github.com/NVIDIA/SkillSpector",
-          "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-          "language": "Python",
-          "stars_total": 21706,
-          "stars_today": 203,
-          "description_zh": "AI 智能体技能安全扫描器。在安装 Claude Code、Codex 和 MCP 技能之前，检测其中的漏洞、恶意模式、安全风险、提示注入、数据外泄和供应链风险。"
-        },
-        {
-          "rank": 12,
-          "name": "alchaincyf/huashu-design",
-          "url": "https://github.com/alchaincyf/huashu-design",
-          "description_en": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-          "language": "HTML",
-          "stars_total": 26436,
-          "stars_today": 177,
-          "description_zh": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · 面向 Claude Code、Codex、Cursor 及任何 agent 的 HTML 原生设计技能"
-        },
-        {
-          "rank": 13,
-          "name": "gitroomhq/postiz-app",
-          "url": "https://github.com/gitroomhq/postiz-app",
-          "description_en": "📨 The ultimate agentic social media scheduling tool 🤖",
-          "language": "TypeScript",
-          "stars_total": 37928,
-          "stars_today": 146,
-          "description_zh": "📨 终极智能体社交媒体排程工具 🤖"
-        },
-        {
-          "rank": 14,
           "name": "nightly-labs/openbot",
           "url": "https://github.com/nightly-labs/openbot",
           "description_en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
           "language": "TypeScript",
-          "stars_total": 1079,
-          "stars_today": 86,
+          "stars_total": 1295,
+          "stars_today": 312,
           "description_zh": "本地优先的桌面工作空间，用于持久化 AI 队友。通过专属工作空间、任务队列、文件共享、浏览器控制和智能体间协作来运行 Codex、Claude 和 Grok。"
+        },
+        {
+          "rank": 12,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+          "language": "Python",
+          "stars_total": 21949,
+          "stars_today": 203,
+          "description_zh": "AI 智能体技能安全扫描器。在安装 Claude Code、Codex 和 MCP 技能之前，检测其中的漏洞、恶意模式、安全风险、提示注入、数据外泄和供应链风险。"
+        },
+        {
+          "rank": 13,
+          "name": "alchaincyf/huashu-design",
+          "url": "https://github.com/alchaincyf/huashu-design",
+          "description_en": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+          "language": "HTML",
+          "stars_total": 26638,
+          "stars_today": 177,
+          "description_zh": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · 面向 Claude Code、Codex、Cursor 及任何 agent 的 HTML 原生设计技能"
+        },
+        {
+          "rank": 14,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description_en": "📨 The ultimate agentic social media scheduling tool 🤖",
+          "language": "TypeScript",
+          "stars_total": 38233,
+          "stars_today": 146,
+          "description_zh": "📨 终极智能体社交媒体排程工具 🤖"
         }
       ]
     },
