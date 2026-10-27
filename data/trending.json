@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-27",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude Code等代理技能框架、本地化AI协作工作台、开箱即用AI Agent及代理性能优化系统成亮点，设计语言与个性化辅导工具亦受关注。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude Code等代理技能框架、本地化AI协作工作台、开箱即用AI Agent及社交调度工具成为亮点，凸显代理编排与设计优化趋势。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 37785,
-          "stars_today": 2244,
+          "stars_total": 38451,
+          "stars_today": 2859,
           "description_zh": "面向 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计技能。"
         },
         {
@@ -20,7 +20,7 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
           "language": "Python",
-          "stars_total": 44764,
+          "stars_total": 45449,
           "stars_today": 1587,
           "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
         },
@@ -30,8 +30,8 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design language that makes your AI harness better at design.",
           "language": "Rust",
-          "stars_total": 89811,
-          "stars_today": 1506,
+          "stars_total": 90199,
+          "stars_today": 1458,
           "description_zh": "让你的 AI 框架更擅长设计的设​​计语言。"
         },
         {
@@ -40,8 +40,8 @@
           "url": "https://github.com/makecindy/cindy",
           "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
           "language": "TypeScript",
-          "stars_total": 7087,
-          "stars_today": 1296,
+          "stars_total": 7294,
+          "stars_today": 1446,
           "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
         },
         {
@@ -50,8 +50,8 @@
           "url": "https://github.com/JetBrains/thinkrail",
           "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
           "language": "TypeScript",
-          "stars_total": 3456,
-          "stars_today": 1173,
+          "stars_total": 3751,
+          "stars_today": 1211,
           "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，IDE 会根据你的工作方式自我定制——你所需的氛围"
         },
         {
@@ -60,49 +60,49 @@
           "url": "https://github.com/affaan-m/ECC",
           "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 290313,
-          "stars_today": 896,
+          "stars_total": 290571,
+          "stars_today": 1183,
           "description_zh": "智能体框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全性和研究优先的开发能力。"
         },
         {
           "rank": 7,
-          "name": "togg53192-cmd/jailbreaks",
-          "url": "https://github.com/togg53192-cmd/jailbreaks",
-          "description_en": "LIST OF ALL MY JAILBREAKS",
-          "language": "",
-          "stars_total": 4833,
-          "stars_today": 890,
-          "description_zh": "我所有越狱提示词的列表"
-        },
-        {
-          "rank": 8,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 305870,
-          "stars_today": 608,
-          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
-        },
-        {
-          "rank": 9,
           "name": "gitroomhq/postiz-app",
           "url": "https://github.com/gitroomhq/postiz-app",
           "description_en": "📨 The ultimate agentic social media scheduling tool 🤖",
           "language": "TypeScript",
-          "stars_total": 38840,
-          "stars_today": 188,
+          "stars_total": 39093,
+          "stars_today": 953,
           "description_zh": "📨 终极智能体社交媒体排程工具 🤖"
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "name": "togg53192-cmd/jailbreaks",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "description_en": "LIST OF ALL MY JAILBREAKS",
+          "language": "",
+          "stars_total": 5175,
+          "stars_today": 890,
+          "description_zh": "我所有越狱提示词的列表"
+        },
+        {
+          "rank": 9,
           "name": "nightly-labs/openbot",
           "url": "https://github.com/nightly-labs/openbot",
           "description_en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
           "language": "TypeScript",
-          "stars_total": 1831,
-          "stars_today": 176,
+          "stars_total": 2150,
+          "stars_today": 794,
           "description_zh": "面向持久化 AI 队友的本地优先桌面工作空间。使用专属工作空间、任务队列、文件共享、浏览器控制和智能体间协作来运行 Codex、Claude 和 Grok。"
+        },
+        {
+          "rank": 10,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 306176,
+          "stars_today": 608,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         }
       ]
     },
