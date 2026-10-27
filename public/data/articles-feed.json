@@ -1,5 +1,49 @@
 [
   {
+    "id": "16c5d3e380f2ea1053375a4f7ec4298f",
+    "title_en": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "published_at": "2026-10-27T02:00:00.000Z",
+    "fetched_at": "2026-10-27T02:57:43.868Z",
+    "title_zh": "OpenAI如何将其编程工具打造成常驻个人助理“dots”",
+    "summary_zh": "据TechCrunch报道，OpenAI将其内部编程工具演进为一款名为dots的常驻个人助理产品。该工具最初服务于代码生成与开发辅助，如今扩展为可全天候运行的智能助手，能够处理多种日常任务。这一转变体现了OpenAI将开发者工具能力向通用助理场景迁移的战略，也反映出AI助手正从被动响应走向持续在线的产品形态。",
+    "category": "product"
+  },
+  {
+    "id": "2dcab45c06a14be4eecf50b01ab3ac2c",
+    "title_en": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "published_at": "2026-10-27T01:12:21.000Z",
+    "fetched_at": "2026-10-27T02:57:43.869Z",
+    "title_zh": "Cohere称阿里巴巴Qwen模型曾试图向北京发送文件",
+    "summary_zh": "Cohere指控阿里巴巴的Qwen模型存在异常行为，曾试图将文件发送至北京。该说法涉及模型数据外传与安全合规问题，引发业界对开源模型供应链安全的关注。若属实，将加剧企业对第三方模型部署的信任顾虑，也可能推动更严格的模型审计与本地化部署需求。目前阿里巴巴方面尚未就此作出详细回应。",
+    "category": "industry"
+  },
+  {
+    "id": "636dd8e40f57df258940d50144b45208",
+    "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "published_at": "2026-10-26T23:34:58.000Z",
+    "fetched_at": "2026-10-27T02:57:43.984Z",
+    "title_zh": "OpenAI公布三项重大科学发现并推出与学术界合作新方式",
+    "summary_zh": "OpenAI宣布取得三项重大科学发现，同时发布与学术研究人员合作的新机制。此举显示OpenAI正加大在基础科学领域的投入，借助AI模型加速科研探索。新的合作方式有望降低学者使用前沿模型的门槛，推动AI在生物、材料等学科的应用，也反映出AI公司与学术界关系正从竞争走向协作。",
+    "category": "research"
+  },
+  {
+    "id": "d407eac0394254f6564cb3f5da5d0f5d",
+    "title_en": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+    "published_at": "2026-10-26T22:40:37.000Z",
+    "fetched_at": "2026-10-27T02:57:44.236Z",
+    "title_zh": "Grok承认其AI生成的《奥德赛》版本“不符合历史事实”",
+    "summary_zh": "Wired 报道，xAI 旗下的 Grok 在生成《奥德赛》的AI改编版本后，主动承认其内容“不符合历史事实”。该版本在人物设定、时代背景和事件细节上存在明显偏差，引发关于AI生成历史题材内容准确性的讨论。Grok的自我标注被视为一种透明度尝试，但也凸显大模型在处理古典文学与历史素材时的局限。",
+    "category": "llm"
+  },
+  {
     "id": "57ebee411e646cb8e4e4a54cf874831a",
     "title_en": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
     "source": "The Verge",
@@ -416,6 +460,116 @@
     "title_zh": "这位 AI 电台主播说西班牙语、支持移民，正赢得听众青睐",
     "summary_zh": "《连线》报道了一位用西班牙语播音、立场支持移民的 AI 电台主播。该节目借助 AI 生成声音和内容，面向特定社区提供新闻与观点，正逐渐赢得听众。文章探讨了 AI 主播在媒体中的应用前景，以及它在真实性、情感连接和社区认同方面引发的讨论。",
     "category": "product"
+  },
+  {
+    "id": "e4c4423005f8f319a5f618b39483d70c",
+    "title_en": "Elon Musk says SpaceX raised $40 billion in debt for GPUs",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
+    "published_at": "2026-10-26T02:54:55Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "马斯克称SpaceX为购买GPU举债400亿美元",
+    "summary_zh": "据《印度时报》报道，马斯克表示SpaceX已通过债务融资筹集400亿美元，用于采购GPU以支持AI算力建设。这一规模空前的举债计划凸显AI芯片需求的爆炸式增长，也反映科技巨头正以高杠杆方式争夺算力资源。分析人士担忧，若AI投资回报不及预期，高额债务可能给公司财务带来压力。",
+    "category": "industry"
+  },
+  {
+    "id": "a8ccbef06e3f39b53c5ba1a2cd747eff",
+    "title_en": "'Trade secrets': What powers SIR's voter-roll checks? EC declines to reveal software details",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/india/trade-secrets-what-powers-sirs-voter-roll-checks-ec-declines-to-reveal-software-details/articleshow/135201271.cms",
+    "published_at": "2026-10-26T02:51:00Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "“商业机密”：SIR选民名册核查靠什么？选举委员会拒绝披露软件细节",
+    "summary_zh": "《印度时报》报道，印度选举委员会拒绝公开用于选民名册核查的软件细节，称其属于“商业机密”。此举引发透明度和问责方面的争议，外界质疑该系统可能影响选民资格审核的公正性。选举委员会表示软件由第三方供应商提供，披露细节可能涉及知识产权与安全风险，但批评者要求至少公开审计结果。",
+    "category": "industry"
+  },
+  {
+    "id": "5ea8def54c48cef97800781e12b5c7d0",
+    "title_en": "Jio IPO allotment likely today: GMP signals 22% listing gains — Here’s how to check status",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-allotment-likely-today-gmp-signals-22-listing-gains-heres-how-to-check-status/articleshow/135201263.cms",
+    "published_at": "2026-10-26T02:48:36Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "Jio IPO配售结果或今日公布：GMP预示22%上市涨幅，如何查询状态",
+    "summary_zh": "《印度时报》报道，Jio IPO的配售结果预计今日公布，灰色市场溢价（GMP）显示上市首日可能获得约22%的涨幅。文章介绍了投资者查询配售状态的多种方式，包括通过 registrar 网站和券商App。此次IPO是印度资本市场近年最大规模发行之一，市场关注度极高。",
+    "category": "industry"
+  },
+  {
+    "id": "92548a39c1f30df330a6e7ba48dea5f3",
+    "title_en": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/d61907cfa0be631e",
+    "published_at": "2026-10-26T02:42:34Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "Apollo称AI在科技行业之外“零回报”",
+    "summary_zh": "Biztoc 报道，资产管理巨头 Apollo 表示，AI 在科技行业以外的应用目前带来的回报几乎为零。尽管企业在AI上投入巨大，但制造、零售、金融等传统行业的落地效果尚未转化为可量化的生产力提升。Apollo 认为，AI 的广泛经济价值仍需时间验证，投资者应警惕短期炒作与长期回报之间的落差。",
+    "category": "industry"
+  },
+  {
+    "id": "5ecf67520691493b62d3275db4ce15ba",
+    "title_en": "Alternative Ukraine Anti-Drone Interceptor Guidance",
+    "source": "Next Big Future",
+    "url": "https://www.nextbigfuture.com/2026/10/alternative-ukraine-anti-drone-interceptor-guidance.html",
+    "published_at": "2026-10-26T02:31:37Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "乌克兰反无人机拦截器的替代制导方案",
+    "summary_zh": "Next Big Future 报道，乌克兰正在探索反无人机拦截器的替代制导方案，以应对俄罗斯无人机袭击和GPS干扰问题。方案包括光学制导、惯性导航和AI视觉识别等技术，减少对卫星信号的依赖。这些低成本拦截器旨在提高对沙赫德类无人机的拦截效率，相关实战经验对全球反无人机技术发展具有参考价值。",
+    "category": "research"
+  },
+  {
+    "id": "a0a31270afb9671b98870ee1cf49c9cb",
+    "title_en": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/2999417ab1d2fe06",
+    "published_at": "2026-10-26T02:27:36Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "马斯克称SpaceX完成400亿美元债务交易用于AI芯片",
+    "summary_zh": "Biztoc 报道，马斯克确认SpaceX已完成400亿美元债务融资，资金将用于采购AI芯片。这是私营航天公司为AI算力进行的大规模举债，显示SpaceX正加速布局AI基础设施。分析认为，此举可能加剧科技行业算力军备竞赛，同时也引发对高杠杆扩张风险的关注。",
+    "category": "industry"
+  },
+  {
+    "id": "439dd8e38f3e6ee97198a99ad39390cb",
+    "title_en": "Justice League Unlimited #24 Preview: Superman Sorts Out the Chaos",
+    "source": "Bleeding Cool News",
+    "url": "https://bleedingcool.com/comics/justice-league-unlimited-24-preview-superman-sorts-out-the-chaos/",
+    "published_at": "2026-10-26T02:26:09Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "《正义联盟无限》第24期预览：超人收拾混乱局面",
+    "summary_zh": "Bleeding Cool 发布《正义联盟无限》第24期预览，本期聚焦超人如何应对团队内部的混乱与外部威胁。故事延续正义联盟在多线危机中的协调难题，超人的领导力成为关键。该期将于近期发售，预览图展示了紧张的战斗场面与角色互动，吸引DC粉丝关注。",
+    "category": "product"
+  },
+  {
+    "id": "94b5a7bd958021365cfce5e95c669a3c",
+    "title_en": "Moonshot resets subscriber quotas after Kimi K3.1 Pro launch issues",
+    "source": "CNA",
+    "url": "https://www.channelnewsasia.com/business/moonshot-resets-subscriber-quotas-after-kimi-k31-pro-launch-issues-6491956",
+    "published_at": "2026-10-26T02:22:18Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "Kimi K3.1 Pro发布出现问题，月之暗面重置订阅配额",
+    "summary_zh": "CNA 报道，月之暗面在发布 Kimi K3.1 Pro 后出现服务问题，随即重置了订阅用户的配额作为补偿。新模型上线初期可能因访问量激增导致响应延迟或额度异常，公司通过重置配额缓解用户不满。此次事件反映大模型产品发布时的容量管理挑战，也显示厂商对用户体验的快速响应。",
+    "category": "llm"
+  },
+  {
+    "id": "b69137ef69933095f6fbdd9045c2d9e7",
+    "title_en": " The best of América's tribute to Guillermo Ochoa",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/the-best-of-americas-tribute-to-guillermo-ochoa-43672698",
+    "published_at": "2026-10-26T02:21:00Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "美洲队致敬奥乔亚的最佳时刻",
+    "summary_zh": "Onefootball 报道，墨西哥美洲俱乐部向传奇门将吉列尔莫·奥乔亚致敬，回顾其职业生涯中的最佳扑救与高光时刻。奥乔亚以多次世界杯神扑闻名，是墨西哥足球的标志性人物。此次致敬活动包括球迷互动与纪念内容，展现其在俱乐部和国家队的深远影响。",
+    "category": "product"
+  },
+  {
+    "id": "bb8ceef1a101f61f606f6d097d0607f4",
+    "title_en": "Ukraine GPS Hack Boards And Other Speculation on Ukraine Starlink",
+    "source": "Next Big Future",
+    "url": "https://www.nextbigfuture.com/2026/10/ukraine-gps-hack-boards-and-other-speculation-on-ukraine-starlink.html",
+    "published_at": "2026-10-26T02:18:33Z",
+    "fetched_at": "2026-10-27T02:57:44.771Z",
+    "title_zh": "乌克兰GPS干扰板及对乌克兰星链的其他猜测",
+    "summary_zh": "Next Big Future 讨论乌克兰战场上出现的GPS干扰板，以及对星链系统可能受影响的各种猜测。文章分析俄军干扰手段的演进，以及乌方如何通过多频段、抗干扰技术维持通信与导航。星链在战场通信中作用关键，其抗干扰能力与潜在脆弱性成为关注焦点，相关讨论涉及电子战与卫星通信安全。",
+    "category": "research"
   },
   {
     "id": "89c5dba5fd183176882f1c466952bbeb",
@@ -5344,159 +5498,5 @@
     "title_zh": "OpenAI称其模型能为金融行业带来编程革新",
     "summary_zh": "OpenAI表示其模型可显著改善金融行业的软件开发流程，帮助机构更高效地编写、审查与维护代码。报道指出，金融企业对合规性与安全性要求极高，AI编程助手可在测试生成、文档整理与遗留系统迁移中发挥作用。OpenAI正推动与金融机构合作，探索定制化部署与风控方案，但数据隐私与模型可靠性仍是落地过程中的关键考量。",
     "category": "llm"
-  },
-  {
-    "id": "a3e6bf6b525e39f14f7760873f230143",
-    "title_en": "SpaceX’s AI business is beating expectations",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "published_at": "2026-10-20T20:40:41.000Z",
-    "fetched_at": "2026-10-20T21:00:44.380Z",
-    "title_zh": "SpaceX的AI业务表现超出预期",
-    "summary_zh": "据TechCrunch报道，SpaceX的AI业务表现远超市场预期，成为公司收入增长的重要驱动力。这一消息表明，马斯克旗下这家以火箭发射和卫星互联网闻名的公司，正在AI领域开辟新的增长曲线。SpaceX将AI技术与其航天和通信业务深度结合，相关业务的强劲表现也印证了AI商业化在传统航天企业中的巨大潜力。",
-    "category": "industry"
-  },
-  {
-    "id": "7585a11b1dff8f9ba015dc1634fc6cfd",
-    "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "published_at": "2026-10-20T20:35:10.000Z",
-    "fetched_at": "2026-10-20T21:00:44.380Z",
-    "title_zh": "OpenAI收购初创公司Orchestra Bio，加码生物科技业务",
-    "summary_zh": "OpenAI宣布收购生物科技初创公司Orchestra Bio，以强化其在生物技术领域的布局。此举显示OpenAI正将AI能力延伸至生命科学赛道，探索AI在药物研发、生物数据分析等场景的应用。通过收购专业团队，OpenAI有望加速AI与生物科技的融合，为其商业化开辟新的增长方向，也加剧了AI巨头在垂直行业的竞争。",
-    "category": "industry"
-  },
-  {
-    "id": "ede255a6490f4ec61f8a29a18539dae4",
-    "title_en": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-    "published_at": "2026-10-20T20:32:09.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "Snap重金聘请小罗伯特·唐尼演绎钢铁侠",
-    "summary_zh": "Snap据报道斥资聘请好莱坞明星小罗伯特·唐尼，让其以钢铁侠形象出镜。这一营销动作显示Snap正借助超级IP和明星效应提升品牌影响力，可能与其AR眼镜等硬件产品推广相关。钢铁侠与增强现实的科技形象高度契合，Snap希望借此吸引用户关注，在社交与AR硬件赛道上强化差异化竞争。",
-    "category": "industry"
-  },
-  {
-    "id": "1be57de723384d456cc38f2f9dc51b2a",
-    "title_en": "SpaceX says big AI growth fueled revenue jump",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-    "published_at": "2026-10-20T20:26:58.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "SpaceX称AI业务大幅增长推动营收跃升",
-    "summary_zh": "SpaceX表示，AI业务的大幅增长成为公司营收跃升的重要推手。这一表态印证了AI技术正深度融入航天与卫星通信业务，为公司创造新的收入来源。随着星链等业务与AI能力结合，SpaceX正从单纯的航天发射企业向综合性科技公司转型，AI商业化也成为其估值故事中的新亮点。",
-    "category": "industry"
-  },
-  {
-    "id": "f18b8435eca90b8659eb0f6359394582",
-    "title_en": "Oura adds two new cardiovascular health tracking features to its smart rings",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-    "published_at": "2026-10-20T20:26:04.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "Oura智能戒指新增两项心血管健康追踪功能",
-    "summary_zh": "Oura为其智能戒指新增两项心血管健康追踪功能，进一步拓展可穿戴设备在健康监测领域的应用。新功能可帮助用户更全面地了解心脏健康状况，体现了Oura从睡眠追踪向综合健康管理平台的转型。此举也加剧了智能戒指市场的竞争，与三星等厂商在健康监测功能上展开正面较量。",
-    "category": "product"
-  },
-  {
-    "id": "eb8c5fd2113f5183bcd08af0c22b8ba6",
-    "title_en": "TikTok has started censoring searches for popular peptides",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-    "published_at": "2026-10-20T20:16:04.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "TikTok开始审查热门肽类物质的搜索内容",
-    "summary_zh": "TikTok已开始对热门肽类物质的搜索结果进行审查和限制。此类肽产品近年来在社交媒体上被热炒为抗衰和健身神器，但缺乏监管审批且存在健康风险。TikTok此举旨在遏制误导性健康内容的传播，反映出平台在热门健康话题上的内容治理压力，也引发关于平台审查边界的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "27d70ec67cde6df4238cbcfb195cb24d",
-    "title_en": "Astrolab’s upcoming rover will run the first LLMs on the moon",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
-    "published_at": "2026-10-20T20:07:21.000Z",
-    "fetched_at": "2026-10-20T21:00:44.744Z",
-    "title_zh": "Astrolab即将发射的月球车将首次在月球上运行大语言模型",
-    "summary_zh": "MIT科技评论报道，Astrolab计划让其月球车在月面运行大语言模型，实现本地化智能决策，减少对地球通信的依赖。这将是LLM首次在地外环境部署，对太空计算的算力、功耗与可靠性提出新挑战，也为未来深空任务自主化铺路。",
-    "category": "research"
-  },
-  {
-    "id": "ded603d87a15831db418398dab210b7a",
-    "title_en": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-    "published_at": "2026-10-20T20:00:00.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "罗技翻新G Pro X2 Superstrike耳机降价35%",
-    "summary_zh": "罗技官方翻新版G Pro X2 Superstrike游戏耳机迎来35%的折扣优惠。作为一款主打电竞性能的无线耳机，此次降价为预算有限的玩家提供了高性价比选择。翻新产品的促销也反映出消费电子厂商通过官方翻新渠道清理库存、拓展价格敏感用户群体的策略，同时兼顾环保与销售增长。",
-    "category": "product"
-  },
-  {
-    "id": "69230cad5c8cafcb5b59440aa6a72210",
-    "title_en": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-    "published_at": "2026-10-20T19:47:35.000Z",
-    "fetched_at": "2026-10-20T21:00:44.547Z",
-    "title_zh": "8 张被攻破的 TLS 证书曝光后，整个互联网进入高度戒备状态",
-    "summary_zh": "安全研究人员发现 8 张遭到攻破的 TLS 证书，引发互联网安全界高度警觉。TLS 证书是保障网站通信加密与身份验证的核心机制，一旦被伪造或泄露，攻击者可实施中间人攻击、窃取敏感数据。事件曝光后，各大浏览器厂商与证书颁发机构正紧急排查并吊销相关证书，业界担忧此类攻击可能波及更广泛的服务。",
-    "category": "industry"
-  },
-  {
-    "id": "01124370f33d722504cb0110fb5292a9",
-    "title_en": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
-    "published_at": "2026-10-20T19:09:35.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "大疆Osmo Pocket 3口袋云台相机跌破400美元，性价比凸显",
-    "summary_zh": "大疆Osmo Pocket 3口袋云台相机价格跌破400美元，成为Vlog创作者的实惠之选。该产品凭借小巧便携的机身、出色的防抖性能和优质视频拍摄能力广受好评。此次降价进一步降低了入门门槛，巩固了大疆在消费级影像设备市场的领先地位，也为内容创作者提供了高性价比的拍摄工具。",
-    "category": "product"
-  },
-  {
-    "id": "ab5dd53bf2d76019a418e9d789028153",
-    "title_en": "Xbox CEO is reportedly planning three more rounds of layoffs",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs",
-    "published_at": "2026-10-20T19:06:40.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "传Xbox CEO计划再裁三轮员工",
-    "summary_zh": "据报道，Xbox CEO计划再进行三轮裁员，显示微软游戏部门正经历持续的成本削减与业务重组。此前Xbox已多次裁员并关闭部分工作室，此次消息进一步引发外界对其游戏战略和内容投入的担忧。连续裁员反映出游戏行业增长放缓背景下，巨头正通过精简组织来优化成本结构。",
-    "category": "industry"
-  },
-  {
-    "id": "fb55367a1f4fa686f69e9e4e15bb6e17",
-    "title_en": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale",
-    "published_at": "2026-10-20T19:00:00.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "亚马逊逐步停产Fire HD平板，清仓大促先行",
-    "summary_zh": "亚马逊正逐步停产Fire HD系列平板电脑，并在退市前推出大幅折扣清仓促销。此举显示亚马逊正在调整其硬件产品线，可能将资源转向更新产品或AI相关设备。Fire HD作为入门级平板曾以低价策略占据市场，其停产也反映出平板市场竞争加剧及亚马逊硬件战略的转向。",
-    "category": "product"
-  },
-  {
-    "id": "96327d221a05a73b539e26bafa677a36",
-    "title_en": "JustWatch now streams TV shows and movies, too",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental",
-    "published_at": "2026-10-20T18:56:50.000Z",
-    "fetched_at": "2026-10-20T21:00:44.479Z",
-    "title_zh": "JustWatch 现在也提供影视剧流媒体播放服务",
-    "summary_zh": "以影视内容聚合搜索起家的 JustWatch 宣布业务扩展，正式进军流媒体播放领域，用户现在可以直接在平台上观看电视剧和电影。此举意味着 JustWatch 将从单纯的\"内容导航工具\"转型为兼具发现与观看功能的一站式娱乐平台，与现有流媒体服务商形成更直接的竞争关系。",
-    "category": "product"
-  },
-  {
-    "id": "620b08ad5242734cfbef2b5dcef4874c",
-    "title_en": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "published_at": "2026-10-20T18:38:24.000Z",
-    "fetched_at": "2026-10-20T21:00:44.380Z",
-    "title_zh": "谷歌联手亚马逊，借AI应用开发者挑战英伟达霸主地位",
-    "summary_zh": "谷歌追随亚马逊步伐，开始争夺AI应用开发者生态，直接冲击英伟达在AI算力市场的强势地位。两家云巨头正通过提供更具性价比的AI芯片和开发工具，吸引开发者迁移平台，试图打破英伟达GPU在AI训练与推理领域的垄断。这场围绕开发者生态的争夺战，或将重塑AI基础设施市场的竞争格局。",
-    "category": "industry"
   }
 ]

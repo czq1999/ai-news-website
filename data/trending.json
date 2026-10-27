@@ -1,6 +1,152 @@
 {
   "days": [
     {
+      "date": "2026-10-27",
+      "summary_zh": "今日趋势聚焦AI智能体生态：设计优化、金融交易框架、安全扫描与本地化协作工具百花齐放，另有微型机器人趣味亮相。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars_total": 89474,
+          "stars_today": 2297,
+          "description_zh": "VoiceStudio 是开源、完全本地的 ElevenLabs 替代品——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。"
+        },
+        {
+          "rank": 2,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars_total": 36628,
+          "stars_today": 2244,
+          "description_zh": "面向 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计技能。"
+        },
+        {
+          "rank": 3,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design language that makes your AI harness better at design.",
+          "language": "Rust",
+          "stars_total": 89325,
+          "stars_today": 1506,
+          "description_zh": "让你的 AI 框架更擅长设计的设​​计语言。"
+        },
+        {
+          "rank": 4,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars_total": 116266,
+          "stars_today": 1395,
+          "description_zh": "TradingAgents：多智能体 LLM 金融交易框架"
+        },
+        {
+          "rank": 5,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars_total": 6638,
+          "stars_today": 1296,
+          "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
+        },
+        {
+          "rank": 6,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars_total": 3043,
+          "stars_today": 1173,
+          "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，IDE 会根据你的工作方式自我定制——你所需的氛围"
+        },
+        {
+          "rank": 7,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars_total": 289933,
+          "stars_today": 896,
+          "description_zh": "智能体框架性能优化系统。为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全性和研究优先的开发能力。"
+        },
+        {
+          "rank": 8,
+          "name": "pollen-robotics/microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "description_en": "A Tiny biped duck robot 🦆",
+          "language": "Rust",
+          "stars_total": 12477,
+          "stars_today": 843,
+          "description_zh": "一只微型双足鸭子机器人 🦆"
+        },
+        {
+          "rank": 9,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars_total": 103777,
+          "stars_today": 746,
+          "description_zh": "让你的 AI 智能体拥有看遍整个互联网的眼睛。阅读并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。"
+        },
+        {
+          "rank": 10,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "",
+          "stars_total": 224748,
+          "stars_today": 638,
+          "description_zh": "一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编程陷阱的观察。"
+        },
+        {
+          "rank": 11,
+          "name": "alchaincyf/huashu-design",
+          "url": "https://github.com/alchaincyf/huashu-design",
+          "description_en": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+          "language": "HTML",
+          "stars_total": 26983,
+          "stars_today": 251,
+          "description_zh": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · 面向 Claude Code、Codex、Cursor 及任何 agent 的 HTML 原生设计技能"
+        },
+        {
+          "rank": 12,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+          "language": "Python",
+          "stars_total": 22304,
+          "stars_today": 214,
+          "description_zh": "AI 智能体技能的安全扫描器。在安装前检测 Claude Code、Codex 和 MCP 技能中的漏洞、恶意模式、安全风险、提示注入、数据泄露和供应链风险。"
+        },
+        {
+          "rank": 13,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description_en": "📨 The ultimate agentic social media scheduling tool 🤖",
+          "language": "TypeScript",
+          "stars_total": 38539,
+          "stars_today": 188,
+          "description_zh": "📨 终极智能体社交媒体排程工具 🤖"
+        },
+        {
+          "rank": 14,
+          "name": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description_en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "language": "TypeScript",
+          "stars_total": 1552,
+          "stars_today": 176,
+          "description_zh": "面向持久化 AI 队友的本地优先桌面工作空间。使用专属工作空间、任务队列、文件共享、浏览器控制和智能体间协作来运行 Codex、Claude 和 Grok。"
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "summary_zh": "今日热榜聚焦AI智能体生态：设计优化、金融交易框架、安全扫描与开箱即用Agent工具百花齐放。",
       "projects": [
@@ -3701,102 +3847,6 @@
           "stars_total": 25734,
           "stars_today": 145,
           "description_zh": "开源、低成本的10.5 GHz PLFM相控阵雷达系统"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体：多智能体协作、记忆学习、办公套件与语音克隆工具涌现，兼顾开源与本地化部署。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "vectorize-io/hindsight",
-          "url": "https://github.com/vectorize-io/hindsight",
-          "description_en": "Hindsight: Agent Memory That Learns",
-          "language": "Python",
-          "stars_total": 37011,
-          "stars_today": 4463,
-          "description_zh": "Hindsight：会学习的智能体记忆"
-        },
-        {
-          "rank": 2,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 39736,
-          "stars_today": 3060,
-          "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
-        },
-        {
-          "rank": 3,
-          "name": "paperclipai/paperclip",
-          "url": "https://github.com/paperclipai/paperclip",
-          "description_en": "The open-source app everyone uses to manage agents at work",
-          "language": "TypeScript",
-          "stars_total": 89484,
-          "stars_today": 2527,
-          "description_zh": "人人都在用的开源应用，用于在工作中管理智能体"
-        },
-        {
-          "rank": 4,
-          "name": "dream-num/univer",
-          "url": "https://github.com/dream-num/univer",
-          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-          "language": "TypeScript",
-          "stars_total": 20087,
-          "stars_today": 920,
-          "description_zh": "面向 AI 智能体的 Office 运行框架——在同一运行时中集成了电子表格、文档、幻灯片、画布、关系表和 PDF。"
-        },
-        {
-          "rank": 5,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 59138,
-          "stars_today": 848,
-          "description_zh": "学习它。构建它。为他人交付它。"
-        },
-        {
-          "rank": 6,
-          "name": "vercel-labs/scriptc",
-          "url": "https://github.com/vercel-labs/scriptc",
-          "description_en": "TypeScript-to-Native Compiler",
-          "language": "TypeScript",
-          "stars_total": 5346,
-          "stars_today": 186,
-          "description_zh": "TypeScript 到原生代码的编译器"
-        },
-        {
-          "rank": 7,
-          "name": "InfinityLoop1308/PipePipe",
-          "url": "https://github.com/InfinityLoop1308/PipePipe",
-          "description_en": "An open-source Android app to let you browse YouTube and other services freely.",
-          "language": "Shell",
-          "stars_total": 6522,
-          "stars_today": 139,
-          "description_zh": "一款开源 Android 应用，让你自由浏览 YouTube 及其他服务。"
-        },
-        {
-          "rank": 8,
-          "name": "willfaust/Madeira",
-          "url": "https://github.com/willfaust/Madeira",
-          "description_en": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-          "language": "C",
-          "stars_total": 779,
-          "stars_today": 117,
-          "description_zh": "通过 FEX-Emu + Wine + DXMT 在受限的 iOS 上运行 x86-64 Windows PC 游戏"
-        },
-        {
-          "rank": 9,
-          "name": "mvschwarz/openrig",
-          "url": "https://github.com/mvschwarz/openrig",
-          "description_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
-          "language": "TypeScript",
-          "stars_total": 865,
-          "stars_today": 114,
-          "description_zh": "将 Claude Code 和 Codex 作为统一系统运行的多智能体框架"
         }
       ]
     }
