@@ -2,37 +2,37 @@
   "days": [
     {
       "date": "2026-10-28",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体与设计工具：JetBrains推出轻量IDE，多个项目提供智能体技能框架、反AI套路设计规范及本地化AI工作台，强调开箱即用与个性化协作。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体与编码工具：JetBrains推出轻量IDE，多款AI设计技能框架涌现，强调反AI套路设计，开源AI代理与本地化团队协作工作区成为亮点。",
       "projects": [
         {
           "rank": 1,
-          "name": "hmjz100/LinkSwift",
-          "url": "https://github.com/hmjz100/LinkSwift",
-          "description_en": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-          "language": "JavaScript",
-          "stars_total": 34121,
-          "stars_today": 3209,
-          "description_zh": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
-        },
-        {
-          "rank": 2,
           "name": "HKUDS/DeepTutor",
           "url": "https://github.com/HKUDS/DeepTutor",
           "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
           "language": "Python",
-          "stars_total": 47673,
+          "stars_total": 47845,
           "stars_today": 2376,
           "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "Nutlope/hallmark",
           "url": "https://github.com/Nutlope/hallmark",
           "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "stars_total": 40378,
+          "stars_total": 40597,
           "stars_today": 2109,
           "description_zh": "适用于 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计技能。"
+        },
+        {
+          "rank": 3,
+          "name": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "description_en": "",
+          "language": "",
+          "stars_total": 11013,
+          "stars_today": 1938,
+          "description_zh": ""
         },
         {
           "rank": 4,
@@ -40,7 +40,7 @@
           "url": "https://github.com/togg53192-cmd/jailbreaks",
           "description_en": "LIST OF ALL MY JAILBREAKS",
           "language": "",
-          "stars_total": 6774,
+          "stars_total": 6985,
           "stars_today": 1478,
           "description_zh": "我的所有越狱列表"
         },
@@ -50,19 +50,19 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
           "language": "Rust",
-          "stars_total": 92159,
+          "stars_total": 92462,
           "stars_today": 1471,
           "description_zh": "为你的编码代理打造的设计词汇。用 polish 和 bolder 来引导，用 critique 和 audit 来审查，在 AI 垃圾上线前将其拦截。"
         },
         {
           "rank": 6,
-          "name": "elayadesign/ai-design-skills",
-          "url": "https://github.com/elayadesign/ai-design-skills",
-          "description_en": "",
-          "language": "",
-          "stars_total": 10891,
-          "stars_today": 1395,
-          "description_zh": ""
+          "name": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "description_en": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+          "language": "JavaScript",
+          "stars_total": 34373,
+          "stars_today": 1380,
+          "description_zh": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
         },
         {
           "rank": 7,
@@ -70,7 +70,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 307232,
+          "stars_total": 307364,
           "stars_today": 1096,
           "description_zh": "一个行之有效的代理技能框架和软件开发方法论。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/JetBrains/thinkrail",
           "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
           "language": "TypeScript",
-          "stars_total": 4806,
+          "stars_total": 4968,
           "stars_today": 1075,
           "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，它会根据你的工作方式自我定制——你所需的氛围"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/nightly-labs/openbot",
           "description_en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
           "language": "TypeScript",
-          "stars_total": 3072,
+          "stars_total": 3175,
           "stars_today": 1053,
           "description_zh": "一个本地优先的桌面工作空间，用于持久化 AI 队友。通过专用工作空间、任务队列、文件共享、浏览器控制和代理间协作来运行 Codex、Claude 和 Grok。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/makecindy/cindy",
           "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
           "language": "TypeScript",
-          "stars_total": 7942,
+          "stars_total": 8025,
           "stars_today": 740,
           "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
         },
@@ -110,29 +110,29 @@
           "url": "https://github.com/ruvnet/RuView",
           "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
           "language": "Rust",
-          "stars_total": 100792,
+          "stars_total": 100956,
           "stars_today": 596,
           "description_zh": "π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
         },
         {
           "rank": 12,
-          "name": "expo/skills",
-          "url": "https://github.com/expo/skills",
-          "description_en": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-          "language": "Shell",
-          "stars_total": 3462,
-          "stars_today": 212,
-          "description_zh": "一套用于处理 Expo 项目和 Expo 应用服务的 AI 智能体技能集合"
-        },
-        {
-          "rank": 13,
           "name": "xiaolai/the-craft-of-selfteaching",
           "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
           "description_en": "One has no future if one couldn't teach themself.",
           "language": "Jupyter Notebook",
-          "stars_total": 18410,
-          "stars_today": 143,
+          "stars_total": 18459,
+          "stars_today": 295,
           "description_zh": "不会自学的人没有未来。"
+        },
+        {
+          "rank": 13,
+          "name": "expo/skills",
+          "url": "https://github.com/expo/skills",
+          "description_en": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+          "language": "Shell",
+          "stars_total": 3535,
+          "stars_today": 216,
+          "description_zh": "一套用于处理 Expo 项目和 Expo 应用服务的 AI 智能体技能集合"
         },
         {
           "rank": 14,
@@ -140,7 +140,7 @@
           "url": "https://github.com/macro-inc/macro",
           "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
           "language": "Rust",
-          "stars_total": 5302,
+          "stars_total": 5375,
           "stars_today": 106,
           "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、智能体、通话和 CRM——通过共享 AI 记忆以 @ 关联在一起。"
         }
