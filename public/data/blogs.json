@@ -1,5 +1,27 @@
 [
   {
+    "id": "e5a791bee62ab069e7b1b1e62ce9455f",
+    "title_en": "从0到1构建Kubernetes中间件运维平台：标准化",
+    "source": "tech.dewu.com",
+    "url": "https://tech.dewu.com/article?id=164",
+    "published_at": "2026-10-29T03:34:20.527Z",
+    "fetched_at": "2026-10-29T03:34:20.527Z",
+    "title_zh": "从0到1构建Kubernetes中间件运维平台：标准化",
+    "summary_zh": "本文分享在Kubernetes环境下从零搭建中间件运维平台的实践经验，重点阐述标准化建设思路。内容涵盖中间件部署规范的统一、配置与参数模板化、Operator化管理的落地路径，以及如何通过标准化降低多集群、多版本中间件的运维复杂度。文章结合得物技术团队的真实场景，讲解标准化如何为后续自动化运维、监控告警与故障自愈打下基础，对正在推进K8s中间件平台化的运维与平台工程团队具有较强参考价值。",
+    "topic": "ops"
+  },
+  {
+    "id": "d55b91464971c0fad0e68621eb3509c7",
+    "title_en": "从零打造自己的AI Agent：原理、流程图与完整代码实现",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/m0_58868237/article/details/153630469",
+    "published_at": "2026-10-29T03:34:16.035Z",
+    "fetched_at": "2026-10-29T03:34:16.035Z",
+    "title_zh": "从零打造自己的AI Agent：原理、流程图与完整代码实现",
+    "summary_zh": "本文系统讲解从零构建AI Agent的完整路径，先剖析Agent的核心原理，包括任务规划、工具调用、记忆管理与反思机制，并配合流程图梳理各模块的交互关系与执行流程。随后给出可运行的完整代码实现，覆盖LLM接口封装、工具函数注册、多轮决策循环与结果解析等关键环节，帮助读者理解Agent与普通LLM调用的本质差异。文章注重工程落地，适合希望将Agent能力集成到实际业务中的开发者参考。",
+    "topic": "ai"
+  },
+  {
     "id": "25922c7bb0ece90830023c97d68bb875",
     "title_en": "StarCrossPortal/VulnsDB: CVE漏洞分析合集-持续更新",
     "source": "github.com",
@@ -2175,28 +2197,6 @@
     "fetched_at": "2026-10-28T03:07:57.432Z",
     "title_zh": "Linux系统性能优化全面指南：从监控到调优",
     "summary_zh": "本文提供从监控到调优的Linux性能优化完整路径。先介绍top、vmstat、iostat、perf等监控工具的组合使用与指标解读，再针对CPU调度、内存回收、磁盘I/O队列、网络协议栈等层面给出具体调优手段。强调先度量后优化的原则，结合案例分析瓶颈定位思路，帮助读者建立系统化的性能问题排查与优化方法论。",
-    "topic": "ops"
-  },
-  {
-    "id": "6df802a125aba8e56c2e75a6bf4e1fc6",
-    "title_en": "序· Linux性能调优指南 - lihz",
-    "source": "lihz1990.gitbooks.io",
-    "url": "https://lihz1990.gitbooks.io/transoflptg/content/",
-    "published_at": "2026-10-28T03:07:57.432Z",
-    "fetched_at": "2026-10-28T03:07:57.432Z",
-    "title_zh": "序·Linux性能调优指南",
-    "summary_zh": "这是一份GitBook形式的Linux性能调优指南的开篇章节，交代全书的知识框架与学习路径。内容概述性能调优的整体思路，包括性能指标定义、监控工具选型、常见瓶颈分类以及调优的权衡取舍原则。作为系列入口，帮助读者建立从观测到分析再到优化的完整认知，适合作为系统性能学习的路线图参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "1f4dfcab4b75cf813c3e236b6b7853b3",
-    "title_en": "Linux性能调优指南| PDF",
-    "source": "scribd.com",
-    "url": "https://www.scribd.com/document/955065137/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97",
-    "published_at": "2026-10-28T03:07:57.432Z",
-    "fetched_at": "2026-10-28T03:07:57.432Z",
-    "title_zh": "Linux性能调优指南（PDF）",
-    "summary_zh": "该资源为Linux性能调优指南的PDF文档，系统整理性能优化的核心知识点。内容涵盖系统资源监控方法、CPU与内存子系统的调优参数、I/O调度策略选择以及网络性能优化技巧。以文档形式便于离线查阅与团队分享，适合运维和开发人员作为性能问题排查时的速查手册与系统学习材料。",
     "topic": "ops"
   }
 ]

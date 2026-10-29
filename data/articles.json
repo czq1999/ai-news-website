@@ -1,5 +1,38 @@
 [
   {
+    "id": "c6d4e2e9a50f4d34eea885ba6050c81c",
+    "title_en": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+    "published_at": "2026-10-29T02:22:46.000Z",
+    "fetched_at": "2026-10-29T03:33:45.637Z",
+    "title_zh": "Anduril 称其 BlueChip 笔记本电脑上市时将符合“购买美国货”标准",
+    "summary_zh": "国防科技公司 Anduril 宣布，其 BlueChip 笔记本电脑在正式发售时将满足“购买美国货”（Buy American）相关标准。此举被视为该公司在政府采购与本土制造合规方面的重要表态，也反映出美国科技硬件供应链本土化趋势的持续升温。",
+    "category": "product"
+  },
+  {
+    "id": "5536851b9ba28ab5b925a800ca2a3810",
+    "title_en": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "published_at": "2026-10-28T23:05:39.000Z",
+    "fetched_at": "2026-10-29T03:33:45.637Z",
+    "title_zh": "亚当·莫塞里称围绕 AI 的负面情绪“还会更糟”",
+    "summary_zh": "Instagram 负责人亚当·莫塞里表示，公众对 AI 的负面情绪短期内不会缓解，反而“还会更糟”。他认为随着 AI 功能大规模融入社交产品，用户对隐私、内容真实性和就业冲击的担忧将持续加剧，科技公司需要更主动地沟通与应对。",
+    "category": "industry"
+  },
+  {
+    "id": "b49c2cab9e014c6dea193f43a2b496aa",
+    "title_en": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
+    "published_at": "2026-10-28T22:54:16.000Z",
+    "fetched_at": "2026-10-29T03:33:45.910Z",
+    "title_zh": "苹果新款MacBook搭载2000尼特OLED屏幕意义重大",
+    "summary_zh": "Wired报道称，苹果在新款MacBook上引入峰值亮度达2000尼特的OLED显示屏，被视为显示技术的重要升级。更高亮度与OLED的对比度优势将显著提升HDR内容创作与户外可视性，对专业创意用户尤为关键。此举也可能加速笔记本行业向OLED过渡，并推动面板供应链在亮度、寿命与功耗方面持续竞争。",
+    "category": "product"
+  },
+  {
     "id": "bc9975c8e51983aecfef3741a5c227cf",
     "title_en": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
     "source": "TechCrunch AI",
@@ -757,6 +790,116 @@
     "title_zh": "戴森优惠码：2026年10月享25%折扣",
     "summary_zh": "Wired发布2026年10月戴森产品的优惠码信息，用户可享受最高25%的折扣。戴森以吸尘器、吹风机、空气净化器等高端家电闻名，本文汇总了最新促销代码，适合有意购买戴森产品的消费者参考，以更优惠的价格入手心仪商品。",
     "category": "product"
+  },
+  {
+    "id": "44421e029974831e4e3889f7cc9493f9",
+    "title_en": "Jio Platforms Share Price & IPO Listing Live: Mukesh Ambani's Jio set for trading debut after record IPO",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/markets/jio-platforms-share-price-jio-platforms-ipo-listing-live-updates/article71630928.ece",
+    "published_at": "2026-10-28T03:22:24Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "Jio Platforms股价与IPO上市直播：安巴尼旗下Jio创纪录IPO后迎交易首秀",
+    "summary_zh": "穆克什·安巴尼旗下的Jio Platforms在完成创纪录IPO后正式登陆资本市场，交易首日备受关注。作为印度数字与电信领域的旗舰资产，其上市表现被视为印度科技股热度与资本市场信心的重要风向标。投资者关注其估值水平、后续增长空间及对印度IPO市场的带动效应，相关股价波动也将影响科技板块情绪。",
+    "category": "industry"
+  },
+  {
+    "id": "995582c00fef579fbc7bc32e756063ba",
+    "title_en": "Microsoft medical AI tops 80% accuracy in complex cases",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20261028PD200/microsoft-medical-healthcare.html",
+    "published_at": "2026-10-28T03:20:10Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "微软医疗AI在复杂病例中准确率突破80%",
+    "summary_zh": "Digitimes报道，微软研发的医疗AI系统在复杂病例诊断中准确率超过80%，显示出大模型在临床辅助决策中的潜力。该系统或通过整合多模态医学数据与推理能力，帮助医生提升诊断效率。不过，实际落地仍需解决数据隐私、监管审批与医生信任等问题，准确率指标也需在更大规模、更多样化的真实临床环境中验证。",
+    "category": "research"
+  },
+  {
+    "id": "2d730815cb291c74081d923c06b1d788",
+    "title_en": "Simple Tips to Help Your Furnace Work Better",
+    "source": "Addicted2success.com",
+    "url": "https://addicted2success.com/tech/simple-tips-help-furnace-work-better/",
+    "published_at": "2026-10-28T03:16:09Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "让家用暖炉更高效运转的简单技巧",
+    "summary_zh": "本文提供了一系列简单实用的建议，帮助用户提升家用暖炉的运行效率，包括定期更换滤网、保持通风口畅通、合理设置温控程序以及进行季节性维护等。虽然内容与AI无直接关联，但对希望降低能耗与取暖成本的读者具有参考价值。良好的维护习惯不仅能延长设备寿命，也有助于减少不必要的能源浪费。",
+    "category": "product"
+  },
+  {
+    "id": "23f036acebe7cc16b11fa4eff0b10015",
+    "title_en": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
+    "source": "Aivideosugc.com",
+    "url": "https://www.aivideosugc.com/",
+    "published_at": "2026-10-28T03:09:03Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "Show HN：2026年如何用AI视频生成器制作AI UGC广告",
+    "summary_zh": "该Show HN帖子介绍了在2026年利用AI视频生成器制作UGC风格广告的方法。内容涵盖脚本生成、数字人出镜、配音与剪辑等流程，强调低成本、快速迭代的优势，适合中小品牌与营销人员参考。文章也提示需关注平台对AI生成内容的标注要求、素材版权与广告真实性，避免因误导性内容引发合规风险。",
+    "category": "product"
+  },
+  {
+    "id": "3934f1a2f1b2d88c589a1e126b510bed",
+    "title_en": "Artificial Analysis Intelligence Index v5",
+    "source": "Artificialanalysis.ai",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+    "published_at": "2026-10-28T03:06:22Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "Artificial Analysis智能指数v5发布",
+    "summary_zh": "Artificial Analysis发布智能指数v5，用于横向评估主流大模型在推理、知识与任务完成等方面的综合能力。新版指数可能调整了评测维度与权重，以更贴近实际应用场景，并为开发者选型提供参考。此类基准的更新也引发讨论：单一分数难以全面反映模型表现，用户仍需结合成本、延迟与具体任务需求综合判断。",
+    "category": "llm"
+  },
+  {
+    "id": "f619a2563902b5e81a6f22e46f53fdca",
+    "title_en": "Jio Platforms shares to be available under MTF from Day 1. What should investors know?",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-shares-to-be-available-under-mtf-from-day-1-what-should-investors-know/articleshow/135250221.cms",
+    "published_at": "2026-10-28T03:02:46Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "Jio Platforms股票首日即可通过MTF交易，投资者需了解什么？",
+    "summary_zh": "Jio Platforms股票上市首日即可通过保证金交易便利（MTF）进行交易，意味着投资者可用较少资金放大持仓。文章提醒投资者关注杠杆带来的收益与风险放大效应、维持保证金要求及强制平仓规则。对于波动较大的新股而言，MTF虽提升资金效率，但也可能加剧亏损，适合风险承受能力较强的投资者谨慎使用。",
+    "category": "industry"
+  },
+  {
+    "id": "009f95c319fe938493faa303e17cb671",
+    "title_en": "Fujifilm to boost magnetic tape capacity 5x as AI data storage demand grows",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20261028VL214/fujifilm-data-storage-demand-data-production-capacity.html",
+    "published_at": "2026-10-28T02:55:00Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "富士胶片将把磁带容量提升五倍，以应对AI数据存储需求",
+    "summary_zh": "Digitimes报道，随着AI训练与推理产生海量数据，富士胶片计划将磁带存储容量提升至现有水平的五倍。磁带具备成本低、寿命长、能耗低等优势，适合冷数据与长期归档，在AI时代重新受到重视。此举有望缓解数据中心存储成本压力，也反映出在热存储之外，分层存储架构对大规模AI基础设施仍不可或缺。",
+    "category": "industry"
+  },
+  {
+    "id": "0a80db8837338e330a208dc7b8b1c2f4",
+    "title_en": "Trump Blasts WSJ for Referring to AI, Not SI",
+    "source": "Newser",
+    "url": "https://www.newser.com/story/398938/trump-blasts-wsj-for-referring-to-ai-not-si.html",
+    "published_at": "2026-10-28T02:39:55Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "特朗普抨击《华尔街日报》使用AI而非SI一词",
+    "summary_zh": "据Newser报道，特朗普公开批评《华尔街日报》在相关表述中使用“AI”而非“SI”，引发舆论关注。该事件折射出围绕人工智能术语与叙事的政治化争论，也显示AI话题已成为公共话语中的敏感符号。尽管争议本身更多涉及措辞与立场，但也提醒媒体在报道AI时应保持术语准确与语境清晰，避免引发误读。",
+    "category": "industry"
+  },
+  {
+    "id": "6d44c02ac5d6ad18a1e679bfaafff085",
+    "title_en": "Amazon Tells Engineers Outcomes, Not Tokenmaxxing, Define AI Success",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/efe3328409d48532",
+    "published_at": "2026-10-28T02:38:08Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "亚马逊告诉工程师：衡量AI成功看结果，而非堆砌Token",
+    "summary_zh": "Biztoc报道，亚马逊向工程师传达明确信号：AI项目的成功应以业务成果衡量，而非单纯追求Token消耗量或模型调用规模。这一表态反映出企业正从“堆算力、拼参数”转向关注实际ROI、用户体验与落地效果。对开发者而言，意味着需更重视评估体系、成本控制与产品价值，避免为技术而技术。",
+    "category": "industry"
+  },
+  {
+    "id": "ef951f28229f995583f7372a90b8fa40",
+    "title_en": "Visa Credentials Reach 5.2 Billion as Network Expands Into Agentic Commerce",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/c1ef9fb5035bed85",
+    "published_at": "2026-10-28T02:38:07Z",
+    "fetched_at": "2026-10-29T03:33:46.406Z",
+    "title_zh": "Visa凭证数量达52亿，网络拓展至智能体商务领域",
+    "summary_zh": "Visa宣布其凭证数量已突破52亿，同时正将支付网络扩展至新兴的智能体商务（Agentic Commerce）领域。所谓智能体商务，是指由AI智能体代表用户自主完成购物和支付交易的模式。Visa此举意在抢占AI驱动支付场景的基础设施先机，让AI代理能够安全地使用Visa凭证进行交易授权与结算。这标志着传统支付巨头正积极布局AI时代的商业支付体系，为未来由智能体主导的自动化交易提供底层支持。",
+    "category": "industry"
   },
   {
     "id": "871b2958d62747dbed261e8e8e477039",
@@ -5355,148 +5498,5 @@
     "title_zh": "Leidos将AI技术引入五角大楼后勤系统",
     "summary_zh": "美国国防承包商Leidos宣布将先进AI技术整合到五角大楼的后勤管理系统中，旨在提升军事供应链的效率与决策能力。此举标志着AI在国防后勤领域的进一步落地应用，有望优化物资调配、预测维护需求并降低运营成本，反映出美国军方加速推进AI军事化的趋势。",
     "category": "industry"
-  },
-  {
-    "id": "3a7e9eb4c5d3bca4c753fc113686625e",
-    "title_en": "Eric Schmidt Rejects AI Bubble Fears, Says Anthropic Is Growing Twice as Fast as Google Did",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/1856620d0b17e3ae",
-    "published_at": "2026-10-22T15:59:54Z",
-    "fetched_at": "2026-10-23T16:08:20.252Z",
-    "title_zh": "施密特驳斥AI泡沫论，称Anthropic增速是谷歌当年的两倍",
-    "summary_zh": "前谷歌CEO埃里克·施密特公开反驳AI泡沫担忧，指出Anthropic的增长速度达到谷歌早期发展的两倍，显示头部AI公司仍处于高速扩张阶段。他认为当前AI投资热潮有真实需求支撑，并非投机泡沫，为市场对AI行业估值过高的质疑提供了不同视角。",
-    "category": "industry"
-  },
-  {
-    "id": "cf27fc5e13d382f1feb485e19a10b726",
-    "title_en": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/c3a7dbd62f37baa5",
-    "published_at": "2026-10-22T15:58:51Z",
-    "fetched_at": "2026-10-23T16:08:20.253Z",
-    "title_zh": "芯片股下挫，供应预警加剧AI抛售潮：Marvell与AMD跌8%，英特尔跌7%",
-    "summary_zh": "受供应链预警影响，AI相关芯片股遭遇大规模抛售，Marvell和AMD股价下跌约8%，英特尔下跌7%。市场对AI硬件需求可持续性及产能供应问题的担忧升温，引发投资者对AI板块的集中减持，反映出芯片行业与AI热潮高度绑定的波动风险。",
-    "category": "industry"
-  },
-  {
-    "id": "0a79be76d05d5b1c5223a8b373b138a9",
-    "title_en": "2026 MERKIN PRIZE IN BIOMEDICAL TECHNOLOGY AWARDED TO FIVE LAUREATES FOR DEVELOPING THE MODERN COCHLEAR IMPLANT",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/2026-merkin-prize-in-biomedical-technology-awarded-to-five-laureates-for-developing-the-modern-cochlear-implant-302917187.html",
-    "published_at": "2026-10-22T15:53:00Z",
-    "fetched_at": "2026-10-23T16:08:20.253Z",
-    "title_zh": "2026年默金生物医学技术奖授予五位现代人工耳蜗研发者",
-    "summary_zh": "2026年默金生物医学技术奖授予五位科学家，以表彰他们在现代人工耳蜗研发中的开创性贡献。人工耳蜗作为将声音信号转化为神经电刺激的植入设备，已帮助全球数十万听障人士恢复听觉，此次获奖彰显了生物医学工程与神经技术交叉领域的重大突破。",
-    "category": "research"
-  },
-  {
-    "id": "0ee4f2fe9f9c08441e0faf070ddcf49e",
-    "title_en": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-    "published_at": "2026-10-22T15:50:30.000Z",
-    "fetched_at": "2026-10-22T16:19:01.481Z",
-    "title_zh": "OpenAI、Anthropic与英伟达游说支出创季度新高",
-    "summary_zh": "OpenAI、Anthropic与英伟达在最近一个季度的政治游说支出均创下历史新高。随着AI监管议题在各国升温，头部AI企业正加大在政策制定层面的投入，以影响立法走向、争取有利的监管环境。这反映出AI行业与政府关系的日益紧密。",
-    "category": "industry"
-  },
-  {
-    "id": "beae29e6ce170a45caa0b8c6fe1a5d96",
-    "title_en": "Lyric Health Introduces Grace, a Multimodal AI Intelligence Layer Across its Virtual Care Operating System",
-    "source": "PRNewswire",
-    "url": "https://www.prnewswire.com/news-releases/lyric-health-introduces-grace-a-multimodal-ai-intelligence-layer-across-its-virtual-care-operating-system-302917176.html",
-    "published_at": "2026-10-22T15:48:00Z",
-    "fetched_at": "2026-10-23T16:08:20.253Z",
-    "title_zh": "Lyric Health推出Grace，为其虚拟护理操作系统提供多模态AI智能层",
-    "summary_zh": "Lyric Health发布名为Grace的多模态AI智能层，全面集成到其虚拟护理操作系统中。Grace可处理文本、语音等多种输入形式，辅助临床决策、患者沟通与护理流程自动化，旨在提升远程医疗服务的效率与个性化水平，代表AI在数字健康领域的深入应用。",
-    "category": "product"
-  },
-  {
-    "id": "6dcbab9bae456d7d925ad271120aa7a4",
-    "title_en": "A Day In the Life Of Julia (White) Richmond of East Killingly, Connecticut in 1890",
-    "source": "Blogger.com",
-    "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/5094106711048435104",
-    "published_at": "2026-10-22T15:47:00Z",
-    "fetched_at": "2026-10-23T16:08:20.253Z",
-    "title_zh": "1890年康涅狄格州东基林利Julia (White) Richmond的一天生活",
-    "summary_zh": "该文章以叙事方式还原了1890年康涅狄格州东基林利居民Julia (White) Richmond的日常生活，属于历史人物生活纪实类内容，与人工智能、科技新闻无关，不涉及AI模型、产品、研究或产业动态。",
-    "category": "research"
-  },
-  {
-    "id": "edf5754b76d92cfad4e1a327fd590894",
-    "title_en": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-    "published_at": "2026-10-22T15:45:57Z",
-    "fetched_at": "2026-10-23T16:08:20.253Z",
-    "title_zh": "Meta股价下跌6%，AI支出致自由现金流转负",
-    "summary_zh": "Meta股价下跌6%，因其大规模AI基础设施投入导致自由现金流首次转为负值。市场担忧公司在AI领域的巨额资本开支短期内难以转化为收益，投资者对科技巨头AI投资回报周期的疑虑加剧，反映出AI军备竞赛对企业财务状况的实际压力。",
-    "category": "industry"
-  },
-  {
-    "id": "3dd5d1b5a73376341762883033085763",
-    "title_en": "Treasury yields fall as investors weigh Middle East tensions and await fresh jobs data",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/9f4c976b24f1b6e7",
-    "published_at": "2026-10-22T15:45:25Z",
-    "fetched_at": "2026-10-23T16:08:20.253Z",
-    "title_zh": "美债收益率下跌，投资者权衡中东局势并等待最新就业数据",
-    "summary_zh": "美国国债收益率走低，投资者正在评估中东地缘政治紧张局势的影响，同时等待即将发布的最新就业数据以判断经济走势。该报道属于宏观金融与地缘政治范畴，与人工智能行业无直接关联，不涉及AI技术、产品或企业动态。",
-    "category": "industry"
-  },
-  {
-    "id": "63efddf7c3ea5ae65ef4cb617c2d38aa",
-    "title_en": "Save $150 on the Apple Mac Mini M4, but There’s a Catch",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/mac-mini-m4-deal-october-2026/",
-    "published_at": "2026-10-22T15:30:31.000Z",
-    "fetched_at": "2026-10-22T16:19:01.669Z",
-    "title_zh": "Apple Mac Mini M4立省150美元，但有个前提",
-    "summary_zh": "苹果Mac Mini M4迎来150美元优惠，但该折扣附带一定条件，可能涉及以旧换新、特定渠道或会员资格限制。作为搭载M4芯片的紧凑型台式机，Mac Mini在性能与能效方面表现突出，此次降价对预算有限的用户颇具吸引力。建议购买前仔细核对优惠条款，确认是否符合条件。",
-    "category": "product"
-  },
-  {
-    "id": "78f6fda9d107a9f4eef079e9cbb5021d",
-    "title_en": "Fellow Aiden Precision Coffee Maker is $100 Off",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
-    "published_at": "2026-10-22T15:14:37.000Z",
-    "fetched_at": "2026-10-22T16:19:01.669Z",
-    "title_zh": "Fellow Aiden 精密咖啡机降价100美元",
-    "summary_zh": "Wired报道，Fellow Aiden精密咖啡机目前优惠100美元。该产品主打精准控温与专业级萃取，面向追求手冲品质的家庭用户。此次降价为近期想入手高端咖啡设备的消费者提供了不错的购买时机，也反映出智能家电市场竞争加剧、厂商通过促销拉动销量的趋势。",
-    "category": "product"
-  },
-  {
-    "id": "3ade36436c60f0ff4971035a7bc7320d",
-    "title_en": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
-    "published_at": "2026-10-22T15:14:20.000Z",
-    "fetched_at": "2026-10-22T16:19:01.481Z",
-    "title_zh": "苹果iPad妙控键盘半价促销，但有个小条件",
-    "summary_zh": "苹果为iPad设计的妙控键盘目前以约五折价格促销，但附带一个小条件（可能涉及型号或渠道限制）。对于希望以更低成本为iPad配齐生产力外设的用户而言，这是一次值得关注的折扣机会，尤其适合搭配新款iPad使用。",
-    "category": "product"
-  },
-  {
-    "id": "641f316a616f4a5b7d5677df085734ea",
-    "title_en": "PHP: The three little letters wreaking havoc across the web",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-    "published_at": "2026-10-22T15:12:27.000Z",
-    "fetched_at": "2026-10-22T16:19:01.481Z",
-    "title_zh": "PHP：三个字母如何在网络上掀起轩然大波",
-    "summary_zh": "文章聚焦PHP这一广泛使用的服务器端脚本语言，探讨其在现代Web生态中引发的安全与维护争议。尽管PHP支撑着大量网站，但其历史遗留问题与安全漏洞持续困扰开发者。文章分析了PHP在当今网络环境中的风险与挑战。",
-    "category": "research"
-  },
-  {
-    "id": "069e60cc67c9ad1085881fd70ec3d552",
-    "title_en": "Spotify’s current AI bet is about being the music service that agents choose",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-    "published_at": "2026-10-22T15:03:58.000Z",
-    "fetched_at": "2026-10-22T16:19:01.384Z",
-    "title_zh": "Spotify的AI赌注：成为AI代理首选的音乐服务",
-    "summary_zh": "Spotify正将AI战略重心放在让自家服务成为AI代理（agent）调用音乐时的首选平台。随着AI助手逐渐代替用户完成点歌、推荐等操作，Spotify希望通过接口与生态布局，确保在代理驱动的音乐消费场景中占据核心位置，避免沦为被代理绕过的底层内容库。",
-    "category": "product"
   }
 ]

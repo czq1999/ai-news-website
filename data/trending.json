@@ -1,6 +1,152 @@
 {
   "days": [
     {
+      "date": "2026-10-29",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体与编码助手：JetBrains推出轻量IDE thinkrail，多个项目专注提升AI编码设计质量、智能体技能框架及持久化AI协作工作区。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars_total": 48272,
+          "stars_today": 2371,
+          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+        },
+        {
+          "rank": 2,
+          "name": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "description_en": "",
+          "language": "",
+          "stars_total": 11287,
+          "stars_today": 2139,
+          "description_zh": ""
+        },
+        {
+          "rank": 3,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars_total": 40887,
+          "stars_today": 2110,
+          "description_zh": "面向 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计技能。"
+        },
+        {
+          "rank": 4,
+          "name": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "description_en": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+          "language": "JavaScript",
+          "stars_total": 35163,
+          "stars_today": 1616,
+          "description_zh": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+        },
+        {
+          "rank": 5,
+          "name": "togg53192-cmd/jailbreaks",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "description_en": "LIST OF ALL MY JAILBREAKS",
+          "language": "",
+          "stars_total": 7321,
+          "stars_today": 1477,
+          "description_zh": "我所有越狱提示词的列表"
+        },
+        {
+          "rank": 6,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars_total": 93059,
+          "stars_today": 1472,
+          "description_zh": "为你的编程智能体打造的设计词汇。用 polish 和 bolder 来引导，用 critique 和 audit 来审查，在 AI 垃圾上线前将其拦截。"
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 307555,
+          "stars_today": 1095,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 8,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars_total": 5222,
+          "stars_today": 1068,
+          "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，它会根据你的工作方式自我定制——你所需要的氛围"
+        },
+        {
+          "rank": 9,
+          "name": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description_en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "language": "TypeScript",
+          "stars_total": 3349,
+          "stars_today": 1054,
+          "description_zh": "一个本地优先的桌面工作空间，用于持久化的 AI 队友。通过专用工作空间、任务队列、文件共享、浏览器控制和智能体间协作来运行 Codex、Claude 和 Grok。"
+        },
+        {
+          "rank": 10,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars_total": 8194,
+          "stars_today": 728,
+          "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
+        },
+        {
+          "rank": 11,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars_total": 101163,
+          "stars_today": 557,
+          "description_zh": "π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——全程无需一像素视频。"
+        },
+        {
+          "rank": 12,
+          "name": "xiaolai/the-craft-of-selfteaching",
+          "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+          "description_en": "One has no future if one couldn't teach themself.",
+          "language": "Jupyter Notebook",
+          "stars_total": 18599,
+          "stars_today": 148,
+          "description_zh": "一个人若不能自学，便没有未来。"
+        },
+        {
+          "rank": 13,
+          "name": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "language": "Rust",
+          "stars_total": 5484,
+          "stars_today": 117,
+          "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、智能体、通话和 CRM——通过共享 AI 记忆以 @ 关联在一起。"
+        },
+        {
+          "rank": 14,
+          "name": "expo/skills",
+          "url": "https://github.com/expo/skills",
+          "description_en": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+          "language": "Shell",
+          "stars_total": 3627,
+          "stars_today": 90,
+          "description_zh": "一套用于处理 Expo 项目和 Expo 应用服务的 AI 智能体技能集合"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "summary_zh": "今日GitHub热榜聚焦AI智能体与编码工具：JetBrains推出轻量IDE，多款AI设计技能框架涌现，强调反AI套路设计，开源AI代理与本地化团队协作工作区成为亮点。",
       "projects": [
@@ -3731,152 +3877,6 @@
           "stars_total": 6748,
           "stars_today": 4,
           "description_zh": "用于 Apple 应用开发的 Firebase SDK"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "summary_zh": "今日热榜聚焦AI智能体与本地化工具：语音克隆、智能体记忆与运行时、多智能体协作，以及轻量数据库客户端和自托管部署平台。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 47826,
-          "stars_today": 4712,
-          "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
-        },
-        {
-          "rank": 2,
-          "name": "vectorize-io/hindsight",
-          "url": "https://github.com/vectorize-io/hindsight",
-          "description_en": "Hindsight: Agent Memory That Learns",
-          "language": "Python",
-          "stars_total": 42749,
-          "stars_today": 2541,
-          "description_zh": "Hindsight：会学习的智能体记忆"
-        },
-        {
-          "rank": 3,
-          "name": "paperclipai/paperclip",
-          "url": "https://github.com/paperclipai/paperclip",
-          "description_en": "The open-source app everyone uses to manage agents at work",
-          "language": "TypeScript",
-          "stars_total": 94348,
-          "stars_today": 2412,
-          "description_zh": "人人都用来在工作中管理智能体的开源应用"
-        },
-        {
-          "rank": 4,
-          "name": "NVIDIA/OpenShell",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-          "language": "Rust",
-          "stars_total": 10474,
-          "stars_today": 978,
-          "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
-        },
-        {
-          "rank": 5,
-          "name": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "description_en": "Learn it. Build it. Ship it for others.",
-          "language": "Python",
-          "stars_total": 61241,
-          "stars_today": 855,
-          "description_zh": "学习它。构建它。为他人交付它。"
-        },
-        {
-          "rank": 6,
-          "name": "VectifyAI/PageIndex",
-          "url": "https://github.com/VectifyAI/PageIndex",
-          "description_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-          "language": "Python",
-          "stars_total": 37247,
-          "stars_today": 822,
-          "description_zh": "📑 PageIndex：面向无向量、基于推理的 RAG 的文档索引"
-        },
-        {
-          "rank": 7,
-          "name": "mvschwarz/openrig",
-          "url": "https://github.com/mvschwarz/openrig",
-          "description_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
-          "language": "TypeScript",
-          "stars_total": 2358,
-          "stars_today": 733,
-          "description_zh": "将 Claude Code 和 Codex 作为一个系统协同运行的多智能体框架"
-        },
-        {
-          "rank": 8,
-          "name": "dream-num/univer",
-          "url": "https://github.com/dream-num/univer",
-          "description_en": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-          "language": "TypeScript",
-          "stars_total": 21801,
-          "stars_today": 692,
-          "description_zh": "面向 AI 智能体的 Office 框架——在一个运行时中集成电子表格、文档、幻灯片、画布、关系表和 PDF。"
-        },
-        {
-          "rank": 9,
-          "name": "cs341-illinois/coursebook",
-          "url": "https://github.com/cs341-illinois/coursebook",
-          "description_en": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-          "language": "TeX",
-          "stars_total": 3052,
-          "stars_today": 569,
-          "description_zh": "伊利诺伊大学开源系统编程入门教材"
-        },
-        {
-          "rank": 10,
-          "name": "oblien/openship",
-          "url": "https://github.com/oblien/openship",
-          "description_en": "Self-hosted deployment platform",
-          "language": "TypeScript",
-          "stars_total": 13770,
-          "stars_today": 436,
-          "description_zh": "自托管部署平台"
-        },
-        {
-          "rank": 11,
-          "name": "t8y2/dbx",
-          "url": "https://github.com/t8y2/dbx",
-          "description_en": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-          "language": "Rust",
-          "stars_total": 21905,
-          "stars_today": 349,
-          "description_zh": "25 MB 轻量级跨平台数据库客户端，支持 100+ 数据库，包括 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server 和达梦。内置 AI、MCP Server、CLI、桌面端和 Docker。 | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
-        },
-        {
-          "rank": 12,
-          "name": "averygan/reclip",
-          "url": "https://github.com/averygan/reclip",
-          "description_en": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-          "language": "HTML",
-          "stars_total": 10031,
-          "stars_today": 114,
-          "description_zh": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，配有简洁的 Web UI。"
-        },
-        {
-          "rank": 13,
-          "name": "willfaust/Madeira",
-          "url": "https://github.com/willfaust/Madeira",
-          "description_en": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-          "language": "C",
-          "stars_total": 1075,
-          "stars_today": 85,
-          "description_zh": "通过 FEX-Emu + Wine + DXMT 在受限 iOS 上运行 x86-64 Windows PC 游戏"
-        },
-        {
-          "rank": 14,
-          "name": "rakyll/hey",
-          "url": "https://github.com/rakyll/hey",
-          "description_en": "HTTP load generator, ApacheBench (ab) replacement",
-          "language": "Go",
-          "stars_total": 20454,
-          "stars_today": 31,
-          "description_zh": "HTTP 负载生成器，ApacheBench（ab）的替代品"
         }
       ]
     }
