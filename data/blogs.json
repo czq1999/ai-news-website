@@ -1,5 +1,49 @@
 [
   {
+    "id": "1150407474f5c6315c5788ae4333c8a9",
+    "title_en": "性能调优指南",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/index",
+    "published_at": "2026-10-29T18:05:52.977Z",
+    "fetched_at": "2026-10-29T18:05:52.977Z",
+    "title_zh": "性能调优指南",
+    "summary_zh": "Red Hat官方性能调优指南，系统讲解Linux系统性能分析方法与优化实践。内容涵盖CPU、内存、磁盘I/O与网络子系统的监控指标、瓶颈定位工具（如perf、tuned）及调优策略，并结合工作负载特征给出参数配置建议，适合运维与系统工程师提升服务器性能与资源利用率。",
+    "topic": "ops"
+  },
+  {
+    "id": "23b0cc139edfd9768e19e2b4f95f7240",
+    "title_en": "Linux运维必备命令与实战技巧全解析原创",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/weixin_34377919/article/details/93861783",
+    "published_at": "2026-10-29T18:05:50.458Z",
+    "fetched_at": "2026-10-29T18:05:50.458Z",
+    "title_zh": "Linux运维必备命令与实战技巧全解析",
+    "summary_zh": "系统梳理Linux运维核心命令与实战技巧，涵盖文件管理、进程监控、网络排查、日志分析与性能诊断等高频场景。文章结合真实运维案例讲解命令组合用法与排障思路，帮助运维工程师提升服务器管理效率与故障响应能力，适合作为日常运维的实用参考手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "03b298cf029a98c02cc870c18fb0720a",
+    "title_en": "25本Linux运维书籍，带你掌握服务器管理技巧（linux运维书籍）-宜宾勤盛利枫建站",
+    "source": "aqpgk.com",
+    "url": "http://aqpgk.com/article/ccdphjp.html",
+    "published_at": "2026-10-29T18:05:50.458Z",
+    "fetched_at": "2026-10-29T18:05:50.458Z",
+    "title_zh": "25本Linux运维书籍，带你掌握服务器管理技巧",
+    "summary_zh": "推荐25本Linux运维经典书籍，覆盖系统管理、Shell脚本、网络配置、性能调优、容器与自动化运维等方向。书单按入门到进阶分层，帮助读者构建完整的服务器管理知识体系，适合运维新人系统学习及资深工程师查漏补缺，作为长期技术成长的学习路线参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "60a9eabef305383ab88880accca61268",
+    "title_en": "星火医疗大模型V3.7登顶MedBench5.0评测，病历生成合理率提升至85%",
+    "source": "feng.ifeng.com",
+    "url": "https://feng.ifeng.com/c/8xRA1GtYTym",
+    "published_at": "2026-10-29T18:05:50.457Z",
+    "fetched_at": "2026-10-29T18:05:50.457Z",
+    "title_zh": "星火医疗大模型V3.7登顶MedBench5.0评测，病历生成合理率提升至85%",
+    "summary_zh": "星火医疗大模型V3.7在MedBench5.0评测中登顶，病历生成合理率提升至85%。该模型针对医疗场景优化，在病历结构化生成、医学语义理解与临床推理等任务上表现突出，显著降低医生文书负担。技术亮点包括领域数据增强训练、医学知识对齐与生成质量控制机制，为医疗AI落地提供可参考的工程实践路径。",
+    "topic": "ai"
+  },
+  {
     "id": "2e97bc67b630c0c6e2d050cd5cfd256d",
     "title_en": "谈谈CentOS发布内核安全补丁：修复Meltdown和Spectre漏洞",
     "source": "jb51.net",
@@ -2153,50 +2197,6 @@
     "fetched_at": "2026-10-28T11:52:06.227Z",
     "title_zh": "卡斯公司与国家知识产权局其他一审行政判决书",
     "summary_zh": "本判决书围绕卡斯公司诉国家知识产权局的一审行政案件展开，核心争议涉及专利行政审查决定的法律适用与事实认定。文书系统梳理了原告主张、被告答辩、证据采信及法院裁判理由，展示了专利行政诉讼中程序合法性与实体审查标准的司法审查路径，对专利代理师及企业知识产权管理者具有案例研究价值。",
-    "topic": "other"
-  },
-  {
-    "id": "4b16b1d72cc36eb905c6d2acc9bd5cdc",
-    "title_en": "星火医疗大模型V3.7登顶MedBench5.0评测，病历生成合理率提升至85%",
-    "source": "feng.ifeng.com",
-    "url": "https://feng.ifeng.com/c/8xR7eoWSdJS",
-    "published_at": "2026-10-28T11:52:06.226Z",
-    "fetched_at": "2026-10-28T11:52:06.226Z",
-    "title_zh": "星火医疗大模型V3.7登顶MedBench5.0评测，病历生成合理率提升至85%",
-    "summary_zh": "讯飞星火医疗大模型V3.7在MedBench5.0评测中登顶，病历生成合理率提升至85%。该版本在医疗文本理解、结构化病历生成与临床合理性方面显著优化，体现了领域大模型在医疗垂直场景的落地进展，对电子病历自动化、临床辅助决策等应用具有实际参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "95f497cc4b1c53afd241f5950b563745",
-    "title_en": "科大讯飞发布端云一体讯飞星火X2.6大模型",
-    "source": "financialnews.com.cn",
-    "url": "http://www.financialnews.com.cn/2026-10/23/content_459439.html",
-    "published_at": "2026-10-28T11:52:06.226Z",
-    "fetched_at": "2026-10-28T11:52:06.226Z",
-    "title_zh": "科大讯飞发布端云一体讯飞星火X2.6大模型",
-    "summary_zh": "科大讯飞发布端云一体讯飞星火X2.6大模型，采用端侧与云端协同架构，在保证推理能力的同时优化时延与隐私。该方案兼顾本地轻量推理与云端复杂任务处理，为移动端与边缘设备上的大模型部署提供了工程化路径，对端侧AI应用开发具有实践意义。",
-    "topic": "ai"
-  },
-  {
-    "id": "e4fb4d7e42a8459ca7119138b768a12a",
-    "title_en": "2026年清华大学未来产业创变者大会：聚焦前沿技术突破 助力科技成果转化",
-    "source": "finance.people.com.cn",
-    "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40820044.html",
-    "published_at": "2026-10-28T11:52:06.226Z",
-    "fetched_at": "2026-10-28T11:52:06.226Z",
-    "title_zh": "2026年清华大学未来产业创变者大会：聚焦前沿技术突破 助力科技成果转化",
-    "summary_zh": "2026年清华大学未来产业创变者大会聚焦前沿技术突破与科技成果转化，汇聚产学研力量探讨技术落地路径。大会围绕前沿产业趋势、技术商业化与创新生态展开，为技术团队与创业者提供成果转化思路，对理解前沿技术产业化方向具有一定参考价值。",
-    "topic": "other"
-  },
-  {
-    "id": "c4b386c4285d2f819e45bcc0ff93ac32",
-    "title_en": "王兴兴，最新发声",
-    "source": "finance.ifeng.com",
-    "url": "https://finance.ifeng.com/c/8xQiMXyb586",
-    "published_at": "2026-10-28T11:52:06.226Z",
-    "fetched_at": "2026-10-28T11:52:06.226Z",
-    "title_zh": "王兴兴，最新发声",
-    "summary_zh": "王兴兴就机器人及具身智能领域发表最新观点，涉及技术路线、产业趋势与商业化落地等话题。内容反映行业头部从业者对机器人技术演进与市场前景的判断，对关注具身智能、机器人工程化与产业化的技术读者具有参考价值。",
     "topic": "other"
   }
 ]
