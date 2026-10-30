@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-10-30",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：持久记忆、开源AI同事、编码代理设计语言与技能库成为亮点，另有紫微斗数排盘引擎等特色项目。",
+      "summary_zh": "今日趋势聚焦AI智能体生态：持久上下文记忆、开源AI同事与虚拟机、编码代理设计语言及技能库，另有紫微斗数排盘引擎等特色项目。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description_en": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
           "language": "Rust",
-          "stars_total": 96365,
+          "stars_total": 96736,
           "stars_today": 2299,
           "description_zh": "为你的编程智能体打造的设计词汇。用 polish 和 bolder 来引导，用 critique 和 audit 来审查，在 AI 垃圾内容上线前将其拦截。"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
           "language": "Python",
-          "stars_total": 51259,
+          "stars_total": 51555,
           "stars_today": 2282,
           "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/togg53192-cmd/jailbreaks",
           "description_en": "LIST OF ALL MY JAILBREAKS",
           "language": "",
-          "stars_total": 9950,
+          "stars_total": 10482,
           "stars_today": 2053,
           "description_zh": "我的所有越狱提示词列表"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/obra/superpowers",
           "description_en": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 309080,
+          "stars_total": 309265,
           "stars_today": 1255,
           "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/Renhuai123/ziwei-doushu",
           "description_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
           "language": "TypeScript",
-          "stars_total": 10749,
+          "stars_total": 11074,
           "stars_today": 1146,
           "description_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "stars_total": 105330,
+          "stars_total": 105794,
           "stars_today": 1145,
           "description_zh": "为每个智能体提供跨会话的持久上下文——捕获智能体在会话期间所做的一切，用 AI 进行压缩，并将相关上下文注入未来的会话中。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 32274,
+          "stars_total": 32517,
           "stars_today": 920,
           "description_zh": ""
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/milind-soni/OpenMausBot",
           "description_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
           "language": "TypeScript",
-          "stars_total": 7932,
+          "stars_total": 8277,
           "stars_today": 899,
           "description_zh": "开源 Grok Bot 替代方案，配备可供机器人使用的虚拟机"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 307006,
+          "stars_total": 307244,
           "stars_today": 882,
           "description_zh": "面向真正工程师的技能。直接来自我的 .agents 目录。"
         },
@@ -100,7 +100,7 @@
           "url": "https://github.com/JetBrains/thinkrail",
           "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
           "language": "TypeScript",
-          "stars_total": 6336,
+          "stars_total": 6456,
           "stars_today": 717,
           "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，它会根据你的工作方式自我定制——你所需的氛围"
         },
@@ -110,7 +110,7 @@
           "url": "https://github.com/CopilotKit/OpenBot",
           "description_en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
           "language": "TypeScript",
-          "stars_total": 8453,
+          "stars_total": 8607,
           "stars_today": 707,
           "description_zh": "开源 AI 同事，每个都拥有自己的计算机：浏览器、文件和工具，每个操作在执行前决定、执行后记录。可接入任意 AG-UI 智能体。"
         },
@@ -120,39 +120,39 @@
           "url": "https://github.com/lightpanda-io/browser",
           "description_en": "Lightpanda: the headless browser designed for AI and automation",
           "language": "Zig",
-          "stars_total": 37866,
+          "stars_total": 38088,
           "stars_today": 559,
           "description_zh": "Lightpanda：专为 AI 和自动化设计的无头浏览器"
         },
         {
           "rank": 13,
-          "name": "macro-inc/macro",
-          "url": "https://github.com/macro-inc/macro",
-          "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-          "language": "Rust",
-          "stars_total": 5690,
-          "stars_today": 379,
-          "description_zh": "Macro 是面向团队的统一工作空间：邮件、聊天、文档、任务、智能体、通话和 CRM —— 通过 @ 关联在一起，并共享 AI 记忆。"
-        },
-        {
-          "rank": 14,
           "name": "anthropics/skills",
           "url": "https://github.com/anthropics/skills",
           "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 184946,
+          "stars_total": 185105,
           "stars_today": 287,
           "description_zh": "Agent Skills 的公开仓库"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "expo/skills",
           "url": "https://github.com/expo/skills",
           "description_en": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
           "language": "Shell",
-          "stars_total": 3780,
+          "stars_total": 3829,
           "stars_today": 233,
           "description_zh": "一套用于处理 Expo 项目和 Expo 应用服务的 AI 智能体技能集合"
+        },
+        {
+          "rank": 15,
+          "name": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "language": "Rust",
+          "stars_total": 5774,
+          "stars_today": 117,
+          "description_zh": "Macro 是面向团队的统一工作空间：邮件、聊天、文档、任务、智能体、通话和 CRM —— 通过 @ 关联在一起，并共享 AI 记忆。"
         }
       ]
     },

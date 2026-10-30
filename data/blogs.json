@@ -1,5 +1,49 @@
 [
   {
+    "id": "9a8114cc90a4e091a2899e9c9c283e03",
+    "title_en": "Kubernetes 动手教程",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESdwHrOzAV4WOO5P8QWBC8ayCQqHLFT80mBS-Aql6y13gGHqdK_bmUjOfro-fydiNA2qHDgq4AInIBdSDFV7iwH_EQVbTIdCi1sPRm9OsZ0TPpt6scDpnsw5cpFvDJV3W9zYtKWR_xEPKNObUOsBIrjbOqCPxpY-A6",
+    "published_at": "2026-10-30T17:29:26.997Z",
+    "fetched_at": "2026-10-30T17:29:26.997Z",
+    "title_zh": "Kubernetes 动手教程",
+    "summary_zh": "本文是一份面向实践的 Kubernetes 入门教程，通过动手实验帮助读者掌握容器编排的核心概念与操作。内容涵盖集群搭建、Pod/Deployment/Service 等核心资源的创建与管理、kubectl 常用命令、配置与存储挂载、以及服务暴露与扩缩容等关键环节。教程强调边学边练，适合具备基础 Linux 与容器知识的开发者快速上手，理解 K8s 的声明式 API 与控制器模型，为后续在生产环境中部署和运维应用打下扎实基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "93ba5145115de380c480838618ccaf95",
+    "title_en": "生产级别的容器编排系统",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESVwHrOzAVV8V1QbZNNYEIoOqS45BtQRBRiE5lJX09qd1CGxWrwDUUKEuSh5yHFRUthIhG71ar6xWkhAegWd4upljsIXC0Qo7btQZcNPM9msY0r5-_bENLTQ",
+    "published_at": "2026-10-30T17:29:26.997Z",
+    "fetched_at": "2026-10-30T17:29:26.997Z",
+    "title_zh": "生产级别的容器编排系统",
+    "summary_zh": "本文介绍面向生产环境的容器编排系统，重点阐述其在集群调度、服务发现、滚动升级、故障自愈与弹性扩缩容等方面的能力。文章解析了声明式配置与控制器循环如何保障应用的高可用与一致性，并讨论多节点部署、资源配额、健康检查与滚动发布等生产实践要点。适合希望将容器化应用从开发环境推进到生产环境的工程师，理解编排系统在稳定性、可观测性与自动化运维方面的核心价值。",
+    "topic": "ops"
+  },
+  {
+    "id": "ddfa7d56ec8cfb1057603b001306e043",
+    "title_en": "StarCrossPortal/VulnsDB: CVE漏洞分析合集-持续更新",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESZQHrOzAVxrcL8PqXQy_Q3qzz8ymWE0xnk9DwIjdukekXcVKGJMYsgCHAihoSU4vtV7zGwY57gL0anzJLCyyGohoSXXB1tIybcpTxKtbXnc0Lcpyrs7zIjfnQXVN4-SAmmkQ7vFns",
+    "published_at": "2026-10-30T17:29:26.997Z",
+    "fetched_at": "2026-10-30T17:29:26.997Z",
+    "title_zh": "StarCrossPortal/VulnsDB：CVE 漏洞分析合集（持续更新）",
+    "summary_zh": "该项目是一个持续更新的 CVE 漏洞分析合集，汇集大量公开漏洞的成因剖析、影响范围与利用条件说明。内容通常涵盖漏洞触发路径、受影响组件版本、补丁对比与缓解措施，帮助安全研究人员和运维人员快速理解漏洞机理并评估风险。适合用于漏洞复现学习、资产排查与安全加固参考，是跟踪最新安全动态、提升漏洞分析与应急响应能力的实用资料库。",
+    "topic": "security"
+  },
+  {
+    "id": "57ba983c3070785cffb4ae62131b7488",
+    "title_en": "各位系統管理員要收工恐怕沒那麼容易！Linux 核心（Kernel） ...",
+    "source": "facebook.com",
+    "url": "https://www.facebook.com/hkepc/posts/%E6%B3%A8%E6%84%8F-%EF%B8%8F%E5%8F%88%E6%98%AF%E8%A9%B2%E6%AD%BB%E7%9A%84%E6%98%9F%E6%9C%9F%E4%BA%94%E5%90%84%E4%BD%8D%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1%E8%A6%81%E6%94%B6%E5%B7%A5%E6%81%90%E6%80%95%E6%B2%92%E9%82%A3%E9%BA%BC%E5%AE%B9%E6%98%93linux-%E6%A0%B8%E5%BF%83kernel%E7%9A%84-tcp-%E7%B6%B2%E8%B7%AF%E5%8D%94%E5%AE%9A%E5%A0%86%E7%96%8A%E9%A9%9A%E7%88%86%E9%87%8D%E5%A4%A7%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E7%B7%A8%E8%99%9F-cve-2026-98432/1571876474957579/",
+    "published_at": "2026-10-30T17:29:26.997Z",
+    "fetched_at": "2026-10-30T17:29:26.997Z",
+    "title_zh": "各位系统管理员要收工恐怕没那么容易！Linux 内核……",
+    "summary_zh": "本文讨论 Linux 内核相关问题给系统管理员带来的额外运维负担，涉及内核漏洞修复、补丁升级与重启策略等实际挑战。文章分析了内核更新对生产系统稳定性的影响，以及在不停机前提下完成安全修补的难点，并提示管理员需关注版本兼容性、回归测试与回滚预案。适合负责服务器维护的运维人员参考，帮助建立更稳健的内核补丁管理与变更流程，降低升级风险。",
+    "topic": "security"
+  },
+  {
     "id": "ef712a697297c618aa340a93d1c89484",
     "title_en": "AEM環境和最近的PHP漏洞(CVE-2026-109618",
     "source": "google.com",
@@ -2153,50 +2197,6 @@
     "fetched_at": "2026-10-28T11:52:06.228Z",
     "title_zh": "Linux服务器运维基本操作 - 阿里云认证",
     "summary_zh": "本文面向Linux运维初学者，系统梳理服务器日常运维的核心操作技能，涵盖用户与权限管理、文件系统操作、进程监控、网络配置及常用命令组合等基础内容。结合阿里云认证体系的知识框架，帮助读者建立规范化的运维操作习惯，为后续深入学习自动化运维、容器化部署及云平台管理打下扎实基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "1555885bb60e9bda78ecba0582c743c6",
-    "title_en": "从零开始自学《Linux运维工程师》",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
-    "published_at": "2026-10-28T11:52:06.228Z",
-    "fetched_at": "2026-10-28T11:52:06.228Z",
-    "title_zh": "从零开始自学《Linux运维工程师》",
-    "summary_zh": "本视频系列提供一条从零基础到Linux运维工程师的完整自学路径，内容覆盖Linux系统安装、命令行操作、Shell脚本编程、服务配置、网络管理及常见故障排查等核心模块。作者以循序渐进的方式拆解学习路线，强调动手实践与项目演练，适合希望系统转型运维岗位的初学者按图索骥地构建知识体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "4ffb0bb4b8725e41715dfa0ab9608345",
-    "title_en": "linux运维需要什么技能",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/19668592352",
-    "published_at": "2026-10-28T11:52:06.228Z",
-    "fetched_at": "2026-10-28T11:52:06.228Z",
-    "title_zh": "Linux运维需要什么技能",
-    "summary_zh": "本文系统梳理了Linux运维工程师所需的核心技能栈，从操作系统原理、Shell脚本、网络协议等基础能力，到Nginx、MySQL、Redis等常用服务的部署调优，再到Ansible、Docker、Kubernetes等自动化与容器化技术，并延伸至监控告警、日志分析及云平台运维。文章帮助读者建立清晰的技能成长地图，明确各阶段学习重点与职业发展方向。",
-    "topic": "ops"
-  },
-  {
-    "id": "8f19acb28c8910eac63efc38d92842f5",
-    "title_en": "mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
-    "source": "github.com",
-    "url": "https://github.com/mingongge/BestSRE",
-    "published_at": "2026-10-28T11:52:06.228Z",
-    "fetched_at": "2026-10-28T11:52:06.228Z",
-    "title_zh": "mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
-    "summary_zh": "该GitHub仓库汇集了一套完整的Linux运维与SRE成长路线图，按技能难度和职业阶段分层组织学习资源，涵盖系统基础、网络、Shell、数据库、中间件、自动化、容器编排、监控体系及云原生等主题。项目以'打怪升级'的趣味方式呈现进阶路径，并附有大量实战文档与工具推荐，适合运维从业者作为长期学习索引和知识查漏补缺的参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "0cdd9387f4c3ed9dd31d7c598d9a0db8",
-    "title_en": "Linux运维入门教程（☆建议收藏☆） 原创",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/younger_china/article/details/125736117",
-    "published_at": "2026-10-28T11:52:06.228Z",
-    "fetched_at": "2026-10-28T11:52:06.228Z",
-    "title_zh": "Linux运维入门教程（☆建议收藏☆） 原创",
-    "summary_zh": "本文是一篇面向零基础读者的Linux运维入门教程，内容涵盖Linux发行版选择、系统安装、常用命令、用户与权限管理、软件包管理、磁盘与文件系统、网络配置及基础服务搭建等。文章结构清晰、步骤详细，配有大量命令示例与操作截图，适合作为运维新手的第一份系统化学习资料收藏备查，快速建立Linux运维的基础操作能力。",
     "topic": "ops"
   }
 ]
