@@ -1,5 +1,71 @@
 [
   {
+    "id": "0ff4ee5749fdb454321b27c257af128e",
+    "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAV--cgOKy1FgQOi7rtMzaDIcu7LsbxgoVFfTWHGPvC6jSdR5_WsYyfhfSDpKTRtheDcp62ZVFOccb01WhkJLo7zn6YUCa7lZ9ViVZ-DhCYoeaXsLVBHjzb7dOjIWI6cs51PJaO47z-QYu1",
+    "published_at": "2026-10-30T21:49:00.303Z",
+    "fetched_at": "2026-10-30T21:49:00.303Z",
+    "title_zh": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
+    "summary_zh": "本文针对WordPress Core的高危漏洞CVE-2026-60137展开分析，梳理漏洞成因、影响范围与利用条件，并给出检测与修复建议。文章从代码层面剖析风险点，帮助安全人员与站点管理员理解攻击路径，及时采取加固措施，降低被利用的风险。",
+    "topic": "security"
+  },
+  {
+    "id": "64351821d8cf6647e3b514aa3d291c19",
+    "title_en": "Kubernetes 动手教程",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESdwHrOzAVuQGE_yPD8zLnQggnQ2RjLc1uy3pUey-AyFFpzILvkDI34wjpymgUQUhVst0cVEskg_CAFcdunJz4vs7S0xpZVvmTqLPuvo6HzeGujd90NSl_kyA3zPH72DXpMoqtsEBUwz87QOocvRQUywYl0ngBaf5Z",
+    "published_at": "2026-10-30T21:49:00.302Z",
+    "fetched_at": "2026-10-30T21:49:00.302Z",
+    "title_zh": "Kubernetes 动手教程",
+    "summary_zh": "本教程以动手实践为主线，带领读者逐步掌握Kubernetes的核心概念与操作，包括Pod、Deployment、Service、配置管理与存储等。通过可复现的实验步骤，帮助初学者快速搭建集群并理解容器编排的工作机制，为后续深入运维与开发打下实践基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "e3c099e6bdc4a83b635bdd6ef1c7d4ca",
+    "title_en": "Intel® Geti™ Software",
+    "source": "intel.cn",
+    "url": "https://www.intel.cn/content/www/cn/zh/developer/tools/tiber/edge-platform/model-builder.html",
+    "published_at": "2026-10-30T21:49:00.301Z",
+    "fetched_at": "2026-10-30T21:49:00.301Z",
+    "title_zh": "Intel® Geti™ 软件",
+    "summary_zh": "Intel Geti是一款面向计算机视觉的AI开发平台，旨在降低模型构建门槛。它支持少量样本标注、自动化训练与迭代优化，帮助团队快速完成从数据到部署的闭环。文章介绍其核心功能与工作流，展示如何借助该平台高效构建和调优视觉模型，提升AI项目的落地效率。",
+    "topic": "ai"
+  },
+  {
+    "id": "a33b97c0ce05715826f3770ab8c49d65",
+    "title_en": "Kubernetes集群的运维与管理经验，收藏 - 腾讯云",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAVS5_i3f8KMamRNWT-vZ-tvtFI7mJrtoJY9lHGJ-E9MvaND-GNlxhXSY9K1DVDTvXOKosJihG4NOAMx6QCT-ISIiksbRe0LEZoW90yApxe_5SztFTf3gE8YqPdTVvy7swnOu7KPD3Lsnrb",
+    "published_at": "2026-10-30T21:49:00.301Z",
+    "fetched_at": "2026-10-30T21:49:00.301Z",
+    "title_zh": "Kubernetes集群的运维与管理经验，收藏 - 腾讯云",
+    "summary_zh": "本文总结Kubernetes集群运维与管理的实战经验，涵盖集群部署、节点管理、资源调度、监控告警与故障排查等关键环节。文章结合生产环境中的常见问题，分享稳定性保障与性能优化的实践方法，适合运维工程师和平台开发者参考，以提升集群的可维护性与可靠性。",
+    "topic": "ops"
+  },
+  {
+    "id": "1555885bb60e9bda78ecba0582c743c6",
+    "title_en": "从零开始自学《Linux运维工程师》",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
+    "published_at": "2026-10-30T21:48:56.854Z",
+    "fetched_at": "2026-10-30T21:48:56.854Z",
+    "title_zh": "从零开始自学《Linux运维工程师》",
+    "summary_zh": "该系列教程面向零基础学习者，系统梳理Linux运维工程师的成长路径，涵盖Linux基础命令、系统管理、Shell脚本、服务部署与常见故障排查等内容。通过循序渐进的实操讲解，帮助读者建立完整的运维知识体系，为从事服务器管理与自动化运维工作打下扎实基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "e12c3646f75cce8af56afa83831da428",
+    "title_en": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1919338285160965135",
+    "published_at": "2026-10-30T21:48:56.853Z",
+    "fetched_at": "2026-10-30T21:48:56.853Z",
+    "title_zh": "从原理到实践：万字长文深入浅出教你优雅开发复杂AI Agent",
+    "summary_zh": "本文以万字篇幅系统讲解复杂AI Agent的开发方法，从核心原理出发，剖析Agent的架构设计、任务规划、工具调用与记忆机制，并结合实际案例演示如何优雅地组织代码与流程。文章兼顾理论深度与工程实践，适合希望深入理解Agent构建范式并落地复杂业务场景的开发者阅读。",
+    "topic": "ai"
+  },
+  {
     "id": "9a8114cc90a4e091a2899e9c9c283e03",
     "title_en": "Kubernetes 动手教程",
     "source": "google.com",
@@ -2131,72 +2197,6 @@
     "fetched_at": "2026-10-28T11:52:07.988Z",
     "title_zh": "业务系统容器化部署的经验与注意事项 - xcbeyond",
     "summary_zh": "本文结合真实业务场景，分享业务系统从传统部署向容器化迁移的实践经验与注意事项，涵盖镜像构建优化、配置与密钥管理、存储持久化、网络方案选型、健康检查、资源限制及滚动发布策略等关键环节。作者重点剖析了容器化过程中常见的坑点与应对方案，强调可观测性与回滚机制的重要性，为计划落地容器化部署的团队提供可操作的参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "5ab1e6215877e4d4b80ec97f52c6911e",
-    "title_en": "10｜自动化的运维管理：探究Kubernetes工作机制的奥秘",
-    "source": "time.geekbang.org",
-    "url": "https://time.geekbang.org/column/article/529800",
-    "published_at": "2026-10-28T11:52:07.988Z",
-    "fetched_at": "2026-10-28T11:52:07.988Z",
-    "title_zh": "10｜自动化的运维管理：探究Kubernetes工作机制的奥秘",
-    "summary_zh": "本文深入剖析Kubernetes实现自动化运维管理的底层工作机制，围绕声明式API、控制器模式、调谐循环等核心设计理念展开，讲解Deployment、ReplicaSet等控制器如何协同实现期望状态的自动收敛。文章帮助读者从原理层面理解K8s的自愈、扩缩容与滚动更新能力，从而更高效地进行集群运维与故障定位。",
-    "topic": "ops"
-  },
-  {
-    "id": "f91f0f1d6508b6bd2167a25d7c3b9679",
-    "title_en": "什么是Docker？您的容器化指南[2024]",
-    "source": "atlassian.com",
-    "url": "https://www.atlassian.com/zh/microservices/microservices-architecture/docker",
-    "published_at": "2026-10-28T11:52:07.988Z",
-    "fetched_at": "2026-10-28T11:52:07.988Z",
-    "title_zh": "什么是Docker？您的容器化指南2024",
-    "summary_zh": "本文是2024年更新的Docker容器化入门指南，系统介绍Docker的核心概念，包括镜像、容器、仓库与Dockerfile，讲解容器与虚拟机的差异、镜像分层机制及常用命令实践。文章还涵盖容器网络、数据卷、镜像构建最佳实践与安全注意事项，帮助开发与运维人员快速理解容器化原理并掌握将应用打包部署为容器的基本流程。",
-    "topic": "ops"
-  },
-  {
-    "id": "9fca2260871733bf1c40ec227deedb75",
-    "title_en": "最高人民法院、最高人民检察院关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释",
-    "source": "court.gov.cn",
-    "url": "https://www.court.gov.cn/fabu/xiangqing/3085.html",
-    "published_at": "2026-10-28T11:52:07.988Z",
-    "fetched_at": "2026-10-28T11:52:07.988Z",
-    "title_zh": "最高人民法院、最高人民检察院关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释",
-    "summary_zh": "该司法解释由两高联合发布，明确了危害计算机信息系统安全刑事案件的定罪量刑标准，涵盖非法侵入、破坏计算机信息系统、非法获取数据等罪名的适用法律问题。文中对“情节严重”“后果特别严重”等关键要件给出量化认定标准，并界定了单位犯罪与共同犯罪的追责规则。对安全从业者而言，该解释是理解攻击行为法律边界、评估渗透测试与漏洞研究合规风险的重要依据，也是企业安全合规体系建设中不可忽视的法律基线。",
-    "topic": "security"
-  },
-  {
-    "id": "e04b3ebb7b9072b30ef90bbd3ab772ba",
-    "title_en": "最高人民法院、最高人民检察院关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释",
-    "source": "flk.npc.gov.cn",
-    "url": "https://flk.npc.gov.cn/detail?doc=b24cf9c300d7996e41f2f6c3cab739f5bfc98ab29c9f85474200049ce6afd0db",
-    "published_at": "2026-10-28T11:52:07.988Z",
-    "fetched_at": "2026-10-28T11:52:07.988Z",
-    "title_zh": "最高人民法院、最高人民检察院关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释",
-    "summary_zh": "该文件为国家法律法规数据库收录的两高司法解释，系统规定了危害计算机信息系统安全犯罪的构成要件与量刑标准。内容涉及非法侵入计算机信息系统罪、破坏计算机信息系统罪、非法获取计算机信息系统数据罪等的司法认定，重点阐释了数据数量、经济损失、系统影响等量化标准。对安全研究人员和白帽黑客而言，该解释划定了漏洞挖掘、渗透测试与安全评估的法律红线，是判断技术行为合规性的核心参考依据。",
-    "topic": "security"
-  },
-  {
-    "id": "3669871f2db24c005b243c5427784d01",
-    "title_en": "太极计算机股份有限公司与网神信息技术（北京）股份有限公司买卖合同纠纷一案一审民事判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=16f9d42309764cbb9178a7cb0010c99a",
-    "published_at": "2026-10-28T11:52:07.988Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "太极计算机股份有限公司与网神信息技术（北京）股份有限公司买卖合同纠纷一审民事判决书",
-    "summary_zh": "本判决书披露了太极计算机与网神信息之间因买卖合同引发的民事纠纷一审结果，涉及安全产品采购、交付验收及款项支付等争议焦点。案件反映了网络安全设备供应链中合同履约风险的典型形态，包括产品交付标准、验收条件与违约责任认定。对企业安全采购与合规管理具有参考价值，提示在安全产品集成项目中需明确技术规格、验收流程与付款节点，以降低供应链法律风险。",
-    "topic": "other"
-  },
-  {
-    "id": "3f7de4b7b7346aa672e55e0c19c17638",
-    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
-    "source": "edu.aliyun.com",
-    "url": "https://edu.aliyun.com/course/314200/",
-    "published_at": "2026-10-28T11:52:06.228Z",
-    "fetched_at": "2026-10-28T11:52:06.228Z",
-    "title_zh": "Linux服务器运维基本操作 - 阿里云认证",
-    "summary_zh": "本文面向Linux运维初学者，系统梳理服务器日常运维的核心操作技能，涵盖用户与权限管理、文件系统操作、进程监控、网络配置及常用命令组合等基础内容。结合阿里云认证体系的知识框架，帮助读者建立规范化的运维操作习惯，为后续深入学习自动化运维、容器化部署及云平台管理打下扎实基础。",
     "topic": "ops"
   }
 ]
