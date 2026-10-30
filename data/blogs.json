@@ -1,5 +1,49 @@
 [
   {
+    "id": "ef712a697297c618aa340a93d1c89484",
+    "title_en": "AEM環境和最近的PHP漏洞(CVE-2026-109618",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESkwEB6zswFa06V408yG-GUtdUj_E0DorWbi0Sz869VnRQW5wyTFEQILI1tU_NgrVwH501lpMlZsH-GHsjow6YQkm5Ez8uywAZ3mkOX6lW3bJ33Nlo2jXJ5-cukZBmmgH9HH9rZgGsN88nQ_ZE6i0VLMyyLZoxFXMwe4wG6rLRi--b-NEBXpb0O-trqC0zC3hlRYEnIxs",
+    "published_at": "2026-10-30T11:53:41.518Z",
+    "fetched_at": "2026-10-30T11:53:41.518Z",
+    "title_zh": "AEM环境与近期PHP漏洞（CVE-2026-109618）",
+    "summary_zh": "本文聚焦Adobe Experience Manager（AEM）环境中的安全问题，结合近期披露的PHP相关漏洞CVE-2026-109618进行分析。内容可能涉及漏洞成因、影响范围、攻击面评估及修复加固建议，帮助安全与运维人员识别AEM部署中的风险并制定防护策略。",
+    "topic": "security"
+  },
+  {
+    "id": "aed2d07bbd0320d12a7e175d26988c24",
+    "title_en": "Kubernetes 动手教程",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESdwHrOzAVZB1eLaGWl5v3xVJg2LoIu-5_aNRIKf8au0mXwlTMdb28-Vf6LlEJgjNvzKMhh6xGhDIPFpj9DBsq2XGK14w5Lrv0IQ6jKxL3q2M94DmIAnlytMSkHwJMkq7PyBhaKtXc-YTl0hTRO6MkWxEYbIrHC-qb",
+    "published_at": "2026-10-30T11:53:41.517Z",
+    "fetched_at": "2026-10-30T11:53:41.517Z",
+    "title_zh": "Kubernetes动手教程",
+    "summary_zh": "该教程以动手实践为主线，引导读者逐步掌握Kubernetes核心概念与操作，包括Pod、Deployment、Service、ConfigMap等资源的创建与管理，以及集群部署、滚动更新和故障排查。内容注重实操演练，适合具备容器基础的开发者与运维人员快速上手K8s生产应用。",
+    "topic": "ops"
+  },
+  {
+    "id": "796c0b122a6205d9568b0ae06abf04fb",
+    "title_en": "usqkvcb.cn - 方舟如何租服务器· 达内服务器安全学习· 虚拟 ...",
+    "source": "usqkvcb.cn",
+    "url": "https://usqkvcb.cn/",
+    "published_at": "2026-10-30T11:53:38.914Z",
+    "fetched_at": "2026-10-30T11:53:38.914Z",
+    "title_zh": "usqkvcb.cn - 方舟如何租服务器·达内服务器安全学习·虚拟化技术",
+    "summary_zh": "该页面围绕服务器租赁与安全学习展开，涉及方舟平台服务器租用流程、达内服务器安全课程内容以及虚拟化相关技术。内容偏向入门级运维与安全培训，适合初学者了解服务器资源获取、基础安全防护与虚拟化环境搭建，但技术深度有限，缺乏生产级实践细节。",
+    "topic": "ops"
+  },
+  {
+    "id": "fd50b894264a5ea1e15529a0a038cc50",
+    "title_en": "高性能Linux服务器构建实战：运维监控、性能调优与集群应用",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESxwIB6zswFZ8Dq5AOVSEXborRSLL40aUHk_-G7gdQuzbuaQGwlfiUFfwqyTInFIPzVswIuWE1Fp_UnZchK5LFgvl_vhyIbt0UBaAtTFLv5qx_ghxZZiDLsYeCpX6z4JTb4HHbJGgpDPdlECEnfWNNGVEvSTRapN20JGnkvGJ119Hhajy1j6uxuDKh7ZAz_pCGOzgGWTS7rHS66FIRpONGQFh-2mj1yMjVy0utv7EwKs5dmvJDg8QCXDAuNErfJX__76bC5btRT_D8BQDbvbLiArb5UFjBtIK6I9_xKv8-ovJpd9HYtZeBTlGcPbBNfRB_XqZDtvItQnEOGsVnYTF_0v2WYOTbGfREZg9AwmVBrSvjWDCQp3Ygo6WIS-R2papOf6INXYvvZC_8gZHbmLJI-kBikCKxm1mM-SrJVa84w_6oUBvOhBVKOJw",
+    "published_at": "2026-10-30T11:53:38.914Z",
+    "fetched_at": "2026-10-30T11:53:38.914Z",
+    "title_zh": "高性能Linux服务器构建实战：运维监控、性能调优与集群应用",
+    "summary_zh": "本书系统讲解高性能Linux服务器的构建方法，涵盖运维监控体系搭建、系统性能调优策略以及集群应用部署。内容涉及监控指标采集、内核参数优化、负载均衡与高可用集群配置，强调实战落地，适合运维工程师提升生产环境服务器性能与稳定性。",
+    "topic": "ops"
+  },
+  {
     "id": "66be74fcd8aebff279bb03b246258976",
     "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
     "source": "google.com",
@@ -2154,49 +2198,5 @@
     "title_zh": "Linux运维入门教程（☆建议收藏☆） 原创",
     "summary_zh": "本文是一篇面向零基础读者的Linux运维入门教程，内容涵盖Linux发行版选择、系统安装、常用命令、用户与权限管理、软件包管理、磁盘与文件系统、网络配置及基础服务搭建等。文章结构清晰、步骤详细，配有大量命令示例与操作截图，适合作为运维新手的第一份系统化学习资料收藏备查，快速建立Linux运维的基础操作能力。",
     "topic": "ops"
-  },
-  {
-    "id": "d45a543049e00437e1818089f3664f9b",
-    "title_en": "盘点Linux服务器运维管理面板",
-    "source": "juejin.cn",
-    "url": "https://juejin.cn/post/7439898539280793637",
-    "published_at": "2026-10-28T11:52:06.228Z",
-    "fetched_at": "2026-10-28T11:52:06.228Z",
-    "title_zh": "盘点Linux服务器运维管理面板",
-    "summary_zh": "本文横向盘点当前主流的Linux服务器运维管理面板工具，对比其功能特性、部署方式、资源占用、安全机制及适用场景，涵盖Web化管理、监控告警、文件管理、数据库运维、容器管理等能力维度。文章帮助运维人员根据团队规模与业务需求选择合适的面板方案，同时提示面板类工具在安全加固与权限控制方面需要注意的风险点。",
-    "topic": "ops"
-  },
-  {
-    "id": "cbf874313f098fb52130c678f0bdb006",
-    "title_en": "Linux 运维手册 - Chang Luo",
-    "source": "luochang.ink",
-    "url": "https://www.luochang.ink/posts/linux_handbook/",
-    "published_at": "2026-10-28T11:52:06.228Z",
-    "fetched_at": "2026-10-28T11:52:06.228Z",
-    "title_zh": "Linux 运维手册 - Chang Luo",
-    "summary_zh": "本手册是一份体系化的Linux运维知识文档，内容覆盖系统管理、常用命令速查、服务配置、网络排障、性能调优、安全加固及自动化脚本等运维日常场景。作者以手册形式组织内容，强调实用性与可查阅性，适合运维工程师作为日常工作的参考工具书，也可供开发人员补充服务器侧的操作知识，提升跨角色协作效率。",
-    "topic": "ops"
-  },
-  {
-    "id": "d850b80f4ad75fe47ecfe8eb0d37b4ed",
-    "title_en": "学习AI Agent 开发的中文资源：值得读的教程和英文一手文档",
-    "source": "ssdnodes.com",
-    "url": "https://www.ssdnodes.com/learn/lang/zh-hans/chinese-resources-for-learning-ai-agents",
-    "published_at": "2026-10-28T11:52:06.227Z",
-    "fetched_at": "2026-10-28T11:52:06.227Z",
-    "title_zh": "学习AI Agent开发的中文资源：值得读的教程和英文一手文档",
-    "summary_zh": "文章整理学习AI Agent开发的中文教程与英文一手文档资源，覆盖Agent框架、工具调用、RAG与多智能体等主题。内容帮助开发者建立系统学习路径，兼顾中文入门材料与官方文档的深度阅读，对Agent开发者的技术选型与进阶具有实用参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "4ba7d29e2834cc3cde9695189c481b95",
-    "title_en": "深入浅出LangChain AI Agent智能体开发教程（一）",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1928437328675841858",
-    "published_at": "2026-10-28T11:52:06.227Z",
-    "fetched_at": "2026-10-28T11:52:06.227Z",
-    "title_zh": "深入浅出LangChain AI Agent智能体开发教程（一）",
-    "summary_zh": "该教程系列第一篇深入浅出讲解基于LangChain的AI Agent开发，介绍核心组件、链式调用与工具集成等基础概念。内容以代码实践为主，帮助开发者快速上手LangChain构建智能体应用，对理解Agent开发框架与工程落地具有入门指导价值。",
-    "topic": "ai"
   }
 ]
