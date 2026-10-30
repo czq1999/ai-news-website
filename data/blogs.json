@@ -1,5 +1,60 @@
 [
   {
+    "id": "66be74fcd8aebff279bb03b246258976",
+    "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAVPMMP5gCBUsca8YnpljzfH-rfPHuQ15Owvvo2kwzaJmrefuqLZ_3H6nz0ucg9loR9BifrDk3jhuU6NLh-wTY6zuBi9gnPL2oN5eqoPthqn9ETXZX57F5CY8a5V3GKH8xuRZQNZKjJKS2R",
+    "published_at": "2026-10-30T03:37:23.021Z",
+    "fetched_at": "2026-10-30T03:37:23.021Z",
+    "title_zh": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
+    "summary_zh": "本文针对WordPress Core高危漏洞CVE-2026-60137进行深入分析，剖析漏洞成因、触发条件与潜在攻击面，评估其对站点安全的影响范围。文章结合腾讯云安全实践，提供漏洞检测方法与修复建议，帮助站点管理员快速识别风险并完成安全加固，降低被利用攻击的可能性。",
+    "topic": "security"
+  },
+  {
+    "id": "4f0113f720fa5664ea944462600c5cca",
+    "title_en": "Kubernetes 动手教程",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESdwHrOzAV48KJhuqCCkyFjQlF35WZhW5WbfF_C2KMzQmXmX4NyZ3OVs7aV1USsG-u8mfViISmyAV18IEVIcTm0HhHBRtcnpW3dljnU6QC7C6-tZ9gmklZPkQB_SbXDAFve80WXbcx2NT56Yv3a1-GbrO8W1T9b-Kn",
+    "published_at": "2026-10-30T03:37:23.020Z",
+    "fetched_at": "2026-10-30T03:37:23.020Z",
+    "title_zh": "Kubernetes 动手教程",
+    "summary_zh": "本教程以动手实践为核心，系统讲解Kubernetes核心概念与操作流程，涵盖Pod、Deployment、Service、ConfigMap等关键资源的创建与管理。通过逐步引导的方式，帮助读者在真实集群环境中完成应用部署、扩缩容与滚动更新等任务，适合具备基础容器知识、希望快速上手K8s的开发者与运维人员。",
+    "topic": "ops"
+  },
+  {
+    "id": "17d2943e1a6ed153011b93940a747bad",
+    "title_en": "掌握K8s，解锁Linux集群最佳实践：高效运维之道揭秘",
+    "source": "m.sarr.cn",
+    "url": "http://m.sarr.cn/wenku/rvcbd/3vk9ZYaP5r/",
+    "published_at": "2026-10-30T03:37:23.020Z",
+    "fetched_at": "2026-10-30T03:37:23.020Z",
+    "title_zh": "掌握K8s，解锁Linux集群最佳实践：高效运维之道揭秘",
+    "summary_zh": "本文围绕Kubernetes在Linux集群环境中的最佳实践展开，深入讲解集群架构设计、资源调度优化、节点管理与高可用部署等核心运维要点。内容涵盖监控告警体系搭建、故障排查思路及性能调优策略，帮助运维工程师构建稳定高效的容器化基础设施，提升集群整体可靠性与资源利用率。",
+    "topic": "ops"
+  },
+  {
+    "id": "e4fb4d7e42a8459ca7119138b768a12a",
+    "title_en": "2026年清华大学未来产业创变者大会：聚焦前沿技术突破 助力科技成果转化",
+    "source": "finance.people.com.cn",
+    "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40820044.html",
+    "published_at": "2026-10-30T03:37:20.685Z",
+    "fetched_at": "2026-10-30T03:37:20.685Z",
+    "title_zh": "2026年清华大学未来产业创变者大会：聚焦前沿技术突破 助力科技成果转化",
+    "summary_zh": "清华大学举办2026年未来产业创变者大会，汇聚学术界与产业界力量，围绕前沿技术突破与科技成果转化展开深入探讨。大会重点关注从实验室研究到产业化落地的关键路径，涉及技术孵化、产学研协同、资本对接等核心议题，为科研团队与产业方搭建交流平台，推动创新技术加速走向市场应用。",
+    "topic": "other"
+  },
+  {
+    "id": "4b16b1d72cc36eb905c6d2acc9bd5cdc",
+    "title_en": "星火医疗大模型V3.7登顶MedBench5.0评测，病历生成合理率提升至85%",
+    "source": "feng.ifeng.com",
+    "url": "https://feng.ifeng.com/c/8xR7eoWSdJS",
+    "published_at": "2026-10-30T03:37:20.685Z",
+    "fetched_at": "2026-10-30T03:37:20.685Z",
+    "title_zh": "星火医疗大模型V3.7登顶MedBench5.0评测，病历生成合理率提升至85%",
+    "summary_zh": "讯飞星火医疗大模型V3.7在MedBench5.0医学评测中取得榜首成绩，其病历生成合理率提升至85%，较前代显著优化。该模型在医学知识理解、临床推理与文本生成等维度表现突出，尤其在电子病历自动生成场景中展现出较高的准确性与规范性，为医疗AI辅助诊疗与文档自动化提供了更强的技术支撑。",
+    "topic": "ai"
+  },
+  {
     "id": "1150407474f5c6315c5788ae4333c8a9",
     "title_en": "性能调优指南",
     "source": "docs.redhat.com",
@@ -2143,60 +2198,5 @@
     "title_zh": "深入浅出LangChain AI Agent智能体开发教程（一）",
     "summary_zh": "该教程系列第一篇深入浅出讲解基于LangChain的AI Agent开发，介绍核心组件、链式调用与工具集成等基础概念。内容以代码实践为主，帮助开发者快速上手LangChain构建智能体应用，对理解Agent开发框架与工程落地具有入门指导价值。",
     "topic": "ai"
-  },
-  {
-    "id": "5b3545e70ae27dfce68bd0c434793297",
-    "title_en": "2026年10大Agent框架深度横评| AI Agent Framework选型指南",
-    "source": "youtube.com",
-    "url": "https://www.youtube.com/watch?v=ugVQtByRqA0",
-    "published_at": "2026-10-28T11:52:06.227Z",
-    "fetched_at": "2026-10-28T11:52:06.227Z",
-    "title_zh": "2026年10大Agent框架深度横评| AI Agent Framework选型指南",
-    "summary_zh": "视频对2026年十大AI Agent框架进行深度横评，从功能特性、扩展性、生态与适用场景等维度对比分析，并给出选型建议。内容帮助开发者根据项目需求评估不同Agent框架的优劣，对Agent技术选型与架构决策具有实用参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "2b547e62581cfd0e19f0448a68ad56ac",
-    "title_en": "AI时代是使用通用AI、引入专用AI代理产品还是自主开发 - mign",
-    "source": "mign.io",
-    "url": "https://www.mign.io/zh/articles/58226/",
-    "published_at": "2026-10-28T11:52:06.227Z",
-    "fetched_at": "2026-10-28T11:52:06.227Z",
-    "title_zh": "AI时代是使用通用AI、引入专用AI代理产品还是自主开发",
-    "summary_zh": "文章探讨企业在AI时代的技术路线选择：使用通用AI、引入专用AI代理产品，还是自主开发。内容从成本、可控性、数据隐私与业务适配等角度分析三种路径的权衡，为技术团队在AI落地策略与架构决策上提供实践参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "265b7228834d73995196f03cf1645ead",
-    "title_en": "饶宾期与国家知识产权局其他一审行政判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=81b87e4ba2ce4a8cb63facf90009e5bb",
-    "published_at": "2026-10-28T11:52:06.227Z",
-    "fetched_at": "2026-10-28T11:52:06.227Z",
-    "title_zh": "饶宾期与国家知识产权局其他一审行政判决书",
-    "summary_zh": "本文是一份涉及专利权无效宣告请求的一审行政判决书，原告饶宾期不服国家知识产权局作出的专利无效决定而提起诉讼。文中详细记录了案件事实、双方争议焦点、证据质证过程以及法院对专利创造性、新颖性等核心法律要件的认定逻辑。对研究专利行政诉讼实务、理解专利无效审查标准及司法审查边界具有参考价值。",
-    "topic": "other"
-  },
-  {
-    "id": "2d2e6c91ef094218e554ced8b96f4acf",
-    "title_en": "重庆某公司、某政府、董某发明专利权无效行政纠纷一案",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/search?caseNumber=%282025%291253",
-    "published_at": "2026-10-28T11:52:06.227Z",
-    "fetched_at": "2026-10-28T11:52:06.227Z",
-    "title_zh": "重庆某公司、某政府、董某发明专利权无效行政纠纷一案",
-    "summary_zh": "本案为发明专利权无效行政纠纷，涉及重庆某公司、某政府及董某三方主体。判决书完整呈现了专利无效宣告的行政审查与司法审查衔接流程，重点分析了涉案发明专利的技术方案比对、权利要求解释及无效理由的成立与否。对理解专利权无效诉讼中当事人资格、审查标准及行政诉讼程序具有实务参考意义。",
-    "topic": "other"
-  },
-  {
-    "id": "2a3a38c7fa6e4199a57afb82b38f25e7",
-    "title_en": "卡斯公司与国家知识产权局其他一审行政判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=f3faf930373f4cf5913fab33000b9e15",
-    "published_at": "2026-10-28T11:52:06.227Z",
-    "fetched_at": "2026-10-28T11:52:06.227Z",
-    "title_zh": "卡斯公司与国家知识产权局其他一审行政判决书",
-    "summary_zh": "本判决书围绕卡斯公司诉国家知识产权局的一审行政案件展开，核心争议涉及专利行政审查决定的法律适用与事实认定。文书系统梳理了原告主张、被告答辩、证据采信及法院裁判理由，展示了专利行政诉讼中程序合法性与实体审查标准的司法审查路径，对专利代理师及企业知识产权管理者具有案例研究价值。",
-    "topic": "other"
   }
 ]

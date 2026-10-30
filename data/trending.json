@@ -1,6 +1,122 @@
 {
   "days": [
     {
+      "date": "2026-10-30",
+      "summary_zh": "今日GitHub趋势聚焦AI智能体生态：个性化终身辅导、智能体技能框架、持久化上下文记忆、本地AI队友工作区及开源AI同事等工具涌现，强调智能体协作与工程化落地。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description_en": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars_total": 95628,
+          "stars_today": 2870,
+          "description_zh": "为你的编程智能体打造的设计词汇。用 polish 和 bolder 来引导，用 critique 和 audit 来审查，在 AI 垃圾内容上线前将其拦截。"
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars_total": 50424,
+          "stars_today": 1930,
+          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
+        },
+        {
+          "rank": 3,
+          "name": "togg53192-cmd/jailbreaks",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "description_en": "LIST OF ALL MY JAILBREAKS",
+          "language": "",
+          "stars_total": 9268,
+          "stars_today": 1594,
+          "description_zh": "我的所有越狱提示词列表"
+        },
+        {
+          "rank": 4,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars_total": 7586,
+          "stars_today": 1199,
+          "description_zh": "开源 Grok Bot 替代方案，配备可供机器人使用的虚拟机"
+        },
+        {
+          "rank": 5,
+          "name": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "description_en": "",
+          "language": "",
+          "stars_total": 12312,
+          "stars_today": 1187,
+          "description_zh": ""
+        },
+        {
+          "rank": 6,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars_total": 6093,
+          "stars_today": 1117,
+          "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，它会根据你的工作方式自我定制——你所需的氛围"
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 308694,
+          "stars_today": 1034,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 8,
+          "name": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description_en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "language": "TypeScript",
+          "stars_total": 3951,
+          "stars_today": 709,
+          "description_zh": "一个本地优先的桌面工作空间，用于持久化的 AI 队友。通过专属工作空间、任务队列、文件共享、浏览器控制和智能体间协作来运行 Codex、Claude 和 Grok。"
+        },
+        {
+          "rank": 9,
+          "name": "Donchitos/Claude-Code-Game-Studios",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "description_en": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+          "language": "Shell",
+          "stars_total": 29386,
+          "stars_today": 353,
+          "description_zh": "将 Claude Code 打造成完整的游戏开发工作室——49 个 AI 智能体、72 项工作流技能，以及一个映射真实工作室层级的完整协调系统。"
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars_total": 104937,
+          "stars_today": 336,
+          "description_zh": "为每个智能体提供跨会话的持久上下文——捕获智能体在会话期间所做的一切，用 AI 进行压缩，并将相关上下文注入未来的会话中。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
+        },
+        {
+          "rank": 11,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description_en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars_total": 8233,
+          "stars_today": 247,
+          "description_zh": "开源 AI 同事，每个都拥有自己的计算机：浏览器、文件和工具，每个操作在执行前决定、执行后记录。可接入任意 AG-UI 智能体。"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "summary_zh": "今日GitHub趋势聚焦AI智能体生态：个性化教学、持久记忆、多智能体协作与设计技能框架成为亮点。",
       "projects": [
@@ -3670,182 +3786,6 @@
           "language": "C++",
           "stars_total": 6847,
           "stars_today": 112,
-          "description_zh": "用于 Apple 应用开发的 Firebase SDK"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：OpenShell提供安全运行时，多智能体协作与上下文优化工具涌现，语音克隆、短视频生成等本地化AI应用亮眼。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 50297,
-          "stars_today": 3481,
-          "description_zh": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
-        },
-        {
-          "rank": 2,
-          "name": "NVIDIA/OpenShell",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-          "language": "Rust",
-          "stars_total": 12424,
-          "stars_today": 1280,
-          "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
-        },
-        {
-          "rank": 3,
-          "name": "t8y2/dbx",
-          "url": "https://github.com/t8y2/dbx",
-          "description_en": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-          "language": "Rust",
-          "stars_total": 23116,
-          "stars_today": 1133,
-          "description_zh": "25 MB 轻量级跨平台数据库客户端，支持 100+ 数据库，包括 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server 和达梦。内置 AI、MCP Server、CLI、桌面端和 Docker。| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
-        },
-        {
-          "rank": 4,
-          "name": "VectifyAI/PageIndex",
-          "url": "https://github.com/VectifyAI/PageIndex",
-          "description_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-          "language": "Python",
-          "stars_total": 38082,
-          "stars_today": 1095,
-          "description_zh": "📑 PageIndex：面向无向量、基于推理的 RAG 的文档索引"
-        },
-        {
-          "rank": 5,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 272937,
-          "stars_today": 908,
-          "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
-        },
-        {
-          "rank": 6,
-          "name": "DietrichGebert/ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "language": "JavaScript",
-          "stars_total": 149087,
-          "stars_today": 865,
-          "description_zh": "让你的 AI 代理像房间里最懒的资深开发者一样思考。最好的代码就是你从未写过的代码。"
-        },
-        {
-          "rank": 7,
-          "name": "byoungd/up",
-          "url": "https://github.com/byoungd/up",
-          "description_en": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-          "language": "JavaScript",
-          "stars_total": 66356,
-          "stars_today": 714,
-          "description_zh": "一份可能让你受益匪浅的高级指南 🎉。韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
-        },
-        {
-          "rank": 8,
-          "name": "mvschwarz/openrig",
-          "url": "https://github.com/mvschwarz/openrig",
-          "description_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
-          "language": "TypeScript",
-          "stars_total": 2960,
-          "stars_today": 622,
-          "description_zh": "将 Claude Code 和 Codex 作为一个系统协同运行的多代理框架"
-        },
-        {
-          "rank": 9,
-          "name": "NawfalMotii79/PLFM_RADAR",
-          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-          "description_en": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-          "language": "PLSQL",
-          "stars_total": 26405,
-          "stars_today": 466,
-          "description_zh": "开源、低成本的 10.5 GHz PLFM 相控阵雷达系统"
-        },
-        {
-          "rank": 10,
-          "name": "harry0703/MoneyPrinterTurbo",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "description_en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-          "language": "Python",
-          "stars_total": 127495,
-          "stars_today": 464,
-          "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。"
-        },
-        {
-          "rank": 11,
-          "name": "heygen-com/hyperframes",
-          "url": "https://github.com/heygen-com/hyperframes",
-          "description_en": "Write HTML. Render video. Built for agents.",
-          "language": "TypeScript",
-          "stars_total": 54666,
-          "stars_today": 352,
-          "description_zh": "编写 HTML。渲染视频。为代理而生。"
-        },
-        {
-          "rank": 12,
-          "name": "colbymchenry/codegraph",
-          "url": "https://github.com/colbymchenry/codegraph",
-          "description_en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-          "language": "C",
-          "stars_total": 72565,
-          "stars_today": 159,
-          "description_zh": "预索引的代码知识图谱，代码变更时自动同步，适用于 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot 和 Hermes Agent —— 更少 token，更少工具调用，100% 本地"
-        },
-        {
-          "rank": 13,
-          "name": "openclaw/openclaw",
-          "url": "https://github.com/openclaw/openclaw",
-          "description_en": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-          "language": "TypeScript",
-          "stars_total": 390961,
-          "stars_today": 136,
-          "description_zh": "真正能做事的 AI。任何操作系统。任何平台。龙虾之道。🦞"
-        },
-        {
-          "rank": 14,
-          "name": "ComposioHQ/awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-          "language": "Python",
-          "stars_total": 76099,
-          "stars_today": 118,
-          "description_zh": "一份精选的 Claude Skills、资源和工具列表，用于自定义 Claude AI 工作流"
-        },
-        {
-          "rank": 15,
-          "name": "mksglu/context-mode",
-          "url": "https://github.com/mksglu/context-mode",
-          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "language": "TypeScript",
-          "stars_total": 24452,
-          "stars_today": 88,
-          "description_zh": "面向 AI 编程代理的上下文窗口优化。通过 MCP + hooks 对工具输出进行沙箱隔离（减少 98%），持久化会话记忆，并在 17 个平台上强制执行路由。"
-        },
-        {
-          "rank": 16,
-          "name": "modelcontextprotocol/servers",
-          "url": "https://github.com/modelcontextprotocol/servers",
-          "description_en": "Model Context Protocol Servers",
-          "language": "TypeScript",
-          "stars_total": 90785,
-          "stars_today": 48,
-          "description_zh": "模型上下文协议服务器"
-        },
-        {
-          "rank": 17,
-          "name": "firebase/firebase-ios-sdk",
-          "url": "https://github.com/firebase/firebase-ios-sdk",
-          "description_en": "Firebase SDK for Apple App Development",
-          "language": "C++",
-          "stars_total": 6748,
-          "stars_today": 4,
           "description_zh": "用于 Apple 应用开发的 Firebase SDK"
         }
       ]
