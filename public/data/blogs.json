@@ -1,5 +1,71 @@
 [
   {
+    "id": "f162ecc746051353b48f461d8c678d6a",
+    "title_en": "漏洞分析- 文章- 奇安信攻防社区",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAEShAEB6zswFTTpv5cnEBhDy5_LQ53D0L0gcaC53CzQlYNTKqsgbM2Hz90ED2K9V3uzF9qO7JvJQQteZeikAjcnXa4-l7UoHm1UVFVwaJM2boLieNj0w0aYvvPIgKt_WMbvl_kGdDwq4xdFzk9tedset3QTDNGS6poMax55qQD8t1hwf0rLI7k",
+    "published_at": "2026-10-31T03:22:09.093Z",
+    "fetched_at": "2026-10-31T03:22:09.093Z",
+    "title_zh": "漏洞分析——奇安信攻防社区文章",
+    "summary_zh": "本文为奇安信攻防社区的漏洞分析文章，围绕具体漏洞的成因、触发条件与影响范围展开，包含漏洞复现环境搭建、PoC构造思路及利用链分析，并给出修复建议与缓解措施。内容侧重实战攻防视角，帮助安全研究人员理解漏洞机理、评估风险等级并完善检测与防护策略。",
+    "topic": "security"
+  },
+  {
+    "id": "18acc9aada4c118cc917b97174716e50",
+    "title_en": "京东云kubernetes结合SLB实现客户端源IP透传",
+    "source": "docs.jdcloud.com",
+    "url": "https://docs.jdcloud.com/cn/learn-best-practice/k8s-transmission-of-client-source-ip",
+    "published_at": "2026-10-31T03:22:09.092Z",
+    "fetched_at": "2026-10-31T03:22:09.092Z",
+    "title_zh": "京东云Kubernetes结合SLB实现客户端源IP透传",
+    "summary_zh": "本文介绍在京东云Kubernetes集群中通过负载均衡SLB实现客户端真实源IP透传的方案，分析四层与七层转发场景下源IP丢失的原因，并给出Service配置、externalTrafficPolicy、代理协议等关键设置。内容涉及网络链路排查与验证方法，帮助用户在日志审计、限流与访问控制中获取真实客户端地址。",
+    "topic": "ops"
+  },
+  {
+    "id": "8f7f1feade953a00c82eaf85a042c65e",
+    "title_en": "金山云-文档中心-免费指标",
+    "source": "docs.ksyun.com",
+    "url": "https://docs.ksyun.com/documents/43103",
+    "published_at": "2026-10-31T03:22:09.092Z",
+    "fetched_at": "2026-10-31T03:22:09.092Z",
+    "title_zh": "金山云文档中心：免费指标说明",
+    "summary_zh": "本文档介绍金山云监控服务中的免费指标范围与使用方式，说明可免费采集的基础监控项、指标维度、数据保留周期及告警配置入口。内容帮助用户在不增加成本的前提下搭建基础可观测性体系，合理规划云资源监控覆盖，并为后续付费指标选型与容量评估提供参考依据。",
+    "topic": "ops"
+  },
+  {
+    "id": "f8a150d0b2c9ebc131987bfb19692c37",
+    "title_en": "github-complete-guide/docs/X5-kubernetes-github-actions.md at main",
+    "source": "github.com",
+    "url": "https://github.com/wangzi5151/github-complete-guide/blob/main/docs/X5-kubernetes-github-actions.md",
+    "published_at": "2026-10-31T03:22:09.091Z",
+    "fetched_at": "2026-10-31T03:22:09.091Z",
+    "title_zh": "GitHub完整指南：Kubernetes与GitHub Actions集成实践",
+    "summary_zh": "本文档讲解如何将Kubernetes与GitHub Actions结合构建CI/CD流水线，涵盖工作流定义、镜像构建与推送、集群凭证配置、滚动发布与回滚策略等关键环节。通过示例演示从代码提交到自动部署的完整链路，并讨论密钥管理、环境隔离与流水线可观测性等工程实践，适合平台与DevOps团队参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "638aca8ee35a6dd268b71e5a43562e53",
+    "title_en": "如何高效管理Linux服务器",
+    "source": "m.elecfans.com",
+    "url": "https://m.elecfans.com/article/6857970.html",
+    "published_at": "2026-10-31T03:22:06.038Z",
+    "fetched_at": "2026-10-31T03:22:06.038Z",
+    "title_zh": "如何高效管理Linux服务器",
+    "summary_zh": "本文系统介绍Linux服务器高效管理的核心方法，涵盖批量配置管理、自动化脚本、进程与资源监控、日志集中分析及安全加固等实践。重点讲解如何借助Ansible、systemd、cron等工具减少重复运维工作，并通过性能调优与故障排查流程提升服务器稳定性与资源利用率，适合运维工程师参考落地。",
+    "topic": "ops"
+  },
+  {
+    "id": "0cfd5217ca3e4c7b7e9b945186854f1e",
+    "title_en": "Linux系统管理与运维高效技巧指南",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESaQHrOzAVekziU6cEZqKUWLTKZ2GvoogNE1HGHI7zIr9y3IofnQchVLZ5gkdt0NhMANL4RU7OfSPCYfBpjF1686HFL4OEe4PbMEZvi57e3B8xbjkmYlRg-vU2Ttfo7nbaj-oqjA1GHdtKNw",
+    "published_at": "2026-10-31T03:22:06.038Z",
+    "fetched_at": "2026-10-31T03:22:06.038Z",
+    "title_zh": "Linux系统管理与运维高效技巧指南",
+    "summary_zh": "本文汇总Linux系统管理与日常运维中的高效技巧，包括命令行效率提升、Shell脚本自动化、用户与权限管理、磁盘与网络性能诊断、服务监控告警配置等。内容强调可操作性，通过具体命令与配置示例帮助运维人员缩短故障定位时间、降低人工操作风险，并建立规范化的巡检与变更流程。",
+    "topic": "ops"
+  },
+  {
     "id": "0ff4ee5749fdb454321b27c257af128e",
     "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
     "source": "google.com",
@@ -2132,71 +2198,5 @@
     "title_zh": "漏洞 - X情报中心 - 微步在线",
     "summary_zh": "微步在线X情报中心的漏洞情报页面，聚合最新披露的高危漏洞信息，提供CVE编号、影响产品、利用状态及威胁等级等结构化数据。内容侧重漏洞情报的时效性与可操作性，帮助安全团队快速定位受影响资产并判断优先级。对SOC与应急响应团队而言，可作为漏洞预警与威胁狩猎的情报来源，结合资产清单实现风险闭环管理，提升漏洞响应效率。",
     "topic": "security"
-  },
-  {
-    "id": "d21b380b83339ea20367562bf52c025b",
-    "title_en": "2026年CVE數量恐破6.6萬個，FIRST國際資安應變組織提四 ...",
-    "source": "ithome.com.tw",
-    "url": "https://www.ithome.com.tw/news/176652",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "2026年CVE数量恐破6.6万个，FIRST国际资安应变组织提四项建议",
-    "summary_zh": "iThome报道指出2026年CVE漏洞数量预计突破6.6万个，漏洞披露规模持续攀升给企业漏洞管理带来巨大压力。FIRST国际资安应变组织提出四项建议，涉及漏洞优先级评估、情报共享、自动化响应与风险管理流程优化。文章强调从“全量修补”转向基于风险的分级处置，结合资产关键性与利用情报提升修复效率。对安全与运维团队而言，具有漏洞管理策略优化的实务参考价值。",
-    "topic": "security"
-  },
-  {
-    "id": "b612a8095d81f1ac42d3ee136db19e5d",
-    "title_en": "PHP2Shell - 維基百科，自由的百科全書",
-    "source": "zh.wikipedia.org",
-    "url": "https://zh.wikipedia.org/wiki/PHP2Shell",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "PHP2Shell - 维基百科，自由的百科全书",
-    "summary_zh": "PHP2Shell 是一种利用 PHP 语言特性将文件上传或代码执行漏洞转化为远程 shell 的攻击技术链。该条目系统梳理了 PHP 中可利用的危险函数（如 system、eval、assert）与文件包含、反序列化等常见入口，说明攻击者如何通过构造恶意 PHP 载荷绕过上传过滤并实现命令执行。对安全研究人员而言，理解 PHP2Shell 的利用路径有助于在代码审计中识别危险函数调用、加固上传校验与禁用高危配置，是 Web 安全攻防与渗透测试的实用参考。",
-    "topic": "security"
-  },
-  {
-    "id": "d750cd4d8479c570a9185eb98772b74f",
-    "title_en": "CVE - Vulnerability Database",
-    "source": "vuldb.com",
-    "url": "https://vuldb.com/zh/cve",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "CVE - 漏洞数据库",
-    "summary_zh": "VulDB 提供的 CVE 漏洞数据库聚合了公开披露的通用漏洞与暴露条目，涵盖漏洞编号、受影响产品版本、CVSS 评分、利用条件与修复建议等结构化信息。对运维与安全团队而言，该库可用于资产漏洞比对、补丁优先级排序与威胁情报订阅，帮助快速定位高危 CVE 并评估实际暴露面，是漏洞管理与安全基线核查的重要数据来源。",
-    "topic": "security"
-  },
-  {
-    "id": "8862abe0665049dd386c56f014267f74",
-    "title_en": "深入探索Kubernetes：从基础概念到实战运维",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/zhoutuo/p/18646996",
-    "published_at": "2026-10-28T11:52:07.988Z",
-    "fetched_at": "2026-10-28T11:52:07.988Z",
-    "title_zh": "深入探索Kubernetes：从基础概念到实战运维",
-    "summary_zh": "本文系统讲解Kubernetes从核心概念到生产运维的完整知识体系，涵盖Pod、Deployment、Service、Ingress、ConfigMap等资源对象原理，以及集群部署、滚动更新、扩缩容、健康检查、日志与监控等实战运维要点。文章结合具体操作示例剖析K8s的调度机制与网络模型，帮助读者理解容器编排平台的工作机制并掌握日常运维排障方法。",
-    "topic": "ops"
-  },
-  {
-    "id": "7d17afda7a698e7158b1541789430dbe",
-    "title_en": "opsre/awesome-ops: 🧰 记录每一个与运维相关的优秀项目， ...",
-    "source": "github.com",
-    "url": "https://github.com/opsre/awesome-ops",
-    "published_at": "2026-10-28T11:52:07.988Z",
-    "fetched_at": "2026-10-28T11:52:07.988Z",
-    "title_zh": "opsre/awesome-ops: 🧰 记录每一个与运维相关的优秀项目",
-    "summary_zh": "该GitHub仓库是一个精选的运维项目资源合集，系统收录了监控告警、日志管理、CI/CD、配置管理、容器编排、自动化部署、备份恢复、安全审计等运维各领域的优秀开源工具与项目。每个条目附有简要说明与链接，帮助运维工程师快速发现和选型适合团队的技术方案，是构建运维技术栈和跟踪生态动态的高价值索引。",
-    "topic": "ops"
-  },
-  {
-    "id": "f8bb63ba9bb064e6ef2ef5f630d07e19",
-    "title_en": "业务系统容器化部署的经验与注意事项 - xcbeyond",
-    "source": "xcbeyond.cn",
-    "url": "https://xcbeyond.cn/blog/kubernetes/experiences-and-considerations-for-containerized-deployment/",
-    "published_at": "2026-10-28T11:52:07.988Z",
-    "fetched_at": "2026-10-28T11:52:07.988Z",
-    "title_zh": "业务系统容器化部署的经验与注意事项 - xcbeyond",
-    "summary_zh": "本文结合真实业务场景，分享业务系统从传统部署向容器化迁移的实践经验与注意事项，涵盖镜像构建优化、配置与密钥管理、存储持久化、网络方案选型、健康检查、资源限制及滚动发布策略等关键环节。作者重点剖析了容器化过程中常见的坑点与应对方案，强调可观测性与回滚机制的重要性，为计划落地容器化部署的团队提供可操作的参考。",
-    "topic": "ops"
   }
 ]
