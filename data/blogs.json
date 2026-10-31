@@ -1,5 +1,49 @@
 [
   {
+    "id": "48d43f38a334b657f58163d888b0209c",
+    "title_en": "UNIX 二进制漏洞分析与利用研究",
+    "source": "bbs.kanxue.com",
+    "url": "https://bbs.kanxue.com/forum-150-1-153.htm",
+    "published_at": "2026-10-31T11:27:33.902Z",
+    "fetched_at": "2026-10-31T11:27:33.902Z",
+    "title_zh": "UNIX 二进制漏洞分析与利用研究",
+    "summary_zh": "本文聚焦UNIX平台二进制漏洞的分析与利用技术，涵盖漏洞成因分类、逆向与调试工具链使用、栈溢出与堆利用等典型手法、缓解机制（如ASLR、NX、Canary）的绕过思路，以及从崩溃复现到稳定利用的完整研究流程。内容偏实战与原理结合，适合安全研究人员与渗透测试人员深入理解二进制攻防细节，提升漏洞挖掘与利用开发能力。",
+    "topic": "security"
+  },
+  {
+    "id": "978ebf91711c7d43f64420d7c7d9c2b3",
+    "title_en": "洞见网安‧ 微信聚合",
+    "source": "tophub.today",
+    "url": "https://tophub.today/n/x9ozrmJoXb",
+    "published_at": "2026-10-31T11:27:33.902Z",
+    "fetched_at": "2026-10-31T11:27:33.902Z",
+    "title_zh": "洞见网安‧ 微信聚合",
+    "summary_zh": "该页面为网络安全领域的微信内容聚合入口，汇集多个安全公众号的最新文章与资讯，便于读者集中跟踪漏洞披露、攻防技术、安全事件与行业动态。内容以信息聚合与导读为主，本身不提供深度技术实现，但对安全从业者快速筛选高质量情报、把握热点方向具有实用价值，可作为日常安全资讯订阅与知识获取的补充渠道。",
+    "topic": "security"
+  },
+  {
+    "id": "10b20cab7a7a5523192524d4e6ffddf8",
+    "title_en": "电子商务技术开发架构、关键技术与实施指南",
+    "source": "nibiedong.com",
+    "url": "https://www.nibiedong.com/product/94.html",
+    "published_at": "2026-10-31T11:27:33.901Z",
+    "fetched_at": "2026-10-31T11:27:33.901Z",
+    "title_zh": "电子商务技术开发架构、关键技术与实施指南",
+    "summary_zh": "本文围绕电子商务系统的技术开发展开，介绍整体架构设计思路与关键技术选型，涉及前后端分离、微服务拆分、数据库设计、缓存与消息队列、支付与订单流程、高并发与高可用保障等核心环节。文章结合实施指南给出分阶段落地建议，强调可扩展性与稳定性权衡，适合电商平台开发者与架构师参考，用于规划系统演进路径与规避常见工程陷阱。",
+    "topic": "other"
+  },
+  {
+    "id": "239dcaf7edb8472a96dea98454d5973f",
+    "title_en": "Linux系统管理与运维高效技巧指南",
+    "source": "google.com",
+    "url": "https://www.google.com/goto?url=CAESaQHrOzAV3hMrrdJcgq2bAnyEt5JE7-mVSTfsqBVGhAFhhxKPDV1OGh5jOQg4CvuDjIA-wsDqejQzy4V2mUwz44gv4772FrC3SWRQs3LIQvQ9YLQEX3xI2bQTapK808t9fzOLc8mIKGY5oQ",
+    "published_at": "2026-10-31T11:27:30.208Z",
+    "fetched_at": "2026-10-31T11:27:30.208Z",
+    "title_zh": "Linux系统管理与运维高效技巧指南",
+    "summary_zh": "本文系统梳理Linux系统管理与日常运维中的高效技巧，涵盖命令行工具组合、Shell脚本自动化、进程与资源监控、日志分析、性能调优及批量部署等实战场景。内容侧重可落地的操作方法与最佳实践，帮助运维工程师减少重复劳动、提升故障排查效率，并建立规范化的服务器管理流程，适合有一定Linux基础、希望进阶提升自动化与排障能力的读者参考。",
+    "topic": "ops"
+  },
+  {
     "id": "f162ecc746051353b48f461d8c678d6a",
     "title_en": "漏洞分析- 文章- 奇安信攻防社区",
     "source": "google.com",
@@ -2153,50 +2197,6 @@
     "fetched_at": "2026-10-28T11:52:07.989Z",
     "title_zh": "夏某非法侵入计算机信息系统罪一审刑事判决书",
     "summary_zh": "该判决书为夏某非法侵入计算机信息系统罪的一审刑事判例，记录了被告人未经授权侵入特定计算机信息系统的行为事实、证据链及法院定罪量刑理由。案件涉及非法侵入行为的认定标准，特别是针对国家事务、国防建设、尖端科技等特定领域系统的侵入定性。对安全从业者而言，该判例明确了未授权访问的法律后果，为渗透测试授权边界与合规评估提供了司法实践参考。",
-    "topic": "security"
-  },
-  {
-    "id": "d752d3437cf555bd83e4d91416ca2d77",
-    "title_en": "PHP存在高風險安全漏洞(CVE-2026 ... - 國家資通安全研究院",
-    "source": "nics.nat.gov.tw",
-    "url": "https://www.nics.nat.gov.tw/core_business/information_security_information_sharing/Vulnerability_Alert_Announcements/5c4e9af1-4275-44ef-a277-c692786b5a2c/",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "PHP存在高风险安全漏洞（CVE-2026-...）",
-    "summary_zh": "国家资通安全研究院发布PHP高风险漏洞预警，涉及CVE-2026系列漏洞，可能影响广泛部署的PHP运行环境。文章分析了漏洞成因、影响版本范围及潜在攻击路径，并给出升级与缓解建议。对运维与后端开发团队而言，需尽快排查PHP版本、评估暴露面并制定补丁窗口，同时关注WAF规则与运行时防护作为临时缓解手段，降低远程代码执行或信息泄露风险。",
-    "topic": "security"
-  },
-  {
-    "id": "90397e236b6d98f4255963cbafa5afc3",
-    "title_en": "漏洞分析- 文章- 奇安信攻防社区",
-    "source": "mdr.skyeye.qianxin.com",
-    "url": "https://mdr.skyeye.qianxin.com/forum/community/Vul_analysis",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "漏洞分析 - 奇安信攻防社区",
-    "summary_zh": "奇安信攻防社区的漏洞分析专栏，汇集针对近期高危漏洞的深度技术剖析，涵盖漏洞成因、利用链构造、PoC复现及修复建议。内容面向安全研究人员与渗透测试人员，强调从代码层与协议层理解漏洞本质，并结合实战场景给出检测与防御思路。对甲方安全团队而言，可作为漏洞优先级评估与应急响应的技术参考，帮助快速判断资产暴露风险并制定缓解措施。",
-    "topic": "security"
-  },
-  {
-    "id": "95c1e9aacb62372cade9759b9dbf312f",
-    "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2713079",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "WordPress Core高危漏洞分析：CVE-2026-60137 与...",
-    "summary_zh": "腾讯云安全团队对WordPress Core高危漏洞CVE-2026-60137进行深度分析，剖析漏洞触发条件、影响范围及利用方式，评估对广泛部署的WordPress站点的实际威胁。文章给出补丁升级、虚拟补丁与WAF规则配置等缓解方案，并提示插件与主题生态的连带风险。对运维与建站团队而言，需尽快核查核心版本、评估暴露面并制定应急修复计划，防止站点被远程控制或数据泄露。",
-    "topic": "security"
-  },
-  {
-    "id": "8ef17c3d0790b5eb893ecd6710534b14",
-    "title_en": "漏洞- X情报中心 - 微步在线",
-    "source": "x.threatbook.com",
-    "url": "https://x.threatbook.com/v5/vulIntelligence",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "漏洞 - X情报中心 - 微步在线",
-    "summary_zh": "微步在线X情报中心的漏洞情报页面，聚合最新披露的高危漏洞信息，提供CVE编号、影响产品、利用状态及威胁等级等结构化数据。内容侧重漏洞情报的时效性与可操作性，帮助安全团队快速定位受影响资产并判断优先级。对SOC与应急响应团队而言，可作为漏洞预警与威胁狩猎的情报来源，结合资产清单实现风险闭环管理，提升漏洞响应效率。",
     "topic": "security"
   }
 ]
