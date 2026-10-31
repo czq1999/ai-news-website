@@ -1,5 +1,49 @@
 [
   {
+    "id": "7ef2ba5ccf9aa7d5aacfeaf8a5b0d6c1",
+    "title_en": "热门推荐 - 官方博客-第40页-阿里云开发者社区",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/blog/?pageNum=40&contentType=11,22,12,2,3,5,16,6,9,20,10,21",
+    "published_at": "2026-10-31T16:33:14.521Z",
+    "fetched_at": "2026-10-31T16:33:14.521Z",
+    "title_zh": "热门推荐 - 官方博客 - 第40页 - 阿里云开发者社区",
+    "summary_zh": "该页面为阿里云开发者社区官方博客热门推荐列表的第40页，汇集云计算、系统运维、开发实践等多领域技术文章入口。内容覆盖面广，适合技术人员浏览筛选感兴趣的主题，了解社区热门技术方向与实践经验，但单页信息较为分散，需结合具体文章深入阅读。",
+    "topic": "other"
+  },
+  {
+    "id": "fec2a843e7f6fa3336e3ee040f1e1f5a",
+    "title_en": "All Tags - Linux Shell",
+    "source": "lshell.com",
+    "url": "https://www.lshell.com/tags/",
+    "published_at": "2026-10-31T16:33:12.141Z",
+    "fetched_at": "2026-10-31T16:33:12.141Z",
+    "title_zh": "全部标签 - Linux Shell",
+    "summary_zh": "该页面为Linux Shell主题站点的标签索引，按关键词聚合了Shell脚本编写、命令技巧、自动化任务及终端工具等相关文章。适合开发者与运维人员按标签快速检索所需内容，系统梳理Shell编程知识体系，提升日常脚本开发与命令行自动化处理的实践能力。",
+    "topic": "ops"
+  },
+  {
+    "id": "19576b17894a771818c75809417f79b0",
+    "title_en": "目录: Linux - 又一个SE的博客",
+    "source": "another-se.com",
+    "url": "https://www.another-se.com/categories/Linux/",
+    "published_at": "2026-10-31T16:33:12.140Z",
+    "fetched_at": "2026-10-31T16:33:12.140Z",
+    "title_zh": "目录：Linux - 另一个SE的博客",
+    "summary_zh": "该页面为一位软件工程师博客的Linux主题目录页，汇总了其关于Linux系统管理、命令行工具、内核机制及运维实践的技术文章索引。适合希望系统学习Linux底层原理与日常运维技巧的开发者按主题检索阅读，便于快速定位感兴趣的技术内容并深入理解相关实现细节。",
+    "topic": "ops"
+  },
+  {
+    "id": "38453f38c95c019ba1dc5f0a70f9ef46",
+    "title_en": "Linux端口号对应服务文件 - 阿里云开发者社区",
+    "source": "developer.aliyun.com",
+    "url": "https://developer.aliyun.com/article/888860",
+    "published_at": "2026-10-31T16:33:12.140Z",
+    "fetched_at": "2026-10-31T16:33:12.140Z",
+    "title_zh": "Linux端口号与服务对应文件 - 阿里云开发者社区",
+    "summary_zh": "本文整理Linux系统中端口号与对应服务的映射关系，并介绍/etc/services等关键配置文件的作用与格式。内容涵盖常见服务端口查询方法、端口占用排查思路以及服务注册机制，帮助运维和开发人员快速定位端口冲突、规范服务配置，提升系统排障与网络管理的实际效率。",
+    "topic": "ops"
+  },
+  {
     "id": "48d43f38a334b657f58163d888b0209c",
     "title_en": "UNIX 二进制漏洞分析与利用研究",
     "source": "bbs.kanxue.com",
@@ -2154,49 +2198,5 @@
     "title_zh": "微软公司与人福医药集团股份公司申请保全案件民事诉讼保全裁定书",
     "summary_zh": "该裁定书涉及微软公司与人福医药集团之间因软件许可纠纷引发的民事诉讼保全申请，法院对保全范围、担保条件及执行方式作出裁定。案件反映了企业软件正版化合规中的法律风险，涉及未经授权使用商业软件的侵权认定与证据保全问题。对企业IT资产管理具有警示价值，提示需建立软件许可审计机制，规范商业软件采购与使用流程，避免因许可违规引发诉讼与保全风险。",
     "topic": "other"
-  },
-  {
-    "id": "b03e856aff4231d98861952bd46eba8f",
-    "title_en": "微软公司与人福医药集团股份公司申请保全案件民事诉讼保全裁定书(1)",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=3b2d4f49ddf34a08bea33d0a084e9806",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "微软公司与人福医药集团股份公司申请保全案件民事诉讼保全裁定书(1)",
-    "summary_zh": "本裁定书为微软公司与人福医药集团软件许可纠纷保全案件的关联文书，进一步披露了保全申请的审查过程与法院裁定理由。案件核心围绕商业软件未经授权使用的侵权证据保全展开，涉及软件资产审计、许可合规举证等实务问题。对企业IT治理具有参考意义，强调建立软件许可台账、定期开展合规审计的必要性，以防范因版权侵权导致的诉讼保全与经营中断风险。",
-    "topic": "other"
-  },
-  {
-    "id": "4b5946069105a94d470d5dfe687bba0f",
-    "title_en": "被告人姚泽林犯破坏计算机信息系统罪一案刑事判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=6d75b846afc34872b749a73500b1325d",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "被告人姚泽林犯破坏计算机信息系统罪一案刑事判决书",
-    "summary_zh": "该刑事判决书完整呈现了姚泽林破坏计算机信息系统案的审理过程，包括犯罪事实认定、证据采信及量刑理由。判决详细描述了被告人实施系统破坏的技术手段与造成的实际危害，法院据此认定“后果严重”并作出有罪判决。对安全从业者而言，该判例明确了破坏性攻击行为的刑事边界与量刑尺度，为理解计算机犯罪司法认定逻辑、评估安全测试行为合规性提供了具体参照。",
-    "topic": "security"
-  },
-  {
-    "id": "0ca09d746d714d09ef40c1a565b3f4f7",
-    "title_en": "杨路畅非法获取计算机信息系统数据、非法控制计算机信息系统罪一审刑事判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=88b11d25843d4cf89e2ba798016a8b0b",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "杨路畅非法获取计算机信息系统数据、非法控制计算机信息系统罪一审刑事判决书",
-    "summary_zh": "该一审判决书涉及杨路畅非法获取计算机信息系统数据及非法控制计算机信息系统两项罪名，详细记录了数据窃取与系统控制的技术手段、数据数量认定及量刑依据。判决对“非法获取”与“非法控制”的构成要件进行了实务阐释，涉及数据价值评估与系统控制程度的认定标准。对安全从业者具有重要参考价值，明确了数据爬取、越权访问与系统控制行为的刑事风险边界。",
-    "topic": "security"
-  },
-  {
-    "id": "8a1d7326953c7ae97fa1bf62025c576f",
-    "title_en": "夏某非法侵入计算机信息系统罪一审刑事判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=ad2fe3c349fc46e0973cad1300030200",
-    "published_at": "2026-10-28T11:52:07.989Z",
-    "fetched_at": "2026-10-28T11:52:07.989Z",
-    "title_zh": "夏某非法侵入计算机信息系统罪一审刑事判决书",
-    "summary_zh": "该判决书为夏某非法侵入计算机信息系统罪的一审刑事判例，记录了被告人未经授权侵入特定计算机信息系统的行为事实、证据链及法院定罪量刑理由。案件涉及非法侵入行为的认定标准，特别是针对国家事务、国防建设、尖端科技等特定领域系统的侵入定性。对安全从业者而言，该判例明确了未授权访问的法律后果，为渗透测试授权边界与合规评估提供了司法实践参考。",
-    "topic": "security"
   }
 ]

@@ -1,5 +1,93 @@
 [
   {
+    "id": "53d4c9d19e1784453d96f08f0c09ca50",
+    "title_en": "OpenAI reportedly lowers funding target for new round",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "published_at": "2026-10-31T16:12:55.000Z",
+    "fetched_at": "2026-10-31T16:32:37.783Z",
+    "title_zh": "OpenAI据报下调新一轮融资目标",
+    "summary_zh": "据TechCrunch报道，OpenAI已下调其新一轮融资的目标金额。此举正值AI行业融资环境趋紧、投资者对高估值AI公司态度趋于谨慎之际。OpenAI此前估值屡创新高，此次下调融资目标或反映出市场对AI泡沫的担忧，以及公司在巨额算力投入与商业化回报之间寻求平衡的压力。具体融资金额及投资方信息尚未完全披露。",
+    "category": "industry"
+  },
+  {
+    "id": "0289b26f177bf3f8786fdf29b40924da",
+    "title_en": "I built an AI Tamagotchi before Meta could",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "published_at": "2026-10-31T16:05:00.000Z",
+    "fetched_at": "2026-10-31T16:32:37.938Z",
+    "title_zh": "赶在Meta之前，我自制了一款AI电子宠物",
+    "summary_zh": "The Verge记者抢在Meta之前动手打造了一款AI版拓麻歌子（Tamagotchi）电子宠物。文章记录了从硬件选型、接入大模型到赋予虚拟宠物性格与记忆的完整过程，展示了借助现成AI工具与开发板，个人开发者也能快速做出具备对话与情感交互的实体AI玩具，也侧面反映出科技巨头与创客在AI硬件上的竞速。",
+    "category": "product"
+  },
+  {
+    "id": "29a8bbdb55f283fd3b32978544a373d0",
+    "title_en": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+    "published_at": "2026-10-31T15:12:19.000Z",
+    "fetched_at": "2026-10-31T16:32:37.938Z",
+    "title_zh": "Windows 11为Xbox游戏模式和搜索测试新快捷键",
+    "summary_zh": "微软正在为Windows 11测试新的键盘快捷键，以强化Xbox游戏模式与系统搜索的调用体验。新快捷键旨在让玩家更快进入游戏模式、减少后台干扰，同时提升搜索功能的响应效率。这被视为微软整合Windows与Xbox生态、优化掌机与游戏PC体验的又一步，具体按键组合与推送时间尚未完全公布。",
+    "category": "product"
+  },
+  {
+    "id": "caa5fccb89152b860435211bfce249b4",
+    "title_en": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+    "published_at": "2026-10-31T15:00:00.000Z",
+    "fetched_at": "2026-10-31T16:32:37.938Z",
+    "title_zh": "百思买为触屏MacBook Pro预购捆绑100美元礼品卡",
+    "summary_zh": "百思买针对新款触屏MacBook Pro开启预购促销，下单即附赠100美元礼品卡。此举被视为零售商在新品上市初期吸引消费者的常见手段，也侧面印证苹果即将推出配备触控屏的MacBook Pro。对于计划换机的用户而言，礼品卡相当于变相降价，但需注意预购发货时间与库存情况。",
+    "category": "product"
+  },
+  {
+    "id": "5eef847837fbe8cda166b91df7eb1c1e",
+    "title_en": "Vic Mensa can’t live without the Voice Memos app",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+    "published_at": "2026-10-31T15:00:00.000Z",
+    "fetched_at": "2026-10-31T16:32:37.938Z",
+    "title_zh": "说唱歌手Vic Mensa离不开语音备忘录App",
+    "summary_zh": "The Verge人物专栏采访说唱歌手Vic Mensa，他坦言自己生活中离不开苹果的语音备忘录App。文章介绍了这位音乐人如何用语音备忘录随时记录旋律灵感、歌词片段和创作想法，将其作为随身创作工具。这一日常习惯也折射出简单录音工具在音乐创作流程中的实用价值。",
+    "category": "product"
+  },
+  {
+    "id": "d949e18268cf99e1a9a1cb1b9f32d4b5",
+    "title_en": "Touchscreens everywhere!",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+    "published_at": "2026-10-31T12:00:00.000Z",
+    "fetched_at": "2026-10-31T16:32:37.938Z",
+    "title_zh": "触屏无处不在！",
+    "summary_zh": "The Verge评论文章聚焦触控屏正加速渗透各类设备的趋势，从笔记本、车载系统到家电与可穿戴设备，触控交互几乎成为标配。文章探讨了触屏普及背后的成本下降与用户习惯变迁，同时反思其带来的误触、反光与卫生等问题，并讨论在语音与手势交互兴起后，触屏未来将扮演怎样的角色。",
+    "category": "industry"
+  },
+  {
+    "id": "7e3e7a3f1a74fa723fc9739d7f33924e",
+    "title_en": "Here’s why you can&#8217;t shake those unhinged political texts",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+    "published_at": "2026-10-31T12:00:00.000Z",
+    "fetched_at": "2026-10-31T16:32:37.938Z",
+    "title_zh": "为什么你甩不掉那些疯狂的政治短信",
+    "summary_zh": "The Verge解析了美国用户难以摆脱政治竞选短信轰炸的原因。文章指出，竞选团队借助数据经纪商与自动化短信平台大规模投放信息，监管规则存在漏洞，退订机制常被规避。报道还介绍了短信过滤、举报与号码保护等应对手段，并讨论政治营销短信对隐私与日常生活的侵扰。",
+    "category": "industry"
+  },
+  {
+    "id": "15f9f966df72dac47db7af3ef38b7717",
+    "title_en": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "published_at": "2026-10-31T12:00:00.000Z",
+    "fetched_at": "2026-10-31T16:32:38.312Z",
+    "title_zh": "新型信息窃取恶意软件利用AI对受害者进行'自动投毒'",
+    "summary_zh": "据Wired报道，一种名为'Autodox'的新型信息窃取恶意软件利用AI技术对受害者实施自动化攻击。该恶意软件能够借助AI能力自动识别和窃取敏感信息，大幅提升了攻击效率与隐蔽性，标志着网络犯罪工具正加速向AI化演进，给个人和企业数据安全带来新的威胁。",
+    "category": "industry"
+  },
+  {
     "id": "4d397de3754fdc09d3134984f28a9458",
     "title_en": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
     "source": "Wired",
@@ -349,6 +437,105 @@
     "fetched_at": "2026-10-30T17:28:36.351Z",
     "title_zh": "谷歌首个数据中心卫星已上线，还能写诗",
     "summary_zh": "谷歌宣布其首个搭载AI计算能力的数据中心卫星已投入运行，并展示了该卫星生成诗歌的能力。这一项目旨在探索将AI算力部署到太空的可行性，未来或可为偏远地区提供低延迟的AI服务。不过业内也质疑太空数据中心的散热、维护和成本问题，认为距离商业化仍有较长距离。",
+    "category": "industry"
+  },
+  {
+    "id": "11515fd472abaabfe3a48099304fd286",
+    "title_en": "Not Just AI: How soft skills are becoming key to getting hired",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/industry/services/education/not-just-ai-how-soft-skills-are-becoming-key-to-getting-hired/articleshow/135369844.cms",
+    "published_at": "2026-10-30T16:28:03Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "不只是AI：软技能正成为求职关键",
+    "summary_zh": "据《印度时报》报道，在AI技术快速发展的背景下，软技能正日益成为求职者获得录用的关键因素。尽管AI工具能力不断增强，但沟通能力、团队协作、批判性思维等人类独有的软技能仍然不可替代，雇主在招聘时越来越看重候选人的综合素质而非单一技术能力。",
+    "category": "industry"
+  },
+  {
+    "id": "b24579509279cb9e1e16ba920250962a",
+    "title_en": "FinMin sets up high-level panel to review banking sector, suggest reforms",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/industry/banking/finmin-sets-up-high-level-panel-to-review-banking-sector-suggest-reforms-126103001851_1.html",
+    "published_at": "2026-10-30T16:26:12Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "印度财政部设立高级别委员会审查银行业并提出改革建议",
+    "summary_zh": "据《商业标准报》报道，印度财政部已成立高级别委员会，对银行业进行全面审查并提出改革建议。此举旨在应对当前银行业面临的挑战，提升金融体系的稳定性与效率，委员会的建议可能对印度银行业的监管框架、资本配置及数字化转型产生深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "8621caf892191c18540e77db85622210",
+    "title_en": "‘Significant security risks’: West Texas GOP group seeks hand count of every ballot",
+    "source": "Wnd.com",
+    "url": "https://www.wnd.com/2026/10/significant-security-risks-west-texas-gop-group-seeks/",
+    "published_at": "2026-10-30T16:25:11Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "'重大安全风险'：西德州共和党团体寻求对每张选票进行手工计票",
+    "summary_zh": "据Wnd.com报道，美国西德克萨斯州一个共和党团体以'重大安全风险'为由，要求对每张选票进行手工计票。这一诉求反映出部分群体对电子投票系统安全性的不信任，也引发了关于选举公正性与技术可靠性之间平衡的广泛讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "9bee4d28a9e4d390640b45a94ddb2bb8",
+    "title_en": "ECB’s Philip Lane says AI is reshaping the euro area economy, but Europe is still playing catch-up",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/ecb-lane-ai-impact-euro-area-economy/",
+    "published_at": "2026-10-30T16:15:49Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "欧洲央行Philip Lane称AI正在重塑欧元区经济，但欧洲仍在追赶",
+    "summary_zh": "据Crypto Briefing报道，欧洲央行首席经济学家Philip Lane表示，AI正在深刻重塑欧元区经济格局，但欧洲在AI技术发展和应用方面仍处于追赶阶段。他呼吁欧洲加快AI投资与创新步伐，缩小与美国和亚洲的差距，以确保欧洲在全球AI竞争中保持竞争力。",
+    "category": "industry"
+  },
+  {
+    "id": "3856fa81b76d46b8fd8cc24300eef894",
+    "title_en": "Other Barks & Bites for Friday, October 30: CAFC Reverses Attorney’s Fee Award in Section 101 Case; IFFRO Releases Study on AI’s Negative Impacts on Creators; and Fifth Circuit Reverses Patent Agreement Production Order to UPC",
+    "source": "IPWatchdog.com",
+    "url": "https://ipwatchdog.com/2026/10/30/other-barks-iffro-releases-study-on-ais-negative-impacts-on-creators-and-fifth-circuit-reverse/",
+    "published_at": "2026-10-30T16:15:45Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "10月30日周五其他简讯：CAFC在101条款案件中推翻律师费裁决；IFFRO发布关于AI对创作者负面影响的研究；第五巡回法院推翻向UPC提交专利协议的命令",
+    "summary_zh": "本期知识产权简讯涵盖多项重要动态：美国联邦巡回上诉法院（CAFC）在一起涉及专利法第101条款的案件中推翻了律师费裁决；国际复制权组织联合会（IFFRO）发布研究报告，指出人工智能对创作者群体产生负面影响；此外，美国第五巡回上诉法院撤销了一项要求向统一专利法院（UPC）提交专利协议的命令。这些进展反映了AI时代知识产权法律与政策领域的持续博弈。",
+    "category": "industry"
+  },
+  {
+    "id": "b2ba224c1b7777b515fec7138eb087e9",
+    "title_en": "EU and Canada reach agreement on critical minerals and LNG",
+    "source": "POLITICO.eu",
+    "url": "https://www.politico.eu/article/eu-and-canada-reach-agreement-on-critical-minerals-and-lng/",
+    "published_at": "2026-10-30T16:15:40Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "欧盟与加拿大就关键矿产和液化天然气达成协议",
+    "summary_zh": "欧盟与加拿大宣布就关键矿产和液化天然气（LNG）供应达成协议，旨在加强双方在能源与资源领域的合作。此举被视为欧盟降低对单一供应链依赖、保障绿色转型所需关键原材料的重要一步，同时也为加拿大资源出口开辟新市场。协议背景涉及全球关键矿产竞争加剧以及地缘政治因素对能源安全的影响。",
+    "category": "industry"
+  },
+  {
+    "id": "e1538200cc6c546d1fe52b162d52f471",
+    "title_en": "Lodha Developers H1FY27 net profit soars 63%, expects to beat full-year guidance",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-h1fy27-net-profit-soars-63-expects-to-beat-full-year-guidance/articleshow/135369310.cms",
+    "published_at": "2026-10-30T16:13:16Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "Lodha Developers 2027财年上半年净利润飙升63%，预计将超越全年指引",
+    "summary_zh": "印度房地产开发商Lodha Developers公布2027财年上半年业绩，净利润同比大幅增长63%，表现强劲。公司表示业绩增长主要得益于住宅销售势头良好及市场需求旺盛，并预计全年业绩将超过此前发布的指引目标。该消息反映出印度房地产市场在当前经济环境下的持续活跃态势。",
+    "category": "industry"
+  },
+  {
+    "id": "e58738a7773af34ecb85794fd409cde9",
+    "title_en": "Is AI Weakening Our Ability to Think for Ourselves?",
+    "source": "Psychology Today",
+    "url": "https://www.psychologytoday.com/us/blog/nurturing-resilience/202610/is-ai-weakening-our-ability-to-think-for-ourselves",
+    "published_at": "2026-10-30T16:13:03Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "人工智能正在削弱我们独立思考的能力吗？",
+    "summary_zh": "《今日心理学》刊文探讨人工智能对人类独立思考能力的潜在影响。文章指出，随着AI工具在日常决策、写作和信息获取中的广泛应用，人们可能逐渐依赖算法输出而减少自主思考，引发对认知能力退化的担忧。文章从心理学角度分析AI使用与批判性思维之间的关系，并讨论如何在享受AI便利的同时保持独立思考习惯。",
+    "category": "research"
+  },
+  {
+    "id": "261392057e77b49b0fa200748e7e4e76",
+    "title_en": "Fed’s Mary Daly says AI is reshaping how policymakers think",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/fed-daly-ai-monetary-policy-thinking/",
+    "published_at": "2026-10-30T16:10:11Z",
+    "fetched_at": "2026-10-31T16:32:38.827Z",
+    "title_zh": "美联储官员玛丽·戴利表示AI正在重塑政策制定者的思维方式",
+    "summary_zh": "美联储官员玛丽·戴利表示，人工智能正在改变政策制定者分析和决策的方式。她指出，AI技术对经济数据解读、劳动力市场评估及政策传导机制的理解产生深远影响，促使央行官员重新审视传统分析框架。戴利的表态反映出货币政策机构对AI经济影响的关注度持续上升，也引发市场对AI如何影响未来利率决策的讨论。",
     "category": "industry"
   },
   {
@@ -5311,192 +5498,5 @@
     "title_zh": "维基百科的起源故事，优缺点全揭秘",
     "summary_zh": "文章讲述维基百科的起源故事，全面呈现其发展历程中的成就与不足。从2001年创立至今，维基百科成为全球最大的免费在线百科全书，依靠志愿者协作模式取得成功。但文章也揭示其面临的挑战，包括内容偏见、编辑争议、资金压力及可靠性质疑。通过回顾创始人的理念与早期决策，文章展现维基百科如何塑造互联网知识共享生态，并反思其模式的利弊。",
     "category": "industry"
-  },
-  {
-    "id": "0f2325be7a104e58c762057e345c1c5e",
-    "title_en": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-    "source": "Internet",
-    "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-    "published_at": "2026-10-25T17:19:46Z",
-    "fetched_at": "2026-10-26T17:56:25.462Z",
-    "title_zh": "PHP2Shell漏洞利用攻击政府机构，全球扫描与AI辅助黑客迹象显现",
-    "summary_zh": "PHP2Shell漏洞利用攻击波及政府机构，全球范围内出现大规模扫描活动，并显现AI辅助黑客攻击的迹象。攻击者利用该漏洞获取未授权访问权限，政府实体成为重点目标。安全研究人员观察到自动化扫描工具广泛探测存在漏洞的系统，AI技术可能被用于提升攻击效率与规避检测。事件凸显关键基础设施面临的网络安全威胁，敦促机构及时修补漏洞并加强防御。",
-    "category": "industry"
-  },
-  {
-    "id": "97408c776c16204fc0d0d86f7b2a995e",
-    "title_en": "The core of the original Project Maven was spotting potential terrorist targets in mind-numbing hours of drone surveillance video",
-    "source": "Isegoria.net",
-    "url": "https://www.isegoria.net/2026/10/the-core-of-the-original-project-maven-was-spotting-potential-terrorist-targets-in-mind-numbing-hours-of-drone-surveillance-video/",
-    "published_at": "2026-10-25T17:12:12Z",
-    "fetched_at": "2026-10-26T17:56:25.462Z",
-    "title_zh": "原始Project Maven的核心：在枯燥的无人机监控视频中发现潜在恐怖分子目标",
-    "summary_zh": "文章回顾原始Project Maven项目的核心任务：利用AI技术在长达数小时的无人机监控视频中识别潜在恐怖分子目标。传统人工分析面对海量视频数据效率低下且易疲劳，AI可自动检测人员、车辆等目标，减轻分析员负担。该项目由谷歌参与后引发员工抗议，成为科技公司与军事合作争议的焦点。文章探讨AI在军事监控中的应用及其伦理与政策影响。",
-    "category": "research"
-  },
-  {
-    "id": "c8974c2ec39d971476980261cd56ea8a",
-    "title_en": "Over The Past 55 Years The Standard Of Living Of American Workers Has Fallen Much More Than Most People Realize",
-    "source": "Theeconomiccollapseblog.com",
-    "url": "http://theeconomiccollapseblog.com/over-the-past-55-years-the-standard-of-living-of-american-workers-has-fallen-much-more-than-most-people-realize/",
-    "published_at": "2026-10-25T17:03:56Z",
-    "fetched_at": "2026-10-26T17:56:25.462Z",
-    "title_zh": "过去55年美国工人生活水平下降幅度远超多数人想象",
-    "summary_zh": "文章指出，过去55年美国工人的生活水平下降幅度远超多数人想象。尽管官方经济数据可能显示增长，但考虑通胀、住房、医疗、教育成本上升及工资停滞等因素，实际购买力和生活质量显著下滑。文章分析制造业外流、工会衰落、金融化等结构性原因，认为美国工人阶层面临长期经济困境，贫富差距扩大，社会流动性下降，呼吁关注这一被低估的现实问题。",
-    "category": "industry"
-  },
-  {
-    "id": "324fe27793de592fcc2bc0a9afa42224",
-    "title_en": "This Switch 2 sequel accessory was a few millimeters away from being good",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
-    "published_at": "2026-10-25T17:00:00.000Z",
-    "fetched_at": "2026-10-25T20:09:32.216Z",
-    "title_zh": "这款Switch 2续作配件只差几毫米就能称得上优秀",
-    "summary_zh": "The Verge评测了一款面向Switch 2的续作配件，认为其整体设计思路不错，但在人体工学或接口适配等细节上存在几毫米的偏差，导致使用体验打了折扣。文章分析了该配件的优缺点，并给出是否值得购买的参考建议。",
-    "category": "product"
-  },
-  {
-    "id": "b8f1d92dc2639331bf220c3556fa567f",
-    "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "published_at": "2026-10-25T16:57:32.000Z",
-    "fetched_at": "2026-10-25T20:09:32.108Z",
-    "title_zh": "阿波罗经济学家称：AI对大多数企业带来“零财务回报”",
-    "summary_zh": "阿波罗全球管理公司经济学家指出，尽管企业在人工智能领域投入巨大，但大多数公司尚未从AI投资中获得可观的财务回报。这一观点引发业界对AI投资回报率的广泛讨论，也提醒企业在推进AI落地时需更关注实际业务价值而非盲目跟风投入。",
-    "category": "industry"
-  },
-  {
-    "id": "9bfef0e6e8d1e40298c4717d3efb6e24",
-    "title_en": "Now you can watch Instagram Reels on your Apple TV",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-    "published_at": "2026-10-25T16:20:17.000Z",
-    "fetched_at": "2026-10-25T20:09:32.216Z",
-    "title_zh": "现在你可以在Apple TV上观看Instagram Reels了",
-    "summary_zh": "Instagram宣布其短视频功能Reels正式登陆Apple TV平台，用户可通过大屏电视浏览竖屏短视频内容。此举是Meta拓展视频分发渠道、与YouTube等平台争夺客厅场景用户的重要一步，也反映出短视频向大屏迁移的趋势。",
-    "category": "product"
-  },
-  {
-    "id": "90a1cb07d1c5532aaa1b807a82693942",
-    "title_en": "The hottest AI wearables and gadgets you should know about",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "published_at": "2026-10-25T14:10:00.000Z",
-    "fetched_at": "2026-10-25T15:17:09.473Z",
-    "title_zh": "你应该了解的最热门AI可穿戴设备与智能硬件",
-    "summary_zh": "TechCrunch盘点当前最受关注的AI可穿戴设备与智能硬件，涵盖AI眼镜、智能戒指、随身录音设备等新兴品类。这些产品将大模型能力嵌入日常穿戴场景，主打实时翻译、语音助手、健康监测等功能。文章分析了各产品的核心卖点、实际体验与市场定位，并指出AI硬件正从概念验证走向消费级落地，但续航、隐私与实用性仍是用户选购的关键考量。",
-    "category": "product"
-  },
-  {
-    "id": "19250ae33b5227a0412eb135e8257d49",
-    "title_en": "r/opensource just banned AI, non-English speakers, and more",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "published_at": "2026-10-25T13:25:32.000Z",
-    "fetched_at": "2026-10-25T15:17:09.557Z",
-    "title_zh": "r/opensource版块封禁AI内容及非英语发言者等",
-    "summary_zh": "Reddit开源社区r/opensource宣布新规，禁止AI生成内容、非英语发言者以及部分其他类型帖子，引发社区激烈争议。版主称此举旨在遏制低质量AI灌水和维护讨论秩序，但批评者认为规则过于宽泛，可能误伤合法贡献者和国际用户。该事件折射出开源社区在AI时代面临的内容治理困境，也凸显平台在自动化内容泛滥下如何平衡开放性与质量的难题。",
-    "category": "industry"
-  },
-  {
-    "id": "e6608c8f1efe4bc3a0dd1039a5988eed",
-    "title_en": "Wallhack M-001 Review: When Fun Overrides Specs",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/wallhack-m-001/",
-    "published_at": "2026-10-25T12:30:00.000Z",
-    "fetched_at": "2026-10-25T15:17:09.798Z",
-    "title_zh": "Wallhack M-001 评测：当趣味性凌驾于参数之上",
-    "summary_zh": "Wired 对 Wallhack M-001 进行了评测，指出这款产品虽然在硬件规格上并不突出，但其独特的使用体验和趣味性足以让用户忽略参数上的不足。评测认为，在当下同质化严重的市场中，M-001 凭借差异化的设计理念赢得了编辑的认可，适合追求新鲜体验而非极致性能的消费者。",
-    "category": "product"
-  },
-  {
-    "id": "ec4100b5e401e0ad2e50d03fcf4aaf81",
-    "title_en": "Google’s AI search changes upended online publishing",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "published_at": "2026-10-25T12:00:00.000Z",
-    "fetched_at": "2026-10-25T15:17:09.557Z",
-    "title_zh": "谷歌AI搜索改版冲击在线出版业",
-    "summary_zh": "The Verge报道称，谷歌AI搜索功能（如AI概览）的改版正在深刻改变在线出版生态。AI摘要直接回答用户问题，减少了点击跳转，导致新闻和内容网站流量下滑、广告收入承压。出版商担忧自身内容被AI无偿使用却得不到流量回报，部分已提起诉讼或寻求授权合作。文章探讨了AI搜索对内容创作者商业模式的结构性冲击及行业应对之策。",
-    "category": "industry"
-  },
-  {
-    "id": "e0c37b502f3bccc4f8c58aec5827b343",
-    "title_en": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
-    "published_at": "2026-10-25T12:00:00.000Z",
-    "fetched_at": "2026-10-25T15:17:09.798Z",
-    "title_zh": "科学家成功将反物质粒子囚禁数月以研究其奥秘",
-    "summary_zh": "据 Wired 报道，科研人员成功将反物质粒子长时间囚禁达数月之久，为深入研究其物理特性创造了条件。这一突破有望帮助科学家更精确地检验基础物理理论，理解宇宙中物质与反物质不对称的谜题，对粒子物理学和宇宙学研究具有重要意义。",
-    "category": "research"
-  },
-  {
-    "id": "94efa825083ca783fa75ef9e9a157e83",
-    "title_en": "PM Modi inaugurates RBI’s Rs 169-crore data centre, cybersecurity institute in Odisha",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/india/pm-modi-inaugurates-rbis-rs-169-crore-data-centre-cybersecurity-institute-in-odisha/articleshow/135190135.cms",
-    "published_at": "2026-10-25T11:47:54Z",
-    "fetched_at": "2026-10-26T11:53:58.046Z",
-    "title_zh": "莫迪总理为印度储备银行在奥迪沙邦造价 1.69 亿卢比的数据中心和网络安全研究所揭幕",
-    "summary_zh": "据《印度时报》报道，印度总理莫迪在奥迪沙邦为印度储备银行（RBI）造价约 1.69 亿卢比的数据中心及网络安全研究所揭幕。该项目旨在提升印度金融系统的数据基础设施与网络安全能力，体现了印度在数字化金融和网络防护领域的持续投入。",
-    "category": "industry"
-  },
-  {
-    "id": "a63566ba1dc7504e29f39b7fc4b7ff1d",
-    "title_en": "Nvidia CEO Jensen Huang says AGI has arrived, and analysts name the stocks to watch",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/nvidia-ceo-huang-agi-arrived-stocks/",
-    "published_at": "2026-10-25T11:35:52Z",
-    "fetched_at": "2026-10-26T11:53:58.046Z",
-    "title_zh": "英伟达 CEO 黄仁勋称 AGI 已经到来，分析师点名值得关注的股票",
-    "summary_zh": "据 Crypto Briefing 报道，英伟达 CEO 黄仁勋表示通用人工智能（AGI）已经到来，此番言论引发市场热议。分析师据此点名了可能受益的相关股票，涉及算力、芯片和 AI 应用等领域。报道同时提醒，AGI 的定义仍存争议，投资者需理性看待相关表态与市场反应。",
-    "category": "industry"
-  },
-  {
-    "id": "ce9db91ee6c6db18b673f7df7c636dda",
-    "title_en": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
-    "source": "Wired",
-    "url": "https://www.wired.com/gallery/best-folding-phones/",
-    "published_at": "2026-10-25T11:30:00.000Z",
-    "fetched_at": "2026-10-25T15:17:09.798Z",
-    "title_zh": "2026年六款最佳折叠屏手机：三星、苹果、谷歌、摩托罗拉",
-    "summary_zh": "Wired 盘点了 2026 年最值得关注的六款折叠屏手机，涵盖三星、苹果、谷歌和摩托罗拉等品牌。文章从铰链设计、屏幕折痕、续航和软件适配等维度进行对比评测，为消费者选购折叠屏设备提供参考，也反映出折叠屏市场正逐步走向成熟。",
-    "category": "product"
-  },
-  {
-    "id": "8215510b80bd12622c26c73f3e70ef58",
-    "title_en": "Recent labor market data show some signs of AI-related hiring headwinds",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/20f1160062895742",
-    "published_at": "2026-10-25T11:24:01Z",
-    "fetched_at": "2026-10-26T11:53:58.046Z",
-    "title_zh": "最新劳动力市场数据显现出部分与 AI 相关的招聘逆风迹象",
-    "summary_zh": "据 Biztoc 报道，最新劳动力市场数据出现了一些与 AI 相关的招聘逆风迹象。部分岗位需求因 AI 自动化而放缓，企业招聘策略随之调整。报道分析了这些数据背后的行业变化，探讨 AI 对就业结构的潜在影响，以及劳动力市场未来可能面临的挑战与转型。",
-    "category": "industry"
-  },
-  {
-    "id": "1c2c79c3eb3240cbf7d20a16cd950e00",
-    "title_en": " Disgraceful scenes: Série C final sees mass brawl and eight red cards",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/disgraceful-scenes-serie-c-final-sees-mass-brawl-and-eight-red-cards-43669203",
-    "published_at": "2026-10-25T11:22:00Z",
-    "fetched_at": "2026-10-26T11:53:58.046Z",
-    "title_zh": "场面令人不齿：巴西丙级联赛决赛爆发大规模斗殴，出示八张红牌",
-    "summary_zh": "据 Onefootball 报道，巴西丙级联赛决赛中爆发大规模球员斗殴，裁判共出示八张红牌，场面被形容为“令人不齿”。事件引发对赛场纪律和球员行为的广泛批评，相关方面可能面临追加处罚。该报道属于体育新闻，与 AI 或科技领域无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "d0e78186a4bacae16492a6712f51f7b8",
-    "title_en": "To make AI morally good, tech companies turn to religion. Some say it's not so simple",
-    "source": "Abcnews.com",
-    "url": "https://abcnews.com/Technology/wireStory/make-ai-morally-good-tech-companies-turning-religion-137549995",
-    "published_at": "2026-10-25T11:20:27Z",
-    "fetched_at": "2026-10-26T11:53:58.046Z",
-    "title_zh": "为了让 AI 在道德上向善，科技公司转向宗教，但有人认为没那么简单",
-    "summary_zh": "据 ABC 新闻报道，一些科技公司开始借助宗教理念来塑造 AI 的道德价值观，试图让模型输出更符合伦理规范。然而批评者指出，宗教传统多样且复杂，简单移植难以解决 AI 对齐中的深层问题，还可能带来偏见与文化冲突，AI 伦理治理仍需更系统的方案。",
-    "category": "research"
   }
 ]
