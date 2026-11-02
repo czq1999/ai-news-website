@@ -1,5 +1,49 @@
 [
   {
+    "id": "3f7de4b7b7346aa672e55e0c19c17638",
+    "title_en": "Linux服务器运维基本操作 - 阿里云认证",
+    "source": "edu.aliyun.com",
+    "url": "https://edu.aliyun.com/course/314200/",
+    "published_at": "2026-11-02T14:15:26.771Z",
+    "fetched_at": "2026-11-02T14:15:26.771Z",
+    "title_zh": "Linux服务器运维基本操作 - 阿里云认证",
+    "summary_zh": "本文面向Linux服务器运维入门与认证备考，系统梳理日常运维基本操作，涵盖用户与权限管理、文件系统操作、进程与服务管理、网络配置及日志排查等核心内容。文章结合阿里云认证知识体系，强调命令实践与故障定位思路，帮助运维人员夯实基础技能，提升服务器日常管理与问题排查的实操能力。",
+    "topic": "ops"
+  },
+  {
+    "id": "88c0aa47316fd0383e1877a51ed9b0a1",
+    "title_en": "美团发布LongCat-2.5大模型，“国芯国模”实现新突破",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20261102A0730000",
+    "published_at": "2026-11-02T14:15:26.770Z",
+    "fetched_at": "2026-11-02T14:15:26.770Z",
+    "title_zh": "美团发布LongCat-2.5大模型，“国芯国模”实现新突破",
+    "summary_zh": "美团正式发布LongCat-2.5大模型，重点展示在国产芯片与国产模型协同适配上的新进展，体现“国芯国模”软硬件一体化路线的可行性。文章介绍了该模型在训练与推理环节对国产算力平台的适配优化，以及在长上下文处理等能力上的提升，对关注国产化AI基础设施与模型部署落地的技术团队具有参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "aa58b7cc9a27949dd5e250897113e72e",
+    "title_en": "什么是自主AI 智能体？",
+    "source": "nvidia.cn",
+    "url": "https://www.nvidia.cn/glossary/ai-agents/",
+    "published_at": "2026-11-02T14:15:26.770Z",
+    "fetched_at": "2026-11-02T14:15:26.770Z",
+    "title_zh": "什么是自主AI智能体？",
+    "summary_zh": "本文系统介绍自主AI智能体（Autonomous Agent）的概念与核心机制，解析其如何通过感知、规划、工具调用与记忆等模块实现目标驱动的自主任务执行。文章对比了智能体与传统LLM问答模式的差异，说明其在多步骤推理、环境交互和自动化工作流中的应用潜力，并讨论了可靠性、可控性等工程落地中的关键挑战。",
+    "topic": "ai"
+  },
+  {
+    "id": "7bbdc7df32ee925799cb58016bd7ea4c",
+    "title_en": "不止大模型 2026 AI突破核心前瞻，北京人工智能展揭示技术演进答案 产品大全 北京创遇科技有限公司",
+    "source": "fgnxq.com",
+    "url": "http://www.fgnxq.com/product/33.html",
+    "published_at": "2026-11-02T14:15:26.769Z",
+    "fetched_at": "2026-11-02T14:15:26.770Z",
+    "title_zh": "不止大模型：2026年AI突破核心前瞻，北京人工智能展揭示技术演进答案",
+    "summary_zh": "本文围绕2026年AI技术演进方向展开前瞻分析，指出大模型并非唯一突破点，多模态融合、推理能力增强、Agent自主决策等方向将成为下一阶段重点。文章结合北京人工智能展的展示内容，梳理了从模型规模扩张向能力纵深发展的技术趋势，并探讨了算力优化、训练效率提升等工程实践议题，为技术团队把握AI演进路线提供参考。",
+    "topic": "ai"
+  },
+  {
     "id": "95c1e9aacb62372cade9759b9dbf312f",
     "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
     "source": "cloud.tencent.com",
@@ -2153,50 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:32.700Z",
     "title_zh": "2026年大模型市场评估报告",
     "summary_zh": "从市场角度评估2026年大模型产业格局，分析主要厂商竞争态势、开源与闭源模型份额变化及商业化模式演进。报告涵盖API调用、私有化部署、行业定制等收入结构，讨论价格战与成本下降对市场的影响，并对未来技术投入方向与投资机会给出判断。",
-    "topic": "ai"
-  },
-  {
-    "id": "fc784be33a8404e1d124b07098b4eca8",
-    "title_en": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
-    "source": "youres.cn",
-    "url": "https://www.youres.cn/tags-2108.html",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen选型指南",
-    "summary_zh": "对LangChain、CrewAI、AutoGen三大Agent开发框架进行横向评测，从架构设计、多Agent协作、工具调用、可扩展性与学习曲线等维度展开对比。文章结合代码示例说明各自适用场景，给出面向不同团队规模与业务需求的选型建议，帮助开发者规避常见集成与调试陷阱。",
-    "topic": "ai"
-  },
-  {
-    "id": "132a3abc2f2aed829b4f46f2ed8e224e",
-    "title_en": "年AI Agent开发教程推荐：开源免费从零基础到架构师进阶",
-    "source": "cn486.com",
-    "url": "https://www.cn486.com/news/4355333",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "年度AI Agent开发教程推荐：开源免费从零基础到架构师进阶",
-    "summary_zh": "整理年度优质AI Agent开发教程资源，覆盖从零基础入门到架构师进阶的完整学习路径。内容包含Agent核心概念、工具调用、记忆与规划机制、多Agent编排及工程化部署，推荐开源免费项目与实战案例，帮助开发者系统构建Agent开发能力并快速上手实践。",
-    "topic": "ai"
-  },
-  {
-    "id": "786903aa5284c7147fbb23e46cb60077",
-    "title_en": "Pi Agent 是一个轻量级、可扩展的个人 AI Agent 开发框架。",
-    "source": "m.runoob.com",
-    "url": "https://m.runoob.com/pi-agent/pi-agent-tutorial.html",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "Pi Agent：一个轻量级、可扩展的个人AI Agent开发框架",
-    "summary_zh": "介绍Pi Agent这一轻量级、可扩展的个人AI Agent开发框架，讲解其核心架构、插件扩展机制与工具调用方式。文章说明如何基于该框架快速搭建个人Agent应用，涵盖任务规划、上下文管理与外部工具集成，适合希望低成本上手Agent开发的个人开发者参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "8edd2d5f7803ae64602d76876edfbdbc",
-    "title_en": "AI Agent 教程中心",
-    "source": "aiskillnav.com",
-    "url": "https://aiskillnav.com/tutorials?level=all&tut_cat=agent",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI Agent教程中心",
-    "summary_zh": "汇集AI Agent相关教程的导航中心，整合入门概念、框架使用、工具调用与实战项目等学习资源。内容按难度与主题分类，帮助开发者系统了解Agent开发流程，从基础原理逐步过渡到多Agent协作与工程化部署，适合作为持续学习与查阅的入口。",
     "topic": "ai"
   }
 ]
