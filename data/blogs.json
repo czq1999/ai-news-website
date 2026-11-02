@@ -1,5 +1,27 @@
 [
   {
+    "id": "95c1e9aacb62372cade9759b9dbf312f",
+    "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2713079",
+    "published_at": "2026-11-02T03:31:08.157Z",
+    "fetched_at": "2026-11-02T03:31:08.157Z",
+    "title_zh": "WordPress核心高危漏洞分析：CVE-2026-60137 与…… - 腾讯云",
+    "summary_zh": "本文针对WordPress核心中披露的高危漏洞CVE-2026-60137展开深入分析，梳理漏洞成因、触发条件与影响范围，评估不同版本WordPress站点的受攻击面。文章结合腾讯云安全团队的实战视角，给出漏洞复现思路、利用链推演及修复建议，并强调在插件生态复杂、版本碎片化严重的WordPress环境中，及时升级核心版本与部署WAF规则的重要性，为运维与安全人员提供可落地的防护参考。",
+    "topic": "security"
+  },
+  {
+    "id": "20c0555c4e9f8100ad5bbf28ff5a9cbd",
+    "title_en": "全栈开发5 天前信息泄露·openssh安全·cve-2026-3497·cve",
+    "source": "jishuzhan.net",
+    "url": "https://jishuzhan.net/tag/168834",
+    "published_at": "2026-11-02T03:31:08.157Z",
+    "fetched_at": "2026-11-02T03:31:08.157Z",
+    "title_zh": "全栈开发：5天前信息泄露·OpenSSH安全·CVE-2026-3497·CVE",
+    "summary_zh": "本文围绕OpenSSH相关安全事件展开，重点分析CVE-2026-3497漏洞的技术细节，包括漏洞触发路径、受影响版本范围及潜在的信息泄露风险。文章结合近期披露的信息泄露事件，讨论SSH服务在服务器运维中的攻击面，并给出升级OpenSSH、加固配置、限制访问来源与审计日志等实操建议，帮助全栈开发者与运维人员在日常部署中快速识别并修复此类安全隐患。",
+    "topic": "security"
+  },
+  {
     "id": "55b51b4476dcdf91748b953cb985f8ea",
     "title_en": "AEM環境和最近的PHP漏洞(CVE-2026-109618",
     "source": "experienceleague.adobe.com",
@@ -2176,27 +2198,5 @@
     "title_zh": "AI Agent教程中心",
     "summary_zh": "汇集AI Agent相关教程的导航中心，整合入门概念、框架使用、工具调用与实战项目等学习资源。内容按难度与主题分类，帮助开发者系统了解Agent开发流程，从基础原理逐步过渡到多Agent协作与工程化部署，适合作为持续学习与查阅的入口。",
     "topic": "ai"
-  },
-  {
-    "id": "7bbdc7df32ee925799cb58016bd7ea4c",
-    "title_en": "不止大模型 2026 AI突破核心前瞻，北京人工智能展揭示技术演进答案 产品大全 北京创遇科技有限公司",
-    "source": "fgnxq.com",
-    "url": "http://www.fgnxq.com/product/33.html",
-    "published_at": "2026-10-28T17:40:32.699Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "不止大模型：2026年AI突破核心前瞻，北京人工智能展揭示技术演进答案",
-    "summary_zh": "文章以北京人工智能展为切入点，梳理2026年AI技术演进方向，指出大模型之外的多条突破路径。内容涵盖多模态融合、推理效率优化、Agent工程化落地等关键趋势，并结合展会现场产品案例，分析从模型能力到产业应用的转化逻辑，为技术选型与研发规划提供前瞻性参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "2c96c70cd9ecd3b5ee5c58005175e89c",
-    "title_en": "王东、刘东破坏计算机信息系统一审刑事判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=b003711c7a3f49f9bd86ad0300b28ad2",
-    "published_at": "2026-10-28T11:52:09.912Z",
-    "fetched_at": "2026-10-28T11:52:09.912Z",
-    "title_zh": "王东、刘东破坏计算机信息系统一审刑事判决书",
-    "summary_zh": "该刑事判决书审理了王东、刘东涉嫌破坏计算机信息系统罪的案件，涉及对计算机系统中存储、处理或传输的数据进行删除、修改、增加等操作，造成系统不能正常运行且后果严重的行为认定。文书呈现了犯罪事实、电子证据取证、损失评估及量刑情节的审查过程，对理解《刑法》第二百八十六条的构成要件、电子数据取证规范与网络犯罪量刑标准具有参考价值。",
-    "topic": "security"
   }
 ]
