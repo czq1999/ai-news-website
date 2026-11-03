@@ -1,5 +1,82 @@
 [
   {
+    "id": "a39e0b3df2e0a0cd10fa926ea1c3fc39",
+    "title_en": "神龙漏洞库: 漏洞库- CVE漏洞查询、中文分析与POC",
+    "source": "cve.imfht.com",
+    "url": "https://cve.imfht.com/",
+    "published_at": "2026-11-03T00:13:48.112Z",
+    "fetched_at": "2026-11-03T00:13:48.112Z",
+    "title_zh": "神龙漏洞库：CVE漏洞查询、中文分析与POC",
+    "summary_zh": "神龙漏洞库是一个面向安全从业者的CVE漏洞查询平台，提供漏洞编号检索、中文技术分析及POC验证信息。文章介绍该平台如何整合漏洞详情、影响范围、修复建议与利用验证，帮助安全人员快速评估风险并开展漏洞排查与应急响应，适用于渗透测试、安全审计与漏洞管理场景。",
+    "topic": "security"
+  },
+  {
+    "id": "2c27f4004e729902dccff842a25dc303",
+    "title_en": "从结对到自主：让AI交付可运行的工程成果",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1997365445603373418",
+    "published_at": "2026-11-03T00:13:43.325Z",
+    "fetched_at": "2026-11-03T00:13:43.325Z",
+    "title_zh": "从结对到自主：让AI交付可运行的工程成果",
+    "summary_zh": "本文探讨AI编程助手从结对编程向自主交付的演进路径，分析如何让AI不仅生成代码片段，还能独立完成需求理解、方案设计、编码实现与测试验证的完整闭环。文章结合工程实践讨论任务分解、上下文管理、自动化验证与人工审核等关键环节，提出提升AI交付可运行成果可靠性的方法论，对推进AI辅助研发落地具有实践参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "a35d70764cb44a6d0d95e970d96cc70e",
+    "title_en": "掌握Linux运维入门技巧与实战指南",
+    "source": "my.oschina.net",
+    "url": "https://my.oschina.net/emacs_8748732/blog/17170962",
+    "published_at": "2026-11-03T00:13:43.325Z",
+    "fetched_at": "2026-11-03T00:13:43.325Z",
+    "title_zh": "掌握Linux运维入门技巧与实战指南",
+    "summary_zh": "本文面向Linux运维初学者，系统梳理日常运维必备的核心技能与实战技巧，涵盖常用命令、用户与权限管理、进程与资源监控、日志分析、服务配置及故障排查等内容。文章结合真实场景给出操作示例与最佳实践，帮助读者快速建立运维知识框架，提升服务器管理与问题定位能力，适合入门者与初级运维工程师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "fc784be33a8404e1d124b07098b4eca8",
+    "title_en": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
+    "source": "youres.cn",
+    "url": "https://www.youres.cn/tags-2108.html",
+    "published_at": "2026-11-03T00:13:43.324Z",
+    "fetched_at": "2026-11-03T00:13:43.324Z",
+    "title_zh": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
+    "summary_zh": "本文横向对比LangChain、CrewAI与AutoGen三大主流AI Agent开发框架，从架构设计、多Agent协作机制、工具调用能力、可扩展性及学习曲线等维度展开评测。文章结合具体代码示例分析各框架在任务编排、状态管理与生产部署中的优劣，并给出面向不同场景（如单Agent工具链、多Agent协同、自动化工作流）的选型建议，帮助开发者根据团队技术栈与业务需求做出合理决策。",
+    "topic": "ai"
+  },
+  {
+    "id": "132a3abc2f2aed829b4f46f2ed8e224e",
+    "title_en": "年AI Agent开发教程推荐：开源免费从零基础到架构师进阶",
+    "source": "cn486.com",
+    "url": "https://www.cn486.com/news/4355333",
+    "published_at": "2026-11-03T00:13:43.324Z",
+    "fetched_at": "2026-11-03T00:13:43.324Z",
+    "title_zh": "年度AI Agent开发教程推荐：开源免费从零基础到架构师进阶",
+    "summary_zh": "本文系统整理了一套从入门到进阶的AI Agent开源免费学习路线，覆盖Prompt工程、工具调用、记忆机制、多Agent协作与RAG集成等核心知识点。教程按阶段划分，从零基础环境搭建逐步过渡到架构设计与工程化落地，配套开源项目与实战案例，适合希望系统掌握Agent开发能力并进阶为架构师的技术人员参考学习。",
+    "topic": "ai"
+  },
+  {
+    "id": "786903aa5284c7147fbb23e46cb60077",
+    "title_en": "Pi Agent 是一个轻量级、可扩展的个人 AI Agent 开发框架。",
+    "source": "m.runoob.com",
+    "url": "https://m.runoob.com/pi-agent/pi-agent-tutorial.html",
+    "published_at": "2026-11-03T00:13:43.324Z",
+    "fetched_at": "2026-11-03T00:13:43.324Z",
+    "title_zh": "Pi Agent：一个轻量级、可扩展的个人AI Agent开发框架",
+    "summary_zh": "Pi Agent是一个面向个人开发者的轻量级AI Agent框架，强调可扩展性与低上手门槛。文章介绍其核心架构，包括Agent循环、工具注册机制与插件式扩展设计，说明如何通过简洁API快速构建自定义Agent并接入外部工具与模型。适合希望轻量部署、灵活定制个人Agent应用的开发者了解其设计理念与使用方式。",
+    "topic": "ai"
+  },
+  {
+    "id": "8edd2d5f7803ae64602d76876edfbdbc",
+    "title_en": "AI Agent 教程中心",
+    "source": "aiskillnav.com",
+    "url": "https://aiskillnav.com/tutorials?level=all&tut_cat=agent",
+    "published_at": "2026-11-03T00:13:43.324Z",
+    "fetched_at": "2026-11-03T00:13:43.324Z",
+    "title_zh": "AI Agent 教程中心",
+    "summary_zh": "该页面为AI Agent教程聚合中心，汇集从基础概念到工程实践的系列学习资源，涵盖Agent架构原理、工具调用、记忆与规划、多Agent协作及主流框架实战等内容。教程按难度分级组织，便于开发者系统性检索与学习，快速构建AI Agent开发知识体系并应用于实际项目。",
+    "topic": "ai"
+  },
+  {
     "id": "3f7de4b7b7346aa672e55e0c19c17638",
     "title_en": "Linux服务器运维基本操作 - 阿里云认证",
     "source": "edu.aliyun.com",
@@ -2120,83 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:32.701Z",
     "title_zh": "Agent 开发指北",
     "summary_zh": "本文是一份面向开发者的Agent开发指南，系统梳理Agent的核心概念、常见架构模式与工程实践要点。内容涵盖提示词设计、工具调用、记忆与规划机制，并结合实际开发经验总结常见问题与优化建议，帮助开发者快速建立Agent开发的整体认知并应用于实际项目。",
-    "topic": "ai"
-  },
-  {
-    "id": "a843fc4b9c1e09cb9168d2714cdbfdea",
-    "title_en": "微调打造专属大模型",
-    "source": "cn.aliyun.com",
-    "url": "https://cn.aliyun.com/solution/tech-solution/fine-tuning?from_alibabacloud=",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "微调打造专属大模型",
-    "summary_zh": "本文介绍如何通过微调技术打造面向特定业务的大模型，涵盖数据准备与清洗、微调方法选择、训练参数配置及效果评估等关键环节。内容结合平台实践讲解LoRA等高效微调方案的落地流程，帮助读者在有限算力下构建专属模型，提升垂直场景下的任务表现。",
-    "topic": "ai"
-  },
-  {
-    "id": "d41001fc5f29bf500754d5d114672981",
-    "title_en": "2026年7月大模型最新排行榜：神仙打架！",
-    "source": "luomor.com",
-    "url": "https://www.luomor.com/blog/2026/07/24/2026%E5%B9%B47%E6%9C%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%EF%BC%81%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E6%AD%A3",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "2026年7月大模型最新排行榜：神仙打架！",
-    "summary_zh": "汇总2026年7月主流大模型的最新评测排名，对比各模型在推理、代码、多模态、长上下文等维度的表现差异。文章梳理榜单变化背后的技术路线分化，分析头部模型的性能差距与成本取舍，帮助开发者根据实际业务场景选择合适模型，并关注开源与闭源阵营的竞争格局。",
-    "topic": "ai"
-  },
-  {
-    "id": "43632d437a4259ef777ff99bd24950b5",
-    "title_en": "2026年AI大模型技术再获突破：推理速度提升300%，成本下降60%",
-    "source": "zxiaolin.com",
-    "url": "https://zxiaolin.com/newsflashes/3061.html",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "2026年AI大模型技术再获突破：推理速度提升300%，成本下降60%",
-    "summary_zh": "报道2026年大模型在推理效率与成本控制上的最新突破，推理速度提升300%、成本下降60%。文章分析背后的架构优化、量化压缩、推理引擎调度等关键技术手段，探讨这些改进对高并发部署、实时应用和中小企业落地大模型的实际价值，并评估其对行业成本结构的影响。",
-    "topic": "ai"
-  },
-  {
-    "id": "dca2e5ae33e430ee1f4da43f1b284dd2",
-    "title_en": "2026年AI大模型最新进展：多模态能力实现重大突破",
-    "source": "xxcoder.com",
-    "url": "https://xxcoder.com/posts/mqdozrl2",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "2026年AI大模型最新进展：多模态能力实现重大突破",
-    "summary_zh": "介绍2026年大模型在多模态能力上的重大进展，涵盖图文音视频统一理解与生成的技术突破。文章分析多模态对齐、跨模态表征学习等核心方法，讨论其在内容创作、智能交互、工业质检等场景的落地潜力，并指出当前多模态模型在数据、算力与评测标准方面仍面临的挑战。",
-    "topic": "ai"
-  },
-  {
-    "id": "27ae7942d1f1bb432beb41035fcc22d2",
-    "title_en": "亮点剧透丨大模型产业应用如何落地，WAIC 探讨技术突破与最新实践",
-    "source": "leiphone.com",
-    "url": "https://www.leiphone.com/category/ai/kd1q7n7r1j8hFb9U.html",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "亮点剧透：大模型产业应用如何落地，WAIC探讨技术突破与最新实践",
-    "summary_zh": "围绕WAIC大会内容，聚焦大模型从技术突破走向产业落地的实践路径。文章预告并梳理各分论坛亮点，涵盖行业大模型微调、RAG知识增强、Agent工作流编排等落地方案，结合企业真实案例讨论部署成本、数据合规与效果评估问题，为产业界提供可借鉴的实施经验。",
-    "topic": "ai"
-  },
-  {
-    "id": "4fd89bd00d2ef4bdb79ef361a4b4658a",
-    "title_en": "2026年大模型项目调研报告",
-    "source": "chinabgao.com",
-    "url": "https://www.chinabgao.com/k/damoxing/projectsurvey",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "2026年大模型项目调研报告",
-    "summary_zh": "基于调研数据系统梳理2026年大模型项目的整体格局，覆盖技术路线、开源生态、行业应用与商业化进展。报告分析企业在模型选型、微调部署、算力投入等方面的决策依据，总结典型项目成败因素，并给出面向研发团队与决策者的落地建议，具有较强的行业参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "e2c9c16daf8363242c0f4e7e328e36b6",
-    "title_en": "2026年大模型市场评估报告",
-    "source": "chinabgao.com",
-    "url": "https://www.chinabgao.com/k/damoxing/assessment",
-    "published_at": "2026-10-28T17:40:32.700Z",
-    "fetched_at": "2026-10-28T17:40:32.700Z",
-    "title_zh": "2026年大模型市场评估报告",
-    "summary_zh": "从市场角度评估2026年大模型产业格局，分析主要厂商竞争态势、开源与闭源模型份额变化及商业化模式演进。报告涵盖API调用、私有化部署、行业定制等收入结构，讨论价格战与成本下降对市场的影响，并对未来技术投入方向与投资机会给出判断。",
     "topic": "ai"
   }
 ]
