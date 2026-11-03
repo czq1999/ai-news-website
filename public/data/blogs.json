@@ -1,5 +1,49 @@
 [
   {
+    "id": "d752d3437cf555bd83e4d91416ca2d77",
+    "title_en": "PHP存在高風險安全漏洞(CVE-2026 ... - 國家資通安全研究院",
+    "source": "nics.nat.gov.tw",
+    "url": "https://www.nics.nat.gov.tw/core_business/information_security_information_sharing/Vulnerability_Alert_Announcements/5c4e9af1-4275-44ef-a277-c692786b5a2c/",
+    "published_at": "2026-11-03T22:43:53.296Z",
+    "fetched_at": "2026-11-03T22:43:53.296Z",
+    "title_zh": "PHP存在高风险安全漏洞（CVE-2026）——国家资通安全研究院发布",
+    "summary_zh": "国家资通安全研究院发布公告，指出PHP存在高风险安全漏洞（CVE-2026系列），可能影响大量使用PHP构建的Web服务。文章说明漏洞的成因、影响范围与潜在攻击方式，并给出受影响版本的识别方法与修复建议，包括升级至安全版本、临时缓解措施及配置加固要点。建议运维与开发人员尽快排查线上PHP环境，评估暴露面并及时修补，以降低被利用风险。",
+    "topic": "security"
+  },
+  {
+    "id": "dd9691dcb1fb19850894529720791f9e",
+    "title_en": "minhuan3 个月前react·大模型应用·agent架构·ai应用架构设计·plan-execute大模型A",
+    "source": "jishuzhan.net",
+    "url": "https://jishuzhan.net/tag/140010",
+    "published_at": "2026-11-03T22:43:50.327Z",
+    "fetched_at": "2026-11-03T22:43:50.327Z",
+    "title_zh": "基于React的大模型应用Agent架构设计与Plan-Execute模式实践",
+    "summary_zh": "本文围绕大模型应用中的Agent架构展开，重点讲解Plan-Execute（规划-执行）模式的设计思路与落地实践。内容涵盖如何将复杂任务拆解为可执行的子步骤、规划器与执行器的职责划分、工具调用与状态管理机制，以及在React前端应用中集成Agent能力的工程方案。文章结合AI应用架构设计经验，讨论任务编排、上下文传递、错误重试与结果聚合等关键技术点，为开发者构建可扩展、可维护的Agent系统提供参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "4f038347f413e2d20948aa945ae14026",
+    "title_en": "Agent 开发指北",
+    "source": "tool.lu",
+    "url": "https://tool.lu/en_US/article/79j/detail",
+    "published_at": "2026-11-03T22:43:50.327Z",
+    "fetched_at": "2026-11-03T22:43:50.327Z",
+    "title_zh": "Agent开发指南",
+    "summary_zh": "本文系统梳理Agent开发的核心要点，从基础概念到工程实践逐步展开。内容涉及Agent的组成结构、工具调用与函数编排、提示词设计、记忆与上下文管理、多轮任务规划等关键环节，并讨论常见开发框架的选型与集成方式。文章还总结了Agent调试、评估与迭代优化的实用方法，帮助开发者理解如何将LLM能力封装为稳定可靠的智能体应用，适合有一定基础的AI开发者参考实践。",
+    "topic": "ai"
+  },
+  {
+    "id": "efc7f5f5544873c1cbf27a39afb3e86e",
+    "title_en": "Agent 开发指北",
+    "source": "tool.lu",
+    "url": "https://tool.lu/index.php/article/79j/detail",
+    "published_at": "2026-11-03T22:43:50.327Z",
+    "fetched_at": "2026-11-03T22:43:50.327Z",
+    "title_zh": "Agent开发指南",
+    "summary_zh": "本文系统梳理Agent开发的核心要点，从基础概念到工程实践逐步展开。内容涉及Agent的组成结构、工具调用与函数编排、提示词设计、记忆与上下文管理、多轮任务规划等关键环节，并讨论常见开发框架的选型与集成方式。文章还总结了Agent调试、评估与迭代优化的实用方法，帮助开发者理解如何将LLM能力封装为稳定可靠的智能体应用，适合有一定基础的AI开发者参考实践。",
+    "topic": "ai"
+  },
+  {
     "id": "a843fc4b9c1e09cb9168d2714cdbfdea",
     "title_en": "微调打造专属大模型",
     "source": "cn.aliyun.com",
@@ -2153,50 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:32.701Z",
     "title_zh": "AI工程：AI Agent的相关资料",
     "summary_zh": "本文汇总整理了AI Agent领域的核心学习资料，涵盖基础理论、主流框架文档、经典论文与开源项目实践案例。内容按入门、进阶与实战分层组织，便于开发者系统性构建Agent知识体系，快速定位所需技术资源，是AI工程实践中值得收藏的参考资料索引。",
-    "topic": "ai"
-  },
-  {
-    "id": "648a6063f3a37fbf269b55a2ef5aecc5",
-    "title_en": "AI Agent完整开发流程：从零到一的实战指南与最佳实践",
-    "source": "betteryeah.com",
-    "url": "https://www.betteryeah.com/blog/ai-agent-complete-development-workflow-guide",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI Agent完整开发流程：从零到一的实战指南与最佳实践",
-    "summary_zh": "本文系统梳理AI Agent从零到一的完整开发流程，涵盖需求分析、架构设计、工具集成、记忆管理、评测与迭代优化等关键环节，并结合工程实践总结常见坑点与最佳实践。内容兼顾方法论与落地细节，适合希望构建生产级Agent应用的开发者参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "8e5befea600bdf64119092d5c84e1cdb",
-    "title_en": "AI工程：AI Agent的相关资料",
-    "source": "tool.lu",
-    "url": "https://tool.lu/topic/cF/AI+Agent?page=29&type=article",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI工程：AI Agent的相关资料",
-    "summary_zh": "本文汇总整理了AI Agent领域的核心学习资料，涵盖基础理论、主流框架文档、经典论文与开源项目实践案例。内容按入门、进阶与实战分层组织，便于开发者系统性构建Agent知识体系，快速定位所需技术资源，是AI工程实践中值得收藏的参考资料索引。",
-    "topic": "ai"
-  },
-  {
-    "id": "4c1b4e9fa1e085b386121f30d1ecac9c",
-    "title_en": "AI-Agent开发实战指南（新兴技术选型）",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/songtenjun/article/details/162527102",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI-Agent开发实战指南（新兴技术选型）",
-    "summary_zh": "本文聚焦AI Agent开发中的新兴技术选型问题，对比分析当前主流框架、模型接口与工具链的优劣，结合实战经验讲解如何根据业务场景评估技术方案。内容涵盖架构决策、成本与性能权衡及可扩展性考量，为团队在Agent项目启动阶段的技术选型提供实用参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "3a3db8cfab4eef713bab187e8ce43141",
-    "title_en": "自主编程代理的试金石：DeepAgents CLI与AI Agent评估体系的深远影响",
-    "source": "neican.ai",
-    "url": "https://www.neican.ai/insights/deepagents-cliai-agent-20251206021004817-0",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "自主编程代理的试金石：DeepAgents CLI与AI Agent评估体系的深远影响",
-    "summary_zh": "本文围绕自主编程代理的能力评测展开，分析DeepAgents CLI作为测试工具的设计思路，并探讨AI Agent评估体系的构建方法。内容涉及任务基准设计、能力边界测量与评测结果解读，揭示评估体系对Agent研发迭代与工程落地的深远影响，为构建可靠的编程代理提供方法论参考。",
     "topic": "ai"
   }
 ]
