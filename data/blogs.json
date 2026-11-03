@@ -1,5 +1,60 @@
 [
   {
+    "id": "a843fc4b9c1e09cb9168d2714cdbfdea",
+    "title_en": "微调打造专属大模型",
+    "source": "cn.aliyun.com",
+    "url": "https://cn.aliyun.com/solution/tech-solution/fine-tuning?from_alibabacloud=",
+    "published_at": "2026-11-03T13:17:48.071Z",
+    "fetched_at": "2026-11-03T13:17:48.071Z",
+    "title_zh": "微调打造专属大模型",
+    "summary_zh": "本文系统讲解如何通过微调打造专属大模型，覆盖数据准备与清洗、指令数据构造、LoRA与全参微调的取舍，以及训练超参与显存优化策略。文章结合平台实践说明微调后的评测方法与效果验证，并讨论灾难性遗忘、过拟合及推理部署成本等工程问题，为团队构建垂直领域模型提供可操作的完整流程。",
+    "topic": "ai"
+  },
+  {
+    "id": "d41001fc5f29bf500754d5d114672981",
+    "title_en": "2026年7月大模型最新排行榜：神仙打架！",
+    "source": "luomor.com",
+    "url": "https://www.luomor.com/blog/2026/07/24/2026%E5%B9%B47%E6%9C%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9A%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%EF%BC%81%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E6%AD%A3",
+    "published_at": "2026-11-03T13:17:48.070Z",
+    "fetched_at": "2026-11-03T13:17:48.070Z",
+    "title_zh": "2026年7月大模型最新排行榜：神仙打架！",
+    "summary_zh": "本文汇总2026年7月主流大模型的最新评测排名，覆盖GPT、Claude、Gemini及国产模型在推理、代码、多模态等维度的横向对比。文章基于公开基准与实测数据，分析各模型在上下文长度、响应延迟、单位token成本上的差异，并给出面向不同业务场景的选型建议，帮助开发者根据性能与成本权衡选择合适的基础模型。",
+    "topic": "ai"
+  },
+  {
+    "id": "43632d437a4259ef777ff99bd24950b5",
+    "title_en": "2026年AI大模型技术再获突破：推理速度提升300%，成本下降60%",
+    "source": "zxiaolin.com",
+    "url": "https://zxiaolin.com/newsflashes/3061.html",
+    "published_at": "2026-11-03T13:17:48.070Z",
+    "fetched_at": "2026-11-03T13:17:48.070Z",
+    "title_zh": "2026年AI大模型技术再获突破：推理速度提升300%，成本下降60%",
+    "summary_zh": "文章介绍2026年大模型推理优化的最新突破，推理速度提升300%、成本下降60%。内容涉及推测解码、KV Cache压缩、量化与算子融合等关键技术，并分析其在长上下文与高并发场景下的实际收益。文中给出吞吐与延迟的实测对比，讨论部署成本结构变化，为工程团队优化推理服务、降低单位token开销提供可落地的参考方案。",
+    "topic": "ai"
+  },
+  {
+    "id": "dca2e5ae33e430ee1f4da43f1b284dd2",
+    "title_en": "2026年AI大模型最新进展：多模态能力实现重大突破",
+    "source": "xxcoder.com",
+    "url": "https://xxcoder.com/posts/mqdozrl2",
+    "published_at": "2026-11-03T13:17:48.070Z",
+    "fetched_at": "2026-11-03T13:17:48.070Z",
+    "title_zh": "2026年AI大模型最新进展：多模态能力实现重大突破",
+    "summary_zh": "本文梳理2026年多模态大模型的重大进展，涵盖图文、音视频统一表征与跨模态推理能力的提升。文章分析原生多模态架构、视觉编码器对齐与长视频理解等关键技术路线，并结合基准测试说明其在文档解析、视频问答等任务上的表现，探讨多模态能力落地到实际产品时的延迟、成本与数据质量挑战。",
+    "topic": "ai"
+  },
+  {
+    "id": "b4c3b3b24c5c989bdccaffbd077c53d1",
+    "title_en": "寻新投资方向（三） AI Agent，大模型时代重要...",
+    "source": "pdf.dfcfw.com",
+    "url": "https://pdf.dfcfw.com/pdf/H3_AP202310121601263470_1.pdf?1697125245000.pdf",
+    "published_at": "2026-11-03T13:17:48.070Z",
+    "fetched_at": "2026-11-03T13:17:48.070Z",
+    "title_zh": "寻新投资方向（三）AI Agent，大模型时代重要...",
+    "summary_zh": "本文从投资视角剖析AI Agent在大模型时代的产业价值，梳理Agent的技术架构，包括规划、工具调用、记忆与多智能体协作，并分析其在企业自动化、客服、研发等场景的落地路径。文章结合产业链上下游与商业模式，讨论Agent规模化部署面临的可控性、成本与评测难题，为技术选型和投资判断提供参考框架。",
+    "topic": "ai"
+  },
+  {
     "id": "a39e0b3df2e0a0cd10fa926ea1c3fc39",
     "title_en": "神龙漏洞库: 漏洞库- CVE漏洞查询、中文分析与POC",
     "source": "cve.imfht.com",
@@ -2142,61 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:32.701Z",
     "title_zh": "自主编程代理的试金石：DeepAgents CLI与AI Agent评估体系的深远影响",
     "summary_zh": "本文围绕自主编程代理的能力评测展开，分析DeepAgents CLI作为测试工具的设计思路，并探讨AI Agent评估体系的构建方法。内容涉及任务基准设计、能力边界测量与评测结果解读，揭示评估体系对Agent研发迭代与工程落地的深远影响，为构建可靠的编程代理提供方法论参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "dd9691dcb1fb19850894529720791f9e",
-    "title_en": "minhuan3 个月前react·大模型应用·agent架构·ai应用架构设计·plan-execute大模型A",
-    "source": "jishuzhan.net",
-    "url": "https://jishuzhan.net/tag/140010",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "大模型应用中的Agent架构与Plan-Execute模式设计",
-    "summary_zh": "本文探讨大模型应用中Agent架构的设计思路，重点分析Plan-Execute模式的任务分解与执行机制。内容涵盖规划器与执行器的职责划分、状态管理与错误恢复策略，并结合AI应用架构实践讨论该模式在复杂任务场景下的优势与落地要点，为Agent系统设计提供架构参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "977805cbff85cd5cfc97e8ce8e5ef8af",
-    "title_en": "AI Agent智能体开发实践- 图书",
-    "source": "m.douban.com",
-    "url": "https://m.douban.com/book/subject/37925739/",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI Agent智能体开发实践（图书）",
-    "summary_zh": "本书系统讲解AI Agent智能体的开发实践，从基础概念、架构模式到工程落地逐层展开，涵盖工具调用、记忆机制、多智能体协作与评测优化等核心主题。内容结合真实项目案例，兼顾理论深度与实践指导，适合希望系统掌握Agent开发技能的工程师与架构师阅读。",
-    "topic": "ai"
-  },
-  {
-    "id": "988dc61b69102e97ea73900f17266cca",
-    "title_en": "AI Agent从0到1定制开发 全栈/全流程/企业级落地实战",
-    "source": "studygolang.com",
-    "url": "https://studygolang.com/articles/39344",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI Agent从0到1定制开发：全栈全流程企业级落地实战",
-    "summary_zh": "本文以企业级落地为目标，讲解AI Agent从0到1的定制开发全流程，覆盖需求拆解、架构设计、全栈实现、工具集成、部署运维与效果评测等环节。内容强调工程化与可维护性，结合实战案例剖析企业场景下的关键决策点与最佳实践，适合追求生产级落地的开发团队参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "4f038347f413e2d20948aa945ae14026",
-    "title_en": "Agent 开发指北",
-    "source": "tool.lu",
-    "url": "https://tool.lu/en_US/article/79j/detail",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "Agent 开发指北",
-    "summary_zh": "本文是一份面向开发者的Agent开发指南，系统梳理Agent的核心概念、常见架构模式与工程实践要点。内容涵盖提示词设计、工具调用、记忆与规划机制，并结合实际开发经验总结常见问题与优化建议，帮助开发者快速建立Agent开发的整体认知并应用于实际项目。",
-    "topic": "ai"
-  },
-  {
-    "id": "efc7f5f5544873c1cbf27a39afb3e86e",
-    "title_en": "Agent 开发指北",
-    "source": "tool.lu",
-    "url": "https://tool.lu/index.php/article/79j/detail",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "Agent 开发指北",
-    "summary_zh": "本文是一份面向开发者的Agent开发指南，系统梳理Agent的核心概念、常见架构模式与工程实践要点。内容涵盖提示词设计、工具调用、记忆与规划机制，并结合实际开发经验总结常见问题与优化建议，帮助开发者快速建立Agent开发的整体认知并应用于实际项目。",
     "topic": "ai"
   }
 ]
