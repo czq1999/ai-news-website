@@ -1,5 +1,16 @@
 [
   {
+    "id": "0f2f9184083dde655ac73653d8c431cb",
+    "title_en": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
+    "source": "youres.cn",
+    "url": "https://www.youres.cn/tags-3763.html",
+    "published_at": "2026-11-04T23:01:20.859Z",
+    "fetched_at": "2026-11-04T23:01:20.859Z",
+    "title_zh": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
+    "summary_zh": "本文横向对比LangChain、CrewAI与AutoGen三大主流AI Agent开发框架，从架构设计、多智能体协作机制、工具调用能力、状态管理与可观测性等维度展开评测。文章结合代码示例分析各框架在任务编排、记忆持久化与错误恢复上的差异，并给出面向不同场景的选型建议：LangChain生态完善适合复杂链路集成，CrewAI角色化协作上手快，AutoGen在对话式多Agent编排上更灵活。适合正在构建Agent应用的开发者参考。",
+    "topic": "ai"
+  },
+  {
     "id": "b8cd628f221942353c74cb9a05170760",
     "title_en": "Gbase Database 数据库弹性在线扩缩容 ...",
     "source": "be.linkedin.com",
@@ -2186,17 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:32.701Z",
     "title_zh": "为什么你需要了解AI Agent开发框架",
     "summary_zh": "阐述了解AI Agent开发框架的必要性，分析Agent在自动化任务、工具调用与复杂工作流中的价值。文章对比自研与使用成熟框架的利弊，说明框架在抽象工具调用、状态管理与多Agent协作上的作用，帮助开发者判断何时引入框架并规避重复造轮子的成本。",
-    "topic": "ai"
-  },
-  {
-    "id": "47661a8ba954336d492947daa1688e9b",
-    "title_en": "AI Agent 教程中心",
-    "source": "aiskillnav.com",
-    "url": "https://aiskillnav.com/tutorials?tut_cat=agent",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI Agent教程中心",
-    "summary_zh": "AI Agent教程资源导航页，聚合入门到进阶的学习材料，涵盖Agent基本原理、主流框架使用、工具与记忆机制、多Agent协作及部署实践。内容按主题分类便于查阅，帮助开发者建立系统化知识结构，并快速找到适合当前阶段的实战教程与项目案例。",
     "topic": "ai"
   }
 ]
