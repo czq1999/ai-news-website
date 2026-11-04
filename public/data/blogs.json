@@ -1,5 +1,16 @@
 [
   {
+    "id": "b8cd628f221942353c74cb9a05170760",
+    "title_en": "Gbase Database 数据库弹性在线扩缩容 ...",
+    "source": "be.linkedin.com",
+    "url": "https://be.linkedin.com/jobs/gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%B9%E6%80%A7%E5%9C%A8%E7%BA%BF%E6%89%A9%E7%BC%A9%E5%AE%B9-gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93-gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93%E6%94%AF%E6%92%91%E4%B8%87%E7%BA%A7%E5%B9%B6%E5%8F%91%EF%BC%9A%E5%9B%BD%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97-jobs?position=1&pageNum=0",
+    "published_at": "2026-11-04T13:30:49.126Z",
+    "fetched_at": "2026-11-04T13:30:49.126Z",
+    "title_zh": "Gbase 数据库弹性在线扩缩容",
+    "summary_zh": "本文介绍 Gbase 数据库的弹性在线扩缩容能力，重点讲解在不中断业务的前提下动态调整集群计算与存储资源的技术实现。内容涵盖扩缩容的触发机制、数据分片重分布策略、在线迁移过程中的一致性保障，以及如何通过资源调度降低扩容期间的性能抖动。对需要应对业务波峰波谷、追求高可用与成本平衡的数据库运维团队具有较强实践参考价值。",
+    "topic": "ops"
+  },
+  {
     "id": "8e5befea600bdf64119092d5c84e1cdb",
     "title_en": "AI工程：AI Agent的相关资料",
     "source": "tool.lu",
@@ -2186,17 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:32.701Z",
     "title_zh": "AI Agent教程中心",
     "summary_zh": "AI Agent教程资源导航页，聚合入门到进阶的学习材料，涵盖Agent基本原理、主流框架使用、工具与记忆机制、多Agent协作及部署实践。内容按主题分类便于查阅，帮助开发者建立系统化知识结构，并快速找到适合当前阶段的实战教程与项目案例。",
-    "topic": "ai"
-  },
-  {
-    "id": "0f2f9184083dde655ac73653d8c431cb",
-    "title_en": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
-    "source": "youres.cn",
-    "url": "https://www.youres.cn/tags-3763.html",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen选型指南",
-    "summary_zh": "横向评测LangChain、CrewAI、AutoGen三大Agent框架，从架构模型、多Agent协作能力、工具调用、扩展性与上手难度等维度对比。文章结合示例说明各框架适用场景与集成注意事项，给出针对不同团队与业务需求的选型建议，助力开发者高效决策。",
     "topic": "ai"
   }
 ]
