@@ -1,5 +1,71 @@
 [
   {
+    "id": "0df359f195dabf6d3dea5f22f6244642",
+    "title_en": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+    "published_at": "2026-11-04T01:15:34.000Z",
+    "fetched_at": "2026-11-04T03:58:37.184Z",
+    "title_zh": "AMD借数据中心业务创下史上最赚钱季度",
+    "summary_zh": "AMD公布最新财报，凭借数据中心业务的强劲增长，公司实现了历史上规模最大、盈利能力最强的季度业绩。AI算力需求持续推动其服务器芯片销售，数据中心板块已成为AMD最重要的增长引擎，进一步巩固其在AI基础设施市场的竞争地位。",
+    "category": "industry"
+  },
+  {
+    "id": "82ae81c61d6c22d7b9b40a5bd0c73bce",
+    "title_en": "All the news about The Legend of Zelda: Ocarina of Time remake",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+    "published_at": "2026-11-04T01:02:53.000Z",
+    "fetched_at": "2026-11-04T03:58:37.184Z",
+    "title_zh": "《塞尔达传说：时之笛》重制版全部消息汇总",
+    "summary_zh": "本文汇总了关于《塞尔达传说：时之笛》重制版的全部最新消息，涵盖官方公告、传闻与玩家关注焦点。作为任天堂经典作品的重制项目，该作引发广泛讨论，文章持续追踪相关动态，为玩家梳理目前已知的信息与待确认细节。",
+    "category": "product"
+  },
+  {
+    "id": "faa8b68df590a6f6f4e69eb9e7dd430f",
+    "title_en": "The biggest modding site in PC gaming is taking a stance on AI",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "published_at": "2026-11-04T00:42:10.000Z",
+    "fetched_at": "2026-11-04T03:58:37.184Z",
+    "title_zh": "PC游戏最大模组网站就AI表明立场",
+    "summary_zh": "PC游戏领域规模最大的模组网站正式就AI相关议题表明立场，或涉及AI生成内容在模组社区中的使用规范与政策调整。此举反映出游戏模组生态对AI技术渗透的回应，可能对创作者和玩家产生实际影响，引发社区广泛关注。",
+    "category": "industry"
+  },
+  {
+    "id": "8850f344fac233b1b9e21e8b31275566",
+    "title_en": "Please stop asking me when the AI bubble will pop",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "published_at": "2026-11-03T23:37:45.000Z",
+    "fetched_at": "2026-11-04T03:58:37.184Z",
+    "title_zh": "别再问我AI泡沫何时破裂了",
+    "summary_zh": "本文以评论视角回应外界对AI泡沫破裂时机的反复追问，探讨当前AI投资热潮的可持续性。作者认为简单预测泡沫破裂并无意义，更值得关注的是技术落地、商业模式与资本回报之间的实际差距，以及行业过热背后的结构性风险。",
+    "category": "industry"
+  },
+  {
+    "id": "440a684b7c6c54b2064b80431b009ea0",
+    "title_en": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+    "published_at": "2026-11-03T22:59:36.000Z",
+    "fetched_at": "2026-11-04T03:58:37.184Z",
+    "title_zh": "Canva宣布调整并裁员，涉及22%员工",
+    "summary_zh": "设计平台Canva宣布组织调整与裁员计划，影响约22%的员工。公司表示此举旨在优化业务结构、聚焦核心战略方向。作为知名在线设计工具提供商，此次大规模裁员反映出即便在AI工具快速发展的背景下，科技公司仍在进行成本控制与业务重组。",
+    "category": "industry"
+  },
+  {
+    "id": "eb77504e7fd0d5be60bdb01069f86276",
+    "title_en": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+    "published_at": "2026-11-03T22:44:01.000Z",
+    "fetched_at": "2026-11-04T03:58:37.436Z",
+    "title_zh": "联想IdeaPad Slim 5x现仅售900美元",
+    "summary_zh": "Wired报道，联想IdeaPad Slim 5x笔记本电脑目前售价仅为900美元，性价比突出。该机型主打轻薄设计与日常办公性能，适合学生和普通用户。此次降价使其在同价位产品中更具竞争力，为近期有购机需求的消费者提供了不错的选择。",
+    "category": "product"
+  },
+  {
     "id": "0be862b84ad0ebaa99aea4c69e3ebf62",
     "title_en": "Anthropic is working on a system to prove AI models’ identity",
     "source": "TechCrunch AI",
@@ -583,6 +649,61 @@
     "category": "industry"
   },
   {
+    "id": "fb8bcc21b3a4ad0bdb252a47ccabff44",
+    "title_en": "Silver crashes below $60 from $122 and enters oversold zone. What should you do?",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-crashes-below-60-from-122-and-enters-oversold-zone-what-should-you-do/articleshow/135481085.cms",
+    "published_at": "2026-11-03T03:53:07Z",
+    "fetched_at": "2026-11-04T03:58:37.986Z",
+    "title_zh": "白银价格从122美元暴跌至60美元以下，进入超卖区间，投资者该如何应对？",
+    "summary_zh": "白银价格从122美元的高位大幅下挫至60美元以下，跌幅惊人，技术面已进入超卖区间。分析人士指出，此轮暴跌可能与获利了结、美元走强及市场情绪转变有关。对于投资者而言，需警惕短期波动风险，结合自身风险承受能力审慎决策，避免盲目抄底或恐慌抛售。",
+    "category": "industry"
+  },
+  {
+    "id": "9e4eb71461868ffed38cb37577a9875e",
+    "title_en": "Anthropic's internal Claude usage value exceeds monthly employee costs",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/technology/tech-news/anthropic-s-internal-claude-usage-value-exceeds-monthly-employee-costs-126110300210_1.html",
+    "published_at": "2026-11-03T03:39:55Z",
+    "fetched_at": "2026-11-04T03:58:37.986Z",
+    "title_zh": "Anthropic内部Claude使用价值超过员工月度成本",
+    "summary_zh": "据Business Standard报道，Anthropic内部使用Claude所产生的价值已超过其员工月度成本，显示AI助手在企业内部生产力提升方面成效显著。这一数据为AI工具的投资回报提供了有力佐证，也表明大模型在编程、写作与日常办公场景中正逐步成为不可或缺的生产力工具。",
+    "category": "llm"
+  },
+  {
+    "id": "874985dafb9beedfbbb4f6dce6179514",
+    "title_en": "India will become the world’s largest economy by end of the century, predicts top economist Jeffrey D Sachs",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-will-become-the-worlds-largest-economy-by-end-of-the-century-predicts-top-economist-jeffrey-d-sachs/articleshow/135480470.cms",
+    "published_at": "2026-11-03T03:36:13Z",
+    "fetched_at": "2026-11-04T03:58:37.986Z",
+    "title_zh": "经济学家杰弗里·萨克斯预测：印度将在本世纪末成为世界最大经济体",
+    "summary_zh": "著名经济学家杰弗里·萨克斯预测，印度将在本世纪末成为全球最大经济体。他指出，印度拥有庞大的人口红利、快速增长的数字经济与持续改善的营商环境，长期增长潜力巨大。这一预测引发广泛关注，也为全球资本与产业布局提供了长期参考视角。",
+    "category": "industry"
+  },
+  {
+    "id": "32ff2d51c959f5e7027e502cc6447aec",
+    "title_en": "Anthropic revenue surges 1,127% to $17 billion in Q3, higher computing costs weigh on margins",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/info-tech/anthropic-revenue-surges-1127-to-17-billion-in-q3-higher-computing-costs-weigh-on-margins/article71659301.ece",
+    "published_at": "2026-11-03T03:33:35Z",
+    "fetched_at": "2026-11-04T03:58:37.986Z",
+    "title_zh": "Anthropic第三季度营收激增1127%至170亿美元，高昂算力成本拖累利润率",
+    "summary_zh": "Anthropic公布第三季度业绩，营收同比激增1127%至170亿美元，增长势头惊人，主要得益于Claude系列模型的强劲企业需求。然而，高昂的算力与基础设施成本对利润率形成明显压力。这一业绩既展现了大模型商业化的高速增长，也揭示了AI企业在规模化过程中面临的成本挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "edfefb48a8c056165c321e6e0eac7a07",
+    "title_en": "feagi 2.6.13",
+    "source": "Pypi.org",
+    "url": "https://pypi.org/project/feagi/2.6.13/",
+    "published_at": "2026-11-03T03:32:15Z",
+    "fetched_at": "2026-11-04T03:58:37.986Z",
+    "title_zh": "feagi 2.6.13版本发布",
+    "summary_zh": "feagi 2.6.13版本在PyPI上发布。feagi是一个面向神经形态计算与AI智能体开发的开源框架，此次更新可能包含功能改进与问题修复。该工具为研究者和开发者构建类脑计算与智能体系统提供了新的支持，适合关注神经形态AI方向的技术人员跟进使用。",
+    "category": "product"
+  },
+  {
     "id": "eb87349b2c2c62a131c8f9e50e086466",
     "title_en": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
     "source": "TechCrunch AI",
@@ -592,6 +713,50 @@
     "title_zh": "谷歌将 Dreambeans 引入印度，推动 AI 生成个人故事大众化",
     "summary_zh": "谷歌宣布将 AI 故事生成工具 Dreambeans 推广至印度市场，用户可借助生成式 AI 创作个性化故事内容。此举意在抢占印度庞大且快速增长的移动互联网用户群，推动 AI 内容创作从实验性工具走向大众消费级应用。",
     "category": "product"
+  },
+  {
+    "id": "4aaa619ec6b3a0b00a1ceecb54e364c3",
+    "title_en": "Coinbase CEO Brian Armstrong Says Quantum Computing Is a Bigger Threat to Crypto Than AI: ‘When, Not If’",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/e4f064c578cc0f51",
+    "published_at": "2026-11-03T03:19:01Z",
+    "fetched_at": "2026-11-04T03:58:37.986Z",
+    "title_zh": "Coinbase CEO布莱恩·阿姆斯特朗：量子计算对加密货币的威胁大于AI，是“时间问题而非是否问题”",
+    "summary_zh": "Coinbase首席执行官布莱恩·阿姆斯特朗表示，量子计算对加密货币构成的威胁比AI更大，并强调这是“时间问题而非是否问题”。量子计算机有望破解现有加密算法，威胁区块链钱包与交易安全。此番言论呼吁加密行业提前布局抗量子加密技术，以应对未来的安全挑战。",
+    "category": "industry"
+  },
+  {
+    "id": "7fe853170f9542c7249a390ca459289e",
+    "title_en": "Upwork Embeds Freelance Marketplace Inside Top AI Tools",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/cbeb4bdd96223818",
+    "published_at": "2026-11-03T03:17:45Z",
+    "fetched_at": "2026-11-04T03:58:37.986Z",
+    "title_zh": "Upwork将自由职业市场嵌入顶级AI工具中",
+    "summary_zh": "自由职业平台Upwork宣布将其市场服务直接嵌入多款主流AI工具中，用户可在使用AI工具时直接对接自由职业者资源。此举旨在借助AI工具的流量入口拓展服务场景，让企业用户在AI工作流中更便捷地找到专业人才完成项目。这反映出零工经济平台正积极与AI生态融合，以应对AI自动化对传统自由职业需求的冲击。",
+    "category": "product"
+  },
+  {
+    "id": "53c5aa535078130c1d54c43e885a69c5",
+    "title_en": "Apple Forecasts Slower Services Growth as AI Costs Rise",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/67fae642f871c741",
+    "published_at": "2026-11-03T03:17:33Z",
+    "fetched_at": "2026-11-04T03:58:37.987Z",
+    "title_zh": "苹果预警服务业务增长放缓，AI成本上升",
+    "summary_zh": "苹果公司发布业绩指引，预计服务业务增速将放缓，同时人工智能相关投入导致成本上升。服务业务一直是苹果利润增长的重要引擎，增速放缓可能影响整体盈利能力。与此同时，苹果在AI领域的持续投入推高了运营成本，反映出科技巨头在AI竞赛中面临的成本压力。市场关注苹果如何在AI投入与利润之间取得平衡。",
+    "category": "industry"
+  },
+  {
+    "id": "83e759f5a8b433f30652a6e56646bf29",
+    "title_en": "Russia bombs aid center and shelter in southern Ukraine, killing 26",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/defence/russia-bombs-aid-center-and-shelter-in-southern-ukraine-killing-26/articleshow/135479098.cms",
+    "published_at": "2026-11-03T03:12:01Z",
+    "fetched_at": "2026-11-04T03:58:37.987Z",
+    "title_zh": "俄罗斯轰炸乌克兰南部援助中心和避难所，造成26人死亡",
+    "summary_zh": "俄罗斯对乌克兰南部一处援助中心和避难设施发动空袭，造成至少26人死亡。此次袭击针对人道主义援助场所，引发国际社会关注。事件发生在乌克兰南部地区，当地救援工作受到严重影响。该新闻与人工智能领域无直接关联，属于国际时事报道。",
+    "category": "industry"
   },
   {
     "id": "2d00d1d886b09e277e6abb0d78b70f03",
@@ -5332,171 +5497,6 @@
     "fetched_at": "2026-10-29T11:58:50.570Z",
     "title_zh": "德国本月活动指南：2026年11月九大不容错过的精彩活动",
     "summary_zh": "The Local Germany 盘点了 2026 年 11 月德国值得关注的九项活动，涵盖文化节庆、展览、市集与演出等类型，为当地居民与游客提供出行参考。文章介绍了各活动的时间、地点与亮点，帮助读者规划秋季行程。该内容属于生活资讯，与 AI 及科技领域无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "f78955242c02129e9929e075fb0eeb81",
-    "title_en": "‘I Stand for Genuine Editorial Independence’: a Q&A with Les Nouveaux Éditeurs Founder Arnaud Nourry",
-    "source": "Publishingperspectives.com",
-    "url": "https://publishingperspectives.com/2026/10/i-stand-for-genuine-editorial-independence-a-qa-with-les-nouveaux-editeurs-founder-arnaud-nourry/",
-    "published_at": "2026-10-28T11:51:24Z",
-    "fetched_at": "2026-10-29T11:58:50.570Z",
-    "title_zh": "“我支持真正的编辑独立性”：专访 Les Nouveaux Éditeurs 创始人 Arnaud Nourry",
-    "summary_zh": "Publishing Perspectives 刊出对 Les Nouveaux Éditeurs 创始人 Arnaud Nourry 的问答专访，探讨出版业中的编辑独立性问题。Nourry 分享了其创办新出版机构的理念，以及如何在商业压力与内容自主之间取得平衡。访谈涉及出版商业模式、作者关系与行业趋势，属于出版业界动态，与 AI 技术无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "b117996898e79bfb4f9b2113b108291f",
-    "title_en": "Fibe bets on AI as profit doubles ahead of ₹1000+ crore IPO",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/companies/news/fibe-bets-on-ai-as-profit-doubles-ahead-of-1000-crore-ipo-11793187673629.html",
-    "published_at": "2026-10-28T11:49:04Z",
-    "fetched_at": "2026-10-29T11:58:50.570Z",
-    "title_zh": "Fibe押注AI，利润翻倍，筹备超100亿卢比IPO",
-    "summary_zh": "印度金融科技公司Fibe在IPO前实现利润翻倍，并计划募资超过100亿卢比。公司将AI技术作为核心增长引擎，用于信贷评估、风险控制和用户服务等环节，以提升运营效率和风控能力。此次IPO将检验市场对AI驱动型金融科技企业的估值信心，也反映出印度数字金融市场在AI赋能下的快速扩张趋势。",
-    "category": "industry"
-  },
-  {
-    "id": "7270da6fdc9628de4820a6848685ef2e",
-    "title_en": "‘Elonville’: Mississippi residents say Musk’s xAI is buying up homes if they don’t sue over noise",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/e0578f79b73f286f",
-    "published_at": "2026-10-28T11:48:29Z",
-    "fetched_at": "2026-10-29T11:58:50.570Z",
-    "title_zh": "“埃隆维尔”：密西西比居民称马斯克xAI以不起诉噪音问题为条件收购其房屋",
-    "summary_zh": "密西西比州居民反映，马斯克旗下AI公司xAI正在当地大量收购房产，条件之一是居民放弃就数据中心噪音问题提起诉讼。此举引发社区对科技巨头扩张与居民权益之间矛盾的关注。xAI在孟菲斯地区建设大型AI数据中心，噪音、用电和环境问题持续引发争议，居民担忧自身在企业发展面前缺乏话语权。",
-    "category": "industry"
-  },
-  {
-    "id": "3601f2c113714e0ba89e4179b780e697",
-    "title_en": "Copa del Rey fixtures postponed following accident in Toledo",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/copa-del-rey-fixtures-postponed-following-accident-in-toledo-43685432",
-    "published_at": "2026-10-28T11:48:00Z",
-    "fetched_at": "2026-10-29T11:58:50.570Z",
-    "title_zh": "托莱多发生事故后，国王杯赛程推迟",
-    "summary_zh": "由于托莱多发生事故，西班牙国王杯相关赛程被迫推迟。该消息与AI行业无直接关联，属于体育赛事新闻。",
-    "category": "industry"
-  },
-  {
-    "id": "8aa42d84167828e7536c23df3c43a33e",
-    "title_en": "87% of India CEOs confident of growth despite cyber, geopolitical risks: KPMG",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/87-of-india-ceos-confident-of-growth-despite-cyber-geopolitical-risks-kpmg/articleshow/135264039.cms",
-    "published_at": "2026-10-28T11:47:43Z",
-    "fetched_at": "2026-10-29T11:58:50.570Z",
-    "title_zh": "毕马威：87%印度CEO对增长有信心，尽管面临网络与地缘政治风险",
-    "summary_zh": "毕马威调查显示，87%的印度CEO对未来增长抱有信心，尽管网络安全威胁和地缘政治风险持续上升。受访者普遍将AI视为提升生产力和竞争力的关键手段，同时也在加大对网络防御和供应链韧性的投入。该调查反映出印度企业高管在不确定环境中的乐观情绪，以及AI在企业战略中日益核心的地位。",
-    "category": "industry"
-  },
-  {
-    "id": "210a5575f13d4f957c11a673705cb5f8",
-    "title_en": "AVANTE PARTNERS WITH VANGUARD RISK MANAGEMENT TO LAUNCH MAST PILOT IN GREECE AND IS FEATURED ON ANT1 TV WITH THE MAYOR OF VARI-VOULA-VOULIAGMENI",
-    "source": "Financial Post",
-    "url": "https://financialpost.com/globe-newswire/avante-partners-with-vanguard-risk-management-to-launch-mast-pilot-in-greece-and-is-featured-on-ant1-tv-with-the-mayor-of-vari-voula-vouliagmeni",
-    "published_at": "2026-10-28T11:44:23Z",
-    "fetched_at": "2026-10-29T11:58:50.570Z",
-    "title_zh": "Avante携手Vanguard风险管理在希腊启动MAST试点，并与Vari-Voula-Vouliagmeni市长共同亮相ANT1电视台",
-    "summary_zh": "Avante与Vanguard风险管理公司合作，在希腊启动MAST试点项目，并与Vari-Voula-Vouliagmeni市长一同登上ANT1电视台接受采访。该项目聚焦风险管理与智能监测技术的实际应用，借助AI能力提升城市安全与运营效率。此次媒体亮相旨在提升公众认知，并为后续在希腊及更广泛地区的推广奠定基础。",
-    "category": "product"
-  },
-  {
-    "id": "88e35c691bf4c767071b11351bafe9a6",
-    "title_en": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
-    "published_at": "2026-10-28T11:30:00.000Z",
-    "fetched_at": "2026-10-28T11:51:21.537Z",
-    "title_zh": "Meta曾考虑用“耳语策略”让学者反对乔纳森·海特",
-    "summary_zh": "据The Verge报道，Meta内部曾讨论一项名为“耳语策略”的方案，意图通过私下接触和影响学术界人士，引导他们对社会心理学家乔纳森·海特关于青少年与社交媒体危害的观点提出质疑。海特长期批评社交媒体对青少年心理健康的负面影响，Meta此举被视为试图削弱其公信力。该消息引发外界对科技巨头干预学术独立性的担忧。",
-    "category": "industry"
-  },
-  {
-    "id": "88ee4e8f96c4be7a78a65a1e7ef5871c",
-    "title_en": "Wazuh and AI for Enhanced SOC Workflows",
-    "source": "Internet",
-    "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-    "published_at": "2026-10-28T11:30:00Z",
-    "fetched_at": "2026-10-29T11:58:50.570Z",
-    "title_zh": "Wazuh与AI结合，提升SOC工作流效率",
-    "summary_zh": "文章探讨如何将开源安全平台Wazuh与AI技术结合，以优化安全运营中心（SOC）的工作流。通过AI辅助日志分析、告警关联和威胁检测，安全团队可减少误报、加快响应速度，并缓解安全人员短缺压力。该方案展示了AI在网络安全运营中的落地价值，为中小型SOC团队提供了可参考的低成本智能化路径。",
-    "category": "product"
-  },
-  {
-    "id": "6a00cf459c47b5db8a4ed3d57e0cb401",
-    "title_en": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-    "published_at": "2026-10-28T11:27:30.000Z",
-    "fetched_at": "2026-10-28T11:51:21.537Z",
-    "title_zh": "Meta悄然推出“AI宠物日记”应用",
-    "summary_zh": "Meta低调上线了一款名为“AI宠物日记”的新应用，允许用户为虚拟宠物记录日常并生成AI内容。该产品未做大规模宣传，延续了Meta在AI消费级应用上的试水策略。分析认为，此举意在探索AI陪伴类场景，与现有社交生态形成互补，同时收集用户互动数据以优化模型。目前该应用的具体功能和可用范围尚待进一步披露。",
-    "category": "product"
-  },
-  {
-    "id": "ee8dca492368f4915d8826445ee72934",
-    "title_en": "Sundaram MF sees AUM doubling in three years, flags small-cap inflow risks",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/news/sundaram-mf-sees-aum-doubling-in-three-years-flags-small-cap-inflow-risks/article71635239.ece",
-    "published_at": "2026-10-28T11:22:57Z",
-    "fetched_at": "2026-10-29T11:58:50.570Z",
-    "title_zh": "Sundaram共同基金预计三年内资产管理规模翻倍，警示小盘股资金流入风险",
-    "summary_zh": "Sundaram共同基金预计其资产管理规模将在三年内翻倍，同时对小盘股基金的资金持续流入表示担忧，认为估值过热可能带来回调风险。该机构正借助数据分析和AI工具优化投资决策与风险管理。此番表态反映出印度资管行业在规模扩张与风险控制之间的平衡难题，也凸显AI在投资研究中的应用日益深化。",
-    "category": "industry"
-  },
-  {
-    "id": "ba4951d7fc38262d84e43a523c63f4cf",
-    "title_en": "Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/portland-fermentation-festival-stinkfest/",
-    "published_at": "2026-10-28T11:00:00.000Z",
-    "fetched_at": "2026-10-28T11:51:21.971Z",
-    "title_zh": "每餐都吃酸菜？这些发酵狂热者早在MAHA之前就这么做了",
-    "summary_zh": "本文讲述一群发酵食品爱好者长期坚持每餐食用酸菜等发酵食物的生活方式，并探讨这一饮食潮流在MAHA（让美国再次健康）运动兴起之前就已存在。文章通过个人故事展现发酵文化的历史与健康理念，属于生活方式类报道，与AI技术无直接关联。",
-    "category": "industry"
-  },
-  {
-    "id": "c787802d7d1c1b8daa3b5ded4a2deebb",
-    "title_en": "Pornhub Stars Want to Teach You How to Make Dinner",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
-    "published_at": "2026-10-28T10:45:00.000Z",
-    "fetched_at": "2026-10-28T11:51:21.971Z",
-    "title_zh": "Pornhub明星想教你做晚餐",
-    "summary_zh": "这篇报道介绍Pornhub平台上的成人明星跨界进入美食内容领域，通过视频教观众制作晚餐。文章属于流行文化与生活方式类内容，探讨成人娱乐从业者拓展个人品牌和内容多元化趋势，与人工智能技术无直接关系。",
-    "category": "industry"
-  },
-  {
-    "id": "f094f45b9109e466a239d37796ad6601",
-    "title_en": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
-    "published_at": "2026-10-28T10:30:00.000Z",
-    "fetched_at": "2026-10-28T11:51:21.971Z",
-    "title_zh": "苹果AirPods Max 2黑色星期五前直降100美元",
-    "summary_zh": "本文为购物优惠信息，介绍苹果AirPods Max 2耳机在黑色星期五促销前降价100美元。文章面向消费者提供购买建议和折扣详情，属于消费电子产品促销类内容，不涉及人工智能技术发展。",
-    "category": "product"
-  },
-  {
-    "id": "72637882d46944b2b6dc222a7e759ea7",
-    "title_en": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-    "published_at": "2026-10-28T10:15:00.000Z",
-    "fetched_at": "2026-10-28T11:51:21.971Z",
-    "title_zh": "麦克米伦员工称出版社为 workplace AI助手举办派对，该助手随后被关停",
-    "summary_zh": "据麦克米伦出版社员工透露，公司曾为内部职场AI助手举办庆祝活动，但该工具随后被停用。此事反映出企业在引入AI助手时面临的落地挑战：宣传热度与实际可用性之间存在落差，员工接受度和工具可靠性成为关键问题。报道揭示了AI办公工具从试点到规模化部署过程中的现实困境。",
-    "category": "industry"
-  },
-  {
-    "id": "f65e9945876acb645bdcad00ed0063db",
-    "title_en": "Please Let the Internet Die",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/let-the-internet-die/",
-    "published_at": "2026-10-28T10:00:00.000Z",
-    "fetched_at": "2026-10-28T11:51:21.971Z",
-    "title_zh": "请让互联网死去吧",
-    "summary_zh": "这是一篇观点评论文章，作者以批判性视角探讨互联网当前的种种问题，可能涉及平台垄断、内容质量下降、AI生成内容泛滥等议题，呼吁对互联网现状进行反思。文章属于科技文化评论，表达对数字生态恶化的忧虑。",
     "category": "industry"
   }
 ]

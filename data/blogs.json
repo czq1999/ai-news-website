@@ -1,5 +1,38 @@
 [
   {
+    "id": "8e5befea600bdf64119092d5c84e1cdb",
+    "title_en": "AI工程：AI Agent的相关资料",
+    "source": "tool.lu",
+    "url": "https://tool.lu/topic/cF/AI+Agent?page=29&type=article",
+    "published_at": "2026-11-04T03:59:06.424Z",
+    "fetched_at": "2026-11-04T03:59:06.424Z",
+    "title_zh": "AI工程：AI Agent的相关资料",
+    "summary_zh": "本文汇总了AI Agent领域的核心学习资料与工程实践参考，涵盖Agent架构设计、工具调用、规划与记忆机制等关键技术主题。内容适合希望系统了解Agent技术栈的开发者，帮助快速建立从理论到落地的知识框架，为后续构建自主智能体应用提供资料索引与方向指引。",
+    "topic": "ai"
+  },
+  {
+    "id": "648a6063f3a37fbf269b55a2ef5aecc5",
+    "title_en": "AI Agent完整开发流程：从零到一的实战指南与最佳实践",
+    "source": "betteryeah.com",
+    "url": "https://www.betteryeah.com/blog/ai-agent-complete-development-workflow-guide",
+    "published_at": "2026-11-04T03:59:06.424Z",
+    "fetched_at": "2026-11-04T03:59:06.424Z",
+    "title_zh": "AI Agent完整开发流程：从零到一的实战指南与最佳实践",
+    "summary_zh": "本文系统梳理了AI Agent从零到一的完整开发流程，涵盖需求定义、架构选型、工具与函数调用设计、提示工程、记忆与状态管理、评测与迭代优化等关键环节。结合实战经验总结最佳实践，帮助开发者规避常见陷阱，构建稳定可靠的Agent应用，具有较强的工程落地参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "3a3db8cfab4eef713bab187e8ce43141",
+    "title_en": "自主编程代理的试金石：DeepAgents CLI与AI Agent评估体系的深远影响",
+    "source": "neican.ai",
+    "url": "https://www.neican.ai/insights/deepagents-cliai-agent-20251206021004817-0",
+    "published_at": "2026-11-04T03:59:06.424Z",
+    "fetched_at": "2026-11-04T03:59:06.424Z",
+    "title_zh": "自主编程代理的试金石：DeepAgents CLI与AI Agent评估体系的深远影响",
+    "summary_zh": "本文以DeepAgents CLI为切入点，探讨自主编程代理的能力边界与评估体系构建。重点分析如何通过标准化基准与任务场景衡量Agent的代码生成、规划与自我修正能力，并讨论评估方法对Agent迭代优化的指导意义，为自主编程代理的工程化落地与质量保障提供思路。",
+    "topic": "ai"
+  },
+  {
     "id": "d752d3437cf555bd83e4d91416ca2d77",
     "title_en": "PHP存在高風險安全漏洞(CVE-2026 ... - 國家資通安全研究院",
     "source": "nics.nat.gov.tw",
@@ -2164,39 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:32.701Z",
     "title_zh": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen选型指南",
     "summary_zh": "横向评测LangChain、CrewAI、AutoGen三大Agent框架，从架构模型、多Agent协作能力、工具调用、扩展性与上手难度等维度对比。文章结合示例说明各框架适用场景与集成注意事项，给出针对不同团队与业务需求的选型建议，助力开发者高效决策。",
-    "topic": "ai"
-  },
-  {
-    "id": "37e811db978e07f4a87e1b3b373d692a",
-    "title_en": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
-    "source": "youres.cn",
-    "url": "https://www.youres.cn/tags-4064.html",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
-    "summary_zh": "本文对LangChain、CrewAI与AutoGen三大主流AI Agent开发框架进行横向对比评测，从架构设计、多智能体协作能力、工具调用机制、生态成熟度及学习曲线等维度展开分析，并结合实际开发场景给出选型建议，帮助开发者根据项目需求选择最合适的Agent框架，降低技术选型风险。",
-    "topic": "ai"
-  },
-  {
-    "id": "0a7418db4809f35cf2cb025aa6d2a25c",
-    "title_en": "AI Agent入门实战教程：从零构建你的第一个智能助手",
-    "source": "youres.cn",
-    "url": "https://www.youres.cn/post/2611.html",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI Agent入门实战教程：从零构建你的第一个智能助手",
-    "summary_zh": "本教程面向AI Agent初学者，从环境搭建、核心概念讲解到代码实现，手把手带领读者从零构建一个可运行的智能助手。内容涵盖Agent的基本架构、工具调用、提示词设计与任务编排，通过完整实战案例帮助读者快速掌握Agent开发流程，建立可扩展的智能体应用基础。",
-    "topic": "ai"
-  },
-  {
-    "id": "7d8cc5304570490d6a6432ecb22c314a",
-    "title_en": "AI工程：AI Agent的相关资料",
-    "source": "tool.lu",
-    "url": "https://tool.lu/topic/cF/AI+Agent?page=31&type=article",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "AI工程：AI Agent的相关资料",
-    "summary_zh": "本文汇总整理了AI Agent领域的核心学习资料，涵盖基础理论、主流框架文档、经典论文与开源项目实践案例。内容按入门、进阶与实战分层组织，便于开发者系统性构建Agent知识体系，快速定位所需技术资源，是AI工程实践中值得收藏的参考资料索引。",
     "topic": "ai"
   }
 ]
