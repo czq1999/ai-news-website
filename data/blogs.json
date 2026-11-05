@@ -1,5 +1,60 @@
 [
   {
+    "id": "83eefb89b090dc94527ac7f535d784e0",
+    "title_en": "Linux 运维题目: 挑战极限的实战指南（linux运维题目）-宜宾勤盛利枫建站",
+    "source": "aqpgk.com",
+    "url": "http://aqpgk.com/article/djgjppd.html",
+    "published_at": "2026-11-05T23:03:28.828Z",
+    "fetched_at": "2026-11-05T23:03:28.828Z",
+    "title_zh": "Linux运维题目：挑战极限的实战指南",
+    "summary_zh": "本文围绕Linux运维实战题目展开，覆盖系统管理、故障排查、性能调优与脚本编写等核心场景。通过具体题目解析，帮助运维人员检验并强化对进程管理、网络配置、磁盘与文件系统、权限控制等知识点的掌握。文章强调以练代学，将常见运维难题转化为可操作的实战练习，适合希望系统提升Linux运维技能、应对面试或日常故障处理的工程师参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "010f2870206468f69bec2b1c5c1c702e",
+    "title_en": "掌握Linux查询系统技巧，为服务器运维保驾护航（linux查询系统）-宜宾勤盛利枫建站",
+    "source": "aqpgk.com",
+    "url": "http://aqpgk.com/article/ccespjs.html",
+    "published_at": "2026-11-05T23:03:28.828Z",
+    "fetched_at": "2026-11-05T23:03:28.828Z",
+    "title_zh": "掌握Linux查询系统技巧，为服务器运维保驾护航",
+    "summary_zh": "本文系统梳理Linux环境下查询系统信息的常用技巧，涵盖CPU、内存、磁盘、网络与进程等关键资源的查看方法。文章介绍了top、free、df、iostat、ss等工具的组合使用，并讲解如何通过/proc与/sys文件系统获取底层运行状态。内容注重实用性，帮助运维人员快速定位资源瓶颈与异常，为服务器日常监控、容量评估和故障排查提供扎实的操作基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "606e0b53cfaa3a7205f9878575f3f644",
+    "title_en": "「Linux运维」：提升系统稳定性和安全性的关键技能 (linux ops)-宜宾勤盛利枫建站",
+    "source": "aqpgk.com",
+    "url": "http://aqpgk.com/article/cdpcdgo.html",
+    "published_at": "2026-11-05T23:03:28.828Z",
+    "fetched_at": "2026-11-05T23:03:28.828Z",
+    "title_zh": "Linux运维：提升系统稳定性和安全性的关键技能",
+    "summary_zh": "本文聚焦Linux运维中保障系统稳定性与安全性的核心技能，涵盖系统监控、日志分析、权限管理、补丁更新与安全加固等实践。文章讨论了如何通过合理的资源配置、服务管理与自动化脚本降低故障风险，并介绍了账户权限收敛、防火墙配置与入侵检测等安全措施。内容兼顾稳定性与安全性两条主线，适合运维工程师构建系统化的服务器管理能力。",
+    "topic": "ops"
+  },
+  {
+    "id": "58245f03ece97c114215dad5776e3789",
+    "title_en": "以Linux系统重启时间为基准，探究服务器运维管理的相关技巧和应用实践",
+    "source": "bdntp.cn",
+    "url": "https://www.bdntp.cn/shijian/3424.html",
+    "published_at": "2026-11-05T23:03:28.828Z",
+    "fetched_at": "2026-11-05T23:03:28.828Z",
+    "title_zh": "以Linux系统重启时间为基准，探究服务器运维管理的相关技巧与应用实践",
+    "summary_zh": "本文以Linux系统重启时间为切入点，探讨服务器运维管理中的实用技巧。文章介绍了通过uptime、last reboot、systemd日志等方式获取重启时间与运行时长，并分析其在故障溯源、补丁生效验证、计划维护与稳定性评估中的应用。结合重启前后的日志对比与配置检查，帮助运维人员判断异常重启原因、验证变更效果，为服务器生命周期管理与运维实践提供可落地的方法。",
+    "topic": "ops"
+  },
+  {
+    "id": "02044dc3d2230f779b7b9a0c1359b813",
+    "title_en": "从AI Agent 到持续工作的AGI：我对现阶段AGI 的理解",
+    "source": "x.com",
+    "url": "https://x.com/DashHuang/status/2109592494870774228",
+    "published_at": "2026-11-05T23:03:28.827Z",
+    "fetched_at": "2026-11-05T23:03:28.827Z",
+    "title_zh": "从AI Agent到持续工作的AGI：我对现阶段AGI的理解",
+    "summary_zh": "本文从AI Agent的现状出发，探讨其向持续工作的AGI演进的技术路径。作者分析了当前Agent在任务规划、工具调用、记忆机制等方面的能力边界，指出持续运行、自主决策与长期目标保持是迈向AGI的关键挑战。文章结合工程实践，讨论了多Agent协作、上下文管理与自我反思等机制在提升Agent自主性方面的作用，并对现阶段AGI的能力水平给出了务实的判断，为关注Agent架构与AGI演进的开发者提供了有价值的参考视角。",
+    "topic": "ai"
+  },
+  {
     "id": "62758307f98b33b7058574d0b952ba77",
     "title_en": "CVE | imjdl blog",
     "source": "rustlang.rs",
@@ -2143,60 +2198,5 @@
     "title_zh": "GitHub项目",
     "summary_zh": "本文介绍一个值得关注的GitHub开源项目，概述其功能定位、技术栈与核心实现思路，并说明部署方式与典型使用场景。内容侧重项目结构解析与二次开发建议，帮助开发者快速评估该项目是否适合引入自身技术栈或作为学习参考。",
     "topic": "other"
-  },
-  {
-    "id": "4f03740183c317f0e1fcfc8abf2c7dd1",
-    "title_en": "AI漫剧从0-1零基础入门▲引用和评论推荐阅读（看主页）SGG-北京总部Java20250625-12月结课百度云网盘下载97it阅读 655飞书 CodeM",
-    "source": "segmentfault.com",
-    "url": "https://segmentfault.com/a/1190000047900658",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "AI漫剧从0到1零基础入门",
-    "summary_zh": "本文介绍AI漫剧创作的零基础入门流程，涵盖剧本生成、分镜设计、图像生成与配音合成的工具链组合，并讨论角色一致性与风格统一的技术难点。内容偏向内容创作实践，适合想用AI工具快速产出短剧内容的创作者参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "7d0325cce9dfb744285eaa5fe95f2069",
-    "title_en": "Llama-recipes项目中使用本地数据集进行视觉模型微调的实践指南",
-    "source": "blog.gitcode.com",
-    "url": "https://blog.gitcode.com/841464a76318ebade7f2b09abff4b4fb.html",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "Llama-recipes项目中使用本地数据集进行视觉模型微调的实践指南",
-    "summary_zh": "本文基于Llama-recipes仓库，详解如何用本地数据集微调视觉语言模型。内容包括数据集格式转换、图像-文本对的组织方式、训练配置与分布式启动参数、显存与吞吐优化，以及常见报错排查。适合希望在自有数据上复现多模态微调流程的工程师按步骤实践。",
-    "topic": "ai"
-  },
-  {
-    "id": "eb185a725797f6d8d41ce7bb6685f704",
-    "title_en": "大模型意图识别工程化实践",
-    "source": "tool.lu",
-    "url": "https://tool.lu/index.php/article/6TA/detail",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "大模型意图识别工程化实践",
-    "summary_zh": "本文分享大模型意图识别的工程化落地经验，涵盖意图体系设计、样本构造与增强、提示词与微调方案的对比选型、置信度阈值与兜底策略，以及线上服务的延迟与成本优化。内容强调从离线评估到线上监控的闭环建设，适合构建对话系统或智能客服的团队参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "bd3e7aceb11e1baf0cb01d9f1b0fa440",
-    "title_en": "Linux教程云服务器管理平台运维技巧",
-    "source": "hgidc.cn",
-    "url": "https://www.hgidc.cn/bk/archives/tag/linux%E6%95%99%E7%A8%8B",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "Linux教程：云服务器管理平台运维技巧",
-    "summary_zh": "本文介绍云服务器管理平台的Linux运维技巧，涵盖常用监控命令、资源瓶颈定位、安全组与防火墙配置、日志排查及自动化脚本编写。内容侧重日常运维效率提升与故障快速响应，适合刚接手云主机管理的运维人员作为实操参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "53c97523ad12f6b382693afc2e3012fb",
-    "title_en": "Linux 服务器运维：这 5 个优化技巧让你的网站快一倍",
-    "source": "itlaoli.com",
-    "url": "https://www.itlaoli.com/blog/901.html",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "Linux服务器运维：这5个优化技巧让你的网站快一倍",
-    "summary_zh": "本文总结5个Linux服务器性能优化技巧，涉及内核参数调优、文件系统与IO调度、Web服务并发配置、缓存策略及连接数管理。每项均给出具体配置项与验证方法，帮助运维人员在不改动业务代码的前提下显著提升网站响应速度与吞吐能力。",
-    "topic": "ops"
   }
 ]
