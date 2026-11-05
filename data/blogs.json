@@ -1,5 +1,60 @@
 [
   {
+    "id": "62758307f98b33b7058574d0b952ba77",
+    "title_en": "CVE | imjdl blog",
+    "source": "rustlang.rs",
+    "url": "https://rustlang.rs/tags/cve/",
+    "published_at": "2026-11-05T13:45:19.334Z",
+    "fetched_at": "2026-11-05T13:45:19.334Z",
+    "title_zh": "CVE | imjdl 博客",
+    "summary_zh": "本文为博客中CVE相关的技术文章集合，聚焦漏洞的成因分析与修复实践。内容涉及漏洞复现、影响范围评估、补丁比对以及缓解措施，帮助读者理解从披露到修复的完整流程。文章强调在真实环境中验证漏洞可利用性的方法，并给出加固建议，适合安全研究人员与系统管理员跟踪漏洞动态、制定应急响应策略时参考。",
+    "topic": "security"
+  },
+  {
+    "id": "3b7fa725ea81475ef8866f187dbb16dc",
+    "title_en": "OpenClaw CVE-2026-25253 漏洞分析中文版 - GitHub",
+    "source": "github.com",
+    "url": "https://github.com/Joseph19820124/openclaw-vuln-report",
+    "published_at": "2026-11-05T13:45:19.334Z",
+    "fetched_at": "2026-11-05T13:45:19.334Z",
+    "title_zh": "OpenClaw CVE-2026-25253 漏洞分析中文版 - GitHub",
+    "summary_zh": "本文针对OpenClaw的CVE-2026-25253漏洞进行深入分析，梳理漏洞触发条件、受影响版本与攻击路径，并给出复现步骤与利用链细节。文章进一步解读官方补丁的修复逻辑，评估绕过风险，并提供检测与缓解建议。内容技术性强，适合安全工程师用于漏洞验证、风险评估与加固方案制定，也可作为漏洞披露流程的参考案例。",
+    "topic": "security"
+  },
+  {
+    "id": "e217a37ddb1932313e7360a72d91634d",
+    "title_en": "about // Swings' Blog 浮生若梦",
+    "source": "bestwing.me",
+    "url": "https://bestwing.me/about/",
+    "published_at": "2026-11-05T13:45:19.334Z",
+    "fetched_at": "2026-11-05T13:45:19.334Z",
+    "title_zh": "关于 // Swings 的博客 浮生若梦",
+    "summary_zh": "本文为博客的关于页面，主要介绍作者背景、技术兴趣与写作方向，并说明站点的内容定位与更新习惯。页面通常包含联系方式、项目经历与常用技术栈等信息，帮助读者了解作者的专业领域与博客主题范围。内容偏个人介绍，技术深度有限，但对判断该博客后续文章的可信度与关注价值具有一定参考意义。",
+    "topic": "other"
+  },
+  {
+    "id": "86a5779eb1fa1accf3bccc00785f77fb",
+    "title_en": "Kubernetes 集群运维与管理 - Jimmy Song",
+    "source": "jimmysong.io",
+    "url": "https://jimmysong.io/zh/book/kubernetes-handbook/operation/overview/",
+    "published_at": "2026-11-05T13:45:19.333Z",
+    "fetched_at": "2026-11-05T13:45:19.333Z",
+    "title_zh": "Kubernetes 集群运维与管理 - Jimmy Song",
+    "summary_zh": "本文围绕Kubernetes集群的日常运维与管理展开，涵盖节点管理、资源调度、滚动升级、故障排查与监控告警等核心实践。文章结合生产环境经验，讲解如何通过合理配置探针、资源限额与HPA保障服务稳定性，并介绍日志采集与指标监控体系的搭建思路。内容偏重可操作性，适合运维工程师与平台团队参考，以提升集群的可靠性与资源利用率。",
+    "topic": "ops"
+  },
+  {
+    "id": "510027ba4d3d9013991fc4e1a62b53e5",
+    "title_en": "为什么你需要了解AI Agent开发框架",
+    "source": "youres.cn",
+    "url": "https://www.youres.cn/tags-1127.html",
+    "published_at": "2026-11-05T13:45:16.290Z",
+    "fetched_at": "2026-11-05T13:45:16.290Z",
+    "title_zh": "为什么你需要了解AI Agent开发框架",
+    "summary_zh": "本文系统阐述AI Agent开发框架的核心价值与技术要点。文章从Agent的规划、记忆、工具调用三大能力出发，对比主流框架在任务编排、多Agent协作、状态管理等方面的设计差异，并结合实际案例说明框架如何降低开发复杂度、提升可观测性与可扩展性。适合希望将LLM能力落地为自动化工作流的开发者阅读，帮助其在选型时权衡抽象层次、生态成熟度与调试成本。",
+    "topic": "ai"
+  },
+  {
     "id": "a37d4f339a2ab34f8e19e6b381f567a4",
     "title_en": "【硬核分析】CSS也能拿Shell？深入Chrome 2026首个0day ...",
     "source": "bilibili.com",
@@ -2142,61 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:32.702Z",
     "title_zh": "Linux服务器运维：这5个优化技巧让你的网站快一倍",
     "summary_zh": "本文总结5个Linux服务器性能优化技巧，涉及内核参数调优、文件系统与IO调度、Web服务并发配置、缓存策略及连接数管理。每项均给出具体配置项与验证方法，帮助运维人员在不改动业务代码的前提下显著提升网站响应速度与吞吐能力。",
-    "topic": "ops"
-  },
-  {
-    "id": "83eefb89b090dc94527ac7f535d784e0",
-    "title_en": "Linux 运维题目: 挑战极限的实战指南（linux运维题目）-宜宾勤盛利枫建站",
-    "source": "aqpgk.com",
-    "url": "http://aqpgk.com/article/djgjppd.html",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "Linux运维题目：挑战极限的实战指南",
-    "summary_zh": "本文以实战题目形式梳理Linux运维核心技能，涵盖进程与内存排查、磁盘与inode分析、网络连通性诊断、权限与sudo配置、systemd服务管理等场景。每道题给出解题思路与命令组合，适合运维人员自测能力短板并针对性补强。",
-    "topic": "ops"
-  },
-  {
-    "id": "010f2870206468f69bec2b1c5c1c702e",
-    "title_en": "掌握Linux查询系统技巧，为服务器运维保驾护航（linux查询系统）-宜宾勤盛利枫建站",
-    "source": "aqpgk.com",
-    "url": "http://aqpgk.com/article/ccespjs.html",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "掌握Linux查询系统技巧，为服务器运维保驾护航",
-    "summary_zh": "本文系统整理Linux系统信息查询技巧，包括CPU、内存、磁盘、网络、负载与内核参数的查看命令，以及如何组合grep、awk、sort快速定位异常。内容强调查询结果到故障判断的转化，帮助运维人员建立标准化的巡检与排障流程。",
-    "topic": "ops"
-  },
-  {
-    "id": "58245f03ece97c114215dad5776e3789",
-    "title_en": "以Linux系统重启时间为基准，探究服务器运维管理的相关技巧和应用实践",
-    "source": "bdntp.cn",
-    "url": "https://www.bdntp.cn/shijian/3424.html",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "以Linux系统重启时间为基准，探究服务器运维管理的相关技巧和应用实践",
-    "summary_zh": "本文以系统重启时间为切入点，探讨服务器运维中的变更管理与稳定性保障实践。内容包括重启原因追溯、内核与驱动升级后的验证、服务自启动与依赖编排、重启前后监控基线对比，以及如何通过计划内重启降低故障风险，适合关注可用性的运维团队参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "606e0b53cfaa3a7205f9878575f3f644",
-    "title_en": "「Linux运维」：提升系统稳定性和安全性的关键技能 (linux ops)-宜宾勤盛利枫建站",
-    "source": "aqpgk.com",
-    "url": "http://aqpgk.com/article/cdpcdgo.html",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "「Linux运维」：提升系统稳定性和安全性的关键技能",
-    "summary_zh": "本文围绕Linux系统稳定性与安全性，介绍资源监控告警、日志集中管理、最小权限与sudo审计、SSH加固、补丁更新策略及备份恢复演练等关键技能。内容兼顾日常运维规范与安全基线落地，帮助运维人员构建可复用的加固与巡检清单。",
-    "topic": "ops"
-  },
-  {
-    "id": "4d33f6339af8480a8352bf0ade717074",
-    "title_en": "Linux服务器强大功能全解析：从基础应用到高级运维技巧",
-    "source": "cnraksmart.com",
-    "url": "https://www.cnraksmart.com/20964.html",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "Linux服务器强大功能全解析：从基础应用到高级运维技巧",
-    "summary_zh": "本文全面解析Linux服务器的功能体系，从用户与权限管理、软件包与仓库维护，到systemd服务编排、容器化部署、性能监控与调优。内容由浅入深，兼顾基础命令与高级运维技巧，适合作为运维人员系统化梳理知识体系的参考读物。",
     "topic": "ops"
   }
 ]
