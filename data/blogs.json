@@ -1,5 +1,27 @@
 [
   {
+    "id": "a37d4f339a2ab34f8e19e6b381f567a4",
+    "title_en": "【硬核分析】CSS也能拿Shell？深入Chrome 2026首个0day ...",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1mJfMBmE3N/",
+    "published_at": "2026-11-05T04:19:39.279Z",
+    "fetched_at": "2026-11-05T04:19:39.279Z",
+    "title_zh": "【硬核分析】CSS 也能拿 Shell？深入剖析 Chrome 2026 首个 0day",
+    "summary_zh": "本文深入分析 Chrome 2026 年首个在野 0day 漏洞，聚焦于如何通过 CSS 相关特性触发内存破坏并最终实现远程代码执行（拿 Shell）。文章从漏洞成因、触发条件、利用链构造到缓解绕过进行逐层拆解，结合调试与 PoC 复现细节，揭示渲染引擎中样式处理逻辑的安全隐患，对浏览器安全研究、漏洞挖掘与防御加固具有较高参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "47661a8ba954336d492947daa1688e9b",
+    "title_en": "AI Agent 教程中心",
+    "source": "aiskillnav.com",
+    "url": "https://aiskillnav.com/tutorials?tut_cat=agent",
+    "published_at": "2026-11-05T04:19:36.723Z",
+    "fetched_at": "2026-11-05T04:19:36.723Z",
+    "title_zh": "AI Agent 教程中心",
+    "summary_zh": "该教程中心系统整理了 AI Agent 的开发实践，涵盖 Agent 架构设计、工具调用（Function Calling）、多智能体协作、记忆与规划机制等核心主题。内容面向开发者，提供从基础概念到工程落地的完整路径，包括主流框架（如 LangChain、AutoGPT 等）的使用示例与最佳实践，帮助读者快速构建可用的 Agent 应用并理解其背后的技术原理与常见陷阱。",
+    "topic": "ai"
+  },
+  {
     "id": "0f2f9184083dde655ac73653d8c431cb",
     "title_en": "AI Agent开发框架对比评测：LangChain vs CrewAI vs AutoGen 选型指南",
     "source": "youres.cn",
@@ -2176,27 +2198,5 @@
     "title_zh": "Linux服务器强大功能全解析：从基础应用到高级运维技巧",
     "summary_zh": "本文全面解析Linux服务器的功能体系，从用户与权限管理、软件包与仓库维护，到systemd服务编排、容器化部署、性能监控与调优。内容由浅入深，兼顾基础命令与高级运维技巧，适合作为运维人员系统化梳理知识体系的参考读物。",
     "topic": "ops"
-  },
-  {
-    "id": "37e9641ef387425c80426d4c141eadd4",
-    "title_en": "wow-agent:基于AI技术的企业Agent搭建教程与框架指南项目",
-    "source": "gitcode.com",
-    "url": "https://gitcode.com/huqi/wow-agent",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "wow-agent：基于AI技术的企业Agent搭建教程与框架指南项目",
-    "summary_zh": "介绍wow-agent开源项目，提供面向企业的AI Agent搭建教程与框架指南。内容涵盖Agent架构设计、工具集成、知识库接入与部署运维，结合企业场景讲解如何构建可落地的Agent应用，并给出扩展与定制建议，适合企业技术团队参考实施。",
-    "topic": "ai"
-  },
-  {
-    "id": "510027ba4d3d9013991fc4e1a62b53e5",
-    "title_en": "为什么你需要了解AI Agent开发框架",
-    "source": "youres.cn",
-    "url": "https://www.youres.cn/tags-1127.html",
-    "published_at": "2026-10-28T17:40:32.701Z",
-    "fetched_at": "2026-10-28T17:40:32.701Z",
-    "title_zh": "为什么你需要了解AI Agent开发框架",
-    "summary_zh": "阐述了解AI Agent开发框架的必要性，分析Agent在自动化任务、工具调用与复杂工作流中的价值。文章对比自研与使用成熟框架的利弊，说明框架在抽象工具调用、状态管理与多Agent协作上的作用，帮助开发者判断何时引入框架并规避重复造轮子的成本。",
-    "topic": "ai"
   }
 ]

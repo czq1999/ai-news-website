@@ -1,5 +1,49 @@
 [
   {
+    "id": "949c622ff3b7488e48c3bbceadbe245d",
+    "title_en": "Apple is reportedly cutting budgets for its internal AI usage",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "published_at": "2026-11-05T01:26:22.000Z",
+    "fetched_at": "2026-11-05T04:19:08.279Z",
+    "title_zh": "苹果据报削减内部AI使用预算",
+    "summary_zh": "据TechCrunch报道，苹果正在削减其内部AI使用预算，反映出该公司在AI投入策略上的调整。此举可能意味着苹果正在重新评估内部AI工具的成本效益，或转向更集中的AI资源管理方式。此前苹果在AI领域动作频频，包括推出Apple Intelligence等功能，但内部预算收紧或暗示其对AI支出的审慎态度，值得关注其后续对产品AI功能的影响。",
+    "category": "industry"
+  },
+  {
+    "id": "6cb2e7c175880cbc3694a7e9a2779e53",
+    "title_en": "After the midterms, a bigger clash over data centers could be coming",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "published_at": "2026-11-05T01:02:14.000Z",
+    "fetched_at": "2026-11-05T04:19:08.280Z",
+    "title_zh": "中期选举后，数据中心之争或将进一步升级",
+    "summary_zh": "TechCrunch AI报道指出，美国中期选举之后，围绕数据中心的争议可能进一步加剧。随着AI算力需求激增，数据中心在选址、能耗、水资源使用等方面引发越来越多地方与联邦层面的博弈。选举结果可能改变监管格局与政策优先级，各州与社区对数据中心的态度分化，未来围绕土地、电力与环保的冲突预计将更加激烈。",
+    "category": "industry"
+  },
+  {
+    "id": "ed682936416674190e7e2c316032da43",
+    "title_en": "X says its updated web app is way faster",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+    "published_at": "2026-11-05T00:25:12.000Z",
+    "fetched_at": "2026-11-05T04:19:08.391Z",
+    "title_zh": "X称其更新后的网页应用速度大幅提升",
+    "summary_zh": "据The Verge报道，X（原推特）宣布其更新后的网页应用速度显著提升。此次优化可能涉及前端架构重构、加载策略改进与资源压缩等技术手段，旨在改善用户体验并降低跳出率。在社交平台竞争激烈的背景下，性能优化成为留住用户的关键举措之一，也反映出X持续投入产品体验改进的策略方向。",
+    "category": "product"
+  },
+  {
+    "id": "0197f010ff8c0a6a7b157c0687b754ae",
+    "title_en": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "published_at": "2026-11-04T23:13:14.000Z",
+    "fetched_at": "2026-11-05T04:19:08.551Z",
+    "title_zh": "蓝色浪潮来袭，科技大佬争相布局太空数据中心",
+    "summary_zh": "随着政治格局变化与地面数据中心面临电力、土地和审批瓶颈，科技企业家们开始将目光投向太空数据中心。支持者认为，轨道数据中心可利用持续太阳能并规避地面监管限制，但发射成本、散热与维护仍是巨大挑战。这一构想折射出AI算力需求激增背景下基础设施扩张的焦虑。",
+    "category": "industry"
+  },
+  {
     "id": "7f925bafb959720f314bd4126d98b70e",
     "title_en": "AI PACs spent millions trying to shape Congress — here’s how they fared",
     "source": "TechCrunch AI",
@@ -713,6 +757,105 @@
     "title_zh": "民主党几乎横扫所有关键选区",
     "summary_zh": "据 Wired 报道，民主党在几乎每一场关键选举中击败共和党，取得显著胜利。文章分析了此次选举结果对政治格局的影响，涉及多个重要选区与议题。这一结果可能影响未来政策走向与两党力量对比，对科技、监管等领域的立法方向也具有潜在影响，值得持续关注后续动态。",
     "category": "industry"
+  },
+  {
+    "id": "d96eda53e4d6cfdd36015d6ae3124e3b",
+    "title_en": "No evidence PHP flaws exploited in government, critical infrastructure systems: Tan Kiat How",
+    "source": "CNA",
+    "url": "https://www.channelnewsasia.com/singapore/php-flaw-exploitation-mddi-6519861",
+    "published_at": "2026-11-04T04:15:13Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "陈杰豪：无证据显示PHP漏洞被用于攻击政府及关键基础设施系统",
+    "summary_zh": "新加坡官员陈杰豪表示，目前没有证据表明PHP相关漏洞被利用来攻击政府或关键基础设施系统。此番表态回应了外界对开源软件安全性的担忧。随着开源组件在政务与关键行业中广泛使用，漏洞管理与补丁响应机制成为监管重点，相关部门正持续加强监测与应急能力。",
+    "category": "industry"
+  },
+  {
+    "id": "cef037a2ae38fb4725f1f99286e5eced",
+    "title_en": "The next six weeks could make or break the global economy – The Economy of Everything",
+    "source": "New Zealand Herald",
+    "url": "https://www.nzherald.co.nz/business/the-next-six-weeks-could-make-or-break-the-global-economy-the-economy-of-everything/XOL2V3HPUVGQZP3NV7FZNLZF74/",
+    "published_at": "2026-11-04T04:00:00Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "未来六周或决定全球经济走向——《万物经济》",
+    "summary_zh": "评论文章指出，未来六周将成为全球经济的关键窗口期，多项政策决定、贸易谈判与数据发布可能左右市场走向。文章从关税、通胀与利率路径等角度分析潜在风险，认为企业投资与消费者信心正处于敏感节点，任何意外冲击都可能放大市场波动。",
+    "category": "industry"
+  },
+  {
+    "id": "37ab5b00c2f74346698e560d36b13153",
+    "title_en": "US Midterm Elections 2026: Late Republican veteran Lindsey Graham’s sister Darline loses South Carolina Senate race",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/darline-graham-late-republican-veteran-lindsey-grahams-sister-loses-south-carolina-senate-race/articleshow/135521834.cms",
+    "published_at": "2026-11-04T03:58:36Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "2026美国中期选举：已故共和党资深参议员林赛·格雷厄姆之妹达琳输掉南卡罗来纳州参议院选战",
+    "summary_zh": "2026年美国中期选举中，已故共和党资深参议员林赛·格雷厄姆的妹妹达琳在南卡罗来纳州参议院竞选中落败。此次选举结果反映出该州选民结构的变化与共和党内部势力的重新洗牌，也为两党在参议院的席位争夺增添新的变数。",
+    "category": "industry"
+  },
+  {
+    "id": "31469515b1c3b385d80158f9ab70a4c5",
+    "title_en": "How many times have América, Chivas and Cruz Azul been level?",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/how-many-times-have-america-chivas-and-cruz-azul-been-level-43722186",
+    "published_at": "2026-11-04T03:58:00Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "美洲队、瓜达拉哈拉与蓝十字曾多少次战平？",
+    "summary_zh": "体育媒体梳理了墨西哥足球豪门美洲队、瓜达拉哈拉与蓝十字之间的历史交锋记录，重点统计三队相互对阵时的平局次数。这类数据对比常用于赛前分析，帮助球迷了解传统强队之间的势均力敌程度与德比战的历史走势。",
+    "category": "industry"
+  },
+  {
+    "id": "96f0fff4ae2223df4c71bfd7fba52caa",
+    "title_en": "Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/11/03/autonomous-site-reliability-engineering-startup-traversal-bags-120m-in-funding-at-a-1b-valuation/",
+    "published_at": "2026-11-04T03:47:11Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "自主站点可靠性工程初创公司Traversal获1.2亿美元融资，估值达10亿美元",
+    "summary_zh": "专注于自主站点可靠性工程（SRE）的初创公司Traversal宣布完成1.2亿美元融资，估值达到10亿美元，跻身独角兽行列。该公司利用AI自动化监控、故障排查与系统运维，帮助企业降低宕机风险与运维成本。此轮融资反映出资本市场对AIOps与智能运维赛道的持续看好。",
+    "category": "industry"
+  },
+  {
+    "id": "568f874c22a28410a9facb1ff4f84627",
+    "title_en": "EloElo raises $ 80mn Series C led by Hornbill Capital; eyes US expansion",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/companies/eloelo-raises-80mn-series-c-led-by-hornbill-capital-eyes-us-expansion/article71661624.ece",
+    "published_at": "2026-11-04T03:45:37Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "EloElo完成8000万美元C轮融资，Hornbill Capital领投，计划进军美国市场",
+    "summary_zh": "互动娱乐平台EloElo宣布完成8000万美元C轮融资，由Hornbill Capital领投。公司计划利用新资金拓展美国市场，并加强其社交游戏与直播互动产品。此次融资显示，印度本土消费互联网企业在资本回暖背景下正加速国际化布局。",
+    "category": "industry"
+  },
+  {
+    "id": "d431acc74f474b27c67c6c0b0f5d746e",
+    "title_en": "How America Is Being Conquered Without a Shot",
+    "source": "Globalresearch.ca",
+    "url": "https://www.globalresearch.ca/america-being-conquered-without-shot/5945108",
+    "published_at": "2026-11-04T03:42:06Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "美国如何在不发一枪的情况下被征服",
+    "summary_zh": "地缘政治评论文章探讨美国面临的非军事性挑战，认为经济依赖、信息渗透与社会分裂等因素正构成新型安全风险。文章观点带有强烈立场，主张重新审视国家安全边界，但其论述缺乏主流学界共识，读者需谨慎辨别。",
+    "category": "industry"
+  },
+  {
+    "id": "60eec79684fa79b5d6cd33f35cbf63fd",
+    "title_en": "Block Shares Jump on ASX After Third-Quarter Beat and Third Straight Guidance Upgrade Lift Payments Giant",
+    "source": "Ibtimes.com.au",
+    "url": "https://www.ibtimes.com.au/block-shares-jump-asx-earnings-beat-raised-outlook-1877894",
+    "published_at": "2026-11-04T03:41:08Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "Block第三季度业绩超预期并第三次上调指引，澳交所股价大涨",
+    "summary_zh": "支付巨头Block公布第三季度财报，业绩超出市场预期，并第三次上调全年业绩指引，推动其在澳交所交易的股票大幅上涨。强劲的支付交易量与成本控制提振投资者信心，市场关注其能否在消费放缓环境下维持增长势头。",
+    "category": "industry"
+  },
+  {
+    "id": "b2cb6965053883ffae5090732dedba10",
+    "title_en": "Sarvam AI launches Prism decision model with 44-millisecond response time",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/info-tech/sarvam-ai-launches-prism-decision-model-with-44-millisecond-response-time/article71663860.ece",
+    "published_at": "2026-11-04T03:40:40Z",
+    "fetched_at": "2026-11-05T04:19:08.845Z",
+    "title_zh": "Sarvam AI发布Prism决策模型，响应时间仅44毫秒",
+    "summary_zh": "印度AI公司Sarvam AI推出名为Prism的决策模型，宣称响应时间仅44毫秒，主打低延迟的实时决策场景。该模型面向企业级应用，强调在本地化语言与业务流程中的高效推理能力。此举显示印度本土大模型厂商正加速产品化，切入对时延敏感的行业市场。",
+    "category": "llm"
   },
   {
     "id": "0df359f195dabf6d3dea5f22f6244642",
@@ -5354,149 +5497,6 @@
     "fetched_at": "2026-10-29T11:58:49.951Z",
     "title_zh": "2026年我最离不开的Kindle配件",
     "summary_zh": "Wired编辑分享了2026年最值得推荐的Kindle配件，涵盖保护壳、支架、阅读灯和充电设备等。文章从实用性、耐用性和性价比角度出发，帮助读者打造更舒适的电子阅读体验。虽然与AI无直接关联，但反映了消费电子配件市场的持续创新和用户对阅读体验的重视。",
-    "category": "product"
-  },
-  {
-    "id": "9099d0a7764bc44c8e43bfd334c62935",
-    "title_en": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
-    "published_at": "2026-10-29T10:45:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "一项AI突破让数十年计算机科学研究变得“无关紧要”",
-    "summary_zh": "Wired报道称，一项AI领域的重大突破可能使数十年来积累的计算机科学研究成果变得“无关紧要”。该突破在算法效率或问题求解方式上实现了范式转变，令传统优化理论和复杂度研究的部分结论失去现实意义。学界对此反应不一，有人认为这是科学进步的必然，也有人担忧基础研究价值被低估。",
-    "category": "research"
-  },
-  {
-    "id": "133ea8d8e910d1e9bee8822af340c72d",
-    "title_en": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/review-hisense-ur8/",
-    "published_at": "2026-10-29T10:30:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "海信UR8 RGB MiniLED电视评测：中端品质，高端色彩准确度",
-    "summary_zh": "Wired评测了海信UR8 RGB MiniLED电视，认为其定位中端但色彩准确度接近高端产品。该电视采用RGB MiniLED背光技术，在亮度和色域表现上优于同价位竞品，适合追求画质的用户。不过在峰值亮度和局部调光精细度上仍与旗舰机型存在差距。整体而言是一款性价比较高的选择。",
-    "category": "product"
-  },
-  {
-    "id": "bf949a453c171021e13ed5ba142f6af8",
-    "title_en": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
-    "published_at": "2026-10-29T10:30:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "黑客用恶意软件攻击高额扑克玩家并泄露其手牌",
-    "summary_zh": "Wired报道称，一名黑客针对高额扑克玩家部署恶意软件，成功获取并泄露了玩家的手牌信息。攻击者可能通过钓鱼邮件或恶意链接入侵玩家设备，实时窃取屏幕内容以获取对局优势。此事件引发扑克圈对网络安全的广泛关注，专家建议玩家加强设备防护并避免在非可信环境登录账户。",
-    "category": "industry"
-  },
-  {
-    "id": "f4c6bc43cc322f2bc14945cd2f8e2392",
-    "title_en": "I Did Push-Ups With Snap’s Chunky AR Glasses",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
-    "published_at": "2026-10-29T10:15:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "我戴着Snap笨重的AR眼镜做了俯卧撑",
-    "summary_zh": "Wired记者体验了Snap推出的新款AR眼镜，并在佩戴状态下完成了俯卧撑测试。这款眼镜体积较大、外观笨重，但在运动场景中仍能稳定显示AR内容。记者认为其在健身指导、实时数据叠加等场景具有潜力，但舒适度和续航仍是待改进之处。整体而言，Snap在AR硬件实用化方向上迈出了有趣的一步。",
-    "category": "product"
-  },
-  {
-    "id": "fac1160b41b7d69a65ca9486b77a8191",
-    "title_en": "We urgently need to monitor AI agents’ actions in real time",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "published_at": "2026-10-29T10:11:12.000Z",
-    "fetched_at": "2026-10-29T11:58:50.132Z",
-    "title_zh": "我们亟需实时监控 AI 智能体的行为",
-    "summary_zh": "MIT 科技评论指出，随着 AI 智能体被赋予更多自主执行任务的能力，其行为可能带来难以预料的风险，因此需要对其操作进行实时监控。文章讨论了现有可观测性工具的不足，以及构建实时审计、行为追踪与干预机制的必要性，强调在智能体大规模落地前建立安全护栏与问责体系的重要性。",
-    "category": "research"
-  },
-  {
-    "id": "d5e0e9e01a4703dc2f2b1fe91da3b232",
-    "title_en": "AI has come for Arizona’s water",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-    "published_at": "2026-10-29T10:00:04.000Z",
-    "fetched_at": "2026-10-29T11:58:49.729Z",
-    "title_zh": "AI 数据中心正在吞噬亚利桑那州的水资源",
-    "summary_zh": "随着 AI 数据中心在亚利桑那州快速扩张，其庞大的冷却用水需求正对当地本就紧张的水资源造成巨大压力。报道指出，科技公司为训练和运行大模型而建设的大型数据中心消耗大量水资源，而该州正面临长期干旱。当地居民和环保人士担忧，AI 产业的用水需求可能与农业和居民用水形成竞争，引发资源分配争议。",
-    "category": "industry"
-  },
-  {
-    "id": "09ed8a000d9984c1e273d275a4f341cd",
-    "title_en": "I Gave My Blood to the AI Death Clock",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-    "published_at": "2026-10-29T10:00:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "我把血交给了AI死亡时钟",
-    "summary_zh": "Wired记者体验了一款名为“AI死亡时钟”的健康预测服务，通过提交血液检测数据，由AI模型评估预期寿命和健康风险。文章探讨了此类服务的科学依据、隐私隐患和心理影响。记者认为，尽管AI预测具有一定参考价值，但过度依赖可能引发焦虑，且数据安全与算法透明度仍需监管。",
-    "category": "product"
-  },
-  {
-    "id": "297019cc1235e06454fe0722476fa1de",
-    "title_en": "Reencle Essential Review: Same Scraps, Lower Price",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/reencle-essential-electric-composter/",
-    "published_at": "2026-10-29T10:00:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "Reencle Essential评测：同样的厨余，更低的价格",
-    "summary_zh": "Wired评测了Reencle Essential厨余堆肥机，认为其在保持与高端型号相近的处理效果的同时，价格更为亲民。该设备可在数小时内将厨余垃圾转化为堆肥，减少异味和垃圾量。评测指出其在容量和噪音控制上略有妥协，但整体性价比出色，适合关注环保的家庭用户。",
-    "category": "product"
-  },
-  {
-    "id": "a9ce2db25b989f992d940f5a45b580eb",
-    "title_en": "Our climate models have a big, dangerous blind spot",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-    "published_at": "2026-10-29T10:00:00.000Z",
-    "fetched_at": "2026-10-29T11:58:50.132Z",
-    "title_zh": "我们的气候模型存在巨大而危险的盲区",
-    "summary_zh": "MIT 科技评论指出，现有气候模型存在一个重大盲区，可能影响对未来的预测准确性。文章分析了模型在关键环节上的简化与缺失，以及这些缺陷如何导致风险评估偏差，进而影响政策制定与防灾准备。作者呼吁改进观测数据与建模方法，以更可靠地应对气候变化带来的不确定性。",
-    "category": "research"
-  },
-  {
-    "id": "43d6c2e16242aec49464c0c37eb57938",
-    "title_en": "Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/law-firm-linked-to-elon-musk-started-an-election-integrity-organization/",
-    "published_at": "2026-10-29T09:45:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "与马斯克有关联的律所成立“选举诚信”组织",
-    "summary_zh": "Wired报道称，一家与埃隆·马斯克有关联的律师事务所成立了一个名为“选举诚信”的组织。该组织声称致力于维护选举公正，但其背景和资金来源引发外界质疑。批评者担忧此类组织可能被用于推动特定政治议程或散布选举相关的不实信息。事件再次引发对科技富豪介入选举事务的关注。",
-    "category": "industry"
-  },
-  {
-    "id": "9850bd93f6007fafb032bb41e8b4d003",
-    "title_en": "Liquid Glass Finally Makes Sense on the iPhone Duo",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/",
-    "published_at": "2026-10-29T09:30:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "液态玻璃设计终于在iPhone Duo上变得合理",
-    "summary_zh": "Wired评论指出，苹果的液态玻璃（Liquid Glass）设计语言在iPhone Duo上终于展现出合理性。此前该设计在单屏设备上显得华而不实，而在双屏折叠形态下，其流动感和光影效果与多任务交互相得益彰。文章认为，这一设计理念需要匹配的硬件形态才能发挥价值，iPhone Duo或成为其最佳载体。",
-    "category": "product"
-  },
-  {
-    "id": "119fcb5646039a485265959b01efebe8",
-    "title_en": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
-    "published_at": "2026-10-29T09:00:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "天文学家在太阳系中发现可能的矮行星新成员",
-    "summary_zh": "Wired报道，天文学家在太阳系边缘发现了一个可能的矮行星新成员。该天体位于柯伊伯带附近，直径估计在数百公里量级，具备矮行星的候选特征。研究团队将通过后续观测确认其轨道和物理性质。这一发现有助于理解太阳系早期演化及外太阳系天体的分布规律。",
-    "category": "research"
-  },
-  {
-    "id": "b4ecadf865d23bba1f41a48a7ebcb4fc",
-    "title_en": "NZXT Discount Codes: 50% Off in November 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/nzxt-discount-code/",
-    "published_at": "2026-10-29T05:00:00.000Z",
-    "fetched_at": "2026-10-29T11:58:49.951Z",
-    "title_zh": "NZXT 优惠码：2026年11月享五折",
-    "summary_zh": "Wired 汇总了 NZXT 在 2026 年 11 月可用的折扣码，最高可享 50% 优惠。NZXT 主营机箱、水冷散热、电源与整机等 PC 硬件产品，此次促销覆盖多款热门配件，适合计划组装或升级电脑的玩家关注。建议下单前核对优惠码有效期与适用商品范围。",
     "category": "product"
   }
 ]
