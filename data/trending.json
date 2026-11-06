@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-11-06",
-      "summary_zh": "今日GitHub热榜聚焦高性能编辑器Zed、AI语义推理框架及Rust、React等主流开发工具。",
+      "summary_zh": "今日GitHub热榜聚焦高性能编辑器Zed、AI语义推理框架Auto Ontology，以及Rust、React、Angular等主流开发框架与监控工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "stars_total": 62902,
+          "stars_total": 63838,
           "stars_today": 2524,
           "description_zh": "一种编码代理技能，用于多阶段安全审计，并提供经过独立验证的机器可读发现结果"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/mattpocock/skills",
           "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "stars_total": 316194,
+          "stars_total": 316646,
           "stars_today": 2058,
           "description_zh": "面向真正工程师的技能。直接来自我的 .agents 目录。"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/NVIDIA/auto-ontology",
           "description_en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
           "language": "Python",
-          "stars_total": 8397,
+          "stars_total": 8922,
           "stars_today": 2005,
           "description_zh": "Auto Ontology 是一个 Python 框架，用于在数据之上构建基于图的语义推理层。它为 LLM 和智能体工作流实现确定性查询生成、更好的上下文检索以及更具可解释性的 AI。"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/google/skills",
           "description_en": "Agent Skills for Google products and technologies",
           "language": "Python",
-          "stars_total": 22645,
+          "stars_total": 22806,
           "stars_today": 532,
           "description_zh": "面向 Google 产品和技术的智能体技能"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/lz4/lz4",
           "description_en": "Extremely Fast Compression algorithm",
           "language": "C",
-          "stars_total": 12546,
+          "stars_total": 12635,
           "stars_today": 313,
           "description_zh": "极速压缩算法"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/microsoft/vscode",
           "description_en": "Visual Studio Code",
           "language": "TypeScript",
-          "stars_total": 194830,
+          "stars_total": 195000,
           "stars_today": 295,
           "description_zh": "Visual Studio Code"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/zed-industries/zed",
           "description_en": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
           "language": "Rust",
-          "stars_total": 93062,
+          "stars_total": 93556,
           "stars_today": 292,
           "description_zh": "以思维的速度编写代码——Zed 是一款高性能、多人协作的代码编辑器，由 Atom 和 Tree-sitter 的创造者打造。"
         },
@@ -80,89 +80,89 @@
           "url": "https://github.com/react/react",
           "description_en": "The library for web and native user interfaces.",
           "language": "JavaScript",
-          "stars_total": 252077,
+          "stars_total": 252231,
           "stars_today": 244,
           "description_zh": "用于构建 Web 和原生用户界面的库。"
         },
         {
           "rank": 9,
-          "name": "rust-lang/rust",
-          "url": "https://github.com/rust-lang/rust",
-          "description_en": "Empowering everyone to build reliable and efficient software.",
-          "language": "Rust",
-          "stars_total": 121203,
-          "stars_today": 186,
-          "description_zh": "赋能每个人构建可靠且高效的软件。"
-        },
-        {
-          "rank": 10,
-          "name": "prometheus/prometheus",
-          "url": "https://github.com/prometheus/prometheus",
-          "description_en": "The Prometheus monitoring system and time series database.",
-          "language": "Go",
-          "stars_total": 66999,
-          "stars_today": 140,
-          "description_zh": "Prometheus 监控系统和时间序列数据库。"
-        },
-        {
-          "rank": 11,
-          "name": "angular/angular",
-          "url": "https://github.com/angular/angular",
-          "description_en": "Deliver web apps with confidence 🚀",
-          "language": "TypeScript",
-          "stars_total": 101157,
-          "stars_today": 128,
-          "description_zh": "自信地交付 Web 应用 🚀"
-        },
-        {
-          "rank": 12,
-          "name": "etcd-io/etcd",
-          "url": "https://github.com/etcd-io/etcd",
-          "description_en": "Distributed reliable key-value store for the most critical data of a distributed system",
-          "language": "Go",
-          "stars_total": 52497,
-          "stars_today": 123,
-          "description_zh": "为分布式系统最关键数据提供的分布式可靠键值存储"
-        },
-        {
-          "rank": 13,
           "name": "astral-sh/ruff",
           "url": "https://github.com/astral-sh/ruff",
           "description_en": "An extremely fast Python linter and code formatter, written in Rust.",
           "language": "Rust",
-          "stars_total": 50501,
-          "stars_today": 107,
+          "stars_total": 50657,
+          "stars_today": 213,
           "description_zh": "一个用 Rust 编写的极快的 Python linter 和代码格式化工具。"
         },
         {
-          "rank": 14,
-          "name": "symfony/symfony",
-          "url": "https://github.com/symfony/symfony",
-          "description_en": "The Symfony PHP framework",
-          "language": "PHP",
-          "stars_total": 31268,
-          "stars_today": 89,
-          "description_zh": "Symfony PHP 框架"
+          "rank": 10,
+          "name": "rust-lang/rust",
+          "url": "https://github.com/rust-lang/rust",
+          "description_en": "Empowering everyone to build reliable and efficient software.",
+          "language": "Rust",
+          "stars_total": 121402,
+          "stars_today": 186,
+          "description_zh": "赋能每个人构建可靠且高效的软件。"
         },
         {
-          "rank": 15,
+          "rank": 11,
           "name": "nushell/nushell",
           "url": "https://github.com/nushell/nushell",
           "description_en": "A new type of shell",
           "language": "Rust",
-          "stars_total": 40814,
-          "stars_today": 88,
+          "stars_total": 40956,
+          "stars_today": 177,
           "description_zh": "一种新型的 shell"
         },
         {
-          "rank": 16,
+          "rank": 12,
           "name": "rails/rails",
           "url": "https://github.com/rails/rails",
           "description_en": "Ruby on Rails",
           "language": "Ruby",
-          "stars_total": 58901,
-          "stars_today": 44,
+          "stars_total": 59002,
+          "stars_today": 152,
           "description_zh": "Ruby on Rails"
+        },
+        {
+          "rank": 13,
+          "name": "prometheus/prometheus",
+          "url": "https://github.com/prometheus/prometheus",
+          "description_en": "The Prometheus monitoring system and time series database.",
+          "language": "Go",
+          "stars_total": 67145,
+          "stars_today": 140,
+          "description_zh": "Prometheus 监控系统和时间序列数据库。"
+        },
+        {
+          "rank": 14,
+          "name": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "description_en": "Deliver web apps with confidence 🚀",
+          "language": "TypeScript",
+          "stars_total": 101321,
+          "stars_today": 128,
+          "description_zh": "自信地交付 Web 应用 🚀"
+        },
+        {
+          "rank": 15,
+          "name": "etcd-io/etcd",
+          "url": "https://github.com/etcd-io/etcd",
+          "description_en": "Distributed reliable key-value store for the most critical data of a distributed system",
+          "language": "Go",
+          "stars_total": 52593,
+          "stars_today": 123,
+          "description_zh": "为分布式系统最关键数据提供的分布式可靠键值存储"
+        },
+        {
+          "rank": 16,
+          "name": "symfony/symfony",
+          "url": "https://github.com/symfony/symfony",
+          "description_en": "The Symfony PHP framework",
+          "language": "PHP",
+          "stars_total": 31404,
+          "stars_today": 89,
+          "description_zh": "Symfony PHP 框架"
         },
         {
           "rank": 17,
@@ -170,7 +170,7 @@
           "url": "https://github.com/mpv-player/mpv",
           "description_en": "🎥 Command line media player",
           "language": "C",
-          "stars_total": 37771,
+          "stars_total": 37864,
           "stars_today": 36,
           "description_zh": "🎥 命令行媒体播放器"
         },
@@ -180,7 +180,7 @@
           "url": "https://github.com/openssl/openssl",
           "description_en": "General purpose TLS and crypto library",
           "language": "C",
-          "stars_total": 31210,
+          "stars_total": 31275,
           "stars_today": 24,
           "description_zh": "通用 TLS 和加密库"
         }
