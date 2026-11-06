@@ -1,5 +1,38 @@
 [
   {
+    "id": "c2e2ad066adbffd91c415b824f55b417",
+    "title_en": "最佳实践",
+    "source": "kubernetes.io",
+    "url": "https://kubernetes.io/zh-cn/docs/setup/best-practices/",
+    "published_at": "2026-11-06T13:29:05.485Z",
+    "fetched_at": "2026-11-06T13:29:05.485Z",
+    "title_zh": "最佳实践",
+    "summary_zh": "本文来自Kubernetes官方文档，汇总集群部署与运维的最佳实践，涵盖资源配置、命名空间与RBAC权限划分、健康探针设置、滚动更新与回滚策略、资源请求与限制调优等要点。内容强调以声明式配置管理 workloads，结合监控与日志体系保障稳定性，并给出多环境隔离与安全加固建议，适合运维与平台工程师作为生产环境落地的参考清单。",
+    "topic": "ops"
+  },
+  {
+    "id": "92e9e9f26e1f6894b302740a38799e5d",
+    "title_en": "《战略大语言模型采纳：高管指南——为特定领域应用微调模型》",
+    "source": "thenote.app",
+    "url": "https://thenote.app/post/zh/zhan-lue-da-yu-yan-mo-xing-cai-na-gao-guan-zhi-nan-wei-te-ding-ling-yu-ying-yong-2ofbibfx8c",
+    "published_at": "2026-11-06T13:29:02.310Z",
+    "fetched_at": "2026-11-06T13:29:02.310Z",
+    "title_zh": "战略大语言模型采纳：高管指南——为特定领域应用微调模型",
+    "summary_zh": "本文面向企业高管，系统阐述大语言模型在组织内落地的战略路径，重点聚焦领域特定场景下的模型微调实践。内容涵盖微调与提示工程、RAG等技术路线的取舍，数据准备与标注策略，以及成本、合规与ROI评估框架。文章强调从业务目标出发选择基座模型，通过领域数据微调提升准确性与可控性，并给出分阶段采纳路线图与风险治理建议，帮助决策者在技术投入与业务价值间取得平衡。",
+    "topic": "ai"
+  },
+  {
+    "id": "0879665652b53b822eb576baa9b38342",
+    "title_en": "GitHub项目",
+    "source": "chenxiaoshivivid.top",
+    "url": "https://chenxiaoshivivid.top/docs/finetune/github-projects",
+    "published_at": "2026-11-06T13:29:02.310Z",
+    "fetched_at": "2026-11-06T13:29:02.310Z",
+    "title_zh": "GitHub项目",
+    "summary_zh": "该文介绍作者在GitHub上维护或发现的开源项目，内容涉及项目功能定位、技术栈选型与核心实现思路。文中可能包含部署方式、依赖配置及使用示例，并分享在实际场景中的应用经验与踩坑记录。对希望快速上手或评估该项目的开发者而言，可借此了解其架构设计、可扩展性与维护活跃度，作为技术选型与二次开发的参考依据。",
+    "topic": "other"
+  },
+  {
     "id": "7d0325cce9dfb744285eaa5fe95f2069",
     "title_en": "Llama-recipes项目中使用本地数据集进行视觉模型微调的实践指南",
     "source": "blog.gitcode.com",
@@ -2165,38 +2198,5 @@
     "title_zh": "Linux服务器调优：PDF指南",
     "summary_zh": "本文以PDF指南形式系统整理了Linux服务器调优的实用方法，涵盖系统资源监控、内核参数调整、服务进程优化和网络栈调优等内容。针对Web服务器、数据库服务器等典型场景给出了具体的参数配置建议，并强调了调优前后的基准测试与效果验证流程，适合运维人员作为日常调优工作的参考手册。",
     "topic": "ops"
-  },
-  {
-    "id": "a5a28ee54cb08255e9cd97d5a5acc8fe",
-    "title_en": "微调技术最佳实践",
-    "source": "chenxiaoshivivid.top",
-    "url": "https://chenxiaoshivivid.top/docs/finetune/best-practices",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "微调技术最佳实践",
-    "summary_zh": "本文总结大模型微调的最佳实践，从数据集构建、样本质量控制到微调策略选择与超参数调优逐层展开，并讨论过拟合防范、评测基准设计与迭代优化方法。内容兼顾方法论与工程细节，帮助开发者以可控成本获得稳定可靠的微调效果，提升模型在特定任务上的表现。",
-    "topic": "ai"
-  },
-  {
-    "id": "c39095f42c2775c8ff0d2db6cc26f1f6",
-    "title_en": "Yi-VL 多模态大模型最佳实践：基于 Swift 的推理、LoRA 微调与微调后部署全流程",
-    "source": "blog.gitcode.com",
-    "url": "https://blog.gitcode.com/5ab5f97eadec5cac432d179e7b8b0e0a.html",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "Yi-VL多模态大模型最佳实践：基于Swift的推理、LoRA微调与微调后部署全流程",
-    "summary_zh": "本文以Yi-VL多模态大模型为例，基于Swift框架完整演示推理、LoRA微调与微调后部署的全流程。内容涵盖环境配置、数据格式准备、训练参数设置、显存优化及部署上线等关键步骤，并结合实践总结多模态微调的常见问题与调优技巧，为多模态模型落地提供可复用的工程参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "ef670487b53d3f6ba8c6672edb780c80",
-    "title_en": "多模态模型微调",
-    "source": "chenxiaoshivivid.top",
-    "url": "https://chenxiaoshivivid.top/docs/finetune/multimodal",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "多模态模型微调",
-    "summary_zh": "本文系统讲解多模态模型微调的核心方法，涵盖视觉-语言联合训练、数据配比策略、冻结层选择及LoRA等参数高效微调技术。重点分析图像编码器与文本解码器的对齐训练技巧，并给出显存优化与训练稳定性调优的工程实践建议，适合希望将多模态大模型落地到垂直场景的开发者参考。",
-    "topic": "ai"
   }
 ]
