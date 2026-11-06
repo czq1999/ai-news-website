@@ -1,5 +1,38 @@
 [
   {
+    "id": "7d0325cce9dfb744285eaa5fe95f2069",
+    "title_en": "Llama-recipes项目中使用本地数据集进行视觉模型微调的实践指南",
+    "source": "blog.gitcode.com",
+    "url": "https://blog.gitcode.com/841464a76318ebade7f2b09abff4b4fb.html",
+    "published_at": "2026-11-06T04:17:36.588Z",
+    "fetched_at": "2026-11-06T04:17:36.588Z",
+    "title_zh": "Llama-recipes项目中使用本地数据集进行视觉模型微调的实践指南",
+    "summary_zh": "本文基于Llama-recipes开源项目，系统介绍如何利用本地数据集对视觉语言模型进行微调。内容涵盖数据格式转换、数据集注册与加载流程、LoRA等参数高效微调策略的配置方法，以及训练超参数调优与显存优化技巧。文章结合具体代码示例，讲解多模态数据预处理、图像-文本对齐训练的关键环节，并给出常见报错排查思路，帮助开发者在自有数据上快速落地视觉模型定制化训练，兼顾实践可操作性与工程效率。",
+    "topic": "ai"
+  },
+  {
+    "id": "53c97523ad12f6b382693afc2e3012fb",
+    "title_en": "Linux 服务器运维：这 5 个优化技巧让你的网站快一倍",
+    "source": "itlaoli.com",
+    "url": "https://www.itlaoli.com/blog/901.html",
+    "published_at": "2026-11-06T04:17:36.588Z",
+    "fetched_at": "2026-11-06T04:17:36.588Z",
+    "title_zh": "Linux 服务器运维：这 5 个优化技巧让你的网站快一倍",
+    "summary_zh": "本文面向Linux服务器运维人员，分享5个可显著提升网站响应速度的实用优化技巧。内容涉及内核网络参数调优（如TCP拥塞控制与连接队列）、文件系统与I/O调度策略选择、Nginx/Apache等Web服务的并发配置优化、内存与Swap管理策略，以及基于监控数据的瓶颈定位方法。每项技巧均说明原理、配置项与验证方式，兼顾安全性与稳定性，适合生产环境渐进式落地，帮助运维工程师在不增加硬件成本的前提下提升站点吞吐与访问体验。",
+    "topic": "ops"
+  },
+  {
+    "id": "4d33f6339af8480a8352bf0ade717074",
+    "title_en": "Linux服务器强大功能全解析：从基础应用到高级运维技巧",
+    "source": "cnraksmart.com",
+    "url": "https://www.cnraksmart.com/20964.html",
+    "published_at": "2026-11-06T04:17:36.588Z",
+    "fetched_at": "2026-11-06T04:17:36.588Z",
+    "title_zh": "Linux服务器强大功能全解析：从基础应用到高级运维技巧",
+    "summary_zh": "本文系统梳理Linux服务器的核心能力与运维实践，从基础应用部署延伸到高级运维技巧。内容涵盖常用命令与系统管理、用户与权限控制、服务进程管理、磁盘与网络配置，并深入讲解性能监控、日志分析、自动化脚本、定时任务及安全加固等进阶主题。文章注重原理与实操结合，提供可复用的配置示例与排障思路，适合初中级运维人员构建完整的Linux知识体系，提升生产环境下的故障处理与系统优化能力。",
+    "topic": "ops"
+  },
+  {
     "id": "83eefb89b090dc94527ac7f535d784e0",
     "title_en": "Linux 运维题目: 挑战极限的实战指南（linux运维题目）-宜宾勤盛利枫建站",
     "source": "aqpgk.com",
@@ -2165,38 +2198,5 @@
     "title_zh": "多模态模型微调",
     "summary_zh": "本文系统讲解多模态模型微调的核心方法，涵盖视觉-语言联合训练、数据配比策略、冻结层选择及LoRA等参数高效微调技术。重点分析图像编码器与文本解码器的对齐训练技巧，并给出显存优化与训练稳定性调优的工程实践建议，适合希望将多模态大模型落地到垂直场景的开发者参考。",
     "topic": "ai"
-  },
-  {
-    "id": "1a6407a08bbb76f0c252e8f5ffab60c6",
-    "title_en": "微调技术常见问题",
-    "source": "chenxiaoshivivid.top",
-    "url": "https://chenxiaoshivivid.top/docs/finetune/faq",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "微调技术常见问题",
-    "summary_zh": "本文汇总大模型微调中的高频问题，包括过拟合与灾难性遗忘的成因及缓解手段、学习率与batch size的调参经验、数据质量与标注噪声的影响、LoRA秩与alpha的选取原则，以及评估指标设计。内容偏实战排错，帮助开发者快速定位微调训练中的典型故障并给出可操作的解决方案。",
-    "topic": "ai"
-  },
-  {
-    "id": "92e9e9f26e1f6894b302740a38799e5d",
-    "title_en": "《战略大语言模型采纳：高管指南——为特定领域应用微调模型》",
-    "source": "thenote.app",
-    "url": "https://thenote.app/post/zh/zhan-lue-da-yu-yan-mo-xing-cai-na-gao-guan-zhi-nan-wei-te-ding-ling-yu-ying-yong-2ofbibfx8c",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "《战略大语言模型采纳：高管指南——为特定领域应用微调模型》",
-    "summary_zh": "本文面向企业决策者，阐述大语言模型在垂直领域落地的战略路径。内容涵盖自建与调用API的成本权衡、领域数据准备与合规、微调与RAG的适用边界、模型评估与迭代流程，以及团队与基础设施投入规划，帮助高管在技术选型和ROI评估上做出理性判断。",
-    "topic": "ai"
-  },
-  {
-    "id": "0879665652b53b822eb576baa9b38342",
-    "title_en": "GitHub项目",
-    "source": "chenxiaoshivivid.top",
-    "url": "https://chenxiaoshivivid.top/docs/finetune/github-projects",
-    "published_at": "2026-10-28T17:40:32.702Z",
-    "fetched_at": "2026-10-28T17:40:32.702Z",
-    "title_zh": "GitHub项目",
-    "summary_zh": "本文介绍一个值得关注的GitHub开源项目，概述其功能定位、技术栈与核心实现思路，并说明部署方式与典型使用场景。内容侧重项目结构解析与二次开发建议，帮助开发者快速评估该项目是否适合引入自身技术栈或作为学习参考。",
-    "topic": "other"
   }
 ]

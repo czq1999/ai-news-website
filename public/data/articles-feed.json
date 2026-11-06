@@ -1,5 +1,71 @@
 [
   {
+    "id": "3323df791b8bcd34e15af67b305a53a1",
+    "title_en": "OpenAI is stepping back from NDAs for data center projects",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "published_at": "2026-11-06T00:37:56.000Z",
+    "fetched_at": "2026-11-06T04:17:09.432Z",
+    "title_zh": "OpenAI 不再要求数据中心项目签署保密协议",
+    "summary_zh": "据 The Verge 报道，OpenAI 正在调整其数据中心项目的合作政策，不再强制要求相关方签署保密协议（NDA）。此前，该公司因在数据中心建设与合作中要求严格保密而受到外界批评。放宽 NDA 要求被视为 OpenAI 在透明度方面的一次让步，也可能有助于其更顺利地推进大规模算力基础设施建设，吸引更多合作伙伴参与。",
+    "category": "industry"
+  },
+  {
+    "id": "c6a1ad42392735a1a89f30e23d021c6e",
+    "title_en": "Airbnb is working on an AI travel agent",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+    "published_at": "2026-11-06T00:06:12.000Z",
+    "fetched_at": "2026-11-06T04:17:09.432Z",
+    "title_zh": "Airbnb 正在开发 AI 旅行代理",
+    "summary_zh": "据 The Verge 报道，Airbnb 正在研发一款 AI 旅行代理，旨在利用人工智能帮助用户规划行程和预订住宿。此举反映出旅游平台正加速将生成式 AI 融入核心服务，以提升个性化推荐与用户体验。Airbnb 加入 AI 代理竞争，也意味着其将与 Expedia、Booking 等在线旅游巨头以及通用 AI 助手展开正面较量。",
+    "category": "product"
+  },
+  {
+    "id": "3c74e8611269218a99d3469d1ef322ac",
+    "title_en": "The New York Times is in talks to buy Letterboxd for around $330 million",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+    "published_at": "2026-11-05T23:45:10.000Z",
+    "fetched_at": "2026-11-06T04:17:09.432Z",
+    "title_zh": "《纽约时报》正洽谈以约 3.3 亿美元收购 Letterboxd",
+    "summary_zh": "据 The Verge 报道，《纽约时报》正在就收购电影社交平台 Letterboxd 进行谈判，交易金额约为 3.3 亿美元。Letterboxd 以影迷记录观影、撰写评论和分享片单而闻名，拥有活跃的用户社区。《纽约时报》近年来持续拓展数字订阅业务，此次收购若达成，将有助于其进一步丰富文化娱乐内容生态并吸引年轻用户。",
+    "category": "industry"
+  },
+  {
+    "id": "36e8a39b4d472a9db2fcf838443ab831",
+    "title_en": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+    "published_at": "2026-11-05T23:17:10.000Z",
+    "fetched_at": "2026-11-06T04:17:09.432Z",
+    "title_zh": "T-Mobile 母公司谈马斯克进军无线运营商：欢迎加入",
+    "summary_zh": "据 The Verge 报道，针对埃隆·马斯克计划推出无线运营商一事，T-Mobile 母公司德国电信方面回应称“欢迎加入这场派对”。马斯克旗下 Starlink 等业务正探索直接向手机提供卫星连接服务，可能对传统运营商构成挑战。德国电信的表态显得从容，但也凸显卫星直连手机技术正在重塑移动通信竞争格局。",
+    "category": "industry"
+  },
+  {
+    "id": "afd2b8ff705748c8ea177b4aa6fa0448",
+    "title_en": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "published_at": "2026-11-05T23:09:36.000Z",
+    "fetched_at": "2026-11-06T04:17:09.539Z",
+    "title_zh": "认识“*sshole”漏洞：黑客可借此通过 SSH 入侵 Linux 设备",
+    "summary_zh": "据 Ars Technica 报道，安全研究人员披露了一个被命名为“*sshole”的严重漏洞，攻击者可利用它通过 SSH 入侵 Linux 设备。该漏洞影响广泛使用的 SSH 组件，可能导致未授权远程访问。研究人员提醒管理员尽快关注补丁与缓解措施，因为此类漏洞一旦被利用，可能对服务器和网络设备造成严重安全风险。",
+    "category": "research"
+  },
+  {
+    "id": "6292b7a19bb991c6d8158e79055aa1c4",
+    "title_en": "6 Best VPN Services (2026), Tested and Reviewed",
+    "source": "Wired",
+    "url": "https://www.wired.com/gallery/best-vpn/",
+    "published_at": "2026-11-05T23:00:00.000Z",
+    "fetched_at": "2026-11-06T04:17:09.675Z",
+    "title_zh": "2026年最佳VPN服务盘点：六款产品实测与评测",
+    "summary_zh": "Wired发布2026年度最佳VPN服务评测，经过实测筛选出六款表现突出的产品。评测涵盖连接速度、隐私政策、日志记录、跨平台兼容性及价格等维度，为关注网络隐私与跨境访问的用户提供选购参考，也反映出VPN市场在隐私合规压力下的持续演进。",
+    "category": "product"
+  },
+  {
     "id": "87e2e7d627b8707e1e20b84112cbee3b",
     "title_en": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "source": "TechCrunch AI",
@@ -658,6 +724,116 @@
     "title_zh": "任天堂设计师谈《时之笛》重制：追求“优雅”设计",
     "summary_zh": "任天堂设计师在访谈中透露，重制《塞尔达传说：时之笛》时团队始终以“优雅”为核心设计目标。设计师介绍了如何在保留原作精髓的同时优化操作与视觉呈现，平衡怀旧体验与现代审美。此番分享揭示了任天堂在经典IP重制上的设计哲学与匠心考量。",
     "category": "product"
+  },
+  {
+    "id": "b2e2f245895a9fe84461cd3e0f3d2c58",
+    "title_en": "Asian shares mostly advance following US midterms, though Kospi falls",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/Business/wireStory/asian-shares-advance-us-midterms-kospi-falls-selling-137865044",
+    "published_at": "2026-11-05T04:14:12Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "美国中期选举后亚洲股市多数上涨，韩国综指下跌",
+    "summary_zh": "美国中期选举结果出炉后，亚洲股市多数录得上涨，但韩国Kospi指数出现下跌。市场情绪受选举结果带来的政策预期影响，投资者关注后续贸易与财政政策走向。区域股市表现分化，反映出投资者对不同经济体前景的判断存在差异。",
+    "category": "industry"
+  },
+  {
+    "id": "518dea234fb64d90d995cfd3a9a26c62",
+    "title_en": "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/US/wireStory/asian-shares-advance-us-midterms-kospi-falls-selling-137865043",
+    "published_at": "2026-11-05T04:07:01Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "美国中期选举后亚洲股市多数上涨，芯片股遭抛售拖累Kospi下跌",
+    "summary_zh": "美国中期选举后亚洲股市普遍走高，但韩国Kospi指数因芯片制造商股票遭抛售而下跌。半导体板块承压反映市场对行业周期与政策不确定性的担忧，而其他区域市场则受选举结果带来的乐观情绪提振，整体呈现分化格局。",
+    "category": "industry"
+  },
+  {
+    "id": "8825f8e810fcf73217574b846b63f993",
+    "title_en": "US election results could slow AI data-centre investments, support Treasury bonds: Report",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/world/us-election-results-could-slow-ai-data-centre-investments-support-treasury-bonds-report/article71668504.ece",
+    "published_at": "2026-11-05T04:03:31Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "报告：美国选举结果或放缓AI数据中心投资，利好美国国债",
+    "summary_zh": "据BusinessLine报道，美国选举结果可能放缓AI数据中心相关投资步伐，进而对国债形成支撑。分析认为，政策不确定性上升或使科技巨头推迟大规模算力基建支出，资金流向避险资产，反映出政治因素对AI产业投资节奏的潜在影响。",
+    "category": "industry"
+  },
+  {
+    "id": "8b85fdcb24e3028384f5d0d5a73e4954",
+    "title_en": "MercadoLibre Expands AI War Chest by $30 Million in Q3",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/f45e6fe6c1cd4ec6",
+    "published_at": "2026-11-05T04:03:09Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "MercadoLibre第三季度将AI资金池扩大3000万美元",
+    "summary_zh": "拉美电商巨头MercadoLibre在第三季度将其AI资金池扩大3000万美元，持续加码人工智能布局。此举显示公司正加大对AI技术、基础设施及相关人才的投入，以提升电商与金融科技业务的智能化水平，也体现新兴市场企业对AI战略的重视。",
+    "category": "industry"
+  },
+  {
+    "id": "b4c0d1474a9dd274db3c880829e59180",
+    "title_en": "MARA Holdings moves 1,650 BTC worth $132.8 million to Galaxy Digital, Copper and others",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/mara-holdings-transfers-1650-btc-galaxy-digital/",
+    "published_at": "2026-11-05T04:00:48Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "MARA Holdings向Galaxy Digital、Copper等转移1650枚比特币，价值1.328亿美元",
+    "summary_zh": "比特币矿企MARA Holdings将1650枚比特币（价值约1.328亿美元）转移至Galaxy Digital、Copper等机构。大额链上转移引发市场关注，可能涉及托管调整、流动性管理或场外交易安排，反映矿企在资金运作与风险管理上的策略变化。",
+    "category": "industry"
+  },
+  {
+    "id": "36de281225da8d5b630f73c46726d389",
+    "title_en": "Inheritance: The Long March of the New Era",
+    "source": "Antaranews.com",
+    "url": "https://en.antaranews.com/news/440315/inheritance-the-long-march-of-the-new-era",
+    "published_at": "2026-11-05T04:00:47Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "传承：新时代的长征",
+    "summary_zh": "该报道以“传承：新时代的长征”为题，聚焦新时代背景下的精神传承与发展主题。文章通过叙事方式展现历史使命与当代实践的结合，强调在新时代征程中延续奋斗精神。内容偏向社会与人文议题，与AI技术领域关联有限。",
+    "category": "industry"
+  },
+  {
+    "id": "8eadcf12856320f05c4d043c2773df38",
+    "title_en": "China blocks SoftBank's $5.4 billion takeover of ABB's robotics division: Report",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/business/china-blocks-softbanks-5-4-billion-takeover-of-abbs-robotics-division-report/articleshow/135557099.cms",
+    "published_at": "2026-11-05T03:59:11Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "报道：中国阻止软银以54亿美元收购ABB机器人业务",
+    "summary_zh": "据《印度时报》报道，中国阻止了软银以54亿美元收购ABB机器人部门的交易。此举反映监管机构对涉及关键机器人与自动化技术的跨境并购审查趋严，凸显地缘政治因素对全球科技产业整合的影响，也为机器人领域投资格局增添不确定性。",
+    "category": "industry"
+  },
+  {
+    "id": "9beb6a10c7ea0c18e94549af8753244d",
+    "title_en": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/voters-have-sent-a-message-to-trump-on-tariffs-but-the-white-house-still-holds-significant-power-295346",
+    "published_at": "2026-11-05T03:50:44Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "选民就关税问题向特朗普发出信号，但白宫仍握有重要权力",
+    "summary_zh": "The Conversation Africa分析指出，选民通过选举就关税政策向特朗普发出明确信号，但白宫在贸易政策上仍掌握重要权力。文章探讨选举结果对关税走向的潜在影响，以及行政权力在贸易决策中的持续作用，反映政治与贸易政策的复杂互动。",
+    "category": "industry"
+  },
+  {
+    "id": "db18366d03ff564b89dc503a1eb3aa29",
+    "title_en": "AI Reading Wearable Blood Pressure Data Flagged Hypertensive Crisis Risk Up to Three Days Early in 4,190 Adults",
+    "source": "Medical Daily",
+    "url": "https://www.medicaldaily.com/ai-tool-predicts-hypertensive-crisis-risk-480807",
+    "published_at": "2026-11-05T03:47:46Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "AI读取可穿戴血压数据，在4190名成年人中提前最多三天预警高血压危象风险",
+    "summary_zh": "Medical Daily报道，一项针对4190名成年人的研究显示，AI通过分析可穿戴设备采集的血压数据，可提前最多三天预警高血压危象风险。该技术有望实现心血管事件的早期干预，体现AI在可穿戴健康监测与预防性医疗领域的应用潜力。",
+    "category": "research"
+  },
+  {
+    "id": "5ad6bba5ccc6146c565e3148435a1808",
+    "title_en": "Why Are Global Investors No Longer Betting On India?",
+    "source": "Rediff.com",
+    "url": "https://www.rediff.com/business/column/why-are-global-investors-no-longer-betting-on-india/20261105.htm",
+    "published_at": "2026-11-05T03:43:13Z",
+    "fetched_at": "2026-11-06T04:17:10.286Z",
+    "title_zh": "全球投资者为何不再押注印度？",
+    "summary_zh": "Rediff.com撰文探讨全球投资者为何不再青睐印度市场。文章分析外资流入放缓的多重原因，包括估值偏高、盈利预期调整、监管环境及全球资金重新配置等因素，反映新兴市场投资情绪的变化，对关注印度科技与资本市场的读者具有参考价值。",
+    "category": "industry"
   },
   {
     "id": "949c622ff3b7488e48c3bbceadbe245d",
@@ -5321,182 +5497,6 @@
     "fetched_at": "2026-10-31T11:26:58.475Z",
     "title_zh": "科技巨头豪掷数万亿建设AI基础设施，仍需依赖传统业务维持增长",
     "summary_zh": "科技巨头在AI基础设施上的投入已达数万亿美元规模，但传统业务仍是其增长的主要支撑。云服务、广告和电商等成熟业务为AI军备竞赛提供了资金基础，而AI投资的回报周期较长，短期内难以弥补巨额资本支出。市场关注这些公司能否在持续加码AI的同时维持整体盈利能力，传统业务的表现成为投资者评估其财务健康的关键指标。",
-    "category": "industry"
-  },
-  {
-    "id": "62deaf73d869952b290fdd04f20fb970",
-    "title_en": "Maine’s data center revolt will decide who controls the Senate",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-    "published_at": "2026-10-30T11:00:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.256Z",
-    "title_zh": "缅因州数据中心抗议浪潮将决定参议院控制权归属",
-    "summary_zh": "缅因州围绕数据中心建设爆发激烈政治博弈，当地居民对电力消耗、土地占用和环境影响的反对声浪正演变为一场选举议题。这场被The Verge称为'数据中心起义'的运动，可能直接影响该州参议员席位归属，进而决定参议院控制权。随着AI算力需求激增，数据中心选址争议正从地方环保问题升级为全国性政治议题，两党候选人在能源与科技基础设施立场上的分歧成为选民关注焦点。",
-    "category": "industry"
-  },
-  {
-    "id": "8f7b5da71cc5745b635f027a72569d08",
-    "title_en": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/oh-my-hours-ios-app/",
-    "published_at": "2026-10-30T11:00:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.381Z",
-    "title_zh": "这款应用通过追踪刷手机时长来“残酷羞辱”你",
-    "summary_zh": "一款新应用通过统计用户在社交媒体上滑动浏览所耗费的时间，并以直白甚至羞辱性的方式提醒用户。该产品瞄准数字健康与屏幕成瘾问题，试图用负反馈机制帮助用户减少无意义的刷屏时间。",
-    "category": "product"
-  },
-  {
-    "id": "38d2553409e4b23ed549269bc099325b",
-    "title_en": "Japan’s KDDI Plans 1,000 AI Robots to Combat Labor Shortages",
-    "source": "Sankakucomplex.com",
-    "url": "https://news.sankakucomplex.com/n/UP-xj_vO1Ie0XG7PQKmSgQ",
-    "published_at": "2026-10-30T11:00:00Z",
-    "fetched_at": "2026-10-31T11:26:58.475Z",
-    "title_zh": "日本KDDI计划部署1000台AI机器人以应对劳动力短缺",
-    "summary_zh": "日本电信运营商KDDI宣布计划部署1000台AI机器人，以缓解日益严重的劳动力短缺问题。这些机器人预计将应用于多种场景，承担重复性和服务性工作，帮助弥补人力缺口。此举反映出日本在人口老龄化背景下对自动化和AI技术的高度依赖，也体现了电信企业向AI驱动型服务转型的趋势。",
-    "category": "industry"
-  },
-  {
-    "id": "3b37d6c27147576e80332e96ad136711",
-    "title_en": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
-    "published_at": "2026-10-30T10:45:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "马斯克与得州共和党的关系远比中期选举更深远",
-    "summary_zh": "文章深入剖析埃隆·马斯克与得克萨斯州共和党之间长期而紧密的政治与商业联系，指出其影响力远超中期选举层面。从工厂选址到政策游说，马斯克的布局正深刻影响当地政治生态与科技产业格局。",
-    "category": "industry"
-  },
-  {
-    "id": "252487f415aaab46b69c9c644495bf22",
-    "title_en": "The Best Handheld Translators for Work and Travel (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
-    "published_at": "2026-10-30T10:30:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "2026 年最适合工作与旅行的手持翻译设备推荐",
-    "summary_zh": "本文盘点 2026 年值得关注的手持翻译设备，从离线翻译能力、语种覆盖、语音识别准确率与续航等维度进行评测，为商务出行与跨境旅行用户提供选购参考，展现 AI 语音翻译硬件的持续进化。",
-    "category": "product"
-  },
-  {
-    "id": "4a7c18e2b2f3ce328a8558d9188044d1",
-    "title_en": "Male Insecurity Over Penis Size Is a Booming Business",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
-    "published_at": "2026-10-30T10:30:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "男性对阴茎尺寸的不安全感催生庞大产业",
-    "summary_zh": "文章探讨男性对阴茎尺寸的焦虑如何催生出一个规模可观的商业市场，涵盖保健品、器械与医美服务。报道揭示了相关营销如何利用心理不安全感牟利，并提醒消费者警惕缺乏科学依据的产品宣传。",
-    "category": "industry"
-  },
-  {
-    "id": "7b722230451c87c947e2605c2cbb96a4",
-    "title_en": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
-    "published_at": "2026-10-30T10:15:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "美国教育部似乎正在推广右翼“哈利·波特”梗图",
-    "summary_zh": "报道称，美国教育部官方渠道疑似发布或推广与右翼网络文化相关的“哈利·波特”梗图，引发舆论争议。事件折射出政府机构社交媒体运营与政治话语边界之间的紧张关系，也引发对公共信息中立性的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "11215ca0caf2c31417c8aac4f5dba373",
-    "title_en": "Samsung S95H OLED TV Review (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/review/samsung-s95h/",
-    "published_at": "2026-10-30T10:00:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "三星 S95H OLED 电视评测（2026）",
-    "summary_zh": "本文对三星 2026 年款 S95H OLED 电视进行详细评测，涵盖画质、亮度、色彩表现、游戏性能与智能系统体验。评测认为该机型在高端 OLED 市场具备强劲竞争力，同时也指出了价格与部分功能上的取舍。",
-    "category": "product"
-  },
-  {
-    "id": "307ff6bf2b42b30594538ca1b421777c",
-    "title_en": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
-    "published_at": "2026-10-30T10:00:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "火葬场正被用于为住宅和游泳池供暖",
-    "summary_zh": "报道介绍了一种新兴的能源利用方式：将火葬场焚烧产生的高温余热回收，用于为周边住宅和游泳池供暖。这一做法在部分欧洲国家已有实践，既提升能源效率，也引发关于伦理与公众接受度的讨论。",
-    "category": "industry"
-  },
-  {
-    "id": "c8e3ff5d6bc7541885f527575b01fd4b",
-    "title_en": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/gifts-for-friends/",
-    "published_at": "2026-10-30T09:33:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "2026年送朋友的礼物推荐：健康科技与厨房好物",
-    "summary_zh": "《连线》杂志发布2026年朋友礼物指南，重点推荐健康科技产品和厨房必备用品。文章涵盖智能穿戴设备、健康监测工具以及实用厨房电器等品类，为消费者提供节日送礼参考。该指南结合产品评测与使用体验，帮助读者在众多科技产品中挑选兼具实用性与创新性的礼物，体现科技融入日常生活的趋势。",
-    "category": "product"
-  },
-  {
-    "id": "0c6525dbf79a2c8e3f7e6c62a15553f4",
-    "title_en": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
-    "published_at": "2026-10-30T09:01:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "我们测试过的最佳吹叶机已为万圣节做好准备",
-    "summary_zh": "《连线》评测团队推荐的最佳吹叶机产品，适合万圣节前的庭院清理工作。文章介绍了该吹叶机在风力、噪音控制和续航方面的表现，并对比多款竞品。随着秋季落叶增多和节日装饰需求上升，高效庭院工具成为家庭用户关注焦点，评测为消费者选购提供实用参考。",
-    "category": "product"
-  },
-  {
-    "id": "27c634a128420a0eaf45c7dfb12a9dd2",
-    "title_en": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-    "published_at": "2026-10-30T09:00:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.256Z",
-    "title_zh": "维基百科运营方警告：不利的AI版权裁决可能威胁开放网络",
-    "summary_zh": "维基百科运营机构维基媒体基金会警告称，一项不利于AI训练的版权裁决可能对开放网络生态造成深远冲击。该机构担忧，若法院裁定AI模型使用公开网络内容训练构成侵权，将迫使网站封锁爬虫、限制内容开放，最终侵蚀维基百科等依赖开放协作的平台根基。此案被视为界定AI训练数据合法使用边界的关键判例，其结果将影响整个互联网内容共享与知识传播的商业模式。",
-    "category": "industry"
-  },
-  {
-    "id": "5fcc72655496d4f69cce09ae70f38ccd",
-    "title_en": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
-    "published_at": "2026-10-30T09:00:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.382Z",
-    "title_zh": "伊朗战争对油价的影响正严重冲击关键参议院选情",
-    "summary_zh": "《连线》报道称，伊朗战争引发的油价波动正对关键参议院选区的选情产生重大影响。能源价格上升加剧选民对经济和生活成本的担忧，成为竞选辩论的核心议题。文章分析油价走势如何与政治选情交织，揭示地缘冲突通过能源市场传导至美国国内政治的连锁效应。",
-    "category": "industry"
-  },
-  {
-    "id": "140ebb0557c9e714030b9401d17ba331",
-    "title_en": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-    "published_at": "2026-10-30T09:00:00.000Z",
-    "fetched_at": "2026-10-30T11:52:55.493Z",
-    "title_zh": "进食障碍病例上升，GLP-1药物可能使情况恶化",
-    "summary_zh": "《麻省理工科技评论》指出，进食障碍发病率持续上升，而GLP-1类减肥药物的广泛使用可能加剧这一问题。文章探讨此类药物对食欲和身体形象的潜在影响，以及医疗界对滥用风险的担忧。专家呼吁在推广减肥药物时加强心理健康筛查，避免对易感人群造成负面影响。",
-    "category": "research"
-  },
-  {
-    "id": "0f8f682c877c2e93f77b5fbc5406c3b3",
-    "title_en": "DON’T PUBLISH PLEASE: NGE defends Obi’s conference participation, denies partisanship",
-    "source": "The Punch",
-    "url": "https://punchng.com/dont-publish-please-nge-defends-obis-conference-participation-denies-partisanship/",
-    "published_at": "2026-10-30T03:06:54Z",
-    "fetched_at": "2026-10-31T03:21:30.085Z",
-    "title_zh": "NGE为奥比出席会议辩护，否认党派立场",
-    "summary_zh": "据The Punch报道，NGE就奥比参加某会议一事作出回应，为其出席行为进行辩护，并否认存在党派倾向。该声明旨在澄清外界对相关活动政治动机的质疑。此条新闻与人工智能领域无直接关联，属于一般性政治新闻，仅供参考。",
-    "category": "industry"
-  },
-  {
-    "id": "7babd078c09b76d6baf9009fcf4ece16",
-    "title_en": "KRUGMAN: AI has brought on hack-apocalypse!",
-    "source": "Substack.com",
-    "url": "https://paulkrugman.substack.com/p/hack-apocalypse-now",
-    "published_at": "2026-10-30T03:00:11Z",
-    "fetched_at": "2026-10-31T03:21:30.085Z",
-    "title_zh": "克鲁格曼：AI已引发“黑客末日”！",
-    "summary_zh": "经济学家保罗·克鲁格曼在Substack撰文称，AI的发展已引发一场“黑客末日”，网络安全威胁正因AI能力提升而急剧恶化。他指出，攻击者借助AI可更高效地发现漏洞、生成攻击代码并实施大规模攻击，防御方压力骤增。文章呼吁各界正视AI带来的安全风险，并加强监管与防御投入。",
     "category": "industry"
   }
 ]
