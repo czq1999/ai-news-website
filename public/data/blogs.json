@@ -1,5 +1,71 @@
 [
   {
+    "id": "291aa3be4a0a011f75d1a6f2d1333508",
+    "title_en": "CVE 漏洞库 - 阿里云漏洞库",
+    "source": "avd.aliyun.com",
+    "url": "https://avd.aliyun.com/nvd/list",
+    "published_at": "2026-11-07T21:15:14.917Z",
+    "fetched_at": "2026-11-07T21:15:14.917Z",
+    "title_zh": "CVE漏洞库 - 阿里云漏洞库",
+    "summary_zh": "阿里云漏洞库的CVE漏洞检索平台，汇集公开披露的通用漏洞信息并提供中文解读。内容涵盖漏洞编号、影响范围、危害等级、修复建议及参考链接，帮助安全工程师与运维人员快速评估系统风险并制定补丁策略。平台支持按组件、厂商和严重程度检索，是漏洞管理与安全加固的实用情报来源。",
+    "topic": "security"
+  },
+  {
+    "id": "fba1f17e35b8b864a583798d63d41abd",
+    "title_en": "Linux etcd性能调优指南",
+    "source": "yisu.com",
+    "url": "https://www.yisu.com/ask/10815766.html",
+    "published_at": "2026-11-07T21:15:14.916Z",
+    "fetched_at": "2026-11-07T21:15:14.916Z",
+    "title_zh": "Linux etcd性能调优指南",
+    "summary_zh": "针对etcd在Linux环境下的性能调优实践指南，覆盖磁盘IO、网络、内存与CPU等系统层面的关键参数配置。文章深入分析etcd的Raft一致性机制对延迟的影响，讲解WAL与快照、心跳间隔、选举超时等核心参数的调优思路，并给出大规模集群场景下的监控指标与瓶颈排查方法，帮助运维与后端工程师提升etcd集群的稳定性与吞吐能力。",
+    "topic": "ops"
+  },
+  {
+    "id": "53e9ed4d9cba8bbdb101c5a796f5d9f6",
+    "title_en": "1.1 Linux 性能调优入门指南",
+    "source": "hotttao.github.io",
+    "url": "https://hotttao.github.io/posts/linux/linux_perf/01_linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%A6%82%E8%A7%88",
+    "published_at": "2026-11-07T21:15:14.916Z",
+    "fetched_at": "2026-11-07T21:15:14.916Z",
+    "title_zh": "1.1 Linux 性能调优入门指南",
+    "summary_zh": "面向初学者的Linux性能调优入门文章，系统介绍CPU、内存、磁盘IO、网络四大子系统的性能观测与分析方法。内容涵盖常用性能工具的使用、关键指标解读以及典型瓶颈的定位思路，帮助读者建立从监控到诊断的完整调优框架，为后续深入学习系统性能优化打下基础，适合运维和开发人员作为入门参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "17bdf80ee4b22b00a4f9f8f93d4640d1",
+    "title_en": "LINUX性能调优方法总结",
+    "source": "bbs.csdn.net",
+    "url": "https://bbs.csdn.net/topics/393555977",
+    "published_at": "2026-11-07T21:15:14.916Z",
+    "fetched_at": "2026-11-07T21:15:14.916Z",
+    "title_zh": "Linux性能调优方法总结",
+    "summary_zh": "一篇系统总结Linux性能调优方法的实践文章，从系统资源维度出发梳理CPU调度、内存管理、磁盘IO与网络栈的常见优化手段。内容结合具体命令与参数配置，讲解如何通过监控工具定位性能瓶颈，并给出针对性的调优建议，适合运维工程师和系统管理员作为日常排障与性能优化的参考手册。",
+    "topic": "ops"
+  },
+  {
+    "id": "6dd0175370e99bbd403220d1da2e145c",
+    "title_en": "性能调优指南",
+    "source": "docs.redhat.com",
+    "url": "https://docs.redhat.com/zh-cn/documentation/red_hat_enterprise_linux/7/html/performance_tuning_guide/chap-red_hat_enterprise_linux-performance_tuning_guide-overview",
+    "published_at": "2026-11-07T21:15:14.916Z",
+    "fetched_at": "2026-11-07T21:15:14.916Z",
+    "title_zh": "性能调优指南",
+    "summary_zh": "Red Hat官方性能调优指南，系统讲解RHEL环境下的性能监控、分析与优化方法。内容覆盖CPU、内存、存储、网络等子系统的调优策略，介绍tuned、perf等工具的使用，并结合实际场景给出参数配置建议。文档结构清晰、权威性强，适合企业运维人员与系统管理员作为生产环境性能优化的标准参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "4d2f52cac6f6866ade1f1eacb3cff2d2",
+    "title_en": "aliyun/ai-agent-handbook: A practical guide to building enterprise ...",
+    "source": "github.com",
+    "url": "https://github.com/aliyun/ai-agent-handbook",
+    "published_at": "2026-11-07T21:15:11.314Z",
+    "fetched_at": "2026-11-07T21:15:11.314Z",
+    "title_zh": "aliyun/ai-agent-handbook：构建企业级AI Agent的实战指南",
+    "summary_zh": "阿里云开源的AI Agent实战手册，系统梳理企业级Agent的构建方法论。内容涵盖Agent架构设计、工具调用、记忆管理、多Agent协作等核心模块，并结合实际业务场景给出可落地的工程实践方案。适合希望将LLM能力产品化、构建生产级Agent应用的开发者与架构师参考，兼顾理论框架与代码实现，是入门到进阶的实用资料。",
+    "topic": "ai"
+  },
+  {
     "id": "5fe54cbca4b69969770ee3f3d2e7af85",
     "title_en": "Q3 2026 CVE Report Shows 100 New CISA KEV Additions as Exploitation Speeds Up",
     "source": "securityonline.info",
@@ -2131,72 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:34.842Z",
     "title_zh": "奇安信：2026 年中网络安全漏洞威胁态势研究报告",
     "summary_zh": "奇安信发布 2026 年中网络安全漏洞威胁态势报告，基于全网威胁情报与漏洞数据，系统梳理上半年高危漏洞的分布特征、利用趋势与攻击链演化。报告涵盖重点行业受影响情况、在野利用漏洞排行及攻击团伙战术分析，并给出企业漏洞优先级修复与纵深防御建议，为安全运营团队制定下半年防护策略提供数据支撑。",
-    "topic": "security"
-  },
-  {
-    "id": "ada5c45d7bc23d92f6ef9a9756980cd0",
-    "title_en": "CVE-2026-8933：Ubuntu snapd snap-confine 本地提权漏洞分析",
-    "source": "cn-sec.com",
-    "url": "https://cn-sec.com/archives/tag/%e7%ac%a6%e5%8f%b7%e9%93%be%e6%8e%a5",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "CVE-2026-8933：Ubuntu snapd snap-confine 本地提权漏洞分析",
-    "summary_zh": "本文深入分析 CVE-2026-8933，Ubuntu snapd 中 snap-confine 组件存在的本地权限提升漏洞。文章剖析漏洞成因，涉及挂载命名空间与权限检查缺陷，给出完整的利用条件与复现思路，并评估受影响版本范围。同时提供升级 snapd、缓解配置及检测失陷主机的方法，对使用 Snap 包管理的 Ubuntu 服务器运维人员具有直接参考价值。",
-    "topic": "security"
-  },
-  {
-    "id": "3f7b5778695d2d507a79616f9e3c4023",
-    "title_en": "2026 上半年高危 CVE 漏洞全景速览：1",
-    "source": "inmoke.com",
-    "url": "https://www.inmoke.com/measure/226737.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "2026 上半年高危 CVE 漏洞全景速览：1",
-    "summary_zh": "本文汇总 2026 年上半年披露的高危 CVE 漏洞，按影响组件与漏洞类型分类梳理，涵盖远程代码执行、权限提升与认证绕过等关键风险。文章提炼各漏洞的触发条件、影响范围与修复版本，帮助安全团队快速建立资产排查清单，优先处置在野利用风险高的条目，提升漏洞管理效率。",
-    "topic": "security"
-  },
-  {
-    "id": "29754cc39abdd2f62a854b67958c2cff",
-    "title_en": "【漏洞通告】Windows Defender ShieldCrash权限提升漏洞和GitLab路径遍历漏洞",
-    "source": "inc.xmu.edu.cn",
-    "url": "https://inc.xmu.edu.cn/wlaq.htm",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "【漏洞通告】Windows Defender ShieldCrash 权限提升漏洞和 GitLab 路径遍历漏洞",
-    "summary_zh": "本文发布两项高危漏洞通告：Windows Defender ShieldCrash 权限提升漏洞可被本地攻击者利用获取 SYSTEM 权限；GitLab 路径遍历漏洞可能导致敏感文件泄露。文章说明漏洞影响版本、触发条件与风险等级，并给出官方补丁升级路径及临时缓解措施，适合企业 IT 与安全团队快速响应处置。",
-    "topic": "security"
-  },
-  {
-    "id": "b4c8e49714bd0f3de9d5e11a92c4199b",
-    "title_en": "CVE-2026-7279/7280：AVACAST 高風險漏洞與修補建議",
-    "source": "lonelysec.com",
-    "url": "https://lonelysec.com/cve-2026-7279",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "CVE-2026-7279/7280：AVACAST 高风险漏洞与修补建议",
-    "summary_zh": "本文分析 AVACAST 产品中编号 CVE-2026-7279 与 CVE-2026-7280 的两个高风险漏洞，详述其技术成因、攻击面与潜在影响，评估在野利用可能性。文章提供针对性的修补建议，包括版本升级、配置加固与访问控制策略调整，并给出漏洞验证与资产排查方法，帮助运维人员尽快消除风险。",
-    "topic": "security"
-  },
-  {
-    "id": "cf67bf820024b5c0646a5333d092a762",
-    "title_en": "全栈开发4 个月前linux内核安全·netfilter漏洞·cve-2026-46244·ipv6防火墙绕过·nftables安全修复·服务器安全加固·网络入侵防御Linux Kernel…",
-    "source": "jishuzhan.net",
-    "url": "https://jishuzhan.net/tag/122505",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "Linux 内核安全：netfilter 漏洞 CVE-2026-46244、IPv6 防火墙绕过、nftables 安全修复与服务器安全加固",
-    "summary_zh": "本文聚焦 Linux 内核 netfilter 子系统安全，深入分析 CVE-2026-46244 导致的 IPv6 防火墙绕过问题，剖析 nftables 规则处理中的逻辑缺陷与利用路径。文章给出内核升级与 nftables 配置修复方案，并延伸讨论服务器网络入侵防御与安全加固实践，适合内核开发者与运维安全人员参考。",
-    "topic": "security"
-  },
-  {
-    "id": "403227a8cf2685be46e12fafde3dbf32",
-    "title_en": "安全漏洞CVE-2026-73570：Zimbra Collaboration Sui",
-    "source": "cn-sec.com",
-    "url": "https://cn-sec.com/archives/5400677.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "安全漏洞 CVE-2026-73570：Zimbra Collaboration Suite",
-    "summary_zh": "本文通报 Zimbra Collaboration Suite 中的安全漏洞 CVE-2026-73570，分析其漏洞类型、影响版本与攻击者可利用的入口点，评估对企业邮件系统的潜在威胁。文章提供官方修复版本信息、临时缓解措施及检测思路，帮助运维团队在补丁窗口期降低被利用风险，保障邮件服务安全。",
     "topic": "security"
   }
 ]
