@@ -1,5 +1,16 @@
 [
   {
+    "id": "2e621db9d5a40feb2e3650aee80e0861",
+    "title_en": "Linux服务器调优：PDF指南（linux调优pdf）-宜宾勤盛利枫建站",
+    "source": "aqpgk.com",
+    "url": "http://aqpgk.com/article/cocdijo.html",
+    "published_at": "2026-11-07T03:48:58.545Z",
+    "fetched_at": "2026-11-07T03:48:58.545Z",
+    "title_zh": "Linux服务器调优：PDF指南",
+    "summary_zh": "本文提供一份Linux服务器性能调优的PDF指南，系统梳理从内核参数、文件系统、网络栈到内存与CPU调度的优化思路。内容涵盖sysctl调优、I/O调度器选择、TCP拥塞控制与连接队列配置、swap与内存回收策略等实用要点，并结合监控指标定位瓶颈。适合运维工程师作为生产环境调优的参考手册，帮助在吞吐、延迟与稳定性之间取得平衡。",
+    "topic": "ops"
+  },
+  {
     "id": "a5a28ee54cb08255e9cd97d5a5acc8fe",
     "title_en": "微调技术最佳实践",
     "source": "chenxiaoshivivid.top",
@@ -2186,17 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:34.841Z",
     "title_zh": "性能调优指南",
     "summary_zh": "Red Hat官方性能调优指南，全面覆盖RHEL系统的性能监控、分析与优化流程。文档详细讲解了tuned调优配置集、perf性能分析工具、资源管理（cgroups）以及网络和存储子系统的调优策略，并提供针对不同工作负载的推荐配置，是企业级Linux环境性能优化的权威参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "a06c1c063d70aeed0d5ba5979cb1c284",
-    "title_en": "Linux性能调优指南：快速提升系统运行效率（linux性能调优指南）-宜宾勤盛利枫建站",
-    "source": "aqpgk.com",
-    "url": "http://aqpgk.com/article/cdcpchs.html",
-    "published_at": "2026-10-28T17:40:34.841Z",
-    "fetched_at": "2026-10-28T17:40:34.841Z",
-    "title_zh": "Linux性能调优指南：快速提升系统运行效率",
-    "summary_zh": "本文提供了一套快速提升Linux系统运行效率的调优指南，涵盖CPU调度、内存管理、磁盘I/O和网络参数等关键领域的优化技巧。通过具体命令示例和参数说明，介绍了如何调整内核参数、优化文件系统挂载选项以及合理配置服务进程，帮助读者在较短时间内改善系统整体性能表现。",
     "topic": "ops"
   }
 ]
