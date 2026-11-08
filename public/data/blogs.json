@@ -1,5 +1,71 @@
 [
   {
+    "id": "13bbf78d32b3b46f16bedd98c129cbad",
+    "title_en": "漏洞數暴增263%，NIST縮減CVE分析範圍轉向風險優先",
+    "source": "ithome.com.tw",
+    "url": "https://www.ithome.com.tw/news/175144",
+    "published_at": "2026-11-08T03:29:17.265Z",
+    "fetched_at": "2026-11-08T03:29:17.265Z",
+    "title_zh": "漏洞数量暴增263%，NIST缩减CVE分析范围转向风险优先",
+    "summary_zh": "随着漏洞提交量同比激增263%，NIST宣布调整CVE分析策略，不再对所有CVE条目进行完整深度分析，转而采用风险优先的分级处理机制。文章剖析了这一政策转变背后的数据压力与资源瓶颈，探讨其对漏洞披露生态、企业漏洞管理流程及安全运营优先级排序的实际影响，并给出安全团队在新形势下调整漏洞评估与响应策略的实践建议。",
+    "topic": "security"
+  },
+  {
+    "id": "ada5c45d7bc23d92f6ef9a9756980cd0",
+    "title_en": "CVE-2026-8933：Ubuntu snapd snap-confine 本地提权漏洞分析",
+    "source": "cn-sec.com",
+    "url": "https://cn-sec.com/archives/tag/%e7%ac%a6%e5%8f%b7%e9%93%be%e6%8e%a5",
+    "published_at": "2026-11-08T03:29:17.265Z",
+    "fetched_at": "2026-11-08T03:29:17.265Z",
+    "title_zh": "CVE-2026-8933：Ubuntu snapd snap-confine 本地提权漏洞分析",
+    "summary_zh": "本文深入分析Ubuntu snapd组件中snap-confine的本地提权漏洞CVE-2026-8933，从漏洞成因、触发条件到利用链进行完整拆解，说明攻击者如何在受限环境下突破权限边界获取root权限。文章还评估了受影响版本范围、实际利用门槛与风险等级，并给出升级snapd、配置缓解措施及检测潜在利用痕迹的加固建议。",
+    "topic": "security"
+  },
+  {
+    "id": "3f7b5778695d2d507a79616f9e3c4023",
+    "title_en": "2026 上半年高危 CVE 漏洞全景速览：1",
+    "source": "inmoke.com",
+    "url": "https://www.inmoke.com/measure/226737.html",
+    "published_at": "2026-11-08T03:29:17.265Z",
+    "fetched_at": "2026-11-08T03:29:17.265Z",
+    "title_zh": "2026上半年高危CVE漏洞全景速览：1",
+    "summary_zh": "本文汇总2026年上半年披露的高危CVE漏洞，按影响组件、漏洞类型与利用条件进行分类梳理，覆盖远程代码执行、权限提升与认证绕过等关键风险点。文章提炼各漏洞的技术要点与修复优先级，帮助安全团队快速建立上半年漏洞态势认知，并为补丁管理与资产排查提供可操作的参考清单。",
+    "topic": "security"
+  },
+  {
+    "id": "29754cc39abdd2f62a854b67958c2cff",
+    "title_en": "【漏洞通告】Windows Defender ShieldCrash权限提升漏洞和GitLab路径遍历漏洞",
+    "source": "inc.xmu.edu.cn",
+    "url": "https://inc.xmu.edu.cn/wlaq.htm",
+    "published_at": "2026-11-08T03:29:17.265Z",
+    "fetched_at": "2026-11-08T03:29:17.265Z",
+    "title_zh": "【漏洞通告】Windows Defender ShieldCrash权限提升漏洞和GitLab路径遍历漏洞",
+    "summary_zh": "本期漏洞通告聚焦两个高危问题：Windows Defender ShieldCrash权限提升漏洞可被本地攻击者利用获取更高系统权限，GitLab路径遍历漏洞则可能导致敏感文件泄露。文章分别说明漏洞的技术原理、受影响版本与利用前提，并给出官方补丁状态、临时缓解措施及企业环境下的排查与修复优先级建议。",
+    "topic": "security"
+  },
+  {
+    "id": "b4c8e49714bd0f3de9d5e11a92c4199b",
+    "title_en": "CVE-2026-7279/7280：AVACAST 高風險漏洞與修補建議",
+    "source": "lonelysec.com",
+    "url": "https://lonelysec.com/cve-2026-7279",
+    "published_at": "2026-11-08T03:29:17.265Z",
+    "fetched_at": "2026-11-08T03:29:17.265Z",
+    "title_zh": "CVE-2026-7279/7280：AVACAST 高风险漏洞与修补建议",
+    "summary_zh": "本文针对AVACAST相关产品披露的CVE-2026-7279与CVE-2026-7280两个高风险漏洞展开分析，说明漏洞类型、触发路径及可能造成的安全影响，评估实际攻击面与利用难度。文章同时给出分阶段的修补建议，包括版本升级、配置加固与临时缓解措施，帮助运维与安全人员快速完成风险处置。",
+    "topic": "security"
+  },
+  {
+    "id": "cf67bf820024b5c0646a5333d092a762",
+    "title_en": "全栈开发4 个月前linux内核安全·netfilter漏洞·cve-2026-46244·ipv6防火墙绕过·nftables安全修复·服务器安全加固·网络入侵防御Linux Kernel…",
+    "source": "jishuzhan.net",
+    "url": "https://jishuzhan.net/tag/122505",
+    "published_at": "2026-11-08T03:29:17.265Z",
+    "fetched_at": "2026-11-08T03:29:17.265Z",
+    "title_zh": "Linux内核安全：netfilter漏洞CVE-2026-46244、IPv6防火墙绕过与nftables安全修复及服务器加固",
+    "summary_zh": "本文围绕Linux内核netfilter子系统的高危漏洞CVE-2026-46244展开，剖析IPv6防火墙规则被绕过的技术细节与攻击路径，说明nftables相关安全修复的代码变更与影响范围。文章结合服务器安全加固实践，给出内核升级、防火墙规则审计、网络入侵防御配置等可落地的缓解与检测方案。",
+    "topic": "security"
+  },
+  {
     "id": "291aa3be4a0a011f75d1a6f2d1333508",
     "title_en": "CVE 漏洞库 - 阿里云漏洞库",
     "source": "avd.aliyun.com",
@@ -2131,72 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:34.842Z",
     "title_zh": "操作系统加固概述",
     "summary_zh": "本文档系统介绍操作系统加固的整体框架与实践方法，涵盖账户权限管理、服务最小化、内核参数调优、文件系统权限控制及安全审计配置等核心维度。面向运维与安全工程师，提供可落地的加固基线与检查清单，帮助在企业生产环境中降低攻击面、满足等保合规要求，并为后续自动化加固工具的实施奠定基础。",
-    "topic": "security"
-  },
-  {
-    "id": "78359fdd683208e3be638ea48f9391b5",
-    "title_en": "操作系统加固概述",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS_SP4/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "操作系统加固概述",
-    "summary_zh": "本文档系统介绍操作系统加固的整体框架与实践方法，涵盖账户权限管理、服务最小化、内核参数调优、文件系统权限控制及安全审计配置等核心维度。面向运维与安全工程师，提供可落地的加固基线与检查清单，帮助在企业生产环境中降低攻击面、满足等保合规要求，并为后续自动化加固工具的实施奠定基础。",
-    "topic": "security"
-  },
-  {
-    "id": "d4b58efbb297cb7e9ab32d33aae8b221",
-    "title_en": "操作系统加固概述",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/22.09/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "操作系统加固概述",
-    "summary_zh": "本文档系统介绍操作系统加固的整体框架与实践方法，涵盖账户权限管理、服务最小化、内核参数调优、文件系统权限控制及安全审计配置等核心维度。面向运维与安全工程师，提供可落地的加固基线与检查清单，帮助在企业生产环境中降低攻击面、满足等保合规要求，并为后续自动化加固工具的实施奠定基础。",
-    "topic": "security"
-  },
-  {
-    "id": "1222742e7e79db2b10bb8a231d18f1d3",
-    "title_en": "操作系统加固概述",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS_SP2/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "操作系统加固概述",
-    "summary_zh": "本文档系统介绍操作系统加固的整体框架与实践方法，涵盖账户权限管理、服务最小化、内核参数调优、文件系统权限控制及安全审计配置等核心维度。面向运维与安全工程师，提供可落地的加固基线与检查清单，帮助在企业生产环境中降低攻击面、满足等保合规要求，并为后续自动化加固工具的实施奠定基础。",
-    "topic": "security"
-  },
-  {
-    "id": "7ad70e747e6dd35051db6e76bb97a76c",
-    "title_en": "Linux软件：加固操作系统安全（linux软件保护）",
-    "source": "jindouyun.cn",
-    "url": "https://www.jindouyun.cn/knowledge/tech-news/16229",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "Linux 软件：加固操作系统安全（Linux 软件保护）",
-    "summary_zh": "本文围绕 Linux 操作系统安全加固展开，重点讲解软件层面的防护策略，包括软件包来源校验与签名验证、最小权限运行、SELinux/AppArmor 强制访问控制、可执行文件完整性保护及依赖漏洞管理。文章结合具体配置示例说明如何构建纵深防御体系，适合系统管理员参考以提升服务器抵御提权与恶意软件植入的能力。",
-    "topic": "security"
-  },
-  {
-    "id": "35e5e8f3f33379f5d86fc1a0b204b013",
-    "title_en": "Linux软件：加固操作系统安全（linux软件保护）-宜宾勤盛利枫建站",
-    "source": "aqpgk.com",
-    "url": "http://aqpgk.com/article/cdhdssc.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "Linux 软件：加固操作系统安全（Linux 软件保护）",
-    "summary_zh": "本文围绕 Linux 操作系统安全加固展开，重点讲解软件层面的防护策略，包括软件包来源校验与签名验证、最小权限运行、SELinux/AppArmor 强制访问控制、可执行文件完整性保护及依赖漏洞管理。文章结合具体配置示例说明如何构建纵深防御体系，适合系统管理员参考以提升服务器抵御提权与恶意软件植入的能力。",
-    "topic": "security"
-  },
-  {
-    "id": "9f0eab1cf1f70f6ef0e804a70ecb2eed",
-    "title_en": "奇安信：2026年中网络安全漏洞威胁态势研究报告",
-    "source": "bg.sgpjbg.com",
-    "url": "https://bg.sgpjbg.com/baogao/1282291.html?newsid=6547566",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "奇安信：2026 年中网络安全漏洞威胁态势研究报告",
-    "summary_zh": "奇安信发布 2026 年中网络安全漏洞威胁态势报告，基于全网威胁情报与漏洞数据，系统梳理上半年高危漏洞的分布特征、利用趋势与攻击链演化。报告涵盖重点行业受影响情况、在野利用漏洞排行及攻击团伙战术分析，并给出企业漏洞优先级修复与纵深防御建议，为安全运营团队制定下半年防护策略提供数据支撑。",
     "topic": "security"
   }
 ]
