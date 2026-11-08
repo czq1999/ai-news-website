@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-11-08",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude技能与快速上手项目、浏览器自动化、设计系统及上下文压缩插件齐发力，另有GPU K8s管理与物理仿真工具。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude技能与快速上手项目、AI浏览器自动化、智能体设计系统，以及上下文压缩、GPU K8s管理等实用工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/sherlock-project/sherlock",
           "description_en": "Hunt down social media accounts by username across social networks",
           "language": "Python",
-          "stars_total": 101783,
+          "stars_total": 103173,
           "stars_today": 2372,
           "description_zh": "通过用户名跨社交网络追踪社交媒体账号"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/milind-soni/OpenMausBot",
           "description_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
           "language": "TypeScript",
-          "stars_total": 17649,
+          "stars_total": 18113,
           "stars_today": 1437,
           "description_zh": "开源 Grok Bot 替代方案，配备可供机器人使用的虚拟机"
         },
@@ -30,7 +30,7 @@
           "url": "https://github.com/meta/astryx",
           "description_en": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "stars_total": 15039,
+          "stars_total": 16395,
           "stars_today": 863,
           "description_zh": "一个完全可定制且面向智能体就绪的开源设计系统"
         },
@@ -40,7 +40,7 @@
           "url": "https://github.com/vercel-labs/agent-browser",
           "description_en": "Browser automation CLI for AI agents",
           "language": "Rust",
-          "stars_total": 47239,
+          "stars_total": 47508,
           "stars_today": 812,
           "description_zh": "面向 AI 智能体的浏览器自动化 CLI"
         },
@@ -50,7 +50,7 @@
           "url": "https://github.com/anthropics/skills",
           "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 189138,
+          "stars_total": 189512,
           "stars_today": 793,
           "description_zh": "智能体技能的公共仓库"
         },
@@ -60,7 +60,7 @@
           "url": "https://github.com/ranxianglei/billion-context",
           "description_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
           "language": "TypeScript",
-          "stars_total": 4856,
+          "stars_total": 5068,
           "stars_today": 460,
           "description_zh": "一个上下文压缩插件，适用于长达数月的单次会话（数十亿 token）、小上下文窗口（100K 上下文已足够）以及节省 token（token 减少 5 倍）。上下文压缩插件，月级长会话，兼顾小窗口（100k 上下文足矣）省 token（省 5 倍 token）。billion-context is all you need"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/dsx-ai-factory/nvke",
           "description_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
           "language": "Go",
-          "stars_total": 689,
+          "stars_total": 808,
           "stars_today": 345,
           "description_zh": "NVIDIA Kubernetes Engine（NVKE）。一个用于裸金属上 GPU Kubernetes 的管理平面。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/anthropics/claude-quickstarts",
           "description_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
           "language": "Python",
-          "stars_total": 19184,
+          "stars_total": 19358,
           "stars_today": 28,
           "description_zh": "一组项目，旨在帮助开发者快速上手使用 Claude API 构建可部署的应用程序"
         },
@@ -90,7 +90,7 @@
           "url": "https://github.com/google-deepmind/mujoco",
           "description_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
           "language": "C++",
-          "stars_total": 16150,
+          "stars_total": 16343,
           "stars_today": 26,
           "description_zh": "带接触的多关节动力学。一个通用物理模拟器。"
         }
