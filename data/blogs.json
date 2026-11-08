@@ -1,5 +1,82 @@
 [
   {
+    "id": "03d76d50c6b290f9797d3be8befb664c",
+    "title_en": "Nacos 3.x 鉴权作用域错配 未授权接管漏洞分析",
+    "source": "lmboke.com",
+    "url": "https://lmboke.com/archives/page/2",
+    "published_at": "2026-11-08T12:28:56.808Z",
+    "fetched_at": "2026-11-08T12:28:56.808Z",
+    "title_zh": "Nacos 3.x 鉴权作用域错配导致未授权接管漏洞分析",
+    "summary_zh": "本文深入分析Nacos 3.x中因鉴权作用域错配导致的未授权接管漏洞，剖析认证与授权逻辑缺陷、作用域校验绕过路径及攻击利用条件，并给出影响范围判断与修复加固建议，对使用Nacos做配置与注册中心的企业具有重要安全参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "78359fdd683208e3be638ea48f9391b5",
+    "title_en": "操作系统加固概述",
+    "source": "docs.openeuler.org",
+    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS_SP4/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
+    "published_at": "2026-11-08T12:28:56.807Z",
+    "fetched_at": "2026-11-08T12:28:56.807Z",
+    "title_zh": "操作系统加固概述",
+    "summary_zh": "本文档系统介绍操作系统安全加固的整体框架与实践方法，涵盖账户权限管理、服务最小化、内核参数调优、文件系统权限控制及安全审计配置等核心内容。面向运维与安全工程师，提供可落地的加固基线与检查清单，帮助降低攻击面并满足合规要求。",
+    "topic": "security"
+  },
+  {
+    "id": "d4b58efbb297cb7e9ab32d33aae8b221",
+    "title_en": "操作系统加固概述",
+    "source": "docs.openeuler.org",
+    "url": "https://docs.openeuler.org/zh/docs/22.09/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
+    "published_at": "2026-11-08T12:28:56.807Z",
+    "fetched_at": "2026-11-08T12:28:56.807Z",
+    "title_zh": "操作系统加固概述",
+    "summary_zh": "该文档从系统层面梳理操作系统加固的关键维度，包括身份认证强化、访问控制策略、日志与审计机制、补丁管理等，并结合openEuler实践给出配置建议。适合安全运维人员作为基线参考，提升主机侧防御能力与合规水平。",
+    "topic": "security"
+  },
+  {
+    "id": "1222742e7e79db2b10bb8a231d18f1d3",
+    "title_en": "操作系统加固概述",
+    "source": "docs.openeuler.org",
+    "url": "https://docs.openeuler.org/zh/docs/22.03_LTS_SP2/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
+    "published_at": "2026-11-08T12:28:56.807Z",
+    "fetched_at": "2026-11-08T12:28:56.807Z",
+    "title_zh": "操作系统加固概述",
+    "summary_zh": "本文概述操作系统安全加固的目标与实施路径，重点讲解最小权限原则、服务裁剪、内核安全参数、SELinux等强制访问控制机制的应用。内容偏重工程落地，可作为企业主机安全基线建设的参考文档。",
+    "topic": "security"
+  },
+  {
+    "id": "7ad70e747e6dd35051db6e76bb97a76c",
+    "title_en": "Linux软件：加固操作系统安全（linux软件保护）",
+    "source": "jindouyun.cn",
+    "url": "https://www.jindouyun.cn/knowledge/tech-news/16229",
+    "published_at": "2026-11-08T12:28:56.807Z",
+    "fetched_at": "2026-11-08T12:28:56.807Z",
+    "title_zh": "Linux软件：加固操作系统安全（Linux软件保护）",
+    "summary_zh": "文章围绕Linux软件层面的安全加固展开，介绍软件包完整性校验、权限与属主管理、依赖漏洞排查、可信来源验证等实践手段，帮助运维人员防范恶意软件与供应链风险，提升系统整体安全性。",
+    "topic": "security"
+  },
+  {
+    "id": "35e5e8f3f33379f5d86fc1a0b204b013",
+    "title_en": "Linux软件：加固操作系统安全（linux软件保护）-宜宾勤盛利枫建站",
+    "source": "aqpgk.com",
+    "url": "http://aqpgk.com/article/cdhdssc.html",
+    "published_at": "2026-11-08T12:28:56.807Z",
+    "fetched_at": "2026-11-08T12:28:56.807Z",
+    "title_zh": "Linux软件：加固操作系统安全（Linux软件保护）",
+    "summary_zh": "本文从Linux软件保护角度讲解操作系统加固方法，涵盖软件源可信配置、包签名验证、最小化安装、权限收敛及漏洞修复流程，为系统管理员提供可操作的软件安全加固思路，降低被利用风险。",
+    "topic": "security"
+  },
+  {
+    "id": "9f0eab1cf1f70f6ef0e804a70ecb2eed",
+    "title_en": "奇安信：2026年中网络安全漏洞威胁态势研究报告",
+    "source": "bg.sgpjbg.com",
+    "url": "https://bg.sgpjbg.com/baogao/1282291.html?newsid=6547566",
+    "published_at": "2026-11-08T12:28:56.807Z",
+    "fetched_at": "2026-11-08T12:28:56.808Z",
+    "title_zh": "奇安信：2026年中网络安全漏洞威胁态势研究报告",
+    "summary_zh": "该报告由奇安信发布，系统分析2026年上半年网络安全漏洞的整体态势，涵盖高危漏洞分布、利用趋势、重点行业受影响情况及攻击链特征，并结合数据给出漏洞管理与防御优先级建议，对安全运营与风险评估具有较高参考价值。",
+    "topic": "security"
+  },
+  {
     "id": "13bbf78d32b3b46f16bedd98c129cbad",
     "title_en": "漏洞數暴增263%，NIST縮減CVE分析範圍轉向風險優先",
     "source": "ithome.com.tw",
@@ -2121,82 +2198,5 @@
     "title_zh": "Certimate项目中的Docker容器自动化部署方案探讨",
     "summary_zh": "本文探讨Certimate项目的Docker容器自动化部署方案。Certimate是开源SSL证书管理工具，文章介绍如何借助Docker与CI/CD流水线实现镜像构建、版本发布与滚动更新的自动化，涵盖多阶段构建、环境变量与密钥管理、健康检查及回滚策略等要点。内容强调部署流程的可重复性与安全性，为证书管理等基础设施类应用的容器化交付提供实践参考。",
     "topic": "ops"
-  },
-  {
-    "id": "cb509b01ec316bffb41a54a3c7e066d3",
-    "title_en": "Codel项目中Docker镜像预测机制的优化方案",
-    "source": "blog.gitcode.com",
-    "url": "https://blog.gitcode.com/54a2708b96ab0a771f4f16d95ffe8da5.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "Codel项目中Docker镜像预测机制的优化方案",
-    "summary_zh": "本文讨论Codel项目中Docker镜像预测机制的优化方案。文章围绕如何通过分析镜像分层、构建缓存与依赖变更，预测镜像构建结果与体积变化，从而优化构建流程、减少无效重建。内容涉及缓存命中率提升、分层复用策略及构建耗时评估等工程实践，帮助团队在持续集成中提高镜像构建效率、降低存储与传输开销。",
-    "topic": "ops"
-  },
-  {
-    "id": "9004ae1806ee26372362d1fa34d2088b",
-    "title_en": "OpenManus项目Docker容器化实践探索",
-    "source": "blog.gitcode.com",
-    "url": "https://blog.gitcode.com/a8015292fab91e6017c1d9b7e1b42eb8.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "OpenManus项目Docker容器化实践探索",
-    "summary_zh": "本文探索OpenManus项目的Docker容器化实践。OpenManus是开源AI Agent框架，文章介绍如何将其运行环境、模型依赖与工具链封装为容器镜像，解决Python依赖冲突、环境一致性与快速分发问题。内容涵盖Dockerfile编写、镜像体积优化、容器内资源与网络配置，以及Agent服务在容器中的运行调试要点，为AI Agent类项目的容器化部署提供参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "af9dc2295a50bc40d9e6b140608ec345",
-    "title_en": "Linux 系统安全加固",
-    "source": "cn-sec.com",
-    "url": "https://cn-sec.com/archives/tag/defs",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "Linux系统安全加固",
-    "summary_zh": "本文系统介绍Linux系统安全加固的实践方法，覆盖账号与权限管理、SSH服务加固、防火墙与SELinux配置、内核参数调优、日志审计及补丁管理等关键环节。文章强调最小权限原则与纵深防御思路，给出可落地的配置项与检查清单，帮助运维与安全人员降低主机暴露面、防范提权与入侵风险，提升服务器整体安全基线水平。",
-    "topic": "security"
-  },
-  {
-    "id": "3fadfc296c49375dbe2427632ac0a21c",
-    "title_en": "技术栈个人操作系统安全Eileen Seligman2 年前windows·安全·网络安全·",
-    "source": "jishuzhan.net",
-    "url": "https://jishuzhan.net/tag/58501",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "技术栈与个人操作系统安全",
-    "summary_zh": "本文从技术栈视角探讨个人操作系统的安全防护实践，涉及Windows平台的安全配置、网络安全管理与常见风险防范。内容可能包括系统更新与补丁管理、账户与权限控制、防火墙与网络访问策略、恶意软件防护等基础加固措施，帮助个人用户建立系统化的安全意识与操作习惯，降低终端被攻击与数据泄露的风险。",
-    "topic": "security"
-  },
-  {
-    "id": "f3ac4eb923ce8c49189b20d06ce19345",
-    "title_en": "操作系统加固概述",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/20.09/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "操作系统加固概述",
-    "summary_zh": "本文为openEuler文档中的操作系统加固概述，系统梳理主机安全加固的整体框架。内容涵盖安全基线、账号与认证策略、文件权限、服务最小化、内核安全参数、审计日志等加固维度，并说明加固与合规检查的关系。文章帮助读者建立操作系统安全加固的整体认知，为后续按基线逐项落实配置、提升系统抗攻击能力提供指导。",
-    "topic": "security"
-  },
-  {
-    "id": "d5364b034d414586a7cb613a035d0b5a",
-    "title_en": "LinuxSO安全加固，提升系统安全性（linuxso加固）-宜宾勤盛利枫建站",
-    "source": "aqpgk.com",
-    "url": "http://aqpgk.com/article/dhjshjh.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "Linux SO安全加固，提升系统安全性",
-    "summary_zh": "本文介绍Linux环境下SO（共享库）相关的安全加固方法，旨在提升系统整体安全性。内容可能涉及共享库权限与路径管理、LD_PRELOAD等环境变量风险控制、动态链接库完整性校验及常见劫持手法防范。文章从动态链接机制的安全隐患出发，给出配置与检查建议，帮助运维与安全人员减少因共享库滥用导致的安全风险。",
-    "topic": "security"
-  },
-  {
-    "id": "322d8a6319183a6ec795d91602ab8a36",
-    "title_en": "操作系统加固概述",
-    "source": "docs.openeuler.org",
-    "url": "https://docs.openeuler.org/zh/docs/23.03/docs/SecHarden/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8A%A0%E5%9B%BA%E6%A6%82%E8%BF%B0.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "操作系统加固概述",
-    "summary_zh": "本文档系统介绍操作系统加固的整体框架与实践方法，涵盖账户权限管理、服务最小化、内核参数调优、文件系统权限控制及安全审计配置等核心维度。面向运维与安全工程师，提供可落地的加固基线与检查清单，帮助在企业生产环境中降低攻击面、满足等保合规要求，并为后续自动化加固工具的实施奠定基础。",
-    "topic": "security"
   }
 ]
