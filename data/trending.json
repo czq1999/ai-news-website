@@ -1,6 +1,102 @@
 {
   "days": [
     {
+      "date": "2026-11-09",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude快速上手、Agent技能库、浏览器自动化及上下文压缩插件亮眼，另有GPU K8s管理与物理仿真等基础设施项目。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description_en": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars_total": 104222,
+          "stars_today": 2373,
+          "description_zh": "通过用户名在各大社交网络中追踪社交媒体账号"
+        },
+        {
+          "rank": 2,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars_total": 18534,
+          "stars_today": 1439,
+          "description_zh": "开源Grok Bot替代方案，配备可供机器人使用的虚拟机"
+        },
+        {
+          "rank": 3,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description_en": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars_total": 17220,
+          "stars_today": 875,
+          "description_zh": "一个完全可定制且面向代理的开源设计系统"
+        },
+        {
+          "rank": 4,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description_en": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars_total": 47770,
+          "stars_today": 815,
+          "description_zh": "面向AI代理的浏览器自动化CLI"
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description_en": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars_total": 189789,
+          "stars_today": 792,
+          "description_zh": "Agent Skills的公共仓库"
+        },
+        {
+          "rank": 6,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars_total": 5287,
+          "stars_today": 460,
+          "description_zh": "一个上下文压缩插件，适用于长达数月的单次会话（数十亿token）、小型上下文窗口（100K上下文已足够）以及token节省（token减少5倍）。上下文压缩插件，月级长会话，兼顾小窗口（100k上下文足矣）省token（省5倍token）。billion-context is all you need"
+        },
+        {
+          "rank": 7,
+          "name": "dsx-ai-factory/nvke",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "description_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+          "language": "Go",
+          "stars_total": 902,
+          "stars_today": 345,
+          "description_zh": "NVIDIA Kubernetes Engine（NVKE）。用于裸金属上GPU Kubernetes的管理平面。"
+        },
+        {
+          "rank": 8,
+          "name": "google-deepmind/mujoco",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "description_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+          "language": "C++",
+          "stars_total": 16491,
+          "stars_today": 41,
+          "description_zh": "带接触的多关节动力学。一个通用物理模拟器。"
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+          "language": "Python",
+          "stars_total": 19516,
+          "stars_today": 32,
+          "description_zh": "一组项目，旨在帮助开发者快速上手使用Claude API构建可部署的应用程序"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Claude技能与快速上手项目、AI浏览器自动化、智能体设计系统，以及上下文压缩、GPU K8s管理等实用工具。",
       "projects": [
@@ -3771,142 +3867,6 @@
           "stars_total": 104428,
           "stars_today": 314,
           "description_zh": "在 Python 中提供强大 GPU 加速的张量和动态神经网络"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "summary_zh": "今日热榜聚焦AI智能体与开发工具：逆向工程、上下文优化、技能库及PPT生成等AI应用亮眼，Flutter、TensorFlow、PyTorch等主流框架持续受关注。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "language": "TypeScript",
-          "stars_total": 69314,
-          "stars_today": 25784,
-          "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
-        },
-        {
-          "rank": 2,
-          "name": "boykopovar/AnyPS5",
-          "url": "https://github.com/boykopovar/AnyPS5",
-          "description_en": "Tool for automatic PS5 executables porting to Linux and Windows",
-          "language": "C++",
-          "stars_total": 26266,
-          "stars_today": 5831,
-          "description_zh": "将 PS5 可执行文件自动移植到 Linux 和 Windows 的工具"
-        },
-        {
-          "rank": 3,
-          "name": "storytold/artcraft",
-          "url": "https://github.com/storytold/artcraft",
-          "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-          "language": "Rust",
-          "stars_total": 14070,
-          "stars_today": 3217,
-          "description_zh": "ArtCraft 是面向艺术家、设计师和电影制作人的专注创作引擎"
-        },
-        {
-          "rank": 4,
-          "name": "mattpocock/skills",
-          "url": "https://github.com/mattpocock/skills",
-          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
-          "language": "Shell",
-          "stars_total": 284272,
-          "stars_today": 1737,
-          "description_zh": "为真正的工程师准备的技能。直接来自我的 .agents 目录。"
-        },
-        {
-          "rank": 5,
-          "name": "cathrynlavery/diagram-design",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-          "language": "HTML",
-          "stars_total": 48794,
-          "stars_today": 1189,
-          "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Factory Droid 和 Pi 的编辑级图表设计。42 种图表类型。自包含 HTML + SVG。无阴影。无 Mermaid 劣质产物。"
-        },
-        {
-          "rank": 6,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 28746,
-          "stars_today": 626,
-          "description_zh": "主要面向知识工作者在 Claude Cowork 中使用的开源插件仓库"
-        },
-        {
-          "rank": 7,
-          "name": "hugohe3/ppt-master",
-          "url": "https://github.com/hugohe3/ppt-master",
-          "description_en": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-          "language": "Python",
-          "stars_total": 59318,
-          "stars_today": 515,
-          "description_zh": "AI 将文档或主题转化为真正的原生 PowerPoint 演示文稿——具备原生形状、切换和动画，按需生成数据驱动的图表和表格，根据演讲者备注生成音频旁白，并支持你自己的 .pptx 模板。· 作者 Hugo He"
-        },
-        {
-          "rank": 8,
-          "name": "multica-ai/andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "language": "",
-          "stars_total": 218158,
-          "stars_today": 279,
-          "description_zh": "一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编程陷阱的观察。"
-        },
-        {
-          "rank": 9,
-          "name": "mksglu/context-mode",
-          "url": "https://github.com/mksglu/context-mode",
-          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "language": "TypeScript",
-          "stars_total": 26251,
-          "stars_today": 178,
-          "description_zh": "面向 AI 编程代理的上下文窗口优化。通过 MCP + hooks 对工具输出进行沙箱隔离（减少 98%），持久化会话记忆，并在 17 个平台上强制执行路由。"
-        },
-        {
-          "rank": 10,
-          "name": "flutter/flutter",
-          "url": "https://github.com/flutter/flutter",
-          "description_en": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "language": "Dart",
-          "stars_total": 179453,
-          "stars_today": 164,
-          "description_zh": "Flutter 让构建精美的移动端及其他平台应用变得简单快捷"
-        },
-        {
-          "rank": 11,
-          "name": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "description_en": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-          "language": "Python",
-          "stars_total": 167179,
-          "stars_today": 94,
-          "description_zh": "🤗 Transformers：面向文本、视觉、音频和多模态领域最先进机器学习模型的模型定义框架，支持推理和训练。"
-        },
-        {
-          "rank": 12,
-          "name": "pytorch/pytorch",
-          "url": "https://github.com/pytorch/pytorch",
-          "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-          "language": "Python",
-          "stars_total": 104115,
-          "stars_today": 81,
-          "description_zh": "Python 中的张量与动态神经网络，具备强大的 GPU 加速能力"
-        },
-        {
-          "rank": 13,
-          "name": "tensorflow/tensorflow",
-          "url": "https://github.com/tensorflow/tensorflow",
-          "description_en": "An Open Source Machine Learning Framework for Everyone",
-          "language": "C++",
-          "stars_total": 200694,
-          "stars_today": 24,
-          "description_zh": "面向所有人的开源机器学习框架"
         }
       ]
     }

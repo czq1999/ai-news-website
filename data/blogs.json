@@ -1,5 +1,38 @@
 [
   {
+    "id": "080e34c47b4f2addc00a1a887122c4ea",
+    "title_en": "Docker容器存储与多节点分布式集群的集成与优化",
+    "source": "idc.net",
+    "url": "https://idc.net/help/421997/",
+    "published_at": "2026-11-09T03:45:30.008Z",
+    "fetched_at": "2026-11-09T03:45:30.008Z",
+    "title_zh": "Docker容器存储与多节点分布式集群的集成与优化",
+    "summary_zh": "本文探讨Docker容器存储在多节点分布式集群环境下的集成方案与性能优化策略。内容涵盖存储驱动选型、跨节点数据卷共享、分布式存储后端（如Ceph、NFS）对接，以及网络与I/O调优实践。文章重点分析容器持久化存储在集群调度中的一致性、可用性与扩展性挑战，并给出可落地的配置建议与性能对比，适合需要构建生产级容器集群的运维与架构人员参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "485a3c3a5a7630c3f8ed2ab95b538641",
+    "title_en": "Oppia项目中优化Docker容器管理的实践",
+    "source": "blog.gitcode.com",
+    "url": "https://blog.gitcode.com/5e04d221a697e5eb807866b8bc9dedbe.html",
+    "published_at": "2026-11-09T03:45:30.008Z",
+    "fetched_at": "2026-11-09T03:45:30.008Z",
+    "title_zh": "Oppia项目中优化Docker容器管理的实践",
+    "summary_zh": "本文分享开源教育平台Oppia在Docker容器管理方面的优化实践。内容涉及镜像分层与体积精简、多阶段构建、容器编排与资源限制配置，以及开发与生产环境的一致性保障。文章结合具体案例说明如何缩短构建时间、降低镜像冗余并提升部署稳定性，为中小型项目落地容器化提供可复用的工程经验与配置思路。",
+    "topic": "ops"
+  },
+  {
+    "id": "ac22c5dd8ae6418bd041ae8c6d022927",
+    "title_en": "Certimate项目中的Docker容器自动化部署方案探讨",
+    "source": "blog.gitcode.com",
+    "url": "https://blog.gitcode.com/1cb3e6de8ba5cf8b63dd37d5523522d7.html",
+    "published_at": "2026-11-09T03:45:30.008Z",
+    "fetched_at": "2026-11-09T03:45:30.008Z",
+    "title_zh": "Certimate项目中的Docker容器自动化部署方案探讨",
+    "summary_zh": "本文探讨Certimate项目基于Docker容器的自动化部署方案。内容涵盖镜像构建流水线、容器编排配置、证书管理与环境变量注入，以及CI/CD集成下的滚动更新与回滚机制。文章重点分析自动化部署中的配置一致性、密钥安全与部署可观测性问题，并给出实践中的优化建议，适合关注容器化交付与DevOps流程的技术人员参考。",
+    "topic": "ops"
+  },
+  {
     "id": "f3ac4eb923ce8c49189b20d06ce19345",
     "title_en": "操作系统加固概述",
     "source": "docs.openeuler.org",
@@ -2164,39 +2197,6 @@
     "fetched_at": "2026-10-28T17:40:34.842Z",
     "title_zh": "如何通过Docker优化容器的存储性能并减少IO瓶颈问题",
     "summary_zh": "本文聚焦Docker容器存储性能优化，系统分析容器IO瓶颈的成因，包括存储驱动选择（overlay2、devicemapper等）、卷与绑定挂载的差异、宿主机文件系统与磁盘调度策略的影响。文章给出实践性优化建议，如合理选用volume替代容器内写层、调整存储驱动参数、使用tmpfs处理临时数据、分离高IO负载等，帮助运维与开发人员提升容器存储吞吐并降低延迟。",
-    "topic": "ops"
-  },
-  {
-    "id": "9993c4eef7a61e560b8907306cc78cc6",
-    "title_en": "性能优化",
-    "source": "devops.aibit.im",
-    "url": "https://devops.aibit.im/zh/subcategory/docker-performance",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "性能优化",
-    "summary_zh": "本文为性能优化主题的技术文章，面向DevOps与系统运维场景，探讨服务与基础设施层面的性能调优思路。内容可能涉及资源监控指标分析、瓶颈定位方法、配置参数调优及容量规划等实践要点，强调以数据驱动的方式识别系统短板并针对性改进。适合希望建立系统化性能优化方法论、提升线上服务稳定性与资源利用率的工程师阅读参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "f2887bef38a8124eecc2d06e6d32b7a1",
-    "title_en": "Crawl4AI项目Docker容器化实践与优化",
-    "source": "blog.gitcode.com",
-    "url": "https://blog.gitcode.com/d652045526ae0ad4c5f0085765589e6d.html",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "Crawl4AI项目Docker容器化实践与优化",
-    "summary_zh": "本文介绍Crawl4AI项目的Docker容器化实践与优化经验。Crawl4AI是面向大模型应用的开源爬虫工具，文章讲解如何将其依赖（浏览器内核、Python环境等）打包为镜像，通过多阶段构建减小体积、优化启动速度，并处理无头浏览器在容器中的资源与权限问题。内容涵盖镜像分层、缓存利用及运行参数调优，为AI数据采集类应用的容器化部署提供可复用方案。",
-    "topic": "ai"
-  },
-  {
-    "id": "49ad9e123255174eb1e6fd8fb9baa103",
-    "title_en": "如何优化Docker容器的存储性能并避免存储瓶颈问题？",
-    "source": "idc.net",
-    "url": "https://idc.net/help/422439/",
-    "published_at": "2026-10-28T17:40:34.842Z",
-    "fetched_at": "2026-10-28T17:40:34.842Z",
-    "title_zh": "如何优化Docker容器的存储性能并避免存储瓶颈问题？",
-    "summary_zh": "本文围绕Docker容器存储性能优化展开，剖析存储瓶颈的常见来源，如写时复制机制带来的写放大、存储驱动与后端文件系统不匹配、卷挂载方式不当等。文章提出针对性优化策略，包括选用合适存储驱动、优先使用数据卷、合理配置挂载选项、监控磁盘IO指标等，帮助读者在生产环境中规避存储瓶颈，提升容器应用的IO吞吐与响应速度。",
     "topic": "ops"
   }
 ]
