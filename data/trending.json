@@ -2,67 +2,67 @@
   "days": [
     {
       "date": "2026-11-10",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体生态：Agent技能库、浏览器自动化、智能家居控制及LLM股票分析工具涌现，AI代理落地应用成主流趋势。",
+      "summary_zh": "今日GitHub趋势聚焦AI智能体生态：设计系统、技能库、浏览器自动化及Claude快速上手项目涌现，同时涵盖物理仿真、个人理财与Web框架。",
       "projects": [
         {
           "rank": 1,
-          "name": "sherlock-project/sherlock",
-          "url": "https://github.com/sherlock-project/sherlock",
-          "description_en": "Hunt down social media accounts by username across social networks",
-          "language": "Python",
-          "stars_total": 107042,
-          "stars_today": 4267,
-          "description_zh": "通过用户名跨社交网络追踪社交媒体账号"
-        },
-        {
-          "rank": 2,
           "name": "meta/astryx",
           "url": "https://github.com/meta/astryx",
           "description_en": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "stars_total": 20070,
-          "stars_today": 3278,
+          "stars_total": 21706,
+          "stars_today": 3111,
           "description_zh": "一个完全可定制且面向智能体设计的开源设计系统"
         },
         {
-          "rank": 3,
-          "name": "milind-soni/OpenMausBot",
-          "url": "https://github.com/milind-soni/OpenMausBot",
-          "description_en": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-          "language": "TypeScript",
-          "stars_total": 19678,
-          "stars_today": 1587,
-          "description_zh": "开源 Grok Bot 替代方案，配备可供机器人使用的虚拟机"
+          "rank": 2,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description_en": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars_total": 108356,
+          "stars_today": 2387,
+          "description_zh": "通过用户名跨社交网络追踪社交媒体账号"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "anthropics/skills",
           "url": "https://github.com/anthropics/skills",
           "description_en": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 190982,
-          "stars_today": 1038,
+          "stars_total": 191852,
+          "stars_today": 1676,
           "description_zh": "Agent Skills 的公共仓库"
         },
         {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description_en": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars_total": 320413,
+          "stars_today": 1223,
+          "description_zh": "面向真正工程师的技能。直接来自我的.agents目录。"
+        },
+        {
           "rank": 5,
+          "name": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "description_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "language": "Python",
+          "stars_total": 6366,
+          "stars_today": 792,
+          "description_zh": "使用 Claude、ChatGPT 及其他 AI 助手配置和自动化 Home Assistant。"
+        },
+        {
+          "rank": 6,
           "name": "vercel-labs/agent-browser",
           "url": "https://github.com/vercel-labs/agent-browser",
           "description_en": "Browser automation CLI for AI agents",
           "language": "Rust",
-          "stars_total": 48466,
-          "stars_today": 916,
+          "stars_total": 48941,
+          "stars_today": 775,
           "description_zh": "面向 AI 智能体的浏览器自动化命令行工具"
-        },
-        {
-          "rank": 6,
-          "name": "google-deepmind/mujoco",
-          "url": "https://github.com/google-deepmind/mujoco",
-          "description_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-          "language": "C++",
-          "stars_total": 16909,
-          "stars_today": 574,
-          "description_zh": "带接触的多关节动力学。一个通用物理模拟器。"
         },
         {
           "rank": 7,
@@ -70,49 +70,59 @@
           "url": "https://github.com/anthropics/claude-quickstarts",
           "description_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
           "language": "Python",
-          "stars_total": 20019,
-          "stars_today": 551,
+          "stars_total": 20286,
+          "stars_today": 530,
           "description_zh": "一系列项目，旨在帮助开发者快速上手使用 Claude API 构建可部署的应用程序"
         },
         {
           "rank": 8,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 68854,
-          "stars_today": 506,
-          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 114836,
+          "stars_today": 465,
+          "description_zh": "面向AI编码代理的生产级工程技能。"
         },
         {
           "rank": 9,
-          "name": "garrytan/gbrain",
-          "url": "https://github.com/garrytan/gbrain",
-          "description_en": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-          "language": "TypeScript",
-          "stars_total": 32152,
-          "stars_today": 216,
-          "description_zh": "Garry 的带有个人见解的 OpenClaw/Hermes 智能体大脑"
+          "name": "google-deepmind/mujoco",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "description_en": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+          "language": "C++",
+          "stars_total": 17183,
+          "stars_today": 453,
+          "description_zh": "带接触的多关节动力学。一个通用物理模拟器。"
         },
         {
           "rank": 10,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 103459,
-          "stars_today": 172,
-          "description_zh": "π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——全程无需一像素视频。"
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description_en": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars_total": 6025,
+          "stars_today": 374,
+          "description_zh": "一个上下文压缩插件，适用于长达数月的单次会话（数十亿token）、小型上下文窗口（100K上下文已足够）以及节省token（token减少5倍）。上下文压缩插件，月级长会话，兼顾小窗口（100k上下文足矣）省token（省5倍token）。billion-context is all you need"
         },
         {
           "rank": 11,
-          "name": "homeassistant-ai/ha-mcp",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "description_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-          "language": "Python",
-          "stars_total": 5975,
-          "stars_today": 31,
-          "description_zh": "使用 Claude、ChatGPT 及其他 AI 助手配置和自动化 Home Assistant。"
+          "name": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "description_en": "A batteries-included framework for building web apps",
+          "language": "Rust",
+          "stars_total": 6616,
+          "stars_today": 192,
+          "description_zh": "一个开箱即用的Web应用构建框架"
+        },
+        {
+          "rank": 12,
+          "name": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "description_en": "The personal finance app for everyone (by everyone)",
+          "language": "Ruby",
+          "stars_total": 11504,
+          "stars_today": 184,
+          "description_zh": "面向所有人（由所有人打造）的个人理财应用"
         }
       ]
     },
