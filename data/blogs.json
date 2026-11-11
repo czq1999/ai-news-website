@@ -1,5 +1,93 @@
 [
   {
+    "id": "b55fceac4070596cea52a060f229afea",
+    "title_en": "CVE Record: CVE-2026-68950",
+    "source": "cve.org",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-68950",
+    "published_at": "2026-11-11T03:50:46.917Z",
+    "fetched_at": "2026-11-11T03:50:46.917Z",
+    "title_zh": "CVE记录：CVE-2026-68950",
+    "summary_zh": "该条目为CVE-2026-68950的官方漏洞记录，包含漏洞编号、受影响产品与版本范围、漏洞类型及CVSS严重性评分等关键信息。记录中说明了漏洞的触发条件与潜在影响，并给出厂商修复版本或缓解措施建议。安全团队可据此评估自身资产暴露面，安排补丁升级与检测规则更新，属于漏洞管理与应急响应的基础参考。",
+    "topic": "security"
+  },
+  {
+    "id": "ea693f37d19b8693292381cdbff73837",
+    "title_en": "CVE-2026-2441 - NVD - Home - NIST",
+    "source": "nvd.nist.gov",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-2441",
+    "published_at": "2026-11-11T03:50:46.917Z",
+    "fetched_at": "2026-11-11T03:50:46.917Z",
+    "title_zh": "CVE-2026-2441 — NVD — NIST",
+    "summary_zh": "该页面为NIST国家漏洞数据库（NVD）对CVE-2026-2441的收录详情，提供漏洞描述、CVSS评分与向量、CWE分类以及相关参考链接。内容帮助安全人员快速判断漏洞的严重程度与影响范围，并结合厂商公告确认修复方案。可作为漏洞扫描结果比对、风险评估与合规审计的权威数据来源。",
+    "topic": "security"
+  },
+  {
+    "id": "f7ae3e6971310d62d246b981f004af9f",
+    "title_en": "Newest CVEs",
+    "source": "tenable.com",
+    "url": "https://www.tenable.com/cve/newest",
+    "published_at": "2026-11-11T03:50:46.917Z",
+    "fetched_at": "2026-11-11T03:50:46.917Z",
+    "title_zh": "最新CVE漏洞列表",
+    "summary_zh": "该页面汇总近期披露的最新CVE漏洞条目，按发布时间列出漏洞编号、受影响产品与严重等级等摘要信息。读者可据此跟踪新出现的漏洞动态，及时识别与自身系统相关的风险项，并进一步查阅详情页获取修复建议。适合作为安全运营中漏洞情报监控与补丁优先级排序的日常信息源。",
+    "topic": "security"
+  },
+  {
+    "id": "59c058379b22447bf7be0a74111e4d0b",
+    "title_en": "云原生Kubernetes 最佳实践：从部署到运维",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/guoyizhongxing/article/details/160627196",
+    "published_at": "2026-11-11T03:50:46.915Z",
+    "fetched_at": "2026-11-11T03:50:46.915Z",
+    "title_zh": "云原生Kubernetes最佳实践：从部署到运维",
+    "summary_zh": "本文围绕Kubernetes的云原生实践，覆盖从应用部署到日常运维的完整链路。内容包括容器镜像与资源配置规范、Deployment与Service的编排策略、滚动更新与回滚机制、HPA弹性伸缩以及Prometheus监控与日志采集方案。文章还讨论命名空间隔离、RBAC权限控制与集群升级等运维要点，为构建稳定可维护的K8s平台提供实践指导。",
+    "topic": "ops"
+  },
+  {
+    "id": "361acfd4337f11948b950d744972e24f",
+    "title_en": "掌握Linux运维入门技巧与实战指南",
+    "source": "my.oschina.net",
+    "url": "https://my.oschina.net/emacs_8824223/blog/17352327",
+    "published_at": "2026-11-11T03:50:44.488Z",
+    "fetched_at": "2026-11-11T03:50:44.488Z",
+    "title_zh": "掌握Linux运维入门技巧与实战指南",
+    "summary_zh": "本文面向Linux运维初学者，系统介绍日常管理所需的核心技能。内容涵盖常用命令与文件权限管理、用户与进程管理、磁盘与网络排障、systemd服务配置以及日志分析等实战要点。文章结合典型故障场景给出排查思路与操作步骤，并强调自动化脚本与监控告警的基础实践，帮助读者快速建立可落地的运维能力。",
+    "topic": "ops"
+  },
+  {
+    "id": "cf99bc45164c194134199624664a5743",
+    "title_en": "Agentic AI 基础设施实践系列一：Agent 应用开发",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/blogs/china/agentive-ai-infrastructure-practice-series-1/",
+    "published_at": "2026-11-11T03:50:44.487Z",
+    "fetched_at": "2026-11-11T03:50:44.487Z",
+    "title_zh": "Agentic AI 基础设施实践系列一：Agent 应用开发",
+    "summary_zh": "本文是Agentic AI基础设施实践系列的开篇，聚焦Agent应用开发的核心环节。内容涵盖Agent的架构设计、工具调用与函数编排、状态管理与记忆机制，以及基于云服务的部署与可观测性方案。文章结合具体示例讲解如何构建可扩展的Agent工作流，并讨论提示工程、错误重试与安全边界等工程实践，为开发者落地Agent应用提供参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "85df0c6e359df5c02b3d0381875ab828",
+    "title_en": "2026 年最佳开源大模型！",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1999590757271618835",
+    "published_at": "2026-11-11T03:50:44.486Z",
+    "fetched_at": "2026-11-11T03:50:44.486Z",
+    "title_zh": "2026年最佳开源大模型盘点！",
+    "summary_zh": "本文系统梳理2026年表现突出的开源大语言模型，从参数规模、训练数据、推理能力、上下文长度及部署成本等维度进行横向对比。重点分析各模型在代码生成、数学推理、多语言理解等任务上的基准测试表现，并讨论量化压缩、LoRA微调与本地化部署的可行性。适合关注开源生态、希望自建推理服务的开发者参考选型。",
+    "topic": "ai"
+  },
+  {
+    "id": "7af3fb290aeb838004447c97449bae43",
+    "title_en": "2026年AI模型大战爆发：从聊天到办事，行业格局全梳理",
+    "source": "kuku.baidu.com",
+    "url": "https://kuku.baidu.com/landing/tscp_doc/00cb0222b9266bd78676a69fd9516bb5",
+    "published_at": "2026-11-11T03:50:44.486Z",
+    "fetched_at": "2026-11-11T03:50:44.486Z",
+    "title_zh": "2026年AI模型大战爆发：从聊天到办事，行业格局全梳理",
+    "summary_zh": "文章回顾2026年AI大模型竞争格局的演变，指出模型能力正从对话问答向任务执行与工具调用延伸。内容涵盖主流厂商的模型迭代路线、多模态与Agent能力的落地进展，以及推理成本下降对应用层的影响。通过对比各阵营在编程、办公自动化、搜索等场景的实践，帮助读者理解技术演进方向与商业化竞争态势。",
+    "topic": "ai"
+  },
+  {
     "id": "95c1e9aacb62372cade9759b9dbf312f",
     "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
     "source": "cloud.tencent.com",
@@ -2109,94 +2197,6 @@
     "fetched_at": "2026-11-08T12:28:56.807Z",
     "title_zh": "Linux软件：加固操作系统安全（Linux软件保护）",
     "summary_zh": "文章围绕Linux软件层面的安全加固展开，介绍软件包完整性校验、权限与属主管理、依赖漏洞排查、可信来源验证等实践手段，帮助运维人员防范恶意软件与供应链风险，提升系统整体安全性。",
-    "topic": "security"
-  },
-  {
-    "id": "35e5e8f3f33379f5d86fc1a0b204b013",
-    "title_en": "Linux软件：加固操作系统安全（linux软件保护）-宜宾勤盛利枫建站",
-    "source": "aqpgk.com",
-    "url": "http://aqpgk.com/article/cdhdssc.html",
-    "published_at": "2026-11-08T12:28:56.807Z",
-    "fetched_at": "2026-11-08T12:28:56.807Z",
-    "title_zh": "Linux软件：加固操作系统安全（Linux软件保护）",
-    "summary_zh": "本文从Linux软件保护角度讲解操作系统加固方法，涵盖软件源可信配置、包签名验证、最小化安装、权限收敛及漏洞修复流程，为系统管理员提供可操作的软件安全加固思路，降低被利用风险。",
-    "topic": "security"
-  },
-  {
-    "id": "9f0eab1cf1f70f6ef0e804a70ecb2eed",
-    "title_en": "奇安信：2026年中网络安全漏洞威胁态势研究报告",
-    "source": "bg.sgpjbg.com",
-    "url": "https://bg.sgpjbg.com/baogao/1282291.html?newsid=6547566",
-    "published_at": "2026-11-08T12:28:56.807Z",
-    "fetched_at": "2026-11-08T12:28:56.808Z",
-    "title_zh": "奇安信：2026年中网络安全漏洞威胁态势研究报告",
-    "summary_zh": "该报告由奇安信发布，系统分析2026年上半年网络安全漏洞的整体态势，涵盖高危漏洞分布、利用趋势、重点行业受影响情况及攻击链特征，并结合数据给出漏洞管理与防御优先级建议，对安全运营与风险评估具有较高参考价值。",
-    "topic": "security"
-  },
-  {
-    "id": "13bbf78d32b3b46f16bedd98c129cbad",
-    "title_en": "漏洞數暴增263%，NIST縮減CVE分析範圍轉向風險優先",
-    "source": "ithome.com.tw",
-    "url": "https://www.ithome.com.tw/news/175144",
-    "published_at": "2026-11-08T03:29:17.265Z",
-    "fetched_at": "2026-11-08T03:29:17.265Z",
-    "title_zh": "漏洞数量暴增263%，NIST缩减CVE分析范围转向风险优先",
-    "summary_zh": "随着漏洞提交量同比激增263%，NIST宣布调整CVE分析策略，不再对所有CVE条目进行完整深度分析，转而采用风险优先的分级处理机制。文章剖析了这一政策转变背后的数据压力与资源瓶颈，探讨其对漏洞披露生态、企业漏洞管理流程及安全运营优先级排序的实际影响，并给出安全团队在新形势下调整漏洞评估与响应策略的实践建议。",
-    "topic": "security"
-  },
-  {
-    "id": "ada5c45d7bc23d92f6ef9a9756980cd0",
-    "title_en": "CVE-2026-8933：Ubuntu snapd snap-confine 本地提权漏洞分析",
-    "source": "cn-sec.com",
-    "url": "https://cn-sec.com/archives/tag/%e7%ac%a6%e5%8f%b7%e9%93%be%e6%8e%a5",
-    "published_at": "2026-11-08T03:29:17.265Z",
-    "fetched_at": "2026-11-08T03:29:17.265Z",
-    "title_zh": "CVE-2026-8933：Ubuntu snapd snap-confine 本地提权漏洞分析",
-    "summary_zh": "本文深入分析Ubuntu snapd组件中snap-confine的本地提权漏洞CVE-2026-8933，从漏洞成因、触发条件到利用链进行完整拆解，说明攻击者如何在受限环境下突破权限边界获取root权限。文章还评估了受影响版本范围、实际利用门槛与风险等级，并给出升级snapd、配置缓解措施及检测潜在利用痕迹的加固建议。",
-    "topic": "security"
-  },
-  {
-    "id": "3f7b5778695d2d507a79616f9e3c4023",
-    "title_en": "2026 上半年高危 CVE 漏洞全景速览：1",
-    "source": "inmoke.com",
-    "url": "https://www.inmoke.com/measure/226737.html",
-    "published_at": "2026-11-08T03:29:17.265Z",
-    "fetched_at": "2026-11-08T03:29:17.265Z",
-    "title_zh": "2026上半年高危CVE漏洞全景速览：1",
-    "summary_zh": "本文汇总2026年上半年披露的高危CVE漏洞，按影响组件、漏洞类型与利用条件进行分类梳理，覆盖远程代码执行、权限提升与认证绕过等关键风险点。文章提炼各漏洞的技术要点与修复优先级，帮助安全团队快速建立上半年漏洞态势认知，并为补丁管理与资产排查提供可操作的参考清单。",
-    "topic": "security"
-  },
-  {
-    "id": "29754cc39abdd2f62a854b67958c2cff",
-    "title_en": "【漏洞通告】Windows Defender ShieldCrash权限提升漏洞和GitLab路径遍历漏洞",
-    "source": "inc.xmu.edu.cn",
-    "url": "https://inc.xmu.edu.cn/wlaq.htm",
-    "published_at": "2026-11-08T03:29:17.265Z",
-    "fetched_at": "2026-11-08T03:29:17.265Z",
-    "title_zh": "【漏洞通告】Windows Defender ShieldCrash权限提升漏洞和GitLab路径遍历漏洞",
-    "summary_zh": "本期漏洞通告聚焦两个高危问题：Windows Defender ShieldCrash权限提升漏洞可被本地攻击者利用获取更高系统权限，GitLab路径遍历漏洞则可能导致敏感文件泄露。文章分别说明漏洞的技术原理、受影响版本与利用前提，并给出官方补丁状态、临时缓解措施及企业环境下的排查与修复优先级建议。",
-    "topic": "security"
-  },
-  {
-    "id": "b4c8e49714bd0f3de9d5e11a92c4199b",
-    "title_en": "CVE-2026-7279/7280：AVACAST 高風險漏洞與修補建議",
-    "source": "lonelysec.com",
-    "url": "https://lonelysec.com/cve-2026-7279",
-    "published_at": "2026-11-08T03:29:17.265Z",
-    "fetched_at": "2026-11-08T03:29:17.265Z",
-    "title_zh": "CVE-2026-7279/7280：AVACAST 高风险漏洞与修补建议",
-    "summary_zh": "本文针对AVACAST相关产品披露的CVE-2026-7279与CVE-2026-7280两个高风险漏洞展开分析，说明漏洞类型、触发路径及可能造成的安全影响，评估实际攻击面与利用难度。文章同时给出分阶段的修补建议，包括版本升级、配置加固与临时缓解措施，帮助运维与安全人员快速完成风险处置。",
-    "topic": "security"
-  },
-  {
-    "id": "cf67bf820024b5c0646a5333d092a762",
-    "title_en": "全栈开发4 个月前linux内核安全·netfilter漏洞·cve-2026-46244·ipv6防火墙绕过·nftables安全修复·服务器安全加固·网络入侵防御Linux Kernel…",
-    "source": "jishuzhan.net",
-    "url": "https://jishuzhan.net/tag/122505",
-    "published_at": "2026-11-08T03:29:17.265Z",
-    "fetched_at": "2026-11-08T03:29:17.265Z",
-    "title_zh": "Linux内核安全：netfilter漏洞CVE-2026-46244、IPv6防火墙绕过与nftables安全修复及服务器加固",
-    "summary_zh": "本文围绕Linux内核netfilter子系统的高危漏洞CVE-2026-46244展开，剖析IPv6防火墙规则被绕过的技术细节与攻击路径，说明nftables相关安全修复的代码变更与影响范围。文章结合服务器安全加固实践，给出内核升级、防火墙规则审计、网络入侵防御配置等可落地的缓解与检测方案。",
     "topic": "security"
   }
 ]
