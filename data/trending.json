@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-11-11",
-      "summary_zh": "今日趋势聚焦AI智能体生态：浏览器自动化、工程技能、代码审计与安全工具涌现，另有开源设计系统、股票分析与个人理财应用。",
+      "summary_zh": "今日趋势聚焦AI智能体生态：设计系统、工程技能、浏览器自动化与安全工具涌现，另有股票分析、个人理财等实用项目。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/meta/astryx",
           "description_en": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "stars_total": 24244,
+          "stars_total": 24916,
           "stars_today": 2842,
           "description_zh": "一个完全可定制且面向智能体设计的开源设计系统"
         },
@@ -20,49 +20,49 @@
           "url": "https://github.com/we-promise/sure",
           "description_en": "The personal finance app for everyone (by everyone)",
           "language": "Ruby",
-          "stars_total": 12541,
+          "stars_total": 12929,
           "stars_today": 1079,
           "description_zh": "面向所有人（由所有人打造）的个人理财应用"
         },
         {
           "rank": 3,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 69811,
-          "stars_today": 960,
-          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
-        },
-        {
-          "rank": 4,
           "name": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 115594,
+          "stars_total": 115915,
           "stars_today": 788,
           "description_zh": "面向 AI 编程智能体的生产级工程技能。"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "vercel-labs/agent-browser",
           "url": "https://github.com/vercel-labs/agent-browser",
           "description_en": "Browser automation CLI for AI agents",
           "language": "Rust",
-          "stars_total": 49611,
+          "stars_total": 49843,
           "stars_today": 712,
           "description_zh": "面向 AI 智能体的浏览器自动化 CLI"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "homeassistant-ai/ha-mcp",
           "url": "https://github.com/homeassistant-ai/ha-mcp",
           "description_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
           "language": "Python",
-          "stars_total": 6997,
+          "stars_total": 7343,
           "stars_today": 640,
           "description_zh": "使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。"
+        },
+        {
+          "rank": 6,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "language": "Python",
+          "stars_total": 70189,
+          "stars_today": 429,
+          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
         },
         {
           "rank": 7,
@@ -70,7 +70,7 @@
           "url": "https://github.com/shadcn/improve",
           "description_en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
           "language": "",
-          "stars_total": 10455,
+          "stars_total": 10842,
           "stars_today": 333,
           "description_zh": "使用你能力最强的模型来审计代码库，并编写供更廉价模型执行的计划。"
         },
@@ -80,7 +80,7 @@
           "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 1448,
+          "stars_total": 1722,
           "stars_today": 133,
           "description_zh": ""
         },
@@ -90,8 +90,8 @@
           "url": "https://github.com/TheAlgorithms/Java",
           "description_en": "All Algorithms implemented in Java",
           "language": "Java",
-          "stars_total": 66874,
-          "stars_today": 39,
+          "stars_total": 67005,
+          "stars_today": 108,
           "description_zh": "所有算法的 Java 实现"
         },
         {
@@ -100,7 +100,7 @@
           "url": "https://github.com/openai/codex-security",
           "description_en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
           "language": "TypeScript",
-          "stars_total": 11431,
+          "stars_total": 11694,
           "stars_today": 20,
           "description_zh": "OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于发现、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security"
         }
