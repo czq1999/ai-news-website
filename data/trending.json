@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-11-12",
-      "summary_zh": "今日趋势聚焦AI智能体工具链：代码审计、浏览器自动化、安全检测及智能家居控制，另有股票分析与个人理财项目亮眼。",
+      "summary_zh": "今日GitHub热榜聚焦AI编码代理与安全工具，OpenAI Codex安全、Qwen终端代理及代理技能库亮眼，Node生态与LLM推理引擎亦受关注。",
       "projects": [
         {
           "rank": 1,
@@ -10,8 +10,8 @@
           "url": "https://github.com/meta/astryx",
           "description_en": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "stars_total": 25350,
-          "stars_today": 2776,
+          "stars_total": 26056,
+          "stars_today": 1789,
           "description_zh": "一个完全可定制且面向智能体设计的开源设计系统"
         },
         {
@@ -20,8 +20,8 @@
           "url": "https://github.com/we-promise/sure",
           "description_en": "The personal finance app for everyone (by everyone)",
           "language": "Ruby",
-          "stars_total": 13112,
-          "stars_today": 1078,
+          "stars_total": 13564,
+          "stars_today": 974,
           "description_zh": "面向所有人的个人理财应用（由所有人共建）"
         },
         {
@@ -30,79 +30,109 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description_en": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "stars_total": 116076,
-          "stars_today": 787,
+          "stars_total": 116394,
+          "stars_today": 812,
           "description_zh": "面向 AI 编码智能体的生产级工程技能。"
         },
         {
           "rank": 4,
-          "name": "vercel-labs/agent-browser",
-          "url": "https://github.com/vercel-labs/agent-browser",
-          "description_en": "Browser automation CLI for AI agents",
-          "language": "Rust",
-          "stars_total": 49994,
-          "stars_today": 708,
-          "description_zh": "面向 AI 智能体的浏览器自动化 CLI"
-        },
-        {
-          "rank": 5,
-          "name": "homeassistant-ai/ha-mcp",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "description_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-          "language": "Python",
-          "stars_total": 7472,
-          "stars_today": 645,
-          "description_zh": "使用 Claude、ChatGPT 及其他 AI 助手配置和自动化 Home Assistant。"
-        },
-        {
-          "rank": 6,
-          "name": "shadcn/improve",
-          "url": "https://github.com/shadcn/improve",
-          "description_en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-          "language": "",
-          "stars_total": 11070,
-          "stars_today": 361,
-          "description_zh": "使用你能力最强的模型来审查代码库，并编写供更廉价模型执行的计划。"
-        },
-        {
-          "rank": 7,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 70520,
-          "stars_today": 278,
-          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-        },
-        {
-          "rank": 8,
           "name": "GoogleChrome/modern-web-guidance-src",
           "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "description_en": "",
           "language": "TypeScript",
-          "stars_total": 1927,
-          "stars_today": 159,
+          "stars_total": 2344,
+          "stars_today": 799,
           "description_zh": ""
         },
         {
-          "rank": 9,
+          "rank": 5,
           "name": "openai/codex-security",
           "url": "https://github.com/openai/codex-security",
           "description_en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
           "language": "TypeScript",
-          "stars_total": 11868,
-          "stars_today": 52,
+          "stars_total": 12135,
+          "stars_today": 663,
           "description_zh": "OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于发现、验证和修复安全漏洞。npm: https://www.npmjs.com/package/@openai/codex-security"
         },
         {
+          "rank": 6,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description_en": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+          "language": "Python",
+          "stars_total": 68940,
+          "stars_today": 461,
+          "description_zh": "从你的终端、应用、IDE 或手机免费使用 Claude Code、Codex、Antigravity、VSCode、Pi 和 OpenCode（以及其他 6 种 harness）（13 亿+ 免费 token），现在还支持通过原生浏览器会话在浏览器中使用（多 harness + 多模型），类似 OpenClaw（支持语音 + 符合服务条款）"
+        },
+        {
+          "rank": 7,
+          "name": "pookjw/HermesEnabler",
+          "url": "https://github.com/pookjw/HermesEnabler",
+          "description_en": "Enable Hermès Watch Faces on any Apple Watch devices",
+          "language": "Objective-C",
+          "stars_total": 1391,
+          "stars_today": 390,
+          "description_zh": "在任何 Apple Watch 设备上启用 Hermès 表盘"
+        },
+        {
+          "rank": 8,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description_en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars_total": 11286,
+          "stars_today": 291,
+          "description_zh": "开源 AI 同事，每个都拥有自己的计算机：浏览器、文件和工具，每个操作在执行前都会先决定、执行后都会被记录。支持任意 AG-UI 代理。"
+        },
+        {
+          "rank": 9,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description_en": "LLM inference in C/C++",
+          "language": "C++",
+          "stars_total": 134312,
+          "stars_today": 162,
+          "description_zh": "使用 C/C++ 进行 LLM 推理"
+        },
+        {
           "rank": 10,
-          "name": "TheAlgorithms/Java",
-          "url": "https://github.com/TheAlgorithms/Java",
-          "description_en": "All Algorithms implemented in Java",
-          "language": "Java",
-          "stars_total": 67104,
-          "stars_today": 51,
-          "description_zh": "所有算法的 Java 实现"
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description_en": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars_total": 29597,
+          "stars_today": 151,
+          "description_zh": "一个驻留在你终端中的开源 AI 编码代理。"
+        },
+        {
+          "rank": 11,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description_en": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars_total": 123521,
+          "stars_today": 133,
+          "description_zh": "Node.js JavaScript 运行时 ✨🐢🚀✨"
+        },
+        {
+          "rank": 12,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+          "language": "Shell",
+          "stars_total": 95942,
+          "stars_today": 79,
+          "description_zh": "Node 版本管理器 - 符合 POSIX 规范的 bash 脚本，用于管理多个活跃的 node.js 版本。"
+        },
+        {
+          "rank": 13,
+          "name": "ashhart/TensorFold",
+          "url": "https://github.com/ashhart/TensorFold",
+          "description_en": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+          "language": "Zig",
+          "stars_total": 1852,
+          "stars_today": 58,
+          "description_zh": "面向 Metal、CUDA 和 Vulkan 的 LLM 推理引擎。"
         }
       ]
     },
