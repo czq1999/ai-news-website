@@ -1,6 +1,112 @@
 {
   "days": [
     {
+      "date": "2026-11-12",
+      "summary_zh": "今日趋势聚焦AI智能体工具链：代码审计、浏览器自动化、安全检测及智能家居控制，另有股票分析与个人理财项目亮眼。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description_en": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars_total": 25350,
+          "stars_today": 2776,
+          "description_zh": "一个完全可定制且面向智能体设计的开源设计系统"
+        },
+        {
+          "rank": 2,
+          "name": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "description_en": "The personal finance app for everyone (by everyone)",
+          "language": "Ruby",
+          "stars_total": 13112,
+          "stars_today": 1078,
+          "description_zh": "面向所有人的个人理财应用（由所有人共建）"
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description_en": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars_total": 116076,
+          "stars_today": 787,
+          "description_zh": "面向 AI 编码智能体的生产级工程技能。"
+        },
+        {
+          "rank": 4,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description_en": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars_total": 49994,
+          "stars_today": 708,
+          "description_zh": "面向 AI 智能体的浏览器自动化 CLI"
+        },
+        {
+          "rank": 5,
+          "name": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "description_en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "language": "Python",
+          "stars_total": 7472,
+          "stars_today": 645,
+          "description_zh": "使用 Claude、ChatGPT 及其他 AI 助手配置和自动化 Home Assistant。"
+        },
+        {
+          "rank": 6,
+          "name": "shadcn/improve",
+          "url": "https://github.com/shadcn/improve",
+          "description_en": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+          "language": "",
+          "stars_total": 11070,
+          "stars_today": 361,
+          "description_zh": "使用你能力最强的模型来审查代码库，并编写供更廉价模型执行的计划。"
+        },
+        {
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "language": "Python",
+          "stars_total": 70520,
+          "stars_today": 278,
+          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+        },
+        {
+          "rank": 8,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description_en": "",
+          "language": "TypeScript",
+          "stars_total": 1927,
+          "stars_today": 159,
+          "description_zh": ""
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description_en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars_total": 11868,
+          "stars_today": 52,
+          "description_zh": "OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于发现、验证和修复安全漏洞。npm: https://www.npmjs.com/package/@openai/codex-security"
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Java",
+          "url": "https://github.com/TheAlgorithms/Java",
+          "description_en": "All Algorithms implemented in Java",
+          "language": "Java",
+          "stars_total": 67104,
+          "stars_today": 51,
+          "description_zh": "所有算法的 Java 实现"
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "summary_zh": "今日趋势聚焦AI智能体生态：设计系统、工程技能、浏览器自动化与安全工具涌现，另有股票分析、个人理财等实用项目。",
       "projects": [
@@ -3841,102 +3947,6 @@
           "stars_total": 95434,
           "stars_today": 70,
           "description_zh": "Node 版本管理器 - 符合 POSIX 标准的 bash 脚本，用于管理多个活跃的 node.js 版本。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体工具链：逆向工程、上下文优化、本地语音克隆与技能框架，另有单卡4GB跑2.8T大模型、跨平台iOS构建等硬核项目。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "description_en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "language": "TypeScript",
-          "stars_total": 204524,
-          "stars_today": 54706,
-          "description_zh": "使用智能体对任何事物进行逆向工程，从应用行为到原生二进制文件。"
-        },
-        {
-          "rank": 2,
-          "name": "storytold/artcraft",
-          "url": "https://github.com/storytold/artcraft",
-          "description_en": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-          "language": "Rust",
-          "stars_total": 25416,
-          "stars_today": 4078,
-          "description_zh": "ArtCraft是一个面向艺术家、设计师和电影制作人的专注创作引擎"
-        },
-        {
-          "rank": 3,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 62983,
-          "stars_today": 2277,
-          "description_zh": "VoiceStudio 是开源、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书制作。"
-        },
-        {
-          "rank": 4,
-          "name": "bilawalsidhu/gods-eye-view",
-          "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "description_en": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-          "language": "JavaScript",
-          "stars_total": 55227,
-          "stars_today": 1961,
-          "description_zh": "一个运行在浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的3D地球上提供实时开源空间情报。"
-        },
-        {
-          "rank": 5,
-          "name": "cathrynlavery/diagram-design",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-          "language": "HTML",
-          "stars_total": 53979,
-          "stars_today": 1813,
-          "description_zh": "面向Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid和Pi的编辑级图表设计。44种图表类型。自包含HTML + SVG。无阴影。无Mermaid劣质效果。"
-        },
-        {
-          "rank": 6,
-          "name": "xtool-org/xtool",
-          "url": "https://github.com/xtool-org/xtool",
-          "description_en": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-          "language": "Swift",
-          "stars_total": 9213,
-          "stars_today": 1182,
-          "description_zh": "跨平台的 Xcode 替代方案。在 Linux、Windows、macOS 上使用 SwiftPM 构建和部署 iOS 应用。"
-        },
-        {
-          "rank": 7,
-          "name": "lyogavin/airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "description_en": "AirLLM 2.8T LLM inference with single 4GB GPU",
-          "language": "Jupyter Notebook",
-          "stars_total": 38266,
-          "stars_today": 1004,
-          "description_zh": "AirLLM在单个4GB GPU上进行2.8T大语言模型推理"
-        },
-        {
-          "rank": 8,
-          "name": "mksglu/context-mode",
-          "url": "https://github.com/mksglu/context-mode",
-          "description_en": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "language": "TypeScript",
-          "stars_total": 28149,
-          "stars_today": 978,
-          "description_zh": "面向AI编程智能体的上下文窗口优化。对工具输出进行沙箱隔离（减少98%），持久化会话记忆，并通过MCP + hooks在17个平台上强制执行路由。"
-        },
-        {
-          "rank": 9,
-          "name": "vercel-labs/skills",
-          "url": "https://github.com/vercel-labs/skills",
-          "description_en": "The open agent skills tool - npx skills",
-          "language": "TypeScript",
-          "stars_total": 34423,
-          "stars_today": 187,
-          "description_zh": "开放的智能体技能工具 - npx skills"
         }
       ]
     }
