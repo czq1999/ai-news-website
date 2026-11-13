@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-11-13",
-      "summary_zh": "今日GitHub趋势聚焦AI智能体与开发工具：代码审查、安全检测、股票分析等LLM应用涌现，自托管监控与通信工具亦受关注。",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体与开发工具：阿里开源代码审查工具、OpenAI安全CLI、LLM股票分析与交易技能，以及自托管监控和Tailscale网络工具。",
       "projects": [
         {
           "rank": 1,
@@ -10,7 +10,7 @@
           "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "description_en": "Keep your coding agent up to date with the latest web best practices",
           "language": "TypeScript",
-          "stars_total": 4246,
+          "stars_total": 4760,
           "stars_today": 1875,
           "description_zh": "让你的编码代理随时掌握最新的 Web 最佳实践"
         },
@@ -20,7 +20,7 @@
           "url": "https://github.com/we-promise/sure",
           "description_en": "The personal finance app for everyone (by everyone)",
           "language": "Ruby",
-          "stars_total": 14390,
+          "stars_total": 14698,
           "stars_today": 944,
           "description_zh": "面向所有人（由所有人打造）的个人理财应用"
         },
@@ -30,99 +30,99 @@
           "url": "https://github.com/openai/codex-security",
           "description_en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
           "language": "TypeScript",
-          "stars_total": 12842,
+          "stars_total": 13100,
           "stars_today": 754,
           "description_zh": "OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于发现、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security"
         },
         {
           "rank": 4,
-          "name": "ZhuLinsen/daily_stock_analysis",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-          "language": "Python",
-          "stars_total": 71286,
-          "stars_today": 272,
-          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
-        },
-        {
-          "rank": 5,
-          "name": "Likely7/Veyra-NRVideo",
-          "url": "https://github.com/Likely7/Veyra-NRVideo",
-          "description_en": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
-          "language": "C++",
-          "stars_total": 1442,
-          "stars_today": 245,
-          "description_zh": "借助 DLSS 5 让 PS5 GTA6 达到 120FPS。一款先进的 Windows 视频播放器和采集增强工具，支持视频、图像和采集卡源的实时预览。结合 AI 驱动的超分辨率、DLSS5 图像增强和帧生成，带来下一代视觉体验。"
-        },
-        {
-          "rank": 6,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "language": "Go",
-          "stars_total": 50228,
-          "stars_today": 206,
-          "description_zh": "安全、快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确到行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
-        },
-        {
-          "rank": 7,
           "name": "tailscale/tailcat",
           "url": "https://github.com/tailscale/tailcat",
           "description_en": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
           "language": "Go",
-          "stars_total": 9227,
-          "stars_today": 173,
+          "stars_total": 9429,
+          "stars_today": 324,
           "description_zh": "类似 netcat，但运行在 Tailscale 的数据平面上，无需 Tailscale 的控制平面"
         },
         {
-          "rank": 8,
-          "name": "backnotprop/plannotator",
-          "url": "https://github.com/backnotprop/plannotator",
-          "description_en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-          "language": "TypeScript",
-          "stars_total": 10284,
-          "stars_today": 100,
-          "description_zh": "用于保持跟进并掌控智能体的工作空间——塑造、决策、规划、标注、审查代码、与团队共享，并一键将所有反馈发送给智能体。"
-        },
-        {
-          "rank": 9,
-          "name": "block/buzz",
-          "url": "https://github.com/block/buzz",
-          "description_en": "A hive mind communication platform",
-          "language": "Rust",
-          "stars_total": 37170,
-          "stars_today": 95,
-          "description_zh": "一个蜂群思维通信平台"
-        },
-        {
-          "rank": 10,
-          "name": "louislam/uptime-kuma",
-          "url": "https://github.com/louislam/uptime-kuma",
-          "description_en": "A fancy self-hosted monitoring tool",
-          "language": "JavaScript",
-          "stars_total": 93651,
-          "stars_today": 61,
-          "description_zh": "一款精美的自托管监控工具"
-        },
-        {
-          "rank": 11,
-          "name": "tradermonty/claude-trading-skills",
-          "url": "https://github.com/tradermonty/claude-trading-skills",
-          "description_en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+          "rank": 5,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
           "language": "Python",
-          "stars_total": 3913,
-          "stars_today": 60,
-          "description_zh": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
+          "stars_total": 71551,
+          "stars_today": 272,
+          "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。"
         },
         {
-          "rank": 12,
+          "rank": 6,
+          "name": "Likely7/Veyra-NRVideo",
+          "url": "https://github.com/Likely7/Veyra-NRVideo",
+          "description_en": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+          "language": "C++",
+          "stars_total": 1593,
+          "stars_today": 245,
+          "description_zh": "借助 DLSS 5 让 PS5 GTA6 达到 120FPS。一款先进的 Windows 视频播放器和采集增强工具，支持视频、图像和采集卡源的实时预览。结合 AI 驱动的超分辨率、DLSS5 图像增强和帧生成，带来下一代视觉体验。"
+        },
+        {
+          "rank": 7,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 50562,
+          "stars_today": 206,
+          "description_zh": "安全、快速、高效，经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，精确到行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+        },
+        {
+          "rank": 8,
           "name": "ChromeDevTools/chrome-devtools-mcp",
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description_en": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "stars_total": 55247,
-          "stars_today": 60,
+          "stars_total": 55430,
+          "stars_today": 145,
           "description_zh": "面向编码智能体的 Chrome DevTools"
+        },
+        {
+          "rank": 9,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description_en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars_total": 10421,
+          "stars_today": 100,
+          "description_zh": "用于保持跟进并掌控智能体的工作空间——塑造、决策、规划、标注、审查代码、与团队共享，并一键将所有反馈发送给智能体。"
+        },
+        {
+          "rank": 10,
+          "name": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "description_en": "A hive mind communication platform",
+          "language": "Rust",
+          "stars_total": 37286,
+          "stars_today": 95,
+          "description_zh": "一个蜂群思维通信平台"
+        },
+        {
+          "rank": 11,
+          "name": "louislam/uptime-kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "description_en": "A fancy self-hosted monitoring tool",
+          "language": "JavaScript",
+          "stars_total": 93830,
+          "stars_today": 61,
+          "description_zh": "一款精美的自托管监控工具"
+        },
+        {
+          "rank": 12,
+          "name": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "description_en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+          "language": "Python",
+          "stars_total": 4134,
+          "stars_today": 60,
+          "description_zh": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
         }
       ]
     },
