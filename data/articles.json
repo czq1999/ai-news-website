@@ -1,5 +1,27 @@
 [
   {
+    "id": "0ace8dea5c51e049d2cd6b0c77212ecc",
+    "title_en": "The FAA Nationwide Ground Stop Is Over",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+    "published_at": "2026-11-14T01:46:40.000Z",
+    "fetched_at": "2026-11-14T04:07:45.641Z",
+    "title_zh": "美国联邦航空管理局全国停飞令已解除",
+    "summary_zh": "美国联邦航空管理局（FAA）宣布全国范围内的航班停飞令已经结束。此前该停飞措施导致大量航班延误和取消，影响众多旅客出行。FAA表示相关系统问题已得到处理，航班运营正逐步恢复。此次事件再次引发外界对航空管理系统可靠性和应急响应能力的关注。",
+    "category": "industry"
+  },
+  {
+    "id": "4f9a42ba49f57bbe167504b02cae2acf",
+    "title_en": "Amazon has a plan to index the world’s online shopping data",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "published_at": "2026-11-13T23:49:11.000Z",
+    "fetched_at": "2026-11-14T04:07:45.404Z",
+    "title_zh": "亚马逊计划索引全球在线购物数据",
+    "summary_zh": "据The Verge报道，亚马逊正筹划一项大规模数据索引计划，旨在系统性地抓取并整理全球范围内的在线购物信息。此举可能重塑电商搜索与比价生态，但也引发对数据抓取合规性、平台竞争公平性以及隐私边界的广泛讨论。业界关注亚马逊将如何界定数据来源范围，以及零售商是否会采取反制措施。",
+    "category": "industry"
+  },
+  {
     "id": "6639a1de699279ea2edfef6ff572d7e5",
     "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "source": "TechCrunch AI",
@@ -515,6 +537,116 @@
     "title_zh": "Chatbooks 优惠码：2026 年 11 月享 4 折",
     "summary_zh": "Wired 汇总了照片书服务 Chatbooks 在 2026 年 11 月的优惠码信息，用户可享 40% 折扣。文章介绍了优惠码的领取与使用方法，适用于制作照片书、相册等个性化印刷品，并提醒促销可能限时或仅适用于首次下单的新用户。",
     "category": "product"
+  },
+  {
+    "id": "10f03ddd48bee7bc0377190a71913528",
+    "title_en": "Five thoughts from Cisco’s first quarter of fiscal 2027",
+    "source": "SiliconANGLE News",
+    "url": "https://siliconangle.com/2026/11/12/five-thoughts-from-ciscos-first-quarter-of-fiscal-2027/",
+    "published_at": "2026-11-13T04:06:22Z",
+    "fetched_at": "2026-11-14T04:07:46.120Z",
+    "title_zh": "思科2027财年第一季度五大看点",
+    "summary_zh": "SiliconANGLE梳理了思科2027财年第一季度的五大看点，涵盖营收表现、AI基础设施订单、网络与安全业务增长、利润率变化以及管理层对未来的指引。分析认为，思科正受益于数据中心和AI网络需求上升，但同时也面临供应链和竞争压力，其业绩走势对整体科技行业具有参考意义。",
+    "category": "industry"
+  },
+  {
+    "id": "74d01f59a8b665c2b8c6d624488b0dbb",
+    "title_en": "The leather jacket comes off: How Jensen Huang lost Nvidia",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-leather-jacket-comes-off-how-jensen-huang-lost-nvidia/articleshow/135788663.cms",
+    "published_at": "2026-11-13T04:04:50Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "皮衣脱下之后：黄仁勋如何失去英伟达",
+    "summary_zh": "《印度时报》文章探讨黄仁勋与英伟达关系的变化，以“皮衣脱下”为隐喻，分析其领导地位受到的冲击。报道围绕近期争议事件展开，讨论公司治理、管理层信任以及投资者信心等问题。文章认为，这一风波可能改变英伟达的权力结构，并对公司未来战略和市场形象产生深远影响。",
+    "category": "industry"
+  },
+  {
+    "id": "0601e27a2d58844175d5091cf59b539e",
+    "title_en": "Microsoft 365 services suddenly go down",
+    "source": "Gossiplankanews.com",
+    "url": "https://english.gossiplankanews.com/2026/11/microsoft-365-services-suddenly-go-down.html",
+    "published_at": "2026-11-13T04:01:57Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "微软365服务突然大面积宕机",
+    "summary_zh": "微软365多项服务突然出现大面积宕机，影响全球大量用户的邮件、文档协作和会议等功能。微软随后确认问题并展开排查，部分服务逐步恢复。此次故障再次凸显企业对云办公套件的高度依赖，也引发对单一云服务商集中风险及业务连续性方案的讨论。",
+    "category": "product"
+  },
+  {
+    "id": "9c66ad820a45126b4ddcb10a081ccd35",
+    "title_en": "SpaceX announces over $74 billion investment in Texas, Arizona supercomputing campuses",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/info-tech/spacex-announces-over-74-billion-investment-in-texas-arizona-supercomputing-campuses/article71696472.ece",
+    "published_at": "2026-11-13T03:59:21Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "SpaceX宣布在得克萨斯州和亚利桑那州投资逾740亿美元建设超级计算园区",
+    "summary_zh": "SpaceX宣布将在得克萨斯州和亚利桑那州投资超过740亿美元建设超级计算园区，规模空前。该项目预计将大幅提升公司在卫星数据处理、AI训练和航天模拟等方面的算力能力，同时带动当地就业和基础设施建设。此举也反映出航天与AI融合趋势下，企业对高性能计算资源的争夺日益激烈。",
+    "category": "industry"
+  },
+  {
+    "id": "6313b61a2de1bfb611f6d92bd03528c9",
+    "title_en": "Infosys joins the club:12 companies that have minted the most billionaires",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/finance/personal-finance/infosys-joins-the-club-12-companies-that-have-minted-the-most-billionaires-126111300002_1.html",
+    "published_at": "2026-11-13T03:45:53Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "印孚瑟斯加入俱乐部：诞生亿万富翁最多的12家公司",
+    "summary_zh": "《商业标准报》盘点诞生亿万富翁最多的12家公司，印孚瑟斯（Infosys）新晋入列。文章梳理这些企业通过上市、股权激励和长期增长造就大量高净值人士的路径，并分析科技与外包行业在财富创造中的作用。榜单也反映出印度企业在全球资本市场中的影响力持续上升。",
+    "category": "industry"
+  },
+  {
+    "id": "8c276c5451164157b7e52e4bd3f5a619",
+    "title_en": "Inside Jensen Huang's final hours as Nvidia CEO amid affair scandal",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/world-news/inside-jensen-huang-s-final-hours-as-nvidia-ceo-amid-affair-scandal-126111300253_1.html",
+    "published_at": "2026-11-13T03:43:10Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "黄仁勋卸任英伟达CEO最后时刻内幕：丑闻风波中的抉择",
+    "summary_zh": "《商业标准报》披露黄仁勋卸任英伟达CEO前后最后时刻的内幕，称其决定受到个人丑闻风波影响。报道描述了公司高层紧急磋商、董事会应对以及对外沟通的过程，并分析这一变动对英伟达战略连续性和投资者信心的潜在冲击。事件仍在发酵，后续影响有待观察。",
+    "category": "industry"
+  },
+  {
+    "id": "5b7d82f7ea43e479350b8b37183b9513",
+    "title_en": "Nvidia scandal puts China chip curbs back in focus as US lawmakers push tougher export restrictions",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-scandal-puts-china-chip-curbs-back-in-focus-as-us-lawmakers-push-tougher-export-restrictions/articleshow/135787431.cms",
+    "published_at": "2026-11-13T03:41:10Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "英伟达丑闻令中国芯片限制重回焦点，美国议员推动更严出口管制",
+    "summary_zh": "英伟达相关丑闻持续发酵，使中国芯片出口限制问题重回政策焦点。美国部分议员借机推动更严格的出口管制措施，要求扩大受限芯片范围并加强执法。分析认为，这一动向可能进一步收紧英伟达对华业务，加剧中美科技博弈，并对全球半导体供应链和AI算力布局产生连锁影响。",
+    "category": "industry"
+  },
+  {
+    "id": "4573b2618b96ddc92746ff1d847ad37b",
+    "title_en": "Jefferies sees 107% upside in this AI-focused semiconductor stock",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/93db1b28c4b0969f",
+    "published_at": "2026-11-13T03:41:09Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "杰富瑞看好这只AI半导体股票，认为有107%上涨空间",
+    "summary_zh": "投行杰富瑞发布报告，对一只聚焦AI的半导体股票给出积极评级，预计其股价有约107%的上涨空间。报告认为，AI算力需求持续扩张将带动相关芯片出货和营收增长，该公司在细分领域具备竞争优势。此观点反映出市场对AI半导体板块的乐观情绪，但也提示投资者关注估值与周期风险。",
+    "category": "industry"
+  },
+  {
+    "id": "ec6a704c2b047a622bdbfddc370671eb",
+    "title_en": "Is Nvidia Undervalued?",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/c8a2d91ed2d9a82b",
+    "published_at": "2026-11-13T03:40:58Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "英伟达被低估了吗？",
+    "summary_zh": "文章围绕“英伟达是否被低估”展开讨论，从市盈率、营收增速、AI数据中心需求和竞争格局等角度分析其估值合理性。支持者认为AI长期趋势仍将支撑增长，反对者则担忧周期见顶和客户自研芯片的冲击。文章提醒投资者综合评估增长确定性与风险因素，而非仅凭短期股价判断。",
+    "category": "industry"
+  },
+  {
+    "id": "1bbc34ec7cb2c59732a3f9b35c7dcaf4",
+    "title_en": "\"He is going through hell\": Trump says Jensen Huang is distressed over impact of controversy on wife, family",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/technology/he-is-going-through-hell-trump-says-jensen-huang-is-distressed-over-impact-of-controversy-on-wife-family/articleshow/135788018.cms",
+    "published_at": "2026-11-13T03:29:05Z",
+    "fetched_at": "2026-11-14T04:07:46.121Z",
+    "title_zh": "“他正经历地狱般煎熬”：特朗普称黄仁勋因丑闻波及妻儿而痛苦",
+    "summary_zh": "特朗普公开表示，黄仁勋因近期丑闻对其妻子和家庭造成的影响而深感痛苦，称其“正经历地狱般的煎熬”。此番言论将事件从公司治理延伸至个人与家庭层面，进一步推高舆论关注度。报道认为，公众人物的私德争议正持续影响英伟达的品牌形象与市场情绪。",
+    "category": "industry"
   },
   {
     "id": "7c9bcfd4b3414e7af1fae543aa369e2b",
@@ -5366,137 +5498,5 @@
     "title_zh": "Ecoflow Rapid Pro移动电源促销：立省80美元",
     "summary_zh": "Ecoflow Rapid Pro移动电源迎来限时优惠，消费者可节省80美元。Wired介绍了该产品的电池容量、快充功率、接口配置和便携性表现，并分析了其在旅行、户外和应急场景下的实用性，认为此次折扣使其性价比进一步提升。",
     "category": "product"
-  },
-  {
-    "id": "26378c43685aa59a425d12e5f5c31acd",
-    "title_en": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
-    "published_at": "2026-11-07T11:00:00.000Z",
-    "fetched_at": "2026-11-07T21:14:34.221Z",
-    "title_zh": "他以反对数据中心为竞选主张，如今将进军国会",
-    "summary_zh": "一位以反对数据中心建设为核心竞选主张的政治人物成功当选，即将进入国会。这反映出数据中心因能耗、水资源消耗和社区影响而日益引发民众不满。随着AI算力需求激增，数据中心扩张与地方利益的矛盾愈发突出，相关议题正从地方抗议上升为全国性政治话题。",
-    "category": "industry"
-  },
-  {
-    "id": "2d1152e9b7ff9fdcc70e32b0ab3d5ba9",
-    "title_en": "Breaking the Decade-Long Trump Fever",
-    "source": "The New Yorker",
-    "url": "https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever",
-    "published_at": "2026-11-07T11:00:00Z",
-    "fetched_at": "2026-11-08T12:28:19.432Z",
-    "title_zh": "打破长达十年的“特朗普热”",
-    "summary_zh": "《纽约客》刊文探讨如何打破持续近十年的“特朗普热”现象。文章回顾这一政治热潮的形成与延续，分析其在舆论、党派与社会层面的深层影响，并讨论反对力量如何寻找新的叙事与策略，以走出长期由特朗普主导的政治周期。",
-    "category": "industry"
-  },
-  {
-    "id": "c510ac155ce6cbbb046f46107c831f35",
-    "title_en": "The 19 Best Early Black Friday Deals 2026",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/",
-    "published_at": "2026-11-07T10:16:00.000Z",
-    "fetched_at": "2026-11-07T12:07:51.413Z",
-    "title_zh": "2026年黑色星期五19项最佳抢先优惠",
-    "summary_zh": "Wired汇总了2026年黑色星期五期间19项最值得关注的早期优惠，覆盖耳机、智能家居、移动电源、户外装备等多个品类。文章对每项折扣的力度和产品口碑进行了简要评估，帮助读者在促销高峰期来临前抢先锁定高性价比好物。",
-    "category": "product"
-  },
-  {
-    "id": "f008d650e095c08fd315915bb4fe0988",
-    "title_en": "The American Dream Wasn’t Built for Climate Change",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-    "published_at": "2026-11-07T10:00:00.000Z",
-    "fetched_at": "2026-11-07T12:07:51.413Z",
-    "title_zh": "美国梦并非为气候变化而建",
-    "summary_zh": "Wired刊文探讨气候变化如何冲击传统的美国梦叙事，指出住房、保险和基础设施等建立在稳定气候假设之上的制度正面临严峻挑战。文章分析了极端天气对家庭财产和社区安全的威胁，呼吁重新思考居住模式与公共政策，以适应不断变化的环境。",
-    "category": "industry"
-  },
-  {
-    "id": "eaf65ed6a7f0ec28ff912cc3a7312de4",
-    "title_en": "From the front row to the hot seat — what the midterms mean for Big Tech",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-    "published_at": "2026-11-07T04:16:43.000Z",
-    "fetched_at": "2026-11-10T00:59:49.368Z",
-    "title_zh": "从旁观者到风口浪尖——中期选举对科技巨头意味着什么",
-    "summary_zh": "文章分析中期选举结果对大型科技公司的影响，指出科技巨头正从政治旁观者变为政策焦点。选举结果可能影响AI监管、反垄断及数据隐私等议题走向，科技行业与政府之间的关系也将面临重新调整。",
-    "category": "industry"
-  },
-  {
-    "id": "632122b21be351988d9c96aacf818df8",
-    "title_en": "How the US midterm elections reflected resistance to data centres",
-    "source": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
-    "published_at": "2026-11-07T03:22:41Z",
-    "fetched_at": "2026-11-08T03:28:47.922Z",
-    "title_zh": "美国中期选举如何反映出对数据中心的抵制情绪",
-    "summary_zh": "美国中期选举结果显示，多地选民对大规模数据中心建设表达出明显抵触情绪，反映出AI基础设施扩张与地方社区在能源、水资源和土地使用方面的矛盾日益突出。这一政治信号可能影响未来数据中心项目的审批与选址，进而波及AI产业的算力布局。",
-    "category": "industry"
-  },
-  {
-    "id": "d264ffb5b0c216f0b7ffb42bcf71a013",
-    "title_en": "Stock Price Rallies As Q1 Results Spotlight AI Margins",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/d0e0d14f7ec06f3b",
-    "published_at": "2026-11-07T03:14:06Z",
-    "fetched_at": "2026-11-08T03:28:47.922Z",
-    "title_zh": "一季度财报聚焦AI利润率，股价应声上涨",
-    "summary_zh": "随着第一季度财报陆续公布，市场对AI业务利润率的关注推动相关公司股价上涨。投资者正密切评估AI投入的回报周期与盈利能力，财报中披露的AI营收和毛利数据成为股价波动的关键驱动因素，显示资本市场对AI商业化前景的信心正在重塑。",
-    "category": "industry"
-  },
-  {
-    "id": "9490f9d13589158352233b996eb639f8",
-    "title_en": "China's Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-    "source": "Slashdot.org",
-    "url": "https://slashdot.org/submission/17352141/chinas-top-spy-agency-recruited-woman-who-targeted-jensen-huang",
-    "published_at": "2026-11-07T02:30:07Z",
-    "fetched_at": "2026-11-08T03:28:47.922Z",
-    "title_zh": "中国顶级情报机构招募了针对黄仁勋的女性",
-    "summary_zh": "据Slashdot援引报道，中国某顶级情报机构招募了一名曾以英伟达CEO黄仁勋为目标的女性。该事件涉及科技行业高层人物与情报活动的交集，引发外界对AI芯片领域商业间谍和地缘政治博弈的关注，也凸显半导体产业已成为国家安全竞争的焦点。",
-    "category": "industry"
-  },
-  {
-    "id": "98562a027846185be28b52ea1578f11c",
-    "title_en": "From 250,000-unit ambitions to a production wind-down: What went wrong with Elon Musk's Cybertruck?",
-    "source": "Livemint",
-    "url": "https://www.livemint.com/companies/news/from-250-000-unit-ambitions-to-a-production-wind-down-what-went-wrong-with-elon-musks-cybertruck-11794016680043.html",
-    "published_at": "2026-11-07T02:09:53Z",
-    "fetched_at": "2026-11-08T03:28:47.922Z",
-    "title_zh": "从25万辆目标到减产收尾：马斯克Cybertruck出了什么问题？",
-    "summary_zh": "特斯拉Cybertruck从最初年产25万辆的雄心壮志，到如今生产逐步收缩，暴露出定价过高、产能爬坡困难和市场需求不及预期等问题。该车型的困境反映出电动皮卡细分市场的挑战，也对特斯拉的产品战略和马斯克的执行力提出质疑。",
-    "category": "industry"
-  },
-  {
-    "id": "3ec17dbc977bd809cc28cffad582575d",
-    "title_en": "No Human at the Helm",
-    "source": "Bradenkelley.com",
-    "url": "https://bradenkelley.com/2026/11/delaware-ai-run-companies-aic-proposal/",
-    "published_at": "2026-11-07T02:03:55Z",
-    "fetched_at": "2026-11-08T03:28:47.922Z",
-    "title_zh": "无人掌舵",
-    "summary_zh": "文章探讨了在AI系统日益自主化的趋势下，人类逐渐从决策链条中退出的现象。作者分析了自动化系统在缺乏人类监督时可能带来的风险与伦理问题，呼吁在关键领域保留人类最终决策权，避免因过度依赖AI而丧失对复杂系统的控制能力。",
-    "category": "research"
-  },
-  {
-    "id": "1e76a1f7d40842bf5917b0775b26ea2f",
-    "title_en": "The Democrat Midterm Victory has Created Data Center Opportunities for Other Countries",
-    "source": "Wattsupwiththat.com",
-    "url": "https://wattsupwiththat.com/2026/11/06/the-democrat-midterm-victory-has-created-data-center-opportunities-for-other-countries/",
-    "published_at": "2026-11-07T02:00:00Z",
-    "fetched_at": "2026-11-08T03:28:47.922Z",
-    "title_zh": "民主党中期选举胜利为其他国家创造了数据中心机遇",
-    "summary_zh": "民主党在中期选举中的胜利可能收紧美国数据中心建设的政策环境，从而为其他国家承接AI算力基础设施投资创造机会。文章认为，能源成本、监管审批和地方阻力等因素正促使科技公司将数据中心布局转向海外市场，全球算力竞争格局或将因此调整。",
-    "category": "industry"
-  },
-  {
-    "id": "5331121ce19a619cfbb1e597a29e03bf",
-    "title_en": "Joe Rogan warns of 'human vs nonhuman' war in the next five years: 'We're not going to be the apex predator anymore'",
-    "source": "Dailymail.com",
-    "url": "https://www.dailymail.com/sciencetech/article-16272453/joe-rogan-warns-ai-human-war.html",
-    "published_at": "2026-11-07T01:58:20Z",
-    "fetched_at": "2026-11-08T03:28:47.922Z",
-    "title_zh": "乔·罗根警告未来五年将爆发“人类与非人类”之战：“我们不再是顶级掠食者”",
-    "summary_zh": "知名播客主持人乔·罗根在节目中警告称，未来五年内人类可能面临与AI等“非人类”智能体的对抗，人类将失去顶级掠食者的地位。此番言论虽带有夸张色彩，但反映出公众对AI快速发展可能威胁人类主导地位的深层焦虑情绪正在蔓延。",
-    "category": "industry"
   }
 ]

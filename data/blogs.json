@@ -1,5 +1,148 @@
 [
   {
+    "id": "d21b380b83339ea20367562bf52c025b",
+    "title_en": "2026年CVE數量恐破6.6萬個，FIRST國際資安應變組織提四 ...",
+    "source": "ithome.com.tw",
+    "url": "https://www.ithome.com.tw/news/176652",
+    "published_at": "2026-11-14T04:08:18.073Z",
+    "fetched_at": "2026-11-14T04:08:18.073Z",
+    "title_zh": "2026年CVE数量恐破6.6万个，FIRST国际资安应变组织提出四项建议",
+    "summary_zh": "文章报道FIRST国际资安应变组织对2026年CVE数量可能突破6.6万个的预警，分析漏洞披露加速带来的管理压力。内容提出四项应对建议，涉及漏洞优先级评估、自动化响应流程、跨组织情报共享与补丁管理策略，为安全团队优化漏洞治理体系提供实践方向。",
+    "topic": "security"
+  },
+  {
+    "id": "59c058379b22447bf7be0a74111e4d0b",
+    "title_en": "云原生Kubernetes 最佳实践：从部署到运维",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/guoyizhongxing/article/details/160627196",
+    "published_at": "2026-11-14T04:08:18.072Z",
+    "fetched_at": "2026-11-14T04:08:18.072Z",
+    "title_zh": "云原生Kubernetes最佳实践：从部署到运维",
+    "summary_zh": "文章系统总结Kubernetes在云原生环境下的最佳实践，覆盖集群部署、资源编排、滚动发布、配置管理与监控告警等关键环节。内容结合生产案例讲解Pod调度优化、HPA弹性伸缩与故障排查方法，帮助团队构建稳定高效的容器编排平台并降低运维复杂度。",
+    "topic": "ops"
+  },
+  {
+    "id": "9fbd80fe05b07ee9c18b3cb01f66aede",
+    "title_en": "容器技术的介绍 - Docker Tips",
+    "source": "dockertips.readthedocs.io",
+    "url": "https://dockertips.readthedocs.io/en/latest/docker-install/docker-intro.html",
+    "published_at": "2026-11-14T04:08:18.072Z",
+    "fetched_at": "2026-11-14T04:08:18.072Z",
+    "title_zh": "容器技术介绍——Docker Tips",
+    "summary_zh": "本文介绍容器技术的基本原理与Docker核心概念，包括镜像分层、容器生命周期、网络与存储机制。内容结合Docker Tips实践讲解常用命令与Dockerfile编写要点，帮助读者理解容器隔离与资源限制的实现方式，为后续容器化部署与运维打下基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "77745065f1fb1d3a9a0efa0fda2cbc24",
+    "title_en": "Docker 镜像瘦身实战：从1.2GB 压缩到200MB 的优化过程",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2568289",
+    "published_at": "2026-11-14T04:08:18.072Z",
+    "fetched_at": "2026-11-14T04:08:18.072Z",
+    "title_zh": "Docker镜像瘦身实战：从1.2GB压缩到200MB的优化过程",
+    "summary_zh": "本文记录一次Docker镜像从1.2GB压缩至200MB的实战优化过程，详细分析镜像体积膨胀原因，包括基础镜像选择、多层构建残留与依赖冗余。文章介绍多阶段构建、层合并、清理缓存与使用精简基础镜像等技巧，并给出可复用的Dockerfile优化范式，显著提升构建与部署效率。",
+    "topic": "ops"
+  },
+  {
+    "id": "1d53109c67251e0bcf1c775d007651a3",
+    "title_en": "Docker容器技术介绍（内含详细教程）",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/126687430",
+    "published_at": "2026-11-14T04:08:18.072Z",
+    "fetched_at": "2026-11-14T04:08:18.072Z",
+    "title_zh": "Docker容器技术介绍（内含详细教程）",
+    "summary_zh": "本文全面介绍Docker容器技术，从虚拟化对比、镜像与容器关系讲起，逐步演示安装配置、镜像构建、容器运行与数据卷挂载等操作。内容包含详细命令教程与Docker Compose编排示例，帮助读者快速掌握容器化开发与部署的核心流程。",
+    "topic": "ops"
+  },
+  {
+    "id": "58135923bb24d7086962b38e2e5e4a34",
+    "title_en": "AI自主Agent开发框架选型指南与评估实践",
+    "source": "cloud.baidu.com",
+    "url": "https://cloud.baidu.com/article/9455075",
+    "published_at": "2026-11-14T04:08:14.526Z",
+    "fetched_at": "2026-11-14T04:08:14.526Z",
+    "title_zh": "AI自主Agent开发框架选型指南与评估实践",
+    "summary_zh": "文章围绕AI自主Agent开发框架的选型问题，提出一套包含任务规划能力、工具生态、可观测性、扩展性与社区活跃度在内的评估体系。通过对比主流框架在真实业务场景下的表现，给出分阶段选型建议与落地实践路径，帮助团队降低试错成本并提升Agent系统的可维护性。",
+    "topic": "ai"
+  },
+  {
+    "id": "aa58b7cc9a27949dd5e250897113e72e",
+    "title_en": "什么是自主AI 智能体？",
+    "source": "nvidia.cn",
+    "url": "https://www.nvidia.cn/glossary/ai-agents/",
+    "published_at": "2026-11-14T04:08:14.526Z",
+    "fetched_at": "2026-11-14T04:08:14.526Z",
+    "title_zh": "什么是自主AI智能体？",
+    "summary_zh": "本文从概念层面解析自主AI智能体的定义与核心特征，包括感知、规划、记忆、工具调用与自主决策能力。文章梳理了Agent与普通LLM应用的区别，介绍典型架构组成与运行循环，并讨论其在复杂任务自动化中的技术边界与工程挑战，为理解Agent系统提供基础认知框架。",
+    "topic": "ai"
+  },
+  {
+    "id": "2c27f4004e729902dccff842a25dc303",
+    "title_en": "从结对到自主：让AI交付可运行的工程成果",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1997365445603373418",
+    "published_at": "2026-11-14T04:08:14.526Z",
+    "fetched_at": "2026-11-14T04:08:14.526Z",
+    "title_zh": "从结对到自主：让AI交付可运行的工程成果",
+    "summary_zh": "文章探讨AI编程从结对辅助向自主交付的演进路径，分析如何通过任务分解、代码验证、自动化测试与反馈闭环，使Agent产出可运行的工程成果。内容涉及上下文管理、工具链集成与质量门禁设计，强调在提升自动化程度的同时保障代码可靠性与可维护性。",
+    "topic": "ai"
+  },
+  {
+    "id": "62cf517743a974263a09084d3b3a8f9b",
+    "title_en": "AI Agent 实战工程课第二十二集：自主Agent 架构",
+    "source": "youtube.com",
+    "url": "https://www.youtube.com/watch?v=yeoUj9xvpHo",
+    "published_at": "2026-11-14T04:08:14.526Z",
+    "fetched_at": "2026-11-14T04:08:14.526Z",
+    "title_zh": "AI Agent实战工程课第二十二集：自主Agent架构",
+    "summary_zh": "本集课程聚焦自主Agent的架构设计，讲解规划器、执行器、记忆模块与工具层之间的协作机制。内容涵盖任务分解策略、状态管理、错误恢复与多轮决策循环的实现方式，并结合工程案例说明如何构建稳定可扩展的自主Agent系统，适合有一定基础的开发者进阶学习。",
+    "topic": "ai"
+  },
+  {
+    "id": "361acfd4337f11948b950d744972e24f",
+    "title_en": "掌握Linux运维入门技巧与实战指南",
+    "source": "my.oschina.net",
+    "url": "https://my.oschina.net/emacs_8824223/blog/17352327",
+    "published_at": "2026-11-14T04:08:14.526Z",
+    "fetched_at": "2026-11-14T04:08:14.526Z",
+    "title_zh": "掌握Linux运维入门技巧与实战指南",
+    "summary_zh": "本文面向Linux运维初学者，系统梳理常用命令、用户与权限管理、进程监控、日志分析与服务配置等核心技能。内容结合实战场景讲解故障排查思路与自动化脚本编写方法，帮助读者建立完整的运维知识体系并快速应用于日常服务器管理工作。",
+    "topic": "ops"
+  },
+  {
+    "id": "ade2d234fcc3d5350c85ec82803706fe",
+    "title_en": "Infvie Envoy | EnvoyinStack 运维SRE社区博客",
+    "source": "infvie.com",
+    "url": "https://www.infvie.com/",
+    "published_at": "2026-11-14T04:08:14.526Z",
+    "fetched_at": "2026-11-14T04:08:14.526Z",
+    "title_zh": "Infvie Envoy | Envoy in Stack 运维SRE社区博客",
+    "summary_zh": "本文介绍Envoy在云原生服务网格中的运维实践，涵盖流量管理、负载均衡、熔断限流与可观测性配置。文章结合SRE视角分析Envoy的部署架构与监控指标，讨论在生产环境中进行配置调优与故障定位的方法，为服务网格运维提供实用参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "435f83d9b24c3d4df9ce2c88d837f084",
+    "title_en": "Typecho部署教程：Linux服务器+宝塔面板从零搭建个人博客",
+    "source": "csdn.net",
+    "url": "https://www.csdn.net/detail/webblog_31234707/132654",
+    "published_at": "2026-11-14T04:08:14.526Z",
+    "fetched_at": "2026-11-14T04:08:14.526Z",
+    "title_zh": "Typecho部署教程：Linux服务器+宝塔面板从零搭建个人博客",
+    "summary_zh": "本文提供一份完整的Typecho博客部署教程，基于Linux服务器与宝塔面板，从环境准备、PHP与数据库配置到站点创建与域名绑定逐步讲解。内容涵盖常见权限问题、伪静态配置与HTTPS启用方法，适合希望快速搭建个人博客的运维新手参考实践。",
+    "topic": "ops"
+  },
+  {
+    "id": "2c7d095d76ecd434e29b904436bee366",
+    "title_en": "完整教程：多智能体框架调研：10个主流AI Agent 框架",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/yangykaifa/p/19593416",
+    "published_at": "2026-11-14T04:08:14.525Z",
+    "fetched_at": "2026-11-14T04:08:14.525Z",
+    "title_zh": "完整教程：多智能体框架调研——10个主流AI Agent框架",
+    "summary_zh": "本文系统调研了当前主流的10个AI Agent开发框架，从架构设计、工具调用、记忆管理、多智能体协作等维度进行横向对比。内容涵盖各框架的核心抽象、适用场景与扩展能力，并结合实际代码示例分析其工程落地难点，为开发者选型多智能体系统提供可操作的参考依据。",
+    "topic": "ai"
+  },
+  {
     "id": "d32c8812ff248cfcae22147d9063e989",
     "title_en": "July 2026 CVE Landscape",
     "source": "recordedfuture.com",
@@ -2055,148 +2198,5 @@
     "title_zh": "2026开源大模型持续上新，多模型高效体验方案分享",
     "summary_zh": "介绍2026年新发布的开源大模型及其部署体验方案，对比不同模型在本地推理、显存占用和响应速度上的表现。文章分享多模型统一接入、按需切换的工程实践，包括推理框架选型与资源调度策略，为自建大模型服务的团队提供可复用的落地方案。",
     "topic": "ai"
-  },
-  {
-    "id": "d0051278e0ea49d6d87e18c6f73c4c90",
-    "title_en": "国产大模型谁最强？2026最新横评：中文碾压、长文吊打",
-    "source": "post.smzdm.com",
-    "url": "https://post.smzdm.com/p/ae699k3q/",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "国产大模型谁最强？2026最新横评：中文碾压、长文吊打",
-    "summary_zh": "对2026年主流国产大模型进行横向评测，覆盖中文理解、长文本处理、代码生成与逻辑推理等维度。文章通过统一测试集对比各模型的实际表现，分析其在长上下文场景下的差异，为中文场景下的模型选型提供实测依据。",
-    "topic": "ai"
-  },
-  {
-    "id": "4e0098c5b0af0fb15650eed74be3d9c8",
-    "title_en": "智能体崛起：2026年成大模型差异化分水岭",
-    "source": "163.com",
-    "url": "https://www.163.com/dy/article/KV4QTJND05311RYS.html",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "智能体崛起：2026年成大模型差异化分水岭",
-    "summary_zh": "分析2026年大模型竞争格局中智能体能力成为核心差异点的趋势。文章探讨Agent在工具调用、任务规划与自主执行方面的技术演进，说明为何智能体能力正取代单纯参数规模成为衡量模型实用价值的关键指标，并展望其在各行业的应用前景。",
-    "topic": "ai"
-  },
-  {
-    "id": "36aac15a161b3239427e3d85c230f245",
-    "title_en": "千问最新模型是哪个？2026年Qwen3.8-Max核心升级与获取 ...",
-    "source": "kuku.baidu.com",
-    "url": "https://kuku.baidu.com/landing/tscp_doc/439f3d17e95b275e54e6d1cf165ae855",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "千问最新模型是哪个？2026年Qwen3.8-Max核心升级与获取方式",
-    "summary_zh": "介绍通义千问Qwen3.8-Max模型的核心升级点，包括上下文长度、推理能力与多模态支持的改进。文章说明模型的获取渠道与接入方式，对比前代版本在关键基准上的提升，帮助开发者评估是否升级及如何集成到现有应用中。",
-    "topic": "ai"
-  },
-  {
-    "id": "c2ff3e8064e56911512744d38a999d41",
-    "title_en": "中大領導大灣區研究團隊突破傳統材料設計開發結合物理學 ...",
-    "source": "cpr.cuhk.edu.hk",
-    "url": "https://www.cpr.cuhk.edu.hk/tc/press/from-disorder-to-strength-cuhk-led-gba-research-team-develops-physics-constrained-ai-frame-work-to-design-ultra-tough-lightweight-metamaterials/",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "中大领导大湾区研究团队突破传统材料设计开发，结合物理学……",
-    "summary_zh": "报道香港中文大学大湾区研究团队在材料设计开发上的突破，介绍其结合物理学方法与计算手段加速新材料发现的研究路径。内容涉及材料建模、性能预测等技术细节，展示跨学科方法在材料研发中的应用价值。",
-    "topic": "other"
-  },
-  {
-    "id": "35a5343f8a130706c9cfccc4d52f488b",
-    "title_en": "文章列表- 锦囊专家官网- 数字经济智库平台",
-    "source": "jnexpert.com",
-    "url": "https://www.jnexpert.com/article",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "文章列表-锦囊专家官网-数字经济智库平台",
-    "summary_zh": "锦囊专家数字经济智库平台的文章列表页，汇集数字化转型、数字经济与产业研究相关的专家观点与分析文章。内容覆盖企业数字化实践、技术趋势解读等主题，适合关注数字经济与行业数字化进程的读者浏览检索。",
-    "topic": "other"
-  },
-  {
-    "id": "9d4ffb0c534f3da14ff0065107eea832",
-    "title_en": "硬刚全球顶尖模型，北大数院团队登顶RoboColiseum",
-    "source": "feng.ifeng.com",
-    "url": "https://feng.ifeng.com/c/8xy1ELk864L",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "硬刚全球顶尖模型，北大数院团队登顶RoboColiseum",
-    "summary_zh": "报道北京大学数学科学学院团队在RoboColiseum评测中登顶的消息，介绍其在机器人相关任务中与全球顶尖模型的对比表现。文章分析该团队采用的技术路线与算法思路，展示数学方法在具身智能与机器人决策任务中的应用潜力。",
-    "topic": "ai"
-  },
-  {
-    "id": "150ed4f8b546367932a3bfe75cf149b8",
-    "title_en": "datawhalechina/hello-agents: 📚 《从零开始构建智能体》",
-    "source": "github.com",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "datawhalechina/hello-agents：《从零开始构建智能体》",
-    "summary_zh": "Datawhale开源的中文智能体构建教程，从基础概念讲起，逐步引导读者实现一个可运行的Agent系统。内容涵盖提示设计、工具调用、记忆机制与多步推理等核心模块，配有代码示例，适合希望动手实践智能体开发的初学者系统学习。",
-    "topic": "ai"
-  },
-  {
-    "id": "d850b80f4ad75fe47ecfe8eb0d37b4ed",
-    "title_en": "学习AI Agent 开发的中文资源：值得读的教程和英文一手文档",
-    "source": "ssdnodes.com",
-    "url": "https://www.ssdnodes.com/learn/lang/zh-hans/chinese-resources-for-learning-ai-agents",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "学习AI Agent开发的中文资源：值得读的教程和英文一手文档",
-    "summary_zh": "整理学习AI Agent开发的中文教程与英文一手文档资源，帮助开发者建立系统的学习路径。文章推荐了从入门概念到框架实践的优质材料，并说明如何结合官方文档深入理解Agent的运行机制，适合希望高效入门智能体开发的读者。",
-    "topic": "ai"
-  },
-  {
-    "id": "1dfcf194da779d88465c24e33cef3a67",
-    "title_en": "AI Agent 开发教程：从ReAct 到多Agent 编排| 前言",
-    "source": "waylandz.com",
-    "url": "https://waylandz.com/ai-agent-book/%E5%89%8D%E8%A8%80/",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.995Z",
-    "title_zh": "AI Agent开发教程：从ReAct到多Agent编排|前言",
-    "summary_zh": "AI Agent开发系列教程的开篇，介绍从ReAct推理范式到多Agent编排的完整学习路线。文章说明单Agent的思考-行动循环原理，并引出多Agent协作与任务编排的进阶主题，为后续深入讲解工具调用与协作机制奠定基础。",
-    "topic": "ai"
-  },
-  {
-    "id": "960a2b55f8ab13a23d30304b7e5540da",
-    "title_en": "人工智能- 大模型榜单周报（2026/01/31） - KAI智",
-    "source": "segmentfault.com",
-    "url": "https://segmentfault.com/a/1190000047584551",
-    "published_at": "2026-11-11T23:53:34.993Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "人工智能-大模型榜单周报（2026/01/31）- KAI智",
-    "summary_zh": "本期大模型榜单周报汇总2026年1月底主流大模型在各类基准测试中的排名变化，涵盖国内外头部厂商模型的能力对比。内容聚焦推理、代码、多模态等维度的评测数据，帮助开发者快速了解模型能力演进趋势，为技术选型与模型替换提供数据参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "d1a698370b26c9a79fe5223fa524eb33",
-    "title_en": "漏洞分析- 文章- 奇安信攻防社区",
-    "source": "mdr.skyeye.qianxin.com",
-    "url": "https://mdr.skyeye.qianxin.com/forum/community/Vul_analysis/newest?page=1",
-    "published_at": "2026-11-11T13:15:12.622Z",
-    "fetched_at": "2026-11-11T13:15:12.622Z",
-    "title_zh": "漏洞分析——奇安信攻防社区文章",
-    "summary_zh": "该文来自奇安信攻防社区，聚焦真实漏洞的深度分析。内容通常涵盖漏洞成因、触发条件、利用链构造及影响范围评估，并结合实际样本或靶场环境给出复现步骤与验证方法。对安全研究人员而言，可借此理解漏洞从发现到利用的完整路径，并参考文中给出的检测思路与修复建议，提升漏洞研判与应急响应能力。",
-    "topic": "security"
-  },
-  {
-    "id": "3ba84c5c547b0eaa07fdded7e6acc89e",
-    "title_en": "CVEs, Same Playbook: 2026 Vulnerability Exploitation in ...",
-    "source": "proofpoint.com",
-    "url": "https://www.proofpoint.com/us/blog/threat-insight/more-cves-same-playbook-2026-vulnerability-exploitation-wild",
-    "published_at": "2026-11-11T13:15:12.622Z",
-    "fetched_at": "2026-11-11T13:15:12.622Z",
-    "title_zh": "CVE 与同一套剧本：2026 年的漏洞利用态势",
-    "summary_zh": "Proofpoint 梳理 2026 年漏洞利用的整体态势，指出攻击者正沿用相似的利用剧本：优先瞄准边界设备与广泛部署的软件，在补丁发布后迅速武器化，并通过钓鱼与初始访问代理扩大影响。文章结合邮件与网络遥测数据，分析利用时间窗口、常见 CVE 家族及攻击链特征，为防御方提供优先级排序与检测规则参考。",
-    "topic": "security"
-  },
-  {
-    "id": "440d1e245f1ec41e29f3c338d5d53fee",
-    "title_en": "Quantifying 2026 Routinely Targeted Vulnerabilities (So Far)",
-    "source": "vulncheck.com",
-    "url": "https://www.vulncheck.com/blog/routinely-targeted-vulnerabilities-may-2026",
-    "published_at": "2026-11-11T13:15:12.622Z",
-    "fetched_at": "2026-11-11T13:15:12.622Z",
-    "title_zh": "量化 2026 年迄今被常规针对的漏洞",
-    "summary_zh": "VulnCheck 基于实际观测数据，对 2026 年迄今被攻击者常规利用的漏洞进行量化统计。文章区分了披露数量与实际在野利用数量，给出被频繁针对的 CVE 清单、利用时间分布及涉及的厂商与产品类别，并讨论如何用遥测数据校准漏洞优先级，帮助安全团队把修复资源集中在真正被利用的风险上。",
-    "topic": "security"
   }
 ]
