@@ -1,5 +1,104 @@
 [
   {
+    "id": "cd728ddb8f7c36acc1546609c868e9f1",
+    "title_en": "如何优化Docker镜像大小？ - 天道酬勤zjh",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/zjh997/p/19015760",
+    "published_at": "2026-11-14T12:45:03.335Z",
+    "fetched_at": "2026-11-14T12:45:03.335Z",
+    "title_zh": "如何优化Docker镜像大小？",
+    "summary_zh": "本文系统介绍优化Docker镜像体积的实用技巧，包括选择精简基础镜像、合并RUN指令减少层数、清理缓存与临时文件、使用多阶段构建分离编译与运行环境等。通过对比优化前后的镜像大小，直观展示各方法的实际效果，帮助开发者构建更轻量、更安全的容器镜像。",
+    "topic": "ops"
+  },
+  {
+    "id": "d1bbc430de1901cdad6fbe5dbf4d217f",
+    "title_en": "别只盯着Docker了，这10大热门容器运行时错过后悔",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/1933204431639409965",
+    "published_at": "2026-11-14T12:45:03.335Z",
+    "fetched_at": "2026-11-14T12:45:03.335Z",
+    "title_zh": "别只盯着Docker了，这10大热门容器运行时错过后悔",
+    "summary_zh": "本文盘点Docker之外的10大热门容器运行时，包括containerd、CRI-O、Podman、Firecracker、gVisor等，对比它们在隔离性、性能、安全性与Kubernetes兼容性方面的差异。文章帮助读者根据实际场景选择合适的运行时，避免过度依赖单一方案，适合容器平台建设者参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "559669395b0cbe56b25fe66c3c903d42",
+    "title_en": "如何优化docker 镜像体积 - Shall We Code?",
+    "source": "waynerv.com",
+    "url": "https://waynerv.com/posts/how-to-reduce-docker-image-size/",
+    "published_at": "2026-11-14T12:45:03.335Z",
+    "fetched_at": "2026-11-14T12:45:03.335Z",
+    "title_zh": "如何优化docker 镜像体积",
+    "summary_zh": "本文从实践角度讲解Docker镜像体积优化的具体方法，涵盖基础镜像选型、分层缓存策略、多阶段构建、.dockerignore配置以及依赖精简等技巧。作者结合具体案例展示每项优化带来的体积缩减效果，并提醒注意优化过程中可能引入的兼容性与可维护性问题。",
+    "topic": "ops"
+  },
+  {
+    "id": "71de0bbd9e544f661738d2046b92376c",
+    "title_en": "AI编程代理进化：从个人效率工具到团队协作基建",
+    "source": "csdn.net",
+    "url": "https://www.csdn.net/detail/webblog_99754715/16279",
+    "published_at": "2026-11-14T12:44:59.959Z",
+    "fetched_at": "2026-11-14T12:44:59.959Z",
+    "title_zh": "AI编程代理进化：从个人效率工具到团队协作基建",
+    "summary_zh": "本文探讨AI编程代理从个人辅助工具向团队协作基础设施的演进路径，分析其在代码生成、审查、测试与知识共享等环节的集成方式。文章关注多代理协作、上下文管理与团队工作流融合等技术挑战，为工程团队引入AI编程代理提供架构思路与实践参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "150ed4f8b546367932a3bfe75cf149b8",
+    "title_en": "datawhalechina/hello-agents: 📚 《从零开始构建智能体》",
+    "source": "github.com",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "published_at": "2026-11-14T12:44:59.958Z",
+    "fetched_at": "2026-11-14T12:44:59.958Z",
+    "title_zh": "datawhalechina/hello-agents：📚《从零开始构建智能体》",
+    "summary_zh": "该开源教程系统讲解AI Agent的构建原理与实现路径，从基础概念出发，逐步覆盖Agent架构设计、工具调用、记忆机制与多Agent协作等核心主题。内容兼顾理论推导与代码实践，适合希望深入理解Agent底层机制并动手实现的开发者，是中文社区少有的体系化Agent学习资料。",
+    "topic": "ai"
+  },
+  {
+    "id": "4e4752b95617209f5b18d7c2f8c2f508",
+    "title_en": "AI Agent 开发实战与教程",
+    "source": "learnagent.org",
+    "url": "https://learnagent.org/library/playbooks/",
+    "published_at": "2026-11-14T12:44:59.958Z",
+    "fetched_at": "2026-11-14T12:44:59.958Z",
+    "title_zh": "AI Agent 开发实战与教程",
+    "summary_zh": "该教程聚焦AI Agent的工程化开发实践，涵盖Agent框架选型、提示词设计、工具集成与任务编排等关键环节。通过完整项目案例演示从需求分析到部署落地的全流程，帮助开发者掌握构建可生产使用Agent的核心技能，适合有一定编程基础并希望快速上手Agent开发的技术人员。",
+    "topic": "ai"
+  },
+  {
+    "id": "1dfcf194da779d88465c24e33cef3a67",
+    "title_en": "AI Agent 开发教程：从ReAct 到多Agent 编排| 前言",
+    "source": "waylandz.com",
+    "url": "https://waylandz.com/ai-agent-book/%E5%89%8D%E8%A8%80/",
+    "published_at": "2026-11-14T12:44:59.958Z",
+    "fetched_at": "2026-11-14T12:44:59.958Z",
+    "title_zh": "AI Agent 开发教程：从ReAct 到多Agent 编排｜前言",
+    "summary_zh": "本系列教程以ReAct范式为起点，深入剖析Agent推理与行动循环的实现机制，并逐步过渡到多Agent编排的复杂场景。内容涵盖思维链设计、工具调用协议、Agent间通信与协作策略，配有可运行的代码示例，适合希望系统掌握Agent架构演进与编排技术的开发者。",
+    "topic": "ai"
+  },
+  {
+    "id": "d850b80f4ad75fe47ecfe8eb0d37b4ed",
+    "title_en": "学习AI Agent 开发的中文资源：值得读的教程和英文一手文档",
+    "source": "ssdnodes.com",
+    "url": "https://www.ssdnodes.com/learn/lang/zh-hans/chinese-resources-for-learning-ai-agents",
+    "published_at": "2026-11-14T12:44:59.958Z",
+    "fetched_at": "2026-11-14T12:44:59.958Z",
+    "title_zh": "学习AI Agent 开发的中文资源：值得读的教程和英文一手文档",
+    "summary_zh": "该文整理了AI Agent开发领域优质的中文教程与英文一手文档资源，涵盖基础理论、框架实践与前沿论文。作者对各类资源进行筛选与点评，帮助学习者构建系统化的知识体系，避免在海量资料中迷失方向，适合希望高效入门并深入Agent技术栈的开发者参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "43ea5104bcbaf966ea433914e13e3e90",
+    "title_en": "AI 智能体实战速成指南：从零到企业级落地",
+    "source": "didilili.github.io",
+    "url": "https://didilili.github.io/ai-agents-from-zero/",
+    "published_at": "2026-11-14T12:44:59.958Z",
+    "fetched_at": "2026-11-14T12:44:59.958Z",
+    "title_zh": "AI 智能体实战速成指南：从零到企业级落地",
+    "summary_zh": "该指南面向企业级AI Agent落地场景，从零基础概念讲起，逐步深入到架构设计、性能优化与生产部署。内容涵盖Agent的可观测性、安全边界、成本控制与多租户隔离等工程化议题，并结合真实案例说明如何将原型转化为稳定可靠的企业级智能体系统。",
+    "topic": "ai"
+  },
+  {
     "id": "d21b380b83339ea20367562bf52c025b",
     "title_en": "2026年CVE數量恐破6.6萬個，FIRST國際資安應變組織提四 ...",
     "source": "ithome.com.tw",
@@ -2099,104 +2198,5 @@
     "title_zh": "2026 年 7 月最受关注的 CVE：哪些引发热议，哪些……",
     "summary_zh": "本文回顾 2026 年 7 月最受关注的 CVE 漏洞，区分哪些真正引发广泛讨论与在野利用，哪些只是媒体炒作。文章对每个热点漏洞分析其技术成因、影响范围、利用条件与修复状态，并评估实际威胁程度与舆论热度之间的差距。内容有助于安全从业者理性判断漏洞优先级，避免被噪音干扰，把有限资源投入到真正高风险的问题上。",
     "topic": "security"
-  },
-  {
-    "id": "1609a09c6036c29517d637b4799cd6b7",
-    "title_en": "《Linux 性能及调优指南》3.2 CPU瓶颈",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/482798076",
-    "published_at": "2026-11-11T23:53:41.668Z",
-    "fetched_at": "2026-11-11T23:53:41.668Z",
-    "title_zh": "《Linux 性能及调优指南》3.2 CPU 瓶颈",
-    "summary_zh": "本文是 Linux 性能调优指南中关于 CPU 瓶颈的章节，聚焦如何定位与分析 CPU 性能问题。内容涵盖 CPU 使用率、上下文切换、运行队列、负载均值等关键指标的含义，介绍 top、vmstat、mpstat、perf 等工具的使用方法，并讲解如何区分用户态与内核态开销、识别热点函数与调度瓶颈。文章还给出针对性的调优思路，对排查高负载与响应延迟问题具有实用价值。",
-    "topic": "ops"
-  },
-  {
-    "id": "59441629dbc0a59564945498354f9236",
-    "title_en": "运维天花板！这可能是开源界中最好用的服务器运维面板",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1939073185749407617",
-    "published_at": "2026-11-11T23:53:34.996Z",
-    "fetched_at": "2026-11-11T23:53:34.996Z",
-    "title_zh": "运维天花板！这可能是开源界中最好用的服务器运维面板",
-    "summary_zh": "本文推荐一款开源服务器运维面板，号称开源界最好用。文章从实际运维场景出发，介绍其核心功能，包括主机与容器管理、应用一键部署、文件与终端操作、监控告警、计划任务及安全防护等。重点对比了传统命令行运维与可视化面板在效率上的差异，并说明安装部署方式、权限与安全配置要点，适合希望降低运维门槛、统一管理多台服务器的团队参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "80b425164a6f7e2e2718514e575703bf",
-    "title_en": "系统管理是什么？一文读懂概念、职责与入门指南",
-    "source": "kuku.baidu.com",
-    "url": "https://kuku.baidu.com/landing/tscp_doc/0a67b4af0eb9a95221dbe7fb12fdd23d",
-    "published_at": "2026-11-11T23:53:34.996Z",
-    "fetched_at": "2026-11-11T23:53:34.996Z",
-    "title_zh": "系统管理是什么？一文读懂概念、职责与入门指南",
-    "summary_zh": "本文系统梳理系统管理的概念、职责与入门路径。内容涵盖系统管理员的核心工作，包括服务器与操作系统安装配置、用户与权限管理、网络与存储维护、备份恢复、性能监控及故障排查等。文章还介绍了常见工具与脚本自动化思路，并给出从基础命令到实际运维场景的学习路线，适合零基础读者建立完整的系统管理知识框架。",
-    "topic": "ops"
-  },
-  {
-    "id": "ccb32c88b361dd5573e32422b0289238",
-    "title_en": "AI Agent(智能体) 教程",
-    "source": "runoob.com",
-    "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
-    "published_at": "2026-11-11T23:53:34.995Z",
-    "fetched_at": "2026-11-11T23:53:34.995Z",
-    "title_zh": "AI Agent（智能体）教程",
-    "summary_zh": "菜鸟教程推出的AI Agent入门教程，系统讲解智能体的基本概念、组成结构与工作原理。内容涵盖感知、规划、工具调用等核心环节，并给出简单的实现示例，适合零基础读者快速建立对智能体开发的整体认知。",
-    "topic": "ai"
-  },
-  {
-    "id": "7e3adee317f535c172cf84f9b6aa73dc",
-    "title_en": "AI Agent 入门- AI Agents in Depth",
-    "source": "bojieli.github.io",
-    "url": "https://bojieli.github.io/ai-agent-book/book/chapter1/",
-    "published_at": "2026-11-11T23:53:34.995Z",
-    "fetched_at": "2026-11-11T23:53:34.995Z",
-    "title_zh": "AI Agent入门 - AI Agents in Depth",
-    "summary_zh": "深入讲解AI Agent原理的入门材料，从智能体的定义与分类出发，剖析其决策循环、工具使用与记忆管理等关键机制。文章结合实例说明Agent与传统LLM调用的区别，帮助读者理解构建实用智能体系统所需的核心设计考量。",
-    "topic": "ai"
-  },
-  {
-    "id": "9d7c31420a911a4f89d0bb27453a28c2",
-    "title_en": "Nacos Blog",
-    "source": "nacos.io",
-    "url": "https://nacos.io/blog/article/",
-    "published_at": "2026-11-11T23:53:34.995Z",
-    "fetched_at": "2026-11-11T23:53:34.995Z",
-    "title_zh": "Nacos官方博客",
-    "summary_zh": "Nacos官方博客，发布关于Nacos动态服务发现、配置管理与服务治理平台的技术文章。内容涵盖版本更新说明、功能实践与架构设计解析，适合使用Nacos构建微服务体系的开发者了解最新特性与最佳实践。",
-    "topic": "ops"
-  },
-  {
-    "id": "573cf602cfd6e061a11ee43c252c5ada",
-    "title_en": "How we built the agents that built AWS Emulator",
-    "source": "aboutamazon.com",
-    "url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
-    "published_at": "2026-11-11T23:53:34.995Z",
-    "fetched_at": "2026-11-11T23:53:34.995Z",
-    "title_zh": "我们如何构建出打造 AWS 模拟器的智能体",
-    "summary_zh": "本文介绍亚马逊团队如何利用 AI Agent 构建 AWS Emulator 的工程实践。文章深入探讨了多智能体协作架构的设计、任务分解与工具调用机制，以及如何让 Agent 理解并复现 AWS 各类服务的 API 行为。重点分享了提示工程、上下文管理、结果校验与迭代优化等关键技术细节，并总结了在复杂系统模拟场景中落地 Agent 的经验教训与可复用模式，对构建自动化开发工具链具有较强参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "7c4aec199431121eec1320ba18fb259d",
-    "title_en": "大模型实战指南（2026年新春版）：深度推理与智能体的时代",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/z_Dendy/article/details/158613843",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "大模型实战指南（2026年新春版）：深度推理与智能体的时代",
-    "summary_zh": "面向工程实践的大模型应用指南，重点讲解深度推理模型与智能体系统的落地方法。内容涵盖推理链设计、工具调用、多步任务编排等关键技术点，并结合实际案例说明如何构建可用的Agent应用，适合希望将大模型能力集成到业务系统中的开发者参考。",
-    "topic": "ai"
-  },
-  {
-    "id": "1606ffe7355c0c7f4b12150dfe47cc1e",
-    "title_en": "2026开源大模型持续上新，多模型高效体验方案分享",
-    "source": "my.oschina.net",
-    "url": "https://my.oschina.net/u/9761460/blog/19735020",
-    "published_at": "2026-11-11T23:53:34.994Z",
-    "fetched_at": "2026-11-11T23:53:34.994Z",
-    "title_zh": "2026开源大模型持续上新，多模型高效体验方案分享",
-    "summary_zh": "介绍2026年新发布的开源大模型及其部署体验方案，对比不同模型在本地推理、显存占用和响应速度上的表现。文章分享多模型统一接入、按需切换的工程实践，包括推理框架选型与资源调度策略，为自建大模型服务的团队提供可复用的落地方案。",
-    "topic": "ai"
   }
 ]
