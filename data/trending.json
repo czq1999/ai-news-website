@@ -2,7 +2,7 @@
   "days": [
     {
       "date": "2026-11-15",
-      "summary_zh": "今日热门聚焦AI编码代理生态：代码审查、终端代理、前端交互协议及token优化工具涌现。",
+      "summary_zh": "今日趋势聚焦AI编码代理生态：代理交互协议、代码审查、终端代理及令牌优化工具涌现。",
       "projects": [
         {
           "rank": 1,
@@ -10,149 +10,149 @@
           "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "description_en": "Keep your coding agent up to date with the latest web best practices",
           "language": "TypeScript",
-          "stars_total": 6179,
-          "stars_today": 1231,
+          "stars_total": 6678,
+          "stars_today": 1220,
           "description_zh": "让你的编码智能体随时掌握最新的 Web 最佳实践"
         },
         {
           "rank": 2,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "language": "Go",
-          "stars_total": 51503,
-          "stars_today": 893,
-          "description_zh": "安全、快速、高效，经阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM 智能体，精确到行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
-        },
-        {
-          "rank": 3,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 56376,
-          "stars_today": 664,
-          "description_zh": "面向编码智能体的 Chrome DevTools"
-        },
-        {
-          "rank": 4,
-          "name": "we-promise/sure",
-          "url": "https://github.com/we-promise/sure",
-          "description_en": "The personal finance app for everyone (by everyone)",
-          "language": "Ruby",
-          "stars_total": 15376,
-          "stars_today": 659,
-          "description_zh": "面向所有人（由所有人打造）的个人理财应用"
-        },
-        {
-          "rank": 5,
-          "name": "tradermonty/claude-trading-skills",
-          "url": "https://github.com/tradermonty/claude-trading-skills",
-          "description_en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "language": "Python",
-          "stars_total": 4907,
-          "stars_today": 553,
-          "description_zh": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
-        },
-        {
-          "rank": 6,
           "name": "dream-num/univer",
           "url": "https://github.com/dream-num/univer",
           "description_en": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
           "language": "TypeScript",
-          "stars_total": 24995,
-          "stars_today": 495,
+          "stars_total": 25243,
+          "stars_today": 1041,
           "description_zh": "使用 Univer Office SDK 构建你自己的 AI 办公套件。将编辑、计算、协作和文件处理能力带入你的产品，服务于用户和 AI 智能体。基于可扩展的开源核心构建。"
         },
         {
-          "rank": 7,
-          "name": "louislam/uptime-kuma",
-          "url": "https://github.com/louislam/uptime-kuma",
-          "description_en": "A fancy self-hosted monitoring tool",
-          "language": "JavaScript",
-          "stars_total": 94291,
-          "stars_today": 430,
-          "description_zh": "一款精美的自托管监控工具"
-        },
-        {
-          "rank": 8,
-          "name": "Likely7/Veyra-NRVideo",
-          "url": "https://github.com/Likely7/Veyra-NRVideo",
-          "description_en": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
-          "language": "C++",
-          "stars_total": 2341,
-          "stars_today": 420,
-          "description_zh": "借助 DLSS 5 让 PS5 GTA6 达到 120FPS。一款先进的 Windows 视频播放器和采集增强工具，支持视频、图像和采集卡源的实时预览。结合 AI 驱动的超分辨率、DLSS5 图像增强和帧生成，带来次世代视觉体验。"
-        },
-        {
-          "rank": 9,
+          "rank": 3,
           "name": "backnotprop/plannotator",
           "url": "https://github.com/backnotprop/plannotator",
           "description_en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
           "language": "TypeScript",
-          "stars_total": 11235,
-          "stars_today": 408,
+          "stars_total": 11588,
+          "stars_today": 860,
           "description_zh": "保持与智能体同步并掌控全局的工作空间——塑造、决策、规划、标注、审查代码、与团队共享，并一键将所有反馈发送给智能体。"
         },
         {
-          "rank": 10,
+          "rank": 4,
+          "name": "Likely7/Veyra-NRVideo",
+          "url": "https://github.com/Likely7/Veyra-NRVideo",
+          "description_en": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+          "language": "C++",
+          "stars_total": 2628,
+          "stars_today": 731,
+          "description_zh": "借助 DLSS 5 让 PS5 GTA6 达到 120FPS。一款先进的 Windows 视频播放器和采集增强工具，支持视频、图像和采集卡源的实时预览。结合 AI 驱动的超分辨率、DLSS5 图像增强和帧生成，带来次世代视觉体验。"
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 56620,
+          "stars_today": 718,
+          "description_zh": "面向编码智能体的 Chrome DevTools"
+        },
+        {
+          "rank": 6,
           "name": "martin-olivier/airgorah",
           "url": "https://github.com/martin-olivier/airgorah",
           "description_en": "A WiFi security auditing software",
           "language": "Rust",
-          "stars_total": 5950,
-          "stars_today": 270,
+          "stars_total": 6175,
+          "stars_today": 708,
           "description_zh": "一款 WiFi 安全审计软件"
         },
         {
-          "rank": 11,
+          "rank": 7,
+          "name": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "description_en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+          "language": "Python",
+          "stars_total": 5179,
+          "stars_today": 707,
+          "description_zh": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
+        },
+        {
+          "rank": 8,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 51725,
+          "stars_today": 688,
+          "description_zh": "安全、快速、高效，经阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM 智能体，精确到行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+        },
+        {
+          "rank": 9,
           "name": "JuliusBrussee/caveman",
           "url": "https://github.com/JuliusBrussee/caveman",
           "description_en": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
           "language": "Go",
-          "stars_total": 120125,
-          "stars_today": 227,
+          "stars_total": 120331,
+          "stars_today": 562,
           "description_zh": "🪨 能用少量 token 解决的事，何必用大量 token。爆款技能 + 代理，让编码智能体像原始人一样说话，削减 65% 的 token。"
         },
         {
-          "rank": 12,
-          "name": "QwenLM/qwen-code",
-          "url": "https://github.com/QwenLM/qwen-code",
-          "description_en": "An open-source AI coding agent that lives in your terminal.",
-          "language": "TypeScript",
-          "stars_total": 30389,
-          "stars_today": 64,
-          "description_zh": "一个运行在终端中的开源 AI 编码智能体。"
+          "rank": 10,
+          "name": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "description_en": "The personal finance app for everyone (by everyone)",
+          "language": "Ruby",
+          "stars_total": 15543,
+          "stars_today": 520,
+          "description_zh": "面向所有人（由所有人打造）的个人理财应用"
         },
         {
-          "rank": 13,
-          "name": "ashhart/TensorFold",
-          "url": "https://github.com/ashhart/TensorFold",
-          "description_en": "LLM Inference Engine for Metal, CUDA and Vulkan.",
-          "language": "Zig",
-          "stars_total": 2181,
-          "stars_today": 37,
-          "description_zh": "面向 Metal、CUDA 和 Vulkan 的 LLM 推理引擎。"
-        },
-        {
-          "rank": 14,
+          "rank": 11,
           "name": "Tencent/LoopForge",
           "url": "https://github.com/Tencent/LoopForge",
           "description_en": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
           "language": "Go",
-          "stars_total": 969,
-          "stars_today": 33,
+          "stars_total": 1176,
+          "stars_today": 484,
           "description_zh": "面向编码智能体交付的自托管工作流。通过脚本和人工审批关卡编排 CodeBuddy、Codex 和 Claude Code。包含面向编码助手的本地工作流。"
         },
         {
-          "rank": 15,
+          "rank": 12,
           "name": "ag-ui-protocol/ag-ui",
           "url": "https://github.com/ag-ui-protocol/ag-ui",
           "description_en": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
           "language": "TypeScript",
-          "stars_total": 17413,
-          "stars_today": 9,
+          "stars_total": 17569,
+          "stars_today": 393,
           "description_zh": "AG-UI：智能体-用户交互协议。将智能体引入前端应用。"
+        },
+        {
+          "rank": 13,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description_en": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars_total": 30506,
+          "stars_today": 374,
+          "description_zh": "一个运行在终端中的开源 AI 编码智能体。"
+        },
+        {
+          "rank": 14,
+          "name": "louislam/uptime-kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "description_en": "A fancy self-hosted monitoring tool",
+          "language": "JavaScript",
+          "stars_total": 94394,
+          "stars_today": 352,
+          "description_zh": "一款精美的自托管监控工具"
+        },
+        {
+          "rank": 15,
+          "name": "ashhart/TensorFold",
+          "url": "https://github.com/ashhart/TensorFold",
+          "description_en": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+          "language": "Zig",
+          "stars_total": 2237,
+          "stars_today": 151,
+          "description_zh": "面向 Metal、CUDA 和 Vulkan 的 LLM 推理引擎。"
         }
       ]
     },
