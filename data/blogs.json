@@ -1,5 +1,148 @@
 [
   {
+    "id": "d43945eabe31e1c9efab97d28ff62176",
+    "title_en": "使用DockerSlim 优化/专业Docker 容器镜像",
+    "source": "segmentfault.com",
+    "url": "https://segmentfault.com/a/1190000047577938",
+    "published_at": "2026-11-15T03:54:26.927Z",
+    "fetched_at": "2026-11-15T03:54:26.927Z",
+    "title_zh": "使用DockerSlim优化Docker容器镜像",
+    "summary_zh": "本文介绍如何使用DockerSlim工具优化Docker容器镜像。通过静态与动态分析识别镜像中冗余的依赖、调试工具与文件，自动裁剪生成更小、更安全的镜像。文章演示了镜像瘦身、安全扫描与minify流程，并对比优化前后的体积与攻击面变化，为提升容器部署效率、缩短拉取时间与降低漏洞风险提供实用方案。",
+    "topic": "ops"
+  },
+  {
+    "id": "d1a698370b26c9a79fe5223fa524eb33",
+    "title_en": "漏洞分析- 文章- 奇安信攻防社区",
+    "source": "mdr.skyeye.qianxin.com",
+    "url": "https://mdr.skyeye.qianxin.com/forum/community/Vul_analysis/newest?page=1",
+    "published_at": "2026-11-15T03:54:26.927Z",
+    "fetched_at": "2026-11-15T03:54:26.927Z",
+    "title_zh": "漏洞分析",
+    "summary_zh": "本文来自奇安信攻防社区，聚焦漏洞分析的技术方法与实践。内容涵盖漏洞成因定位、补丁对比、PoC构造与利用链分析等环节，结合具体案例讲解如何从崩溃现场回溯到根因，并评估影响范围与修复方案。文章面向安全研究人员与渗透测试人员，强调分析流程的严谨性与可复现性，提升漏洞研判与应急响应能力。",
+    "topic": "security"
+  },
+  {
+    "id": "3ba84c5c547b0eaa07fdded7e6acc89e",
+    "title_en": "CVEs, Same Playbook: 2026 Vulnerability Exploitation in ...",
+    "source": "proofpoint.com",
+    "url": "https://www.proofpoint.com/us/blog/threat-insight/more-cves-same-playbook-2026-vulnerability-exploitation-wild",
+    "published_at": "2026-11-15T03:54:26.927Z",
+    "fetched_at": "2026-11-15T03:54:26.927Z",
+    "title_zh": "CVE与相同套路：2026年漏洞利用态势分析",
+    "summary_zh": "本文分析2026年漏洞利用的整体态势，指出攻击者正复用相似的利用套路快速武器化新披露的CVE。文章梳理常见漏洞类型、利用链模式与攻击时间窗口的缩短趋势，结合Proofpoint的威胁情报数据说明初始访问与横向移动的典型手法，并给出补丁优先级、检测规则与缓解措施建议，帮助防御方提升响应效率。",
+    "topic": "security"
+  },
+  {
+    "id": "c04c911b5ad2b6836a72622601f6328d",
+    "title_en": "CVE Statistics 2026: Why Volume Is Surging",
+    "source": "brandefense.io",
+    "url": "https://brandefense.io/blog/cve-statistics-2026-why-vulnerability-volume-is-surging/",
+    "published_at": "2026-11-15T03:54:26.927Z",
+    "fetched_at": "2026-11-15T03:54:26.927Z",
+    "title_zh": "2026年CVE统计：漏洞数量为何激增",
+    "summary_zh": "本文基于2026年CVE统计数据，分析漏洞披露数量持续激增的原因。内容探讨开源生态扩张、漏洞赏金与自动化扫描普及、CNA数量增加等因素对披露量的影响，并剖析高危漏洞占比与修复滞后的现实问题。文章为安全团队评估漏洞管理压力、优化补丁优先级与资源配置提供数据支撑与趋势判断。",
+    "topic": "security"
+  },
+  {
+    "id": "1f4dfcab4b75cf813c3e236b6b7853b3",
+    "title_en": "Linux性能调优指南| PDF",
+    "source": "scribd.com",
+    "url": "https://www.scribd.com/document/955065137/Linux%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%8C%87%E5%8D%97",
+    "published_at": "2026-11-15T03:54:26.926Z",
+    "fetched_at": "2026-11-15T03:54:26.926Z",
+    "title_zh": "Linux性能调优指南",
+    "summary_zh": "本指南系统讲解Linux系统性能调优的方法论与实战技巧。内容覆盖CPU调度、内存管理、磁盘I/O、网络栈等子系统的监控与优化，介绍top、perf、vmstat、iostat等工具的使用，并结合内核参数调优与瓶颈定位流程给出可操作建议。适合运维与后端工程师提升系统吞吐、降低延迟时参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "dcab03e090a8b7fbfb25cc9a75383c99",
+    "title_en": "Kubernetes 运维模型",
+    "source": "aws.amazon.com",
+    "url": "https://aws.amazon.com/cn/modern-apps/recommendation-guide/kubernetes/",
+    "published_at": "2026-11-15T03:54:26.926Z",
+    "fetched_at": "2026-11-15T03:54:26.926Z",
+    "title_zh": "Kubernetes运维模型",
+    "summary_zh": "本文介绍Kubernetes的运维模型，阐述声明式API、控制器循环与期望状态管理等核心机制如何支撑集群运维。内容涵盖工作负载管理、滚动升级、自愈与扩缩容、可观测性及多集群治理等实践要点，并结合AWS相关服务说明如何构建可靠的K8s运维体系，帮助运维团队建立规范化、自动化的集群管理流程。",
+    "topic": "ops"
+  },
+  {
+    "id": "02c79f734bc288b1f75366528034096f",
+    "title_en": "深入浅出LangChain AI Agent智能体开发教程（一）",
+    "source": "juejin.cn",
+    "url": "https://juejin.cn/post/7526993716071202851",
+    "published_at": "2026-11-15T03:54:24.573Z",
+    "fetched_at": "2026-11-15T03:54:24.573Z",
+    "title_zh": "深入浅出LangChain AI Agent智能体开发教程（一）",
+    "summary_zh": "本文是LangChain AI Agent开发系列教程的开篇，系统讲解智能体的核心概念与架构原理。内容涵盖Agent的决策循环、工具调用机制、记忆管理以及LangChain框架中Agent、Tool、Executor等关键组件的协作方式。通过理论结合代码示例，帮助开发者理解如何基于LLM构建具备自主规划与执行能力的智能体，为后续实战开发奠定基础。",
+    "topic": "ai"
+  },
+  {
+    "id": "c2e1bac27397ec1e50914caf6b05a242",
+    "title_en": "盘点8大AI Agent开发框架的核心技术与工业级应用（2026全景 ...",
+    "source": "cloud.tencent.com",
+    "url": "https://cloud.tencent.com/developer/article/2659587",
+    "published_at": "2026-11-15T03:54:24.573Z",
+    "fetched_at": "2026-11-15T03:54:24.573Z",
+    "title_zh": "盘点8大AI Agent开发框架的核心技术与工业级应用（2026全景）",
+    "summary_zh": "本文横向对比2026年主流8大AI Agent开发框架，从架构设计、工具集成、多智能体协作、可观测性等维度剖析其核心技术差异。结合工业级落地案例，分析各框架在生产环境中的性能表现、扩展性与运维成本，为团队技术选型提供参考。内容兼顾框架能力边界与实际工程约束，适合有一定Agent开发经验的读者深入评估。",
+    "topic": "ai"
+  },
+  {
+    "id": "13a829cf97d70baf350db3a7bca96749",
+    "title_en": "2026 年AI Agent 的12 大构建框架",
+    "source": "bright.cn",
+    "url": "https://www.bright.cn/blog/ai/best-ai-agent-frameworks",
+    "published_at": "2026-11-15T03:54:24.573Z",
+    "fetched_at": "2026-11-15T03:54:24.573Z",
+    "title_zh": "2026年AI Agent的12大构建框架",
+    "summary_zh": "文章盘点2026年值得关注的12个AI Agent构建框架，覆盖从轻量级编排库到企业级多智能体平台的不同定位。逐一介绍各框架的核心抽象、工具生态、记忆与规划能力及适用场景，并对比其在复杂任务编排、调试可观测性和部署集成方面的优劣，帮助开发者根据项目规模与技术栈快速筛选合适的Agent开发方案。",
+    "topic": "ai"
+  },
+  {
+    "id": "b0b2ab7a2102537e97534b00f608aa7b",
+    "title_en": "Startup guide to AI agents",
+    "source": "cloud.google.com",
+    "url": "https://cloud.google.com/resources/content/ai-agent-guide?hl=zh-CN",
+    "published_at": "2026-11-15T03:54:24.573Z",
+    "fetched_at": "2026-11-15T03:54:24.573Z",
+    "title_zh": "初创企业AI Agent入门指南",
+    "summary_zh": "本文面向初创团队，系统介绍构建AI Agent的实践路径。内容涵盖Agent的基本架构、LLM选型、工具与API集成、提示工程与评估方法，并结合Google Cloud的Agent开发工具链说明如何快速搭建原型并迭代至生产。文章强调成本控制、可观测性与安全边界，为资源有限的初创团队提供可落地的技术决策参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "a229831c1fb87d90719025671866d313",
+    "title_en": "如何从零开始实现一个AI Agent 框架（理论+实践） - 腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2631821",
+    "published_at": "2026-11-15T03:54:24.573Z",
+    "fetched_at": "2026-11-15T03:54:24.573Z",
+    "title_zh": "如何从零开始实现一个AI Agent框架（理论+实践）",
+    "summary_zh": "本文从理论到实践完整演示如何从零构建一个AI Agent框架。先剖析Agent的核心组成——规划、工具调用、记忆与执行循环，再通过代码逐步实现任务分解、函数调用解析、上下文管理与错误重试等关键机制。文章注重原理透明性，帮助开发者理解主流框架的底层设计取舍，并具备自行定制Agent运行时能力。",
+    "topic": "ai"
+  },
+  {
+    "id": "4d2f52cac6f6866ade1f1eacb3cff2d2",
+    "title_en": "aliyun/ai-agent-handbook: A practical guide to building ...",
+    "source": "github.com",
+    "url": "https://github.com/aliyun/ai-agent-handbook",
+    "published_at": "2026-11-15T03:54:24.573Z",
+    "fetched_at": "2026-11-15T03:54:24.573Z",
+    "title_zh": "aliyun/ai-agent-handbook：构建AI Agent的实用指南",
+    "summary_zh": "这是阿里云开源的AI Agent实践手册，系统梳理Agent开发的核心知识体系。内容涵盖LLM基础、提示工程、工具调用、RAG检索增强、多智能体协作及评估部署等主题，并配套代码示例与最佳实践。手册结构清晰，兼顾概念讲解与工程落地，适合开发者作为构建生产级Agent应用的学习与查阅资料。",
+    "topic": "ai"
+  },
+  {
+    "id": "290e116b3900d622f8829de2a135e02d",
+    "title_en": "前端开发者如何拥抱AI-Agent（科普） - 实践- gccbuaa",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/gccbuaa/p/19540468",
+    "published_at": "2026-11-15T03:54:24.573Z",
+    "fetched_at": "2026-11-15T03:54:24.573Z",
+    "title_zh": "前端开发者如何拥抱AI Agent（科普）",
+    "summary_zh": "本文面向前端开发者科普AI Agent的基本概念与接入方式。介绍Agent的决策循环、工具调用与流式交互特点，并结合前端场景说明如何通过API集成LLM、处理流式响应、设计人机协作界面。文章降低入门门槛，帮助前端工程师理解Agent与传统后端服务的差异，为在Web应用中落地智能交互功能提供实践思路。",
+    "topic": "ai"
+  },
+  {
     "id": "f7ae3e6971310d62d246b981f004af9f",
     "title_en": "Newest CVEs",
     "source": "tenable.com",
@@ -2055,148 +2198,5 @@
     "title_zh": "docker run 参数适配",
     "summary_zh": "本文围绕docker run命令的参数适配问题展开，梳理常用参数的含义与使用场景，并针对不同运行环境与业务需求给出参数组合建议，涵盖资源限制、网络配置、挂载与环境变量等关键项。内容侧重实际排错与兼容性处理，帮助读者避免因参数配置不当导致的启动失败或性能问题，适合日常使用Docker的开发者与运维人员查阅。",
     "topic": "ops"
-  },
-  {
-    "id": "265b7228834d73995196f03cf1645ead",
-    "title_en": "饶宾期与国家知识产权局其他一审行政判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=81b87e4ba2ce4a8cb63facf90009e5bb",
-    "published_at": "2026-11-12T04:58:43.063Z",
-    "fetched_at": "2026-11-12T04:58:43.063Z",
-    "title_zh": "饶宾期与国家知识产权局其他一审行政判决书",
-    "summary_zh": "该文书为国家知识产权局相关的一审行政判决书，涉及专利或知识产权行政纠纷的司法审查过程。内容属法律文书，主要呈现案件事实、争议焦点与法院裁判理由，对了解知识产权行政案件审理思路有参考意义。",
-    "topic": "other"
-  },
-  {
-    "id": "2d2e6c91ef094218e554ced8b96f4acf",
-    "title_en": "重庆某公司、某政府、董某发明专利权无效行政纠纷一案",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/search?caseNumber=%282025%291253",
-    "published_at": "2026-11-12T04:58:43.063Z",
-    "fetched_at": "2026-11-12T04:58:43.063Z",
-    "title_zh": "重庆某公司、某政府、董某发明专利权无效行政纠纷一案",
-    "summary_zh": "该文书涉及发明专利权无效行政纠纷案件，围绕专利有效性认定、行政审查程序及司法审查标准展开。内容属法律案例，呈现专利权无效宣告中的争议焦点与裁判逻辑，对理解专利确权实务具有一定参考价值。",
-    "topic": "other"
-  },
-  {
-    "id": "2a3a38c7fa6e4199a57afb82b38f25e7",
-    "title_en": "卡斯公司与国家知识产权局其他一审行政判决书",
-    "source": "wenshu.court.gov.cn",
-    "url": "https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=f3faf930373f4cf5913fab33000b9e15",
-    "published_at": "2026-11-12T04:58:43.063Z",
-    "fetched_at": "2026-11-12T04:58:43.063Z",
-    "title_zh": "卡斯公司与国家知识产权局其他一审行政判决书",
-    "summary_zh": "该文书为卡斯公司与国家知识产权局之间的一审行政判决书，涉及知识产权相关行政行为的司法审查。内容属法律文书，记录案件事实、双方主张与法院裁判理由，可供了解知识产权行政诉讼实务参考。",
-    "topic": "other"
-  },
-  {
-    "id": "4ac51464c1f19fc447fbf1f4ee861bea",
-    "title_en": "Linux 运维常用手册",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/zhoutuo/p/18782411",
-    "published_at": "2026-11-12T04:58:43.063Z",
-    "fetched_at": "2026-11-12T04:58:43.063Z",
-    "title_zh": "Linux运维常用手册",
-    "summary_zh": "整理Linux运维日常高频使用的命令与操作手册，涵盖系统监控、进程与资源管理、网络排查、日志分析及常见故障处理等实用内容。适合运维人员作为速查参考，提升日常服务器管理与排障效率。",
-    "topic": "ops"
-  },
-  {
-    "id": "a35d70764cb44a6d0d95e970d96cc70e",
-    "title_en": "掌握Linux运维入门技巧与实战指南",
-    "source": "my.oschina.net",
-    "url": "https://my.oschina.net/emacs_8748732/blog/17170962",
-    "published_at": "2026-11-12T04:58:43.063Z",
-    "fetched_at": "2026-11-12T04:58:43.063Z",
-    "title_zh": "掌握Linux运维入门技巧与实战指南",
-    "summary_zh": "本文面向Linux运维初学者，系统梳理了从基础命令、用户与权限管理到服务配置、日志排查的入门知识体系，并结合真实场景给出实战操作步骤。内容强调动手实践与问题定位思路，帮助读者快速建立运维工作流，掌握日常巡检、故障排查与基础自动化能力，为后续深入学习性能调优和容器化运维打下扎实基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "4ffb0bb4b8725e41715dfa0ab9608345",
-    "title_en": "linux运维需要什么技能",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/19668592352",
-    "published_at": "2026-11-12T04:58:43.063Z",
-    "fetched_at": "2026-11-12T04:58:43.063Z",
-    "title_zh": "Linux运维需要掌握哪些技能",
-    "summary_zh": "文章系统梳理了Linux运维岗位所需的核心技能栈，涵盖系统管理、网络基础、Shell脚本、服务部署、监控告警与故障排查等方向，并对各技能的掌握程度和进阶路径给出建议。内容侧重职业能力模型与学习路线，帮助读者明确从入门到进阶的技能优先级，适合准备转行或希望补齐短板的运维从业者参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "cbf874313f098fb52130c678f0bdb006",
-    "title_en": "Linux 运维手册 - Chang Luo",
-    "source": "luochang.ink",
-    "url": "https://www.luochang.ink/posts/linux_handbook/",
-    "published_at": "2026-11-12T04:58:43.063Z",
-    "fetched_at": "2026-11-12T04:58:43.063Z",
-    "title_zh": "Linux运维手册 - Chang Luo",
-    "summary_zh": "这是一份结构化的Linux运维手册，内容覆盖常用命令速查、系统配置、服务管理、故障排查与日常维护等主题，以条目化方式组织便于快速检索。手册强调实用性与可操作性，适合作为运维人员的案头参考，帮助在真实工作中快速定位命令与处理流程，提升日常运维效率与规范性。",
-    "topic": "ops"
-  },
-  {
-    "id": "3d77464569d7c262df1480c73e08ce01",
-    "title_en": "Linux 运维教程   | 人人都懂物联网",
-    "source": "getiot.tech",
-    "url": "https://getiot.tech/linux-ops/",
-    "published_at": "2026-11-12T04:58:43.063Z",
-    "fetched_at": "2026-11-12T04:58:43.063Z",
-    "title_zh": "Linux运维教程 | 人人都懂物联网",
-    "summary_zh": "该教程以物联网场景为背景讲解Linux运维，内容涵盖系统安装、基础命令、网络配置、服务部署与设备端运维等环节，将通用运维知识与物联网设备管理需求相结合。文章注重从零构建运维能力，并通过场景化案例说明如何保障设备与服务的稳定运行，适合物联网开发者与初级运维人员系统学习。",
-    "topic": "ops"
-  },
-  {
-    "id": "4663e69fb849993ce32eef58c1c68cb0",
-    "title_en": "人工智能- 大模型榜单周报（2026/02/08） - KAI智",
-    "source": "segmentfault.com",
-    "url": "https://segmentfault.com/a/1190000047606621",
-    "published_at": "2026-11-12T04:58:43.062Z",
-    "fetched_at": "2026-11-12T04:58:43.062Z",
-    "title_zh": "人工智能-大模型榜单周报（2026/02/08）- KAI智",
-    "summary_zh": "汇总2026年2月最新大模型榜单排名，覆盖通用能力、代码、数学推理及多模态等评测维度，对比各主流模型得分变化与版本迭代情况。适合关注模型能力演进与选型对比的技术读者快速了解当前第一梯队格局。",
-    "topic": "ai"
-  },
-  {
-    "id": "44b23c3d24c019bcf078c2138fc987ce",
-    "title_en": "百度创始人李彦宏表示，大模型产业正在沿着两条路径发展 ...",
-    "source": "m.sohu.com",
-    "url": "https://m.sohu.com/a/1100497521_130887?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-    "published_at": "2026-11-12T04:58:43.062Z",
-    "fetched_at": "2026-11-12T04:58:43.062Z",
-    "title_zh": "百度创始人李彦宏表示，大模型产业正在沿着两条路径发展",
-    "summary_zh": "李彦宏阐述大模型产业的两条发展路径，涉及基础模型能力提升与应用层落地两种方向，分析模型能力演进与商业化场景之间的关系。内容偏产业观点，对理解大模型技术落地策略与行业趋势有一定参考价值。",
-    "topic": "ai"
-  },
-  {
-    "id": "0ee3f5d8e9388b05d98cb39c41fead2d",
-    "title_en": "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026 ...",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1xwVr6FEh4/",
-    "published_at": "2026-11-12T04:58:43.062Z",
-    "fetched_at": "2026-11-12T04:58:43.062Z",
-    "title_zh": "【全748集】目前B站最全最细的AI Agent开发零基础教程，2026",
-    "summary_zh": "一套面向零基础的AI Agent开发系列教程，共748集，覆盖Agent核心概念、工具调用、记忆机制、多智能体协作与实战项目搭建。内容由浅入深，适合开发者系统学习Agent技术框架并动手实践完整开发流程。",
-    "topic": "ai"
-  },
-  {
-    "id": "6c787036a72c6b287baee47184b3304c",
-    "title_en": "从0到1开发AI Agent（智能体）:基于大模型的AI Agent技术框架",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/xx_nm98/article/details/144222993",
-    "published_at": "2026-11-12T04:58:43.062Z",
-    "fetched_at": "2026-11-12T04:58:43.062Z",
-    "title_zh": "从0到1开发AI Agent（智能体）：基于大模型的AI Agent技术框架",
-    "summary_zh": "文章从零讲解基于大模型的AI Agent技术框架，涵盖规划、工具调用、记忆与执行循环等核心模块设计，并结合实践说明如何搭建可运行的Agent系统。适合开发者理解Agent架构原理并落地实现。",
-    "topic": "ai"
-  },
-  {
-    "id": "d83d69e1d1e7a759c0629070e75652ab",
-    "title_en": "AI智能体开发教程：Agent入门指南- CNBPA云原生社区",
-    "source": "cloudnative-tech.com",
-    "url": "https://www.cloudnative-tech.com/ai-agent-learning-path/",
-    "published_at": "2026-11-12T04:58:43.062Z",
-    "fetched_at": "2026-11-12T04:58:43.062Z",
-    "title_zh": "AI智能体开发教程：Agent入门指南 - CNBPA云原生社区",
-    "summary_zh": "面向入门者的AI Agent开发指南，介绍智能体的基本组成、常见技术框架与开发流程，并结合云原生场景说明部署与集成思路。内容兼顾概念讲解与实践指引，适合开发者快速上手Agent开发。",
-    "topic": "ai"
   }
 ]
