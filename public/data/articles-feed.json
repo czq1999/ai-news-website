@@ -1,5 +1,137 @@
 [
   {
+    "id": "b65376beb7eacaa8009be5fcb4ee4247",
+    "title_en": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+    "published_at": "2026-11-16T14:00:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.717Z",
+    "title_zh": "Audible尝试让用户更容易找到真正想听的有声书",
+    "summary_zh": "亚马逊旗下有声书平台Audible正在改进其推荐与发现机制，帮助用户更轻松地找到真正符合口味的有声书。面对内容库庞大、用户选择困难的痛点，Audible借助AI优化个性化推荐和搜索体验，减少盲目浏览。这一更新体现了流媒体内容平台普遍面临的\"发现难题\"，也显示AI推荐正成为提升用户留存的关键手段。",
+    "category": "product"
+  },
+  {
+    "id": "2e66b242e3e51de291714c12b943497d",
+    "title_en": "Google Maps can now create trip itineraries for you",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+    "published_at": "2026-11-16T14:00:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.717Z",
+    "title_zh": "谷歌地图现在可以为你自动生成旅行行程",
+    "summary_zh": "谷歌地图新增AI行程规划功能，用户只需输入目的地和偏好，即可自动生成完整的旅行日程。该功能依托Gemini等大模型能力，整合地点、营业时间、路线和评价信息，帮助用户快速制定出行计划。这标志着谷歌正将生成式AI深度嵌入其核心消费产品，与各类AI旅行规划工具展开直接竞争。",
+    "category": "product"
+  },
+  {
+    "id": "b892ed0bb1b17d094ee7417bf2081584",
+    "title_en": "The Download: testing tech promises and searching for cognitive immortality",
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+    "published_at": "2026-11-16T13:10:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.811Z",
+    "title_zh": "The Download：检验科技承诺与寻找认知永生",
+    "summary_zh": "本期The Download聚焦两大话题：一是对科技行业各种承诺进行现实检验，审视宣传与实际落地之间的差距；二是探讨“认知永生”相关研究，即通过技术手段保存或延续人类思维与意识的可能性及其伦理争议。",
+    "category": "research"
+  },
+  {
+    "id": "84522dc3aa84ccf0370e5513919948f7",
+    "title_en": "The Nvidia scandal isn’t slowing down",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+    "published_at": "2026-11-16T13:00:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.717Z",
+    "title_zh": "英伟达丑闻持续发酵，风波未见平息",
+    "summary_zh": "围绕英伟达的争议持续升温，涉及AI芯片流向、出口管制合规及监管审查等多重问题。相关丑闻并未因时间推移而降温，反而引发政界和监管机构的更多关注。作为AI算力核心供应商，英伟达的任何合规风波都可能波及全球AI产业链，其后续处理方式将影响公司声誉与市场信心。",
+    "category": "industry"
+  },
+  {
+    "id": "641dfccd14bf1bd3c640b67fc4ca0bad",
+    "title_en": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "published_at": "2026-11-16T12:30:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.696Z",
+    "title_zh": "Freshworks前员工融资5300万美元，以AI原生CRM挑战Salesforce和HubSpot",
+    "summary_zh": "一批Freshworks前员工创立的AI原生CRM初创公司成功融资5300万美元，目标直指CRM巨头Salesforce和HubSpot。该公司主打AI原生架构，而非在传统CRM上叠加AI功能，试图以更智能的自动化工作流和客户洞察能力切入市场。此举反映出AI正重塑企业软件竞争格局，新玩家希望借助大模型能力在成熟赛道中撕开缺口。",
+    "category": "industry"
+  },
+  {
+    "id": "ac10f08818cc822e45e805af202e88c0",
+    "title_en": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/best-digital-photo-frames/",
+    "published_at": "2026-11-16T12:01:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.789Z",
+    "title_zh": "2026年最佳数码相框：Aura、Skylight、Amazon",
+    "summary_zh": "这是一份2026年数码相框选购指南，评测了Aura、Skylight和Amazon等品牌的产品。文章从画质、易用性、云同步和送礼场景等角度进行对比，帮助用户在众多数码相框中挑选适合家庭展示照片的设备。",
+    "category": "product"
+  },
+  {
+    "id": "2e1a0622ab7ad92ba178e52aa53a70e4",
+    "title_en": "Amazon’s Zoox robotaxis are now available via Uber",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+    "published_at": "2026-11-16T12:00:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.717Z",
+    "title_zh": "亚马逊旗下Zoox自动驾驶出租车现已通过Uber平台提供",
+    "summary_zh": "亚马逊旗下自动驾驶公司Zoox的robotaxi服务正式接入Uber平台，用户可通过Uber应用呼叫Zoox自动驾驶车辆。这一合作将Zoox的技术能力与Uber庞大的用户网络结合，加速自动驾驶出行商业化落地。此举也加剧了robotaxi赛道的竞争，与Waymo等玩家形成正面交锋。",
+    "category": "industry"
+  },
+  {
+    "id": "70e12cf6309d8b5799901f1b28cfca89",
+    "title_en": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
+    "published_at": "2026-11-16T11:30:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.789Z",
+    "title_zh": "美国环保署的化学检测飞机已无法履行职责",
+    "summary_zh": "报道指出，美国环保署用于空中化学检测的飞机已难以正常执行任务，可能影响对有毒化学品泄漏等突发事件的应急监测能力。设备老化与维护问题削弱了环境监管的技术手段，引发对公共环境安全监测体系可靠性的关注。",
+    "category": "industry"
+  },
+  {
+    "id": "7bc530aec2cdde7135620e66ca47fd45",
+    "title_en": "The Best Smart Bird Feeders for Backyard Birding (2026)",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+    "published_at": "2026-11-16T11:30:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.789Z",
+    "title_zh": "2026年最佳智能喂鸟器：后院观鸟利器",
+    "summary_zh": "这是一份2026年智能喂鸟器选购指南，面向后院观鸟爱好者。文章评测了多款带摄像头和AI识别功能的喂鸟器，从画质、鸟类识别准确度、App体验和耐用性等方面给出建议，帮助用户挑选合适的观鸟设备。",
+    "category": "product"
+  },
+  {
+    "id": "5ee7da2bc7da75247b094114a8df6d2b",
+    "title_en": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+    "published_at": "2026-11-16T11:00:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.717Z",
+    "title_zh": "参议员抨击商务部长放任英伟达AI芯片流入中国",
+    "summary_zh": "美国参议员公开批评商务部长，指责其在英伟达AI芯片流向中国的问题上监管不力。该争议聚焦出口管制执行的有效性，涉及高端AI芯片可能经由第三方渠道流入中国的担忧。此事凸显美国内部对AI技术出口政策的分歧，也可能推动更严格的芯片出口审查措施出台。",
+    "category": "industry"
+  },
+  {
+    "id": "5df81ff9511e1751f170d422248d0858",
+    "title_en": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "published_at": "2026-11-16T11:00:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.789Z",
+    "title_zh": "在黄仁勋风波之前，英伟达就已陷入困境",
+    "summary_zh": "文章分析称，英伟达在黄仁勋相关风波爆发之前就已面临多重挑战，包括市场竞争加剧、估值压力和供应链等问题。报道认为，围绕CEO的争议只是叠加因素，公司更深层的经营与战略压力才是投资者需要关注的重点。",
+    "category": "industry"
+  },
+  {
+    "id": "68d55b841352add01825013b3ea1ab79",
+    "title_en": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
+    "source": "Wired",
+    "url": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
+    "published_at": "2026-11-16T10:00:00.000Z",
+    "fetched_at": "2026-11-16T14:20:05.789Z",
+    "title_zh": "2026年最佳苹果三合一旅行充电器：Anker、ESR、Satechi",
+    "summary_zh": "这是一份2026年苹果三合一旅行充电器推荐，涵盖Anker、ESR和Satechi等品牌。文章从便携性、充电功率、兼容性和做工等维度进行评测，帮助经常出行的苹果用户挑选能同时为iPhone、Apple Watch和AirPods充电的旅行配件。",
+    "category": "product"
+  },
+  {
     "id": "c87821b213b2b5aa9f24d0a0a5a1cfe8",
     "title_en": "Apple launches new app to study how people use AI for health",
     "source": "TechCrunch AI",
@@ -132,6 +264,72 @@
     "category": "research"
   },
   {
+    "id": "256595a064b9d4605fa6b99cbff3e0e2",
+    "title_en": "Potential Jensen Huang Comeback Threatens To Derail Rumored Anthropic Push Against Open-Source AI, As NVIDIA Board Urged Not To Rush Permanent CEO Replacement",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/potential-jensen-huang-comeback-threatens-rumored-anthropic-push-against-open-source-ai/",
+    "published_at": "2026-11-15T14:18:28Z",
+    "fetched_at": "2026-11-16T14:20:05.989Z",
+    "title_zh": "黄仁勋潜在回归或打乱Anthropic对抗开源AI的传闻计划，英伟达董事会被告知勿急于确定正式CEO",
+    "summary_zh": "报道称，黄仁勋可能回归的传闻正威胁到Anthropic针对开源AI的推进计划，同时英伟达董事会也被敦促不要急于确定正式CEO人选。这一动态反映出英伟达领导层安排的不确定性，以及其对AI行业竞争格局和合作伙伴战略的潜在影响。",
+    "category": "industry"
+  },
+  {
+    "id": "d4e6fa229b1f2149383ecc14764f1d49",
+    "title_en": "Glue on his boot or AI? R10's Ravenna training move goes viral; watch",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/glue-on-his-boot-or-ai-r10s-ravenna-training-move-goes-viral-watch-43780655",
+    "published_at": "2026-11-15T14:17:00Z",
+    "fetched_at": "2026-11-16T14:20:05.989Z",
+    "title_zh": "球鞋上抹胶水还是AI？罗纳尔迪尼奥在拉文纳的训练动作走红网络",
+    "summary_zh": "巴西传奇球星罗纳尔迪尼奥在拉文纳训练时的一段视频在社交媒体上疯传，引发网友热议：这究竟是球鞋上抹了胶水的魔术般控球，还是AI合成技术的杰作？视频中他展现了标志性的精湛脚法，让球迷们再次感叹这位足球精灵的天赋。该话题迅速成为网络热点，也折射出当下AI视频生成技术以假乱真、令人难辨真伪的社会现象。",
+    "category": "industry"
+  },
+  {
+    "id": "2b64c207b75902b410f8eede59a8a85c",
+    "title_en": "3 Magnificent AI Stocks That Could Help You Make a Fortune",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/c2b0861ffd093981",
+    "published_at": "2026-11-15T14:13:32Z",
+    "fetched_at": "2026-11-16T14:20:05.989Z",
+    "title_zh": "三只有望助你致富的优质AI股票",
+    "summary_zh": "文章盘点了三只被看好的AI概念股，认为它们具备长期投资价值，有望为投资者带来可观回报。随着人工智能技术加速落地，从算力芯片到应用软件的相关企业持续受到资本市场追捧。分析指出，投资者在布局AI赛道时应关注企业的核心技术壁垒与商业化能力，而非盲目追热点，同时需警惕估值过高带来的回调风险。",
+    "category": "industry"
+  },
+  {
+    "id": "f158f5ed3ba6ab466f0b3c6945a577cb",
+    "title_en": "James Bond Is Back. So Is Spying",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/92afb6b7c70f3429",
+    "published_at": "2026-11-15T14:13:25Z",
+    "fetched_at": "2026-11-16T14:20:05.989Z",
+    "title_zh": "詹姆斯·邦德回归，间谍活动也回来了",
+    "summary_zh": "随着詹姆斯·邦德系列新作回归，间谍题材再度引发关注。文章借007的热度探讨现实中间谍活动与情报技术的演变，并延伸至人工智能时代下监控、情报收集与隐私安全等议题。在AI技术加持下，网络侦察与数据分析能力大幅提升，传统间谍故事与现实技术边界日益模糊，引发公众对安全与隐私的深层思考。",
+    "category": "industry"
+  },
+  {
+    "id": "54df172b796f72738eee53258cab2e94",
+    "title_en": "As AI takes over more tasks, five trends reshaping the future of work",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/9e2348edb648c9a0",
+    "published_at": "2026-11-15T14:13:19Z",
+    "fetched_at": "2026-11-16T14:20:05.989Z",
+    "title_zh": "随着AI接管更多任务，重塑未来工作的五大趋势",
+    "summary_zh": "文章分析了人工智能加速接管各类工作任务背景下，正在重塑未来职场的五大趋势。这些趋势涵盖人机协作模式兴起、技能需求结构转变、岗位重新定义、远程与灵活办公普及，以及企业对AI素养人才的需求激增。作者指出，劳动者需主动提升与AI协同工作的能力，企业也应重新设计组织架构与培训体系，以适应这场深刻的就业变革。",
+    "category": "industry"
+  },
+  {
+    "id": "6dcbab9bae456d7d925ad271120aa7a4",
+    "title_en": "Betty and Fred’s Story: Fred Goes To Sea -- April and May 1945",
+    "source": "Blogger.com",
+    "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/4611142535385406603",
+    "published_at": "2026-11-15T14:04:00Z",
+    "fetched_at": "2026-11-16T14:20:05.990Z",
+    "title_zh": "贝蒂与弗雷德的故事：弗雷德出海记——1945年4月与5月",
+    "summary_zh": "这是一篇个人历史博客文章，讲述贝蒂与弗雷德的故事，聚焦弗雷德于1945年4月和5月出海服役的经历。文章通过书信或日记等形式还原二战末期普通人的真实生活片段，带有浓厚的历史与情感色彩。该内容与人工智能或科技新闻无关，属于个人叙事与历史回忆类文章。",
+    "category": "industry"
+  },
+  {
     "id": "3c3511530a6d7f0f3fe9f0f4b99fda59",
     "title_en": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
     "source": "The Verge",
@@ -140,6 +338,28 @@
     "fetched_at": "2026-11-15T22:18:02.953Z",
     "title_zh": "LG平价B6E OLED电视本周末最高五折优惠",
     "summary_zh": "The Verge报道LG B6E OLED电视在本周末推出最高50%折扣促销。该型号主打性价比，具备高刷新率与HDR支持，适合游戏与影音娱乐。此内容为消费电子促销信息，与AI技术无直接关联。",
+    "category": "product"
+  },
+  {
+    "id": "3f791be98657398905165a5c41ab1bdd",
+    "title_en": "AI makes 2 Indian-origin founders world’s youngest self-made billionaires worth ₹40,000 crore each, beats Zuckerberg",
+    "source": "Livemint",
+    "url": "https://www.livemint.com/companies/ai-makes-2-indian-origin-founders-world-s-youngest-self-made-billionaires-worth-40-000-crore-each-beats-zuckerberg-11794748301344.html",
+    "published_at": "2026-11-15T13:58:42Z",
+    "fetched_at": "2026-11-16T14:20:05.990Z",
+    "title_zh": "AI助力两位印度裔创始人成为全球最年轻白手起家亿万富翁，身家各达4000亿卢比，超越扎克伯格",
+    "summary_zh": "凭借人工智能浪潮，两位印度裔创始人一跃成为全球最年轻的白手起家亿万富翁，各自身家约4000亿卢比，甚至超越了当年的扎克伯格。报道指出，他们的成功得益于抓住AI创业风口，快速打造出具有商业价值的产品并获得资本青睐。这一现象凸显AI领域造富速度之快，也引发外界对年轻创业者、估值泡沫与可持续增长的热议。",
+    "category": "industry"
+  },
+  {
+    "id": "1775b781b3bcc3ba3c4a56098bc9f387",
+    "title_en": "Self-learning AI releases NFL picks, score predictions for every Week 10 game",
+    "source": "CBS Sports",
+    "url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-spread-best-bets-advice-for-week-10-2026/",
+    "published_at": "2026-11-15T13:58:31Z",
+    "fetched_at": "2026-11-16T14:20:05.990Z",
+    "title_zh": "自学习AI发布NFL第10周全部比赛预测与比分",
+    "summary_zh": "一款具备自学习能力的人工智能系统发布了NFL第10周每场比赛的胜负预测与比分结果。该系统通过分析历史数据、球队状态与球员表现等多维信息进行建模，持续自我优化以提升预测准确率。此类AI体育预测工具近年来越来越受关注，但专家提醒其预测仅供参考，体育比赛的不确定性仍难以被算法完全捕捉。",
     "category": "product"
   },
   {
@@ -152,6 +372,28 @@
     "title_zh": "索尼Aibo：披着狗皮的机器人革命",
     "summary_zh": "The Verge回顾索尼Aibo机器狗的历史意义，称其为一场披着宠物外衣的机器人革命。文章讲述Aibo如何开创消费级情感机器人先河，影响后续AI陪伴产品设计，并探讨其在机器人发展史上的地位与遗产。",
     "category": "product"
+  },
+  {
+    "id": "3030505bc4ada095201b178b1449cd53",
+    "title_en": "Central Asia's AI Race: Big Ambitions, Even Bigger Risks",
+    "source": "Radio Free Europe/ Radio Liberty",
+    "url": "https://www.rferl.org/a/central-asia-ai-race-data-centers-/33899016.html",
+    "published_at": "2026-11-15T13:46:00Z",
+    "fetched_at": "2026-11-16T14:20:05.990Z",
+    "title_zh": "中亚的AI竞赛：宏大野心与更大风险",
+    "summary_zh": "文章探讨中亚国家在人工智能领域的布局与竞赛，指出这些国家怀揣宏大野心，试图借助AI推动经济转型与数字化发展。然而，报道也强调其面临的风险同样巨大，包括人才短缺、基础设施薄弱、数据治理与监管框架不完善，以及在大国技术博弈中可能陷入依赖。如何在追赶AI浪潮的同时保障安全与自主，成为中亚各国亟待解决的课题。",
+    "category": "industry"
+  },
+  {
+    "id": "8c0319e119dfaa9b0447112e92752356",
+    "title_en": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/ffd6eec623836c4d",
+    "published_at": "2026-11-15T13:42:55Z",
+    "fetched_at": "2026-11-16T14:20:05.990Z",
+    "title_zh": "华尔街顶级分析师长期看好这三只股票",
+    "summary_zh": "文章汇总了华尔街顶级分析师的观点，指出有三只股票获得长期看好的评级。分析师们基于企业基本面、行业前景与增长潜力给出积极判断，认为这些标的具备穿越周期的投资价值。报道提醒投资者，分析师评级仅供参考，市场波动与宏观环境变化仍可能影响股价表现，应结合自身风险偏好理性决策。",
+    "category": "industry"
   },
   {
     "id": "8466bfa20f2d28faac040b69e83872f1",
@@ -5256,247 +5498,5 @@
     "title_zh": "有报道称黄仁勋遭中国情报部门针对，英伟达与特朗普的关系引发审视",
     "summary_zh": "Biztoc报道称，在有消息指英伟达CEO黄仁勋被中国情报部门锁定后，英伟达与特朗普阵营之间的密切关系受到外界审视。文章关注科技巨头在地缘政治与出口管制背景下的处境，以及企业高管与政治权力互动可能带来的风险与争议，凸显AI芯片龙头在中美博弈中的敏感位置。",
     "category": "industry"
-  },
-  {
-    "id": "a588ea1fc967e29b14565605df198d74",
-    "title_en": "Anthropic releases first frontier models since Amodei's call for slowdown",
-    "source": "Biztoc.com",
-    "url": "https://biztoc.com/x/986756976206fc4b",
-    "published_at": "2026-11-09T22:24:41Z",
-    "fetched_at": "2026-11-10T22:40:09.323Z",
-    "title_zh": "Anthropic在Amodei呼吁放缓后发布首批前沿模型",
-    "summary_zh": "Biztoc报道，Anthropic在CEO Dario Amodei公开呼吁审慎推进AI发展、警惕失控风险之后，发布了其首批前沿模型。文章关注这一看似矛盾之举背后的逻辑：一方面强调安全与放缓，另一方面仍持续推进能力边界。此举引发业界对AI公司如何在竞争压力与安全承诺之间取得平衡的讨论。",
-    "category": "llm"
-  },
-  {
-    "id": "07a63179d0414c1e89b92e16f2de0b4f",
-    "title_en": "The race is on to sue Nvidia",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "published_at": "2026-11-09T22:23:42.000Z",
-    "fetched_at": "2026-11-10T00:59:49.367Z",
-    "title_zh": "针对英伟达的诉讼竞赛已然打响",
-    "summary_zh": "随着英伟达争议持续发酵，多家律所与投资者正争相发起诉讼，形成一场针对该公司的诉讼竞赛。案件可能涉及信息披露、公司治理及高管行为等多项指控，英伟达面临的法律与财务风险正在快速累积。",
-    "category": "industry"
-  },
-  {
-    "id": "6c345e2e88e6590b817c50957c769dd4",
-    "title_en": "The Home Depot Best Early Black Friday Deals (2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/",
-    "published_at": "2026-11-09T22:15:00.000Z",
-    "fetched_at": "2026-11-10T00:59:49.837Z",
-    "title_zh": "家得宝 2026 年黑色星期五早期最佳优惠",
-    "summary_zh": "Wired 整理了家得宝（Home Depot）2026 年黑色星期五的早期优惠清单，涵盖工具、家居改善和智能家居等品类。文章为消费者筛选出值得入手的折扣商品，帮助提前规划购物。作为年度购物季的重要节点，黑五早期促销已成为零售商争夺客流的关键手段，家得宝的优惠力度和选品策略也反映出家居零售市场的竞争态势。",
-    "category": "product"
-  },
-  {
-    "id": "c5ac48e667ecab8377db7126daa77c23",
-    "title_en": "Author M John Harrison (81) becomes oldest winner of Booker Prize for AI-tinged apocalyptic novel",
-    "source": "TheJournal.ie",
-    "url": "https://www.thejournal.ie/author-m-john-harrison-81-becomes-oldest-winner-of-booker-prize-7220839-Nov2026/",
-    "published_at": "2026-11-09T22:14:08Z",
-    "fetched_at": "2026-11-10T22:40:09.323Z",
-    "title_zh": "作家M·约翰·哈里森81岁凭AI题材末日小说成为布克奖最年长得主",
-    "summary_zh": "据TheJournal.ie报道，81岁的作家M·约翰·哈里森凭借一部带有AI元素的末日题材小说荣获布克奖，成为该奖历史上最年长的获奖者。作品将人工智能与末世想象交织，探讨技术、人性与文明走向。此次获奖既是对其文学成就的肯定，也反映出AI主题正日益进入主流文学视野。",
-    "category": "research"
-  },
-  {
-    "id": "780a8efc9229768bde1aaffecc39579c",
-    "title_en": "The Data Reconciliation Problem Inside Disconnected Lending Systems",
-    "source": "Smartdatacollective.com",
-    "url": "https://www.smartdatacollective.com/data-reconciliation-problem-inside-disconnected-lending-systems/",
-    "published_at": "2026-11-09T22:00:43Z",
-    "fetched_at": "2026-11-10T22:40:09.323Z",
-    "title_zh": "割裂的借贷系统内部的数据对账难题",
-    "summary_zh": "Smartdatacollective刊文探讨借贷行业中彼此割裂的系统所导致的数据对账问题。文章指出，当放贷、风控、还款等环节分散在不同平台与数据库中时，数据口径不一致、重复与缺失会引发对账困难，进而影响合规与决策。作者建议通过统一数据标准、自动化对账流程与实时同步机制来提升数据一致性与运营效率。",
-    "category": "industry"
-  },
-  {
-    "id": "2262d015f4ae54a836d8363be8130fce",
-    "title_en": "These WIRED-Tested Standing Desks Are Already on Sale for Black Friday",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26/",
-    "published_at": "2026-11-09T22:00:00.000Z",
-    "fetched_at": "2026-11-10T00:59:49.837Z",
-    "title_zh": "Wired 实测过的这些升降桌已开启黑五促销",
-    "summary_zh": "Wired 报道，其团队实测过的多款升降桌已在黑色星期五期间开启促销。文章基于实际测试体验，为关注人体工学和居家办公的消费者推荐值得购买的型号。升降桌作为改善坐姿、提升办公舒适度的热门产品，在黑五期间折扣力度可观。报道结合实测数据与价格分析，帮助读者在促销季做出理性选择。",
-    "category": "product"
-  },
-  {
-    "id": "929f58f1ed8e1afe35f4f4e54177c868",
-    "title_en": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-    "published_at": "2026-11-09T21:43:41.000Z",
-    "fetched_at": "2026-11-10T00:59:49.441Z",
-    "title_zh": "微星翻新QD-OLED电竞显示器降价至300美元以下",
-    "summary_zh": "微星翻新版QD-OLED电竞显示器现以低于300美元的价格促销，为追求高刷新率与优质画质的玩家提供高性价比选择。该优惠反映OLED显示器价格持续下探，也体现翻新渠道在硬件市场中的吸引力。",
-    "category": "product"
-  },
-  {
-    "id": "c889a28a4fb4a8495f8ba94d8eb67e31",
-    "title_en": "The global pledge to use AI for climate good is a cruel joke",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-    "published_at": "2026-11-09T21:13:16.000Z",
-    "fetched_at": "2026-11-10T00:59:49.441Z",
-    "title_zh": "全球承诺用AI造福气候，不过是残酷的笑话",
-    "summary_zh": "The Verge评论文章指出，科技巨头们高调承诺将AI用于应对气候变化，但实际进展寥寥。AI数据中心的能耗与碳排放持续飙升，与气候承诺背道而驰。文章批评这类全球倡议缺乏约束力和透明度，更像公关话术而非真正行动，呼吁业界正视AI自身的环境代价。",
-    "category": "industry"
-  },
-  {
-    "id": "20374e560c788c789fcbb109bef15383",
-    "title_en": "The 9 Best TV Shows to Stream This Month (November 2026)",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
-    "published_at": "2026-11-09T20:47:28.000Z",
-    "fetched_at": "2026-11-10T00:59:49.837Z",
-    "title_zh": "本月（2026 年 11 月）最值得流媒体观看的 9 部剧集",
-    "summary_zh": "Wired 精选了 2026 年 11 月最值得在流媒体平台观看的 9 部剧集，涵盖多种类型与平台。文章为观众提供月度追剧指南，帮助在内容爆炸的时代快速筛选优质作品。随着流媒体竞争加剧，各平台持续加码原创内容，这份榜单也反映出当月剧集市场的热点与趋势，适合希望高效安排观影时间的用户参考。",
-    "category": "product"
-  },
-  {
-    "id": "ad72ac40cbd9b82814c085804871827a",
-    "title_en": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "published_at": "2026-11-09T20:09:06.000Z",
-    "fetched_at": "2026-11-10T00:59:49.367Z",
-    "title_zh": "英伟达争议持续发酵，黄仁勋退出ElevenLabs峰会",
-    "summary_zh": "受英伟达相关争议影响，黄仁勋临时退出ElevenLabs峰会，取消原定出席安排。此举被视为其回避公开露面的信号，也反映出该风波正从公司层面蔓延至个人声誉，并波及行业活动与合作伙伴关系。",
-    "category": "industry"
-  },
-  {
-    "id": "43fa641cb8902b4315c8cfdb5aaca076",
-    "title_en": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-    "published_at": "2026-11-09T19:41:34.000Z",
-    "fetched_at": "2026-11-10T00:59:49.685Z",
-    "title_zh": "可让黑客SSH登录Linux设备的漏洞正被活跃利用",
-    "summary_zh": "安全研究人员警告，一个允许攻击者通过SSH远程入侵Linux设备的漏洞正遭在野活跃利用。该漏洞影响范围广泛，攻击者可借此获取系统控制权。建议管理员尽快排查受影响系统并安装补丁，同时监控异常登录行为。",
-    "category": "research"
-  },
-  {
-    "id": "8c417876c675e98f0e976ae0bf1d3cee",
-    "title_en": "The backlash about data centers might really just be about electricity",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "published_at": "2026-11-09T19:35:33.000Z",
-    "fetched_at": "2026-11-10T00:59:49.938Z",
-    "title_zh": "对数据中心的抵制或许真的只是关于电力",
-    "summary_zh": "MIT 科技评论指出，围绕数据中心的公众抵制情绪，其核心或许并非对 AI 本身的反对，而是对电力消耗和电网压力的担忧。随着 AI 算力需求激增，数据中心用电量大幅攀升，引发地方社区对电价上涨和供电紧张的焦虑。文章认为，若能解决电力供给与成本分摊问题，相关争议有望缓解，这也为数据中心选址和能源策略提供了新思路。",
-    "category": "industry"
-  },
-  {
-    "id": "be740008e181033d430b36cf43feadf8",
-    "title_en": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "published_at": "2026-11-09T19:24:51.000Z",
-    "fetched_at": "2026-11-10T00:59:49.367Z",
-    "title_zh": "Anthropic在RSI担忧中发布全新Mythos与Fable模型",
-    "summary_zh": "Anthropic推出Mythos与Fable两款新模型，发布之际正值业界对递归自我改进（RSI）风险的担忧升温。新模型在能力与安全性之间寻求平衡，公司也强调相关防护措施，以回应外界对AI自主进化失控的疑虑。",
-    "category": "llm"
-  },
-  {
-    "id": "5223c7a831600083d115593094b7565a",
-    "title_en": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "published_at": "2026-11-09T19:09:58.000Z",
-    "fetched_at": "2026-11-10T00:59:49.441Z",
-    "title_zh": "苹果推出50美元智能使用包，扩展部分AI功能访问权限",
-    "summary_zh": "苹果推出售价50美元的Intelligence Usage Packs，为用户提供额外AI功能调用额度，覆盖写作助手、图像生成等Apple Intelligence特性。此举被视为苹果在AI服务商业化上的新尝试，将部分高级功能与付费额度挂钩，可能影响免费用户的体验边界。",
-    "category": "product"
-  },
-  {
-    "id": "c301a0197fe30514d3142e634d9cb5d0",
-    "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-    "published_at": "2026-11-09T19:00:00.000Z",
-    "fetched_at": "2026-11-10T00:59:49.441Z",
-    "title_zh": "Anthropic发布全新Claude Fable与Mythos 5.2模型",
-    "summary_zh": "Anthropic推出两款新模型Claude Fable和Mythos 5.2，进一步扩展其大模型产品线。新模型据称在推理能力、上下文处理和任务执行上有所提升，面向开发者与企业用户开放。此举加剧了与OpenAI、谷歌等厂商在前沿模型领域的竞争。",
-    "category": "llm"
-  },
-  {
-    "id": "dc7d88d38c33163d7d8c1e36bdac6586",
-    "title_en": "You can grab three months of Game Pass Ultimate for under $20 per month",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-    "published_at": "2026-11-09T18:35:25.000Z",
-    "fetched_at": "2026-11-10T00:59:49.441Z",
-    "title_zh": "每月不到20美元即可获得三个月Game Pass Ultimate",
-    "summary_zh": "微软Game Pass Ultimate推出限时优惠，三个月订阅折算下来每月不到20美元，适合想体验云游戏和首发大作的玩家。该促销反映出订阅服务市场竞争激烈，厂商正通过折扣吸引用户长期留存。",
-    "category": "product"
-  },
-  {
-    "id": "5cf6d892a33246aa96c277724ae375ee",
-    "title_en": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "published_at": "2026-11-09T18:09:52.000Z",
-    "fetched_at": "2026-11-10T00:59:49.367Z",
-    "title_zh": "黄仁勋与疑似中国间谍的绯闻令英伟达在华野心面临审视",
-    "summary_zh": "黄仁勋与一名疑似中国间谍的绯闻曝光后，英伟达在中国市场的战略布局受到严格审视。外界担忧该事件可能影响公司对华业务、出口合规及政府关系，使其本已复杂的地缘政治处境更加敏感。",
-    "category": "industry"
-  },
-  {
-    "id": "9c473fd9de958c8dad5f50cc1f423cd9",
-    "title_en": "Instagram’s Effect Builder makes new filters from AI prompts",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-    "published_at": "2026-11-09T18:07:23.000Z",
-    "fetched_at": "2026-11-10T00:59:49.441Z",
-    "title_zh": "Instagram推出Effect Builder，用AI提示词生成新滤镜",
-    "summary_zh": "Instagram上线Effect Builder工具，用户只需输入文字提示词即可由AI生成个性化滤镜和特效，大幅降低AR创作门槛。该功能延续了Meta将生成式AI融入社交产品的策略，有望激发更多用户自制内容，但也引发对创意版权和内容审核的讨论。",
-    "category": "product"
-  },
-  {
-    "id": "4e9571c22539f9f9667ed1047c8b4e96",
-    "title_en": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "published_at": "2026-11-09T18:00:00.000Z",
-    "fetched_at": "2026-11-10T00:59:49.367Z",
-    "title_zh": "Meta发布Muse Ember，一款面向智能体执行的全新轻量级模型",
-    "summary_zh": "Meta推出轻量级模型Muse Ember，专为智能体任务执行设计，主打高效与低延迟。该模型面向自动化工作流与工具调用场景，体现Meta在智能体方向的产品化布局，也为开发者提供了更轻量的部署选择。",
-    "category": "llm"
-  },
-  {
-    "id": "b28d5a2c0e7861a1431370db93459cbb",
-    "title_en": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-    "published_at": "2026-11-09T17:05:43.000Z",
-    "fetched_at": "2026-11-10T00:59:49.938Z",
-    "title_zh": "佩洛西的继任者准备监管 AI",
-    "summary_zh": "MIT 科技评论报道，南希·佩洛西的继任者已准备好推动 AI 监管。作为接替这位资深政治人物的人物，其立场将对美国 AI 立法走向产生影响。文章分析了新任者在 AI 治理上的态度与可能的政策方向，包括透明度、安全评估和问责机制等议题。这一动向被视为美国 AI 监管格局变化的重要信号，值得行业持续关注。",
-    "category": "industry"
-  },
-  {
-    "id": "c86ce283d784815ec516c1e60de21a46",
-    "title_en": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "published_at": "2026-11-09T16:56:54.000Z",
-    "fetched_at": "2026-11-10T00:59:49.367Z",
-    "title_zh": "Anthropic加入AI天然气热潮，斥资34亿美元购买涡轮机",
-    "summary_zh": "Anthropic斥资34亿美元采购涡轮机，加入AI行业为数据中心供电而掀起的天然气热潮。此举凸显AI算力扩张带来的巨大能源需求，也反映科技公司在电力供应上的重资产投入与对稳定能源的迫切追求。",
-    "category": "industry"
-  },
-  {
-    "id": "803463ec7f36e022ee1dc9b23be3fbc5",
-    "title_en": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "published_at": "2026-11-09T16:12:28.000Z",
-    "fetched_at": "2026-11-10T00:59:49.368Z",
-    "title_zh": "Medium全新TK应用将AI辅助直接融入写作过程",
-    "summary_zh": "Medium推出全新TK应用，将AI辅助直接嵌入写作流程，帮助用户在创作过程中获得实时建议与支持。该功能旨在提升写作效率与体验，也体现内容平台借助AI工具增强创作者粘性的产品趋势。",
-    "category": "product"
   }
 ]

@@ -2,127 +2,147 @@
   "days": [
     {
       "date": "2026-11-16",
-      "summary_zh": "今日GitHub趋势聚焦AI智能体生态：办公套件、前端交互协议、编码技能库与代码审查工具百花齐放，凸显Agent与开发工作流深度融合。",
+      "summary_zh": "今日趋势聚焦AI智能体生态：AG-UI交互协议、Agent技能开发与评估工具涌现，另有AI办公SDK、Docker管理及中国历史地图等亮点项目。",
       "projects": [
         {
           "rank": 1,
-          "name": "GoogleChrome/modern-web-guidance-src",
-          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-          "description_en": "Keep your coding agent up to date with the latest web best practices",
-          "language": "TypeScript",
-          "stars_total": 7347,
-          "stars_today": 1219,
-          "description_zh": "让你的编码智能体及时掌握最新的 Web 最佳实践"
-        },
-        {
-          "rank": 2,
           "name": "dream-num/univer",
           "url": "https://github.com/dream-num/univer",
           "description_en": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
           "language": "TypeScript",
-          "stars_total": 26438,
-          "stars_today": 988,
+          "stars_total": 27513,
+          "stars_today": 1878,
           "description_zh": "使用 Univer Office SDK 构建你自己的 AI 办公套件。将编辑、计算、协作和文件处理功能引入你的产品，服务于用户和 AI 智能体。基于可扩展的开源核心构建。"
         },
         {
-          "rank": 3,
-          "name": "backnotprop/plannotator",
-          "url": "https://github.com/backnotprop/plannotator",
-          "description_en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-          "language": "TypeScript",
-          "stars_total": 11973,
-          "stars_today": 866,
-          "description_zh": "用于持续跟进并掌控智能体的工作空间——塑造、决策、规划、标注、审查代码、与团队共享，并一键将所有反馈发送给智能体。"
-        },
-        {
-          "rank": 4,
-          "name": "ChromeDevTools/chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "description_en": "Chrome DevTools for coding agents",
-          "language": "TypeScript",
-          "stars_total": 57115,
-          "stars_today": 717,
-          "description_zh": "面向编码智能体的 Chrome DevTools"
-        },
-        {
-          "rank": 5,
-          "name": "tradermonty/claude-trading-skills",
-          "url": "https://github.com/tradermonty/claude-trading-skills",
-          "description_en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "language": "Python",
-          "stars_total": 5684,
-          "stars_today": 706,
-          "description_zh": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
-        },
-        {
-          "rank": 6,
-          "name": "alibaba/open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "language": "Go",
-          "stars_total": 52271,
-          "stars_today": 691,
-          "description_zh": "安全、快速、高效，并经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM 智能体，精确到行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 与 Anthropic。"
-        },
-        {
-          "rank": 7,
-          "name": "Tencent/LoopForge",
-          "url": "https://github.com/Tencent/LoopForge",
-          "description_en": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-          "language": "Go",
-          "stars_total": 1713,
-          "stars_today": 423,
-          "description_zh": "面向编码智能体交付的自托管工作流。通过脚本和人工审批关卡编排 CodeBuddy、Codex 和 Claude Code。包含面向编码助手的本地工作流。"
-        },
-        {
-          "rank": 8,
-          "name": "ag-ui-protocol/ag-ui",
-          "url": "https://github.com/ag-ui-protocol/ag-ui",
-          "description_en": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-          "language": "TypeScript",
-          "stars_total": 18048,
-          "stars_today": 355,
-          "description_zh": "AG-UI：智能体-用户交互协议。将智能体引入前端应用。"
-        },
-        {
-          "rank": 9,
-          "name": "google-labs-code/stitch-skills",
-          "url": "https://github.com/google-labs-code/stitch-skills",
-          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-          "language": "TypeScript",
-          "stars_total": 9404,
-          "stars_today": 247,
-          "description_zh": "一套专为 Stitch MCP 服务器设计的智能体技能库。每个技能遵循 Agent Skills 开放标准，可兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体。"
-        },
-        {
-          "rank": 10,
+          "rank": 2,
           "name": "NVIDIA/SkillEvaluator",
           "url": "https://github.com/NVIDIA/SkillEvaluator",
           "description_en": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
           "language": "Python",
-          "stars_total": 1833,
-          "stars_today": 122,
+          "stars_total": 2303,
+          "stars_today": 953,
           "description_zh": "用于评估 AI 智能体技能的多层级框架，具备质量门禁、语义重叠检测、合成评估数据集生成，以及衡量技能如何影响智能体行为的实时智能体评估。"
         },
         {
-          "rank": 11,
-          "name": "elementalsouls/Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "description_en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "rank": 3,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 52711,
+          "stars_today": 946,
+          "description_zh": "安全、快速、高效，并经过阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM 智能体，精确到行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 与 Anthropic。"
+        },
+        {
+          "rank": 4,
+          "name": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "description_en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
           "language": "Python",
-          "stars_total": 6607,
-          "stars_today": 98,
-          "description_zh": "面向漏洞挖掘和外部红队工作的 Claude Code 技能包——包含 82 项技能、15 个斜杠命令、覆盖 24 个核心漏洞类别的 681 个已披露报告模式，以及企业身份与基础设施攻击矩阵。"
+          "stars_total": 6041,
+          "stars_today": 841,
+          "description_zh": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 57476,
+          "stars_today": 837,
+          "description_zh": "面向编码智能体的 Chrome DevTools"
+        },
+        {
+          "rank": 6,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description_en": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars_total": 18480,
+          "stars_today": 790,
+          "description_zh": "AG-UI：智能体-用户交互协议。将智能体引入前端应用。"
+        },
+        {
+          "rank": 7,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description_en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars_total": 12282,
+          "stars_today": 689,
+          "description_zh": "用于持续跟进并掌控智能体的工作空间——塑造、决策、规划、标注、审查代码、与团队共享，并一键将所有反馈发送给智能体。"
+        },
+        {
+          "rank": 8,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars_total": 9614,
+          "stars_today": 540,
+          "description_zh": "一套专为 Stitch MCP 服务器设计的智能体技能库。每个技能遵循 Agent Skills 开放标准，可兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体。"
+        },
+        {
+          "rank": 9,
+          "name": "kajisho5/ffmpeg-skill",
+          "url": "https://github.com/kajisho5/ffmpeg-skill",
+          "description_en": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+          "language": "Python",
+          "stars_total": 6245,
+          "stars_today": 331,
+          "description_zh": "面向编码智能体的本地视频编辑器：42 个 FFmpeg 工具，具备机器可读契约和 MCP 服务器，适用于 Claude Code、Cursor 和 Codex。支持剪辑、字幕、重新构图、响度、平台导出。无需云服务，无需 API 密钥。"
+        },
+        {
+          "rank": 10,
+          "name": "google-research/paper-orchestra",
+          "url": "https://github.com/google-research/paper-orchestra",
+          "description_en": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+          "language": "Python",
+          "stars_total": 1099,
+          "stars_today": 306,
+          "description_zh": "PaperOrchestra 是一个用于自动化 AI 研究论文写作的多智能体框架。"
+        },
+        {
+          "rank": 11,
+          "name": "DeanChensj/jiangshan-map",
+          "url": "https://github.com/DeanChensj/jiangshan-map",
+          "description_en": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+          "language": "JavaScript",
+          "stars_total": 6543,
+          "stars_today": 285,
+          "description_zh": "江山时序 · 中国历史交互地图时间轴（公元前403年–至今）| 涵盖18个朝代、198个疆域快照的中国历史交互地图集，包含古今地名沿革与古典诗词路线"
         },
         {
           "rank": 12,
-          "name": "ggml-org/ggml",
-          "url": "https://github.com/ggml-org/ggml",
-          "description_en": "Tensor library for machine learning",
-          "language": "C++",
-          "stars_total": 15962,
-          "stars_today": 43,
-          "description_zh": "用于机器学习的张量库"
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 67881,
+          "stars_today": 122,
+          "description_zh": "AI 智能体技能，可跨 Reddit、X、YouTube、HN、Polymarket 和网络研究任何话题，然后综合生成有依据的摘要"
+        },
+        {
+          "rank": 13,
+          "name": "sveltejs/svelte",
+          "url": "https://github.com/sveltejs/svelte",
+          "description_en": "web development for the rest of us",
+          "language": "JavaScript",
+          "stars_total": 88786,
+          "stars_today": 58,
+          "description_zh": "为我们其余人打造的 Web 开发"
+        },
+        {
+          "rank": 14,
+          "name": "getarcaneapp/arcane",
+          "url": "https://github.com/getarcaneapp/arcane",
+          "description_en": "Modern Docker Management, Designed for Everyone",
+          "language": "Go",
+          "stars_total": 8462,
+          "stars_today": 31,
+          "description_zh": "现代 Docker 管理，为所有人设计"
         }
       ]
     },
