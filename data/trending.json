@@ -1,6 +1,152 @@
 {
   "days": [
     {
+      "date": "2026-11-17",
+      "summary_zh": "今日趋势聚焦AI智能体生态：AG-UI交互协议、Stitch技能库、技能评估框架及代码审查工具涌现，同时AI办公、Docker管理与历史地图项目亮眼。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description_en": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars_total": 27797,
+          "stars_today": 1828,
+          "description_zh": "使用 Univer Office SDK 构建你自己的 AI 办公套件。将编辑、计算、协作和文件处理功能引入你的产品，服务于人类和 AI 智能体。基于可扩展的开源核心构建。"
+        },
+        {
+          "rank": 2,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars_total": 52945,
+          "stars_today": 951,
+          "description_zh": "安全、快速、高效，经阿里巴巴规模实战检验。混合架构代码审查工具：确定性流水线 + LLM 智能体，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 和 Anthropic。"
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA/SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "description_en": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+          "language": "Python",
+          "stars_total": 2716,
+          "stars_today": 873,
+          "description_zh": "多层框架，用于评估 AI 智能体技能和插件，具备质量门禁、语义重叠检测、合成评估数据集生成以及衡量技能如何影响智能体行为的实时智能体评估。"
+        },
+        {
+          "rank": 4,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description_en": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars_total": 57691,
+          "stars_today": 841,
+          "description_zh": "面向编程智能体的 Chrome DevTools"
+        },
+        {
+          "rank": 5,
+          "name": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "description_en": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+          "language": "Python",
+          "stars_total": 6321,
+          "stars_today": 837,
+          "description_zh": "面向股票投资者和交易者的 Claude Code 技能——市场分析、技术图表、经济日历、筛选器和交易策略开发。"
+        },
+        {
+          "rank": 6,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description_en": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars_total": 19014,
+          "stars_today": 791,
+          "description_zh": "AG-UI：智能体-用户交互协议。将智能体引入前端应用。"
+        },
+        {
+          "rank": 7,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description_en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars_total": 12578,
+          "stars_today": 696,
+          "description_zh": "保持跟进并掌控智能体的工作空间——塑造、决策、规划、标注、审查代码、与团队共享，并一键将所有反馈发送给智能体。"
+        },
+        {
+          "rank": 8,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars_total": 9739,
+          "stars_today": 529,
+          "description_zh": "一套专为 Stitch MCP 服务器设计的智能体技能库。每个技能遵循智能体技能开放标准，兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编程智能体。"
+        },
+        {
+          "rank": 9,
+          "name": "kajisho5/ffmpeg-skill",
+          "url": "https://github.com/kajisho5/ffmpeg-skill",
+          "description_en": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+          "language": "Python",
+          "stars_total": 6760,
+          "stars_today": 367,
+          "description_zh": "面向编程智能体的本地视频编辑器：42 个 FFmpeg 工具，配备机器可读契约和 MCP 服务器，适用于 Claude Code、Cursor 和 Codex。剪切、字幕、重新构图、响度、平台导出。无需云服务，无需 API 密钥。"
+        },
+        {
+          "rank": 10,
+          "name": "google-research/paper-orchestra",
+          "url": "https://github.com/google-research/paper-orchestra",
+          "description_en": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+          "language": "Python",
+          "stars_total": 1542,
+          "stars_today": 313,
+          "description_zh": "PaperOrchestra 是一个用于自动化 AI 研究论文写作的多智能体框架。"
+        },
+        {
+          "rank": 11,
+          "name": "DeanChensj/jiangshan-map",
+          "url": "https://github.com/DeanChensj/jiangshan-map",
+          "description_en": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+          "language": "JavaScript",
+          "stars_total": 6759,
+          "stars_today": 288,
+          "description_zh": "江山时序 · 中国历史交互地图时间轴（公元前403年 – 至今）| 涵盖18个朝代、198个疆域快照的中国历史交互地图集，古今地名沿革与古典诗词路线"
+        },
+        {
+          "rank": 12,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 68139,
+          "stars_today": 135,
+          "description_zh": "AI 智能体技能，可在 Reddit、X、YouTube、HN、Polymarket 和网络上研究任何主题——然后综合出一份有依据的摘要"
+        },
+        {
+          "rank": 13,
+          "name": "sveltejs/svelte",
+          "url": "https://github.com/sveltejs/svelte",
+          "description_en": "web development for the rest of us",
+          "language": "JavaScript",
+          "stars_total": 89003,
+          "stars_today": 115,
+          "description_zh": "为我们其余人打造的 Web 开发框架"
+        },
+        {
+          "rank": 14,
+          "name": "getarcaneapp/arcane",
+          "url": "https://github.com/getarcaneapp/arcane",
+          "description_en": "Modern Docker Management, Designed for Everyone",
+          "language": "Go",
+          "stars_total": 8744,
+          "stars_today": 46,
+          "description_zh": "现代 Docker 管理，为每个人而设计"
+        }
+      ]
+    },
+    {
       "date": "2026-11-16",
       "summary_zh": "今日趋势聚焦AI智能体生态：AG-UI交互协议、Agent技能开发与评估工具涌现，另有AI办公SDK、Docker管理及中国历史地图等亮点项目。",
       "projects": [
@@ -3881,142 +4027,6 @@
           "stars_total": 152606,
           "stars_today": 167,
           "description_zh": "Claude Code 是一款代理式编码工具，驻留在你的终端中，理解你的代码库，并通过自然语言命令执行日常任务、解释复杂代码和处理 git 工作流，帮助你更快地编码。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "summary_zh": "今日GitHub热榜聚焦AI编程代理生态：Claude Code插件目录、开源编码代理、多代理编排与长期记忆方案涌现，AI求职、本地语音克隆等应用走热。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "MadsLorentzen/ai-job-search",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-          "language": "Python",
-          "stars_total": 52579,
-          "stars_today": 2213,
-          "description_zh": "在你的机器上运行的求职工具。基于 Claude Code 构建的 AI 求职申请框架：评估职位发布、定制简历、撰写求职信、准备面试。Fork 它并拥有它。"
-        },
-        {
-          "rank": 2,
-          "name": "debpalash/VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "description_en": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "language": "Python",
-          "stars_total": 74916,
-          "stars_today": 2098,
-          "description_zh": "VoiceStudio 是开源、完全本地的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作。"
-        },
-        {
-          "rank": 3,
-          "name": "anomalyco/opencode",
-          "url": "https://github.com/anomalyco/opencode",
-          "description_en": "The open source coding agent.",
-          "language": "TypeScript",
-          "stars_total": 216396,
-          "stars_today": 1417,
-          "description_zh": "开源编码智能体。"
-        },
-        {
-          "rank": 4,
-          "name": "anthropics/claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-          "language": "Python",
-          "stars_total": 42551,
-          "stars_today": 1187,
-          "description_zh": "由 Anthropic 官方管理的高质量 Claude Code 插件目录。"
-        },
-        {
-          "rank": 5,
-          "name": "stablyai/orca",
-          "url": "https://github.com/stablyai/orca",
-          "description_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "language": "TypeScript",
-          "stars_total": 96418,
-          "stars_today": 1146,
-          "description_zh": "Orca 是使用智能体集群（例如 Grok Bot、Claude Code）进行工作的平台。使用你自己的订阅运行任何编码智能体。可在桌面端、移动端和远程运行时使用。"
-        },
-        {
-          "rank": 6,
-          "name": "HKUDS/CLI-Anything",
-          "url": "https://github.com/HKUDS/CLI-Anything",
-          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-          "language": "Python",
-          "stars_total": 54504,
-          "stars_today": 582,
-          "description_zh": "\"CLI-Anything：让所有软件都成为智能体原生\" —— CLI-Hub：https://clianything.cc/"
-        },
-        {
-          "rank": 7,
-          "name": "akitaonrails/ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "language": "Rust",
-          "stars_total": 10380,
-          "stars_today": 513,
-          "description_zh": "为智能体编码 CLI 提供长期记忆的解决方案，并促进不同智能体供应商之间的交接。"
-        },
-        {
-          "rank": 8,
-          "name": "ruvnet/ruflo",
-          "url": "https://github.com/ruvnet/ruflo",
-          "description_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-          "language": "TypeScript",
-          "stars_total": 76429,
-          "stars_today": 502,
-          "description_zh": "🌊 最初的智能体框架。部署智能多人集群、协调自主工作流，并构建对话式 AI 系统。具备自适应记忆、自学习智能、联邦、向量 RAG 集成，并原生集成 Claude Code / Codex / Hermes 等众多工具。"
-        },
-        {
-          "rank": 9,
-          "name": "android/skills",
-          "url": "https://github.com/android/skills",
-          "description_en": "",
-          "language": "Kotlin",
-          "stars_total": 8706,
-          "stars_today": 381,
-          "description_zh": ""
-        },
-        {
-          "rank": 10,
-          "name": "cursor/plugins",
-          "url": "https://github.com/cursor/plugins",
-          "description_en": "Cursor plugin specification and official plugins",
-          "language": "TypeScript",
-          "stars_total": 12677,
-          "stars_today": 351,
-          "description_zh": "Cursor 插件规范与官方插件"
-        },
-        {
-          "rank": 11,
-          "name": "Comfy-Org/ComfyUI",
-          "url": "https://github.com/Comfy-Org/ComfyUI",
-          "description_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-          "language": "Python",
-          "stars_total": 138494,
-          "stars_today": 155,
-          "description_zh": "功能最强大、模块化的扩散模型 GUI、API 和后端，配备图/节点界面。全球最快的本地推理引擎。"
-        },
-        {
-          "rank": 12,
-          "name": "Kruk2/jasna",
-          "url": "https://github.com/Kruk2/jasna",
-          "description_en": "Video restoration tool",
-          "language": "Python",
-          "stars_total": 2343,
-          "stars_today": 115,
-          "description_zh": "视频修复工具"
-        },
-        {
-          "rank": 13,
-          "name": "mlabonne/llm-course",
-          "url": "https://github.com/mlabonne/llm-course",
-          "description_en": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "language": "",
-          "stars_total": 83947,
-          "stars_today": 81,
-          "description_zh": "通过路线图和 Colab 笔记本入门大语言模型（LLM）的课程。"
         }
       ]
     }
