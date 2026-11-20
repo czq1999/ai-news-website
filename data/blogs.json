@@ -1,5 +1,148 @@
 [
   {
+    "id": "8b33f7dc17be50cfafeb5faa3d1bcf52",
+    "title_en": "Android安全补丁级别≠安全：从SPL到内核，如何评估真实暴露面 - 社区",
+    "source": "bbs.csdn.net",
+    "url": "https://bbs.csdn.net/weixin_28568819/article/details/100742000",
+    "published_at": "2026-11-20T14:38:23.477Z",
+    "fetched_at": "2026-11-20T14:38:23.477Z",
+    "title_zh": "Android安全补丁级别≠安全：从SPL到内核，如何评估真实暴露面",
+    "summary_zh": "本文深入分析Android安全补丁级别（SPL）与实际安全状态之间的差距，指出仅凭SPL无法准确反映设备的真实暴露面。文章从内核补丁、厂商定制、HAL层漏洞与供应链风险等角度，讲解如何系统性评估Android设备的攻击面，并提出结合CVE追踪、内核版本比对与运行时防护的综合评估方法，为移动安全加固提供实践指导。",
+    "topic": "security"
+  },
+  {
+    "id": "07316794312f88ad2652b8b0f70ebe06",
+    "title_en": "主机安全运维流程中的操作系统内核漏洞动态热补丁与实时防护流程",
+    "source": "zhuji.idocdown.com",
+    "url": "https://zhuji.idocdown.com/app/articles/blogs/detail/8558",
+    "published_at": "2026-11-20T14:38:23.477Z",
+    "fetched_at": "2026-11-20T14:38:23.477Z",
+    "title_zh": "主机安全运维中的操作系统内核漏洞动态热补丁与实时防护流程",
+    "summary_zh": "本文探讨主机安全运维中针对操作系统内核漏洞的动态热补丁与实时防护流程。文章分析热补丁技术原理及其在不重启系统前提下修复内核漏洞的适用场景，结合实时防护机制讲解从漏洞情报获取、补丁验证、灰度部署到回滚的完整运维流程，并讨论热补丁与常规补丁管理的协同策略，帮助运维团队在保障业务连续性的同时降低内核漏洞暴露风险。",
+    "topic": "security"
+  },
+  {
+    "id": "b9e7e28079f69731b8a14c6534956db3",
+    "title_en": "从可观测性到AIOps 自动化的演进之路",
+    "source": "redhat.com",
+    "url": "https://www.redhat.com/zh-cn/topics/automation/observability-to-aiops-automation",
+    "published_at": "2026-11-20T14:38:23.477Z",
+    "fetched_at": "2026-11-20T14:38:23.477Z",
+    "title_zh": "从可观测性到AIOps自动化的演进之路",
+    "summary_zh": "本文梳理从传统可观测性体系向AIOps自动化演进的路径，分析指标、日志、追踪三大支柱在数据采集与关联分析上的实践挑战。文章探讨如何引入机器学习实现异常检测、根因定位与告警降噪，并结合自动化编排构建闭环运维流程，同时讨论落地过程中的数据质量、模型可解释性与组织协作等关键问题，为运维智能化转型提供参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "df36145b7805447f888d35a4d34a8ee0",
+    "title_en": "这一年我们上线的运维自动化系统",
+    "source": "cnblogs.com",
+    "url": "https://www.cnblogs.com/37Y37/p/17945052",
+    "published_at": "2026-11-20T14:38:23.477Z",
+    "fetched_at": "2026-11-20T14:38:23.477Z",
+    "title_zh": "这一年我们上线的运维自动化系统",
+    "summary_zh": "本文复盘一年来团队上线的运维自动化系统建设历程，涵盖配置管理、批量发布、故障自愈与巡检自动化等模块的设计与落地。文章分享架构选型、流程改造与团队协作中的实践经验，剖析自动化推进中遇到的组织阻力与技术债务问题，并总结衡量自动化收益的指标体系，为计划构建运维自动化平台的团队提供可借鉴的实战参考。",
+    "topic": "ops"
+  },
+  {
+    "id": "973c4c078aff510cf664328f3af97691",
+    "title_en": "Linux性能调优实战指南",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/2503_93013170/article/details/150943159",
+    "published_at": "2026-11-20T14:38:22.517Z",
+    "fetched_at": "2026-11-20T14:38:22.517Z",
+    "title_zh": "Linux性能调优实战指南",
+    "summary_zh": "本文聚焦Linux系统性能调优实战，从CPU调度、内存管理、磁盘IO与网络栈四个维度剖析常见性能瓶颈的定位与优化方法。文章介绍top、perf、iostat、sar等工具的组合使用技巧，结合真实案例讲解如何通过内核参数调整、资源隔离与架构优化提升系统吞吐与响应速度，为运维与后端工程师提供可落地的调优思路。",
+    "topic": "ops"
+  },
+  {
+    "id": "d686b89a948cfd392dfe7b47344cd6cf",
+    "title_en": "linux系统分析之工具大全(观测，性能分析等)",
+    "source": "zhuanlan.zhihu.com",
+    "url": "https://zhuanlan.zhihu.com/p/526432016",
+    "published_at": "2026-11-20T14:38:22.517Z",
+    "fetched_at": "2026-11-20T14:38:22.517Z",
+    "title_zh": "Linux系统分析工具大全：观测与性能分析",
+    "summary_zh": "本文系统整理了Linux系统分析与性能观测工具，覆盖CPU、内存、磁盘、网络、进程等子系统的监控与诊断需求。文章按使用场景分类介绍perf、ftrace、eBPF、strace、vmstat等工具的功能与典型用法，并给出从宏观指标到微观追踪的排查路径，帮助工程师构建完整的可观测性工具箱，提升复杂问题的定位效率。",
+    "topic": "ops"
+  },
+  {
+    "id": "1555885bb60e9bda78ecba0582c743c6",
+    "title_en": "从零开始自学《Linux运维工程师》",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
+    "published_at": "2026-11-20T14:38:21.463Z",
+    "fetched_at": "2026-11-20T14:38:21.463Z",
+    "title_zh": "从零开始自学《Linux运维工程师》",
+    "summary_zh": "本文提供一条从零基础到Linux运维工程师的系统学习路径，涵盖Linux基础命令、Shell脚本、系统管理、网络配置、服务部署与故障排查等核心技能。内容按学习阶段组织，配套实践练习与常见问题解析，强调动手实操与排错思维培养，适合转行人员与初级运维建立完整的知识体系。",
+    "topic": "ops"
+  },
+  {
+    "id": "0cdd9387f4c3ed9dd31d7c598d9a0db8",
+    "title_en": "Linux运维入门教程（☆建议收藏☆） 原创",
+    "source": "blog.csdn.net",
+    "url": "https://blog.csdn.net/younger_china/article/details/125736117",
+    "published_at": "2026-11-20T14:38:21.463Z",
+    "fetched_at": "2026-11-20T14:38:21.463Z",
+    "title_zh": "Linux运维入门教程（建议收藏）",
+    "summary_zh": "本文是一份面向初学者的Linux运维入门教程，系统讲解文件系统、用户权限、进程管理、软件包管理、网络配置与常用服务搭建等基础知识。内容注重命令实操与原理结合，附带大量示例与排错技巧，帮助读者快速建立Linux系统管理的核心能力，为后续深入学习自动化运维与容器化技术打下基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "3d9568ba25b74c32881366fbf8ea0d2c",
+    "title_en": "2026年主流大模型全解析：谁是真正的AI之王？ - DevPress",
+    "source": "devpress.csdn.net",
+    "url": "https://devpress.csdn.net/awstech/6a9164162b83d06f0ec692d6.html",
+    "published_at": "2026-11-20T14:38:21.462Z",
+    "fetched_at": "2026-11-20T14:38:21.462Z",
+    "title_zh": "2026年主流大模型全解析：谁是真正的AI之王？",
+    "summary_zh": "本文系统梳理2026年主流大模型的技术架构与能力边界，从推理性能、上下文长度、多模态支持、成本效率等维度进行横向对比。文章深入分析各模型在代码生成、长文档理解、复杂推理等场景下的实测表现，并结合基准测试数据与真实业务案例，给出面向不同应用场景的选型建议，帮助技术团队在模型能力快速迭代的背景下做出务实的架构决策。",
+    "topic": "ai"
+  },
+  {
+    "id": "a1deb01d8707c902a0bde4b2c986579b",
+    "title_en": "🚨2026大模型排行榜：实测10+主流大模型选型指南",
+    "source": "daxue.taobao.com",
+    "url": "https://daxue.taobao.com/information/detail.jhtml?id=1375&",
+    "published_at": "2026-11-20T14:38:21.462Z",
+    "fetched_at": "2026-11-20T14:38:21.462Z",
+    "title_zh": "2026大模型排行榜：实测10+主流大模型选型指南",
+    "summary_zh": "基于对十余款主流大模型的实际测试，本文提供了一份面向工程落地的选型指南。内容涵盖各模型在推理延迟、吞吐量、API成本、指令遵循、工具调用等关键指标上的量化对比，并针对RAG、Agent、代码辅助等典型应用场景给出推荐组合。文章强调选型需综合考量性能与成本，避免唯榜单论，为团队构建LLM应用提供可操作的决策依据。",
+    "topic": "ai"
+  },
+  {
+    "id": "7fe1bc472708f7821dfd7de70a1a1ece",
+    "title_en": "2026年8月中旬全球20款旗舰AI大模型八维横评附带下一代预测",
+    "source": "bilibili.com",
+    "url": "https://www.bilibili.com/video/BV1bzbb6gEgA/",
+    "published_at": "2026-11-20T14:38:21.462Z",
+    "fetched_at": "2026-11-20T14:38:21.462Z",
+    "title_zh": "2026年8月中旬全球20款旗舰AI大模型八维横评及下一代预测",
+    "summary_zh": "本文对全球20款旗舰AI大模型进行八维度横向评测，覆盖语言理解、逻辑推理、代码能力、多模态、长上下文、响应速度、成本效率与生态支持。通过统一测试集与真实任务场景对比各模型优劣，并结合技术路线图对下一代模型的能力演进方向做出预测，为技术选型与架构规划提供参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "12c3de2b9716a1a7f7c6099caaa71cd0",
+    "title_en": "国产大模型谁最强？2026最新横评：中文碾压、长文吊打，但多模态还差 ...",
+    "source": "post.m.smzdm.com",
+    "url": "https://post.m.smzdm.com/p/ae699k3q/",
+    "published_at": "2026-11-20T14:38:21.462Z",
+    "fetched_at": "2026-11-20T14:38:21.462Z",
+    "title_zh": "国产大模型谁最强？2026最新横评：中文碾压、长文吊打，但多模态还差...",
+    "summary_zh": "本文对2026年主流国产大模型进行横向评测，重点考察中文语义理解、长文本处理与多模态能力。测试显示国产模型在中文任务与长上下文场景表现突出，但在多模态融合、复杂视觉推理方面仍存在差距。文章通过量化数据与案例分析各模型的技术特点，为国内开发者选择适合业务场景的模型提供实践参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "58135923bb24d7086962b38e2e5e4a34",
+    "title_en": "AI自主Agent开发框架选型指南与评估实践",
+    "source": "cloud.baidu.com",
+    "url": "https://cloud.baidu.com/article/9455075",
+    "published_at": "2026-11-20T14:38:21.462Z",
+    "fetched_at": "2026-11-20T14:38:21.462Z",
+    "title_zh": "AI自主Agent开发框架选型指南与评估实践",
+    "summary_zh": "本文面向AI自主Agent开发，系统对比主流Agent框架在任务规划、工具调用、记忆管理、多Agent协作等方面的能力差异。文章提出一套包含可扩展性、可观测性、调试支持与生态成熟度的评估方法论，并结合实际项目经验给出不同复杂度场景下的框架选型建议，帮助开发者规避集成陷阱，构建稳定可维护的Agent系统。",
+    "topic": "ai"
+  },
+  {
     "id": "199bf5da10990c61df88997892ce6647",
     "title_en": "四两拨千斤—— Ubuntu kernel eBPF 0day分析 - 腾讯安全应急响应中心",
     "source": "security.tencent.com",
@@ -2055,148 +2198,5 @@
     "title_zh": "高危漏洞 - 阿里云漏洞库",
     "summary_zh": "阿里云漏洞库高危漏洞列表页面，汇总近期披露的高危 CVE 条目，通常包含漏洞编号、影响组件与版本范围、CVSS 评分及修复建议。技术读者可据此快速筛查自身系统所用组件是否存在对应风险，并结合厂商补丁与缓解措施制定修复优先级，是漏洞管理与安全运营中重要的情报来源之一。",
     "topic": "security"
-  },
-  {
-    "id": "42d2c70a6f45476a5c7db6ec577b5ab2",
-    "title_en": "September 2026 CVE Landscape",
-    "source": "recordedfuture.com",
-    "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape",
-    "published_at": "2026-11-17T15:13:39.863Z",
-    "fetched_at": "2026-11-17T15:13:39.863Z",
-    "title_zh": "2026 年 9 月 CVE 态势综述",
-    "summary_zh": "本文汇总 2026 年 9 月披露的 CVE 漏洞态势，分析高危漏洞分布、受影响产品类别及在野利用情况，并梳理值得优先关注的漏洞趋势。内容通常结合威胁情报数据，评估漏洞利用活跃度与攻击面变化，为安全团队制定补丁管理与风险缓解优先级提供依据，适合漏洞管理与威胁情报岗位读者参考。",
-    "topic": "security"
-  },
-  {
-    "id": "95c1e9aacb62372cade9759b9dbf312f",
-    "title_en": "WordPress Core高危漏洞分析：CVE-2026-60137 与 ... - 腾讯云",
-    "source": "cloud.tencent.com",
-    "url": "https://cloud.tencent.com/developer/article/2713079",
-    "published_at": "2026-11-17T15:13:39.863Z",
-    "fetched_at": "2026-11-17T15:13:39.863Z",
-    "title_zh": "WordPress Core 高危漏洞分析：CVE-2026-60137 与…… - 腾讯云",
-    "summary_zh": "本文分析 WordPress Core 高危漏洞 CVE-2026-60137，通常涉及漏洞成因、触发条件、影响版本范围及潜在利用方式，并给出修复与缓解建议。由于 WordPress 部署量庞大，此类核心漏洞易被批量扫描利用，文章对攻击链与防护要点进行拆解，帮助站点管理员评估风险并尽快完成升级加固。",
-    "topic": "security"
-  },
-  {
-    "id": "6c4dc38eddec46f68f50ef3a7259fda2",
-    "title_en": "CVE-2026-2025 Detail - NVD",
-    "source": "nvd.nist.gov",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-2025",
-    "published_at": "2026-11-17T15:13:39.863Z",
-    "fetched_at": "2026-11-17T15:13:39.863Z",
-    "title_zh": "CVE-2026-2025 详情 - NVD",
-    "summary_zh": "NVD 官方条目页面，提供 CVE-2026-2025 的标准漏洞详情，包括描述、CVSS 评分与向量、CWE 分类、受影响产品配置（CPE）及参考链接。技术读者可据此获取权威的漏洞定级与影响范围信息，用于资产匹配与风险评估，是漏洞管理流程中核实漏洞真实性与严重程度的基础数据来源。",
-    "topic": "security"
-  },
-  {
-    "id": "25922c7bb0ece90830023c97d68bb875",
-    "title_en": "StarCrossPortal/VulnsDB: CVE漏洞分析合集-持续更新",
-    "source": "github.com",
-    "url": "https://github.com/StarCrossPortal/VulnsDB",
-    "published_at": "2026-11-17T15:13:39.863Z",
-    "fetched_at": "2026-11-17T15:13:39.863Z",
-    "title_zh": "StarCrossPortal/VulnsDB：CVE 漏洞分析合集——持续更新",
-    "summary_zh": "该 GitHub 仓库持续收录 CVE 漏洞分析文章，涵盖漏洞成因、利用条件、PoC 思路与修复建议，形成结构化的漏洞知识库。对安全研究者与运维人员而言，可作为漏洞复现与原理学习的参考资料，帮助理解同类漏洞的共性模式，提升代码审计与应急响应能力，建议关注其更新频率与内容质量。",
-    "topic": "security"
-  },
-  {
-    "id": "e10192439aac0814497e5db56df793fd",
-    "title_en": "SRE 每日主题：Kubernetes 生产部署指南 - 好斗的鱼",
-    "source": "bfish.net",
-    "url": "https://www.bfish.net/daily/sre_daily_topic_2026-03-09.html",
-    "published_at": "2026-11-17T15:13:39.862Z",
-    "fetched_at": "2026-11-17T15:13:39.862Z",
-    "title_zh": "SRE每日主题：Kubernetes生产部署指南",
-    "summary_zh": "本文提供Kubernetes生产环境部署指南，涵盖集群规划、节点配置、网络与存储选型、高可用架构设计及安全加固等关键环节。结合SRE实践讨论滚动发布、资源配额、监控告警与故障恢复策略，帮助运维人员构建稳定可运维的生产级K8s集群并规避常见部署陷阱。",
-    "topic": "ops"
-  },
-  {
-    "id": "2f53c3117973e31594368405ff086690",
-    "title_en": "第12章：Kubernetes高级特性和扩展机制_软件入门教程",
-    "source": "skillup.host",
-    "url": "https://www.skillup.host/1/learn/k8s/12-%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%92%8C%E6%89%A9%E5%B1%95%E6%9C%BA%E5%88%B6.md",
-    "published_at": "2026-11-17T15:13:39.862Z",
-    "fetched_at": "2026-11-17T15:13:39.862Z",
-    "title_zh": "第12章：Kubernetes高级特性和扩展机制",
-    "summary_zh": "本章讲解Kubernetes的高级特性与扩展机制，包括自定义资源CRD、Operator模式、准入控制器、调度器扩展与API聚合等核心内容。通过原理说明与示例演示如何按需扩展集群能力，帮助开发者理解K8s的可编程扩展点，为构建平台化与自动化运维能力提供技术基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "8f7f1feade953a00c82eaf85a042c65e",
-    "title_en": "金山云-文档中心-免费指标",
-    "source": "docs.ksyun.com",
-    "url": "https://docs.ksyun.com/documents/43103",
-    "published_at": "2026-11-17T15:13:39.862Z",
-    "fetched_at": "2026-11-17T15:13:39.862Z",
-    "title_zh": "金山云文档中心：免费指标",
-    "summary_zh": "该文档介绍金山云监控服务中的免费指标能力，说明可采集的基础监控项、指标维度与告警配置方式。内容帮助用户了解云资源监控的默认覆盖范围与使用限制，便于在成本可控的前提下搭建基础可观测性体系，为后续付费指标与告警策略的规划提供参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "7b9d60fcde662db86cff66e306393c06",
-    "title_en": "megaon - GitHub",
-    "source": "github.com",
-    "url": "https://github.com/megaon",
-    "published_at": "2026-11-17T15:13:39.862Z",
-    "fetched_at": "2026-11-17T15:13:39.862Z",
-    "title_zh": "megaon - GitHub",
-    "summary_zh": "该 GitHub 仓库名为 megaon，从标题信息来看属于开源项目代码托管页面，但缺乏具体技术描述。建议访问仓库 README 了解其功能定位、技术栈与使用方式。对于技术读者而言，可重点关注其提交活跃度、Issue 讨论与文档完整性，以评估项目是否具备生产可用性与持续维护能力。",
-    "topic": "other"
-  },
-  {
-    "id": "3162e75c623fde8f6c270d9c2a640c2b",
-    "title_en": "Kubernetes 入门| Justin 技术文档库",
-    "source": "zonet.tech",
-    "url": "https://www.zonet.tech/docs/linux/k8s/intro",
-    "published_at": "2026-11-17T15:13:39.862Z",
-    "fetched_at": "2026-11-17T15:13:39.862Z",
-    "title_zh": "Kubernetes 入门 | Justin 技术文档库",
-    "summary_zh": "本文是 Kubernetes 入门教程，面向初学者系统介绍容器编排核心概念，涵盖 Pod、Deployment、Service 等基础资源对象及集群架构原理。内容侧重概念梳理与快速上手路径，帮助读者理解声明式 API 与控制器模型的工作机制。适合具备基础 Linux 与容器知识、希望进一步掌握 K8s 调度与运维实践的开发者阅读。",
-    "topic": "ops"
-  },
-  {
-    "id": "7bf88a797bb2734df9d0d75ab8bef0c7",
-    "title_en": "嵌入式Linux性能调优实战：从设备树到算法部署的完整指南",
-    "source": "csdn.net",
-    "url": "https://www.csdn.net/detail/webblog_25890831/124792",
-    "published_at": "2026-11-17T15:13:39.861Z",
-    "fetched_at": "2026-11-17T15:13:39.861Z",
-    "title_zh": "嵌入式Linux性能调优实战：从设备树到算法部署的完整指南",
-    "summary_zh": "本文聚焦嵌入式Linux性能调优，从设备树配置、内核裁剪与驱动调优入手，延伸到CPU调度、内存管理与I/O优化，最终覆盖算法模型在嵌入式平台的部署与加速。内容结合实战案例讲解性能瓶颈定位方法与调优手段，适合嵌入式开发者系统提升系统性能与部署效率。",
-    "topic": "ops"
-  },
-  {
-    "id": "5ef0e375417d59fcf873852a8855c906",
-    "title_en": "Linux系统性能调优企业级实践指南",
-    "source": "my.oschina.net",
-    "url": "https://my.oschina.net/emacs_8004522/blog/19425809",
-    "published_at": "2026-11-17T15:13:39.861Z",
-    "fetched_at": "2026-11-17T15:13:39.861Z",
-    "title_zh": "Linux系统性能调优企业级实践指南",
-    "summary_zh": "本文面向企业生产环境，系统总结Linux性能调优的实践方法，覆盖CPU、内存、磁盘I/O与网络四大子系统的监控指标与瓶颈分析，介绍常用工具链与调优参数。结合真实场景讲解容量评估、内核参数调整与问题定位流程，帮助运维与SRE人员建立可复用的性能优化方法论。",
-    "topic": "ops"
-  },
-  {
-    "id": "420a8cee91d865c6bdae40a7737c0b59",
-    "title_en": "Linux性能优化底层逻辑，让你的系统运行如飞",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/1951046473341972776",
-    "published_at": "2026-11-17T15:13:39.861Z",
-    "fetched_at": "2026-11-17T15:13:39.861Z",
-    "title_zh": "Linux性能优化底层逻辑，让你的系统运行如飞",
-    "summary_zh": "文章从底层原理出发剖析Linux性能优化逻辑，讲解CPU调度、内存回收、页缓存、I/O栈与网络协议栈的工作机制，说明常见性能问题的根因分析方法。通过理解内核行为与监控指标之间的关联，帮助读者跳出盲目调参，建立基于原理的系统性性能诊断与优化思路。",
-    "topic": "ops"
-  },
-  {
-    "id": "8604055956e79134c664c349309a5ec4",
-    "title_en": "AI Agent开发实践：从概念到落地的技术探索",
-    "source": "intl.cloud.baidu.com",
-    "url": "http://intl.cloud.baidu.com/zh/article/9160891",
-    "published_at": "2026-11-17T15:13:36.054Z",
-    "fetched_at": "2026-11-17T15:13:36.054Z",
-    "title_zh": "AI Agent开发实践：从概念到落地的技术探索",
-    "summary_zh": "本文从工程实践角度梳理AI Agent从概念到生产落地的完整链路，讨论Agent的规划、记忆、工具调用等核心能力，以及多Agent协作、任务分解与评估方法。结合百度智能云的实际场景，分析开发中遇到的架构选型、稳定性与效果调优问题，为开发者提供可参考的落地经验与技术决策依据。",
-    "topic": "ai"
   }
 ]
