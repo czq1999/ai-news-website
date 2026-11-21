@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-11-21",
+      "summary_zh": "今日趋势聚焦AI智能体技能框架与安全工具，涵盖漏洞挖掘、模型训练、数据抓取及图表设计等方向。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "description_en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "language": "Python",
+          "stars_total": 14558,
+          "stars_today": 1622,
+          "description_zh": "一个用于漏洞挖掘和外部红队工作的 Claude Code 技能包——包含 82 个技能、15 个斜杠命令、681 个已披露报告模式，覆盖 24 个核心漏洞类别，以及企业身份和基础设施攻击矩阵。"
+        },
+        {
+          "rank": 2,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description_en": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+          "language": "TypeScript",
+          "stars_total": 205442,
+          "stars_today": 1241,
+          "description_zh": "让你的智能体更智能的知识基础设施。通过一个 API 搜索、抓取和访问 550+ 数据提供商。"
+        },
+        {
+          "rank": 3,
+          "name": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "description_en": "The only downloader you need. 下载器的集大成者。",
+          "language": "Python",
+          "stars_total": 13856,
+          "stars_today": 1082,
+          "description_zh": "你唯一需要的下载器。下载器的集大成者。"
+        },
+        {
+          "rank": 4,
+          "name": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description_en": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+          "language": "Python",
+          "stars_total": 12303,
+          "stars_today": 979,
+          "description_zh": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。开源 AI 视频剪辑与内容再利用工具。"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 322945,
+          "stars_today": 890,
+          "description_zh": "一个行之有效的智能体技能框架和软件开发方法论。"
+        },
+        {
+          "rank": 6,
+          "name": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "description_en": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 2842,
+          "stars_today": 869,
+          "description_zh": "避免常见的 App Store 和 Google Play 拒审。开放手册和提交前防护，包含 117 个已记录的拒审模式和修复方案、隐私清单和数据安全审查、95 个跟踪截止日期（欧盟 AI 法案、DSA、COPPA、年龄法律），以及一个面向 AI 编码智能体的技能。"
+        },
+        {
+          "rank": 7,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description_en": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+          "language": "Python",
+          "stars_total": 67770,
+          "stars_today": 847,
+          "description_zh": "🧠 两小时从 0 训出你的 64M 大模型。两小时内从零开始训练你自己的 64M 大语言模型。"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 61500,
+          "stars_today": 773,
+          "description_zh": "“CLI-Anything：让所有软件原生支持智能体”——CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 9,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 71534,
+          "stars_today": 681,
+          "description_zh": "一个 AI 智能体技能，可在 Reddit、X、YouTube、HN、Polymarket 和网络上研究任何主题——然后综合出一份有依据的摘要"
+        },
+        {
+          "rank": 10,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description_en": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+          "language": "TypeScript",
+          "stars_total": 75894,
+          "stars_today": 676,
+          "description_zh": "不止有 Notion 和 Miro。AFFiNE（发音为 [ə‘fain]）是一个新一代知识库，将规划、整理和创作融为一体。隐私优先、开源、可定制且开箱即用。"
+        },
+        {
+          "rank": 11,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars_total": 69377,
+          "stars_today": 636,
+          "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid、Qoder 和 Pi 的编辑级图表设计。45 种图表类型。自包含 HTML + SVG。无阴影。无 Mermaid 粗制滥造。"
+        },
+        {
+          "rank": 12,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description_en": "The open-source agent for CI/CD reliability.",
+          "language": "Python",
+          "stars_total": 13684,
+          "stars_today": 466,
+          "description_zh": "面向 CI/CD 可靠性的开源智能体。"
+        },
+        {
+          "rank": 13,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars_total": 11100,
+          "stars_today": 315,
+          "description_zh": "一个专为 Stitch MCP 服务器设计的智能体技能库。每个技能都遵循 Agent Skills 开放标准，以兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体。"
+        },
+        {
+          "rank": 14,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description_en": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars_total": 17891,
+          "stars_today": 299,
+          "description_zh": "Cursor 插件规范和官方插件"
+        },
+        {
+          "rank": 15,
+          "name": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "description_en": "The official NGINX Open Source repository.",
+          "language": "C",
+          "stars_total": 32606,
+          "stars_today": 246,
+          "description_zh": "NGINX 官方开源仓库。"
+        },
+        {
+          "rank": 16,
+          "name": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "description_en": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+          "language": "C++",
+          "stars_total": 11817,
+          "stars_today": 217,
+          "description_zh": "OpenVINO™ 是一个用于优化和部署 AI 推理的开源工具包"
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "summary_zh": "今日趋势聚焦AI智能体技能框架与工具链，涵盖安全测试、模型训练、数据抓取及插件生态，强调Agent原生与高效开发。",
       "projects": [
@@ -4091,102 +4257,6 @@
           "stars_total": 122794,
           "stars_today": 93,
           "description_zh": "Node.js JavaScript 运行时 ✨🐢🚀✨"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "summary_zh": "今日GitHub热榜聚焦AI编码代理工具与开发基础设施：Claude生态插件、代码知识图谱、安全审计技能涌现，PHP、Supabase、FastAPI等经典项目持续受关注。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "cloudflare/security-audit-skill",
-          "url": "https://github.com/cloudflare/security-audit-skill",
-          "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-          "language": "JavaScript",
-          "stars_total": 39232,
-          "stars_today": 2979,
-          "description_zh": "一个用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的发现结果"
-        },
-        {
-          "rank": 2,
-          "name": "DietrichGebert/ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "language": "JavaScript",
-          "stars_total": 173260,
-          "stars_today": 1949,
-          "description_zh": "让你的 AI 智能体像房间里最懒的资深开发者一样思考。最好的代码是你从未写过的代码。"
-        },
-        {
-          "rank": 3,
-          "name": "Graphify-Labs/graphify",
-          "url": "https://github.com/Graphify-Labs/graphify",
-          "description_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "language": "Python",
-          "stars_total": 132816,
-          "stars_today": 1407,
-          "description_zh": "将任何代码库及其文档、SQL 模式、配置和 PDF 转换为可查询的知识图谱。适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边都有解释，无需向量存储。"
-        },
-        {
-          "rank": 4,
-          "name": "supabase/supabase",
-          "url": "https://github.com/supabase/supabase",
-          "description_en": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-          "language": "TypeScript",
-          "stars_total": 113428,
-          "stars_today": 683,
-          "description_zh": "Postgres 开发平台。Supabase 为你提供一个专用的 Postgres 数据库，用于构建你的 Web、移动和 AI 应用。"
-        },
-        {
-          "rank": 5,
-          "name": "php/php-src",
-          "url": "https://github.com/php/php-src",
-          "description_en": "The PHP Interpreter",
-          "language": "C",
-          "stars_total": 41087,
-          "stars_today": 423,
-          "description_zh": "PHP 解释器"
-        },
-        {
-          "rank": 6,
-          "name": "luongnv89/claude-howto",
-          "url": "https://github.com/luongnv89/claude-howto",
-          "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-          "language": "Python",
-          "stars_total": 43047,
-          "stars_today": 370,
-          "description_zh": "一份可视化、以示例驱动的 Claude Code 指南——从基础概念到高级智能体，附带可复制粘贴的模板，能立即带来价值。"
-        },
-        {
-          "rank": 7,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 31515,
-          "stars_today": 303,
-          "description_zh": "主要为知识工作者在 Claude Cowork 中使用的开源插件仓库"
-        },
-        {
-          "rank": 8,
-          "name": "Meloong-Git/PCL",
-          "url": "https://github.com/Meloong-Git/PCL",
-          "description_en": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-          "language": "Visual Basic .NET",
-          "stars_total": 8656,
-          "stars_today": 115,
-          "description_zh": "Minecraft 启动器 Plain Craft Launcher（PCL）。"
-        },
-        {
-          "rank": 9,
-          "name": "fastapi/fastapi",
-          "url": "https://github.com/fastapi/fastapi",
-          "description_en": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-          "language": "Python",
-          "stars_total": 103659,
-          "stars_today": 96,
-          "description_zh": "FastAPI 框架，高性能、易学习、编码快速、可用于生产环境"
         }
       ]
     }
