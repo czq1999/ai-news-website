@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-11-22",
+      "summary_zh": "今日趋势聚焦AI智能体技能框架与工具链：Claude技能包、智能体开发框架、CLI原生集成、轻量模型训练及数据检索基础设施百花齐放。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "description_en": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "language": "Python",
+          "stars_total": 16259,
+          "stars_today": 1803,
+          "description_zh": "一个用于漏洞挖掘和外部红队工作的 Claude Code 技能包——包含 82 个技能、15 个斜杠命令、覆盖 24 个核心漏洞类别的 681 个已披露报告模式，以及企业身份与基础设施攻击矩阵。"
+        },
+        {
+          "rank": 2,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description_en": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+          "language": "TypeScript",
+          "stars_total": 206318,
+          "stars_today": 1006,
+          "description_zh": "让你的智能体更智能的知识基础设施。通过一个 API 搜索、抓取并访问 550+ 数据提供方。"
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 323813,
+          "stars_today": 883,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 4,
+          "name": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "description_en": "The only downloader you need. 下载器的集大成者。",
+          "language": "Python",
+          "stars_total": 14538,
+          "stars_today": 779,
+          "description_zh": "你唯一需要的下载器。下载器的集大成者。"
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 62154,
+          "stars_today": 769,
+          "description_zh": "\"CLI-Anything：让所有软件原生支持智能体\"——CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 6,
+          "name": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "description_en": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 3477,
+          "stars_today": 720,
+          "description_zh": "避免常见的 App Store 和 Google Play 拒审。开源操作手册与提交前防护，包含 124 个已记录的拒审模式及修复方案、隐私清单与数据安全审查、111 个跟踪截止日期（欧盟 AI 法案、DSA、COPPA、年龄法律），以及一个面向 AI 编码智能体的技能。"
+        },
+        {
+          "rank": 7,
+          "name": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description_en": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+          "language": "Python",
+          "stars_total": 12941,
+          "stars_today": 683,
+          "description_zh": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。开源 AI 视频剪辑与内容再利用工具。"
+        },
+        {
+          "rank": 8,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars_total": 69859,
+          "stars_today": 583,
+          "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid、Qoder 和 Pi 的编辑级图表设计。45 种图表类型。自包含 HTML + SVG。无阴影。拒绝 Mermaid 式粗糙产物。"
+        },
+        {
+          "rank": 9,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description_en": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+          "language": "TypeScript",
+          "stars_total": 76361,
+          "stars_today": 574,
+          "description_zh": "不止有 Notion 和 Miro。AFFiNE（发音为 [ə‘fain]）是一个新一代知识库，将规划、整理和创作融为一体。隐私优先、开源、可定制且开箱即用。"
+        },
+        {
+          "rank": 10,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 72090,
+          "stars_today": 560,
+          "description_zh": "一个 AI 智能体技能，可在 Reddit、X、YouTube、HN、Polymarket 和网络上研究任何主题——然后综合出一份有依据的摘要"
+        },
+        {
+          "rank": 11,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description_en": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+          "language": "Python",
+          "stars_total": 68220,
+          "stars_today": 488,
+          "description_zh": "🧠 两小时从 0 训出你的 64M 大模型。两小时内从零开始训练你自己的 64M 大语言模型。"
+        },
+        {
+          "rank": 12,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description_en": "The open-source agent for CI/CD reliability.",
+          "language": "Python",
+          "stars_total": 14039,
+          "stars_today": 450,
+          "description_zh": "面向 CI/CD 可靠性的开源智能体。"
+        },
+        {
+          "rank": 13,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars_total": 11501,
+          "stars_today": 326,
+          "description_zh": "一个专为配合 Stitch MCP 服务器使用而设计的智能体技能库。每个技能都遵循 Agent Skills 开放标准，以兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体。"
+        },
+        {
+          "rank": 14,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description_en": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars_total": 18142,
+          "stars_today": 260,
+          "description_zh": "Cursor 插件规范与官方插件"
+        },
+        {
+          "rank": 15,
+          "name": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "description_en": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+          "language": "C++",
+          "stars_total": 11957,
+          "stars_today": 200,
+          "description_zh": "OpenVINO™ 是一个用于优化和部署 AI 推理的开源工具包"
+        },
+        {
+          "rank": 16,
+          "name": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "description_en": "The official NGINX Open Source repository.",
+          "language": "C",
+          "stars_total": 32756,
+          "stars_today": 189,
+          "description_zh": "NGINX 官方开源仓库。"
+        }
+      ]
+    },
+    {
       "date": "2026-11-21",
       "summary_zh": "今日趋势聚焦AI智能体技能框架与安全工具，涵盖漏洞挖掘、插件生态、轻量模型训练及数据检索基础设施。",
       "projects": [
@@ -4171,92 +4337,6 @@
           "stars_total": 3080,
           "stars_today": 11,
           "description_zh": "官方、AWS 支持的 MCP 服务器、技能和插件，帮助 AI 智能体在 AWS 上构建"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体安全与技能生态：Cloudflare安全审计技能、Claude攻防技能库、NVIDIA智能体运行时，另有PHP、Node.js等经典项目及紫微斗数排盘引擎。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "cloudflare/security-audit-skill",
-          "url": "https://github.com/cloudflare/security-audit-skill",
-          "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-          "language": "JavaScript",
-          "stars_total": 41873,
-          "stars_today": 2706,
-          "description_zh": "一个用于多阶段安全审计的编码智能体技能，具有独立验证、机器可读的发现结果"
-        },
-        {
-          "rank": 2,
-          "name": "NVIDIA/OpenShell",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
-          "language": "Rust",
-          "stars_total": 18687,
-          "stars_today": 1240,
-          "description_zh": "OpenShell 是面向自主 AI 代理的安全、私密运行时。"
-        },
-        {
-          "rank": 3,
-          "name": "php/php-src",
-          "url": "https://github.com/php/php-src",
-          "description_en": "The PHP Interpreter",
-          "language": "C",
-          "stars_total": 41533,
-          "stars_today": 722,
-          "description_zh": "PHP 解释器"
-        },
-        {
-          "rank": 4,
-          "name": "anthropics/knowledge-work-plugins",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
-          "description_en": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "language": "Python",
-          "stars_total": 32147,
-          "stars_today": 643,
-          "description_zh": "一个开源插件仓库，主要面向知识工作者在 Claude Cowork 中使用"
-        },
-        {
-          "rank": 5,
-          "name": "Renhuai123/ziwei-doushu",
-          "url": "https://github.com/Renhuai123/ziwei-doushu",
-          "description_en": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-          "language": "TypeScript",
-          "stars_total": 6817,
-          "stars_today": 547,
-          "description_zh": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
-        },
-        {
-          "rank": 6,
-          "name": "SnailSploit/Claude-Red",
-          "url": "https://github.com/SnailSploit/Claude-Red",
-          "description_en": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-          "language": "Python",
-          "stars_total": 8355,
-          "stars_today": 209,
-          "description_zh": "claude-red 是一个为 Claude 技能系统设计的精选攻击性安全技能库。每个技能都是一个结构化的 SKILL.md 文件，为 Claude 注入针对特定攻击面的专家级方法论——从 SQLi 到 shellcode，从 EDR 规避到漏洞开发。"
-        },
-        {
-          "rank": 7,
-          "name": "OpenBMB/VoxCPM",
-          "url": "https://github.com/OpenBMB/VoxCPM",
-          "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-          "language": "Python",
-          "stars_total": 40192,
-          "stars_today": 144,
-          "description_zh": "VoxCPM2：无分词器的 TTS，用于多语言语音生成、创意音色设计和逼真克隆"
-        },
-        {
-          "rank": 8,
-          "name": "nodejs/node",
-          "url": "https://github.com/nodejs/node",
-          "description_en": "Node.js JavaScript runtime ✨🐢🚀✨",
-          "language": "JavaScript",
-          "stars_total": 122794,
-          "stars_today": 93,
-          "description_zh": "Node.js JavaScript 运行时 ✨🐢🚀✨"
         }
       ]
     }
