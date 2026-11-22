@@ -1,5 +1,93 @@
 [
   {
+    "id": "96ead1957e2c6cf5f523b7e46c3bdc3e",
+    "title_en": "We haven’t seen the last of the major tech outages",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "published_at": "2026-11-22T22:48:02.000Z",
+    "fetched_at": "2026-11-22T22:59:37.082Z",
+    "title_zh": "大型科技宕机事件远未结束",
+    "summary_zh": "The Verge评论指出，近期频发的大规模科技服务中断并非偶发事件，而是基础设施高度集中化、系统复杂度攀升与运维压力叠加的必然结果。文章认为，随着云服务、CDN和身份认证等关键环节被少数厂商垄断，单点故障的连锁影响将被进一步放大，未来类似的大范围宕机可能更加频繁，企业和用户都需为常态化中断做好准备。",
+    "category": "industry"
+  },
+  {
+    "id": "684c72937143a6c8b24fba3f449cdf88",
+    "title_en": "Delta flights in and out of Atlanta delayed due to system outage",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+    "published_at": "2026-11-22T17:46:44.000Z",
+    "fetched_at": "2026-11-22T22:59:37.083Z",
+    "title_zh": "系统故障导致达美航空亚特兰大进出港航班延误",
+    "summary_zh": "达美航空因系统故障导致进出亚特兰大枢纽的航班出现大面积延误，旅客出行受到明显影响。此次事件再次凸显航空业对IT系统的高度依赖，一旦订票、调度或登机系统出现异常，便可能迅速波及整个航线网络。达美方面正在排查故障原因并恢复运营，具体影响范围与延误时长仍在统计中。",
+    "category": "industry"
+  },
+  {
+    "id": "cf3322b3a4602d726cf0e81e683d577c",
+    "title_en": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "published_at": "2026-11-22T17:25:20.000Z",
+    "fetched_at": "2026-11-22T22:59:37.083Z",
+    "title_zh": "《以撒的结合》开发者从《忏悔+》中移除AI音乐",
+    "summary_zh": "《以撒的结合》开发者Edmund McMillen宣布，已从《忏悔+》DLC中移除由AI生成的音乐内容。此举回应了玩家社区对AI创作素材的质疑与版权担忧。近年来游戏行业使用生成式AI制作美术、配音和音乐引发广泛争议，此次调整被视为开发者对社区反馈的积极回应，也反映出玩家对AI内容透明度的要求正在提高。",
+    "category": "product"
+  },
+  {
+    "id": "23c278f04388b588240cd5201fd6bacd",
+    "title_en": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+    "published_at": "2026-11-22T17:00:00.000Z",
+    "fetched_at": "2026-11-22T22:59:37.083Z",
+    "title_zh": "部分热门Switch 2游戏在黑五期间降价",
+    "summary_zh": "随着黑色星期五促销开启，多款热门Switch 2游戏迎来价格下调，为玩家提供了入手新主机配套游戏的好时机。报道盘点了值得关注的折扣阵容，涵盖第一方大作与第三方作品。对刚购入Switch 2的用户而言，此次促销是补齐游戏库的良机，也反映出新一代主机上市初期厂商正通过价格手段刺激软件销量。",
+    "category": "product"
+  },
+  {
+    "id": "dd457398ba2170696165e9acf032f3d1",
+    "title_en": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+    "published_at": "2026-11-22T16:33:29.000Z",
+    "fetched_at": "2026-11-22T22:59:37.083Z",
+    "title_zh": "Sheherazaad的《Khudgarzi》：华丽而“类型混沌”的南亚民谣",
+    "summary_zh": "The Verge乐评聚焦音乐人Sheherazaad的新作《Khudgarzi》，称其为一幅华丽而“类型混沌”的南亚民谣画卷。作品融合传统南亚音乐元素与现代制作手法，在旋律与节奏上大胆跨界，打破民谣的既定边界。评论认为这张专辑展现了当代南亚音乐人在全球化语境下的创作活力，值得乐迷细细品味。",
+    "category": "product"
+  },
+  {
+    "id": "f74977afae89b6a964682b5232643559",
+    "title_en": "Protesters storm Meta offices in India",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+    "published_at": "2026-11-22T15:15:07.000Z",
+    "fetched_at": "2026-11-22T22:59:37.083Z",
+    "title_zh": "抗议者冲击Meta印度办公室",
+    "summary_zh": "抗议者冲击Meta在印度的办公场所，事件与该公司近期在当地的运营争议相关。报道称示威者对Meta的内容审核政策及平台治理表达强烈不满，现场局势一度紧张。印度是Meta全球最大的用户市场之一，此次冲突凸显跨国科技巨头在新兴市场面临的监管与舆论压力，后续或影响其当地业务布局。",
+    "category": "industry"
+  },
+  {
+    "id": "ad3a6c887c404909453759fd2d3f32ca",
+    "title_en": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+    "published_at": "2026-11-22T14:00:00.000Z",
+    "fetched_at": "2026-11-22T22:59:37.083Z",
+    "title_zh": "任天堂Switch 2主机黑五直降50美元",
+    "summary_zh": "任天堂Switch 2主机在黑色星期五期间迎来50美元降价，这是新一代主机上市后少见的价格松动。报道指出，此次折扣覆盖多个零售渠道，可能吸引持币观望的玩家入手。对任天堂而言，主机降价有助于在假日购物季扩大装机量，也为后续第一方游戏销售奠定用户基础，值得关注其对整体销量的拉动效果。",
+    "category": "product"
+  },
+  {
+    "id": "71591f7ec295e56bfe3dd97a760c3151",
+    "title_en": "‘The show is starting soon. Please turn on your headphones.’",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+    "published_at": "2026-11-22T14:00:00.000Z",
+    "fetched_at": "2026-11-22T22:59:37.084Z",
+    "title_zh": "“演出即将开始，请打开您的耳机”",
+    "summary_zh": "The Verge报道了一种新兴的现场演出形式：观众不再依赖场馆音响，而是通过耳机收听演出音频。这种“静音迪斯科”式的体验让声音更私密、更具沉浸感，也减少了噪音对周边环境的影响。文章探讨了此类模式在音乐、戏剧等场景中的应用潜力，以及它如何重塑观众与表演者之间的互动关系。",
+    "category": "product"
+  },
+  {
     "id": "efcbe581016028daf496c53e378f1ccc",
     "title_en": "How Tamagotchis got us hooked on digital pets",
     "source": "The Verge",
@@ -99,6 +187,94 @@
     "category": "research"
   },
   {
+    "id": "49853bebf68c9a436f1e9b55210150f9",
+    "title_en": "Retired FBI agent warns NCIC breach could threaten police safety during traffic stops",
+    "source": "Fox News",
+    "url": "https://www.foxnews.com/politics/retired-fbi-agent-warns-ncic-breach-could-threaten-police-safety-traffic-stops",
+    "published_at": "2026-11-21T22:47:07Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "退休FBI探员警告NCIC数据泄露或危及交警拦车安全",
+    "summary_zh": "一名退休FBI探员警告，NCIC犯罪信息数据库遭泄露可能危及警察在交通拦检时的安全。敏感执法数据外泄使警员面临被预知身份与信息的风险，凸显执法信息系统安全防护的紧迫性。",
+    "category": "industry"
+  },
+  {
+    "id": "c1f816d6fd95041de8460970e7981038",
+    "title_en": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/71c881d0d5279d0e",
+    "published_at": "2026-11-21T22:45:21Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "Anthropic IPO或为小企业开启“淘金热”，科技公司CEO称",
+    "summary_zh": "一位商业科技公司CEO表示，Anthropic的IPO可能标志着小企业“淘金热”的开端。AI巨头上市将带动上下游生态投资与创业机会，但也引发市场对估值泡沫与行业竞争格局的讨论。",
+    "category": "industry"
+  },
+  {
+    "id": "0b79c3049149111b3aa9682ab0aa3316",
+    "title_en": "RUM Group posts $96.6 million Q3 revenue as AI hosting overtakes video",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/rum-group-q3-revenue-ai-hosting/",
+    "published_at": "2026-11-21T22:36:52Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "RUM集团第三季度营收9660万美元，AI托管业务超越视频",
+    "summary_zh": "RUM集团公布第三季度营收达9660万美元，其中AI托管业务收入首次超过视频业务。这一结构性变化显示AI基础设施需求快速增长，正成为云服务与托管行业新的增长引擎。",
+    "category": "industry"
+  },
+  {
+    "id": "57e48908bd3c1e8db21faae9571400a2",
+    "title_en": "NIGEL FARAGE: I owe it to my three grandchildren not to let Labour suck us back into this failed 1970s pipe dream",
+    "source": "Dailymail.com",
+    "url": "https://www.dailymail.com/debate/article-16312205/FARAGE-grandchildren-Labour-failed-1970s-pipe-dream.html",
+    "published_at": "2026-11-21T22:35:08Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "奈杰尔·法拉奇：为了三个孙辈，我不能让工党把我们拖回失败的1970年代旧梦",
+    "summary_zh": "英国政治人物奈杰尔·法拉奇撰文表示，为了三个孙辈的未来，他不能坐视工党将英国重新拖入失败的1970年代式政策旧梦。文章围绕经济与能源政策展开政治论述，与AI技术无直接关联。",
+    "category": "industry"
+  },
+  {
+    "id": "b90d96562d3bcb3a2bef4734eb5a26dd",
+    "title_en": "Real Madrid fight back to beat Celta Vigo and close the gap on Barça",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/real-madrid-fight-back-to-beat-celta-vigo-and-close-the-gap-on-barca-43816093",
+    "published_at": "2026-11-21T22:09:00Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "皇马逆转塞尔塔，缩小与巴萨的积分差距",
+    "summary_zh": "皇家马德里在落后情况下逆转击败塞尔塔维戈，缩小了与巴塞罗那的积分差距。这场西甲焦点战展现了皇马的韧性与争冠决心，使联赛榜首争夺更加激烈。该内容为体育新闻，与AI无关。",
+    "category": "industry"
+  },
+  {
+    "id": "95b378cdd7ecb88f816d93ea8655a8fb",
+    "title_en": "Rodrigo Jr fulfils childhood dream with goal on Under-17 World Cup debut",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/rodrigo-jr-fulfils-childhood-dream-with-goal-on-under-17-world-cup-debut-43816088",
+    "published_at": "2026-11-21T22:07:00Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "罗德里戈之子U17世界杯首秀破门，实现儿时梦想",
+    "summary_zh": "罗德里戈之子在U17世界杯首秀中取得进球，实现了儿时的梦想。这则足球青训新闻聚焦新星崛起与家族传承，展现了青年赛事的关注度。该内容为体育报道，与人工智能领域无关。",
+    "category": "industry"
+  },
+  {
+    "id": "c9d2471c399b6cbb2d09c50b210ad51f",
+    "title_en": "Commentary: Do we really need 92,000 people at a climate conference?",
+    "source": "CNA",
+    "url": "https://www.channelnewsasia.com/commentary/cop31-climate-conference-united-nations-biggest-record-6568661",
+    "published_at": "2026-11-21T22:00:00Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "评论：气候大会真的需要9.2万人参加吗？",
+    "summary_zh": "一篇评论文章质疑气候大会规模是否必要，指出多达9.2万人参会带来的碳排放与效率问题。文章探讨大型国际会议的形式与实效，属于公共议题评论，与AI技术无直接关联。",
+    "category": "industry"
+  },
+  {
+    "id": "5ec8eac764906420375747fc40be2348",
+    "title_en": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest",
+    "source": "Biztoc.com",
+    "url": "https://biztoc.com/x/38e0b289fc385677",
+    "published_at": "2026-11-21T21:59:58Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "担心市场崩盘？这只AI股票应会最快反弹",
+    "summary_zh": "一篇投资分析文章认为，若市场出现崩盘，某只AI股票有望最快反弹。文章从财务与行业前景角度评估AI板块的抗跌能力，为投资者提供参考，但也提醒市场波动与估值风险仍需谨慎对待。",
+    "category": "industry"
+  },
+  {
     "id": "e32b819c8690adba17e7c56daff0163a",
     "title_en": "Amazon is complaining about NYC Council on shipping labels, too",
     "source": "The Verge",
@@ -107,6 +283,28 @@
     "fetched_at": "2026-11-21T22:36:48.747Z",
     "title_zh": "亚马逊也抱怨纽约市议会的运输标签规定",
     "summary_zh": "亚马逊近日对纽约市议会提出异议，矛头指向运输标签相关法规。此前该电商巨头已因类似问题与当地监管机构产生摩擦。亚马逊认为新规将增加物流成本、拖慢配送效率，并可能影响第三方卖家的运营。此举反映出大型科技公司与地方政府在监管合规上的持续博弈，也凸显电商物流领域日益收紧的合规压力。",
+    "category": "industry"
+  },
+  {
+    "id": "5729132fe519464fa631f65968ef58bb",
+    "title_en": "Thinking Machines Unveils Inkling 2 Mini, A Powerful 26B Parameter AI Model That Runs Locally On MacBooks With Just 32GB RAM",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/thinking-machines-unveils-inkling-2-mini-a-powerful-26b-ai-model-that-runs-locally-on-macbooks-with-just-32gb-ram/",
+    "published_at": "2026-11-21T21:55:01Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "Thinking Machines发布Inkling 2 Mini：260亿参数AI模型可在32GB内存MacBook本地运行",
+    "summary_zh": "Thinking Machines正式推出Inkling 2 Mini，这是一款拥有260亿参数的高性能AI模型，最大亮点是可在仅配备32GB内存的MacBook上本地运行，无需依赖云端算力。该模型在保持较强推理能力的同时大幅降低硬件门槛，意味着普通用户也能在个人设备上离线使用大模型，兼顾隐私与响应速度。此举被视为端侧AI部署的重要进展，有望推动本地化AI应用生态的发展。",
+    "category": "llm"
+  },
+  {
+    "id": "605a5c33d6efe6daf6f146ba69c229c3",
+    "title_en": "U17 World Cup: Patetuci hails opening win and squad strength",
+    "source": "Onefootball.com",
+    "url": "https://onefootball.com/en/news/u17-world-cup-patetuci-hails-opening-win-and-squad-strength-43815924",
+    "published_at": "2026-11-21T21:38:00Z",
+    "fetched_at": "2026-11-22T22:59:38.203Z",
+    "title_zh": "U17世界杯：帕特图奇盛赞开门红与球队阵容深度",
+    "summary_zh": "在U17世界杯首场比赛中取得胜利后，主教练帕特图奇对球队表现给予高度评价，特别称赞了阵容的整体深度和球员们的拼搏精神。他表示开门红为球队注入信心，轮换球员的出色发挥证明队伍具备应对密集赛程的实力。帕特图奇强调球队将保持专注，逐场应对后续挑战，力争在本届赛事中走得更远。",
     "category": "industry"
   },
   {
@@ -5299,204 +5497,6 @@
     "fetched_at": "2026-11-15T22:18:03.495Z",
     "title_zh": "ownapi 软件包已添加至 PyPI",
     "summary_zh": "名为 ownapi 的 Python 软件包正式发布并上线 PyPI 平台，开发者现可通过 pip 直接安装使用。该工具包的具体功能尚待进一步了解，但其发布为 Python 开发者生态增添了新的选择，值得关注其后续文档与社区反馈。",
-    "category": "product"
-  },
-  {
-    "id": "8541f5fc703cb814fe76c602a6038a5c",
-    "title_en": "A slowing economy could mean higher youth unemployment, economist warns",
-    "source": "ABC News (AU)",
-    "url": "https://www.abc.net.au/news/2026-11-15/youth-unemployment-could-rise-as-economy-softens/107382888",
-    "published_at": "2026-11-14T21:18:23Z",
-    "fetched_at": "2026-11-15T22:18:03.495Z",
-    "title_zh": "经济学家警告：经济放缓或致青年失业率上升",
-    "summary_zh": "经济学家警告称，随着经济增速放缓，青年失业率可能面临上升压力。分析指出，年轻劳动者在经济下行期往往更为脆弱，就业机会减少将对其职业发展造成冲击。专家呼吁政策制定者关注青年就业问题并采取预防性措施。",
-    "category": "industry"
-  },
-  {
-    "id": "016959d889e8df4a2d0174a16fa979a2",
-    "title_en": "Nations League: Portugal suffer nightmare against Denmark ",
-    "source": "Onefootball.com",
-    "url": "https://onefootball.com/en/news/nations-league-portugal-suffer-nightmare-against-denmark-43778117",
-    "published_at": "2026-11-14T21:11:00Z",
-    "fetched_at": "2026-11-15T22:18:03.495Z",
-    "title_zh": "欧国联：葡萄牙对阵丹麦遭遇噩梦",
-    "summary_zh": "欧国联比赛中葡萄牙队对阵丹麦遭遇惨痛失利，表现令人失望。报道回顾了比赛关键节点，分析葡萄牙队在攻防两端暴露的问题及丹麦队的出色发挥，并探讨此次失利对葡萄牙队小组形势和球队士气的潜在影响。",
-    "category": "industry"
-  },
-  {
-    "id": "d9d0460771d9be3d04d878a19df3d85b",
-    "title_en": "SpaceX Starship 15 Caught",
-    "source": "Next Big Future",
-    "url": "https://www.nextbigfuture.com/2026/11/spacex-starship-15-catch-attempt-in-minutes.html",
-    "published_at": "2026-11-14T21:11:00Z",
-    "fetched_at": "2026-11-15T22:18:03.495Z",
-    "title_zh": "SpaceX 星舰第15次试飞成功捕获",
-    "summary_zh": "SpaceX 星舰完成第15次试飞，并成功实现助推器捕获回收，标志着可重复使用火箭技术再获突破。此次试飞验证了关键回收技术，为未来星舰执行深空任务奠定基础，也进一步推进了 SpaceX 降低发射成本的长期目标。",
-    "category": "industry"
-  },
-  {
-    "id": "881cd2e78568460398a510b234ef21c5",
-    "title_en": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-    "published_at": "2026-11-14T19:47:40.000Z",
-    "fetched_at": "2026-11-14T21:49:44.375Z",
-    "title_zh": "《万智牌》将推出Netflix动画剧集，这次是真的",
-    "summary_zh": "Netflix宣布将把经典集换式卡牌游戏《万智牌》改编为动画剧集，此前该项目曾多次传出又搁浅。此次官方确认制作，令粉丝期待。剧集具体剧情、制作团队和上线时间尚未公布。作为拥有庞大世界观和角色体系的IP，《万智牌》动画化有望吸引卡牌玩家与奇幻题材观众。",
-    "category": "product"
-  },
-  {
-    "id": "7fea97adca8e066ff9fa16423ce0eaed",
-    "title_en": "Work to replace old copper wire led to the FAA’s ground stop",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-    "published_at": "2026-11-14T17:44:28.000Z",
-    "fetched_at": "2026-11-14T21:49:44.375Z",
-    "title_zh": "更换老旧铜线施工导致FAA地面停飞",
-    "summary_zh": "美国联邦航空管理局（FAA）因更换老旧铜线的施工出现意外，导致航班地面停飞。报道称，相关基础设施维护工作引发系统故障，影响航班正常运行。此次事件暴露出航空管制系统对老旧硬件依赖的风险，也引发对基础设施现代化升级必要性的讨论。FAA正调查具体原因并评估后续改进措施。",
-    "category": "industry"
-  },
-  {
-    "id": "37a5f0d416b2fcd3e8762f315b404f67",
-    "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "published_at": "2026-11-14T17:30:00.000Z",
-    "fetched_at": "2026-11-14T21:49:44.237Z",
-    "title_zh": "AI坟场：一份持续更新的失败项目与初创公司清单",
-    "summary_zh": "TechCrunch AI整理了一份名为“AI坟场”的清单，收录了未能存活的AI项目和初创公司。该清单持续更新，记录了这些项目失败的原因与教训，为从业者提供参考。随着AI行业竞争加剧，越来越多缺乏差异化或资金链断裂的初创企业倒下，这份清单也成为观察行业泡沫与淘汰机制的重要窗口。",
-    "category": "industry"
-  },
-  {
-    "id": "81edcd30d4486d945a52ccc95247fd58",
-    "title_en": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "published_at": "2026-11-14T16:34:15.000Z",
-    "fetched_at": "2026-11-14T21:49:44.238Z",
-    "title_zh": "亚洲各国政府回应英伟达CEO黄仁勋离职",
-    "summary_zh": "英伟达CEO黄仁勋离职的消息引发亚洲各国政府回应。鉴于英伟达在AI芯片供应链中的核心地位，亚洲多国政府密切关注此事对本地半导体产业和AI发展战略的影响。报道称，各国正评估供应链稳定性及与英伟达未来合作方向，部分国家或加快本土芯片产业布局以降低风险。",
-    "category": "industry"
-  },
-  {
-    "id": "2d47c4df26071e6525763a0c1bab84f8",
-    "title_en": "Here are our favorite deals from REI’s giant Holiday Sale",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-    "published_at": "2026-11-14T15:00:00.000Z",
-    "fetched_at": "2026-11-14T21:49:44.375Z",
-    "title_zh": "REI假日大促精选优惠推荐",
-    "summary_zh": "The Verge整理了REI假日大促中的精选优惠，涵盖户外装备、服饰和露营用品等品类。文章为消费者挑选出折扣力度较大、性价比高的商品，适合计划冬季户外活动或提前囤货的买家参考。作为年度大型促销，REI此次折扣覆盖多个知名户外品牌，部分商品库存有限。",
-    "category": "product"
-  },
-  {
-    "id": "e906ce588cf4c1c43c6e4bcd1414ae05",
-    "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "published_at": "2026-11-14T15:00:00.000Z",
-    "fetched_at": "2026-11-14T21:49:44.375Z",
-    "title_zh": "曾解雇Sam Altman的OpenAI董事称仍无法信任AI公司CEO",
-    "summary_zh": "曾参与解雇Sam Altman的OpenAI董事会成员公开表示，人们仍然无法信任AI公司的CEO。该言论再次引发外界对AI企业治理结构和领导层问责机制的关注。报道回顾了OpenAI此前的管理层动荡，并探讨AI行业高速发展下，公司决策透明度与高管权力制衡等核心问题。",
-    "category": "industry"
-  },
-  {
-    "id": "54c132d185e5f2a86da0c241876eaa55",
-    "title_en": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-    "published_at": "2026-11-14T14:18:36.000Z",
-    "fetched_at": "2026-11-14T21:49:44.375Z",
-    "title_zh": "特斯拉邀请部分用户购买Cybercab“个人使用”，但需细读条款",
-    "summary_zh": "特斯拉开始邀请部分用户购买Cybercab用于个人使用，但报道提醒需仔细阅读细则。作为特斯拉主打的无方向盘自动驾驶出租车，Cybercab面向个人销售的具体条件、交付时间和使用限制尚不明确。文章指出，条款中可能包含重要约束，消费者在购买前应充分了解相关风险与责任划分。",
-    "category": "product"
-  },
-  {
-    "id": "9bafd29c10651261321a4fd213447fb0",
-    "title_en": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-    "published_at": "2026-11-14T14:00:00.000Z",
-    "fetched_at": "2026-11-14T21:49:44.375Z",
-    "title_zh": "这款配备双模拟摇杆的迷你手柄挑战便携控制器极限",
-    "summary_zh": "The Verge介绍了一款配备双模拟摇杆的迷你游戏手柄，在极小体积内实现了接近主机手柄的操作体验，挑战便携控制器的设计极限。文章评测了其握持手感、按键布局和兼容性，认为它在便携性与功能性之间取得平衡，适合移动游戏和掌机玩家，但受限于尺寸，长时间使用舒适度仍有妥协。",
-    "category": "product"
-  },
-  {
-    "id": "72106c3e8f2a32c005ce033d0ccffc9f",
-    "title_en": "Italy fines Meta $887 million over Android users' data access",
-    "source": "CNA",
-    "url": "https://www.channelnewsasia.com/business/italy-fines-meta-887-million-over-android-users-data-access-6551816",
-    "published_at": "2026-11-14T13:07:30Z",
-    "fetched_at": "2026-11-15T13:11:34.673Z",
-    "title_zh": "意大利因安卓用户数据访问问题对Meta罚款8.87亿美元",
-    "summary_zh": "意大利监管机构对Meta处以8.87亿美元罚款，原因是其在安卓平台上对用户数据的访问和处理违反当地隐私法规。调查认为Meta未能充分告知用户数据用途，且收集范围超出必要限度。此次罚款是欧洲对科技巨头数据合规审查的最新案例，凸显监管机构对用户隐私保护的强硬立场。Meta表示将评估裁决并考虑上诉，事件或影响其在欧洲的运营策略。",
-    "category": "industry"
-  },
-  {
-    "id": "7a80f9675d51b2c85a783688f583909f",
-    "title_en": "Italy fines Meta US$887 million over Android users' data access",
-    "source": "CNA",
-    "url": "https://www.channelnewsasia.com/business/italy-fines-meta-us887-million-over-android-users-data-access-6551816",
-    "published_at": "2026-11-14T13:07:00Z",
-    "fetched_at": "2026-11-15T13:11:34.674Z",
-    "title_zh": "意大利因安卓用户数据访问问题对Meta罚款8.87亿美元",
-    "summary_zh": "意大利监管机构对Meta开出8.87亿美元罚单，指控其在安卓平台上不当访问和处理用户数据，违反当地隐私保护法规。调查发现Meta在数据收集过程中告知不充分，且超出必要范围。这是欧洲对科技巨头数据合规审查的又一重要案例，反映监管机构对用户隐私的强硬态度。Meta表示将评估裁决并可能上诉，该事件或对其在欧洲市场的运营和数据策略产生深远影响。",
-    "category": "industry"
-  },
-  {
-    "id": "ad742c0e23521309a7e04bc69d8c47e6",
-    "title_en": "Would a White CEO Have Been Ousted? Chinese Commentators Claim Jensen Huang Fell Because of His Heritage",
-    "source": "Ibtimes.com.au",
-    "url": "https://www.ibtimes.com.au/jensen-huang-nvidia-exit-heritage-debate-1878567",
-    "published_at": "2026-11-14T13:01:43Z",
-    "fetched_at": "2026-11-15T13:11:34.674Z",
-    "title_zh": "白人CEO会被罢免吗？中国评论员称黄仁勋因族裔背景被迫下台",
-    "summary_zh": "Ibtimes.com.au报道中国评论员对英伟达CEO黄仁勋离职原因的猜测，认为其族裔背景可能是被罢免的因素之一，并质疑若为白人CEO是否会遭遇同样结局。此类言论引发关于科技行业领导层多样性与族裔议题的讨论。文章指出，黄仁勋的离职原因尚无定论，但相关评论反映部分舆论对硅谷族裔平等问题的关注，也提醒企业在高管变动中需透明沟通。",
-    "category": "industry"
-  },
-  {
-    "id": "c546a186cfdbafe1cdd4b8726f25d3a1",
-    "title_en": "A man took a painting left on a Seville street for its gold frame; an auction house said it may be a Sorolla worth an estimated €40,000–€150,000, and he returned it",
-    "source": "The Times of India",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-man-took-a-painting-left-on-a-seville-street-for-its-gold-frame-an-auction-house-identified-it-as-a-sorolla-worth-up-to-150000-and-he-returned-it/articleshow/135826974.cms",
-    "published_at": "2026-11-14T13:00:22Z",
-    "fetched_at": "2026-11-15T13:11:34.674Z",
-    "title_zh": "男子将塞维利亚街头遗弃画作当作金框拿走，拍卖行称可能是价值4万至15万欧元的索罗亚作品，男子已归还",
-    "summary_zh": "据《印度时报》报道，一名男子在塞维利亚街头发现一幅被遗弃的画作，因看中其金色画框而带走。拍卖行鉴定后认为该画可能是西班牙大师索罗亚的作品，估值在4万至15万欧元之间。男子得知后主动归还画作。事件引发对街头遗弃艺术品归属与鉴定问题的讨论，也提醒公众在处理不明物品时需谨慎，避免涉及法律与文化遗产争议。",
-    "category": "industry"
-  },
-  {
-    "id": "6174b8bbbd0dee3ea04085390313bb31",
-    "title_en": "A gadget to make your dumb house smarter",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-    "published_at": "2026-11-14T13:00:00.000Z",
-    "fetched_at": "2026-11-14T21:49:44.375Z",
-    "title_zh": "一款让你的普通住宅变智能的小设备",
-    "summary_zh": "The Verge评测了一款可将普通住宅升级为智能家居的小型设备。该产品通过连接现有家电和开关，实现远程控制和自动化场景，无需大规模改造线路。文章介绍了其安装便捷性、App功能和兼容性，认为它适合租房用户或预算有限的家庭，是入门智能家居的实用选择。",
-    "category": "product"
-  },
-  {
-    "id": "d1f0743fb10e85cc09166d2f39bc1bf2",
-    "title_en": "Beware the New AI-Fueled Ransomware Boom",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-    "published_at": "2026-11-14T13:00:00.000Z",
-    "fetched_at": "2026-11-14T21:49:44.645Z",
-    "title_zh": "警惕由AI驱动的新一轮勒索软件浪潮",
-    "summary_zh": "文章警告AI正推动新一轮勒索软件攻击浪潮。攻击者利用生成式AI提升钓鱼邮件质量、自动化漏洞利用和恶意代码生成效率，使勒索攻击门槛降低、速度加快，企业需强化备份、分段和员工安全意识。",
-    "category": "research"
-  },
-  {
-    "id": "1476c978a1fdd08b062653c6cb42c129",
-    "title_en": "sharedimp added to PyPI",
-    "source": "Pypi.org",
-    "url": "https://pypi.org/project/sharedimp/",
-    "published_at": "2026-11-14T12:53:21Z",
-    "fetched_at": "2026-11-15T13:11:34.674Z",
-    "title_zh": "sharedimp 已发布至 PyPI",
-    "summary_zh": "Python 包索引 PyPI 近日新增 sharedimp 包，开发者可通过 pip 直接安装使用。该工具的具体功能尚未在标题中详述，但此类新包的上线通常意味着 Python 生态又添一款可复用的开发组件。对于关注效率工具与开源生态的技术人员而言，值得进一步查看其文档与源码，评估是否适合纳入现有项目的工作流。",
     "category": "product"
   }
 ]
