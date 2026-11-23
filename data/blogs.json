@@ -1,5 +1,137 @@
 [
   {
+    "id": "199bf5da10990c61df88997892ce6647",
+    "title_en": "四两拨千斤—— Ubuntu kernel eBPF 0day分析 - 腾讯安全应急响应中心",
+    "source": "security.tencent.com",
+    "url": "https://security.tencent.com/index.php/blog/msg/124",
+    "published_at": "2026-11-23T04:50:12.640Z",
+    "fetched_at": "2026-11-23T04:50:12.640Z",
+    "title_zh": "四两拨千斤——Ubuntu kernel eBPF 0day分析",
+    "summary_zh": "本文由腾讯安全应急响应中心发布，深入分析Ubuntu内核中eBPF子系统的一个0day漏洞。文章从eBPF验证器缺陷入手，剖析漏洞成因、触发条件与提权路径，展示如何通过精心构造的BPF程序绕过校验实现越权操作。内容涵盖补丁对比、利用原语分析与缓解措施建议，对内核安全研究与eBPF子系统加固具有较高技术参考价值。",
+    "topic": "security"
+  },
+  {
+    "id": "cc4ff4f3bbf59c10c5d6f0213a0080ce",
+    "title_en": "【漏洞分析】CVE-2017-6178：从补丁对比到Exploit",
+    "source": "anquanke.com",
+    "url": "https://www.anquanke.com/post/id/86203",
+    "published_at": "2026-11-23T04:50:12.640Z",
+    "fetched_at": "2026-11-23T04:50:12.640Z",
+    "title_zh": "【漏洞分析】CVE-2017-6178：从补丁对比到Exploit",
+    "summary_zh": "本文以CVE-2017-6178为例，完整演示从补丁对比到Exploit开发的漏洞分析流程。文章先通过比对修复前后的二进制或源码差异定位漏洞点，分析内存破坏类型与触发条件，再逐步构造利用链，讨论绕过缓解机制（如ASLR、DEP）的思路与调试技巧。内容对学习漏洞挖掘、补丁分析与Exploit编写具有实战指导意义。",
+    "topic": "security"
+  },
+  {
+    "id": "c5660821a5cc66a45206e60fb1b31068",
+    "title_en": "NVD - Search and Statistics - NIST",
+    "source": "nvd.nist.gov",
+    "url": "https://nvd.nist.gov/vuln/search",
+    "published_at": "2026-11-23T04:50:11.728Z",
+    "fetched_at": "2026-11-23T04:50:11.728Z",
+    "title_zh": "NVD - 搜索与统计 - NIST",
+    "summary_zh": "NVD（美国国家漏洞数据库）由NIST维护，提供CVE漏洞的检索与统计分析功能。用户可按关键词、CVE编号、CVSS评分、厂商与产品等条件查询漏洞详情，获取CVSS严重性评级、CWE分类、受影响版本范围及参考链接。该平台是安全研究人员进行漏洞跟踪、风险评估与合规审计的重要数据源，支持API与数据feed订阅，便于自动化集成到漏洞管理流程中。",
+    "topic": "security"
+  },
+  {
+    "id": "ee0d40125c30529c0951cea6c58a85d3",
+    "title_en": "Metrics",
+    "source": "cve.org",
+    "url": "https://www.cve.org/about/Metrics",
+    "published_at": "2026-11-23T04:50:11.728Z",
+    "fetched_at": "2026-11-23T04:50:11.728Z",
+    "title_zh": "指标",
+    "summary_zh": "该页面介绍CVE项目使用的漏洞评分与分类指标，包括CVSS各版本评分体系、CWE弱点分类以及CVE记录的结构化字段说明。内容帮助安全从业者理解漏洞严重性评估方法、指标含义与计算方式，便于在漏洞管理、风险优先级排序与合规报告中正确使用这些标准化指标，提升漏洞数据的可比性与自动化处理效率。",
+    "topic": "security"
+  },
+  {
+    "id": "d750cd4d8479c570a9185eb98772b74f",
+    "title_en": "CVE - Vulnerability Database",
+    "source": "vuldb.com",
+    "url": "https://vuldb.com/zh/cve",
+    "published_at": "2026-11-23T04:50:11.728Z",
+    "fetched_at": "2026-11-23T04:50:11.728Z",
+    "title_zh": "CVE - 漏洞数据库",
+    "summary_zh": "VulDB是一个综合漏洞数据库，收录CVE编号漏洞及关联的利用信息、威胁情报与修复建议。平台提供漏洞详情、CVSS评分、受影响产品版本、PoC与Exploit引用，并支持按厂商、产品与严重性检索。其结构化数据与API便于安全团队进行漏洞监控、资产风险匹配与应急响应，是漏洞管理与威胁分析的重要参考来源。",
+    "topic": "security"
+  },
+  {
+    "id": "b3323bf93e443c29d373aa9a0900d1b0",
+    "title_en": "Docker性能优化：让容器跑得更快 - 腾讯云",
+    "source": "developer.cloud.tencent.com",
+    "url": "https://developer.cloud.tencent.com/article/2595679",
+    "published_at": "2026-11-23T04:50:11.727Z",
+    "fetched_at": "2026-11-23T04:50:11.727Z",
+    "title_zh": "Docker性能优化：让容器跑得更快",
+    "summary_zh": "本文聚焦Docker容器性能优化实践，从镜像分层与构建缓存、存储驱动选择、资源限制（CPU/内存）配置、网络模式调优等方面给出具体方案。文章还介绍如何通过精简基础镜像、减少层数、启用BuildKit加速构建，以及利用cgroups与监控工具定位性能瓶颈，帮助运维与开发人员提升容器启动速度与运行效率，适用于生产环境部署调优。",
+    "topic": "ops"
+  },
+  {
+    "id": "604b82cbddf294dfc5eff29f5a0c9775",
+    "title_en": "Docker 原理新手指南：一文看懂Docker 是什么?",
+    "source": "redhat.com",
+    "url": "https://www.redhat.com/zh-cn/topics/containers/what-is-docker",
+    "published_at": "2026-11-23T04:50:11.727Z",
+    "fetched_at": "2026-11-23T04:50:11.727Z",
+    "title_zh": "Docker原理新手指南：一文看懂Docker是什么",
+    "summary_zh": "本文面向初学者系统讲解Docker的核心原理，包括镜像分层、容器与虚拟机的差异、命名空间与cgroups实现的隔离机制，以及Dockerfile构建流程与镜像仓库的使用。文章通过概念图解与命令示例帮助读者理解容器化的工作方式，掌握镜像、容器、数据卷与网络等基础组件，为后续学习Kubernetes与CI/CD实践打下基础。",
+    "topic": "ops"
+  },
+  {
+    "id": "827a3ecc5cbb60f1328f229694343d59",
+    "title_en": "优化Docker 容器性能：解决性能慢问题",
+    "source": "developer.baidu.com",
+    "url": "https://developer.baidu.com/article/details/2805012",
+    "published_at": "2026-11-23T04:50:11.727Z",
+    "fetched_at": "2026-11-23T04:50:11.727Z",
+    "title_zh": "优化Docker容器性能：解决性能慢问题",
+    "summary_zh": "本文针对Docker容器运行缓慢的常见问题，分析镜像体积过大、存储驱动效率低、资源竞争与网络配置不当等根因，并给出优化措施。内容包括多阶段构建精简镜像、合理设置CPU与内存限制、选择overlay2存储驱动、优化日志与临时文件写入，以及借助监控工具排查I/O与网络瓶颈，帮助运维人员系统性提升容器性能与资源利用率。",
+    "topic": "ops"
+  },
+  {
+    "id": "19a7bc2bbb0064aeab3e035fd4b75f62",
+    "title_en": "中金：2026年大模型在强化学习、上下文工程等方面将取得更多突破",
+    "source": "news.qq.com",
+    "url": "https://news.qq.com/rain/a/20260205A01OWA00",
+    "published_at": "2026-11-23T04:50:10.918Z",
+    "fetched_at": "2026-11-23T04:50:10.918Z",
+    "title_zh": "中金：2026年大模型在强化学习、上下文工程等方面将取得更多突破",
+    "summary_zh": "中金公司研报指出，2026年大模型技术演进将聚焦强化学习与上下文工程两大方向。强化学习方面，RLHF与可验证奖励机制将进一步提升模型推理与对齐能力；上下文工程则围绕长上下文窗口管理、检索增强生成（RAG）与记忆机制优化展开，以降低推理成本并提升复杂任务表现。报告还分析了头部厂商在Agent编排、多模态融合上的布局，对技术选型与产业落地具有参考价值。",
+    "topic": "ai"
+  },
+  {
+    "id": "94f96395fe8ea6058ac50af0d6d38031",
+    "title_en": "2026 年全球头部大模型品牌发展情况深度分析",
+    "source": "sohu.com",
+    "url": "https://www.sohu.com/a/1046205511_120494817",
+    "published_at": "2026-11-23T04:50:10.918Z",
+    "fetched_at": "2026-11-23T04:50:10.918Z",
+    "title_zh": "2026年全球头部大模型品牌发展情况深度分析",
+    "summary_zh": "本文系统梳理2026年全球头部大模型品牌的发展格局，对比OpenAI、Google、Anthropic及国内厂商在模型能力、参数规模、多模态支持与生态建设上的差异。文章从训练算力、数据策略、开源与闭源路线、商业化落地等维度展开分析，并探讨Agent化、推理成本下降对竞争态势的影响，为技术团队评估模型选型与跟踪行业趋势提供参考。",
+    "topic": "ai"
+  },
+  {
+    "id": "58135923bb24d7086962b38e2e5e4a34",
+    "title_en": "AI自主Agent开发框架选型指南与评估实践",
+    "source": "cloud.baidu.com",
+    "url": "https://cloud.baidu.com/article/9455075",
+    "published_at": "2026-11-23T04:50:10.918Z",
+    "fetched_at": "2026-11-23T04:50:10.918Z",
+    "title_zh": "AI自主Agent开发框架选型指南与评估实践",
+    "summary_zh": "本文面向AI Agent开发实践，系统对比主流自主Agent框架在任务规划、工具调用、记忆管理与多Agent协作等方面的能力差异。文章提出涵盖可扩展性、可观测性、调试支持、生态集成与部署成本的评估维度，并结合实际项目给出选型建议与落地注意事项，帮助开发者根据业务场景选择合适框架，降低Agent系统构建与维护的复杂度。",
+    "topic": "ai"
+  },
+  {
+    "id": "bad0dac841a4d3c88df62689a7a5b459",
+    "title_en": "AIGeniusInstitute/AI-Agent-In-Action: AI Agent 开发实战",
+    "source": "github.com",
+    "url": "https://github.com/AIGeniusInstitute/AI-Agent-In-Action",
+    "published_at": "2026-11-23T04:50:10.918Z",
+    "fetched_at": "2026-11-23T04:50:10.918Z",
+    "title_zh": "AIGeniusInstitute/AI-Agent-In-Action：AI Agent 开发实战",
+    "summary_zh": "该GitHub仓库提供AI Agent开发的实战代码与教程，覆盖Agent核心架构、工具调用、规划与记忆机制、多Agent协作等关键主题。项目以可运行示例演示如何基于主流LLM构建任务型Agent，并包含提示工程、函数调用与工作流编排的实践技巧，适合开发者通过动手实践深入理解Agent系统设计，快速搭建原型并迁移到实际业务场景。",
+    "topic": "ai"
+  },
+  {
     "id": "3b95a79e1664bcf4927417ac85923244",
     "title_en": "Linux内核新版本安全漏洞深度探究与分析",
     "source": "my.oschina.net",
@@ -2065,138 +2197,6 @@
     "fetched_at": "2026-11-20T23:30:55.850Z",
     "title_zh": "【AI Agent全套实战教程】从0搭建企业级智能体！Workflow",
     "summary_zh": "一套完整的AI Agent实战教程，从零讲解企业级智能体的搭建流程。内容涵盖Workflow编排、工具调用、记忆管理、多Agent协作等核心机制，结合具体案例演示如何将LLM能力封装为可落地的业务流程自动化方案，适合希望将Agent技术应用于生产环境的开发者系统学习。",
-    "topic": "ai"
-  },
-  {
-    "id": "e3daf32d0fda52331dd0e77bab5d5e75",
-    "title_en": "Linux学习路线（学+测） - 阿里云开发者社区",
-    "source": "edu.aliyun.com",
-    "url": "https://edu.aliyun.com/roadmap/linux",
-    "published_at": "2026-11-20T23:30:55.850Z",
-    "fetched_at": "2026-11-20T23:30:55.850Z",
-    "title_zh": "Linux学习路线（学+测） - 阿里云开发者社区",
-    "summary_zh": "面向Linux初学者与进阶者的系统化学习路线，覆盖命令行基础、文件系统、进程管理、网络配置、Shell脚本等核心知识模块，并配套阶段性测试题以检验掌握程度。内容由浅入深，兼顾理论学习与动手实践，适合运维工程师和开发人员构建扎实的Linux基础能力体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "8f19acb28c8910eac63efc38d92842f5",
-    "title_en": "mingongge/BestSRE: Linux 运维工程师打怪升级进阶成神之路",
-    "source": "github.com",
-    "url": "https://github.com/mingongge/BestSRE",
-    "published_at": "2026-11-20T23:30:55.850Z",
-    "fetched_at": "2026-11-20T23:30:55.850Z",
-    "title_zh": "mingongge/BestSRE: Linux运维工程师打怪升级进阶成神之路",
-    "summary_zh": "一份面向SRE与Linux运维工程师的进阶知识图谱，系统整理从基础命令、服务管理到高可用架构、自动化运维、故障排查与性能优化的成长路径。内容以实战经验为导向，涵盖监控告警、容量规划、变更管理等SRE核心实践，帮助运维人员构建完整的技能体系并提升生产环境问题处理能力。",
-    "topic": "ops"
-  },
-  {
-    "id": "8b33f7dc17be50cfafeb5faa3d1bcf52",
-    "title_en": "Android安全补丁级别≠安全：从SPL到内核，如何评估真实暴露面 - 社区",
-    "source": "bbs.csdn.net",
-    "url": "https://bbs.csdn.net/weixin_28568819/article/details/100742000",
-    "published_at": "2026-11-20T14:38:23.477Z",
-    "fetched_at": "2026-11-20T14:38:23.477Z",
-    "title_zh": "Android安全补丁级别≠安全：从SPL到内核，如何评估真实暴露面",
-    "summary_zh": "本文深入分析Android安全补丁级别（SPL）与实际安全状态之间的差距，指出仅凭SPL无法准确反映设备的真实暴露面。文章从内核补丁、厂商定制、HAL层漏洞与供应链风险等角度，讲解如何系统性评估Android设备的攻击面，并提出结合CVE追踪、内核版本比对与运行时防护的综合评估方法，为移动安全加固提供实践指导。",
-    "topic": "security"
-  },
-  {
-    "id": "07316794312f88ad2652b8b0f70ebe06",
-    "title_en": "主机安全运维流程中的操作系统内核漏洞动态热补丁与实时防护流程",
-    "source": "zhuji.idocdown.com",
-    "url": "https://zhuji.idocdown.com/app/articles/blogs/detail/8558",
-    "published_at": "2026-11-20T14:38:23.477Z",
-    "fetched_at": "2026-11-20T14:38:23.477Z",
-    "title_zh": "主机安全运维中的操作系统内核漏洞动态热补丁与实时防护流程",
-    "summary_zh": "本文探讨主机安全运维中针对操作系统内核漏洞的动态热补丁与实时防护流程。文章分析热补丁技术原理及其在不重启系统前提下修复内核漏洞的适用场景，结合实时防护机制讲解从漏洞情报获取、补丁验证、灰度部署到回滚的完整运维流程，并讨论热补丁与常规补丁管理的协同策略，帮助运维团队在保障业务连续性的同时降低内核漏洞暴露风险。",
-    "topic": "security"
-  },
-  {
-    "id": "b9e7e28079f69731b8a14c6534956db3",
-    "title_en": "从可观测性到AIOps 自动化的演进之路",
-    "source": "redhat.com",
-    "url": "https://www.redhat.com/zh-cn/topics/automation/observability-to-aiops-automation",
-    "published_at": "2026-11-20T14:38:23.477Z",
-    "fetched_at": "2026-11-20T14:38:23.477Z",
-    "title_zh": "从可观测性到AIOps自动化的演进之路",
-    "summary_zh": "本文梳理从传统可观测性体系向AIOps自动化演进的路径，分析指标、日志、追踪三大支柱在数据采集与关联分析上的实践挑战。文章探讨如何引入机器学习实现异常检测、根因定位与告警降噪，并结合自动化编排构建闭环运维流程，同时讨论落地过程中的数据质量、模型可解释性与组织协作等关键问题，为运维智能化转型提供参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "df36145b7805447f888d35a4d34a8ee0",
-    "title_en": "这一年我们上线的运维自动化系统",
-    "source": "cnblogs.com",
-    "url": "https://www.cnblogs.com/37Y37/p/17945052",
-    "published_at": "2026-11-20T14:38:23.477Z",
-    "fetched_at": "2026-11-20T14:38:23.477Z",
-    "title_zh": "这一年我们上线的运维自动化系统",
-    "summary_zh": "本文复盘一年来团队上线的运维自动化系统建设历程，涵盖配置管理、批量发布、故障自愈与巡检自动化等模块的设计与落地。文章分享架构选型、流程改造与团队协作中的实践经验，剖析自动化推进中遇到的组织阻力与技术债务问题，并总结衡量自动化收益的指标体系，为计划构建运维自动化平台的团队提供可借鉴的实战参考。",
-    "topic": "ops"
-  },
-  {
-    "id": "973c4c078aff510cf664328f3af97691",
-    "title_en": "Linux性能调优实战指南",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/2503_93013170/article/details/150943159",
-    "published_at": "2026-11-20T14:38:22.517Z",
-    "fetched_at": "2026-11-20T14:38:22.517Z",
-    "title_zh": "Linux性能调优实战指南",
-    "summary_zh": "本文聚焦Linux系统性能调优实战，从CPU调度、内存管理、磁盘IO与网络栈四个维度剖析常见性能瓶颈的定位与优化方法。文章介绍top、perf、iostat、sar等工具的组合使用技巧，结合真实案例讲解如何通过内核参数调整、资源隔离与架构优化提升系统吞吐与响应速度，为运维与后端工程师提供可落地的调优思路。",
-    "topic": "ops"
-  },
-  {
-    "id": "d686b89a948cfd392dfe7b47344cd6cf",
-    "title_en": "linux系统分析之工具大全(观测，性能分析等)",
-    "source": "zhuanlan.zhihu.com",
-    "url": "https://zhuanlan.zhihu.com/p/526432016",
-    "published_at": "2026-11-20T14:38:22.517Z",
-    "fetched_at": "2026-11-20T14:38:22.517Z",
-    "title_zh": "Linux系统分析工具大全：观测与性能分析",
-    "summary_zh": "本文系统整理了Linux系统分析与性能观测工具，覆盖CPU、内存、磁盘、网络、进程等子系统的监控与诊断需求。文章按使用场景分类介绍perf、ftrace、eBPF、strace、vmstat等工具的功能与典型用法，并给出从宏观指标到微观追踪的排查路径，帮助工程师构建完整的可观测性工具箱，提升复杂问题的定位效率。",
-    "topic": "ops"
-  },
-  {
-    "id": "1555885bb60e9bda78ecba0582c743c6",
-    "title_en": "从零开始自学《Linux运维工程师》",
-    "source": "bilibili.com",
-    "url": "https://www.bilibili.com/video/BV1Qf4y1376k/",
-    "published_at": "2026-11-20T14:38:21.463Z",
-    "fetched_at": "2026-11-20T14:38:21.463Z",
-    "title_zh": "从零开始自学《Linux运维工程师》",
-    "summary_zh": "本文提供一条从零基础到Linux运维工程师的系统学习路径，涵盖Linux基础命令、Shell脚本、系统管理、网络配置、服务部署与故障排查等核心技能。内容按学习阶段组织，配套实践练习与常见问题解析，强调动手实操与排错思维培养，适合转行人员与初级运维建立完整的知识体系。",
-    "topic": "ops"
-  },
-  {
-    "id": "0cdd9387f4c3ed9dd31d7c598d9a0db8",
-    "title_en": "Linux运维入门教程（☆建议收藏☆） 原创",
-    "source": "blog.csdn.net",
-    "url": "https://blog.csdn.net/younger_china/article/details/125736117",
-    "published_at": "2026-11-20T14:38:21.463Z",
-    "fetched_at": "2026-11-20T14:38:21.463Z",
-    "title_zh": "Linux运维入门教程（建议收藏）",
-    "summary_zh": "本文是一份面向初学者的Linux运维入门教程，系统讲解文件系统、用户权限、进程管理、软件包管理、网络配置与常用服务搭建等基础知识。内容注重命令实操与原理结合，附带大量示例与排错技巧，帮助读者快速建立Linux系统管理的核心能力，为后续深入学习自动化运维与容器化技术打下基础。",
-    "topic": "ops"
-  },
-  {
-    "id": "3d9568ba25b74c32881366fbf8ea0d2c",
-    "title_en": "2026年主流大模型全解析：谁是真正的AI之王？ - DevPress",
-    "source": "devpress.csdn.net",
-    "url": "https://devpress.csdn.net/awstech/6a9164162b83d06f0ec692d6.html",
-    "published_at": "2026-11-20T14:38:21.462Z",
-    "fetched_at": "2026-11-20T14:38:21.462Z",
-    "title_zh": "2026年主流大模型全解析：谁是真正的AI之王？",
-    "summary_zh": "本文系统梳理2026年主流大模型的技术架构与能力边界，从推理性能、上下文长度、多模态支持、成本效率等维度进行横向对比。文章深入分析各模型在代码生成、长文档理解、复杂推理等场景下的实测表现，并结合基准测试数据与真实业务案例，给出面向不同应用场景的选型建议，帮助技术团队在模型能力快速迭代的背景下做出务实的架构决策。",
-    "topic": "ai"
-  },
-  {
-    "id": "a1deb01d8707c902a0bde4b2c986579b",
-    "title_en": "🚨2026大模型排行榜：实测10+主流大模型选型指南",
-    "source": "daxue.taobao.com",
-    "url": "https://daxue.taobao.com/information/detail.jhtml?id=1375&",
-    "published_at": "2026-11-20T14:38:21.462Z",
-    "fetched_at": "2026-11-20T14:38:21.462Z",
-    "title_zh": "2026大模型排行榜：实测10+主流大模型选型指南",
-    "summary_zh": "基于对十余款主流大模型的实际测试，本文提供了一份面向工程落地的选型指南。内容涵盖各模型在推理延迟、吞吐量、API成本、指令遵循、工具调用等关键指标上的量化对比，并针对RAG、Agent、代码辅助等典型应用场景给出推荐组合。文章强调选型需综合考量性能与成本，避免唯榜单论，为团队构建LLM应用提供可操作的决策依据。",
     "topic": "ai"
   }
 ]
