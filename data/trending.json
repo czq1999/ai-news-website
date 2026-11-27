@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-11-27",
+      "summary_zh": "今日GitHub热榜聚焦AI智能体技能框架与工具：Claude技能包、智能体开发方法论、CLI原生集成、两小时训练小模型、插件规范及数据检索基础设施等亮点纷呈。",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "description_en": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "language": "Python",
+          "stars_total": 24625,
+          "stars_today": 1597,
+          "description_zh": "一个用于漏洞挖掘和外部红队工作的 Claude Code 技能包——包含 85 项技能、16 个斜杠命令、覆盖 24 个核心漏洞类别的 681 个已披露报告模式，以及企业身份与基础设施攻击矩阵。"
+        },
+        {
+          "rank": 2,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description_en": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+          "language": "TypeScript",
+          "stars_total": 210956,
+          "stars_today": 1046,
+          "description_zh": "让你的智能体更聪明的知识基础设施。通过一个 API 搜索、抓取并访问 550+ 数据提供商。"
+        },
+        {
+          "rank": 3,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description_en": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars_total": 73858,
+          "stars_today": 955,
+          "description_zh": "面向 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid、Qoder 和 Pi 的编辑级图表设计。52 种图表类型。自包含 HTML + SVG。无阴影。拒绝 Mermaid 式粗制滥造。"
+        },
+        {
+          "rank": 4,
+          "name": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "description_en": "The only downloader you need. 下载器的集大成者。",
+          "language": "Python",
+          "stars_total": 19133,
+          "stars_today": 889,
+          "description_zh": "你唯一需要的下载器。下载器的集大成者。"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description_en": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars_total": 327504,
+          "stars_today": 854,
+          "description_zh": "一个行之有效的智能体技能框架与软件开发方法论。"
+        },
+        {
+          "rank": 6,
+          "name": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description_en": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+          "language": "Python",
+          "stars_total": 16947,
+          "stars_today": 774,
+          "description_zh": "AutoClip｜开源的 OpusClip 替代方案——本地优先的 AI 剪辑与 MCP 服务器，零订阅。一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。"
+        },
+        {
+          "rank": 7,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars_total": 75765,
+          "stars_today": 759,
+          "description_zh": "一个 AI 智能体技能，可跨 Reddit、X、YouTube、HN、Polymarket 和网络研究任何主题——然后综合出一份有依据的摘要"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars_total": 66376,
+          "stars_today": 746,
+          "description_zh": "“CLI-Anything：让所有软件都成为智能体原生”——CLI-Hub：https://clianything.cc/"
+        },
+        {
+          "rank": 9,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description_en": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+          "language": "Python",
+          "stars_total": 71653,
+          "stars_today": 702,
+          "description_zh": "🧠 两小时从 0 训出你的 64M 大模型。两小时从零开始训练你自己的 64M 大语言模型。"
+        },
+        {
+          "rank": 10,
+          "name": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "description_en": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "language": "Shell",
+          "stars_total": 7043,
+          "stars_today": 562,
+          "description_zh": "避免常见的 App Store 和 Google Play 拒审。开放手册与提交前防护，包含 125 个已记录的拒审模式及修复方案、隐私清单与数据安全核查、117 个跟踪截止日期（欧盟 AI 法案、DSA、COPPA、年龄法律），以及一个面向 AI 编码智能体的技能。"
+        },
+        {
+          "rank": 11,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description_en": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+          "language": "TypeScript",
+          "stars_total": 78982,
+          "stars_today": 525,
+          "description_zh": "不止于 Notion 和 Miro。AFFiNE（发音为 [ə‘fain]）是新一代知识库，将规划、整理和创作融为一体。隐私优先、开源、可定制且开箱即用。"
+        },
+        {
+          "rank": 12,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description_en": "The open-source agent for CI/CD reliability.",
+          "language": "Python",
+          "stars_total": 15831,
+          "stars_today": 327,
+          "description_zh": "面向 CI/CD 可靠性的开源智能体。"
+        },
+        {
+          "rank": 13,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars_total": 13295,
+          "stars_today": 309,
+          "description_zh": "一个专为配合 Stitch MCP 服务器使用而设计的智能体技能库。每项技能都遵循 Agent Skills 开放标准，以兼容 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体。"
+        },
+        {
+          "rank": 14,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description_en": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars_total": 19792,
+          "stars_today": 270,
+          "description_zh": "Cursor 插件规范与官方插件"
+        },
+        {
+          "rank": 15,
+          "name": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "description_en": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+          "language": "C++",
+          "stars_total": 12823,
+          "stars_today": 176,
+          "description_zh": "OpenVINO™ 是一个用于优化和部署 AI 推理的开源工具包"
+        },
+        {
+          "rank": 16,
+          "name": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "description_en": "The official NGINX Open Source repository.",
+          "language": "C",
+          "stars_total": 33528,
+          "stars_today": 150,
+          "description_zh": "NGINX 官方开源仓库。"
+        }
+      ]
+    },
+    {
       "date": "2026-11-26",
       "summary_zh": "今日GitHub热榜聚焦AI智能体技能生态：Claude技能包、智能体框架、插件规范及数据检索工具涌现，同时轻量LLM训练与AI推理优化受关注。",
       "projects": [
@@ -4371,152 +4537,6 @@
           "stars_total": 7966,
           "stars_today": 240,
           "description_zh": "开源 AI 同事，每个都拥有自己的计算机：浏览器、文件和工具，每个操作在执行前都会先确定、执行后都会被记录。可接入任意 AG-UI 智能体。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "summary_zh": "今日GitHub热榜聚焦AI智能体与编码工具：JetBrains推出轻量IDE，多款AI设计技能框架涌现，强调反AI套路设计，开源AI代理与本地化团队协作工作区成为亮点。",
-      "projects": [
-        {
-          "rank": 1,
-          "name": "HKUDS/DeepTutor",
-          "url": "https://github.com/HKUDS/DeepTutor",
-          "description_en": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-          "language": "Python",
-          "stars_total": 47845,
-          "stars_today": 2376,
-          "description_zh": "DeepTutor：终身个性化辅导。https://deeptutor.info/。"
-        },
-        {
-          "rank": 2,
-          "name": "Nutlope/hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "language": "CSS",
-          "stars_total": 40597,
-          "stars_today": 2109,
-          "description_zh": "适用于 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计技能。"
-        },
-        {
-          "rank": 3,
-          "name": "elayadesign/ai-design-skills",
-          "url": "https://github.com/elayadesign/ai-design-skills",
-          "description_en": "",
-          "language": "",
-          "stars_total": 11013,
-          "stars_today": 1938,
-          "description_zh": ""
-        },
-        {
-          "rank": 4,
-          "name": "togg53192-cmd/jailbreaks",
-          "url": "https://github.com/togg53192-cmd/jailbreaks",
-          "description_en": "LIST OF ALL MY JAILBREAKS",
-          "language": "",
-          "stars_total": 6985,
-          "stars_today": 1478,
-          "description_zh": "我的所有越狱列表"
-        },
-        {
-          "rank": 5,
-          "name": "pbakaus/impeccable",
-          "url": "https://github.com/pbakaus/impeccable",
-          "description_en": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-          "language": "Rust",
-          "stars_total": 92462,
-          "stars_today": 1471,
-          "description_zh": "为你的编码代理打造的设计词汇。用 polish 和 bolder 来引导，用 critique 和 audit 来审查，在 AI 垃圾上线前将其拦截。"
-        },
-        {
-          "rank": 6,
-          "name": "hmjz100/LinkSwift",
-          "url": "https://github.com/hmjz100/LinkSwift",
-          "description_en": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-          "language": "JavaScript",
-          "stars_total": 34373,
-          "stars_today": 1380,
-          "description_zh": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
-        },
-        {
-          "rank": 7,
-          "name": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "description_en": "An agentic skills framework & software development methodology that works.",
-          "language": "Shell",
-          "stars_total": 307364,
-          "stars_today": 1096,
-          "description_zh": "一个行之有效的代理技能框架和软件开发方法论。"
-        },
-        {
-          "rank": 8,
-          "name": "JetBrains/thinkrail",
-          "url": "https://github.com/JetBrains/thinkrail",
-          "description_en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-          "language": "TypeScript",
-          "stars_total": 4968,
-          "stars_today": 1075,
-          "description_zh": "在轻量级、真正的 IDE 中用 pi 进行氛围编程，它会根据你的工作方式自我定制——你所需的氛围"
-        },
-        {
-          "rank": 9,
-          "name": "nightly-labs/openbot",
-          "url": "https://github.com/nightly-labs/openbot",
-          "description_en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-          "language": "TypeScript",
-          "stars_total": 3175,
-          "stars_today": 1053,
-          "description_zh": "一个本地优先的桌面工作空间，用于持久化 AI 队友。通过专用工作空间、任务队列、文件共享、浏览器控制和代理间协作来运行 Codex、Claude 和 Grok。"
-        },
-        {
-          "rank": 10,
-          "name": "makecindy/cindy",
-          "url": "https://github.com/makecindy/cindy",
-          "description_en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-          "language": "TypeScript",
-          "stars_total": 8025,
-          "stars_today": 740,
-          "description_zh": "想到，就能做到。开源、开箱即用的 AI Agent。"
-        },
-        {
-          "rank": 11,
-          "name": "ruvnet/RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "description_en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-          "language": "Rust",
-          "stars_total": 100956,
-          "stars_today": 596,
-          "description_zh": "π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——全程无需任何视频像素。"
-        },
-        {
-          "rank": 12,
-          "name": "xiaolai/the-craft-of-selfteaching",
-          "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
-          "description_en": "One has no future if one couldn't teach themself.",
-          "language": "Jupyter Notebook",
-          "stars_total": 18459,
-          "stars_today": 295,
-          "description_zh": "不会自学的人没有未来。"
-        },
-        {
-          "rank": 13,
-          "name": "expo/skills",
-          "url": "https://github.com/expo/skills",
-          "description_en": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-          "language": "Shell",
-          "stars_total": 3535,
-          "stars_today": 216,
-          "description_zh": "一套用于处理 Expo 项目和 Expo 应用服务的 AI 智能体技能集合"
-        },
-        {
-          "rank": 14,
-          "name": "macro-inc/macro",
-          "url": "https://github.com/macro-inc/macro",
-          "description_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-          "language": "Rust",
-          "stars_total": 5375,
-          "stars_today": 106,
-          "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、智能体、通话和 CRM——通过共享 AI 记忆以 @ 关联在一起。"
         }
       ]
     }
